@@ -1,0 +1,5634 @@
+{
+  "metaData": {},
+  "books": [
+    {
+      "id": 1,
+      "name": {
+        "english": "Kitab ul Taharat",
+        "arabic": "كتاب الطهارة"
+      },
+      "bookSlug": "kitab-ul-taharat",
+      "summary": "",
+      "description": {
+        "english": "'Kitab al-Salat' in Bulugh al-Maram is a compilation of Hadiths related to prayer (Salat). It covers topics such as ablution, call to prayer, prayer timings, congregational prayer, and Sunnah acts. Imam Ibn Hajar al-Asqalani selected authentic narrations and arranged them in a legal framework. This book is highly valuable for students of Fiqh and Hadith due to its clarity and authenticity.",
+        "urdu": "کتاب الصلاۃ بلوغ المرام کی وہ کتاب ہے جس میں نماز سے متعلق احادیث کو جمع کیا گیا ہے۔ یہ کتاب وضو، اذان، نماز کے اوقات، جماعت، اور سنتوں کے مسائل کو جامع انداز میں پیش کرتی ہے۔ امام ابن حجر عسقلانی نے صحیح احادیث کا انتخاب کر کے فقہی ترتیب سے پیش کیا ہے۔ یہ کتاب فقہ اور حدیث کے طالب علموں کے لیے انتہائی مفید اور معتبر ماخذ ہے۔"
+      },
+
+      "chapters": [
+        {
+          "name": { "arabic": "", "english": "" }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": {
+        "english": "Kitab ul Salat",
+        "arabic": "كتاب الصلاة"
+      },
+      "bookSlug": "kitab-ul-salat",
+      "description": {
+        "english": "is a collection of Hadiths about prayer (Salat), including topics like ablution, call to prayer, and prayer timings. Imam Ibn Hajar al-Asqalani selected authentic narrations and presented them in a legal framework.",
+        "urdu": "کتاب الصلاۃ بلوغ المرام کی وہ کتاب ہے جس میں نماز سے متعلق احادیث کو جمع کیا گیا ہے۔ یہ کتاب وضو، اذان، نماز کے اوقات، جماعت، اور سنتوں کے مسائل کو جامع انداز میں پیش کرتی ہے۔ امام ابن حجر عسقلانی نے صحیح احادیث کا انتخاب کر کے فقہی ترتیب سے پیش کیا ہے۔ یہ کتاب فقہ اور حدیث کے طالب علموں کے لیے انتہائی مفید اور معتبر ماخذ ہے۔"
+      },
+      "summary": {
+        "urdu": [
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa ",
+          "Urdu Kitab usalat khulasa "
+        ],
+        "english": [
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line ",
+          "kitab ul salat summary line "
+        ]
+      },
+      "chapters": [
+        {
+          "id": 1,
+          "name": {
+            "arabic": "باب أوقات الصلاة",
+            "english": "The Times Of Salat",
+            "urdu": "نماز کے اوقات"
+          },
+          "chapterSlug": "bab-ul-aukat",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": [
+                  {
+                    "sectionTitle": {
+                      "urdu": "کتاب الصلاة (نماز کی کتاب) کا تعارف",
+                      "english": "Introduction to Kitab ul Salat"
+                    },
+                    "sectionData": {
+                      "points": [
+                        {
+                          "title": {
+                            "urdu": "اصطلاحات کی وضاحت",
+                            "english": "Summary of Phrases"
+                          },
+                          "content": {
+                            "urdu": [
+                              "کتاب: مختلف نمازوں کے مسائل جیسے فرض، نفل، کسوف، خسوف، بارش کی نماز وغیرہ",
+                              "باب: کسی خاص مسئلے پر فوکس کرتا ہے",
+                              "فصل: متعلقہ مسائل پر مشتمل سیکشن"
+                            ],
+                            "english": [
+                              "Kitab: Covers various issues like obligatory, optional, eclipse, rain prayers, etc.",
+                              "Bab: Focuses on a specific issue",
+                              "Fasl: A section consisting of related matters"
+                            ]
+                          }
+                        },
+                        {
+                          "title": {
+                            "urdu": "نماز کی اہمیت",
+                            "english": "Importance of Prayer"
+                          },
+                          "content": {
+                            "urdu": [
+                              "کلمہ شہادت کے بعد اسلام کا سب سے افضل رکن",
+                              "اللہ کی طرف سے براہِ راست مقرر کی گئی",
+                              "سات آسمانوں سے بالا تر مقرر کی گئی",
+                              "شروع میں پچاس نمازیں، بعد میں پانچ",
+                              "نماز ترک کرنا کفر کی طرف لے جا سکتا ہے"
+                            ],
+                            "english": [
+                              "The most important pillar of Islam after the testimony of faith",
+                              "Appointed directly by Allah without any intermediary",
+                              "Established above the seven heavens",
+                              "Initially fifty prayers, reduced to five",
+                              "Abandoning prayer may lead to disbelief"
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "sectionTitle": {
+                      "urdu": "نماز کے اوقات (باب المواقیت)",
+                      "english": "Timings of Prayers (Bab al-Mawaqeet)"
+                    },
+                    "sectionData": {
+                      "points": [
+                        {
+                          "title": {
+                            "urdu": "وقت کی اہمیت",
+                            "english": "Importance of Time"
+                          },
+                          "content": {
+                            "urdu": [
+                              "نماز مقررہ وقت پر ادا کرنا فرض ہے",
+                              "قرآن میں اوقات عمومی، حدیث میں تفصیل موجود ہے"
+                            ],
+                            "english": [
+                              "It is obligatory to offer prayer at its appointed time",
+                              "The Quran gives general timings; Hadith explains them in detail"
+                            ]
+                          }
+                        },
+                        {
+                          "title": {
+                            "urdu": "نمازوں کے اوقات",
+                            "english": "Prayer Timings"
+                          },
+                          "content": {
+                            "urdu": [
+                              "ظہر: سورج کے ڈھلنے کے بعد شروع ہوتی ہے، جب سایہ برابر ہو جائے تو ختم",
+                              "عصر: سایہ برابر ہو تو شروع، سورج کے زرد ہونے تک جاری",
+                              "مغرب: غروب آفتاب کے بعد شروع، مغربی سرخی ختم ہونے تک جاری",
+                              "عشاء: مغربی سرخی ختم ہونے پر شروع، آدھی رات تک پڑھ سکتے ہیں",
+                              "فجر: سحرِ حقیقی پر شروع، طلوعِ آفتاب سے پہلے ختم"
+                            ],
+                            "english": [
+                              "Dhuhr: Starts after the sun declines, ends when the shadow equals length",
+                              "Asr: Starts when shadow equals height, ends before sun turns yellow",
+                              "Maghrib: Begins after sunset, ends when red twilight disappears",
+                              "Isha: Starts after red twilight, valid until midnight",
+                              "Fajr: Starts at true dawn, ends before sunrise"
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "sectionTitle": {
+                      "urdu": "نبی ﷺ کی نماز کے طریقے",
+                      "english": "The Prophet's ﷺ Prayer Method"
+                    },
+                    "sectionData": {
+                      "points": [
+                        {
+                          "title": {
+                            "urdu": "ٹائمنگ کی ترجیحات",
+                            "english": "Timing Preferences"
+                          },
+                          "content": {
+                            "urdu": [
+                              "عصر جلدی ادا کی جاتی تاکہ لوگ روشنی میں واپس جا سکیں",
+                              "عائشہ رضی اللہ عنہا تاخیر کو افضل سمجھتی تھیں مگر جماعت کو مدنظر رکھتی تھیں",
+                              "فجر اندھیرے میں ادا کی جاتی اور 60 سے 100 آیات تلاوت کی جاتیں"
+                            ],
+                            "english": [
+                              "Asr was offered early so people could return in daylight",
+                              "Aisha (RA) preferred delaying but considered the congregation",
+                              "Fajr was prayed in darkness, with 60–100 verses recited"
+                            ]
+                          }
+                        },
+                        {
+                          "title": {
+                            "urdu": "اضافی ہدایات",
+                            "english": "Additional Guidelines"
+                          },
+                          "content": {
+                            "urdu": [
+                              "عشاء سے پہلے سونا ناپسندیدہ تھا",
+                              "عشاء کے بعد فضول بات چیت ناپسند تھی",
+                              "جماعت کی سہولت کے مطابق اوقات میں نرمی کی جاتی تھی"
+                            ],
+                            "english": [
+                              "Sleeping before Isha was disliked",
+                              "Idle talk after Isha was discouraged",
+                              "Prayer timings were adjusted for the congregation’s ease"
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "sectionTitle": {
+                      "urdu": "کرنے کے کام",
+                      "english": "Action Points"
+                    },
+                    "sectionData": {
+                      "points": [
+                        {
+                          "title": {
+                            "urdu": "عملی اقدامات",
+                            "english": "Practical Steps"
+                          },
+                          "content": {
+                            "urdu": [
+                              "نماز عصر جلدی ادا کریں، سایہ دوگنا ہونے کا انتظار نہ کریں",
+                              "فجر کی نماز جیسے ہی روشنی ظاہر ہو ادا کریں",
+                              "عشاء کے وقت جماعت کی سہولت کو مدنظر رکھیں",
+                              "نماز میں بلاوجہ تاخیر سے بچیں، صرف عشاء مؤخر کی جا سکتی ہے",
+                              "نبی ﷺ کی سنت کو اپنائیں، بعد کی رائے پر نہ چلیں"
+                            ],
+                            "english": [
+                              "Pray Asr early; do not wait for double shadow",
+                              "Offer Fajr as soon as dawn appears",
+                              "Consider the congregation when setting Isha time",
+                              "Avoid unnecessary delay in prayers except for Isha",
+                              "Follow the Sunnah of the Prophet ﷺ, not later opinions"
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ],
+
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": {
+            "arabic": "باب الأذان",
+            "english": "Al Adhan",
+            "urdu": "الاذان"
+          },
+          "chapterSlug": "bab-ul-azan",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": {
+            "arabic": "باب شروط الصلاة",
+            "english": "The Conditions of Salat",
+            "urdu": "نماز کی شرائط"
+          },
+          "chapterSlug": "bab-ul-sharait",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": {
+            "arabic": "باب سترا الصلاة",
+            "english": "Sutra",
+            "urdu": "سترا"
+          },
+          "chapterSlug": "bab-ul-sutra",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": {
+            "arabic": "باب الخشوع في الصلاة",
+            "english": "Humility In Namaz",
+            "urdu": "نماز میں خشوع"
+          },
+          "chapterSlug": "bab-ul-khushu",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": {
+            "arabic": "باب المساجد",
+            "english": "Mosques",
+            "urdu": "مساجد"
+          },
+          "chapterSlug": "bab-ul-masjid",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": {
+            "arabic": "باب صفة الصلاة",
+            "english": "The Description of Salat",
+            "urdu": "نماز کی تفصیل"
+          },
+          "chapterSlug": "bab-ul-tafseel",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": {
+            "arabic": "باب سجود السهو وغيرها",
+            "english": "Sujud As-Sahw and other matters",
+            "urdu": "سجدہ سہو اور دیگر امور"
+          },
+          "chapterSlug": "bab-ul-sajda-sahw",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": {
+            "arabic": "باب صلاة التطوع",
+            "english": "Voluntary Prayer",
+            "urdu": "رضاکارانہ نماز"
+          },
+          "chapterSlug": "bab-ul-razakarana",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": {
+            "arabic": "باب صلاة الجماعة والإمامة",
+            "english": "Prayer in congregation and the imamate",
+            "urdu": "باجماعت نماز اور امامت"
+          },
+          "chapterSlug": "bab-ul-jamat",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": {
+            "arabic": "باب صلاة المسافر والمريض",
+            "english": "The prayer of a traveler and a sick person",
+            "urdu": "مسافر اور بیمار کی نماز"
+          },
+          "chapterSlug": "bab-ul-musafir-mareez",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": {
+            "arabic": "باب صلاة الجمعة",
+            "english": "Al;Jumu'a Prayer",
+            "urdu": "نماز جمعہ"
+          },
+          "chapterSlug": "bab-ul-jumma",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": {
+            "arabic": "باب صلاة الخوف",
+            "english": "prayer in time of fear",
+            "urdu": "خوف کے وقت نماز"
+          },
+          "chapterSlug": "bab-ul-khauf",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": {
+            "arabic": "باب صلاتا العيدين",
+            "english": " The prayers of the two 'Eid",
+            "urdu": "دو عیدوں کی نماز"
+          },
+          "chapterSlug": "bab-ul-eid",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": {
+            "arabic": "باب صلاة الكسوف",
+            "english": "prayer at an eclipse",
+            "urdu": "سورج گرہن کی نماز"
+          },
+          "chapterSlug": "bab-ul-kusoof",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": {
+            "arabic": "باب صلاة الاستسقاء",
+            "english": "prayer for rain",
+            "urdu": "بارش کی دعا"
+          },
+          "chapterSlug": "bab-ul-istisqa",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": {
+            "arabic": "باب آداب اللباس",
+            "english": "The manners of clothing ",
+            "urdu": "لباس کے آداب"
+          },
+          "chapterSlug": "bab-ul-libas",
+          "summary": {
+            "urdu": [
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa",
+              "bab urdu khulasa"
+            ],
+            "english": [
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary",
+              "chapter english summary"
+            ]
+          },
+          "description": {
+            "urdu": "bab urdu tafseel",
+            "english": "chapter english description"
+          },
+          "hadiths": [
+            {
+              "id": 1,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": {
+                "arabic": "arbi hadees",
+                "english": "english translation",
+                "urdu": "urdu tarjama"
+              },
+              "narrators": [
+                {
+                  "arabic": "Rawi 1",
+                  "english": "Narrator one",
+                  "narratorSlug": "abu-huraira"
+                },
+                {
+                  "arabic": "Rawi 2",
+                  "english": "Narrator two"
+                }
+              ],
+              "references": [
+                {
+                  "arabic": "ek",
+                  "english": "sahih-bukhri"
+                },
+                {
+                  "arabic": "do",
+                  "english": "tirmidi"
+                },
+                {
+                  "arabic": "teen",
+                  "english": "muslim"
+                }
+              ],
+              "summary": {
+                "urdu": "hadees urdu khulasa",
+                "english": "hadith english summary"
+              },
+              "explanation": {
+                "urdu": [
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  },
+                  {
+                    "heading": "Urdu",
+                    "paragraph": "this is urdu para in urdu"
+                  }
+                ],
+                "english": [
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  },
+                  {
+                    "heading": "English",
+                    "paragraph": "para in english, english , english"
+                  }
+                ]
+              },
+              "importantWords": [
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                },
+                {
+                  "arabic": "lafz arbi",
+                  "english": "lafz translation",
+                  "urdu": "lafz tarjama"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": {
+        "english": "Kitab ul janaiz",
+        "arabic": "كتاب الجنائز"
+      },
+      "bookSlug": "kitab-ul-janaiz"
+    },
+    {
+      "id": 4,
+      "name": {
+        "english": "Kitab ul zakat",
+        "arabic": "كتاب الزكاة"
+      },
+      "bookSlug": "kitab-ul-zakat"
+    },
+    {
+      "id": 5,
+      "name": {
+        "english": "Kitab ul siyam",
+        "arabic": "كتاب الصيام (الصيام)"
+      },
+      "bookSlug": "kitab-ul-siyam"
+    },
+    {
+      "id": 6,
+      "name": {
+        "english": "Kitab ul haj",
+        "arabic": "كتاب الحج (الحج)"
+      },
+      "bookSlug": "kitab-ul-haj"
+    },
+    {
+      "id": 7,
+      "name": {
+        "english": "Kitab ul tijarat",
+        "arabic": "كتاب المعاملات التجارية"
+      },
+      "bookSlug": "kitab-ul-tijarat"
+    },
+    {
+      "id": 8,
+      "name": {
+        "english": "Kitab ul zawaj",
+        "arabic": "كتاب الزواج"
+      },
+      "bookSlug": "kitab-ul-zawaj"
+    },
+    {
+      "id": 9,
+      "name": {
+        "english": "Kitab ul jaraim",
+        "arabic": "كتاب الجنايات (الجرائم)"
+      },
+      "bookSlug": "kitab-ul-jaraim"
+    },
+    {
+      "id": 10,
+      "name": {
+        "english": "Kitab ul hudud",
+        "arabic": "كتاب الحدود (العقوبات المقررة)"
+      },
+      "bookSlug": "kitab-ul-hudud"
+    },
+    {
+      "id": 11,
+      "name": {
+        "english": "Kitab ul jihad",
+        "arabic": "كتاب الجهاد"
+      },
+      "bookSlug": "kitab-ul-jihad"
+    },
+    {
+      "id": 12,
+      "name": {
+        "english": "Kitab ul atama",
+        "arabic": "كتاب الأطعمة"
+      },
+      "bookSlug": "kitab-ul-atama"
+    },
+    {
+      "id": 13,
+      "name": {
+        "english": "Kitab ul eman",
+        "arabic": "كتاب الأيمان والنذور"
+      },
+      "bookSlug": "kitab-ul-eman"
+    },
+    {
+      "id": 14,
+      "name": {
+        "english": "Kitab ul hukm",
+        "arabic": "كتاب الحكم"
+      },
+      "bookSlug": "kitab-ul-hukm"
+    },
+    {
+      "id": 15,
+      "name": {
+        "english": "Kitab ul taharar",
+        "arabic": "كتاب التحرر"
+      },
+      "bookSlug": "kitab-ul-taharar"
+    },
+    {
+      "id": 16,
+      "name": {
+        "english": "Kitab ul shamil",
+        "arabic": "الكتاب الشامل"
+      },
+      "bookSlug": "kitab-ul-shamil"
+    }
+  ]
+}

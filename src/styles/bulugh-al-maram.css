@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic:wght@400..700&family=Noto+Sans+Arabic:wght@100..900&family=Vazirmatn:wght@100..900&display=swap');
+
+.single-book-data {
+  text-align: justify;
+}
+.single-book-data-container {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+.single-book-chap-card {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  font-size: 1.2rem;
+}
+
+.urdu {
+  text-align: right !important;
+  /* font-family: "Noto Sans Arabic", sans-serif !important; */
+   font-family: "Vazirmatn", sans-serif !important;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+.urdu.urdu-center {
+  text-align: center !important;
+}
+.arabic {
+  text-align: right !important;
+  font-family: "Noto Naskh Arabic", serif !important;
+}
+.urdu.urdu-heading-center {
+  text-align: center !important;
+  font-weight: bold;
+}
+.arabic.arabic-heading-center {
+  text-align: center !important;
+  font-weight: bold !important;
+}
+a.decor-none {
+  text-decoration: none !important;
+}
+.hadees-bg:hover {
+  background-color: rgb(233, 236, 239);
+  cursor: pointer;
+  transition: all 250ms ease;
+}
+nav.BM-breadcrumb-nav{
+  --bs-breadcrumb-divider: '>' !important;
+}
+.breadcrumb-item.urdu + .urdu.breadcrumb-item::before{
+float: right !important;
+/* padding-right: 0 !important; */
+padding-left: 0.5rem !important;
+}
+.lecture-video-container{
+  display: inline-block !important;
+  width: auto !important;
+  margin: auto !important;
+  max-width: 100%;
+}
+.lecture-video-container iframe{
+  aspect-ratio: 16/9 !important;
+  max-width: 100%;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+  .container .single-book-data-container {
+    flex-direction: column-reverse;
+    padding: 1rem !important;
+  }
+  .kitab-image{
+    width: 70% !important;
+  }
+  .lecture-video-container{
+  }
+  .lecture-video-container iframe {
+    /* max-width:  100% !important; */
+    /* height: 180px !important; */
+    height: auto;
+  }
+}
+
+
+@media only screen and (max-width: 440px) {
+  .container .single-book-data-container {
+    flex-direction: column-reverse;
+    padding: 1rem !important;
+  }
+  .kitab-image{
+    width: 70% !important;
+  }
+  .lecture-video-container{
+  }
+  .lecture-video-container iframe {
+    aspect-ratio: 16/9 !important;
+    width: 100%;
+  }
+}
