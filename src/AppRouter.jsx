@@ -2,7 +2,7 @@ import React from 'react'
 import { createBrowserRouter, Route, Router, Routes, } from 'react-router'
 import App from './App'
 import { BrowserRouter } from 'react-router'
-import Home from './pages/home';
+import Home from './pages/Home';
 import BulughalMaram from './pages/Bulugh-al-Maram';
 import BMSingleBook from './pages/BMSingleBook';
 import BMMain from './pages/BM-main';
