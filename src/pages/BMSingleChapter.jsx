@@ -246,18 +246,6 @@ const PreviousChapter = () => {
             </ul>
           </nav>
         </div>
-        {/* <button
-          class={`btn ${urduText ? "border-success" : "btn-success"}`}
-          onClick={() => setUrduText(false)}
-        >
-          English
-        </button>
-        <button
-          class={`btn ${urduText ? "btn-success" : "border-success"}`}
-          onClick={() => setUrduText(true)}
-        >
-          Urdu
-        </button> */}
 
         <div class="row mb-2">
           <div class="col-12">
@@ -288,9 +276,9 @@ const PreviousChapter = () => {
                     onClick={() => navigate(`${h.id}`)}
                     style={{ cursor: "pointer" }}
                   >
-                    <h4 class=" arabic ">{h.name.arabic}</h4>
+                    <h4 class=" arabic " style={{lineHeight: 2}}>{h.name.arabic}</h4>
                     {urduText ? (
-                      <p class="card-text urdu">{h.name.urdu}</p>
+                      <p class="card-text urdu" style={{lineHeight: 2}}>{h.name.urdu}</p>
                     ) : (
                       <p class="card-text ">{h.name.english}</p>
                     )}

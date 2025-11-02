@@ -93,6 +93,7 @@ padding-left: 0.5rem !important;
     width: 70% !important;
   }
   .lecture-video-container{
+    width: 100%;
   }
   .lecture-video-container iframe {
     aspect-ratio: 16/9 !important;

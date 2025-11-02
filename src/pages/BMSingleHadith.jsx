@@ -166,9 +166,9 @@ function BMSingleHadith() {
         </div>
         <div class="px-4 px-md-5 pt-5  my-4 rounded text-body-emphasis bg-body-secondary">
           <div class="col-lg px-0">
-            <h1 class="display-4 fst-italic arabic">{hadith.name.arabic}</h1>
+            <h3 class=" arabic" style={{lineHeight: 2}}>{hadith.name.arabic}</h3>
             {urduText ? (
-              <p class="lead my-3 urdu">{hadith.name.urdu}</p>
+              <p class="lead my-3 urdu" style={{lineHeight:2}}>{hadith.name.urdu}</p>
             ) : (
               <p class="lead my-3">{hadith.name.english}</p>
             )}
@@ -220,7 +220,7 @@ function BMSingleHadith() {
               <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                 <div class="col p-4 d-flex flex-column position-static">
                   <strong class="d-inline-block mb-2 text-primary-emphasis fs-4 arabic">
-                    العالم
+                    {w.arabic}
                   </strong>
                   <h3 class={`d-inline-block mb-2 fs-5 ${urduText && "urdu"}`}>
                     {urduText ? w.urdu : w.english}{" "}
