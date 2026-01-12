@@ -3,14 +3,17 @@ import { Link } from "react-router";
 import Loading from "../components/Loading";
 
 function BMMain() {
-  const [data, setData] = useState({});
+  const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/assets/bulugh/bulugh-books.json")
+    fetch(
+      "https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books.json"
+    )
       .then((res) => res.json())
       .then((data) => setData(data));
   }, []);
+
 
   useEffect(() => {
     setTimeout(() => {
@@ -19,6 +22,8 @@ function BMMain() {
   }, [data]);
 
   if (loading) return <Loading />;
+
+  if(!data) return <h1 className="m-3 text-center">No Books Found</h1>
   return (
     
     <>
@@ -143,8 +148,7 @@ function BMMain() {
         <div class="container marketing">
           <h1 className="text-center mb-4">
             {!data ? <h1>No Books Found</h1> : "Books"}
-             {/* <small className=" mx-3 float-end arabic"> کتابیں</small> */}
-            {" "}
+            
           </h1>
           <div class="row">
              {data?.map((book, index) => (

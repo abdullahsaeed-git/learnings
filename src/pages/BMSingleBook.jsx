@@ -5,54 +5,11 @@ import Loading from "../components/Loading";
 function BMSingleBook({urduText, setUrduText}) {
   const { bookId } = useParams();
 
-  // const [bookChapterData, setBookChapterData] = useState([]);
-  // const [bookData , setBookData] = useState([]);
-  // const [bookChapters, setBookChapters]  = useState([])
-  // const [book, setBook] = useState(null);
+
   const [loading, setLoading] = useState(true);
   const[bookDetail, setBookDetail] = useState({});
   const[bookName, setBookName] = useState(null);
 
-//   useEffect(() => {
-
-//     try{
-// setLoading(true)
-//       fetch(
-//         `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${bookId}.json`
-//       )
-//         .then((res) => res.json())
-//         .then((data) => setBookDetail(data));
-      
-//       fetch(
-//         `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books.json`
-//       )
-//         .then((res) => res.json())
-//         .then((data) => {
-//           setBookName(data.find((b) => b.id == bookId));
-//         });
-//     } catch(error){
-//       console.error("Error Has been Occurred: " , error)
-//     } finally {
-//       setTimeout(() => {
-//         setLoading(false)
-//       }, 200);
-//     }
-      
-//     // setTimeout(() => {
-//     //   setLoading(false)
-      
-//     // }, 100);
-
-//   }, []);
-
-//   // useEffect(() => {
-//   //   // setTimeout(() => {
-
-      
-//   //   //   setLoading(false);
-//   //   // }, 500);
-//   //   // console.log(book)
-//   // }, [ bookId]);
 
 
 

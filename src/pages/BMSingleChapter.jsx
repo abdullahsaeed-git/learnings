@@ -11,48 +11,7 @@ function BMSingleChapter({urduText, setUrduText}) {
   const navigate = useNavigate();
   const location = useLocation();
 
-  //   useEffect(() => {
-
-  //     try{
-  // setLoading(true)
-  //       fetch(
-  //         `https://abdullahsaeed-git.github.io/my-database//bulugh/chapter-detail/chapter-${chapterId}.json`
-  //       )
-  //         .then((res) => res.json())
-  //         .then((data) => {
-  //           const bookId = data.bookId;
-  //           setChapterDetail(data);
-
-  //           fetch(
-  //             `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${bookId}.json`
-  //           )
-  //             .then((res) => res.json())
-  //             .then((bookDetailData) => {
-  //               setBookDetail(bookDetailData);
-  //               setChapterName(
-  //                 bookDetailData.chapters.find((c) => c.id == chapterId)
-  //               );
-  //             });
-
-  //           fetch(
-  //             `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books/bulugh-books.json`
-  //           )
-  //             .then((res) => res.json())
-  //             .then((bulughBooksData) => {
-  //               setBulughBooks(bulughBooksData);
-  //               setBookName(bulughBooksData.find((b) => b.id == bookId));
-  //             });
-  //         });
-
-  //     }catch(error){
-  //       console.error("Error in Single Chapter: " , error)
-  //     }finally{
-  //       setTimeout(() => {
-  //         setLoading(false);
-
-  //       }, 300);
-  //     }
-  //   }, [location]);
+  
 
   useEffect(() => {
     const fetchData = async () => {

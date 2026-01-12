@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import Loading from "../components/Loading";
 import { Link, Outlet, useNavigate } from "react-router";
 import "../styles/bulugh-al-maram.css";
-// import data from '/assets/bulugh-al-maram.json'
 
 
 function BulughalMaram() {

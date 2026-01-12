@@ -24,63 +24,6 @@ function BMEditHadith({ urduText, setUrduText }) {
   const [enteredPassword, setEnteredPassword ] = useState("");
   const goToURLRef = useRef();
 
-  // useEffect(() => {
-  //   try {
-  //     fetch(
-  //       `https://abdullahsaeed-git.github.io/my-database/bulugh/hadith-detail/hadith-${hadithId}.json`
-  //     )
-  //       .then((res) => res.json())
-  //       .then((data) => {
-  //         setHadithDetail(data);
-  //         setNewHadithDetail(data);
-
-  //         fetch(
-  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/chapter-detail/chap (${data.hadithReferences.chapterId})/chapterDetail.json`
-  //         )
-  //           .then((res) => res.json())
-  //           .then((chapterDetailData) => {
-  //             setChapterDetail(chapterDetailData);
-  //             const hadithName = chapterDetailData.hadiths.find(
-  //               (h) => h.id == hadithId
-  //             );
-  //             setHadithName(hadithName);
-  //             setNewHadithName(hadithName);
-  //           });
-
-  //         fetch(
-  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books.json`
-  //         )
-  //           .then((res) => res.json())
-  //           .then((bulughBooksData) =>
-  //             setBookName(
-  //               bulughBooksData.find(
-  //                 (b) => b.id == data.hadithReferences.inKitab
-  //               )
-  //             )
-  //           );
-
-  //         fetch(
-  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${data.hadithReferences.inKitab}.json`
-  //         )
-  //           .then((res) => res.json())
-  //           .then((bookDetailData) =>
-  //             setChapterName(
-  //               bookDetailData.chapters.find(
-  //                 (c) => c.id == data.hadithReferences.chapterId
-  //               )
-  //             )
-  //           );
-  //       });
-  //   } catch (error) {
-  //     console.error("Error in Single Hadith: ", error);
-  //   } finally {
-  //     setTimeout(() => {
-  //       setLoading(false);
-  //     }, 300);
-  //   }
-
-  //   // console.log(location)
-  // }, [location]);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -126,8 +69,6 @@ function BMEditHadith({ urduText, setUrduText }) {
         setNewHadithName(foundHadithName);
         setBookName(bulughBooksData.find((b) => b.id == kitabId));
         setChapterName(bookDetailData.chapters.find((c) => c.id == chapterId));
-
-        console.log("Found Hadith Name  = " , foundHadithName);
       } catch (error) {
         console.error("Error in Single Hadith: ", error);
       } finally {
@@ -174,12 +115,7 @@ function BMEditHadith({ urduText, setUrduText }) {
                   <h1 class="modal-title fs-5" id="staticBackdropLabel">
                     Enter Password
                   </h1>
-                  {/* <button
-                    type="button"
-                    class="btn-close"
-                    data-bs-dismiss="modal"
-                    aria-label="Close"
-                  ></button> */}
+      
                 </div>
                 <div class="modal-body">
                   <input type="text" className="form-control" value={enteredPassword} onChange={(e) => setEnteredPassword(e.target.value)} />
@@ -198,9 +134,7 @@ function BMEditHadith({ urduText, setUrduText }) {
                   </button>
 
                   <a href={`${window.location.origin}${window.location.pathname}?password=${enteredPassword}`} style={{display: "none"}} ref={goToURLRef}></a>
-                  {/* <button type="button" class="btn btn-primary">
-                    Understood
-                  </button> */}
+                 
                 </div>
               </div>
             </div>

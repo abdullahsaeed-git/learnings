@@ -16,66 +16,6 @@ function BMSingleHadith({ urduText, setUrduText }) {
   const navigate = useNavigate();
   const location = useLocation();
 
-  // useEffect(() => {
-  //   try {
-  //     setLoading(true)
-  //     fetch(
-  //       `https://abdullahsaeed-git.github.io/my-database/bulugh/hadith-detail/hadith-${hadithId}.json`
-  //     )
-  //       .then((res) => res.json())
-  //       .then((data) => {
-  //         setHadithDetail(data);
-
-  //         fetch(
-  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/chapter-detail/chapter-${data.hadithReferences.babId}.json`
-  //         )
-  //           .then((res) => res.json())
-  //           .then((chapterDetailData) => {
-  //             setChapterDetail(chapterDetailData);
-  //             setHadithName(
-  //               chapterDetailData.hadiths.find((h) => h.id == hadithId)
-  //             );
-  //           });
-
-  //         fetch(
-  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books.json`
-  //         )
-  //           .then((res) => res.json())
-  //           .then((bulughBooksData) =>
-  //             setBookName(
-  //               bulughBooksData.find(
-  //                 (b) => b.id == data.hadithReferences.kitabId
-  //               )
-  //             )
-  //           );
-
-  //         fetch(
-  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${data.hadithReferences.kitabId}.json`
-  //         )
-  //           .then((res) => res.json())
-  //           .then((bookDetailData) =>
-  //             setChapterName(
-  //               bookDetailData.chapters.find(
-  //                 (c) => c.id == data.hadithReferences.babId
-  //               )
-  //             )
-  //           );
-  //       });
-  //   } catch (error) {
-  //     console.error("Error in Single Hadith: ", error);
-  //   }
-  //   // finally {
-
-  //   //   if(hadithDetail){
-  //   //     setLoading(false)
-  //   //   }
-  //   //   // setTimeout(() => {
-  //   //   // }, 300);
-  //   // }
-
-  //   // console.log(location)
-  // }, [location]);
-
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -88,19 +28,7 @@ function BMSingleHadith({ urduText, setUrduText }) {
         const hadithData = await hadithRes.json();
         setHadithDetail(hadithData);
 
-        // Now fetch all other data in parallel
-        // const [chapterRes, booksRes, bookDetailRes] = await Promise.all([
-        //   fetch(
-        //     `https://abdullahsaeed-git.github.io/my-database/bulugh/chapter-detail/chapter-${hadithData.hadithReferences.babId}.json`
-        //   ),
-        //   fetch(
-        //     `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books.json`
-        //   ),
-        //   fetch(
-        //     `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${hadithData.hadithReferences.kitabId}.json`
-        //   ),
-        // ]);
-
+       
 
 
         const chapterId = hadithData.hadithReferences.babId;
@@ -158,7 +86,6 @@ function BMSingleHadith({ urduText, setUrduText }) {
 
   return (
     <>
-      {/* <div className="m-5 text-center h1"></div> */}
 
       <header className="border-bottom lh-2 py-4  d-flex align-items-center justify-content-center">
         <nav
@@ -173,7 +100,7 @@ function BMSingleHadith({ urduText, setUrduText }) {
 
               justifyContent: "center",
               flexDirection: urduText && "row-reverse",
-              // padding: "0 10px"
+             
             }}
           >
             <li
