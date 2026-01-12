@@ -1,0 +1,259 @@
+{
+  "hadithId": 1175,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/13/5"],
+    "kitabId": 13,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأيمان والنذور",
+    "babId": 96
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6628)، والترمذي (1543)، والنسائي (3768)، وابن ماجه (2092)، وأحمد (2/121).",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (6628) نے اسے اپنی صحیح میں روایت کیا ہے۔ دیگر کتبِ سنن میں بھی یہ الفاظ تواتر سے منقول ہیں۔",
+    "english": "Sahih. Reported by Al-Bukhari (6628), At-Tirmidhi (1543), An-Nasa'i (3768), Ibn Majah (2092), and Ahmad (2/121)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَمِينُ",
+      "english": "Oath",
+      "urdu": "قسم"
+    },
+    {
+      "arabic": "مُقَلِّبِ",
+      "english": "The One who turns / Controller",
+      "urdu": "پھیرنے والا / بدلنے والا"
+    },
+    {
+      "arabic": "الْقُلُوبِ",
+      "english": "The Hearts",
+      "urdu": "دل / دلوں"
+    },
+    {
+      "arabic": "لَا",
+      "english": "No",
+      "urdu": "نہیں"
+    },
+    {
+      "arabic": "صيغة",
+      "english": "Formula / Wording",
+      "urdu": "الفاظ / طریقہ"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ اللہ کی صفت 'مقلب القلوب' کے ساتھ قسم کھایا کرتے تھے، جو اللہ کے کامل اختیار کی دلیل ہے۔",
+    "english": "The Prophet (ﷺ) used the attribute 'The Turner of Hearts' for his oaths, emphasizing Allah's absolute power over human emotions and guidance."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6628)",
+      "english": "Sahih al-Bukhari (6628)"
+    },
+    {
+      "arabic": "سنن النسائي (3768)",
+      "english": "Sunan an-Nasa'i (3768)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S8YV59Uu0oU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی صفات کی قسم",
+        "english": "Swearing by Allah's Attributes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صفتِ باری تعالیٰ کا استعمال",
+              "english": "Using Divine Attributes"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی ذات کی طرح اس کی صفات کی قسم کھانا بھی جائز اور مسنون ہے۔",
+                "نبی ﷺ نے اس صفت کا ذکر کر کے توحید کی ایک اہم بنیاد واضح فرمائی۔",
+                "یہ الفاظ اللہ کے جلال اور اس کی قدرتِ کاملہ کی طرف اشارہ کرتے ہیں۔"
+              ],
+              "english": [
+                "It is permissible and Sunnah to swear by Allah's attributes as well as His Essence.",
+                "The Prophet (ﷺ) clarified a key pillar of Tawhid by mentioning this attribute.",
+                "These words point towards Allah's Majesty and His perfect power over creation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غیر اللہ کی قسم سے اجتناب",
+              "english": "Avoiding Non-Divine Oaths"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے ہمیشہ صرف اللہ ہی کے نام یا صفات کی قسم اٹھائی۔",
+                "یہ امت کے لیے سبق ہے کہ کسی مخلوق کی قسم کبھی نہ کھائی جائے۔",
+                "قسم میں تعظیم صرف خالق کے لیے ہونی چاہیے، کسی انسان یا شے کے لیے نہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) always swore only by Allah's Name or His specific Attributes.",
+                "This is a lesson for the Ummah never to swear by any created being or object.",
+                "Veneration in an oath belongs solely to the Creator, not to any human or entity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مقلب القلوب کا مفہوم",
+        "english": "Meaning of the Turner of Hearts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دلوں پر اللہ کا کنٹرول",
+              "english": "Allah's Control Over Hearts"
+            },
+            "content": {
+              "urdu": [
+                "انسانی دل اللہ کی دو انگلیوں کے درمیان ہیں، وہ جیسے چاہے بدل دیتا ہے۔",
+                "اس صفت کے ذکر سے انسان کو اپنی کمزوری اور عاجزی کا احساس ہوتا ہے۔",
+                "ہدایت اور استقامت کا مکمل انحصار صرف اللہ رب العزت کی مشیت پر ہے۔"
+              ],
+              "english": [
+                "Human hearts are between two Fingers of Allah; He turns them as He wills.",
+                "Mentioning this attribute makes a person realize their own inherent weakness.",
+                "Guidance and steadfastness depend entirely on the Will of Allah the Almighty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ثباتِ قدم کی دعا",
+              "english": "Prayer for Steadfastness"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ اکثر 'یا مقلب القلوب ثبت قلبی علی دینک' کی دعا مانگتے تھے۔",
+                "قسم کے الفاظ میں اس صفت کا انتخاب اس دعا کی اہمیت کو اجاگر کرتا ہے۔",
+                "مومن کو ہمیشہ اپنے ایمان کے چھن جانے کا ڈر اور اللہ پر بھروسہ رکھنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) frequently prayed: 'O Turner of Hearts, keep my heart firm on Your religion.'",
+                "Choosing this attribute in oaths highlights the importance of spiritual firming.",
+                "A believer should always fear losing faith and maintain absolute trust in Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و علمی نکتے",
+        "english": "Juristic and Scholarly Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسم کے الفاظ کی تاثیر",
+              "english": "Effect of Oath Formulas"
+            },
+            "content": {
+              "urdu": [
+                "جس صفت سے قسم کھائی جائے اس کا شرعی طور پر منعقد ہونا ضروری ہے۔",
+                "'مقلب القلوب' کے الفاظ سے کھائی گئی قسم مکمل طور پر منعقد ہوتی ہے۔",
+                "ایسی قسم توڑنے کی صورت میں شرعی کفارہ ادا کرنا واجب ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The attribute used in an oath must be legally binding in Shariah.",
+                "An oath taken using the words 'Muqallib al-Qulub' is fully binding.",
+                "If such an oath is broken, paying the legal expiation (Kaffarah) becomes mandatory."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا طرزِ کلام",
+              "english": "Prophetic Style of Speech"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ بلا ضرورت قسم نہیں کھاتے تھے، بلکہ بات کی تاکید کے لیے کھاتے تھے۔",
+                "آپ ﷺ کے کلام میں عاجزی اور اللہ کی عظمت کا اظہار نمایاں ہوتا تھا۔",
+                "مسلمانوں کو اپنی گفتگو میں متانت اور اللہ کا ذکر شامل رکھنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not swear without need, but for emphasizing a truth.",
+                "His speech prominently displayed humility and the Greatness of Allah.",
+                "Muslims should include sobriety and the remembrance of Allah in their talk."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی و عملی پہلو",
+        "english": "Educational and Practical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استقامت کی اہمیت",
+              "english": "Importance of Consistency"
+            },
+            "content": {
+              "urdu": [
+                "قسم کے یہ الفاظ ہمیں یاد دلاتے ہیں کہ ہمارا ایمان مستقل نہیں ہے۔",
+                "ہمیں ہر لمحہ اللہ سے اپنے دل کی سلامتی اور حق پر جمے رہنے کی دعا کرنی چاہیے۔",
+                "انسانی خیالات اور ارادے پل بھر میں بدل سکتے ہیں، صرف اللہ ہی مستقل ہے۔"
+              ],
+              "english": [
+                "These oath words remind us that our faith is not self-sustaining.",
+                "We must constantly ask Allah for the safety of our hearts and for truth.",
+                "Human thoughts and intentions can change in an instant; only Allah is Permanent."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا جذبہ",
+              "english": "Spirit of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے الفاظ کو اپنانا برکت اور اجر کا باعث بنتا ہے۔",
+                "ہمیں چاہیے کہ اپنی زبان کو لغو قسموں کے بجائے مسنون الفاظ کا عادی بنائیں۔",
+                "سنتِ نبوی کی پیروی ہی زندگی کے ہر معاملے میں فلاح کا راستہ ہے۔"
+              ],
+              "english": [
+                "Adopting the words of the Prophet (ﷺ) brings immense blessing and reward.",
+                "We should train our tongues in Sunnah formulas rather than vain swearing.",
+                "Following the Prophet's Sunnah is the only path to success in every matter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

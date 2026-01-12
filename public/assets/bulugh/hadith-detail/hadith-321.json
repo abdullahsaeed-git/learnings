@@ -1,0 +1,186 @@
+{
+  "hadithId": 321,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:438"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "صحيح مسلم",
+    "babId": 20
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (438)‏ وتمامه: \"لا يزال قوم يتأخرون حتى يؤخرهم الله\".‏",
+    "urdu": "صحیح۔ اسے مسلم (438) نے روایت کیا ہے۔ اور حدیث کے مکمل الفاظ یہ ہیں: ”لوگ ہمیشہ پیچھے ہٹتے رہتے ہیں یہاں تک کہ اللہ انہیں پیچھے کر دیتا ہے۔“",
+    "english": "Sahih (Authentic). Reported by Muslim (438). The full narration adds: \"People continue to keep back until Allah puts them back.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "تَأَخُّرًا",
+      "english": "Lagging behind / Delay",
+      "urdu": "پیچھے رہنا / تاخیر"
+    },
+    {
+      "arabic": "تَقَدَّمُوا",
+      "english": "Come forward / Advance",
+      "urdu": "آگے بڑھو"
+    },
+    {
+      "arabic": "فَائْتَمُّوا بِي",
+      "english": "Then follow me",
+      "urdu": "پس میری پیروی کرو"
+    },
+    {
+      "arabic": "مَنْ بَعْدَكُمْ",
+      "english": "Whoever is behind you",
+      "urdu": "جو تمہارے پیچھے ہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث صفِ اول میں نماز پڑھنے کی ترغیب دیتی ہے اور بتاتی ہے کہ اگلی صف والے امام کی پیروی کریں اور پچھلی صف والے اگلی صفوں کو دیکھ کر رکوع و سجود کریں۔ پیچھے رہنے کی عادت انسان کو اللہ کی رحمت سے بھی پیچھے کر دیتی ہے۔",
+    "english": "This Hadith encourages praying in the first row and explains the method of following: the front rows follow the Imam directly, and the back rows follow the front ones. Habitually lagging behind causes one to fall behind in Allah's mercy as well."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (438)",
+      "english": "Reported by Muslim (438)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي سَعِيدٍ اَلْخُدْرِيِّ",
+        "english": "Abu Sa'id Al-Khudri"
+      },
+      "slug": "abu-said-al-khudri"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز میں پیروی کا طریقہ",
+        "english": "Method of Following in Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تسلسل (Continuity)",
+              "english": "Continuity"
+            },
+            "content": {
+              "urdu": [
+                "امام کے قریب والے لوگ براہِ راست امام کی آواز اور عمل کو فالو کرتے ہیں۔",
+                "پچھلی صفوں والے اپنے سے اگلی صف کو دیکھ کر رکوع و سجود میں جاتے ہیں۔",
+                "یہ طریقہ خاص طور پر بڑی جماعتوں میں کارآمد ہے جہاں امام نظر نہ آئے۔"
+              ],
+              "english": [
+                "Those close to the Imam follow his voice and actions directly.",
+                "Those in the back rows follow the movements of the row in front of them.",
+                "This method is especially useful in large congregations where the Imam is not visible."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آگے بڑھنے کا حکم",
+              "english": "Command to Advance"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے 'تقدموا' (آگے بڑھو) کہہ کر حکم دیا۔",
+                "مسلمانوں کو چاہیے کہ وہ پہلی صفوں کو بھرنے کی کوشش کریں۔",
+                "پیچھے رہنا سستی اور غفلت کی علامت ہے جسے نبی ﷺ نے ناپسند فرمایا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) commanded 'Taqaddamu' (Come forward).",
+                "Muslims should strive to fill the first rows.",
+                "Lagging behind is a sign of laziness and negligence, which the Prophet (ﷺ) disliked."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "وعید اور تنبیہ",
+        "english": "Warning and Admonition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کا پیچھے کرنا",
+              "english": "Allah putting them behind"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے آخر میں فرمایا: جو قوم پیچھے رہتی ہے، اللہ انہیں پیچھے کر دیتا ہے۔",
+                "اس کا مطلب رحمت، فضل، علم اور جنت کے درجات میں پیچھے ہونا ہے۔",
+                "ظاہری جسمانی تاخیر روحانی تنزلی کا سبب بنتی ہے۔"
+              ],
+              "english": [
+                "At the end of the Hadith, it says: Those who keep lagging behind, Allah puts them behind.",
+                "This means falling behind in mercy, grace, knowledge, and ranks in Paradise.",
+                "Physical lagging leads to spiritual decline."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اصلاحِ احوال",
+              "english": "Reform of Condition"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے صحابہ کے رویے میں تبدیلی دیکھی تو فوراً اصلاح فرمائی۔",
+                "معلم اور مربی کو چاہیے کہ وہ اپنے ماتحتوں کی نگرانی کرے اور غلطی پر ٹوکے۔",
+                "نیکی کے کاموں میں مسابقت (Competition) کرنی چاہیے۔"
+              ],
+              "english": [
+                "When the Prophet (ﷺ) saw a change in the Companions' behavior, he immediately corrected it.",
+                "A teacher and mentor should monitor their subordinates and correct mistakes.",
+                "One should compete in good deeds."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صفِ اول کا اہتمام",
+              "english": "Care for First Row"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں جلدی آنے کی عادت بنائیں۔",
+                "پہلی صف کا ثواب بہت زیادہ ہے۔",
+                "کناروں یا ستونوں کی اوٹ میں بیٹھنے کے بجائے امام کے قریب ہونے کی کوشش کریں۔"
+              ],
+              "english": [
+                "Make a habit of coming early to the mosque.",
+                "The reward of the first row is immense.",
+                "Instead of sitting at the edges or behind pillars, try to be close to the Imam."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

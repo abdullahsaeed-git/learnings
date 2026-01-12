@@ -1,0 +1,259 @@
+{
+  "hadithId": 1011,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/19"],
+    "kitabId": 9,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 80
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه ابن حبان (5988)، وأحمد (2/179) من طريق عمرو بن شعيب عن أبيه عن جده. وأصله في البخاري (6882) من حديث ابن عباس بلفظ: «أبغض الناس إلى الله ثلاثة...».",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابن حبان اور احمد نے عمرو بن شعیب کے واسطے سے روایت کیا ہے۔ اس کی اصل صحیح بخاری میں ابن عباس رضی اللہ عنہما سے مروی ہے جس میں 'اللہ کے نزدیک سب سے ناپسندیدہ لوگ' کے الفاظ ہیں۔",
+    "english": "Sahih (Authentic). Reported by Ibn Hibban (5988) and Ahmad (2/179) via Amr bin Shu'aib from his father from his grandfather. Its basis is in Sahih al-Bukhari (6882) from Ibn Abbas (RA) with the wording: 'The most hated of people to Allah are three...'"
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْتَى",
+      "english": "Most insolent/rebellious",
+      "urdu": "سب سے زیادہ سرکش"
+    },
+    {
+      "arabic": "حَرَمَ",
+      "english": "Sacred Precincts",
+      "urdu": "حرم (مکہ و مدینہ)"
+    },
+    {
+      "arabic": "غَيْرَ قَاتِلِهِ",
+      "english": "Other than the killer",
+      "urdu": "اپنے قاتل کے سوا"
+    },
+    {
+      "arabic": "ذَحْلِ",
+      "english": "Vendetta/Malice",
+      "urdu": "دشمنی / کینہ"
+    },
+    {
+      "arabic": "الْجَاهِلِيَّةِ",
+      "english": "Pre-Islamic Ignorance",
+      "urdu": "دورِ جاہلیت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تین ایسے کبیرہ گناہوں کا ذکر ہے جو اللہ کے ہاں انتہائی ناپسندیدہ اور سرکشی پر مبنی ہیں: حدودِ حرم میں خون بہانا، بے گناہ کو بدلے میں مارنا، اور جاہلانہ کینہ پروری میں قتل کرنا۔",
+    "english": "This Hadith identifies three types of murderers who are most rebellious against Allah: those who violate the Sanctuary, those who target innocent relatives in revenge, and those following pagan blood feuds."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن حبان (5988)",
+      "english": "Reported by Ibn Hibban (5988)"
+    },
+    {
+      "arabic": "أخرجه البخاري (6882)",
+      "english": "Reported by Al-Bukhari (6882)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah ibn Amr ibn al-As"
+      },
+      "slug": "abdullah-ibn-amr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0hXWp3uF4Xo",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حرم کی پامالی",
+        "english": "Violation of the Sanctuary"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرمت والے مقام کا تقدس",
+              "english": "Sanctity of the Haram"
+            },
+            "content": {
+              "urdu": [
+                "حرمِ مکہ وہ جگہ ہے جہاں جانوروں کا شکار اور درخت کاٹنا بھی منع ہے۔",
+                "اس پاک جگہ میں انسانی خون بہانا اللہ کے نزدیک عظیم ترین سرکشی ہے۔",
+                "یہ عمل نہ صرف قتل ہے بلکہ اللہ کے گھر کی بے حرمتی بھی ہے۔"
+              ],
+              "english": [
+                "The Haram of Makkah is a place where hunting and cutting trees is forbidden.",
+                "Shedding human blood in this holy place is the greatest rebellion against Allah.",
+                "This act is not just murder but a direct desecration of Allah's Sanctuary."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امن و امان کی جگہ",
+              "english": "A Place of Peace"
+            },
+            "content": {
+              "urdu": [
+                "اللہ نے مکہ کو تمام مخلوقات کے لیے جائے امن بنایا ہے۔",
+                "حرم میں ہتھیار اٹھانا یا کسی کو ڈرانا بھی گناہِ عظیم ہے۔",
+                "اس مقام پر جرم کرنے والے کی سزا دیگر مقامات سے سخت تر ہے۔"
+              ],
+              "english": [
+                "Allah has made Makkah a place of security for all creations.",
+                "Raising weapons or even frightening someone in the Haram is a major sin.",
+                "The punishment for crimes committed here is more severe than elsewhere."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انصاف کے خلاف قتل",
+        "english": "Murder Against Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بے گناہ کو نشانہ بنانا",
+              "english": "Targeting the Innocent"
+            },
+            "content": {
+              "urdu": [
+                "انتقام میں قاتل کے بجائے اس کے بھائی یا رشتہ دار کو مارنا ظلم ہے۔",
+                "اسلام کا اصول ہے کہ کوئی دوسرے کے گناہ کا بوجھ نہیں اٹھائے گا۔",
+                "بے گناہ کا قتل معاشرے میں لامتناہی دشمنی کا دروازہ کھول دیتا ہے۔"
+              ],
+              "english": [
+                "Killing a killer's brother or relative instead of the killer is pure oppression.",
+                "The Islamic principle is that no soul shall bear the burden of another.",
+                "Killing an innocent person opens the door to endless societal enmity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قصاص کے حدود",
+              "english": "Boundaries of Retaliation"
+            },
+            "content": {
+              "urdu": [
+                "قصاص کا حق صرف اصل مجرم کے خلاف استعمال کیا جا سکتا ہے۔",
+                "حد سے تجاوز کرنے والے کو اللہ تعالیٰ پسند نہیں فرماتا۔",
+                "یہ عمل عدل کے نظام کو تباہ کر کے جنگل کا قانون لاتا ہے۔"
+              ],
+              "english": [
+                "The right of retaliation (Qisas) can only be used against the actual culprit.",
+                "Allah does not love those who exceed the prescribed limits.",
+                "This action destroys the judicial system and brings the law of the jungle."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جاہلی رسومات کا خاتمہ",
+        "english": "Ending Pagan Traditions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی انتقام",
+              "english": "Tribal Vendettas"
+            },
+            "content": {
+              "urdu": [
+                "جاہلیت میں لوگ پرانی دشمنیوں کو نسل در نسل چلاتے تھے۔",
+                "اسلام نے ان تمام جاہلانہ خون کے بدلوں کو ختم کر دیا ہے۔",
+                "محض خاندانی انا کی خاطر قتل کرنا جاہلیت پر قائم رہنا ہے۔"
+              ],
+              "english": [
+                "In the pre-Islamic era, people carried tribal feuds across generations.",
+                "Islam has abolished all such ignorant blood revenges and vendettas.",
+                "Killing merely for tribal ego is remaining upon pre-Islamic ignorance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی بھائی چارہ",
+              "english": "Islamic Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے قبائلی عصبیت کو ختم کر کے ایمانی رشتہ جوڑا ہے۔",
+                "پرانی عداوتوں کو زندہ کرنا شیطان کی پیروی کرنا ہے۔",
+                "مومن وہ ہے جو جاہلیت کے کینوں سے اپنے دل کو پاک رکھے۔"
+              ],
+              "english": [
+                "Islam replaced tribal fanaticism with the bond of faith.",
+                "Reviving old animosities is following the footsteps of Shaytan.",
+                "A believer is one who cleanses their heart of pagan-style malice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اسباق",
+        "english": "Social Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی جان کی حرمت",
+              "english": "Sanctity of Human Life"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کے نزدیک انسانی جان کی حرمت کعبہ سے بھی زیادہ ہے۔",
+                "قتل کے بہانے تلاش کرنا سرکشی اور اللہ سے اعلانِ جنگ ہے۔",
+                "ایک پرامن معاشرے کے لیے ان تینوں فتنوں کا خاتمہ ضروری ہے۔"
+              ],
+              "english": [
+                "In the sight of Allah, the sanctity of human life is greater than the Ka'bah.",
+                "Seeking excuses for murder is rebellion and a declaration of war against Allah.",
+                "Ending these three evils is essential for a peaceful society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل کی بالادستی",
+              "english": "Supremacy of Justice"
+            },
+            "content": {
+              "urdu": [
+                "انصاف ہمیشہ قانون اور شرع کے مطابق ہونا چاہیے نہ کہ جذبات پر۔",
+                "بدلہ لینے میں بھی اللہ کے مقرر کردہ حدود کا لحاظ رکھنا فرض ہے۔",
+                "نبی کریم ﷺ کی تعلیمات پر عمل ہی انسانیت کی بقا ہے۔"
+              ],
+              "english": [
+                "Justice must always be according to Law/Shariah, not based on emotions.",
+                "Observing Allah's limits is obligatory even when seeking retaliation.",
+                "Adhering to the Prophet's (ﷺ) teachings is the survival of humanity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

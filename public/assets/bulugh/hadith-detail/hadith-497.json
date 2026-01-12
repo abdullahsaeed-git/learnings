@@ -1,0 +1,258 @@
+{
+  "hadithId": 497,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/abudawud:1605",
+      "https://sunnah.com/tirmidhi:643",
+      "https://sunnah.com/nasai:2488"
+    ],
+    "kitabId": 4,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 29
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف. رواه أبو داود (1605)، والترمذي (643)، والنسائي (5/42)، وأحمد (3/448). في سنده عبد الرحمن بن نيار وهو مجهول الحال. وصححه ابن حبان والحاكم، لكن ضعفه المحققون لعلة في السند.",
+    "urdu": "یہ روایت سنداً ضعیف ہے۔ اسے ابوداؤد، ترمذی، نسائی اور احمد نے روایت کیا ہے۔ اس کی سند میں عبدالرحمن بن نیار نامی راوی مجہول ہے، تاہم ابن حبان اور حاکم نے اسے صحیح کہا ہے مگر جمہور محققین کے نزدیک اس کی سند کمزور ہے۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (1605), At-Tirmidhi (643), An-Nasa'i (5/42), and Ahmad (3/448). Its chain contains 'Abdur Rahman bin Nayyar, who is unknown (Majhul). While Ibn Hibban and Al-Hakim authenticated it, many scholars consider it weak."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَرَصْتُمْ",
+      "english": "Estimated (the crop)",
+      "urdu": "تم نے تخمینہ / اندازہ لگایا"
+    },
+    {
+      "arabic": "دَعُوا",
+      "english": "Leave / Forego",
+      "urdu": "چھوڑ دو / رعایت دو"
+    },
+    {
+      "arabic": "اَلثُّلُثَ",
+      "english": "One-third (1/3)",
+      "urdu": "تہائی حصہ"
+    },
+    {
+      "arabic": "اَلرُّبُعَ",
+      "english": "One-fourth (1/4)",
+      "urdu": "چوتھائی حصہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں زکوٰۃ (عشر) وصول کرنے والوں کو ہدایت دی گئی ہے کہ وہ تخمینہ لگاتے وقت کسان کی ضروریات اور ممکنہ نقصانات کی رعایت کرتے ہوئے کچھ حصہ چھوڑ دیں تاکہ ان پر بوجھ نہ پڑے۔",
+    "english": "This Hadith instructs Zakat collectors to be lenient during crop estimation, leaving a portion (1/3 or 1/4) for the owner to account for personal consumption or unexpected losses."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (1605)",
+      "english": "Sunan Abu Dawud (1605)"
+    },
+    {
+      "arabic": "سنن الترمذي (643)",
+      "english": "Sunan at-Tirmidhi (643)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سهل بن أبي حثمة",
+        "english": "Sahl bin Abi Hathma"
+      },
+      "slug": "sahl-bin-abi-hathma"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_rOun7K5bY",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خرص (تخمینہ) کے معنی اور طریقہ",
+        "english": "Meaning and Method of 'Khars' (Estimation)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خرص کی تعریف",
+              "english": "Definition of Estimation"
+            },
+            "content": {
+              "urdu": [
+                "خرص سے مراد درختوں پر لگے پھلوں (کھجور، انگور) کو دیکھ کر ان کی خشک مقدار کا اندازہ لگانا ہے۔",
+                "یہ طریقہ کار اس لیے اپنایا جاتا تھا تاکہ پھل پکنے سے پہلے ہی زکوٰۃ کی مقدار متعین ہو جائے۔",
+                "ماہرین اپنے تجربے کی بنیاد پر یہ اندازہ لگاتے تھے تاکہ مالک کو پھل استعمال کرنے کی سہولت مل سکے۔"
+              ],
+              "english": [
+                "Khars refers to estimating the dried yield of fruits while they are still on the tree.",
+                "This method was used to fix the Zakat amount before the fruit was harvested or consumed.",
+                "Experts would estimate based on experience to allow the owner freedom in using the crop."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رعایت کی حکمت",
+              "english": "Wisdom Behind the Concession"
+            },
+            "content": {
+              "urdu": [
+                "تہائی یا چوتھائی چھوڑنے کا مقصد کسان کے ذاتی اخراجات اور مہمان نوازی کی رعایت کرنا ہے۔",
+                "فصل میں سے کچھ حصہ جانور کھا جاتے ہیں یا کچھ گر کر ضائع ہو جاتا ہے، اس رعایت سے کسان نقصان سے بچ جاتا ہے۔",
+                "اسلامی نظامِ زکوٰۃ سختی کے بجائے عدل اور ہمدردی پر مبنی ہے۔"
+              ],
+              "english": [
+                "Leaving a third or quarter accounts for the farmer's personal needs and hospitality.",
+                "It covers losses due to birds, animals, or fruit falling early, protecting the farmer.",
+                "The Islamic Zakat system is built on justice and compassion rather than strict extraction."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام اور ائمہ کی آراء",
+        "english": "Juristic Rulings and Scholar Views"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تخمینے کا جواز",
+              "english": "Permissibility of Estimation"
+            },
+            "content": {
+              "urdu": [
+                "امام مالک، شافعی اور احمد کے نزدیک کھجور اور انگور میں تخمینہ لگانا سنت ہے۔",
+                "امام ابوحنیفہ کے نزدیک صرف ناپ تول (وزن) معتبر ہے، کیونکہ تخمینے میں غلطی کا امکان ہوتا ہے۔",
+                "تاہم، جہاں پوری فصل کا وزن کرنا مشکل ہو، وہاں ماہرین کا اندازہ لگانا شرعاً درست قرار دیا گیا ہے۔"
+              ],
+              "english": [
+                "Imams Malik, Shafi'i, and Ahmad view estimation as a confirmed Sunnah for dates and grapes.",
+                "Imam Abu Hanifa prefers precise weighing, as estimation allows for error.",
+                "However, where weighing the entire crop is impractical, expert estimation is legally valid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مقدار کی تفصیل",
+              "english": "Detail of the Amount"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسان کے عیال زیادہ ہوں تو تہائی (1/3) حصہ چھوڑنا بہتر ہے۔",
+                "اگر حالات نارمل ہوں تو چوتھائی (1/4) حصہ چھوڑ کر باقی پر زکوٰۃ کا حساب ہوگا۔",
+                "یہ حکم اس وقت ہے جب کسان خود اپنی فصل سے ضرورتیں پوری کرتا ہو۔"
+              ],
+              "english": [
+                "If the farmer has a large family, leaving one-third is better.",
+                "Under normal circumstances, one-fourth is left, and Zakat is calculated on the rest.",
+                "This ruling applies when the farmer fulfills their needs directly from the crop."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عاملینِ زکوٰۃ کے لیے ہدایات",
+        "english": "Instructions for Zakat Collectors"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خیر خواہی اور نرمی",
+              "english": "Well-wishing and Gentleness"
+            },
+            "content": {
+              "urdu": [
+                "وصول کرنے والوں کو حکم ہے کہ وہ کسان کے لیے تنگی پیدا نہ کریں۔",
+                "ایسا اندازہ نہ لگایا جائے جو کسان کی استطاعت سے باہر ہو۔",
+                "اسلامی ریاست کا مقصد رعایا کی فلاح ہے نہ کہ صرف مال جمع کرنا۔"
+              ],
+              "english": [
+                "Collectors are commanded not to cause hardship for the farmers.",
+                "The estimate should not exceed the actual capacity of the farmer.",
+                "The goal of an Islamic state is the welfare of citizens, not just revenue collection."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شفافیت",
+              "english": "Transparency"
+            },
+            "content": {
+              "urdu": [
+                "تخمینہ مالک کی موجودگی میں ہونا چاہیے تاکہ وہ مطمئن رہے۔",
+                "ماہرین کو چاہیے کہ وہ اپنی دیانت اور تجربے کو بروئے کار لائیں۔",
+                "دین کے ہر معاملے میں امانت داری اور سچائی کو اولین ترجیح حاصل ہے۔"
+              ],
+              "english": [
+                "The estimation should occur in the owner's presence for their satisfaction.",
+                "Experts must utilize their honesty and professional experience.",
+                "Trustworthiness and truthfulness are top priorities in every religious matter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی تعاون کا سبق",
+              "english": "Lesson on Mutual Cooperation"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ کا نظام معاشرے میں محبت اور تعاون پیدا کرنے کا ذریعہ ہے۔",
+                "رعایت دینے سے کسان کے دل میں ریاست اور غریبوں کے لیے ہمدردی پیدا ہوتی ہے۔",
+                "اللہ کی راہ میں مال دیتے وقت بخیلی کے بجائے فراخ دلی کا مظاہرہ کرنا چاہیے۔"
+              ],
+              "english": [
+                "The Zakat system is a means to foster love and cooperation in society.",
+                "Providing concessions creates empathy in the farmer's heart for the state and the poor.",
+                "When giving for Allah's sake, one should display generosity rather than stinginess."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شریعت کا اعتدال",
+              "english": "Moderation of Shariah"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اسلام کے اعتدال پسند معاشی نظام کی بہترین مثال ہے۔",
+                "انسانی مجبوریوں اور فطری تقاضوں کو کبھی نظر انداز نہیں کیا جاتا۔",
+                "اعتدال ہی وہ راستہ ہے جو انسان کو اللہ کی رضا تک پہنچاتا ہے۔"
+              ],
+              "english": [
+                "This Hadith is an excellent example of Islam's moderate economic system.",
+                "Human limitations and natural needs are never ignored in Shariah.",
+                "Moderation is the path that leads a person to the pleasure of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

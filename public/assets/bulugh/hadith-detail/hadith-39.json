@@ -1,0 +1,213 @@
+{
+  "hadithId": 39,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 11 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب مسح الأذنين بماء جديد",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  لبيهقي (1 /65)  وقال: \"هذا إسناد صحيح\".  صحيح.  رواه مسلم (236) ، وقال البيهقي: \"وهذا أصح من الذي قبله\"",
+    "urdu": "صحیح (درجہ)۔ اسے بیہقی (1/65) نے روایت کیا ہے اور کہا ہے کہ 'یہ اسناد صحیح ہے'۔ یہ صحیح ہے، اور مسلم (236) نے بھی اسے روایت کیا ہے۔ اور بیہقی نے کہا ہے کہ 'یہ پچھلی روایت سے زیادہ صحیح ہے'۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bayhaqi (1/65), who said: \"This chain is Sahih.\" Also narrated by Muslim (236). Al-Bayhaqi also stated: \"This is sounder than the preceding narration (regarding wiping the head).\""
+  },
+  "importantWords": [
+    {
+      "arabic": "يَأْخُذُ لِأُذُنَيْهِ مَاءً",
+      "english": "Took water for his ears",
+      "urdu": "کانوں کے لیے پانی لیا"
+    },
+    {
+      "arabic": "خِلَافَ اَلْمَاءِ",
+      "english": "Separate from the water",
+      "urdu": "اس سے الگ پانی"
+    },
+    {
+      "arabic": "فَضْلِ يَدَيْهِ",
+      "english": "Excess/residue of his hands",
+      "urdu": "ہاتھوں سے بچا ہوا پانی"
+    },
+    {
+      "arabic": "اَلْمَحْفُوظ ُ",
+      "english": "The confirmed/preserved (wording)",
+      "urdu": "محفوظ روایت"
+    },
+    {
+      "arabic": "رَأْسِهِ",
+      "english": "His head",
+      "urdu": "سر کا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وضو میں سر کے مسح اور کانوں کے مسح کے لیے ایک ہی پانی استعمال کرنے کے طریقے میں اختلاف کو واضح کرتی ہے، اور یہ بتاتی ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے کانوں کے مسح کے لیے الگ سے نیا پانی لیا، جو سنتِ نبوی کا ایک طریقہ ہے۔",
+    "english": "This Hadith clarifies the ruling on wiping the ears during Wudu, indicating that the Prophet (ﷺ) sometimes used fresh water for his ears, separate from the water used for his head, establishing this as one valid method in the Sunnah."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الطهارة، رقم 236",
+      "english": "Sahih Muslim, The Book of Purification, Hadith 236"
+    },
+    {
+      "arabic": "سنن البيهقي الكبرى، رقم 1/65",
+      "english": "Sunan Al-Bayhaqi Al-Kubra, Hadith 1/65"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَبْدُ اَللَّهِ بْنُ زَيْدٍ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abdullah bin Zaid (May Allah be pleased with him)"
+      },
+      "slug": "abdullah-bin-zaid"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-17-new-water-ears",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسح کے لیے نئے پانی کا استعمال",
+        "english": "Using Fresh Water for Wiping the Ears"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سر اور کانوں کا الگ مسح",
+              "english": "Separate Wiping for Head and Ears"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح طور پر نبی اکرم ﷺ کے ایک دوسرے سنت طریقے کو بیان کرتی ہے، جس میں آپ ﷺ نے **کانوں کے مسح کے لیے نیا پانی** لیا تھا۔",
+                "مسلم کی محفوظ روایت کے مطابق، آپ ﷺ نے سر کے مسح کے لیے بھی ایسا پانی استعمال کیا جو ہاتھوں پر موجود بچا ہوا نہ ہو، یعنی نیا پانی استعمال ہوا۔",
+                "یہ اس بات کا ثبوت ہے کہ وضو میں کانوں کا مسح سر کے مسح کے بعد ہوتا ہے، اور یہ دونوں اعضاء اگرچہ متصل ہیں، لیکن انہیں دو الگ پانی سے مسح کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "This Hadith clearly presents another established Sunnah method of the Prophet (ﷺ), where he took **new (fresh) water** specifically for the wiping of his ears.",
+                "According to the confirmed wording in Muslim, the Prophet (ﷺ) used water for his head that was not merely the leftover moisture from his hands, thus signifying a fresh scoop of water.",
+                "This proves that while the ear wipe follows the head wipe, and both parts are physically connected, it is permissible (Sunnah) to use separate water for the ears."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسح میں فقہی طرق",
+              "english": "Different Fiqh Methods for Wiping"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے سر اور کانوں کے مسح کے دو طریقے بیان کیے ہیں: پہلا یہ کہ دونوں کے لیے ایک ہی پانی استعمال کیا جائے (جیسا کہ پچھلی احادیث میں ہے)۔",
+                "دوسرا طریقہ یہ ہے کہ سر کے مسح کے بعد **کانوں کے لیے الگ سے نیا پانی** لیا جائے، جو کہ اس روایت سے ثابت ہوتا ہے۔",
+                "دونوں طریقے نبی ﷺ کی سنت سے ثابت ہیں، اور مسلمان ان میں سے کسی بھی طریقے پر عمل کر سکتا ہے، تاہم ایک ہی پانی استعمال کرنا زیادہ مشہور ہے۔"
+              ],
+              "english": [
+                "Jurists have documented two methods for wiping the head and ears: firstly, using the same water for both (as established in previous Ahadith).",
+                "The second method is to take **fresh water specifically for the ears** after wiping the head, which is proven by this narration.",
+                "Both methods are established Sunnah, and a Muslim may follow either; however, using the same water is often considered the more common practice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پانی کی کیفیت اور مقدار",
+        "english": "Quality and Quantity of Water"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچے ہوئے پانی کا حکم",
+              "english": "Ruling on Residual Water"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی روایت میں 'غیر فضل یدیہ' (ہاتھوں سے بچا ہوا پانی نہیں) کا لفظ اس بات کی طرف اشارہ کرتا ہے کہ وضو میں مستعمل پانی سے مسح کرنا مسنون نہیں۔",
+                "اگرچہ یہ پانی پاک ہوتا ہے، لیکن تازہ پانی سے وضو کے فرائض کو پورا کرنا زیادہ افضل اور احتیاطی ہے۔",
+                "یہ حکم اس بات کی تاکید ہے کہ ہر رکنِ طہارت کو تازہ اور پاک پانی سے ادا کیا جائے تاکہ عبادت میں کمال اور حسن پیدا ہو۔"
+              ],
+              "english": [
+                "The wording in Muslim, 'not the excess from his hands,' suggests that it is not the preferred Sunnah to use water already leftover on the hands for the wipe.",
+                "Although the used water is ritually pure (Tāhir), fulfilling the obligations of Wudu with fresh water is more virtuous and precautionary.",
+                "This reinforces the idea that every essential act of purification should be performed with fresh, pure water to achieve perfection and elegance in worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاط اور سنت",
+              "english": "Precaution and Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "امام بیہقی کا اس حدیث کو 'صحیح' قرار دینا اور اسے پچھلی سے 'اصح' (زیادہ صحیح) کہنا، اس طریقے کی اہمیت کو بڑھا دیتا ہے۔",
+                "اگرچہ ایک ہی پانی سے مسح کرنا کافی ہے، لیکن نیا پانی لینا اس عمل میں زیادہ احتیاط اور مبالغہ فی الطہارت کا اظہار ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ آسانی کے وقت مکمل سنت پر عمل کریں اور مشکل کے وقت آسانی والے طریقے کو اپنائیں، کیونکہ دونوں نبی ﷺ سے ثابت ہیں۔"
+              ],
+              "english": [
+                "Imam Al-Bayhaqi's grading of this Hadith as 'Sahih' and 'sounder' than the previous one emphasizes the significance of this method.",
+                "While wiping with the same water is sufficient, taking fresh water for the ears demonstrates greater precaution and thoroughness in purification (Mubālaghah fi al-Ṭahārah).",
+                "Muslims should follow the more complete Sunnah when easy and the concessionary method when necessary, as both are established from the Prophet (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استدلال اور فقہی نکات",
+        "english": "Derivation and Fiqh Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اختلافِ روایات کی حکمت",
+              "english": "Wisdom of Narrative Differences"
+            },
+            "content": {
+              "urdu": [
+                "وضو کے مختلف طریقے مختلف احادیث میں بیان کیے گئے ہیں، جس سے امت کے لیے آسانی اور عمل میں وسعت پیدا ہوتی ہے۔",
+                "یہ اختلاف دراصل نبی اکرم ﷺ کے فعل میں **تنوع (Tanawwu)** کو ظاہر کرتا ہے، یعنی آپ ﷺ نے زندگی میں مختلف طریقوں سے عمل کیا۔",
+                "اس کا مطلب یہ ہے کہ طہارت کے لیے ایک سے زیادہ مسنون طریقے موجود ہیں، اور سب پر عمل کرنا اجر کا باعث ہے۔"
+              ],
+              "english": [
+                "The existence of different methods for Wudu across Ahadith provides ease and flexibility in practice for the Muslim Ummah.",
+                "This difference primarily reflects the **variety (Tanawwu')** in the Prophet's actions, showing he performed the ritual in different ways throughout his life.",
+                "This means there are multiple established Sunnah methods for purification, and adhering to any of them is a source of great reward."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کانوں کے مسح میں کمال",
+              "english": "Perfection in Wiping the Ears"
+            },
+            "content": {
+              "urdu": [
+                "کانوں کے لیے نیا پانی لینا اس بات کو یقینی بناتا ہے کہ کانوں کا مسح بھی وضو میں استعمال ہونے والے باقی اعضاء کی طرح کامل صفائی کے ساتھ ہو۔",
+                "اگرچہ کانوں کا مسح فرض نہیں ہے، لیکن نبی ﷺ نے اس عمل میں بھی کمال کو ترجیح دی تاکہ عبادت مکمل ہو سکے۔",
+                "مسلمانوں کو چاہیے کہ وہ وضو میں ہر عضو کو تازہ پانی سے دھونے کا خیال رکھیں، کیونکہ ہر قطرہ گناہوں کی معافی کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Taking new water for the ears ensures that the ear wipe is performed with the same high standard of cleanliness as the washing of other obligatory Wudu limbs.",
+                "Although wiping the ears is not obligatory, the Prophet (ﷺ) prioritized perfection even in this act to ensure the completeness of the worship.",
+                "Muslims should aim to wash every limb with fresh water in Wudu, as every droplet contributes to the forgiveness of sins."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

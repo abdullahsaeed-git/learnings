@@ -1,0 +1,259 @@
+{
+  "hadithId": 553,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/553"],
+    "kitabId": 5,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 34
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1164)، وأبو داود (2433)، والترمذي (759)، وابن ماجه (1716)، وأحمد (5/417).",
+    "urdu": "صحیح۔ اسے مسلم (1164)، ابوداؤد (2433)، ترمذی (759) اور ابن ماجہ (1716) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (1164), Abu Dawud (2433), At-Tirmidhi (759), Ibn Majah (1716), and Ahmad (5/417)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَتْبَعَهُ",
+      "english": "Followed it",
+      "urdu": "اس کے پیچھے لگائے"
+    },
+    {
+      "arabic": "سِتًّا",
+      "english": "Six",
+      "urdu": "چھ"
+    },
+    {
+      "arabic": "شَوَّالٍ",
+      "english": "Shawwal",
+      "urdu": "شوال (ہجری مہینہ)"
+    },
+    {
+      "arabic": "اَلدَّهْرِ",
+      "english": "The Year / Eternity",
+      "urdu": "سارا سال / زمانہ"
+    },
+    {
+      "arabic": "صَامَ",
+      "english": "Fasted",
+      "urdu": "روزہ رکھا"
+    }
+  ],
+  "summary": {
+    "urdu": "رمضان کے فرض روزوں کے بعد شوال کے چھ نفلی روزے رکھنے کا ثواب پورے سال کے روزوں کے برابر ملتا ہے۔",
+    "english": "Fasting the six days of Shawwal after the obligatory fasts of Ramadan earns a reward equivalent to fasting the entire year."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1164)",
+      "english": "Reported by Muslim (1164)"
+    },
+    {
+      "arabic": "رواه أبو داود (2433)",
+      "english": "Reported by Abu Dawud (2433)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو أيوب الأنصاري",
+        "english": "Abu Ayyub al-Ansari"
+      },
+      "slug": "abu-ayyub-al-ansari"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqGjG_nK4-Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ثواب کی ریاضی اور حکمت",
+        "english": "The Logic and Wisdom of Reward"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پورے سال کا ثواب کیسے؟",
+              "english": "How is it for the whole year?"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کے مطابق ایک نیکی کا اجر دس گنا ملتا ہے (30 رمضان + 6 شوال = 36 روزے)۔",
+                "36 روزوں کو 10 سے ضرب دیں تو 360 بنتے ہیں، جو کہ قمری سال کے دنوں کے برابر ہے۔",
+                "یہ اللہ تعالیٰ کا اپنے بندوں پر خاص فضل ہے کہ تھوڑی محنت پر بڑا اجر عطا کرتا ہے۔"
+              ],
+              "english": [
+                "According to the Quran, one good deed is rewarded tenfold (30 Ramadan + 6 Shawwal = 36).",
+                "Multiplying 36 by 10 equals 360, matching the approximate days of a lunar year.",
+                "This is a special favor from Allah, granting immense reward for relatively small effort."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فرض کی تکمیل کا ذریعہ",
+              "english": "A Means of Completing the Obligatory"
+            },
+            "content": {
+              "urdu": [
+                "نفل روزے فرض روزوں میں رہ جانے والی کمی یا کوتاہیوں کا تدارک کرتے ہیں۔",
+                "جس طرح سنتیں فرض نمازوں کے نقص کو پورا کرتی ہیں، شوال کے روزے رمضان کی کمی پوری کرتے ہیں۔",
+                "یہ اس بات کی علامت ہے کہ بندے کا روزہ اللہ کی بارگاہ میں قبول ہو گیا ہے۔"
+              ],
+              "english": [
+                "Voluntary fasts make up for any shortcomings or deficiencies in obligatory fasts.",
+                "Just as Sunnah prayers supplement Fard, Shawwal fasts supplement Ramadan deficiencies.",
+                "Continuing to fast after Ramadan is often a sign that one's Ramadan was accepted."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام اور طریقہ کار",
+        "english": "Juristic Rulings and Methodology"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلسل یا متفرق روزے؟",
+              "english": "Consecutive or Separate Fasts?"
+            },
+            "content": {
+              "urdu": [
+                "شوال کے چھ روزے مسلسل رکھنا بھی جائز ہے اور پورے مہینے میں الگ الگ رکھنا بھی درست ہے۔",
+                "افضل یہ ہے کہ عید کے فوراً بعد شروع کر دیے جائیں کیونکہ نیکی میں جلدی بہتر ہے۔",
+                "اہم بات یہ ہے کہ یہ چھ روزے شوال کا مہینہ ختم ہونے سے پہلے مکمل کر لیے جائیں۔"
+              ],
+              "english": [
+                "Fasting the six days consecutively is allowed, as is spreading them throughout the month.",
+                "It is preferred to start soon after Eid, as hastening toward good deeds is encouraged.",
+                "The essential condition is that all six days must be completed within the month of Shawwal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قضا پہلے یا نفل؟",
+              "english": "Qada First or Voluntary?"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک بہتر یہ ہے کہ پہلے رمضان کے قضا روزے پورے کیے جائیں پھر شوال کے رکھے جائیں۔",
+                "حدیث میں 'پھر اس کے پیچھے لگائے' کا لفظ پہلے رمضان کی تکمیل کی طرف اشارہ کرتا ہے۔",
+                "اگر وقت کم ہو تو شوال کے نفل رکھ کر قضا بعد میں بھی کی جا سکتی ہے، مگر پہلا طریقہ زیادہ مستند ہے۔"
+              ],
+              "english": [
+                "Jurists generally advise completing missed Ramadan fasts before starting Shawwal fasts.",
+                "The wording 'follows it' suggests completing the entirety of Ramadan first.",
+                "If time is tight, some permit the voluntary fasts first, but prioritizing Qada is safer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استقامت اور عبادتی تسلسل",
+        "english": "Steadfastness and Consistency in Worship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیکی کا تسلسل",
+              "english": "Continuity of Good Deeds"
+            },
+            "content": {
+              "urdu": [
+                "رمضان کے فوراً بعد روزے رکھنا ظاہر کرتا ہے کہ عبادت صرف ایک مہینے کے لیے نہیں تھی۔",
+                "یہ نفس کو دوبارہ دنیاوی لذتوں میں مکمل غرق ہونے سے بچانے کا ایک طریقہ ہے۔",
+                "نبی کریم ﷺ کو وہ عمل سب سے زیادہ پسند تھا جو ہمیشہ کیا جائے۔"
+              ],
+              "english": [
+                "Fasting immediately after Ramadan shows that worship was not limited to one month.",
+                "It is a method to prevent the soul from sinking back into worldly pleasures immediately.",
+                "The Prophet (ﷺ) loved deeds that were consistent, even if they were small."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شکر گزاری کا اظہار",
+              "english": "Expression of Gratitude"
+            },
+            "content": {
+              "urdu": [
+                "عید کے بعد روزے رکھنا اس بات کا شکر ہے کہ اللہ نے رمضان کی توفیق عطا فرمائی۔",
+                "یہ اللہ کی نعمتوں پر خوشی منانے کا ایک روحانی طریقہ ہے۔",
+                "مومن کبھی نیکی سے سیر نہیں ہوتا بلکہ ہمیشہ مزید کی تلاش میں رہتا ہے۔"
+              ],
+              "english": [
+                "Fasting after Eid serves as gratitude to Allah for enabling the completion of Ramadan.",
+                "It is a spiritual way to celebrate the blessings and guidance received from Allah.",
+                "A believer is never satiated with good deeds and always seeks to do more."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور انفرادی پہلو",
+        "english": "Social and Individual Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عید اور روزے کا توازن",
+              "english": "Balancing Eid and Fasting"
+            },
+            "content": {
+              "urdu": [
+                "عید کے پہلے دن روزہ رکھنا حرام ہے، کیونکہ وہ اللہ کی طرف سے مہمانی کا دن ہے۔",
+                "دوسرے دن سے شوال کے روزے شروع کیے جا سکتے ہیں۔",
+                "یہ توازن سکھاتا ہے کہ اسلام میں خوشی اور بندگی دونوں کا اپنا مقام ہے۔"
+              ],
+              "english": [
+                "Fasting on the first day of Eid is forbidden as it is a day of hospitality from Allah.",
+                "Shawwal fasts can be started from the second day of the month.",
+                "This balance teaches that both joy and devotion have their rightful place in Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچوں اور اہل خانہ کی تربیت",
+              "english": "Training Children and Family"
+            },
+            "content": {
+              "urdu": [
+                "گھر میں شوال کے روزوں کا اہتمام کرنے سے بچوں میں نفلی عبادات کا شوق پیدا ہوتا ہے۔",
+                "یہ ایک صحت مند دینی ماحول بنانے میں مددگار ثابت ہوتا ہے۔",
+                "اجتماعی طور پر نیکی کی ترغیب دینا سنتِ صحابہ ہے۔"
+              ],
+              "english": [
+                "Organizing Shawwal fasts at home inspires children to love voluntary worship.",
+                "It helps in creating a healthy religious environment within the household.",
+                "Encouraging one another toward good deeds is a practice of the Companions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

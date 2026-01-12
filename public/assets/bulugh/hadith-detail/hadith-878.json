@@ -1,0 +1,259 @@
+{
+  "hadithId": 878,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/68"],
+    "kitabId": 8,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب النكاح",
+    "babId": 66
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (3/33)، وأبو داود (2171)، والنسائي في الكبرى (9106)، والطحاوي في شرح مشكل الآثار (1916). ورجاله ثقات.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابوداؤد (2171)، نسائی اور طحاوی نے روایت کیا ہے۔ اس کے تمام راوی ثقہ ہیں اور اس کا مفہوم دیگر صحیح احادیث سے بھی ثابت ہے۔",
+    "english": "Sahih. Reported by Ahmad (3/33), Abu Dawud (2171), An-Nasa'i in Al-Kubra (9106), and Al-Tahawi. The narrators are trustworthy (Thiqat)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْزِلُ",
+      "english": "Practice coitus interruptus",
+      "urdu": "عزل کرنا / انزال باہر کرنا"
+    },
+    {
+      "arabic": "جَارِيَةً",
+      "english": "Slave-girl",
+      "urdu": "لونڈی / باندی"
+    },
+    {
+      "arabic": "المَوْؤُدَةُ",
+      "english": "Infanticide (Buried alive)",
+      "urdu": "زندہ درگور کرنا"
+    },
+    {
+      "arabic": "كَذَبَتْ",
+      "english": "Lied",
+      "urdu": "جھوٹ بولا"
+    },
+    {
+      "arabic": "تَصْرِفَهُ",
+      "english": "Prevent it / Divert it",
+      "urdu": "اسے پھیرنا / روکنا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں عزل (ضبطِ ولادت کا قدیم طریقہ) کی اجازت بیان کی گئی ہے اور یہودیوں کے اس نظریے کی تردید کی گئی ہے کہ یہ بچے کو قتل کرنے کے برابر ہے۔",
+    "english": "This Hadith clarifies the permissibility of Azl (withdrawal method) and refutes the Jewish claim that it is a form of minor infanticide."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب النكاح، رقم الحديث ٢١٧١",
+      "english": "Sunan Abi Dawud, Book of Marriage, Hadith No. 2171"
+    },
+    {
+      "arabic": "مسند أحمد، رقم الحديث ١١٠٣٥",
+      "english": "Musnad Ahmad, Hadith No. 11035"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-said-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqGjI2Y8HLo",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عزل کی تعریف اور شرعی حیثیت",
+        "english": "Definition and Shari'ah Status of Azl"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عزل کا مفہوم",
+              "english": "Meaning of Azl"
+            },
+            "content": {
+              "urdu": [
+                "عزل سے مراد مباشرت کے وقت انزال سے قبل علیحدگی اختیار کرنا ہے تاکہ حمل نہ ٹھہرے۔",
+                "یہ قدیم زمانے میں حمل روکنے کا ایک فطری اور عام طریقہ تھا جو صحابہ میں رائج تھا۔",
+                "اسلام نے اسے ایک حد تک جائز رکھا ہے کیونکہ یہ براہِ راست کسی جان کا قتل نہیں ہے۔"
+              ],
+              "english": [
+                "Azl refers to practicing withdrawal before ejaculation to prevent pregnancy.",
+                "It was a natural and common method of birth control among the Companions.",
+                "Islam permitted it to an extent because it does not involve killing a living soul."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی حکم اور اباحت",
+              "english": "Legal Ruling and Permissibility"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے عزل کو حرام قرار نہیں دیا بلکہ اسے انسانی تدبیر قرار دیا ہے۔",
+                "اگرچہ یہ جائز ہے، مگر بلا ضرورت اسے ناپسندیدہ (مکروہ تنزیہی) سمجھا جاتا ہے۔",
+                "آزاد بیوی کی صورت میں اس کی رضامندی حاصل کرنا اخلاقی اور شرعی تقاضا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not declare Azl haram but viewed it as a human measure.",
+                "While permissible, it is often considered disliked (Makruh) without a valid reason.",
+                "In the case of a free wife, obtaining her consent is a moral and legal requirement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "یہودی نظریات کی تردید",
+        "english": "Refutation of Jewish Beliefs"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مؤودہ صغریٰ کا رد",
+              "english": "Rejection of 'Minor Infanticide'"
+            },
+            "content": {
+              "urdu": [
+                "یہودیوں کا خیال تھا کہ مادہ منویہ کو ضائع کرنا بچے کو زندہ دفن کرنے کے برابر ہے۔",
+                "نبی ﷺ نے 'کذبت یہود' کہہ کر اس مبالغہ آرائی کی سخت الفاظ میں تردید فرمائی۔",
+                "قتل تب ہوتا ہے جب روح پھونک دی جائے یا حمل باقاعدہ وجود میں آ جائے۔"
+              ],
+              "english": [
+                "The Jews believed that wasting semen was equivalent to burying a child alive.",
+                "The Prophet (ﷺ) strictly refuted this exaggeration by saying 'The Jews have lied'.",
+                "Killing only occurs after the soul is breathed in or conception takes place."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقدیرِ الہی پر ایمان",
+              "english": "Belief in Divine Decree"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے واضح کیا کہ انسانی تدبیر اللہ کے فیصلے کے سامنے بے بس ہے۔",
+                "اگر اللہ نے کسی روح کی پیدائش کا فیصلہ کر لیا ہے تو عزل کے باوجود حمل ٹھہر سکتا ہے۔",
+                "یہ حدیث توکل اور تقدیر کے اسلامی تصور کو مضبوطی سے واضح کرتی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) clarified that human measures cannot bypass Allah's decree.",
+                "If Allah has decided for a soul to be born, pregnancy can occur despite practicing Azl.",
+                "This Hadith strongly illustrates the Islamic concept of Tawakul and Predestination."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاندانی منصوبہ بندی اور حکمت",
+        "english": "Family Planning and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حمل روکنے کے جائز اسباب",
+              "english": "Valid Reasons for Preventing Pregnancy"
+            },
+            "content": {
+              "urdu": [
+                "بچوں کی دودھ پلائی کی مدت یا ماں کی صحت کی خاطر وقفہ کرنا جائز ہے۔",
+                "اسلام ایک متوازن اور صحت مند خاندان کی تشکیل کی حوصلہ افزائی کرتا ہے۔",
+                "تاہم، فقر و فاقہ کے ڈر سے اولاد سے بچنا توکل کے منافی اور ناپسندیدہ ہے۔"
+              ],
+              "english": [
+                "Spacing births for the mother's health or breastfeeding duration is permissible.",
+                "Islam encourages the formation of a balanced and healthy family unit.",
+                "However, avoiding children due to fear of poverty contradicts trust in Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جدید طریقوں کا حکم",
+              "english": "Ruling on Modern Methods"
+            },
+            "content": {
+              "urdu": [
+                "عصرِ حاضر کے ضبطِ ولادت کے طریقے بھی عزل کے حکم میں آتے ہیں بشرطیکہ وہ مستقل نہ ہوں۔",
+                "نکاح کا اصل مقصد نسل بڑھانا ہے، اس لیے بلاوجہ حمل سے بچنا فطرت کے خلاف ہے۔",
+                "علماء کے نزدیک عارضی طریقے جائز ہیں لیکن نس بندی (مستقل خاتمہ) حرام ہے۔"
+              ],
+              "english": [
+                "Modern birth control methods fall under the ruling of Azl, provided they are temporary.",
+                "The primary goal of marriage is procreation; avoiding it without cause is unnatural.",
+                "Scholars deem temporary methods permissible, while sterilization is generally forbidden."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور علمی پہلو",
+        "english": "Educational and Scientific Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی عجز کا اعتراف",
+              "english": "Acknowledgment of Human Frailty"
+            },
+            "content": {
+              "urdu": [
+                "انسان جتنی بھی تدابیر کر لے، خالقِ کائنات کی مرضی ہی غالب رہتی ہے۔",
+                "یہ سبق ہمیں تکبر سے بچاتا ہے اور خالق کی عظمت کا احساس دلاتا ہے۔",
+                "مومن اپنی کوشش کرتا ہے مگر نتیجہ ہمیشہ اللہ کے سپرد کر دیتا ہے۔"
+              ],
+              "english": [
+                "Regardless of human planning, the will of the Creator always prevails.",
+                "This lesson protects us from arrogance and instills a sense of Allah's greatness.",
+                "A believer makes an effort but always leaves the final outcome to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت سے رہنمائی",
+              "english": "Guidance from the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام نجی معاملات میں بھی نبی ﷺ سے بلا جھجھک رہنمائی حاصل کرتے تھے۔",
+                "دینِ اسلام زندگی کے ہر شعبے میں مکمل اور واضح ضابطہ حیات فراہم کرتا ہے۔",
+                "صحیح علم ہی انسان کو غلط نظریات اور توہمات سے نجات دلاتا ہے۔"
+              ],
+              "english": [
+                "The Companions sought guidance from the Prophet (ﷺ) even in private matters.",
+                "Islam provide a complete and clear code of conduct for every aspect of life.",
+                "Authentic knowledge liberates humans from false ideologies and superstitions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

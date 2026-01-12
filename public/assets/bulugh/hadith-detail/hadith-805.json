@@ -1,0 +1,259 @@
+{
+  "hadithId": 805,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/805"],
+    "kitabId": 7,
+    "inKitabBab": 20,
+    "arabicBook": "بلوغ المرام",
+    "babId": 61
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6732)، ومسلم (1615).",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (6732) اور امام مسلم (1615) نے اسے اپنی صحیحین میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (6732) and Muslim (1615)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَلْحِقُوا",
+      "english": "Give / Assign",
+      "urdu": "پہنچاؤ / ادا کرو"
+    },
+    {
+      "arabic": "الْفَرَائِضَ",
+      "english": "Prescribed shares",
+      "urdu": "مقرر کردہ حصے"
+    },
+    {
+      "arabic": "بِأَهْلِهَا",
+      "english": "To those entitled",
+      "urdu": "ان کے مستحقین کو"
+    },
+    {
+      "arabic": "بَقِيَ",
+      "english": "Remained",
+      "urdu": "باقی بچا"
+    },
+    {
+      "arabic": "أَوْلَى",
+      "english": "Closest / Nearest",
+      "urdu": "سب سے قریبی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وراثت کی تقسیم کا بنیادی قاعدہ بیان کرتی ہے کہ پہلے قرآن و سنت کے مقررہ حصے تقسیم ہوں گے اور بقیہ مال قریبی مرد رشتہ دار کو ملے گا۔",
+    "english": "This Hadith establishes the fundamental rule of inheritance: first, distribute the fixed shares, and then give the remainder to the closest male relative."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6732)",
+      "english": "Sahih al-Bukhari (6732)"
+    },
+    {
+      "arabic": "صحيح مسلم (1615)",
+      "english": "Sahih Muslim (1615)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وراثت کی تقسیم کا اصول",
+        "english": "Principles of Inheritance Distribution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصحاب الفروض کی اہمیت",
+              "english": "Importance of Ashab al-Furud"
+            },
+            "content": {
+              "urdu": [
+                "وراثت میں سب سے پہلے ان لوگوں کو حصہ دیا جاتا ہے جن کے حصے قرآن میں طے ہیں۔",
+                "انہیں 'اصحاب الفروض' کہا جاتا ہے جیسے ماں، باپ، بیوی اور بیٹیاں وغیرہ۔",
+                "اسلام نے ان کے حقوق کو ترجیح دی ہے تاکہ کوئی حقدار محروم نہ رہے۔"
+              ],
+              "english": [
+                "Inheritance is first given to those whose shares are fixed in the Quran.",
+                "These are known as 'Ashab al-Furud,' such as the mother, father, wife, and daughters.",
+                "Islam prioritizes their rights to ensure no rightful heir is left out."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عصبات کا حصہ",
+              "english": "Share of the Agnates (Asabah)"
+            },
+            "content": {
+              "urdu": [
+                "مقررہ حصے تقسیم کرنے کے بعد جو مال بچ جاتا ہے وہ عصبہ کو ملتا ہے۔",
+                "عصبہ سے مراد وہ قریبی مرد رشتہ دار ہیں جو میت کے نسب سے جڑے ہوں۔",
+                "یہ اصول مالیاتی توازن اور خاندانی نظام کی مضبوطی کے لیے وضع کیا گیا ہے۔"
+              ],
+              "english": [
+                "The wealth remaining after fixed shares is distributed goes to the 'Asabah'.",
+                "Agnates refers to the closest male relatives connected through the paternal line.",
+                "This principle is designed for financial balance and family structural strength."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و قانونی پہلو",
+        "english": "Juristic and Legal Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرابت داری کی ترتیب",
+              "english": "Order of Relationship"
+            },
+            "content": {
+              "urdu": [
+                "قریبی رشتہ دار کی موجودگی میں دور کا رشتہ دار محروم ہو جاتا ہے۔",
+                "جیسے بیٹے کی موجودگی میں پوتا یا بھائی کی موجودگی میں بھتیجا محروم ہوگا۔",
+                "یہ ترتیب وراثت کے مقدمات میں انصاف کو یقینی بنانے کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "A distant relative is excluded in the presence of a closer one.",
+                "For example, a grandson is excluded by a son, and a nephew by a brother.",
+                "This order is essential to ensure justice in inheritance cases."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مرد وارث کی تخصیص",
+              "english": "Specification of the Male Heir"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'رجل ذکر' (مرد) کا لفظ عصبہ کی وضاحت کے لیے استعمال ہوا ہے۔",
+                "اس سے مراد وہ مرد ہیں جو کسی عورت کے واسطے کے بغیر میت سے ملتے ہوں۔",
+                "یہ حکم خاندان کی معاشی کفالت کی ذمہ داری مرد پر ہونے کی بنا پر ہے۔"
+              ],
+              "english": [
+                "The phrase 'male relative' is used to define the specific agnate heir.",
+                "It refers to males connected to the deceased without a female intermediary.",
+                "This ruling aligns with the man's responsibility for the family's financial support."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی عدل و انصاف",
+        "english": "Social Justice and Equity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی جھگڑوں کا حل",
+              "english": "Resolution of Family Disputes"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کے واضح قوانین خاندانی رنجشوں اور لڑائیوں کو ختم کرتے ہیں۔",
+                "جب حصے اللہ کی طرف سے طے ہوں تو کوئی کسی پر اعتراض نہیں کر سکتا۔",
+                "یہ نظام معاشرے میں امن اور حقوق کی پاسداری کا ضامن ہے۔"
+              ],
+              "english": [
+                "Clear inheritance laws eliminate family grudges and disputes.",
+                "When shares are fixed by Allah, no one can raise objections against others.",
+                "This system guarantees peace and the upholding of rights in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق العباد کی ادائیگی",
+              "english": "Fulfillment of Human Rights"
+            },
+            "content": {
+              "urdu": [
+                "میت کا مال اس کے وارثوں کی امانت ہے جسے دیانت داری سے بانٹنا چاہیے۔",
+                "وراثت دبانا یا کسی کا حق مارنا سخت گناہ اور ظلم ہے۔",
+                "اسلامی تعلیمات ہمیں مرنے والے کے بعد بھی انصاف کرنے کا حکم دیتی ہیں۔"
+              ],
+              "english": [
+                "The deceased's wealth is a trust for the heirs and must be split honestly.",
+                "Withholding inheritance or depriving someone is a grave sin and oppression.",
+                "Islamic teachings command us to maintain justice even after a person's death."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی رہنمائی اور تربیت",
+        "english": "Practical Guidance and Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علمِ فرائض کی اہمیت",
+              "english": "Importance of Knowledge of Shares"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو وراثت کے بنیادی مسائل کا علم حاصل کرنا چاہیے۔",
+                "علمِ فرائض کو سیکھنا نصف علم قرار دیا گیا ہے کیونکہ اس کا تعلق سب سے ہے۔",
+                "علماء سے مشورہ کر کے ہی وراثت کے معاملات طے کرنے چاہئیں۔"
+              ],
+              "english": [
+                "Muslims should acquire basic knowledge regarding the laws of inheritance.",
+                "The science of shares is considered half of knowledge as it affects everyone.",
+                "Inheritance matters should only be settled after consulting with scholars."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقویٰ اور دیانت",
+              "english": "Piety and Integrity"
+            },
+            "content": {
+              "urdu": [
+                "مال کی تقسیم میں اللہ سے ڈرنا ہی اصل کامیابی ہے۔",
+                "لالچ میں آ کر بہنوں یا کمزور وارثوں کا حصہ نہیں روکنا چاہیے۔",
+                "حدیث پر عمل کرنے سے معاشرے میں معاشی استحکام پیدا ہوتا ہے۔"
+              ],
+              "english": [
+                "Fearing Allah during the distribution of wealth is the true success.",
+                "One must not withhold shares of sisters or weak heirs due to greed.",
+                "Acting upon the Hadith creates economic stability within the community."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

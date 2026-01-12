@@ -1,0 +1,255 @@
+{
+  "hadithId": 65,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 4 (Chapter 6)"],
+    "kitabId": 1,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب حكم لمس المرأة",
+    "babId": 6
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه أحمد (610) ، وهو وإن ضعفه البخاري، وأعله غيره إلا أن هناك من صححه وهو الصواب.",
+    "urdu": "صحیح (درجہ)۔ اسے احمد (610) نے روایت کیا ہے۔ اگرچہ بخاری نے اسے ضعیف کہا اور دوسروں نے بھی اس میں علت بیان کی، تاہم کئی محدثین نے اسے صحیح قرار دیا ہے اور یہی درست (صواب) ہے۔",
+    "english": "Sahih (Authentic). Narrated by Ahmad (610). Although Al-Bukhari deemed it weak and others cited flaws, a number of scholars authenticated it, and this is the correct (Ṣawāb) view."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَبَّلَ",
+      "english": "Kissed",
+      "urdu": "بوسہ لیا"
+    },
+    {
+      "arabic": "بَعْضَ نِسَائِهِ",
+      "english": "Some of his wives",
+      "urdu": "اپنی کسی اہلیہ"
+    },
+    {
+      "arabic": "خَرَجَ إِلَى اَلصَّلَاةِ",
+      "english": "Went out for prayer",
+      "urdu": "نماز کے لئے نکل گئے"
+    },
+    {
+      "arabic": "لَمْ يَتَوَضَّأْ",
+      "english": "Did not perform Wudu",
+      "urdu": "وضو نہیں فرمایا"
+    },
+    {
+      "arabic": "ضَعَّفَهُ",
+      "english": "Deemed weak",
+      "urdu": "ضعیف قرار دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اس فقہی مسئلے کو بیان کرتی ہے کہ محض **اہلیہ کو بوسہ لینے یا چھونے** سے وضو نہیں ٹوٹتا، اور نبی اکرم صلی اللہ علیہ وسلم نے بوسہ لینے کے بعد وضو کے بغیر نماز ادا کی، جو اس عمل کی وجہ سے وضو کے نہ ٹوٹنے کی دلیل ہے۔",
+    "english": "This Hadith addresses the legal ruling that merely **kissing or touching one's spouse** does not invalidate Wudu, as the Prophet (ﷺ) went to prayer after kissing his wife without repeating the ablution, providing evidence against the view that physical contact breaks Wudu."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد، رقم 610",
+      "english": "Musnad Ahmad, Hadith 610"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَائِشَةُ بِنْتُ أَبِي بَكْرٍ رَضِيَ اَللَّهُ عَنْهَا",
+        "english": "Aisha bint Abi Bakr (May Allah be pleased with her)"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-43-kissing-does-not-break-wudu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "لمس (چھونے) کا حکم اور اختلاف",
+        "english": "The Ruling and Disagreement on Touching (Lams)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لمس سے وضو کا نہ ٹوٹنا",
+              "english": "Touching Does Not Invalidate Wudu"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی قوی دلیل ہے کہ میاں بیوی کے درمیان **محض بوسہ** یا **جسمانی لمس** (بغیر کسی شہوت کے اخراج کے) وضو کو نہیں توڑتا۔",
+                "نبی ﷺ کا بوسہ لینے کے بعد نماز کے لیے نکل جانا اور وضو نہ کرنا اس عمل کے ناقضِ وضو نہ ہونے کا سب سے بڑا عملی ثبوت ہے۔",
+                "یہ حکم اس آیتِ قرآنی (المائدہ 6) کی بھی وضاحت کرتا ہے جس میں 'أَوْ لَامَسْتُمُ النِّسَاءَ' کا ذکر ہے، جس کی تعبیر جمہور علماء نے شہوت کے ساتھ چھونے یا جماع سے کی ہے۔"
+              ],
+              "english": [
+                "This Hadith is strong evidence that a **mere kiss** or **physical touch** between a husband and wife (without seminal discharge due to desire) does not break Wudu.",
+                "The Prophet's (ﷺ) going out for prayer without performing Wudu after kissing is the greatest practical proof that this act does not invalidate ablution.",
+                "This ruling also clarifies the Quranic verse (Al-Ma'idah 5:6) mentioning 'or you have touched women,' which most scholars interpret as touching with desire or intercourse."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف",
+              "english": "Fiqh Disagreement"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے درمیان اس مسئلے پر اختلاف ہے: امام شافعی کے نزدیک مطلقاً عورت کو چھونے سے وضو ٹوٹ جاتا ہے، خواہ شہوت ہو یا نہ ہو۔",
+                "امام ابوحنیفہ کے نزدیک لمس سے وضو نہیں ٹوٹتا، جب تک کہ شہوت سے کوئی چیز خارج نہ ہو۔ یہ حدیث ان کے مسلک کی تائید کرتی ہے۔",
+                "امام مالک اور امام احمد کے نزدیک شہوت کے ساتھ چھونے سے وضو ٹوٹ جاتا ہے، لیکن بغیر شہوت کے نہیں۔"
+              ],
+              "english": [
+                "There is disagreement among jurists on this issue: Imam Shafi'i holds that touching a woman absolutely invalidates Wudu, regardless of desire.",
+                "Imam Abu Hanifa holds that touch does not break Wudu unless something is discharged due to desire. This Hadith supports his view.",
+                "Imam Malik and Imam Ahmad's view is that Wudu is broken by touching with lust, but not without it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند پر کلام اور ترجیح",
+        "english": "Discussion on Chain and Preference"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام بخاری کا ضعف",
+              "english": "Al-Bukhari's Weakening"
+            },
+            "content": {
+              "urdu": [
+                "امام بخاری کا اس حدیث کو ضعیف قرار دینا اس کی سند میں موجود ایک راوی کے حافظہ پر کلام کی بنا پر تھا، جبکہ امام احمد اور دیگر نے اسے صحیح قرار دیا۔",
+                "اکثر محدثین اور محققین نے اس حدیث کو اس کے دیگر شواہد کی بنا پر **صحیح** یا **حسن** تسلیم کیا ہے، لہٰذا یہ حکم شرعی طور پر قابلِ عمل ہے۔",
+                "نبی اکرم ﷺ کے کئی افعال سے یہ ثابت ہے کہ آپ ﷺ نے نماز کے دوران اپنی ازواج کو چھوا، جو اس حکم کو مزید قوت دیتا ہے۔"
+              ],
+              "english": [
+                "Imam Al-Bukhari's weakening of this Hadith was based on criticism of a narrator's memory in its chain, while Imam Ahmad and others authenticated it.",
+                "Most Hadith scholars and researchers have accepted this Hadith as **Sahih (authentic)** or **Hasan (good)** based on other supporting narrations, making its ruling legally applicable.",
+                "It is proven from several actions of the Prophet (ﷺ) that he touched his wives even during prayer, which further strengthens this ruling."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی سنت کی فضیلت",
+              "english": "Virtue of Practical Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رضی اللہ عنہا کا یہ مشاہدہ (نبی ﷺ کا بوسہ لینا اور وضو نہ کرنا) ایک **عملی سنت** کو بیان کرتا ہے جو نظریہ پر فوقیت رکھتی ہے۔",
+                "یہ اس بات کی دلیل ہے کہ اسلام میں محبت اور شفقت کے اظہار پر کوئی ممانعت نہیں ہے، بشرطیکہ وہ شرعی حدود میں ہو۔",
+                "مسلمانوں کو چاہیے کہ وہ اپنی عبادات کو آسانی اور سنت کے مطابق ادا کریں، اور غیر ضروری سختی سے بچیں۔"
+              ],
+              "english": [
+                "Aishah's observation (of the Prophet (ﷺ) kissing and not repeating Wudu) conveys a **practical Sunnah** that takes precedence over mere theoretical views.",
+                "It proves that Islam does not forbid the expression of love and affection, provided it remains within the boundaries of Sharia.",
+                "Muslims should perform their acts of worship with ease and according to the Sunnah, avoiding unnecessary rigidity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ذریعہ اور حکم کا فرق",
+        "english": "Difference Between Means and Ruling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لمس اور حدث",
+              "english": "Touching and Hadath (Impurity)"
+            },
+            "content": {
+              "urdu": [
+                "وضو کا ٹوٹنا کسی ایسے **حدث** کے خارج ہونے سے ہے جو حواس کو ختم کر دے، جیسے مذی یا ریح، جبکہ بوسہ لینا بذات خود حدث نہیں۔",
+                "اگر بوسہ لینے یا چھونے سے شہوت کے ساتھ مذی خارج ہو جائے، تو اس صورت میں وضو ٹوٹ جائے گا، لیکن اس کی وجہ بوسہ نہیں بلکہ مذی کا اخراج ہو گا۔",
+                "یہاں وضو ٹوٹنے اور نہ ٹوٹنے کا فرق عمل کے **سبب** اور اس کے **نتیجے** میں ہے۔"
+              ],
+              "english": [
+                "Wudu is invalidated by the discharge of an **impurity (Hadath)** that negates awareness, like Madhy (pre-seminal fluid) or wind, while kissing itself is not an impurity.",
+                "If Madhy is discharged with desire due to kissing or touching, Wudu is broken, but the cause is the discharge of Madhy, not the kiss itself.",
+                "The difference between Wudu being broken or not here lies in the **cause** of the action versus its **result**."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عورت کا مقام",
+              "english": "The Status of Women"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کو بھی واضح کرتی ہے کہ عورت کو چھونا نجس نہیں ہے، اور اس سے طہارت نہیں ٹوٹتی، جیسا کہ بعض لوگوں کا خیال تھا۔",
+                "سیدہ عائشہؓ کی یہ روایت خواتین کے مسائل کو حل کرنے میں ان کے مقام کو ظاہر کرتی ہے، جو گھر کے اندرونی احوال کو محفوظ کرتی تھیں۔",
+                "یہ اسلام کے اس اصول کو ظاہر کرتا ہے کہ عورت طہارت کی حامل ہے اور وہ انسان کے برابر ہے۔"
+              ],
+              "english": [
+                "This Hadith also clarifies that touching a woman is not impure and does not nullify purity, contrary to the belief of some people.",
+                "Aishah's narration demonstrates her high status in resolving women's issues, as she preserved the knowledge of private household matters.",
+                "This illustrates the principle in Islam that a woman is a source of purity and is equal in humanity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی رہنمائی",
+        "english": "Practical Guidance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احتیاط اور سنت",
+              "english": "Precaution and Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "جو مسلمان احتیاط کرنا چاہے، وہ بوسہ لینے کے بعد وضو کر سکتا ہے، لیکن یہ ضروری نہیں اور اسے فرض نہیں سمجھنا چاہیے۔",
+                "بہترین عمل یہ ہے کہ وہ سنت پر عمل کرے اور بغیر شہوت کے چھونے یا بوسہ لینے کے بعد وضو نہ کرے، جو آسانی ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ اسلام زندگی کے فطری جذبات کو عبادات کے راستے میں رکاوٹ نہیں بناتا۔"
+              ],
+              "english": [
+                "A Muslim who wishes to exercise caution may perform Wudu after kissing, but it is not obligatory and should not be considered a farḍ (mandatory duty).",
+                "The best course of action is to follow the Sunnah and not repeat Wudu after touching or kissing without desire, which is a matter of ease.",
+                "This ruling demonstrates that Islam does not make natural human emotions a barrier to acts of worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اذان کا وقت",
+              "english": "Time of Adhān (Call to Prayer)"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'ثُمَّ خَرَجَ إِلَى اَلصَّلَاةِ' (پھر نماز کے لیے نکل گئے) کا مطلب ہے کہ یہ بوسہ اور نماز کے درمیان بہت کم وقفہ تھا، جو آپ ﷺ کے معمول کو ظاہر کرتا ہے۔",
+                "یہ واقعہ اس بات کی بھی دلیل ہے کہ نبی ﷺ اپنے گھر والوں سے محبت اور شفقت کا اظہار کرتے تھے، یہاں تک کہ نماز کے وقت بھی۔",
+                "مسلمان کو چاہیے کہ وہ اپنی زندگی کے ہر پہلو میں نبی ﷺ کی اس نرمی اور سنت کی پیروی کرے۔"
+              ],
+              "english": [
+                "The phrase 'then went out for prayer' in the Hadith implies a very short interval between the kiss and the prayer, demonstrating the Prophet's (ﷺ) routine.",
+                "This incident also shows that the Prophet (ﷺ) expressed love and affection for his family, even near the time of prayer.",
+                "A Muslim should follow this gentleness and Sunnah of the Prophet (ﷺ) in every aspect of their life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 896,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/86"],
+    "kitabId": 8,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب النكاح",
+    "babId": 68
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف . رواه الترمذي (1097) وابن ماجه (1915). في إسناده زياد بن عبد الله وهو كثير الغرائب، وعطاء بن السائب وقد اختلط. والحديث له شواهد لكنها ضعيفة، والراجح أن التطويل في الوليمة مكروه لما فيه من الرياء والسمعة.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے امام ترمذی (1097) اور ابن ماجہ (1915) نے روایت کیا ہے۔ اس کی سند میں راوی 'زیاد بن عبداللہ' کثیر الغرائب ہے اور 'عطاء بن السائب' اختلاط کا شکار تھے۔ اگرچہ سند ضعیف ہے، مگر اس کا مفہوم (ریاکاری سے بچنا) درست ہے۔",
+    "english": "Da'if (Weak). Reported by At-Tirmidhi (1097) and Ibn Majah (1915). Its chain contains Ziyad bin Abdullah who is known for strange reports, and 'Ata bin al-Sa'ib whose memory deteriorated. While the chain is weak, the caution against ostentation aligns with Islamic principles."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَقٌّ",
+      "english": "A right / Duty",
+      "urdu": "حق / لازم"
+    },
+    {
+      "arabic": "سُنَّةٌ",
+      "english": "Sunnah / Tradition",
+      "urdu": "سنت / طریقہ"
+    },
+    {
+      "arabic": "سُمْعَةٌ",
+      "english": "For fame / reputation",
+      "urdu": "شہرت / دکھاوا"
+    },
+    {
+      "arabic": "سَمَّعَ اللهُ بِهِ",
+      "english": "Allah will expose/disgrace him",
+      "urdu": "اللہ اس کی رسوائی کرے گا"
+    },
+    {
+      "arabic": "اسْتَغْرَبَهُ",
+      "english": "Classified it as Gharib",
+      "urdu": "اسے غریب (اکیلے راوی والی) روایت کہا"
+    }
+  ],
+  "summary": {
+    "urdu": "ولیمہ مسنون عمل ہے لیکن اسے طویل کرنا (مثلاً تین یا اس سے زیادہ دن) شہرت اور دکھاوے کا باعث بن سکتا ہے، جس سے اسلام نے منع کیا ہے۔",
+    "english": "Walima is a Sunnah, but extending it excessively (e.g., three days or more) often leads to ostentation and seeking social status, which is discouraged in Islam."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي، كتاب النكاح، رقم الحديث ١٠٩٧",
+      "english": "Jami` at-Tirmidhi, Book of Marriage, Hadith No. 1097"
+    },
+    {
+      "arabic": "سنن ابن ماجه، كتاب النكاح، رقم الحديث ١٩١٥",
+      "english": "Sunan Ibn Majah, Book of Marriage, Hadith No. 1915"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah ibn Mas'ud"
+      },
+      "slug": "abdullah-ibn-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S-tS_V6X2Yw",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ولیمہ کی مدت اور ایام",
+        "english": "Duration and Days of Walima"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہلے اور دوسرے دن کی فضیلت",
+              "english": "Virtue of the First and Second Days"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کے بعد پہلے دن کا ولیمہ 'حق' ہے یعنی اس کی شرعی اہمیت اور تاکید زیادہ ہے۔",
+                "دوسرے دن کا کھانا بھی سنت سے ثابت ہے، جیسا کہ بعض روایات میں آپ ﷺ کے سات دن تک ولیمہ کرنے کا ذکر بھی ملتا ہے۔",
+                "اصل مقصد خوشی کا اعلان اور دوست احباب کی تواضع ہے تاکہ رشتہ معروف ہو جائے۔"
+              ],
+              "english": [
+                "Walima on the first day is a 'right', emphasizing its strong Shariah recommendation.",
+                "Feasting on the second day is also established; some reports mention the Prophet (ﷺ) hosting for several days.",
+                "The primary goal is to announce the marriage and honor guests to make the union public."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تیسرے دن کی ممانعت کی وجہ",
+              "english": "Reason for the Third-Day Caution"
+            },
+            "content": {
+              "urdu": [
+                "جب ولیمہ بہت طویل ہو جائے تو اس میں خالص نیت کے بجائے دکھاوا اور فخر پیدا ہونے لگتا ہے۔",
+                "اسلام اسراف (فضول خرچی) اور ریاکاری کو سخت ناپسند کرتا ہے۔",
+                "تیسرے دن کا کھانا 'سمعہ' (شہرت طلبی) کہلاتا ہے کیونکہ یہ عام طور پر لوگوں پر رعب ڈالنے کے لیے ہوتا ہے۔"
+              ],
+              "english": [
+                "Extending Walima excessively can shift the intention from sincerity to pride and show-off.",
+                "Islam strongly discourages extravagance (Israf) and ostentation (Riya).",
+                "The third day is often labeled as 'Sum'ah' (seeking reputation) as it usually aims to impress others with wealth."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ریاکاری اور شہرت طلبی کا انجام",
+        "english": "Consequences of Ostentation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سمع اللہ بہ کا مفہوم",
+              "english": "Meaning of 'Allah Will Expose Him'"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص لوگوں میں واہ واہ کروانے کے لیے نیکی کرتا ہے، اللہ اسے دنیا میں رسوا کر دیتا ہے۔",
+                "ریاکاری کرنے والے کا اجر ضائع ہو جاتا ہے اور اسے ثواب کے بجائے گناہ ملتا ہے۔",
+                "اخلاص عمل کی روح ہے؛ بغیر اخلاص کے بڑی سے بڑی دعوت بھی بے برکت ہے۔"
+              ],
+              "english": [
+                "Whoever performs good deeds to be praised by people, Allah may expose their true intentions and disgrace them.",
+                "The reward for an act done for show is lost, turning a potential blessing into a sin.",
+                "Sincerity (Ikhlas) is the soul of every action; without it, even a grand feast lacks Barakah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال کی ترغیب",
+              "english": "Encouragement of Moderation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر معاملے میں میانہ روی کی تعلیم دیتا ہے، نہ بخل کیا جائے نہ بے جا خرچ۔",
+                "ولیمہ اتنا ہی کیا جائے جتنا آسانی سے ممکن ہو اور جس میں نمود و نمائش کا عنصر نہ ہو۔",
+                "اپنی مالی حیثیت سے بڑھ کر قرض لے کر ولیمہ کرنا سنت کے خلاف ہے۔"
+              ],
+              "english": [
+                "Islam teaches moderation in all aspects: neither being stingy nor being extravagant.",
+                "Walima should be hosted according to one's easy means, avoiding elements of showing off.",
+                "Borrowing money beyond one's capacity to host a lavish Walima is contrary to the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور فنی پہلو",
+        "english": "Juristic and Technical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کا ضعف اور مفہوم",
+              "english": "Weakness and Meaning of the Report"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ خاص روایت ضعیف ہے، مگر اس کا پیغام قرآن و سنت کے عمومی اصولوں کے مطابق ہے۔",
+                "محدثین نے راویوں کے حافظے اور سچائی کو پرکھ کر اس پر جرح کی ہے۔",
+                "فقہاء کے نزدیک اگر ولیمہ میں ریاکاری نہ ہو تو تین دن تک کھلانے میں حرج نہیں۔"
+              ],
+              "english": [
+                "Although this specific report is weak, its message aligns with general Quranic and Sunnah principles.",
+                "Hadith scholars criticized the chain based on the narrators' memory and reliability issues.",
+                "Jurists state that if there is no ostentation, hosting for three days is not inherently forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شواہد کی حیثیت",
+              "english": "Status of Supporting Evidences"
+            },
+            "content": {
+              "urdu": [
+                "امام ابن حجر نے ذکر کیا کہ اس کے دیگر شواہد بھی موجود ہیں جو اسے تقویت دے سکتے ہیں۔",
+                "ابوہریرہ اور انس رضی اللہ عنہما سے بھی اسی طرح کے مفاہیم منقول ہیں۔",
+                "اسلامی تعلیمات کا مجموعی مزاج سادگی اور خالص نیت کی طرف راغب کرتا ہے۔"
+              ],
+              "english": [
+                "Ibn Hajar mentioned that other supports (Shawahid) exist which might strengthen the meaning.",
+                "Similar concepts are narrated from Abu Hurairah and Anas (RA).",
+                "The collective temperament of Islamic teachings encourages simplicity and pure intention."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اصلاح کا پیغام",
+        "english": "Message of Social Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نمود و نمائش کا خاتمہ",
+              "english": "Ending Social Display"
+            },
+            "content": {
+              "urdu": [
+                "آج کل ولیموں پر ہونے والے بے جا اخراجات اور کئی کئی دن کی تقریبات معاشرے پر بوجھ ہیں۔",
+                "اس حدیث کا سبق یہ ہے کہ ہمیں رسموں کے بجائے سنت کی سادگی کو اپنانا چاہیے۔",
+                "امیروں کی فضول خرچی غریبوں کے لیے احساسِ محرومی کا باعث بنتی ہے۔"
+              ],
+              "english": [
+                "Excessive spending on modern Walimas and multi-day celebrations are a burden on society.",
+                "The lesson of this Hadith is to prioritize Sunnah simplicity over societal customs.",
+                "The extravagance of the rich creates a sense of deprivation and pressure among the poor."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "برکت کا حصول",
+              "english": "Attaining Barakah"
+            },
+            "content": {
+              "urdu": [
+                "برکت اس کھانے میں ہوتی ہے جو اللہ کے لیے اور سنت کے مطابق ہو۔",
+                "لوگوں کو دکھانے کے لیے کیے گئے کاموں سے برکت اٹھا لی جاتی ہے۔",
+                "نکاح کو جتنا سادہ اور آسان بنایا جائے گا، معاشرہ اتنا ہی پرسکون ہوگا۔"
+              ],
+              "english": [
+                "Barakah (blessing) resides in food provided for Allah's sake and following the Sunnah.",
+                "Blessings are removed from actions performed primarily to impress people.",
+                "The simpler and easier the marriage process, the more peaceful the society becomes."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

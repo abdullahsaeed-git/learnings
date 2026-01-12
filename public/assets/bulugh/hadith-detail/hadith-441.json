@@ -1,0 +1,266 @@
+{
+  "hadithId": 441,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:1343"
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1343) في كتاب الجنائز، باب الصلاة على الشهيد. والحديث أصل في أحكام الشهداء.",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (1343) نے اسے روایت کیا ہے۔ یہ حدیث شہداء کے احکام، ان کے غسل اور نماز جنازہ کے حوالے سے ایک بنیادی دلیل ہے۔",
+    "english": "Authentic. Reported by al-Bukhari (1343). This Hadith is a primary source for the rulings concerning martyrs, specifically regarding their ghusl and funeral prayer."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَجْمَعُ",
+      "english": "Gathers / Combines",
+      "urdu": "جمع فرماتے تھے"
+    },
+    {
+      "arabic": "قَتْلَى",
+      "english": "The Slain / Martyrs",
+      "urdu": "شہداء / مقتولین"
+    },
+    {
+      "arabic": "أَكْثَرُ أَخْذًا",
+      "english": "Had more knowledge",
+      "urdu": "زیادہ یاد رکھنے والا"
+    },
+    {
+      "arabic": "اللَّحْدِ",
+      "english": "The niche (in grave)",
+      "urdu": "لحد / قبر کا حصہ"
+    },
+    {
+      "arabic": "يُغَسَّلُوا",
+      "english": "They were washed",
+      "urdu": "ان کو غسل دیا گیا"
+    },
+    {
+      "arabic": "يُصَلِّ",
+      "english": "Prayed / Funeral prayer",
+      "urdu": "نماز پڑھی گئی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں شہداءِ احد کی تدفین کا طریقہ بتایا گیا ہے کہ انہیں غسل دیے بغیر دفن کیا گیا اور قرآن کے حافظ کو تدفین میں ترجیح دی گئی۔",
+    "english": "The Hadith describes the burial of Uhud martyrs, noting they were buried without ghusl and that those with more Qur'anic knowledge were prioritized."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1343)",
+      "english": "Sahih al-Bukhari (1343)"
+    },
+    {
+      "arabic": "سنن أبي داود (3138)",
+      "english": "Sunan Abu Dawud (3138)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=uD5oOaO9-0E",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شہید کے احکام",
+        "english": "Rulings of the Martyr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غسل کی ممانعت",
+              "english": "Prohibition of Ghusl"
+            },
+            "content": {
+              "urdu": [
+                "میدانِ جنگ میں شہید ہونے والوں کو غسل نہیں دیا جاتا۔",
+                "ان کا خون قیامت کے دن کستوری کی خوشبو بن کر مہکے گا۔",
+                "انہیں ان کے انہی کپڑوں میں دفن کیا جاتا ہے جن میں وہ شہید ہوئے۔"
+              ],
+              "english": [
+                "Martyrs of the battlefield are not given a ritual bath (ghusl).",
+                "Their blood will emit the fragrance of musk on the Day of Judgment.",
+                "They are buried in the very clothes in which they were martyred."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نمازِ جنازہ کا حکم",
+              "english": "Ruling on Funeral Prayer"
+            },
+            "content": {
+              "urdu": [
+                "غزوہ احد کے موقع پر شہداء پر نمازِ جنازہ نہیں پڑھی گئی تھی۔",
+                "بعض علماء کے نزدیک یہ کثرتِ شہداء اور ہنگامی حالت کی وجہ سے تھا۔",
+                "جمہور کے نزدیک معرکے کے شہید پر جنازہ پڑھنا ضروری نہیں ہوتا۔"
+              ],
+              "english": [
+                "The funeral prayer was not offered for the martyrs at Uhud.",
+                "Some scholars suggest this was due to the large number and emergency.",
+                "The majority agree that the funeral prayer is not mandatory for battlefield martyrs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قرآن کریم کی عظمت",
+        "english": "The Greatness of the Qur'an"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حافظِ قرآن کی فضیلت",
+              "english": "Virtue of the Qur'an Memorizer"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے تدفین میں قرآن کے عالم کو ترجیح دی۔",
+                "اس سے ثابت ہوتا ہے کہ علمِ دین دنیا و آخرت میں بلندی کا سبب ہے۔",
+                "حتیٰ کہ قبر میں بھی صاحبِ قرآن کو دوسروں پر مقدم رکھا گیا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) prioritized those with Qur'anic knowledge in burial.",
+                "This proves that religious knowledge leads to elevation in both worlds.",
+                "Even in the grave, the one with Qur'an was placed ahead of others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علم کی بنیاد پر درجہ بندی",
+              "english": "Ranking Based on Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں قیادت اور فضیلت کا معیار تقویٰ اور علم ہے۔",
+                "نبی ﷺ نے عملی طور پر قرآن کی اہمیت کو اجاگر فرمایا۔",
+                "یہ حافظِ قرآن کے لیے ایک بہت بڑا اعزاز اور حوصلہ افزائی ہے۔"
+              ],
+              "english": [
+                "In Islam, leadership and merit are based on piety and knowledge.",
+                "The Prophet (ﷺ) practically highlighted the importance of the Qur'an.",
+                "This serves as a great honor and encouragement for the Hafiz of Qur'an."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تدفین کے آداب",
+        "english": "Etiquettes of Burial"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لحد میں تدفین",
+              "english": "Burial in the Lahd"
+            },
+            "content": {
+              "urdu": [
+                "لحد وہ بغلی قبر ہے جو مسلمانوں کے لیے زیادہ پسندیدہ ہے۔",
+                "نبی ﷺ نے شہداء کو لحد میں اتارنے کا حکم دیا۔",
+                "تدفین میں قبلہ رخ کا خیال رکھنا ضروری امر ہے۔"
+              ],
+              "english": [
+                "The Lahd is a side-niche grave preferred for Muslims.",
+                "The Prophet (ﷺ) ordered the martyrs to be placed in the Lahd.",
+                "It is essential to ensure the body faces the Qiblah during burial."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشترکہ قبر کی گنجائش",
+              "english": "Permission for Collective Burial"
+            },
+            "content": {
+              "urdu": [
+                "شدید ضرورت یا ہنگامی حالت میں ایک قبر میں دو افراد دفن ہو سکتے ہیں۔",
+                "احد کے موقع پر شہداء کی کثرت کی وجہ سے ایسا کیا گیا تھا۔",
+                "عام حالات میں ہر میت کے لیے الگ قبر بنانا ہی افضل ہے۔"
+              ],
+              "english": [
+                "In cases of extreme necessity, two people can be buried in one grave.",
+                "This was done at Uhud due to the high number of martyrs.",
+                "In normal circumstances, a separate grave for each person is better."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایمانی اسباق",
+        "english": "Lessons of Faith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جذبہء شہادت",
+              "english": "Spirit of Martyrdom"
+            },
+            "content": {
+              "urdu": [
+                "شہادت کا مقام اللہ کے ہاں بہت بلند اور ارفع ہے۔",
+                "شہید کی زندگی اور موت عام انسانوں سے مختلف ہوتی ہے۔",
+                "ان کے خون کے قطرے ان کی سچائی کی گواہی دیں گے۔"
+              ],
+              "english": [
+                "The status of martyrdom is very high and noble with Allah.",
+                "A martyr's life and death differ from ordinary individuals.",
+                "The drops of their blood will bear witness to their sincerity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرآن سے تعلق",
+              "english": "Connection with the Qur'an"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو قرآن کریم سیکھنے اور یاد کرنے کی کوشش کرنی چاہیے۔",
+                "قرآن کی برکت قبر کے اندھیروں میں بھی ساتھ رہتی ہے۔",
+                "صاحبِ قرآن بننا اللہ کی بہت بڑی نعمت اور توفیق ہے۔"
+              ],
+              "english": [
+                "Every Muslim should strive to learn and memorize the Holy Qur'an.",
+                "The blessings of the Qur'an stay even in the darkness of the grave.",
+                "Becoming a person of the Qur'an is a great blessing from Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

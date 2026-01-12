@@ -1,0 +1,138 @@
+{
+  "hadithId": 340,
+  "hadithNo": 27,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/200"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الصلاة - باب الإمامة",
+    "babId": 20
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح لغيره.‏ رواه الترمذي (591)‏ وقال: \"حديث غريب\".‏ وفي سنده أبو حنيفة (مختلف فيه) وعطاء بن السائب (اختلط)، لكن للحديث شواهد عند أبي داود وغيره تقويه وتجعله صحيحاً لغيره.‏",
+    "urdu": "صحیح لغیرہ۔ اسے امام ترمذی (591) نے روایت کیا ہے۔ اگرچہ اس کی سند میں کلام ہے، مگر دیگر صحیح احادیث اور شواہد کی بنا پر اس کا مفہوم درست اور ثابت ہے۔",
+    "english": "Sahih lighairihi. Reported by At-Tirmidhi (591). Although its individual chain is weak, it is supported by other narrations and evidences that elevate it to the level of Sahih (authentic)."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَلَى حَالٍ",
+      "english": "In a (certain) state",
+      "urdu": "جس حالت میں بھی ہو"
+    },
+    {
+      "arabic": "فَلْيَصْنَعْ",
+      "english": "He should do/act",
+      "urdu": "پس اسے چاہیے کہ وہ کرے"
+    }
+  ],
+  "summary": {
+    "urdu": "نمازی جب مسجد پہنچے تو اسے امام کے کھڑے ہونے کا انتظار نہیں کرنا چاہیے، بلکہ امام جس حالت (رکوع، سجدہ یا قعدہ) میں ہو، اسی حالت میں فوراً شریک ہو جانا چاہیے۔",
+    "english": "When a person reaches the mosque, they should not wait for the Imam to stand up. Instead, they should immediately join the prayer in whatever position (Ruku, Sujud, or Tashahhud) the Imam is currently in."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي، كتاب الصلاة، رقم 591",
+      "english": "Sunan at-Tirmidhi, Book of Prayer, No. 591"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih lighairihi (Authentic due to external evidence)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "امام کی پیروی کی اہمیت",
+        "english": "Importance of Following the Imam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فوراً شرکت کا حکم",
+              "english": "Order to Join Immediately"
+            },
+            "content": {
+              "urdu": [
+                "بہت سے لوگ امام کو سجدے میں دیکھ کر کھڑے رہتے ہیں کہ جب وہ کھڑے ہوں گے تب شامل ہوں گے، یہ سنت کے خلاف ہے۔",
+                "نبی کریم ﷺ کا حکم ہے کہ ثواب حاصل کرنے کے لیے جس حال میں امام ہو اسی میں شامل ہو جاؤ۔",
+                "اگرچہ سجدے یا قعدے میں ملنے سے رکعت شمار نہیں ہوتی، لیکن اس عمل کا مستقل ثواب ملتا ہے۔"
+              ],
+              "english": [
+                "Many people wait standing when they see the Imam in prostration (Sujud); this is contrary to the Sunnah.",
+                "The Prophet (ﷺ) commanded joining the Imam in his current state to gain the reward of that portion of prayer.",
+                "Although joining in Sujud or Tashahhud does not count as a completed Rak'ah, the act itself earns its own reward."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور فضیلت",
+        "english": "Jurisprudential Rulings and Virtues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رکعت پانے کا معیار",
+              "english": "Criteria for Catching a Rak'ah"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک اگر کوئی شخص امام کو رکوع میں پالے تو اس کی وہ رکعت شمار ہو جاتی ہے۔",
+                "رکوع کے بعد شامل ہونے والے کو وہ رکعت دوبارہ پڑھنی ہوگی، لیکن اسے جماعت کا ثواب ملتا رہے گا۔",
+                "سجدے کی حالت میں شامل ہونا عاجزی کا مظہر ہے اور اللہ کو بندے کا یہ عمل پسند ہے۔"
+              ],
+              "english": [
+                "According to the majority of scholars, if a person joins the Imam during Ruku (bowing), that Rak'ah is counted.",
+                "If one joins after Ruku, they must repeat that Rak'ah later, but they still receive the reward of the congregation.",
+                "Joining while in Sujud is an act of extreme humility, which is beloved to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت کی قدر اور اخلاص",
+              "english": "Valuing Time and Sincerity"
+            },
+            "content": {
+              "urdu": [
+                "عبادت میں سستی کے بجائے تیزی اور اشتیاق دکھانا چاہیے۔",
+                "امام کی اتباع ہی مقتدی کا اصل فریضہ ہے، لہذا اپنی مرضی کے بجائے امام کے تابع رہنا چاہیے۔"
+              ],
+              "english": [
+                "One should show eagerness and promptness in worship rather than laziness.",
+                "The primary duty of the follower is to follow the Imam; thus, one should be subordinate to the Imam's actions rather than one's own preference."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

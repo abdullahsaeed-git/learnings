@@ -1,0 +1,255 @@
+{
+  "hadithId": 66,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 5 (Chapter 6)"],
+    "kitabId": 1,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب قاعدة اليقين لا يزول بالشك",
+    "babId": 6
+  },
+
+  "takhreej": {
+    "arabic": "  صحيح.  مسلم (362) ",
+    "urdu": "صحیح (درجہ)۔ مسلم (362) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Narrated by Muslim (362)."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَطْنِهِ",
+      "english": "His stomach/belly",
+      "urdu": "پیٹ"
+    },
+    {
+      "arabic": "فَأَشْكَلَ عَلَيْهِ",
+      "english": "And is doubtful/confused",
+      "urdu": "فیصلہ کرنا مشکل ہو جائے"
+    },
+    {
+      "arabic": "فَلَا يَخْرُجَنَّ مِنْ اَلْمَسْجِدِ",
+      "english": "He must not leave the mosque",
+      "urdu": "مسجد سے باہر نہ جائے"
+    },
+    {
+      "arabic": "يَسْمَعَ صَوْتًا",
+      "english": "Hears a sound",
+      "urdu": "آواز محسوس کرے"
+    },
+    {
+      "arabic": "يَجِدَ رِيحًا",
+      "english": "Perceives an odor",
+      "urdu": "بدبو سے محسوس کرے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث فقہ کا سب سے بڑا اصول **\"الیقین لا یزول بالشک\" (یقین شک سے زائل نہیں ہوتا)** بیان کرتی ہے، جس کے مطابق طہارت کی حالت (یقین) اس وقت تک برقرار رہے گی جب تک ہوا خارج ہونے کا یقین (آواز یا بدبو) نہ ہو جائے، اور محض شک کی بنا پر وضو نہیں ٹوٹتا۔",
+    "english": "This Hadith establishes the major legal maxim: **'Certainty is not removed by doubt.'** It means the original state of purity (certainty) remains valid until there is absolute confirmation (sound or smell) of impurity (doubt), thus mere abdominal rumbling does not break Wudu."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الحيض، رقم 362",
+      "english": "Sahih Muslim, The Book of Menstruation, Hadith 362"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abu Hurayrah (May Allah be pleased with him)"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-44-certainty-over-doubt",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بنیادی فقہی اصول: شک پر یقین کو ترجیح",
+        "english": "The Fundamental Fiqh Principle: Certainty Over Doubt"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "یقین اور شک کا تعلق",
+              "english": "The Relationship Between Certainty and Doubt"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اسلام میں **قاعدۂ یَقِین** کی بنیاد ہے: 'یقین، شک سے زائل نہیں ہوتا'۔ چونکہ وضو کی حالت پر یقین ہے، اس لیے محض شک سے وہ یقین ختم نہیں ہو گا۔",
+                "نبی اکرم ﷺ کا یہ فرمان کہ وہ مسجد سے باہر نہ جائے (یعنی نماز نہ چھوڑے) اس بات کی دلیل ہے کہ شک کی صورت میں نماز کو جاری رکھنا جائز ہے۔",
+                "اس کا مطلب ہے کہ شک کی حالت میں اصل حکم (وضو کا ہونا) ہی برقرار رہے گا، جب تک کہ اس کے ٹوٹنے کا یقین نہ ہو جائے۔"
+              ],
+              "english": [
+                "This Hadith is the foundation of the **Principle of Certainty** in Islam: 'Certainty is not removed by doubt.' Since one is certain of their Wudu, mere doubt cannot eliminate that certainty.",
+                "The Prophet's (ﷺ) command not to leave the mosque (i.e., not break the prayer) is evidence that it is permissible to continue praying when in doubt.",
+                "This implies that the original state of purity remains valid in case of doubt, until there is definitive certainty of its invalidation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حدث کا یقین",
+              "english": "Certainty of Hadath (Impurity)"
+            },
+            "content": {
+              "urdu": [
+                "وضو کے ٹوٹنے کا یقین صرف ہوا کے خارج ہونے کی **آواز (صوت)** یا **بدبو (ریح)** سے ہو گا، جو اس کے خارج ہونے کا قطعی ثبوت ہیں۔",
+                "پیٹ میں ہونے والی حرکتیں یا آوازیں (گڑگڑاہٹ) حدث نہیں ہیں اور ان سے وضو نہیں ٹوٹتا، یہ صرف شک پیدا کر سکتی ہیں۔",
+                "اس حکم کا اطلاق وضو، نماز، روزے اور دیگر تمام معاملات پر ہوتا ہے جہاں طہارت کو برقرار رکھنے میں شک ہو۔"
+              ],
+              "english": [
+                "The invalidation of Wudu is only confirmed by the **sound (ṣawt)** or **odor (rīḥ)** of passing gas, which are the definitive evidences of its discharge.",
+                "Movements or noises (rumbling) in the stomach are not considered Hadath (impurity) and do not break Wudu; they only create doubt.",
+                "This ruling is applied to Wudu, prayer, fasting, and all other religious matters where there is doubt about maintaining the state of purity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اثرات",
+        "english": "Implications for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وسوسوں کا علاج",
+              "english": "Cure for Waswās (Whispers)"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث **وسوسوں** (شیطان کے شک) کا بہترین علاج ہے، جو اکثر لوگوں کو عبادت کے دوران پیش آتے ہیں کہ ان کا وضو ٹوٹ گیا ہے۔",
+                "مسلمان کو چاہیے کہ وہ اپنی عبادت کو محض پیٹ کی گڑگڑاہٹ کی بنا پر نہ توڑے اور نماز کو جاری رکھے، جب تک یقین نہ ہو جائے۔",
+                "شیطان کا مقصد عبادات میں شک پیدا کر کے انہیں باطل کرنا ہے، اور اس حکم پر عمل کرنا شیطانی وسوسوں کو دور کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith serves as the best remedy for **waswās** (Satanic whispers/doubts), which frequently affect people during worship, leading them to believe their Wudu is broken.",
+                "A Muslim should not interrupt their worship based on mere stomach rumbling and must continue their prayer until certainty is established.",
+                "Satan aims to invalidate acts of worship by planting doubt, and adhering to this command effectively eliminates these devilish whispers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسجد کا ذکر",
+              "english": "Mention of the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں خاص طور پر **مسجد** کا ذکر کرنا اس بات کی دلیل ہے کہ یہ حکم نماز کے دوران زیادہ اہم ہے، جہاں شک پیدا ہونے کا امکان زیادہ ہوتا ہے۔",
+                "مسجد سے باہر نہ جانے کا حکم یہ تاکید کرتا ہے کہ وہ اپنی نماز کو جاری رکھے اور شک کی وجہ سے جماعت کو نہ چھوڑے۔",
+                "مسجد سے باہر جانا وضو کو ٹوٹنے کے عمل کا پہلا قدم ہے، اس لیے نبی ﷺ نے اس سے منع کیا جب تک کہ شک یقین میں نہ بدل جائے۔"
+              ],
+              "english": [
+                "The specific mention of the **mosque** in the Hadith indicates that this ruling is especially vital during prayer, where the potential for generating doubt is significant.",
+                "The instruction not to leave the mosque reinforces the need to continue one's prayer and not abandon the congregation due to mere suspicion.",
+                "Leaving the mosque typically signals the first action towards seeking a new ablution, so the Prophet (ﷺ) prohibited it unless doubt was confirmed by certainty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دیگر نقائص وضو پر اطلاق",
+        "english": "Application to Other Wudu Nullifiers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمومی قاعدہ",
+              "english": "General Maxim"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول نہ صرف ریح کے اخراج کے شک پر لاگو ہوتا ہے بلکہ وضو توڑنے والے دیگر تمام افعال کے شک پر بھی لاگو ہوتا ہے۔",
+                "مثال کے طور پر، اگر نماز پڑھتے ہوئے یہ شک ہو کہ نیند آ گئی تھی یا نہیں، تو وضو برقرار رہے گا کیونکہ طہارت پر یقین تھا۔",
+                "یہ حکم اس بات کی دلیل ہے کہ اسلام میں شرعی احکام کو یقینی ثبوتوں (بینات) سے ہی بدلا جاتا ہے، شک کی بنیاد پر نہیں۔"
+              ],
+              "english": [
+                "This principle applies not only to doubt about passing gas but also to doubts concerning all other acts that nullify the state of Wudu.",
+                "For instance, if one doubts during prayer whether they briefly fell asleep or not, their Wudu remains intact because the original state of purity was certain.",
+                "This Hadith establishes that religious rulings in Islam are overturned only by definite evidence (Bayyināt), and not merely by unfounded suspicion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غسل پر اطلاق",
+              "english": "Application to Ghusl (Major Ablution)"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح وضو میں ہوتا ہے، اسی طرح غسل کے وجوب میں شک ہونے کی صورت میں بھی، اصل حکم (غسل کا نہ ہونا) ہی برقرار رہے گا۔",
+                "اگر کسی شخص کو خواب میں احتلام ہونے کا شک ہو، لیکن بیدار ہونے پر کوئی نشان نہ ملے تو اس پر غسل فرض نہیں ہو گا۔",
+                "یعنی، حدث اکبر (جنابت) کے لیے بھی صرف شک کافی نہیں، بلکہ اس کا یقین یا علامتوں کا پایا جانا ضروری ہے۔"
+              ],
+              "english": [
+                "Similar to the ruling on Wudu, if there is doubt regarding the necessity of Ghusl (major ablution), the original state (Ghusl not being required) remains valid.",
+                "If a person doubts they had a wet dream during sleep but finds no physical traces upon waking, Ghusl is not obligatory for them.",
+                "Therefore, for major impurity (Janābah), mere doubt is insufficient; certainty or the presence of its physical signs is necessary."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی اور سند کی قوت",
+        "english": "Narrator and Strength of the Chain"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابوہریرہؓ کی روایت اور قوت",
+              "english": "The Narration of Abu Hurayrah and Its Strength"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوہریرہ رضی اللہ عنہ کی یہ روایت صحیح مسلم میں موجود ہے، جو اس کی صحت اور قوت کو یقینی بناتی ہے اور یہ ایک بنیادی اصول ہے۔",
+                "چونکہ یہ حکم نبی اکرم ﷺ نے خود دیا، اس لیے یہ فقہی حکم کی بنیاد ہے اور تمام مسلمانوں کے لیے قابل عمل ہے۔",
+                "اس حدیث کا قوی ہونا اس بات کی ضمانت ہے کہ یہ حکم تمام امت کے لیے ہمیشہ کے لیے ایک مستند اصول رہے گا۔"
+              ],
+              "english": [
+                "This narration from Abu Hurayrah (RA) is recorded in Sahih Muslim, confirming its authenticity and strength, and establishing it as a fundamental principle of Fiqh.",
+                "Since this command was issued directly by the Prophet (ﷺ), it serves as the basis for the legal ruling and is mandatory for all Muslims to act upon.",
+                "The authentic nature of this Hadith ensures that this rule remains an authoritative and enduring principle for the Muslim community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فائدہ اور اجر",
+              "english": "Benefit and Reward"
+            },
+            "content": {
+              "urdu": [
+                "اس حکم پر عمل کرنے سے مومن کو عبادات میں آسانی اور یکسوئی حاصل ہوتی ہے، جس سے اس کا اجر بڑھ جاتا ہے۔",
+                "وضو کی حالت کو برقرار رکھنے کی وجہ سے نماز کی صحت یقینی ہو جاتی ہے، اور شیطانی وسوسوں سے نجات ملتی ہے۔",
+                "یہ حدیث ایک مسلمان کو یہ تعلیم دیتی ہے کہ وہ اللہ کے سامنے شک کی حالت میں نہ کھڑا ہو، بلکہ یقین کے ساتھ نماز پڑھے۔"
+              ],
+              "english": [
+                "Adherence to this ruling provides the believer with ease and better focus in their acts of worship, thereby increasing their spiritual reward.",
+                "By confirming the continuity of Wudu, the validity of the prayer is secured, leading to liberation from disruptive Satanic whispers.",
+                "This Hadith instructs a Muslim to stand before Allah not in a state of doubt, but rather to perform their prayers with unwavering certainty."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

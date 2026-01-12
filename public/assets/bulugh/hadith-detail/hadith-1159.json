@@ -1,0 +1,259 @@
+{
+  "hadithId": 1159,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1159"],
+    "kitabId": 12,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام - كتاب الصيد والذبائح",
+    "babId": 93
+  },
+  
+  "takhreej": {
+    "arabic": "رواية الدارقطني (4/296) مرفوعة وفيها محمد بن يزيد بن سنان وهو ضعيف الحفظ. والصحيح هو الرواية الموقوفة عند عبد الرزاق (8548) عن ابن عباس بسند صحيح. أما مرسل أبو داود (378) ففي رجاله مجهول، لكن المعنى يتقوى بمجموع الطرق في حالة النسيان.",
+    "urdu": "دارقطنی کی مرفوع روایت میں محمد بن یزید راوی ضعیف الحفظ ہے۔ تاہم عبدالرزاق نے اسے صحیح سند کے ساتھ ابن عباس کا قول (موقوف) نقل کیا ہے۔ ابوداؤد کی مرسل روایت اگرچہ ضعیف ہے لیکن نسیان (بھولنے) کی صورت میں یہ مفہوم دیگر دلائل سے تقویت پاتا ہے۔",
+    "english": "The Marfu version in ad-Daraqutni is weak due to Muhammad bin Yazid's poor memory. However, Abdur-Razzaq recorded a Sahih Mauquf version from Ibn 'Abbas. The Mursal of Abu Dawud is weak/unknown, but the overall meaning is supported by other evidences specifically in the case of forgetfulness."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَكْفِيهِ",
+      "english": "Sufficient for him",
+      "urdu": "اسے کافی ہے"
+    },
+    {
+      "arabic": "نَسِيَ",
+      "english": "Forgot",
+      "urdu": "بھول گیا"
+    },
+    {
+      "arabic": "يُسَمِّيَ",
+      "english": "Mention Name (Allah)",
+      "urdu": "اللہ کا نام لینا"
+    },
+    {
+      "arabic": "ذَبِيحَةُ",
+      "english": "Slaughtered animal",
+      "urdu": "ذبح کیا ہوا جانور"
+    },
+    {
+      "arabic": "حَلَالٌ",
+      "english": "Lawful",
+      "urdu": "حلال"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی مسلمان ذبح کے وقت بھول کر بسم اللہ نہ پڑھ سکے تو اس کا ذبیحہ حلال رہتا ہے کیونکہ اس کے دل میں ایمان موجود ہے، تاہم جان بوجھ کر چھوڑنا درست نہیں۔",
+    "english": "If a Muslim forgets to say Bismillah during slaughtering, the meat remains Halal because of the faith in his heart, though intentional omission is not allowed."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني (4/296)",
+      "english": "Reported by ad-Daraqutni (4/296)"
+    },
+    {
+      "arabic": "رواه عبد الرزاق (8548)",
+      "english": "Reported by Abdur-Razzaq (8548)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9_N_vXU2jI",
+  "grade": {
+    "arabic": "ضعيف مرفوعاً وصحيح موقوفاً",
+    "english": "Weak as Marfu, Sahih as Mauquf"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تسمیہ (بسم اللہ) کا شرعی حکم",
+        "english": "Ruling on Tasmiyah (Bismillah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بھول جانے کی صورت",
+              "english": "Case of Forgetfulness"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک اگر کوئی مسلمان بھول کر بسم اللہ نہ پڑھے تو ذبیحہ حلال ہے۔",
+                "نبی کریم ﷺ نے امت سے خطا اور نسیان (بھول) کو معاف قرار دیا ہے۔",
+                "مسلمان کے دل میں اللہ کا نام اور اس کی توحید ہمیشہ موجود رہتی ہے۔"
+              ],
+              "english": [
+                "According to most scholars, if a Muslim forgets to say Bismillah, the meat is Halal.",
+                "The Prophet (SAW) stated that mistakes and forgetfulness are excused for this Ummah.",
+                "A Muslim's heart always carries the name of Allah and the belief in His Oneness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جان بوجھ کر چھوڑنے کا حکم",
+              "english": "Intentional Omission"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص جان بوجھ کر بسم اللہ نہیں پڑھتا تو بہت سے فقہاء اسے حرام قرار دیتے ہیں۔",
+                "قرآن کریم میں اللہ کا نام نہ لیے جانے والے ذبیحہ کو کھانے سے منع کیا گیا ہے۔",
+                "شریعت میں ذبح کے وقت شعوری طور پر تسمیہ کہنا ایک اہم شعار ہے۔"
+              ],
+              "english": [
+                "If someone intentionally omits Bismillah, many jurists consider the meat unlawful.",
+                "The Quran forbids eating that over which Allah's name has not been mentioned.",
+                "In Sharia, consciously saying Tasmiyah is a significant ritual requirement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسلم کے ذبیحہ کی خصوصیت",
+        "english": "Status of a Muslim's Slaughter"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایمان کی برکت",
+              "english": "The Blessing of Faith"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی نسبت ہی یہ ظاہر کرتی ہے کہ وہ صرف اللہ کے نام پر ذبح کرتا ہے۔",
+                "اس کی نیت میں اللہ کے علاوہ کسی اور کا نام شامل نہیں ہوتا۔",
+                "اسی لیے اس کے نسیان کو شرعی طور پر گنجائش دی گئی ہے۔"
+              ],
+              "english": [
+                "The mere identity of a Muslim implies he slaughters only for Allah's sake.",
+                "His intention is never associated with anyone other than Allah.",
+                "This is why Sharia provides a concession for his forgetfulness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہل کتاب کا ذبیحہ",
+              "english": "Slaughter of People of the Book"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کے ساتھ ساتھ اہل کتاب (یہود و نصاریٰ) کا ذبیحہ بھی حلال ہے۔",
+                "ان کے معاملے میں بھی اصل حلت ان کے توحید سے قریبی عقیدے پر مبنی ہے۔",
+                "لیکن مشرکین اور مجوسیوں کا ذبیحہ کسی صورت حلال نہیں ہے۔"
+              ],
+              "english": [
+                "Along with Muslims, the slaughter of People of the Book is also permissible.",
+                "Their case is also based on the principle of their shared monotheistic heritage.",
+                "However, the slaughter of polytheists and magians is strictly forbidden."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کھاتے وقت بسم اللہ پڑھنا",
+        "english": "Saying Bismillah before Eating"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تلافی کا طریقہ",
+              "english": "Method of Redress"
+            },
+            "content": {
+              "urdu": [
+                "اگر ذبح کے وقت نام لینا بھول جائے تو کھاتے وقت بسم اللہ پڑھ لینا چاہیے۔",
+                "یہ عمل اس کمی کو پورا کرنے کے لیے ایک مستحب طریقہ ہے۔",
+                "کھانے سے پہلے بسم اللہ کہنا ویسے بھی سنتِ نبوی ﷺ ہے۔"
+              ],
+              "english": [
+                "If one forgets the name during slaughter, one should say it before eating.",
+                "This act serves as a recommended way to cover the initial omission.",
+                "Saying Bismillah before any meal is a Sunnah of the Prophet (SAW)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وسوسوں کا علاج",
+              "english": "Cure for Doubts"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام نے جب نئے مسلمانوں کے گوشت کے بارے میں پوچھا تو آپ نے یہی حکم دیا۔",
+                "آپ ﷺ نے فرمایا: ”تم خود بسم اللہ پڑھو اور کھا لو۔“",
+                "یہ حکم مسلمانوں کو غیر ضروری وسوسوں سے بچاتا ہے۔"
+              ],
+              "english": [
+                "When Companions asked about meat from new Muslims, the Prophet gave this ruling.",
+                "He said: 'Say Bismillah yourselves and eat it.'",
+                "This ruling protects Muslims from unnecessary doubts and whispers."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی ہدایات",
+        "english": "Practical Instructions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذبح کے وقت احتیاط",
+              "english": "Precaution during Slaughter"
+            },
+            "content": {
+              "urdu": [
+                "ذبح کرنے والے کو چاہیے کہ وہ اپنی توجہ مکمل طور پر ذکرِ الٰہی پر رکھے۔",
+                "تسمیہ کو زبان سے ادا کرنا افضل اور سنتِ مؤکدہ ہے۔",
+                "اس سے ذبیحہ کی روحانی پاکیزگی میں اضافہ ہوتا ہے۔"
+              ],
+              "english": [
+                "The slaughterer should keep his full focus on the remembrance of Allah.",
+                "Uttering Tasmiyah with the tongue is superior and an emphasized Sunnah.",
+                "This enhances the spiritual purity of the slaughtered animal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف سے بچنا",
+              "english": "Avoiding Juristic Disputes"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ بعض ائمہ بھول جانے پر بھی حلال نہیں مانتے، اس لیے احتیاط ضروری ہے۔",
+                "ہمیشہ کوشش کریں کہ بسم اللہ بلند آواز میں کہیں تاکہ گواہی رہے۔",
+                "احتیاط پر عمل کرنا دین میں زیادہ سلامتی کا راستہ ہے۔"
+              ],
+              "english": [
+                "Since some Imams do not allow it even in forgetfulness, caution is necessary.",
+                "Always try to say Bismillah aloud so that there is a witness to it.",
+                "Following the path of caution is safer in religious matters."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

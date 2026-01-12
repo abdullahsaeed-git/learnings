@@ -1,0 +1,259 @@
+{
+  "hadithId": 650,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/3"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (3511)، والنسائي (7/302)، والترمذي (1270)، وابن ماجه (2186)، وأحمد (1/466)، والحاكم (2/45).",
+    "urdu": "یہ روایت صحیح ہے، اسے ابو داؤد، نسائی، ترمذی، ابن ماجہ، احمد اور حاکم نے روایت کیا ہے۔ امام حاکم اور امام بیہقی نے اس کے مختلف طرق کی بنا پر اسے قوی قرار دیا ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (3511), An-Nasa'i (7/302), At-Tirmidhi (1270), Ibn Majah (2186), Ahmad (1/466), and Al-Hakim (2/45)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِخْتَلَفَ",
+      "english": "Disagreed",
+      "urdu": "اختلاف کیا"
+    },
+    {
+      "arabic": "اَلْمُتَبَايِعَانِ",
+      "english": "Two parties in trade",
+      "urdu": "خرید و فروخت کرنے والے"
+    },
+    {
+      "arabic": "بَيِّنَةٌ",
+      "english": "Clear evidence",
+      "urdu": "واضح ثبوت / گواہ"
+    },
+    {
+      "arabic": "رَبُّ اَلسِّلْعَةِ",
+      "english": "Owner of the goods",
+      "urdu": "مال کا مالک (بیچنے والا)"
+    },
+    {
+      "arabic": "يَتَتَارَكَانِ",
+      "english": "Both cancel it",
+      "urdu": "وہ دونوں چھوڑ دیں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تجارت کے دوران پیدا ہونے والے نزاع کا حل بتایا گیا ہے کہ اگر ثبوت نہ ہو تو بیچنے والے کا قول معتبر ہوگا یا سودا ختم کر دیا جائے گا۔",
+    "english": "This Hadith provides a solution for disputes in trade: if no evidence exists, the seller's statement is prioritized, or the deal is nullified."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (3511)",
+      "english": "Reported by Abu Dawud (3511)"
+    },
+    {
+      "arabic": "رواه الترمذي (1270)",
+      "english": "Reported by At-Tirmidhi (1270)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah ibn Mas'ud"
+      },
+      "slug": "abdullah-ibn-mas-ud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تجارتی نزاع کا حل",
+        "english": "Resolving Trade Disputes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بغیر ثبوت کے فیصلہ",
+              "english": "Ruling Without Evidence"
+            },
+            "content": {
+              "urdu": [
+                "اگر خریدار اور بیچنے والے میں قیمت یا مال کی نوعیت پر اختلاف ہو جائے تو گواہ طلب کیے جائیں گے۔",
+                "اگر دونوں کے پاس کوئی واضح ثبوت یا گواہ نہ ہو تو شریعت نے بیچنے والے کو ترجیح دی ہے۔",
+                "بیچنے والے کو حلف (قسم) اٹھانی ہوگی کہ اس کی بتائی ہوئی بات درست ہے۔"
+              ],
+              "english": [
+                "If a buyer and seller disagree on price or quality, witnesses must be sought first.",
+                "If neither party can provide clear evidence, Sharia prioritizes the seller's claim.",
+                "The seller must take an oath to confirm that their statement is the truth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیچنے والے کی ترجیح کی وجہ",
+              "english": "Reason for Seller's Priority"
+            },
+            "content": {
+              "urdu": [
+                "بیچنے والا اصل میں مال کا مالک (رب السلعہ) ہوتا ہے، اس لیے اس کا قول وزنی مانا جاتا ہے۔",
+                "وہ اپنے مال کی قیمت اور معیار کا دوسروں سے بہتر علم رکھتا ہے۔",
+                "یہ اصول اس لیے ہے تاکہ خریدار زبردستی اپنی مرضی کی قیمت بیچنے والے پر مسلط نہ کر سکے۔"
+              ],
+              "english": [
+                "The seller is the original owner of the goods, hence their word carries more weight.",
+                "They possess better knowledge of the cost and quality of their own merchandise.",
+                "This principle prevents buyers from forcing their own price upon the seller unfairly."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فسخِ نکاح (سودا ختم کرنا)",
+        "english": "Nullifying the Transaction"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی رضامندی سے علیحدگی",
+              "english": "Separation by Mutual Consent"
+            },
+            "content": {
+              "urdu": [
+                "اگر خریدار بیچنے والے کی بات تسلیم نہ کرے تو دوسرا راستہ سودے کو ختم کرنا ہے۔",
+                "دونوں فریقین اپنی اپنی چیزیں واپس لے لیں گے اور معاملہ ختم ہو جائے گا۔",
+                "اسے 'یتتارکان' کہا گیا ہے جس کا مطلب ہے ایک دوسرے کو آزاد کر دینا۔"
+              ],
+              "english": [
+                "If the buyer does not accept the seller's word, the alternative is to cancel the deal.",
+                "Both parties return their respective items, and the legal obligation ends there.",
+                "The term 'Yatatarakan' implies mutually leaving or releasing each other from the contract."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جھگڑے سے بچاؤ",
+              "english": "Avoiding Conflict"
+            },
+            "content": {
+              "urdu": [
+                "شریعت کا مقصد معاشرے میں بھائی چارے کو فروغ دینا اور لڑائی سے بچانا ہے۔",
+                "سودا ختم کر دینا طویل عدالتی کارروائیوں اور دشمنی سے بہتر ہے۔",
+                "یہ حکم اس وقت ہے جب مال اپنی اصل حالت میں موجود ہو۔"
+              ],
+              "english": [
+                "Sharia aims to promote brotherhood and prevent unnecessary social conflict.",
+                "Terminating a deal is often better than long legal battles and lingering animosity.",
+                "This ruling applies specifically when the goods are still in their original state."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسم اور ثبوت کا قاعدہ",
+              "english": "Rule of Oaths and Evidence"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون کا عام قاعدہ ہے کہ مدعی پر گواہی اور منکر پر قسم لازم ہے۔",
+                "اس خاص معاملے میں بیچنے والے کی قسم کو اہمیت دی گئی ہے تاکہ توازن برقرار رہے۔",
+                "اگر مال ضائع ہو چکا ہو تو پھر قیمتِ مثل (مارکیٹ ریٹ) کے مطابق فیصلہ ہوگا۔"
+              ],
+              "english": [
+                "The general Islamic rule is: evidence is for the claimant, and an oath for the denier.",
+                "In this specific case, the seller's oath is prioritized to maintain balance.",
+                "If the goods have been consumed, the decision is based on the current market rate."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر ائمہ کی رائے",
+              "english": "Opinions of Other Imams"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی کے نزدیک ایسی صورت میں دونوں فریقین کو قسم اٹھانی پڑے گی۔",
+                "جمہور فقہاء اس حدیث کی روشنی میں بیچنے والے کے قول کو مقدم رکھتے ہیں۔",
+                "عدل و انصاف کا تقاضا ہے کہ جس کا نقصان زیادہ ہو رہا ہو اس کی بات سنی جائے۔"
+              ],
+              "english": [
+                "Imam Shafi'i suggests that in such scenarios, both parties should take an oath.",
+                "The majority of jurists favor the seller's statement based on this specific Hadith.",
+                "Justice requires listening to the party who stands to lose the most in the dispute."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کاروباری اخلاقیات",
+        "english": "Business Ethics"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تحریری معاہدے کی اہمیت",
+              "english": "Importance of Written Contracts"
+            },
+            "content": {
+              "urdu": [
+                "اختلاف سے بچنے کے لیے قرآن مجید نے لین دین کو لکھنے کا حکم دیا ہے۔",
+                "اگر معاہدہ تحریری ہو تو ایسے نزاعات پیدا ہی نہیں ہوتے۔",
+                "موجودہ دور میں رسید اور دستاویزی ثبوت اسی شرعی حکم کی تعمیل ہیں۔"
+              ],
+              "english": [
+                "The Quran commands writing down transactions to avoid future disagreements.",
+                "If a contract is documented, such disputes are unlikely to arise at all.",
+                "In modern times, receipts and digital records fulfill this Sharia requirement."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیانتداری اور سچائی",
+              "english": "Honesty and Truthfulness"
+            },
+            "content": {
+              "urdu": [
+                "بیچنے والے کو چاہیے کہ وہ اللہ کے نام کی جھوٹی قسم ہرگز نہ کھائے۔",
+                "جھوٹی قسم سے مال تو بک جاتا ہے مگر برکت ختم ہو جاتی ہے۔",
+                "سچائی اور نرمی اختیار کرنے والے تاجر پر اللہ کی رحمت ہوتی ہے۔"
+              ],
+              "english": [
+                "A seller must never take a false oath in the name of Allah for profit.",
+                "While a false oath might sell the goods, it destroys the spiritual blessing.",
+                "Allah's mercy is upon the trader who practices truthfulness and leniency."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

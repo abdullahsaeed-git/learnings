@@ -1,0 +1,162 @@
+{
+  "hadithId": 704,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/72"],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أبو داود (3356)، والنسائي (4612)، والترمذي (1237)، وابن ماجه (2270)، وأحمد (5/12). وصححه الترمذي وابن الجارود والحاكم. ورغم أن الحسن البصري لم يسمع من سمرة إلا حديث العقيقة عند بعضهم، إلا أن له شواهد تقويه.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے ابوداؤد، نسائی، ترمذی، ابن ماجہ اور احمد نے روایت کیا ہے۔ ترمذی اور ابن جارود نے اسے صحیح کہا ہے۔ اگرچہ حسن بصری کی سمرہ سے روایت میں کلام ہے، مگر دیگر احادیث اس کی تائید کرتی ہیں۔",
+    "english": "Sahih due to supporting evidences. Reported by Abu Dawud (3356), An-Nasa'i (4612), At-Tirmidhi (1237), Ibn Majah (2270), and Ahmad (5/12). Graded Sahih by At-Tirmidhi and Ibn al-Jarud."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "الْحَيَوَانِ",
+      "english": "Animal",
+      "urdu": "جانور / حیوان"
+    },
+    {
+      "arabic": "نَسِيئَةً",
+      "english": "On credit / Delayed",
+      "urdu": "ادھار / تاخیر سے"
+    },
+    {
+      "arabic": "بَيْعِ",
+      "english": "Sale",
+      "urdu": "خرید و فروخت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں جانور کا جانور کے ساتھ تبادلہ کرتے وقت ادھار کرنے سے منع کیا گیا ہے تاکہ سود (ربا النسیئہ) اور نزاع کی صورت پیدا نہ ہو۔",
+    "english": "This Hadith prohibits exchanging one animal for another on credit to prevent interest due to delay (Riba al-Nasi'ah) and potential disputes."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب البيوع",
+      "english": "Sunan at-Tirmidhi, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سمرة بن جندب",
+        "english": "Samura bin Jundub"
+      },
+      "slug": "samura-bin-jundub"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi (Authentic due to others)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جانوروں کے تبادلے کا شرعی حکم",
+        "english": "Sharia Ruling on Exchanging Animals"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ادھار کی ممانعت کی وجہ",
+              "english": "Reason for Prohibiting Credit"
+            },
+            "content": {
+              "urdu": [
+                "جانوروں کا جانوروں کے بدلے ادھار سودا 'ربا النسیئہ' (تاخیر کا سود) بن سکتا ہے۔",
+                "جانور ایک ایسی چیز ہے جس کی قیمت اور حالت وقت کے ساتھ تیزی سے بدل سکتی ہے۔",
+                "ادھار کی صورت میں مستقبل میں جانور کی موت یا بیماری جھگڑے کا سبب بن سکتی ہے۔"
+              ],
+              "english": [
+                "Exchanging animals on credit can lead to 'Riba al-Nasi'ah' (interest linked to delay).",
+                "An animal is a commodity whose value and condition can change rapidly over time.",
+                "In credit deals, the future death or illness of the animal can trigger severe disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نقد تبادلے کی اہمیت",
+              "english": "Importance of Spot Exchange"
+            },
+            "content": {
+              "urdu": [
+                "اگر تبادلہ ہاتھوں ہاتھ (نقد) ہو تو یہ جائز ہے، خواہ جانوروں کی تعداد میں فرق ہو۔",
+                "فوری قبضہ سودے میں موجود ابہام اور خطرے (غرر) کو ختم کر دیتا ہے۔",
+                "اسلامی معیشت میں لین دین کو صاف ستھرا اور فوری رکھنے پر زور دیا گیا ہے۔"
+              ],
+              "english": [
+                "Spot (hand-to-hand) exchange is permissible even if the number of animals differs.",
+                "Immediate possession eliminates ambiguity and risk (Gharar) in the transaction.",
+                "Islamic economics emphasizes keeping transactions transparent and immediate."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف اور تطبیق",
+        "english": "Juristic Differences and Reconciliation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف ائمہ کی آراء",
+              "english": "Views of Different Imams"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ کے نزدیک اگر جانور ایک ہی جنس کے ہوں تو ادھار منع ہے۔",
+                "امام شافعی اور امام احمد کے نزدیک نقد تبادلہ جائز ہے، ادھار میں اختلاف ہے۔",
+                "کچھ روایات میں ایک اونٹ کے بدلے دو اونٹ ادھار لینے کا ذکر بھی ملتا ہے جو خاص ضرورت کے لیے تھا۔"
+              ],
+              "english": [
+                "According to Imam Abu Hanifa, credit is forbidden if animals are of the same species.",
+                "Imam Shafi'i and Imam Ahmad allow spot exchange but differ on credit rules.",
+                "Some narrations mention borrowing two camels for one on credit for state needs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاط کا تقاضا",
+              "english": "Requirement of Precaution"
+            },
+            "content": {
+              "urdu": [
+                "احتیاط اسی میں ہے کہ جانور کے بدلے جانور کا سودا نقد کیا جائے۔",
+                "اگر ادھار کرنا ضروری ہو تو اسے کرنسی (پیسوں) کے ذریعے طے کرنا بہتر ہے۔",
+                "شریعت کا مقصد مال کی حفاظت اور مسلمانوں کے درمیان محبت قائم رکھنا ہے۔"
+              ],
+              "english": [
+                "Precaution lies in making animal-for-animal transactions on a spot basis.",
+                "If credit is necessary, it is better to value them in currency first.",
+                "Sharia aims to protect wealth and maintain harmony among Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

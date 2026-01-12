@@ -1,0 +1,259 @@
+{
+  "hadithId": 580,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/6/2"],
+    "kitabId": 6,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الحج",
+    "babId": 36
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (6/165)، وابن ماجه (2901). وأصله في صحيح البخاري (1520) بلفظ: نعم، أفضل الجهاد حج مبرور.",
+    "urdu": "صحیح۔ اسے امام احمد اور ابن ماجہ نے روایت کیا ہے۔ اس کی اصل صحیح بخاری میں موجود ہے جہاں حج مبرور کو عورتوں کے لیے بہترین جہاد قرار دیا گیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (6/165) and Ibn Majah (2901). Its basis is found in Sahih al-Bukhari (1520) where Hajj is called the best Jihad for women."
+  },
+  "importantWords": [
+    {
+      "arabic": "جِهَادٌ",
+      "english": "Struggle / Jihad",
+      "urdu": "جہاد / کوشش"
+    },
+    {
+      "arabic": "النساء",
+      "english": "Women",
+      "urdu": "عورتیں"
+    },
+    {
+      "arabic": "قِتَالَ",
+      "english": "Fighting / Combat",
+      "urdu": "لڑائی / قتال"
+    },
+    {
+      "arabic": "الْحَجُّ",
+      "english": "The Pilgrimage",
+      "urdu": "حج"
+    },
+    {
+      "arabic": "الْعُمْرَةُ",
+      "english": "Minor Pilgrimage",
+      "urdu": "عمرہ"
+    }
+  ],
+  "summary": {
+    "urdu": "عورتوں پر میدانِ جنگ میں جاکر قتال کرنا فرض نہیں، بلکہ ان کے لیے حج اور عمرہ کی مشقت ہی جہاد کے برابر ثواب رکھتی ہے۔",
+    "english": "Fighting in the battlefield is not mandatory for women; instead, the exertion and sacrifice involved in Hajj and Umrah serve as their Jihad."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن ماجه (2901)",
+      "english": "Reported by Ibn Majah (2901)"
+    },
+    {
+      "arabic": "رواه أحمد (25319)",
+      "english": "Reported by Ahmad (25319)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=vVjV6L_P2uU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عورتوں کے لیے جہاد کا مفہوم",
+        "english": "Concept of Jihad for Women"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قتال کی معافی",
+              "english": "Exemption from Combat"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے عورت کی جسمانی نزاکت کے پیشِ نظر اسے قتال سے مستثنیٰ رکھا ہے۔",
+                "میدانِ جنگ میں جانا اور تلوار چلانا عورتوں پر فرض نہیں کیا گیا۔",
+                "یہ اسلام کی عورت پر شفقت اور اس کے فطری کردار کی حفاظت ہے۔"
+              ],
+              "english": [
+                "Sharia exempts women from combat due to their physical nature.",
+                "Going to the battlefield and fighting is not an obligation for them.",
+                "This reflects Islam's compassion and protection of women's natural role."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حج بطور جہاد",
+              "english": "Hajj as Jihad"
+            },
+            "content": {
+              "urdu": [
+                "حج اور عمرہ میں ہونے والی جسمانی اور مالی مشقت جہاد کے مشابہ ہے۔",
+                "نبی ﷺ نے اسے 'ایسا جہاد جس میں لڑائی نہیں' قرار دیا ہے۔",
+                "عورت گھر سے نکل کر سفر کی صعوبتیں اٹھاتی ہے تو اسے مجاہد کا ثواب ملتا ہے۔"
+              ],
+              "english": [
+                "The physical and financial effort in Hajj and Umrah mirrors Jihad.",
+                "The Prophet (ﷺ) defined it as 'Jihad without fighting'.",
+                "A woman leaving her home and enduring travel earns the reward of a Mujahid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عبادت میں مشقت اور اجر",
+        "english": "Struggle and Reward in Worship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حج مبرور کی فضیلت",
+              "english": "Excellence of Hajj Mabrur"
+            },
+            "content": {
+              "urdu": [
+                "صحیح بخاری کی روایت کے مطابق بہترین جہاد 'حج مبرور' ہے۔",
+                "حج مبرور وہ ہے جو گناہوں اور دکھاوے سے پاک ہو کر کیا جائے۔",
+                "عورت کے لیے یہ بلند ترین درجات حاصل کرنے کا بہترین راستہ ہے۔"
+              ],
+              "english": [
+                "According to Bukhari, the best Jihad for women is an accepted Hajj.",
+                "Hajj Mabrur is one performed without sin or ostentation.",
+                "For a woman, this is the prime path to attaining high spiritual ranks."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خواتین کا ذوقِ عبادت",
+              "english": "Women's Passion for Worship"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ کا سوال ثابت کرتا ہے کہ صحابیات جہاد کا شوق رکھتی تھیں۔",
+                "وہ اللہ کی رضا کے لیے بڑی سے بڑی قربانی دینے کے لیے تیار تھیں۔",
+                "نبی ﷺ نے ان کی تڑپ دیکھ کر ان کو متبادل اور آسان راستہ دکھایا۔"
+              ],
+              "english": [
+                "Aishah's question proves the Sahabiyat's longing for Jihad.",
+                "They were ready to make the ultimate sacrifice for Allah's pleasure.",
+                "Seeing their zeal, the Prophet (ﷺ) guided them to an easier alternative."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات اور حج",
+        "english": "Juristic Rulings on Hajj"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمرہ کی فرضیت",
+              "english": "Obligation of Umrah"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے ثابت ہوتا ہے کہ حج کے ساتھ عمرہ بھی عورتوں پر لازم ہے۔",
+                "اکثر فقہاء کے نزدیک زندگی میں ایک بار عمرہ کرنا فرض یا واجب ہے۔",
+                "حج اور عمرہ دونوں کو ایک ساتھ ذکر کرنا ان کی اہمیت کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith indicates that Umrah, like Hajj, is essential for women.",
+                "Most jurists consider performing Umrah once in a lifetime as mandatory.",
+                "Mentioning Hajj and Umrah together underscores their collective importance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محرم کی شرط",
+              "english": "The Condition of a Mahram"
+            },
+            "content": {
+              "urdu": [
+                "عورت کے لیے اس 'جہاد' کی ادائیگی میں محرم کا ہونا ضروری شرط ہے۔",
+                "بغیر محرم کے طویل سفر کرنا عورت کے لیے شرعاً ممنوع ہے۔",
+                "حفاظت اور سکونِ قلب کے لیے شریعت نے یہ ضابطہ مقرر کیا ہے۔"
+              ],
+              "english": [
+                "A Mahram is a necessary condition for a woman to perform this 'Jihad'.",
+                "Traveling long distances without a Mahram is legally prohibited.",
+                "Sharia set this rule to ensure the woman's safety and peace of mind."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنی حدود میں رہ کر بندگی",
+              "english": "Worship within Boundaries"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کو وہی عمل پسند ہے جو اس کے حکم کے مطابق ہو۔",
+                "مردوں کی نقل کرنا کمال نہیں، بلکہ اپنے دائرے میں رہ کر نیکی کرنا کمال ہے۔",
+                "عورت گھر کے فرائض اور حج و عمرہ کے ذریعے مجاہد بن سکتی ہے۔"
+              ],
+              "english": [
+                "Allah loves deeds that align with His specific commands.",
+                "Imitating men is not excellence; doing good in one's sphere is.",
+                "A woman can be a Mujahid through home duties and Hajj/Umrah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کا اجر",
+              "english": "The Reward of Intention"
+            },
+            "content": {
+              "urdu": [
+                "اگر نیت سچی ہو تو اللہ آسان اعمال پر بھی بڑا اجر عطا فرماتا ہے۔",
+                "عورتیں حج کے ذریعے وہی ثواب پا لیتی ہیں جو مرد میدانِ قتال میں پاتے ہیں۔",
+                "اللہ کی رحمت وسعت والی ہے اور وہ کسی کی محنت ضائع نہیں کرتا۔"
+              ],
+              "english": [
+                "If the intention is sincere, Allah rewards simple acts immensely.",
+                "Women earn via Hajj what men earn in the field of battle.",
+                "Allah's mercy is vast, and He never wastes anyone's efforts."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

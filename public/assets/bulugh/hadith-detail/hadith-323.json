@@ -1,0 +1,193 @@
+{
+  "hadithId": 323,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:705",
+      "https://sunnah.com/muslim:465"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "صحيح البخاري / صحيح مسلم",
+    "babId": 20
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح متفق عليه.‏ رواه البخاري (705)‏، ومسلم (465)‏.",
+    "urdu": "صحیح، متفق علیہ۔ اسے بخاری (705) اور مسلم (465) نے روایت کیا ہے۔",
+    "english": "Sahih (Agreed Upon). Reported by Al-Bukhari (705) and Muslim (465)."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَطَوَّلَ",
+      "english": "He prolonged / Made it long",
+      "urdu": "اس نے لمبا کر دیا"
+    },
+    {
+      "arabic": "فَتَّانًا",
+      "english": "One who causes trial/dissension",
+      "urdu": "فتنہ میں ڈالنے والا / آزمائش"
+    },
+    {
+      "arabic": "أَمَمْتَ",
+      "english": "You lead (prayer)",
+      "urdu": "تم امامت کراؤ"
+    },
+    {
+      "arabic": "فَاقْرَأْ",
+      "english": "Then recite",
+      "urdu": "تو پڑھو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث آئمہ مساجد کے لیے سنہری اصول بیان کرتی ہے کہ وہ مقتدیوں کی رعایت کریں اور نماز کو اتنا لمبا نہ کریں کہ لوگ مشقت کی وجہ سے جماعت چھوڑنے پر مجبور ہو جائیں یا دین سے بیزار ہو جائیں۔",
+    "english": "This Hadith sets a golden rule for Imams: they should consider the condition of the followers and not prolong the prayer to the extent that people are forced to leave the congregation or feel aversion towards religion."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (705)",
+      "english": "Reported by Al-Bukhari (705)"
+    },
+    {
+      "arabic": "رواه مسلم (465)",
+      "english": "Reported by Muslim (465)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جَابِرٍ بن عبد اللہ",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Muttafaq Alaih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا پس منظر",
+        "english": "Background of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاذ کا عمل",
+              "english": "Action of Mu'adh"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا معاذ بن جبل پہلے نبی ﷺ کے ساتھ عشاء پڑھتے، پھر اپنی قوم (بنو سلمہ) میں جا کر انہیں پڑھاتے۔",
+                "ایک رات انہوں نے سورہ بقرہ (یا لمبی قرات) شروع کر دی۔",
+                "ایک محنتی کسان تھکاوٹ کی وجہ سے نماز توڑ کر الگ ہو گیا اور اپنی نماز پڑھ کر چلا گیا۔"
+              ],
+              "english": [
+                "Mu'adh bin Jabal (RA) used to pray Isha with the Prophet (ﷺ) then go lead his tribe (Banu Salama).",
+                "One night he started reciting Surah Al-Baqarah (or a long recitation).",
+                "A hardworking farmer, due to fatigue, broke away from the congregation, prayed alone, and left."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا ردعمل",
+              "english": "Reaction of the Prophet"
+            },
+            "content": {
+              "urdu": [
+                "معاذ رضی اللہ عنہ نے اس شخص کو منافق کہا، تو اس نے نبی ﷺ سے شکایت کی۔",
+                "نبی ﷺ نے معاذ کو ڈانٹا اور فرمایا 'کیا تو فتنہ باز ہے؟'۔",
+                "فتنہ سے مراد لوگوں کو دین سے متنفر کرنا یا جماعت چھوڑنے پر مجبور کرنا ہے۔"
+              ],
+              "english": [
+                "Mu'adh called that person a hypocrite, so he complained to the Prophet (ﷺ).",
+                "The Prophet (ﷺ) scolded Mu'adh saying, 'Are you a trouble-maker?'.",
+                "Fitnah here means causing aversion to religion or forcing people to leave the congregation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امامت کے اصول",
+        "english": "Principles of Imamate"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تخفیف (ہلکا کرنا)",
+              "english": "Lightening the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "امام کو حکم ہے کہ وہ مقتدیوں میں سب سے کمزور (بیمار، بوڑھے، ضرورت مند) کا خیال رکھے۔",
+                "عشاء میں سورہ شمس، اعلیٰ، لیل اور علق جیسی سورتیں (اوسط مفصل) پڑھنا مسنون ہے۔",
+                "لمبی نماز صرف اس وقت جائز ہے جب تمام مقتدی راضی ہوں اور محصور (محدود) ہوں۔"
+              ],
+              "english": [
+                "The Imam is commanded to consider the weakest among the followers (sick, old, needy).",
+                "In Isha, reciting Surahs like Shams, A'la, Layl, and Alaq (Awsat Mufassal) is Sunnah.",
+                "Prolonging involves consent of all followers and applies to restricted gatherings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مفارقت (الگ ہونا)",
+              "english": "Separation (Mufaraqah)"
+            },
+            "content": {
+              "urdu": [
+                "اگر امام بہت لمبی قرات کرے تو مقتدی کے لیے جائز ہے کہ وہ نیت توڑ کر اپنی نماز الگ پڑھ لے۔",
+                "اس کسان کا عمل نبی ﷺ نے برقرار رکھا اور اسے ملامت نہیں کی۔",
+                "یہ فقہی اصول ہے کہ عذر کی بنا پر جماعت سے علیحدگی جائز ہے۔"
+              ],
+              "english": [
+                "If the Imam prolongs excessively, it is permissible for the follower to break intention and pray individually.",
+                "The Prophet (ﷺ) upheld the farmer's action and did not blame him.",
+                "This is a Fiqh principle that separating from congregation due to a valid excuse is permissible."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لوگوں کی نفسیات",
+              "english": "Psychology of People"
+            },
+            "content": {
+              "urdu": [
+                "دین میں سختی کر کے لوگوں کو بھگانا پسندیدہ نہیں ہے۔",
+                "مبلغ اور امام کو حکمت اور نرمی اختیار کرنی چاہیے۔",
+                "عبادت میں بھی اعتدال (Moderation) ضروری ہے۔"
+              ],
+              "english": [
+                "Driving people away by making religion harsh is not liked.",
+                "A preacher and Imam should adopt wisdom and leniency.",
+                "Moderation is essential even in worship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

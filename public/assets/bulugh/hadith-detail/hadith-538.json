@@ -1,0 +1,254 @@
+{
+  "hadithId": 538,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/538"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6057)، وأبو داود (2362)، والترمذي (707)، وابن ماجه (1689). واللفظ المذكور في المتن هو لفظ البخاري تقريباً مع اختلاف يسير في الروايات.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (6057) اور امام ابوداؤد (2362) نے روایت کیا ہے۔ اس میں روزے کی اصل روح یعنی تقویٰ کے حصول پر زور دیا گیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (6057), Abu Dawud (2362), At-Tirmidhi (707), and Ibn Majah (1689). The Hadith emphasizes the spirit of fasting over mere physical abstinence."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَدَعْ",
+      "english": "Leave / Abandon",
+      "urdu": "چھوڑ دے / ترک کرے"
+    },
+    {
+      "arabic": "قَوْلَ اَلزُّورِ",
+      "english": "False speech / Lies",
+      "urdu": "جھوٹی بات / جھوٹ"
+    },
+    {
+      "arabic": "اَلْجَهْلَ",
+      "english": "Ignorance / Foolish behavior",
+      "urdu": "نادانی / بیوقوفی / بدتمیزی"
+    },
+    {
+      "arabic": "حَاجَةٌ",
+      "english": "Need",
+      "urdu": "ضرورت"
+    }
+  ],
+  "summary": {
+    "urdu": "روزے کا اصل مقصد صرف بھوکا پیاسا رہنا نہیں بلکہ جھوٹ، بدزبانی اور گناہوں کو ترک کر کے اخلاقی پاکیزگی اور تقویٰ حاصل کرنا ہے، ورنہ روزہ بے کار ہے۔",
+    "english": "The primary objective of fasting is to achieve moral purity and Taqwa; if one continues to lie and act sinfully, mere abstinence from food and drink is valueless to Allah."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6057)",
+      "english": "Sahih al-Bukhari (6057)"
+    },
+    {
+      "arabic": "سنن أبي داود (2362)",
+      "english": "Sunan Abi Dawud (2362)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روزے کی حقیقت اور مقصد",
+        "english": "The Reality and Purpose of Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تقویٰ کا حصول",
+              "english": "Attaining Taqwa"
+            },
+            "content": {
+              "urdu": [
+                "روزے کا اصل مقصد قرآن کے مطابق 'لعلکم تتقون' یعنی تقویٰ پیدا کرنا ہے۔",
+                "تقویٰ کا مطلب اللہ کی ناراضگی والے تمام کاموں (گناہوں) سے بچنا ہے۔",
+                "اگر روزہ بندے کو گناہوں سے نہیں روک رہا تو وہ محض ایک رسمی بھوک ہے۔"
+              ],
+              "english": [
+                "The real purpose of fasting, as per the Quran, is to attain 'Taqwa' (God-consciousness).",
+                "Taqwa means avoiding all actions and words that displease Allah.",
+                "If fasting doesn't prevent a person from sinning, it remains a mere ritual of hunger."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جسمانی بمقابلہ روحانی روزہ",
+              "english": "Physical vs. Spiritual Fasting"
+            },
+            "content": {
+              "urdu": [
+                "جسمانی روزہ پیٹ کی بھوک ہے جبکہ روحانی روزہ زبان، آنکھ اور کان کا گناہوں سے رکنا ہے۔",
+                "صرف حلال چیزوں (کھانے پینے) کو چھوڑنا کافی نہیں جب تک حرام (جھوٹ، غیبت) کو نہ چھوڑا جائے۔",
+                "کامل روزہ وہی ہے جس میں انسان کا ظاہر اور باطن دونوں پاک ہوں۔"
+              ],
+              "english": [
+                "Physical fasting is hunger of the stomach, while spiritual fasting is the abstinence of tongue, eyes, and ears from sins.",
+                "Leaving Halal things (food) is insufficient as long as Haram (lies, backbiting) is not abandoned.",
+                "A complete fast is one where both the internal and external self are purified."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قولِ زور اور جہل کی ممانعت",
+        "english": "Prohibition of Falsehood and Ignorance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جھوٹ کی سنگینی",
+              "english": "Gravity of Falsehood"
+            },
+            "content": {
+              "urdu": [
+                "قولِ زور میں جھوٹ، جھوٹی گواہی، غیبت اور تہمت سب شامل ہیں۔",
+                "روزے کی حالت میں جھوٹ بولنا روزے کے اجر و ثواب کو ضائع کر دیتا ہے۔",
+                "مومن کی پہچان ہی سچائی ہے اور روزہ اس صفت کو نکھارنے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Falsehood includes lying, false testimony, backbiting, and slander.",
+                "Lying while fasting nullifies the spiritual reward and merit of the fast.",
+                "Truthfulness is the hallmark of a believer, and fasting is a means to polish this trait."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نادانی اور بدتمیزی سے بچنا",
+              "english": "Avoiding Ignorance and Rudeness"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'الجہل' سے مراد لڑائی جھگڑا، گالی گلوچ اور حماقت والے کام ہیں۔",
+                "روزہ دار کو چاہیے کہ وہ صبر اور تحمل کا مظاہرہ کرے، چاہے کوئی اسے اکسائے۔",
+                "بد اخلاقی روزے کے تقدس کو پامال کر دیتی ہے۔"
+              ],
+              "english": [
+                "In the Hadith, 'Al-Jahl' refers to fighting, abusive language, and foolish acts.",
+                "A fasting person must exhibit patience and restraint, even if provoked.",
+                "Bad manners violate the sanctity and spiritual environment of the fast."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قبولیتِ عمل کی شرائط",
+        "english": "Conditions for Acceptance of Deeds"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی بے نیازی",
+              "english": "Allah's Self-Sufficiency"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کو ہمارے بھوکا رہنے کی کوئی ضرورت نہیں، وہ تمام جہانوں سے بے نیاز ہے۔",
+                "عبادات کا فائدہ خود انسان کو پہنچتا ہے تاکہ اس کی اصلاح ہو سکے۔",
+                "بغیر اصلاحِ نفس کے کی گئی مشقت اللہ کے ہاں شرفِ قبولیت نہیں پاتی۔"
+              ],
+              "english": [
+                "Allah does not need our hunger; He is free of all needs and self-sufficient.",
+                "The benefits of worship are for the human himself, intended for self-reform.",
+                "Hardship endured without self-reformation does not find acceptance with Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجر کی محرومی",
+              "english": "Deprivation of Reward"
+            },
+            "content": {
+              "urdu": [
+                "ایسا شخص شرعی طور پر تو روزہ دار ہے (قضا لازم نہیں) مگر ثواب سے محروم ہے۔",
+                "ایسے روزے کو 'بیکار مشقت' قرار دیا گیا ہے جس کا کوئی روحانی فائدہ نہیں۔",
+                "قیامت کے دن ایسے روزے منہ پر مار دیے جائیں گے جو تقویٰ سے خالی ہوں۔"
+              ],
+              "english": [
+                "Legally, such a person has fasted (no makeup required), but they are deprived of reward.",
+                "Such a fast is described as 'useless toil' with no spiritual benefit.",
+                "On the Day of Judgment, fasts devoid of Taqwa may be rejected and thrown back."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت",
+              "english": "Guarding the Tongue"
+            },
+            "content": {
+              "urdu": [
+                "رمضان میں خاص طور پر اپنی زبان کو کنٹرول کرنے کی مشق کرنی چاہیے۔",
+                "بولنے سے پہلے سوچیں کہ کیا یہ لفظ اللہ کو پسند آئے گا یا نہیں۔",
+                "خاموشی اختیار کرنا فضول گوئی سے ہزار درجہ بہتر ہے۔"
+              ],
+              "english": [
+                "One should specifically practice controlling the tongue during Ramadan.",
+                "Think before speaking: will this word please Allah or not?",
+                "Maintaining silence is far better than engaging in useless or sinful talk."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کردار کی تعمیر",
+              "english": "Character Building"
+            },
+            "content": {
+              "urdu": [
+                "روزے کو ایک تربیتی کورس سمجھیں جو پورے سال کے لیے اخلاق درست کرے۔",
+                "اپنے معاملات میں دیانت داری اور سچائی کو شعار بنائیں۔",
+                "رمضان کا اصل تحفہ وہ تبدیلی ہے جو روزے کے بعد ہمارے کردار میں آئے۔"
+              ],
+              "english": [
+                "Treat fasting as a training course to rectify character for the whole year.",
+                "Adopt honesty and truthfulness as a standard in all dealings.",
+                "The true gift of Ramadan is the positive change that remains in our character after the month."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

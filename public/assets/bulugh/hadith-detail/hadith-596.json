@@ -1,0 +1,264 @@
+{
+  "hadithId": 596,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/6/18"],
+    "kitabId": 6,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحج",
+    "babId": 39
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1542)، ومسلم (1177). وهو أصل في بيان محظورات لباس الإحرام.",
+    "urdu": "صحیح۔ اسے امام بخاری (1542) اور امام مسلم (1177) نے روایت کیا ہے۔ یہ حدیث احرام کے لباس کی پابندیوں اور ممنوعہ اشیاء کے بیان میں بنیادی اہمیت رکھتی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1542) and Muslim (1177). This Hadith is the primary evidence for the restrictions regarding the clothing of a person in the state of Ihram."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْمُحْرِمُ",
+      "english": "One in Ihram",
+      "urdu": "احرام والا"
+    },
+    {
+      "arabic": "الْقُمُصَ",
+      "english": "Shirts",
+      "urdu": "قمیصیں"
+    },
+    {
+      "arabic": "الْعَمَائِمَ",
+      "english": "Turbans",
+      "urdu": "پگڑیاں"
+    },
+    {
+      "arabic": "اَلْبَرَانِسَ",
+      "english": "Hooded cloaks",
+      "urdu": "ٹوپی والے لباس"
+    },
+    {
+      "arabic": "اَلْخِفَافَ",
+      "english": "Leather socks",
+      "urdu": "چمڑے کے موزے"
+    },
+    {
+      "arabic": "اَلْوَرْسُ",
+      "english": "Wars (Yellow dye)",
+      "urdu": "ورس (خوشبو دار گھاس)"
+    }
+  ],
+  "summary": {
+    "urdu": "حالتِ احرام میں سلے ہوئے کپڑے، ٹوپی، موزے اور خوشبو دار رنگ والے لباس پہننا مردوں کے لیے ممنوع ہے، البتہ ضرورت کے وقت موزوں کی رعایت موجود ہے۔",
+    "english": "In the state of Ihram, men are forbidden from wearing stitched garments, head covers, leather socks, and clothes dyed with fragrance; exceptions apply for footwear in necessity."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1542)",
+      "english": "Sahih al-Bukhari (1542)"
+    },
+    {
+      "arabic": "صحيح مسلم (1177)",
+      "english": "Sahih Muslim (1177)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A_Ym9_uP9Hw",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "احرام کے ممنوعہ لباس",
+        "english": "Forbidden Clothing in Ihram"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سلے ہوئے کپڑوں کی ممانعت",
+              "english": "Prohibition of Stitched Clothes"
+            },
+            "content": {
+              "urdu": [
+                "مردوں کے لیے جسم کی ساخت پر سلے ہوئے کپڑے پہننا منع ہے۔",
+                "قمیص، شلوار، کوٹ اور بنیان وغیرہ اس ممانعت میں شامل ہیں۔",
+                "احرام صرف دو بغیر سلی چادروں (تہبند اور ردا) پر مشتمل ہونا چاہیے۔"
+              ],
+              "english": [
+                "Men are forbidden from wearing clothes tailored to fit the body's limbs.",
+                "This includes shirts, trousers, coats, and undergarments.",
+                "The Ihram must consist of only two unstitched sheets (Izhar and Rida)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سر اور پاؤں کی ڈھانپنا",
+              "english": "Covering the Head and Feet"
+            },
+            "content": {
+              "urdu": [
+                "احرام کی حالت میں مردوں کے لیے سر ڈھانپنا (ٹوپی یا پگڑی سے) جائز نہیں ہے۔",
+                "پاؤں میں ایسے موزے یا جوتے پہننا منع ہے جو ٹخنوں کو چھپائیں۔",
+                "یہ پابندی انسان کو عاجزی اور مسکینی کی حالت میں لانے کے لیے ہے۔"
+              ],
+              "english": [
+                "Men are not allowed to cover their heads with hats or turbans during Ihram.",
+                "Wearing socks or shoes that cover the ankles is strictly prohibited.",
+                "These restrictions are meant to instill a state of humility and simplicity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خوشبو اور رنگین لباس",
+        "english": "Fragrance and Dyed Clothing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زعفران اور ورس کا حکم",
+              "english": "Ruling on Saffron and Wars"
+            },
+            "content": {
+              "urdu": [
+                "ایسے کپڑے پہننا منع ہے جنہیں خوشبو دار رنگوں سے رنگا گیا ہو۔",
+                "زعفران اور ورس قدیم زمانے میں خوشبو دار رنگ کے طور پر استعمال ہوتے تھے۔",
+                "احرام کے کپڑے ہر قسم کی خوشبو اور آرائش سے پاک ہونے چاہئیں۔"
+              ],
+              "english": [
+                "It is forbidden to wear garments dyed with fragrant substances.",
+                "Saffron and Wars were commonly used as scented dyes in ancient times.",
+                "Ihram sheets must be free from all types of perfumes and adornments."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صفائی اور سادہ لباس",
+              "english": "Cleanliness and Simple Attire"
+            },
+            "content": {
+              "urdu": [
+                "احرام کے لیے سفید اور صاف ستھری چادریں مستحب ہیں۔",
+                "خوشبو لگانے کی ممانعت صرف نیت کرنے کے بعد کے وقت کے لیے ہے۔",
+                "نیت سے پہلے جسم پر خوشبو لگانا سنتِ نبوی سے ثابت ہے۔"
+              ],
+              "english": [
+                "White and clean sheets are highly recommended for the state of Ihram.",
+                "The prohibition of perfume applies only after declaring the intention.",
+                "Applying perfume to the body before the intention is a confirmed Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بوقتِ ضرورت رخصت",
+        "english": "Concessions in Necessity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موزوں کی اجازت",
+              "english": "Permission for Leather Socks"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کے پاس چپل یا جوتے نہ ہوں تو وہ موزے پہن سکتا ہے۔",
+                "ایسی صورت میں موزوں کو ٹخنوں سے نیچے کاٹ لینا ضروری ہے۔",
+                "یہ حکم شریعت کی لچک اور انسانی ضرورت کی رعایت کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "If a person cannot find sandals, they are permitted to wear leather socks.",
+                "In such a case, the socks must be cut down to remain below the ankles.",
+                "This ruling demonstrates Sharia's flexibility regarding human needs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طبی ضرورت اور فدیہ",
+              "english": "Medical Necessity and Ransom"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی بیماری کی وجہ سے سلے کپڑے پہننے پر مجبور ہو تو وہ پہن سکتا ہے۔",
+                "مجبوری میں ممنوعہ فعل کرنے پر فدیہ (صدقہ یا روزہ) دینا لازم ہوتا ہے۔",
+                "اسلام کسی بھی حال میں انسان کو ناقابلِ برداشت تنگی میں نہیں ڈالتا۔"
+              ],
+              "english": [
+                "If a medical condition forces one to wear stitched clothes, it is allowed.",
+                "Performing a forbidden act due to necessity requires a Fidyah (ransom).",
+                "Islam never places a person in a state of unbearable hardship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور حکیمانہ پہلو",
+        "english": "Educational and Wise Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مساوات کا درس",
+              "english": "Lesson of Equality"
+            },
+            "content": {
+              "urdu": [
+                "مخصوص لباس ختم کرنے سے امیر اور غریب کا فرق مٹ جاتا ہے۔",
+                "سب لوگ ایک ہی سادہ لباس میں اللہ کے دربار میں حاضر ہوتے ہیں۔",
+                "یہ منظر قیامت کے دن کی حاضری اور انسانی برابری کی یاد دلاتا ہے۔"
+              ],
+              "english": [
+                "Standardizing the dress removes the distinction between rich and poor.",
+                "Everyone stands in Allah's presence wearing the same simple attire.",
+                "This scene evokes the gathering of Resurrection and human equality."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفس کی تربیت",
+              "english": "Discipline of the Soul"
+            },
+            "content": {
+              "urdu": [
+                "زینت اور آرائش کو چھوڑنا نفس کی سرکشی کو ختم کرنے کا ذریعہ ہے۔",
+                "حاجی اپنی تمام تر توجہ ظاہری لباس سے ہٹا کر باطنی طہارت پر رکھتا ہے۔",
+                "احرام کی پابندیاں انسان کو صبر اور نظم و ضبط کا خوگر بناتی ہیں۔"
+              ],
+              "english": [
+                "Abandoning adornment helps in curbing the arrogance of the soul.",
+                "The pilgrim shifts focus from outward clothing to inward purity.",
+                "The restrictions of Ihram habituate a person to patience and discipline."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

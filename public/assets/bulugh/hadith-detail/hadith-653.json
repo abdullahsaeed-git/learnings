@@ -1,0 +1,259 @@
+{
+  "hadithId": 653,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/6"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2141، 2534، 7186) ومسلم (997).",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری و مسلم دونوں میں موجود ہے۔ مسلم کی روایت میں تفصیل ہے کہ اسے نعیم بن عبداللہ عدوی نے 800 درہم میں خریدا۔",
+    "english": "Sahih. Reported by Al-Bukhari (2141, 2534) and Muslim (997). The version in Muslim clarifies he was sold for 800 Dirhams."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْتَقَ",
+      "english": "Emancipated",
+      "urdu": "آزاد کیا"
+    },
+    {
+      "arabic": "عَنْ دُبُرٍ",
+      "english": "After death",
+      "urdu": "مرنے کے بعد"
+    },
+    {
+      "arabic": "مَالٌ",
+      "english": "Wealth / Property",
+      "urdu": "مال و دولت"
+    },
+    {
+      "arabic": "فَبَاعَهُ",
+      "english": "Then he sold him",
+      "urdu": "پس اسے فروخت کر دیا"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْهِ",
+      "english": "Agreed upon",
+      "urdu": "بخاری و مسلم کی متفقہ روایت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ اگر کوئی شخص قرض دار ہو یا محتاج ہو، تو اس کی طرف سے کی گئی غلام کی آزادی (تدبیر) کو منسوخ کر کے اسے فروخت کیا جا سکتا ہے۔",
+    "english": "This Hadith establishes that a 'Mudabbar' slave (to be freed after owner's death) can be sold if the owner is in debt or has no other means of livelihood."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2141)",
+      "english": "Sahih al-Bukhari (2141)"
+    },
+    {
+      "arabic": "صحيح مسلم (997)",
+      "english": "Sahih Muslim (997)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqS_tP7R0sM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تدبیر اور اس کا حکم",
+        "english": "Meaning of Tadbir"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غلام کو مدبر کرنا",
+              "english": "Defining the Mudabbar Slave"
+            },
+            "content": {
+              "urdu": [
+                "تدبیر کا مطلب ہے غلام سے یہ کہنا کہ 'تم میری موت کے بعد آزاد ہو'۔",
+                "یہ ایک طرح کی وصیت ہوتی ہے جو مالک کی وفات کے بعد نافذ ہوتی ہے۔",
+                "اس حدیث سے معلوم ہوا کہ ضرورت پڑنے پر اس وصیت کو منسوخ کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "Tadbir means telling a slave, 'You are free after my death'.",
+                "It is a form of bequest that takes effect only after the owner's demise.",
+                "This Hadith shows that such a bequest can be revoked if a necessity arises."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیچنے کی شرعی وجہ",
+              "english": "Legal Reason for Selling"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے دیکھا کہ اس شخص کے پاس گزر اوقات کے لیے کوئی اور مال نہیں تھا۔",
+                "قرض کی ادائیگی یا اپنی بنیادی ضروریات پوری کرنا نفل آزادی سے مقدم ہے۔",
+                "آپ ﷺ نے اس کی معاشی حالت بہتر بنانے کے لیے اسے فروخت کرنے کا حکم دیا۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) observed that the man had no other wealth for his livelihood.",
+                "Paying debts or fulfilling basic needs takes precedence over voluntary emancipation.",
+                "The Prophet (PBUH) ordered the sale to improve the man's financial condition."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی حقوق کی ترجیح",
+        "english": "Priority of Financial Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہلے اپنی ذات پر خرچ",
+              "english": "Spending on Oneself First"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی روایت کے مطابق آپ ﷺ نے فرمایا: 'پہلے اپنی ذات سے صدقہ شروع کرو'۔",
+                "انسان کو چاہیے کہ پہلے اپنی اور اپنے اہل و عیال کی ضروریات پوری کرے۔",
+                "اپنے آپ کو محتاج رکھ کر دوسروں پر خرچ کرنا یا غلام آزاد کرنا پسندیدہ نہیں۔"
+              ],
+              "english": [
+                "According to Muslim's narration, the Prophet said, 'Start by giving charity to yourself'.",
+                "A person must first fulfill their own needs and the needs of their family.",
+                "Leaving oneself in poverty to spend on others or free slaves is not encouraged."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرض کی اہمیت",
+              "english": "Importance of Debt Clearance"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی پر قرض ہو تو وہ اس مال سے غلام آزاد نہیں کر سکتا جس سے قرض اترنا ہو۔",
+                "حقوق العباد (لوگوں کے حقوق) کی ادائیگی اللہ کی نفل عبادت سے پہلے ہے۔",
+                "یہ حدیث دیوالیہ پن یا ناداری کی صورت میں مال کی تقسیم کا اصول بتاتی ہے۔"
+              ],
+              "english": [
+                "If someone is in debt, they cannot free a slave using wealth needed to pay it off.",
+                "Fulfilling the rights of people comes before voluntary acts of worship for Allah.",
+                "This Hadith outlines the principle of asset distribution in cases of insolvency."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی استدلال",
+        "english": "Juristic Deductions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مدبر کی بیع کا جواز",
+              "english": "Permissibility of Selling Mudabbar"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک ضرورت کے وقت مدبر غلام کو بیچا جا سکتا ہے۔",
+                "امام شافعی اور امام احمد اسی حدیث سے استدلال کرتے ہیں۔",
+                "یہ عمل ثابت کرتا ہے کہ موت سے پہلے مالک کو اپنے مال پر مکمل حق حاصل ہے۔"
+              ],
+              "english": [
+                "The majority of jurists agree that a Mudabbar slave can be sold in case of need.",
+                "Imam Shafi'i and Imam Ahmad derive their evidence from this specific Hadith.",
+                "This action proves that an owner retains full rights over his property before death."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حاکمِ وقت کا اختیار",
+              "english": "Authority of the Ruler"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے بطور حاکم اور قاضی اس معاملے میں مداخلت فرمائی۔",
+                "حاکمِ وقت کسی شخص کے مالی مفاد کے تحفظ کے لیے اس کا مال فروخت کر سکتا ہے۔",
+                "عوامی فلاح اور انفرادی معیشت کا تحفظ اسلامی ریاست کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) intervened in this matter as a ruler and a judge.",
+                "The ruler has the authority to sell a person's property to protect their interests.",
+                "Protecting public welfare and individual economy is the duty of the Islamic state."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و تربیتی سبق",
+        "english": "Ethical and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتدال کی تعلیم",
+              "english": "Teaching Moderation"
+            },
+            "content": {
+              "urdu": [
+                "نیکی کے کاموں میں بھی اعتدال اور حکمت ضروری ہے۔",
+                "جذباتی ہو کر اپنی تمام جمع پونجی لٹا دینا دانشمندی نہیں ہے۔",
+                "اسلام ایک متوازن نظامِ زندگی فراہم کرتا ہے جو حقیقت پسندی پر مبنی ہے۔"
+              ],
+              "english": [
+                "Moderation and wisdom are necessary even in performing good deeds.",
+                "Giving away all of one's savings in an emotional state is not wise.",
+                "Islam provides a balanced system of life based on practical realism."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہل و عیال کا حق",
+              "english": "Rights of the Family"
+            },
+            "content": {
+              "urdu": [
+                "اپنے اہل و عیال کو دوسروں کا دستِ نگر چھوڑنا گناہ کے زمرے میں آتا ہے۔",
+                "خاندان کی کفالت کرنا سب سے بڑا صدقہ قرار دیا گیا ہے۔",
+                "یہ حدیث ہمیں اپنی ذمہ داریوں کی ترجیحات طے کرنے کا سبق دیتی ہے۔"
+              ],
+              "english": [
+                "Leaving one's family dependent on others' charity is considered a sin.",
+                "Providing for one's family is categorized as the greatest form of charity.",
+                "This Hadith teaches us to set clear priorities regarding our responsibilities."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

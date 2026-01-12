@@ -1,0 +1,264 @@
+{
+  "hadithId": 426,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/2", "riyadussalihin/1/40"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5671) ، ومسلم (2680) واللفظ للبخاري.",
+    "urdu": "صحیح۔ اسے امام بخاری (5671) اور امام مسلم (2680) نے روایت کیا ہے، اور الفاظ بخاری کے ہیں۔",
+    "english": "Sahih. Reported by Al-Bukhari (5671) and Muslim (2680). The wording belongs to Bukhari."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَتَمَنَّيَنَّ",
+      "english": "Should not wish",
+      "urdu": "ہرگز تمنا نہ کرے"
+    },
+    {
+      "arabic": "ضُرٍّ",
+      "english": "Calamity/Harm",
+      "urdu": "تکلیف یا مصیبت"
+    },
+    {
+      "arabic": "يَنْزِلُ بِهِ",
+      "english": "Befalls him",
+      "urdu": "اس پر نازل ہو"
+    },
+    {
+      "arabic": "لَا بُدَّ",
+      "english": "Inevitable/Must",
+      "urdu": "ضروری / کوئی چارہ نہ ہو"
+    },
+    {
+      "arabic": "أَحْيِنِي",
+      "english": "Keep me alive",
+      "urdu": "مجھے زندہ رکھ"
+    },
+    {
+      "arabic": "تَوَفَّنِي",
+      "english": "Take my life",
+      "urdu": "مجھے وفات دے"
+    }
+  ],
+  "summary": {
+    "urdu": "مصیبت کے وقت موت کی تمنا کرنا منع ہے؛ اس کے بجائے اللہ کے فیصلے پر راضی رہ کر خیر کی دعا کرنی چاہیے۔",
+    "english": "It is forbidden to wish for death due to hardships; instead, one should pray for what is best according to Allah's wisdom."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب المرضى، رقم 5671",
+      "english": "Sahih al-Bukhari, Book of Patients, Hadith 5671"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الذكر والدعاء والتوبة، رقم 2680",
+      "english": "Sahih Muslim, Book of Remembrance and Prayer, Hadith 2680"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=AIs4y_F_CGE",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Authentic) Muttafaqun Alayh"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شرعی حکم اور ممانعت",
+        "english": "Legal Ruling and Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موت کی تمنا کی ممانعت",
+              "english": "Prohibition of Wishing for Death"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں دنیاوی مصائب کی وجہ سے موت مانگنا ناپسندیدہ اور ممنوع عمل ہے۔",
+                "یہ عمل اللہ کی تقدیر پر عدم اطمینان اور بے صبری کی علامت سمجھا جاتا ہے۔",
+                "ایسا کرنا انسان کے ایمان کی کمزوری اور تقدیر پر شکوہ کا اظہار ہوتا ہے۔"
+              ],
+              "english": [
+                "In Islam, wishing for death due to worldly hardships is disliked and prohibited.",
+                "This act is considered a sign of dissatisfaction and impatience with Allah's decree.",
+                "Doing so reflects a weakness in faith and a complaint against destiny."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صبر اور رضا بالرضا",
+              "english": "Patience and Contentment"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو چاہیے کہ وہ آزمائش میں ثابت قدم رہے اور اللہ سے اجر کی امید رکھے۔",
+                "زندگی اللہ کی دی ہوئی ایک عظیم نعمت ہے جسے ضائع کرنے کی خواہش نہیں کرنی چاہیے۔",
+                "تکالیف پر صبر کرنے سے گناہ جھڑتے ہیں اور آخرت میں درجات بلند ہوتے ہیں۔"
+              ],
+              "english": [
+                "A believer should remain steadfast during trials and hope for reward from Allah.",
+                "Life is a great blessing from Allah that one should not wish to discard easily.",
+                "Patience during suffering expiates sins and raises one's status in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسنون دعا کا طریقہ",
+        "english": "The Sunnah Method of Supplication"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کے علم پر بھروسہ",
+              "english": "Trusting Allah's Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "اگر تکلیف حد سے بڑھ جائے تو ایسی دعا کریں جو اللہ کے علم کے سپرد ہو۔",
+                "انسان نہیں جانتا کہ اس کے حق میں جینا بہتر ہے یا موت کی آغوش میں جانا۔",
+                "یہ دعا اللہ کی حکمت پر مکمل یقین اور تسلیم و رضا کا بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "If suffering becomes unbearable, one should make a prayer entrusted to Allah's knowledge.",
+                "A human does not know whether living is better for him or embracing death.",
+                "This prayer is a perfect example of surrender and belief in Allah's divine wisdom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کے الفاظ کی حکمت",
+              "english": "Wisdom Behind the Supplication's Words"
+            },
+            "content": {
+              "urdu": [
+                "دعا میں 'خیر' (بھلائی) کا لفظ شامل کرنا بتاتا ہے کہ اصل مقصد عافیت ہے۔",
+                "یہ دعا انسان کو مایوسی کے اندھیروں سے نکال کر امید کی طرف لے جاتی ہے۔",
+                "آپ ﷺ نے ہمیں سکھایا کہ حالات کیسے بھی ہوں، زبان پر شکوہ نہیں ہونا چاہیے۔"
+              ],
+              "english": [
+                "Including the word 'Khayr' (goodness) in the prayer shows that the goal is well-being.",
+                "This supplication leads a person out of the darkness of despair toward hope.",
+                "The Prophet (ﷺ) taught us that regardless of circumstances, one should not complain."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی پہلو",
+        "english": "Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفسیاتی مضبوطی",
+              "english": "Psychological Strength"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث انسان کو ذہنی دباؤ اور ڈیپریشن کے وقت خودکشی کے خیالات سے روکتی ہے۔",
+                "دینِ اسلام انسان کو ہر حال میں جینے اور مقابلہ کرنے کا حوصلہ عطا کرتا ہے۔",
+                "ذکر اور دعا کے ذریعے انسان کا دل پرسکون اور ارادہ مضبوط ہوتا ہے۔"
+              ],
+              "english": [
+                "This Hadith prevents suicidal thoughts during times of mental stress and depression.",
+                "The religion of Islam encourages a person to live and persevere in all conditions.",
+                "Through remembrance and prayer, a person's heart finds peace and will strengthens."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زندگی کی قدر و قیمت",
+              "english": "The Value of Life"
+            },
+            "content": {
+              "urdu": [
+                "ہر لمحہ زندگی توبہ اور نیک اعمال میں اضافے کا ایک سنہری موقع ہوتا ہے۔",
+                "موت کی تمنا نیکیوں کے دروازے کو بند کرنے کی خواہش کے مترادف ہے۔",
+                "بیماری اور بڑھاپا بھی اللہ کے قریب ہونے کا ایک اہم ذریعہ بن سکتے ہیں۔"
+              ],
+              "english": [
+                "Every moment of life is a golden opportunity for repentance and good deeds.",
+                "Wishing for death is like wishing to close the door to performing virtues.",
+                "Illness and old age can also be significant means of attaining closeness to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اسباق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شدید پریشانی کا حل",
+              "english": "Solution for Severe Distress"
+            },
+            "content": {
+              "urdu": [
+                "جب زندگی بوجھ لگنے لگے تو مسنون دعاؤں کا کثرت سے ورد کرنا چاہیے۔",
+                "اپنے معاملات اللہ کے سپرد کر دینے سے ذہنی بوجھ ہلکا ہو جاتا ہے۔",
+                "صبر کا دامن تھامنے والے ہی دنیا اور آخرت میں کامیاب قرار پاتے ہیں۔"
+              ],
+              "english": [
+                "When life feels burdensome, one should frequently recite the Masnoon prayers.",
+                "Entrusting your affairs to Allah lightens the mental and emotional load.",
+                "Those who hold onto patience are the ones successful in this world and the next."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دوسروں کی حوصلہ افزائی",
+              "english": "Encouraging Others"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی مصیبت زدہ ہو تو اسے مایوسی کے بجائے صبر کی تلقین کرنی چاہیے۔",
+                "بیماروں کی عیادت کرتے وقت انہیں زندگی کی امید دلانا سنتِ نبوی ہے۔",
+                "معاشرے میں امید اور اللہ پر توکل کا پیغام عام کرنا ہم سب کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "If someone is afflicted, they should be urged toward patience instead of despair.",
+                "Providing hope for life while visiting the sick is a Sunnah of the Prophet (ﷺ).",
+                "Spreading hope and trust in Allah within society is a responsibility for us all."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

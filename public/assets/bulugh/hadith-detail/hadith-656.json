@@ -1,0 +1,267 @@
+{
+  "hadithId": 656,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/9"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (1569)، وأخرجه النسائي (4668). أما زيادة \"إلا كلب صيد\" فضعفها النسائي في بعض المواضع لكن أصل تحريم ثمن الكلب والسنور ثابت.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام مسلم (1569) نے روایت کیا ہے۔ نسائی (4668) میں شکاری کتے کا استثناء موجود ہے، اگرچہ بعض محدثین نے اس اضافے پر کلام کیا ہے، مگر ممانعت کی اصل ثابت ہے۔",
+    "english": "Sahih. Reported by Muslim (1569) and an-Nasa'i (4668). While the exception of the hunting dog is mentioned in an-Nasa'i, the core prohibition of the price of dogs and cats is well-established."
+  },
+  "importantWords": [
+    {
+      "arabic": "ثَمَنِ",
+      "english": "Price / Value",
+      "urdu": "قیمت"
+    },
+    {
+      "arabic": "السِّنَّوْرِ",
+      "english": "Cat",
+      "urdu": "بلی"
+    },
+    {
+      "arabic": "زَجَرَ",
+      "english": "Rebuked / Forbade",
+      "urdu": "ڈانٹا یا منع کیا"
+    },
+    {
+      "arabic": "صَيْدٍ",
+      "english": "Hunting",
+      "urdu": "شکار"
+    },
+    {
+      "arabic": "الْكَلْبِ",
+      "english": "Dog",
+      "urdu": "کتا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کتے اور بلی کی خرید و فروخت سے منع کیا گیا ہے۔ شکاری کتے کے متعلق بعض روایات میں استثناء ملتا ہے مگر بلی کی تجارت کو ناپسند کیا گیا ہے۔",
+    "english": "This Hadith prohibits the sale of dogs and cats. While exceptions for hunting dogs appear in some reports, the trade of cats is generally disliked or prohibited."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب المساقاة",
+      "english": "Sahih Muslim, Book of Musaqah"
+    },
+    {
+      "arabic": "سنن النسائي، كتاب البيوع",
+      "english": "Sunan an-Nasa'i, Book of Financial Transactions"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو الزبير المكي",
+        "english": "Abu az-Zubair al-Makki"
+      },
+      "slug": "abu-az-zubair-al-makki"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0S1_WvX-oI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بلی کی تجارت کا حکم",
+        "english": "Ruling on Trading Cats"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بلی کی خرید و فروخت کی ممانعت",
+              "english": "Prohibition of Selling Cats"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے بلی کی قیمت وصول کرنے سے سختی سے منع فرمایا ہے۔",
+                "اکثر علماء کے نزدیک پالتو بلیوں کو بیچنا مکروہ یا ممنوع عمل ہے۔",
+                "یہ ممانعت اس لیے ہے تاکہ ایسی چیزوں پر مال ضائع نہ کیا جائے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) strictly forbade taking a price for a cat.",
+                "Most scholars consider selling domestic cats as disliked or prohibited.",
+                "This restriction prevents the wasteful spending of money on such animals."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بلی کے حوالے سے رعایت",
+              "english": "Concession Regarding Cats"
+            },
+            "content": {
+              "urdu": [
+                "بلی ناپاک جانور نہیں ہے، اسے گھروں میں رکھنے کی اجازت ہے۔",
+                "مگر اسے ایک تجارتی مال بنانا اسلامی تعلیمات کے خلاف سمجھا جاتا ہے۔",
+                "ضرورت مند کو بلی تحفے میں دینا تجارت کرنے سے کہیں بہتر ہے۔"
+              ],
+              "english": [
+                "Cats are not impure animals and are allowed to be kept in homes.",
+                "However, turning them into commercial commodities is against Islamic values.",
+                "Gifting a cat to someone in need is far better than selling it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کتے کی قیمت کا مسئلہ",
+        "english": "The Issue of the Price of Dogs"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کتے کی تجارت کی حرمت",
+              "english": "Prohibition of Dog Trade"
+            },
+            "content": {
+              "urdu": [
+                "عام کتے کی خرید و فروخت بالاتفاق حرام اور ناجائز قرار دی گئی ہے۔",
+                "کتا ایک ایسا جانور ہے جس کی تجارت میں کوئی شرعی خیر نہیں۔",
+                "اس کی قیمت کو 'خبیث' کمائی کے زمرے میں شمار کیا گیا ہے۔"
+              ],
+              "english": [
+                "The trade of ordinary dogs is unanimously declared haram and invalid.",
+                "A dog is an animal whose commercial trade holds no religious goodness.",
+                "Its price is categorized under 'evil' or 'impure' earnings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شکاری کتے کا استثناء",
+              "english": "Exception for Hunting Dogs"
+            },
+            "content": {
+              "urdu": [
+                "نسائی کی روایت میں شکاری کتے کی خرید و فروخت کی گنجائش ملتی ہے۔",
+                "امام ابوحنیفہ کے نزدیک ضرورت کے کتوں کی خرید و فروخت جائز ہے۔",
+                "تاہم، دیگر ائمہ ممانعت کی احادیث کو عام اور زیادہ طاقتور سمجھتے ہیں۔"
+              ],
+              "english": [
+                "The report in an-Nasa'i allows for the sale of hunting dogs.",
+                "Imam Abu Hanifa permits the sale of dogs kept for valid needs.",
+                "However, other Imams view the prohibition as general and more binding."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی پہلو",
+        "english": "Juristic and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کمائی کی پاکیزگی",
+              "english": "Purity of Earnings"
+            },
+            "content": {
+              "urdu": [
+                "اسلام اپنے پیروکاروں کو صرف پاکیزہ ذرائع سے کمانے کی ترغیب دیتا ہے۔",
+                "ناپسندیدہ جانوروں کی تجارت سے حاصل شدہ مال برکت سے خالی ہوتا ہے۔",
+                "مومن کو مشکوک اور مکروہ مکاسب سے ہمیشہ دور رہنا چاہیے۔"
+              ],
+              "english": [
+                "Islam encourages its followers to earn only through pure means.",
+                "Wealth obtained from trading disliked animals is devoid of blessings.",
+                "A believer should always stay away from doubtful or disliked earnings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جانوروں کے حقوق",
+              "english": "Animal Rights"
+            },
+            "content": {
+              "urdu": [
+                "تجارت کی ممانعت سے جانوروں کو محض مالِ تجارت سمجھنے کی حوصلہ شکنی ہوتی ہے۔",
+                "انسان کو ان کے ساتھ شفقت کا معاملہ کرنا چاہیے نہ کہ نفع خوری کا۔",
+                "یہ حکم معاشرے میں جانوروں کے وقار اور صحیح استعمال کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "Prohibiting trade discourages treating animals as mere commercial goods.",
+                "Humans should treat them with compassion rather than for profiteering.",
+                "This ruling clarifies the dignity and proper use of animals in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پالتو جانوروں کا کاروبار",
+              "english": "Pet Business"
+            },
+            "content": {
+              "urdu": [
+                "موجودہ دور میں پالتو جانوروں کے بڑے کاروبار میں احتیاط کی ضرورت ہے۔",
+                "خاص طور پر بلیوں کی مہنگی نسلوں کی خرید و فروخت سے بچنا چاہیے۔",
+                "اگر بلی پالنی ہو تو اسے کسی سے بلا قیمت حاصل کرنا بہتر ہے۔"
+              ],
+              "english": [
+                "Caution is needed in today's large-scale commercial pet industry.",
+                "Specifically, the sale of expensive cat breeds should be avoided.",
+                "If one wishes to keep a cat, it is better to adopt it for free."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علماء سے رہنمائی",
+              "english": "Guidance from Scholars"
+            },
+            "content": {
+              "urdu": [
+                "تجارت کے پیچیدہ مسائل میں مستند فقہاء کی رائے کو مقدم رکھیں۔",
+                "حدیث کے ظاہری الفاظ پر عمل کرنا تقویٰ کے زیادہ قریب ہے۔",
+                "دین کے معاملے میں شبہات سے بچنا ہی سلامتی کا راستہ ہے۔"
+              ],
+              "english": [
+                "Prioritize the views of authentic jurists in complex trade issues.",
+                "Acting on the apparent words of the Hadith is closer to piety.",
+                "Avoiding doubts in religious matters is the path to safety."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "hadithId": 157,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["1:3:14"],
+    "kitabId": 2,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأذان والإقامة",
+    "babId": 12
+  },
+  
+  "takhreej": {
+    "arabic": " ضعيف .‏ رواه ابن عدي في \"الكامل\" (4/1327)‏ وفي سنده شريك بن عبد الله القاضي ، وهو سيئ الحفظ .‏ وبه أعله ابن عدي .‏ صحيح موقوفا .‏ رواه البيهقي (2/19)‏ ولفظه : \"المؤذن أملك بالأذان ، والإمام أملك بالإقامة \".‏ وهذا القول عن علي رضي الله عنه صحيح موقوفاً، وقد عمل به جمهور الفقهاء والأئمة .‏",
+    "urdu": "ضعیف۔ اسے ابن عدی نے ”الکامل“ (4/1327) میں روایت کیا ہے اور اس کی سند میں شریک بن عبداللہ القاضی ہیں، جو خراب حافظے والے ہیں۔ ابن عدی نے اسی کی وجہ سے اسے معلول (کمزور) قرار دیا ہے۔ صحیح موقوفاً۔ اسے بیہقی (2/19) نے روایت کیا ہے اور اس کے الفاظ یہ ہیں: ”مؤذن اذان کا زیادہ حقدار ہے اور امام اقامت کا زیادہ حقدار ہے۔“ یہ قول سیدنا علی رضی اللہ عنہ سے موقوفاً صحیح ہے، اور جمہور فقہاء اور ائمہ نے اسی پر عمل کیا ہے۔",
+    "english": "Weak (Ḍa'īf). Reported by Ibn 'Adī in 'Al-Kāmil' (4/1327). Its chain includes Sharīk ibn 'Abdillāh Al-Qāḍī, who had a poor memory (Sayyi' Al-Ḥifẓ). Ibn 'Adī attributed the weakness to him. Authentic as Mauqūf. Reported by Al-Bayhaqī (2/19) with the wording: 'The Mu'adhdhin has the most right regarding the Adhān, and the Imām has the most right regarding the Iqāmah.' This statement from 'Alī (RA) is authentically Mauqūf and has been acted upon by the majority of jurists and Imams.",
+    "english_alternative": ""
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْمُؤَذِّنُ",
+      "english": "The Mu'adhdhin",
+      "urdu": "مؤذن"
+    },
+    {
+      "arabic": "أَمْلَكُ",
+      "english": "Has the most right/control",
+      "urdu": "زیادہ حقدار ہے"
+    },
+    {
+      "arabic": "بِالْأَذَانِ",
+      "english": "Regarding the Adhān",
+      "urdu": "اذان کا"
+    },
+    {
+      "arabic": "اَلْإِمَامُ",
+      "english": "The Imām (leader of prayer)",
+      "urdu": "امام"
+    },
+    {
+      "arabic": "بِالْإِقَامَةِ",
+      "english": "Regarding the Iqāmah",
+      "urdu": "اقامت کا"
+    },
+    {
+      "arabic": "ضَعَّفَهُ",
+      "english": "He graded it as weak",
+      "urdu": "اسے ضعیف قرار دیا"
+    },
+    {
+      "arabic": "صَحِيحٌ مَوْقُوفاً",
+      "english": "Authentic Mauqūf (Companion's saying)",
+      "urdu": "صحیح موقوفاً (صحابی کا قول)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث، جو نبی اکرم صلی اللہ علیہ وسلم سے مرفوعاً ضعیف ہے اور سیدنا علی رضی اللہ عنہ کا قول ہو کر موقوفاً صحیح ہے، ایک بنیادی فقہی اصول بیان کرتی ہے: مسجد کے نظام میں مؤذن کو اذان اور اقامت کے درمیان وقفے کے تعین کا اور امام کو نماز شروع کرنے کے لیے اقامت کا حکم دینے کا زیادہ حق ہے۔",
+    "english": "This Hadith, which is weak when attributed to the Prophet (Marfū') but authentic as a saying of 'Alī (Mauqūf), establishes a fundamental jurisprudential rule: In the mosque's structure, the Mu'adhdhin has the primary authority over the Adhān and determining the appropriate pause, while the Imām has the primary authority to command the Iqāmah and initiate the obligatory prayer."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن عدي في الكامل (4/1327)",
+      "english": "Reported by Ibn 'Adī in Al-Kāmil (4/1327)"
+    },
+    {
+      "arabic": "رواه البيهقي (2/19) عن علي",
+      "english": "Reported by Al-Bayhaqī (2/19) from 'Alī"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abū Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Alī ibn Abī Ṭālib"
+      },
+      "slug": "ali-ibn-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjIuS4dYwM0",
+  "grade": {
+    "arabic": "ضعيف مرفوعاً، صحيح موقوفاً",
+    "english": "Weak (Marfū'), Authentic (Mauqūf)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اذان و اقامت کے اختیارات",
+        "english": "Authority over Adhān and Iqāmah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مؤذن کا حق",
+              "english": "The Mu'adhdhin's Right"
+            },
+            "content": {
+              "urdu": [
+                "«الْمُؤَذِّنُ أَمْلَكُ بِالْأَذَانِ» کا مطلب ہے کہ اذان سے متعلق تمام امور میں مؤذن کا اختیار مقدم ہے۔",
+                "اس میں اذان کا وقت، ٹھہر ٹھہر کر کہنا (ترسل)، اور اذان کے بعد اقامت کے لیے مناسب وقفہ شامل ہے۔",
+                "مؤذن کو اپنی ذمہ داری کی ادائیگی میں کسی کی مداخلت قبول نہیں کرنی چاہیے (جب تک وہ شرعی حدود میں ہو)۔"
+              ],
+              "english": [
+                "'The Mu'adhdhin has the most right regarding the Adhān' means the Mu'adhdhin's authority prevails in all matters related to the Adhān.",
+                "This includes the timing of the Adhān, performing it slowly (Tarassul), and establishing the appropriate pause before the Iqāmah.",
+                "The Mu'adhdhin should not accept interference in his duty, as long as he adheres to the legal guidelines."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام کا حق",
+              "english": "The Imām's Right"
+            },
+            "content": {
+              "urdu": [
+                "«وَالْإِمَامُ أَمْلَكُ بِالْإِقَامَةِ» کا مطلب ہے کہ نماز شروع کرنے کا آخری فیصلہ امام کا ہوتا ہے۔",
+                "امام نماز کے لیے لوگوں کی موجودگی اور اپنی تیاری کا جائزہ لے کر اقامت کا حکم دیتا ہے۔",
+                "مؤذن کو یہ اختیار نہیں کہ وہ امام کی اجازت کے بغیر نماز شروع ہونے کا اعلان کرے۔"
+              ],
+              "english": [
+                "'And the Imām has the most right regarding the Iqāmah' means the final decision to start the prayer rests with the Imām.",
+                "The Imām assesses the presence of the congregation and his own readiness before commanding the Iqāmah.",
+                "The Mu'adhdhin does not have the authority to announce the start of the prayer without the Imām's permission."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ضعف کے باوجود فقہی اصول",
+        "english": "Juristic Principle Despite Weakness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موقوفاً صحیح دلیل",
+              "english": "Authentic Mauqūf Evidence"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ روایت مرفوعاً (نبی ﷺ سے) ضعیف ہے، مگر سیدنا علیؓ کا قول ہونا اس کی صحت کو موقوفاً ثابت کرتا ہے۔",
+                "صحابی کا قول، بالخصوص جب وہ جمہور فقہاء کے عمل سے ہم آہنگ ہو، ایک قوی فقہی دلیل بن جاتا ہے۔",
+                "یہ اصول مسجد کے نظم و نسق اور مؤذن و امام کے درمیان اختیارات کی تقسیم کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "Although the narration is weak as Marfū', its status as a saying of 'Alī (RA) makes it authentically Mauqūf.",
+                "A Companion's saying, especially when aligned with the practice of the majority of jurists, becomes a strong legal evidence.",
+                "This principle clarifies the management structure of the mosque and the division of authority between the Mu'adhdhin and the Imām."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجماع اور عمل",
+              "english": "Consensus and Practice"
+            },
+            "content": {
+              "urdu": [
+                "تمام ائمہ اور فقہاء اس بات پر متفق ہیں کہ اقامت کا حکم امام کی اجازت سے ہی ہونا چاہیے، تاکہ نماز کے وقت میں غلطی نہ ہو۔",
+                "یہ اصول امام کی قیادت اور نماز کے شروع ہونے کے وقت کو حتمی شکل دینے کی اس کی اتھارٹی کو یقینی بناتا ہے۔",
+                "مؤذن کو چاہیے کہ وہ اذان کے بعد امام کے اشارے کا انتظار کرے۔"
+              ],
+              "english": [
+                "All Imams and jurists agree that the order for Iqāmah should come with the Imām's permission to avoid errors in starting the prayer.",
+                "This principle secures the Imām's leadership and his authority to finalize the commencement time of the prayer.",
+                "The Mu'adhdhin is required to wait for the Imām's signal after the Adhān."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا درس",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مناصب کی حد بندی",
+              "english": "Delineation of Roles"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سکھاتی ہے کہ ذمہ داریوں کو واضح طور پر تقسیم کرنا چاہیے تاکہ کسی بھی کام میں انتشار نہ ہو۔",
+                "مؤذن کو اپنے دائرہ کار (اذان) میں اور امام کو اپنے دائرہ کار (امامت اور اقامت کا حکم) میں رہنا چاہیے۔",
+                "کسی بھی منظم ادارے یا جماعت کے لیے اس طرح کی واضح درجہ بندی ضروری ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches that responsibilities should be clearly divided to prevent disorder in any task.",
+                "The Mu'adhdhin must remain within his sphere (Adhān) and the Imām within his (leadership and ordering the Iqāmah).",
+                "Such clear delineation of authority is essential for any organized body or community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام پر اعتماد",
+              "english": "Trust in the Imām"
+            },
+            "content": {
+              "urdu": [
+                "مقتدیوں کو چاہیے کہ وہ امام کے وقت اور فیصلوں پر اعتماد کریں، خاص طور پر اقامت کے حکم کے حوالے سے۔",
+                "چونکہ امام سب سے زیادہ اہل اور وقت کے تقاضوں سے واقف ہوتا ہے، اس لیے اس کے فیصلے کو ماننا چاہیے۔",
+                "یہ اصول باہمی احترام اور نظم و ضبط کو فروغ دیتا ہے۔"
+              ],
+              "english": [
+                "The congregation should trust the Imām's timing and decisions, particularly regarding the order for Iqāmah.",
+                "Since the Imām is the most qualified and aware of the circumstances, his decision should be accepted.",
+                "This principle promotes mutual respect and orderly conduct."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

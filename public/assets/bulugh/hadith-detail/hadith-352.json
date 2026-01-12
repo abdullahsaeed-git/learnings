@@ -1,0 +1,145 @@
+{
+  "hadithId": 352,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/212"],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "كتاب الصلاة - باب صلاة المسافر والمريض",
+    "babId": 21
+  },
+  
+  "takhreej": {
+    "arabic": "رواه البيهقي (2/306) من طريق سفيان الثوري، عن أبي الزبير، عن جابر مرفوعاً. وقال البيهقي: وروي عن الثوري موقوفاً وهو الأصح. وصحح أبو حاتم في العلل (1/139) وقفه.",
+    "urdu": "اسے امام بیہقی نے روایت کیا ہے۔ اس کی مرفوع سند (نبی ﷺ تک) میں کلام ہے، جبکہ امام ابو حاتم اور امام بیہقی کے نزدیک صحیح یہ ہے کہ یہ سیدنا جابر رضی اللہ عنہ کا اپنا قول (موقوف) ہے۔ تاہم اس کے معنی دیگر احادیث سے ثابت ہیں۔",
+    "english": "Reported by Al-Baihaqi. The chain reaching the Prophet (ﷺ) has some discussion, while Abu Hatim and Al-Baihaqi considered it to be the statement of the Companion Jabir (RA) (Mauquf). However, its meaning is supported by other narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "وِسَادَةٍ",
+      "english": "Pillow / Cushion",
+      "urdu": "تکیہ / گدی"
+    },
+    {
+      "arabic": "إِيمَاءً",
+      "english": "Gestures / Signaling",
+      "urdu": "اشارہ کرنا"
+    },
+    {
+      "arabic": "أَخْفَضَ",
+      "english": "Lower / Deeper",
+      "urdu": "زیادہ نیچا / پست"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث معذور یا بیمار شخص کے لیے نماز کا طریقہ بیان کرتی ہے کہ سجدے کے لیے تکیہ وغیرہ سامنے رکھنا درست نہیں، بلکہ ہمت ہو تو زمین پر سجدہ کریں، ورنہ صرف سر کے اشارے سے نماز پڑھ لیں۔",
+    "english": "This Hadith explains the method of prayer for a sick person, indicating that placing a pillow in front for prostration is incorrect; one should prostrate on the ground if possible, or otherwise perform the prayer through head gestures."
+  },
+  "references": [
+    {
+      "arabic": "سنن البيهقي الكبرى، رقم 3647",
+      "english": "Sunan al-Baihaqi al-Kubra, No. 3647"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح موقوفاً",
+    "english": "Sahih as a statement of the Companion (Mauquf)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیمار کی نماز کا طریقہ",
+        "english": "The Sick Person's Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تکیہ رکھنے کی ممانعت",
+              "english": "Prohibition of Using a Pillow"
+            },
+            "content": {
+              "urdu": [
+                "بیمار کے لیے سجدہ کرنے کے لیے سامنے تکیہ یا کوئی اونچی چیز رکھنا مسنون طریقہ نہیں ہے۔",
+                "نبی ﷺ نے تکیہ ہٹا کر یہ واضح کیا کہ عبادت میں بناوٹی طریقے اختیار کرنے کے بجائے شریعت کی دی ہوئی رخصت (اشارہ کرنا) پر عمل کرنا چاہیے۔",
+                "اگر زمین پر سجدہ ممکن نہ ہو تو ہوا میں اشارہ کرنا ہی کافی ہے۔"
+              ],
+              "english": [
+                "It is not a Sunnah for a sick person to place a pillow or any elevated object in front of them to prostrate on.",
+                "By removing the pillow, the Prophet (ﷺ) clarified that one should follow the Sharia's concession (gesturing) instead of inventing artificial methods.",
+                "If prostrating on the ground is impossible, gesturing in the air is sufficient."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اشارے سے نماز کے اصول",
+        "english": "Principles of Praying by Gestures"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رکوع اور سجدے میں فرق",
+              "english": "Difference between Ruku and Sujud"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص جھکنے کی طاقت نہیں رکھتا، وہ سر کے اشارے سے رکوع اور سجدہ کرے گا۔",
+                "سجدے کے لیے رکوع کی نسبت زیادہ جھکنا ضروری ہے تاکہ دونوں ارکان کے درمیان واضح فرق ہو سکے۔",
+                "یہ دینِ اسلام کی آسانی ہے کہ بیماری کی حالت میں بھی نماز معاف نہیں بلکہ اس کی کیفیت بدل دی گئی ہے۔"
+              ],
+              "english": [
+                "A person unable to bow properly should perform Ruku and Sujud using head gestures.",
+                "It is necessary to lean lower for Sujud than for Ruku to distinguish between the two pillars.",
+                "This highlights the ease of Islam; prayer is not waived during illness, but its form is adjusted."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو",
+        "english": "Jurisprudential Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طاقت کے مطابق عمل",
+              "english": "Acting According to Ability"
+            },
+            "content": {
+              "urdu": [
+                "نماز کے تمام ارکان میں اصل 'استطاعت' (قدرت) ہے۔ اگر کھڑے ہونے کی طاقت نہیں تو بیٹھ کر، اور بیٹھنے کی نہیں تو لیٹ کر نماز پڑھی جائے گی۔",
+                "امام مالک، شافعی اور احمد کے نزدیک سجدے کے لیے کسی چیز کو اٹھانا یا تکیہ رکھنا مکروہ ہے۔",
+                "اس حدیث سے یہ بھی معلوم ہوا کہ اہل علم کو چاہیے کہ وہ لوگوں کی غلطیوں پر نرمی سے اصلاح کریں اور انہیں صحیح طریقہ سکھائیں۔"
+              ],
+              "english": [
+                "The basis of all prayer pillars is 'ability'. If one cannot stand, they pray sitting; if they cannot sit, they pray lying down.",
+                "According to Imams Malik, Shafi'i, and Ahmad, it is disliked (Makruh) to raise something or use a pillow for Sujud.",
+                "The Hadith also shows that scholars should gently correct people's mistakes and teach them the correct Sunnah method."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

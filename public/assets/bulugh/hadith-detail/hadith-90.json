@@ -1,0 +1,278 @@
+{
+  "hadithId": 90,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 14 (related context)"],
+    "kitabId": 1,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 7
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه الدارقطني (128 /7) ، وله ما يشهد له .  رواه الحاكم في \"المستدرك\" (619) ، و قال: \"صحيح الإسناد\"",
+    "urdu": "صحیح (درست) روایت۔ اسے دارقطنی (128/7) نے روایت کیا ہے، اور اس کی مؤید روایات موجود ہیں۔ اسے حاکم نے \"المستدرک\" (619) میں بھی روایت کیا ہے اور کہا ہے کہ اس کی سند صحیح ہے۔",
+    "english": "Sahih (Authentic). Reported by Ad-Daraqutni (128/7) and has supporting evidence. Also reported by Al-Hakim in 'Al-Mustadrak' (619), who said: \"Its chain of narration is authentic.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "اِسْتَنْزِهُوا",
+      "english": "Be careful to purify/cleanse yourselves",
+      "urdu": "پاکیزگی اختیار کرو"
+    },
+    {
+      "arabic": "اَلْبَوْلِ",
+      "english": "Urine",
+      "urdu": "پیشاب"
+    },
+    {
+      "arabic": "عَامَّةَ",
+      "english": "The majority/general part",
+      "urdu": "اکثر/عام حصہ"
+    },
+    {
+      "arabic": "عَذَابِ اَلْقَبْرِ",
+      "english": "Punishment of the grave",
+      "urdu": "عذاب قبر"
+    },
+    {
+      "arabic": "مِنْهُ",
+      "english": "From it (because of it)",
+      "urdu": "اسی وجہ سے"
+    },
+    {
+      "arabic": "اَلنَّجَاسَة",
+      "english": "Impurity/Filth",
+      "urdu": "نجاست"
+    },
+    {
+      "arabic": "اَلطَّهَارَة",
+      "english": "Purity/Cleanliness",
+      "urdu": "طہارت"
+    },
+    {
+      "arabic": "صَحِيحُ اَلْإِسْنَاد",
+      "english": "Authentic chain of narration",
+      "urdu": "صحیح سند"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث پیشاب کی نجاست سے بچنے کی تاکید کرتی ہے اور واضح کرتی ہے کہ لوگوں کو قبر میں ہونے والے عذاب کی سب سے بڑی وجہ پیشاب سے پوری طرح احتیاط نہ کرنا ہے۔",
+    "english": "This Hadith emphasizes the importance of carefully purifying oneself from urine's impurity, highlighting that neglecting this cleansing is the primary cause of punishment in the grave."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني (128 /7)",
+      "english": "Reported by Ad-Daraqutni (128/7)"
+    },
+    {
+      "arabic": "رواه الحاكم في المستدرك (619)",
+      "english": "Reported by Al-Hakim in Al-Mustadrak (619)"
+    },
+    {
+      "arabic": "وهو صحيح الإسناد (للحاكم)",
+      "english": "It has an authentic chain of narration (according to Al-Hakim)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 9001,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کی اہمیت",
+        "english": "The Importance of Purification (Taharah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پیشاب سے احتیاط کا حکم",
+              "english": "Command to be Careful with Urine"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ نے 'استنزہوا من البول' فرما کر پیشاب کے چھینٹوں سے پاکیزگی اختیار کرنے پر شدید زور دیا ہے۔",
+                "استنزہوا کا مطلب ہے کہ پیشاب سے دور رہنے کی پوری کوشش اور احتیاط کی جائے۔",
+                "یہ حکم طہارت کے اصولوں میں سے ایک ہے اور نماز کی قبولیت کے لیے جسم و کپڑوں کی پاکیزگی ضروری ہے۔"
+              ],
+              "english": [
+                "The Prophet ﷺ emphasized taking extreme care to avoid urine splashes by saying 'Istanzihu min al-Bawl'.",
+                "The word 'Istanzihu' implies making every effort and taking all necessary precautions to keep away from urine.",
+                "This command is a fundamental principle of purification, essential for the validity of prayer (Salah)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قبر کے عذاب سے بچاؤ",
+              "english": "Protection from the Grave's Punishment"
+            },
+            "content": {
+              "urdu": [
+                "حدیث واضح کرتی ہے کہ قبر میں ہونے والے عذاب کی سب سے عام وجہ پیشاب سے احتیاط نہ کرنا ہے۔",
+                "یہ تنبیہ اس فعل کی دینی قباحت اور آخرت میں اس کے شدید نتائج کو ظاہر کرتی ہے۔",
+                "مسلمان کو عذاب قبر سے بچنے کے لیے ہمیشہ مکمل طہارت کا خیال رکھنا چاہیے اور سستی نہیں کرنی چاہیے۔"
+              ],
+              "english": [
+                "The Hadith clearly states that the most common cause of punishment in the grave is negligence in purifying from urine.",
+                "This warning highlights the religious severity of this action and its dire consequences in the Hereafter.",
+                "A Muslim must always strive for complete purity and avoid laziness to protect themselves from the punishment of the grave."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور عملی ہدایات",
+        "english": "Juristic and Practical Guidelines"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پیشاب کرنے کا طریقہ",
+              "english": "Method of Urinating"
+            },
+            "content": {
+              "urdu": [
+                "پیشاب کرتے وقت چھینٹوں سے بچنے کے لیے بیٹھ کر پیشاب کرنا مسنون اور محتاط طریقہ ہے۔",
+                "اگر چھینٹوں سے بچنا ممکن ہو تو کھڑے ہو کر پیشاب کرنا بھی بعض صورتوں میں جائز ہے، لیکن بہتر نہیں ہے۔",
+                "بیت الخلاء میں پانی کا استعمال کرتے وقت بھی احتیاط کی جائے تاکہ چھینٹے واپس جسم پر نہ آئیں۔"
+              ],
+              "english": [
+                "Urinating while sitting is the recommended and safer method to avoid splashing, following the Sunnah.",
+                "Urinating while standing is permissible in some situations if one can ensure that no splashes contaminate the body or clothes.",
+                "Even when using water in the lavatory, caution must be exercised so that splashes do not return to the body."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استبراء کی ضرورت",
+              "english": "Necessity of Istibra'"
+            },
+            "content": {
+              "urdu": [
+                "استبراء سے مراد یہ ہے کہ پیشاب کے قطرے مکمل طور پر ختم ہو جائیں، جس کے بغیر طہارت ناقص رہتی ہے۔",
+                "پیشاب کرنے کے بعد کچھ دیر انتظار کرنا یا مخصوص حرکتیں کرنا استبراء کے لیے ضروری سمجھا جاتا ہے۔",
+                "جب تک انسان کو مکمل پاکیزگی کا یقین نہ ہو جائے، وہ وضو یا نماز کے لیے تیار نہیں ہو سکتا۔"
+              ],
+              "english": [
+                "Istibra' means ensuring that all drops of urine have completely ceased, without which purification remains incomplete.",
+                "Waiting for some time after urination or performing specific movements is considered necessary for Istibra'.",
+                "A person cannot prepare for Wudu' (ablution) or Salah until they are certain of complete purity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عذاب قبر کی حقیقت",
+        "english": "The Reality of Grave Punishment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عالم برزخ کا معاملہ",
+              "english": "The Matter of Al-Barzakh (Intermediate World)"
+            },
+            "content": {
+              "urdu": [
+                "عذاب قبر عالم برزخ کی حقیقت ہے جو مرنے کے بعد روح اور جسم دونوں پر وارد ہوتا ہے۔",
+                "یہ آخرت کی پہلی منزل ہے اور اس سے بچاؤ ہی آئندہ کی آسانی کی ضمانت دیتا ہے۔",
+                "یہ حدیث ایک خاص گناہ کی نشاندہی کرتی ہے جو اس عذاب کا سبب بنتا ہے تاکہ ہم اس سے بچ سکیں۔"
+              ],
+              "english": [
+                "The punishment of the grave is a reality of Al-Barzakh, affecting both the soul and the body after death.",
+                "It is the first stage of the Hereafter, and avoiding it guarantees ease in the subsequent stages.",
+                "This Hadith points out a specific sin that causes this punishment so that we may guard against it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کا روحانی پہلو",
+              "english": "The Spiritual Aspect of Purity"
+            },
+            "content": {
+              "urdu": [
+                "بدن، لباس اور جگہ کی صفائی نہ صرف مادی طہارت ہے بلکہ روحانی پاکیزگی بھی لاتی ہے۔",
+                "ناپاکی سے لاپرواہی دراصل اللہ کے حکم سے لاپرواہی ہے، جو ایک روحانی بیماری ہے۔",
+                "طہارت کا اہتمام ایمان اور تقویٰ کی علامت ہے اور اللہ کی رضا کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "The cleanliness of the body, clothing, and place is not only material purification but also brings spiritual cleanliness.",
+                "Negligence regarding impurity is essentially negligence toward Allah's command, which is a spiritual ailment.",
+                "Adhering to purity is a sign of faith and piety, leading to the pleasure of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دوسری روایات سے تقویت",
+        "english": "Strengthening from Other Narrations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بخاری و مسلم کی شہادت",
+              "english": "Evidence from Bukhari and Muslim"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ روایت دارقطنی اور حاکم سے ہے، اس کا مفہوم صحیحین (بخاری و مسلم) کی اس حدیث سے تقویت پاتا ہے جہاں نبی ﷺ نے دو قبروں کے عذاب کا ذکر کیا۔",
+                "ان دو آدمیوں میں سے ایک وہ تھا جو پیشاب کے چھینٹوں سے احتیاط نہیں کرتا تھا۔",
+                "یہ اس بات کا حتمی ثبوت ہے کہ پیشاب سے عدم احتیاط بہت بڑا گناہ ہے۔"
+              ],
+              "english": [
+                "Although this narration is from Daraqutni and Al-Hakim, its meaning is reinforced by the Hadith in the Sahihayn (Bukhari and Muslim) where the Prophet ﷺ mentioned the punishment of two graves.",
+                "One of those two men was the one who was not careful to clean himself from urine splashes.",
+                "This serves as conclusive proof that negligence regarding urine is a major sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حاکم کی تصحیح",
+              "english": "Authentication by Al-Hakim"
+            },
+            "content": {
+              "urdu": [
+                "امام حاکم کا اس حدیث کی سند کو 'صحیح' قرار دینا، اس کے قابل عمل ہونے پر مہر لگاتا ہے۔",
+                "دارقطنی کا یہ کہنا کہ اس کے مؤید شواہد موجود ہیں، حدیث کی صحت کو مزید مضبوط بناتا ہے۔",
+                "اس طرح یہ امت کے لیے ایک واضح اور مضبوط شرعی حکم بن جاتا ہے۔"
+              ],
+              "english": [
+                "Imam Al-Hakim's statement that the chain of this Hadith is 'authentic' validates its reliability for religious practice.",
+                "Ad-Daraqutni's remark that supporting evidences exist further strengthens the Hadith's authenticity.",
+                "Thus, this becomes a clear and strong legal ruling for the Muslim community."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

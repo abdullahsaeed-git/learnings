@@ -1,0 +1,160 @@
+{
+  "hadithId": 628,
+  "hadithNo": 22,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/48"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1299). وهذا الحديث أصل في توقيت الرمي في أيام الحج.",
+    "urdu": "صحیح۔ اسے امام مسلم (1299) نے روایت کیا ہے۔ یہ حدیث حج کے ایام میں رمی (کنکریاں مارنے) کے اوقات کے تعین میں بنیادی دلیل ہے۔",
+    "english": "Sahih. Reported by Muslim (1299). This Hadith is a primary source for determining the correct timings for stoning the Jamarat during the days of Hajj."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَمَى",
+      "english": "Threw / Pelted",
+      "urdu": "کنکریاں ماریں / رمی کی"
+    },
+    {
+      "arabic": "يَوْمَ اَلنَّحْرِ",
+      "english": "Day of Sacrifice (10th Dhul-Hijjah)",
+      "urdu": "قربانی کا دن"
+    },
+    {
+      "arabic": "ضُحًى",
+      "english": "Forenoon",
+      "urdu": "چاشت کا وقت"
+    },
+    {
+      "arabic": "زَالَتِ اَلشَّمْسُ",
+      "english": "Sun passed the meridian / Declined",
+      "urdu": "سورج ڈھل گیا / زوال ہو گیا"
+    }
+  ],
+  "summary": {
+    "urdu": "10 ذوالحجہ کو صرف ایک جمرہ (بڑے شیطان) کی رمی کا وقت چاشت سے شروع ہوتا ہے، جبکہ 11، 12 اور 13 ذوالحجہ کو تینوں جمرات کی رمی کا وقت زوالِ آفتاب کے بعد شروع ہوتا ہے۔",
+    "english": "On the 10th of Dhul-Hijjah, stoning the single Jamrah begins in the forenoon. On the subsequent three days (Ayyam al-Tashreeq), the time for stoning all three Jamarat begins only after the sun passes its meridian (Zawal)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1299)",
+      "english": "Sahih Muslim (1299)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رمی کے اوقات کی تفصیل",
+        "english": "Details of the Timings for Stoning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "10 ذوالحجہ کا وقت",
+              "english": "Timing for the 10th of Dhul-Hijjah"
+            },
+            "content": {
+              "urdu": [
+                "10 ذوالحجہ کو صرف جمرہ عقبہ (بڑے شیطان) کی رمی کی جاتی ہے۔",
+                "نبی ﷺ نے اس دن چاشت (سورج تھوڑا بلند ہونے) کے وقت رمی فرمائی۔",
+                "عورتوں اور کمزوروں کے لیے فجر سے پہلے بھی گنجائش ہے، مگر تندرستوں کے لیے مسنون وقت یہی ہے۔"
+              ],
+              "english": [
+                "On the 10th of Dhul-Hijjah, only Jamrah al-Aqabah (the large one) is stoned.",
+                "The Prophet (ﷺ) performed this in the forenoon (Duha) when the sun was well up.",
+                "While women and the weak have concessions for earlier, this is the Sunnah time for others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایامِ تشریق کا وقت",
+              "english": "Timing for the Days of Tashreeq"
+            },
+            "content": {
+              "urdu": [
+                "11، 12 اور 13 ذوالحجہ کو تینوں جمرات کی رمی کی جاتی ہے۔",
+                "ان دنوں میں رمی کا وقت زوالِ آفتاب (ظہر کے وقت کا آغاز) سے شروع ہوتا ہے۔",
+                "زوال سے پہلے ان دنوں میں رمی کرنا جمہور علماء کے نزدیک جائز نہیں ہے۔"
+              ],
+              "english": [
+                "On the 11th, 12th, and 13th of Dhul-Hijjah, all three Jamarat are stoned.",
+                "The window for stoning on these days starts after the sun has passed its meridian (Zawal).",
+                "Performing stoning before Zawal on these days is considered invalid by the majority of scholars."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات اور حکمت",
+        "english": "Juristic Rulings and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ترتیب کی پابندی",
+              "english": "Adherence to Sequence"
+            },
+            "content": {
+              "urdu": [
+                "ایامِ تشریق میں پہلے جمرہ اولیٰ، پھر جمرہ وسطیٰ اور آخر میں جمرہ عقبہ کی رمی کی جاتی ہے۔",
+                "نبی ﷺ کے عمل کی پیروی ہی حج کی روح ہے۔",
+                "وقت کی یہ پابندی حاجیوں کے نظم و ضبط اور صبر کا امتحان ہے۔"
+              ],
+              "english": [
+                "During the days of Tashreeq, the stoning sequence is: small, middle, and then large Jamrah.",
+                "Following the Prophet's (ﷺ) specific actions is the essence of Hajj.",
+                "These time constraints test the discipline and patience of the pilgrims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رمی کا اختتامی وقت",
+              "english": "End Time for Stoning"
+            },
+            "content": {
+              "urdu": [
+                "افضل یہ ہے کہ رمی سورج غروب ہونے سے پہلے مکمل کر لی جائے۔",
+                "تاہم، شدید رش کی صورت میں رات کے وقت بھی رمی کرنے کی گنجائش موجود ہے۔",
+                "شریعت نے انسانی جان کی حفاظت اور سہولت کو ہمیشہ مدنظر رکھا ہے۔"
+              ],
+              "english": [
+                "It is best to complete the stoning before sunset.",
+                "However, in cases of extreme crowding, there is legal scope to stone during the night.",
+                "Sharia consistently balances ritual strictness with human safety and ease."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

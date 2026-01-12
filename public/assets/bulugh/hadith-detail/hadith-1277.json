@@ -1,0 +1,259 @@
+{
+  "hadithId": 1277,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["abudawud:4903", "bulugh:1477"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الجامع",
+    "babId": 105
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف. رواه أبو داود (4903)، وابن ماجه (4210). في سنده إبراهيم بن أبي أسيد، وهو مجهول. ولكن معناه صحيح وتشهد له نصوص أخرى في النهي عن التحاسد.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے ابوداؤد (4903) اور ابن ماجہ (4210) نے روایت کیا ہے۔ اس کی سند میں ابراہیم بن ابی اسید مجہول ہے، تاہم حسد کی ممانعت میں دیگر صحیح احادیث موجود ہیں۔",
+    "english": "Weak narration. Reported by Abu Dawud (4903) and Ibn Majah (4210). Its chain contains Ibrahim bin Abi Usaid, who is unknown (Majhul). However, the meaning is supported by other authentic texts forbidding envy."
+  },
+  "importantWords": [
+    {
+      "arabic": "إِيَّاكُمْ",
+      "english": "Beware / Avoid",
+      "urdu": "بچو / دور رہو"
+    },
+    {
+      "arabic": "الْحَسَدَ",
+      "english": "Envy / Jealousy",
+      "urdu": "حسد"
+    },
+    {
+      "arabic": "يَأْكُلُ",
+      "english": "Consumes / Eats",
+      "urdu": "کھا جاتا ہے"
+    },
+    {
+      "arabic": "الْحَسَنَاتِ",
+      "english": "Good deeds",
+      "urdu": "نیکیاں"
+    },
+    {
+      "arabic": "الْحَطَبَ",
+      "english": "Firewood",
+      "urdu": "لکڑی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث حسد کی تباہ کاریوں سے آگاہ کرتی ہے کہ جس طرح آگ لکڑی کو راکھ کر دیتی ہے، اسی طرح حسد انسان کی نیکلیوں کو ضائع کر دیتا ہے۔",
+    "english": "This Hadith warns against the destructive nature of envy, illustrating that just as fire turns wood to ashes, envy destroys a person's good deeds."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (4903)",
+      "english": "Sunan Abu Dawud (4903)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (4210)",
+      "english": "Sunan Ibn Majah (4210)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=7M7OIsY3_Xk",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حسد کی حقیقت اور ممانعت",
+        "english": "The Reality and Prohibition of Envy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حسد کی تعریف",
+              "english": "Definition of Hasad"
+            },
+            "content": {
+              "urdu": [
+                "حسد کا مطلب ہے کسی کی نعمت دیکھ کر یہ تمنا کرنا کہ وہ چھن جائے۔",
+                "یہ اللہ کی تقسیم پر اعتراض کرنے کے مترادف ہے۔",
+                "حسد انسان کے اندرونی سکون کو برباد کر دیتا ہے۔"
+              ],
+              "english": [
+                "Envy means wishing for someone's blessing to be taken away from them.",
+                "It is equivalent to objecting to Allah's distribution of bounty.",
+                "Envy destroys a person's inner peace and tranquility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آگ اور لکڑی کی مثال",
+              "english": "Example of Fire and Wood"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح آگ لکڑی کو ختم کر دیتی ہے، حسد نیکیوں کو مٹا دیتا ہے۔",
+                "حاسد شخص نیکیوں کے بجائے گناہوں میں مشغول رہتا ہے۔",
+                "یہ تمثیل حسد کی تیزی اور تباہی کو واضح کرتی ہے۔"
+              ],
+              "english": [
+                "Just as fire finishes wood, envy erases good deeds.",
+                "An envious person stays busy with sins instead of virtues.",
+                "This analogy clarifies the speed and destruction caused by envy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور نفسیاتی اثرات",
+        "english": "Spiritual and Psychological Effects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیکیوں کا ضیاع",
+              "english": "Loss of Good Deeds"
+            },
+            "content": {
+              "urdu": [
+                "حسد غیبت اور نفرت جیسے دیگر گناہوں کا باعث بنتا ہے۔",
+                "نیکیاں اللہ کی رضا کے لیے ہوتی ہیں جبکہ حسد نفسانی بیماری ہے۔",
+                "حاسد کی دعائیں اور عبادات اخلاص سے خالی ہو جاتی ہیں۔"
+              ],
+              "english": [
+                "Envy leads to other sins like backbiting and hatred.",
+                "Good deeds are for Allah's sake, while envy is a disease of the ego.",
+                "The prayers and worship of an envious person become void of sincerity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذہنی تناؤ",
+              "english": "Mental Stress"
+            },
+            "content": {
+              "urdu": [
+                "حاسد دوسروں کی خوشی دیکھ کر خود غمگین رہتا ہے۔",
+                "وہ اللہ کی دی ہوئی اپنی نعمتوں کی قدر نہیں کر پاتا۔",
+                "یہ بیماری انسان کو مسلسل بے چینی میں مبتلا رکھتی ہے۔"
+              ],
+              "english": [
+                "An envious person remains sorrowful seeing the happiness of others.",
+                "They fail to appreciate the blessings Allah has given them.",
+                "This disease keeps a person in a state of constant restlessness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی نقصانات",
+        "english": "Social Harms"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی تعلقات کی خرابی",
+              "english": "Breakdown of Relationships"
+            },
+            "content": {
+              "urdu": [
+                "حسد خاندانوں اور دوستوں میں دراڑیں ڈال دیتا ہے۔",
+                "یہ بھائی چارے اور اسلامی اخوت کے منافی ہے۔",
+                "حسد کی وجہ سے معاشرے میں بغض اور کینہ پھیلتا ہے۔"
+              ],
+              "english": [
+                "Envy creates rifts between families and friends.",
+                "It is contrary to the spirit of brotherhood and Islamic fraternity.",
+                "Malice and spite spread in society because of envy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی فتنہ",
+              "english": "Social Tribulation"
+            },
+            "content": {
+              "urdu": [
+                "حاسد دوسروں کو نقصان پہنچانے کی سازشیں کرتا ہے۔",
+                "اس سے امن و امان کی صورتحال متاثر ہوتی ہے۔",
+                "حسد ایک ایسی آگ ہے جو پورے معاشرے کو لپیٹ میں لیتی ہے۔"
+              ],
+              "english": [
+                "An envious person conspires to cause harm to others.",
+                "This affects the overall peace and security of the community.",
+                "Envy is a fire that can engulf the entire society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حسد کا علاج",
+        "english": "Remedy for Envy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شکر گزاری",
+              "english": "Gratefulness"
+            },
+            "content": {
+              "urdu": [
+                "اپنی نعمتوں پر اللہ کا شکر ادا کرنا حسد کا بہترین علاج ہے۔",
+                "اللہ کی رضا پر راضی ہونا سیکھنا چاہیے۔",
+                "دوسروں کے لیے وہی پسند کریں جو اپنے لیے کرتے ہیں۔"
+              ],
+              "english": [
+                "Thanking Allah for one's own blessings is the best cure for envy.",
+                "One must learn to be content with the will of Allah.",
+                "Love for others what you love for yourself."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا اور ذکر",
+              "english": "Supplication and Remembrance"
+            },
+            "content": {
+              "urdu": [
+                "دوسروں کے لیے برکت کی دعا کرنا دل سے حسد نکالتا ہے۔",
+                "اللہ سے اس کے فضل کا سوال کریں نہ کہ دوسروں کی کمی کا۔",
+                "قرآنی تعوذات (معوذتین) کے ذریعے حسد سے پناہ مانگیں۔"
+              ],
+              "english": [
+                "Praying for blessings for others removes envy from the heart.",
+                "Ask Allah for His bounty rather than wishing for others' loss.",
+                "Seek refuge from envy through Qur'anic supplications (Al-Mu'awwidhatayn)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

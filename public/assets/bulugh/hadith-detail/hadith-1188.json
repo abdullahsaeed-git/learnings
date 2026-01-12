@@ -1,0 +1,264 @@
+{
+  "hadithId": 1188,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-14/hadith-1"],
+    "kitabId": 14,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب القضاء",
+    "babId": 97
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (3573)، والنسائي في الكبرى (3/461)، والترمذي (1322)، وابن ماجه (2315)، والحاكم (4/90) وصححه ووافقه الذهبي.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (3573)، نسائی (الکبریٰ: 5891)، ترمذی (1322) اور ابن ماجہ (2315) نے روایت کیا ہے۔ امام حاکم نے اسے صحیح کہا اور علامہ ذہبی نے ان کی موافقت کی۔",
+    "english": "Sahih. Reported by Abu Dawud (3573), An-Nasa'i in Al-Kubra (5891), At-Tirmidhi (1322), and Ibn Majah (2315). Graded Sahih by Al-Hakim and agreed upon by Adh-Dhahabi."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْقُضَاةُ",
+      "english": "The Judges",
+      "urdu": "قاضی / فیصلے کرنے والے"
+    },
+    {
+      "arabic": "عَرَفَ",
+      "english": "Recognized / Knew",
+      "urdu": "پہچانا / علم حاصل کیا"
+    },
+    {
+      "arabic": "الْحَقَّ",
+      "english": "The Truth",
+      "urdu": "سچ / حق بات"
+    },
+    {
+      "arabic": "جَارَ",
+      "english": "Acted Unjustly",
+      "urdu": "ظلم کیا / زیادتی کی"
+    },
+    {
+      "arabic": "جَهْلٍ",
+      "english": "Ignorance",
+      "urdu": "ناسمجھی / لاعلمی"
+    },
+    {
+      "arabic": "فَقَضَى",
+      "english": "So he judged",
+      "urdu": "پس اس نے فیصلہ کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "عدل و انصاف کی بنیاد علم اور حق پرستی پر ہے؛ علم کے بغیر یا جان بوجھ کر غلط فیصلہ کرنے والا قاضی جہنمی ہے۔",
+    "english": "Justice must be based on knowledge and truth; a judge who rules without knowledge or deviates from the truth is destined for Hell."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الأقضية، رقم ٣٥٧٣",
+      "english": "Sunan Abi Dawud, The Book of Judges, Hadith No. 3573"
+    },
+    {
+      "arabic": "جامع الترمذي، كتاب الأحكام، رقم ١٣٢٢",
+      "english": "Jami' at-Tirmidhi, The Book of Judgements, Hadith No. 1322"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "بریدة بن الحصيب الأسلمي",
+        "english": "Buraidah bin Al-Husaib Al-Aslami"
+      },
+      "slug": "buraidah-bin-al-husaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9K4Qz6Ym5w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عدل و انصاف کی اہمیت",
+        "english": "Importance of Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حق پر مبنی فیصلہ",
+              "english": "Verdict Based on Truth"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں عدل و انصاف کو بنیادی اہمیت حاصل ہے۔",
+                "حق کو پہچان کر اس کے مطابق فیصلہ کرنا جنتی عمل ہے۔",
+                "قاضی کو اپنی خواہشات کے بجائے حق کی پیروی کرنی چاہیے۔"
+              ],
+              "english": [
+                "Justice holds fundamental importance in Islam.",
+                "Recognizing the truth and judging by it leads to Paradise.",
+                "A judge must follow the truth rather than personal desires."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ظلم کا عبرتناک انجام",
+              "english": "The Grievous End of Oppression"
+            },
+            "content": {
+              "urdu": [
+                "جان بوجھ کر غلط فیصلہ کرنا جہنم کا راستہ ہے۔",
+                "ظلم کرنے والا قاضی اللہ کی گرفت سے نہیں بچ سکتا۔",
+                "عہدے کا غلط استعمال سنگین جرم اور کبیرہ گناہ ہے۔"
+              ],
+              "english": [
+                "Deliberately giving a wrong verdict leads to Hellfire.",
+                "An oppressive judge cannot escape Allah's punishment.",
+                "Misusing authority is a grave crime and a major sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علم کی ضرورت",
+        "english": "Requirement of Knowledge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جہالت میں فیصلہ کرنا",
+              "english": "Judging in Ignorance"
+            },
+            "content": {
+              "urdu": [
+                "بغیر علم کے منصبِ قضا سنبھالنا سخت منع ہے۔",
+                "جہالت کی بنا پر لوگوں کے فیصلے کرنے والا جہنمی ہے۔",
+                "علم حاصل کیے بغیر ذمہ داری اٹھانا ہلاکت کا باعث ہے۔"
+              ],
+              "english": [
+                "Accepting a judicial post without knowledge is strictly forbidden.",
+                "Judging between people out of ignorance leads to Hellfire.",
+                "Taking responsibility without knowledge causes destruction."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحقیق اور جستجو",
+              "english": "Research and Investigation"
+            },
+            "content": {
+              "urdu": [
+                "قاضی کو چاہیے کہ وہ معاملے کی مکمل تحقیق کرے۔",
+                "بغیر ثبوت اور دلیل کے کوئی فیصلہ صادر نہ کیا جائے۔",
+                "صحیح علم ہی انسان کو غلطی سے بچا سکتا ہے۔"
+              ],
+              "english": [
+                "A judge must thoroughly investigate every matter.",
+                "No verdict should be issued without proof and evidence.",
+                "Correct knowledge is what saves a person from error."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قاضی کی ذمہ داریاں",
+        "english": "Responsibilities of a Judge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امانتداری اور دیانت",
+              "english": "Trust and Integrity"
+            },
+            "content": {
+              "urdu": [
+                "قضا کا منصب ایک بہت بڑی امانت ہے۔",
+                "اس میں خیانت کرنے والا دنیا و آخرت میں رسوا ہوگا۔",
+                "دیانتدار قاضی معاشرے میں امن و سکون کی ضمانت ہے۔"
+              ],
+              "english": [
+                "The position of a judge is a heavy trust (Amanah).",
+                "Betraying this trust leads to disgrace in both worlds.",
+                "An honest judge guarantees peace in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مساوات کا قیام",
+              "english": "Establishing Equality"
+            },
+            "content": {
+              "urdu": [
+                "قاضی کو فریقین کے درمیان برابری کا سلوک کرنا چاہیے۔",
+                "امیر اور غریب کے لیے قانون ایک ہونا چاہیے۔",
+                "جانبداری برتنا عدل کے تقاضوں کے خلاف ہے۔"
+              ],
+              "english": [
+                "A judge must treat both parties with complete equality.",
+                "The law must be the same for the rich and the poor.",
+                "Showing partiality goes against the requirements of justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و معاشرتی سبق",
+        "english": "Ethical and Social Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذمہ داری کا احساس",
+              "english": "Sense of Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہر شخص اپنے حلقہ اختیار کا جوابدہ ہے۔",
+                "فیصلے کرتے وقت اللہ کا ڈر پیشِ نظر رکھنا چاہیے۔",
+                "آخرت کا خوف انسان کو انصاف پر قائم رکھتا ہے۔"
+              ],
+              "english": [
+                "Every person is accountable for their sphere of influence.",
+                "The fear of Allah must be kept in mind during decisions.",
+                "Fear of the Hereafter keeps a person firm on justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق کی بالادستی",
+              "english": "Supremacy of the Truth"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے کی بقا حق کی بالادستی میں پوشیدہ ہے۔",
+                "جب انصاف ختم ہوتا ہے تو قومیں تباہ ہو جاتی ہیں۔",
+                "ہمیں ہر حال میں سچ اور حق کا ساتھ دینا چاہیے۔"
+              ],
+              "english": [
+                "Survival of society lies in the supremacy of truth.",
+                "When justice vanishes, nations face total destruction.",
+                "We must support truth and right in every situation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

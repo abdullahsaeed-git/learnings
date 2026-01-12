@@ -1,0 +1,259 @@
+{
+  "hadithId": 1230,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/15/12"],
+    "kitabId": 15,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب العتق",
+    "babId": 101
+  },
+  
+  "takhreej": {
+    "arabic": "حسن. رواه أبو داود (3926)، وأحمد (2/178)، والترمذي (1260)، والنسائي (الكبرى 4836)، وابن ماجه (2519)، وصححه الحاكم (2/218) ووافقه الذهبي.",
+    "urdu": "حسن۔ اسے ابوداؤد (3926)، احمد، ترمذی اور ابن ماجہ نے روایت کیا ہے۔ امام حاکم نے اسے صحیح کہا ہے اور علامہ ذہبی نے ان کی موافقت کی ہے۔",
+    "english": "Hasan (Good). Reported by Abu Dawud (3926), Ahmad, At-Tirmidhi, and Ibn Majah. Al-Hakim graded it Sahih, and Ad-Dhahabi agreed."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْمُكَاتَبُ",
+      "english": "The Contracted Slave",
+      "urdu": "مکاتب غلام"
+    },
+    {
+      "arabic": "عَبْدٌ",
+      "english": "Slave",
+      "urdu": "غلام"
+    },
+    {
+      "arabic": "مَا بَقِيَ",
+      "english": "As long as remains",
+      "urdu": "جب تک باقی ہے"
+    },
+    {
+      "arabic": "مُكَاتَبَتِهِ",
+      "english": "His contract price",
+      "urdu": "اس کی طے شدہ رقم"
+    },
+    {
+      "arabic": "دِرْهَمٌ",
+      "english": "Dirham (Silver coin)",
+      "urdu": "درہم"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں یہ قانونی اصول بیان کیا گیا ہے کہ آزادی کی خرید و فروخت کے معاہدے میں جب تک پوری رقم ادا نہ ہو جائے، غلام کی قانونی حیثیت تبدیل نہیں ہوتی۔",
+    "english": "This Hadith establishes the legal principle that a slave under a manumission contract retains the legal status of a slave until the entire agreed-upon amount is paid."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب العتق، رقم 3926",
+      "english": "Sunan Abi Dawud, Book of Emancipation, No. 3926"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب الأحكام، رقم 1260",
+      "english": "Sunan at-Tirmidhi, Book of Judgments, No. 1260"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعيب",
+        "english": "Amr bin Shu'aib"
+      },
+      "slug": "amr-bin-shuaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مکاتبت کا مفہوم اور اہمیت",
+        "english": "The Concept and Importance of Mukatabah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مکاتبت کی تعریف",
+              "english": "Definition of Mukatabah"
+            },
+            "content": {
+              "urdu": [
+                "مکاتبت سے مراد وہ تحریری معاہدہ ہے جس میں غلام اپنے مالک کو رقم دے کر آزادی خریدتا ہے۔",
+                "اسلام نے غلامی کے خاتمے کے لیے یہ ایک اہم قانونی راستہ فراہم کیا ہے۔",
+                "اس معاہدے کے بعد غلام کو مال کمانے اور خود مختاری کی جزوی اجازت مل جاتی ہے۔"
+              ],
+              "english": [
+                "Mukatabah refers to a written contract where a slave buys his freedom from his master.",
+                "Islam provided this as a significant legal pathway to facilitate the abolition of slavery.",
+                "After this contract, the slave is granted partial autonomy to earn wealth for his liberation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آزادی کی ترغیب",
+              "english": "Encouragement of Freedom"
+            },
+            "content": {
+              "urdu": [
+                "قرآن مجید میں اللہ تعالیٰ نے حکم دیا کہ اگر غلام نیکی کا ارادہ رکھے تو اس سے مکاتبت کر لو۔",
+                "یہ نظام غلاموں کو معاشرے کا ایک مفید اور آزاد شہری بنانے کی تربیت دیتا ہے۔",
+                "آزادی کی تڑپ رکھنے والے غلاموں کے لیے یہ ایک سنہری موقع ہوتا ہے۔"
+              ],
+              "english": [
+                "In the Quran, Allah commanded masters to grant Mukatabah if they see goodness in the slave.",
+                "This system trains slaves to become useful and independent members of society.",
+                "It serves as a golden opportunity for those yearning for their rightful liberty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قانونی حیثیت اور ادائیگی",
+        "english": "Legal Status and Payment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مکمل ادائیگی کی شرط",
+              "english": "Condition of Full Payment"
+            },
+            "content": {
+              "urdu": [
+                "جب تک معاہدے کی آخری رقم ادا نہ ہو، غلام کی قانونی حیثیت 'عبد' ہی رہتی ہے۔",
+                "اگر وہ پوری رقم ادا کرنے سے قاصر رہے، تو معاہدہ ختم ہو سکتا ہے اور وہ دوبارہ کامل غلام بن جاتا ہے۔",
+                "یہ اصول معاہدے کی سنجیدگی اور حقوقِ ملکیت کے تحفظ کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "The legal status of the individual remains 'slave' until the final installment is paid.",
+                "If he fails to complete the payment, the contract may be annulled, reverting him to full slavery.",
+                "This principle ensures the seriousness of contracts and protects property rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جزوی آزادی کا تصور",
+              "english": "Concept of Partial Freedom"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک مکاتب غلام پر غلامی کے تمام احکام تب تک لاگو ہیں جب تک وہ آزاد نہ ہو۔",
+                "تاہم، بعض ائمہ کے نزدیک ادائیگی کے تناسب سے اسے کچھ حقوق حاصل ہو جاتے ہیں۔",
+                "لیکن یہ حدیث واضح کرتی ہے کہ کامل آزادی صرف مکمل ادائیگی پر ہی موقوف ہے۔"
+              ],
+              "english": [
+                "Most jurists hold that all slave-related rulings apply until full liberation is achieved.",
+                "However, some scholars argue that certain rights are gained proportional to the amount paid.",
+                "Yet, this Hadith clarifies that full freedom is strictly dependent on total payment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاہدے کی پاسداری اور عدل",
+        "english": "Adherence to Contracts and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مالک کا حق",
+              "english": "Rights of the Master"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے مالک کے مالی حق کو تسلیم کیا ہے کہ اسے طے شدہ رقم پوری ملنی چاہیے۔",
+                "معاہدہ کرنے کے بعد غلام کے لیے محنت کرنا اور وقت پر ادائیگی کرنا لازمی ہے۔",
+                "یہ عدل کا تقاضا ہے کہ کسی کی ملکیت کو بغیر عوض یا رضامندی کے ختم نہ کیا جائے۔"
+              ],
+              "english": [
+                "Sharia recognizes the master's financial right to receive the full agreed amount.",
+                "Once the contract is signed, the slave is obligated to work hard and pay on time.",
+                "Justice requires that ownership should not be terminated without due compensation or consent."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلام کی مدد کی ترغیب",
+              "english": "Encouragement to Assist Slaves"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے معاشرے کو ترغیب دی ہے کہ وہ مکاتب غلاموں کی مالی مدد کر کے انہیں آزاد کروائیں۔",
+                "زکوٰۃ کے آٹھ مصارف میں سے ایک مصرف 'رقاب' (گردنیں چھڑانا) یہی ہے۔",
+                "معمولی رقم کی وجہ سے کسی کو غلام رکھنا ناپسندیدہ ہے، اس لیے مسلمانوں کو اس کی ادائیگی میں مدد کرنی چاہیے۔"
+              ],
+              "english": [
+                "Islam encourages society to provide financial aid to Mukatab slaves to secure their freedom.",
+                "One of the eight categories for Zakat is 'Riqab', specifically for freeing slaves.",
+                "Keeping someone enslaved for a small sum is disliked; thus, Muslims should help pay it off."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و تربیتی پہلو",
+        "english": "Educational and Reformative Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاہدات کی اہمیت",
+              "english": "Importance of Formal Agreements"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سکھاتی ہے کہ ہر مالی معاملے میں معاہدے کی شرائط کو پورا کرنا ضروری ہے۔",
+                "اسلامی معاشرت میں زبان اور تحریر کی ایک قانونی وقعت اور حرمت ہے۔",
+                "ادھورے معاہدے قانونی پیچیدگیوں کا باعث بنتے ہیں، اس لیے تکمیل ضروری ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches that fulfilling the conditions of an agreement is mandatory in all financial dealings.",
+                "In an Islamic society, both verbal and written promises hold legal sanctity.",
+                "Incomplete contracts lead to legal complications, making full completion necessary."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تدریجی اصلاح کا نظام",
+              "english": "System of Gradual Reform"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے غلامی کو اچانک ختم کرنے کے بجائے ایک منظم قانونی ڈھانچے کے ذریعے ختم کیا۔",
+                "مکاتبت کا نظام اس تدریجی اصلاح کی ایک بہترین اور کامیاب مثال ہے۔",
+                "یہ طریقہ کار اس بات کی دلیل ہے کہ اسلام انسانی آزادی کو کس قدر اہمیت دیتا ہے۔"
+              ],
+              "english": [
+                "Islam abolished slavery through an organized legal framework rather than an abrupt ban.",
+                "The system of Mukatabah is a prime example of this successful gradual reform.",
+                "This methodology proves how much value Islam places on the preservation of human liberty."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

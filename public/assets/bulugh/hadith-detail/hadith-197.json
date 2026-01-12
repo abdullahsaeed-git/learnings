@@ -1,0 +1,272 @@
+{
+  "hadithId": 197,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["2", "6"],
+    "kitabId": 2,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 16
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواه البخاري في المغازي، باب وفد بني حنيفة وحديث ثمامة بن أثال (4372) وفي كتاب الصلاة (462)، ومسلم في الجهاد والسير، باب ربط الأسير وجواز وجوده في المسجد (1764).",
+    "urdu": "صحیح متفق علیہ۔ اسے بخاری نے کتاب المغازی، باب وفد بنی حنیفہ اور ثمامہ بن اُثال کی حدیث (4372) اور کتاب الصلاة (462) میں روایت کیا ہے، اور مسلم نے کتاب الجہاد والسیر، باب ربط الأسیر وجواز وجوده فی المسجد (1764) میں روایت کیا ہے۔",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh). Reported by Al-Bukhari in the Book of Military Expeditions, Chapter: The Delegation of Banu Hanifah and the Hadith of Thumamah ibn Uthal (4372) and in the Book of Prayer (462), and by Muslim in the Book of Jihad and Expeditions, Chapter: Tying up the captive and the permissibility of his presence in the mosque (1764)."
+  },
+  "importantWords": [
+    {
+      "arabic": "بعث",
+      "english": "Sent out",
+      "urdu": "روانہ کیا"
+    },
+    {
+      "arabic": "خيلاً",
+      "english": "Cavalry/Horsemen",
+      "urdu": "گھڑ سوار دستہ"
+    },
+    {
+      "arabic": "فربطوه",
+      "english": "They tied him up",
+      "urdu": "انہوں نے اسے باندھ دیا"
+    },
+    {
+      "arabic": "بسارية",
+      "english": "To a pillar",
+      "urdu": "ایک ستون سے"
+    },
+    {
+      "arabic": "المسجد",
+      "english": "The Mosque",
+      "urdu": "مسجد"
+    },
+    {
+      "arabic": "رجل",
+      "english": "Man (the captive)",
+      "urdu": "ایک آدمی (قیدی)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث مسجد نبوی کے ایک اہم استعمال کو واضح کرتی ہے، کہ مسجد صرف عبادت گاہ نہیں بلکہ اسلامی معاشرے کے مرکز کی حیثیت رکھتی تھی۔ اس میں ایک کافر قیدی (ثمامہ بن اُثال) کو باندھنے کا عمل یہ ثابت کرتا ہے کہ مسجد کو عارضی طور پر قید خانے یا غیر مسلموں کے ٹھہرنے کی جگہ کے طور پر بھی استعمال کیا جا سکتا ہے، بشرطیکہ مسجد کی طہارت اور بنیادی مقصد متاثر نہ ہو۔",
+    "english": "This Hadith clarifies an important use of the Prophet's Mosque, establishing it not just as a place of worship but as the center of the Islamic community. The act of tying a disbelieving captive (Thumamah ibn Uthal) demonstrates that the mosque can be temporarily used as a holding place or a residence for non-Muslims, provided the mosque's purity and primary purpose are not compromised."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الصلاة، باب ربط الأسير والضيف في المسجد (462)",
+      "english": "Sahih Al-Bukhari, Book of Prayer, Chapter: Tying a captive or guest in the mosque (462)"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الجهاد والسير، باب ربط الأسير وجواز وجوده في المسجد (1764)",
+      "english": "Sahih Muslim, Book of Jihad and Expeditions, Chapter: Tying up the captive and the permissibility of his presence in the mosque (1764)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "ثُمَامَةُ بْنُ أُثَال",
+        "english": "Thumamah ibn Uthal (the captive)"
+      },
+      "slug": "thumamah-ibn-uthal"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A8vH9t_1yUo",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد کا مرکزی کردار",
+        "english": "The Central Role of the Mosque"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد میں قیدی کو باندھنا",
+              "english": "Tying a Captive in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم صلی اللہ علیہ وسلم نے مشرک قیدی ثمامہ بن اُثال کو مسجد کے ستون سے باندھنے کا حکم دیا۔",
+                "یہ واقعہ ثابت کرتا ہے کہ مسجد صرف نماز کے لیے نہیں بلکہ ایک کثیر المقاصد مرکز تھی۔",
+                "یہ عمل قیدی کو اسلامی ماحول سے متعارف کرانے اور دعوت و تبلیغ کا موقع بھی فراہم کرتا تھا۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) commanded the tying of the polytheist captive, Thumamah ibn Uthal, to a mosque pillar.",
+                "This incident proves that the mosque was not only for prayer but also served as a multipurpose community center.",
+                "This action also served to introduce the captive to the Islamic environment and provided an opportunity for Da'wah (preaching)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غیر مسلم کا مسجد میں قیام",
+              "english": "Non-Muslims Staying in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے فقہاء نے غیر مسلم کو ضرورت کے تحت مسجد میں ٹھہرانے کے جواز پر استدلال کیا ہے۔",
+                "بشرطیکہ قیدی یا غیر مسلم طہارت کا خیال رکھے اور مسجد کی بے حرمتی نہ کرے۔",
+                "اس سے اسلام کی وسعت قلبی اور غیر مسلموں تک دعوت پہنچانے کی حکمت عملی واضح ہوتی ہے۔"
+              ],
+              "english": [
+                "Jurists infer from this Hadith the permissibility of lodging a non-Muslim in the mosque out of necessity.",
+                "This is conditional on the captive or non-Muslim maintaining purity and not disrespecting the mosque.",
+                "This demonstrates the broadness of Islamic tolerance and the strategy of conveying the message to non-Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دینی اور معاشرتی فوائد",
+        "english": "Religious and Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حسنِ سلوک کی تعلیم",
+              "english": "Lesson in Good Treatment"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ ثمامہ قیدی تھا، لیکن نبی صلی اللہ علیہ وسلم نے اس سے حسنِ سلوک اور نرمی کا مظاہرہ کیا۔",
+                "مسجد میں قیام سے وہ مسلمانوں کی نمازیں، تلاوت، اور اخلاقی کردار کا مشاہدہ کر سکا۔",
+                "یہی حسنِ سلوک پھر ثمامہ کے دل میں گھر کر گیا اور وہ مسلمان ہو گیا۔"
+              ],
+              "english": [
+                "Although Thumamah was a captive, the Prophet (PBUH) treated him with kindness and gentleness.",
+                "Staying in the mosque allowed him to observe the Muslims' prayers, recitations, and moral character.",
+                "This kindness eventually touched Thumamah's heart, leading to his conversion to Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی مرکز",
+              "english": "Social Center"
+            },
+            "content": {
+              "urdu": [
+                "مسجدِ نبوی مدینہ میں حکومتی، عدالتی، اور تعلیمی معاملات کا بھی مرکز تھی۔",
+                "قیدی کو مسجد میں رکھنا عدالت اور حکومتی معاملات کو لوگوں کے سامنے واضح کرتا تھا۔",
+                "یہ اس بات کو یقینی بناتا تھا کہ ریاستی امور دین اور اخلاق کے اصولوں کے تحت ہوں۔"
+              ],
+              "english": [
+                "The Prophet's Mosque was also the center for governmental, judicial, and educational affairs in Madinah.",
+                "Keeping the captive in the mosque clarified judicial and governmental matters before the public.",
+                "This ensured that state affairs were conducted under the principles of religion and ethics."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی استنباط",
+        "english": "Juristic Inferences"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد میں قید کا جواز",
+              "english": "Permissibility of Imprisonment in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے اس حدیث کی بنیاد پر عارضی اور ضرورت کے تحت مسجد میں قید کا جواز دیا۔",
+                "یہ اجازت صرف ان قیدیوں کے لیے ہے جن سے مسجد کی طہارت کے اصول ٹوٹنے کا خدشہ نہ ہو۔",
+                "یہ حکم مسجد کے غیر عبادتی استعمال (مثلًا عارضی پناہ، تعلیم) کی گنجائش بھی فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "Based on this Hadith, jurists permitted temporary imprisonment in the mosque out of necessity.",
+                "This permission is only for captives who are not likely to violate the mosque's purity rules.",
+                "This ruling also allows for non-worship uses of the mosque (e.g., temporary shelter, education)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ساریہ (ستون) کی افادیت",
+              "english": "Utility of the Pillar (Sariyah)"
+            },
+            "content": {
+              "urdu": [
+                "مسجد کے ستونوں کو مختلف مقاصد کے لیے استعمال کرنے کی گنجائش موجود ہے۔",
+                "اس ستون کو 'ساریۃ التوبہ' (توبہ کا ستون) کہا گیا ہے جو روحانی اہمیت کا حامل ہے۔",
+                "یہ ہمیں سکھاتا ہے کہ مسجد کے ہر حصے کا عملی اور روحانی استعمال ممکن ہونا چاہیے۔"
+              ],
+              "english": [
+                "There is room to use the pillars of the mosque for various purposes.",
+                "This specific pillar was named 'Sariyah Al-Tawbah' (Pillar of Repentance), carrying spiritual significance.",
+                "This teaches us that every part of the mosque should have potential practical and spiritual utility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی پیغام",
+        "english": "Practical Message"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلام کی تبلیغ کا طریقہ",
+              "english": "Method of Islamic Propagation (Da'wah)"
+            },
+            "content": {
+              "urdu": [
+                "غیر مسلموں کے ساتھ حسنِ سلوک اور ان تک اسلام کا پیغام پہنچانا بہت اہم ہے۔",
+                "مسجد کا ماحول بہترین تبلیغی اثر رکھتا ہے کیونکہ وہاں عملی اسلام کا مشاہدہ ہوتا ہے۔",
+                "اسلام تلوار سے زیادہ دلیل، اخلاق اور خیر خواہی کی بنیاد پر پھیلا ہے۔"
+              ],
+              "english": [
+                "Kind treatment of non-Muslims and conveying the message of Islam to them is highly important.",
+                "The mosque environment has the best propagation effect as practical Islam is observed there.",
+                "Islam spread more based on logic, ethics, and goodwill than by the sword."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسجد اور اجتماعیت",
+              "english": "Mosque and Community"
+            },
+            "content": {
+              "urdu": [
+                "مسجد کو مسلمانوں کی تمام اجتماعی ضروریات کا مرکز ہونا چاہیے، نہ کہ صرف عبادات کا۔",
+                "مختلف طبقات اور ضروریات کے حامل لوگوں کو مسجد کے ماحول سے جوڑنا چاہیے۔",
+                "یہ حدیث واضح کرتی ہے کہ دین اسلام پوری زندگی کو محیط ہے نہ کہ صرف چند رسومات کو۔"
+              ],
+              "english": [
+                "The mosque should be the center for all communal needs of Muslims, not just for rituals.",
+                "People from diverse backgrounds and needs should be connected to the mosque environment.",
+                "This Hadith clarifies that the religion of Islam encompasses the entire life, not just a few ceremonies."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

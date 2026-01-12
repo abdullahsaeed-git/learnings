@@ -1,0 +1,259 @@
+{
+  "hadithId": 1195,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/14/8"],
+    "kitabId": 14,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب القضاء",
+    "babId": 97
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده.‏ رواه ابن حبان (1554)، وابن ماجه (4010) من حديث أبي سعيد، والبزار (1596) من حديث بريدة.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے ابن حبان (1554) نے روایت کیا، اور اس کے شواہد ابن ماجہ (4010) اور بزار (1596) میں موجود ہیں۔",
+    "english": "Sahih due to corroborating evidences. Reported by Ibn Hibban (1554); supported by narrations in Ibn Majah (4010) and Al-Bazzar (1596)."
+  },
+  "importantWords": [
+    {
+      "arabic": "تُقَدَّسُ",
+      "english": "Be purified/blessed",
+      "urdu": "پاک کی جائے"
+    },
+    {
+      "arabic": "أُمَّةٌ",
+      "english": "Nation/Community",
+      "urdu": "امت"
+    },
+    {
+      "arabic": "يُؤْخَذُ",
+      "english": "Be taken/Extracted",
+      "urdu": "لیا جائے"
+    },
+    {
+      "arabic": "شَدِيدِهِمْ",
+      "english": "Their strong/powerful",
+      "urdu": "ان کے طاقتور"
+    },
+    {
+      "arabic": "ضَعِيفِهِمْ",
+      "english": "Their weak/oppressed",
+      "urdu": "ان کے کمزور"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں واضح کیا گیا ہے کہ کسی قوم کی فلاح اور اللہ کی رحمت کا حصول تب ہی ممکن ہے جب وہاں کمزوروں کو طاقتوروں سے انصاف ملے۔",
+    "english": "This Hadith emphasizes that the spiritual purity and success of a nation depend on its ability to uphold justice for the weak against the powerful."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن حبان (1554)",
+      "english": "Reported by Ibn Hibban (1554)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (4010)",
+      "english": "Reported by Ibn Majah (4010)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9K8Z2o3T4Y",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi (Authentic due to others)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عدل اور قومی ترقی",
+        "english": "Justice and National Progress"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی تطہیر کی بنیاد",
+              "english": "Foundation of Social Purity"
+            },
+            "content": {
+              "urdu": [
+                "کسی قوم کی پاکیزگی ظاہری صفائی سے نہیں بلکہ عدل سے ہوتی ہے۔",
+                "جس معاشرے میں ظلم عام ہو وہاں سے اللہ کی برکت اٹھ جاتی ہے۔",
+                "انصاف کی فراہمی امت کے لیے روحانی بلندی کا ذریعہ بنتی ہے۔"
+              ],
+              "english": [
+                "The purity of a nation is defined by justice, not just physical cleanliness.",
+                "Divine blessings are withdrawn from societies where oppression is prevalent.",
+                "Upholding justice serves as a means of spiritual elevation for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طاقت کا غلط استعمال",
+              "english": "Misuse of Power"
+            },
+            "content": {
+              "urdu": [
+                "طاقتور کو اس کی حیثیت کی بنیاد پر رعایت دینا ہلاکت کا باعث ہے۔",
+                "اسلام میں قانون کی نظر میں امیر اور غریب برابر ہیں۔",
+                "طاقتور سے حق چھین کر کمزور کو دینا ہی اصل بہادری ہے۔"
+              ],
+              "english": [
+                "Granting leniency to the powerful based on status leads to destruction.",
+                "In Islam, the rich and the poor are equal before the law.",
+                "True courage lies in reclaiming rights from the strong for the weak."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کمزوروں کے حقوق",
+        "english": "Rights of the Weak"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ریاست کی ذمہ داری",
+              "english": "Responsibility of the State"
+            },
+            "content": {
+              "urdu": [
+                "حکومت کا فرض ہے کہ وہ مظلوم کی پکار پر لبیک کہے۔",
+                "کمزور کو یہ احساس ہونا چاہیے کہ قانون اس کا محافظ ہے۔",
+                "عدالتی نظام کو اثر و رسوخ سے پاک ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "It is the duty of the state to respond to the cry of the oppressed.",
+                "The weak must feel that the law is their shield and protector.",
+                "The judicial system must remain free from external influence and status."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خدا کا خوف",
+              "english": "Fear of Allah"
+            },
+            "content": {
+              "urdu": [
+                "ظلم کرنے والوں کو قیامت کے دن کے حساب سے ڈرنا چاہیے۔",
+                "کمزور کی بد دعا اللہ کے عرش کو ہلا دیتی ہے۔",
+                "آخرت میں ہر چھوٹی بڑی زیادتی کا بدلہ لیا جائے گا۔"
+              ],
+              "english": [
+                "Oppressors must fear the accountability of the Day of Judgment.",
+                "The supplication of the oppressed shakes the Throne of Allah.",
+                "Every minor and major injustice will be requited in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سابقہ قوموں کا انجام",
+        "english": "Fate of Previous Nations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناانصافی اور زوال",
+              "english": "Injustice and Decline"
+            },
+            "content": {
+              "urdu": [
+                "تاریخ گواہ ہے کہ ناانصافی قوموں کو مٹا دیتی ہے۔",
+                "بنی اسرائیل کی تباہی کی ایک وجہ قانون کا امتیازی سلوک تھا۔",
+                "کفر کے ساتھ حکومت چل سکتی ہے مگر ظلم کے ساتھ نہیں۔"
+              ],
+              "english": [
+                "History proves that injustice erases nations from existence.",
+                "Discriminatory law was a key reason for the downfall of Bani Israel.",
+                "A government can survive with disbelief, but not with oppression."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبرت کا درس",
+              "english": "Lessons of Admonition"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں پچھلی امتوں کے انجام سے سبق سیکھنا چاہیے۔",
+                "عدل و انصاف ہی کسی بھی تہذیب کی بقا کا ضامن ہے۔",
+                "مظلوم کی مدد کرنا محض سماجی کام نہیں بلکہ مذہبی فریضہ ہے۔"
+              ],
+              "english": [
+                "We must learn from the tragic ends of previous communities.",
+                "Justice is the only guarantor for the survival of any civilization.",
+                "Helping the oppressed is a religious obligation, not just social work."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انفرادی سطح پر عدل",
+              "english": "Justice at Individual Level"
+            },
+            "content": {
+              "urdu": [
+                "اپنے ماتحتوں اور ملازمین کے حقوق ادا کرنے میں جلدی کریں۔",
+                "کسی کی کمزوری کا فائدہ اٹھا کر اس کا حق نہ ماریں۔",
+                "معاشرتی انصاف کی شروعات اپنی ذات اور گھر سے کریں۔"
+              ],
+              "english": [
+                "Be quick in fulfilling the rights of subordinates and employees.",
+                "Do not exploit someone's weakness to usurp their rights.",
+                "Social justice begins from one's own self and household."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق گوئی کی ہمت",
+              "english": "Courage to Speak Truth"
+            },
+            "content": {
+              "urdu": [
+                "ظالم کے سامنے کلمہ حق کہنا بہترین جہاد ہے۔",
+                "حق دار کی حمایت میں کھڑا ہونا ایمانی غیرت کا تقاضا ہے۔",
+                "خاموشی اختیار کرنا ظالم کی مدد کرنے کے مترادف ہے۔"
+              ],
+              "english": [
+                "Speaking the truth before an oppressor is the best Jihad.",
+                "Standing by the rightful is a requirement of faith and honor.",
+                "Remaining silent is equivalent to assisting the oppressor."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

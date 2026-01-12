@@ -1,0 +1,259 @@
+{
+  "hadithId": 1084,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/5"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أبو داود (2645)، والترمذي (1604)، والنسائي (4780). وأشار البخاري والنسائي إلى إرساله، لكن له شواهد يتقوى بها.",
+    "urdu": "یہ روایت اپنے شواہد کی بنا پر صحیح ہے۔ اسے ابوداؤد (2645)، ترمذی (1604) اور نسائی (4780) نے روایت کیا ہے۔ امام بخاری اور نسائی نے اسے مرسل قرار دیا ہے، لیکن دیگر روایات اسے تقویت دیتی ہیں۔",
+    "english": "Sahih through supporting evidences. Reported by Abu Dawud (2645), At-Tirmidhi (1604), and An-Nasa'i (4780). Al-Bukhari and An-Nasa'i preferred the Mursal version, but it is strengthened by other narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَرِئٌ",
+      "english": "Free from/Not responsible",
+      "urdu": "بری الذمہ/بیزار"
+    },
+    {
+      "arabic": "يُقِيمُ",
+      "english": "Resides/Stays",
+      "urdu": "قیام کرتا ہے"
+    },
+    {
+      "arabic": "الْمُشْرِكِينَ",
+      "english": "Polytheists",
+      "urdu": "مشرکین"
+    },
+    {
+      "arabic": "إِرْسَالَهُ",
+      "english": "Its being Mursal",
+      "urdu": "اس کا مرسل ہونا"
+    },
+    {
+      "arabic": "نَارَاهُمَا",
+      "english": "Their two fires",
+      "urdu": "ان دونوں کی آگ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں مسلمانوں کو مشرکین کے ماحول میں رہنے سے ڈرایا گیا ہے تاکہ ان کے دین اور تشخص کی حفاظت ہو سکے۔",
+    "english": "This Hadith warns Muslims against residing in the lands of polytheists to safeguard their religious identity and faith."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2645)",
+      "english": "Sunan Abi Dawud (2645)"
+    },
+    {
+      "arabic": "سنن الترمذي (1604)",
+      "english": "Sunan at-Tirmidhi (1604)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جرير بن عبد الله البجلي",
+        "english": "Jarir bin Abdullah al-Bajali"
+      },
+      "slug": "jarir-bin-abdullah-al-bajali"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا پس منظر اور مفہوم",
+        "english": "Background and Meaning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حفاظتِ دین",
+              "english": "Protection of Faith"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کا مشرکین کے درمیان رہنا اس کے عقیدے اور عبادات کے لیے خطرناک ہو سکتا ہے۔",
+                "ایسے ماحول میں اسلامی شعائر کی ادائیگی میں رکاوٹیں پیدا ہو سکتی ہیں۔",
+                "اسلام اپنی امت کو ایک الگ اور واضح پہچان دینے کا حکم دیتا ہے۔"
+              ],
+              "english": [
+                "A Muslim residing among polytheists may face risks to their creed and worship.",
+                "Obstacles may arise in practicing Islamic rituals within such environments.",
+                "Islam commands its Ummah to maintain a distinct and clear identity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بری الذمہ ہونے کا مطلب",
+              "english": "Meaning of Being Free from Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "اس کا مطلب یہ ہے کہ اگر وہاں کسی جنگی کارروائی میں ایسا مسلمان مارا جائے تو اسلامی ریاست ذمہ دار نہ ہوگی۔",
+                "یہ بیزاری اس کے فعل پر ہے تاکہ وہ ہجرت کی طرف مائل ہو۔",
+                "یہ وعید اس لیے ہے تاکہ مسلمان کفر کے غلبے والے معاشرے کا حصہ نہ بنیں۔"
+              ],
+              "english": [
+                "It means the Islamic state is not liable if such a Muslim is killed during military operations there.",
+                "This disavowal is toward the act, encouraging the individual to perform Hijrah.",
+                "This warning exists so Muslims do not integrate into societies dominated by disbelief."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ہجرت اور سکونت کے احکام",
+        "english": "Rulings on Migration and Residence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہجرت کی فرضیت",
+              "english": "Obligation of Migration"
+            },
+            "content": {
+              "urdu": [
+                "اگر مسلمان کو اپنے دین پر عمل کرنے کی آزادی نہ ہو تو ہجرت فرض ہو جاتی ہے۔",
+                "کفر کے ملک میں رہ کر گناہوں میں ملوث ہونا سخت خطرناک عمل ہے۔",
+                "اللہ کی زمین وسیع ہے، مومن کو وہاں جانا چاہیے جہاں وہ اللہ کی بندگی کر سکے۔"
+              ],
+              "english": [
+                "If a Muslim lacks the freedom to practice their religion, migration becomes obligatory.",
+                "Staying in a land of disbelief and falling into sin is a dangerous path.",
+                "Allah's earth is vast; a believer should go where they can freely worship Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غیر مسلم ممالک میں قیام کی شرائط",
+              "english": "Conditions for Residing in Non-Muslim Lands"
+            },
+            "content": {
+              "urdu": [
+                "دعوتِ دین یا ضروری تعلیم و علاج کے لیے عارضی قیام کی اجازت دی گئی ہے۔",
+                "شرط یہ ہے کہ مسلمان وہاں اپنے شعائر پر مکمل عمل پیرا ہو سکے۔",
+                "اپنے عقیدے اور آنے والی نسلوں کے ایمان کا تحفظ سب سے پہلی ترجیح ہونی چاہیے۔"
+              ],
+              "english": [
+                "Temporary stay for Da'wah, essential education, or medical treatment is permitted.",
+                "The condition is that the Muslim must be able to practice their faith fully.",
+                "Protecting one's creed and the faith of future generations must be the top priority."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند کی علمی ابحاث",
+        "english": "Scholarly Discussions on the Chain"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرسل اور موصول کا فرق",
+              "english": "Mursal vs. Mausoool"
+            },
+            "content": {
+              "urdu": [
+                "امام بخاری نے اسے مرسل قرار دیا ہے، یعنی تابعی نے براہِ راست نبی ﷺ سے روایت کیا۔",
+                "دیگر محدثین نے اسے جریر بجلی کے واسطے سے موصول (مکمل سند) مانا ہے۔",
+                "علمِ حدیث میں ایسی ابحاث حدیث کی باریکیوں کو سمجھنے میں مدد دیتی ہیں۔"
+              ],
+              "english": [
+                "Imam al-Bukhari preferred the Mursal version, narrated by a Tabi'i directly from the Prophet (ﷺ).",
+                "Other scholars accepted it as Mausool (connected chain) through Jarir al-Bajali.",
+                "Such discussions in Hadith sciences help in understanding the intricacies of narrations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شواہد کی اہمیت",
+              "english": "Importance of Supporting Evidences"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کے کئی دیگر شواہد موجود ہیں جو اس کے مفہوم کو درست ثابت کرتے ہیں۔",
+                "محدثین کے نزدیک شواہد کی بنا پر ضعیف یا مرسل روایت بھی قابلِ قبول ہو سکتی ہے۔",
+                "اس سے ثابت ہوتا ہے کہ مشرکین سے دوری کا حکم شریعت کا ایک مستقل اصول ہے۔"
+              ],
+              "english": [
+                "There are several supporting evidences for this Hadith that validate its meaning.",
+                "Scholars consider Mursal narrations acceptable if strengthened by other chains.",
+                "This proves that maintaining distance from polytheists is a consistent Shariah principle."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی تشخص کی حفاظت",
+              "english": "Maintaining Islamic Identity"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو اپنی عادات و اطوار میں غیروں کی مشابہت سے بچنا چاہیے۔",
+                "ایسے دوستوں اور ماحول سے دور رہیں جو آپ کو دین سے دور کر دیں۔",
+                "اپنے گھر کے ماحول کو خالص اسلامی رنگ میں ڈھالنے کی کوشش کریں۔"
+              ],
+              "english": [
+                "A Muslim should avoid imitating others in their habits and lifestyle.",
+                "Stay away from friends and environments that lead you away from religion.",
+                "Strive to mold your household environment into a purely Islamic atmosphere."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمانی غیرت",
+              "english": "Faith-Based Integrity"
+            },
+            "content": {
+              "urdu": [
+                "ایک مومن کے دل میں اللہ اور اس کے رسول کی محبت سب سے غالب ہونی چاہیے۔",
+                "جہاں کفر کا بول بالا ہو وہاں رہنا مومن کی غیرت کو گوارا نہیں ہونا چاہیے۔",
+                "ہمیشہ اللہ سے دعا مانگیں کہ وہ ہمیں ایمان پر ثابت قدم رکھے اور نیک صحبت عطا کرے۔"
+              ],
+              "english": [
+                "The love of Allah and His Messenger must be supreme in a believer's heart.",
+                "A believer's integrity should not tolerate living where disbelief is dominant.",
+                "Always pray to Allah for steadfastness in faith and for righteous companionship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

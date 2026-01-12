@@ -1,0 +1,259 @@
+{
+  "hadithId": 1213,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:2356", "https://sunnah.com/muslim:138"],
+    "kitabId": 14,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الأيمان والنذور",
+    "babId": 99
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ متفق عليه: رواه البخاري (2356)، ومسلم (138).",
+    "urdu": "یہ حدیث صحیح اور متفق علیہ ہے، اسے امام بخاری اور امام مسلم دونوں نے روایت کیا ہے۔",
+    "english": "Sahih. Muttafaqun 'Alayh (agreed upon): Reported by Al-Bukhari (2356) and Muslim (138)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَقْتَطِعُ",
+      "english": "To seize/grab",
+      "urdu": "چھین لینا یا ہتھیا لینا"
+    },
+    {
+      "arabic": "فَاجِرٌ",
+      "english": "Wicked/Liar",
+      "urdu": "جھوٹا یا گناہگار"
+    },
+    {
+      "arabic": "غَضْبَانُ",
+      "english": "Angry",
+      "urdu": "سخت ناراض"
+    },
+    {
+      "arabic": "لَقِيَ",
+      "english": "To meet",
+      "urdu": "ملاقات کرے گا"
+    },
+    {
+      "arabic": "يَمِينٍ",
+      "english": "Oath",
+      "urdu": "قسم"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں جھوٹی قسم کھا کر دوسروں کا مال ہتھیانے کی سخت وعید سنائی گئی ہے کہ ایسا شخص اللہ کے غضب کا مستحق ہوگا۔",
+    "english": "This Hadith warns of severe punishment for those who use false oaths to usurp others' property, stating they will face Allah's wrath."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2356)",
+      "english": "Reported by Al-Bukhari (2356)"
+    },
+    {
+      "arabic": "رواه مسلم (138)",
+      "english": "Reported by Muslim (138)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "الأشعث بن قيس الكندي",
+        "english": "Al-Ash'ath bin Qais Al-Kindi"
+      },
+      "slug": "al-ashath-bin-qais"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جھوٹی قسم کی سنگینی",
+        "english": "The Severity of Perjury"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "یمینِ غموس کا گناہ",
+              "english": "The Sin of Al-Yamin Al-Ghamus"
+            },
+            "content": {
+              "urdu": [
+                "ایسی قسم جو کسی کا حق مارنے کے لیے کھائی جائے، 'یمینِ غموس' کہلاتی ہے۔",
+                "یہ گناہ انسان کو جہنم کے گڑھے میں ڈبو دینے والا ہے۔",
+                "اس قسم کا کوئی کفارہ نہیں بلکہ یہ خالصتاً توبہ اور حق کی واپسی کا تقاضا کرتی ہے۔"
+              ],
+              "english": [
+                "An oath taken to usurp someone's right is called 'Al-Yamin al-Ghamus'.",
+                "This sin effectively plunges the perpetrator into the fire of Hell.",
+                "There is no expiation for this; it requires sincere repentance and returning the right."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کا غضب",
+              "english": "The Wrath of Allah"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کا غضب دنیا اور آخرت دونوں میں تباہی لاتا ہے۔",
+                "جھوٹی قسم اللہ کے نام کی توہین ہے کیونکہ اسے دنیاوی فائدے کے لیے استعمال کیا گیا۔",
+                "قیامت کے دن ایسے شخص کو اللہ کی رحمت سے محروم کر دیا جائے گا۔"
+              ],
+              "english": [
+                "The anger of Allah brings destruction in both this world and the hereafter.",
+                "Perjury insults Allah's name by using it for trivial worldly gains.",
+                "On the Day of Judgment, such a person will be deprived of Allah's mercy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دوسروں کے مال کی حرمت",
+        "english": "Sanctity of Others' Property"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق العباد کی اہمیت",
+              "english": "Importance of Human Rights"
+            },
+            "content": {
+              "urdu": [
+                "کسی مسلمان کا مال اس کی اجازت کے بغیر لینا حرام ہے۔",
+                "عدالتی نظام میں جھوٹ کا سہارا لے کر حق چھیننا ظلم کی بدترین شکل ہے۔",
+                "اسلامی معاشرے کی بنیاد ہی ایک دوسرے کے جان و مال کے تحفظ پر ہے۔"
+              ],
+              "english": [
+                "Taking a Muslim's property without their consent is strictly forbidden.",
+                "Usurping rights through lies in a legal system is the worst form of oppression.",
+                "The Islamic society is founded on the protection of life and property."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناجائز قبضے کا وبال",
+              "english": "The Curse of Unlawful Possession"
+            },
+            "content": {
+              "urdu": [
+                "جھوٹی قسم سے حاصل کردہ مال کبھی برکت نہیں لاتا۔",
+                "یہ دنیا میں بے سکونی اور آخرت میں سخت عذاب کا باعث ہے۔",
+                "مظلوم کی آہ سے بچنا چاہیے کیونکہ اللہ اس کا مددگار ہے۔"
+              ],
+              "english": [
+                "Wealth obtained through false oaths never brings true blessings.",
+                "It results in restlessness in life and severe punishment in the afterlife.",
+                "One must fear the cry of the oppressed, as Allah is their helper."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و سماجی سبق",
+        "english": "Ethical and Social Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوفِ خدا اور دیانت",
+              "english": "Fear of Allah and Integrity"
+            },
+            "content": {
+              "urdu": [
+                "سچا مومن کبھی بھی دنیا کے لیے اپنی آخرت تباہ نہیں کرتا۔",
+                "مال کی ہوس انسان کو اندھا کر دیتی ہے، اس سے بچنا ضروری ہے۔",
+                "عدالتوں میں ہمیشہ سچائی کا ساتھ دینا ایمان کا تقاضا ہے۔"
+              ],
+              "english": [
+                "A true believer never destroys their hereafter for worldly gain.",
+                "The greed for wealth blinds a person; it is essential to avoid it.",
+                "Supporting the truth in courts is a fundamental requirement of faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سماجی انصاف",
+              "english": "Social Justice"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے میں سچائی کا کلچر عام کرنا حکمرانوں اور عوام کی ذمہ داری ہے۔",
+                "جھوٹی گواہی اور قسموں سے معاشرے کا امن تباہ ہو جاتا ہے۔",
+                "جب لوگ اللہ کے نام سے ڈرنا چھوڑ دیں تو عدل قائم نہیں رہ سکتا۔"
+              ],
+              "english": [
+                "Promoting a culture of truth is the duty of both rulers and citizens.",
+                "False testimonies and oaths destroy the peace of a society.",
+                "Justice cannot prevail when people lose the fear of Allah's name."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کی رہنمائی",
+        "english": "Guidance for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "توبہ اور تلافی",
+              "english": "Repentance and Restitution"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کا حق مارا ہے تو فوراً توبہ کریں اور اسے واپس کریں۔",
+                "حقوق العباد صرف معافی مانگنے سے نہیں بلکہ تلافی سے معاف ہوتے ہیں۔",
+                "مرنے سے پہلے اپنے تمام معاملات صاف کرنا عقلمندی ہے۔"
+              ],
+              "english": [
+                "If you have usurped a right, repent immediately and return it.",
+                "Rights of others are forgiven through restitution, not just apologies.",
+                "It is wise to clear all financial obligations before death."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی برکت",
+              "english": "Blessings of Halal Earnings"
+            },
+            "content": {
+              "urdu": [
+                "تھوڑا حلال مال زیادہ حرام مال سے کہیں بہتر ہے۔",
+                "حرام مال دعاؤں کی قبولیت میں رکاوٹ بنتا ہے۔",
+                "اپنی اولاد کو حلال مال سے پالنا ان کی بہترین تربیت ہے۔"
+              ],
+              "english": [
+                "A small amount of halal is better than a mountain of haram.",
+                "Haram wealth acts as a barrier to the acceptance of supplications.",
+                "Raising children on halal earnings is the best form of upbringing."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

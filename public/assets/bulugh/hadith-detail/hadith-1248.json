@@ -1,0 +1,259 @@
+{
+  "hadithId": 1248,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/13"],
+    "kitabId": 16,
+    "inKitabBab": 1,
+    "arabicBook": "الجامع - باب الأدب",
+    "babId": 102
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5855)، ومسلم (2097).",
+    "urdu": "صحیح۔ اسے امام بخاری (5855) اور امام مسلم (2097) نے اپنی صحیحین میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5855) and Muslim (2097)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَمْشِ",
+      "english": "Should not walk",
+      "urdu": "نہ چلے"
+    },
+    {
+      "arabic": "نَعْلٍ",
+      "english": "Shoe / Sandal",
+      "urdu": "جوتا"
+    },
+    {
+      "arabic": "وَاحِدَةٍ",
+      "english": "Single / One",
+      "urdu": "ایک"
+    },
+    {
+      "arabic": "لِيُنْعِلْهُمَا",
+      "english": "Wear both",
+      "urdu": "دونوں کو پہنے"
+    },
+    {
+      "arabic": "لِيَخْلَعْهُمَا",
+      "english": "Take both off",
+      "urdu": "دونوں کو اتار دے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث لباس اور چال ڈھال میں توازن اور وقار برقرار رکھنے کی تعلیم دیتی ہے اور بلاوجہ ایک جوتا پہن کر چلنے سے منع کرتی ہے۔",
+    "english": "This Hadith teaches maintaining balance and dignity in attire and gait, prohibiting walking with only one shoe without a valid reason."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب اللباس، رقم 5855",
+      "english": "Sahih al-Bukhari, Book of Dress, No. 5855"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب اللباس والزينة، رقم 2097",
+      "english": "Sahih Muslim, Book of Dress and Adornment, No. 2097"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqG0F8L_8Gk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "لباس میں توازن اور وقار",
+        "english": "Balance and Dignity in Dress"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ظاہری ہیئت کی درستی",
+              "english": "Correcting Physical Appearance"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک مکمل ضابطہ حیات ہے جو انسان کی ظاہری شخصیت کو پروقار بنانے پر زور دیتا ہے۔",
+                "ایک جوتا پہن کر چلنا انسان کی ہیئت کو عجیب اور غیر متوازن بنا دیتا ہے جو کہ ناپسندیدہ ہے۔",
+                "نبی کریم ﷺ نے مسلمانوں کو ایسی حرکات سے روکا ہے جو دیکھنے میں نامناسب یا مضحکہ خیز لگیں۔"
+              ],
+              "english": [
+                "Islam is a complete code of life that emphasizes making a person's outward appearance dignified.",
+                "Walking with one shoe makes a person's appearance look strange and unbalanced, which is disliked.",
+                "The Prophet (ﷺ) forbade Muslims from actions that appear inappropriate or ridiculous to onlookers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعضاء کے درمیان عدل",
+              "english": "Justice Between Limbs"
+            },
+            "content": {
+              "urdu": [
+                "بعض علماء کے نزدیک اس ممانعت کی وجہ یہ ہے کہ دونوں پاؤں کے درمیان عدل برقرار رہے۔",
+                "ایک پاؤں کو محفوظ کرنا اور دوسرے کو زمین کی سختی کے لیے چھوڑ دینا توازن کے خلاف ہے۔",
+                "اسلام ہر معاملے میں برابری اور انصاف کی تعلیم دیتا ہے، چاہے وہ جوتے پہننا ہی کیوں نہ ہو۔"
+              ],
+              "english": [
+                "According to some scholars, the reason for this prohibition is to maintain justice between both feet.",
+                "Protecting one foot while leaving the other to the hardness of the ground goes against balance.",
+                "Islam teaches equality and fairness in all matters, even in something as simple as wearing shoes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور سماجی حکمت",
+        "english": "Medical and Social Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی صحت اور حفاظت",
+              "english": "Physical Health and Safety"
+            },
+            "content": {
+              "urdu": [
+                "ایک جوتا پہن کر چلنے سے انسان کے چلنے کا انداز بدل جاتا ہے جو کمر اور مہروں کے لیے نقصان دہ ہو سکتا ہے۔",
+                "اس طرح چلنے سے انسان کے گرنے یا ٹھوکر لگنے کے امکانات بھی بڑھ جاتے ہیں۔",
+                "نبوی تعلیمات ہمیشہ انسانی صحت اور حفاظت کو مدنظر رکھ کر دی گئی ہیں۔"
+              ],
+              "english": [
+                "Walking with one shoe changes a person's gait, which can be harmful to the back and spine.",
+                "Walking in such a manner also increases the chances of a person tripping or falling.",
+                "Prophetic teachings were always given with human health and safety in mind."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شیطانی مشابہت سے بچاؤ",
+              "english": "Avoiding Resemblance to Satan"
+            },
+            "content": {
+              "urdu": [
+                "بعض احادیث میں ذکر ملتا ہے کہ شیطان ایک جوتا پہن کر چلتا ہے، لہذا اس سے بچنا ضروری ہے۔",
+                "مسلمانوں کو حکم دیا گیا ہے کہ وہ اپنے ہر عمل میں شیاطین اور غیر قوموں کی مشابہت سے پرہیز کریں۔",
+                "اپنی منفرد اسلامی پہچان اور پاکیزہ عادات کو برقرار رکھنا ایمان کا تقاضا ہے۔"
+              ],
+              "english": [
+                "Some narrations mention that Satan walks wearing one shoe; therefore, it is necessary to avoid it.",
+                "Muslims are commanded to avoid resembling Satan or non-believers in their specific actions.",
+                "Maintaining a unique Islamic identity and pure habits is a requirement of faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ممانعت کی حدود اور استثناء",
+        "english": "Limits and Exceptions of Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مجبوری کی صورت",
+              "english": "Cases of Necessity"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کا ایک پاؤں زخمی ہو یا کوئی اور حقیقی عذر ہو تو وہ اس حکم سے مستثنیٰ ہے۔",
+                "شریعت میں جہاں تنگی ہو وہاں آسانی کا اصول کارفرما ہوتا ہے۔",
+                "ممانعت ان لوگوں کے لیے ہے جو بلاوجہ یا فیشن کے طور پر ایسا طرز عمل اختیار کرتے ہیں۔"
+              ],
+              "english": [
+                "If someone has an injured foot or another genuine excuse, they are exempt from this ruling.",
+                "In Sharia, the principle of ease applies where there is hardship or necessity.",
+                "The prohibition is for those who adopt such behavior without reason or as a fashion statement."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کھڑے ہو کر جوتا پہننا",
+              "english": "Wearing Shoes While Standing"
+            },
+            "content": {
+              "urdu": [
+                "اسی طرح بعض روایات میں کھڑے ہو کر جوتا پہننے سے بھی منع کیا گیا ہے تاکہ توازن برقرار رہے۔",
+                "بیٹھ کر جوتا پہننا زیادہ باوقار اور محفوظ طریقہ ہے جس میں گرنے کا ڈر نہیں ہوتا۔",
+                "یہ تمام آداب انسان کو نظم و ضبط اور نفاست پسندی کی تربیت دیتے ہیں۔"
+              ],
+              "english": [
+                "Similarly, some narrations discourage wearing shoes while standing to maintain physical balance.",
+                "Putting on shoes while sitting is a more dignified and safer method, avoiding the risk of falling.",
+                "All these etiquettes train a person in discipline and a preference for refinement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی تربیت اور خلاصہ",
+        "english": "Moral Training and Summary"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چھوٹی باتوں کی اہمیت",
+              "english": "Importance of Small Matters"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ظاہر کرتی ہے کہ اسلام زندگی کے معمولی ترین کاموں میں بھی رہنمائی فراہم کرتا ہے۔",
+                "جو قوم چھوٹی چھوٹی باتوں میں ڈسپلن کی پابند ہوتی ہے، وہی بڑے معرکے سر کرتی ہے۔",
+                "دین اسلام صرف عبادات کا مجموعہ نہیں بلکہ تہذیب و تمدن کا علمبردار بھی ہے۔"
+              ],
+              "english": [
+                "This Hadith shows that Islam provides guidance even in the most minor tasks of daily life.",
+                "A nation that is disciplined in small matters is the one that achieves great victories.",
+                "Islam is not just a collection of rituals but a pioneer of civilization and culture."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباع سنت کا جذبہ",
+              "english": "The Spirit of Adherence to Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سنت پر عمل کرنا انسان کی زندگی میں برکت اور نور پیدا کرنے کا باعث بنتا ہے۔",
+                "ہمیں چاہیے کہ جوتے پہننے سے لے کر معاشرتی تعلقات تک ہر جگہ سنت کو مقدم رکھیں۔",
+                "نبی کریم ﷺ کی اطاعت ہی اللہ کی محبت حاصل کرنے کا واحد راستہ ہے۔"
+              ],
+              "english": [
+                "Acting upon the Sunnah brings blessings and spiritual light into a person's life.",
+                "We should prioritize the Sunnah in everything, from wearing shoes to social interactions.",
+                "Obedience to the Prophet (ﷺ) is the only way to attain the love of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

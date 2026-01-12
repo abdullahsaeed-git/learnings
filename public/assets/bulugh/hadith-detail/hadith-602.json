@@ -1,0 +1,249 @@
+{
+  "hadithId": 602,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/6/24"],
+    "kitabId": 6,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحج",
+    "babId": 39
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1835)، ومسلم (1202). وفي رواية للبخاري أنه احتجم في رأسه وهو محرم من وجع كان به.",
+    "urdu": "صحیح۔ اسے امام بخاری (1835) اور امام مسلم (1202) نے روایت کیا ہے۔ بخاری کی ایک روایت میں صراحت ہے کہ آپ ﷺ نے سر کے درد کی وجہ سے سر مبارک پر حجامہ کروایا تھا۔",
+    "english": "Sahih. Reported by Al-Bukhari (1835) and Muslim (1202). A version in Bukhari specifies that he had cupping performed on his head due to a migraine while in Ihram."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِحْتَجَمَ",
+      "english": "Was cupped (Hijamah)",
+      "urdu": "سینگی لگوائی / حجامہ کروایا"
+    },
+    {
+      "arabic": "مُحْرِمٌ",
+      "english": "In state of Ihram",
+      "urdu": "احرام کی حالت میں"
+    },
+    {
+      "arabic": "وَجَع",
+      "english": "Pain / Ailment",
+      "urdu": "درد / تکلیف"
+    }
+  ],
+  "summary": {
+    "urdu": "حالتِ احرام میں ضرورت کے وقت حجامہ کروانا یا خون نکلوانا جائز ہے، بشرطیکہ اس میں بال نہ کاٹے جائیں یا اگر کاٹے جائیں تو فدیہ دیا جائے۔",
+    "english": "It is permissible to undergo cupping (Hijamah) or bloodletting while in the state of Ihram if necessary, provided hair is not removed without reason."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1835)",
+      "english": "Sahih al-Bukhari (1835)"
+    },
+    {
+      "arabic": "صحيح مسلم (1202)",
+      "english": "Sahih Muslim (1202)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R96vG2p3-Y0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "احرام میں حجامہ کا حکم",
+        "english": "Ruling on Cupping in Ihram"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جواز کی دلیل",
+              "english": "Evidence for Permissibility"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا عمل ثابت کرتا ہے کہ ضرورت کے تحت جسم سے خون نکلوانا احرام کے منافی نہیں ہے۔",
+                "سینگی لگوانے سے احرام پر کوئی اثر نہیں پڑتا اور نہ ہی کوئی کفارہ واجب ہوتا ہے۔",
+                "اگر درد یا بیماری ہو تو علاج کی غرض سے ایسا کرنا بلا کراہت جائز ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) action proves that bloodletting for necessity does not contradict Ihram.",
+                "Undergoing cupping itself does not invalidate Ihram or necessitate an expiation.",
+                "If done for treatment of pain or illness, it is permissible without dislike."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خون نکلنے سے احرام کا حکم",
+              "english": "Ihram and Bleeding"
+            },
+            "content": {
+              "urdu": [
+                "احرام کی حالت میں جسم سے خون نکلنے یا نکالنے (مثلاً انجکشن یا زخم) سے احرام نہیں ٹوٹتا۔",
+                "صرف وہ امور ممنوع ہیں جن سے شریعت نے صراحتاً منع فرمایا ہے جیسے خوشبو یا شکار۔",
+                "طبی ضروریات کو شریعت نے ہمیشہ ترجیح دی ہے۔"
+              ],
+              "english": [
+                "Bleeding or extracting blood (e.g., injections or wounds) does not break the Ihram state.",
+                "Only acts explicitly forbidden by Sharia, like perfume or hunting, are prohibited.",
+                "Sharia consistently prioritizes medical necessities."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بال کاٹنے کا مسئلہ اور فدیہ",
+        "english": "Issue of Hair Removal and Fidyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بالوں کی حفاظت",
+              "english": "Protection of Hair"
+            },
+            "content": {
+              "urdu": [
+                "حجامہ کے دوران اگر بال کاٹنے کی ضرورت نہ پڑے تو کوئی فدیہ نہیں۔",
+                "اگر سر پر حجامہ کے لیے کچھ بال کاٹنے پڑیں تو فدیہ دینا واجب ہو جاتا ہے۔",
+                "فدیہ میں ایک بکری ذبح کرنا، یا تین دن روزے رکھنا، یا چھ مسکینوں کو کھانا کھلانا شامل ہے۔"
+              ],
+              "english": [
+                "If hair removal is not required during cupping, no expiation is necessary.",
+                "If some hair must be shaved to perform cupping on the head, Fidyah becomes mandatory.",
+                "Fidyah options include sacrificing a sheep, fasting for three days, or feeding six needy people."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا اسوہ",
+              "english": "The Prophet's Example"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے سر کے درمیانی حصے (لحی جمل) پر حجامہ کروایا تھا۔",
+                "اس سے ثابت ہوا کہ شدید تکلیف کی صورت میں ممنوعہ کام (بال کاٹنا) کر کے فدیہ دیا جا سکتا ہے۔",
+                "اللہ تعالی نے دین میں تنگی نہیں رکھی اور تکلیف کے وقت رخصت دی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) had cupping done on the middle of his head (Lahy Jamal).",
+                "This proves that in severe pain, one may perform a restricted act (cutting hair) and pay expiation.",
+                "Allah has not placed hardship in religion and grants concessions during distress."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بغیر ضرورت حجامہ",
+              "english": "Cupping without Necessity"
+            },
+            "content": {
+              "urdu": [
+                "علماء کے نزدیک بلا ضرورت حجامہ کروانا احرام میں ناپسندیدہ (مکروہ) ہے۔",
+                "اگر بال نہ کٹیں تو یہ جائز تو ہے مگر احرام کی عاجزی کے خلاف ہے۔",
+                "حاجی کو چاہیے کہ وہ اپنی توجہ صرف مناسکِ حج پر مرکوز رکھے۔"
+              ],
+              "english": [
+                "Scholars consider cupping without necessity as disliked (Makruh) during Ihram.",
+                "If hair isn't cut, it remains valid but goes against the humility intended in Ihram.",
+                "The pilgrim should keep their focus strictly on the rites of Hajj."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حجامہ کے طبی فوائد",
+              "english": "Medical Benefits of Hijamah"
+            },
+            "content": {
+              "urdu": [
+                "حجامہ سنتِ نبوی بھی ہے اور ایک بہترین علاج بھی۔",
+                "نبی ﷺ نے اسے بہترین علاج قرار دیا ہے۔",
+                "سفرِ حج کی مشقت اور گرمی میں سر درد کے لیے یہ نہایت موثر عمل ہے۔"
+              ],
+              "english": [
+                "Hijamah is both a Prophetic Sunnah and an excellent medical treatment.",
+                "The Prophet (ﷺ) described it as one of the best cures available.",
+                "It is highly effective for headaches caused by the heat and exertion of the Hajj journey."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صبر اور علاج کا توازن",
+              "english": "Balance of Patience and Treatment"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو بیماری پر صبر بھی کرنا چاہیے اور سنت کے مطابق علاج بھی۔",
+                "تکلیف کی حالت میں اللہ سے مدد مانگنا اور دستیاب ذرائع استعمال کرنا توکل کے خلاف نہیں۔",
+                "نبی ﷺ کی زندگی ہمیں ہر حال میں اعتدال سکھاتی ہے۔"
+              ],
+              "english": [
+                "A believer should exercise patience during illness and seek treatment according to Sunnah.",
+                "Seeking help from Allah and using available means during pain is not against trust (Tawakkul).",
+                "The Prophet's (ﷺ) life teaches us moderation in all circumstances."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احکام کی پابندی",
+              "english": "Adherence to Rulings"
+            },
+            "content": {
+              "urdu": [
+                "دین کے احکامات پر عمل پیرا ہوتے ہوئے اس کی حدود کو پہچاننا ضروری ہے۔",
+                "ایک حاجی کو معلوم ہونا چاہیے کہ کب رخصت حاصل ہے اور کب فدیہ لازم ہے۔",
+                "علم کی روشنی ہی بندگی کو کامل بناتی ہے۔"
+              ],
+              "english": [
+                "While following religious commands, it is essential to recognize their boundaries.",
+                "A pilgrim must know when a concession applies and when expiation is required.",
+                "The light of knowledge is what makes servitude perfect."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

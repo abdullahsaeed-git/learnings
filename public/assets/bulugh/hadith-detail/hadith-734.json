@@ -1,0 +1,230 @@
+{
+  "hadithId": 734,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/7/102"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب البيوع",
+    "babId": 47
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1044) في كتاب الزكاة، باب من تحل له المسألة. وأخرجه أبو داود (1640)، والنسائي (2598).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم نے اسے اپنی صحیح (1044) میں 'کتاب الزکوٰۃ' کے تحت روایت کیا ہے۔ اس کے علاوہ ابوداؤد اور نسائی نے بھی اسے نقل کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1044) in the Book of Zakat. Also reported by Abu Dawud (1640) and An-Nasa'i (2598)."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْمَسْأَلَةَ",
+      "english": "Begging / Asking",
+      "urdu": "سوال کرنا / مانگنا"
+    },
+    {
+      "arabic": "حَمَالَةً",
+      "english": "Guarantee / Financial burden",
+      "urdu": "مالی ضمانت یا تاوان"
+    },
+    {
+      "arabic": "جَائِحَةٌ",
+      "english": "Calamity / Disaster",
+      "urdu": "آفت یا قدرتی مصیبت"
+    },
+    {
+      "arabic": "قِوَامًا",
+      "english": "Subsistence / Livelihood",
+      "urdu": "گزر اوقات کا سہارا"
+    },
+    {
+      "arabic": "ذَوِي الْحِجَى",
+      "english": "Men of wisdom/intellect",
+      "urdu": "عقل و دانش والے"
+    },
+    {
+      "arabic": "فَاقَةٌ",
+      "english": "Poverty / Starvation",
+      "urdu": "سخت تنگی یا فاقہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں سوال کرنے (مانگنے) کی سخت مذمت کی گئی ہے اور صرف تین ہنگامی صورتوں میں اس کی اجازت دی گئی ہے: سماجی صلح کے لیے، ناگہانی مالی نقصان پر، اور تصدیق شدہ سخت غربت پر۔",
+    "english": "This Hadith strictly discourages begging and limits its permissibility to three specific emergency situations: taking on a debt for social reconciliation, total loss of wealth due to disaster, or verified extreme poverty."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الزكاة",
+      "english": "Sahih Muslim, Book of Zakat"
+    },
+    {
+      "arabic": "سنن النسائي، كتاب الزكاة",
+      "english": "Sunan an-Nasa'i, Book of Zakat"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "قبيصة بن مخارق الهلالي",
+        "english": "Qabisah bin Mukhariq al-Hilali"
+      },
+      "slug": "qabisah-bin-mukhariq"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0p7U_pG_2Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سوال کرنے کی شرعی حدود",
+        "english": "Legal Boundaries of Begging"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سوال کی ممانعت",
+              "english": "Prohibition of Begging"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں بلا ضرورت مانگنا حرام ہے اور اسے چہرے پر زخم یا جہنم کے انگارے قرار دیا گیا ہے۔",
+                "مسلمان کو محنت اور وقار کے ساتھ زندگی گزارنے کی تلقین کی گئی ہے۔",
+                "یہ حدیث واضح کرتی ہے کہ سوال کرنا صرف آخری چارہ کار (Last Resort) ہونا چاہیے۔"
+              ],
+              "english": [
+                "In Islam, begging without necessity is forbidden and described as a blemish on the face or consuming embers of Hell.",
+                "A Muslim is encouraged to live with dignity and rely on hard work.",
+                "This Hadith clarifies that asking others for help should only be a last resort."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حمالہ (ضمانت) کا جواز",
+              "english": "Permissibility of Hamalah (Guarantee)"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص دو گروہوں کے جھگڑے ختم کرنے کے لیے اپنی جیب سے رقم دینے کا وعدہ کرے، تو وہ دوسروں سے مدد لے سکتا ہے۔",
+                "یہ سوال اپنی ذات کے لیے نہیں بلکہ معاشرتی امن کے لیے ہے، اس لیے اسے مستحسن قرار دیا گیا۔",
+                "جیسے ہی ضمانت کی رقم پوری ہو جائے، اسے مانگنا فوری بند کر دینا چاہیے۔"
+              ],
+              "english": [
+                "If a person takes a financial burden to reconcile between two parties, he may seek help from others.",
+                "This is not for personal gain but for social peace, thus it is highly regarded.",
+                "As soon as the required amount is gathered, he must immediately stop asking."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مصیبت زدہ اور غریب کے احکام",
+        "english": "Rulings for the Afflicted and the Poor"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناگہانی آفات (جائحہ)",
+              "english": "Sudden Calamities (Ja'ihah)"
+            },
+            "content": {
+              "urdu": [
+                "سیلاب، آگ یا کسی حادثے میں مال ضائع ہو جائے تو امداد مانگنے کی اجازت ہے۔",
+                "اجازت کا مقصد صرف دوبارہ پیروں پر کھڑا ہونا ہے، اسے پیشہ بنانا نہیں۔",
+                "اسلامی ریاست اور مخیر حضرات کی ذمہ داری ہے کہ وہ ایسے لوگوں کا سہارا بنیں۔"
+              ],
+              "english": [
+                "If wealth is lost due to floods, fire, or accidents, seeking assistance is allowed.",
+                "The goal is merely to get back on one's feet, not to turn begging into a profession.",
+                "It is the duty of the Islamic state and philanthropists to support such individuals."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گواہی اور تصدیق کی شرط",
+              "english": "Condition of Witness and Verification"
+            },
+            "content": {
+              "urdu": [
+                "غربت کے نام پر دھوکہ دہی روکنے کے لیے 'تین معتبر گواہوں' کی شرط لگائی گئی ہے۔",
+                "یہ گواہ وہ ہوں جو اس شخص کے حالات سے گہری واقفیت رکھتے ہوں۔",
+                "اس سے معاشرے میں جھوٹے بھکاریوں کی حوصلہ شکنی ہوتی ہے اور حقدار کو حق ملتا ہے۔"
+              ],
+              "english": [
+                "To prevent fraud in the name of poverty, the condition of 'three reliable witnesses' is stipulated.",
+                "These witnesses must be intimately familiar with the person's true financial state.",
+                "This discourages professional beggars and ensures help reaches the truly deserving."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور معاشی حکمت",
+        "english": "Moral and Economic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خودداری کی تعلیم",
+              "english": "Teaching Self-Respect"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کا مقصد مسلمانوں میں عزتِ نفس اور غیرت پیدا کرنا ہے۔",
+                "جو شخص اللہ پر توکل کرتا ہے اور محنت کرتا ہے، اللہ اسے لوگوں سے بے نیاز کر دیتا ہے۔",
+                "مانگنے والا ہاتھ دینے والے ہاتھ سے ہمیشہ نیچا رہتا ہے۔"
+              ],
+              "english": [
+                "The Hadith aims to instill self-respect and dignity among Muslims.",
+                "He who trusts in Allah and works hard, Allah makes him independent of others.",
+                "The hand that asks is always lower than the hand that gives."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تحقیق کے بعد امداد",
+              "english": "Aid After Investigation"
+            },
+            "content": {
+              "urdu": [
+                "صدقہ و خیرات دیتے وقت حقدار کی پہچان کرنا ضروری ہے۔",
+                "صرف ظاہری حالت دیکھ کر نہیں بلکہ چھان بین کر کے مستحقین کی مدد کریں۔",
+                "پیشہ ور بھکاریوں کے بجائے ان سفید پوشوں کو تلاش کریں جو مانگنے سے شرماتے ہیں۔"
+              ],
+              "english": [
+                "It is necessary to identify the truly deserving before giving Zakat or charity.",
+                "Help should be provided based on investigation, not just outward appearance.",
+                "Search for the dignified poor who are too shy to ask, rather than encouraging professional beggars."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

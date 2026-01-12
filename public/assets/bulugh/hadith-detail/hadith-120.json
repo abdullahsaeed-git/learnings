@@ -1,0 +1,273 @@
+{
+  "hadithId": 120,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["1:120"],
+    "kitabId": 1,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 10
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه مسلم (334) (66)  بقوله: «اُمْكُثِي قَدْرَ مَا كَانَتْ تَحْبِسُكِ حَيْضَتُكِ، ثُمَّ اِغْتَسِلِي، فَكَانَتْ تَغْتَسِلُ كُلَّ صَلَاةٍ».  وأصل الحديث متفق عليه. والرواية الصحيحة هي الوضوء لكل صلاة وليس الغسل.",
+    "urdu": "صحیح (درست) روایت۔ اسے مسلم (334) (66) نے اس قول کے ساتھ روایت کیا ہے: \"تمہارے ماہواری کے ایام جس قدر پہلے سے متعین ہیں اتنے ایام میں رکو، پھر غسل کرو، تو وہ ہر نماز کیلئے غسل کرتی تھیں۔\" اور حدیث کی اصل متفق علیہ ہے۔ اور صحیح روایت ہر نماز کیلئے وضو کرنے کی ہے نہ کہ غسل کی۔",
+    "english": "Sahih (Authentic). Reported by Muslim (334) (66) with the phrase: 'Stop for the length of time your menses used to hold you, then perform Ghusl. So she used to perform Ghusl for every prayer.' The core Hadith is agreed upon (Muttafaqun Alayhi). The correct, authentic narration establishes Wudu for every prayer, not Ghusl."
+  },
+  "importantWords": [
+    {
+      "arabic": "شَكَتْ",
+      "english": "She complained",
+      "urdu": "اس نے شکوہ کیا"
+    },
+    {
+      "arabic": "اَلدَّمَ",
+      "english": "The blood (Istihadah)",
+      "urdu": "دم استحاضہ"
+    },
+    {
+      "arabic": "اُمْكُثِي",
+      "english": "Stay/Stop (from worship)",
+      "urdu": "تم رک جاؤ"
+    },
+    {
+      "arabic": "قَدْرَ مَا كَانَتْ",
+      "english": "The extent of what used to be",
+      "urdu": "جس قدر پہلے سے متعین ہے"
+    },
+    {
+      "arabic": "تَحْبِسُكِ",
+      "english": "Holds you/Prevents you",
+      "urdu": "تمہیں روکتی تھی"
+    },
+    {
+      "arabic": "تَغْتَسِلُ كُلَّ صَلَاةٍ",
+      "english": "She performs Ghusl for every prayer",
+      "urdu": "وہ ہر نماز کیلئے غسل کرتی تھیں"
+    },
+    {
+      "arabic": "تَوَضَّئِي",
+      "english": "Perform Wudu",
+      "urdu": "تم وضو کرو"
+    }
+  ],
+  "summary": {
+    "urdu": "ام حبیبہ بنت جحش کو استحاضہ کی شکایت پر نبی اکرم ﷺ نے انہیں ان کی سابقہ عادت کے مطابق حیض کی مدت پوری کرنے کا حکم دیا، جس کے بعد ایک غسل کر کے پاکی حاصل کی جائے۔ اس کے بعد وہ احتیاطاً ہر نماز کے لیے غسل کرتی تھیں، لیکن نبی ﷺ کا حتمی حکم ہر نماز کے لیے وضو کرنے کا تھا۔",
+    "english": "When Umm Habibah bint Jahsh complained of Istihadah, the Prophet ﷺ instructed her to observe her customary menstrual period, after which she should perform Ghusl to become pure. Although she performed Ghusl for every prayer out of caution, the sound ruling from the Prophet ﷺ was to perform Wudu for every prayer."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (334)",
+      "english": "Reported by Muslim (334)"
+    },
+    {
+      "arabic": "وفي رواية للبخاري",
+      "english": "In a narration by Al-Bukhari"
+    },
+    {
+      "arabic": "رواه أبو داود وغيره",
+      "english": "Reported by Abu Dawud and others"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 12001,
+      "name": {
+        "arabic": "عَائِشَةَ بِنْتِ أَبِي بَكْرٍ",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عادت کے مطابق تمیز",
+        "english": "Distinguishing Based on Habit"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عادت کا اعتبار",
+              "english": "Reliance on Customary Habit"
+            },
+            "content": {
+              "urdu": [
+                "ام حبیبہ کی حدیث اس عورت کے لیے حکم واضح کرتی ہے جس کی ماہواری کی عادت مقرر ہو۔",
+                "نبی ﷺ نے حکم دیا کہ وہ اپنے متعین دنوں کی تعداد کو حیض سمجھے اور عبادت سے رکی رہے۔",
+                "اس سے ثابت ہوتا ہے کہ استحاضہ کی صورت میں عورت کی سابقہ عادت (طبیعت) کو شرعی حیثیت حاصل ہے۔"
+              ],
+              "english": [
+                "Umm Habibah's Hadith clarifies the ruling for a woman with a fixed menstrual pattern (habit).",
+                "The Prophet ﷺ commanded her to regard her fixed number of days as menses and refrain from worship.",
+                "This establishes that a woman's previous customary habit holds legal weight in cases of Istihadah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حیض کے بعد کا غسل",
+              "english": "Ghusl After Menses"
+            },
+            "content": {
+              "urdu": [
+                "حیض کی مقررہ مدت پوری ہونے کے بعد، عورت پر ایک بار غسل کرنا فرض ہے تاکہ وہ پاکی کی حالت میں آ جائے۔",
+                "یہ غسل استحاضہ کو نہیں بلکہ حیض کے احکام کو ختم کرنے کے لیے ضروری ہے۔",
+                "غسل کے بعد عورت پاک شمار ہوگی اور عبادات دوبارہ شروع کر سکتی ہے۔"
+              ],
+              "english": [
+                "After the customary period of menses is complete, the woman must perform Ghusl once to attain the state of purity.",
+                "This Ghusl is necessary to conclude the rulings of Hayd, not to stop the Istihadah.",
+                "Following the Ghusl, the woman is considered pure and may resume her acts of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کا مستند طریقہ",
+        "english": "Authentic Method of Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غسل کا اجتہاد",
+              "english": "Ijtihad on Ghusl"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی روایت میں ہے کہ ام حبیبہ ہر نماز کے لیے غسل کرتی تھیں جو ان کا ذاتی اجتہاد تھا۔",
+                "اگرچہ یہ عمل نبی ﷺ کے حکم کے مطابق نہیں تھا، مگر احتیاط کے طور پر جائز سمجھا گیا۔",
+                "اس فعل سے معلوم ہوتا ہے کہ بعض صحابہ کرام طہارت میں کس قدر احتیاط کرتے تھے۔"
+              ],
+              "english": [
+                "Muslim's narration states Umm Habibah performed Ghusl for every prayer, which was her personal Ijtihad.",
+                "Although this act was not explicitly commanded by the Prophet, it was considered permissible due to her strong precaution.",
+                "This action shows the high level of caution and concern for purity among some Companions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہر نماز کے لیے وضو",
+              "english": "Wudu for Every Prayer"
+            },
+            "content": {
+              "urdu": [
+                "بخاری اور دیگر کتب میں صحیح حکم یہ ہے کہ استحاضہ والی عورت ہر نماز کے لیے وضو کرے گی۔",
+                "یہ حکم اس لیے دیا گیا کہ استحاضہ کا خون ایک مستقل عذر ہے جو وضو کو توڑتا نہیں بلکہ صرف نماز کے لیے طہارت کو تازہ کرنا ضروری ہے۔",
+                "اسی حکم کو فقہاء نے استحاضہ کا غالب اور متفق علیہ حکم قرار دیا ہے۔"
+              ],
+              "english": [
+                "The authentic ruling found in Bukhari and other sources is that the woman with Istihadah must perform Wudu for every prayer.",
+                "This ruling is given because Istihadah blood is a continuous excuse; it doesn't nullify Wudu completely but necessitates renewing purity for each prayer.",
+                "Jurists have adopted this as the predominant and agreed-upon ruling for Istihadah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استحاضہ کے درجات",
+        "english": "Categories of Istihadah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عادت والی عورت",
+              "english": "The Woman with a Habit"
+            },
+            "content": {
+              "urdu": [
+                "ام حبیبہ رضی اللہ عنہا کا معاملہ 'صاحبتِ عادت' (عادت والی عورت) سے متعلق تھا۔",
+                "جن عورتوں کی ماہواری کے ایام کی تعداد مقرر ہو، وہ ان دنوں کو حیض شمار کریں گی۔",
+                "یہ حکم فاطمہ بنت ابی حُبیش (خون کی پہچان) اور حمنہ بنت جحش (عادت کی کمی) کے احکام سے مختلف ہے۔"
+              ],
+              "english": [
+                "The case of Umm Habibah (RA) pertains to the 'Sahibatul 'Adah' (the woman with a fixed habit).",
+                "Women whose menstrual days are fixed should count those days as menses.",
+                "This ruling differs from those given to Fatimah bint Abi Hubaysh (blood distinction) and Hamnah bint Jahsh (lack of habit)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت میں آسانی",
+              "english": "Ease in Worship"
+            },
+            "content": {
+              "urdu": [
+                "ہر نماز کے لیے وضو کرنا آسانی کا حکم ہے، کیونکہ ہر بار غسل کرنا مشقت کا باعث ہے۔",
+                "وقت پر نماز ادا کرنے کی اجازت دے کر اللہ تعالیٰ نے مشقت کو دور فرمایا ہے۔",
+                "یہ اسلامی شریعت کی ایک مثال ہے جو ہر حال میں عبادت کو ممکن بناتی ہے۔"
+              ],
+              "english": [
+                "Performing Wudu for every prayer is a command of ease, as performing Ghusl every time would cause difficulty.",
+                "By permitting prayer on time, Allah has removed hardship.",
+                "This is an example of Islamic Sharia making worship possible in all circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور عملی نفاذ",
+        "english": "Ethical and Practical Implementation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مستقل عذر کا حکم",
+              "english": "Ruling on Perpetual Excuse"
+            },
+            "content": {
+              "urdu": [
+                "مستحاضہ، مسلسلے البول (پیشاب کا مسلسل بہاؤ) اور دیگر دائمی عذر والے افراد کا حکم یکساں ہے۔",
+                "ان سب کو ہر نماز کے وقت نیا وضو کرنا چاہیے اور دورانِ نماز عذر کو نظر انداز کرنا چاہیے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ اسلام عذر والے کو بھی عبادت سے محروم نہیں رکھتا۔"
+              ],
+              "english": [
+                "The ruling for the Mustahadah is similar to those with continuous excuses like urinary incontinence (Silsalatul Bawl) and others.",
+                "All must perform a fresh Wudu at the time of every prayer and disregard the continuous excuse during the prayer.",
+                "This ruling proves that Islam does not deprive those with excuses from performing worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فضیلت اور احتیاط",
+              "english": "Virtue and Precaution"
+            },
+            "content": {
+              "urdu": [
+                "ام حبیبہ کا ہر نماز کے لیے غسل کرنا ان کی عظمت اور مزید اجر کی جستجو کی علامت ہے۔",
+                "اگرچہ واجب نہیں تھا، لیکن ایک اچھا عمل ہونے کی وجہ سے اس کی فضیلت موجود ہے۔",
+                "مسلمان کو چاہیے کہ شرعی احکام پر عمل کرے اور زیادہ طاقت ہو تو احتیاطی عمل بھی کرے۔"
+              ],
+              "english": [
+                "Umm Habibah's act of performing Ghusl for every prayer signifies her high virtue and pursuit of extra reward.",
+                "Although not obligatory, its virtue exists as it was a good act.",
+                "A Muslim should adhere to the legal rulings and, if capable, engage in precautionary practices as well."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

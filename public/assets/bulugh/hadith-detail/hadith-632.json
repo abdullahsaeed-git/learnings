@@ -1,0 +1,193 @@
+{
+  "hadithId": 632,
+  "hadithNo": 26,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/52"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1811). وهذا الحديث وقع في قصة صلح الحديبية حين أحصر النبي صلى الله عليه وسلم وأصحابه عن البيت.",
+    "urdu": "صحیح۔ اسے امام بخاری (1811) نے روایت کیا ہے۔ یہ واقعہ صلح حدیبیہ کے موقع پر پیش آیا جب مشرکین نے نبی ﷺ اور صحابہ کو عمرہ کرنے سے روک دیا تھا۔",
+    "english": "Sahih. Reported by Al-Bukhari (1811). This incident occurred during the Treaty of Hudaybiyyah when the Prophet (ﷺ) and his companions were prevented from entering Makkah."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَحَرَ",
+      "english": "Sacrificed / Slaughtered",
+      "urdu": "قربانی کی / ذبح کیا"
+    },
+    {
+      "arabic": "يَحْلِقَ",
+      "english": "Shave (his head)",
+      "urdu": "سر منڈائے"
+    },
+    {
+      "arabic": "أَحْصَرَ",
+      "english": "Prevented / Circumscribed",
+      "urdu": "روکا گیا / احصار"
+    }
+  ],
+  "summary": {
+    "urdu": "حج یا عمرہ سے روک دیے جانے (احصار) کی صورت میں پہلے قربانی کرنا اور پھر سر منڈوا کر احرام کھولنا سنتِ نبوی ہے۔",
+    "english": "In case of being prevented from completing Hajj or Umrah (Ihsar), the Sunnah is to offer the sacrifice first and then shave the head to exit the state of Ihram."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1811)",
+      "english": "Sahih al-Bukhari (1811)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "المسور بن مخرمة",
+        "english": "Al-Miswar bin Makhrama"
+      },
+      "slug": "al-miswar-bin-makhrama"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "احصار اور احرام کھولنے کی ترتیب",
+        "english": "Sequence of Exiting Ihram During Restriction"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیبیہ کا پس منظر",
+              "english": "Background of Hudaybiyyah"
+            },
+            "content": {
+              "urdu": [
+                "6 ہجری میں نبی ﷺ عمرے کے لیے نکلے مگر حدیبیہ کے مقام پر روک دیے گئے۔",
+                "ایسی صورتحال کو شرعی اصطلاح میں 'احصار' (رکاوٹ) کہا جاتا ہے۔",
+                "جب عمرہ مکمل ہونا ممکن نہ رہا، تو آپ ﷺ نے اسی مقام پر قربانی کر کے احرام کھولنے کا فیصلہ کیا۔"
+              ],
+              "english": [
+                "In 6 AH, the Prophet (ﷺ) set out for Umrah but was blocked at Hudaybiyyah.",
+                "In Sharia, this state of being prevented from the rituals is called 'Ihsar'.",
+                "When completing the Umrah became impossible, he decided to sacrifice and exit Ihram there."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قربانی پہلے حلق بعد میں",
+              "english": "Sacrifice Before Shaving"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے ثابت ہوتا ہے کہ احصار کی صورت میں پہلے جانور ذبح کیا جائے گا اور پھر سر منڈوایا جائے گا۔",
+                "نبی ﷺ نے پہلے اپنی ہدی (قربانی) ذبح کی، پھر بال منڈوائے، جس کے بعد آپ ﷺ حلال ہو گئے۔",
+                "ترتیب کی یہ پابندی اس بات کی دلیل ہے کہ حلق قربانی کے تابع ہے۔"
+              ],
+              "english": [
+                "This Hadith proves that during Ihsar, the animal is slaughtered first, followed by shaving.",
+                "The Prophet (ﷺ) slaughtered his Had-y first, then shaved his head, thereby exiting Ihram.",
+                "This sequence indicates that shaving is dependent on the completion of the sacrifice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبوی حکمت اور قیادت",
+        "english": "Prophetic Wisdom and Leadership"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحابہ کی دلجوئی اور نمونہ",
+              "english": "Empathy and Example for Companions"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام بیت اللہ نہ پہنچ پانے کی وجہ سے شدید غمگین تھے اور احرام کھولنے میں ہچکچا رہے تھے۔",
+                "نبی ﷺ نے ام سلمہ رضی اللہ عنہا کے مشورے پر کسی سے بات کیے بغیر خود عمل شروع کیا۔",
+                "آپ ﷺ کا عمل دیکھ کر تمام صحابہ نے فوری پیروی کی، جو قیادت کا بہترین سبق ہے۔"
+              ],
+              "english": [
+                "The companions were deeply saddened at not reaching the Kaaba and hesitated to exit Ihram.",
+                "Following Umm Salama's (RA) advice, the Prophet (ﷺ) began the process himself without speaking.",
+                "Upon seeing his action, all companions followed immediately, a great lesson in leadership."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احصار کا فدیہ",
+              "english": "Penalty for Restriction"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی حاجی یا عمرہ کرنے والا دشمن، بیماری یا کسی اور وجہ سے رک جائے تو اسے دم (قربانی) دینا پڑتا ہے۔",
+                "یہ قربانی اسی جگہ کر دی جائے گی جہاں اسے روکا گیا ہو، خواہ وہ حدودِ حرم سے باہر ہی کیوں نہ ہو۔",
+                "اس کے بعد وہ بال کٹوا کر حلال ہو سکتا ہے۔"
+              ],
+              "english": [
+                "If a pilgrim is stopped by an enemy or illness, they must offer a sacrifice (Dam).",
+                "The sacrifice is made at the spot where they were restricted, even if outside the Haram.",
+                "After the sacrifice, they may shave or cut their hair and exit the state of Ihram."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رضائے الٰہی پر راضی رہنا",
+              "english": "Contentment with Allah's Decree"
+            },
+            "content": {
+              "urdu": [
+                "کبھی کبھار نیکی کی نیت کے باوجود رکاوٹیں آ جاتی ہیں، ایسی صورت میں اللہ کے حکم پر سر تسلیم خم کرنا ہی بندگی ہے۔",
+                "بیت اللہ نہ پہنچنے کے باوجود اللہ نے صحابہ کو وہی اجر عطا کیا کیونکہ ان کی نیت سچی تھی۔",
+                "اتباعِ رسول ﷺ ہر حال میں واجب ہے، چاہے وہ عمل ہماری خواہش کے خلاف ہی کیوں نہ ہو۔"
+              ],
+              "english": [
+                "Sometimes obstacles arise despite good intentions; true servitude is surrendering to Allah's will.",
+                "Even without reaching the Kaaba, Allah granted the companions their reward due to their sincerity.",
+                "Obeying the Messenger (ﷺ) is mandatory in all circumstances, even if it contradicts our desires."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

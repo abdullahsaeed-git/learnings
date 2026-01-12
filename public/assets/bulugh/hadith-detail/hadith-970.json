@@ -1,0 +1,249 @@
+{
+  "hadithId": 970,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1115"],
+    "kitabId": 8,
+    "inKitabBab": 13,
+    "arabicBook": "كتاب الرضاع",
+    "babId": 76
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه الترمذي (1152) وصححه، والحاكم (2/169) وصححه على شرط الشيخين. وقال الترمذي: والعمل على هذا عند أكثر أهل العلم من أصحاب النبي ﷺ وغيرهم؛ أن الرضاعة لا تحرم إلا ما كان دون الحولين.",
+    "urdu": "صحیح۔ اسے امام ترمذی (1152) نے روایت کر کے صحیح کہا ہے، اور حاکم (2/169) نے بھی اسے بخاری و مسلم کی شرائط پر صحیح قرار دیا ہے۔ امام ترمذی فرماتے ہیں کہ صحابہ اور دیگر اہل علم کی اکثریت کا اسی پر عمل ہے کہ رضاعت صرف دو سال کی عمر کے اندر ہی معتبر ہے۔",
+    "english": "Sahih. Reported by At-Tirmidhi (1152) and Al-Hakim (2/169). At-Tirmidhi said that the majority of the people of knowledge among the Companions and others act upon this: fosterage only establishes prohibition if it occurs within the first two years of age."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يُحَرِّمُ",
+      "english": "Does not prohibit / make unlawful",
+      "urdu": "حرام نہیں کرتا"
+    },
+    {
+      "arabic": "فَتَقَ اَلْأَمْعَاءَ",
+      "english": "Burst/Distend the intestines (Fill the stomach)",
+      "urdu": "انتڑیوں کو کھول دے / پیٹ بھر دے"
+    },
+    {
+      "arabic": "الْفِطَامِ",
+      "english": "Weaning (Stopping breastfeeding)",
+      "urdu": "دودھ چھڑانا"
+    }
+  ],
+  "summary": {
+    "urdu": "رضاعت سے حرمتِ نکاح (محرم ہونا) صرف اس وقت ثابت ہوتی ہے جب دودھ شیر خوارگی کے زمانے میں پیا جائے اور وہ پیٹ بھر کر پیا گیا ہو، بڑی عمر میں دودھ پینا رشتہ نہیں بناتا۔",
+    "english": "Marriage prohibition through fosterage is only established if the milk is consumed during infancy (before weaning) and in a quantity that satisfies hunger/reaches the stomach."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي (1152)",
+      "english": "Jami' at-Tirmidhi (1152)"
+    },
+    {
+      "arabic": "المستدرك للحاكم (2/169)",
+      "english": "Al-Mustadrak al-Hakim (2/169)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم سلمة هند بنت أبي أمية",
+        "english": "Umm Salama Hind bint Abi Umayya"
+      },
+      "slug": "umm-salama"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2fF_vW0BTo",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رضاعت کے معتبر ہونے کی شرائط",
+        "english": "Conditions for Valid Fosterage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمر کی حد (قبل الفطام)",
+              "english": "Age Limit (Before Weaning)"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'قبل الفطام' (دودھ چھڑانے سے پہلے) کی قید سے مراد وہ زمانہ ہے جب بچہ غذا کے لیے صرف دودھ پر انحصار کرتا ہے۔",
+                "قرآن مجید کے مطابق یہ مدت دو مکمل سال ہے: 'والوالدات يرضعن أولادهن حولين كاملين'۔",
+                "جمہور فقہاء کے نزدیک دو سال کے بعد دودھ پینے سے رضاعی رشتہ قائم نہیں ہوتا۔"
+              ],
+              "english": [
+                "The phrase 'before weaning' refers to the period when the child primarily relies on milk for nutrition.",
+                "According to the Quran, this period is two complete years (Surah Al-Baqarah: 233).",
+                "The majority of jurists hold that suckling after two years of age does not establish a foster relationship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دودھ کی مقدار (فتق الامعاء)",
+              "english": "Quantity of Milk (Reaching Intestines)"
+            },
+            "content": {
+              "urdu": [
+                "صرف ایک قطرہ یا زبان لگنے سے حرمت ثابت نہیں ہوتی، بلکہ دودھ کا پیٹ میں پہنچنا ضروری ہے۔",
+                "'فتق الامعاء' کنایہ ہے پیٹ بھرنے اور بھوک مٹنے سے، جس سے جسم کی نشوونما ہوتی ہے۔",
+                "اس سے معلوم ہوتا ہے کہ رضاعت کا رشتہ ایک جسمانی اور حیاتیاتی تعلق ہے۔"
+              ],
+              "english": [
+                "A mere drop or lick of milk does not establish prohibition; the milk must reach the stomach.",
+                "The expression 'reaches the intestines' implies satisfying hunger and contributing to body growth.",
+                "This indicates that the foster bond is based on a physical and biological connection."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی ابحاث اور اختلاف",
+        "english": "Juristic Discussions and Differences"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رضاعتِ کبیر (بڑوں کی رضاعت)",
+              "english": "Suckling of Adults"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے واضح ہوتا ہے کہ بڑی عمر میں دودھ پینے سے محرمیت ثابت نہیں ہوتی۔",
+                "سالم مولیٰ ابوحذیفہ کا قصہ ایک مخصوص استثناء تھا، جس پر تمام صحابہ کا اتفاق نہیں تھا۔",
+                "سیدہ ام سلمہ اور دیگر امہات المومنین اسی عمومی قاعدے (دو سال کی حد) پر سختی سے عمل کرتی تھیں۔"
+              ],
+              "english": [
+                "This Hadith clarifies that adult suckling does not establish Mahram status.",
+                "The case of Salim, the freed slave of Abu Hudhaifa, was a specific exception, not a general rule.",
+                "Umm Salama and the other Mothers of the Believers strictly followed this general rule of the two-year limit."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کتنی بار دودھ پینا ضروری ہے؟",
+              "english": "How Many Times is Required?"
+            },
+            "content": {
+              "urdu": [
+                "دیگر احادیث کی روشنی میں امام شافعی اور امام احمد کے نزدیک پانچ بار پیٹ بھر کر پینا شرط ہے۔",
+                "امام مالک اور امام ابوحنیفہ کے نزدیک ایک بار بھی پیٹ میں دودھ پہنچ جائے تو حرمت ثابت ہو جاتی ہے۔",
+                "تاہم، اس حدیث کے الفاظ 'پیٹ بھرنے' کی تائید کرتے ہیں جو نشوونما کا باعث بنے۔"
+              ],
+              "english": [
+                "In light of other Hadiths, Imams Shafi'i and Ahmad require five distinct satisfying sucklings.",
+                "Imams Malik and Abu Hanifa argue that even one instance of milk reaching the stomach establishes prohibition.",
+                "However, the wording of this Hadith supports the idea of 'filling the stomach' to cause growth."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دینِ اسلام کی حکمت",
+        "english": "Wisdom of Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی نظام کا تحفظ",
+              "english": "Protection of the Family System"
+            },
+            "content": {
+              "urdu": [
+                "رضاعت کے قوانین کا مقصد انسانی نسلوں میں ایک روحانی اور مادی تعلق پیدا کرنا ہے۔",
+                "جب بچہ کسی عورت کا دودھ پیتا ہے تو اس کے اثرات اس کی ہڈیوں اور گوشت میں رچ بس جاتے ہیں۔",
+                "شریعت نے اسی فطری تعلق کو بنیاد بنا کر اسے محرم قرار دیا ہے تاکہ معاشرتی بے راہ روی نہ ہو۔"
+              ],
+              "english": [
+                "Fosterage laws create both a spiritual and material connection between human generations.",
+                "When a child suckles, the biological effects integrate into their bones and flesh.",
+                "Shariah uses this natural bond as a basis for Mahram status to prevent social immorality."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سماجی سہولت",
+              "english": "Social Facilitation"
+            },
+            "content": {
+              "urdu": [
+                "رضاعت کے ذریعے غیر خاندانوں میں محرمیت پیدا کر کے میل جول کو آسان بنایا گیا ہے۔",
+                "بچپن کی رضاعت سے پیدا ہونے والے رشتے خلوص اور ممتا پر مبنی ہوتے ہیں۔",
+                "اسلام نے رضاعی رشتوں کو وہی احترام دیا ہے جو حقیقی نسبی رشتوں کو حاصل ہے۔"
+              ],
+              "english": [
+                "Fosterage facilitates social interaction between different families by creating Mahram status.",
+                "Relationships formed through infancy suckling are built on sincerity and motherly love.",
+                "Islam grants foster relationships the same respect and sanctity as biological ones."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور احتیاط",
+        "english": "Practical Lesson and Caution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ریکارڈ رکھنے کی اہمیت",
+              "english": "Importance of Keeping Records"
+            },
+            "content": {
+              "urdu": [
+                "والدین کو چاہیے کہ اگر ان کا بچہ کسی دوسری عورت کا دودھ پیے تو اسے نوٹ کر لیں۔",
+                "نادانی میں رضاعی بھائی بہن کا نکاح ہو جانا ایک سنگین گناہ اور شرعی پیچیدگی ہے۔",
+                "معاشرے میں اس علم کو عام کرنا چاہیے تاکہ حرمتِ نکاح پامال نہ ہو۔"
+              ],
+              "english": [
+                "Parents should keep a record if their child is breastfed by another woman.",
+                "Unknowingly marrying a foster sibling is a grave sin and a legal complication.",
+                "This knowledge should be spread in society to prevent the violation of marriage prohibitions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی علم کی اتباع",
+              "english": "Following Shariah Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو چاہیے کہ وہ اپنی مرضی کے بجائے نبی ﷺ کے بتائے ہوئے ضابطوں پر عمل کرے۔",
+                "ام المومنین کا یہ بیان ہمیں فقہ کی باریکیاں سکھانے کے لیے ایک بہترین ذریعہ ہے۔",
+                "اللہ تعالیٰ ہمیں اپنے احکامات پر صحیح سمجھ کے ساتھ عمل کی توفیق عطا فرمائے۔"
+              ],
+              "english": [
+                "A believer should follow the regulations of the Prophet (ﷺ) rather than personal whims.",
+                "This statement from the Mother of the Believers is an excellent source for learning Fiqh.",
+                "May Allah grant us the ability to act upon His commands with correct understanding."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

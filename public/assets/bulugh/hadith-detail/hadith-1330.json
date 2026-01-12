@@ -1,0 +1,182 @@
+{
+  "hadithId": 1330,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/100"],
+    "kitabId": 16,
+    "inKitabBab": 5,
+    "arabicBook": "الجامع - باب البر والصلة",
+    "babId": 106
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه ابن ماجه (4032)، والترمذي (2507) واللفظ له، والبخاري في الأدب المفرد (388)، وأحمد (2/43). وصححه الألباني.",
+    "urdu": "صحیح۔ اسے ابن ماجہ (4032) اور ترمذی (2507) نے روایت کیا ہے۔ امام بخاری نے اسے 'الادب المفرد' (388) میں صحیح سند کے ساتھ روایت کیا ہے اور علامہ البانی نے بھی اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ibn Majah (4032), At-Tirmidhi (2507), Al-Bukhari in Al-Adab al-Mufrad (388), and Ahmad. Graded Sahih by Al-Albani."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُخَالِطُ",
+      "english": "Mixes with / Socializes",
+      "urdu": "میل جول رکھتا ہے"
+    },
+    {
+      "arabic": "يَصْبِرُ",
+      "english": "Endures / Exercises patience",
+      "urdu": "صبر کرتا ہے"
+    },
+    {
+      "arabic": "أَذَاهُمْ",
+      "english": "Their harm / insults",
+      "urdu": "ان کی تکلیف / اذیت"
+    },
+    {
+      "arabic": "خَيْرٌ",
+      "english": "Better / More virtuous",
+      "urdu": "بہتر ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث سماجی زندگی میں فعال رہنے اور لوگوں کے برے رویوں پر صبر کرنے کی فضیلت بیان کرتی ہے، اور گوشہ نشینی کے مقابلے میں خدمتِ خلق اور دعوتِ دین کو ترجیح دیتی ہے۔",
+    "english": "This Hadith emphasizes the virtue of staying socially active and patient with others' shortcomings, prioritizing community service and Dawah over complete isolation."
+  },
+  "references": [
+    {
+      "arabic": "سنن ابن ماجه، كتاب الفتن، رقم 4032",
+      "english": "Sunan Ibn Majah, Book of Tribulations, No. 4032"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب صفة القيامة، رقم 2507",
+      "english": "Sunan at-Tirmidhi, Book of the Description of the Day of Judgment, No. 2507"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سماجی زندگی اور اسلام",
+        "english": "Social Life and Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میل جول کی اہمیت",
+              "english": "Importance of Socializing"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک سماجی دین ہے جو رہبانیت یا دنیا سے مکمل کٹ کر رہنے کی حوصلہ شکنی کرتا ہے۔",
+                "لوگوں میں رہ کر ہی نیکی کا حکم دینا، برائی سے روکنا اور دوسروں کی مدد کرنا ممکن ہے۔",
+                "نبی کریم ﷺ نے مسلمانوں کو ایک عمارت کی مانند قرار دیا ہے جس کی اینٹیں ایک دوسرے کو سہارا دیتی ہیں۔"
+              ],
+              "english": [
+                "Islam is a social religion that discourages monasticism or total withdrawal from the world.",
+                "Enjoining good, forbidding evil, and helping others is only possible by living among people.",
+                "The Prophet (ﷺ) described Muslims as a building whose bricks support each other."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صبر کی فضیلت",
+        "english": "The Virtue of Patience"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اذیت پر صبر کرنا",
+              "english": "Patience Over Harassment"
+            },
+            "content": {
+              "urdu": [
+                "جب آپ لوگوں میں رہتے ہیں تو مختلف مزاجوں کی وجہ سے تلخیاں اور تکلیفیں پہنچنا فطری ہے۔",
+                "سچا مومن وہ ہے جو بدلے کے بجائے درگزر سے کام لیتا ہے اور اللہ کی رضا کے لیے خاموش رہتا ہے۔",
+                "لوگوں کی کڑوی باتوں کو برداشت کرنا نفس کی سب سے بڑی تربیت اور عظیم جہاد ہے۔"
+              ],
+              "english": [
+                "Living among people naturally leads to frictions and hardships due to differing temperaments.",
+                "A true believer is one who practices forgiveness instead of revenge for the sake of Allah.",
+                "Enduring people's harsh words is a significant spiritual training and a great Jihad."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "افضلیت کا معیار",
+        "english": "The Standard of Superiority"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گوشہ نشینی بمقابلہ سماجی ذمہ داری",
+              "english": "Isolation vs. Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ تنہائی انسان کو گناہوں سے بچنے میں مدد دیتی ہے، مگر سماجی ذمہ داریاں نبھانے والے کا اجر بہت زیادہ ہے۔",
+                "میل جول رکھنے والا مومن دوسروں کی اصلاح کا ذریعہ بنتا ہے، جبکہ تنہائی پسند صرف اپنی ذات تک محدود رہتا ہے۔",
+                "نبی کریم ﷺ کی زندگی ہمارے لیے بہترین نمونہ ہے، جنہوں نے ہر قسم کی اذیتیں سہیں مگر دعوت کا کام نہیں چھوڑا۔"
+              ],
+              "english": [
+                "While isolation helps avoid some sins, the reward for those fulfilling social responsibilities is far greater.",
+                "A social believer becomes a means of reform for others, whereas one in isolation is limited to themselves.",
+                "The Prophet's (ﷺ) life is our best example; he endured every insult but never abandoned his mission."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مثبت رویہ اختیار کرنا",
+              "english": "Adopting a Positive Attitude"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں معاشرے کے تلخ رویوں سے گھبرا کر علیحدگی اختیار نہیں کرنی چاہیے بلکہ حکمت سے کام لینا چاہیے۔",
+                "اپنے اخلاق کو اس قدر بلند کریں کہ لوگ آپ کی اذیت کے جواب میں آپ کی شرافت سے متاثر ہوں۔",
+                "نیکی پھیلانے کے لیے دل کا بڑا ہونا اور حوصلہ مند ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "We should not withdraw from society out of fear of harsh behaviors but should act with wisdom.",
+                "Elevate your character so that people are impressed by your nobility in response to their insults.",
+                "Spreading goodness requires a broad heart and great courage."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 985,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/11"],
+    "kitabId": 8,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 77
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه الشافعي (2/63)، وأبو داود (1691)، والنسائي (5/62)، والحاكم (1/415) من طريق محمد بن عجلان، عن المقبري، عن أبي هريرة.",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام شافعی، ابو داؤد، نسائی اور حاکم نے محمد بن عجلان کے واسطے سے روایت کیا ہے۔",
+    "english": "Hasan (good). Reported by Ash-Shafi'i (2/63), Abu Dawud (1691), An-Nasa'i (5/62), and Al-Hakim (1/415) via Muhammad bin Ajlan from Al-Maqburi from Abu Hurairah."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَنْفِقْهُ",
+      "english": "Spend it",
+      "urdu": "اسے خرچ کرو"
+    },
+    {
+      "arabic": "وَلَدِكَ",
+      "english": "Your children",
+      "urdu": "تمہاری اولاد"
+    },
+    {
+      "arabic": "أَهْلِكَ",
+      "english": "Your wife/family",
+      "urdu": "تمہاری بیوی"
+    },
+    {
+      "arabic": "خَادِمِكَ",
+      "english": "Your servant",
+      "urdu": "تمہارا خادم"
+    },
+    {
+      "arabic": "أَعْلَمُ",
+      "english": "Know best",
+      "urdu": "زیادہ جانتے ہو"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں صدقہ و خیرات اور نفقہ کی ترجیحات بیان کی گئی ہیں کہ سب سے پہلے اپنی ذات، پھر اولاد، پھر بیوی اور پھر خادم کا حق ہے۔",
+    "english": "This Hadith outlines the priorities of spending, starting with oneself, then children, then the wife, and then the servant."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1691)",
+      "english": "Reported by Abu Dawud (1691)"
+    },
+    {
+      "arabic": "رواه النسائي (2535)",
+      "english": "Reported by An-Nasa'i (2535)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dusi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0hXWp3uF4Xo",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نفقہ کی ترتیب",
+        "english": "Order of Spending"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذاتی ضرورت کی اولیت",
+              "english": "Priority of Self-Need"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو چاہیے کہ وہ سب سے پہلے اپنی ضروریات پوری کرے۔",
+                "اپنی ذات پر خرچ کرنا بھی کارِ ثواب اور ضروری ہے۔",
+                "دوسروں پر بوجھ بننے سے بچنا اسلام کی بنیادی تعلیم ہے۔"
+              ],
+              "english": [
+                "A person should fulfill their own needs first.",
+                "Spending on oneself is rewarding and necessary.",
+                "Avoiding being a burden on others is a basic Islamic teaching."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہل و عیال کا حق",
+              "english": "Right of Family"
+            },
+            "content": {
+              "urdu": [
+                "اپنی ذات کے بعد اولاد اور بیوی کا درجہ آتا ہے۔",
+                "اہل و عیال پر خرچ کرنا نفل صدقہ سے زیادہ افضل ہے۔",
+                "والدین پر بچوں کی کفالت شرعی طور پر واجب ہے۔"
+              ],
+              "english": [
+                "After oneself, children and wife take precedence.",
+                "Spending on family is better than voluntary charity.",
+                "Supporting children is a Shariah obligation for parents."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صدقہ کی حکمت",
+        "english": "Wisdom of Charity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اقرباء پروری",
+              "english": "Support for Relatives"
+            },
+            "content": {
+              "urdu": [
+                "قریبی رشتہ داروں پر خرچ کرنا دوہرے اجر کا باعث ہے۔",
+                "اسلام میں صلہ رحمی کو بہت اہمیت دی گئی ہے۔",
+                "خادم اور ماتحتوں کا خیال رکھنا بھی ایمان کا حصہ ہے۔"
+              ],
+              "english": [
+                "Spending on close relatives brings a double reward.",
+                "Upholding ties of kinship is highly valued in Islam.",
+                "Taking care of servants and subordinates is part of faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ترجیحات کا تعین",
+              "english": "Setting Priorities"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے حقوق العباد کی ادائیگی میں توازن سکھایا ہے۔",
+                "واجب نفقہ کو نفلی صدقات پر مقدم رکھا گیا ہے۔",
+                "صحیح ترتیب سے خرچ کرنے میں برکت اور ثواب ہے۔"
+              ],
+              "english": [
+                "Shariah teaches balance in fulfilling the rights of people.",
+                "Obligatory spending is prioritized over voluntary charity.",
+                "There is blessing in spending according to the correct order."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل",
+        "english": "Jurisprudential Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کفالت کی ذمہ داری",
+              "english": "Responsibility of Maintenance"
+            },
+            "content": {
+              "urdu": [
+                "بیوی کا نفقہ شوہر کے ذمے ہر حال میں واجب ہے۔",
+                "اولاد کی پرورش باپ کی بنیادی ذمہ داری ہے۔",
+                "وسعت ہونے پر خادم کی ضروریات کا خیال رکھنا مستحب ہے۔"
+              ],
+              "english": [
+                "The maintenance of the wife is obligatory on the husband.",
+                "Raising children is the primary responsibility of the father.",
+                "It is recommended to care for a servant if means allow."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفل صدقہ کب کریں؟",
+              "english": "When to Give Optional Charity?"
+            },
+            "content": {
+              "urdu": [
+                "نفل صدقہ واجبات کی ادائیگی کے بعد کرنا چاہیے۔",
+                "گھر والوں کو تنگی میں رکھ کر باہر خرچ کرنا درست نہیں۔",
+                "انسان اپنی صوابدید پر دیگر خیراتی کاموں میں حصہ لے۔"
+              ],
+              "english": [
+                "Optional charity should be given after fulfilling obligations.",
+                "It is not right to spend outside while the family is in need.",
+                "A person may use their discretion for other charitable works."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتدال پسندی",
+              "english": "Moderation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر معاملے میں اعتدال اور میانہ روی سکھاتا ہے۔",
+                "مال کو صحیح جگہ خرچ کرنا عقل مندی کی علامت ہے۔",
+                "نبی کریم صلی اللہ علیہ وسلم نے بہترین رہنمائی فرمائی۔"
+              ],
+              "english": [
+                "Islam teaches moderation in every matter.",
+                "Spending wealth in the right place is a sign of wisdom.",
+                "The Prophet (ﷺ) provided the best guidance for us."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خادموں کے ساتھ حسنِ سلوک",
+              "english": "Good Treatment of Servants"
+            },
+            "content": {
+              "urdu": [
+                "خادموں کو بھی خاندان کے قریب تر درجہ دیا گیا ہے۔",
+                "ان کے حقوق کی ادائیگی میں کوتاہی نہیں کرنی چاہیے۔",
+                "ملازمین کے ساتھ ہمدردی کا رویہ اپنانا سنت ہے۔"
+              ],
+              "english": [
+                "Servants are given a status close to the family.",
+                "One should not fall short in fulfilling their rights.",
+                "Adopting a sympathetic attitude towards employees is Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

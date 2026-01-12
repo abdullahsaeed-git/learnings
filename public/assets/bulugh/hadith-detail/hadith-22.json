@@ -1,0 +1,200 @@
+{
+  "hadithId": 22,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 1,
+    "inKitabBab": 3,
+    "arabicBook": "",
+    "babId": 3
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه مسلم (1983)",
+    "urdu": "صحیح حدیث ہے۔ روایت مسلم (1983) میں موجود ہے۔",
+    "english": "Authentic. Reported by Muslim (1983)."
+  },
+  "importantWords": [
+    {
+      "arabic": "خمر",
+      "english": "wine / intoxicant",
+      "urdu": "شراب / نشہ آور مشروب"
+    },
+    {
+      "arabic": "خل",
+      "english": "vinegar",
+      "urdu": "سرکہ"
+    },
+    {
+      "arabic": "تتخذ",
+      "english": "to be made / used",
+      "urdu": "بنا لیا جائے / استعمال کیا جائے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث واضح کرتی ہے کہ شراب سے سرکہ بنانا یا اس سے فائدہ اٹھانا منع ہے۔ یہ اسلام میں نشہ آور اشیاء کے استعمال کی ممانعت کو ظاہر کرتی ہے۔",
+    "english": "This Hadith clarifies that making vinegar from wine or benefiting from it is prohibited. It emphasizes the prohibition of intoxicants in Islam."
+  },
+  "references": [
+    {
+      "arabic": "مسلم",
+      "english": "Muslim"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas ibn Malik"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic"
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شراب اور سرکہ",
+        "english": "Wine and Vinegar"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شراب سے سرکہ بنانے کی ممانعت",
+              "english": "Prohibition of Making Vinegar from Wine"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ شراب سے سرکہ نہیں بنایا جا سکتا۔",
+                "یہ حکم نشہ آور اشیاء سے پرہیز کی تعلیم دیتا ہے۔",
+                "اسلام میں ہر طرح کی نشہ آور چیزیں منع ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) said that vinegar cannot be made from wine.",
+                "This ruling teaches avoidance of intoxicants.",
+                "All forms of intoxicants are prohibited in Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی تعلیمات میں اہمیت",
+              "english": "Importance in Islamic Teachings"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مسلمانوں کو واضح ہدایت دیتی ہے۔",
+                "نشہ آور مشروبات سے پرہیز فرض ہے۔",
+                "سرکہ بنانے کی اجازت نہ ہونا اس کی وضاحت ہے۔"
+              ],
+              "english": [
+                "This Hadith gives clear guidance to Muslims.",
+                "Avoidance of intoxicants is mandatory.",
+                "The prohibition of making vinegar clarifies this point."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور عملی سبق",
+        "english": "Moral and Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نشہ آور چیزوں سے بچاؤ",
+              "english": "Avoiding Intoxicants"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو نشہ آور اشیاء سے پرہیز کرنا چاہیے۔",
+                "یہ ہمارے اخلاقی اور روحانی فائدے کے لیے ضروری ہے۔",
+                "شراب کو کسی بھی شکل میں استعمال کرنا منع ہے۔"
+              ],
+              "english": [
+                "Muslims should avoid intoxicating substances.",
+                "This is essential for moral and spiritual well-being.",
+                "Using wine in any form is prohibited."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زندگی میں رہنمائی",
+              "english": "Guidance for Daily Life"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں روزمرہ زندگی میں بھی نشہ آور اشیاء سے بچنا چاہیے۔",
+                "پیداوار یا استعمال میں بھی احتیاط ضروری ہے۔",
+                "اسلام میں صفائی اور صحت کی حفاظت پر زور دیا گیا ہے۔"
+              ],
+              "english": [
+                "We should avoid intoxicants in daily life.",
+                "Caution is necessary in production or use.",
+                "Islam emphasizes cleanliness and health protection."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی پہلو",
+        "english": "Shariah Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی ہدایت",
+              "english": "Guidance of the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے واضح فرمایا کہ شراب سے سرکہ نہیں بنایا جائے۔",
+                "یہ حکم اسلامی قانون اور اخلاقیات کی بنیاد ہے۔",
+                "مسلمانوں کے لیے ہر صورت میں اطاعت واجب ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) clearly stated that vinegar should not be made from wine.",
+                "This ruling is a foundation of Islamic law and ethics.",
+                "Obedience is required for Muslims in all circumstances."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسلمانوں کے لیے سبق",
+              "english": "Lesson for Muslims"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں نشہ آور مشروبات کی ممانعت کا سبق حاصل ہوتا ہے۔",
+                "یہ ہمارے اخلاق، صحت اور روحانیت کی حفاظت کرتا ہے۔",
+                "نبی ﷺ کی تعلیم مسلمانوں کے لیے رہنمائی ہے۔"
+              ],
+              "english": [
+                "It teaches the prohibition of intoxicants in Islam.",
+                "It protects our morals, health, and spirituality.",
+                "The Prophet's (ﷺ) instruction serves as guidance for Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "hadithId": 7,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "inKitab": 1,
+    "inKitabBab": 1,
+    "arabicBook": "",
+    "chapterId": 1
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (323)، رواه أبو داود (68)، والترمذي (65)، وابن ماجه (370) من طريق سماك بن حرب، عن عكرمة، عن ابن عباس. قال الترمذي: هذا حديث حسن صحيح.",
+    "urdu": "یہ حدیث مسلم (323)، ابوداؤد (68)، ترمذی (65)، اور ابن ماجہ (370) میں مروی ہے۔ ترمذی نے کہا: یہ حدیث حسن صحیح ہے۔",
+    "english": "Narrated in Muslim (323), Abu Dawood (68), At-Tirmidhi (65), and Ibn Majah (370). At-Tirmidhi said: 'This Hadith is Hasan Sahih.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "جفنة",
+      "english": "A large vessel or container used for washing.",
+      "urdu": "ایک بڑا برتن یا ظرف جس میں غسل کیا جاتا ہے۔"
+    },
+    {
+      "arabic": "مَيْمُونَةَ",
+      "english": "Maimunah, one of the wives of the Prophet ﷺ.",
+      "urdu": "میمونہ، نبی صلی اللہ علیہ وسلم کی بیویوں میں سے ایک۔"
+    }
+  ],
+  "summary": {
+    "urdu": "حدیث میں بیان ہے کہ نبی صلی اللہ علیہ وسلم میمونہ رضی اللہ عنہا کے باقی پانی میں غسل کرتے تھے، اور پانی نجاست پیدا نہیں کرتا۔",
+    "english": "The Hadith shows that the Prophet ﷺ used the leftover water of Maimunah for bathing, indicating that water does not become impure from previous use."
+  },
+  "references": [
+    {
+      "arabic": "مسلم (323)، أبو داود (68)، الترمذي (65)، ابن ماجه (370)",
+      "english": "Muslim (323), Abu Dawood (68), At-Tirmidhi (65), Ibn Majah (370)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ابن عباس رضی اللہ عنہما",
+        "english": "Ibn Abbas (may Allah be pleased with them)"
+      },
+      "slug": "ibn-abbas"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "آب کا پاک ہونا",
+        "english": "Purity of Water"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پانی نجس نہیں ہوتا",
+              "english": "Water does not become impure"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں واضح ہے کہ پانی، چاہے کسی کے استعمال کے بعد بھی، نجس نہیں ہوتا۔",
+                "یہ اصول غسل اور وضو میں اہم ہے۔",
+                "اس سے علم ہوتا ہے کہ پانی کی طہارت برقرار رہتی ہے۔"
+              ],
+              "english": [
+                "The Hadith makes clear that water does not become impure even after someone uses it.",
+                "This is important for bathing and ablution.",
+                "It shows the continuity of water's purity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غسل میں سہولت",
+              "english": "Ease in Bathing"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے میمونہ رضی اللہ عنہا کے فضلہ میں غسل کیا، جس سے غسل میں آسانی اور سہولت ظاہر ہوتی ہے۔",
+                "یہ عمل دیگر لوگوں کے لیے بھی مثال ہے۔",
+                "غسل کے دوران پانی ضائع نہیں ہوتا۔"
+              ],
+              "english": [
+                "The Prophet ﷺ used the leftover water of Maimunah, showing ease and convenience in bathing.",
+                "This serves as an example for others.",
+                "It ensures water is not wasted during bathing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "احترام اور حدود",
+        "english": "Respect and Limits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خواتین کی حدود",
+              "english": "Women's Limits"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں بتایا گیا کہ غسل کرنے کی اجازت اور حدود کو مدنظر رکھا جائے۔",
+                "عورتیں اور مرد اپنے پانی میں محتاط رہیں۔",
+                "حدود اور شرائط کا احترام ضروری ہے۔"
+              ],
+              "english": [
+                "The Hadith shows that permission and limits regarding bathing should be observed.",
+                "Women and men should be careful with their water use.",
+                "Respecting limits and conditions is necessary."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احترام کے اصول",
+              "english": "Principles of Respect"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اس عمل کے ذریعے احترام اور آداب سکھائے۔",
+                "دوسروں کی نجاست سے بچاؤ اہم ہے۔",
+                "احترام اور آداب کا خیال رکھنا چاہئے۔"
+              ],
+              "english": [
+                "The Prophet ﷺ taught respect and etiquette through this action.",
+                "Avoiding others' impurity is important.",
+                "Respect and etiquette should be maintained."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند کی صحت",
+        "english": "Authenticity of Chain"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحیح سند",
+              "english": "Authentic Chain"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مسلم اور دیگر سنن میں مروی ہے۔",
+                "اس کی سند صحیح اور معتبر ہے۔",
+                "علماء نے اس کی تصحیح کی ہے۔"
+              ],
+              "english": [
+                "This Hadith is narrated in Muslim and other Sunan.",
+                "Its chain is authentic and reliable.",
+                "Scholars have verified its authenticity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روايات کا تجزیہ",
+              "english": "Analysis of Narrations"
+            },
+            "content": {
+              "urdu": [
+                "تمام روایات کا تجزیہ کیا گیا ہے۔",
+                "سند اور متن دونوں کی جانچ کی گئی۔",
+                "یہ حدیث صحیح اور مستند ثابت ہوئی۔"
+              ],
+              "english": [
+                "All narrations have been analyzed.",
+                "Both chain and text have been examined.",
+                "This Hadith is proven authentic and reliable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پانی کا استعمال",
+              "english": "Use of Water"
+            },
+            "content": {
+              "urdu": [
+                "حدیث سے سبق ملتا ہے کہ پانی کو ضائع نہ کریں۔",
+                "پانی کی پاکیزگی کا خیال رکھیں۔",
+                "غسل کے دوران پانی کی افادیت کو سمجھیں۔"
+              ],
+              "english": [
+                "The Hadith teaches not to waste water.",
+                "Maintain the purity of water.",
+                "Understand water's utility during bathing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احترام اور طہارت",
+              "english": "Respect and Purity"
+            },
+            "content": {
+              "urdu": [
+                "حدیث ہمیں سکھاتی ہے کہ غسل میں احترام اور پاکیزگی برقرار رکھیں۔",
+                "دوسروں کے پانی کی نجاست سے بچیں۔",
+                "طہارت اور آداب کے ساتھ غسل کریں۔"
+              ],
+              "english": [
+                "The Hadith teaches maintaining respect and purity during bathing.",
+                "Avoid contamination from others' water.",
+                "Perform bathing with purity and etiquette."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

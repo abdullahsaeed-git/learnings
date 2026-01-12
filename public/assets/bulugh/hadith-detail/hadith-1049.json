@@ -1,0 +1,259 @@
+{
+  "hadithId": 1049,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/10/16"],
+    "kitabId": 10,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 85
+  },
+
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (6/35)، وأبو داود (4474)، والترمذي (3181)، وابن ماجه (2567). وإن كان في سنده ابن إسحاق وقد صرح بالسماع، وأصله في الصحيحين.",
+    "urdu": "یہ روایت حسن ہے۔ اسے امام احمد، ابوداؤد، ترمذی اور ابن ماجہ نے روایت کیا ہے۔ اگرچہ اس کی سند میں ابن اسحاق ہیں مگر انہوں نے سماع کی تصریح کی ہے، اور اس واقعے کی اصل صحیح بخاری و مسلم میں موجود ہے۔",
+    "english": "Hasan (Good). Reported by Ahmad (6/35), Abu Dawud (4474), At-Tirmidhi (3181), and Ibn Majah (2567). Although Ibn Ishaq is in the chain, he declared hearing it directly. The core incident is found in Al-Bukhari and Muslim."
+  },
+  "importantWords": [
+    {
+      "arabic": "عُذْرِي",
+      "english": "My justification / innocence",
+      "urdu": "میری برات / عذر"
+    },
+    {
+      "arabic": "الْمِنْبَرِ",
+      "english": "The pulpit",
+      "urdu": "منبر"
+    },
+    {
+      "arabic": "تَلَا",
+      "english": "Recited",
+      "urdu": "تلاوت فرمائی"
+    },
+    {
+      "arabic": "الْحَدَّ",
+      "english": "Prescribed penalty",
+      "urdu": "حد (شرعی سزا)"
+    },
+    {
+      "arabic": "بِرَجُلَيْنِ وَاِمْرَأَةٍ",
+      "english": "Two men and a woman",
+      "urdu": "دو مرد اور ایک عورت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں 'حدِ قذف' (پاکدامن پر زنا کی تہمت لگانے کی سزا) کا ذکر ہے، جو واقعہ افک کے بعد ان لوگوں پر لگائی گئی جنہوں نے سیدہ عائشہ رضی اللہ عنہا پر جھوٹی تہمت لگائی تھی۔",
+    "english": "This Hadith mentions 'Had al-Qadhf' (punishment for slandering chaste women), which was implemented on those who falsely accused 'Aishah (RA) after her innocence was declared in the Quran."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (6/35)",
+      "english": "Reported by Ahmad (6/35)"
+    },
+    {
+      "arabic": "رواه الترمذي (3181)",
+      "english": "Reported by At-Tirmidhi (3181)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6o9l6Kts",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدِ قذف کا قانون",
+        "english": "The Law of Qadhf (Slander)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تہمت کی شرعی سزا",
+              "english": "Legal Penalty for Slander"
+            },
+            "content": {
+              "urdu": [
+                "کسی پاکدامن مسلمان پر زنا کی تہمت لگانا اور ثبوت فراہم نہ کرنا ایک سنگین جرم ہے۔",
+                "قرآن مجید (سورہ نور) کی رو سے ایسے شخص کی سزا 80 کوڑے ہے۔",
+                "نبی کریم ﷺ نے اللہ کے حکم پر عمل کرتے ہوئے تہمت لگانے والوں پر حد جاری فرمائی۔"
+              ],
+              "english": [
+                "Accusing a chaste Muslim of adultery without providing proof is a grave crime.",
+                "According to the Quran (Surah An-Nur), the penalty for this is 80 lashes.",
+                "The Prophet (ﷺ) implemented this limit on the accusers following Allah's command."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "واقعہ افک کے مجرم",
+              "english": "The Culprits of the Slander"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں جن دو مردوں اور ایک عورت کا ذکر ہے وہ حسان بن ثابت، مسطح بن اثاثہ اور حمنہ بنت جحش ہیں۔",
+                "اگرچہ یہ سب مخلص مسلمان تھے، مگر افواہ سازی کے فتنے کا شکار ہو گئے تھے۔",
+                "حد کا نفاذ ان کی پاکیزگی اور گناہوں کے کفارے کا ذریعہ بنا۔"
+              ],
+              "english": [
+                "The individuals mentioned were Hassan bin Thabit, Mistah bin Uthathah, and Hamnah bint Jahsh.",
+                "Though they were sincere Muslims, they fell victim to the spread of false rumors.",
+                "Executing the Had served as a means of purification and expiation for their sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عزتِ نفس کا تحفظ",
+        "english": "Protection of Honor"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلمان کی آبرو کی حرمت",
+              "english": "Sanctity of a Muslim's Reputation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں جان و مال کی طرح انسان کی عزت اور آبرو بھی محفوظ ہے۔",
+                "زبان کے غلط استعمال سے معاشرے میں بگاڑ اور خاندانی نظام تباہ ہوتا ہے۔",
+                "سخت سزا کا مقصد لوگوں کو دوسروں کی پگڑی اچھالنے سے روکنا ہے۔"
+              ],
+              "english": [
+                "In Islam, a person's honor is protected just like their life and property.",
+                "Misuse of the tongue causes societal corruption and destroys family structures.",
+                "The severe penalty aims to deter people from slandering others' reputations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "برات کا اعلان",
+              "english": "Declaration of Innocence"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے منبر پر تلاوت کر کے اعلانیہ سیدہ عائشہ کی پاکدامنی واضح فرمائی۔",
+                "اس سے ثابت ہوتا ہے کہ جس پر تہمت لگے، اس کی صفائی بھی اعلانیہ ہونی چاہیے۔",
+                "حق کے اظہار میں تاخیر نہیں کرنی چاہیے تاکہ لوگوں کے شکوک ختم ہوں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) publicly clarified 'Aishah's chastity by reciting Quran on the pulpit.",
+                "This proves that the acquittal of a slandered person should also be made public.",
+                "The truth should be declared without delay to remove people's doubts."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گواہی کا معیار",
+              "english": "Standard of Testimony"
+            },
+            "content": {
+              "urdu": [
+                "اگر تہمت لگانے والا چار گواہ پیش نہ کر سکے تو وہ قاذف (تہمت لگانے والا) قرار پاتا ہے۔",
+                "صرف شک کی بنیاد پر کسی کی کردار کشی کرنا حرام ہے۔",
+                "حدِ قذف کے بعد تہمت لگانے والے کی گواہی ہمیشہ کے لیے مسترد کر دی جاتی ہے۔"
+              ],
+              "english": [
+                "If the accuser fails to bring four witnesses, they are labeled a slanderer (Qadhif).",
+                "Character assassination based on mere suspicion is strictly forbidden.",
+                "After the penalty, the testimony of the slanderer is rejected forever (unless they repent)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مرد اور عورت کی برابری",
+              "english": "Equality of Men and Women"
+            },
+            "content": {
+              "urdu": [
+                "حدیث سے واضح ہے کہ حد کا نفاذ مرد اور عورت دونوں پر یکساں طور پر ہوا۔",
+                "قانون کی نظر میں جرم کی سزا جنس کی بنیاد پر مختلف نہیں ہے۔",
+                "اسلامی عدل مساوات کی بہترین مثال پیش کرتا ہے۔"
+              ],
+              "english": [
+                "The Hadith clarifies that the limit was applied to both men and women equally.",
+                "In the eyes of the law, the punishment for a crime is not differentiated by gender.",
+                "Islamic justice provides the best example of equality before the law."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت",
+              "english": "Guarding the Tongue"
+            },
+            "content": {
+              "urdu": [
+                "بغیر تحقیق کے کسی بھی بات کو آگے پھیلانا گناہ ہے۔",
+                "انسان کو اپنی زبان پر قابو رکھنا چاہیے کیونکہ ایک لفظ جہنم میں لے جا سکتا ہے۔",
+                "خاموشی میں سلامتی ہے، خاص طور پر دوسروں کی نجی زندگی کے معاملے میں۔"
+              ],
+              "english": [
+                "Spreading news without verification is a sinful act.",
+                "A person must control their tongue as a single word can lead to Hellfire.",
+                "Safety lies in silence, especially regarding the private lives of others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کے اہل بیت کا مقام",
+              "english": "Status of the Prophet's (ﷺ) Household"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رضی اللہ عنہا کی پاکیزگی کی گواہی خود اللہ رب العزت نے دی۔",
+                "اہل بیت کی محبت اور احترام ایمان کا حصہ ہے۔",
+                "ان کے بارے میں بدگمانی کرنا دراصل نبی ﷺ کو ایذا پہنچانا ہے۔"
+              ],
+              "english": [
+                "Allah Himself testified to the purity of 'Aishah (RA) in the Quran.",
+                "Love and respect for the Prophet's (ﷺ) family is an essential part of faith.",
+                "Thinking ill of them is, in reality, a source of grief for the Prophet (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

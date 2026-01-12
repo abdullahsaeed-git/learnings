@@ -1,0 +1,261 @@
+{
+  "hadithId": 457,
+  "hadithNo": 33,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:963"
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (963). وفي روايته أن عوف بن مالك تمنى أن يكون هو ذلك الميت لحسن دعاء النبي صلى الله عليه وسلم.",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم نے اسے (963) پر روایت کیا ہے۔ اس روایت میں یہ بھی ہے کہ عوف بن مالک نے نبی ﷺ کی اس جامع دعا کو سن کر یہ تمنا کی کہ کاش یہ میت میں ہوتا۔",
+    "english": "Authentic. Reported by Muslim (963). In the narration, 'Auf bin Malik expressed his wish that he had been the deceased person due to the beauty and comprehensiveness of the Prophet's (ﷺ) supplication."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَكْرِمْ نُزُلَهُ",
+      "english": "Make his staying honorable",
+      "urdu": "اس کی مہمانی کو معزز بنا"
+    },
+    {
+      "arabic": "وَسِّعْ مُدْخَلَهُ",
+      "english": "Widen his entrance",
+      "urdu": "اس کے داخلے کی جگہ کشادہ کر"
+    },
+    {
+      "arabic": "الثَّلْجِ وَالْبَرَدِ",
+      "english": "Snow and Hail",
+      "urdu": "برف اور اولے"
+    },
+    {
+      "arabic": "الدَّنَسِ",
+      "english": "Filth / Dirt",
+      "urdu": "میل کچیل / ناپاکی"
+    },
+    {
+      "arabic": "فِتْنَةَ اَلْقَبْرِ",
+      "english": "Trial of the grave",
+      "urdu": "قبر کی آزمائش"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نمازِ جنازہ کی سب سے جامع دعاؤں میں سے ایک ہے جس میں میت کے لیے مغفرت، قبر کی وسعت اور آخرت میں بہترین بدلے کی درخواست کی گئی ہے۔",
+    "english": "This Hadith contains one of the most comprehensive funeral supplications, seeking forgiveness, a spacious grave, and superior rewards in the Hereafter."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (963)",
+      "english": "Sahih Muslim (963)"
+    },
+    {
+      "arabic": "سنن النسائي (1983)",
+      "english": "Sunan an-Nasa'i (1983)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عوف بن مالك الأشجعي",
+        "english": "Awf bin Malik Al-Ashja'i"
+      },
+      "slug": "awf-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R2_K-E-K98A",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعا کے الفاظ کی حکمت",
+        "english": "Wisdom of the Supplication's Wording"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پانی، برف اور اولوں کا ذکر",
+              "english": "Mention of Water, Snow, and Hail"
+            },
+            "content": {
+              "urdu": [
+                "گناہوں کی تپش کو دور کرنے کے لیے ٹھنڈی چیزوں سے دھونے کی دعا کی گئی۔",
+                "یہ الفاظ گناہوں سے مکمل پاکیزگی اور ٹھنڈک کی علامت ہیں۔",
+                "ان استعاروں کا مقصد میت کے لیے انتہائی طہارت کی درخواست کرنا ہے۔"
+              ],
+              "english": [
+                "Cold elements are mentioned to extinguish the heat of sins and errors.",
+                "These words symbolize complete purification and spiritual coolness for the deceased.",
+                "The metaphors represent a plea for the highest form of spiritual cleansing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفید کپڑے کی مثال",
+              "english": "The Example of White Garment"
+            },
+            "content": {
+              "urdu": [
+                "سفید کپڑے پر میل سب سے زیادہ واضح ہوتا ہے اور اس کی صفائی نمایاں ہوتی ہے۔",
+                "دعا کا مطلب ہے کہ میت کو گناہوں کے ہر داغ سے پاک کر دیا جائے۔",
+                "یہ انسان کی روح کو اس کی اصل فطرت پر واپس لانے کی التجا ہے۔"
+              ],
+              "english": [
+                "Dirt is most visible on white cloth, and its cleanliness is most striking.",
+                "The prayer asks for the deceased to be cleared of every single stain of sin.",
+                "It is a plea to return the soul to its original, pure, primordial state."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قبر کی زندگی کی دعائیں",
+        "english": "Prayers for the Life in the Grave"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مہمانی اور وسعت",
+              "english": "Hospitality and Spaciousness"
+            },
+            "content": {
+              "urdu": [
+                "قبر میں میت کے داخلے کو اللہ کی مہمانی سے تعبیر کیا گیا ہے۔",
+                "قبر کی تنگی سے نجات اور اسے فراخ کرنے کی خصوصی دعا کی گئی۔",
+                "یہ الفاظ میت کے لیے برزخ میں سکون اور راحت کی ضمانت ہیں۔"
+              ],
+              "english": [
+                "The deceased's entry into the grave is described as being a guest of Allah.",
+                "Special supplication is made for relief from the constriction of the grave.",
+                "These words seek comfort and tranquility for the deceased in the Barzakh."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بہتر گھر اور گھر والے",
+              "english": "Better Home and Family"
+            },
+            "content": {
+              "urdu": [
+                "دنیا کے فانی گھر کے بدلے آخرت کے دائمی گھر کی دعا مانگی گئی۔",
+                "گھر والوں سے بہتر گھر والے ملنے کا مطلب حور و قصور اور نیک رفاقت ہے۔",
+                "یہ دعا مومن کے دل سے دنیا چھوٹنے کا غم دور کرنے کے لیے ہے۔"
+              ],
+              "english": [
+                "A prayer is made for an eternal home in place of the fleeting worldly one.",
+                "Better family refers to righteous companions and rewards in Paradise.",
+                "This prayer helps remove the grief of leaving loved ones behind in the world."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عذاب سے پناہ",
+        "english": "Protection from Punishment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فتنہء قبر",
+              "english": "The Trial of the Grave"
+            },
+            "content": {
+              "urdu": [
+                "قبر میں منکر نکیر کے سوالات کو 'فتنہ' یا آزمائش کہا گیا ہے۔",
+                "نبی ﷺ کی یہ دعا میت کو ان سوالات میں ثابت قدمی دلاتی ہے۔",
+                "قبر کے عذاب سے پناہ مانگنا سنتِ نبوی کا لازمی حصہ ہے۔"
+              ],
+              "english": [
+                "The questioning by angels in the grave is referred to as a 'trial'.",
+                "The Prophet's (ﷺ) prayer helps the deceased remain firm during this questioning.",
+                "Seeking refuge from the punishment of the grave is an essential Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جہنم سے نجات",
+              "english": "Salvation from Hellfire"
+            },
+            "content": {
+              "urdu": [
+                "دعا کا آخری حصہ جہنم کی آگ سے دائمی حفاظت کی التجا ہے۔",
+                "جنت میں داخلہ ہی انسان کی حقیقی اور آخری کامیابی ہے۔",
+                "یہ جامع الفاظ انسان کی برزخی اور اخروی دونوں زندگیوں کا احاطہ کرتے ہیں۔"
+              ],
+              "english": [
+                "The final part of the prayer pleads for eternal safety from the Fire.",
+                "Entering Paradise is the ultimate and true success for a human being.",
+                "These comprehensive words cover both the Barzakh and the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی و تربیتی پہلو",
+        "english": "Practical and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحابہ کا شوقِ دعا",
+              "english": "Companions' Eagerness for Prayer"
+            },
+            "content": {
+              "urdu": [
+                "عوف بن مالک کی تمنا ظاہر کرتی ہے کہ یہ دعا کتنی بابرکت ہے۔",
+                "ہمیں بھی جنازوں میں میت کے لیے انہی الفاظ میں دعا کرنی چاہیے۔",
+                "نبی ﷺ کی دعاؤں کو یاد کرنا اور ان پر عمل کرنا خیر و برکت ہے۔"
+              ],
+              "english": [
+                "Awf bin Malik's wish shows the immense blessing contained in this prayer.",
+                "We should strive to use these specific words for the deceased in funerals.",
+                "Memorizing and reciting the Prophet's (ﷺ) prayers is a source of goodness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میت کی خیر خواہی",
+              "english": "Goodwill for the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ جنازہ کا اصل مقصد میت کے لیے مخلصانہ سفارش کرنا ہے۔",
+                "حاضرین کو چاہیے کہ وہ رسمی شرکت کے بجائے دل سے دعا کریں۔",
+                "یہ دعا اللہ کی رحمت کو متوجہ کرنے کا بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "The primary purpose of Janazah is to intercede sincerely for the deceased.",
+                "Attendees should focus on praying from the heart rather than just formal participation.",
+                "This supplication is the best way to invoke the Mercy of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 1019,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/27"],
+    "kitabId": 9,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 80
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (4495)‏، والنسائي (8/53)‏، وابن الجارود (770)‏، وابن خزيمة. وأصله قوله تعالى: (ولا تزر وازرة وزر أخرى).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد، نسائی اور ابن الجارود نے روایت کیا ہے اور ابن خزیمہ نے اسے صحیح قرار دیا ہے۔ ابوداؤد کی روایت میں یہ اضافہ ہے کہ آپ ﷺ نے اس موقع پر قرآن کی آیت 'کوئی بوجھ اٹھانے والا کسی دوسرے کا بوجھ نہیں اٹھائے گا' تلاوت فرمائی۔",
+    "english": "Sahih (Authentic). Reported by Abu Dawud (4495), An-Nasa'i (8/53), and Ibn al-Jarud (770). Ibn Khuzaimah also authenticated it. Abu Dawud adds that the Prophet (ﷺ) recited: 'And no bearer of burdens shall bear another's burden.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "يَجْنِي",
+      "english": "Commit an offense / crime",
+      "urdu": "جرم کرنا / زیادتی کرنا"
+    },
+    {
+      "arabic": "أَشْهَدُ",
+      "english": "I bear witness",
+      "urdu": "میں گواہی دیتا ہوں"
+    },
+    {
+      "arabic": "لَا تَجْنِي عَلَيْهِ",
+      "english": "You are not responsible for him",
+      "urdu": "تم اس کے جرم کے ذمہ دار نہیں"
+    },
+    {
+      "arabic": "ابن",
+      "english": "Son",
+      "urdu": "بیٹا"
+    },
+    {
+      "arabic": "جناية",
+      "english": "Criminal offense",
+      "urdu": "مجرمانہ فعل"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں اسلام کا سنہری اصول بیان کیا گیا ہے کہ ہر شخص اپنے عمل کا خود ذمہ دار ہے؛ باپ کا جرم بیٹے پر اور بیٹے کا جرم باپ پر نہیں ڈالا جا سکتا۔",
+    "english": "This Hadith establishes the Islamic principle of individual legal responsibility, confirming that no person is held accountable for the crimes of their relatives."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (4495)",
+      "english": "Reported by Abu Dawud (4495)"
+    },
+    {
+      "arabic": "رواه النسائي (4831)",
+      "english": "Reported by An-Nasa'i (4831)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو رمثة التميمي",
+        "english": "Abu Rimthah al-Tamimi"
+      },
+      "slug": "abu-rimthah-al-tamimi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S-oG7GjY18A",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "انفرادی ذمہ داری کا قانون",
+        "english": "Law of Individual Responsibility"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جاہلیت کی رسم کا خاتمہ",
+              "english": "Abolishing Pagan Customs"
+            },
+            "content": {
+              "urdu": [
+                "زمانہ جاہلیت میں باپ کے جرم کی سزا بیٹے کو یا پورے قبیلے کو دی جاتی تھی۔",
+                "اسلام نے اس ظلم کو ختم کر کے عدل و انصاف کا نیا معیار مقرر کیا۔",
+                "ہر انسان صرف اپنے کیے ہوئے گناہوں کا جوابدہ قرار پایا۔"
+              ],
+              "english": [
+                "In pre-Islamic times, a son was often punished for his father's crimes.",
+                "Islam abolished this oppression and established a standard of true justice.",
+                "Every human being was made accountable only for their own actions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرآنی اصول کی تائید",
+              "english": "Supporting Quranic Principles"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث قرآن کی اس آیت کی تفسیر ہے کہ 'کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا'۔",
+                "عدالت میں کسی مجرم کے بدلے اس کے معصوم رشتہ دار کو قید یا سزا نہیں دی جا سکتی۔",
+                "یہ اصول انسانی حقوق کے تحفظ کی بنیادی اینٹ ہے۔"
+              ],
+              "english": [
+                "This Hadith explains the Quranic verse: 'No bearer of burdens shall bear another's.'",
+                "An innocent relative cannot be imprisoned or punished in place of a criminal.",
+                "This principle is a cornerstone for the protection of human rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاندانی تعلق اور قانون",
+        "english": "Family Ties and the Law"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نسب کا ثبوت اور گواہی",
+              "english": "Proof of Lineage and Testimony"
+            },
+            "content": {
+              "urdu": [
+                "صحابی نے اپنے بیٹے کے نسب پر رسول اللہ ﷺ کو گواہ بنانا چاہا۔",
+                "آپ ﷺ نے نسب کو تسلیم کیا مگر قانونی ذمہ داری کی حد واضح کر دی۔",
+                "محبت اور تعلق اپنی جگہ، مگر جرم کی سزا میں رشتہ داری کوئی معنی نہیں رکھتی۔"
+              ],
+              "english": [
+                "The Companion wanted the Prophet (ﷺ) to witness his son's lineage.",
+                "The Prophet (ﷺ) accepted the lineage but clarified the limits of legal liability.",
+                "Love and ties are one thing, but kinship means nothing in the penalty for a crime."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدلِ فاروقی اور اسلامی تاریخ",
+              "english": "Justice in Islamic History"
+            },
+            "content": {
+              "urdu": [
+                "تاریخِ اسلام میں کبھی کسی بچے کو اس کے باپ کے جرم پر سزا نہیں دی گئی۔",
+                "یہ اصول مغربی قوانین میں بہت صدیوں بعد متعارف ہوا۔",
+                "اسلام نے چودہ سو سال پہلے ہی فرد کی آزادی اور ذمہ داری کو تحفظ دیا۔"
+              ],
+              "english": [
+                "In Islamic history, no child was ever punished for a father's crime.",
+                "This principle was introduced in Western laws many centuries later.",
+                "Islam protected individual freedom and responsibility 1400 years ago."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیت اور عاقلہ کا مسئلہ",
+              "english": "The Issue of Diyyah and Aqilah"
+            },
+            "content": {
+              "urdu": [
+                "مالی جرمانے (دیت) میں خاندان کا تعاون ایک الگ سماجی پہلو ہے۔",
+                "مگر بدنی سزا اور گناہ کے معاملے میں کوئی اشتراک نہیں ہے۔",
+                "یہ حدیث فوجداری معاملات میں انفرادی سزا کو قطعی بناتی ہے۔"
+              ],
+              "english": [
+                "Family cooperation in blood money (Diyyah) is a separate social aspect.",
+                "However, there is no sharing in physical punishment or sin.",
+                "This Hadith makes individual punishment definitive in criminal matters."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "والدین کی تربیت اور ذمہ داری",
+              "english": "Parental Upbringing and Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ قانونی سزا نہیں، مگر اخلاقی طور پر والدین اولاد کی تربیت کے ذمہ دار ہیں۔",
+                "قیامت کے دن تربیت میں کوتاہی پر سوال ہو سکتا ہے۔",
+                "مگر دنیاوی قانون میں ایک کی غلطی کا بوجھ دوسرے پر نہیں ڈالا جائے گا۔"
+              ],
+              "english": [
+                "Though no legal penalty, parents are morally responsible for upbringing.",
+                "Negligence in upbringing may be questioned on the Day of Judgment.",
+                "However, in worldly law, the burden of one's mistake will not be placed on another."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی سبق",
+        "english": "Social Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ظلم اور انتقام سے بچاؤ",
+              "english": "Avoiding Oppression and Revenge"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے میں دشمنی کی آگ تب بڑھتی ہے جب بے گناہوں کو نشانہ بنایا جائے۔",
+                "اسلامی قانون انتقام کے دائرے کو صرف مجرم تک محدود رکھتا ہے۔",
+                "اس سے خاندانی لڑائیاں اور قبائلی تصادم ختم ہوتے ہیں۔"
+              ],
+              "english": [
+                "Societal enmity grows when innocent people are targeted.",
+                "Islamic law limits the scope of retaliation strictly to the criminal.",
+                "This eliminates family feuds and tribal conflicts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوفِ خدا اور ذاتی عمل",
+              "english": "Fear of Allah and Personal Deeds"
+            },
+            "content": {
+              "urdu": [
+                "ہر شخص کو یاد رکھنا چاہیے کہ اسے اپنے اعمال کا خود حساب دینا ہے۔",
+                "کسی نیک باپ کی اولاد ہونا یا کسی گناہ گار کا رشتہ دار ہونا نجات کا معیار نہیں۔",
+                "انسان کا اپنا تقویٰ اور عمل ہی اللہ کے ہاں معتبر ہے۔"
+              ],
+              "english": [
+                "Everyone must remember they will account for their own deeds.",
+                "Being the child of a pious father or relative of a sinner is not the criteria.",
+                "Only a person's own piety and actions are valid before Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "hadithId": 1044,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1251"],
+    "kitabId": 10,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 84
+  },
+
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أحمد (1/300)، وأبو داود (4462)، والترمذي (1456)، وابن ماجه (2561)، والنسائي في الكبرى (7337). ورجاله ثقات، وصححه الحاكم والذهبي، وحسنه الترمذي.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے امام احمد، ابوداؤد، ترمذی، ابن ماجہ اور نسائی نے روایت کیا ہے۔ اگرچہ بعض نے اس میں کلام کیا ہے، مگر اس کے معنی دیگر احادیث سے موئد ہیں۔",
+    "english": "Sahih (Authentic) due to supporting evidences. Reported by Ahmad (1/300), Abu Dawud (4462), At-Tirmidhi (1456), and Ibn Majah (2561). Al-Hakim and Adh-Dhahabi graded it Sahih, while At-Tirmidhi graded it Hasan."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَمَلَ قَوْمِ لُوطٍ",
+      "english": "Act of the people of Lut",
+      "urdu": "قوم لوط کا فعل / ہم جنس پرستی"
+    },
+    {
+      "arabic": "الْفَاعِلَ",
+      "english": "The active partner",
+      "urdu": "فعل کرنے والا"
+    },
+    {
+      "arabic": "الْمَفْعُولَ بِهِ",
+      "english": "The passive partner",
+      "urdu": "جس کے ساتھ فعل کیا گیا"
+    },
+    {
+      "arabic": "بَهِيمَةٍ",
+      "english": "Animal / Beast",
+      "urdu": "چوپایہ / جانور"
+    },
+    {
+      "arabic": "وَقَعَ عَلَى",
+      "english": "Committed intercourse",
+      "urdu": "بدفعلی کی / جماع کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ہم جنس پرستی اور جانوروں کے ساتھ بدفعلی جیسے گھناؤنے جرائم کی سخت ترین شرعی سزا (قتل) بیان کرتی ہے تاکہ معاشرے کی اخلاقی بنیادیں محفوظ رہیں۔",
+    "english": "This Hadith specifies the capital punishment for homosexuality and bestiality, aiming to protect the moral foundations and natural order of society."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (4462)",
+      "english": "Sunan Abu Dawud (4462)"
+    },
+    {
+      "arabic": "سنن الترمذي (1456)",
+      "english": "Sunan At-Tirmidhi (1456)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ہم جنس پرستی کی سزا",
+        "english": "Punishment for Homosexuality"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سزا کی نوعیت",
+              "english": "Nature of Punishment"
+            },
+            "content": {
+              "urdu": [
+                "جمہور صحابہ اور فقہاء کے نزدیک اس فعل کی سزا قتل ہے۔",
+                "نبی ﷺ نے فاعل اور مفعول دونوں کے لیے ایک ہی سزا مقرر فرمائی اگر وہ اپنی مرضی سے اس میں شریک ہوں۔",
+                "یہ سزا اس لیے سخت ہے کیونکہ یہ انسانی فطرت اور نسلِ انسانی کی بقا کے خلاف ایک سنگین حملہ ہے۔"
+              ],
+              "english": [
+                "The majority of Companions and jurists hold that the punishment for this act is death.",
+                "The Prophet (ﷺ) prescribed the same penalty for both partners if they participate consensually.",
+                "The severity is due to the act being a grave violation of human nature and a threat to the survival of the human race."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی مذاہب کا موقف",
+              "english": "Juristic Standpoints"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور امام احمد کے نزدیک سزا قتل ہے، چاہے وہ شادی شدہ ہو یا نہ ہو۔",
+                "امام ابوحنیفہ کے نزدیک اس میں 'تعزیر' (حاکم کی صوابدید پر سزا) ہے، جبکہ ان کے صاحبین (ابو یوسف و محمد) کے نزدیک زنا والی حد لاگو ہوگی۔",
+                "تمام ائمہ اس بات پر متفق ہیں کہ یہ کبیرہ گناہوں میں سے ایک بدترین گناہ ہے۔"
+              ],
+              "english": [
+                "Imams Shafi'i and Ahmad rule the punishment as death, regardless of marital status.",
+                "Imam Abu Hanifa views it as 'Ta'zir' (discretionary punishment), while his disciples rule it under the penalty of adultery.",
+                "All Imams agree that it is one of the most heinous major sins."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جانوروں کے ساتھ بدفعلی (Bestiality)",
+        "english": "Intercourse with Animals"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی اور حیوانی تقدس",
+              "english": "Human and Animal Sanctity"
+            },
+            "content": {
+              "urdu": [
+                "جانور کے ساتھ بدفعلی انسانی وقار کی شدید ترین پستی کی علامت ہے۔",
+                "حدیث میں انسان کے ساتھ جانور کو بھی مارنے کا حکم ہے تاکہ وہ اس فعل کی یادگار نہ رہے۔",
+                "فقہاء کے مطابق جانور کا گوشت کھانا حرام ہو جاتا ہے اگر وہ ایسا جانور ہو جس کا گوشت کھایا جاتا ہے۔"
+              ],
+              "english": [
+                "Bestiality represents the lowest degradation of human dignity.",
+                "The Hadith orders killing the animal as well so it doesn't remain as a reminder of the vile act.",
+                "Jurists state that if the animal is edible, its meat becomes forbidden after such an incident."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سزا کا نفاذ",
+              "english": "Implementation of Penalty"
+            },
+            "content": {
+              "urdu": [
+                "اس جرم میں بھی قتل کا حکم اس کی شناعت کو ظاہر کرنے کے لیے ہے۔",
+                "بعض فقہاء اسے بھی 'تعزیرِ شدید' کے زمرے میں رکھتے ہیں۔",
+                "اسلامی معاشرے کو حیوانوں جیسی گراوٹ سے بچانا ریاست کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "The command to kill in this crime highlights its utter repulsiveness.",
+                "Some jurists categorize this under 'severe discretionary punishment' (Ta'zir).",
+                "It is the state's duty to protect Islamic society from animalistic depravity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی معاشرت اور پاکیزگی",
+        "english": "Islamic Society and Purity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی نظام کا تحفظ",
+              "english": "Protection of the Family System"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی حدود کا مقصد خوف پیدا کرنا نہیں بلکہ ایک پاکیزہ خاندانی ڈھانچہ فراہم کرنا ہے۔",
+                "فطرت کے خلاف افعال پورے معاشرے کی بربادی کا پیش خیمہ ثابت ہوتے ہیں۔",
+                "قومِ لوط کا عبرتناک انجام اس بات کی دلیل ہے کہ اللہ کو یہ عمل کس قدر ناپسند ہے۔"
+              ],
+              "english": [
+                "Islamic penalties aim to safeguard a pure family structure, not just instill fear.",
+                "Acts against nature are precursors to the total ruin of a society.",
+                "The tragic end of the people of Lut proves how detestable this act is to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حیا اور عفت",
+              "english": "Modesty and Chastity"
+            },
+            "content": {
+              "urdu": [
+                "ایمان کا ایک بڑا حصہ 'حیا' ہے، اور یہ افعال حیا کے جنازہ نکالنے والے ہیں۔",
+                "مسلم نوجوانوں کو ان مغربی افکار سے بچنا چاہیے جو ان برائیوں کو انسانی حقوق کا نام دیتے ہیں۔",
+                "قرآن و سنت کی تعلیمات ہی حقیقی انسانی حقوق کی ضامن ہیں۔"
+              ],
+              "english": [
+                "A major part of faith is modesty (Haya), and these acts completely destroy it.",
+                "Muslim youth must beware of ideologies that label these vices as 'human rights'.",
+                "The teachings of the Quran and Sunnah are the only true guarantors of human rights."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

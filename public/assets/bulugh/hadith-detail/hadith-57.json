@@ -1,0 +1,255 @@
+{
+  "hadithId": 57,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 5 (Chapter 5)"],
+    "kitabId": 1,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب توقيت المسح للمقيم والمسافر",
+    "babId": 5
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه مسلم (276)  من طريق شريح بن هانييء، قال: أتيت عائشة أسألها عن المسح على الخفين؟ فقالت: عليك بابن أبي طالب فسله، فإنه كان يسافر مع رسول الله صلى الله عليه وسلم.  فسألناه فقال: فذكره دون قوله: يعني في المسح على الخفين، فإن هذه الجملة من صياغة الحافظ",
+    "urdu": "صحیح (درجہ)۔ اسے مسلم (276) نے شریح بن ہانی کی سند سے روایت کیا ہے۔ شریح نے کہا: میں عائشہ رضی اللہ عنہا کے پاس موزوں پر مسح کے بارے میں پوچھنے گیا تو انہوں نے کہا: علی بن ابی طالب کے پاس جاؤ اور ان سے پوچھو، کیونکہ وہ رسول اللہ ﷺ کے ساتھ سفر کیا کرتے تھے۔ جب ہم نے ان سے پوچھا تو انہوں نے یہ حدیث بیان کی، سوائے اس جملہ کے کہ 'یعنی فی المسح علی الخفین' یہ جملہ حافظ ابن حجر کا اضافہ ہے۔",
+    "english": "Sahih (Authentic). Narrated by Muslim (276) via the route of Shurayḥ ibn Hāni’, who asked ʿĀ’isha (RA) about the wiping, and she directed him to ʿAlī (RA) as he used to travel with the Prophet (ﷺ). The phrase 'meaning for wiping over the Khuffayn' is an explanatory addition by the compiler (Al-Ḥāfiẓ Ibn Ḥajar)."
+  },
+  "importantWords": [
+    {
+      "arabic": "ثَلَاثَةَ أَيَّامٍ وَلَيَالِيَهُنَّ",
+      "english": "Three days and nights",
+      "urdu": "تین شب و روز"
+    },
+    {
+      "arabic": "لِلْمُسَافِرِ",
+      "english": "For the traveler",
+      "urdu": "مسافر کے لئے"
+    },
+    {
+      "arabic": "يَوْمًا وَلَيْلَةً",
+      "english": "One day and one night",
+      "urdu": "ایک دن رات"
+    },
+    {
+      "arabic": "لِلْمُقِيمِ",
+      "english": "For the resident",
+      "urdu": "مقیم کے لئے"
+    },
+    {
+      "arabic": "اَلْمَسْحِ عَلَى اَلْخُفَّيْنِ",
+      "english": "Wiping over the Khuffayn",
+      "urdu": "موزوں پر مسح"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث موزوں پر مسح کی مدت کو واضح طور پر **مسافر (تین دن رات)** اور **مقیم (ایک دن رات)** کے لیے مقرر کرتی ہے، اور یہ حکم شرعی رخصت کا ایک متفق علیہ اصول ہے۔",
+    "english": "This Hadith clearly defines the duration for wiping over the Khuffayn: **three days and nights for the traveler** and **one day and night for the resident**, establishing an agreed-upon legal principle of concession."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الطهارة، رقم 276",
+      "english": "Sahih Muslim, The Book of Purification, Hadith 276"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Ali ibn Abī Ṭālib (May Allah be pleased with him)"
+      },
+      "slug": "ali-ibn-abi-talib"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-35-fixed-wiping-duration",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مدت کا تعین اور شرعی آسانی",
+        "english": "Determination of Duration and Legal Ease"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مدت کی شرعی تحدید",
+              "english": "Legal Time Limit"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ نے موزوں پر مسح کی مدت کو مسافر اور مقیم کے لیے الگ الگ متعین کر کے اس رخصت کو واضح طور پر **وقت کے ساتھ محدود** کر دیا۔",
+                "یہ وقت کی تحدید اس بات کی دلیل ہے کہ اسلام میں عبادت کے لیے رخصتیں بھی حدود کی پابند ہوتی ہیں اور ان میں اپنی رائے کا دخل نہیں دیا جا سکتا۔",
+                "یہ حکم اس بات کی تاکید ہے کہ مقیم شخص ایک دن سے زیادہ اور مسافر تین دن سے زیادہ مسح نہیں کر سکتا، اس کے بعد پاؤں دھونے ہوں گے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) explicitly limited the duration for wiping over the socks for travelers and residents separately, ensuring the concession is **time-bound**.",
+                "This time limit proves that concessions in Islam's acts of worship are also bound by specific limits and cannot be subjected to personal opinion or extension.",
+                "This ruling emphasizes that a resident cannot wipe for more than one day, nor a traveler for more than three days; thereafter, washing the feet is mandatory."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسافر اور مقیم کا فرق",
+              "english": "Difference Between Traveler and Resident"
+            },
+            "content": {
+              "urdu": [
+                "مسافر کو طویل مدت (تین دن رات) کی رخصت دینا شریعت کی اس حکمت کو ظاہر کرتا ہے کہ سفر میں مشقت زیادہ ہوتی ہے اور آسانی کی ضرورت بڑھ جاتی ہے۔",
+                "مقیم (جو گھر پر رہتا ہے) کے لیے ایک دن رات کی مدت رکھی گئی ہے، کیونکہ اس کے لیے موزے اتارنا اور پاؤں دھونا مسافر کی نسبت آسان ہوتا ہے۔",
+                "یہ فرق اس بات کی دلیل ہے کہ احکامِ شرعیہ میں حالات اور مشقت کی نوعیت کا لحاظ رکھا جاتا ہے۔"
+              ],
+              "english": [
+                "Granting the traveler a longer duration (three days and nights) reflects the Sharia's wisdom that travel involves greater hardship, thus increasing the need for ease.",
+                "The resident (who stays at home) is limited to one day and one night, as it is easier for them to remove their socks and wash their feet compared to a traveler.",
+                "This difference proves that Islamic legal rulings take into account the circumstances and the nature of the hardship being experienced."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسح کی ابتداء اور انتہاء",
+        "english": "Commencement and Termination of Wiping"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مدت کا آغاز کب ہو گا؟",
+              "english": "When Does the Duration Begin?"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک مسح کی مدت کا آغاز موزے پہننے سے نہیں بلکہ موزے پہننے کے بعد **پہلی بار وضو ٹوٹنے (حدث)** کے وقت سے ہوتا ہے۔",
+                "مثال کے طور پر، اگر کوئی فجر میں موزے پہنے اور پہلی بار ظہر میں وضو توڑے، تو مدت کا آغاز ظہر کے وقت سے ہو گا، نہ کہ فجر کے۔",
+                "یہ تعین اس بات کو یقینی بناتا ہے کہ مسلمان اپنے مسح کا حساب درست وقت سے کر سکے اور کسی شک میں نہ پڑے۔"
+              ],
+              "english": [
+                "According to the majority of jurists, the wiping period starts from the moment the Wudu breaks for the first time after wearing the socks, not from the time they were put on.",
+                "For example, if worn at Fajr but Wudu breaks at Ẓuhr, the period starts at Ẓuhr, not Fajr.",
+                "This determination ensures that the Muslim can calculate the timing correctly and avoid any doubt about the concession's validity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسح کے دوران سفر",
+              "english": "Travel During Wiping Period"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی مقیم مسح کی مدت کے دوران **مسافر** بن جائے تو اس کی مدت مسافر کی مدت (تین دن رات) میں تبدیل ہو جائے گی، یہ آسانی ہے۔",
+                "اور اگر کوئی مسافر مسح کی مدت کے دوران **مقیم** بن جائے تو اس کی مدت مقیم کی مدت (ایک دن رات) میں تبدیل ہو جائے گی اور وہ بقیہ وقت کو مدنظر رکھے گا۔",
+                "ایسی صورت میں اگر مقیم کی مدت گزر چکی ہو تو اسے موزے اتار کر پاؤں دھو کر نیا وضو کرنا ضروری ہو گا۔"
+              ],
+              "english": [
+                "If a resident becomes a traveler during the wiping period, their duration changes to the traveler's duration (three days and nights), which is a facilitation.",
+                "If a traveler becomes a resident, their duration changes to the resident's period (one day and night), and they should regard the remaining time.",
+                "In such a case, if the resident's period has already passed, they must remove the socks, wash their feet, and perform a new Wudu."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیدنا علیؓ کی روایت کا مقام",
+        "english": "The Status of Ali's Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کی صحت اور فضیلت",
+              "english": "Authenticity and Virtue of the Narration"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث امام مسلم میں موجود ہے اور سیدنا علیؓ کی فضیلت کو بھی ظاہر کرتی ہے، جن سے حضرت عائشہؓ نے مسح کے بارے میں پوچھنے کو کہا۔",
+                "علیؓ کو نبی ﷺ کے ساتھ سفر کرنے کا شرف حاصل تھا، اس لیے وہ مسافروں سے متعلق احکام کو زیادہ بہتر جانتے تھے، اور ان کی روایت انتہائی قوی ہے۔",
+                "یہ حدیث اس بات کا قطعی ثبوت ہے کہ موزوں پر مسح کی تحدید نبی اکرم ﷺ کے قول و عمل سے ثابت ہے، اور اس میں کسی قسم کا شبہ نہیں۔"
+              ],
+              "english": [
+                "This Hadith is in Sahih Muslim and shows the virtue of Ali (RA), whom Aisha (RA) directed the inquirer to for the ruling on Mas'h.",
+                "Ali (RA) had the honor of traveling with the Prophet (ﷺ), so he knew the rulings concerning travelers best, making his narration extremely strong.",
+                "This Hadith is definitive proof that the time limit for wiping over the socks is established by the saying and action of the Prophet (ﷺ), leaving no room for doubt."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حافظ ابن حجر کا اضافہ",
+              "english": "Ibn Hajar's Addition"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'یعنی فی المسح علی الخفین' کا اضافہ حافظ ابن حجر کا ہے، جو وضاحت کے لیے کیا گیا ہے، تاکہ معلوم ہو کہ مدت کس عمل کے لیے ہے۔",
+                "یہ اس بات کی دلیل ہے کہ محدثین اور شارحین احادیث میں وہ جملے شامل کرتے تھے جو وضاحت کے لیے ضروری ہوں، لیکن وہ نبی ﷺ کا اصل قول نہیں ہوتا۔",
+                "اس سے حدیث کے فہم میں آسانی پیدا ہوتی ہے اور مسئلہ واضح ہو جاتا ہے کہ مدت کا تعلق موزوں پر مسح سے ہے۔"
+              ],
+              "english": [
+                "The phrase 'meaning for wiping over the Khuffayn' is an addition by Al-Hafiz Ibn Hajar for clarification, showing which act the duration refers to.",
+                "This proves that scholars would include necessary explanations in the Hadith text, although it is not the original Prophetic wording.",
+                "This clarifies the understanding of the Hadith and makes it clear that the time limit is connected to wiping over the socks."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسح کا نفع اور مقصد",
+        "english": "Benefit and Purpose of Wiping"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آسانی اور تعبد",
+              "english": "Ease and Devotional Worship"
+            },
+            "content": {
+              "urdu": [
+                "مسح علی الخفین ایک ایسی رخصت ہے جو اس بات کا ثبوت ہے کہ اسلام ایک آسان اور قابل عمل دین ہے، جو مشقت سے پاک ہے۔",
+                "یہ عمل صرف ایک آسانی نہیں بلکہ نبی ﷺ کے فرمان کے تحت ایک **عبادت** ہے، جس کا ثواب پاؤں دھونے کے برابر ہے۔",
+                "مسلمان کو چاہیے کہ وہ آسانی کے ساتھ اس رخصت پر عمل کرے اور اس کے مقرر کردہ حدود کا خیال رکھے تاکہ عبادت مقبول ہو۔"
+              ],
+              "english": [
+                "Wiping over the Khuffayn is a concession that proves Islam is an easy and practical religion, free from undue hardship.",
+                "This act is not just an ease but an act of **devotional worship (ʿIbādah)** under the Prophet's command, with the same reward as washing the feet.",
+                "A Muslim should act upon this concession with ease and observe its prescribed limits for the worship to be accepted."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنابت اور مسح کا فرق",
+              "english": "Difference Between Janābah and Wiping"
+            },
+            "content": {
+              "urdu": [
+                "مسح صرف حدث اصغر (وضو توڑنے والے افعال) کی صورت میں جائز ہے، جبکہ حدث اکبر (جنابت) میں مسح جائز نہیں اور غسل فرض ہے۔",
+                "یہ فرق اس بات کی دلیل ہے کہ حدث اصغر سے حاصل ہونے والی طہارت اور غسل سے حاصل ہونے والی طہارت کی شرعی حیثیت مختلف ہے۔",
+                "موزوں پر مسح کی مدت جنابت کی وجہ سے نہیں ٹوٹتی، بلکہ مدت کا وقت ختم ہونے یا موزے اتارنے سے ٹوٹتی ہے۔"
+              ],
+              "english": [
+                "Wiping is only permissible for minor impurity (*ḥadath aṣghar*), while for major impurity (*Janābah*), wiping is not permissible, and Ghusl is obligatory.",
+                "This difference indicates that the ritual status of purity achieved through Wudu and Ghusl is distinct.",
+                "The wiping period is not nullified by Janābah itself, but by the expiration of the time limit or the removal of the socks."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

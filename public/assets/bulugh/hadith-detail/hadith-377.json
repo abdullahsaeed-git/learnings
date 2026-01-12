@@ -1,0 +1,261 @@
+{
+  "hadithId": 377,
+  "hadithNo": 24,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/tirmidhi:509"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام - كتاب الصلاة",
+    "babId": 22
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح لغيره. رواه الترمذي (509)، وابن ماجه (1136)، وابن خزيمة (1793). ورغم ضعف إسناد حديث ابن مسعود إلا أن له شواهد كثيرة تقويه، منها حديث ابن عمر وأبي سعيد الخدري في الصحيحين بمعناه.",
+    "urdu": "یہ روایت اپنے شواہد کی بنا پر صحیح ہے۔ اسے ترمذی (509) اور ابن ماجہ (1136) نے روایت کیا ہے۔ اگرچہ ابن مسعود کی سند میں کلام ہے، لیکن ابن خزیمہ اور بخاری و مسلم میں موجود دیگر صحابہ کے آثار اس کی تائید کرتے ہیں۔",
+    "english": "Sahih due to corroborating evidences. Reported by at-Tirmidhi (509), Ibn Majah (1136), and Ibn Khuzaimah (1793). Despite the weakness in Ibn Mas'ud's chain, numerous witnesses and Sahih reports from other companions strengthen its basis."
+  },
+  "importantWords": [
+    {
+      "arabic": "اسْتَوَى",
+      "english": "Ascended / Settled",
+      "urdu": "بیٹھ گئے / برابر ہو گئے"
+    },
+    {
+      "arabic": "الْمِنْبَرِ",
+      "english": "The Pulpit",
+      "urdu": "منبر"
+    },
+    {
+      "arabic": "اسْتَقْبَلْنَاهُ",
+      "english": "We faced him",
+      "urdu": "ہم نے ان کا استقبال کیا / رخ کیا"
+    },
+    {
+      "arabic": "وُجُوهِنَا",
+      "english": "Our faces",
+      "urdu": "ہمارے چہرے"
+    },
+    {
+      "arabic": "شَاهِدٌ",
+      "english": "Witnessing report",
+      "urdu": "گواہ / تائیدی روایت"
+    }
+  ],
+  "summary": {
+    "urdu": "خطبہ جمعہ کے دوران مقتدیوں کا امام کی طرف چہرہ کر کے بیٹھنا ایک مسنون عمل ہے جو توجہ اور ادب کی علامت ہے۔",
+    "english": "Facing the Imam while he delivers the Friday sermon is a Sunnah practice that signifies attentiveness and respect."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (509)",
+      "english": "Sunan at-Tirmidhi (509)"
+    },
+    {
+      "arabic": "صحيح ابن خزيمة (1793)",
+      "english": "Sahih Ibn Khuzaimah (1793)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah bin Mas'ud"
+      },
+      "slug": "abdullah-bin-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_lV_3m7pWc",
+  "grade": {
+    "arabic": "حسن لغيره",
+    "english": "Hasan Lighairihi (Good due to others)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خطبہ سننے کے آداب",
+        "english": "Etiquettes of Listening to the Sermon"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام کی طرف رخ کرنا",
+              "english": "Facing the Imam"
+            },
+            "content": {
+              "urdu": [
+                "خطبہ کے دوران امام کی طرف چہرہ کرنا صحابہ کرام کا مستقل معمول تھا۔",
+                "یہ عمل خطیب کے احترام اور اس کی باتوں کو غور سے سننے کا تقاضا ہے۔",
+                "اس سے مقتدی اور امام کے درمیان ایک علمی و روحانی تعلق قائم ہوتا ہے۔"
+              ],
+              "english": [
+                "Facing the Imam during the sermon was a consistent practice of the Sahaba.",
+                "This act reflects respect for the speaker and attentive listening to his words.",
+                "It establishes a scholarly and spiritual connection between the follower and Imam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توجہ اور یکسوئی",
+              "english": "Focus and Concentration"
+            },
+            "content": {
+              "urdu": [
+                "سامنے دیکھ کر بیٹھنے سے انسان ادھر ادھر کی باتوں سے محفوظ رہتا ہے۔",
+                "یہ ہیئت علم حاصل کرنے کے بہترین آداب میں شمار کی جاتی ہے۔",
+                "اسلامی تعلیمات میں ظاہری ادب کو باطنی فیض کا ذریعہ قرار دیا گیا ہے۔"
+              ],
+              "english": [
+                "Sitting while looking straight ahead protects one from surrounding distractions.",
+                "This posture is considered among the best etiquettes for acquiring knowledge.",
+                "Islamic teachings regard outward respect as a means for inward spiritual gain."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و علمی نکات",
+        "english": "Juristic and Scholarly Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استقبالِ امام کا حکم",
+              "english": "Ruling on Facing the Imam"
+            },
+            "content": {
+              "urdu": [
+                "اکثر اہل علم کے نزدیک خطبہ میں امام کی طرف رخ کرنا مستحب ہے۔",
+                "امام ترمذی کے بقول صحابہ اور تابعین اسی پر عمل پیرا تھے۔",
+                "اگرچہ یہ واجب نہیں، مگر سنتِ صحابہ ہونے کی وجہ سے پسندیدہ ہے۔"
+              ],
+              "english": [
+                "Most scholars consider facing the Imam during the sermon to be recommended.",
+                "According to at-Tirmidhi, the Sahaba and Tabi'un strictly adhered to this.",
+                "While not obligatory, it is highly preferred as it follows the Companions' path."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احادیث کی تائید",
+              "english": "Support from Other Narrations"
+            },
+            "content": {
+              "urdu": [
+                "صحیح بخاری میں بھی اس مفہوم کی روایات موجود ہیں جو اسے تقویت دیتی ہیں۔",
+                "ضعیف اسناد کے باوجود کثرتِ طرق اس عمل کی اصل کو ثابت کرتے ہیں۔",
+                "محدثین کے نزدیک فضائلِ اعمال میں ایسی روایات قابلِ قبول ہوتی ہیں۔"
+              ],
+              "english": [
+                "Sahih al-Bukhari contains narrations of this meaning that strengthen the case.",
+                "Despite weak chains, the multiplicity of routes proves the basis of this act.",
+                "Scholars of Hadith accept such narrations within the context of virtuous deeds."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجتماعی فوائد",
+        "english": "Collective Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نظم و ضبط کا مظاہرہ",
+              "english": "Demonstration of Discipline"
+            },
+            "content": {
+              "urdu": [
+                "تمام مقتدیوں کا ایک ہی طرف رخ کرنا مسجد میں نظم و ضبط پیدا کرتا ہے۔",
+                "یہ منظر اسلامی اجتماعیت کی خوبصورتی اور وقار کو ظاہر کرتا ہے۔",
+                "نظم و ضبط کے بغیر کوئی بھی بڑی اصلاحی تحریک کامیاب نہیں ہو سکتی۔"
+              ],
+              "english": [
+                "All followers facing one direction creates a sense of discipline in the mosque.",
+                "This scene demonstrates the beauty and dignity of Islamic collectivism.",
+                "No major reformative movement can succeed without discipline and order."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خطیب کی حوصلہ افزائی",
+              "english": "Encouragement for the Preacher"
+            },
+            "content": {
+              "urdu": [
+                "جب لوگ خطیب کی طرف متوجہ ہوتے ہیں تو اس کی تاثیر بڑھ جاتی ہے۔",
+                "سامعین کی توجہ دیکھ کر خطیب زیادہ دلجمعی سے بات پہنچاتا ہے۔",
+                "یہ عمل ابلاغ اور پیغام رسانی کے عمل کو زیادہ مؤثر بناتا ہے۔"
+              ],
+              "english": [
+                "When people face the preacher, the impact of the sermon increases.",
+                "Seeing the audience's focus allows the preacher to speak with greater heart.",
+                "This practice makes the process of communication and messaging more effective."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Life Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کو زندہ کرنا",
+              "english": "Reviving the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں اس مسنون ہیئت کو دوبارہ اپنانے کی ضرورت ہے۔",
+                "مسجد میں ٹیک لگا کر یا ادھر ادھر دیکھ کر بیٹھنے سے گریز کرنا چاہیے۔",
+                "سنتِ نبوی پر عمل کرنے میں ہی ہمارے ایمان کی تازگی پوشیدہ ہے۔"
+              ],
+              "english": [
+                "There is a need to readopt this Sunnah posture in the modern era.",
+                "One should avoid leaning or looking around aimlessly in the mosque.",
+                "The freshness of our faith lies in following the Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ادبِ مجلس کا سبق",
+              "english": "Lesson in Gathering Etiquettes"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں کسی بھی دینی مجلس میں بیٹھنے کا سلیقہ سکھاتی ہے۔",
+                "بڑوں اور اہل علم کی بات سنتے وقت ان کی طرف توجہ کرنا ضروری ہے۔",
+                "باادب نصیحت سننا ہی ہدایت پانے کا پہلا قدم ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches us the proper way to sit in any religious gathering.",
+                "It is essential to face elders and scholars while listening to them speak.",
+                "Listening to advice with respect is the first step toward gaining guidance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

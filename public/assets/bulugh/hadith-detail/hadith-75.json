@@ -1,0 +1,300 @@
+{
+  "hadithId": 75,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["abudawud:203"],
+    "kitabId": 1,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 6
+  },
+
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (4/97) ، وأبو داود (203) وفي الأصل زيادة تفصيل حسن. رواه أحمد (4/97) ، وأبو داود (203) وفي الأصل زيادة تفصيل",
+    "urdu": "یہ حدیث حسن درجے کی ہے (اضافی تفصیلات کے ساتھ)۔ اسے امام احمد (4/97) اور ابوداؤد (203) نے روایت کیا ہے۔ اس روایت کی مختلف اسناد اسے تقویت دیتی ہیں، اگرچہ بعض مخصوص اضافے ضعیف ہیں۔",
+    "english": "Hasan (Good). Narrated by Ahmad (4/97) and Abu Dawud (203). Although parts of the overall narration contain weakness, the central theme is supported by other chains and is often classified as Hasan by some scholars."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْعَيْنُ",
+      "english": "The eye",
+      "urdu": "آنکھ"
+    },
+    {
+      "arabic": "وِكَاءُ",
+      "english": "The string / fastener / tie",
+      "urdu": "بندھن / رسی"
+    },
+    {
+      "arabic": "السَّهِ",
+      "english": "The anus (passage for wind)",
+      "urdu": "ریح خارج ہونے کی جگہ"
+    },
+    {
+      "arabic": "نَامَتْ",
+      "english": "Slept",
+      "urdu": "سو گئی"
+    },
+    {
+      "arabic": "اِسْتَطْلَقَ",
+      "english": "Is loosened / released",
+      "urdu": "ڈھیلا ہو گیا / کھل گیا"
+    },
+    {
+      "arabic": "فَلْيَتَوَضَّأْ",
+      "english": "Let him perform Wudu’",
+      "urdu": "تو اسے وضو کرنا چاہیے"
+    },
+    {
+      "arabic": "مُضْطَجِعًا",
+      "english": "Lying down (on one's side)",
+      "urdu": "لیٹ کر"
+    },
+    {
+      "arabic": "زِيَادَة",
+      "english": "Addition / appended text",
+      "urdu": "اضافہ"
+    },
+    {
+      "arabic": "إِسْنَادَيْنِ",
+      "english": "Two chains (of narration)",
+      "urdu": "دو سندیں"
+    },
+    {
+      "arabic": "ضَعْف",
+      "english": "Weakness",
+      "urdu": "ضعف / کمزوری"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نیند کو وضو توڑنے والے عمل کے طور پر بیان کرتی ہے، جس میں آنکھوں کو بیداری کی حالت میں جسمانی کنٹرول کا استعارہ قرار دیا گیا ہے۔ نیند آنے پر یہ کنٹرول ختم ہو جاتا ہے، جس کی وجہ سے وضو کا حکم دیا گیا ہے۔",
+    "english": "This Hadith addresses sleep as a nullifier of Wudu', using the metaphor of the eyes being the 'fastener' of physical control. When a person sleeps, this control is lost, which mandates renewing ablution."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (4/97)",
+      "english": "Reported by Ahmad (4/97)"
+    },
+    {
+      "arabic": "رواه أبو داود (203)",
+      "english": "Reported by Abu Dawud (203)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "مُعَاوِيَةَ  - رضى الله عنه",
+        "english": "Mu'awiyah (May Allah be pleased with him)"
+      },
+      "slug": "muawiyah-ibn-abi-sufyan"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عَلِيٌّ",
+        "english": "Ali (May Allah be pleased with him)"
+      },
+      "slug": "ali-ibn-abi-talib"
+    },
+    {
+      "id": 3,
+      "name": {
+        "arabic": "اِبْنِ عَبَّاسٍ",
+        "english": "Ibn Abbas (May Allah be pleased with them both)"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا استعارہ اور فقہی بنیاد",
+        "english": "The Metaphor and Juristic Foundation of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آنکھیں اور بندھن کا مفہوم",
+              "english": "Meaning of Eyes and the Fastener"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں آنکھوں کو 'بندھن' سے تعبیر کیا گیا ہے، جو جسمانی اعضاء پر انسان کے ہوش و حواس کے کنٹرول کی علامت ہے۔",
+                "اس استعارے کا مطلب یہ ہے کہ جب انسان جاگ رہا ہوتا ہے تو اسے ریح کے اخراج کا احساس رہتا ہے اور وہ اس پر قابو رکھتا ہے۔",
+                "جب نیند آتی ہے تو یہ کنٹرول ختم ہو جاتا ہے اور ریح کے خارج ہونے کا امکان بڑھ جاتا ہے، جس سے وضو ٹوٹ جاتا ہے۔"
+              ],
+              "english": [
+                "The Hadith uses the metaphor of the eyes as the 'fastener,' symbolizing a person's conscious control over their bodily functions.",
+                "This means that while awake, a person is aware of and can control the discharge of wind (passing gas).",
+                "When sleep occurs, this control is lost, increasing the possibility of gas passing undetected, thus invalidating Wudu'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیند کا وضو توڑنا",
+              "english": "Sleep Nullifying Wudu'"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء اس حدیث کی روشنی میں اس بات پر متفق ہیں کہ نیند وضو کو توڑ دیتی ہے کیونکہ یہ شعور کو زائل کر دیتی ہے۔",
+                "یہ اصل میں نیند نہیں بلکہ نیند کی وجہ سے ریح کے اخراج کا شک ہے جو وضو کو توڑنے کا سبب بنتا ہے۔",
+                "اس حکم کی دلیل وہ اضافی الفاظ ہیں: ”جس شخص کو نیند آ جائے وہ ازسرنو وضو کرے۔“"
+              ],
+              "english": [
+                "The majority of scholars agree, based on this Hadith, that sleep invalidates Wudu' because it removes consciousness.",
+                "The actual nullifier is not the sleep itself but the high probability of wind passing unnoticed due to the loss of awareness.",
+                "The justification for this ruling is found in the additional phrase: 'Whoever sleeps, let him perform Wudu'.'"
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نیند کی حالتیں اور فقہی تقسیم",
+        "english": "States of Sleep and Juristic Categorization"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لیٹ کر سونے کا مسئلہ",
+              "english": "The Issue of Lying Down to Sleep"
+            },
+            "content": {
+              "urdu": [
+                "ابن عباس رضی اللہ عنہما کی روایت وضو کو صرف 'لیٹ کر سونے' کی حالت تک محدود کرتی ہے۔",
+                "یہ اس فقہی رائے کی حمایت کرتا ہے کہ صرف گہری، آرام دہ نیند (جس میں اعضاء ڈھیلے پڑ جائیں) ہی وضو توڑتی ہے۔",
+                "اکثر فقہاء نے یہ تقسیم کی ہے کہ ہلکی، بیٹھ کر یا کھڑے ہو کر سونے سے وضو نہیں ٹوٹتا، بشرطیکہ کنٹرول باقی رہے۔"
+              ],
+              "english": [
+                "The narration from Ibn Abbas restricts Wudu' renewal to the state of 'sleeping lying down.'",
+                "This supports the juristic opinion that only deep, restful sleep (where control over the body is lost) nullifies Wudu'.",
+                "Most jurists differentiate, holding that light sleep while sitting or standing does not break Wudu', provided bodily control is maintained."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی مسالک کا اختلاف",
+              "english": "Difference Among Juristic Schools"
+            },
+            "content": {
+              "urdu": [
+                "شافعی مسلک کے نزدیک نیند وضو نہیں توڑتی، الا یہ کہ وہ شخص اپنی بیٹھنے کی جگہ سے ہٹ جائے یا ٹیک لگا کر سوئے۔",
+                "حنفی اور حنبلی مسالک نیند کی گہرائی اور اس سے جسمانی کنٹرول ختم ہونے پر وضو کے ٹوٹنے کا حکم دیتے ہیں۔",
+                "چونکہ تمام متعلقہ روایات میں ضعف ہے، اس لیے فقہی اختلاف کی گنجائش باقی رہی ہے، اور احتیاطاً وضو کر لینا بہتر ہے۔"
+              ],
+              "english": [
+                "The Shafi'i school generally holds that sleep itself does not break Wudu', unless the person changes position or sleeps leaning.",
+                "The Hanafi and Hanbali schools mandate Wudu' renewal based on the depth of sleep and the resulting loss of physical control.",
+                "Since all related narrations have some weakness, juristic disagreement persists, making renewal of Wudu' a safer option (precautionary)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی سند اور درجہ",
+        "english": "The Chain of Narration and Grade"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کا ضعف",
+              "english": "Weakness in the Chain (Isnad)"
+            },
+            "content": {
+              "urdu": [
+                "حدیثِ معاویہ اور حدیثِ علی اور حدیثِ ابن عباس کی سندوں میں محدثین نے ضعف کی نشاندہی کی ہے۔",
+                "ضعف کا باوجود، بعض ائمہ (جیسے بعض نسخوں میں ابوداؤد کے ساتھ) اس کے متن کو حسن یا صحیح لغیرہ قرار دیتے ہیں۔",
+                "اس کی وجہ یہ ہے کہ اس کی تائید دیگر احادیث سے ہوتی ہے جو اسی مفہوم کی طرف اشارہ کرتی ہیں (جیسے حضرت علی کی روایت)۔"
+              ],
+              "english": [
+                "Hadith scholars have pointed out weaknesses in the chains of narration for the Ahadith from Mu'awiyah, Ali, and Ibn Abbas.",
+                "Despite the weakness, some Imams (as indicated in some Takhreej) classify the text as Hasan (good) or Sahih li-Ghairihi (authentic due to external support).",
+                "This is because the concept is supported by other narrations that convey the same meaning (such as the partial narration from 'Ali)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہاء کا اعتماد",
+              "english": "Scholarly Reliance"
+            },
+            "content": {
+              "urdu": [
+                "سند میں ضعف کے باوجود، اس حدیث کا عمومی حکم (نیند سے وضو کا ٹوٹنا) اسلامی قانون کا ایک بنیادی اصول بن گیا۔",
+                "اس کی وجہ یہ ہے کہ یہ حدیث قیاس (بصیرت کے ضائع ہونے) کے اصول سے متفق ہے جو طہارت کے لیے ضروری ہے۔",
+                "جب کوئی صحیح حدیث واضح طور پر کسی حکم کی نفی نہ کرے تو ضعیف حدیث بھی قیاس کو تقویت دے کر مستعمل ہو جاتی ہے۔"
+              ],
+              "english": [
+                "Despite the weakness in the chain, the general ruling of this Hadith (sleep breaking Wudu') became a fundamental principle in Islamic law.",
+                "This is because the Hadith agrees with the principle of Qiyas (analogy) regarding the loss of conscious awareness, which is essential for purity.",
+                "Where no authentic Hadith clearly negates a ruling, a weak Hadith can be used to strengthen Qiyas and thus become applicable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور احتیاط",
+        "english": "Practical Lesson and Precaution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عبادت میں ہوشیاری",
+              "english": "Vigilance in Worship"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں عبادت کے وقت طہارت کے معاملے میں مکمل ہوشیاری اور توجہ برقرار رکھنے کی تعلیم دیتی ہے۔",
+                "مسلمان کو اپنی نماز کی تیاری میں طہارت کو یقینی بنانا چاہیے، اور نیند کے بعد وضو کرنے میں جلدی کرنی چاہیے۔",
+                "یہ عمل نہ صرف جسمانی بلکہ روحانی طور پر بھی عبادت کے لیے مکمل تیاری کا اظہار ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches us to maintain complete vigilance and attention regarding purity, especially when preparing for worship.",
+                "A Muslim should ensure ritual purity before prayer and hasten to perform Wudu' after waking up from sleep.",
+                "This act represents complete preparation for worship, both physically and spiritually."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاطی وضو کا مشورہ",
+              "english": "Advice for Precautionary Wudu'"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ ہلکی نیند کے بارے میں اختلاف ہے، تاہم طہارت کے باب میں احتیاط افضل ہے۔",
+                "اگر کسی شخص کو اپنی نیند کی گہرائی پر شک ہو، تو اس کے لیے وضو کر لینا تقویٰ کے زیادہ قریب ہے۔",
+                "وضو کی تجدید (نیا وضو کرنا) ویسے بھی مستحب عمل ہے، جس پر ثواب ملتا ہے، لہٰذا اس میں کوئی نقصان نہیں۔"
+              ],
+              "english": [
+                "Although there is disagreement regarding light sleep, precaution is superior in matters of ritual purity.",
+                "If a person doubts the depth of their sleep, renewing Wudu' is closer to piety (Taqwa).",
+                "Renewing Wudu' is a recommended (Mustahabb) act in itself, earning reward, so there is no harm in doing so."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

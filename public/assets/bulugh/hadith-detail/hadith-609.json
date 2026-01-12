@@ -1,0 +1,255 @@
+{
+  "hadithId": 609,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/609"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 40
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1218 / 149). والحديث قطعة من حديث جابر الطويل في صفة الحج.",
+    "urdu": "صحیح۔ اسے مسلم (1218) نے روایت کیا ہے۔ یہ حدیث سیدنا جابر کی اس لمبی روایت کا حصہ ہے جس میں حجۃ الوداع کا مفصل تذکرہ ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (1218 / 149). This is a portion of the long Hadith of Jabir describing the Prophet's Hajj."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَنْحَرٌ",
+      "english": "Place of Sacrifice",
+      "urdu": "قربان گاہ / ذبح کرنے کی جگہ"
+    },
+    {
+      "arabic": "رِحَالِكُمْ",
+      "english": "Your camps / Lodgings",
+      "urdu": "تمہارے ٹھکانے / خیمے"
+    },
+    {
+      "arabic": "مَوْقِفٌ",
+      "english": "Place of Standing",
+      "urdu": "ٹھہرنے کی جگہ / وقوف کا مقام"
+    },
+    {
+      "arabic": "جَمْعٌ",
+      "english": "Jam' (Muzdalifah)",
+      "urdu": "مزدلفہ (جسے جمع بھی کہا جاتا ہے)"
+    },
+    {
+      "arabic": "عَرَفَةُ",
+      "english": "Arafat",
+      "urdu": "میدانِ عرفات"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی ﷺ نے امت کی آسانی کے لیے واضح فرمایا کہ منیٰ، عرفات اور مزدلفہ کے تمام حصے عبادت کے لیے یکساں ہیں، مخصوص مقامات پر ہجوم کرنے کی ضرورت نہیں۔",
+    "english": "The Prophet (ﷺ) clarified for the Ummah's ease that all areas within Mina, Arafat, and Muzdalifah are valid for rituals, eliminating the need to crowd specific spots."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1218)",
+      "english": "Reported by Muslim (1218)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin 'Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYI7H7_nO6o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "امت کے لیے نبوی سہولت اور وسعت",
+        "english": "Prophetic Ease and Spaciousness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہجوم سے بچنے کی تدبیر",
+              "english": "Measure to Avoid Crowding"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اپنے عمل سے ایک مخصوص جگہ کو منتخب کیا، مگر ساتھ ہی یہ بھی بتا دیا کہ پوری جگہ جائز ہے۔",
+                "یہ اس لیے فرمایا تاکہ امت کے لاکھوں لوگ صرف ایک ہی مقام پر اکٹھے ہو کر تنگی اور اذیت کا شکار نہ ہوں۔",
+                "اسلامی عبادات میں سہولت اور دوسروں کو تکلیف سے بچانا ایک بنیادی اصول ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) chose a specific spot by practice but clarified that the entire area is valid for the ritual.",
+                "This was stated to prevent millions of Muslims from crowding a single spot, causing hardship or harm.",
+                "Ease and avoiding causing distress to others are fundamental principles in Islamic worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عرفات کا وقوف",
+              "english": "Standing at Arafat"
+            },
+            "content": {
+              "urdu": [
+                "وقوفِ عرفات حج کا سب سے بڑا رکن ہے، اور پورے میدانِ عرفات میں کہیں بھی قیام کرنا جائز ہے۔",
+                "لوگوں کا 'جبلِ رحمت' پر چڑھنے کے لیے مشقت اٹھانا سنت کے خلاف اور غیر ضروری ہے۔",
+                "نبی ﷺ نے صخرات (بڑے پتھروں) کے پاس قیام کیا تھا مگر اسے پورے میدان کے لیے عام کر دیا۔"
+              ],
+              "english": [
+                "Standing at Arafat is the primary pillar of Hajj, and staying anywhere within its boundaries is valid.",
+                "Exerting extreme effort to climb 'Jabal al-Rahmah' is unnecessary and not specifically mandated by Sunnah.",
+                "The Prophet (ﷺ) stood near the large rocks (Sakharat) but extended the permissibility to the entire plain."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "منیٰ اور مزدلفہ کے احکام",
+        "english": "Rulings of Mina and Muzdalifah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "منیٰ میں قربانی",
+              "english": "Sacrifice in Mina"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے منیٰ کے کسی بھی حصے میں قربانی کرنے کی اجازت دے کر حاجیوں کا بوجھ ہلکا کر دیا۔",
+                "اپنے خیموں یا قیام گاہوں کے قریب ذبح کرنا سنت کی رو سے بالکل درست ہے۔",
+                "آج کے دور میں ذبح خانوں (مذبح) کا منیٰ کی حدود میں ہونا اسی اصول پر مبنی ہے۔"
+              ],
+              "english": [
+                "By allowing sacrifice in any part of Mina, the Prophet (ﷺ) lightened the burden on pilgrims.",
+                "Slaughtering near one's tents or lodgings is perfectly valid according to the Sunnah.",
+                "Modern slaughterhouses being located within Mina's boundaries is based on this very principle."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مزدلفہ (جمع) کا قیام",
+              "english": "Standing at Muzdalifah (Jam')"
+            },
+            "content": {
+              "urdu": [
+                "مزدلفہ کو 'جمع' اس لیے کہتے ہیں کیونکہ یہاں مغرب اور عشاء کی نمازیں جمع کی جاتی ہیں۔",
+                "مشعرِ حرام کے پاس رکنا افضل ہے، لیکن اگر وہاں جگہ نہ ہو تو پورے مزدلفہ میں کہیں بھی ٹھہرا جا سکتا ہے۔",
+                "فجر کے بعد طلوعِ آفتاب تک مزدلفہ میں رہنا اور دعا کرنا وقوفِ مزدلفہ کا حصہ ہے۔"
+              ],
+              "english": [
+                "Muzdalifah is called 'Jam' because Maghrib and Isha prayers are combined there.",
+                "Staying near al-Mash'ar al-Haram is superior, but staying anywhere in Muzdalifah is valid if it's crowded.",
+                "Remaining in Muzdalifah after Fajr until sunrise for supplication is part of the required standing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و تربیتی نکات",
+        "english": "Juristic and Educational Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جغرافیائی حدود کی اہمیت",
+              "english": "Importance of Geographical Boundaries"
+            },
+            "content": {
+              "urdu": [
+                "حاجی کو چاہیے کہ وہ عرفات، منیٰ اور مزدلفہ کی حدود کا پتا رکھے تاکہ اس کی عبادت صحیح ہو سکے۔",
+                "وادیِ محسر (مزدلفہ کے پاس) اور وادیِ عرنہ (عرفات کے پاس) وقوف کے لیے جائز نہیں ہیں۔",
+                "حدود کے اندر رہنا فرض ہے، جبکہ مخصوص جگہ کا تعین مستحب ہے۔"
+              ],
+              "english": [
+                "A pilgrim must know the boundaries of Arafat, Mina, and Muzdalifah to ensure their rituals are valid.",
+                "Wadi Muhassir (near Muzdalifah) and Wadi Urana (near Arafat) are excluded from the valid standing areas.",
+                "Staying within the boundaries is mandatory, while seeking a specific spot is merely recommended."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا صحیح فہم",
+              "english": "Correct Understanding of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سنت صرف نبی ﷺ کے فعل کا نام نہیں بلکہ ان کی دی گئی رخصتوں پر عمل کرنا بھی سنت ہے۔",
+                "جہاں ہجوم سے فتنہ یا تکلیف کا اندیشہ ہو، وہاں وسعت پر عمل کرنا ہی اصل دین ہے۔",
+                "دین میں غلو (سختی) کرنا اکثر انسان کو سنت کی روح سے دور کر دیتا ہے۔"
+              ],
+              "english": [
+                "Sunnah is not just the Prophet's physical actions but also acting upon the concessions he granted.",
+                "Where crowding poses a risk of strife or harm, utilizing the spaciousness is the true essence of religion.",
+                "Extremism (Ghuluw) in religious matters often distances a person from the spirit of the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انتظامی حکمتِ عملی",
+              "english": "Administrative Strategy"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ظاہر کرتی ہے کہ اسلام نے چودہ سو سال پہلے ہی ہجوم کے انتظام (Crowd Management) کے اصول وضع کر دیے تھے۔",
+                "قائدین اور ذمہ داروں کو چاہیے کہ وہ عوام کے لیے متبادل راستے اور جگہیں فراہم کریں۔",
+                "نظام کو آسان بنانا نبوی منہاج کا حصہ ہے۔"
+              ],
+              "english": [
+                "This Hadith shows that Islam established principles of crowd management 1,400 years ago.",
+                "Leaders and administrators should provide alternative routes and spaces for the public.",
+                "Simplifying systems and procedures is part of the Prophetic methodology."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی خیر خواہی",
+              "english": "Mutual Well-wishing"
+            },
+            "content": {
+              "urdu": [
+                "حج کے دوران دوسروں کو جگہ دینا اور تنگی سے بچانا بہت بڑا اجر رکھتا ہے۔",
+                "ایک حاجی کو اپنی عبادت کی خاطر دوسروں کی جان یا سکون خطرے میں نہیں ڈالنا چاہیے۔",
+                "وسعتِ قلبی اور وسعتِ ظرف ہی ایک مقبول حج کی نشانی ہے۔"
+              ],
+              "english": [
+                "Providing space to others and preventing congestion during Hajj carries great reward.",
+                "A pilgrim should not endanger others' lives or peace for the sake of their own preferred worship spot.",
+                "Magnanimity and a broad perspective are signs of an accepted (Mabrur) Hajj."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "hadithId": 361,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:869"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام - كتاب الصلاة",
+    "babId": 22
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (869)، وأحمد (18282)، والدارمي (1564).",
+    "urdu": "صحیح روایت ہے۔ اسے امام مسلم (869) نے روایت کیا ہے، نیز امام احمد اور دارمی نے بھی اسے اپنی کتب میں درج کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (869), Ahmad (18282), and ad-Darimi (1564)."
+  },
+  "importantWords": [
+    {
+      "arabic": "طُولَ",
+      "english": "Length / Long",
+      "urdu": "لمبائی / طویل"
+    },
+    {
+      "arabic": "قِصَرَ",
+      "english": "Shortness",
+      "urdu": "مختصر ہونا"
+    },
+    {
+      "arabic": "خُطْبَتِهِ",
+      "english": "His sermon",
+      "urdu": "اس کا خطبہ"
+    },
+    {
+      "arabic": "مَئِنَّةٌ",
+      "english": "Sign / Indicator",
+      "urdu": "نشانی / علامت"
+    },
+    {
+      "arabic": "فِقْهِهِ",
+      "english": "His understanding",
+      "urdu": "اس کی سمجھ بوجھ"
+    },
+    {
+      "arabic": "البيان",
+      "english": "Eloquence",
+      "urdu": "بیان / فصاحت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں خطبہ جمعہ کو مختصر رکھنے اور نماز کو طویل (سنت کے مطابق) کرنے کی ترغیب دی گئی ہے، جو خطیب کی علمی پختگی کی دلیل ہے۔",
+    "english": "This Hadith encourages keeping the Friday sermon short and the prayer relatively long, which indicates the preacher's deep religious knowledge."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (869)",
+      "english": "Sahih Muslim (869)"
+    },
+    {
+      "arabic": "مسند أحمد (18282)",
+      "english": "Musnad Ahmad (18282)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمار بن ياسر رضي الله عنهما",
+        "english": "Ammar bin Yasir"
+      },
+      "slug": "ammar-bin-yasir"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOfR8P2lT88",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خطبہ اور نماز میں توازن",
+        "english": "Balance between Sermon and Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختصر خطبہ کی اہمیت",
+              "english": "Importance of Short Sermons"
+            },
+            "content": {
+              "urdu": [
+                "جامع اور مختصر خطبہ سامعین کے لیے یاد رکھنا آسان ہوتا ہے۔",
+                "طویل کلام سے اکثر لوگ اکتا جاتے ہیں اور اصل مقصد فوت ہو جاتا ہے۔",
+                "نبی کریم صلی اللہ علیہ وسلم کا کلام ہمیشہ نپا تلا اور بااثر ہوتا تھا۔"
+              ],
+              "english": [
+                "A concise and comprehensive sermon is easier for the audience to remember.",
+                "Long speeches often lead to boredom and the main message is lost.",
+                "The Prophet's (ﷺ) speech was always measured, precise, and highly impactful."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کو طویل کرنا",
+              "english": "Lengthening the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نماز اللہ سے مناجات ہے، اس لیے اسے خطبے کی نسبت طویل ہونا چاہیے۔",
+                "یہاں طوالت سے مراد سنت کے مطابق مسنون سورتوں کی تلاوت ہے۔",
+                "نماز میں خشوع و خضوع علم اور ایمان کی پختگی کی علامت ہے۔"
+              ],
+              "english": [
+                "Prayer is a private conversation with Allah, so it should be longer than the sermon.",
+                "Length here refers to reciting the Sunnah-prescribed Surahs during the prayer.",
+                "Humility and focus during prayer are signs of deep knowledge and firm faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقاہت کی پہچان",
+        "english": "Sign of Religious Understanding"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علمی گہرائی کا ثبوت",
+              "english": "Proof of Intellectual Depth"
+            },
+            "content": {
+              "urdu": [
+                "کم الفاظ میں بڑی بات کہنا ایک عظیم علمی صلاحیت ہے۔",
+                "ایک فقیہ جانتا ہے کہ کن باتوں پر زور دینا اور کیا چھوڑنا ہے۔",
+                "خطبے کا اختصار یہ ظاہر کرتا ہے کہ خطیب کو دین کی بنیادوں کا علم ہے۔"
+              ],
+              "english": [
+                "Conveying profound meanings in few words is a great intellectual skill.",
+                "A jurist knows exactly which points to emphasize and what to omit.",
+                "Sermon brevity shows that the preacher understands the core principles of Deen."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیان کی تاثیر",
+              "english": "The Impact of Eloquence"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے دوسرے حصے میں بیان کی تاثیر کو جادو سے تشبیہ دی گئی ہے۔",
+                "مؤثر بیان لوگوں کے دلوں کو نیکی کی طرف مائل کر دیتا ہے۔",
+                "ایک عالم اپنی زبان سے لوگوں کی اصلاح کا کام بخوبی انجام دیتا ہے۔"
+              ],
+              "english": [
+                "The second part of the narration likens eloquent speech to magic.",
+                "Effective speech has the power to incline hearts toward righteousness.",
+                "A scholar utilizes their eloquence to effectively reform and guide people."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خطیب کے لیے ہدایات",
+        "english": "Guidelines for the Preacher"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لوگوں کی رعایت",
+              "english": "Consideration for the People"
+            },
+            "content": {
+              "urdu": [
+                "خطیب کو چاہیے کہ وہ مقتدیوں کی حالت اور ضرورت کا خیال رکھے۔",
+                "بلا ضرورت طوالت لوگوں کو دین سے دور کرنے کا باعث بن سکتی ہے۔",
+                "سنتِ نبوی پر عمل کرنے میں ہی دونوں جہاں کی خیر اور برکت ہے۔"
+              ],
+              "english": [
+                "The preacher must consider the condition and needs of the congregation.",
+                "Unnecessary length can potentially push people away from the religion.",
+                "There is goodness and blessing in following the Prophetic Sunnah strictly."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جامع کلمات کا انتخاب",
+              "english": "Selection of Comprehensive Words"
+            },
+            "content": {
+              "urdu": [
+                "خطبے میں قرآنی آیات اور احادیثِ مبارکہ کا زیادہ استعمال کرنا چاہیے۔",
+                "سادگی اور صفائی کے ساتھ بات پہنچانا زیادہ نفع بخش ہوتا ہے۔",
+                "پیچیدہ علمی مباحث کے بجائے عملی زندگی کے مسائل پر توجہ دیں۔"
+              ],
+              "english": [
+                "The sermon should feature frequent use of Quranic verses and Hadiths.",
+                "Delivering the message with simplicity and clarity is more beneficial.",
+                "Focus on practical life issues rather than complex academic debates."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و تربیتی پہلو",
+        "english": "Educational and Reformative Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علم نافع کی طلب",
+              "english": "Seeking Beneficial Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "حقیقی علم وہ ہے جو انسان کے عمل اور بیان میں نظر آئے۔",
+                "فقاہت صرف معلومات کا نام نہیں بلکہ حکمت کا نام بھی ہے۔",
+                "صحابہ کرام نے اسی حکمت کو براہِ راست نبی کریم سے سیکھا تھا۔"
+              ],
+              "english": [
+                "True knowledge is that which is reflected in one's actions and speech.",
+                "Understanding (Fiqh) is not just information; it is the essence of wisdom.",
+                "The Companions learned this specific wisdom directly from the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی اہمیت",
+              "english": "Importance of Time"
+            },
+            "content": {
+              "urdu": [
+                "خطبہ مختصر رکھنے سے لوگوں کے وقت کی بچت اور رعایت ہوتی ہے۔",
+                "دین اسلام وقت کی قدردانی اور دوسروں کے آرام کا درس دیتا ہے۔",
+                "نظم و ضبط اور اعتدال ہر اسلامی عمل کی روح میں شامل ہے۔"
+              ],
+              "english": [
+                "Keeping the sermon short saves time and shows respect for the audience.",
+                "Islam teaches the value of time and consideration for others' comfort.",
+                "Discipline and moderation are ingrained in the spirit of every Islamic act."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "hadithId": 64,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 3 (Chapter 6)"],
+    "kitabId": 1,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب حكم المذي",
+    "babId": 6
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه البخاري (178) ، ومسلم (303) . ",
+    "urdu": "صحیح (درجہ)۔ اسے بخاری (178) اور مسلم (303) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bukhari (178) and Muslim (303)."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَذَّاءً",
+      "english": "Suffered from Madhī (excessively)",
+      "urdu": "مذی کے خارج ہونے کا مریض"
+    },
+    {
+      "arabic": "اَلْمِقْدَادَ بْنَ اَلْأَسْوَدِ",
+      "english": "Al-Miqdād ibn Al-Aswad",
+      "urdu": "مقداد بن اسود"
+    },
+    {
+      "arabic": "فَسَأَلَهُ",
+      "english": "So he asked him",
+      "urdu": "اس نے آپ سے دریافت کیا"
+    },
+    {
+      "arabic": "فِيهِ اَلْوُضُوءُ",
+      "english": "It requires Wudu",
+      "urdu": "ایسی حالت میں وضو ہی ہے"
+    },
+    {
+      "arabic": "رَجُلاً",
+      "english": "A man",
+      "urdu": "ایک شخص"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ **مذی (pre-seminal fluid)** کے خارج ہونے سے صرف **وضو** ٹوٹتا ہے، اور اس کے لیے **غسل** کرنا فرض نہیں، اس طرح یہ وضو اور غسل کے احکام میں بنیادی فرق کو واضح کرتی ہے۔",
+    "english": "This Hadith clarifies that the discharge of **Madhī (pre-seminal fluid)** only invalidates Wudu (minor impurity) and does not necessitate Ghusl (major ablution), thus establishing a fundamental distinction between major and minor forms of impurity."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب العلم، رقم 178",
+      "english": "Sahih Al-Bukhari, The Book of Knowledge, Hadith 178"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الحيض، رقم 303",
+      "english": "Sahih Muslim, The Book of Menstruation, Hadith 303"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Ali ibn Abī Ṭālib (May Allah be pleased with him)"
+      },
+      "slug": "ali-ibn-abi-talib"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "اَلْمِقْدَادَ بْنَ اَلْأَسْوَدِ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Al-Miqdād ibn Al-Aswad (May Allah be pleased with him)"
+      },
+      "slug": "al-miqdad-ibn-al-aswad"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-42-ruling-on-madhi",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Agreed Upon (by Bukhari and Muslim)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مذی کا حکم اور طہارت",
+        "english": "The Ruling and Purity of Madhī"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مذی کی تعریف",
+              "english": "Definition of Madhī"
+            },
+            "content": {
+              "urdu": [
+                "**مذی** ایک پتلا، سفید یا شفاف مادہ ہے جو جنسی خواہش کے وقت، بغیر شہوت کے کودنے کے، شرمگاہ سے خارج ہوتا ہے اور اسے **نجاست** سمجھا جاتا ہے۔",
+                "نبی اکرم ﷺ نے واضح فرما دیا کہ مذی کے خارج ہونے کی صورت میں صرف **وضو** کرنا فرض ہے، جو حدثِ اصغر کا حکم ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ مذی منی (سیمن) کے حکم سے مختلف ہے، جس کے اخراج سے غسلِ جنابت فرض ہوتا ہے۔"
+              ],
+              "english": [
+                "**Madhī** is a thin, clear or whitish fluid discharged from the genitals during sexual arousal without ejaculation, and it is considered ritually **impure**.",
+                "The Prophet (ﷺ) explicitly ruled that the discharge of Madhī requires only **Wudu**, placing it under the ruling of minor impurity (*ḥadath aṣghar*).",
+                "This ruling proves that Madhī differs from *Manī* (semen), the discharge of which necessitates *Ghusl* (major ritual bath)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مذی کے لیے وضو کا حکم",
+              "english": "Wudu is Sufficient for Madhī"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے فرمان **\"فِيهِ اَلْوُضُوءُ\"** سے یہ ثابت ہوتا ہے کہ مذی کے اخراج کی صورت میں صرف طہارتِ صغریٰ (وضو) کی ضرورت ہے، طہارتِ کبریٰ (غسل) کی نہیں۔",
+                "اس کے ساتھ ساتھ، جس جگہ پر مذی لگی ہو (جیسے لباس یا بدن)، اس جگہ کو دھونا (استنجاء) بھی واجب ہے، کیونکہ یہ نجس ہے۔",
+                "یہ حکم مسلمانوں کے لیے آسانی پیدا کرتا ہے، کیونکہ مذی کا اخراج اکثر ہوتا ہے اور ہر بار غسل کرنا مشقت کا باعث ہو گا۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) statement **'It requires Wudu'** proves that the discharge of Madhī necessitates only minor purification (Wudu), not major purification (Ghusl).",
+                "In addition to Wudu, it is also obligatory to wash the area where the Madhī has touched (body or clothing), as the fluid itself is ritually impure (*najis*).",
+                "This ruling provides ease for Muslims, as Madhī is frequently discharged, and requiring Ghusl each time would cause undue hardship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحابی کا سوال اور شرم و حیا",
+        "english": "The Companion's Question and Modesty"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیدنا علیؓ کی شرم و حیا",
+              "english": "Ali's Modesty (Ḥayā')"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی رضی اللہ عنہ کا خود نبی ﷺ سے سوال نہ کرنا بلکہ مقداد بن اسود رضی اللہ عنہ کو بھیجنا ان کی **شرم و حیا (Ḥayā')** کی شدت کو ظاہر کرتا ہے۔",
+                "علیؓ چونکہ نبی ﷺ کے داماد تھے اور مسئلہ ذاتی اور نازک تھا، اس لیے انہوں نے براہ راست پوچھنا مناسب نہیں سمجھا۔",
+                "یہ واقعہ اس بات کی تعلیم دیتا ہے کہ دینی مسائل دریافت کرتے وقت حیا ضروری ہے، لیکن حیا کو علم حاصل کرنے میں رکاوٹ نہیں بننا چاہیے۔"
+              ],
+              "english": [
+                "Sayyiduna Ali's (RA) decision to send Al-Miqdād (RA) instead of asking the Prophet (ﷺ) directly shows his intense sense of **modesty (Ḥayā')**.",
+                "As the Prophet's son-in-law, Ali (RA) considered the issue personal and delicate, which made him reluctant to ask directly.",
+                "This incident teaches that while modesty is essential when seeking religious knowledge, it should never prevent one from ultimately obtaining that knowledge."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مقدادؓ کی خدمت",
+              "english": "The Service of Al-Miqdād (RA)"
+            },
+            "content": {
+              "urdu": [
+                "حضرت علیؓ کا مقدادؓ کو بھیجنا اور مقدادؓ کا جا کر نبی ﷺ سے مسئلہ دریافت کرنا اس بات کی دلیل ہے کہ صحابہ کرام علم کے حصول میں مدد کرتے تھے۔",
+                "مقدادؓ نے اس خدمت کو بخوبی انجام دیا، جس سے ایک اہم فقہی مسئلہ ہمیشہ کے لیے حل ہو گیا اور امت کو آسانی حاصل ہوئی۔",
+                "یہ واقعہ اس بات کی بھی دلیل ہے کہ اہم دینی مسائل کے لیے واسطہ (دوسرے سے پوچھنا) اختیار کرنا جائز ہے۔"
+              ],
+              "english": [
+                "Ali (RA) sending Miqdād (RA) to ask the Prophet (ﷺ) proves that the Companions would assist each other in seeking religious knowledge.",
+                "Miqdād (RA) fulfilled this important task well, which resolved a significant jurisprudential issue and brought ease to the entire Ummah.",
+                "This incident also establishes that it is permissible to use an intermediary to ask about important religious matters, especially if one feels modest."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مذی اور منی کا فرق",
+        "english": "Distinction Between Madhī and Manī (Semen)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناپاکی کی اقسام",
+              "english": "Categories of Impurity"
+            },
+            "content": {
+              "urdu": [
+                "منی کے اخراج سے غسل (حدث اکبر) فرض ہوتا ہے، جبکہ مذی کے اخراج سے صرف وضو (حدث اصغر) فرض ہوتا ہے، یہ ایک بنیادی فقہی فرق ہے۔",
+                "منی شہوت کی انتہا اور انزال کے ساتھ خارج ہوتی ہے، جبکہ مذی جنسی خواہش کے آغاز یا تحریک کے وقت خارج ہوتی ہے۔",
+                "اس فرق کی بنیاد پر علماء نے یہ اصول وضع کیا کہ وضو کو توڑنے والی نجاستیں ہلکی ہوتی ہیں، جبکہ غسل کو فرض کرنے والی نجاستیں شدید ہوتی ہیں۔"
+              ],
+              "english": [
+                "The discharge of *Manī* necessitates Ghusl (major impurity), while *Madhī* only requires Wudu (minor impurity); this is a core legal distinction.",
+                "Manī is discharged with the climax of desire and ejaculation, whereas Madhī is released at the beginning of sexual desire or arousal.",
+                "Based on this difference, scholars formulated the principle that impurities that break Wudu are considered minor, while those necessitating Ghusl are major."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لباس کی صفائی",
+              "english": "Cleaning the Garment"
+            },
+            "content": {
+              "urdu": [
+                "مذی اگر لباس کو لگ جائے تو اس جگہ کو دھونا واجب ہے، کیونکہ مذی نجس ہے۔",
+                "دوسری روایات میں نبی ﷺ نے صرف اس جگہ پر پانی کے چھینٹے مارنے کا حکم دیا ہے، جو اس کی نجاست کو منی سے ہلکا ظاہر کرتا ہے۔",
+                "یہ حکم مسلمان کو یاد دلاتا ہے کہ نماز کے لیے نہ صرف بدن کا پاک ہونا ضروری ہے بلکہ لباس کا پاک ہونا بھی شرط ہے۔"
+              ],
+              "english": [
+                "If Madhī touches a garment, washing that area is obligatory, as Madhī is physically impure (*najis*).",
+                "Other narrations mention the Prophet (ﷺ) commanding only to sprinkle water on the affected area, suggesting its impurity is lighter than that of urine or feces.",
+                "This ruling reminds a Muslim that for the validity of prayer, not only must the body be pure, but the clothing must also be free of impurities."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحت حدیث کی اہمیت",
+        "english": "Importance of Hadith Authenticity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "متفق علیہ حکم",
+              "english": "Agreed Upon Ruling"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ یہ حدیث بخاری اور مسلم دونوں میں موجود ہے، لہٰذا اس کا حکم (مذی سے وضو کا ٹوٹ جانا) اہل سنت والجماعت کے تمام فقہی مسالک میں **متفق علیہ** ہے۔",
+                "اس طرح، یہ حکم مذی سے متعلق شرعی اصولوں کے لیے سب سے زیادہ قوی اور قطعی دلیل ہے۔",
+                "مسلمان کو چاہیے کہ وہ اس صحیح اور واضح حکم پر عمل کرے اور غیر یقینی صورتحال سے بچے۔"
+              ],
+              "english": [
+                "Since this Hadith is found in both Al-Bukhari and Muslim, its ruling (Madhī breaking Wudu) is **Agreed Upon (Muttafaqun 'Alayh)** among all schools of Fiqh of the Ahl as-Sunnah.",
+                "Thus, this ruling stands as the strongest and most definitive proof for the legal principles concerning Madhī.",
+                "A Muslim should act upon this authentic and clear ruling and avoid uncertainty in their worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کی شرط",
+              "english": "Condition for Prayer"
+            },
+            "content": {
+              "urdu": [
+                "مذی کا اخراج نماز کے لیے ایک **ناقضِ وضو** ہے، اس لیے اس کے بعد وضو کیے بغیر نماز پڑھنا باطل ہو گا۔",
+                "یہ حدیث ایک بار پھر اس بات کی تاکید کرتی ہے کہ نماز کی قبولیت کے لیے طہارت شرط ہے، اور کوئی بھی حدث اس شرط کو ختم کر دیتا ہے۔",
+                "یہ حکم مسلمان کو اس بات کی ترغیب دیتا ہے کہ وہ ہمیشہ طہارت کی حالت میں رہے اور حدث کے بعد فوراً وضو کرے۔"
+              ],
+              "english": [
+                "The discharge of Madhī is an **invalidator of Wudu**, so praying without renewing Wudu after its occurrence invalidates the prayer.",
+                "This Hadith emphasizes again that ritual purity is a condition for the acceptance of prayer, and any *ḥadath* removes this condition.",
+                "This ruling motivates the Muslim to always remain in a state of purity and to renew their Wudu immediately after any *ḥadath*."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

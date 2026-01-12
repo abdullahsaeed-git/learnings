@@ -1,0 +1,259 @@
+{
+  "hadithId": 1301,
+  "hadithNo": 25,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:6056", "muslim:105"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الأدب",
+    "babId": 105
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6056)، ومسلم (105). والقتات هو النمام الذي ينقل الكلام بين الناس على وجه الإفساد.",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (6056) اور امام مسلم (105) نے روایت کیا ہے۔ 'قتات' سے مراد وہ چغل خور ہے جو لوگوں میں فساد ڈالنے کی نیت سے باتیں ادھر ادھر کرتا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6056) and Muslim (105). A 'Qattat' is a talebearer who conveys words between people to cause mischief."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَدْخُلُ",
+      "english": "Will not enter",
+      "urdu": "داخل نہیں ہوگا"
+    },
+    {
+      "arabic": "الْجَنَّةَ",
+      "english": "Paradise",
+      "urdu": "جنت"
+    },
+    {
+      "arabic": "قَتَّاتٌ",
+      "english": "Talebearer / Slanderer",
+      "urdu": "چغل خور"
+    },
+    {
+      "arabic": "النَّمَّام",
+      "english": "Mischief-maker",
+      "urdu": "فسادی"
+    },
+    {
+      "arabic": "الإِفْسَاد",
+      "english": "Causing corruption",
+      "urdu": "فساد پھیلانا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث چغلی کی سنگینی کو بیان کرتی ہے کہ لوگوں کے درمیان فساد پیدا کرنے کے لیے باتیں ادھر ادھر کرنا انسان کو جنت سے محروم کر دیتا ہے۔",
+    "english": "This Hadith highlights the gravity of talebearing, stating that conveying words to cause discord among people leads to deprivation of Paradise."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6056)",
+      "english": "Sahih al-Bukhari (6056)"
+    },
+    {
+      "arabic": "صحيح مسلم (105)",
+      "english": "Sahih Muslim (105)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حذيفة بن اليمان",
+        "english": "Hudhaifah bin al-Yaman"
+      },
+      "slug": "hudhaifah-bin-al-yaman"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "چغلی کی حقیقت اور ممانعت",
+        "english": "The Reality and Prohibition of Talebearing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چغلی (نمیمہ) کا مفہوم",
+              "english": "Definition of Talebearing"
+            },
+            "content": {
+              "urdu": [
+                "چغلی سے مراد ایک کی بات دوسرے کو فساد ڈالنے کی نیت سے پہنچانا ہے۔",
+                "قتات اور نمام میں فرق یہ ہے کہ قتات چھپ کر باتیں سن کر پھیلاتا ہے۔",
+                "یہ عمل اخلاقی طور پر انتہائی پستی اور بزدلی کی علامت ہے۔"
+              ],
+              "english": [
+                "Talebearing means conveying someone's words to others to cause conflict.",
+                "A 'Qattat' specifically refers to one who eavesdrops and spreads secrets.",
+                "This act is a sign of extreme moral degradation and cowardice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنت سے محرومی کی وعید",
+              "english": "Warning of Deprivation from Paradise"
+            },
+            "content": {
+              "urdu": [
+                "جنت میں نہ داخل ہونے کا مطلب یہ ہے کہ وہ سزا بھگتے بغیر نہ جائے گا۔",
+                "چغلی کبیرہ گناہوں میں سے ہے جو انسان کے نیک اعمال کو کھا جاتی ہے۔",
+                "یہ وعید اس گناہ کی سنگینی اور اللہ کی ناراضگی کو ظاہر کرتی ہے۔"
+              ],
+              "english": [
+                "Not entering Paradise implies facing severe punishment before entry.",
+                "Talebearing is a major sin that nullifies a person's good deeds.",
+                "This warning reflects the gravity of the sin and Allah's displeasure."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی تباہی",
+        "english": "Social Destruction"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی تعلقات کا بگاڑ",
+              "english": "Ruin of Mutual Relationships"
+            },
+            "content": {
+              "urdu": [
+                "چغلی خاندانوں، دوستوں اور معاشرے میں دراڑیں ڈالنے کا سبب بنتی ہے۔",
+                "اس سے باہمی اعتماد ختم ہو جاتا ہے اور نفرتوں کو فروغ ملتا ہے۔",
+                "ایک چغل خور پورے معاشرے کے امن و سکون کو برباد کر دیتا ہے۔"
+              ],
+              "english": [
+                "Talebearing causes rifts between families, friends, and communities.",
+                "It destroys mutual trust and promotes deep-seated hatred.",
+                "A single talebearer can ruin the peace and tranquility of an entire society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فتنہ و فساد کی جڑ",
+              "english": "Root of Fitnah"
+            },
+            "content": {
+              "urdu": [
+                "تاریخ گواہ ہے کہ چغلی کی وجہ سے خونی جنگیں اور فسادات ہوئے ہیں۔",
+                "چغل خور شیطان کا ایجنٹ بن کر لوگوں کو آپس میں لڑواتا ہے۔",
+                "اس برائی کو روکنا معاشرتی استحکام کے لیے نہایت ضروری ہے۔"
+              ],
+              "english": [
+                "History shows that talebearing has caused bloody wars and riots.",
+                "A talebearer acts as an agent of Satan by inciting people to fight.",
+                "Curbing this evil is essential for the stability of any society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی تعلیمات اور احتیاط",
+        "english": "Islamic Teachings and Precaution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت",
+              "english": "Guarding the Tongue"
+            },
+            "content": {
+              "urdu": [
+                "مومن کی زبان ہمیشہ خیر اور بھلائی کے کلمات نکالتی ہے۔",
+                "زبان کا کنٹرول انسان کو قبر اور جہنم کے عذاب سے بچاتا ہے۔",
+                "نبی ﷺ نے فرمایا کہ قبر کے عذاب کا ایک بڑا سبب چغلی ہے۔"
+              ],
+              "english": [
+                "A believer's tongue always utters words of goodness and benefit.",
+                "Controlling the tongue saves one from the punishment of the grave.",
+                "The Prophet (ﷺ) noted talebearing as a major cause of grave torment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "چغل خور کی بات کی تحقیق",
+              "english": "Verifying a Talebearer's Words"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کا حکم ہے کہ جب کوئی فاسق خبر لائے تو اس کی تحقیق کرو۔",
+                "کسی کی بات پر بغیر تصدیق کے یقین کر لینا نادانی ہے۔",
+                "چغل خور کی بات سن کر کسی کے خلاف قدم اٹھانا گناہ ہے۔"
+              ],
+              "english": [
+                "The Quran commands us to verify news brought by a wicked person.",
+                "Believing someone's words without verification is a mark of ignorance.",
+                "Acting against someone based on a talebearer's report is sinful."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اصلاح اور توبہ",
+        "english": "Practical Reform and Repentance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چغلی سننے سے انکار",
+              "english": "Refusing to Listen"
+            },
+            "content": {
+              "urdu": [
+                "جب کوئی کسی کی برائی کرے تو اسے وہیں روک دینا مومن کا کام ہے۔",
+                "برائی کو سننا بھی اس گناہ میں شریک ہونے کے مترادف ہے۔",
+                "اپنے کانوں کو لغو اور فسادی باتوں سے پاک رکھنا ضروری ہے۔"
+              ],
+              "english": [
+                "A believer should stop someone immediately if they start talebearing.",
+                "Listening to evil is akin to participating in the sin itself.",
+                "It is vital to keep one's ears pure from vain and disruptive talk."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تلافی اور معافی",
+              "english": "Atonement and Forgiveness"
+            },
+            "content": {
+              "urdu": [
+                "اگر چغلی کی ہو تو اللہ سے معافی مانگیں اور فساد کو دور کریں۔",
+                "جس شخص کی چغلی کی گئی ہے اس سے معافی مانگنا لازمی ہے۔",
+                "لوگوں کے درمیان صلح کروانا چغلی کے گناہ کا بہترین کفارہ ہے۔"
+              ],
+              "english": [
+                "If you have committed talebearing, seek Allah's mercy and resolve the conflict.",
+                "It is mandatory to seek forgiveness from the person you spoke about.",
+                "Reconciling people is the best atonement for the sin of talebearing."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

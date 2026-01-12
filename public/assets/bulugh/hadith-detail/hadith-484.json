@@ -1,0 +1,257 @@
+{
+  "hadithId": 484,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:1454"
+    ],
+    "kitabId": 4,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 29
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري في كتاب الزكاة (1454). وهو العمدة في باب مقادير الزكاة ونصاب الإبل والغنم والفضة.",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری نے اسے (1454) پر روایت کیا ہے۔ یہ حدیث زکوٰۃ کے نصاب، مقدار اور اونٹ، بکری و چاندی کی زکوٰۃ کے تفصیلی احکام میں بنیادی ماخذ ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1454). It is the primary reference for the specific amounts (Nisab) and rates of Zakat for camels, sheep, and silver."
+  },
+  "importantWords": [
+    {
+      "arabic": "بِنْتُ مَخَاضٍ",
+      "english": "One-year-old she-camel",
+      "urdu": "ایک سالہ اونٹنی"
+    },
+    {
+      "arabic": "حِقَّةٌ",
+      "english": "Three-year-old she-camel",
+      "urdu": "تین سالہ اونٹنی"
+    },
+    {
+      "arabic": "سَائِمَةُ",
+      "english": "Pasturing animals",
+      "urdu": "چرنے والے جانور"
+    },
+    {
+      "arabic": "الرِّقَةِ",
+      "english": "Silver currency",
+      "urdu": "چاندی / چاندی کے سکے"
+    },
+    {
+      "arabic": "رُبُعُ اَلْعُشْرِ",
+      "english": "One-fortieth (2.5%)",
+      "urdu": "چالیسواں حصہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس طویل حدیث میں اونٹوں، بکریوں اور چاندی کی زکوٰۃ کا مکمل نصاب اور شرح بیان کی گئی ہے، ساتھ ہی زکوٰۃ سے بچنے کے لیے مال میں ہیرا پھیری کرنے سے روکا گیا ہے۔",
+    "english": "This detailed Hadith outlines the Nisab (minimum thresholds) and rates for Zakat on camels, sheep, and silver, while prohibiting fraudulent manipulation of assets to evade payment."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1454)",
+      "english": "Sahih al-Bukhari (1454)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2fF_R_AAnM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مویشیوں کی زکوٰۃ کا نصاب",
+        "english": "Nisab for Livestock"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اونٹوں کی زکوٰۃ",
+              "english": "Zakat on Camels"
+            },
+            "content": {
+              "urdu": [
+                "5 اونٹوں سے کم پر زکوٰۃ نہیں، ہر 5 پر ایک بکری واجب ہوتی ہے۔",
+                "اونٹوں کی تعداد بڑھنے کے ساتھ واجب ہونے والے جانور کی عمر اور قسم بدلتی جاتی ہے۔",
+                "اگر مطلوبہ عمر کا جانور نہ ہو تو نقد رقم یا متبادل جانور کے ذریعے تلافی کی جا سکتی ہے۔"
+              ],
+              "english": [
+                "There is no Zakat on fewer than 5 camels; for every 5, one sheep is due.",
+                "As the number of camels increases, the required age and type of the she-camel change.",
+                "If the specific age is unavailable, adjustments can be made with cash or other animals."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بکریوں کی زکوٰۃ",
+              "english": "Zakat on Sheep/Goats"
+            },
+            "content": {
+              "urdu": [
+                "بکریوں کا نصاب 40 سے شروع ہوتا ہے، 40 سے کم پر زکوٰۃ واجب نہیں۔",
+                "زکوٰۃ صرف ان جانوروں پر ہے جو سال کا اکثر حصہ باہر چرتے ہوں (سائمہ)۔",
+                "گھر میں پالے جانے والے اور چارہ کھلائے جانے والے جانوروں پر عام حالات میں زکوٰۃ نہیں۔"
+              ],
+              "english": [
+                "The threshold for sheep starts at 40; fewer than that is exempt.",
+                "Zakat is only due on animals that pasture freely for most of the year (Sa'imah).",
+                "Stall-fed animals kept at home are generally not subject to these specific livestock rates."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مالی دیانت اور ہیرا پھیری کی ممانعت",
+        "english": "Financial Integrity and Prohibition of Evasion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زکوٰۃ سے بچنے کے حربے",
+              "english": "Tactics to Evade Zakat"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ کم کرنے کے لیے اپنے مال کو دوسروں کے ساتھ ملانا یا الگ کرنا حرام ہے۔",
+                "دین میں دھوکہ دہی کی کوئی جگہ نہیں، خاص طور پر اللہ کے فرائض کے معاملے میں۔",
+                "مشترکہ مال میں شرکاء اپنی اپنی ملکیت کے حساب سے زکوٰۃ ادا کریں گے۔"
+              ],
+              "english": [
+                "It is forbidden to merge or divide property specifically to reduce the Zakat due.",
+                "There is no room for deception in religion, especially regarding divine obligations.",
+                "Partners in shared property must contribute to Zakat proportionally to their shares."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مال کی کوالٹی",
+              "english": "Quality of the Asset"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ میں عیب دار، بہت بوڑھا یا بیمار جانور دینا جائز نہیں ہے۔",
+                "مالک کو چاہیے کہ وہ درمیانی درجے کا مال اللہ کی راہ میں پیش کرے۔",
+                "وصول کرنے والے کو بھی حق نہیں کہ وہ لوگوں کا بہترین (عمدہ) مال زبردستی لے۔"
+              ],
+              "english": [
+                "Defective, extremely old, or diseased animals are not accepted as Zakat.",
+                "The owner should offer average-quality assets in the way of Allah.",
+                "The collector has no right to forcibly take the most prized/precious assets."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "چاندی اور نقدی کی زکوٰۃ",
+        "english": "Zakat on Silver and Cash"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چاندی کا نصاب",
+              "english": "Nisab for Silver"
+            },
+            "content": {
+              "urdu": [
+                "چاندی کا نصاب 200 درہم (ساڑھے 52 تولہ) مقرر کیا گیا ہے۔",
+                "زکوٰۃ کی شرح 2.5 فیصد یعنی چالیسواں حصہ ہے۔",
+                "اگر مال نصاب سے کم ہو تو مالک کی مرضی ہے، شرعاً ادائیگی لازم نہیں۔"
+              ],
+              "english": [
+                "The Nisab for silver is fixed at 200 Dirhams (approx. 612 grams).",
+                "The rate of Zakat is 2.5%, which is one-fortieth of the total value.",
+                "If the wealth is below Nisab, payment is voluntary, not legally mandatory."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نقدی پر اطلاق",
+              "english": "Application to Cash"
+            },
+            "content": {
+              "urdu": [
+                "موجودہ دور کی کرنسی اور نوٹوں پر بھی چاندی یا سونے کے نصاب کا اطلاق ہوتا ہے۔",
+                "جمہور کے نزدیک چاندی کا نصاب غریبوں کے حق میں زیادہ بہتر اور محتاط ہے۔",
+                "مال پر ایک سال گزرنا زکوٰۃ کے وجوب کے لیے بنیادی شرط ہے۔"
+              ],
+              "english": [
+                "Modern currency and notes follow the thresholds established for silver or gold.",
+                "Many scholars prefer using the silver threshold as it benefits the poor more.",
+                "One lunar year must pass over the wealth for Zakat to become obligatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نظامِ زکوٰۃ کی اہمیت",
+        "english": "Importance of the Zakat System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ریاستی انتظام",
+              "english": "State Management"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوبکر صدیق کا یہ خط ظاہر کرتا ہے کہ زکوٰۃ ایک باقاعدہ سرکاری نظام تھا۔",
+                "اسلامی ریاست زکوٰۃ کی وصولی اور تقسیم کی ذمہ دار ہے۔",
+                "نظم و ضبط کے ذریعے ہی غربت کا خاتمہ ممکن بنایا جا سکتا ہے۔"
+              ],
+              "english": [
+                "Abu Bakr's (RA) letter shows that Zakat was a formalized state system.",
+                "The Islamic state is responsible for the collection and distribution of Zakat.",
+                "Eradicating poverty is achievable only through a disciplined system."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی عدل",
+              "english": "Social Justice"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ دولت کی گردش کو یقینی بناتی ہے تاکہ وہ صرف چند ہاتھوں میں نہ رہے۔",
+                "یہ امیروں کے دلوں میں ہمدردی اور غریبوں کے دلوں میں محبت پیدا کرتی ہے۔",
+                "زکوٰۃ کا نظام معاشی استحکام اور امن کا ضامن ہے۔"
+              ],
+              "english": [
+                "Zakat ensures the circulation of wealth, preventing its concentration.",
+                "It fosters compassion in the rich and gratitude/love in the poor.",
+                "The Zakat system is a guarantor of economic stability and social peace."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

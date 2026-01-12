@@ -1,0 +1,240 @@
+{
+  "hadithId": 900,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/90"],
+    "kitabId": 8,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب النكاح",
+    "babId": 68
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (5398) ، وأبو داود (3769) ، والترمذي (1830) ، وابن ماجه (3262).",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (5398) نے اسے روایت کیا ہے۔ اس کے علاوہ ابوداؤد، ترمذی اور ابن ماجہ نے بھی اسے اپنی کتب میں درج کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5398), Abu Dawud (3769), At-Tirmidhi (1830), and Ibn Majah (3262)."
+  },
+  "importantWords": [
+    {
+      "arabic": "آكُلُ",
+      "english": "I eat",
+      "urdu": "میں کھاتا ہوں"
+    },
+    {
+      "arabic": "مُتَّكِئًا",
+      "english": "Leaning / Reclining",
+      "urdu": "ٹیک لگا کر / سہارا لے کر"
+    }
+  ],
+  "summary": {
+    "urdu": "رسول اللہ ﷺ کا معمول مبارک تھا کہ آپ ﷺ کھانا کھاتے وقت عاجزی اختیار فرماتے اور ٹیک لگا کر یا شاہانہ انداز میں بیٹھ کر کھانا پسند نہیں فرماتے تھے۔",
+    "english": "The Prophet (ﷺ) practiced humility while eating and avoided reclining or leaning, emphasizing a posture of a servant rather than a proud or extravagant person."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأطعمة، رقم الحديث ٥٣٩٨",
+      "english": "Sahih Bukhari, Book of Foods, Hadith No. 5398"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو جحيفة السوائي",
+        "english": "Abu Juhaifa al-Suwa'i"
+      },
+      "slug": "abu-juhaifa"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S-tS_V6X2Yw",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ٹیک لگا کر کھانے کی ممانعت اور مفہوم",
+        "english": "Meaning and Prohibition of Leaning While Eating"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ٹیک لگانے (اتکاء) کی صورتیں",
+              "english": "Forms of Leaning (Ittika')"
+            },
+            "content": {
+              "urdu": [
+                "کسی پہلو پر جھک کر یا لیٹ کر کھانا کھنا۔",
+                "پیچھے تکیہ لگا کر یا کرسی کی پشت سے ٹیک لگا کر بیٹھنا۔",
+                "ایک ہاتھ سے زمین پر سہارا لے کر بیٹھنا۔"
+              ],
+              "english": [
+                "Eating while leaning on one side or reclining.",
+                "Sitting with the back against a pillow or a chair's backrest.",
+                "Supporting oneself with one hand on the ground while eating."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ممانعت کی وجوہات",
+              "english": "Reasons for the Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "ٹیک لگا کر کھانا متکبرین اور بادشاہوں کا انداز ہے، جبکہ رسول اللہ ﷺ نے بندگی اور عاجزی کو پسند فرمایا۔",
+                "طبی اعتبار سے ٹیک لگا کر کھانے سے نظامِ ہضم متاثر ہوتا ہے اور کھانا صحیح طرح معدے میں نہیں پہنچتا۔",
+                "اس انداز میں بیٹھنے سے انسان زیادہ کھانا کھا لیتا ہے جو کہ اسلامی تعلیمات کے خلاف ہے۔"
+              ],
+              "english": [
+                "Leaning while eating was the manner of the arrogant and kings, whereas the Prophet (ﷺ) preferred the posture of a humble servant.",
+                "Medically, reclining while eating can interfere with digestion and the proper passage of food to the stomach.",
+                "This posture often leads to overeating, which is contrary to Islamic moderation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کھانے کے نبوی آداب اور ہیئت",
+        "english": "Prophetic Manners and Posture for Eating"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسنون بیٹھنے کا طریقہ",
+              "english": "Sunnah Sitting Posture"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ عموماً دونوں گھٹنوں کے بل بیٹھ کر یا ایک ٹانگ کھڑی کر کے کھاتے تھے۔",
+                "آپ ﷺ نے فرمایا: 'میں ایک بندے کی طرح کھاتا ہوں اور بندے کی طرح بیٹھتا ہوں'۔",
+                "یہ ہیئت عاجزی کی علامت ہے اور اس سے معدے پر دباؤ رہتا ہے جس سے بھوک سے زیادہ نہیں کھایا جاتا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) usually sat on his knees or with one leg drawn up (squatting) while eating.",
+                "He (ﷺ) said: 'I eat as a servant eats and I sit as a servant sits'.",
+                "This posture signifies humility and applies slight pressure on the stomach, preventing overindulgence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دستار خوان کی اہمیت",
+              "english": "Importance of the Dining Mat (Dastarkhwan)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے کبھی میز یا اونچی جگہ پر رکھ کر کھانا نہیں کھایا، بلکہ ہمیشہ زمین پر بیٹھ کر تناول فرمایا۔",
+                "زمین پر بیٹھنا سادگی اور خاکساری کی علامت ہے جو دل سے غرور ختم کرتی ہے۔",
+                "ولیمہ یا عام دعوتوں میں بھی سادگی کو ملحوظ رکھنا برکت کا باعث ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) never ate on a table or raised platform; he always ate sitting on the ground.",
+                "Sitting on the floor is a mark of simplicity and modesty that removes pride from the heart.",
+                "Observing simplicity in Walima or general feasts brings divine blessings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور اخلاقی پہلو",
+        "english": "Medical and Moral Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نظامِ ہضم کا تحفظ",
+              "english": "Protection of the Digestive System"
+            },
+            "content": {
+              "urdu": [
+                "جدید تحقیق کے مطابق سیدھا بیٹھ کر کھانا ہاضمے کے لیے بہترین ہے۔",
+                "ٹیک لگا کر کھانے سے خوراک کی نالی (Esophagus) پر دباؤ پڑ سکتا ہے جو تکلیف کا باعث بنتا ہے۔",
+                "اسلامی احکامات انسانی فطرت اور جسمانی صحت کے عین مطابق ہیں۔"
+              ],
+              "english": [
+                "Modern research confirms that sitting upright while eating is optimal for digestion.",
+                "Reclining while eating can cause acid reflux or strain the esophagus.",
+                "Islamic rulings are perfectly aligned with human nature and physical health."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شکر گزاری کا اظہار",
+              "english": "Expression of Gratitude"
+            },
+            "content": {
+              "urdu": [
+                "کھانے کے وقت مؤدب بیٹھنا رزق دینے والے رب کے احترام کی علامت ہے۔",
+                "جو شخص رزق کی قدر کرتا ہے، اللہ اس کی نعمتوں میں اضافہ فرماتا ہے۔",
+                "کھانے کے بعد اللہ کا شکر ادا کرنا اور ہاتھ دھونا بھی سنتِ نبوی ہے۔"
+              ],
+              "english": [
+                "Sitting respectfully while eating is a sign of respect for the Provider (Allah).",
+                "Whoever values the provision (Rizq), Allah increases His blessings upon them.",
+                "Thanking Allah after meals and washing hands are also established Sunnah practices."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سادگی اپنائیں",
+              "english": "Adopt Simplicity"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کی زندگی ہمیں سادگی اور میانہ روی کا سبق دیتی ہے۔",
+                "ہمیں چاہیے کہ اپنی زندگی کے ہر شعبے میں، یہاں تک کہ کھانے پینے میں بھی سنت کی پیروی کریں۔",
+                "غیر اسلامی اور متکبرانہ اطوار سے بچنا ایک مومن کی پہچان ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) life teaches us simplicity and moderation.",
+                "We should strive to follow the Sunnah in every aspect of life, including eating and drinking.",
+                "Avoiding un-Islamic and arrogant behaviors is the hallmark of a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچوں کی تربیت",
+              "english": "Training Children"
+            },
+            "content": {
+              "urdu": [
+                "والدین کو چاہیے کہ وہ بچپن ہی سے بچوں کو مسنون طریقے سے بیٹھ کر کھانے کی عادت ڈالیں۔",
+                "سنت پر عمل کرنے سے نہ صرف جسمانی صحت ملتی ہے بلکہ روحانی سکون بھی حاصل ہوتا ہے۔",
+                "گھر کے ماحول کو سنت کے مطابق ڈھالنا برکت اور رحمت کا سبب ہے۔"
+              ],
+              "english": [
+                "Parents should train children from a young age to sit and eat according to the Sunnah.",
+                "Following the Sunnah provides not only physical health but also spiritual peace.",
+                "Molding the home environment according to the Sunnah attracts divine mercy and blessings."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "hadithId": 636,
+  "hadithNo": 30,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/56"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (1975)، والنسائي (3068)، والترمذي (955)، وابن ماجه (3037)، وأحمد (4/450)، وابن حبان (3852).",
+    "urdu": "صحیح۔ اسے ابوداؤد، نسائی، ترمذی، ابن ماجہ اور احمد نے روایت کیا ہے۔ امام ترمذی نے اسے 'حسن صحیح' کہا ہے۔ یہ حدیث چرواہوں اور عذر والے لوگوں کے لیے منیٰ میں رات گزارنے اور رمی کے اوقات میں سہولت کی دلیل ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (1975), An-Nasa'i (3068), At-Tirmidhi (955), Ibn Majah (3037), and Ahmad (4/450). Graded Sahih by At-Tirmidhi and Ibn Hibban."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَرْخَصَ",
+      "english": "Granted a concession",
+      "urdu": "اجازت دی / رخصت دی"
+    },
+    {
+      "arabic": "رُعَاة اَلْإِبِلِ",
+      "english": "Camel shepherds",
+      "urdu": "اونٹوں کے چرواہے"
+    },
+    {
+      "arabic": "اَلْبَيْتُوتَةِ",
+      "english": "Staying overnight",
+      "urdu": "رات گزارنا"
+    },
+    {
+      "arabic": "النَّفْرِ",
+      "english": "Departure / Leaving",
+      "urdu": "کوچ کرنا / روانگی"
+    }
+  ],
+  "summary": {
+    "urdu": "اونٹوں کے چرواہوں یا دیگر ضروری کاموں میں مشغول افراد کے لیے منیٰ کی راتیں باہر گزارنا اور رمی (کنکریاں مارنا) کو جمع کر کے ادا کرنا شرعاً جائز ہے۔",
+    "english": "It is legally permissible for camel shepherds and those with valid excuses to stay outside Mina at night and to combine their stoning (Rami) rituals."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (955)",
+      "english": "Sunan at-Tirmidhi (955)"
+    },
+    {
+      "arabic": "سنن أبي داود (1975)",
+      "english": "Sunan Abi Dawud (1975)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عاصم بن عدي",
+        "english": "Asim bin Adi"
+      },
+      "slug": "asim-bin-adi"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "منیٰ میں رات گزارنے (مبیت) کی رخصت",
+        "english": "Concession for Overnight Stay in Mina"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مبیت کا عمومی حکم",
+              "english": "General Rule of Overnight Stay"
+            },
+            "content": {
+              "urdu": [
+                "عام حاجیوں کے لیے ایامِ تشریق (11، 12، 13 ذوالحجہ) کی راتیں منیٰ میں گزارنا واجب ہے۔",
+                "نبی ﷺ نے چرواہوں کو ان کے پیشے اور جانوروں کی حفاظت کی ضرورت کے پیشِ نظر باہر رہنے کی اجازت دی۔",
+                "یہ ثابت کرتا ہے کہ عوامی مصلحت اور ضروری خدمات میں مصروف افراد کے لیے شریعت میں نرمی موجود ہے۔"
+              ],
+              "english": [
+                "For regular pilgrims, staying overnight in Mina during Ayyam al-Tashreeq is obligatory.",
+                "The Prophet (ﷺ) allowed shepherds to stay outside due to their professional needs and livestock safety.",
+                "This proves that Sharia offers flexibility for those engaged in essential services or public welfare."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رمیِ جمرات کو جمع کرنا",
+        "english": "Combining the Stoning Rituals"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چرواہوں کے لیے خصوصی ترتیب",
+              "english": "Specific Sequence for Shepherds"
+            },
+            "content": {
+              "urdu": [
+                "چرواہے 10 تاریخ کو رمی کر کے اپنے کام پر چلے جاتے۔",
+                "انہیں 11 تاریخ کی رمی چھوڑ کر 12 تاریخ کو 11 اور 12 دونوں دنوں کی قضا اور ادا ایک ساتھ کرنے کی اجازت دی گئی۔",
+                "اس سے معلوم ہوا کہ ضرورت کی بنا پر عبادات کے اوقات میں تقدیم و تاخیر ممکن ہے۔"
+              ],
+              "english": [
+                "Shepherds would perform stoning on the 10th and then attend to their herds.",
+                "They were permitted to skip stoning on the 11th and perform both the 11th and 12th days' rituals on the 12th.",
+                "This indicates that based on necessity, the timings of certain rituals can be adjusted."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اطلاق",
+        "english": "Modern Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیکیورٹی اور طبی عملہ",
+              "english": "Security and Medical Staff"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں ڈاکٹروں، سیکیورٹی گارڈز اور حج کے انتظامات سنبھالنے والوں پر چرواہوں والا حکم قیاس کیا جا سکتا ہے۔",
+                "اگر منیٰ میں رات گزارنا ان کی ڈیوٹی میں رکاوٹ بنے تو وہ باہر رہ سکتے ہیں۔",
+                "اسی طرح شدید رش اور جگہ کی کمی کی صورت میں منیٰ سے متصل علاقوں میں رکنا بھی جائز مانا جاتا ہے۔"
+              ],
+              "english": [
+                "The ruling for shepherds can be applied to modern-day doctors, security personnel, and Hajj organizers.",
+                "If staying in Mina hinders their duties, they may stay outside.",
+                "Similarly, in cases of extreme overcrowding, staying in areas adjacent to Mina is considered acceptable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں تنگی نہیں",
+              "english": "No Hardship in Religion"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے انسانوں کو ان کی ہمت سے زیادہ مکلف نہیں کیا۔",
+                "عبادت کا مقصد نظامِ زندگی کو درہم برہم کرنا نہیں بلکہ اسے اللہ کی مرضی کے مطابق ڈھالنا ہے۔",
+                "نبی ﷺ کی رحمت اور بصیرت نے ہر طبقے کے لیے حج کو آسان بنایا۔"
+              ],
+              "english": [
+                "Allah does not burden souls beyond their capacity.",
+                "The purpose of worship is not to disrupt the order of life but to align it with Allah's will.",
+                "The Prophet's (ﷺ) mercy and foresight made Hajj accessible for all categories of people."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

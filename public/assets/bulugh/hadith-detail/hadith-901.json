@@ -1,0 +1,259 @@
+{
+  "hadithId": 901,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1089"],
+    "kitabId": 8,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 68
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البخاري (5376)‏ ، ومسلم (2022)‏ ، عن عمر بن أبي سلمة قال : كنت غلاما في حجر النبي ‏-صلى الله عليه وسلم‏- ، وكانت يدي تطيش في الصحفة ، فقال لي رسول الله ‏-صلى الله عليه وسلم‏- : فذكره .‏ وزاد البخاري : فما زالت تلك طعمتي بعد .",
+    "urdu": "صحیح۔ اسے بخاری (5376) اور مسلم (2022) نے روایت کیا ہے۔ عمر بن ابی سلمہ نے بیان کیا کہ میں رسول اللہ صلی اللہ علیہ وسلم کی گود میں ایک لڑکا تھا اور میرا ہاتھ برتن میں چاروں طرف گھومتا تھا، تو آپ صلی اللہ علیہ وسلم نے مجھے یہ کلمات کہے۔ بخاری میں یہ اضافہ ہے کہ 'اس کے بعد ہمیشہ میرا کھانا اسی طریقے سے رہا'۔",
+    "english": "Sahih. Reported by Al-Bukhari (5376) and Muslim (2022). Umar bin Abi Salama reported that he was a boy under the care of the Prophet (ﷺ) and his hand used to wander around the dish while eating, so the Prophet (ﷺ) taught him these manners. Bukhari adds: 'Since then, I have always eaten in that manner.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "غُلَامُ",
+      "english": "Young boy",
+      "urdu": "لڑکا / بچہ"
+    },
+    {
+      "arabic": "سَمِّ",
+      "english": "Mention Name (of Allah)",
+      "urdu": "نام لو (اللہ کا)"
+    },
+    {
+      "arabic": "يَمِينِكَ",
+      "english": "Your right hand",
+      "urdu": "تمہارا دایاں ہاتھ"
+    },
+    {
+      "arabic": "يَلِيكَ",
+      "english": "What is near/front of you",
+      "urdu": "جو تمہارے قریب ہے"
+    },
+    {
+      "arabic": "تَطِيشُ",
+      "english": "Wandering / moving about",
+      "urdu": "گھومتا تھا / حرکت کرتا تھا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کھانے کے تین بنیادی آداب بیان کیے گئے ہیں: شروع میں بسم اللہ پڑھنا، دائیں ہاتھ کا استعمال کرنا، اور برتن میں اپنے سامنے سے کھانا۔",
+    "english": "This Hadith outlines three essential etiquette of eating: mentioning Allah's name (Bismillah), using the right hand, and eating from the side of the dish closest to oneself."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5376)",
+      "english": "Sahih al-Bukhari (5376)"
+    },
+    {
+      "arabic": "صحيح مسلم (2022)",
+      "english": "Sahih Muslim (2022)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن أبي سلمة",
+        "english": "Umar bin Abi Salama"
+      },
+      "slug": "umar-bin-abi-salama"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-Yg4Dk-gE",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Muttafaqun Alayh"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کھانے کا آغاز اور برکت",
+        "english": "Starting Food and Blessing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تسمیہ (بسم اللہ) کی اہمیت",
+              "english": "Importance of Tasmiyah"
+            },
+            "content": {
+              "urdu": [
+                "کھانے کے شروع میں اللہ کا نام لینا شیطان کو کھانے میں شریک ہونے سے روکتا ہے۔",
+                "بسم اللہ پڑھنے سے کھانے میں برکت پیدا ہوتی ہے اور انسان روحانی طور پر مضبوط ہوتا ہے۔",
+                "اگر شروع میں بھول جائیں تو درمیان میں 'بسم اللہ اولہ وآخرہ' پڑھنا مسنون ہے۔"
+              ],
+              "english": [
+                "Mentioning Allah's name prevents Shaitan from sharing the food with the person.",
+                "Reciting Bismillah brings barakah (blessings) and spiritual strength to the meal.",
+                "If forgotten at the start, one should say 'Bismillah awwalahu wa akhirahu' when remembered."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دائیں ہاتھ کا استعمال",
+              "english": "Using the Right Hand"
+            },
+            "content": {
+              "urdu": [
+                "دایاں ہاتھ خیر، برکت اور پاکیزگی کی علامت ہے، اس لیے اسلام میں اسے ترجیح دی گئی ہے۔",
+                "بائیں ہاتھ سے کھانا پینا شیطان کا طریقہ ہے جس سے ہر مسلمان کو بچنا چاہیے۔",
+                "طبی طور پر بھی دائیں ہاتھ سے کھانا انسانی فطرت اور نظم و ضبط کے مطابق ہے۔"
+              ],
+              "english": [
+                "The right hand symbolizes goodness and purity, which is why it is preferred in Islam.",
+                "Eating or drinking with the left hand is the way of Shaitan, which Muslims must avoid.",
+                "Medically and naturally, using the right hand aligns with human discipline and nature."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی آداب",
+        "english": "Social Etiquette"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنے سامنے سے کھانا",
+              "english": "Eating from One's Own Side"
+            },
+            "content": {
+              "urdu": [
+                "برتن میں اپنے سامنے سے کھانا قناعت اور دوسروں کے حقوق کے احترام کی علامت ہے۔",
+                "دوسروں کے سامنے سے ہاتھ مارنا لالچ کی نشانی ہے اور کھانے والوں کو ناگوار گزرتا ہے۔",
+                "یہ اصول اس وقت ہے جب کھانا ایک ہی نوعیت کا ہو، مختلف پھلوں میں انتخاب جائز ہے۔"
+              ],
+              "english": [
+                "Eating from the side closest to you shows contentment and respect for others.",
+                "Reaching across the dish to take from others' sides indicates greed and causes discomfort.",
+                "This rule applies to uniform food; if there are varied items like fruit, one may choose."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچوں کی تربیت",
+              "english": "Training Children"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے عمر بن ابی سلمہ کو نہایت شفقت اور محبت سے آداب سکھائے۔",
+                "بچوں کو بچپن ہی سے اسلامی آداب کا عادی بنانا والدین اور سرپرستوں کی ذمہ داری ہے۔",
+                "نرمی اور پیار سے کی گئی نصیحت بچے کے ذہن پر گہرا اور دیرپا اثر چھوڑتی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught Umar bin Abi Salama manners with great kindness and love.",
+                "It is the responsibility of parents to instill Islamic manners in children from a young age.",
+                "Advice given with gentleness leaves a profound and lasting impact on a child's mind."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبوی طریقہ تعلیم",
+        "english": "Prophetic Method of Teaching"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصلاح کا بہترین انداز",
+              "english": "Best Manner of Correction"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے بچے کی غلطی پر اسے ڈانٹنے کے بجائے صحیح طریقہ سکھانے پر توجہ دی۔",
+                "الفاظ کا چناؤ 'یا غلام' (اے پیارے بچے) محبت اور توجہ حاصل کرنے کے لیے تھا۔",
+                "تعلیم و تربیت میں پہلے محبت کا رشتہ قائم کرنا اصلاح کو آسان بنا دیتا ہے۔"
+              ],
+              "english": [
+                "Instead of scolding the child for his mistake, the Prophet focused on teaching the right way.",
+                "The choice of words 'O young boy' was meant to gain the child's affection and attention.",
+                "Establishing a bond of love before correction makes the teaching process much easier."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جامع اور مختصر کلمات",
+              "english": "Concise and Comprehensive Words"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے نہایت مختصر جملوں میں کھانے کے تمام بڑے اصول جمع فرما دیے۔",
+                "مختصر نصیحت یاد رکھنے میں آسان ہوتی ہے، جیسا کہ راوی نے کہا کہ وہ ہمیشہ اسی پر عمل پیرا رہے۔",
+                "یہ کلمات دین کے 'جوامع الکلم' (مختصر مگر جامع الفاظ) کی بہترین مثال ہیں۔"
+              ],
+              "english": [
+                "The Prophet summarized the major rules of eating in very brief and simple sentences.",
+                "Short advice is easy to memorize, as noted by the narrator who followed it for life.",
+                "These words are a perfect example of 'Jawami al-Kalim' (comprehensive speech)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور جسمانی فوائد",
+        "english": "Spiritual and Physical Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شکر گزاری کا جذبہ",
+              "english": "Spirit of Gratitude"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کا نام لینا اس بات کا اعتراف ہے کہ رزق دینے والا صرف وہی خالق ہے۔",
+                "یہ عمل انسان کے اندر شکر گزاری اور عاجزی کی صفت پیدا کرتا ہے۔",
+                "شکر گزاری سے اللہ تعالیٰ نعمتوں میں مزید اضافہ فرماتا ہے۔"
+              ],
+              "english": [
+                "Mentioning Allah's name is an acknowledgment that He alone is the Provider.",
+                "This practice cultivates a spirit of gratitude and humility within the individual.",
+                "Through gratitude, Allah increases His blessings and provisions for the servant."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط اور صفائی",
+              "english": "Discipline and Hygiene"
+            },
+            "content": {
+              "urdu": [
+                "اپنے سامنے سے کھانا برتن کو صاف ستھرا رکھنے اور نظم و ضبط کو برقرار رکھنے میں مدد دیتا ہے۔",
+                "یہ طریقہ دوسروں کے لیے گھن یا ناگواری کا سبب نہیں بنتا اور برکت برقرار رہتی ہے۔",
+                "اسلامی آدابِ طعام ہمیں ایک مہذب اور بااخلاق معاشرہ بنانے کی تعلیم دیتے ہیں۔"
+              ],
+              "english": [
+                "Eating from one's own side helps maintain cleanliness and order in the shared dish.",
+                "This manner prevents causing distaste to others and preserves the blessing of the meal.",
+                "Islamic eating manners teach us how to build a civilized and well-mannered society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

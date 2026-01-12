@@ -1,0 +1,259 @@
+{
+  "hadithId": 680,
+  "hadithNo": 33,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/33"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1605)، وأبو داود (3447)، والترمذي (1267)، وابن ماجه (2154).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم (1605)، ابوداؤد (3447)، ترمذی (1267) اور ابن ماجہ (2154) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1605), Abu Dawud (3447), at-Tirmidhi (1267), and Ibn Majah (2154)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَحْتَكِرُ",
+      "english": "Hoards / Monopolizes",
+      "urdu": "ذخیرہ اندوزی کرنا"
+    },
+    {
+      "arabic": "خَاطِئٌ",
+      "english": "Sinner / Wrongdoer",
+      "urdu": "گناہ گار / خطاکار"
+    },
+    {
+      "arabic": "رَسُولُ",
+      "english": "Messenger",
+      "urdu": "رسول"
+    },
+    {
+      "arabic": "احْتِكَار",
+      "english": "Hoarding",
+      "urdu": "ذخیرہ اندوزی"
+    },
+    {
+      "arabic": "الْمُحْتَكِر",
+      "english": "The Hoarder",
+      "urdu": "ذخیرہ اندوز"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں اشیائے ضرورت کی ذخیرہ اندوزی کر کے مصنوعی مہنگائی پیدا کرنے کی سخت ممانعت کی گئی ہے اور اسے گناہ قرار دیا گیا ہے۔",
+    "english": "This Hadith strictly prohibits hoarding essential goods to artificially inflate prices, categorizing the hoarder as a persistent sinner."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب المساقاة",
+      "english": "Sahih Muslim, Book of Musaqah"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معمر بن عبد الله",
+        "english": "Ma'mar bin Abdullah"
+      },
+      "slug": "ma-mar-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0S1_WvX-oI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ذخیرہ اندوزی کا مفہوم",
+        "english": "Meaning of Hoarding (Ihtikar)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرام ذخیرہ اندوزی کی تعریف",
+              "english": "Definition of Haram Hoarding"
+            },
+            "content": {
+              "urdu": [
+                "ذخیرہ اندوزی سے مراد ضرورت کی چیزیں روک لینا ہے تاکہ قیمتیں بڑھ جائیں۔",
+                "خاص طور پر غلہ اور خوراک کی اشیاء کو روکنا گناہِ عظیم ہے۔",
+                "اس کا مقصد لوگوں کی مجبوری سے فائدہ اٹھا کر نفع کمانا ہوتا ہے۔"
+              ],
+              "english": [
+                "Hoarding refers to withholding essential goods to drive up market prices.",
+                "Specifically, withholding food and grains is considered a major sin.",
+                "Its aim is to profit from people's desperation and necessity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خطاکار (خاطئ) کا درجہ",
+              "english": "Status of the Sinner"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں اسے 'خاطئ' کہا گیا ہے جس کا مطلب قصداً گناہ کرنے والا ہے۔",
+                "یہ وہ شخص ہے جو اللہ کی مخلوق کو تکلیف دے کر مال جمع کرتا ہے۔",
+                "ایسا شخص اللہ کی رحمت اور برکت سے دور ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The Hadith calls him 'Khati', meaning one who sins intentionally.",
+                "This person accumulates wealth by inflicting hardship on Allah's creation.",
+                "Such an individual moves away from Allah's mercy and blessings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی اور سماجی اثرات",
+        "english": "Economic and Social Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مصنوعی قلت کا خاتمہ",
+              "english": "Eliminating Artificial Scarcity"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معیشت میں اشیاء کی سپلائی کو آزادانہ رہنے کی ترغیب دی گئی ہے۔",
+                "ذخیرہ اندوزی مارکیٹ کے قدرتی توازن کو بگاڑ کر غریبوں پر بوجھ ڈالتی ہے۔",
+                "حکومت کو حق حاصل ہے کہ وہ ایسے تاجروں کو مال نکالنے پر مجبور کرے۔"
+              ],
+              "english": [
+                "Islamic economy encourages the free flow of goods in the market.",
+                "Hoarding disrupts natural market balance and burdens the poor.",
+                "The government has the right to compel such traders to release stock."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ہمدردی",
+              "english": "Social Compassion"
+            },
+            "content": {
+              "urdu": [
+                "تجارت کا مقصد صرف نفع نہیں بلکہ خدمتِ خلق بھی ہونا چاہیے۔",
+                "دوسروں کی بھوک کا فائدہ اٹھا کر مالدار بننا اسلامی اخلاق کے خلاف ہے۔",
+                "مومن وہ ہے جو اپنے بھائی کے لیے وہی پسند کرے جو اپنے لیے کرتا ہے۔"
+              ],
+              "english": [
+                "The purpose of trade should be service to humanity, not just profit.",
+                "Becoming rich by exploiting others' hunger is against Islamic ethics.",
+                "A believer is one who wants for his brother what he wants for himself."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حدود و قیود",
+        "english": "Juristic Limits and Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذخیرہ اندوزی کب جرم ہے؟",
+              "english": "When is Hoarding a Crime?"
+            },
+            "content": {
+              "urdu": [
+                "اگر مارکیٹ میں وافر مال ہو تو بچت کی نیت سے مال رکھنا منع نہیں۔",
+                "ممانعت تب ہے جب لوگوں کو اس چیز کی ضرورت ہو اور وہ نایاب ہو۔",
+                "زیادہ تر فقہاء کے نزدیک یہ پابندی خوراک اور ادویات پر سب سے سخت ہے۔"
+              ],
+              "english": [
+                "Storing goods for savings is not forbidden if the market has plenty.",
+                "It becomes prohibited when people are in need and the item is scarce.",
+                "Most jurists apply the strictest rules to food and essential medicines."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قیمتوں کا تعین (تسعیر)",
+              "english": "Price Control (Tas'ir)"
+            },
+            "content": {
+              "urdu": [
+                "ذخیرہ اندوزی کی صورت میں حکومت قیمتیں مقرر کرنے کا حق رکھتی ہے۔",
+                "عوامی مفاد کی خاطر انفرادی ملکیت پر شرعی حدود نافذ ہو سکتی ہیں۔",
+                "عدل و انصاف کا تقاضا ہے کہ قیمتیں ہر طبقے کی پہنچ میں رہیں۔"
+              ],
+              "english": [
+                "The state has the right to fix prices in the event of hoarding.",
+                "Sharia limits can be imposed on private property for public welfare.",
+                "Justice requires that prices remain within reach of every class."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیانتدار تاجر کی برکت",
+              "english": "Blessings of an Honest Trader"
+            },
+            "content": {
+              "urdu": [
+                "جو تاجر مال چھپانے کے بجائے منڈی میں لاتا ہے، اللہ اسے رزق دیتا ہے۔",
+                "سچائی اور دیانتداری کاروبار میں غیبی برکت کا باعث بنتی ہے۔",
+                "امانت دار تاجر کا حشر قیامت کے دن شہداء کے ساتھ ہوگا۔"
+              ],
+              "english": [
+                "The trader who brings goods to market instead of hiding them is blessed.",
+                "Truthfulness and integrity bring divine success to a business.",
+                "The honest merchant will be resurrected with the martyrs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عوامی ذمہ داری",
+              "english": "Public Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "صارفین کو بھی چاہیے کہ وہ ضرورت سے زیادہ خریداری (Panic buying) نہ کریں۔",
+                "ایسی خریداری بھی مارکیٹ میں مصنوعی قلت پیدا کرنے کا سبب بنتی ہے۔",
+                "اسلامی معاشرے میں ہر فرد دوسرے کا محافظ اور خیر خواہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Consumers should also avoid panic buying beyond their basic needs.",
+                "Such purchasing also contributes to artificial scarcity in the market.",
+                "In an Islamic society, every individual is a protector of others."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

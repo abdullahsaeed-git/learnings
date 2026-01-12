@@ -1,0 +1,259 @@
+{
+  "hadithId": 403,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-403"],
+    "kitabId": 2,
+    "inKitabBab": 15,
+    "arabicBook": "بلوغ المرام",
+    "babId": 25
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (1052)‏، ومسلم (907) واللفظ للبخاري. وأما الروايات التي ذكرت ثمان ركعات أو خمس ركعات في ركعة واحدة فقد ضعفها المحققون واعتبروها شاذة أو وهم من الرواة، والمحفوظ هو ركوعان في كل ركعة.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (1052) و مسلم (907) میں مروی ہے۔ آٹھ رکوع یا پانچ رکوع والی دیگر روایات کو محدثین نے شاذ یا راوی کا وہم قرار دیا ہے، صحیح اور محفوظ طریقہ ہر رکعت میں دو رکوع کا ہی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1052) and Muslim (907). Narrations mentioning eight or five bowings in one rak'ah are considered irregular (Shadh) or errors by narrators; the preserved (Mahfuz) version is two bowings in each rak'ah."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِنْخَسَفَتِ",
+      "english": "Eclipsed",
+      "urdu": "گرہن لگا"
+    },
+    {
+      "arabic": "قِيَامًا طَوِيلًا",
+      "english": "Long Standing",
+      "urdu": "لمبا قیام"
+    },
+    {
+      "arabic": "رُكُوعًا",
+      "english": "Bowing",
+      "urdu": "رکوع"
+    },
+    {
+      "arabic": "تَجَلَّتِ",
+      "english": "Cleared / Appeared",
+      "urdu": "روشن ہو گیا"
+    },
+    {
+      "arabic": "دُونَ",
+      "english": "Less than",
+      "urdu": "کم / نیچے"
+    }
+  ],
+  "summary": {
+    "urdu": "سورج گرہن کی نماز کا مسنون طریقہ یہ ہے کہ دو رکعت پڑھی جائیں اور ہر رکعت میں دو قیام اور دو رکوع کیے جائیں، اور تلاوت و رکوع نہایت طویل ہوں۔",
+    "english": "The Sunnah method for the eclipse prayer is two rak'ahs, with two standings and two bowings in each rak'ah, characterized by extreme length."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1052)",
+      "english": "Sahih al-Bukhari (1052)"
+    },
+    {
+      "arabic": "صحيح مسلم (907)",
+      "english": "Sahih Muslim (907)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=method+of+salat+ul+kusuf+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نمازِ کسوف کی ہیئت",
+        "english": "Structure of the Eclipse Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دو رکوع فی رکعت",
+              "english": "Two Bowings per Rak'ah"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ کسوف عام نمازوں سے مختلف ہے کیونکہ اس کی ہر رکعت میں دو رکوع ہوتے ہیں۔",
+                "پہلے قیام کے بعد رکوع کیا جاتا ہے، پھر دوبارہ کھڑے ہو کر تلاوت کی جاتی ہے۔",
+                "اس کے بعد دوسرا رکوع کر کے پھر سجدہ کیا جاتا ہے، یہی صحیح ترین طریقہ ہے۔"
+              ],
+              "english": [
+                "The eclipse prayer differs from regular prayers as it has two bowings per rak'ah.",
+                "After the first standing and bowing, one stands again for further recitation.",
+                "Then a second bowing is performed before prostrating; this is the most authentic way."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قیام اور رکوع کی طوالت",
+              "english": "Length of Standing and Bowing"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اس نماز میں اتنی لمبی تلاوت کی جو سورہ بقرہ کے برابر تھی۔",
+                "رکوع اور سجدے بھی غیر معمولی طور پر طویل کیے گئے تاکہ گرہن ختم ہو جائے۔",
+                "طوالت کا مقصد اللہ کی بارگاہ میں عاجزی اور توبہ کا طویل وقت گزارنا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) recited as much as Surah Al-Baqarah during the standing.",
+                "Bowings and prostrations were exceptionally long until the eclipse ended.",
+                "The length is intended to spend significant time in humility and repentance before Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "گرہن اور اللہ کا خوف",
+        "english": "Eclipse and the Fear of Allah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قدرتی مظاہر اور تنبیہ",
+              "english": "Natural Phenomena as Warnings"
+            },
+            "content": {
+              "urdu": [
+                "سورج اور چاند کا بے نور ہونا قیامت کی ہولناکیوں کی یاد دلاتا ہے۔",
+                "نبی ﷺ اس موقع پر گھبرائے ہوئے مسجد کی طرف تشریف لے گئے تھے۔",
+                "یہ وقت غفلت کا نہیں بلکہ اللہ کے ذکر اور استغفار کا وقت ہے۔"
+              ],
+              "english": [
+                "The darkening of the sun and moon reminds one of the horrors of Judgement Day.",
+                "The Prophet (ﷺ) would rush to the mosque in a state of concern during an eclipse.",
+                "This is not a time for heedlessness but for Allah's remembrance and seeking forgiveness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خطبہ اور نصیحت",
+              "english": "Sermon and Advice"
+            },
+            "content": {
+              "urdu": [
+                "نماز کے بعد نبی ﷺ نے لوگوں کو وعظ فرمایا اور توہم پرستی ختم کی۔",
+                "آپ ﷺ نے بتایا کہ گرہن کسی کی موت یا زندگی کی وجہ سے نہیں لگتا۔",
+                "ایسے مواقع پر صدقہ، خیرات اور توبہ کی کثرت کی تلقین فرمائی گئی۔"
+              ],
+              "english": [
+                "After the prayer, the Prophet (ﷺ) addressed the people to end superstitions.",
+                "He taught that eclipses do not occur due to anyone's life or death.",
+                "He urged for charity, good deeds, and repentance during such events."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مختلف روایات اور تطبیق",
+        "english": "Different Narrations and Reconciliation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رکوع کی تعداد میں اختلاف",
+              "english": "Differences in the Number of Bowings"
+            },
+            "content": {
+              "urdu": [
+                "بعض روایات میں تین، چار یا پانچ رکوع کا ذکر بھی آیا ہے۔",
+                "جمہور محدثین کے نزدیک دو رکوع والی روایت ہی سب سے زیادہ مستند ہے۔",
+                "زیادہ رکوع والی روایات یا تو خاص حالات پر مبنی ہیں یا وہم قرار دی گئی ہیں۔"
+              ],
+              "english": [
+                "Some narrations mention three, four, or five bowings in a single rak'ah.",
+                "The majority of scholars consider the two-bowing version the most authentic.",
+                "Versions with more bowings are either based on specific cases or deemed errors."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ترتیب اور تخفیف",
+              "english": "Order and Reduction"
+            },
+            "content": {
+              "urdu": [
+                "ہر اگلا قیام اور رکوع پہلے والے سے تھوڑا مختصر ہوتا چلا جاتا ہے۔",
+                "یہ ترتیب اس بات کی دلیل ہے کہ نماز میں نظم و ضبط کا خیال رکھا جائے۔",
+                "نماز تب تک جاری رکھنا بہتر ہے جب تک گرہن مکمل طور پر ختم نہ ہو جائے۔"
+              ],
+              "english": [
+                "Each subsequent standing and bowing is slightly shorter than the preceding one.",
+                "This sequence demonstrates the importance of order within the prayer.",
+                "It is better to continue the prayer until the eclipse is fully cleared."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور عملی اسباق",
+        "english": "Educational and Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ نبوی کی اتباع",
+              "english": "Adherence to the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "مشکل اور غیر معمولی حالات میں سنت کے مطابق عمل کرنا ہی نجات ہے۔",
+                "نمازِ کسوف ہمیں صبر اور طویل عبادت کی تربیت فراہم کرتی ہے۔",
+                "نبی ﷺ کے ہر عمل میں امت کے لیے رہنمائی اور حکمت موجود ہے۔"
+              ],
+              "english": [
+                "Acting according to the Sunnah during unusual times is the path to salvation.",
+                "Salat al-Kusuf trains us in patience and performing long acts of worship.",
+                "Every action of the Prophet (ﷺ) contains guidance and wisdom for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشاہدہ کائنات",
+              "english": "Observation of the Universe"
+            },
+            "content": {
+              "urdu": [
+                "کائناتی تبدیلیوں کو دیکھ کر اللہ کی عظمت کا احساس دل میں پیدا کرنا چاہیے۔",
+                "سائنسی علم کے ساتھ ساتھ روحانی تعلق کو مضبوط کرنا ضروری ہے۔",
+                "مومن وہی ہے جو ہر نشانی میں اپنے رب کی قدرت کا مشاہدہ کرے۔"
+              ],
+              "english": [
+                "Observing cosmic changes should generate a sense of Allah's greatness in the heart.",
+                "It is vital to strengthen the spiritual bond alongside scientific understanding.",
+                "A true believer is one who witnesses his Lord's power in every sign."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

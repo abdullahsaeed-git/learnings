@@ -1,0 +1,249 @@
+{
+  "hadithId": 730,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/98"],
+    "kitabId": 7,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب البيوع",
+    "babId": 47
+  },
+ 
+  "takhreej": {
+    "arabic": "رواه الدارقطني (3/24)، والحاكم (2/57) موصولاً، ورواه أبو داود في مراسيله (رقم 342) وهو الراجح عند أئمة الحديث. ومع ذلك، فالقصة مشهورة ولها شواهد تقويها في الجملة.",
+    "urdu": "اسے دارقطنی اور حاکم نے موصولاً روایت کیا ہے، جبکہ امام ابوداؤد نے اسے 'مرسل' (جس میں صحابی کا نام گرا ہو) روایت کیا ہے اور محدثین کے نزدیک یہی مرسل ہونا زیادہ صحیح ہے۔ تاہم، یہ واقعہ سیرت اور فقہ کی کتب میں مشہور ہے۔",
+    "english": "Reported by Ad-Daraqutni and Al-Hakim as a connected chain. Abu Dawud reported it as Mursal in his 'Marasil,' which is the preferred view among scholars. Nonetheless, the incident is well-known in books of Seerah and Fiqh."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَجَرَ",
+      "english": "Restricted / Restrained",
+      "urdu": "پابندی لگا دی / روک دیا"
+    },
+    {
+      "arabic": "بَاعَهُ",
+      "english": "Sold it",
+      "urdu": "اسے فروخت کر دیا"
+    },
+    {
+      "arabic": "دَيْنٍ",
+      "english": "Debt",
+      "urdu": "قرض"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ اگر کوئی مقروض اپنا قرض ادا نہ کر پا رہا ہو، تو حاکمِ وقت یا قاضی کو یہ حق حاصل ہے کہ وہ اس کے مال پر پابندی لگا دے اور اسے بیچ کر قرض خواہوں کا حق ادا کرے۔",
+    "english": "This Hadith establishes the authority of the state or a judge to restrain a debtor's assets and sell them to satisfy creditors if the debtor is unable or unwilling to repay."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني، كتاب البيوع",
+      "english": "Sunan ad-Daraqutni, Book of Sales"
+    },
+    {
+      "arabic": "مستدرك الحاكم، كتاب البيوع",
+      "english": "Mustadrak al-Hakim, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "كعب بن مالك",
+        "english": "Ka'b bin Malik"
+      },
+      "slug": "kab-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح بشواهده (والراجح الإرسال)",
+    "english": "Sahih with supports (though Mursal is preferred)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قانونِ حجر (مالی پابندی) کی شرعی حیثیت",
+        "english": "Legality of Restraint (Hajr)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حجر کی تعریف",
+              "english": "Definition of Hajr"
+            },
+            "content": {
+              "urdu": [
+                "شرعی اصطلاح میں حجر سے مراد کسی شخص کو اس کے مال میں تصرف (خرید و فروخت) سے روک دینا ہے۔",
+                "یہ پابندی مقروض (دیوالیہ)، نابالغ بچے، یا ذہنی طور پر کمزور شخص پر لگائی جا سکتی ہے۔",
+                "مقصد یہ ہوتا ہے کہ اس کے مال کو ضائع ہونے سے بچایا جائے یا دوسروں کے حقوق محفوظ کیے جائیں۔"
+              ],
+              "english": [
+                "Technically, Hajr means preventing a person from transacting or spending their own wealth.",
+                "It can be applied to a bankrupt debtor, a minor, or an intellectually disabled person.",
+                "The aim is to prevent the wasting of assets or to protect the rights of others (creditors)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حاکم کا اختیار",
+              "english": "Authority of the Ruler"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی مقروض جان بوجھ کر یا نادانی میں مال چھپا رہا ہو، تو قاضی زبردستی اس کا مال بیچ سکتا ہے۔",
+                "نبی ﷺ نے سیدنا معاذ کے معاملے میں خود یہ فیصلہ فرمایا تاکہ قرض خواہوں کا نقصان نہ ہو۔",
+                "یہ اسلامی ریاست کی ذمہ داری ہے کہ وہ معاشی عدل و انصاف قائم کرے۔"
+              ],
+              "english": [
+                "If a debtor hides assets or refuses to pay, a judge has the authority to sell those assets forcibly.",
+                "The Prophet (ﷺ) personally intervened in Mu'adh's case to prevent loss to the creditors.",
+                "It is the responsibility of the Islamic state to ensure economic justice and order."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیدنا معاذ رضی اللہ عنہ کا قصہ",
+        "english": "The Incident of Mu'adh bin Jabal"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سخاوت اور دیوالیہ پن",
+              "english": "Generosity and Bankruptcy"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا معاذ بہت سخی تھے اور ضرورت مندوں کی مدد میں اپنا مال خرچ کر دیتے تھے۔",
+                "اسی وجہ سے ان پر بہت زیادہ قرض چڑھ گیا جو ان کی جائیداد سے بھی زیادہ ہو گیا۔",
+                "انہوں نے خود کو اللہ کے رسول ﷺ کے سپرد کر دیا تاکہ وہ اس کا شرعی حل نکالیں۔"
+              ],
+              "english": [
+                "Mu'adh (RA) was exceptionally generous, often spending his wealth on the needy.",
+                "Consequently, he accumulated debts that exceeded his total assets.",
+                "He surrendered himself to the Prophet (ﷺ) to find a legal and religious resolution."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدلِ نبوی",
+              "english": "Prophetic Justice"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے ان کا سارا مال بیچا مگر وہ قرض کی ادائیگی کے لیے پورا نہ پڑا۔",
+                "آپ ﷺ نے قرض خواہوں سے فرمایا: 'جو تمہیں مل گیا ہے وہی لے لو، اس کے علاوہ تمہارے لیے کچھ نہیں'۔",
+                "یہ فیصلہ 'افلاس' (دیوالیہ پن) کے قوانین کی بنیاد بنا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) sold all his assets, but it still did not cover the full debt.",
+                "He told the creditors: 'Take what you find, and you have nothing beyond that.'",
+                "This judgment laid the foundation for bankruptcy laws in Islam."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور معاشی اسباق",
+        "english": "Juristic and Economic Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرض خواہوں کا تحفظ",
+              "english": "Protection of Creditors"
+            },
+            "content": {
+              "urdu": [
+                "قرض دینے والوں کے حقوق کا تحفظ اسلامی نظام میں انتہائی اہم ہے۔",
+                "مقروض کی ذاتی آزادی پر قرض خواہوں کے مالی حقوق کو ترجیح دی جا سکتی ہے۔",
+                "مالی شفافیت کے بغیر کوئی بھی معیشت مستحکم نہیں رہ سکتی۔"
+              ],
+              "english": [
+                "Protecting the rights of lenders is a priority in the Islamic legal system.",
+                "Financial rights of creditors can override the personal transactional freedom of a debtor.",
+                "No economy can remain stable without financial transparency and accountability."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "افلاس (Insolvency) کا قانون",
+              "english": "Law of Insolvency"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کے پاس کچھ بھی نہ بچے تو اسے جیل میں ڈالنا حل نہیں بلکہ اسے مہلت دینا یا معاف کرنا بہتر ہے۔",
+                "قاضی تمام اثاثوں کو قرض خواہوں میں ان کے تناسب (Proportion) کے حساب سے تقسیم کرے گا۔",
+                "اسلام نے چودہ سو سال پہلے وہ قوانین دیے جو آج دنیا بھر کے مالیاتی نظاموں میں رائج ہیں۔"
+              ],
+              "english": [
+                "If a debtor is truly left with nothing, imprisonment is not the solution; respite or forgiveness is preferred.",
+                "The judge distributes the remaining assets among creditors proportionately.",
+                "Islam introduced insolvency laws 1,400 years before modern global financial systems."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چادر دیکھ کر پاؤں پھیلانا",
+              "english": "Living Within Means"
+            },
+            "content": {
+              "urdu": [
+                "نیکی اور سخاوت میں بھی اپنی مالی استطاعت کا خیال رکھنا ضروری ہے۔",
+                "اتنا قرض نہ لیں جو آپ کی جائیداد سے بڑھ جائے اور آپ کی ساکھ متاثر ہو۔",
+                "مالی توازن برقرار رکھنا سنتِ نبوی اور عقلمندی کا تقاضا ہے۔"
+              ],
+              "english": [
+                "One must consider their financial capacity even when performing acts of charity.",
+                "Avoid taking debts that exceed your net worth, as it damages your credibility.",
+                "Maintaining financial balance is both a Prophetic Sunnah and a requirement of wisdom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امانتداری اور جوابدہی",
+              "english": "Integrity and Accountability"
+            },
+            "content": {
+              "urdu": [
+                "اگر مالی تنگی ہو تو معاملات کو چھپانے کے بجائے واضح کریں تاکہ حل نکل سکے۔",
+                "حقوق العباد میں کوتاہی اللہ کی ناراضگی کا باعث بنتی ہے۔",
+                "دیانتداری سے کی گئی توبہ اور مالی صفائی انسان کو دنیا و آخرت کی شرمندگی سے بچاتی ہے۔"
+              ],
+              "english": [
+                "If in financial distress, communicate clearly rather than hiding issues so a solution can be found.",
+                "Negligence in the rights of fellow humans leads to Allah's displeasure.",
+                "Sincere repentance and settling financial dues save a person from humiliation in both lives."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

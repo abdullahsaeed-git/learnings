@@ -1,0 +1,232 @@
+{
+  "hadithId": 159,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["1:3:16"],
+    "kitabId": 2,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأذان والدعاء",
+    "babId": 12
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البخاري (614)‏ ، وأبو داود (529)‏ ، والنسائي (2/26 ‏- 27)‏ ، والترمذي (211)‏ ، وابن ماجه (722)‏ .‏ واللفظ المذكور قريب من لفظ البخاري ، وهو أصل الحديث .‏ وقول الحافظ 'أخرجه الأربعة' هنا فيه تساهل لأنه من أصول الصحيحين .‏",
+    "urdu": "صحیح۔ اسے بخاری (614)، ابوداؤد (529)، نسائی (2/26-27)، ترمذی (211) اور ابن ماجہ (722) نے روایت کیا ہے۔ مذکورہ الفاظ بخاری کے الفاظ کے قریب ہیں، اور یہی حدیث کی اصل ہے۔ حافظ ابن حجر کا یہاں 'أخرجه الأربعة' (چاروں نے روایت کیا) کہنا نرمی ہے، کیونکہ یہ اصل میں صحیحین کی حدیث ہے۔",
+    "english": "Authentic (Ṣaḥīḥ). Reported by Al-Bukhārī (614), Abu Dawud (529), An-Nasā'ī (2/26-27), At-Tirmidhī (211), and Ibn Mājah (722). The mentioned wording is close to the wording in Al-Bukhārī, which is the origin of the Hadith. Al-Ḥāfiz's statement 'Reported by the four compilers' here is a slight overgeneralization, as the Hadith is also in Al-Bukhārī (among the two Ṣaḥīḥ collections).",
+    "english_alternative": ""
+  },
+  "importantWords": [
+    {
+      "arabic": "يَسْمَعُ اَلنِّدَاءَ",
+      "english": "He hears the call (Adhān)",
+      "urdu": "وہ اذان سنتا ہے"
+    },
+    {
+      "arabic": "اَلدَّعْوَةِ اَلتَّامَّةِ",
+      "english": "This perfect call",
+      "urdu": "یہ کامل دعا"
+    },
+    {
+      "arabic": "وَالصَّلَاةِ اَلْقَائِمَةِ",
+      "english": "And the established prayer",
+      "urdu": "اور قائم ہونے والی نماز"
+    },
+    {
+      "arabic": "اَلْوَسِيلَةَ",
+      "english": "The Wasīlah (high station in Paradise)",
+      "urdu": "وسیلہ (جنت کا مقام)"
+    },
+    {
+      "arabic": "اَلْفَضِيلَةَ",
+      "english": "The excellence/distinction",
+      "urdu": "فضیلت"
+    },
+    {
+      "arabic": "مَقَامًا مَحْمُودًا",
+      "english": "The Praised Station",
+      "urdu": "مقام محمود"
+    },
+    {
+      "arabic": "حَلَّتْ لَهُ شَفَاعَتِي",
+      "english": "My intercession becomes lawful for him",
+      "urdu": "اس کے لیے میری شفاعت حلال ہو گئی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اذان کا جواب دینے کے بعد نبی اکرم صلی اللہ علیہ وسلم کے لیے خاص دعا (دعا الوسیلہ) کے الفاظ اور اس کی عظیم فضیلت بیان کرتی ہے۔ جو شخص یہ دعا پڑھے گا کہ اللہ تعالیٰ آپ صلی اللہ علیہ وسلم کو 'وسیلہ' اور 'مقام محمود' عطا فرمائے، تو قیامت کے دن اس کے لیے نبی ﷺ کی شفاعت واجب ہو جائے گی۔",
+    "english": "This Hadith details the specific, virtuous supplication (Du'ā' al-Wasīlah) to be recited after responding to the Adhān. It promises that whoever prays for the Prophet (ﷺ) to be granted the 'Wasīlah' (a special status in Paradise) and the 'Praised Station' (Maqāman Maḥmūd) will be guaranteed the intercession of the Prophet (ﷺ) on the Day of Resurrection."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (614)",
+      "english": "Reported by Al-Bukhārī (614)"
+    },
+    {
+      "arabic": "رواه أبو داود (529)",
+      "english": "Reported by Abu Dawud (529)"
+    },
+    {
+      "arabic": "رواه الترمذي (211)",
+      "english": "Reported by At-Tirmidhī (211)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (722)",
+      "english": "Reported by Ibn Mājah (722)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jābir ibn 'Abdullāh"
+      },
+      "slug": "jabir-ibn-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R-t1yM-l1hI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعا الوسیلہ کا مقصد اور فضیلت",
+        "english": "Purpose and Virtue of Du'ā' al-Wasīlah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اذان کے بعد کی دعا کی اہمیت",
+              "english": "Significance of the Post-Adhān Supplication"
+            },
+            "content": {
+              "urdu": [
+                "یہ مسنون دعا اذان کے اختتام اور درود شریف پڑھنے کے فوراً بعد مانگی جاتی ہے اور اس کا تعلق قیامت کے دن کی شفاعت سے ہے۔",
+                "نبی اکرم ﷺ نے خود اس دعا کی تعلیم دی اور اس پر ایک عظیم اجر کا وعدہ فرمایا۔",
+                "اذان کے جواب میں مشغول ہونے کے بعد یہ دعا مانگنا اللہ کے حضور اخلاص اور رسول ﷺ سے محبت کا اظہار ہے۔"
+              ],
+              "english": [
+                "This recommended supplication is recited immediately after the Adhān finishes and Ṣalawāt is sent, linking it to the intercession on the Day of Judgment.",
+                "The Prophet (ﷺ) personally taught this Du'ā' and promised a great reward for reciting it.",
+                "Reciting this Du'ā' after responding to the Adhān is an expression of sincerity before Allah and love for His Messenger (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وسیلہ اور مقام محمود",
+              "english": "Al-Wasīlah and Maqāman Maḥmūda"
+            },
+            "content": {
+              "urdu": [
+                "«الوسیلة» جنت میں نبی اکرم ﷺ کا سب سے بلند اور مخصوص مقام ہے، جو صرف ایک شخص کو ملے گا۔",
+                "«المقام المحمود» وہ مقام ہے جہاں قیامت کے دن نبی ﷺ شفاعت کبریٰ کے لیے کھڑے ہوں گے، جس پر سب آپ کی تعریف کریں گے۔",
+                "اس دعا میں اللہ سے یہ مطالبہ کیا گیا ہے کہ وہ اپنے نبی کو وہ عظیم مقام عطا فرمائے جس کا اس نے وعدہ کیا ہے۔"
+              ],
+              "english": [
+                "Al-Wasīlah is the highest and most exclusive station in Paradise reserved only for the Prophet (ﷺ).",
+                "Al-Maqāman Maḥmūd (The Praised Station) is the place where the Prophet (ﷺ) will stand for the Great Intercession (Ash-Shafā'ah Al-Kubrā) on the Day of Judgment, earning the praise of all mankind.",
+                "In this Du'ā', Allah is asked to grant His Prophet this tremendous station which He has promised him."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شفاعت کا حصول اور توحید",
+        "english": "Attaining Intercession and Monotheism"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شفاعت کی حلت",
+              "english": "The Lawfulness of Intercession"
+            },
+            "content": {
+              "urdu": [
+                "اس دعا کو پڑھنے والے کے لیے نبی ﷺ کی شفاعت حلال ہو جائے گی، یعنی اس کا حقدار ہو جائے گا۔",
+                "یہ فضیلت اللہ کی طرف سے انعام ہے جو اپنے نبی سے محبت اور ان کے لیے خیر کی دعا کرتا ہے۔",
+                "شفاعت کا حلال ہونا دنیا میں نیک عمل کی وجہ سے آخرت میں فائدہ اٹھانے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "The intercession of the Prophet (ﷺ) will become lawful for the one who recites this Du'ā', meaning they will be granted its right.",
+                "This virtue is a reward from Allah for the one who loves His Prophet and supplicates for his elevated status.",
+                "The lawfulness of intercession is a means of benefitting in the Hereafter due to a righteous deed performed in this world."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توحید کے اصول",
+              "english": "Principles of Monotheism"
+            },
+            "content": {
+              "urdu": [
+                "دعا صرف اللہ سے مانگی جاتی ہے، اور اس دعا میں بھی نبی ﷺ کے لیے اللہ سے ہی مقام و فضیلت طلب کی گئی ہے۔",
+                "یہ اس توحید (اللہ کی وحدانیت) کے اصول کی تاکید ہے کہ نبی ﷺ خود بھی مقام و مرتبے کے لیے اللہ کے محتاج ہیں۔",
+                "مسلمان کو چاہیے کہ وہ شفاعت کو صرف اللہ سے ہی طلب کرے اور اس کے اسباب پر عمل کرے۔"
+              ],
+              "english": [
+                "Supplication is directed only to Allah, and even in this Du'ā', the station and excellence are asked from Allah for the Prophet (ﷺ).",
+                "This emphasizes the principle of Monotheism (Tawhīd) that the Prophet (ﷺ) himself is dependent on Allah for his status.",
+                "A Muslim should seek intercession only from Allah and strive to perform the deeds that lead to it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دعا کے دیگر آداب",
+        "english": "Other Manners of Supplication"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اذان کا مقصد",
+              "english": "The Purpose of the Adhān"
+            },
+            "content": {
+              "urdu": [
+                "دعا میں اذان کو 'الدعوة التامة' (کامل دعا) کہا گیا ہے کیونکہ اس میں توحید اور رسالت کی مکمل گواہی ہے۔",
+                "اذان تمام بنیادی عقائد کو مختصر کلمات میں بیان کرتی ہے، اس لیے اسے کامل دعا کہا گیا۔",
+                "اذان دراصل نماز کی دعوت ہے، اور یہ دعا اس دعوت کے بعد کی جاتی ہے۔"
+              ],
+              "english": [
+                "The Adhān is referred to as 'Ad-Da'wah at-Tāmma' (the perfect call) in the Du'ā' because it contains the complete testimony of Monotheism and Prophethood.",
+                "The Adhān summarizes all fundamental beliefs in brief phrases, hence it is called the perfect call.",
+                "The Adhān is essentially the invitation to prayer, and this Du'ā' is recited after that invitation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کی اہمیت",
+              "english": "Importance of Prayer"
+            },
+            "content": {
+              "urdu": [
+                "دعا میں نماز کو 'الصلاة القائمة' (قائم ہونے والی نماز) کہا گیا ہے جو اس کے فوری وجوب کو ظاہر کرتا ہے۔",
+                "اذان سننے کے بعد دعا مانگنا اور پھر فوراً نماز کے لیے تیار ہو جانا، ایک خوبصورت ترتیب ہے۔",
+                "مسلمان کو چاہیے کہ وہ اس فضیلت کو حاصل کرنے کے بعد نماز میں خشوع کو یقینی بنائے۔"
+              ],
+              "english": [
+                "In the Du'ā', the prayer is called 'Aṣ-Ṣalāt al-Qā'imah' (the established prayer), signifying its imminent obligation.",
+                "Reciting the Du'ā' after hearing the Adhān and then immediately preparing for prayer is a beautiful sequence.",
+                "A Muslim should ensure their reverence (Khushu') in prayer after attaining this great virtue."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

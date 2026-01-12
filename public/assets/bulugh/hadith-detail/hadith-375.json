@@ -1,0 +1,269 @@
+{
+  "hadithId": 375,
+  "hadithNo": 22,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/abudawud:1067"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام - كتاب الصلاة",
+    "babId": 22
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (1067)، والحاكم (1/288) من طريق أبي موسى الأشعري، وصححه النووي في المجموع (4/483) والألباني في إرواء الغليل (592).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (1067) اور حاکم (1/288) نے ابوموسیٰ اشعری کے واسطے سے روایت کیا ہے۔ امام نووی اور علامہ البانی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (1067) and al-Hakim (1/288) via Abu Musa al-Ash'ari. Graded Sahih by an-Nawawi in al-Majmu' (4/483) and al-Albani in Irwa' al-Ghalil (592)."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَقٌّ وَاجِبٌ",
+      "english": "Necessary duty",
+      "urdu": "لازمی حق / واجب"
+    },
+    {
+      "arabic": "جَمَاعَةٍ",
+      "english": "Congregation",
+      "urdu": "جماعت"
+    },
+    {
+      "arabic": "مَمْلُوكٌ",
+      "english": "Slave",
+      "urdu": "غلام"
+    },
+    {
+      "arabic": "صَبِيٌّ",
+      "english": "Boy / Child",
+      "urdu": "بچہ"
+    },
+    {
+      "arabic": "مَرِيضٌ",
+      "english": "Sick person",
+      "urdu": "مریض"
+    }
+  ],
+  "summary": {
+    "urdu": "جمعہ کی نماز باجماعت ادا کرنا ہر تندرست، آزاد اور بالغ مسلمان مرد پر فرض ہے، جبکہ خواتین، بچے، بیمار اور غلام اس سے مستثنیٰ ہیں۔",
+    "english": "Friday prayer in congregation is compulsory for every healthy, free, adult Muslim male, while women, children, the sick, and slaves are exempt."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (1067)",
+      "english": "Sunan Abi Dawud (1067)"
+    },
+    {
+      "arabic": "المستدرك للحاكم (1062)",
+      "english": "Al-Mustadrak al-Hakim (1062)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "طارق بن شهاب",
+        "english": "Tariq bin Shihab"
+      },
+      "slug": "tariq-bin-shihab"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أبو موسى الأشعري",
+        "english": "Abu Musa al-Ash'ari"
+      },
+      "slug": "abu-musa-al-ashari"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOfR8P2lT88",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جمعہ کی فرضیت اور جماعت",
+        "english": "Obligation of Jumu'ah and Congregation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باجماعت ادائیگی کی اہمیت",
+              "english": "Significance of Congregation"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کی نماز تنہا ادا نہیں کی جا سکتی بلکہ جماعت لازمی شرط ہے۔",
+                "یہ مسلمانوں کا ہفتہ وار سب سے بڑا تربیتی اور ایمانی اجتماع ہے۔",
+                "بغیر شرعی عذر کے جمعہ چھوڑنا سنگین گناہ اور نفاق کی نشانی ہے۔"
+              ],
+              "english": [
+                "Jumu'ah prayer cannot be performed individually; congregation is a mandatory condition.",
+                "It serves as the largest weekly educational and spiritual gathering for Muslims.",
+                "Missing Jumu'ah without a valid Sharia excuse is a grave sin and a sign of hypocrisy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وجوب کے شرائط",
+              "english": "Conditions of Obligation"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ صرف ان مسلمانوں پر واجب ہے جو مقیم، آزاد اور تندرست ہوں۔",
+                "مسافر پر جمعہ کی ادائیگی واجب نہیں، تاہم وہ پڑھ لے تو بہتر ہے۔",
+                "اسلام نے عبادات کے معاملے میں انسان کی جسمانی حالت کا لحاظ رکھا ہے۔"
+              ],
+              "english": [
+                "Jumu'ah is only obligatory for Muslims who are resident, free, and healthy.",
+                "It is not mandatory for a traveler, although performing it is better if possible.",
+                "Islam considers a person's physical and social state in the rules of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مستثنیٰ افراد کے احکام",
+        "english": "Rulings for Exempted Individuals"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خواتین اور بچوں کا حکم",
+              "english": "Ruling for Women and Children"
+            },
+            "content": {
+              "urdu": [
+                "عورتوں پر ان کی گھریلو ذمہ داریوں کی وجہ سے جمعہ فرض نہیں کیا گیا۔",
+                "بچوں پر بلوغت سے پہلے شرعی احکامات کی پابندی لازم نہیں ہوتی۔",
+                "اگر یہ افراد مسجد آ کر جمعہ پڑھ لیں تو ان کی نماز صحیح ہوگی۔"
+              ],
+              "english": [
+                "Women are not obliged to attend Jumu'ah due to their domestic responsibilities.",
+                "Children are not bound by Sharia obligations until they reach the age of puberty.",
+                "If these individuals attend the mosque and pray Jumu'ah, their prayer is valid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مریض اور معذور کا عذر",
+              "english": "Excuse for the Sick and Disabled"
+            },
+            "content": {
+              "urdu": [
+                "ایسا مریض جو مسجد جانے کی طاقت نہ رکھتا ہو، وہ معذور ہے۔",
+                "بیمار شخص کو جمعہ کے بدلے گھر میں ظہر کی نماز ادا کرنی چاہیے۔",
+                "اللہ تعالیٰ بندوں پر ان کی ہمت سے زیادہ بوجھ نہیں ڈالتا۔"
+              ],
+              "english": [
+                "A patient who lacks the strength to go to the mosque is considered excused.",
+                "The sick person should perform Dhuhr prayer at home instead of Jumu'ah.",
+                "Allah does not burden any soul beyond its capacity and endurance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی نظامِ عدل و رحمت",
+        "english": "Islamic System of Justice and Mercy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی حقوق اور رعایت",
+              "english": "Human Rights and Concessions"
+            },
+            "content": {
+              "urdu": [
+                "غلام پر جمعہ اس لیے نہیں کہ وہ اپنے آقا کی خدمت میں مصروف ہوتا ہے۔",
+                "یہ رعایت اسلام کی طرف سے کمزور طبقات کے لیے ایک بڑی آسانی ہے۔",
+                "اسلامی احکامات انسانی ضروریات اور حالات کے عین مطابق مرتب کیے گئے ہیں۔"
+              ],
+              "english": [
+                "A slave is exempt because he is occupied in serving his master's needs.",
+                "This concession is a great facility provided by Islam for vulnerable classes.",
+                "Islamic rulings are formulated in perfect harmony with human needs and situations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توازن اور اعتدال",
+              "english": "Balance and Moderation"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے حقوق اللہ اور حقوق العباد کے درمیان توازن قائم کیا ہے۔",
+                "بیمار کی عیادت اور تیمارداری کو جمعہ کی حاضری پر فوقیت مل سکتی ہے۔",
+                "دینِ اسلام تنگی پیدا کرنے کے بجائے آسانی پیدا کرنے والا نظام ہے۔"
+              ],
+              "english": [
+                "Sharia establishes a perfect balance between divine rights and human rights.",
+                "Caring for the sick can sometimes take precedence over attending Jumu'ah.",
+                "Islam is a system designed to create ease rather than causing hardship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور تربیتی پہلو",
+        "english": "Educational and Reformative Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علمی تحقیق کی اہمیت",
+              "english": "Importance of Academic Research"
+            },
+            "content": {
+              "urdu": [
+                "محدثین نے طارق بن شہاب کی روایت پر اسنادی بحث کر کے امانت داری دکھائی۔",
+                "صحابی کا مرسل (جب وہ واسطہ ذکر نہ کرے) جمہور کے نزدیک حجت ہے۔",
+                "دینی معلومات کو مستند ذرائع سے حاصل کرنا ہر مسلمان کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "Hadith scholars showed integrity by discussing the chain of Tariq bin Shihab.",
+                "A Mursal narration of a Companion is a valid proof according to the majority.",
+                "Obtaining religious information from authentic sources is every Muslim's responsibility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کی حاضری مسلمانوں میں نظم و ضبط اور بھائی چارہ پیدا کرتی ہے۔",
+                "مستثنیٰ افراد کا خیال رکھنا اور انہیں سہولت دینا اسلامی معاشرے کا خاصہ ہے۔",
+                "ہمیں چاہیے کہ سنت کے مطابق اپنی عبادات اور معاملات کو درست کریں۔"
+              ],
+              "english": [
+                "Attending Jumu'ah fosters discipline and brotherhood among the Muslims.",
+                "Caring for exempt individuals and providing facility is a trait of Islamic society.",
+                "We must rectify our worship and dealings in accordance with the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

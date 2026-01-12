@@ -1,0 +1,145 @@
+{
+  "hadithId": 344,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/204"],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "كتاب الصلاة - باب صلاة المسافر والمريض",
+    "babId": 21
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (691).",
+    "urdu": "صحیح۔ اسے امام مسلم نے اپنی صحیح (691) میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (691)."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَسِيرَةَ",
+      "english": "Journey / Distance",
+      "urdu": "مسافت / سفر"
+    },
+    {
+      "arabic": "أَمْيَالٍ",
+      "english": "Miles",
+      "urdu": "میل"
+    },
+    {
+      "arabic": "فَرَاسِخَ",
+      "english": "Farsakhs (1 Farsakh = 3 Miles approx)",
+      "urdu": "فرسخ (ایک فرسخ تقریباً تین میل کا ہوتا ہے)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں سفر کی اس مسافت کا ذکر ہے جس پر پہنچ کر رسول اللہ ﷺ نماز قصر کرنا شروع فرما دیتے تھے۔ اس سے ثابت ہوتا ہے کہ آبادی سے تھوڑا دور نکلنے پر قصر شروع کی جا سکتی ہے۔",
+    "english": "This Hadith mentions the distance at which the Messenger of Allah (ﷺ) would begin to shorten his prayers. it indicates that Qasr can begin once a person has moved some distance away from their home settlement."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب صلاة المسافرين وقصرها، رقم 691",
+      "english": "Sahih Muslim, The Book of Prayer - Travelers, No. 691"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قصر کی مسافت کا تعین",
+        "english": "Determining the Distance for Qasr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین میل یا تین فرسخ",
+              "english": "Three Miles or Three Farsakhs"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث میں راوی کو شک ہے کہ الفاظ 'تین میل' تھے یا 'تین فرسخ'۔ تین فرسخ تقریباً 9 میل (14-15 کلومیٹر) بنتے ہیں۔",
+                "جمہور فقہاء کے نزدیک قصر کے لیے کم از کم مسافت تقریباً 48 میل (77-80 کلومیٹر) ہے، جبکہ اہل حدیث اور بعض دیگر محققین اس حدیث کی بنیاد پر کم مسافت میں بھی قصر کے قائل ہیں۔",
+                "ایک اہم نکتہ یہ ہے کہ یہ مسافت قصر شروع کرنے کی جگہ بتاتی ہے، نہ کہ وہ کل مسافت جس کے ارادے پر قصر واجب ہوتی ہے۔"
+              ],
+              "english": [
+                "The narrator was uncertain whether the wording was 'three miles' or 'three farsakhs' (3 farsakhs is approx 9 miles).",
+                "While the majority of jurists set the minimum distance for Qasr at about 48 miles (approx 80km), others argue based on this Hadith that Qasr can be performed for shorter journeys.",
+                "An important distinction is that this refers to the point where the Prophet (ﷺ) would start praying two rak'ahs after leaving his city, provided he was on a long journey."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قصر کب شروع کی جائے؟",
+        "english": "When to Begin Qasr?"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آبادی سے خروج",
+              "english": "Leaving the Built-up Area"
+            },
+            "content": {
+              "urdu": [
+                "جب انسان اپنے شہر یا بستی کی آبادی سے باہر نکل جائے تو قصر کی رخصت شروع ہو جاتی ہے۔",
+                "رسول اللہ ﷺ مدینہ سے نکل کر جب تین میل یا فرسخ دور 'ذوالحلیفہ' پہنچتے تو قصر فرماتے تھے۔",
+                "گھر سے نکلتے ہی اپنے محلے میں قصر کرنا جائز نہیں بلکہ شہر کی حدود چھوڑنا ضروری ہے۔"
+              ],
+              "english": [
+                "The concession for Qasr begins once a person leaves the built-up residential area of their city or town.",
+                "The Prophet (ﷺ) used to shorten his prayer at 'Dhu al-Hulaifah' which was at this distance from Madinah.",
+                "It is not permissible to perform Qasr while still inside one's own neighborhood; one must cross the city limits."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی رخصت",
+        "english": "A Concession from Allah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفر میں آسانی",
+              "english": "Ease in Travel"
+            },
+            "content": {
+              "urdu": [
+                "قصر اللہ تعالیٰ کی طرف سے ایک صدقہ اور تحفہ ہے جسے قبول کرنا چاہیے۔",
+                "نماز کو مختصر کرنا سفر کی تھکاوٹ اور مشقت میں بندے کے لیے بڑی سہولت ہے۔",
+                "نبی کریم ﷺ نے سفر میں کبھی بھی چار رکعت والی نماز پوری نہیں پڑھی، ہمیشہ قصر فرمائی۔"
+              ],
+              "english": [
+                "Qasr is a gift and charity from Allah that should be accepted gracefully.",
+                "Shortening the prayer provides great ease for the servant during the fatigue and hardship of travel.",
+                "The Prophet (ﷺ) never performed the full four-unit prayer while on a journey; he always practiced Qasr."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "hadithId": 789,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 7,
+    "inKitabBab": 18,
+    "arabicBook": "",
+    "babId": 59
+  },
+  "name": {
+    "arabic": " وَعَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : قَالَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-{ اَلْعَائِدُ فِي هِبَتِهِ كَالْكَلْبِ يَقِيءُ, ثُمَّ يَعُودُ فِي قَيْئِهِ" } مُتَّفَقٌ عَلَيْه ِ وَفِي رِوَايَةٍ لِلْبُخَارِيِّ : { لَيْسَ لَنَا مَثَلُ اَلسَّوْءِ, اَلَّذِي يَعُودُ فِي هِبَتِهِ كَالْكَلْبِ يَرْجِعُ فِي قَيْئِهِ }",
+    "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ” ہبہ کر کے اسے واپس لینے والا اس کتے کی طرح ہے جو خود قے کرتا ہے اور پھر اسے کھا لیتا ہے۔“ (بخاری و مسلم) اور بخاری کی ایک روایت میں ہے کہ ” ہمارے لیے اس سے بری مثال اور کوئی نہیں کہ جو شخص اپنے ہبہ کو دے کر واپس لیتا ہے وہ اس کتے کی مانند ہے جو خود ہی قے کرتا ہے اور پھر اس کی طرف رجوع کرتا ہے۔“ ",
+    "english": " "
+  },
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البخاري (2589)‏ ، ومسلم (1622)‏ (8)‏.‏  البخاري برقم ( 2622 )‏.‏ ",
+    "urdu": " ",
+    "english": " "
+  },
+  "importantWords": [
+    {
+      "arabic": " ",
+      "english": " ",
+      "urdu": " "
+    }
+  ],
+  "summary": {
+    "urdu": " ",
+    "english": " "
+  },
+  "references": [
+    {
+      "arabic": " ",
+      "english": " "
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": " ",
+        "english": " "
+      },
+      "slug": " "
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": " ",
+    "english": " "
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

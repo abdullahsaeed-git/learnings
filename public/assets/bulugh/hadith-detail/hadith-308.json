@@ -1,0 +1,237 @@
+{
+  "hadithId": 308,
+  "hadithNo": 29,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:755"],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "صحيح مسلم",
+    "babId": 19
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (755)‏.‏",
+    "urdu": "صحیح۔ اسے مسلم (755) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (755)."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَافَ",
+      "english": "Feared",
+      "urdu": "ڈرا / اندیشہ ہوا"
+    },
+    {
+      "arabic": "أَوَّلَهُ",
+      "english": "Its beginning",
+      "urdu": "اس کے اول میں"
+    },
+    {
+      "arabic": "طَمِعَ",
+      "english": "Hoped / Desired",
+      "urdu": "امید رکھی / طمع کی"
+    },
+    {
+      "arabic": "مَشْهُودَةٌ",
+      "english": "Witnessed (by angels)",
+      "urdu": "حاضر کی گئی (فرشتے حاضر ہوتے ہیں)"
+    },
+    {
+      "arabic": "أَفْضَلُ",
+      "english": "Better / Superior",
+      "urdu": "زیادہ بہتر / افضل"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وتر کے وقت کے تعین میں انسان کے ذاتی حالات کو مدنظر رکھتی ہے: اگر جاگنے کا یقین نہ ہو تو احتیاطاً پہلے پڑھ لے، اور اگر یقین ہو تو آخری وقت افضل ہے کیونکہ وہاں رحمت کے فرشتے موجود ہوتے ہیں۔",
+    "english": "This Hadith considers personal circumstances regarding the time of Witr: if one is unsure of waking up, it is safer to pray early; if sure, the last part is superior as it is witnessed by angels of mercy."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (755)",
+      "english": "Reported by Muslim (755)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جَابِرٍ بن عبد اللہ",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوف اور طمع کا معیار",
+              "english": "Criteria of Fear & Hope"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے وتر کے وقت کا فیصلہ انسان کی اپنی عادت پر چھوڑ دیا۔",
+                "خوف سے مراد نیند کا غلبہ ہے، اور طمع سے مراد بیدار ہونے کا یقین ہے۔",
+                "یہ حکم ہر شخص کے لیے الگ الگ ہو سکتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) left the decision of Witr time to one's own habit.",
+                "'Fear' refers to overpowering sleep, and 'Hope' refers to certainty of waking up.",
+                "This ruling can vary from person to person."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشہودہ کا مطلب",
+              "english": "Meaning of Mashhudah"
+            },
+            "content": {
+              "urdu": [
+                "رات کے آخری پہر کو 'مشہودہ' کہا گیا ہے۔",
+                "اس وقت رحمت اور مغفرت کے فرشتے خاص طور پر حاضر ہوتے ہیں۔",
+                "اللہ تعالیٰ خود آسمان دنیا پر نزول فرماتا ہے (جیسا کہ اس کی شان کے لائق ہے)۔"
+              ],
+              "english": [
+                "The last part of the night is called 'Mashhudah' (witnessed).",
+                "Angels of mercy and forgiveness are specially present at this time.",
+                "Allah Himself descends to the lowest heaven (befitting His Majesty)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احتیاط بمقابلہ فضیلت",
+              "english": "Caution vs. Virtue"
+            },
+            "content": {
+              "urdu": [
+                "رات کے شروع میں پڑھنا 'احتیاط' (Prudence) ہے۔",
+                "رات کے آخر میں پڑھنا 'فضیلت' (Virtue) ہے۔",
+                "شریعت وتر کو ضائع ہونے سے بچانا چاہتی ہے، اس لیے کمزور کو پہلے پڑھنے کا حکم دیا۔"
+              ],
+              "english": [
+                "Praying at the start of night is 'Caution'.",
+                "Praying at the end of night is 'Virtue'.",
+                "Shariah wants to prevent Witr from being missed, hence advised the weak to pray early."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیدنا ابوہریرہ کو نصیحت",
+              "english": "Advice to Abu Hurairah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے سیدنا ابوہریرہ کو سونے سے پہلے وتر پڑھنے کی وصیت کی۔",
+                "وجہ یہ تھی کہ وہ رات کے شروع میں حدیث یاد کرتے تھے اور دیر سے سوتے تھے۔",
+                "یہ وصیت ان کے ذاتی حالات کے مطابق تھی۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) advised Abu Hurairah to pray Witr before sleep.",
+                "The reason was that he used to memorize Hadith early in the night and slept late.",
+                "This advice was specific to his personal circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنی اصلاح",
+              "english": "Self-Correction"
+            },
+            "content": {
+              "urdu": [
+                "شروعات میں انسان کو احتیاط کرنی چاہیے اور سونے سے پہلے پڑھ لے۔",
+                "جب تہجد کی عادت پکی ہو جائے تو وتر کو مؤخر کر دے۔",
+                "تدریجی عمل (Step by step) کامیابی کی کنجی ہے۔"
+              ],
+              "english": [
+                "Initially, one should be cautious and pray before sleeping.",
+                "When the habit of Tahajjud is firm, delay the Witr.",
+                "Gradual action is the key to success."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی قدر",
+              "english": "Valuing Time"
+            },
+            "content": {
+              "urdu": [
+                "آخری پہر کی فضیلت کو ضائع نہیں کرنا چاہیے۔",
+                "اگر ممکن ہو تو الارم لگا کر یا جلدی سو کر اس وقت کو پا لیں۔",
+                "فرشتوں کی گواہی والی نماز کی تاثیر ہی کچھ اور ہوتی ہے۔"
+              ],
+              "english": [
+                "The virtue of the last part of the night should not be wasted.",
+                "If possible, catch this time by setting an alarm or sleeping early.",
+                "The prayer witnessed by angels has a unique effect."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شریعت کی لچک",
+              "english": "Flexibility of Shariah"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر مزاج اور صلاحیت کے انسان کے لیے ہے۔",
+                "مضبوط ارادے والے اور کمزور ارادے والے، دونوں کے لیے راستہ رکھا گیا ہے۔",
+                "یہ دینِ فطرت ہونے کی دلیل ہے۔"
+              ],
+              "english": [
+                "Islam is for people of every temperament and capacity.",
+                "A path is provided for both the strong-willed and the weak-willed.",
+                "This is proof of it being the Religion of Nature."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "chapId": 71,
+  "bookId": 8,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 915,
+    "to": 927
+  },
+  "hadiths": [
+    {
+      "id": 915,
+      "name": {
+        "arabic": "عَنِ اِبْنِ عُمَرَ ‏- رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَبْغَضُ اَلْحَلَالِ عِنْدَ اَللَّهِ اَلطَّلَاقُ } رَوَاهُ أَبُو دَاوُدَ , وَابْنُ مَاجَهْ , وَصَحَّحَهُ اَلْحَاكِمُ , وَرَجَّحَ أَبُو حَاتِمٍ إِرْسَالَهُ",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”حلال چیزوں میں سے اللہ تعالیٰ کے نزدیک سب سے زیادہ ناپسندیدہ چیز طلاق ہے۔“ اسے ابوداؤد اور ابن ماجہ نے روایت کیا ہے اور حاکم نے اسے صحیح قرار دیا ہے اور ابوحاتم نے اس کے مرسل ہونے کو ترجیح دی ہے۔",
+        "english": "Narrated Ibn 'Umar (RA): The Messenger of Allah (ﷺ) said: 'The most loathed of all lawful things in the sight of Allah is divorce.' Reported by Abu Dawud and Ibn Majah; Al-Hakim graded it Sahih, but Abu Hatim preferred its being Mursal (interrupted chain)."
+      }
+    },
+
+    {
+      "id": 916,
+      "name": {
+        "arabic": "وَعَنِ اِبْنِ عُمَرَ ‏- رَضِيَ اَللَّهُ عَنْهُمَا { أَنَّهُ طَلَّقَ اِمْرَأَتَهُ ‏- وَهِيَ حَائِضٌ ‏- فِي عَهْدِ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-فَسَأَلَ عُمَرُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-عَنْ ذَلِكَ ? فَقَالَ : \" مُرْهُ فَلْيُرَاجِعْهَا , ثُمَّ لْيُمْسِكْهَا حَتَّى تَطْهُرَ , ثُمَّ تَحِيضَ , ثُمَّ تَطْهُرَ , ثُمَّ إِنْ شَاءَ أَمْسَكَ بَعْدُ , وَإِنْ شَاءَ طَلَّقَ بَعْدَ أَنْ يَمَسَّ , فَتِلْكَ اَلْعِدَّةُ اَلَّتِي أَمَرَ اَللَّهُ أَنْ تُطَلَّقَ لَهَا اَلنِّسَاءُ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے مروی ہے کہ انہوں نے اپنی بیوی کو عہد نبوی صلی اللہ علیہ وسلم میں طلاق دے دی جبکہ وہ حالت حیض میں تھی۔ پس سیدنا عمر رضی اللہ عنہ نے اس کے بارے میں رسول اللہ صلی اللہ علیہ وسلم سے پوچھا، آپ صلی اللہ علیہ وسلم نے فرمایا کہ ”اسے کہو کہ رجوع کر لے اور اسے اس وقت تک روک لے کہ طہر شروع ہو جائے۔ پھر ایام آئیں پھر طہر شروع ہو پھر اگر چاہے تو اس کے بعد روک لے اور اگر چاہے تو طلاق دے۔ صحبت و مجامعت کرنے سے پہلے۔ پس یہ وہ عدت ہے جس کا اللہ تعالیٰ نے حکم دیا ہے کہ اس میں عورتوں کو طلاق دی جائے۔“ (بخاری و مسلم)",
+        "english": "Narrated Ibn 'Umar (RA): He divorced his wife while she was menstruating during the lifetime of Allah's Messenger (ﷺ). 'Umar bin al-Khattab asked Allah's Messenger (ﷺ) about that. Allah's Messenger (ﷺ) said, \"Command him to take her back and keep her until she is purified, then she has another period and then becomes purified. If he then wishes to divorce her, he may do so before he has sexual intercourse with her, for that is the period (Iddah) which Allah has commanded for the divorce of women.\""
+      }
+    },
+
+    {
+      "id": 917,
+      "name": {
+        "arabic": " وَعَنِ اِبْنِ عَبَّاسٍ ‏- رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : { كَانَ اَلطَّلَاقُ عَلَى عَهْدِ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-وَأَبِي بَكْرٍ , وَسَنَتَيْنِ مِنْ خِلَافَةِ عُمَرَ , طَلَاقُ اَلثَّلَاثِ وَاحِدَةٌ , فَقَالَ عُمَرُ بْنُ اَلْخَطَّابِ : إِنَّ اَلنَّاسَ قَدْ اِسْتَعْجَلُوا فِي أَمْرٍ كَانَتْ لَهُمْ فِيهِ أَنَاةٌ , فَلَوْ أَمْضَيْنَاهُ عَلَيْهِمْ ? فَأَمْضَاهُ عَلَيْهِمْ } .‏ رَوَاهُ مُسْلِمٌ ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے روایت ہے کہ عہدرسالت مآب صلی اللہ علیہ وسلم اور دور خلافت سیدنا ابوبکر رضی اللہ عنہ اور سیدنا عمر رضی اللہ عنہ کی خلافت کے ابتدائی دو سال تک تین طلاقیں، ایک ہی طلاق شمار ہوتی تھیں۔ سیدنا عمر رضی اللہ عنہ نے فرمایا کہ لوگوں نے ایسے معاملے میں جلدی کی جس میں ان کے لیے سہولت دی گئی تھی، پس چاہیئے کہ ہم اس کو نافذ کر دیں۔ لہذا آپ رضی اللہ عنہ نے اس کو ان پر جاری کر دیا۔ (مسلم)",
+        "english": "Narrated Ibn 'Abbas (RA): In the time of the Messenger of Allah (ﷺ), Abu Bakr (RA), and the first two years of the Caliphate of 'Umar (RA), three pronouncements of divorce were considered as one. Then 'Umar bin al-Khattab (RA) said, 'The people have become hasty in a matter in which they used to have patience. Should we not enforce it upon them?' So he enforced it upon them."
+      }
+    },
+
+    {
+      "id": 918,
+      "name": {
+        "arabic": " وَعَنْ مَحْمُودِ بْنِ لَبِيدٍ قَالَ : { أُخْبِرَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-عَنْ رَجُلٍ طَلَّقَ اِمْرَأَتَهُ ثَلَاثَ تَطْلِيقَاتٍ جَمِيعًا , فَقَامَ غَضْبَانَ ثُمَّ قَالَ : \" أَيُلْعَبُ بِكِتَابِ اَللَّهِ تَعَالَى , وَأَنَا بَيْنَ أَظْهُرِكُمْ\" .‏ حَتَّى قَامَ رَجُلٌ , فَقَالَ : يَا رَسُولَ اَللَّهِ ! أَلَا أَقْتُلُهُ ? } رَوَاهُ النَّسَائِيُّ وَرُوَاتُهُ مُوَثَّقُونَ",
+        "urdu": "سیدنا محمود بن لبید رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم کو اطلاع دی گئی کہ ایک شخص نے اپنی بیوی کو اکٹھی تین طلاق دے ڈالی ہیں۔ آپ صلی اللہ علیہ وسلم غضبناک ہو کر اٹھ کھڑے ہوئے اور فرمایا ”کیا اللہ کی کتاب سے کھیلا جا رہا ہے جب کہ میں تمہارے درمیان موجود ہوں۔“ اس پر ایک آدمی کھڑا ہوا اور اس نے عرض کی ”یا رسول اللہ! کیا میں اسے قتل نہ کر ڈالوں؟“ نسائی اور اس کے راوی ثقہ ہیں۔",
+        "english": "Narrated Mahmud bin Labid (RA): Allah's Messenger (ﷺ) was informed about a man who had divorced his wife with three divorces at once. He (the Prophet) stood up in anger and said: 'Is the Book of Allah being played with while I am still among you?' A man then stood up and said, 'O Messenger of Allah! Shall I kill him?'"
+      }
+    },
+
+    {
+      "id": 919,
+      "name": {
+        "arabic": " وَعَنِ اِبْنِ عَبَّاسٍ ‏- رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : { طَلَّقَ أَبُو رُكَانَةَ أُمَّ رُكَانَةَ .‏ فَقَالَ لَهُ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-\" رَاجِعِ امْرَأَتَكَ \" , فَقَالَ : إِنِّي طَلَّقْتُهَا ثَلَاثًا.‏ قَالَ : \" قَدْ عَلِمْتُ , رَاجِعْهَا } رَوَاهُ أَبُو دَاوُدَ وَفِي لَفْظٍ لِأَحْمَدَ : { طَلَّقَ أَبُو رُكَانَةَ اِمْرَأَتَهُ فِي مَجْلِسٍ وَاحِدٍ ثَلَاثًا , فَحَزِنَ عَلَيْهَا , فَقَالَ لَهُ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-\" فَإِنَّهَا وَاحِدَةٌ } وَفِي سَنَدِهَا اِبْنُ إِسْحَاقَ , وَفِيهِ مَقَالٌ وَقَدْ رَوى أَبُو دَاوُدَ مِنْ وَجْهٍ آخَرَ أَحْسَنَ مِنْهُ : { أَنَّ رُكَانَةَ طَلَّقَ اِمْرَأَتَهُ سُهَيْمَةَ اَلْبَتَّةَ , فَقَالَ : \"وَاَللَّه مَا أَرَدْتُ بِهَا إِلَّا وَاحِدَةً, فَرَدَّهَا إِلَيْهِ اَلنَّبِيُّ ‏-صَلَّى اَللَّهُ عَلَيْهِ وَسَلَّمَ }",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ ابورکانہ نے اپنی بیوی کو طلاق دے دی۔ رسول اللہ صلی اللہ علیہ وسلم نے اسے حکم دیا کہ ”ام رکانہ سے رجوع کر لو۔“ ابورکانہ رضی اللہ عنہ بولے میں نے اسے تین طلاق دے دی ہیں۔ آپ صلی اللہ علیہ وسلم نے فرمایا ”مجھے معلوم ہے، تم اس سے رجوع کر لو۔“ (ابوداؤد) اور مسند احمد کی ایک روایت میں ہے کہ ابورکانہ رضی اللہ عنہ نے ایک ہی مجلس میں تین طلاقیں دی تھیں۔ پھر اس پر پشیمان ہوئے۔ رسول اللہ صلی اللہ علیہ وسلم نے ابورکانہ رضی اللہ عنہ سے فرمایا ”وہ تینوں طلاقیں ایک ہی ہیں۔“ ان دونوں روایتوں میں ابن اسحٰق ہے جس کے متعلق کلام ہے اور ابوداؤد نے ایک دوسرے طریق سے اسے روایت کیا ہے جو اس سے بہتر ہے وہ یہ کہ ابورکانہ رضی اللہ عنہ نے اپنی بیوی سھیمہ کو بالکل طلاق دے دی (یعنی تینوں طلاقیں) اور پھر کہا کہ بخدا میں نے ایک طلاق کی نیت کی تھی تو نبی کریم صلی اللہ علیہ وسلم نے ام رکانہ رضی اللہ عنہا کو واپس لوٹا دیا۔",
+        "english": "Narrated Ibn 'Abbas (RA): Abu Rukanah divorced his wife, and Allah's Messenger (ﷺ) said to him, 'Take your wife back.' He replied, 'I have divorced her three times.' The Prophet (ﷺ) said, 'I know, take her back.' (Reported by Abu Dawud). In a narration by Ahmad: 'Abu Rukanah divorced his wife three times in one sitting and then felt sad about it. The Prophet (ﷺ) said, 'It is only one (divorce).'' The chain contains Ibn Ishaq, who is criticized. Abu Dawud reported another version which is better: 'Rukanah divorced his wife Suhaymah 'al-Battah' (irrevocably) and said: 'By Allah, I only intended one.' So the Prophet (ﷺ) returned her to him.'"
+      }
+    },
+
+    {
+      "id": 920,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ ثَلَاثٌ جِدُّهنَّ جِدٌّ , وَهَزْلُهُنَّ جِدٌّ : اَلنِّكَاحُ , وَالطَّلَاقُ , وَالرَّجْعَةُ } رَوَاهُ اَلْأَرْبَعَةُ إِلَّا النَّسَائِيَّ , وَصَحَّحَهُ اَلْحَاكِمُ",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”تین امور ایسے ہیں کہ ان کی سنجیدگی بھی سنجیدگی ہے اور ان کا مذاق بھی سنجیدگی ہے۔ نکاح، طلاق اور رجوع کرنا۔“ اسے چاروں نے روایت کیا ہے بجز نسائی کے اور حاکم نے اسے صحیح کہا ہے۔",
+        "english": "Narrated Abu Hurairah (RA): The Messenger of Allah (ﷺ) said: 'There are three things which, whether undertaken seriously or in jest, are treated as serious: Marriage, divorce and taking back a wife (after a divorce which is not final).' [Reported by the four Imams except An-Nasa'i; Al-Hakim graded it Sahih]."
+      }
+    },
+
+    {
+      "id": 921,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- عَنِ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ : { إِنَّ اَللَّهَ تَجَاوَزَ عَنْ أُمَّتِي مَا حَدَّثَتْ بِهِ أَنْفُسَهَا , مَا لَمْ تَعْمَلْ أَوْ تَكَلَّمْ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”اللہ تعالیٰ نے میری امت سے دل کے وسوسہ (پر گرفت و مؤاخذہ) سے درگزر فرما دیا ہے۔ اور یہ اس وقت تک نہیں ہو گا جب تک کوئی زبان سے نہ کہے اور عمل نہ کرے۔“ (بخاری و مسلم)",
+        "english": "Narrated Abu Hurairah (RA): The Prophet (ﷺ) said: 'Allah has forgiven my Ummah for the whispers of their hearts (internal thoughts), as long as they do not act upon them or speak them aloud.'"
+      }
+    },
+
+    {
+      "id": 922,
+      "name": {
+        "arabic": " وَعَنِ اِبْنِ عَبَّاسٍ ‏- رَضِيَ اَللَّهُ عَنْهُمَا‏- , عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ : { إِنَّ اَللَّهَ تَعَالَى وَضَعَ عَنْ أُمَّتِي اَلْخَطَأَ , وَالنِّسْيَانَ , وَمَا اسْتُكْرِهُوا عَلَيْهِ } رَوَاهُ اِبْنُ مَاجَهْ , وَالْحَاكِمُ , وَقَالَ أَبُو حَاتِمٍ : لَا يَثْبُتُ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”اللہ تعالیٰ نے میری امت سے خطا، بھول چوک اور جس پر اسے مجبور کیا گیا ہو معاف فرما دیا ہے۔“ اسے ابن ماجہ نے روایت کیا ہے اور ابوحاتم نے کہا ہے کہ یہ حدیث صحیح نہیں ہے۔",
+        "english": "Narrated Ibn 'Abbas (RA): The Prophet (ﷺ) said: 'Allah has forgiven my Ummah for their mistakes, what they forget, and what they are forced to do under duress.' [Reported by Ibn Majah and Al-Hakim, but Abu Hatim said it is not established (authentic)]."
+      }
+    },
+
+    {
+      "id": 923,
+      "name": {
+        "arabic": " وَعَنِ اِبْنِ عَبَّاسٍ ‏- رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : { إِذَا حَرَّمَ اِمْرَأَتَهُ لَيْسَ بِشَيْءٍ } .‏ وَقَالَ : ﴿ لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اَللَّهِ أُسْوَةٌ حَسَنَةٌ ﴾ اَلْأَحْزَاب : 21 .‏ رَوَاهُ اَلْبُخَارِيُّ وَلِمُسْلِمٍ : { إِذَا حَرَّمَ اَلرَّجُلُ عَلَيْهِ اِمْرَأَتَهُ , فَهِيَ يَمِينٌ يُكَفِّرُهَا }",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے روایت ہے کہ جب شوہر اپنی بیوی کو خود پر حرام قرار دے تو یہ (بذاتِ خود طلاق) کوئی چیز نہیں۔ اور انہوں نے قرآن کی یہ آیت پڑھی کہ: 'تمہارے لیے یقیناً رسول اللہ صلی اللہ علیہ وسلم کی زندگی بہترین نمونہ ہے'۔ (بخاری) اور مسلم کی روایت میں ہے کہ: 'جب مرد اپنی بیوی کو خود پر حرام قرار دے لے تو وہ قسم شمار ہوگی، جس کا اسے کفارہ ادا کرنا پڑے گا'۔",
+        "english": "Narrated Ibn 'Abbas (RA): 'If a man declares his wife forbidden to him, it is not considered (a divorce).' He then recited: 'Indeed in the Messenger of Allah you have a good example to follow.' (Reported by al-Bukhari). And in the version of Muslim: 'If a man declares his wife forbidden to him, it is an oath which must be expiated (by an atonement).'"
+      }
+    },
+
+    {
+      "id": 924,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- { أَنَّ اِبْنَةَ اَلْجَوْنِ لَمَّا أُدْخِلَتْ عَلَى رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-وَدَنَا مِنْهَا .‏ قَالَتْ : أَعُوذُ بِاَللَّهِ مِنْكَ , قَالَ : \" لَقَدْ عُذْتِ بِعَظِيمٍ , اِلْحَقِي بِأَهْلِكِ } رَوَاهُ اَلْبُخَارِيُّ ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے روایت ہے کہ جون کی بیٹی جب نکاح کے بعد رسول اللہ صلی اللہ علیہ وسلم کی خلوت گاہ میں داخل کی گئی اور آپ صلی اللہ علیہ وسلم اس کے قریب ہوئے تو اس نے کہا میں آپ سے اللہ کی پناہ پکڑتی ہوں۔ آپ صلی اللہ علیہ وسلم نے فرمایا ”تو نے بڑی عظیم الشان ذات کی پناہ طلب کی ہے۔ تو اپنے گھر والوں کے ساتھ جا مل۔“ (بخاری)",
+        "english": "Narrated 'Aishah (RA): When the daughter of Al-Jawn was brought to the Messenger of Allah (ﷺ) (after their marriage) and he went close to her, she said: 'I seek refuge in Allah from you.' He said: 'You have sought refuge in the Almighty. Go back to your family.'"
+      }
+    },
+
+    {
+      "id": 925,
+      "name": {
+        "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ : { لَا طَلَاقَ إِلَّا بَعْدَ نِكَاحٍ , وَلَا عِتْقَ إِلَّا بَعْدَ مِلْكٍ } رَوَاهُ أَبُو يَعْلَى , وَصَحَّحَهُ اَلْحَاكِمُ , وَهُوَ مَعْلُولٌ وَأَخْرَجَ اِبْنُ مَاجَهْ : عَنِ اَلْمِسْوَرِ بْنِ مَخْرَمَةَ مِثْلَهُ , وَإِسْنَادُهُ حَسَنٌ , لَكِنَّهُ مَعْلُولٌ أَيْضًا",
+        "urdu": "سیدنا جابر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”نہیں طلاق، مگر نکاح کے بعد اور اسی طرح آزادی نہیں مگر ملکیت کے بعد۔“ اسے ابویعلیٰ نے روایت کیا ہے اور حاکم نے اسے صحیح کہا ہے حالانکہ یہ معلول ہے اور ابن ماجہ نے سیدنا مسور بن مخرمہ کے واسطہ سے اسی جیسی ایک حدیث روایت کی ہے کہ جس کی اسناد تو اچھی ہیں لیکن وہ بھی معلول ہے۔",
+        "english": "Narrated Jabir (RA): The Messenger of Allah (ﷺ) said: 'There is no divorce except after marriage, and there is no freeing of a slave except after ownership.' Reported by Abu Ya'la and Al-Hakim graded it Sahih, though it is Ma'lul (defective). Ibn Majah also reported a similar Hadith from Al-Miswar bin Makhramah with a Hasan chain, but it is also Ma'lul."
+      }
+    },
+
+    {
+      "id": 926,
+      "name": {
+        "arabic": "وَعَنْ عَمْرِو بْنِ شُعَيْبٍ , عَنْ أَبِيهِ , عَنْ جَدِّهِ قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا نَذْرَ لِابْنِ آدَمَ فِيمَا لَا يَمْلِكُ , وَلَا عِتْقِ لَهُ فِيمَا لَا يَمْلِكُ , وَلَا طَلَاقَ لَهُ فِيمَا لَا يَمْلِكُ } أَخْرَجَهُ أَبُو دَاوُدَ وَاَلتِّرْمِذِيُّ وَصَحَّحَهُ, وَنُقِلَ عَنْ اَلْبُخَارِيِّ أَنَّهُ أَصَحُّ مَا وَرَدَ فِيهِ",
+        "urdu": "سیدنا عمرو بن شعیب اپنے باپ سے اور وہ اپنے دادا سے روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”اس نذر کی کوئی حیثیت نہیں جس کا انسان مالک نہیں اور نہ ایسے غلام کا آزاد کرنا کوئی حیثیت رکھتا ہے جس کا انسان مالک ہی نہیں اور نہ طلاق واقع ہو گی جو اس کے دینے والے کے اختیار میں نہ ہو۔“ اسے ابوداؤد اور ترمذی نے روایت کیا ہے اور ترمذی نے اسے صحیح قرار دیا ہے اور امام بخاری رحمہ اللہ کا یہ قول نقل کیا ہے۔ اس سلسلہ میں جو کچھ وارد ہے، یہ اس میں صحیح ترین ہے۔",
+        "english": "Narrated 'Amr bin Shu'aib, on his father's authority, from his grandfather (Abdullah bin 'Amr bin al-As) who said: The Messenger of Allah (ﷺ) said: 'There is no vow for the son of Adam regarding what he does not possess, nor is there any manumission for him regarding what he does not possess, nor is there any divorce for him regarding what he does not possess.' [Reported by Abu Dawud and At-Tirmidhi, who graded it Sahih. Al-Bukhari was quoted saying it is the most authentic narration on this topic]."
+      }
+    },
+
+    {
+      "id": 927,
+      "name": {
+        "arabic": " وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا, عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { رُفِعَ اَلْقَلَمُ عَنْ ثَلَاثَةٍ: عَنِ اَلنَّائِمِ حَتَّى يَسْتَيْقِظَ, وَعَنِ اَلصَّغِيرِ حَتَّى يَكْبُرَ, وَعَنِ اَلْمَجْنُونِ حَتَّى يَعْقِلَ, أَوْ يَفِيقَ } رَوَاهُ أَحْمَدُ, وَالْأَرْبَعَةُ إِلَّا اَلتِّرْمِذِيَّ وَصَحَّحَهُ اَلْحَاكِمُ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”تین آدمیوں سے قلم اٹھا لیا گیا ہے (یعنی وہ شرعی طور پر جوابدہ نہیں ہیں): سونے والا جب تک بیدار نہ ہو، بچہ جب تک بالغ نہ ہو، اور دیوانہ جب تک کہ اسے عقل نہ آ جائے یا وہ تندرست نہ ہو جائے۔“",
+        "english": "Narrated 'Aisha (RA): The Prophet (ﷺ) said: 'The pen has been lifted from three: from the sleeper until he wakes up, from the minor until he grows up (reaches puberty), and from the insane until he regains his sanity or recovers.'"
+      }
+    }
+  ]
+}

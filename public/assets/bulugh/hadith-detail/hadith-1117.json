@@ -1,0 +1,259 @@
+{
+  "hadithId": 1117,
+  "hadithNo": 38,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/38"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أحمد (1/195) وابن أبي شيبة (12/486). وحديث علي في البخاري (6755) ومسلم (1370). وحديث أم هانئ في البخاري (3171) ومسلم (336).",
+    "urdu": "صحیح (شواہد کی بنا پر)۔ ابوعبیدہ کی روایت کو احمد اور ابن ابی شیبہ نے نقل کیا ہے۔ علی رضی اللہ عنہ اور ام ہانی رضی اللہ عنہا کی روایات صحیح بخاری اور صحیح مسلم میں موجود ہیں جو اس حکم کی مکمل تائید کرتی ہیں۔",
+    "english": "Sahih with corroborating evidences. Abu 'Ubaidah's version reported by Ahmad and Ibn Abi Shaibah. The versions by 'Ali and Umm Hani are in Bukhari and Muslim, confirming the principle."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُجِيرُ",
+      "english": "Grants protection",
+      "urdu": "پناہ دیتا ہے / امان دیتا ہے"
+    },
+    {
+      "arabic": "ذِمَّةُ",
+      "english": "Covenant / Pledge",
+      "urdu": "ذمہ / عہد"
+    },
+    {
+      "arabic": "أَدْنَاهُمْ",
+      "english": "The humblest of them",
+      "urdu": "ان کا ادنیٰ آدمی"
+    },
+    {
+      "arabic": "أَقْصَاهُمْ",
+      "english": "The furthest of them",
+      "urdu": "ان کا دور والا شخص"
+    },
+    {
+      "arabic": "أَجَرْنَا",
+      "english": "We have protected",
+      "urdu": "ہم نے پناہ دی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ ہر مسلمان (خواہ وہ مرد ہو یا عورت، اعلیٰ ہو یا ادنیٰ) دشمن کو امان دینے کا حق رکھتا ہے اور پوری اسلامی ریاست اس امان کی پابند ہوگی۔",
+    "english": "This Hadith establishes that every Muslim, regardless of gender or social status, has the right to grant asylum to an enemy, and the entire Islamic state must honor that pledge."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6755)",
+      "english": "Narrated by Al-Bukhari (6755)"
+    },
+    {
+      "arabic": "رواه مسلم (1370)",
+      "english": "Narrated by Muslim (1370)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو عبيدة بن الجراح",
+        "english": "Abu 'Ubaidah bin al-Jarrah"
+      },
+      "slug": "abu-ubaidah-bin-al-jarrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0O7zE73U",
+  "grade": {
+    "arabic": "صحيح بشواهده",
+    "english": "Sahih (Authentic through corroboration)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "امان دینے کا شرعی حق",
+        "english": "Legal Right to Grant Asylum"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انفرادی امان کی اہمیت",
+              "english": "Importance of Individual Asylum"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر مسلمان کو یہ حق دیتا ہے کہ وہ کسی حربی دشمن کو پناہ دے سکے۔",
+                "ایک عام شہری کی دی ہوئی پناہ کو پوری فوج اور حکومت تسلیم کرنے کی پابند ہے۔",
+                "اس سے مسلمانوں کے باہمی اعتماد اور سماجی برابری کا اظہار ہوتا ہے۔"
+              ],
+              "english": [
+                "Islam grants every Muslim the right to offer asylum to an enemy combatant.",
+                "The protection given by an ordinary citizen must be honored by the military and state.",
+                "This demonstrates mutual trust among Muslims and reflects social equality."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خواتین کا حقِ امان",
+              "english": "Women's Right to Grant Protection"
+            },
+            "content": {
+              "urdu": [
+                "ام ہانی رضی اللہ عنہا نے فتح مکہ پر دو مشرکوں کو پناہ دی تھی جسے آپ ﷺ نے برقرار رکھا۔",
+                "یہ اس بات کی دلیل ہے کہ عورتوں کا عہد بھی مردوں کی طرح معتبر ہے۔",
+                "اسلامی ریاست میں خواتین کو اہم سیاسی اور عسکری حقوق حاصل ہیں۔"
+              ],
+              "english": [
+                "Umm Hani (RA) protected two polytheists at the Conquest of Makkah, and the Prophet (ﷺ) upheld it.",
+                "This proves that a woman's pledge is as valid and binding as a man's.",
+                "In an Islamic state, women possess significant political and legal rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امان کی حدود و قیود",
+        "english": "Limits and Conditions of Protection"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مصلحت اور شرط",
+              "english": "Interest and Condition"
+            },
+            "content": {
+              "urdu": [
+                "امان دینے والے کے لیے ضروری ہے کہ وہ عاقل اور بالغ مسلمان ہو۔",
+                "امان ایسی نہ ہو جو مسلمانوں کے اجتماعی مفاد یا سلامتی کے خلاف ہو۔",
+                "اگر کسی کی پناہ سے فتنے کا ڈر ہو تو حاکم اسے منسوخ کرنے کا اختیار رکھتا ہے۔"
+              ],
+              "english": [
+                "The one granting asylum must be a sane, adult Muslim.",
+                "The protection must not jeopardize the collective interest or security of Muslims.",
+                "If an individual's asylum causes public harm, the ruler has the right to revoke it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عہد شکنی کی مذمت",
+              "english": "Condemnation of Breach of Trust"
+            },
+            "content": {
+              "urdu": [
+                "کسی مسلمان کے دیے ہوئے عہد کو توڑنا بدترین گناہ اور منافقت ہے۔",
+                "نبی ﷺ نے فرمایا کہ جو کسی مسلمان کے عہد کی توہین کرے اس پر اللہ کی لعنت ہے۔",
+                "پناہ یافتہ دشمن (مستامن) کی جان و مال کی حفاظت ریاست کی ذمہ داری بن جاتی ہے۔"
+              ],
+              "english": [
+                "Breaking a pledge made by a fellow Muslim is a grave sin and a sign of hypocrisy.",
+                "The Prophet (ﷺ) said that whoever violates a Muslim's pledge incurs Allah's curse.",
+                "The life and property of a protected enemy become the state's responsibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور عسکری پہلو",
+        "english": "Juristic and Military Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذمہ واحدہ کا تصور",
+              "english": "Concept of Unified Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'ذمۃ المسلمین واحدۃ' کا مطلب ہے کہ مسلمانوں کی امان ایک اکائی ہے۔",
+                "ایک عام سپاہی یا غلام بھی اگر امان دے دے تو وہ پوری امت کی امان سمجھی جائے گی۔",
+                "یہ اصول مسلمانوں کے درمیان اتحاد اور یگانگت کو فروغ دیتا ہے۔"
+              ],
+              "english": [
+                "The phrase 'the protection of Muslims is one' means it is a unified entity.",
+                "Even a common soldier or a slave granting asylum represents the entire Ummah.",
+                "This principle fosters unity and solidarity among the believers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفارت کاری میں سہولت",
+              "english": "Facilitation in Diplomacy"
+            },
+            "content": {
+              "urdu": [
+                "اس حق کے ذریعے دشمن کے لوگوں کو اسلام سمجھنے اور صلح کا موقع ملتا ہے۔",
+                "انفرادی سطح پر پناہ دینے سے بڑی جنگوں کو ٹالا جا سکتا ہے۔",
+                "یہ اسلامی بین الاقوامی قانون (سیر) کا ایک سنہرا اصول ہے۔"
+              ],
+              "english": [
+                "This right provides enemies an opportunity to understand Islam and seek peace.",
+                "Granting asylum on an individual level can help avoid major conflicts.",
+                "This is a golden principle of Islamic International Law (Siyar)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلمانوں کی عزتِ نفس",
+              "english": "Dignity of Muslims"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں کسی کی سماجی حیثیت اس کے شرعی حقوق میں رکاوٹ نہیں بنتی۔",
+                "ادنیٰ سے ادنیٰ مسلمان کی بات کو بھی اہمیت دینا سنتِ نبوی ﷺ ہے۔",
+                "ہمیں اپنے بھائیوں کے فیصلوں اور وعدوں کا احترام کرنا چاہیے۔"
+              ],
+              "english": [
+                "In Islam, social status does not hinder one's legal and religious rights.",
+                "Valuing the word of even the humblest Muslim is a Prophetic Sunnah.",
+                "We must respect the decisions and promises made by our brothers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وعدے کی پاسداری",
+              "english": "Fulfilling Promises"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کی پہچان ہی اس کی دیانت داری اور عہد کی وفاداری ہے۔",
+                "ایمان کا تقاضا ہے کہ ہم جو بات زبان سے نکالیں اس پر قائم رہیں۔",
+                "امانت اور عہد کی پاسداری ہی سے معاشرے میں امن قائم ہوتا ہے۔"
+              ],
+              "english": [
+                "A Muslim's identity is defined by integrity and loyalty to pledges.",
+                "Faith requires us to stand by what we utter with our tongues.",
+                "Peace is established in society through the fulfillment of trusts and covenants."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

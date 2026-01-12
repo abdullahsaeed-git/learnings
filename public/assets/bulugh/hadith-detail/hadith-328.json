@@ -1,0 +1,150 @@
+{
+  "hadithId": 328,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/188"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الصلاة - باب الإمامة",
+    "babId": 20
+  },
+  
+  "takhreej": {
+    "arabic": "منكر.‏ رواه ابن ماجه (1081)‏ وفيه عبد الله بن محمد بن عقيل، وعلي بن زيد بن جدعان، وكلاهما فيهما كلام، وفيه أيضاً عبد الله بن محمد العدوي وهو متهم بالوضع.‏ ",
+    "urdu": "یہ روایت منکر اور انتہائی ضعیف ہے۔ اسے ابن ماجہ (1081) نے روایت کیا ہے۔ اس کی سند میں عبد اللہ بن محمد العدوی ہے جو جھوٹی حدیثیں گھڑنے میں متہم ہے۔",
+    "english": "Munkar (Rejected). Reported by Ibn Majah (1081). Its chain is very weak (Wahin) as it contains Abdullah bin Muhammad al-Adawi, who is accused of fabricating Hadith."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَؤُمَّنَّ",
+      "english": "Must not lead",
+      "urdu": "ہرگز امامت نہ کرے"
+    },
+    {
+      "arabic": "أَعْرَابِيٌّ",
+      "english": "Bedouin",
+      "urdu": "دیہاتی / بدو"
+    },
+    {
+      "arabic": "فَاجِرٌ",
+      "english": "Wicked person",
+      "urdu": "گناہگار / بدکار"
+    },
+    {
+      "arabic": "وَاه ٍ",
+      "english": "Extremely weak",
+      "urdu": "انتہائی کمزور / بودی سند"
+    }
+  ],
+  "summary": {
+    "urdu": "اس روایت میں تین قسم کے افراد کی امامت سے منع کیا گیا ہے: عورت کا مردوں کی امامت کرنا، غیر تعلیم یافتہ بدوی کا مہاجر کی امامت کرنا، اور فاجر شخص کا نیک مومن کی امامت کرنا۔ اگرچہ اس مخصوص حدیث کی سند ضعیف ہے، مگر اس کے بعض اجزاء کے شواہد دیگر احادیث میں ملتے ہیں۔",
+    "english": "This narration prohibits three types of people from leading prayer: a woman leading men, an uneducated Bedouin leading an Emigrant (Muhajir), and a wicked person leading a righteous believer. While this specific chain is extremely weak, some of its components are discussed in other legal frameworks based on stronger evidence."
+  },
+  "references": [
+    {
+      "arabic": "سنن ابن ماجه، كتاب إقامة الصلاة والسنة فيها، رقم 1081",
+      "english": "Sunan Ibn Majah, The Book of Establishing the Prayer and the Sunnah Regarding Them, No. 1081"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "ضعيف جداً / منكر",
+    "english": "Extremely Weak / Rejected"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عورت کی امامت کا حکم",
+        "english": "Ruling on a Woman Leading Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردوں کی امامت",
+              "english": "Leading Men"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک عورت مردوں کی امامت نہیں کروا سکتی۔",
+                "عورتوں کی امامت صرف عورتوں کے حلقے میں جائز ہے، جہاں وہ صف کے درمیان میں کھڑی ہوگی۔",
+                "اس حدیث کی سند ضعیف ہونے کے باوجود، عورت کا مردوں کا امام نہ بننا دیگر صحیح فقہی اصولوں سے ثابت ہے۔"
+              ],
+              "english": [
+                "According to the majority of scholars, a woman cannot lead men in prayer.",
+                "A woman leading other women is permissible, where she stands in the middle of the first row.",
+                "Despite the weakness of this specific narration, the consensus on women not leading men is derived from other established legal principles."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دیہاتی اور شہری کی امامت",
+        "english": "Leadership of a Bedouin vs. Urbanite"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علم کی بنیاد پر فضیلت",
+              "english": "Precedence based on Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "زمانہ قدیم میں دیہاتی (بدوی) اکثر علمِ دین اور تلاوت سے ناواقف ہوتے تھے، اس لیے انہیں مہاجر یا شہری عالم پر ترجیح نہیں دی جاتی تھی۔",
+                "اگر بدوی عالم ہو اور شہری جاہل، تو عالم کو ترجیح ملے گی۔",
+                "یہ ممانعت دراصل جہالت کی بنا پر تھی، مقام یا رہائش کی وجہ سے نہیں۔"
+              ],
+              "english": [
+                "In the early era, Bedouins were often less acquainted with religious knowledge and proper recitation, thus not preferred over learned Emigrants.",
+                "If a Bedouin is more learned than an urbanite, the more learned person takes precedence.",
+                "The discouragement was primarily due to potential ignorance, not location or social status."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فاجر کی امامت",
+        "english": "Leadership of a Wicked Person (Fajir)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امامت کے لیے تقویٰ",
+              "english": "Piety for Imamate"
+            },
+            "content": {
+              "urdu": [
+                "فاجر (اعلانیہ گناہگار) کو امام بنانا ناپسندیدہ ہے تاکہ معاشرے میں برائی کی حوصلہ شکنی ہو۔",
+                "تاہم، اگر کوئی فاجر شخص امام بن جائے تو جمہور کے نزدیک اس کے پیچھے نماز ہو جاتی ہے، اگرچہ یہ مکروہ ہے۔",
+                "صحابہ کرام نے بعض ظالم حکمرانوں کے پیچھے بھی نماز ادا کی ہے تاکہ تفرقہ پیدا نہ ہو۔"
+              ],
+              "english": [
+                "It is disliked to appoint a wicked person (open sinner) as an Imam to discourage immorality in society.",
+                "However, the majority of scholars hold that prayer behind a Fajir is valid, though disliked (Makruh).",
+                "The Companions occasionally prayed behind oppressive rulers to avoid causing division in the community."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

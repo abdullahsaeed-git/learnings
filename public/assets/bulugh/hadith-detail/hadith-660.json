@@ -1,0 +1,259 @@
+{
+  "hadithId": 660,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/13"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1565)، والزيادة في مسلم أيضاً برقم (1565/35).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم نے اسے اپنی صحیح (1565) میں روایت کیا ہے۔ یہ اضافہ بھی صحیح مسلم کی روایت میں موجود ہے۔",
+    "english": "Sahih. Reported by Muslim (1565), and the addition is also in Sahih Muslim (1565/35)."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَضْلِ",
+      "english": "Excess / Surplus",
+      "urdu": "زائد یا فالتو"
+    },
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "ضِرَابِ",
+      "english": "Stallion hire / Mating",
+      "urdu": "جفتی یا نسل کشی"
+    },
+    {
+      "arabic": "الْمَاءِ",
+      "english": "Water",
+      "urdu": "پانی"
+    },
+    {
+      "arabic": "الْبَيْعِ",
+      "english": "Sale",
+      "urdu": "خرید و فروخت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ضرورت سے زائد پانی اور جانوروں کی نسل کشی کے لیے معاوضہ لینے کی ممانعت بیان کی گئی ہے تاکہ معاشرے میں تعاون اور خیر خواہی کو فروغ ملے۔",
+    "english": "This Hadith prohibits selling surplus water and taking fees for animal breeding services, aiming to foster social cooperation and altruism."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب المساقاة",
+      "english": "Sahih Muslim, Book of Musaqah"
+    },
+    {
+      "arabic": "جامع الترمذي، كتاب البيوع",
+      "english": "Jami' at-Tirmidhi, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_XU_pG_8K_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "زائد پانی کی فروخت کا حکم",
+        "english": "Ruling on Selling Excess Water"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عام مفاد کی اشیاء",
+              "english": "Public Utility Items"
+            },
+            "content": {
+              "urdu": [
+                "پانی اللہ کی عطا کردہ وہ نعمت ہے جو سب کا مشترکہ حق ہے۔",
+                "ضرورت سے زائد پانی دوسروں کو مفت فراہم کرنا اخلاقی فریضہ ہے۔",
+                "اس ممانعت کا مقصد لوگوں کو بنیادی ضرورت سے محروم ہونے سے بچانا ہے۔"
+              ],
+              "english": [
+                "Water is a gift from Allah and a common right of all living beings.",
+                "Providing surplus water for free is considered a moral obligation.",
+                "This prohibition prevents people from being deprived of basic necessities."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فروخت کب جائز ہے؟",
+              "english": "When is Sale Permissible?"
+            },
+            "content": {
+              "urdu": [
+                "اگر پانی کو محنت سے برتنوں یا ٹینکوں میں محفوظ کیا جائے تو قیمت جائز ہے۔",
+                "ممانعت ان ذرائع کی ہے جو کنوؤں یا چشموں کی صورت میں عام ہوں۔",
+                "پانی کی ترسیل اور صفائی کے اخراجات وصول کرنا جائز بیع کے زمرے میں آتا ہے۔"
+              ],
+              "english": [
+                "Selling water is allowed if labor is spent collecting it in tanks or bottles.",
+                "The prohibition applies to natural sources like common wells or springs.",
+                "Charging for the costs of delivery and purification is legally permissible."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نسل کشی کے معاوضے کی ممانعت",
+        "english": "Prohibition of Breeding Fees"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جفتی کا معاوضہ",
+              "english": "Fees for Mating"
+            },
+            "content": {
+              "urdu": [
+                "نر جانور کو نسل کشی کے لیے کرائے پر دینا شرعاً ناپسندیدہ ہے۔",
+                "اس میں مبیع (فروخت شدہ شے) غیر واضح ہے، جو بیع کو فاسد کرتی ہے۔",
+                "اسلام مسلمانوں کو ایک دوسرے کے جانوروں سے فائدہ اٹھانے میں مدد کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "Hiring out male animals for breeding is legally disliked in Sharia.",
+                "The subject of sale is uncertain, which renders the contract invalid.",
+                "Islam encourages Muslims to assist one another in livestock productivity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعاون اور بھائی چارہ",
+              "english": "Cooperation and Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم معاشرتی تعاون اور احسان کے جذبے کو پروان چڑھاتا ہے۔",
+                "ایسی اشیاء جن پر انسان کی کوئی خاص محنت نہ ہو، ان پر نفع خوری منع ہے۔",
+                "مالک کو چاہیے کہ وہ اپنے بھائی کی معاشی بہتری میں بلامعاوضہ مدد کرے۔"
+              ],
+              "english": [
+                "This ruling nurtures the spirit of social cooperation and kindness.",
+                "Profiteering is forbidden on items where no significant labor is exerted.",
+                "Owners should help their brothers' economic state without seeking fees."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی پہلو",
+        "english": "Juristic and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیعِ غرر سے بچاؤ",
+              "english": "Avoiding Ambiguous Sales"
+            },
+            "content": {
+              "urdu": [
+                "نسل کشی کے معاوضے میں کامیابی کی کوئی ضمانت نہیں ہوتی۔",
+                "ایسی بیع جس میں نتیجہ نامعلوم ہو، اسلام اسے 'غرر' قرار دیتا ہے۔",
+                "اسلامی معیشت دھوکہ دہی اور غیر یقینی صورتحال سے پاک ہونی چاہیے۔"
+              ],
+              "english": [
+                "In breeding fees, there is no guarantee of successful conception.",
+                "Sales with unknown outcomes are classified as 'Gharar' (ambiguity).",
+                "The Islamic economy must be free from deception and uncertainty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کے رزق میں برکت",
+              "english": "Blessings in Allah's Provision"
+            },
+            "content": {
+              "urdu": [
+                "مفت پانی فراہم کرنے والوں کے لیے اللہ کے ہاں عظیم اجر ہے۔",
+                "جو بندوں پر رحم کرتا ہے، اللہ اس پر اپنی رحمتیں نازل فرماتا ہے۔",
+                "نفع خوری کے بجائے خدمتِ خلق کو مقدم رکھنا ایمان کی علامت ہے۔"
+              ],
+              "english": [
+                "There is a great reward with Allah for those who provide free water.",
+                "Allah showers His mercy upon those who show mercy to His creation.",
+                "Prioritizing service over profit is a distinct sign of true faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سماجی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "پانی کے ضیاع کو روکیں اور ضرورت مندوں تک رسائی آسان بنائیں۔",
+                "ہمیں اپنے وسائل کو صرف ذاتی فائدے کے لیے محدود نہیں کرنا چاہیے۔",
+                "معاشرے کے کمزور طبقات کی مدد کرنا ہر خوشحال مسلمان کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "Prevent water wastage and facilitate access for those in need.",
+                "We should not limit our resources solely for personal gain.",
+                "Helping vulnerable sections of society is the duty of every affluent Muslim."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خالص نیت اور تقویٰ",
+              "english": "Sincere Intent and Piety"
+            },
+            "content": {
+              "urdu": [
+                "کاروبار میں ہمیشہ حلال و حرام کے باریک فرق کو ملحوظ رکھیں۔",
+                "اگر شبہ ہو تو علماء سے رجوع کریں تاکہ کمائی مشکوک نہ ہو۔",
+                "تقویٰ کا تقاضا ہے کہ انسان ہر قسم کی لالچ سے خود کو پاک رکھے۔"
+              ],
+              "english": [
+                "Always observe the fine line between Halal and Haram in business.",
+                "If in doubt, consult scholars to ensure earnings remain pure.",
+                "Piety requires an individual to purify themselves from all forms of greed."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

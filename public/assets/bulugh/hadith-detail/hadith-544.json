@@ -1,0 +1,268 @@
+{
+  "hadithId": 544,
+  "hadithNo": 18,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/38"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1933)، ومسلم (1155). ورواية الحاكم (1/430) صحيحة كما ذكر المصنف، وتابعها ابن خزيمة (1990).",
+    "urdu": "صحیح۔ اسے بخاری (1933) اور مسلم (1155) نے روایت کیا ہے۔ حاکم کی روایت جس میں قضا اور کفارہ کی نفی ہے، وہ بھی سنداً صحیح ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1933) and Muslim (1155). The narration in Al-Hakim (1/430) is also authentic, as supported by Ibn Khuzaymah (1990)."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَسِيَ",
+      "english": "Forgot",
+      "urdu": "بھول گیا"
+    },
+    {
+      "arabic": "فَلْيُتِمَّ",
+      "english": "Let him complete",
+      "urdu": "پس اسے پورا کرنا چاہیے"
+    },
+    {
+      "arabic": "أَطْعَمَهُ",
+      "english": "Fed him",
+      "urdu": "اسے کھلایا"
+    },
+    {
+      "arabic": "سَقَاهُ",
+      "english": "Gave him drink",
+      "urdu": "اسے پلایا"
+    },
+    {
+      "arabic": "قَضَاءَ",
+      "english": "Making up the fast",
+      "urdu": "قضا"
+    },
+    {
+      "arabic": "كَفَّارَةَ",
+      "english": "Expiation",
+      "urdu": "کفارہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص بھول کر روزے کی حالت میں کھا پی لے تو اس کا روزہ نہیں ٹوٹتا، وہ اسے پورا کرے اور اس پر کوئی قضا یا کفارہ لازم نہیں۔",
+    "english": "If a person eats or drinks while fasting due to forgetfulness, the fast remains valid; they must complete it without any need for makeup or expiation."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1933)",
+      "english": "Reported by Al-Bukhari (1933)"
+    },
+    {
+      "arabic": "رواه مسلم (1155)",
+      "english": "Reported by Muslim (1155)"
+    },
+    {
+      "arabic": "رواه الحاكم (1575)",
+      "english": "Reported by Al-Hakim (1575)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYJjY8Tq0p0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بھول کر کھانے پینے کا حکم",
+        "english": "Ruling on Eating and Drinking Forgetfully"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزے کا برقرار رہنا",
+              "english": "Validity of the Fast"
+            },
+            "content": {
+              "urdu": [
+                "بھول کر کھانے یا پینے سے روزہ نہیں ٹوٹتا۔",
+                "نبی کریم ﷺ نے اسے اللہ کی طرف سے مہمانی قرار دیا ہے۔",
+                "جیسے ہی یاد آئے، فوراً کھانے پینے سے رک جانا واجب ہے۔"
+              ],
+              "english": [
+                "Eating or drinking out of forgetfulness does not break the fast.",
+                "The Prophet (ﷺ) described this as a guest-gift from Allah.",
+                "The moment one remembers, they must immediately stop eating or drinking."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزہ پورا کرنے کی تاکید",
+              "english": "Emphasis on Completing the Fast"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں واضح حکم ہے کہ روزہ دار اپنا روزہ پورا کرے۔",
+                "اس میں شک کی گنجائش نہیں کہ روزہ باطل ہو چکا ہے۔",
+                "یہ حکم فرض اور نفل دونوں روزوں کے لیے عام ہے۔"
+              ],
+              "english": [
+                "The Hadith explicitly commands the person to complete their fast.",
+                "There is no room for doubt regarding the fast being invalidated.",
+                "This ruling applies to both obligatory and voluntary fasts."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قضا اور کفارہ کی نفی",
+        "english": "Exclusion of Makeup and Expiation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی آسانی",
+              "english": "Sharia Concession"
+            },
+            "content": {
+              "urdu": [
+                "بھول چوک پر اللہ تعالیٰ نے امت محمدیہ سے مواخذہ ختم کر دیا ہے۔",
+                "امام حاکم کی روایت واضح کرتی ہے کہ اس پر کوئی قضا لازم نہیں۔",
+                "کفارہ صرف اس صورت میں ہے جب جان بوجھ کر روزہ توڑا جائے۔"
+              ],
+              "english": [
+                "Allah has removed accountability for forgetfulness for this Ummah.",
+                "Al-Hakim's narration clarifies that no Qada (makeup) is required.",
+                "Kaffarah is only applicable when the fast is broken intentionally."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی مہمانی",
+              "english": "Hospitality from Allah"
+            },
+            "content": {
+              "urdu": [
+                "بھول کر کھانا پینا ایک ربانی انعام اور فضل ہے۔",
+                "اسے اللہ کی طرف سے کھلایا اور پلایا گیا رزق سمجھنا چاہیے۔",
+                "یہ بندے پر اللہ کی خاص رحمت کی علامت ہے۔"
+              ],
+              "english": [
+                "Eating and drinking forgetfully is a divine gift and favor.",
+                "It should be viewed as sustenance provided directly by Allah.",
+                "This serves as a sign of Allah's special mercy upon the slave."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیگر روزہ داروں کی ذمہ داری",
+              "english": "Responsibility of Others"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی کسی کو بھول کر کھاتے دیکھے تو اسے یاد دلانا واجب ہے۔",
+                "نیکی اور تقویٰ کے کاموں میں ایک دوسرے کی مدد کرنا ضروری ہے۔",
+                "یہ 'امر بالمعروف' (نیکی کا حکم دینے) کے زمرے میں آتا ہے۔"
+              ],
+              "english": [
+                "If someone sees another eating forgetfully, it is obligatory to remind them.",
+                "Helping one another in righteousness and piety is a duty.",
+                "This falls under the category of Enjoining Good (Amr bil-Ma'ruf)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کا اثر",
+              "english": "Impact of Intent"
+            },
+            "content": {
+              "urdu": [
+                "اعمال کا دارومدار نیتوں پر ہے اور بھولنے والے کی نیت روزہ توڑنے کی نہیں تھی۔",
+                "خطا اور نسیان انسانی فطرت کا حصہ ہیں جنہیں شریعت قبول کرتی ہے۔",
+                "یہ حدیث اسلام کے ضابطہ 'رفع حرج' (تنگی دور کرنے) کی دلیل ہے۔"
+              ],
+              "english": [
+                "Actions are judged by intentions, and the forgetful person had no intent to break the fast.",
+                "Mistakes and forgetfulness are part of human nature accepted by Sharia.",
+                "This Hadith is proof of the Islamic principle of 'Removing Hardship'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفسیاتی اطمینان",
+              "english": "Psychological Peace"
+            },
+            "content": {
+              "urdu": [
+                "اس حکم سے روزہ دار کو ذہنی پریشانی اور وسوسوں سے نجات ملتی ہے۔",
+                "بھولنے پر مایوس ہونے کے بجائے اللہ کا شکر ادا کرنا چاہیے۔",
+                "شریعت مومن کے لیے بوجھ نہیں بلکہ سکون کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "This ruling saves the fasting person from mental distress and whispers of doubt.",
+                "Instead of despairing over forgetfulness, one should thank Allah.",
+                "Sharia is a source of peace for the believer, not a burden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاطی تدابیر",
+              "english": "Precautionary Measures"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ معافی ہے، لیکن رمضان کے احترام میں غفلت سے بچنا چاہیے۔",
+                "روزے کی یاد دہانی کے لیے ذکر و اذکار میں مشغول رہنا بہتر ہے۔",
+                "یہ حدیث اللہ کے بندوں پر شفقت اور محبت کا نمونہ ہے۔"
+              ],
+              "english": [
+                "While forgiven, one should still avoid negligence in respect of Ramadan.",
+                "Staying engaged in Dhikr helps keep the awareness of the fast alive.",
+                "This Hadith is a model of Allah's compassion and love for His servants."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

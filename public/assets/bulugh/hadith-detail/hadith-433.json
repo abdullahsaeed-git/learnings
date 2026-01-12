@@ -1,0 +1,266 @@
+{
+  "hadithId": 433,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/tirmidhi:1078",
+      "https://sunnah.com/ibnmajah:2443"
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (2/440) والترمذي (1078) واللفظ له، وابن ماجه (2443). قال الترمذي: حسن، وهو صحيح بشواهده عن جماعة من الصحابة.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد (2/440) اور ترمذی (1078) نے روایت کیا ہے۔ امام ترمذی نے اسے حسن کہا ہے، لیکن دیگر شواہد کی بنا پر یہ صحیح کے درجے تک پہنچتی ہے۔",
+    "english": "Sahih. Reported by Ahmad (2/440), at-Tirmidhi (1078), and Ibn Majah (2443). At-Tirmidhi graded it Hasan, but it is Sahih due to supporting narrations from other companions."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَفْسُ",
+      "english": "Soul / Life",
+      "urdu": "روح / جان"
+    },
+    {
+      "arabic": "مُعَلَّقَةٌ",
+      "english": "Suspended / Hanging",
+      "urdu": "لٹکی ہوئی / معلق"
+    },
+    {
+      "arabic": "بِدَيْنِهِ",
+      "english": "By his debt",
+      "urdu": "اپنے قرض کی وجہ سے"
+    },
+    {
+      "arabic": "يُقْضَى",
+      "english": "Paid off / Settled",
+      "urdu": "ادا کر دیا جائے"
+    },
+    {
+      "arabic": "الْمُؤْمِنِ",
+      "english": "The Believer",
+      "urdu": "ایمان والا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں قرض کی اہمیت اور اس کی ادائیگی میں جلدی کرنے کی تاکید کی گئی ہے کیونکہ قرض کی عدم ادائیگی مومن کی روح کو جنت میں داخلے یا مکمل راحت سے روک دیتی ہے۔",
+    "english": "This Hadith emphasizes the seriousness of debt, stating that a believer's soul is barred from reaching its noble station in Paradise until his debts are settled."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (1078)",
+      "english": "Sunan at-Tirmidhi (1078)"
+    },
+    {
+      "arabic": "مسند أحمد (2/440)",
+      "english": "Musnad Ahmad (2/440)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (2443)",
+      "english": "Sunan Ibn Majah (2443)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_0XN0fS5jU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قرض کی سنگینی",
+        "english": "Severity of Debt"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روح کا معلق ہونا",
+              "english": "Suspension of the Soul"
+            },
+            "content": {
+              "urdu": [
+                "معلق ہونے کا مطلب ہے کہ روح کو اس کے مقامِ عزت تک پہنچنے سے روک دیا جاتا ہے۔",
+                "قرض کی وجہ سے مومن کی روح برزخ میں مکمل راحت حاصل نہیں کر پاتی۔",
+                "یہ کیفیت اس وقت تک رہتی ہے جب تک اس کا ترکہ یا ورثاء قرض ادا نہ کر دیں۔"
+              ],
+              "english": [
+                "Suspension means the soul is blocked from reaching its place of honor.",
+                "Due to debt, the believer's soul cannot attain full rest in Barzakh.",
+                "This state persists until the estate or heirs settle the outstanding debt."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق العباد کی اہمیت",
+              "english": "Importance of Rights of People"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح کرتی ہے کہ اللہ بندوں کے حقوق معاف نہیں فرماتا۔",
+                "شہید کے بھی تمام گناہ معاف ہو جاتے ہیں مگر قرض معاف نہیں ہوتا۔",
+                "قرض کی ادائیگی ایمان کی تکمیل اور آخرت کی نجات کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "This Hadith clarifies that Allah does not forgive the rights of others.",
+                "Even a martyr's sins are forgiven except for their unpaid debts.",
+                "Settling debts is essential for perfecting faith and salvation hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ورثاء کی ذمہ داری",
+        "english": "Responsibility of Heirs"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ترکے میں سے ادائیگی",
+              "english": "Payment from Estate"
+            },
+            "content": {
+              "urdu": [
+                "میت کے مال میں سے سب سے پہلے تجہیز و تکفین اور پھر قرض ادا کرنا لازم ہے۔",
+                "ورثاء کو چاہیے کہ تقسیمِ وراثت سے قبل میت کے قرض کا تصفیہ کریں۔",
+                "اگر مال نہ ہو تو قریبی رشتہ داروں کو اس کی ادائیگی کی فکر کرنی چاہیے۔"
+              ],
+              "english": [
+                "Paying debts from the estate is mandatory before distributing inheritance.",
+                "Heirs must prioritize settling the deceased's debts immediately.",
+                "If there is no money, close relatives should strive to clear the debt."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میت کے ساتھ ہمدردی",
+              "english": "Compassion for the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "قرض ادا کرنا میت پر سب سے بڑا احسان اور اس کے لیے راحت کا سبب ہے۔",
+                "صحابہ کرام میت کا قرض ادا کرنے کے لیے اپنی جائیداد تک پیش کر دیتے تھے۔",
+                "جلد ادائیگی میت کو برزخی سختیوں اور رکاوٹوں سے نجات دلاتی ہے۔"
+              ],
+              "english": [
+                "Paying off the debt is the greatest favor to the deceased.",
+                "Companions would offer their own assets to clear a brother's debt.",
+                "Prompt payment saves the deceased from hardships in the grave."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قرض لینے کے آداب",
+        "english": "Etiquettes of Borrowing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صرف ضرورت کے تحت قرض",
+              "english": "Borrowing only for Necessity"
+            },
+            "content": {
+              "urdu": [
+                "بغیر شدید ضرورت کے قرض لینے سے ہر ممکن بچنا چاہیے۔",
+                "قرض لینے والے کی نیت ہمیشہ ادائیگی کی ہونی چاہیے۔",
+                "جو نیتِ ادائیگی سے قرض لیتا ہے، اللہ اس کی غیب سے مدد فرماتا ہے۔"
+              ],
+              "english": [
+                "One should avoid borrowing money except in cases of dire necessity.",
+                "The borrower must always maintain a sincere intention to repay.",
+                "Allah assists those who take loans with a genuine intent to return them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دستاویزی ثبوت اور وصیت",
+              "english": "Documentation and Will"
+            },
+            "content": {
+              "urdu": [
+                "قرض کے معاملات کو تحریر میں لانا اور گواہ بنانا سنت ہے۔",
+                "ہر شخص کو چاہیے کہ اپنے ذمہ موجود قرضوں کی وصیت لکھ کر رکھے۔",
+                "تاکہ اچانک موت کی صورت میں ورثاء کو ادائیگی میں آسانی ہو۔"
+              ],
+              "english": [
+                "It is Sunnah to document loan transactions and involve witnesses.",
+                "Every person should maintain a written record of their debts in a will.",
+                "This ensures heirs can easily settle debts in case of sudden death."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی و اخلاقی اسباق",
+        "english": "Spiritual and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاملات کی صفائی",
+              "english": "Transparency in Dealings"
+            },
+            "content": {
+              "urdu": [
+                "دین صرف عبادات کا نام نہیں بلکہ معاملات کی درستی بھی ضروری ہے۔",
+                "کسی کا حق دبا کر رکھنا آخرت میں بڑی رسوائی کا سبب بنے گا۔",
+                "پاکیزہ زندگی وہی ہے جو دوسروں کے بوجھ سے آزاد ہو۔"
+              ],
+              "english": [
+                "Religion is not just rituals; integrity in dealings is also essential.",
+                "Withholding someone's right will lead to humiliation in the Hereafter.",
+                "A pure life is one that is free from the burden of others' rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ سے پناہ مانگنا",
+              "english": "Seeking Refuge with Allah"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کثرت سے قرض کے غلبے سے پناہ مانگا کرتے تھے۔",
+                "قرض انسان کو جھوٹ اور وعدہ خلافی پر مجبور کر دیتا ہے۔",
+                "مسلمان کو ہمیشہ رزقِ حلال اور بے نیازی کی دعا کرنی چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) frequently sought refuge from being overwhelmed by debt.",
+                "Debt can drive a person toward lying and breaking promises.",
+                "A Muslim should always pray for Halal provision and self-sufficiency."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

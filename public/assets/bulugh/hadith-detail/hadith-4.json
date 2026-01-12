@@ -1,0 +1,257 @@
+{
+  "hadithId": 4,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 1,
+    "inKitabBab": 1,
+    "arabicBook": "",
+    "babId": 1
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (63 و64 و65)، والنسائي (1/46 و175)، والترمذي (67)، وابن ماجه (517). وصححه ابن خزيمة (92)، والحاكم (132)، وابن حبان (1249).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام ابوداؤد (63، 64، 65)، نسائی (1/46، 175)، ترمذی (67) اور ابن ماجہ (517) نے روایت کیا ہے۔ ابن خزیمہ (92)، حاکم (132) اور ابن حبان (1249) نے اسے صحیح قرار دیا ہے۔",
+    "english": "Authentic (Sahih). Reported by Abu Dawud (63–65), Al-Nasa'i (1/46, 175), Al-Tirmidhi (67), and Ibn Majah (517). Authenticated by Ibn Khuzaymah (92), Al-Hakim (132), and Ibn Hibban (1249)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قُلَّتَيْنِ",
+      "english": "two qullahs (a large amount of water)",
+      "urdu": "دو قُلَّت (پانی کی بڑی مقدار)"
+    },
+    {
+      "arabic": "يَحْمِلِ الْخَبَثَ",
+      "english": "carry impurity / be affected by impurity",
+      "urdu": "ناپاکی کو قبول کرنا"
+    },
+    {
+      "arabic": "يَنْجُسْ",
+      "english": "becomes impure",
+      "urdu": "ناپاک ہونا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ جب پانی کی مقدار دو قُلَّت ہو، تو وہ معمولی ناپاکی گرنے سے ناپاک نہیں ہوتا، جب تک کہ اس کی رنگت، بو یا ذائقہ تبدیل نہ ہو۔",
+    "english": "This Hadith teaches that if the water reaches the amount of two qullahs, it does not become impure by minor impurities unless its color, smell, or taste changes."
+  },
+  "references": [
+    {
+      "arabic": "أبو داود (63)",
+      "english": "Abu Dawud (63)"
+    },
+    {
+      "arabic": "الترمذي (67)",
+      "english": "Al-Tirmidhi (67)"
+    },
+    {
+      "arabic": "النسائي (175)",
+      "english": "Al-Nasa’i (175)"
+    },
+    {
+      "arabic": "ابن ماجه (517)",
+      "english": "Ibn Majah (517)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=ty4XvNMoV0I",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پانی کے ناپاک ہونے کا اصول",
+        "english": "Principle of Water’s Impurity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پانی پاک رہتا ہے جب تک اثر نہ ہو",
+              "english": "Water remains pure unless affected"
+            },
+            "content": {
+              "urdu": [
+                "پانی اللہ کی بنائی ہوئی پاک چیز ہے۔",
+                "یہ حدیث واضح کرتی ہے کہ معمولی ناپاکی سے بڑا ذخیرۂ پانی ناپاک نہیں ہوتا۔",
+                "جب تک پانی کی رنگت، بو یا ذائقہ نہ بدلے، وہ پاک ہی رہتا ہے۔"
+              ],
+              "english": [
+                "Water is a naturally pure creation of Allah.",
+                "This Hadith clarifies that a large amount of water is not rendered impure by small impurities.",
+                "As long as its color, smell, or taste does not change, it remains pure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دو قُلَّت کی مقدار",
+              "english": "Measurement of Two Qullahs"
+            },
+            "content": {
+              "urdu": [
+                "دو قُلَّت تقریباً 270 سے 300 لیٹر پانی کے برابر سمجھا جاتا ہے۔",
+                "یہ مقدار اجتہادی ہے اور مختلف روایات میں فرق پایا جاتا ہے۔",
+                "اس سے مراد وہ مقدار ہے جس میں معمولی ناپاکی اثر انداز نہ ہو سکے۔"
+              ],
+              "english": [
+                "Two qullahs are estimated around 270–300 liters of water.",
+                "The measurement is based on scholarly estimation with slight variations.",
+                "It refers to a volume where minor impurities do not affect the water."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی رہنمائی",
+        "english": "Fiqh Implications"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کم اور زیادہ پانی میں فرق",
+              "english": "Difference between small and large water"
+            },
+            "content": {
+              "urdu": [
+                "کم مقدار پانی میں ناپاکی گرنے سے وہ جلد متاثر ہو جاتا ہے۔",
+                "زیادہ مقدار (دو قُلَّت یا زیادہ) میں ناپاکی اثر نہ کرے تو وہ پاک رہتا ہے۔",
+                "یہ قاعدہ طہارت کے اصولوں میں بنیادی حیثیت رکھتا ہے۔"
+              ],
+              "english": [
+                "Small amounts of water are easily affected by impurities.",
+                "Large volumes (two qullahs or more) remain pure unless visibly changed.",
+                "This rule forms a foundation for fiqh rulings on purity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادات میں پانی کا حکم",
+              "english": "Ruling for Worship Usage"
+            },
+            "content": {
+              "urdu": [
+                "پاک پانی وضو اور غسل کے لیے جائز ہے۔",
+                "اگر شک ہو مگر تبدیلی نہ ہو تو پانی پاک سمجھا جائے گا۔",
+                "اسلام میں یقین کو شک پر ترجیح دی گئی ہے۔"
+              ],
+              "english": [
+                "Pure water is valid for wudu and ghusl.",
+                "If there is doubt but no change, water is still considered pure.",
+                "Islam prioritizes certainty over doubt."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علماء کے اقوال",
+        "english": "Scholarly Views"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمہور علماء کا موقف",
+              "english": "Opinion of Majority Scholars"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء اس حدیث سے استدلال کرتے ہیں کہ پانی کی زیادہ مقدار ناپاک نہیں ہوتی۔",
+                "امام شافعی، امام احمد اور دیگر ائمہ نے اسے طہارت کے اصول میں بنیاد بنایا۔",
+                "یہ قاعدہ عملی طور پر پانی کے ذخائر پر بھی لاگو ہوتا ہے۔"
+              ],
+              "english": [
+                "The majority of scholars derive from this Hadith that large quantities of water are not easily defiled.",
+                "Imam Shafi‘i, Imam Ahmad, and others used it as a legal foundation in purification laws.",
+                "This principle applies practically to wells, tanks, and natural reservoirs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احناف کا موقف",
+              "english": "View of the Hanafi School"
+            },
+            "content": {
+              "urdu": [
+                "احناف اس مقدار کو بطور علامت تسلیم کرتے ہیں، لیکن اصل بنیاد تبدیلی کو مانتے ہیں۔",
+                "اگر ناپاکی سے پانی کا اثر بدل جائے تو وہ ناپاک ہو جائے گا۔",
+                "ورنہ وہ پاک رہے گا خواہ قُلَّت سے کم ہو۔"
+              ],
+              "english": [
+                "The Hanafi scholars consider the change of properties as the real basis of impurity.",
+                "If impurity changes water’s characteristics, it becomes impure.",
+                "Otherwise, it remains pure even if less than two qullahs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طہارت میں اعتدال",
+              "english": "Moderation in Purity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام وسوسوں سے بچنے اور اعتدال سکھاتا ہے۔",
+                "پانی کو ناپاک نہ سمجھا جائے جب تک واضح تبدیلی نہ ہو۔",
+                "وسوسے سے پرہیز طہارت کی علامت ہے۔"
+              ],
+              "english": [
+                "Islam teaches balance and avoidance of excessive doubt.",
+                "Do not consider water impure unless clear signs appear.",
+                "Avoiding baseless suspicion is part of true purification."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی نعمت کا احترام",
+              "english": "Respecting Allah’s Blessing"
+            },
+            "content": {
+              "urdu": [
+                "پانی اللہ کی عظیم نعمت ہے۔",
+                "اسے ضائع نہ کیا جائے بلکہ طہارت اور صفائی کے لیے استعمال کیا جائے۔",
+                "پاکیزگی ایمان کا حصہ ہے۔"
+              ],
+              "english": [
+                "Water is a great blessing from Allah.",
+                "Use it wisely and avoid waste.",
+                "Cleanliness and purity are integral parts of faith."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

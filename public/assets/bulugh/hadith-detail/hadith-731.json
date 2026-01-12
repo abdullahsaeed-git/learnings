@@ -1,0 +1,254 @@
+{
+  "hadithId": 731,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:2664"],
+    "kitabId": 7,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب البيوع",
+    "babId": 47
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2664)، ومسلم (1868). وزاد نافع: فحدثت به عمر بن عبد العزيز فقال: إن هذا لحد بين الصغير والكبير.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (2664) و مسلم (1868) کی متفقہ روایت ہے۔ امام ابن خزیمہ نے بھی اسے صحیح قرار دیا ہے۔ امام عمر بن عبدالعزیز نے اس حدیث کی بنیاد پر پندرہ سال کو بلوغت کی قانونی حد مقرر کیا تھا۔",
+    "english": "Sahih. Reported by Al-Bukhari (2664) and Muslim (1868). Nafi' added that when he told this to Umar bin Abdul Aziz, the Caliph remarked: \"This is the boundary between a minor and an adult.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "عُرِضْتُ",
+      "english": "I was presented",
+      "urdu": "میں پیش کیا گیا"
+    },
+    {
+      "arabic": "أَجَازَنِي",
+      "english": "He permitted me",
+      "urdu": "مجھے اجازت دے دی"
+    },
+    {
+      "arabic": "بَلَغْتُ",
+      "english": "I reached puberty",
+      "urdu": "میں بالغ ہو گیا"
+    },
+    {
+      "arabic": "لَمْ يُجِزْنِي",
+      "english": "He did not allow me",
+      "urdu": "مجھے اجازت نہ دی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ لڑکوں میں بلوغت کی ایک علامت عمر ہے، اور پندرہ سال کی عمر مکمل ہونے پر شرعاً انسان بالغ اور احکامِ الہی کا مکلف ہو جاتا ہے۔",
+    "english": "This Hadith establishes that age is a sign of puberty; upon completing fifteen years, a person is legally considered an adult (Baligh) in Sharia."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2664)",
+      "english": "Sahih al-Bukhari (2664)"
+    },
+    {
+      "arabic": "صحيح مسلم (1868)",
+      "english": "Sahih Muslim (1868)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بلوغت کی شرعی حد",
+        "english": "Sharia Limit of Puberty"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمر کے ذریعے بلوغت کا تعین",
+              "english": "Determining Puberty by Age"
+            },
+            "content": {
+              "urdu": [
+                "اگر بلوغت کی طبعی علامات (جیسے احتلام وغیرہ) ظاہر نہ ہوں، تو پندرہ سال کی عمر کو بلوغت کی حد مانا جائے گا۔",
+                "نبی ﷺ نے ابن عمر کو 14 سال کی عمر میں بچہ (صغیر) سمجھا اور 15 سال میں مرد (کبیر) قرار دیا۔",
+                "امام شافعی، امام احمد اور امام ابویوسف کے نزدیک 15 سال کی عمر بلوغت کے لیے حتمی ہے۔"
+              ],
+              "english": [
+                "If physical signs of puberty (like nocturnal emission) do not appear, 15 years of age is considered the legal limit.",
+                "The Prophet (PBUH) treated Ibn Umar as a minor at 14 and as an adult at 15.",
+                "Imams Shafi'i, Ahmad, and Abu Yusuf consider 15 years as the definitive age for puberty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احکامِ شرعیہ کا نفاذ",
+              "english": "Enforcement of Religious Rulings"
+            },
+            "content": {
+              "urdu": [
+                "بلوغت کے بعد انسان پر نماز، روزہ اور دیگر فرائض واجب ہو جاتے ہیں۔",
+                "اس عمر کے بعد انسان اپنے مالی معاملات اور قانونی فیصلوں کا خود ذمہ دار ہوتا ہے۔",
+                "حدود اور تعزیرات کا نفاذ بھی شرعی طور پر اسی وقت سے شروع ہوتا ہے۔"
+              ],
+              "english": [
+                "After reaching puberty, prayer, fasting, and other obligations become mandatory.",
+                "Following this age, a person becomes legally responsible for their financial and legal decisions.",
+                "The application of Sharia penalties (Hudud) also begins at this stage."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تجارتی اور قانونی معاملات",
+        "english": "Commercial and Legal Transactions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مالی تصرف کی اہلیت",
+              "english": "Capacity for Financial Disposal"
+            },
+            "content": {
+              "urdu": [
+                "نابالغ بچے کا اکیلے تجارت کرنا یا بڑے معاہدے کرنا شرعاً ممنوع ہے جب تک اس کا ولی ساتھ نہ ہو۔",
+                "پندرہ سال مکمل ہونے پر وہ خود مختار تاجر کے طور پر کام کرنے کا اہل ہو جاتا ہے۔",
+                "اس حدیث کو امام ابن حجر نے 'کتاب البیوع' میں اسی لیے ذکر کیا تاکہ لین دین کی اہلیت واضح ہو۔"
+              ],
+              "english": [
+                "A minor is legally barred from independent trade or major contracts without a guardian's oversight.",
+                "Upon turning fifteen, one is deemed capable of acting as an independent merchant.",
+                "Ibn Hajar included this in the 'Book of Sales' to clarify the legal capacity for transactions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حجر (پابندی) کا خاتمہ",
+              "english": "Ending of Interdiction (Hajr)"
+            },
+            "content": {
+              "urdu": [
+                "بچے کے مال پر جو پابندی ہوتی ہے، وہ بلوغت اور سمجھ بوجھ (رشد) آنے پر ختم ہو جاتی ہے۔",
+                "پندرہ سال کی عمر اس پابندی کے خاتمے کی ایک اہم علامت ہے۔",
+                "قرآن و سنت معاشرے میں یتیموں اور بچوں کے حقوق کے تحفظ کا مکمل نظام فراہم کرتے ہیں۔"
+              ],
+              "english": [
+                "Legal restrictions on a child's wealth are lifted upon puberty and attainment of maturity (Rushd).",
+                "The age of fifteen is a key indicator for lifting such legal interdictions.",
+                "The Quran and Sunnah provide a comprehensive system for protecting the rights of orphans and minors."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جہاد اور عسکری ذمہ داری",
+        "english": "Jihad and Military Responsibility"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچوں کو جنگ سے بچانا",
+              "english": "Protecting Children from War"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے کم عمر بچوں کو میدانِ جنگ کی سختیوں سے بچانے کا حکم دیا ہے۔",
+                "نبی ﷺ کا ابن عمر کو احد میں اجازت نہ دینا بچوں کی حفاظت کی بہترین مثال ہے۔",
+                "جنگی خدمات کے لیے جسمانی اور ذہنی پختگی بنیادی شرط ہے۔"
+              ],
+              "english": [
+                "Islam commands protecting young children from the rigors of the battlefield.",
+                "The Prophet's refusal to let Ibn Umar fight at Uhud is a prime example of child protection.",
+                "Physical and mental maturity is a prerequisite for military service."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نوجوانوں کی تربیت",
+              "english": "Training of Youth"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام کے بچے کم عمری میں بھی دین کی خدمت کا بے پناہ جذبہ رکھتے تھے۔",
+                "والدین کو چاہیے کہ وہ پندرہ سال کی عمر تک بچوں کی ایسی تربیت کریں کہ وہ ذمہ دار بن جائیں۔",
+                "اجازت ملنے پر خوش ہونا اس بات کی دلیل ہے کہ صحابہ شہادت کے کتنے مشتاق تھے۔"
+              ],
+              "english": [
+                "The children of the Sahaba possessed an immense passion for serving Islam from a young age.",
+                "Parents should train children so that by age fifteen, they are ready for responsibilities.",
+                "Ibn Umar's joy upon receiving permission shows how eager the Sahaba were for martyrdom."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام ابوحنیفہؒ کا منفرد قول",
+              "english": "Unique Opinion of Imam Abu Hanifa"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہؒ کے نزدیک احتیاطاً لڑکے کے لیے 18 سال اور لڑکی کے لیے 17 سال کی حد ہے۔",
+                "تاہم صاحبِین (ابویوسف و محمد) نے اسی حدیث کی بنیاد پر 15 سال کو ہی اختیار کیا ہے۔",
+                "موجودہ دور کے اکثر قوانین میں بھی اسی نبوی حد کے قریب عمریں مقرر کی گئی ہیں۔"
+              ],
+              "english": [
+                "Imam Abu Hanifa suggested 18 years for boys and 17 for girls as a precautionary limit.",
+                "However, his students (Abu Yusuf and Muhammad) adopted 15 years based on this Hadith.",
+                "Most modern legal systems establish adulthood near this Prophetic limit."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خلاصہ کلام",
+              "english": "Conclusion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اسلامی قانون میں عمر کے تعین کے لیے ایک مستند ترین ماخذ ہے۔",
+                "تعلیم و تربیت اور قانونی ذمہ داریوں کے لیے پندرہ سال کا سنگِ میل نہایت اہم ہے۔",
+                "نبی ﷺ کی زندگی کا ہر عمل ہمارے لیے بہترین راہنمائی فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith is a primary source for determining age limits in Islamic law.",
+                "The 15-year milestone is vital for education, training, and legal accountability.",
+                "Every action of the Prophet (PBUH) provides the best guidance for our lives."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 687,
+  "hadithNo": 40,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh:687"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف. رواه ابن ماجه (2196)، والدارقطني (3/44)، والبزار. وفي إسناده مجالد بن سعيد وهو ليس بالقوي، ولكن لبعض فقراته شواهد صحيحة تفيد النهي عن الغرر.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے ابن ماجہ، دارقطنی اور بزار نے روایت کیا ہے۔ اس کی سند میں مجالد بن سعید ضعیف ہے، تاہم اس میں مذکور اکثر ممانعتیں دیگر صحیح احادیث (بیع غرر کی ممانعت) سے ثابت ہیں۔",
+    "english": "Weak. Reported by Ibn Majah (2196), Ad-Daraqutni (3/44), and Al-Bazzar. The narrator Mujalid bin Sa'id is weak, though most points in the Hadith are supported by authentic prohibitions against Gharar (uncertainty)."
+  },
+  "importantWords": [
+    {
+      "arabic": "بُطُونِ",
+      "english": "Wombs",
+      "urdu": "پیٹ / رحم"
+    },
+    {
+      "arabic": "ضُرُوعِهَا",
+      "english": "Their udders",
+      "urdu": "ان کے تھن"
+    },
+    {
+      "arabic": "آبِقٌ",
+      "english": "Runaway / Bolted",
+      "urdu": "بھاگا ہوا"
+    },
+    {
+      "arabic": "الْمَغَانِمِ",
+      "english": "Spoils of war",
+      "urdu": "مالِ غنیمت"
+    },
+    {
+      "arabic": "الْغَائِصِ",
+      "english": "The diver",
+      "urdu": "غوطہ خور"
+    },
+    {
+      "arabic": "ضَرْبَةِ",
+      "english": "Stroke / Dive",
+      "urdu": "مارنا / غوطہ لگانا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ان تمام تجارتی معاملات کی ممانعت بیان کرتی ہے جن میں دھوکہ، جہالت اور غیر یقینی صورتحال (غرر) پائی جاتی ہو، جیسے ایسی چیز بیچنا جو ابھی وجود میں نہ ہو یا قبضے میں نہ ہو۔",
+    "english": "This Hadith prohibits transactions involving uncertainty (Gharar), such as selling non-existent items, items not in possession, or unknown outcomes."
+  },
+  "references": [
+    {
+      "arabic": "سنن ابن ماجه (2196)",
+      "english": "Sunan Ibn Majah (2196)"
+    },
+    {
+      "arabic": "سنن الدارقطني (3/44)",
+      "english": "Sunan al-Daraqutni (3/44)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6xR8E3oA",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیعِ غرر کی ممانعت",
+        "english": "Prohibition of Uncertain Sales"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نامعلوم چیز کی فروخت",
+              "english": "Selling the Unknown"
+            },
+            "content": {
+              "urdu": [
+                "جانور کے پیٹ میں موجود بچے کو بیچنا منع ہے کیونکہ معلوم نہیں وہ زندہ پیدا ہوگا یا مردہ۔",
+                "تھنوں میں موجود دودھ کو تولنے سے پہلے بیچنا 'جہالت' ہے کیونکہ اس کی مقدار معین نہیں ہوتی۔",
+                "ایسے سودوں میں خریدار یا بیچنے والے میں سے کسی ایک کا نقصان یقینی ہوتا ہے جو جھگڑے کا باعث ہے۔"
+              ],
+              "english": [
+                "Selling a fetus in the womb is forbidden as its health or survival is unknown.",
+                "Selling milk in the udder before milking involves 'Jahalah' due to unknown quantity.",
+                "Such deals lead to certain loss for one party, causing animosity and legal disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ضربۃ الغائص کی وضاحت",
+              "english": "Explaining the Diver's Stroke"
+            },
+            "content": {
+              "urdu": [
+                "غوطہ خور کے ساتھ یہ سودا کرنا کہ 'وہ جو کچھ نکالے گا وہ اتنے میں میرا ہوگا' سراسر جوا ہے۔",
+                "ہو سکتا ہے غوطہ خور بہت قیمتی موتی نکال لائے یا اسے کچھ بھی نہ ملے، یہ غیر یقینی ہے۔",
+                "اسلامی معیشت میں قسمت آزمائی کے بجائے حقیقی مادی تبادلے کو اہمیت دی گئی ہے۔"
+              ],
+              "english": [
+                "Agreeing to buy whatever a diver brings up for a fixed price is effectively gambling.",
+                "The diver might bring up a precious pearl or nothing at all, creating absolute uncertainty.",
+                "Islamic economics prioritizes tangible exchange over speculative luck-based outcomes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ملکیت اور قبضے کے شرائط",
+        "english": "Conditions of Ownership and Possession"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناقابلِ تسلیم اشیاء کی بیع",
+              "english": "Selling Undeliverable Items"
+            },
+            "content": {
+              "urdu": [
+                "بھاگے ہوئے غلام کو بیچنا اس لیے منع ہے کیونکہ بیچنے والا اسے خریدار کے حوالے نہیں کر سکتا۔",
+                "یہ اصول ہر اس چیز پر لاگو ہوتا ہے جو مالک کی ملکیت میں تو ہو مگر اس کے کنٹرول میں نہ ہو۔",
+                "بیع کے درست ہونے کے لیے 'تسلیم و تسلم' (حوالہ کرنے کی قدرت) شرطِ اول ہے۔"
+              ],
+              "english": [
+                "Selling a runaway slave is prohibited because the seller cannot deliver the 'goods'.",
+                "This applies to anything owned but not under the actual control of the owner.",
+                "Deliverability is a primary condition for a valid sales contract in Sharia."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقسیم سے پہلے خرید و فروخت",
+              "english": "Trading Before Distribution"
+            },
+            "content": {
+              "urdu": [
+                "مالِ غنیمت تقسیم سے پہلے کسی ایک فرد کی معین ملکیت نہیں ہوتا، اس لیے اسے بیچنا ناجائز ہے۔",
+                "اسی طرح صدقہ جب تک مستحق کے قبضے میں نہ آ جائے، اس کا سودا کرنا درست نہیں۔",
+                "یہ احکامات معاشی معاملات میں شفافیت اور قانونی پختگی کو یقینی بناتے ہیں۔"
+              ],
+              "english": [
+                "Spoils of war are not individual property before distribution, hence they cannot be sold.",
+                "Similarly, charity items cannot be traded until the recipient takes full possession.",
+                "These rulings ensure transparency and legal certainty in economic transactions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و معاشی حکمتیں",
+        "english": "Juristic and Economic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی امن کا تحفظ",
+              "english": "Preserving Social Peace"
+            },
+            "content": {
+              "urdu": [
+                "غیر یقینی سودے ہمیشہ فریقین کے درمیان دشمنی اور قانونی چارہ جوئی پر ختم ہوتے ہیں۔",
+                "شریعت نے ان کی جڑ اس لیے کاٹ دی تاکہ معاشرہ فتنہ و فساد سے پاک رہے۔",
+                "دیانتدارانہ تجارت ہی باہمی محبت اور اعتماد کو فروغ دینے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Uncertain transactions inevitably lead to hostility and legal conflicts between parties.",
+                "Sharia uproots these practices to keep the society free from strife and corruption.",
+                "Honest trade is the only means to foster mutual love and social trust."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سٹہ بازی کا سدِ باب",
+              "english": "Curbing Speculation"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سٹہ بازی اور فرضی کاروبار کے خلاف ایک مضبوط دیوار کی حیثیت رکھتی ہے۔",
+                "اسلامی نظامِ معیشت محنت اور حقیقی پیداوار پر زور دیتا ہے نہ کہ محض تخمینوں پر۔",
+                "مال کی گردش حقیقی بنیادوں پر ہونا ہی معاشی استحکام کی ضمانت ہے۔"
+              ],
+              "english": [
+                "This Hadith serves as a strong barrier against speculation and fictitious business.",
+                "The Islamic economic system emphasizes hard work and real production over estimates.",
+                "The circulation of wealth based on reality is the guarantee of economic stability."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اطلاق",
+        "english": "Modern Day Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مستقبل کے سودے (Futures)",
+              "english": "Future Contracts"
+            },
+            "content": {
+              "urdu": [
+                "موجودہ دور میں بہت سے 'فیوچر کانٹریکٹس' میں بیع غرر کی مشابہت پائی جاتی ہے۔",
+                "ایسی چیزیں بیچنا جو ابھی تیار نہیں ہوئیں یا غیر یقینی ہیں، اسی ممانعت میں آتی ہیں۔",
+                "مسلمانوں کو چاہیے کہ وہ اپنی سرمایہ کاری کو ان مشتبہ طریقوں سے پاک رکھیں۔"
+              ],
+              "english": [
+                "Many modern 'future contracts' bear a resemblance to prohibited Gharar sales.",
+                "Selling items not yet produced or highly uncertain falls under this prohibition.",
+                "Muslims must keep their investments pure from these doubtful and risky methods."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال اور برکت",
+              "english": "Halal Livelihood and Blessing"
+            },
+            "content": {
+              "urdu": [
+                "وہی نفع برکت والا ہے جو واضح اور شفاف لین دین سے حاصل کیا گیا ہو۔",
+                "مشتبہ اور حرام طریقے اختیار کرنے سے دعاؤں کی قبولیت ختم ہو جاتی ہے۔",
+                "اتباعِ سنت میں ہی دنیا کی معاشی خوشحالی اور آخرت کی نجات پوشیدہ ہے۔"
+              ],
+              "english": [
+                "Only profit gained through clear and transparent dealings contains divine blessing.",
+                "Doubtful and forbidden methods hinder the acceptance of one's supplications.",
+                "Following the Sunnah ensures worldly prosperity and salvation in the hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 1147,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/15"],
+    "kitabId": 12,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الصيد والذبائح",
+    "babId": 93
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2322)، ومسلم (1575) واللفظ له، ورواه أيضا أبو داود والترمذي والنسائي.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (2322) اور امام مسلم (1575) نے روایت کیا ہے۔ اس کی سند اور متن پر تمام ائمہ کا اتفاق ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2322) and Muslim (1575), with the wording belonging to Muslim. It is also recorded in other primary books of Sunan."
+  },
+  "importantWords": [
+    {
+      "arabic": "اتَّخَذَ",
+      "english": "Kept / Adopted",
+      "urdu": "رکھا / اپنایا"
+    },
+    {
+      "arabic": "مَاشِيَةٍ",
+      "english": "Livestock / Cattle",
+      "urdu": "مویشی / مال"
+    },
+    {
+      "arabic": "صَيْدٍ",
+      "english": "Hunting",
+      "urdu": "شکار"
+    },
+    {
+      "arabic": "زَرْعٍ",
+      "english": "Farming / Crops",
+      "urdu": "کھیتی باڑی"
+    },
+    {
+      "arabic": "اِنْتَقَصَ",
+      "english": "Deducted / Decreased",
+      "urdu": "کم ہو گیا"
+    },
+    {
+      "arabic": "قِيرَاطٌ",
+      "english": "Qirat (Great Reward)",
+      "urdu": "قیراط (بڑا اجر)"
+    }
+  ],
+  "summary": {
+    "urdu": "بلا ضرورت کتا رکھنا منع ہے اور اس سے روزانہ نیکیاں ضائع ہوتی ہیں، سوائے ان کتوں کے جو حفاظت یا شکار کے لیے ہوں۔",
+    "english": "Keeping a dog without a valid necessity is prohibited and results in a daily loss of rewards, except for guarding or hunting purposes."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2322)",
+      "english": "Sahih al-Bukhari (2322)"
+    },
+    {
+      "arabic": "صحيح مسلم (1575)",
+      "english": "Sahih Muslim (1575)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Xh3hS5mU-uM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کتا رکھنے کے شرعی احکام",
+        "english": "Legal Rulings on Keeping Dogs"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جائز وجوہات",
+              "english": "Permissible Reasons"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے صرف تین مقاصد کے لیے کتا رکھنے کی اجازت دی ہے۔",
+                "شکار کرنا، مویشیوں کی حفاظت اور کھیتوں کی نگہبانی کرنا جائز ہے۔",
+                "ان ضروریات کے بغیر کتا رکھنا گناہ اور اجر کی کمی کا باعث ہے۔"
+              ],
+              "english": [
+                "Shariah only allows keeping a dog for three specific purposes.",
+                "It is permissible for hunting, guarding livestock, and protecting crops.",
+                "Keeping a dog without these needs is a sin and leads to reward loss."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیکوں میں کمی کی وجہ",
+              "english": "Reason for Loss of Reward"
+            },
+            "content": {
+              "urdu": [
+                "کتے کی موجودگی رحمت کے فرشتوں کو گھر میں آنے سے روکتی ہے۔",
+                "کتے کے بال اور لعاب ناپاک ہیں جو عبادت میں خلل ڈالتے ہیں۔",
+                "بلا ضرورت کتا رکھنا کفار کی مشابہت اور فضول خرچی میں شامل ہے۔"
+              ],
+              "english": [
+                "The presence of a dog prevents angels of mercy from entering the home.",
+                "A dog's hair and saliva are impure, which can interfere with worship.",
+                "Keeping a dog unnecessarily mimics non-believers and involves wastefulness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نجاست اور طہارت",
+        "english": "Impurity and Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کتے کا لعاب",
+              "english": "Dog's Saliva"
+            },
+            "content": {
+              "urdu": [
+                "اگر کتا برتن میں منہ ڈال دے تو اسے سات بار دھونا ضروری ہے۔",
+                "کتے کی نجاست 'نجاستِ غلیظہ' ہے جس کی صفائی کا خاص حکم ہے۔",
+                "شکاری کتے کے ذریعے پکڑے گئے شکار کے لیے الگ فقہی احکام ہیں۔"
+              ],
+              "english": [
+                "If a dog licks a vessel, it must be washed seven times properly.",
+                "A dog's impurity is 'heavy impurity' requiring specific cleaning methods.",
+                "There are separate juristic rulings for game caught by hunting dogs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کا تحفظ",
+              "english": "Protecting Purity"
+            },
+            "content": {
+              "urdu": [
+                "گھروں میں کتے رکھنے سے بستر اور کپڑے ناپاک ہونے کا خطرہ رہتا ہے۔",
+                "اسلام پاکیزگی اور صفائی پر بہت زیادہ زور دینے والا دین ہے۔",
+                "عبادت کی قبولیت کے لیے جگہ اور لباس کا پاک ہونا لازمی ہے۔"
+              ],
+              "english": [
+                "Keeping dogs indoors risks making bedding and clothing impure (Najis).",
+                "Islam is a religion that places great emphasis on purity and hygiene.",
+                "Purity of place and clothing is essential for the acceptance of prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قیراط کی وضاحت",
+        "english": "Explanation of Qirat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجر کی مقدار",
+              "english": "Amount of Reward"
+            },
+            "content": {
+              "urdu": [
+                "قیراط سے مراد اجر کا ایک بہت بڑا حصہ یا پہاڑ جتنی نیکی ہے۔",
+                "روزانہ ایک قیراط کم ہونا انسان کے لیے بہت بڑا خسارہ ہے۔",
+                "یہ وعید اس شخص کے لیے ہے جو محض شوقیہ کتا پالتا ہے۔"
+              ],
+              "english": [
+                "Qirat refers to a huge portion of reward or a mountain of good deeds.",
+                "Losing one Qirat daily is a massive spiritual loss for a believer.",
+                "This warning is for the one who keeps a dog merely as a hobby."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سخت ناپسندیدگی",
+              "english": "Severe Disapproval"
+    },
+            "content": {
+              "urdu": [
+                "اس حدیث سے کتا پالنے کی سخت ممانعت ثابت ہوتی ہے۔",
+                "صرف جدید فیشن کی وجہ سے سنت کی مخالفت نہیں کرنی چاہیے۔",
+                "نیکیوں کو بچانا ہر مومن کی بنیادی ذمہ داری اور ترجیح ہے۔"
+              ],
+              "english": [
+                "This Hadith proves a strict prohibition against keeping dogs as pets.",
+                "One should not oppose the Sunnah merely for following modern trends.",
+                "Protecting one's good deeds is a primary responsibility for every believer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و سماجی پہلو",
+        "english": "Ethical and Social Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حیوانوں کے حقوق",
+              "english": "Animal Rights"
+            },
+            "content": {
+              "urdu": [
+                "اسلام جانوروں کے ساتھ بدسلوکی سے سختی سے منع کرتا ہے۔",
+                "کتا رکھنے کی ممانعت کا مطلب اسے مارنا یا اذیت دینا نہیں ہے۔",
+                "ضرورت کے تحت رکھے گئے کتے کا خیال رکھنا بھی ضروری ہے۔"
+              ],
+              "english": [
+                "Islam strictly forbids the mistreatment of any living animal.",
+                "Prohibiting keeping dogs as pets does not mean harming or torturing them.",
+                "Dogs kept for valid needs must be properly cared for and fed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی طرزِ زندگی",
+              "english": "Islamic Lifestyle"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کا گھر ذکرِ الہی اور فرشتوں کی آماجگاہ ہونا چاہیے۔",
+                "ہمیں اپنی زندگی کو نبی ﷺ کے بتائے ہوئے اصولوں پر ڈھالنا چاہیے۔",
+                "دنیاوی شوق پر اخروی اجر کو قربان کرنا عقلمندی نہیں ہے۔"
+              ],
+              "english": [
+                "A Muslim's home should be a place for Dhikr and angels' presence.",
+                "We must mold our lives according to the principles taught by the Prophet (ﷺ).",
+                "It is not wise to sacrifice eternal rewards for worldly hobbies."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

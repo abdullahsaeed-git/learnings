@@ -1,0 +1,259 @@
+{
+  "hadithId": 1174,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/13/4"],
+    "kitabId": 13,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأيمان والنذور",
+    "babId": 96
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (2/10)، وأبو داود (3261)، والنسائي (7/25)، والترمذي (1531)، وابن ماجه (2105)، وابن حبان (1184). واللفظ للترمذي.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد اور چاروں اصحابِ سنن نے روایت کیا ہے، جبکہ امام ابن حبان نے اسے اپنی صحیح میں جگہ دی ہے۔",
+    "english": "Sahih. Reported by Ahmad (2/10), Abu Dawud (3261), An-Nasa'i (7/25), At-Tirmidhi (1531), Ibn Majah (2105), and Ibn Hibban (1184)."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَلَفَ",
+      "english": "Swore / Took oath",
+      "urdu": "قسم کھائی"
+    },
+    {
+      "arabic": "يَمِينٍ",
+      "english": "Oath",
+      "urdu": "قسم"
+    },
+    {
+      "arabic": "إِنْ شَاءَ اَللَّهُ",
+      "english": "If Allah wills",
+      "urdu": "اگر اللہ نے چاہا"
+    },
+    {
+      "arabic": "حِنْثَ",
+      "english": "Violation / Perjury",
+      "urdu": "قسم توڑنا / گناہ"
+    },
+    {
+      "arabic": "فَلَا",
+      "english": "Then no",
+      "urdu": "تو نہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "قسم کھاتے وقت 'ان شاء اللہ' کہنے سے وہ قسم مشروط ہو جاتی ہے اور اسے پورا نہ کرنے پر کوئی شرعی کفارہ لازم نہیں آتا۔",
+    "english": "Saying 'Insha' Allah' immediately after an oath makes it conditional, exempting the person from expiation if the oath is not fulfilled."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (1531)",
+      "english": "Sunan at-Tirmidhi (1531)"
+    },
+    {
+      "arabic": "سنن أبي داود (3261)",
+      "english": "Sunan Abi Dawud (3261)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=f-w5oTndxR8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "استثناء کا مفہوم",
+        "english": "The Meaning of Exception"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ان شاء اللہ کی برکت",
+              "english": "Blessing of Insha' Allah"
+            },
+            "content": {
+              "urdu": [
+                "قسم کے ساتھ ان شاء اللہ کہنا استثناء کہلاتا ہے۔",
+                "یہ الفاظ قسم کو اللہ کی مشیت کے تابع کر دیتے ہیں۔",
+                "اس سے انسان قسم کی سخت گرفت سے محفوظ رہتا ہے۔"
+              ],
+              "english": [
+                "Saying Insha' Allah with an oath is called 'Istithna'.",
+                "These words subject the oath to Allah's divine will.",
+                "This protects a person from the legal binding of the oath."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کفارہ سے نجات",
+              "english": "Exemption from Expiation"
+            },
+            "content": {
+              "urdu": [
+                "اگر قسم پوری نہ ہو سکے تو کفارہ دینا نہیں پڑتا۔",
+                "یہ حکم اس وقت ہے جب الفاظ متصل کہے جائیں۔",
+                "اسلام نے اپنی زبان پر کنٹرول اور احتیاط سکھائی ہے۔"
+              ],
+              "english": [
+                "If the oath is not fulfilled, no expiation is required.",
+                "This ruling applies when the words are said consecutively.",
+                "Islam teaches control and caution over one's speech."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی شرائط",
+        "english": "Juristic Conditions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتصال کی اہمیت",
+              "english": "Importance of Continuity"
+            },
+            "content": {
+              "urdu": [
+                "ان شاء اللہ قسم کے فوراً بعد کہنا ضروری ہے۔",
+                "اگر لمبا فاصلہ ہو جائے تو استثناء معتبر نہیں ہوگا۔",
+                "سانس لینے جتنا وقفہ فقہاء کے نزدیک معاف ہے۔"
+              ],
+              "english": [
+                "Insha' Allah must be said immediately after the oath.",
+                "The exception is invalid if there is a long silence.",
+                "A brief pause for breath is excused by the jurists."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت اور ارادہ",
+              "english": "Intention and Purpose"
+            },
+            "content": {
+              "urdu": [
+                "یہ الفاظ دل کی نیت کے ساتھ زبان سے ادا ہونے چاہئیں۔",
+                "محض عادتاً کہنا بعض اوقات کفارہ ساقط نہیں کرتا۔",
+                "مومن کا ہر معاملہ اللہ کی مشیت کے تابع ہونا چاہیے۔"
+              ],
+              "english": [
+                "These words should be spoken with sincere heart intent.",
+                "Saying it habitually might not always waive expiation.",
+                "A believer's every matter should yield to Allah's will."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی و تربیتی حکمت",
+        "english": "Spiritual and Educational Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ پر توکل",
+              "english": "Reliance on Allah"
+            },
+            "content": {
+              "urdu": [
+                "انسان اپنے مستقبل کے ارادوں میں خود مختار نہیں ہے۔",
+                "ان شاء اللہ کہنا اپنی عاجزی کا اعتراف کرنا ہے۔",
+                "یہ عمل بندے کا تعلق اپنے خالق سے مضبوط کرتا ہے۔"
+              ],
+              "english": [
+                "Man is not independent in his future resolutions.",
+                "Saying Insha' Allah is an admission of one's humility.",
+                "This act strengthens the servant's bond with the Creator."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قسموں کی کثرت سے بچاؤ",
+              "english": "Avoiding Frequent Oaths"
+            },
+            "content": {
+              "urdu": [
+                "اسلام بلا ضرورت قسمیں کھانے کی حوصلہ شکنی کرتا ہے۔",
+                "استثناء کی رخصت بندے پر بوجھ کم کرنے کے لیے ہے۔",
+                "دین میں ہر جگہ سہولت اور رحمت کے پہلو موجود ہیں۔"
+              ],
+              "english": [
+                "Islam discourages taking frequent unnecessary oaths.",
+                "The concession of exception eases the burden on people.",
+                "Aspects of ease and mercy exist throughout the religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Application in Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزمرہ کے معاملات",
+              "english": "Daily Affairs"
+            },
+            "content": {
+              "urdu": [
+                "وعدہ یا قسم کرتے وقت ان شاء اللہ کہنا سنت ہے۔",
+                "اس سے کام میں برکت اور خیر پیدا ہوتی ہے۔",
+                "یہ الفاظ کسی کے حق کو دبانے کے لیے نہیں ہونے چاہئیں۔"
+              ],
+              "english": [
+                "Saying Insha' Allah is Sunnah when making promises.",
+                "It brings blessings and goodness to the task at hand.",
+                "These words should not be used to suppress rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاقی ذمہ داری",
+              "english": "Ethical Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ کفارہ نہیں، مگر قسم پوری کرنا اخلاقی طور پر بہتر ہے۔",
+                "بلاوجہ قسم توڑنا مومن کی شان کے خلاف عمل ہے۔",
+                "سچائی اور دیانت داری کو ہمیشہ مقدم رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Though no expiation is due, fulfilling oaths is better.",
+                "Breaking oaths needlessly contradicts a believer's dignity.",
+                "Truthfulness and integrity should always be prioritized."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

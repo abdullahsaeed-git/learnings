@@ -1,0 +1,259 @@
+{
+  "hadithId": 860,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/50"],
+    "kitabId": 8,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب النكاح",
+    "babId": 65
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده . رواه أحمد (2/14) والترمذي (1128) وابن حبان (4156) والحاكم (2/192). أعلّه البخاري بالإرسال، لكن الحديث صحيح المعنى وله شواهد تقويه كحديث الحارث بن قيس ونوفل بن معاوية.",
+    "urdu": "یہ روایت اپنے شواہد کی بنا پر صحیح ہے۔ اسے احمد، ترمذی اور ابن حبان نے روایت کیا ہے۔ اگرچہ امام بخاری نے اس کی سند پر جرح کی ہے، لیکن دیگر صحابہ سے مروی شواہد اس کے معنی کی تائید کرتے ہیں۔",
+    "english": "Sahih due to supporting evidences. Reported by Ahmad (2/14), At-Tirmidhi (1128), and Ibn Hibban (4156). Though Al-Bukhari mentioned a defect in the chain, the meaning is authentic and supported by narrations of other companions."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَسْلَمَ",
+      "english": "Accepted Islam",
+      "urdu": "اسلام لایا"
+    },
+    {
+      "arabic": "عَشْرُ نِسْوَةٍ",
+      "english": "Ten wives",
+      "urdu": "دس بیویاں"
+    },
+    {
+      "arabic": "يَتَخَيَّرَ",
+      "english": "To choose / select",
+      "urdu": "انتخاب کرے"
+    },
+    {
+      "arabic": "أَرْبَعًا",
+      "english": "Four",
+      "urdu": "چار"
+    },
+    {
+      "arabic": "أَعَلَّهُ",
+      "english": "Found a defect in it",
+      "urdu": "اسے معلول قرار دیا / علت بتائی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ اسلام قبول کرنے کے بعد ایک مرد بیک وقت چار سے زائد بیویاں نہیں رکھ سکتا، خواہ اس نے جاہلیت میں زیادہ شادیاں کی ہوں۔",
+    "english": "This Hadith establishes that upon entering Islam, a man is not permitted to maintain more than four wives simultaneously, regardless of his prior marriages."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي، كتاب النكاح، رقم الحديث ١١٢٨",
+      "english": "Jami` at-Tirmidhi, Book of Marriage, Hadith No. 1128"
+    },
+    {
+      "arabic": "مسند أحمد، رقم الحديث ٤٦٣٠",
+      "english": "Musnad Ahmad, Hadith No. 4630"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Qf8vB7s4M",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اسلام میں تعددِ ازواج کی حد",
+        "english": "Limits of Polygamy in Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چار بیویوں کی حد",
+              "english": "The Limit of Four Wives"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے بیک وقت چار سے زائد بیویاں رکھنے کو قطعی طور پر حرام قرار دیا ہے۔",
+                "زمانہ جاہلیت میں مردوں کی بے شمار بیویاں ہوتی تھیں جن کے حقوق ادا نہیں کیے جاتے تھے۔",
+                "اسلام نے اس تعداد کو محدود کر کے عورتوں کے حقوق اور معاشرتی نظم کو مستحکم کیا۔"
+              ],
+              "english": [
+                "Islam strictly prohibits maintaining more than four wives at the same time.",
+                "In the pre-Islamic era, men had unlimited wives whose rights were often neglected.",
+                "By limiting the number, Islam secured women's rights and stabilized social order."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قبولِ اسلام کے بعد انتخاب",
+              "english": "Choice After Accepting Islam"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی غیر مسلم دس بیویوں کے ساتھ اسلام لائے تو اسے چار منتخب کرنے کا حق ہے۔",
+                "باقی چھ بیویوں کو فارغ کرنا ضروری ہے کیونکہ وہ اب اس کے لیے حلال نہیں رہیں۔",
+                "یہ انتخاب شوہر کی مرضی پر منحصر ہے کہ وہ کن چار کو اپنے ساتھ رکھنا چاہتا ہے۔"
+              ],
+              "english": [
+                "If a non-Muslim enters Islam with ten wives, he is entitled to choose only four.",
+                "Separating from the remaining six is obligatory as they are no longer lawful for him.",
+                "The selection depends on the husband's preference as to which four he wishes to keep."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و قانونی باریکیاں",
+        "english": "Juristic and Legal Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جدید نکاح کی ضرورت",
+              "english": "Necessity of New Contract"
+            },
+            "content": {
+              "urdu": [
+                "اگر بیویاں بھی شوہر کے ساتھ ہی اسلام لائیں تو سابقہ نکاح ہی برقرار رہتا ہے۔",
+                "چار سے زائد ہونے کی صورت میں صرف انتخاب کافی ہے، نئے سرے سے نکاح ضروری نہیں۔",
+                "یہ رعایت نو مسلموں کے لیے خاندانی معاملات کو آسان بنانے کے لیے دی گئی ہے۔"
+              ],
+              "english": [
+                "If the wives accept Islam along with the husband, the previous marriage remains valid.",
+                "In cases exceeding four, selection suffices; a new marriage contract is not required.",
+                "This concession is provided to simplify family transitions for new Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کی شرط",
+              "english": "Condition of Justice and Equity"
+            },
+            "content": {
+              "urdu": [
+                "چار شادیوں کی اجازت 'عدل' کی سخت ترین شرط کے ساتھ مشروط ہے۔",
+                "اگر کوئی شخص چار بیویوں کے درمیان برابری نہیں کر سکتا تو اسے ایک ہی پر اکتفا کرنا چاہیے۔",
+                "اسلام کسی بھی صورت میں عورتوں پر ظلم یا حق تلفی کی اجازت نہیں دیتا۔"
+              ],
+              "english": [
+                "The permission for four wives is strictly conditional upon maintaining perfect equity.",
+                "If a person cannot treat multiple wives equally, he must restrict himself to one.",
+                "Islam does not permit oppression or the violation of women's rights under any circumstance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی فنی حیثیت",
+        "english": "Technical Status of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محدثین کا اختلاف",
+              "english": "Disagreement Among Scholars"
+            },
+            "content": {
+              "urdu": [
+                "امام بخاری اور دیگر نے اس کی سند پر کلام کیا ہے کہ یہ مرسل ہے یا موصول۔",
+                "تحقیق کے مطابق اس کے متعدد شواہد موجود ہیں جو اسے تقویت دیتے ہیں۔",
+                "امت کا اس حدیث کے مفہوم پر اجماع ہے کہ چار سے زائد بیویاں رکھنا حرام ہے۔"
+              ],
+              "english": [
+                "Al-Bukhari and others debated whether the chain is broken or connected.",
+                "Research shows multiple supporting narrations (Shawahid) that strengthen this report.",
+                "The Ummah has consensus on the meaning: keeping more than four wives is forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر صحابہ کی تائید",
+              "english": "Support from Other Companions"
+            },
+            "content": {
+              "urdu": [
+                "حارث بن قیس رضی اللہ عنہ کے ساتھ بھی ایسا ہی واقعہ پیش آیا اور انہیں بھی یہی حکم ملا۔",
+                "نوفل بن معاوية کی روایت بھی اسی حکم کی تائید میں موجود ہے۔",
+                "یہ تواتر معنوی اس حکم کی قطعیت کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "A similar incident happened with Harith bin Qais, who received the same command.",
+                "The narration of Nawfal bin Mu'awiyah also supports this specific legal ruling.",
+                "This thematic consistency clarifies the definitive nature of the prohibition."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اصلاح کا پیغام",
+        "english": "Message of Social Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی وقار کا تحفظ",
+              "english": "Preserving Family Dignity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے بے لگام شہوت رانی کے بجائے ایک نظم و ضبط والا خاندانی ڈھانچہ دیا۔",
+                "بیویوں کی تعداد محدود کرنے سے ان کی بہتر کفالت اور توجہ ممکن ہوتی ہے۔",
+                "یہ قانون عورت کو ایک باعزت مقام اور قانونی تحفظ فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "Islam provided a disciplined family structure instead of unrestrained desire.",
+                "Limiting the number of wives enables better maintenance and personal attention.",
+                "This law grants women an honorable status and secure legal protection."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تدریجی تربیت",
+              "english": "Gradual Discipline"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے جاہلیت کی برائیوں کو ختم کرنے کے لیے واضح اور عملی احکام دیے۔",
+                "نبی ﷺ نے انفرادی معاملات میں خود مداخلت کر کے لوگوں کی تربیت فرمائی۔",
+                "دین پر عمل کرنے کے لیے کبھی کبھی بڑے دنیوی سمجھوتے بھی کرنے پڑتے ہیں۔"
+              ],
+              "english": [
+                "Islam gave clear and practical commands to eliminate pre-Islamic evils.",
+                "The Prophet (ﷺ) personally intervened in individual cases to train the people.",
+                "Practicing religion sometimes requires making significant worldly sacrifices."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

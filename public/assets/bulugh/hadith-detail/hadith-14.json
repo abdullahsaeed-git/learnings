@@ -1,0 +1,255 @@
+{
+  "hadithId": 14,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:5426"],
+    "kitabId": 1,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأشربة",
+    "babId": 2
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5426)، ومسلم (2067) عن عبد الرحمن بن أبي ليلى… واللفظ للبخاري.",
+    "urdu": "صحیح۔ اسے امام بخاری (5426) اور امام مسلم (2067) نے عبدالرحمن بن ابی لیلیٰ کے طریق سے روایت کیا ہے۔ اور الفاظ بخاری کے ہیں۔",
+    "english": "Authentic. Reported by al-Bukhari (5426) and Muslim (2067) from Abdur-Rahman ibn Abi Layla. The wording is from al-Bukhari."
+  },
+
+  "importantWords": [
+    {
+      "arabic": "آنية",
+      "english": "Vessels / Utensils",
+      "urdu": "برتن"
+    },
+    {
+      "arabic": "صحاف",
+      "english": "Plates / Dishes",
+      "urdu": "پیالے / پلیٹیں"
+    },
+    {
+      "arabic": "الذهب والفضة",
+      "english": "Gold and Silver",
+      "urdu": "سونا اور چاندی"
+    }
+  ],
+
+  "summary": {
+    "urdu": "یہ حدیث سونے اور چاندی کے برتنوں میں کھانے پینے کی ممانعت بیان کرتی ہے۔ یہ دنیا میں کفار کے لئے ہیں جبکہ آخرت میں اہل ایمان کے لئے ہیں۔",
+    "english": "This hadith prohibits eating and drinking from gold and silver utensils. Such luxury is for the disbelievers in this world, while the believers will receive better in the Hereafter."
+  },
+
+  "references": [
+    {
+      "arabic": "رواه البخاري (5426) ومسلم (2067)",
+      "english": "Reported by al-Bukhari (5426) and Muslim (2067)"
+    }
+  ],
+
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حذيفة بن اليمان",
+        "english": "Hudhayfah ibn al-Yaman"
+      },
+      "slug": "hudhayfah-ibn-al-yaman"
+    }
+  ],
+
+  "ytLink": "https://www.youtube.com/watch?v=dummy-hadith14",
+
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سونے چاندی کے برتنوں کی ممانعت",
+        "english": "Prohibition of Gold and Silver Utensils"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممانعت کی وجہ",
+              "english": "Reason for the Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "سونے چاندی کے برتنوں میں کھانا پینا تکبر اور اسراف کی علامت ہے۔",
+                "یہ عمل دکھاوے اور دنیا پرستی کو بڑھاتا ہے۔",
+                "اسلام اعتدال اور سادگی کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Using gold and silver utensils represents extravagance and pride.",
+                "It promotes showing off and worldly attachment.",
+                "Islam teaches moderation and simplicity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دنیا اور آخرت کا فرق",
+              "english": "Difference Between This World and the Hereafter"
+            },
+            "content": {
+              "urdu": [
+                "دنیا میں کفار کو یہ عیش و عشرت دی گئی ہے۔",
+                "اہل ایمان کے لئے اصل نعمتیں آخرت میں محفوظ ہیں۔",
+                "یہ ممانعت دراصل آخرت کی فضیلت کو واضح کرتی ہے۔"
+              ],
+              "english": [
+                "Luxuries of this world are granted to disbelievers.",
+                "True blessings are reserved for believers in the Hereafter.",
+                "The prohibition highlights the superiority of the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور روحانی سبق",
+        "english": "Moral and Spiritual Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سادگی کی فضیلت",
+              "english": "Virtue of Simplicity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام سادگی کو پسند کرتا ہے۔",
+                "غیر ضروری عیش و عشرت سے منع کیا گیا ہے۔",
+                "یہ انسان کو عاجزی سکھاتا ہے۔"
+              ],
+              "english": [
+                "Islam encourages simplicity.",
+                "Unnecessary luxury is discouraged.",
+                "It teaches humility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسراف سے بچاؤ",
+              "english": "Avoiding Extravagance"
+            },
+            "content": {
+              "urdu": [
+                "سونا چاندی کے برتن اسراف کی علامت ہیں۔",
+                "اسراف قرآن سے بھی منع ہے۔",
+                "یہ عمل دل کو سخت کرتا ہے۔"
+              ],
+              "english": [
+                "Gold and silver utensils symbolize extravagance.",
+                "Extravagance is prohibited in the Qur'an.",
+                "It leads to hardness of the heart."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Jurisprudential Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سونے چاندی کے برتنوں کا حکم",
+              "english": "Ruling on Gold and Silver Utensils"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک ان کا استعمال حرام ہے۔",
+                "کھانا پینا دونوں صورتیں ممنوع ہیں۔",
+                "زینت کے طور پر رکھنا بھی مکروہ ہے۔"
+              ],
+              "english": [
+                "Majority of scholars consider their use haram.",
+                "Both eating and drinking are prohibited.",
+                "Keeping them merely as decoration is disliked."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "متبادل برتن",
+              "english": "Permissible Alternatives"
+            },
+            "content": {
+              "urdu": [
+                "لوہے، تانبے، مٹی اور شیشے کے برتن جائز ہیں۔",
+                "اسلام عملی اور آسان دین ہے۔",
+                "اسراف کے بغیر زندگی گزارنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Utensils of iron, copper, clay, and glass are permissible.",
+                "Islam is practical and easy.",
+                "It promotes living without extravagance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "دنیا اور آخرت کا توازن",
+        "english": "Balance Between This World and the Hereafter"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دنیا کی حقیقت",
+              "english": "Reality of This World"
+            },
+            "content": {
+              "urdu": [
+                "دنیا کی نعمتیں عارضی ہیں۔",
+                "اصل کامیابی آخرت کی کامیابی ہے۔",
+                "دنیا کو دل کی محبت بنانا نقصان دہ ہے۔"
+              ],
+              "english": [
+                "Worldly blessings are temporary.",
+                "True success is success in the Hereafter.",
+                "Becoming attached to dunya harms the heart."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہل ایمان کی فضیلت",
+              "english": "Virtue of the Believers"
+            },
+            "content": {
+              "urdu": [
+                "آخرت کی اصل نعمتیں اہل ایمان کے لئے ہیں۔",
+                "دنیا میں محرومی دراصل آزمائش ہے۔",
+                "مومن کے لئے آخرت کا بدلہ دنیا سے بہتر ہے۔"
+              ],
+              "english": [
+                "True blessings of the Hereafter are for believers.",
+                "Worldly deprivation is a test.",
+                "The reward of the Hereafter is far superior."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

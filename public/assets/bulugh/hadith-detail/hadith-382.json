@@ -1,0 +1,272 @@
+{
+  "hadithId": 382,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-382"],
+    "kitabId": 2,
+    "inKitabBab": 13,
+    "arabicBook": "بلوغ المرام",
+    "babId": 23
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أحمد (5/385 و 399)‏، وأبو داود (1246)‏، والنسائي (3/167‏-168)‏، وصححه ابن حبان (2898)، وابن خزيمة (1344) من حديث ابن عباس.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابوداؤد اور نسائی نے روایت کیا ہے، اور ابن حبان اور ابن خزیمہ نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad, Abu Dawud, and An-Nasa'i. Authenticated by Ibn Hibban and Ibn Khuzaimah from the narration of Ibn Abbas."
+  },
+  "importantWords": [
+    {
+      "arabic": "صَلَاةَ اَلْخَوْفِ",
+      "english": "Fear Prayer",
+      "urdu": "نماز خوف"
+    },
+    {
+      "arabic": "رَكْعَةً",
+      "english": "One Rak'a",
+      "urdu": "ایک رکعت"
+    },
+    {
+      "arabic": "لَمْ يَقْضُوا",
+      "english": "They did not complete",
+      "urdu": "انہوں نے قضا نہ کی"
+    },
+    {
+      "arabic": "هَؤُلَاءِ",
+      "english": "These (group)",
+      "urdu": "یہ لوگ"
+    },
+    {
+      "arabic": "مِثْلُهُ",
+      "english": "Similar to it",
+      "urdu": "اسی کی مانند"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نماز خوف کی ایک خاص صورت بیان کی گئی ہے جس میں امام دو جماعتوں کو ایک ایک رکعت پڑھاتا ہے اور وہ اسی پر اکتفا کرتے ہیں۔",
+    "english": "This Hadith describes a form of the Fear Prayer where the Imam leads two separate groups in one rak'a each, and they consider it complete."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد (399/5)",
+      "english": "Musnad Ahmad (5/399)"
+    },
+    {
+      "arabic": "سنن أبي داود (1246)",
+      "english": "Sunan Abu Dawud (1246)"
+    },
+    {
+      "arabic": "سنن النسائي (167/3)",
+      "english": "Sunan An-Nasa'i (3/167)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حذيفة بن اليمان",
+        "english": "Hudhaifa bin Al-Yaman"
+      },
+      "slug": "hudhaifa-bin-al-yaman"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=salat+al+khawf+explanation+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز خوف کی نوعیت",
+        "english": "Nature of Fear Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حالت جنگ میں رعایت",
+              "english": "Concession in War"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے میدان جنگ میں بھی نماز کو ترک کرنے کی اجازت نہیں دی۔",
+                "شدید خوف کی حالت میں نماز کی رکعات اور طریقے میں تخفیف کی گئی۔",
+                "یہ طریقہ دشمن کے سامنے مسلمانوں کی جمعیت برقرار رکھنے کے لیے ہے۔"
+              ],
+              "english": [
+                "Islam does not permit abandoning prayer even on the battlefield.",
+                "In states of extreme fear, the number of rak'as and method are reduced.",
+                "This method helps maintain the Muslim ranks in front of the enemy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رکعات کی تعداد",
+              "english": "Number of Rak'as"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کے مطابق مقتدیوں کے لیے ایک رکعت ہی کافی قرار دی گئی۔",
+                "امام دو رکعتیں پڑھتا ہے جبکہ ہر گروہ صرف ایک ایک رکعت پڑھتا ہے۔",
+                "یہ مسلک بعض صحابہ اور ائمہ کے نزدیک اضطراری حالت میں جائز ہے۔"
+              ],
+              "english": [
+                "According to this Hadith, one rak'a is sufficient for the followers.",
+                "The Imam prays two rak'as while each group prays only one.",
+                "This view is held by some Sahaba and Imams in cases of necessity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کی قضا کا حکم",
+              "english": "Ruling on Completing Prayer"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'ولم یقضوا' کے الفاظ بتاتے ہیں کہ انہوں نے مزید نماز نہیں پڑھی۔",
+                "اس سے معلوم ہوتا ہے کہ خوف میں ایک رکعت مکمل نماز شمار ہوتی ہے۔",
+                "جمہور کے نزدیک دوسری رکعت بعد میں پوری کرنا ضروری ہے مگر یہاں استثنا ہے۔"
+              ],
+              "english": [
+                "The phrase 'they did not complete' shows they didn't pray more.",
+                "It implies one rak'a is considered a full prayer under intense fear.",
+                "Though many scholars require completion, this narration offers an exception."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام اور مقتدی کا فرق",
+              "english": "Difference between Imam and Follower"
+            },
+            "content": {
+              "urdu": [
+                "امام اپنی پوری دو رکعتیں ادا کرتا ہے تاکہ اس کی نماز مکمل رہے۔",
+                "مقتدیوں کو تقسیم کیا جاتا ہے تاکہ ایک گروہ دشمن کی نگرانی کر سکے۔",
+                "یہ تقسیم فوجی حکمت عملی اور عبادت کا بہترین امتزاج ہے۔"
+              ],
+              "english": [
+                "The Imam performs his full two rak'as to ensure his prayer is complete.",
+                "Followers are divided so one group can guard against the enemy.",
+                "This division is a perfect blend of military strategy and worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سنت نبوی اور دفاع",
+        "english": "Prophetic Sunnah and Defense"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی اکرم ﷺ کی حکمت",
+              "english": "Wisdom of the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے صحابہ کی جانوں کی حفاظت اور نماز دونوں کا حق ادا کیا۔",
+                "مختلف احادیث میں نماز خوف کے مختلف طریقے منقول ہیں۔",
+                "یہ تنوع مختلف جنگی حالات اور دشمن کی سمت کے مطابق تھا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) fulfilled the rights of both safety and worship.",
+                "Various methods of the Fear Prayer are reported in different Hadiths.",
+                "This variety catered to different battle conditions and enemy positions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز باجماعت کی اہمیت",
+              "english": "Importance of Congregational Prayer"
+            },
+            "content": {
+              "urdu": [
+                "خوف میں بھی جماعت کے ساتھ نماز پڑھنا اس کی اہمیت پر دلالت کرتا ہے۔",
+                "مسلمانوں کے اتحاد کو برقرار رکھنے کے لیے یہ بہترین ذریعہ ہے۔",
+                "میدان جنگ میں بھی اللہ کا ذکر مومن کا اصل ہتھیار ہے۔"
+              ],
+              "english": [
+                "Praying in congregation even during fear highlights its great status.",
+                "It is the best means to maintain the unity of the Muslims.",
+                "Remembrance of Allah remains a believer's true weapon on the battlefield."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و عملی اسباق",
+        "english": "Educational and Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے حالات کے مطابق احکام میں نرمی پیدا فرمائی ہے۔",
+                "مشکل وقت میں دین پر عمل کرنا ناممکن نہیں بلکہ آسان بنایا گیا ہے۔",
+                "یہ حدیث اسلام کے عالمگیر اور لچکدار ہونے کی علامت ہے۔"
+              ],
+              "english": [
+                "Allah has created flexibility in rulings according to circumstances.",
+                "Practicing religion in hard times is made easy, not impossible.",
+                "This Hadith signifies the universal and flexible nature of Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی تعلیم",
+              "english": "Teaching Discipline"
+            },
+            "content": {
+              "urdu": [
+                "Check discipline and organization during collective tasks.",
+                "نماز خوف میں گروہ بندی نظم و ضبط کا بہترین درس دیتی ہے۔",
+                "مشکل لمحات میں ٹھنڈے دماغ سے حکمت عملی ترتیب دینا ضروری ہے۔",
+                "عبادت اور فرض کی ادائیگی میں توازن رکھنا ایک مومن کا خاصہ ہے۔"
+              ],
+              "english": [
+                "Grouping in Fear Prayer teaches excellent discipline and order.",
+                "It is vital to plan strategies calmly during difficult moments.",
+                "Balancing worship and duty is the hallmark of a true believer."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "hadithId": 303,
+  "hadithNo": 24,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:998",
+      "https://sunnah.com/muslim:751"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "صحيح البخاري / صحيح مسلم",
+    "babId": 19
+  },
+  "name": {
+    "arabic": "وَعَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا; عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { اِجْعَلُوا آخِرَ صَلَاتِكُمْ بِاللَّيْلِ وِتْرًا } مُتَّفَقٌ عَلَيْهِ",
+    "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا: ”اپنی رات کی آخری نماز کو وتر بناؤ۔“ (بخاری و مسلم)",
+    "english": "Narrated Ibn Umar (RA): The Prophet (ﷺ) said: \"Make the last of your prayer at night Witr.\""
+  },
+  "takhreej": {
+    "arabic": "صحيح متفق عليه.‏ رواه البخاري (998)‏، ومسلم (751)‏.‏",
+    "urdu": "صحیح، متفق علیہ۔ اسے بخاری (998) اور مسلم (751) نے روایت کیا ہے۔",
+    "english": "Sahih (Agreed Upon). Reported by Al-Bukhari (998) and Muslim (751)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِجْعَلُوا",
+      "english": "Make / Appoint",
+      "urdu": "بناؤ / کر لو"
+    },
+    {
+      "arabic": "آخِرَ",
+      "english": "Last / End",
+      "urdu": "آخر / آخری"
+    },
+    {
+      "arabic": "صَلَاتِكُمْ",
+      "english": "Your prayer",
+      "urdu": "تمہاری نماز"
+    },
+    {
+      "arabic": "بِاللَّيْلِ",
+      "english": "At night",
+      "urdu": "رات میں"
+    },
+    {
+      "arabic": "وِتْرًا",
+      "english": "Witr (Odd number)",
+      "urdu": "وتر (طاق)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث رات کی نمازوں کی ترتیب بیان کرتی ہے کہ مستحب یہ ہے کہ نوافل اور تہجد پڑھنے کے بعد سب سے آخر میں وتر پڑھا جائے تاکہ رات کا اختتام طاق عدد پر ہو۔",
+    "english": "This Hadith outlines the order of night prayers, stating that it is recommended (Mustahabb) to perform Witr as the very last prayer after voluntary prayers and Tahajjud, so that the night's worship ends with an odd number."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (998)",
+      "english": "Reported by Al-Bukhari (998)"
+    },
+    {
+      "arabic": "رواه مسلم (751)",
+      "english": "Reported by Muslim (751)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد اللہ بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Muttafaq Alaih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رات کی مہر",
+              "english": "Seal of the Night"
+            },
+            "content": {
+              "urdu": [
+                "وتر رات کی نمازوں کی مہر (Seal) کی طرح ہے۔",
+                "نبی ﷺ کا معمول یہی تھا کہ وہ آخر میں وتر پڑھتے تھے۔",
+                "یہ حکم افضلیت اور استحباب کے لیے ہے، وجوب کے لیے نہیں۔"
+              ],
+              "english": [
+                "Witr is like a seal for the night prayers.",
+                "It was the Prophet's (ﷺ) routine to pray Witr at the end.",
+                "This command is for preference and recommendation, not strict obligation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بعد میں نفل پڑھنا",
+              "english": "Praying Nafl afterwards"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی نے وتر پڑھ لیے اور پھر تہجد کے لیے آنکھ کھل گئی، تو نفل پڑھ سکتا ہے۔",
+                "نبی ﷺ سے ثابت ہے کہ آپ نے وتر کے بعد بیٹھ کر دو رکعت نفل پڑھے۔",
+                "اس صورت میں وتر دوبارہ نہیں دہرائے جائیں گے (لا وتران فی لیلۃ)۔"
+              ],
+              "english": [
+                "If one has prayed Witr and wakes up for Tahajjud, they can pray voluntary prayers.",
+                "It is proven that the Prophet (ﷺ) prayed two Rak'ahs sitting after Witr.",
+                "In this case, Witr will not be repeated (There are no two Witrs in one night)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احتیاط کا تقاضا",
+              "english": "Demand of Caution"
+            },
+            "content": {
+              "urdu": [
+                "جسے جاگنے کا یقین نہ ہو، وہ سونے سے پہلے وتر پڑھ لے۔",
+                "جسے جاگنے کی امید ہو، وہ اسے مؤخر کرے۔",
+                "حدیث کا مقصد وتر کو ضائع ہونے سے بچانا اور بہترین وقت میں ادا کرنا ہے۔"
+              ],
+              "english": [
+                "One who is not sure of waking up should pray Witr before sleeping.",
+                "One who hopes to wake up should delay it.",
+                "The purpose of Hadith is to prevent missing Witr and perform it at the best time."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طاق عدد کی اہمیت",
+              "english": "Importance of Odd Number"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ دن کی نمازیں (مغرب کے علاوہ) جفت ہیں، رات کی نماز طاق ہونی چاہیے۔",
+                "مغرب دن کا وتر ہے اور یہ نماز رات کا وتر ہے۔",
+                "اس طرح بندہ اپنے دن اور رات دونوں کا اختتام توحید (وتر) پر کرتا ہے۔"
+              ],
+              "english": [
+                "Since day prayers (except Maghrib) are even, night prayer should be odd.",
+                "Maghrib is the Witr of the day, and this is the Witr of the night.",
+                "Thus, a servant ends both his day and night on Tawheed (Witr)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شیڈول بنانا",
+              "english": "Making a Schedule"
+            },
+            "content": {
+              "urdu": [
+                "اپنی نیند کی عادت کے مطابق وتر کا وقت طے کریں۔",
+                "اگر تہجد گزار ہیں تو وتر کو فجر سے پہلے رکھیں۔",
+                "اگر صرف عشاء پڑھتے ہیں تو سنتوں کے فوراً بعد وتر پڑھ لیں۔"
+              ],
+              "english": [
+                "Decide the time of Witr according to your sleep habit.",
+                "If you pray Tahajjud, keep Witr before Fajr.",
+                "If you only pray Isha, perform Witr immediately after Sunnahs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط",
+              "english": "Discipline"
+            },
+            "content": {
+              "urdu": [
+                "عبادات میں ترتیب کا خیال رکھنا سنت ہے۔",
+                "پہلے دو دو رکعت (مثنیٰ مثنیٰ)، آخر میں ایک رکعت۔",
+                "یہ ترتیب ذہنی اور روحانی ارتکاز پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "Observing order in worship is Sunnah.",
+                "First two by two (Mathna Mathna), then one Rak'ah at the end.",
+                "This order creates mental and spiritual focus."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امر کا مفہوم",
+              "english": "Meaning of Imperative"
+            },
+            "content": {
+              "urdu": [
+                "یہاں 'اجعلوا' (بناؤ) کا صیغہ وجوب کے لیے نہیں، استحباب کے لیے ہے۔",
+                "اس کی دلیل نبی ﷺ کا اپنا عمل ہے (وتر کے بعد نفل پڑھنا)۔",
+                "اصول فقہ میں یہ بحث اہم ہے کہ امر کب فرض ہوتا ہے اور کب مستحب۔"
+              ],
+              "english": [
+                "Here the imperative 'Ij'alu' is not for obligation, but recommendation.",
+                "The proof is the Prophet's own action (praying Nafl after Witr).",
+                "In Usul al-Fiqh, it is important to know when a command implies Fard or Mustahabb."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ابن عمر کا فقہی ذوق",
+              "english": "Juristic Taste of Ibn Umar"
+            },
+            "content": {
+              "urdu": [
+                "عبداللہ بن عمر رضی اللہ عنہما سنت کے اتباع میں بہت سخت تھے۔",
+                "وہ اس حدیث پر سختی سے عمل کرتے اور رات کی آخری نماز وتر ہی رکھتے تھے۔",
+                "صحابہ کا فہمِ حدیث ہمارے لیے سند ہے۔"
+              ],
+              "english": [
+                "Abdullah bin Umar (RA) was very strict in following the Sunnah.",
+                "He adhered strictly to this Hadith and kept Witr as his last prayer.",
+                "The Companions' understanding of Hadith is an authority for us."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

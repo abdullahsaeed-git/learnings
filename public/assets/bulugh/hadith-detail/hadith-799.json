@@ -1,0 +1,162 @@
+{
+  "hadithId": 799,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/799"],
+    "kitabId": 7,
+    "inKitabBab": 19,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 60
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البخاري ( 2431 )‏ ، ومسلم ( 1071 ). وأخرجه أيضاً أبو داود والنسائي وأحمد. ",
+    "urdu": "صحیح۔ اسے امام بخاری (2431) اور امام مسلم (1071) نے روایت کیا ہے۔ یہ حدیث متفق علیہ ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2431) and Muslim (1071). Also reported by Abu Dawud, An-Nasa'i, and Ahmad."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَمْرَةٍ",
+      "english": "A single date",
+      "urdu": "ایک کھجور"
+    },
+    {
+      "arabic": "الصَّدَقَةِ",
+      "english": "Charity / Zakat",
+      "urdu": "صدقہ / زکوٰۃ"
+    },
+    {
+      "arabic": "لَوْلَا",
+      "english": "Were it not for",
+      "urdu": "اگر یہ بات نہ ہوتی"
+    },
+    {
+      "arabic": "أَخَافُ",
+      "english": "I fear / I am concerned",
+      "urdu": "میں ڈرتا ہوں / مجھے اندیشہ ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے معلوم ہوتا ہے کہ گری پڑی معمولی چیز (لقطہ) جو ضائع ہونے کا خدشہ ہو، اسے اٹھا کر استعمال کرنا جائز ہے، بشرطیکہ وہ لینے والے پر شرعی طور پر حرام نہ ہو۔ نیز اس میں نبی ﷺ کے انتہائی تقویٰ اور مشتبہ چیزوں سے بچنے کا بیان ہے۔",
+    "english": "This Hadith shows that pickung up and consuming a small lost item (Luqatah) of insignificant value is permissible. It also highlights the Prophet's (ﷺ) extreme piety and caution regarding doubtful matters, especially since Zakat was forbidden for him and his family."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2431)",
+      "english": "Reported by Al-Bukhari (2431)"
+    },
+    {
+      "arabic": "رواه مسلم (1071)",
+      "english": "Reported by Muslim (1071)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjI8_GfLpIs",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "لقطہ (گری پڑی چیز) کے احکام",
+        "english": "Rulings on Found Items (Luqatah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معمولی اشیاء کی ملکیت",
+              "english": "Ownership of Trivial Items"
+            },
+            "content": {
+              "urdu": [
+                "ایسی معمولی چیز جس کا مالک اسے تلاش نہ کرے (جیسے ایک کھجور یا معمولی سکہ)، اسے اٹھا کر استعمال کرنا جائز ہے۔",
+                "اس کے لیے ایک سال تک اعلان کرنا ضروری نہیں ہے کیونکہ عرفِ عام میں اسے حقیر سمجھا جاتا ہے۔",
+                "اگر یہ چیز قیمتی ہوتی تو اس کے لیے باقاعدہ تعریف اور تشہیر (اعلان) کی ضرورت ہوتی۔"
+              ],
+              "english": [
+                "Small items that an owner is unlikely to search for (like a single date or a small coin) can be kept and used immediately.",
+                "It is not mandatory to announce such trivial items for a year because they are considered insignificant by custom.",
+                "If the found item was valuable, it would require a formal description and public announcement for a specified period."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشتبہ چیزوں سے بچنا",
+              "english": "Avoiding Doubtful Matters"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے کھجور اس لیے نہیں کھائی کیونکہ مدینہ میں صدقہ کی کھجوریں بھی کثرت سے آتی تھیں۔",
+                "آپ ﷺ اور آلِ محمد ﷺ پر صدقہ اور زکوٰۃ لینا حرام تھا۔",
+                "یہ 'ورع' (انتہائی تقویٰ) کی مثال ہے کہ جس چیز میں تھوڑا سا بھی شبہ ہو، اسے چھوڑ دینا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) refrained from eating the date because charity (Sadaqah) dates were commonly distributed in Madinah.",
+                "Sadaqah and Zakat were prohibited for the Prophet (ﷺ) and his family (Ahl al-Bayt).",
+                "This serves as an example of 'Wara' (scrupulous piety)—leaving something doubtful to ensure what is certain."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی فوائد اور حکمتیں",
+        "english": "Juristic Benefits and Wisdoms"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رزق کی قدر دانی",
+              "english": "Appreciating Sustenance"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا یہ فرمانا کہ 'میں اسے کھا لیتا' ثابت کرتا ہے کہ رزق کی چھوٹی سی چیز کو بھی ضائع نہیں کرنا چاہیے۔",
+                "اسلام ہمیں قناعت اور نعمتوں کی قدر کرنے کا درس دیتا ہے۔",
+                "راستے سے ایسی چیزیں اٹھا لینا جو ضائع ہو رہی ہوں، صفائی اور کفایت شعاری کی علامت ہے۔"
+              ],
+              "english": [
+                "The Prophet's statement 'I would have eaten it' proves that even a small portion of sustenance should not be wasted.",
+                "Islam teaches us contentment and the importance of valuing Allah's blessings.",
+                "Picking up items that might be trampled or wasted on the road is a sign of both cleanliness and economy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاطی تدابیر",
+              "english": "Precautionary Measures"
+            },
+            "content": {
+              "urdu": [
+                "جب کسی حلال چیز میں حرام کا شبہ غالب ہو جائے تو اس سے پرہیز کرنا اولیٰ ہے۔",
+                "آپ ﷺ نے اپنی امت کو مشکوک چیزوں سے بچنے کی عملی تربیت دی ہے۔",
+                "تقویٰ کا اعلیٰ درجہ یہ ہے کہ انسان حلال کے دائرے میں بھی مشتبہ چیزوں سے دوری اختیار کرے۔"
+              ],
+              "english": [
+                "When a doubtful element enters a permissible matter, it is better to avoid it.",
+                "The Prophet (ﷺ) provided practical training to the Ummah on avoiding ambiguous situations.",
+                "The highest level of piety is to distance oneself from doubtful things even within the sphere of the permissible."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

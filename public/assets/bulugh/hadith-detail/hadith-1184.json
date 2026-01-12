@@ -1,0 +1,264 @@
+{
+  "hadithId": 1184,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1184"],
+    "kitabId": 13,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الأيمان والنذور",
+    "babId": 96
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (3313)، والطبراني في الكبير (1341)، وأحمد (3/419). إسناده صحيح ورجاله ثقات، وله شواهد تقويه.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (3313)، طبرانی اور احمد نے روایت کیا ہے۔ اس کی سند صحیح ہے اور تمام راوی ثقہ ہیں، جبکہ دیگر احادیث سے بھی اس کی تائید ہوتی ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (3313), At-Tabarani, and Ahmad. The chain is authentic, the narrators are reliable, and it has supporting narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَذَرَ",
+      "english": "Vowed",
+      "urdu": "نذر مانی"
+    },
+    {
+      "arabic": "يَنْحَرَ",
+      "english": "Slaughter (camels)",
+      "urdu": "ذبح کرنا / نحر کرنا"
+    },
+    {
+      "arabic": "وَثَنٌ",
+      "english": "Idol",
+      "urdu": "بت"
+    },
+    {
+      "arabic": "عِيدٌ",
+      "english": "Festival",
+      "urdu": "میلہ / تہوار"
+    },
+    {
+      "arabic": "مَعْصِيَةِ",
+      "english": "Disobedience",
+      "urdu": "نافرمانی"
+    },
+    {
+      "arabic": "قَطِيعَةِ رَحِمٍ",
+      "english": "Severing kinship",
+      "urdu": "رشتہ داری توڑنا"
+    }
+  ],
+  "summary": {
+    "urdu": "نذر صرف اس جگہ پوری کی جا سکتی ہے جہاں شرک یا جاہلیت کی رسومات کا شائبہ نہ ہو، اور گناہ پر مبنی نذر کو پورا کرنا حرام ہے۔",
+    "english": "A vow can only be fulfilled in places free from Shirk or pagan rituals; fulfilling a vow that involves sin is strictly forbidden."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (3313)",
+      "english": "Reported by Abu Dawud (3313)"
+    },
+    {
+      "arabic": "رواه أحمد (15558)",
+      "english": "Reported by Ahmad (15558)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ثابت بن الضحاك",
+        "english": "Thabit bin ad-Dahhak"
+      },
+      "slug": "thabit-bin-ad-dahhak"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9_N_vXU2jI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شرک کے مقامات سے اجتناب",
+        "english": "Avoiding Places of Shirk"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بت پرستی اور جاہلیت",
+              "english": "Idolatry and Paganism"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے نذر پوری کرنے سے پہلے جگہ کی پاکیزگی کے بارے میں سوال کیا۔",
+                "ایسی جگہ جہاں کبھی بتوں کی پوجا ہوئی ہو وہاں اللہ کی عبادت سے پرہیز بہتر ہے۔",
+                "یہ سوال اس لیے تھا تاکہ مشرکین کے ساتھ کوئی مشابہت نہ پیدا ہو جائے۔"
+              ],
+              "english": [
+                "The Prophet (SAW) inquired about the site's purity before allowing the vow's fulfillment.",
+                "Worshipping Allah at places where idols were once worshipped is discouraged.",
+                "This inquiry was to ensure there was no resemblance to pagan rituals or practices."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشرکین کے تہوار",
+              "english": "Festivals of Disbelievers"
+            },
+            "content": {
+              "urdu": [
+                "جس مقام پر مشرکین کے میلے یا تہوار لگتے ہوں وہاں نذر پوری کرنا درست نہیں۔",
+                "مسلمانوں کو اپنی عبادات میں مشرکانہ تہواروں کے اثر سے دور رہنا چاہیے۔",
+                "دین میں توحید کی خالص شکل برقرار رکھنا ہر مومن کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "Fulfilling a vow at locations used for pagan festivals is not permissible.",
+                "Muslims must keep their acts of worship free from the influence of polytheistic events.",
+                "Maintaining the pure form of Monotheism in religion is every believer's duty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ناجائز نذر کی اقسام",
+        "english": "Types of Prohibited Vows"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گناہ کی نذر",
+              "english": "Vow of Disobedience"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص اللہ کی نافرمانی کرنے کی نذر مانے تو اسے پورا کرنا حرام ہے۔",
+                "گناہ کی نذر ماننے پر توبہ کرنی چاہیے اور اسے ہرگز انجام نہیں دینا چاہیے۔",
+                "خالق کی نافرمانی میں کسی مخلوق یا عہد کی کوئی اہمیت نہیں ہوتی۔"
+              ],
+              "english": [
+                "It is forbidden to fulfill a vow that involves disobeying Allah's commands.",
+                "One must repent for making a sinful vow and never carry it out.",
+                "No commitment or creature holds significance when it involves disobeying the Creator."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قطع رحمی اور ملکیت",
+              "english": "Kinship and Ownership"
+            },
+            "content": {
+              "urdu": [
+                "رشتہ داری توڑنے کی نذر مانی جائے تو وہ شرعی طور پر کالعدم ہوتی ہے۔",
+                "انسان اس چیز کی نذر نہیں مان سکتا جو اس کی اپنی ملکیت میں نہ ہو۔",
+                "اسلامی فقہ میں نذر کی صحت کے لیے ملکیت اور نیکی کی شرط لازم ہے۔"
+              ],
+              "english": [
+                "Vows aimed at severing family ties are legally void in Sharia.",
+                "A person cannot make a vow regarding something they do not own.",
+                "In Islamic jurisprudence, ownership and virtue are essential for a valid vow."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مقامِ بوانہ کی اہمیت",
+        "english": "Significance of Buwanah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جغرافیائی و شرعی پہلو",
+              "english": "Geographic and Legal Aspect"
+            },
+            "content": {
+              "urdu": [
+                "بوانہ مکہ کے قریب ایک ساحلی مقام تھا جہاں وہ شخص ذبح کرنا چاہتا تھا۔",
+                "تعینِ مقام اگر کسی جاہلی جذبے کے تحت نہ ہو تو نذر پوری کی جا سکتی ہے۔",
+                "صحابہ کرام ہر عمل سے پہلے نبی ﷺ سے رہنمائی لینا اپنا فرض سمجھتے تھے۔"
+              ],
+              "english": [
+                "Buwanah was a coastal site near Makkah where the man intended to slaughter.",
+                "Specific locations can be used for vows if free from pagan motivations.",
+                "The Companions considered seeking Prophetic guidance essential before every action."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سدِ ذریعہ کا اصول",
+              "english": "Principle of Blockage"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث 'سدِ ذریعہ' یعنی برائی کے راستے بند کرنے کے اصول پر مبنی ہے۔",
+                "نبی ﷺ نے ان تمام راستوں کو روکا جو شرک کی طرف لے جا سکتے تھے۔",
+                "ظاہری مشابہت سے بچنا بھی ایمان کی حفاظت کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "This Hadith is based on 'Sadd al-Dharai', closing the paths to evil.",
+                "The Prophet (SAW) blocked all avenues that could potentially lead to Shirk.",
+                "Avoiding external resemblance to paganism is necessary to protect one's faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت",
+        "english": "Practical Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علماء سے مشورہ",
+              "english": "Consulting Scholars"
+            },
+            "content": {
+              "urdu": [
+                "نذر ماننے کے بعد اس کی شرعی حیثیت کے لیے عالم سے پوچھنا سنت ہے۔",
+                "جذبات میں آکر کیے گئے وعدوں کو شریعت کی ترازو میں تولنا چاہیے۔",
+                "علم کے بغیر کیے گئے فیصلے اکثر گمراہی یا مشقت کا باعث بنتے ہیں۔"
+              ],
+              "english": [
+                "It is a Sunnah to consult scholars about the legality of a vow after making it.",
+                "Promises made in emotional states should be weighed against Sharia rules.",
+                "Decisions made without knowledge often lead to misguidance or hardship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توحید کی غیرت",
+              "english": "Zeal for Monotheism"
+            },
+            "content": {
+              "urdu": [
+                "مومن کا ہر ذبح اور ہر قربانی صرف اللہ کے لیے ہونی چاہیے۔",
+                "جگہ، وقت اور نیت کا شرک سے پاک ہونا قبولیت کی شرط ہے۔",
+                "اسلامی تعلیمات ہمیں شرک کی ادنیٰ سی آمیزش سے بھی بچاتی ہیں۔"
+              ],
+              "english": [
+                "Every sacrifice and slaughter of a believer must be solely for Allah.",
+                "Purity of place, time, and intention is a condition for acceptance.",
+                "Islamic teachings protect us from even the slightest mixture of polytheism."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

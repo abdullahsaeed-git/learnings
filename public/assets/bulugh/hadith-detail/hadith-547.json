@@ -1,0 +1,259 @@
+{
+  "hadithId": 547,
+  "hadithNo": 21,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/547"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1121). وأصله في البخاري (1943) ومسلم (1121) من حديث عائشة بلفظ: \"إن شئت فصم وإن شئت فافطر\".",
+    "urdu": "صحیح۔ اسے مسلم (1121) نے روایت کیا ہے۔ اس کی اصل بخاری (1943) اور مسلم (1121) میں سیدہ عائشہ سے مروی ہے جس میں آپ ﷺ نے فرمایا: ”اگر چاہو تو روزہ رکھو اور چاہو تو چھوڑ دو۔“",
+    "english": "Sahih (Authentic). Reported by Muslim (1121). The core narrative is also present in Al-Bukhari (1943) and Muslim (1121) on the authority of Aisha (RA), where the Prophet (ﷺ) said: 'Fast if you wish and break it if you wish.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "قُوَّةً",
+      "english": "Strength / Capacity",
+      "urdu": "طاقت / قوت"
+    },
+    {
+      "arabic": "السَّفَرِ",
+      "english": "Travel",
+      "urdu": "سفر"
+    },
+    {
+      "arabic": "جُنَاحٌ",
+      "english": "Sin / Blame",
+      "urdu": "گناہ / حرج"
+    },
+    {
+      "arabic": "رُخْصَةٌ",
+      "english": "Concession / Leave",
+      "urdu": "رخصت / آسانی"
+    },
+    {
+      "arabic": "فَحَسَنٌ",
+      "english": "It is good",
+      "urdu": "تو بہتر ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "دورانِ سفر روزہ چھوڑنا اللہ کی طرف سے دی گئی ایک سہولت ہے، لیکن اگر کوئی مسافر جسمانی طور پر مضبوط ہو اور روزہ رکھنا چاہے تو اسے اس کی مکمل اجازت ہے۔",
+    "english": "Breaking the fast while traveling is a concession from Allah, but for those who possess the strength and wish to fast, it is permitted without any blame."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1121)",
+      "english": "Reported by Muslim (1121)"
+    },
+    {
+      "arabic": "رواه البخاري (1943)",
+      "english": "Reported by Al-Bukhari (1943)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حمزة بن عمرو الأسلمي",
+        "english": "Hamzah bin 'Amr al-Aslami"
+      },
+      "slug": "hamzah-bin-amr-al-aslami"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=B7K0iH-l7jQ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سفر میں روزہ اور شرعی رخصت",
+        "english": "Fasting in Travel and Legal Concession"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رخصت کی اہمیت",
+              "english": "The Importance of Concession"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے مسافر کے لیے روزہ چھوڑنے کی رخصت دی ہے تاکہ وہ سفر کی سختیوں سے بچ سکے۔",
+                "نبی ﷺ نے اس رخصت پر عمل کرنے کو 'حسن' یعنی بہتر اور پسندیدہ قرار دیا ہے۔",
+                "یہ اللہ کے فضل کو قبول کرنے کی علامت ہے جو اس نے اپنے بندوں پر کیا ہے۔"
+              ],
+              "english": [
+                "Allah has provided a concession for travelers to break their fast to avoid the hardships of travel.",
+                "The Prophet (ﷺ) described taking this concession as 'Hasan' (good) and commendable.",
+                "It signifies the acceptance of Allah's mercy and ease bestowed upon His servants."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اختیار اور آزادی",
+              "english": "Choice and Freedom"
+            },
+            "content": {
+              "urdu": [
+                "مسافر کو مکمل اختیار دیا گیا ہے کہ وہ اپنی حالت کے مطابق فیصلہ کرے۔",
+                "اگر سفر آسان ہے اور مسافر ہمت رکھتا ہے تو روزہ رکھنا گناہ نہیں ہے۔",
+                "دین اسلام میں سختی کے بجائے انسانی سہولت اور نیت کو پیش نظر رکھا گیا ہے۔"
+              ],
+              "english": [
+                "The traveler is given full choice to decide based on their physical condition.",
+                "If the journey is easy and the traveler has strength, fasting is not a sin.",
+                "Islam prioritizes human convenience and intention over rigid compulsion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "افضل کیا ہے: روزہ رکھنا یا چھوڑنا؟",
+        "english": "What is Better: Fasting or Breaking it?"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حالت کے مطابق فیصلہ",
+              "english": "Decision Based on Circumstances"
+            },
+            "content": {
+              "urdu": [
+                "اگر سفر میں روزہ رکھنا شدید مشقت کا باعث ہو تو روزہ نہ رکھنا ہی افضل ہے۔",
+                "اگر روزہ رکھنے سے دوسرے ساتھیوں پر بوجھ پڑے تو روزہ چھوڑنا بہتر ہے۔",
+                "اگر مسافر کو کوئی دشواری نہ ہو تو وہ اپنی سہولت کے لیے روزہ رکھ سکتا ہے۔"
+              ],
+              "english": [
+                "If fasting during travel causes extreme hardship, breaking it is definitely better.",
+                "If fasting makes the traveler a burden on companions, they should break the fast.",
+                "If there is no difficulty, a traveler may fast for their own convenience to avoid Qada later."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی مذاہب کی رائے",
+              "english": "Views of Juridical Schools"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور مالکیہ کے نزدیک اگر طاقت ہو تو روزہ رکھنا افضل ہے۔",
+                "امام احمد اور بعض دیگر کے نزدیک رخصت پر عمل کرنا یعنی روزہ چھوڑنا افضل ہے۔",
+                "احناف کے نزدیک بھی اگر مشقت نہ ہو تو روزہ رکھنا ہی بہتر عمل ہے۔"
+              ],
+              "english": [
+                "Imams Shafi'i and Malik believe fasting is better if the individual possesses the strength.",
+                "Imam Ahmad and others believe acting on the concession (breaking it) is superior.",
+                "Hanafis also suggest that if there is no hardship, fasting is the preferred action."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رخصتِ الٰہی کی حکمت",
+        "english": "Wisdom Behind Divine Concession"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی محبت اور رخصت",
+              "english": "Allah's Love for Concessions"
+            },
+            "content": {
+              "urdu": [
+                "ایک اور حدیث میں ہے کہ اللہ اپنی دی ہوئی رخصتوں پر عمل کو پسند کرتا ہے۔",
+                "مسافر کے لیے یہ رخصت اللہ کا ایک تحفہ ہے جسے خوشی سے قبول کرنا چاہیے۔",
+                "یہ رخصت اس بات کی دلیل ہے کہ اسلام ایک فطری اور آسان دین ہے۔"
+              ],
+              "english": [
+                "Another Hadith states that Allah loves for His concessions to be acted upon.",
+                "This concession is a gift from Allah to the traveler and should be accepted happily.",
+                "It serves as proof that Islam is a natural and easy religion to follow."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشقت اور نیکی کا توازن",
+              "english": "Balance of Hardship and Virtue"
+            },
+            "content": {
+              "urdu": [
+                "نیکی صرف مشقت اٹھانے میں نہیں بلکہ اللہ کے حکم کی اطاعت میں ہے۔",
+                "اگر اللہ نے آسانی دی ہے تو اس پر عمل کرنا بھی باعثِ ثواب ہے۔",
+                "سفر میں روزہ چھوڑنے والا گناہ گار نہیں بلکہ رخصت پر عمل کرنے والا ہے۔"
+              ],
+              "english": [
+                "Virtue is not found in hardship alone but in obedience to Allah's command.",
+                "If Allah has provided ease, acting upon it is also a source of reward.",
+                "One who breaks the fast while traveling is not a sinner but a follower of the Rukhsah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتدال پسندی",
+              "english": "Path of Moderation"
+            },
+            "content": {
+              "urdu": [
+                "عبادات میں غلو یا حد سے زیادہ سختی سے بچنا چاہیے۔",
+                "اپنی جسمانی طاقت کا درست اندازہ لگا کر شرعی احکام پر عمل کریں۔",
+                "صحابہ کرام کا طرزِ عمل ہمیں ہر حال میں میانہ روی سکھاتا ہے۔"
+              ],
+              "english": [
+                "One should avoid extremism or excessive rigor in acts of worship.",
+                "Assess your physical strength accurately before acting on Sharia rulings.",
+                "The practice of the Sahaba teaches us the path of moderation in all states."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ساتھیوں کا خیال",
+              "english": "Caring for Companions"
+            },
+            "content": {
+              "urdu": [
+                "سفر میں اپنے ساتھیوں کی سہولت کا خیال رکھنا بھی عبادت ہے۔",
+                "اگر آپ کا روزہ دوسروں کے لیے خدمت کا باعث بنے تو اسے چھوڑنا بہتر ہے۔",
+                "اجتماعی سہولت کو انفرادی نفل یا رخصت پر ترجیح دی جانی چاہیے۔"
+              ],
+              "english": [
+                "Caring for the convenience of traveling companions is also an act of worship.",
+                "If your fasting forces others to serve you, it is better to break it.",
+                "Collective convenience should be balanced with individual worship or concessions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

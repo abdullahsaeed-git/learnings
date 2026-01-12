@@ -1,0 +1,259 @@
+{
+  "hadithId": 1153,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1153"],
+    "kitabId": 12,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام - كتاب الصيد والذبائح",
+    "babId": 93
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1957). والغرض هو الهدف الذي يرمى إليه بالسهام أو غيرها. وهذا النهي للتحريم لما فيه من تعذيب الحيوان وإزهاق الروح بغير حق.",
+    "urdu": "صحیح مسلم (1957) میں یہ روایت موجود ہے۔ 'غرض' سے مراد وہ ہدف ہے جسے تیر اندازی یا نشانہ بازی کی مشق کے لیے استعمال کیا جاتا ہے۔ یہ ممانعت تحریمی ہے کیونکہ اس میں جانور کو بلاوجہ اذیت دینا پایا جاتا ہے۔",
+    "english": "Sahih. Reported by Muslim (1957). The word 'Gharad' refers to an object or target used for archery practice. This prohibition is strictly forbidden because it involves unnecessary torture of animals and killing without a valid reason."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَتَّخِذُوا",
+      "english": "Take / Adopt",
+      "urdu": "تم بناؤ / اختیار کرو"
+    },
+    {
+      "arabic": "الرُّوحُ",
+      "english": "Soul / Life",
+      "urdu": "جان / روح"
+    },
+    {
+      "arabic": "غَرَضاً",
+      "english": "Target",
+      "urdu": "نشانہ / ہدف"
+    },
+    {
+      "arabic": "شَيْئاً",
+      "english": "Anything",
+      "urdu": "کوئی چیز"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Narrated it",
+      "urdu": "اسے روایت کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ نے زندہ جانوروں کو نشانہ بازی کی مشق کے لیے ہدف بنانے سے منع فرمایا ہے کیونکہ یہ ظلم اور بے حسی ہے۔",
+    "english": "The Prophet (SAW) prohibited using living animals as targets for shooting practice as it is an act of cruelty and heartlessness."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1957)",
+      "english": "Reported by Muslim (1957)"
+    },
+    {
+      "arabic": "رواه النسائي (4440)",
+      "english": "Reported by An-Nasa'i (4440)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9_N_vXU2jI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جانوروں کے حقوق اور اسلام",
+        "english": "Animal Rights and Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بلاوجہ قتل کی ممانعت",
+              "english": "Prohibition of Unnecessary Killing"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں کسی بھی جانور کو بغیر کسی جائز ضرورت کے مارنا منع ہے۔",
+                "صرف کھانے یا نقصان دہ جانوروں کو مارنے کی اجازت دی گئی ہے۔",
+                "شوقیہ نشانہ بازی کے لیے جانور کی زندگی لینا انسانیت کے خلاف ہے۔"
+              ],
+              "english": [
+                "Islam forbids killing any animal without a valid or necessary reason.",
+                "Permission is only given for food or to kill harmful animals.",
+                "Taking an animal's life for hobbyist target practice is inhumane."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اذیت دینے سے بچنا",
+              "english": "Avoiding Torture"
+            },
+            "content": {
+              "urdu": [
+                "زندہ جانور کو ہدف بنانا اسے شدید ذہنی اور جسمانی تکلیف دیتا ہے۔",
+                "نبی کریم ﷺ نے جانوروں پر رحم کرنے کی سخت تاکید فرمائی ہے۔",
+                "اس طرح مارا گیا جانور مردار ہو جاتا ہے اور کھانا حرام ہے۔"
+              ],
+              "english": [
+                "Targeting a live animal causes it severe mental and physical agony.",
+                "The Prophet (SAW) emphasized showing mercy toward all living creatures.",
+                "Animals killed this way are considered carrion and are haram to eat."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نشانہ بازی کی حدود",
+        "english": "Limits of Shooting Practice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بے جان چیزوں کا استعمال",
+              "english": "Using Inanimate Objects"
+            },
+            "content": {
+              "urdu": [
+                "نشانہ بازی کی مشق کے لیے لکڑی، پتھر یا چمڑے کا ہدف استعمال کریں۔",
+                "جدید دور میں مصنوعی اہداف مشق کے لیے بہترین متبادل فراہم کرتے ہیں۔",
+                "اسلام مہارت سیکھنے کا قائل ہے مگر کسی کی جان کی قیمت پر نہیں۔"
+              ],
+              "english": [
+                "Use wood, stones, or leather targets for practicing marksmanship.",
+                "In modern times, artificial targets provide excellent practice alternatives.",
+                "Islam encourages learning skills but not at the cost of a life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جاہلی رسومات کا خاتمہ",
+              "english": "Ending Pre-Islamic Customs"
+            },
+            "content": {
+              "urdu": [
+                "زمانہ جاہلیت میں لوگ پرندوں کو باندھ کر ان پر تیر چلایا کرتے تھے۔",
+                "رسول اللہ ﷺ نے ان ظالمانہ رسموں کو جڑ سے ختم کر دیا۔",
+                "یہ حدیث مسلمانوں کو رحم دلی اور اخلاقی برتری کا سبق دیتی ہے۔"
+              ],
+              "english": [
+                "In the pre-Islamic era, people tied birds up to use them as targets.",
+                "The Prophet (SAW) completely abolished these cruel customs.",
+                "This Hadith teaches Muslims compassion and moral superiority."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی و فقہی احکام",
+        "english": "Legal and Jurisprudential Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لعنت کا مستحق عمل",
+              "english": "An Act Deserving Curses"
+            },
+            "content": {
+              "urdu": [
+                "دوسری احادیث میں ایسے شخص پر لعنت بھیجی گئی ہے جو یہ عمل کرے۔",
+                "لعنت کا مطلب یہ ہے کہ ایسا شخص اللہ کی رحمت سے دور ہو جاتا ہے۔",
+                "فقہاء کے نزدیک کسی ذی روح کو نشانہ بنانا گناہِ کبیرہ کے زمرے میں ہے۔"
+              ],
+              "english": [
+                "In other narrations, the one who does this is cursed by the Prophet.",
+                "Being cursed means such a person is distanced from Allah's mercy.",
+                "Jurists classify using a living soul as a target as a major sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شکار اور مشق میں فرق",
+              "english": "Hunting vs. Practice"
+            },
+            "content": {
+              "urdu": [
+                "شکار نیت اور ضرورت کے تحت ہوتا ہے جو کہ اسلام میں جائز ہے۔",
+                "مشق صرف تفریح یا مہارت کے لیے ہوتی ہے جس میں جانور ضائع ہوتا ہے۔",
+                "اسلام رزق کے لیے جان لینے کی اجازت دیتا ہے، ضائع کرنے کی نہیں۔"
+              ],
+              "english": [
+                "Hunting is done with intention and need, which is lawful in Islam.",
+                "Practice is for fun or skill where the animal's life is wasted.",
+                "Islam allows taking life for sustenance, but never for waste."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی رویے کی اصلاح",
+              "english": "Reforming Human Behavior"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سکھاتی ہے کہ کمزور مخلوق پر طاقت کا رعب نہ جمایا جائے۔",
+                "بے زبان جانوروں کے ساتھ حسنِ سلوک ایمان کا حصہ ہے۔",
+                "سنگدلی اور ظلم سے بچنا ایک مومن کی بنیادی پہچان ہے۔"
+              ],
+              "english": [
+                "This Hadify teaches not to exert power over weaker creatures.",
+                "Kindness toward voiceless animals is a fundamental part of faith.",
+                "Avoiding cruelty and oppression is the primary identity of a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت اور وسائل کا ضیاع",
+              "english": "Waste of Time and Resources"
+            },
+            "content": {
+              "urdu": [
+                "جانور اللہ کی نعمت ہیں، انہیں کھیل تماشے میں برباد کرنا ناشکری ہے۔",
+                "مومن کو اپنے وقت اور صلاحیتوں کو مفید کاموں میں لگانا چاہیے۔",
+                "اسلامی معاشرہ جانداروں کے لیے امن اور سلامتی کا گہوارہ ہے۔"
+              ],
+              "english": [
+                "Animals are blessings from Allah; wasting them for fun is ungratefulness.",
+                "A believer should invest time and skills into beneficial activities.",
+                "Islamic society is a sanctuary of peace and safety for all living beings."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

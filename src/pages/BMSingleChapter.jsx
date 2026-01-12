@@ -1,89 +1,133 @@
 import React, { useEffect, useState } from "react";
-import { Link, useNavigate, useParams } from "react-router";
+import { Link, useLocation, useNavigate, useParams } from "react-router";
 import Loading from "../components/Loading";
 
-function BMSingleChapter() {
-  const { bookSlug, chapterSlug } = useParams();
-
-  const [data, setData] = useState({});
+function BMSingleChapter({urduText, setUrduText}) {
+  const { chapterId } = useParams();
   const [loading, setLoading] = useState(true);
-  const [book, setBook] = useState(null);
-  const [chapter, setChapter] = useState(null);
-  const [urduText, setUrduText] = useState(true);
+  const [chapterDetail, setChapterDetail] = useState(null);
+  const [chapterName, setChapterName] = useState(null);
+  const [bookName, setBookName] = useState();
   const navigate = useNavigate();
+  const location = useLocation();
+
+  //   useEffect(() => {
+
+  //     try{
+  // setLoading(true)
+  //       fetch(
+  //         `https://abdullahsaeed-git.github.io/my-database//bulugh/chapter-detail/chapter-${chapterId}.json`
+  //       )
+  //         .then((res) => res.json())
+  //         .then((data) => {
+  //           const bookId = data.bookId;
+  //           setChapterDetail(data);
+
+  //           fetch(
+  //             `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${bookId}.json`
+  //           )
+  //             .then((res) => res.json())
+  //             .then((bookDetailData) => {
+  //               setBookDetail(bookDetailData);
+  //               setChapterName(
+  //                 bookDetailData.chapters.find((c) => c.id == chapterId)
+  //               );
+  //             });
+
+  //           fetch(
+  //             `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books/bulugh-books.json`
+  //           )
+  //             .then((res) => res.json())
+  //             .then((bulughBooksData) => {
+  //               setBulughBooks(bulughBooksData);
+  //               setBookName(bulughBooksData.find((b) => b.id == bookId));
+  //             });
+  //         });
+
+  //     }catch(error){
+  //       console.error("Error in Single Chapter: " , error)
+  //     }finally{
+  //       setTimeout(() => {
+  //         setLoading(false);
+
+  //       }, 300);
+  //     }
+  //   }, [location]);
 
   useEffect(() => {
-    fetch(
-      "https://abdullahsaeed-git.github.io/my-database/bulugh-al-maram.json"
-    )
-      .then((res) => res.json())
-      .then((data) => setData(data));
-  }, []);
+    const fetchData = async () => {
+      try {
+        setLoading(true);
 
-  useEffect(() => {
-    if (!data.books) return;
+        // First fetch chapter detail
+        const chapterRes = await fetch(
+          `https://abdullahsaeed-git.github.io/my-database/bulugh/chapter-detail/chapter-${chapterId}.json`
+        );
+        const chapterData = await chapterRes.json();
+        setChapterDetail(chapterData);
 
-    const book = data.books.find((b) => b.bookSlug === bookSlug);
-    setBook(book);
+        const bookId = chapterData.bookId;
 
-    if (book && book.chapters) {
-      const chapter = book.chapters.find(
-        (ch) => ch.chapterSlug === chapterSlug
-      );
-      setChapter(chapter);
-      //  const hadith = chapter.hadiths.find((h) => h.id == hadithId);
-      //  setHadith(hadith);
-      // console.log("hadith", hadith);
+        // Now fetch book detail and books data in parallel
+        const [bookDetailRes, booksRes] = await Promise.all([
+          fetch(
+            `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${bookId}.json`
+          ),
+          fetch(
+            `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books/bulugh-books.json`
+          ),
+        ]);
+
+        const bookDetailData = await bookDetailRes.json();
+        const bulughBooksData = await booksRes.json();
+
+        setChapterName(bookDetailData.chapters.find((c) => c.id == chapterId));
+        setBookName(bulughBooksData.find((b) => b.id == bookId));
+      } catch (error) {
+        console.error("Error in Single Chapter: ", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, [location, chapterId]); // Added chapterId to dependencies
+
+  const PreviousChapter = () => {
+    if (chapterId > 1) {
+      const chapteridToGo = Number(chapterId) - 1;
+      navigate(`/bulugh-al-maram/chapter/${chapteridToGo}`);
     }
-
-    setLoading(false);
-  }, [data, bookSlug, chapterSlug]);
-
-const PreviousChapter = () => {
-  if (chapter.id > 1) {
-    const chapteridToGo = chapter.id - 1;
-    const prevChap = book.chapters.find((c) => c.id === chapteridToGo);
-    if (prevChap) {
-      navigate(`/bulugh-al-Maram/${bookSlug}/${prevChap.chapterSlug}`);
-    }
-  }
-};
+  };
 
   const NextChapter = () => {
-    // console.log(book.chapters.length)
-    if (chapter.id < book?.chapters.length) {
-
-      const chapteridToGo = Number(chapter.id) + 1;
-      const nextchap = book.chapters.find((c) => c.id === chapteridToGo);
-      if(nextchap){
-        navigate(`/bulugh-al-Maram/${bookSlug}/${nextchap.chapterSlug}`);
-      }
-      
-
+    if (chapterId < 107) {
+      const chapteridToGo = Number(chapterId) + 1;
+      navigate(`/bulugh-al-maram/chapter/${chapteridToGo}`);
     }
   };
 
   let summary;
   if (urduText) {
-    summary = chapter?.summary?.urdu;
+    summary = chapterDetail?.summary?.urdu;
   } else {
-    summary = chapter?.summary?.english;
+    summary = chapterDetail?.summary?.english;
   }
-
-
-  if (!chapter) return <div className="container">Chapter not found</div>;
 
   if (loading) return <Loading />;
 
+  if (!chapterDetail)
+    return <h3 className="text-center m-3">Chapter Not Found</h3>;
+
   return (
     <>
-      <header class="border-bottom lh-2 py-4  d-flex align-items-center justify-content-center">
+      <header className="border-bottom lh-2 py-4  d-flex align-items-center justify-content-center">
         <nav
           className="bm-breadcrumb-nav text-light w-100 text-center"
           aria-label="breadcrumb"
         >
           <ol
-            class="breadcrumb mb-0"
+            className="breadcrumb mb-0"
             style={{
               display: "flex",
               flexWrap: "wrap",
@@ -94,7 +138,7 @@ const PreviousChapter = () => {
             }}
           >
             <li
-              class={`breadcrumb-item ${urduText && "urdu"} `}
+              className={`breadcrumb-item ${urduText && "urdu"} `}
               style={{ textAlign: urduText && "right" }}
             >
               <Link
@@ -104,40 +148,42 @@ const PreviousChapter = () => {
                 {urduText ? "بلوغ المرام" : "Bulugh Al Maram"}
               </Link>
             </li>
-            <li class={`breadcrumb-item ${urduText && "urdu "} `}>
+            <li className={`breadcrumb-item ${urduText && "urdu "} `}>
               <Link
-                to={`/bulugh-al-Maram/${bookSlug}`}
+                to={`/bulugh-al-maram/${chapterDetail.bookId}`}
                 className={`text-light decor-none ${urduText && "urdu"}`}
               >
-                {urduText ? book.name.arabic : book.name.english}
+                {urduText ? bookName?.name.arabic : bookName?.name.english}
               </Link>
             </li>
-            {/* <li class={`breadcrumb-item ${urduText && "urdu"} `}>
+            {/* <li className={`breadcrumb-item ${urduText && "urdu"} `}>
               <Link
                 to={`/bulugh-al-Maram/${bookSlug}/${chapterSlug}`}
                 className={`text-light decor-none ${urduText && "urdu"}`}
               ></Link>
             </li> */}
             <li
-              class={`breadcrumb-item active  ${urduText && "urdu "} `}
+              className={`breadcrumb-item active  ${urduText && "urdu "} `}
               aria-current="page"
             >
               <span
                 className="d-flex gap-1 "
                 style={{ flexDirection: urduText && "row-reverse" }}
               >
-                {urduText ? chapter.name.arabic : chapter.name.english}
+                {urduText
+                  ? chapterName?.name?.arabic
+                  : chapterName?.name.english}
               </span>
             </li>
           </ol>
         </nav>
       </header>
 
-      <main class="container">
-        <p class="lead mt-5" style={{ cursor: "pointer" }}>
+      <main className="container">
+        <p className="lead mt-5" style={{ cursor: "pointer" }}>
           <span
             href="#"
-            class={`px-2 py-2  border border-2 border-white text-body-emphasis fw-bold fs-6 border-end-0 ${
+            className={`px-2 py-2  border border-2 border-white text-body-emphasis fw-bold fs-6 border-end-0 ${
               !urduText && "bg-success"
             }`}
             onClick={() => setUrduText(false)}
@@ -146,7 +192,7 @@ const PreviousChapter = () => {
           </span>
           <span
             href="#"
-            class={`px-2 py-2  border border-2 border-white text-body-emphasis fw-bold fs-6 border-start-0 ${
+            className={`px-2 py-2  border border-2 border-white text-body-emphasis fw-bold fs-6 border-start-0 ${
               urduText && "bg-success"
             }`}
             onClick={() => setUrduText(true)}
@@ -154,45 +200,37 @@ const PreviousChapter = () => {
             Urdu
           </span>
         </p>
-        <div class="p-4   my-4 rounded text-center text-body-emphasis bg-body-secondary position-relative">
-          <h1 class=" arabic arabic-heading-center mb-3">
-            {chapter.name.arabic}
+
+        <div className="p-4   my-4 rounded text-center text-body-emphasis bg-body-secondary position-relative">
+          <h1 className=" arabic arabic-heading-center mb-3">
+            {chapterName?.name?.arabic}
           </h1>
           {urduText ? (
-            <h4 class=" urdu urdu-center">({chapter.name.urdu})</h4>
+            <h4 className=" urdu urdu-center">({chapterName?.name?.urdu})</h4>
           ) : (
-            <h4 class="">({chapter.name.english})</h4>
+            <h4 className="">({chapterName?.name.english})</h4>
           )}
           <p
             className="mt-4"
             style={{ textAlign: "center", lineHeight: "2rem" }}
           >
             {urduText
-              ? chapter?.description?.urdu
-              : chapter?.description?.english}{" "}
+              ? chapterDetail?.description?.urdu
+              : chapterDetail?.description?.english}{" "}
           </p>
-          {/* <button
-            class="btn btn-dark "
-            type="button"
-            onClick={() => {
-              const el = document.getElementById("kitab-summary");
-              el?.scrollIntoView({ behavior: "smooth" });
-            }}
-          >
-            {urduText ? "« Khulasa" : "Summary »"}
-          </button> */}
+
           <nav aria-label="Page navigation example ">
-            <ul class="pagination pagination d-flex justify-content-center p-4">
+            <ul className="pagination pagination d-flex justify-content-center p-4">
               <li
-                class="page-item "
+                className="page-item "
                 style={{
                   cursor: "pointer",
-                  pointerEvents: chapter.id <= 1 && "none",
-                  opacity: chapter.id <= 1 && 0.6,
+                  pointerEvents: chapterId <= 1 && "none",
+                  opacity: chapterId <= 1 && 0.6,
                 }}
               >
                 <span
-                  class="page-link"
+                  className="page-link"
                   aria-label="Previous"
                   onClick={() => PreviousChapter()}
                 >
@@ -201,9 +239,9 @@ const PreviousChapter = () => {
                   </span>
                 </span>
               </li>
-              <li class="page-item ">
+              <li className="page-item ">
                 <span
-                  class="page-link"
+                  className="page-link"
                   aria-label="Previous"
                   style={{ cursor: "pointer" }}
                   onClick={() => {
@@ -217,21 +255,20 @@ const PreviousChapter = () => {
                 </span>
               </li>
 
-              {/* <li class="page-item">
-                            <a class="page-link" href="#">
+              {/* <li className="page-item">
+                            <a className="page-link" href="#">
                                
                             </a>
                           </li> */}
 
-              <li class="page-item">
+              <li className="page-item">
                 <span
-                  class="page-link "
+                  className="page-link "
                   to={""}
                   style={{
                     cursor: "pointer",
-                    pointerEvents:
-                      chapter.id >= book?.chapters.length && "none",
-                    opacity: chapter.id >= book?.chapters.length && 0.6,
+                    pointerEvents: chapterId >= 107 && "none",
+                    opacity: chapterId >= 107 && 0.6,
                   }}
                   aria-label="Next"
                   onClick={() => {
@@ -247,61 +284,49 @@ const PreviousChapter = () => {
           </nav>
         </div>
 
-        <div class="row mb-2">
-          <div class="col-12">
-            {chapter?.hadiths.map((h, i) => (
-              <div class="row g-0  border rounded overflow-hidden flex-md-row my-4 shadow-sm h-md-250 position-relative">
-                <div class="col p-4 d-flex flex-column position-static decor-none text-light gap-4">
+        <div className="row mb-2 ">
+          <div className="col-12  ">
+            {chapterDetail?.hadiths.map((h, i) => (
+              <div
+                key={i}
+                className="row g-0  border border rounded overflow-hidden flex-md-row my-5 shadow-lg h-md-250 position-relative "
+              >
+                {/* <hr className="border border-primary border-3 opacity-75 "/> */}
+                <div
+                  className={` border-bottom bg-primary border px-3 py-2 fs-6 fw-bold  ${
+                    urduText && "urdu"
+                  }`}
+                >
+                  {h.id} حدیث
+                </div>
+                <div className="col p-4 d-flex flex-column position-static decor-none text-light gap-4">
                   <div
-                    className={`d-flex justify-content-start  align-items-center  `}
+                    className=" rounded-3 d-flex "
+                    onClick={() =>
+                      navigate(`/bulugh-al-maram/hadith-detail/${h.id}`)
+                    }
                     style={{
-                      flexDirection: urduText ? "row-reverse" : "",
-                      flexWrap: "wrap",
+                      cursor: "pointer",
+                      flexDirection: "column",
+                      gap: "10px",
                     }}
                   >
-                    {h.references.map((r) => (
-                      <div className="">
-                        <strong
-                          class="d-inline-block  text-primary-emphasis arabic"
-                          style={{ fontSize: "0.8rem" }}
-                        >
-                          {urduText ? r.arabic : r.english}
-                        </strong>
-                        <span className="mx-2">|</span>
-                      </div>
-                    ))}
-                  </div>
-                  <div
-                    className=" rounded-3 p-4 border"
-                    onClick={() => navigate(`${h.id}`)}
-                    style={{ cursor: "pointer" }}
-                  >
-                    <h4 class=" arabic " style={{lineHeight: 2}}>{h.name.arabic}</h4>
+                    <h4
+                      className=" arabic fs-4"
+                      style={{ lineHeight: 2, flex: 1 }}
+                    >
+                      {h.name.arabic}
+                    </h4>
                     {urduText ? (
-                      <p class="card-text urdu" style={{lineHeight: 2}}>{h.name.urdu}</p>
-                    ) : (
-                      <p class="card-text ">{h.name.english}</p>
-                    )}
-                  </div>
-                  <div
-                    className={`d-flex justify-content-start gap-2`}
-                    style={{
-                      flexDirection: urduText && "row-reverse",
-                      flexWrap: "wrap",
-                    }}
-                  >
-                    {h.narrators.map((n) => (
-                      <span
-                        class="badge text-bg-success px-2 py-2 mx-1 decor-none "
-                        style={{ fontSize: "0.8rem", cursor: "pointer" }}
-                        onClick={() => {
-                          const url = n.narratorSlug;
-                          navigate(`/sahaba/${url}`);
-                        }}
+                      <p
+                        className="card-text  fs-5 urdu"
+                        style={{ lineHeight: 2, flex: 1 }}
                       >
-                        {urduText ? n.arabic : n.english}
-                      </span>
-                    ))}
+                        {h.name.urdu}
+                      </p>
+                    ) : (
+                      <p className="card-text ">{h.name.english}</p>
+                    )}
                   </div>
                 </div>
               </div>

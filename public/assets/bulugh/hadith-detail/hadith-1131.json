@@ -1,0 +1,259 @@
+{
+  "hadithId": 1131,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/61"],
+    "kitabId": 11,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 91
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أحمد (2/157)، وأبو داود (2577)، وابن حبان (4669).‏ القرح: جمع قارح، والقارح من الخيل هو الذي دخل في السنة الخامسة، وهو أوان كمال قوته.‏",
+    "urdu": "صحیح۔ اسے احمد (2/157)، ابوداؤد (2577) اور ابن حبان (4669) نے روایت کیا ہے۔ 'قرح' ان گھوڑوں کو کہتے ہیں جو پانچویں سال میں داخل ہو چکے ہوں اور اپنی پوری طاقت کو پہنچ چکے ہوں۔",
+    "english": "Sahih. Reported by Ahmad (2/157), Abu Dawud (2577), and Ibn Hibban (4669). 'Qarh' refers to horses that have entered their fifth year, which is when they reach their full strength."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَبْقَ",
+      "english": "Arranged a race",
+      "urdu": "مقابلہ کرایا / مسابقت کرائی"
+    },
+    {
+      "arabic": "الْخَيْلِ",
+      "english": "The horses",
+      "urdu": "گھوڑے"
+    },
+    {
+      "arabic": "الْقَرْحُ",
+      "english": "Five-year-old horses",
+      "urdu": "پانچ سالہ گھوڑے (جوان اور طاقتور)"
+    },
+    {
+      "arabic": "الْغَايَةِ",
+      "english": "The finish line / Goal",
+      "urdu": "حد / نشانِ منزل"
+    },
+    {
+      "arabic": "فَضَّلَ",
+      "english": "Gave preference",
+      "urdu": "فضیلت دی / فرق رکھا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ گھوڑ دوڑ کا مقابلہ کرانا سنت ہے، اور مقابلے کے دوران گھوڑوں کی عمر اور طاقت کے لحاظ سے فاصلے کا تعین کرنا انصاف اور حکمت کا تقاضا ہے۔",
+    "english": "This Hadith establishes the permissibility of horse racing and highlights the importance of fair competition by adjusting distances based on the age and physical capacity of the horses."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2577)",
+      "english": "Narrated by Abu Dawud (2577)"
+    },
+    {
+      "arabic": "رواه أحمد (4654)",
+      "english": "Narrated by Ahmad (4654)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3Xn89gA",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسابقت کی شرعی حیثیت",
+        "english": "Legal Status of Competitions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گھوڑ دوڑ کی مشروعیت",
+              "english": "Permissibility of Horse Racing"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے خود گھوڑوں کے درمیان دوڑ کے مقابلے منعقد کرائے۔",
+                "اسلام ان کھیلوں کی حوصلہ افزائی کرتا ہے جو دفاعی مہارت اور جسمانی چستی پیدا کریں۔",
+                "ایسی ورزشیں اور مقابلے جہاد کی تیاری کا ایک اہم حصہ سمجھے جاتے ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) personally organized and supervised horse races.",
+                "Islam encourages sports that build defensive skills and physical agility.",
+                "Such exercises and competitions are considered an essential part of preparing for Jihad."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مقابلے کا مقصد",
+              "english": "Purpose of the Competition"
+            },
+            "content": {
+              "urdu": [
+                "اس کا مقصد محض تفریح نہیں بلکہ عسکری تربیت اور گھوڑوں کی طاقت کا امتحان تھا۔",
+                "یہ صحابہ کرام میں شجاعت اور مقابلہ بازی کا مثبت جذبہ پیدا کرنے کا ذریعہ تھا۔",
+                "گھوڑا اس دور کا بنیادی جنگی ذریعہ تھا، اس لیے اس کی تربیت پر خاص توجہ دی گئی۔"
+              ],
+              "english": [
+                "The goal was not mere entertainment, but military training and testing the endurance of the horses.",
+                "It served as a means to instill courage and a positive competitive spirit among the Sahaba.",
+                "Horses were the primary mode of warfare at the time, hence the focus on their training."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدل اور حکمتِ عملی",
+        "english": "Justice and Strategic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فاصلے کا تعین (غایہ)",
+              "english": "Determining the Distance (Ghaya)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے 'سدھائے ہوئے' (مضمرہ) اور 'عام' گھوڑوں کے درمیان فاصلے کا فرق رکھا۔",
+                "سدھائے ہوئے طاقتور گھوڑوں کے لیے تقریباً 6-7 میل کا طویل فاصلہ طے کیا گیا۔",
+                "کم عمر یا غیر تربیت یافتہ گھوڑوں کے لیے فاصلہ کم رکھا گیا تاکہ ان پر ظلم نہ ہو۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) set different distances for 'trained' (mudammara) and 'untrained' horses.",
+                "Trained, powerful horses raced a longer distance of approximately 6-7 miles.",
+                "Younger or untrained horses were given shorter distances to avoid overexertion and cruelty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قواعد و ضوابط کی پابندی",
+              "english": "Adherence to Rules and Regulations"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر کام کو منظم طریقے اور اصولوں کے تحت کرنے کا درس دیتا ہے۔",
+                "مقابلے میں برابری اور شفافیت برقرار رکھنا اسلامی اخلاقیات کا حصہ ہے۔",
+                "آپ ﷺ کی یہ سنت آج کے دور میں کھیلوں کے قوانین کی بنیاد فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "Islam teaches performing every task in an organized manner under specific principles.",
+                "Maintaining equality and transparency in competitions is part of Islamic ethics.",
+                "This Sunnah provides a foundation for the rules of sports and games today."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انعام اور مسابقت",
+        "english": "Rewards and Competition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انعام دینا",
+              "english": "Granting Prizes"
+            },
+            "content": {
+              "urdu": [
+                "گھوڑ دوڑ اور تیر اندازی جیسے مقابلوں میں انعام دینا شرعاً جائز ہے۔",
+                "نبی ﷺ نے ان مقابلوں کے جیتنے والوں کو کھجوریں یا دیگر اشیاء بطور انعام عطا فرمائیں۔",
+                "یہ انعام محنت کی قدر دانی اور دوسروں کو رغبت دلانے کا بہترین طریقہ ہے۔"
+              ],
+              "english": [
+                "It is legally permissible in Sharia to grant prizes for competitions like horse racing and archery.",
+                "The Prophet (ﷺ) awarded winners with dates or other items as a token of appreciation.",
+                "This serves as a way to recognize effort and motivate others to improve."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جوئے (قمار) کی ممانعت",
+              "english": "Prohibition of Gambling"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی مسابقت اور جوئے میں واضح فرق ہے۔",
+                "انعام یا تو حکومت دے یا کوئی تیسرا فریق، اگر شرکاء آپس میں رقم لگا کر ہار جیت کریں تو وہ قمار ہے۔",
+                "خالص کھیل اور ہنر کی بنیاد پر کیا گیا مقابلہ ہی پسندیدہ ہے۔"
+              ],
+              "english": [
+                "There is a clear distinction between Islamic competition and gambling.",
+                "Prizes should come from the state or a third party; if participants bet among themselves, it is gambling.",
+                "Competitions based purely on skill and practice are what the Sharia encourages."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مستقبل کی تیاری",
+              "english": "Preparation for the Future"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو اپنی جسمانی اور ذہنی قوت کو ہمیشہ بہترین حالت میں رکھنا چاہیے۔",
+                "امن کے وقت میں بھی دفاعی صلاحیتوں میں اضافہ کرنا سنتِ نبوی ﷺ ہے۔",
+                "وقت کی قدر کرنا اور اسے مفید کاموں میں صرف کرنا کامیابی کی کنجی ہے۔"
+              ],
+              "english": [
+                "A Muslim should always maintain their physical and mental strength in top condition.",
+                "Increasing defensive capabilities during times of peace is a Prophetic Sunnah.",
+                "Valuing time and spending it on beneficial activities is the key to success."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جانوروں کے ساتھ شفقت",
+              "english": "Compassion Toward Animals"
+            },
+            "content": {
+              "urdu": [
+                "گھوڑوں کی عمر کے لحاظ سے فاصلہ بدلنا جانوروں کے حقوق کی پاسداری ہے۔",
+                "اسلام کسی بھی مخلوق پر اس کی طاقت سے زیادہ بوجھ ڈالنے سے روکتا ہے۔",
+                "تربیت اور آزمائش کے دوران بھی رحم دلی کا دامن نہیں چھوڑنا چاہیے۔"
+              ],
+              "english": [
+                "Adjusting distances based on the age of horses shows respect for animal welfare.",
+                "Islam prohibits placing a burden on any creature beyond its capacity.",
+                "Compassion should remain a priority even during training and testing."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

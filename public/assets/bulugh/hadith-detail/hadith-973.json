@@ -1,0 +1,259 @@
+{
+  "hadithId": 973,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:88"],
+    "kitabId": 8,
+    "inKitabBab": 13,
+    "arabicBook": "كتاب العلم",
+    "babId": 76
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح البخاري، كتاب العلم، باب الرحلة في المسألة النازلة، رقم الحديث (88).",
+    "urdu": "صحیح بخاری، کتاب العلم، باب: درپیش مسئلے کے حل کے لیے سفر کرنا، حدیث نمبر (88)۔",
+    "english": "Sahih Bukhari, Book of Knowledge, Chapter: Traveling for a case that has arisen, Hadith No. (88)."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَزَوَّجَ",
+      "english": "Married",
+      "urdu": "نکاح کیا"
+    },
+    {
+      "arabic": "أَرْضَعْتُكُمَا",
+      "english": "Suckled both of you",
+      "urdu": "تم دونوں کو دودھ پلایا"
+    },
+    {
+      "arabic": "فَسَأَلَ",
+      "english": "He asked",
+      "urdu": "اس نے سوال کیا"
+    },
+    {
+      "arabic": "فَفَارَقَهَا",
+      "english": "He separated from her",
+      "urdu": "اسے جدا کر دیا"
+    },
+    {
+      "arabic": "قِيلَ",
+      "english": "It has been said",
+      "urdu": "کہا گیا ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "رضاعت (دودھ پلانے) سے حرمت ثابت ہو جاتی ہے اور شک یا اطلاع ملنے پر احتیاطاً علیحدگی ضروری ہے۔",
+    "english": "Foster-suckling establishes prohibition in marriage, and separation is necessary if such information is received."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري في صحيحه (88)",
+      "english": "Reported by Al-Bukhari in his Sahih (88)"
+    },
+    {
+      "arabic": "رواه أبو داود (3603)",
+      "english": "Reported by Abu Dawud (3603)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عقبة بن الحارث",
+        "english": "Uqba bin Al-Harith"
+      },
+      "slug": "uqba-bin-al-harith"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yX-2tA-0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رضاعت کی حرمت",
+        "english": "Prohibition through Suckling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دودھ کا رشتہ",
+              "english": "The Foster Relationship"
+            },
+            "content": {
+              "urdu": [
+                "رضاعت سے وہ تمام رشتے حرام ہو جاتے ہیں جو نسب سے حرام ہیں۔",
+                "اگر ایک عورت دو بچوں کو دودھ پلائے تو وہ رضاعی بہن بھائی بن جاتے ہیں۔",
+                "ایسی صورت میں ان کا آپس میں نکاح شرعاً باطل اور حرام ہے۔"
+              ],
+              "english": [
+                "Suckling creates the same prohibitions in marriage as blood relations.",
+                "Children suckled by the same woman become foster siblings in Islam.",
+                "Marriage between such individuals is legally void and strictly forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا فیصلہ",
+              "english": "The Prophet's Decision"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے شبہ پیدا ہونے پر علیحدگی کا حکم صادر فرمایا۔",
+                "آپ ﷺ کا فرمان 'کیسے رکھ سکتے ہو' حتمی ممانعت کی علامت ہے۔",
+                "یہ اس بات کی دلیل ہے کہ اطلاع ملنے پر نکاح ختم ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) ordered separation once the doubt was raised.",
+                "His phrase 'How can you keep her' indicates a clear prohibition.",
+                "This proves that marriage terminates upon discovery of fosterage."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "احتیاط اور تقویٰ",
+        "english": "Precaution and Piety"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مشکوک امور سے بچنا",
+              "english": "Avoiding Doubtful Matters"
+            },
+            "content": {
+              "urdu": [
+                "دین کے معاملے میں شک والی چیز کو چھوڑ دینا ہی تقویٰ ہے۔",
+                "عقبہ بن حارث نے اطلاع ملتے ہی فوراً رسول اللہ ﷺ سے رجوع کیا۔",
+                "مسلمان کو چاہیے کہ وہ اپنی عبادات اور نکاح میں احتیاط برتے۔"
+              ],
+              "english": [
+                "Leaving doubtful matters is a core principle of Islamic piety.",
+                "Uqba immediately consulted the Prophet (PBUH) upon hearing the news.",
+                "A Muslim must exercise extreme caution in matters of worship and marriage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سچی گواہی کی اہمیت",
+              "english": "Importance of True Testimony"
+            },
+            "content": {
+              "urdu": [
+                "ایک عورت کی گواہی بھی رضاعت کے معاملے میں کافی سمجھی گئی۔",
+                "اگر گواہ سچا ہو تو اس کی بات پر عمل کرنا واجب ہے۔",
+                "حق بات سامنے آنے پر اپنی خواہش کو قربان کرنا صحابہ کا شیوہ تھا۔"
+              ],
+              "english": [
+                "Even a single woman's testimony was accepted regarding suckling.",
+                "It is obligatory to act upon the truth if the witness is reliable.",
+                "Sacrificing personal desires for the truth was the way of Sahaba."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علم کے لیے سفر",
+        "english": "Traveling for Knowledge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسئلہ پوچھنے کی اہمیت",
+              "english": "Importance of Seeking Clarification"
+            },
+            "content": {
+              "urdu": [
+                "عقبہ بن حارث نے مکہ سے مدینہ تک کا سفر صرف مسئلہ پوچھنے کے لیے کیا۔",
+                "دین کی سمجھ بوجھ کے لیے علما کی طرف رجوع کرنا سنت ہے۔",
+                "مشکل مسائل میں خاموش رہنے کے بجائے تحقیق کرنا ضروری ہے۔"
+              ],
+              "english": [
+                "Uqba traveled from Makkah to Madinah just to clarify this issue.",
+                "Consulting scholars for religious understanding is a prophetic Sunnah.",
+                "It is necessary to investigate difficult matters rather than staying silent."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی علم کی تڑپ",
+              "english": "Longing for Shariah Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام دین کے ایک ایک حکم پر عمل کے لیے بے چین رہتے تھے۔",
+                "علم حاصل کرنے کے لیے جسمانی مشقت اٹھانا فضیلت کا باعث ہے۔",
+                "امام بخاری نے اس حدیث سے علم کے لیے سفر کا باب ثابت کیا۔"
+              ],
+              "english": [
+                "The Sahaba were eager to implement every command of the religion.",
+                "Enduring physical hardship to gain knowledge is a great virtue.",
+                "Imam Bukhari used this Hadith to prove the chapter on traveling for knowledge."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نکاح اور طلاق کے احکام",
+        "english": "Rulings on Marriage and Divorce"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نکاح کا فسخ ہونا",
+              "english": "Annulment of Marriage"
+            },
+            "content": {
+              "urdu": [
+                "حرمت ثابت ہونے پر نکاح خود بخود فاسخ یا ختم ہو جاتا ہے۔",
+                "اس میں مرد یا عورت کی مرضی کا دخل نہیں ہوتا بلکہ حکمِ الہیٰ ہے۔",
+                "عقبہ رضی اللہ عنہ نے فوراً علیحدگی اختیار کر کے اطاعت کی مثال قائم کی۔"
+              ],
+              "english": [
+                "Marriage is automatically annulled once a prohibition is established.",
+                "This is a divine command regardless of the couple's personal choice.",
+                "Uqba set an example of obedience by separating immediately."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دوسرا نکاح",
+              "english": "Remarriage After Separation"
+            },
+            "content": {
+              "urdu": [
+                "جدائی کے بعد وہ خاتون کسی اور سے نکاح کرنے میں آزاد تھی۔",
+                "اسلام نے بیوہ یا مطلقہ خواتین کے حقوق اور نکاحِ ثانی کو تحفظ دیا ہے۔",
+                "حدیث کے آخر میں خاتون کے دوسرے نکاح کا ذکر اسی شرعی اجازت کی دلیل ہے۔"
+              ],
+              "english": [
+                "After the separation, the woman was free to marry someone else.",
+                "Islam protects the rights of divorced women to seek remarriage.",
+                "The mention of her second marriage confirms this legal permissibility."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 1186,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1186"],
+    "kitabId": 13,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الأيمان والنذور",
+    "babId": 96
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1189)، ومسلم (1397). هذا الحديث أصل في بيان فضيلة هذه المساجد الثلاثة وتفردها بطلب شد الرحال إليها.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (1189) و مسلم (1397) میں موجود ہے۔ یہ حدیث ان تین مساجد کی فضیلت اور ان کے لیے سفر کرنے کی خصوصیت پر سب سے بڑی دلیل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1189) and Muslim (1397). This Hadith is a primary evidence for the special status of these three mosques and the prohibition of setting out specifically for religious merit to any other location."
+  },
+  "importantWords": [
+    {
+      "arabic": "تُشَدُّ",
+      "english": "Set out / Fasten",
+      "urdu": "سفر کیا جائے / کجاوے باندھے جائیں"
+    },
+    {
+      "arabic": "الرِّحَالُ",
+      "english": "Saddles / Luggage",
+      "urdu": "کجاوے / سامانِ سفر"
+    },
+    {
+      "arabic": "إِلَّا",
+      "english": "Except",
+      "urdu": "سوائے"
+    },
+    {
+      "arabic": "مَسْجِدِي",
+      "english": "My Mosque",
+      "urdu": "میری مسجد (مسجد نبوی)"
+    },
+    {
+      "arabic": "مَسَاجِدَ",
+      "english": "Mosques",
+      "urdu": "مساجد"
+    }
+  ],
+  "summary": {
+    "urdu": "اسلام میں ثواب اور زیارت کی خاص نیت سے صرف تین مساجد (مکہ، مدینہ اور قدس) کی طرف سفر کرنا جائز اور باعثِ فضیلت ہے۔",
+    "english": "In Islam, setting out on a journey specifically for the sake of religious merit or blessing is restricted to only three mosques: those in Makkah, Madinah, and Jerusalem."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1189)",
+      "english": "Reported by Al-Bukhari (1189)"
+    },
+    {
+      "arabic": "رواه مسلم (1397)",
+      "english": "Reported by Muslim (1397)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-said-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F03vD8X6mO0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مقدس مساجد کی فضیلت",
+        "english": "Virtues of the Holy Mosques"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین مساجد کا انتخاب",
+              "english": "Selection of the Three Mosques"
+            },
+            "content": {
+              "urdu": [
+                "مسجد حرام، مسجد نبوی اور مسجد اقصیٰ کو تمام مساجد پر برتری حاصل ہے۔",
+                "یہ مساجد انبیاء علیہم السلام کے مراکز اور وحی کے نزول کے مقامات رہے ہیں۔",
+                "ان مساجد میں نماز کا ثواب عام مساجد سے کئی گنا زیادہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Masjid al-Haram, Masjid al-Nabawi, and Masjid al-Aqsa have superiority over all others.",
+                "These mosques were centers for Prophets and sites where revelation descended.",
+                "The reward for prayer in these mosques is multiplied many times compared to others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ثواب کی نیت سے سفر",
+              "english": "Traveling for Reward"
+            },
+            "content": {
+              "urdu": [
+                "کسی خاص جگہ کو برکت والا سمجھ کر وہاں کا سفر کرنا صرف ان تین مقامات کے لیے ہے۔",
+                "دیگر مساجد یا مقامات کی طرف ثواب کی نیت سے مخصوص سفر کرنا منع ہے۔",
+                "یہ حکم مسلمانوں کی عبادات کو بدعت اور غلو سے بچانے کے لیے دیا گیا ہے۔"
+              ],
+              "english": [
+                "Traveling specifically to a place seeking its blessing is limited to these three sites.",
+                "Setting out for other mosques or shrines specifically for religious merit is prohibited.",
+                "This ruling protects Muslim worship from innovation (bid'ah) and religious exaggeration."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و شرعی مفہوم",
+        "english": "Juristic and Legal Meaning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شدِ رحال کی تعریف",
+              "english": "Definition of Shadd al-Rihal"
+            },
+            "content": {
+              "urdu": [
+                "شدِ رحال کا مطلب ہے کسی دور دراز جگہ کے لیے باقاعدہ تیاری کر کے نکلنا۔",
+                "اگر سفر کا مقصد تجارت، علم یا رشتہ داری ہو تو وہ اس ممانعت میں نہیں آتا۔",
+                "ممانعت صرف ان مقامات کے لیے ہے جنہیں لوگ 'مقدس' سمجھ کر زیارت کرتے ہیں۔"
+              ],
+              "english": [
+                "Shadd al-Rihal means making formal preparations to travel to a distant place.",
+                "Traveling for business, seeking knowledge, or visiting kin is not included in this ban.",
+                "The prohibition applies only to traveling for places believed to hold inherent sanctity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نذر کا پورا کرنا",
+              "english": "Fulfilling a Vow"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی ان تین مساجد کے علاوہ کسی اور مسجد میں نماز کی نذر مانے تو وہ لازم نہیں۔",
+                "علماء کے نزدیک ایسی نذر کو اپنے گھر کی مسجد میں بھی پورا کیا جا سکتا ہے۔",
+                "نذر صرف ان مقامات کے لیے سفر کو واجب کرتی ہے جہاں سفر کی شرعی اجازت ہو۔"
+              ],
+              "english": [
+                "If one vows to pray in a mosque other than these three, the journey is not mandatory.",
+                "Scholars state such a vow can be fulfilled at one's local neighborhood mosque.",
+                "A vow only mandates travel to locations where Sharia permits setting out for worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تاریخی اور ایمانی پہلو",
+        "english": "Historical and Spiritual Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انبیاء کی وراثت",
+              "english": "Legacy of the Prophets"
+            },
+            "content": {
+              "urdu": [
+                "مسجد حرام کو حضرت ابراہیم علیہ السلام نے تعمیر کیا جو توحید کا مرکز ہے۔",
+                "مسجد اقصیٰ انبیاء بنی اسرائیل کا قبلہ اور معراج کی پہلی منزل رہی ہے۔",
+                "مسجد نبوی خاتم الانبیاء ﷺ کی تعمیر کردہ اور اسلام کا دوسرا بڑا مرکز ہے۔"
+              ],
+              "english": [
+                "Masjid al-Haram was built by Ibrahim (AS) and is the global center of Monotheism.",
+                "Masjid al-Aqsa was the Qiblah of Israelite Prophets and the first stop of Isra.",
+                "Masjid al-Nabawi was built by the Seal of Prophets (SAW) and is Islam's second center."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امتِ مسلمہ کی وحدت",
+              "english": "Unity of the Muslim Ummah"
+            },
+            "content": {
+              "urdu": [
+                "یہ تینوں مساجد عالمِ اسلام کے اتحاد اور مضبوطی کی علامت ہیں۔",
+                "ان مقامات کا سفر مسلمانوں کے درمیان تعلق اور ایمانی قوت کا باعث بنتا ہے۔",
+                "مسجد اقصیٰ کی آزادی اور حفاظت ہر دور میں مسلمانوں کا اہم فریضہ رہا ہے۔"
+              ],
+              "english": [
+                "These three mosques are symbols of the unity and strength of the Muslim world.",
+                "Visiting these sites fosters connection and spiritual strength among Muslims.",
+                "The liberation and protection of Al-Aqsa has remained a vital duty for Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت اور مال کی حفاظت",
+              "english": "Protection of Time and Wealth"
+            },
+            "content": {
+              "urdu": [
+                "اسلام بے جا مشقت اور غیر شرعی رسومات پر وقت ضائع کرنے سے روکتا ہے۔",
+                "مال کو صرف ان جگہوں پر خرچ کریں جہاں اللہ اور اس کے رسول نے حکم دیا ہے۔",
+                "ایسی جگہوں کا سفر کرنا جہاں شرک کا اندیشہ ہو، دین کے لیے نقصان دہ ہے۔"
+              ],
+              "english": [
+                "Islam prevents wasting time on undue hardships or non-legislated rituals.",
+                "Wealth should be spent only where Allah and His Messenger have commanded.",
+                "Traveling to sites where there is a risk of polytheism is harmful to one's faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Adherence to Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سچی محبت وہ ہے جو شریعت کی حدود کے اندر رہ کر کی جائے۔",
+                "صحابہ کرام نے زیارتوں کے معاملے میں ہمیشہ اس حدیث پر سختی سے عمل کیا۔",
+                "دین کو خالص رکھنے کے لیے سنتِ نبوی ﷺ پر عمل کرنا ہی واحد راستہ ہے۔"
+              ],
+              "english": [
+                "True love is that which is expressed within the boundaries of Sharia.",
+                "The Companions strictly adhered to this Hadith regarding religious visitations.",
+                "Following the Sunnah is the only way to keep the religion pure and authentic."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

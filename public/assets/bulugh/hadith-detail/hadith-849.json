@@ -1,0 +1,259 @@
+{
+  "hadithId": 849,
+  "hadithNo": 26,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/26"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (5115) ومسلم (1407) عن علي بن أبي طالب رضي الله عنه.",
+    "urdu": "صحیح۔ اسے بخاری (5115) اور مسلم (1407) نے سیدنا علی بن ابی طالب رضی اللہ عنہ سے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5115) and Muslim (1407) on the authority of Ali bin Abi Talib (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade / Prohibited",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "اَلْمُتْعَةِ",
+      "english": "Temporary marriage",
+      "urdu": "متعہ / عارضی نکاح"
+    },
+    {
+      "arabic": "عَامَ",
+      "english": "Year",
+      "urdu": "سال"
+    },
+    {
+      "arabic": "خَيْبَرَ",
+      "english": "Khaibar",
+      "urdu": "خیبر"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْهِ",
+      "english": "Agreed upon",
+      "urdu": "متفق علیہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نکاحِ متعہ کی ممانعت کا ذکر ہے، جو کہ ایک مخصوص مدت کے لیے کیا جانے والا نکاح تھا اور اب قیامت تک کے لیے حرام ہے۔",
+    "english": "This Hadith mentions the prohibition of Nikah al-Mut'ah (temporary marriage), which was a contract for a fixed period and is now forbidden until the Day of Judgment."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5115)",
+      "english": "Sahih al-Bukhari (5115)"
+    },
+    {
+      "arabic": "صحيح مسلم (1407)",
+      "english": "Sahih Muslim (1407)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R3L0f6LpB3M",
+  "grade": {
+    "arabic": "صحيح (متفق عليه)",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "متعہ کی تعریف اور ممانعت",
+        "english": "Definition and Prohibition of Mut'ah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عارضی نکاح کا تصور",
+              "english": "Concept of Temporary Marriage"
+            },
+            "content": {
+              "urdu": [
+                "متعہ سے مراد ایسا نکاح ہے جو ایک معینہ مدت (مثلاً چند دن یا مہینے) کے لیے کیا جائے۔",
+                "اسلام کے ابتدائی دور میں جنگی حالات کی وجہ سے اس کی عارضی اجازت دی گئی تھی۔",
+                "بعد ازاں رسول اللہ ﷺ نے اسے ہمیشہ کے لیے حرام قرار دے کر خاندانی نظام کو تحفظ دیا۔"
+              ],
+              "english": [
+                "Mut'ah refers to a marriage contracted for a fixed duration (e.g., a few days or months).",
+                "In the early stages of Islam, it was temporarily permitted due to wartime circumstances.",
+                "Later, the Prophet (ﷺ) prohibited it forever to protect the family structure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مستقل ممانعت",
+              "english": "Permanent Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "خیبر کے موقع پر اس کی ممانعت کے بعد فتح مکہ کے وقت بھی اس کی حرمت کا اعلان ہوا۔",
+                "تمام اہل سنت والجماعت کے نزدیک یہ نکاح اب زنا کے حکم میں آتا ہے۔",
+                "سیدنا علی رضی اللہ عنہ نے خود اس کی ممانعت کی روایت بیان کر کے شکوک و شبہات ختم کیے۔"
+              ],
+              "english": [
+                "Following the prohibition at Khaibar, its forbidden status was reiterated at the Conquest of Makkah.",
+                "According to the majority of scholars (Ahl al-Sunnah), this practice is now equivalent to adultery.",
+                "Ali (RA) himself narrated the prohibition, clearing any doubts regarding its status."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاندانی نظام کا تحفظ",
+        "english": "Safeguarding the Family System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نکاح کا مقصد",
+              "english": "Purpose of Marriage"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی نکاح کا مقصد ایک پائیدار اور دائمی رشتہ قائم کرنا ہے۔",
+                "عارضی نکاح محض جنسی تسکین کا ذریعہ تھا جس میں خاندان کی بنیاد نہیں تھی۔",
+                "اسلام نے نکاح کو میاں بیوی کے درمیان عمر بھر کا مقدس معاہدہ قرار دیا ہے۔"
+              ],
+              "english": [
+                "The objective of Islamic marriage is to establish a lasting and permanent relationship.",
+                "Temporary marriage was merely for sexual gratification without a familial foundation.",
+                "Islam defines marriage as a sacred lifelong contract between husband and wife."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچوں کے حقوق",
+              "english": "Rights of Children"
+            },
+            "content": {
+              "urdu": [
+                "عارضی نکاح میں پیدا ہونے والے بچوں کا نسب اور حقوق واضح نہیں ہوتے تھے۔",
+                "نکاحِ دائمی بچوں کی صحیح پرورش اور انہیں قانونی پہچان فراہم کرتا ہے۔",
+                "متعہ کی ممانعت سے نئی نسل کے حقوق اور وراثت کے مسائل حل ہو گئے۔"
+              ],
+              "english": [
+                "Children born from temporary marriages lacked clear lineage and legal rights.",
+                "Permanent marriage ensures proper upbringing and provides children with legal identity.",
+                "The prohibition of Mut'ah resolved issues concerning the rights and inheritance of the new generation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی حکمت و مصلحت",
+        "english": "Legal Wisdom and Rationale"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تدریجی احکام",
+              "english": "Gradual Legislation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں بعض احکام (جیسے شراب کی حرمت) تدریجاً نافذ کیے گئے تھے۔",
+                "متعہ کی ممانعت بھی تدریجی طور پر مکمل ہوئی تاکہ لوگ نئے نظام کے عادی ہو سکیں۔",
+                "حتمی فیصلہ یہی ہے کہ اب یہ عمل شریعت میں قطعی حرام ہے۔"
+              ],
+              "english": [
+                "Some rulings in Islam (like the prohibition of alcohol) were implemented gradually.",
+                "The prohibition of Mut'ah also followed a gradual phase so people could adapt to the new system.",
+                "The final decree remains that this act is strictly forbidden in Sharia."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عورت کی عزت و تکریم",
+              "english": "Honor and Dignity of Women"
+            },
+            "content": {
+              "urdu": [
+                "عارضی نکاح عورت کو محض ایک کرائے کی چیز بنا دیتا تھا جو اس کی توہین ہے۔",
+                "اسلام نے عورت کو 'ربۃ البیت' (گھر کی ملکہ) کا درجہ دیا ہے جو نکاحِ دائمی سے ہی ممکن ہے۔",
+                "حرمتِ متعہ نے عورت کے سماجی وقار کو بلند کیا اور اسے استحصال سے بچایا۔"
+              ],
+              "english": [
+                "Temporary marriage treated women as commodities for hire, which is derogatory.",
+                "Islam elevated women to the status of 'Rabbat al-Bayt' (Queen of the House), only possible through permanent marriage.",
+                "The prohibition of Mut'ah enhanced women's social status and protected them from exploitation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور سبق",
+        "english": "Practical Training and Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اطاعتِ رسول ﷺ",
+              "english": "Obedience to the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں سکھاتی ہے کہ حلال و حرام کا فیصلہ صرف اللہ اور اس کے رسول ﷺ کا حق ہے۔",
+                "جب کسی چیز کو منع کر دیا جائے تو اس پر 'سمعنا و اطعنا' کہنا مومن کا شیوہ ہے۔",
+                "سنت کی پیروی ہی معاشرے کی اخلاقی اصلاح کا واحد راستہ ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches that the right to declare things Halal or Haram belongs to Allah and His Messenger (ﷺ).",
+                "When something is forbidden, a believer responds with 'We hear and we obey.'",
+                "Adhering to the Sunnah is the only way for the moral reformation of society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پاکیزہ معاشرہ",
+              "english": "Pure Society"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کا مقصد ایک ایسا معاشرہ بنانا ہے جو فحاشی اور عارضی جنسی تعلقات سے پاک ہو۔",
+                "نکاح کے ذریعے ہی ایک پاکیزہ خاندان اور مضبوط معاشرہ وجود میں آتا ہے۔",
+                "ہمیں ہر اس غیر اسلامی طریقے سے بچنا چاہیے جو خاندانی بنیادوں کو کمزور کرے۔"
+              ],
+              "english": [
+                "The goal of Islam is to build a society free from indecency and temporary sexual liaisons.",
+                "Only through legitimate marriage can a pure family and strong society be established.",
+                "We must avoid any un-Islamic practices that weaken the foundations of the family."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

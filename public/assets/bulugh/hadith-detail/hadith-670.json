@@ -1,0 +1,264 @@
+{
+  "hadithId": 670,
+  "hadithNo": 23,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/23"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح موقوفا، وضعيف مرفوعا. رواه أحمد (2/33)، وأبو داود (3354)، والنسائي (4582)، والترمذي (1242)، وابن ماجه (2262)، والحاكم (2/44). والحديث من طريق سماك بن حرب وفيه اضطراب في رفعه، والصحيح أنه موقوف على ابن عمر كما ذكر البيهقي والترمذي.",
+    "urdu": "یہ روایت مرفوعاً ضعیف ہے لیکن موقوفاً (ابن عمر کے قول کے طور پر) صحیح ہے۔ اسے احمد، ابوداؤد، نسائی، ترمذی اور ابن ماجہ نے روایت کیا ہے۔ حاکم نے اسے صحیح کہا ہے مگر امام ترمذی اور بیہقی کے نزدیک اس کا موقوف ہونا زیادہ صحیح ہے۔",
+    "english": "Sahih as a Mauquf narration, but weak as a Marfu' (attributed to the Prophet). Reported by Ahmad, Abu Dawud, an-Nasa'i, at-Tirmidhi, and Ibn Majah. Al-Hakim graded it Sahih, but other experts like at-Tirmidhi noted the interruption in the chain and preferred the Mauquf status."
+  },
+  "importantWords": [
+    {
+      "arabic": "الدَّنَانِيرِ",
+      "english": "Gold Coins (Dinars)",
+      "urdu": "دینار (سونے کے سکے)"
+    },
+    {
+      "arabic": "الدَّرَاهِمَ",
+      "english": "Silver Coins (Dirhams)",
+      "urdu": "درہم (چاندی کے سکے)"
+    },
+    {
+      "arabic": "بِسِعْرِ يَوْمِهَا",
+      "english": "At the rate of the day",
+      "urdu": "اس دن کے ریٹ کے مطابق"
+    },
+    {
+      "arabic": "تَتَفَرَّقَا",
+      "english": "Separate from each other",
+      "urdu": "ایک دوسرے سے جدا ہوں"
+    },
+    {
+      "arabic": "لَا بَأْسَ",
+      "english": "There is no harm",
+      "urdu": "کوئی حرج نہیں"
+    },
+    {
+      "arabic": "أُعْطِي",
+      "english": "I give",
+      "urdu": "میں دیتا ہوں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کرنسی کے تبادلے (صرف) کا اصول بیان کیا گیا ہے کہ اگر ایک کرنسی میں سودا ہو اور دوسری میں ادائیگی کرنی ہو تو وہ اس دن کے موجودہ ریٹ پر ہونی چاہیے اور ادائیگی فوری ہونی چاہیے۔",
+    "english": "This Hadith explains the principle of currency exchange (Sarf), stating that if a deal is made in one currency and paid in another, it must be at the day's market rate and finalized on the spot."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    },
+    {
+      "arabic": "سنن النسائي، كتاب البيوع",
+      "english": "Sunan an-Nasa'i, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح موقوف",
+    "english": "Sahih Mauquf"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کرنسی کے تبادلے کے اصول",
+        "english": "Principles of Currency Exchange"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فوری ادائیگی کی شرط",
+              "english": "Condition of Immediate Payment"
+            },
+            "content": {
+              "urdu": [
+                "کرنسی کے تبادلے میں سودے کی جگہ سے جدا ہونے سے پہلے ادائیگی ضروری ہے۔",
+                "اگر ایک فریق رقم دے دے اور دوسرا ادھار کرے تو یہ سود (ربا) بن سکتا ہے۔",
+                "اسلامی معیشت میں نقد تبادلہ شفافیت اور عدل کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "In currency exchange, payment must be finalized before parties separate.",
+                "If one party pays and the other delays, it can lead to usury (Riba).",
+                "Immediate exchange ensures transparency and justice in the Islamic economy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مارکیٹ ریٹ کی پابندی",
+              "english": "Adherence to Market Rate"
+            },
+            "content": {
+              "urdu": [
+                "تبادلہ اسی دن کے موجودہ مارکیٹ ریٹ (قیمتِ حاضرہ) پر ہونا چاہیے۔",
+                "پرانے یا مستقبل کے ریٹ پر تبادلہ کرنا ناجائز اور ناانصافی ہے۔",
+                "اس سے دونوں فریقین کسی بھی اچانک معاشی نقصان سے محفوظ رہتے ہیں۔"
+              ],
+              "english": [
+                "The exchange must occur at the current market rate of that specific day.",
+                "Using old or future rates is invalid and considered unjust in trade.",
+                "This protects both parties from any sudden economic fluctuation or loss."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیع الصرف کا مفہوم",
+              "english": "Concept of Bay' al-Sarf"
+            },
+            "content": {
+              "urdu": [
+                "سونے اور چاندی (یا مختلف کرنسیوں) کے تبادلے کو بیع الصرف کہتے ہیں۔",
+                "اس میں 'یداً بید' (ہاتھوں ہاتھ) کی شرط سب سے اہم بنیاد ہے۔",
+                "کسی بھی قسم کی تاخیر اس عقد کو شرعی لحاظ سے فاسد کر دیتی ہے۔"
+              ],
+              "english": [
+                "The exchange of gold and silver (or different currencies) is called Bay' al-Sarf.",
+                "The condition of 'hand-to-hand' exchange is its most critical foundation.",
+                "Any delay in this transaction renders the contract legally void in Sharia."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذمے باقی نہ رہنے کی شرط",
+              "english": "No Outstanding Balance"
+            },
+            "content": {
+              "urdu": [
+                "جدا ہونے سے پہلے تمام حساب کتاب مکمل ہو جانا ضروری ہے۔",
+                "اگر کچھ رقم باقی رہ جائے تو وہ حصہ 'ربا النسیئہ' کے زمرے میں آ سکتا ہے۔",
+                "اسلامی تجارت میں مالی ذمہ داریوں کی فوری تکمیل پر زور دیا گیا ہے۔"
+              ],
+              "english": [
+                "All accounts must be cleared before the two parties part ways.",
+                "Any remaining balance could fall under 'Riba al-Nasi'ah' (interest by delay).",
+                "Islamic trade emphasizes the immediate fulfillment of financial obligations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اطلاق",
+        "english": "Modern Day Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فارن ایکسچینج (منی چینجر)",
+              "english": "Foreign Exchange (Money Changers)"
+            },
+            "content": {
+              "urdu": [
+                "منی چینجر سے ڈالر یا دیگر کرنسی لیتے وقت اسی وقت لین دین کریں۔",
+                "کرنسی کی بکنگ کروا کر رقم بعد میں لینا شرعی اصولوں کے خلاف ہے۔",
+                "جدید بینکنگ میں ڈیجیٹل ٹرانسفر بھی فوری ہونے کی صورت میں جائز ہے۔"
+              ],
+              "english": [
+                "When exchanging dollars or other currencies, the trade must be instant.",
+                "Booking a currency and paying later violates Islamic financial principles.",
+                "Digital transfers in modern banking are valid if execution is immediate."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سونے کی خرید و فروخت",
+              "english": "Buying and Selling Gold"
+            },
+            "content": {
+              "urdu": [
+                "سونے کے زیورات کے بدلے نقد رقم کا لین دین بھی اسی اصول پر ہے۔",
+                "ریٹ کا تعین وقتِ سودا ہونا چاہیے اور قبضہ بھی اسی وقت ضروری ہے۔",
+                "پرانے سونے کے بدلے نئے سونے میں وزن اور نقد ادائیگی کا خیال رکھیں۔"
+              ],
+              "english": [
+                "Exchanging gold jewelry for cash follows the same spot-trade rule.",
+                "Rates must be fixed at the deal time, and possession must be immediate.",
+                "Exchanging old gold for new requires care regarding weight and cash."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و اخلاقی سبق",
+        "english": "Educational and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تجارت میں شفافیت",
+              "english": "Transparency in Trade"
+            },
+            "content": {
+              "urdu": [
+                "اسلام تاجروں کو ہر قسم کے ابہام سے بچنے کی تلقین کرتا ہے۔",
+                "صاف ستھری تجارت معاشرے میں معاشی استحکام کا باعث بنتی ہے۔",
+                "صحیح علم ہی تاجر کو غیر دانستہ طور پر سود میں پڑنے سے بچاتا ہے۔"
+              ],
+              "english": [
+                "Islam exhorts traders to avoid all forms of ambiguity in business.",
+                "Clean and clear trade leads to economic stability within the society.",
+                "Proper knowledge protects a trader from unintentionally falling into usury."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کا طرزِ عمل",
+              "english": "The Conduct of Companions"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابن عمر رضی اللہ عنہ اپنی تجارت کے چھوٹے مسائل بھی پوچھتے تھے۔",
+                "دین کو اپنی دنیاوی ضرورتوں اور کاروبار پر مقدم رکھنا صحابہ کا شیوہ تھا۔",
+                "ہمیں بھی اپنے مالی معاملات کو شریعت کے مطابق ڈھالنے کی فکر کرنی چاہیے۔"
+              ],
+              "english": [
+                "Ibn 'Umar (RA) consulted the Prophet even on minor trade matters.",
+                "Prioritizing religion over worldly business was the way of the Companions.",
+                "We should also strive to align our financial affairs with Sharia laws."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

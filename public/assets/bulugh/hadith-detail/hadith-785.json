@@ -1,0 +1,259 @@
+{
+  "hadithId": 785,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/785"],
+    "kitabId": 7,
+    "inKitabBab": 17,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 58
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه مسلم ( 1631 )‏. وأخرجه النسائي (3651)، والترمذي (1376)، وأبو داود (2880)، وأحمد (8844).",
+    "urdu": "صحیح۔ اسے امام مسلم (1631) نے روایت کیا ہے۔ اس کے علاوہ نسائی، ترمذی، ابوداؤد اور احمد نے بھی اپنی کتب میں اسے درج کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1631). Also reported by An-Nasa'i, At-Tirmidhi, Abu Dawud, and Ahmad. This is a foundational Hadith regarding the benefits that reach the deceased."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِنْقَطَعَ",
+      "english": "Ceases / Cut off",
+      "urdu": "منقطع ہو جانا"
+    },
+    {
+      "arabic": "صَدَقَةٍ جَارِيَةٍ",
+      "english": "Ongoing Charity",
+      "urdu": "صدقہ جاریہ"
+    },
+    {
+      "arabic": "يُنْتَفَعُ بِهِ",
+      "english": "Is Benefited From",
+      "urdu": "اس سے نفع حاصل کیا جائے"
+    },
+    {
+      "arabic": "وَلَدٍ صَالَحٍ",
+      "english": "Righteous Child",
+      "urdu": "نیک اولاد"
+    },
+    {
+      "arabic": "يَدْعُو لَهُ",
+      "english": "Prays for him",
+      "urdu": "اس کے لیے دعا کرے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بتاتی ہے کہ موت کے بعد انسان کے اپنے اعمال تو رک جاتے ہیں، لیکن تین چیزیں (صدقہ جاریہ، نفع بخش علم اور نیک اولاد) ایسی ہیں جن کا اجر قبر میں بھی پہنچتا رہتا ہے۔",
+    "english": "This Hadith highlights three eternal investments whose rewards continue even after death: continuous charity, beneficial knowledge, and a righteous child who prays for the parents."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1631)",
+      "english": "Reported by Muslim (1631)"
+    },
+    {
+      "arabic": "رواه النسائي (3651)",
+      "english": "Reported by An-Nasa'i (3651)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah ad-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0Z8f28T_x-o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صدقہ جاریہ کی اہمیت",
+        "english": "Significance of Sadaqah Jariyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دوامی اجر کا تصور",
+              "english": "Concept of Perpetual Reward"
+            },
+            "content": {
+              "urdu": [
+                "صدقہ جاریہ سے مراد ایسا نیک کام ہے جس کا فائدہ لوگوں کو طویل عرصے تک ملتا رہے۔",
+                "مثال کے طور پر مسجد بنانا، کنواں کھودنا، یا کوئی ہسپتال اور سرائے تعمیر کرنا۔",
+                "جب تک مخلوق اس سے نفع اٹھاتی رہے گی، بانی کو قبر میں اس کا ثواب ملتا رہے گا۔"
+              ],
+              "english": [
+                "Sadaqah Jariyah refers to a charitable act whose benefits continue for a long period.",
+                "Examples include building a mosque, digging a well, or constructing a hospital.",
+                "The reward keeps reaching the founder in the grave as long as the creation benefits from it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مال کا بہترین استعمال",
+              "english": "Best Use of Wealth"
+            },
+            "content": {
+              "urdu": [
+                "انسان کا حقیقی مال وہی ہے جو اس نے اللہ کی راہ میں آگے بھیج دیا ہو۔",
+                "وقف کرنا اور فلاحی منصوبوں میں حصہ لینا مال میں برکت اور ثواب میں اضافے کا سبب ہے۔",
+                "یہ دنیا فانی ہے مگر اللہ کے لیے کیا گیا کام ہمیشہ زندہ رہتا ہے۔"
+              ],
+              "english": [
+                "Man's true wealth is what he sends ahead for the Hereafter in Allah's path.",
+                "Making endowments (Waqf) leads to blessings in wealth and increased rewards.",
+                "This world is temporary, but deeds done for Allah remain forever."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفع بخش علم کی برکات",
+        "english": "Blessings of Beneficial Knowledge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علم کی اشاعت",
+              "english": "Dissemination of Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "کسی کو دین سکھانا یا ایسی کتاب لکھنا جس سے لوگ ہدایت پائیں، عظیم صدقہ ہے۔",
+                "آج کے دور میں مفید تعلیمی ویڈیوز اور دینی مضامین بھی اسی زمرے میں آتے ہیں۔",
+                "علم ایک ایسی روشنی ہے جو پھیلانے والے کے جانے کے بعد بھی قائم رہتی ہے۔"
+              ],
+              "english": [
+                "Teaching religion or writing a book that guides people is a great act of charity.",
+                "In modern times, useful educational videos and religious articles fall under this.",
+                "Knowledge is a light that continues to shine even after the teacher has passed away."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استفادہ کی شرط",
+              "english": "Condition of Benefit"
+            },
+            "content": {
+              "urdu": [
+                "اجر اس وقت ملتا ہے جب علم سے لوگ عملی طور پر فائدہ اٹھا کر اپنی زندگی سنواریں۔",
+                "شر اور گمراہی پھیلانے والا علم اجر کے بجائے وبال کا باعث بن سکتا ہے۔",
+                "اس لیے ہمیشہ حق کی تبلیغ اور مفید دنیاوی و دینی تعلیم کو ترجیح دیں۔"
+              ],
+              "english": [
+                "The reward is attained when people practically benefit and improve their lives through that knowledge.",
+                "Knowledge that spreads evil or misguidance can become a burden instead of a reward.",
+                "Therefore, always prioritize preaching the truth and useful worldly and religious education."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نیک اولاد: والدین کے لیے اثاثہ",
+        "english": "Righteous Children: An Asset for Parents"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اولاد کی تربیت کی اہمیت",
+              "english": "Importance of Raising Children"
+            },
+            "content": {
+              "urdu": [
+                "نیک اولاد والدین کے لیے قبر میں بلندیِ درجات کا سب سے بڑا ذریعہ ہے۔",
+                "اولاد کا ہر نیک عمل والدین کے نامہ اعمال میں بھی لکھا جاتا ہے کیونکہ وہ ان کی کمائی ہیں۔",
+                "صالح اولاد کی تربیت کرنا درحقیقت اپنی آخرت کی سرمایہ کاری کرنا ہے۔"
+              ],
+              "english": [
+                "Righteous children are the greatest means of elevating a parent's rank in the grave.",
+                "Every good deed of the child is recorded for the parents as they are the child's nurturers.",
+                "Raising righteous children is, in fact, an investment for one's own Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کی طاقت",
+              "english": "The Power of Prayer"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں خاص طور پر اولاد کی 'دعا' کا ذکر کیا گیا ہے جو والدین کی مغفرت کرواتی ہے۔",
+                "موت کے بعد والدین کو جو تحفہ پہنچایا جا سکتا ہے وہ دعا اور صدقہ ہے۔",
+                "اولاد کو چاہیے کہ وہ اپنی زندگی میں والدین کے لیے کثرت سے استغفار کریں۔"
+              ],
+              "english": [
+                "The Hadith specifically mentions the 'child's prayer' which brings forgiveness for parents.",
+                "The best gifts one can send to parents after their death are prayers and charity.",
+                "Children should frequently seek Allah's forgiveness for their parents throughout their lives."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موت کی تیاری",
+              "english": "Preparation for Death"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو چاہیے کہ وہ اپنی زندگی میں کوئی ایسا کام چھوڑ جائے جو اس کی وفات کے بعد جاری رہے۔",
+                "وقت اور مال کو ایسے کاموں میں لگائیں جو صرف دنیا تک محدود نہ رہیں۔",
+                "یہ حدیث ہمیں نا امیدی کے بجائے مسلسل محنت اور خیر کی ترغیب دیتی ہے۔"
+              ],
+              "english": [
+                "A person should leave behind a legacy that continues to benefit others after their death.",
+                "Invest time and wealth in projects that are not limited to this world alone.",
+                "This Hadith encourages continuous effort and goodness instead of hopelessness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ترجیحات کا تعین",
+              "english": "Setting Priorities"
+            },
+            "content": {
+              "urdu": [
+                "حقیقی کامیابی یہ ہے کہ انسان کا نامہ اعمال موت کے بعد بھی کھلا رہے۔",
+                "دنیاداری کے ساتھ ساتھ آخرت کے بینک اکاؤنٹ میں بھی نیکیوں کا ذخیرہ جمع کریں۔",
+                "اپنے گھر والوں اور معاشرے کے لیے نفع بخش انسان بننے کی کوشش کریں۔"
+              ],
+              "english": [
+                "Real success is when a person's record of deeds remains open even after death.",
+                "Alongside worldly pursuits, accumulate a store of virtues in the Hereafter's account.",
+                "Strive to become a beneficial human being for your family and society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

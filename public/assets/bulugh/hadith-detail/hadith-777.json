@@ -1,0 +1,259 @@
+{
+  "hadithId": 777,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/777"],
+    "kitabId": 7,
+    "inKitabBab": 16,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 57
+  },
+
+  "takhreej": {
+    "arabic": "حديث صحيح.‏ رواه أبو داود (3073)، والترمذي (1378)، والنسائي في الكبرى (5748). والحديث له شواهد كثيرة تقويه من حديث جابر وعائشة وغيرهم.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (3073)، ترمذی (1378) اور نسائی نے روایت کیا ہے۔ اس کے مختلف شواہد موجود ہیں جو اس کی صحت کی تائید کرتے ہیں۔",
+    "english": "Sahih Hadith. Reported by Abu Dawud (3073), At-Tirmidhi (1378), and An-Nasa'i. It has numerous supporting narrations from Jabir and Aishah."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَحْيَا",
+      "english": "Revived / Brought to life",
+      "urdu": "زندہ کیا / آباد کیا"
+    },
+    {
+      "arabic": "أَرْضاً مَيْتَةً",
+      "english": "Dead land",
+      "urdu": "مردہ زمین / بنجر زمین"
+    },
+    {
+      "arabic": "فَهِيَ لَهُ",
+      "english": "It belongs to him",
+      "urdu": "پس وہ اسی کی ہے"
+    },
+    {
+      "arabic": "مُرْسَلاً",
+      "english": "Mursal (Disconnected chain)",
+      "urdu": "مرسل (تابعی کا بلا واسطہ قول)"
+    },
+    {
+      "arabic": "الرَّاجِحُ",
+      "english": "Predominant / Correct view",
+      "urdu": "راجح / وزنی قول"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بنجر اور لاوارث زمین کو آباد کرنے پر اس کی ملکیت حاصل ہونے کے شرعی ضابطے کو بیان کرتی ہے تاکہ زمین کارآمد بنے۔",
+    "english": "This Hadith establishes the legal principle that reviving barren, unclaimed land grants the person ownership to encourage productivity."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (3073)",
+      "english": "Reported by Abu Dawud (3073)"
+    },
+    {
+      "arabic": "رواه الترمذي (1378)",
+      "english": "Reported by At-Tirmidhi (1378)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سعيد بن زيد",
+        "english": "Sa'id bin Zaid"
+      },
+      "slug": "said-bin-zaid"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kq692mQ0k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "احیاء الموات کا تصور",
+        "english": "The Concept of Ihya al-Mawat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردہ زمین کی تعریف",
+              "english": "Definition of Dead Land"
+            },
+            "content": {
+              "urdu": [
+                "ایسی بنجر زمین جس کا کوئی مالک نہ ہو اور نہ ہی وہ کسی بستی کے مفاد (راستے یا چراگاہ) کے لیے ہو۔",
+                "اسے زندہ کرنے کا مطلب اس میں پانی لانا، باڑ لگانا یا اسے کاشت کے قابل بنانا ہے۔",
+                "اسلامی معیشت میں زمین کو بیکار چھوڑنے کے بجائے اسے پیداواری بنانے پر زور دیا گیا ہے۔"
+              ],
+              "english": [
+                "Dead land refers to barren land with no owner and no communal utility like paths or pastures.",
+                "Reviving it means bringing water, fencing, or making it suitable for cultivation.",
+                "Islamic economics emphasizes making land productive rather than leaving it idle."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ملکیت کا حق",
+              "english": "Right of Ownership"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص ایسی زمین پر محنت کرتا ہے، شریعت اسے اس کا جائز مالک قرار دیتی ہے۔",
+                "یہ قانون غریب اور محنت کش افراد کو اپنی جائیداد بنانے کا موقع فراہم کرتا ہے۔",
+                "اس سے زمین کے وسائل کا بہتر استعمال یقینی بنایا جاتا ہے۔"
+              ],
+              "english": [
+                "The Shariah recognizes the person who puts labor into such land as its rightful owner.",
+                "This law provides an opportunity for hardworking individuals to build their own property.",
+                "It ensures the better utilization of land resources."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں اور ابحاث",
+        "english": "Juristic Nuances and Discussions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجازتِ حاکم کی بحث",
+              "english": "The Ruler's Permission Debate"
+            },
+            "content": {
+              "urdu": [
+                "امام ابو حنیفہ کے نزدیک زمین آباد کرنے کے لیے حکومت کی پیشگی اجازت ضروری ہے۔",
+                "دیگر ائمہ کے نزدیک حدیث کا حکم عام ہے اور بغیر اجازت بھی ملکیت ثابت ہو جاتی ہے۔",
+                "تاہم، معاشرتی نظم و ضبط اور جھگڑوں سے بچنے کے لیے حکومتی رجسٹریشن کو ترجیح دی جاتی ہے۔"
+              ],
+              "english": [
+                "According to Imam Abu Hanifa, prior government permission is necessary to revive land.",
+                "Other Imams believe the Prophetic command is general and ownership is fixed even without permission.",
+                "However, government registration is preferred to maintain social order and avoid disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آباد کرنے کی حد",
+              "english": "Limits of Revival"
+            },
+            "content": {
+              "urdu": [
+                "صرف زمین گھیر لینا کافی نہیں بلکہ اسے باقاعدہ فائدہ مند بنانا ضروری ہے۔",
+                "اگر کوئی زمین گھیر کر تین سال تک اسے آباد نہ کرے تو اس کا حق ختم ہو جاتا ہے۔",
+                "یہ اصول اجارہ داری (Monopoly) کو روکنے کے لیے وضع کیا گیا ہے۔"
+              ],
+              "english": [
+                "Simply demarcating land is not enough; it must be made functional and beneficial.",
+                "If someone claims land but fails to revive it within three years, their right is forfeited.",
+                "This principle is designed to prevent land monopolies."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی اور سماجی حکمت",
+        "english": "Economic and Social Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پیداواری صلاحیت میں اضافہ",
+              "english": "Boosting Productivity"
+            },
+            "content": {
+              "urdu": [
+                "اس قانون کے ذریعے بنجر علاقوں میں زراعت اور رہائش کو فروغ ملتا ہے۔",
+                "یہ قومی پیداوار میں اضافے اور اشیاء خوردونوش کی فراہمی کا ذریعہ ہے۔",
+                "اسلامی ریاست کا معاشی ماڈل زمین کی گردش اور استعمال پر مبنی ہے۔"
+              ],
+              "english": [
+                "This law promotes agriculture and housing in previously barren areas.",
+                "It acts as a means to increase national production and food supply.",
+                "The Islamic economic model is based on the circulation and utilization of land."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سماجی عدل",
+              "english": "Social Justice"
+            },
+            "content": {
+              "urdu": [
+                "یہ قانون جاگیردارانہ نظام کے خلاف ایک متوازن حل پیش کرتا ہے۔",
+                "زمین صرف بڑے مالکان تک محدود نہیں رہتی بلکہ محنت کرنے والے کو بھی مل جاتی ہے۔",
+                "یہ اسلام کے 'محنت میں عظمت' کے تصور کی عملی تصویر ہے۔"
+              ],
+              "english": [
+                "This law offers a balanced solution against feudalistic systems.",
+                "Land does not remain restricted to wealthy owners but reaches those who work it.",
+                "It is a practical illustration of Islam's concept of 'dignity in labor'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وسائل کا صحیح استعمال",
+              "english": "Proper Resource Management"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو اپنے پاس موجود وسائل اور وقت کو ضائع ہونے سے بچانا چاہیے۔",
+                "بنجر زمینوں یا خالی جگہوں کو پودے لگا کر یا تعمیر کر کے کارآمد بنائیں۔",
+                "قدرت کے عطیہ کردہ وسائل کی قدر کرنا اور انہیں آباد کرنا ثواب کا کام ہے۔"
+              ],
+              "english": [
+                "A Muslim should protect available resources and time from being wasted.",
+                "Revive barren lands or empty spaces by planting trees or building on them.",
+                "Valuing and developing resources provided by nature is a rewarding act."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانون کی پابندی",
+              "english": "Obedience to Law"
+            },
+            "content": {
+              "urdu": [
+                "زمین آباد کرتے وقت عوامی مفاد اور دوسرے کے حقوق کا خیال رکھیں۔",
+                "سرکاری زمینوں یا چراگاہوں پر ناجائز قبضہ کرنے سے بچیں۔",
+                "اپنے معاملات کو دستاویزی شکل دیں تاکہ آئندہ نسلوں کے لیے الجھن نہ ہو۔"
+              ],
+              "english": [
+                "When reviving land, consider the public interest and the rights of others.",
+                "Avoid unlawful occupation of state lands or public pastures.",
+                "Document your dealings to ensure no confusion for future generations."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

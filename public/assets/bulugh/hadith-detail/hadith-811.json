@@ -1,0 +1,259 @@
+{
+  "hadithId": 811,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/811"],
+    "kitabId": 7,
+    "inKitabBab": 20,
+    "arabicBook": "بلوغ المرام",
+    "babId": 61
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (4/131)، وأبو داود (2899)، والنسائي في الكبرى (4/76)، وابن ماجه (2738)، وابن حبان (1225)، والحاكم (4/344).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابوداؤد، نسائی اور ابن ماجہ نے روایت کیا ہے، نیز ابن حبان اور حاکم نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (4/131), Abu Dawud (2899), An-Nasa'i in Al-Kubra (4/76), Ibn Majah (2738), Ibn Hibban (1225), and Al-Hakim (4/344)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْخَالُ",
+      "english": "Maternal uncle",
+      "urdu": "ماموں"
+    },
+    {
+      "arabic": "وَارِثُ",
+      "english": "Heir / Inheritor",
+      "urdu": "وارث"
+    },
+    {
+      "arabic": "لَا وَارِثَ",
+      "english": "No heir",
+      "urdu": "کوئی وارث نہیں"
+    },
+    {
+      "arabic": "يَعْقِلُ",
+      "english": "Pays blood money",
+      "urdu": "خون بہا ادا کرتا ہے"
+    },
+    {
+      "arabic": "أَخْرَجَهُ",
+      "english": "Extracted / Reported it",
+      "urdu": "اسے روایت کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ اگر کسی میت کا کوئی قریبی وارث (اصحاب الفروض یا عصبہ) نہ ہو تو ذوی الارحام (جیسے ماموں) وراثت کے حقدار بنتے ہیں۔",
+    "english": "This Hadith proves that when a deceased person has no primary heirs (fixed or agnates), then distant kindred (Dhu al-Arham) like the maternal uncle inherit the estate."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2899)",
+      "english": "Sunan Abu Dawud (2899)"
+    },
+    {
+      "arabic": "مسند أحمد (17178)",
+      "english": "Musnad Ahmad (17178)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "المقدام بن معدي كرب",
+        "english": "Al-Miqdam bin Ma'di Karib"
+      },
+      "slug": "al-miqdam-bin-madi-karib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ذوی الارحام کی وراثت",
+        "english": "Inheritance of Distant Kindred"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ماموں کا بطور وارث مقام",
+              "english": "Maternal Uncle as an Heir"
+            },
+            "content": {
+              "urdu": [
+                "جب میت کا کوئی قرآنی وارث یا عصبہ رشتہ دار نہ ہو تو ماموں وارث بنتا ہے۔",
+                "ماموں 'ذوی الارحام' میں شامل ہے، یعنی وہ رشتہ دار جو ماں کے واسطے سے ہوں۔",
+                "یہ حدیث اس بات کی دلیل ہے کہ خاندان کے دور کے رشتوں کو بھی محروم نہیں کیا گیا۔"
+              ],
+              "english": [
+                "When there is no fixed Quranic heir or agnate relative, the maternal uncle inherits.",
+                "The maternal uncle is part of 'Dhu al-Arham,' relatives connected through the mother.",
+                "This Hadith serves as proof that even distant family ties are recognized in inheritance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وراثت اور ذمہ داری کا توازن",
+              "english": "Balance of Inheritance and Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون میں جہاں سے وراثت آتی ہے وہیں مالی ذمہ داری بھی عائد ہوتی ہے۔",
+                "ماموں اگر وارث بنتا ہے تو وہ میت کی طرف سے دیت (خون بہا) کی ادائیگی میں بھی حصہ دار ہے۔",
+                "یہ نظام حقوق اور فرائض کے درمیان ایک بہترین توازن قائم کرتا ہے۔"
+              ],
+              "english": [
+                "In Islamic law, where inheritance is received, financial responsibility is also imposed.",
+                "If the maternal uncle inherits, he also shares the burden of paying blood money (Diyah) for the deceased.",
+                "This system establishes a perfect balance between rights and obligations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب کی آراء",
+        "english": "Views of Juristic Schools"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام ابو حنیفہ اور امام احمد کا موقف",
+              "english": "Stance of Imam Abu Hanifa and Imam Ahmad"
+            },
+            "content": {
+              "urdu": [
+                "احناف اور حنابلہ کے نزدیک ذوی الارحام (ماموں، خالہ وغیرہ) وارث بنتے ہیں۔",
+                "ان کے نزدیک بیت المال کو مال دینے سے بہتر ہے کہ قریبی رشتہ دار کو دیا جائے۔",
+                "یہ حدیث ان ائمہ کے موقف کے لیے ایک مضبوط نص اور دلیل ہے۔"
+              ],
+              "english": [
+                "Hanafis and Hanbalis hold that distant kindred like maternal uncles and aunts inherit.",
+                "They believe it is better to give the estate to relatives than to the public treasury (Bayt al-Mal).",
+                "This Hadith serves as a strong primary text and evidence for their position."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر فقہاء کی رائے",
+              "english": "Opinions of Other Jurists"
+            },
+            "content": {
+              "urdu": [
+                "امام مالک اور امام شافعی کے نزدیک ذوی الارحام وارث نہیں بنتے۔",
+                "ان کے نزدیک اگر قریبی وارث نہ ہو تو مال بیت المال (اسلامی خزانہ) میں جائے گا۔",
+                "تاہم بعد کے دور میں شافعی فقہاء نے بھی احناف کے قول پر فتویٰ دینا شروع کیا۔"
+              ],
+              "english": [
+                "According to Imams Malik and Shafi'i, distant kindred do not inherit as a rule.",
+                "They believe if no primary heirs exist, the estate goes to the public treasury (Bayt al-Mal).",
+                "However, later Shafi'i scholars also began issuing fatwas based on the Hanafi view."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی فوائد",
+        "english": "Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی ہمدردی کا فروغ",
+              "english": "Promoting Family Sympathy"
+            },
+            "content": {
+              "urdu": [
+                "ماموں کو وارث قرار دینے سے ننھیال کے ساتھ تعلقات میں مضبوطی آتی ہے۔",
+                "یہ حکم اس بات کو یقینی بناتا ہے کہ میت کا مال اس کے اپنوں میں ہی رہے۔",
+                "اس سے خاندان کے اندر بے سہارا افراد کی کفالت کا نظام خود بخود بنتا ہے۔"
+              ],
+              "english": [
+                "Declaring the maternal uncle an heir strengthens ties with the mother's side of the family.",
+                "This ruling ensures that the deceased's wealth remains among their own kin.",
+                "It automatically creates a support system for vulnerable individuals within the family."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محرومی کا خاتمہ",
+              "english": "Ending Deprivation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کسی بھی قریبی خونی رشتے کو کلی طور پر محروم نہیں کرنا چاہتا۔",
+                "اگرچہ ماموں کا حصہ قرآن میں طے نہیں، مگر سنت نے اسے تسلیم کیا ہے۔",
+                "یہ وراثت کی تقسیم میں وسعت اور رحمت کی ایک روشن مثال ہے۔"
+              ],
+              "english": [
+                "Islam does not intend to totally deprive any close blood relative of inheritance.",
+                "Although the maternal uncle's share isn't fixed in the Quran, the Sunnah recognizes it.",
+                "This is a brilliant example of the breadth and mercy within the distribution of inheritance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت",
+        "english": "Practical Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صلہ رحمی کی اہمیت",
+              "english": "Importance of Family Ties"
+            },
+            "content": {
+              "urdu": [
+                "ماموں اور خالہ کے ساتھ حسن سلوک کرنا ایمان کا تقاضا ہے۔",
+                "ان کے حقوق کو سمجھنا اور ان کا احترام کرنا ہر مسلمان پر لازم ہے۔",
+                "وراثت کے یہ قوانین ہمیں اپنے رشتہ داروں کی قدر کرنا سکھاتے ہیں۔"
+              ],
+              "english": [
+                "Being kind to maternal uncles and aunts is a requirement of faith.",
+                "Understanding and respecting their rights is obligatory for every Muslim.",
+                "These inheritance laws teach us to value and appreciate our relatives."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی علم کی ضرورت",
+              "english": "Need for Shariah Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کے پچیدہ مسائل کے لیے ماہرینِ فن اور مستند علماء سے مشورہ کریں۔",
+                "اپنی مرضی سے وراثت بانٹنا حدود اللہ کی خلاف ورزی ہو سکتا ہے۔",
+                "دینی احکامات پر عمل پیرا ہونا ہی دنیا اور آخرت کی کامیابی ہے۔"
+              ],
+              "english": [
+                "Consult experts and authentic scholars for complex inheritance issues.",
+                "Distributing inheritance based on personal whims can violate the limits of Allah.",
+                "Adhering to religious commands is the key to success in this world and the hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

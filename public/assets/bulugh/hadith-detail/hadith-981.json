@@ -1,0 +1,272 @@
+{
+  "hadithId": 981,
+  "hadithNo": 7,
+  
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/125"],
+    "inKitab": 8,
+    "inKitabBab": 10,
+    "arabicBook": "بلوغ المرام - كتاب النكاح",
+    "chapterId": 981
+  },
+  "takhreej": {
+    "arabic": "ضعيف مرفوعاً وصحيح موقوفاً. رواه البيهقي (7 /431)، وأصله في مسلم (1480) من حديث فاطمة بنت قيس.",
+    "urdu": "مرفوع طور پر ضعیف ہے لیکن موقوف طور پر درست ہے۔ امام بیہقی (7/431) نے اسے روایت کیا، اور اصل مفہوم صحیح مسلم (1480) میں فاطمہ بنت قیس کی روایت سے ثابت ہے۔",
+    "english": "Weak as a Marfu' narration but authentic as Mauquf. Reported by Al-Bayhaqi (7/431). The core meaning is established in Sahih Muslim (1480) via the narration of Fatima bint Qais."
+  },
+  "importantWords": [
+    {
+      "arabic": "الحامل",
+      "english": "Pregnant",
+      "urdu": "حاملہ"
+    },
+    {
+      "arabic": "المتوفى",
+      "english": "Deceased",
+      "urdu": "فوت شدہ"
+    },
+    {
+      "arabic": "نفقة",
+      "english": "Maintenance / Expenses",
+      "urdu": "خرچہ / نفقہ"
+    },
+    {
+      "arabic": "مرفوعاً",
+      "english": "Attributed to Prophet",
+      "urdu": "نبیﷺ سے منسوب"
+    },
+    {
+      "arabic": "موقوف",
+      "english": "Attributed to Companion",
+      "urdu": "صحابی کا قول"
+    },
+    {
+      "arabic": "ثقات",
+      "english": "Trustworthy narrators",
+      "urdu": "قابل اعتماد راوی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں بیان کیا گیا ہے کہ جس حاملہ عورت کا شوہر فوت ہو جائے، اس کے لیے میت کے مال سے نفقہ (خرچہ) نہیں ہے کیونکہ وہ وراثت میں حصہ دار ہوتی ہے۔",
+    "english": "The Hadith indicates that a pregnant widow is not entitled to maintenance from the estate of her deceased husband, as she is already an inheritor."
+  },
+  "references": [
+    {
+      "arabic": "رواه البيهقي في السنن الكبرى (١٥٧٩٦)",
+      "english": "Reported by Al-Bayhaqi in As-Sunan al-Kubra (15796)"
+    },
+    {
+      "arabic": "رواه مسلم (١٤٨٠)",
+      "english": "Reported by Muslim (1480)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "فاطمة بنت قيس",
+        "english": "Fatima bint Qais"
+      },
+      "slug": "fatima-bint-qais"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0eD3y-uE",
+  "grade": {
+    "arabic": "صحيح بشواهده",
+    "english": "Sahih (Authentic due to corroborating evidence)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسئلہ اور نفقہ",
+        "english": "Legal Rulings and Maintenance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیوہ کا نفقہ",
+              "english": "Widow's Maintenance"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک بیوہ کے لیے میت کے مال سے نفقہ واجب نہیں ہے۔",
+                "نفقہ کے بجائے بیوہ کو شوہر کی وراثت میں سے اس کا مقررہ حصہ ملتا ہے۔",
+                "یہ حکم اس صورت میں ہے جب شوہر کی وفات ہو چکی ہو۔"
+              ],
+              "english": [
+                "Majority of scholars state maintenance is not obligatory for a widow from the estate.",
+                "Instead of maintenance, the widow receives her fixed share from the inheritance.",
+                "This ruling specifically applies to cases where the marriage ends due to death."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حاملہ بیوہ کا معاملہ",
+              "english": "Case of a Pregnant Widow"
+            },
+            "content": {
+              "urdu": [
+                "حاملہ بیوہ کے نفقہ کے بارے میں اہل علم کے درمیان اختلاف پایا جاتا ہے۔",
+                "امام شافعی اور احمد کے نزدیک حاملہ بیوہ کو بھی نفقہ نہیں ملتا۔",
+                "ان کی دلیل یہ ہے کہ حمل کا خرچہ بھی وراثت میں شامل ہو جاتا ہے۔"
+              ],
+              "english": [
+                "There is a difference of opinion regarding the maintenance of a pregnant widow.",
+                "Imams Shafi'i and Ahmad hold that she is not entitled to separate maintenance.",
+                "Their evidence suggests that the fetus's needs are covered via inheritance shares."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی اسنادی حیثیت",
+        "english": "Status of the Hadith Chain"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرفوع اور موقوف کا فرق",
+              "english": "Difference between Marfu and Mauquf"
+            },
+            "content": {
+              "urdu": [
+                "مرفوع وہ حدیث ہے جو براہ راست نبیﷺ کے قول کے طور پر منسوب ہو۔",
+                "موقوف وہ بات ہے جو صحابی کے اپنے قول کے طور پر مروی ہو۔",
+                "امام بیہقی نے اس روایت کے موقوف ہونے کو زیادہ درست قرار دیا ہے۔"
+              ],
+              "english": [
+                "Marfu refers to a narration directly attributed to the Prophet (ﷺ).",
+                "Mauquf refers to a statement attributed only to a Companion (RA).",
+                "Al-Bayhaqi preferred the view that this specific narration is Mauquf."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فاطمہ بنت قیس کی روایت",
+              "english": "Narration of Fatima bint Qais"
+            },
+            "content": {
+              "urdu": [
+                "فاطمہ بنت قیس کی صحیح مسلم والی روایت اس مسئلے میں بنیادی دلیل ہے۔",
+                "اس میں صراحت ہے کہ مطلقہ ثلاثہ کے لیے نفقہ نہیں اگر وہ حاملہ نہ ہو۔",
+                "یہاں وفات والی عورت پر قیاس کرتے ہوئے نفقہ کی نفی کی گئی ہے۔"
+              ],
+              "english": [
+                "The narration of Fatima bint Qais in Sahih Muslim is a primary evidence.",
+                "It specifies no maintenance for a triply divorced woman if not pregnant.",
+                "By analogy, the negation is extended to a widow as she inherits."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "میراث اور سکنیٰ",
+        "english": "Inheritance and Housing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رہائش کا حق (سکنیٰ)",
+              "english": "Right of Housing (Sukna)"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ نفقہ واجب نہیں، لیکن عدت کے دوران رہائش کا حق ثابت ہے۔",
+                "بیوہ اپنے شوہر کے گھر میں چار ماہ دس دن کی عدت گزارے گی۔",
+                "یہ رہائش کا حق نفقہ (کھانے پینے) کے خرچے سے مختلف ہے۔"
+              ],
+              "english": [
+                "While maintenance isn't obligatory, the right to housing during Iddah is established.",
+                "The widow must spend her Iddah (4 months 10 days) in her husband's home.",
+                "The right to housing is distinct from the daily living expenses (Nafaqah)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی نظام وراثت",
+              "english": "Islamic Inheritance System"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے بیوہ کو وراثت میں آٹھواں یا چوتھا حصہ دیا ہے۔",
+                "یہ مستقل مالی تحفظ نفقہ کے عارضی خرچے سے بہتر ہے۔",
+                "حاملہ ہونے کی صورت میں بچے کا حصہ بھی وراثت میں محفوظ ہوتا ہے۔"
+              ],
+              "english": [
+                "Islam grants the widow a fixed 1/8th or 1/4th share of the inheritance.",
+                "This permanent financial security is superior to temporary maintenance.",
+                "In case of pregnancy, the child's share is also protected in the estate."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق کی پہچان",
+              "english": "Recognizing Rights"
+            },
+            "content": {
+              "urdu": [
+                "شریعت کے بتائے ہوئے حدود کے مطابق مالی معاملات طے کرنے چاہئیں۔",
+                "بیوہ کو اس کی میراث کا حصہ فوری اور مکمل دینا ضروری ہے۔",
+                "غلط فہمیوں سے بچنے کے لیے صحیح احادیث کا علم حاصل کرنا چاہیے۔"
+              ],
+              "english": [
+                "Financial matters should be settled according to Sharia boundaries.",
+                "It is necessary to give the widow her inheritance share promptly.",
+                "One must seek knowledge of authentic Hadith to avoid misconceptions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "یتیم کی کفالت",
+              "english": "Sponsorship of Orphans"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ بیوہ کا نفقہ نہیں، مگر پیدا ہونے والے بچے کی کفالت ضروری ہے۔",
+                "خاندان کے دیگر افراد پر یتیم بچے کی پرورش کی ذمہ داری آتی ہے۔",
+                "اسلامی معاشرے میں بیوہ اور یتیم کا خیال رکھنا عظیم نیکی ہے۔"
+              ],
+              "english": [
+                "While the widow has no Nafaqah, supporting the unborn child is mandatory.",
+                "The responsibility for the orphan falls upon the paternal family.",
+                "Caring for widows and orphans is a great virtue in Islamic society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

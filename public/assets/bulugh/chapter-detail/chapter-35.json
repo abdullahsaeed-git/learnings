@@ -1,0 +1,116 @@
+{
+  "chapId": 35,
+  "bookId": 5,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 568,
+    "to": 578
+  },
+  "hadiths": [
+    {
+      "id": 568,
+      "name": {
+        "arabic": "عَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - أَنَّ رَسُولَ اَللَّهِ - صلى الله عليه وسلم - قَالَ: { مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا, غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”جو شخص ایمان اور ثواب کی نیت سے رمضان کا قیام کرتا ہے اس کے پہلے گناہ معاف کر دئیے جاتے ہیں۔“ (بخاری و مسلم)",
+        "english": "Narrated Abu Hurairah (RA): Allah's Messenger (ﷺ) said: 'Whoever prays during the nights of Ramadan (Qiyam) with faith and seeking reward from Allah, his previous sins will be forgiven.' [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 569,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { كَانَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -إِذَا دَخَلَ اَلْعَشْرُ -أَيْ: اَلْعَشْرُ اَلْأَخِيرُ مِنْ رَمَضَانَ - شَدَّ مِئْزَرَهُ, وَأَحْيَا لَيْلَهُ, وَأَيْقَظَ أَهْلَهُ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا فرماتی ہیں کہ جب (رمضان کا) آخری عشرہ شروع ہو جاتا تو رسول اللہ صلی اللہ علیہ وسلم اپنی کمر کس لیتے، رات بھر جاگتے رہتے اور اپنے گھر والوں کو بھی جگاتے۔ (بخاری و مسلم)",
+        "english": "Narrated 'Aisha (RA): With the start of the last ten days of Ramadan, the Messenger of Allah (ﷺ) used to tighten his waist belt (i.e. work hard), pray all the night, and keep his family awake for prayers. [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 570,
+      "name": {
+        "arabic": "وَعَنْهَا: { أَنَّ اَلنَّبِيَّ - صلى الله عليه وسلم -كَانَ يَعْتَكِفُ اَلْعَشْرَ اَلْأَوَاخِرَ مِنْ رَمَضَانَ, حَتَّى تَوَفَّاهُ اَللَّهُ, ثُمَّ اعْتَكَفَ أَزْوَاجُهُ مِنْ بَعْدِهِ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "انہی (سیدہ عائشہ رضی اللہ عنہا) سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم رمضان کے آخری عشرہ کا اعتکاف کرتے تاآنکہ آپ صلی اللہ علیہ وسلم وفات پا گئے۔ آپ صلی اللہ علیہ وسلم کی بیویاں آپ صلی اللہ علیہ وسلم کے بعد اعتکاف کرتیں۔ (بخاری و مسلم)",
+        "english": "Narrated 'Aishah (RA): The Prophet (ﷺ) used to engage in Itikaf (seclusion in the mosque) during the last ten nights of Ramadan until he passed away; then his wives followed this practice after him. [Agreed upon]"
+      }
+    },
+
+    {
+      "id": 571,
+      "name": {
+        "arabic": "وَعَنْهَا قَالَتْ: { كَانَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -إِذَا أَرَادَ أَنْ يَعْتَكِفَ صَلَّى اَلْفَجْرَ, ثُمَّ دَخَلَ مُعْتَكَفَهُ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا ہی سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم جب اعتکاف کا ارادہ کرتے تو فجر کی نماز پڑھتے اور پھر اعتکاف کی جگہ (خیمے) میں داخل ہو جاتے۔ (بخاری و مسلم)",
+        "english": "Narrated 'Aisha (RA): When the Messenger of Allah (ﷺ) intended to observe I'tikaf, he would pray the Fajr prayer and then enter the place of his I'tikaf. [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 572,
+      "name": {
+        "arabic": "وَعَنْهَا قَالَتْ: { إِنْ كَانَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -لَيُدْخِلُ عَلَيَّ رَأْسَهُ -وَهُوَ فِي اَلْمَسْجِدِ - فَأُرَجِّلُهُ, وَكَانَ لَا يَدْخُلُ اَلْبَيْتَ إِلَّا لِحَاجَةٍ, إِذَا كَانَ مُعْتَكِفًا } مُتَّفَقٌ عَلَيْهِ, وَاللَّفْظُ لِلْبُخَارِيِّ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم اپنا سر مبارک میرے آگے کر دیتے جبکہ آپ صلی اللہ علیہ وسلم (اعتکاف کی حالت میں) مسجد میں ہوتے۔ پس میں آپ صلی اللہ علیہ وسلم کو کنگھی کرتی اور جب آپ صلی اللہ علیہ وسلم اعتکاف میں ہوتے تو آپ صلی اللہ علیہ وسلم سوائے ضروری حاجات کے گھر میں داخل نہ ہوتے۔ (بخاری و مسلم) اور یہ الفاظ بخاری کے ہیں۔",
+        "english": "Narrated 'Aishah (RA): 'When Allah's Messenger (ﷺ) was in Itikaf, he would lean his head towards me (while he was in the mosque and her room was adjacent) and I would comb his hair; and he would not enter the house except for a need (human necessity) when he was in Itikaf.' [Agreed upon; the wording is Al-Bukhari's]."
+      }
+    },
+
+    {
+      "id": 573,
+      "name": {
+        "arabic": " وَعَنْهَا قَالَتْ: { اَلسُّنَّةُ عَلَى اَلْمُعْتَكِفِ أَنْ لَا يَعُودَ مَرِيضًا, وَلَا يَشْهَدَ جِنَازَةً, وَلَا يَمَسَّ امْرَأَةً, وَلَا يُبَاشِرَهَا, وَلَا يَخْرُجَ لِحَاجَةٍ, إِلَّا لِمَا لَا بُدَّ لَهُ مِنْهُ, وَلَا اعْتِكَافَ إِلَّا بِصَوْمٍ وَلَا اعْتِكَافَ إِلَّا فِي مَسْجِدٍ جَامِعٍ } رَوَاهُ أَبُو دَاوُدَ, وَلَا بَأْسَ بِرِجَالِهِ, إِلَّا أَنَّ اَلرَّاجِحَ وَقْفُ آخِرِهِ .",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے مروی ہے کہ اعتکاف کرنے والے پر سنت ہے کہ وہ نہ کسی مریض کی بیمار پرسی کرے، نہ جنازہ میں شرکت کرے، نہ عورت کو چھوئے اور نہ ہی اس سے مباشرت کرے اور سوائے ضروری انسانی حاجات کے مسجد سے نہ نکلے اور بغیر روزے کے اعتکاف نہیں اور سوائے جامع مسجد کے اعتکاف نہ کرے۔ (ابوداؤد) اس کے راوی ثقہ ہیں لیکن راجح یہ ہے کہ اس کے آخری الفاظ موقوف ہیں۔",
+        "english": "Narrated 'Aisha (RA): The Sunnah for the one observing I'tikaf is that he should not visit the sick, nor attend a funeral, nor touch his wife (sensually), nor have intercourse with her, nor go out for any need except that which is indispensable. There is no I'tikaf except with fasting, and there is no I'tikaf except in a congregational mosque. [Reported by Abu Dawud; its narrators are reliable, but the correct view is that the last part is Mauquf]."
+      }
+    },
+
+    {
+      "id": 574,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا; أَنَّ اَلنَّبِيَّ - صلى الله عليه وسلم -قَالَ: { لَيْسَ عَلَى اَلْمُعْتَكِفِ صِيَامٌ إِلَّا أَنْ يَجْعَلَهُ عَلَى نَفْسِهِ } رَوَاهُ اَلدَّارَقُطْنِيُّ وَالْحَاكِمُ, وَالرَّاجِحُ وَقْفُهُ أَيْضًا",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ ”اعتکاف کرنے والے پر روزہ نہیں الایہ کہ وہ اسے اپنے آپ پر مقرر کر لے۔“ اسے دارقطنی اور حاکم نے روایت کیا ہے اور اس کا بھی موقوف ہونا ہی راجح ہے۔",
+        "english": "Narrated Ibn 'Abbas (RA): The Prophet (ﷺ) said: 'There is no fast (obligatory) upon the Mu'takif (the one in Itikaf) unless he makes it obligatory upon himself.' [Reported by ad-Daraqutni and al-Hakim, but the correct view is that it is Mauquf (a statement of the companion)]."
+      }
+    },
+
+    {
+      "id": 575,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا: { أَنَّ رِجَالاً مِنْ أَصْحَابِ اَلنَّبِيِّ - صلى الله عليه وسلم -أُرُوا لَيْلَةَ اَلْقَدْرِ فِي اَلْمَنَامِ, فِي اَلسَّبْعِ اَلْأَوَاخِرِ, فَقَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم - 'أَرَى رُؤْيَاكُمْ قَدْ تَوَاطَأَتْ فِي اَلسَّبْعِ اَلْأَوَاخِرِ, فَمَنْ كَانَ مُتَحَرِّيَهَا فَلْيَتَحَرَّهَا فِي اَلسَّبْعِ اَلْأَوَاخِرِ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا عبداللہ بن عمر رضی اللہ عنہما سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم کے صحابہ میں سے کچھ مردوں کو آخری سات راتوں میں شب قدر (خواب میں) دکھائی گئی۔ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”میں دیکھ رہا ہوں کہ تمہارے خواب آخری سات راتوں پر متفق ہو گئے ہیں۔ اب اگر کوئی اسے تلاش کرنا چاہے تو وہ آخری سات راتوں میں تلاش کرے۔“ (بخاری ومسلم)",
+        "english": "Narrated Ibn 'Umar (RA): Some of the companions of the Prophet (ﷺ) were shown Laylat al-Qadr in their dreams during the last seven nights (of Ramadan). The Messenger of Allah (ﷺ) said, 'I see that your dreams agree regarding the last seven nights. So, whoever wants to seek it, let him seek it in the last seven nights.'"
+      }
+    },
+
+    {
+      "id": 576,
+      "name": {
+        "arabic": "وَعَنْ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ رَضِيَ اَللَّهُ عَنْهُمَا, عَنْ اَلنَّبِيِّ - صلى الله عليه وسلم -قَالَ فِي لَيْلَةِ الْقَدْرِ: { لَيْلَةُ سَبْعٍ وَعِشْرِينَ } رَوَاهُ أَبُو دَاوُدَ, وَالرَّاجِحُ وَقْفُهُ . وَقَدْ اِخْتُلِفَ فِي تَعْيِينِهَا عَلَى أَرْبَعِينَ قَوْلًا أَوْرَدْتُهَا فِي \" فَتْحِ اَلْبَارِي \"",
+        "urdu": "سیدنا معاویہ بن ابی سفیان رضی اللہ عنہما سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے شب قدر کے بارے میں فرمایا ”وہ ستائیسویں کی رات ہے“ (ابوداؤد) اس حدیث کا موقوف ہونا زیادہ راجح ہے۔ حافظ ابن حجر فرماتے ہیں کہ شب قدر کی تعیین میں اختلاف کیا گیا ہے، اس بارے میں چالیس سے زائد اقوال ہیں۔ جنہیں میں نے فتح الباری میں نقل کیا ہے۔",
+        "english": "Narrated Mu'awiyah bin Abi Sufyan (RA): The Prophet (ﷺ) said regarding Laylat al-Qadr: 'It is the twenty-seventh night.' [Reported by Abu Dawud, and the preferred view is that it is Mauquf]. There is a difference of opinion regarding its exact timing with about forty views, which I have mentioned in 'Fath al-Bari'."
+      }
+    },
+
+    {
+      "id": 577,
+      "name": {
+        "arabic": " وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { قُلْتُ يَا رَسُولَ اَللَّهِ : أَرَأَيْتَ إِنْ عَلِمْتُ أَيَّ لَيْلَةٍ لَيْلَةُ اَلْقَدْرِ, مَا أَقُولُ فِيهَا? قَالَ: \" قُولِي: اَللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ اَلْعَفْوَ فَاعْفُ عَنِّي \" } رَوَاهُ اَلْخَمْسَةُ, غَيْرَ أَبِي دَاوُدَ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ, وَالْحَاكِمُ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا فرماتی ہیں کہ میں نے عرض کیا اے اللہ کے رسول! مجھے بتلائیں کہ اگر میں جان لوں کہ شب قدر کون سی ہے تو اس میں کیا کہوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا یہ کہو: «اللهم إنك عفو تحب العفو فاعف عني» (اے اللہ! بیشک تو معاف کرنے والا ہے، معافی کو پسند فرماتا ہے، پس مجھے معاف فرما دے)۔ اسے ابوداؤد کے علاوہ پانچوں نے روایت کیا ہے اور اسے ترمذی اور حاکم نے صحیح کہا ہے۔",
+        "english": "Narrated 'Aisha (RA): I asked, 'O Messenger of Allah! If I realize which night is Laylat al-Qadr, what should I say in it?' He (ﷺ) replied, 'You should say: O Allah, You are the One Who pardons greatly, and You love to pardon, so pardon me.' [Reported by the five except Abu Dawud; At-Tirmidhi and Al-Hakim graded it Sahih]."
+      }
+    },
+
+    {
+      "id": 578,
+      "name": {
+        "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -: { لَا تُشَدُّ اَلرِّحَالُ إِلَّا إِلَى ثَلَاثَةِ مَسَاجِدَ: اَلْمَسْجِدِ اَلْحَرَامِ, وَمَسْجِدِي هَذَا, وَالْمَسْجِدِ اَلْأَقْصَى } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا ابوسعید خدری رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”سوائے تین مسجدوں کے (کسی کے لئے خصوصی طور پر) کجاوے نہ باندھو۔ (یعنی) مسجد الحرام، میری یہ مسجد (مسجد نبوی) اور مسجد اقصی۔“ (بخاری و مسلم)",
+        "english": "Narrated Abu Sa'id al-Khudri (RA): Allah's Messenger (ﷺ) said: 'Do not undertake a journey (for the purpose of worship) except to three mosques: Al-Masjid al-Haram, this mosque of mine (Al-Masjid an-Nabawi), and Al-Masjid al-Aqsa.' [Agreed upon]."
+      }
+    }
+  ]
+}

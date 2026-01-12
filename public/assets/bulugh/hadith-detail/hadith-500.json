@@ -1,0 +1,187 @@
+{
+  "hadithId": 500,
+  "hadithNo": 18,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/abudawud:1564"
+    ],
+    "kitabId": 4,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 29
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (1564)، والدارقطني (2/105)، والحاكم (1/390). وإسناده فيه انقطاع لكنه يتقوى بشواهده، وصححه الحاكم على شرط الشيخين ووافقه الذهبي.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (1564)، دارقطنی اور حاکم نے روایت کیا ہے۔ اگرچہ اس کی سند میں انقطاع ہے، لیکن دیگر شواہد کی بنا پر یہ صحیح ہے، اور حاکم و ذہبی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Authentic. Reported by Abu Dawud (1564), ad-Daraqutni, and al-Hakim (1/390). Although its specific chain has a gap (Inqita'), it is strengthened by other narrations. Al-Hakim and adh-Dhahabi graded it Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَوْضَاحًا",
+      "english": "Ornaments / Anklets",
+      "urdu": "زیور / سفید چاندی یا سونے کا زیور"
+    },
+    {
+      "arabic": "كَنْزٌ",
+      "english": "Hoarded wealth",
+      "urdu": "خزانہ (جس کی زکوٰۃ نہ دی جائے)"
+    },
+    {
+      "arabic": "أَدَّيْتِ",
+      "english": "You paid",
+      "urdu": "تم نے ادا کر دی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا خلاصہ یہ ہے کہ وہ مال یا زیور جس کی زکوٰۃ باقاعدگی سے ادا کی جائے، وہ شرعی اصطلاح میں 'کنز' (ممنوعہ خزانہ) نہیں کہلاتا اور اس پر وہ عذاب نہیں ہوگا جو مال جمع کرنے والوں کے لیے بیان کیا گیا ہے۔",
+    "english": "The summary of this Hadith is that any wealth or jewelry on which Zakat is regularly paid is not considered 'Kanz' (forbidden hoarding), and thus it is exempt from the punishments promised for those who amass wealth without giving rights."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (1564)",
+      "english": "Sunan Abu Dawud (1564)"
+    },
+    {
+      "arabic": "المستدرك للحاكم (1/390)",
+      "english": "Al-Mustadrak al-Hakim (1/390)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم سلمة هند بنت أبي أمية",
+        "english": "Umm Salamah Hind bint Abi Umayya"
+      },
+      "slug": "umm-salamah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2fF_R_AAnM",
+  "grade": {
+    "arabic": "صحيح بشواهده",
+    "english": "Sahih (Authentic through supporting evidences)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "'کنز' کی شرعی تعریف",
+        "english": "Legal Definition of 'Kanz'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کنز کا مفہوم",
+              "english": "Meaning of Kanz"
+            },
+            "content": {
+              "urdu": [
+                "قرآن و حدیث میں 'کنز' سے مراد وہ مال ہے جس کی زکوٰۃ ادا نہ کی گئی ہو۔",
+                "صرف مال کا جمع ہونا 'کنز' نہیں ہے، بلکہ اس کا حق (زکوٰۃ) روکنا اسے جہنم کا ایندھن بناتا ہے۔",
+                "اگر کسی کے پاس پہاڑ جتنا سونا بھی ہو اور وہ زکوٰۃ دیتا ہو تو وہ گناہ گار نہیں ہے۔"
+              ],
+              "english": [
+                "In the Quran and Hadith, 'Kanz' refers specifically to wealth for which Zakat is not paid.",
+                "Simply amassing wealth is not 'Kanz'; withholding its due rights makes it a source of punishment.",
+                "Even if one possesses a mountain of gold, if Zakat is paid, it is not considered sinful hoarding."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آیتِ کنز کی تشریح",
+              "english": "Explanation of the Verse on Hoarding"
+            },
+            "content": {
+              "urdu": [
+                "سورہ التوبہ میں اللہ نے ان لوگوں کو عذاب کی وعید سنائی ہے جو سونا چاندی جمع کرتے ہیں اور اللہ کی راہ میں خرچ نہیں کرتے۔",
+                "نبی ﷺ نے اس حدیث میں واضح فرمایا کہ خرچ کرنے (زکوٰۃ دینے) سے مال اس وعید سے نکل جاتا ہے۔",
+                "یہ وضاحت مسلمانوں کے لیے معاشی اطمینان کا باعث ہے۔"
+              ],
+              "english": [
+                "In Surah At-Tawbah, Allah warns of a painful punishment for those who hoard gold and silver and do not spend it in His cause.",
+                "The Prophet (ﷺ) clarified in this Hadith that paying Zakat removes the wealth from this warning.",
+                "This clarification provides economic peace of mind for Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "زیورات اور زکوٰۃ",
+        "english": "Jewelry and Zakat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وجوبِ زکوٰۃ",
+              "english": "Obligation of Zakat"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی دلیل ہے کہ زیورات کی زکوٰۃ ادا کرنی چاہیے تاکہ وہ 'کنز' نہ بنیں۔",
+                "خواتین کے پاس موجود سونا اور چاندی اگر نصاب کو پہنچ جائے تو اس پر 2.5٪ زکوٰۃ لازم ہے۔",
+                "ام سلمہ رضی اللہ عنہا کا سوال کرنا ان کی آخرت کی فکر اور شرعی علم کی طلب کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith serves as evidence that jewelry Zakat should be paid so it does not become 'Kanz'.",
+                "If gold and silver owned by women reach the Nisab, a 2.5% Zakat is mandatory.",
+                "Umm Salamah's (RA) question reflects her concern for the Hereafter and her quest for religious knowledge."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی اور تربیتی اسباق",
+        "english": "Economic and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مال کی پاکیزگی",
+              "english": "Purification of Wealth"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ ادا کرنے سے مال ناپاکی اور گناہ سے پاک ہو جاتا ہے۔",
+                "یہ عمل انسان کے دل سے مال کی حد سے بڑھی ہوئی محبت کو نکال دیتا ہے۔",
+                "اللہ تعالیٰ زکوٰۃ دینے والوں کے مال میں برکت اور حفاظت عطا فرماتا ہے۔"
+              ],
+              "english": [
+                "Paying Zakat purifies wealth from spiritual impurity and sin.",
+                "This act removes the excessive love for material possessions from the human heart.",
+                "Allah Almighty grants barakah (blessings) and protection to the wealth of those who pay Zakat."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سائل کا مقام",
+              "english": "Role of the Inquirer"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام اپنے ہر عمل کو شریعت کے ترازو میں تولتے تھے۔",
+                "امہات المومنین خواتین کے مسائل کے حل کے لیے بہترین ذریعہ تھیں۔",
+                "علم حاصل کرنا اور شک کو دور کرنا ہر مسلمان کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "The Companions measured every action against the scales of Shariah.",
+                "The Mothers of the Believers were a primary source for resolving women's issues.",
+                "Seeking knowledge and removing doubts is the responsibility of every Muslim."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

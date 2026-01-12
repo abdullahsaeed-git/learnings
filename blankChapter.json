@@ -1,0 +1,223 @@
+{
+  "id": 1,
+  "name": {
+    "arabic": "",
+    "english": "",
+    "urdu": ""
+  },
+  "chapterSlug": "",
+  "summary": {
+    "urdu": ["bab urdu khulasa"],
+    "english": ["chapter english summary"]
+  },
+  "description": {
+    "urdu": "bab urdu tafseel",
+    "english": "chapter english description"
+  },
+
+  "hadith": [
+    {
+      "hadithNo":0 ,
+      "ourHadithNo": 0,
+      "id": 0,
+
+      "name": {
+        "arabic": "",
+
+        "english": "",
+
+        "urdu": "",
+        "takhreej": {
+          "arabic": "",
+          "english": "",
+          "urdu": ""
+        }
+      },
+      "narrators": [
+        {
+          "arabic": "",
+          "english": "",
+          "narratorSlug": ""
+        }
+      ],
+      "ytLink": "",
+      "grade": {
+        "arabic": " ",
+        "english": ""
+      },
+      "references": [
+        {
+          "arabic": "",
+          "english": ""
+        },
+        {
+          "arabic": "",
+          "english": ""
+        }
+      ],
+      "summary": {
+        "urdu": "",
+        "english": ""
+      },
+      "explanation": [
+        {
+          "sectionTitle": {
+            "urdu": "",
+            "english": ""
+          },
+          "sectionData": {
+            "points": [
+              {
+                "title": {
+                  "urdu": "",
+                  "english": ""
+                },
+                "content": {
+                  "urdu": ["", "", ""],
+                  "english": ["", "", ""]
+                }
+              },
+              {
+                "title": {
+                  "urdu": " ",
+                  "english": ""
+                },
+                "content": {
+                  "urdu": ["", "", ""],
+                  "english": ["", "", ""]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionTitle": {
+            "urdu": "",
+            "english": ""
+          },
+          "sectionData": {
+            "points": [
+              {
+                "title": {
+                  "urdu": "",
+                  "english": ""
+                },
+                "content": {
+                  "urdu": ["", "", ""],
+                  "english": ["", "", ""]
+                }
+              },
+              {
+                "title": {
+                  "urdu": " ",
+                  "english": ""
+                },
+                "content": {
+                  "urdu": ["", "", ""],
+                  "english": ["", "", ""]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionTitle": {
+            "urdu": "",
+            "english": ""
+          },
+          "sectionData": {
+            "points": [
+              {
+                "title": {
+                  "urdu": "",
+                  "english": ""
+                },
+                "content": {
+                  "urdu": ["", "", ""],
+                  "english": ["", "", ""]
+                }
+              },
+              {
+                "title": {
+                  "urdu": " ",
+                  "english": ""
+                },
+                "content": {
+                  "urdu": ["", "", ""],
+                  "english": ["", "", ""]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "sectionTitle": {
+            "urdu": "",
+            "english": ""
+          },
+          "sectionData": {
+            "points": [
+              {
+                "title": {
+                  "urdu": "",
+                  "english": ""
+                },
+                "content": {
+                  "urdu": ["", "", ""],
+                  "english": ["", "", ""]
+                }
+              },
+              {
+                "title": {
+                  "urdu": " ",
+                  "english": ""
+                },
+                "content": {
+                  "urdu": ["", "", ""],
+                  "english": ["", "", ""]
+                }
+              }
+            ]
+          }
+        }
+      ],
+      "importantWords": [
+        {
+          "arabic": "",
+          "english": "",
+          "urdu": ""
+        },
+        {
+          "arabic": "",
+          "english": "",
+          "urdu": ""
+        },
+        {
+          "arabic": "",
+          "english": "",
+          "urdu": ""
+        },
+        {
+          "arabic": "",
+          "english": "",
+          "urdu": ""
+        },
+        {
+          "arabic": "",
+          "english": "",
+          "urdu": ""
+        },
+        {
+          "arabic": "",
+          "english": "",
+          "urdu": ""
+        },
+        {
+          "arabic": "",
+          "english": "",
+          "urdu": ""
+        }
+      ]
+    }
+  ]
+}

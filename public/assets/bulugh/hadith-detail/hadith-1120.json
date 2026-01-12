@@ -1,0 +1,259 @@
+{
+  "hadithId": 1120,
+  "hadithNo": 41,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/41"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (2707)، والدارقطني (4/72)، والحاكم (2/131) وصححه ووافقه الذهبي. وأصله أن الجيش إذا احتاج إلى الطعام جاز له الأكل من الغنيمة قبل القسمة.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (2707)، دارقطنی اور حاکم نے روایت کیا ہے۔ امام حاکم نے اسے صحیح قرار دیا اور علامہ ذہبی نے ان کی موافقت کی۔ اس کی اصل یہ ہے کہ لشکر اگر ضرورت مند ہو تو تقسیم سے پہلے غنیمت سے کھانا جائز ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2707), ad-Daraqutni (4/72), and al-Hakim (2/131), who graded it Sahih, and adh-Dhahabi agreed. It establishes that the army can consume spoils for food before formal distribution if needed."
+  },
+  "importantWords": [
+    {
+      "arabic": "غَنَمًا",
+      "english": "Sheep/Goats",
+      "urdu": "بکریاں"
+    },
+    {
+      "arabic": "طَائِفَةً",
+      "english": "A portion/Group",
+      "urdu": "ایک گروہ/کچھ حصہ"
+    },
+    {
+      "arabic": "بَقِيَّتَهَا",
+      "english": "The remainder",
+      "urdu": "اس کا باقی حصہ"
+    },
+    {
+      "arabic": "الْمَغْنَمِ",
+      "english": "Spoils of war",
+      "urdu": "مالِ غنیمت"
+    },
+    {
+      "arabic": "غَزَوْنَا",
+      "english": "We fought/Went on expedition",
+      "urdu": "ہم نے غزوہ کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ میدانِ جنگ میں ضرورت کے پیشِ نظر حاکمِ وقت تقسیم سے پہلے بھی غنیمت کے کچھ حصے کو مجاہدین میں بانٹ سکتا ہے تاکہ ان کی فوری ضرورت پوری ہو سکے۔",
+    "english": "This Hadith establishes that a leader can distribute a portion of the spoils before the final division to meet the immediate needs (like food) of the soldiers."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2707)",
+      "english": "Sunan Abi Dawud (2707)"
+    },
+    {
+      "arabic": "المستدرك للحاكم (2/131)",
+      "english": "Al-Mustadrak al-Hakim (2/131)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معاذ بن جبل",
+        "english": "Mu'adh bin Jabal"
+      },
+      "slug": "muadh-bin-jabal"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تقسیم سے پہلے غنیمت کا استعمال",
+        "english": "Usage of Spoils Before Distribution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی ضرورت اور بھوک",
+              "english": "Human Need and Hunger"
+            },
+            "content": {
+              "urdu": [
+                "جنگ کے دوران اگر مجاہدین کو خوراک کی کمی کا سامنا ہو تو وہ غنیمت سے کھا سکتے ہیں۔",
+                "بکریوں کی صورت میں ملنے والا گوشت فوری توانائی کے لیے تقسیم کیا گیا تھا۔",
+                "نبی کریم ﷺ نے حالات کی نزاکت کے مطابق موقع پر ہی فیصلہ صادر فرمایا۔"
+              ],
+              "english": [
+                "If soldiers face food shortages during war, they are permitted to eat from the spoils.",
+                "The meat from the sheep was distributed to provide immediate energy to the army.",
+                "The Prophet (ﷺ) made an on-the-spot decision according to the sensitivity of the situation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام کا خصوصی اختیار",
+              "english": "Special Authority of the Leader"
+            },
+            "content": {
+              "urdu": [
+                "حاکمِ وقت مصلحت کے تحت غنیمت کے مال میں پیشگی تصرف کر سکتا ہے۔",
+                "یہ تقسیم عام تقسیم کا حصہ نہیں تھی بلکہ ایک ہنگامی ریلیف کے طور پر تھی۔",
+                "اس سے ثابت ہوتا ہے کہ اسلامی قیادت اپنے ماتحتوں کی فلاح کا خیال رکھتی ہے۔"
+              ],
+              "english": [
+                "The leader has the authority to utilize spoils prematurely based on tactical benefits.",
+                "This distribution was not the final split but served as an emergency relief measure.",
+                "It proves that Islamic leadership prioritizes the welfare of those under its command."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی ضابطے اور توازن",
+        "english": "Juristic Rules and Balance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خمس اور بقیہ مال",
+              "english": "Khums and the Remainder"
+            },
+            "content": {
+              "urdu": [
+                "ضرورت پوری کرنے کے بعد باقی مال کو سرکاری خزانے (خمس) اور لشکر کے لیے محفوظ کیا گیا۔",
+                "اسلام کسی بھی حال میں مال کے ضیاع یا لوٹ مار کی اجازت نہیں دیتا۔",
+                "بچ جانے والے اموال کا حساب رکھنا اور انہیں مرکزی غنیمت میں شامل کرنا واجب ہے۔"
+              ],
+              "english": [
+                "After immediate needs were met, the rest was kept for the state and general distribution.",
+                "Islam does not permit the wastage or indiscriminate looting of property in any case.",
+                "It is obligatory to account for remaining assets and include them in the general pool."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استعمال کی حد",
+              "english": "Limit of Usage"
+            },
+            "content": {
+              "urdu": [
+                "اجازت صرف اسی قدر ہے جس کی فوری طور پر ضرورت پیش آئے۔",
+                "مالِ غنیمت کو چھپا کر ذخیرہ کرنا یا ذاتی جائیداد بنانا حرام ہے۔",
+                "شریعت نے ضرورت اور خیانت کے درمیان ایک واضح لکیر کھینچ دی ہے۔"
+              ],
+              "english": [
+                "Permission is granted only to the extent of what is immediately required for survival.",
+                "Hiding or hoarding spoils for personal wealth is strictly forbidden in Shariah.",
+                "The law draws a clear line between fulfilling necessity and committing embezzlement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور اخلاقی پہلو",
+        "english": "Social and Moral Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حق دار کی دادرسی",
+              "english": "Addressing the Rights"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا معاذ رضی اللہ عنہ نے یہ واقعہ بیان کر کے قانون کی وضاحت فرمائی۔",
+                "مجاہدین کو ان کی محنت کا پھل موقع پر دینے سے ان کا مورال بلند ہوتا ہے۔",
+                "نبی کریم ﷺ کا اسوہِ حسنہ ہر حال میں عدل اور سخاوت پر مبنی رہا ہے۔"
+              ],
+              "english": [
+                "Mu'adh (R.A) clarified the legal stance by narrating this specific historical incident.",
+                "Rewarding soldiers with immediate needs boosts their morale and commitment to the cause.",
+                "The Prophet's (ﷺ) example remained rooted in justice and generosity under all conditions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امانت کی پاسداری",
+              "english": "Upholding Trust"
+            },
+            "content": {
+              "urdu": [
+                "باقی ماندہ مال کو غنیمت میں ڈالنا اس بات کی دلیل ہے کہ ہر چیز امانت ہے۔",
+                "صحابہ کرام نے ایک بکری کے معاملے میں بھی تقویٰ اور دیانت کا مظاہرہ کیا۔",
+                "سرکاری املاک کی حفاظت ایمان کا ایک لازمی اور اہم تقاضا ہے۔"
+              ],
+              "english": [
+                "Putting the remainder in general spoils signifies that every asset is a public trust.",
+                "The Sahaba demonstrated piety and honesty even regarding a single head of sheep.",
+                "Protecting public and state property is an essential requirement of a believer's faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بحران میں حکمتِ عملی",
+              "english": "Crisis Management"
+            },
+            "content": {
+              "urdu": [
+                "مشکل وقت میں مروجہ قوانین میں ضرورت کے مطابق لچک پیدا کی جا سکتی ہے۔",
+                "انسانی جان کی بقاء کو ضابطوں پر فوقیت حاصل ہے بشرطیکہ وہ شریعت کے خلاف نہ ہو۔",
+                "قائد کو چاہیے کہ وہ اپنے گروہ کی بنیادی ضرورتوں سے غافل نہ رہے۔"
+              ],
+              "english": [
+                "In times of crisis, rules can be applied with flexibility based on genuine necessity.",
+                "Human survival takes precedence over rigid formalities, provided it stays within Shariah.",
+                "A leader must never be heedless of the basic needs of his community or organization."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیانت داری کا فروغ",
+              "english": "Promoting Honesty"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے روزمرہ کے کاموں میں بھی امانت داری کا خیال رکھنا چاہیے۔",
+                "سرکاری یا مشترکہ مال میں سے ضرورت سے زائد لینا گناہ ہے۔",
+                "اسلامی تعلیمات ہمیں ایک دیانت دار اور شفاف معاشرے کی ترغیب دیتی ہیں۔"
+              ],
+              "english": [
+                "We must uphold honesty and integrity in our daily work and financial dealings.",
+                "Taking more than what is necessary from public or shared funds is a serious sin.",
+                "Islamic teachings urge us to build an honest, transparent, and ethical society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

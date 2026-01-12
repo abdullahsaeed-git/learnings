@@ -1,0 +1,259 @@
+{
+  "hadithId": 1075,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/10/104"],
+    "kitabId": 10,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحدود",
+    "babId": 88
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6848)، ومسلم (1708)، وأبو داود (4493)، والترمذي (1463)، والنسائي في الكبرى (7350).",
+    "urdu": "صحیح۔ اسے بخاری (6848) اور مسلم (1708) نے روایت کیا ہے۔ یہ روایت کتبِ ستہ کے دیگر مصنفین نے بھی اپنی کتب میں درج کی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (6848) and Muslim (1708). It is also recorded in Abu Dawud, At-Tirmidhi, and An-Nasa'i."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يُجْلَدُ",
+      "english": "Should not be lashed",
+      "urdu": "کوڑے نہ مارے جائیں"
+    },
+    {
+      "arabic": "فَوْقَ",
+      "english": "Above / More than",
+      "urdu": "زیادہ / اوپر"
+    },
+    {
+      "arabic": "عَشَرَةِ",
+      "english": "Ten",
+      "urdu": "دس"
+    },
+    {
+      "arabic": "أَسْوَاطٍ",
+      "english": "Lashes / Whips",
+      "urdu": "کوڑے"
+    },
+    {
+      "arabic": "حَدِّ",
+      "english": "Prescribed penalty",
+      "urdu": "شرعی حد"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تعزیری سزاؤں (جو اللہ کی مقررہ حدود نہ ہوں) کی حد بیان کی گئی ہے کہ وہ دس کوڑوں سے زیادہ نہیں ہونی چاہئیں تاکہ ظلم و زیادتی نہ ہو۔",
+    "english": "This Hadith sets a limit for discretionary punishments (Ta'zir), stating they should not exceed ten lashes unless it is a fixed penalty prescribed by Allah."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6848)",
+      "english": "Narrated by Al-Bukhari (6848)"
+    },
+    {
+      "arabic": "رواه مسلم (1708)",
+      "english": "Narrated by Muslim (1708)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو بردة الأنصاري",
+        "english": "Abu Burdah al-Ansari"
+      },
+      "slug": "abu-burdah-al-ansari"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=3g8GvYV5jV4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حد اور تعزیر میں فرق",
+        "english": "Difference Between Hadd and Ta'zir"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدود اللہ کا نفاذ",
+              "english": "Implementation of Allah's Hudud"
+            },
+            "content": {
+              "urdu": [
+                "حدود وہ سزائیں ہیں جو اللہ تعالیٰ نے قرآن و سنت میں خود مقرر فرمائی ہیں۔",
+                "ان سزاؤں میں جیسے چوری پر ہاتھ کاٹنا یا زنا پر کوڑے مارنا شامل ہیں۔",
+                "یہ سزائیں مقررہ تعداد سے کم یا زیادہ نہیں کی جا سکتیں کیونکہ یہ حقِ الٰہی ہیں۔"
+              ],
+              "english": [
+                "Hudud are punishments specifically prescribed by Allah in the Quran and Sunnah.",
+                "These include penalties like amputation for theft or flogging for adultery.",
+                "These punishments cannot be increased or decreased as they are Divine rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعزیری سزاؤں کی حدود",
+              "english": "Limits of Discretionary Penalties"
+            },
+            "content": {
+              "urdu": [
+                "تعزیر وہ سزا ہے جو حاکمِ وقت کسی ایسے جرم پر دیتا ہے جس کی حد مقرر نہیں۔",
+                "حدیث کے مطابق ایسی سزاؤں کو دس کوڑوں کے اندر محدود رکھنا چاہیے۔",
+                "یہ پابندی اس لیے لگائی گئی ہے تاکہ تعزیر حد کے برابر نہ پہنچ جائے۔"
+              ],
+              "english": [
+                "Ta'zir is a penalty given by a ruler for crimes that have no fixed Divine limit.",
+                "According to the Hadith, such punishments should be restricted within ten lashes.",
+                "This limit ensures that discretionary penalties do not rival the fixed Hudud."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدل و انصاف اور نرمی",
+        "english": "Justice and Leniency"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ظلم سے بچاؤ",
+              "english": "Prevention of Oppression"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون حاکم کو بے لگام طاقت استعمال کرنے کی اجازت نہیں دیتا۔",
+                "دس کوڑوں کی حد مقرر کرنا مجرم پر حد سے زیادہ سختی سے بچنے کا ذریعہ ہے۔",
+                "سزا کا مقصد اصلاح ہے نہ کہ مجرم کے جسم کو مکمل طور پر نقصان پہنچانا۔"
+              ],
+              "english": [
+                "Islamic law does not permit rulers to exercise unrestrained power.",
+                "The ten-lash limit prevents excessive severity towards the offender.",
+                "The goal of punishment is reformation, not the total destruction of the body."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تربیتی سزا کا تصور",
+              "english": "Concept of Disciplinary Punishment"
+            },
+            "content": {
+              "urdu": [
+                "یہ حد اساتذہ یا والدین کی طرف سے دی جانے والی تادیبی سزا پر بھی لاگو ہوتی ہے۔",
+                "بچوں کی تربیت میں سختی کرتے وقت بھی اس شرعی حد کا خیال رکھنا چاہیے۔",
+                "اسلام ہر معاملے میں میانہ روی اور انصاف کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "This limit also applies to disciplinary actions by teachers or parents.",
+                "Sharia boundaries must be respected even when disciplining children.",
+                "Islam teaches moderation and fairness in every aspect of life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی آراء اور تشریح",
+        "english": "Juristic Opinions and Interpretation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علماء کے درمیان اختلاف",
+              "english": "Disagreement Among Scholars"
+            },
+            "content": {
+              "urdu": [
+                "کچھ فقہاء کے نزدیک بڑی تعزیری سزاؤں میں دس سے زیادہ کوڑے بھی جائز ہیں۔",
+                "تاہم، امام احمد اور دیگر کے نزدیک اس حدیث پر عمل کرنا واجب ہے۔",
+                "احتیاط اسی میں ہے کہ بلا ضرورت شرعی حد کو پار نہ کیا جائے۔"
+              ],
+              "english": [
+                "Some jurists believe more than ten lashes are allowed for major Ta'zir offenses.",
+                "However, Imam Ahmad and others deem it obligatory to follow this Hadith.",
+                "Caution lies in not exceeding the Prophetic limit without Sharia necessity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سزا کے نفاذ کا طریقہ",
+              "english": "Method of Executing Punishment"
+            },
+            "content": {
+              "urdu": [
+                "کوڑے مارتے وقت اعضاءِ رئیسہ (چہرہ، سر) کو بچانا لازمی ہے۔",
+                "سزا دیتے وقت کوڑا درمیانی درجے کا ہونا چاہیے، نہ بہت سخت نہ بہت نرم۔",
+                "سزا دینے والے کو غصے کے بجائے حکمِ الٰہی کی تعمیل کی نیت رکھنی چاہیے۔"
+              ],
+              "english": [
+                "Vitals (face, head) must be protected while executing lashes.",
+                "The whip should be of moderate intensity—neither too harsh nor too soft.",
+                "The executioner must act out of obedience to Allah, not out of personal rage."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی فوائد",
+        "english": "Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکومتی نظم و ضبط",
+              "english": "Governmental Discipline"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث پولیس اور انتظامیہ کے لیے واضح حدود متعین کرتی ہے۔",
+                "یہ شہریوں کو حاکمین کے ذاتی غصے اور زیادتی سے تحفظ فراہم کرتی ہے۔",
+                "قانون کی حکمرانی اسلامی ریاست کا بنیادی ستون ہے۔"
+              ],
+              "english": [
+                "This Hadith defines clear boundaries for police and administration.",
+                "It protects citizens from the personal anger and excesses of authorities.",
+                "The rule of law is a fundamental pillar of an Islamic state."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اصلاحِ احوال",
+              "english": "Reformation of Conduct"
+            },
+            "content": {
+              "urdu": [
+                "کم سزا بھی بعض اوقات بڑے جرم سے روکنے کے لیے کافی ہوتی ہے۔",
+                "سزا کا مقصد مجرم کو معاشرے سے کاٹنا نہیں بلکہ واپس لانا ہے۔",
+                "نرمی اور سختی کا حسین امتزاج ہی معاشرتی امن کی ضمانت ہے۔"
+              ],
+              "english": [
+                "Minor punishments are often sufficient to deter larger crimes.",
+                "The aim of punishment is to reintegrate the criminal, not alienate them.",
+                "A balanced mix of leniency and firmness ensures social peace."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

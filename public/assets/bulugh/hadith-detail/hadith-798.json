@@ -1,0 +1,254 @@
+{
+  "hadithId": 798,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/798"],
+    "kitabId": 7,
+    "inKitabBab": 18,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 59
+  },
+ 
+  "takhreej": {
+    "arabic": "لا يصح رفعه. رواه الحاكم (2/52) مرفوعاً، والمحفوظ أنه موقوف على عمر بن الخطاب رضي الله عنه، كما رواه مالك في الموطأ (2/754) بسند صحيح.",
+    "urdu": "اسے نبی ﷺ کی طرف منسوب کرنا (مرفوعاً) درست نہیں۔ امام حاکم نے اسے مرفوع ذکر کیا ہے، لیکن صحیح یہ ہے کہ یہ حضرت عمر رضی اللہ عنہ کا موقوف قول ہے، جیسا کہ امام مالک نے موطا میں اسے صحیح سند کے ساتھ نقل کیا ہے۔",
+    "english": "Its attribution to the Prophet (ﷺ) is not authentic. Al-Hakim reported it as Marfu', but the preserved (Mahfuz) version is that it is a Mauquf statement of Umar bin al-Khattab, as reported by Malik in Al-Muwatta with a Sahih chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَحَقُّ",
+      "english": "More rightful / entitled",
+      "urdu": "زیادہ حقدار"
+    },
+    {
+      "arabic": "يُثَبْ",
+      "english": "Rewarded / Recompensed",
+      "urdu": "بدلہ دیا جائے"
+    },
+    {
+      "arabic": "الْمَحْفُوظُ",
+      "english": "The preserved / stronger version",
+      "urdu": "صحیح اور مستند قول"
+    },
+    {
+      "arabic": "هِبَةً",
+      "english": "A gift / donation",
+      "urdu": "ہبہ / تحفہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اس فقہی مسئلے کی طرف اشارہ کرتی ہے کہ اگر کوئی شخص اس نیت سے ہدیہ دے کہ اسے بدلہ ملے گا (ہبہ ثواب)، تو بدلہ نہ ملنے کی صورت میں وہ اپنی چیز واپس لینے کا حق رکھتا ہے۔",
+    "english": "This Hadith points to the legal issue that if a person gives a gift expecting a return (Hiba bi-shart al-Iwad), they retain the right to take it back as long as they have not received compensation."
+  },
+  "references": [
+    {
+      "arabic": "المستدرك للحاكم (2/52)",
+      "english": "Al-Mustadrak by Al-Hakim (2/52)"
+    },
+    {
+      "arabic": "الموطأ للإمام مالك (2/754)",
+      "english": "Al-Muwatta by Imam Malik (2/754)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjI8_GfLpIs",
+  "grade": {
+    "arabic": "صحيح موقوفاً",
+    "english": "Sahih as a Mauquf statement (Saying of a Companion)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ہبہ اور واپسی کا حق",
+        "english": "Gifts and the Right of Revocation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عوض کی شرط پر ہبہ",
+              "english": "Gift Based on Compensation"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص کسی کو اس نیت سے تحفہ دے کہ اسے بدلہ ملے گا، تو اسے 'ہبہ ثواب' کہا جاتا ہے۔",
+                "جب تک لینے والا اسے بدلہ (ثواب) نہ دے دے، دینے والے کا اس چیز پر حق باقی رہتا ہے۔",
+                "یہ اصول خاص طور پر ان معاملات میں لاگو ہوتا ہے جہاں معاشرتی طور پر تبادلے کا عرف پایا جائے۔"
+              ],
+              "english": [
+                "If a person gives a gift expecting something in return, it is known as 'Hiba Thawab'.",
+                "As long as the recipient has not provided compensation, the giver retains a claim over the item.",
+                "This principle applies especially in transactions where social custom dictates an exchange."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صدقہ اور ہدیہ میں فرق",
+              "english": "Difference Between Charity and Gifts"
+            },
+            "content": {
+              "urdu": [
+                "جو ہبہ خالص اللہ کی رضا (صدقہ) یا رشتہ داری (صلہ رحمی) کے لیے ہو، اس میں رجوع کی گنجائش نہیں ہوتی۔",
+                "اس حدیث کا حکم ان تحائف کے لیے ہے جو دنیاوی نفع یا تبادلے کی غرض سے دیے جائیں۔",
+                "اسلامی قانون میں نیت کی بنیاد پر احکام تبدیل ہو جاتے ہیں۔"
+              ],
+              "english": [
+                "A gift given purely for Allah's sake (Sadaqah) or family ties (Silah al-Rahim) cannot be revoked.",
+                "The ruling of this Hadith applies to gifts given for worldly benefit or exchange.",
+                "In Islamic law, rulings change based on the intention behind the act."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حضرت عمر رضی اللہ عنہ کا فقہی اجتہاد",
+        "english": "Juristic Reasoning of Umar (RA)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا تحفظ",
+              "english": "Protecting Justice and Equity"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر کے قول سے واضح ہوتا ہے کہ کسی کا مال دھوکے یا خاموشی سے ہتھیانا جائز نہیں۔",
+                "اگر لینے والے کو معلوم ہو کہ دینے والا بدلے کی امید رکھتا ہے، تو اسے بدلہ دینا چاہیے یا ہبہ قبول نہیں کرنا چاہیے۔",
+                "یہ اصول مالی معاملات میں شفافیت اور دیانتداری کو فروغ دیتا ہے۔"
+              ],
+              "english": [
+                "Umar's statement clarifies that acquiring someone's wealth through deception or silence is not allowed.",
+                "If the recipient knows the giver expects a return, they should reciprocate or decline the gift.",
+                "This principle promotes transparency and integrity in financial dealings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی توازن",
+              "english": "Social Balance"
+            },
+            "content": {
+              "urdu": [
+                "لوگوں کے درمیان لین دین میں رضامندی بنیادی شرط ہے۔",
+                "بدلہ نہ ملنے کی صورت میں دینے والے کو جو ذہنی اذیت ہوتی ہے، شریعت اسے دور کرنا چاہتی ہے۔",
+                "یہ قانون غریبوں اور کمزوروں کو معاشی استحصال سے بچانے میں مددگار ثابت ہوتا ہے۔"
+              ],
+              "english": [
+                "Mutual consent is a fundamental condition for transactions among people.",
+                "Shariah aims to alleviate the distress a giver feels when their expectation of return is not met.",
+                "This law helps protect the poor and weak from economic exploitation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات اور اطلاق",
+        "english": "Juristic Details and Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رجوع کی حدود",
+              "english": "Limits of Revocation"
+            },
+            "content": {
+              "urdu": [
+                "اگر موہوب لہ (لینے والا) اس چیز میں کوئی بڑی تبدیلی کر لے، تو واپسی کا حق ختم ہو جاتا ہے۔",
+                "اسی طرح اگر وہ چیز کسی دوسرے کو بیچ دی جائے، تب بھی رجوع نہیں ہو سکتا۔",
+                "رجوع صرف اس وقت تک ممکن ہے جب تک چیز اپنی اصل حالت میں موجود ہو۔"
+              ],
+              "english": [
+                "If the recipient makes a significant change to the item, the right of revocation ends.",
+                "Similarly, if the item is sold to a third party, it cannot be reclaimed.",
+                "Revocation is only possible as long as the item remains in its original state."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوش اخلاقی اور ہبہ",
+              "english": "Noble Character and Gifting"
+            },
+            "content": {
+              "urdu": [
+                "ایک مومن کا بلند اخلاق یہ ہے کہ وہ تحفہ دے کر بدلے کی تمنا نہ رکھے۔",
+                "ہدیہ خالصتاً محبت کے اظہار کے لیے ہونا چاہیے، اسے تجارت کا رنگ نہیں دینا چاہیے۔",
+                "بدلہ دینا لینے والے کی اخلاقی ذمہ داری ہے تاکہ دینے والے کی قدر دانی ہو سکے۔"
+              ],
+              "english": [
+                "High moral character for a believer is to give without longing for a return.",
+                "A gift should purely be an expression of love, not turned into a business transaction.",
+                "Reciprocating is a moral responsibility of the receiver to show appreciation to the giver."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت کی صفائی",
+              "english": "Clarity of Intention"
+            },
+            "content": {
+              "urdu": [
+                "جب بھی کسی کو کچھ دیں، اپنی نیت پہلے سے واضح کر لیں کہ یہ تحفہ ہے یا تجارت۔",
+                "نیت کی وضاحت بعد کے جھگڑوں اور بدمزگی سے بچاتی ہے۔",
+                "اللہ کے لیے دی گئی چیز میں پچھتاوا نہیں ہونا چاہیے۔"
+              ],
+              "english": [
+                "Whenever giving something, clarify your intention beforehand: is it a gift or a trade?",
+                "Clarifying intentions prevents future disputes and ill feelings.",
+                "There should be no regret in what is given for the sake of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احسان کا بدلہ دینا",
+              "english": "Repaying Kindness"
+            },
+            "content": {
+              "urdu": [
+                "اگر آپ کو کوئی تحفہ ملے، تو اپنی استطاعت کے مطابق کچھ نہ کچھ ضرور واپس کریں۔",
+                "اگر مال سے بدلہ نہ دے سکیں، تو کم از کم دل سے شکریہ اور دعا دیں۔",
+                "نبی ﷺ کی سنت احسان کا بدلہ احسان سے دینے کی ترغیب دیتی ہے۔"
+              ],
+              "english": [
+                "If you receive a gift, try to return something according to your capacity.",
+                "If you cannot return wealth, at least offer sincere gratitude and prayers.",
+                "The Sunnah of the Prophet (ﷺ) encourages repaying kindness with kindness."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

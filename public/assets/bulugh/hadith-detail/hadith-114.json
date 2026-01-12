@@ -1,0 +1,278 @@
+{
+  "hadithId": 114,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["1:114"],
+    "kitabId": 1,
+    "inKitabBab": 9,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 9
+  },
+
+  "takhreej": {
+    "arabic": "صحيح لغيره. موقوف ابن عباس صحيح، ورفعه ضعيف. والموقوف رواه الدار قطني (177/9). والمرفوع رواه ابن خزيمة (272)، والحاكم (165).",
+    "urdu": "صحیح لغیرہ (دیگر شواہد کی بنا پر صحیح) ہے۔ ابن عباس کا موقوف قول صحیح ہے، جبکہ مرفوع روایت ضعیف ہے۔ موقوف کو دارقطنی (177/9) نے روایت کیا ہے۔ اور مرفوع کو ابن خزیمہ (272) اور حاکم (165) نے روایت کیا ہے۔",
+    "english": "Sahih Li Ghairihi (Authentic due to external evidence). The Mawquf (statement of Ibn Abbas) is Sahih, but the Marfu' (traced to the Prophet) is weak. The Mawquf was reported by Ad-Daraqutni (177/9). The Marfu' was reported by Ibn Khuzaymah (272) and Al-Hakim (165)."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَرْضَى",
+      "english": "Ill/Sick",
+      "urdu": "بیمار"
+    },
+    {
+      "arabic": "اَلْجِرَاحَةُ",
+      "english": "Wound/Injury",
+      "urdu": "زخم"
+    },
+    {
+      "arabic": "اَلْقُرُوحُ",
+      "english": "Sores/Ulcers",
+      "urdu": "گھاؤ"
+    },
+    {
+      "arabic": "فَيُجْنِبُ",
+      "english": "He becomes Junub (ritually impure)",
+      "urdu": "اسے جنابت لاحق ہو جائے"
+    },
+    {
+      "arabic": "يَخَافُ",
+      "english": "He fears",
+      "urdu": "وہ ڈرتا ہے"
+    },
+    {
+      "arabic": "اِغْتَسَلَ",
+      "english": "He performs Ghusl (ritual bath)",
+      "urdu": "اس نے غسل کیا"
+    },
+    {
+      "arabic": "تَيَمَّمَ",
+      "english": "He performs Tayammum",
+      "urdu": "وہ تیمم کرے"
+    },
+    {
+      "arabic": "مَوْقُوفًا",
+      "english": "Mawquf (stopped at Companion)",
+      "urdu": "موقوف"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ روایت ابن عباس رضی اللہ عنہما کے قول پر مبنی ہے، جو یہ واضح کرتی ہے کہ اگر کسی شخص کو شدید زخم یا بیماری ہو اور وہ غسلِ جنابت کرے تو جان کو خطرہ ہو، تو ایسے عذر کی صورت میں وہ غسل کے بجائے تیمم کر سکتا ہے۔",
+    "english": "This narration, primarily a saying of Ibn Abbas, clarifies that if a person has severe wounds or sickness and fears death upon performing the obligatory ritual bath (Ghusl) due to Janabah (major impurity), he is allowed to perform Tayammum (dry ablution) instead."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني موقوفاً",
+      "english": "Reported by Ad-Daraqutni as Mawquf"
+    },
+    {
+      "arabic": "رَفَعَهُ اَلْبَزَّارُ",
+      "english": "Transmitted as Marfu' by Al-Bazzar"
+    },
+    {
+      "arabic": "صَحَّحَهُ اِبْنُ خُزَيْمَةَ",
+      "english": "Graded Sahih by Ibn Khuzaymah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 11401,
+      "name": {
+        "arabic": "عَبْدُ اَللَّهِ بْنُ عَبَّاسٍ",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Authentic due to external evidence (Sahih Li Ghairihi)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تیمم کا جواز برائے غسل",
+        "english": "Permissibility of Tayammum for Ghusl"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنابت میں پانی سے خطرہ",
+              "english": "Danger from Water During Janabah"
+            },
+            "content": {
+              "urdu": [
+                "حدیث واضح کرتی ہے کہ جنابت کی حالت میں بھی شدید بیماری یا زخم کی وجہ سے غسل نہ کرنے کی رخصت ہے۔",
+                "اگر غسل کرنے سے زخم خراب ہونے یا جان جانے کا خطرہ ہو تو تیمم کیا جائے گا۔",
+                "یہ اصول شریعت کی آسانی اور جان کی حفاظت کی تعلیم کو اجاگر کرتا ہے۔"
+              ],
+              "english": [
+                "The Hadith clarifies the concession to omit Ghusl (ritual bath) due to severe sickness or wounds, even in a state of Janabah.",
+                "If performing Ghusl poses a risk of worsening the wound or causing death, Tayammum should be performed.",
+                "This principle highlights the ease of Sharia and the protection of life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرآنی آیت کا اطلاق",
+              "english": "Application of the Qur'anic Verse"
+            },
+            "content": {
+              "urdu": [
+                "ابن عباس رضی اللہ عنہما نے سورۃ النساء کی آیت (وَإِنْ كُنْتُمْ مَرْضَى...) کی تشریح فرمائی۔",
+                "انہوں نے 'مرضیٰ' (بیمار) میں ایسے زخموں والے کو شامل کیا جو پانی سے نقصان اٹھا سکتے ہیں۔",
+                "یہ صحابہ کرام کا قرآن و سنت کے نصوص سے فقہی مسائل کا استنباط سکھاتا ہے۔"
+              ],
+              "english": [
+                "Ibn Abbas (RA) explained the Qur'anic verse (Surah An-Nisa, 4:43) concerning the sick and travelers.",
+                "He included a person with wounds, who would be harmed by water, under the category of 'ill'.",
+                "This teaches the Companions' method of deriving juristic rulings from the texts of the Qur'an and Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جان کی حفاظت کا اصول",
+        "english": "Principle of Protecting Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضرر کو ٹالنا",
+              "english": "Averting Harm"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کا ایک بڑا اصول یہ ہے کہ ضرر (نقصان) کو جہاں تک ممکن ہو دور کیا جائے۔",
+                "پاکیزگی حاصل کرنے سے جان کے خطرے کو ترجیح دی جاتی ہے۔",
+                "جب پانی کے استعمال سے ضرر کا شدید اندیشہ ہو تو اس سے بچنے کی اجازت ہے۔"
+              ],
+              "english": [
+                "A major principle in Islam is to avert harm (Darar) as much as possible.",
+                "The preservation of life is prioritized over the attainment of physical purity.",
+                "Permission is granted to avoid using water when its use poses a serious risk of harm."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحت کی بنیاد پر رخصت",
+              "english": "Concession Based on Health"
+            },
+            "content": {
+              "urdu": [
+                "بیماری اور زخم کو نماز چھوڑنے کی بجائے متبادل ذریعہ (تیمم) اختیار کرنے کی بنیاد بنایا گیا۔",
+                "تیمم صحت یاب ہونے تک فرض کو ادا کرنے کا ذریعہ ہے۔",
+                "یہ شریعت کی عملیت اور حالات کے مطابق احکام میں لچک کو دکھاتا ہے۔"
+              ],
+              "english": [
+                "Sickness and wounds are made a basis for adopting an alternative means (Tayammum) instead of abandoning the prayer.",
+                "Tayammum serves as a means to fulfill the obligation until recovery.",
+                "This demonstrates the practicality of Sharia and its flexibility according to circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اطلاقات",
+        "english": "Juristic Applications"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جزوی زخم کا حکم",
+              "english": "Ruling for Partial Wounds"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء اس حدیث سے یہ مسئلہ اخذ کرتے ہیں کہ اگر غسل کے کچھ حصوں میں زخم ہو تو باقی حصوں کو دھویا جائے گا۔",
+                "صرف زخم والے حصے پر پانی سے بچنے اور اس کی جگہ تیمم کرنے کی اجازت ہے۔",
+                "اگر پورے جسم پر پانی کا استعمال ممکن نہ ہو تو پورے غسل کی جگہ تیمم کیا جائے گا۔"
+              ],
+              "english": [
+                "Jurists deduce from this Hadith that if only parts of the body are wounded, the remaining sound parts must be washed.",
+                "It is permissible only to avoid water on the wounded area and perform Tayammum over it (or for the whole Ghusl if necessary).",
+                "If using water on the entire body is impossible or dangerous, Tayammum replaces the entire Ghusl."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "یقین کے بجائے خوف پر عمل",
+              "english": "Acting on Fear Instead of Certainty"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'فیخاف أن یموت' (اسے مر جانے کا اندیشہ ہو) کا ذکر ہے، یعنی محض گمان کافی ہے۔",
+                "غسل سے موت یا شدید نقصان کا غالب گمان رخصت کے لیے کافی ہے۔",
+                "یہ اصول طبی رائے اور ذاتی تجربے پر مبنی عذر کو تسلیم کرتا ہے۔"
+              ],
+              "english": [
+                "The Hadith mentions 'he fears that he will die,' meaning a strong presumption (fear) is sufficient for the concession.",
+                "A dominant fear of death or severe harm from Ghusl is enough to permit the concession.",
+                "This principle accepts an excuse based on medical advice or personal experience."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند کی حیثیت اور عبرت",
+        "english": "Status of Chain and Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موقوف اور مرفوع",
+              "english": "Mawquf and Marfu' Status"
+            },
+            "content": {
+              "urdu": [
+                "یہ روایت موقوفاً (ابن عباس کا قول) صحیح ہے اور فقہی اصول کے طور پر معتبر ہے۔",
+                "اس روایت کی مرفوع سند (نبی ﷺ تک پہنچنا) اگرچہ ضعیف ہے، مگر فقہی حکم پر اثر نہیں پڑتا۔",
+                "صحابی کا ایسا قول جس میں اجتہاد کی گنجائش نہ ہو، وہ مرفوع کے حکم میں ہوتا ہے۔"
+              ],
+              "english": [
+                "The narration, being Mawquf (statement of Ibn Abbas), is Sahih and is relied upon as a juristic principle.",
+                "Although the Marfu' chain (to the Prophet ﷺ) is weak, it does not invalidate the legal ruling.",
+                "A Companion's statement on matters where Ijtihad (independent reasoning) is unlikely often carries the weight of a Marfu' Hadith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلام کی شمولیت",
+              "english": "Comprehensiveness of Islam"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر حالت میں عبادت کو آسان بنانے کے اصول فراہم کرتا ہے۔",
+                "زخموں کی حالت میں بھی طہارت اور نماز کو ترک نہیں کیا گیا۔",
+                "بیماری یا سفر کی مشکل صورتوں میں بھی شریعت کا نظام واضح ہے۔"
+              ],
+              "english": [
+                "Islam provides principles that facilitate worship in every circumstance.",
+                "Purity and prayer are not abandoned even in the state of having wounds.",
+                "The legal system of Sharia is clear even in difficult situations of sickness or travel."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

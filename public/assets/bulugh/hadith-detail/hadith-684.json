@@ -1,0 +1,272 @@
+{
+  "hadithId": 684,
+  "hadithNo": 37,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/37"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "رواه الطبراني في الأوسط (1984)، والبيهقي (5/203). قال الحافظ ابن حجر في بلوغ المرام إسناده حسن، لكن أعله آخرون كابن حبان والذهبي بالوضع والنكارة بسبب بعض الرواة في سنده.",
+    "urdu": "اسے طبرانی نے اوسط (1984) میں روایت کیا ہے۔ حافظ ابن حجر نے اسے حسن کہا ہے، البتہ دیگر محدثین جیسے امام ذہبی اور ابن حبان نے اسے ضعیف یا منکر قرار دیا ہے۔ تاہم اس کا معنی دیگر صحیح نصوص سے ثابت ہے۔",
+    "english": "Reported by At-Tabarani in Al-Awsat (1984). While Ibn Hajar graded its chain as Hasan, others like Adh-Dhahabi and Ibn Hibban criticized it as rejected (Munkar) or fabricated due to specific narrators."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَبَسَ",
+      "english": "Withheld / Hoarded",
+      "urdu": "روک لیا / ذخیرہ کیا"
+    },
+    {
+      "arabic": "الْعِنَبَ",
+      "english": "Grapes",
+      "urdu": "انگور"
+    },
+    {
+      "arabic": "الْقِطَافِ",
+      "english": "Harvest season",
+      "urdu": "پھل توڑنے کا موسم"
+    },
+    {
+      "arabic": "خَمْراً",
+      "english": "Wine / Alcohol",
+      "urdu": "شراب"
+    },
+    {
+      "arabic": "تَقَحَّمَ",
+      "english": "Leaped / Plunged",
+      "urdu": "گر پڑا / کود گیا"
+    },
+    {
+      "arabic": "بَصِيرَةٍ",
+      "english": "Insight / Knowledge",
+      "urdu": "بصیرت / جانتے بوجھتے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کسی حلال چیز کو اس نیت سے بیچنے کی مذمت کی گئی ہے کہ وہ گناہ کے کام (شراب سازی) میں استعمال ہوگی، اور اسے جہنم میں لے جانے والا عمل قرار دیا گیا ہے۔",
+    "english": "This Hadith condemns selling permissible items with the intent that they will be used for sinful purposes (like winemaking), stating it leads to Hellfire."
+  },
+  "references": [
+    {
+      "arabic": "المعجم الأوسط للطبراني",
+      "english": "Al-Mu'jam al-Awsat by At-Tabarani"
+    },
+    {
+      "arabic": "سنن البيهقي الكبرى",
+      "english": "Sunan al-Bayhaqi al-Kubra"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "بریدة بن الحصيب الأسلمي",
+        "english": "Buraidah bin al-Husaib"
+      },
+      "slug": "buraidah-bin-al-husaib"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن بريدة",
+        "english": "Abdullah bin Buraidah"
+      },
+      "slug": "abdullah-bin-buraidah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "حسن (عند ابن حجر)",
+    "english": "Hasan (according to Ibn Hajar)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "گناہ میں تعاون کی ممانعت",
+        "english": "Prohibition of Cooperating in Sin"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت کا اثر",
+              "english": "The Impact of Intent"
+            },
+            "content": {
+              "urdu": [
+                "انگور بذاتِ خود حلال ہیں لیکن اسے شراب بنانے والے کو بیچنا حرام ہے۔",
+                "اگر بیچنے والے کو معلوم ہو کہ خریدار اس سے حرام کام لے گا تو سودا ناجائز ہے۔",
+                "اسلام میں نیت اور عمل کے انجام دونوں کی اہمیت بہت زیادہ ہے۔"
+              ],
+              "english": [
+                "Grapes are Halal, but selling them to a winemaker makes the sale Haram.",
+                "If the seller knows the buyer will use it for sin, the deal is invalid.",
+                "Islam places great importance on both intention and the outcome of actions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرآنی اصول",
+              "english": "The Quranic Principle"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کا حکم ہے کہ گناہ اور زیادتی کے کاموں میں ایک دوسرے کی مدد نہ کرو۔",
+                "شراب سازی میں انگور فراہم کرنا صریحاً گناہ میں تعاون ہے۔",
+                "ایسا مال کمانا برکت سے خالی ہوتا ہے اور عذاب کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "The Quran commands: 'Do not cooperate in sin and transgression.'",
+                "Providing grapes for wine is direct assistance in a forbidden act.",
+                "Earning such wealth is devoid of blessing and results in punishment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سدِ ذریعہ (برائی کا راستہ روکنا)",
+        "english": "Sadd al-Dhara'i (Closing Loopholes)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شراب کی لعنت",
+              "english": "The Curse of Alcohol"
+            },
+            "content": {
+              "urdu": [
+                "شراب کے بارے میں دس افراد پر لعنت بھیجی گئی ہے جن میں سپلائر بھی شامل ہے۔",
+                "جو شخص اس کے خام مال کی تجارت کرتا ہے وہ بھی اس گناہ میں شریک ہے۔",
+                "معاشرے سے نشہ کے خاتمے کے لیے سپلائی لائن کا کاٹنا ضروری ہے۔"
+              ],
+              "english": [
+                "Ten types of people are cursed regarding wine, including the supplier.",
+                "He who trades in the raw materials for wine shares in the overall sin.",
+                "Cutting the supply line is essential for eradicating intoxicants from society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بصیرت کے ساتھ جہنم",
+              "english": "Hellfire with Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'بصیرت' کا لفظ استعمال ہوا ہے یعنی جان بوجھ کر گناہ کرنا۔",
+                "ایسا شخص سزا کا زیادہ حقدار ہے جو انجام جانتے ہوئے حرام کی طرف بڑھے۔",
+                "یہ وعید تاجروں کو مالی لالچ کے مقابلے میں ایمان کی حفاظت کی طرف بلاتی ہے۔"
+              ],
+              "english": [
+                "The word 'Basirah' signifies committing a sin with full awareness.",
+                "One who knowingly pursues Haram is more deserving of punishment.",
+                "This warning calls traders to protect faith over worldly financial greed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور تجارت",
+        "english": "Juristic Aspects of Trade"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تجارت کی شرائط",
+              "english": "Conditions of Trade"
+            },
+            "content": {
+              "urdu": [
+                "تجارت صرف ان چیزوں کی ہونی چاہیے جن کا استعمال شرعاً جائز ہو۔",
+                "اگر کوئی شے دو رخی ہو تو اس کے غلط استعمال کا علم سودے کو روک دیتا ہے۔",
+                "مسلمان تاجر کو صرف منافع نہیں بلکہ اللہ کی رضا دیکھنی چاہیے۔"
+              ],
+              "english": [
+                "Trade should only involve items that are religiously permissible to use.",
+                "If an item is dual-use, knowing its misuse voids the permissibility of sale.",
+                "A Muslim trader must look for Allah's pleasure, not just monetary profit."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذخیرہ اندوزی اور نیت",
+              "english": "Hoarding and Intent"
+            },
+            "content": {
+              "urdu": [
+                "موسمِ کٹائی میں مال روکنا تاکہ شراب والوں کو مہنگا بیچا جائے دوہرا گناہ ہے۔",
+                "یہ عمل ذخیرہ اندوزی (احتکار) اور تعاون علی الاثم دونوں کو جمع کرتا ہے۔",
+                "ایسے مال کی قیمت کو حدیث میں صریح جہنم کا راستہ بتایا گیا ہے۔"
+              ],
+              "english": [
+                "Hoarding crops to sell them dear to winemakers is a double sin.",
+                "This combines forbidden hoarding (Ihtikar) with assisting in evil.",
+                "The price of such goods is explicitly described as a path to Hell."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کاروباری ذمہ داری",
+              "english": "Business Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں یہ دیکھنا چاہیے کہ ہمارا گاہک اس مال سے کیا کرنے والا ہے۔",
+                "اگر گاہک کی نیت بد ہو تو ایسے گاہک کو مال فراہم کرنے سے انکار کریں۔",
+                "رزقِ حلال کی برکت تھوڑے مال کو بھی بہت بنا دیتی ہے۔"
+              ],
+              "english": [
+                "We must observe how our customers intend to use the goods we sell.",
+                "If the customer's intent is evil, one should refuse to supply them.",
+                "The blessing of Halal provision makes even a small amount sufficient."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی بہبود",
+              "english": "Social Welfare"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے میں برائی پھیلانے والے کاموں کا بائیکاٹ کرنا سب پر فرض ہے۔",
+                "تاجر طبقہ برائی کے خاتمے میں بہت اہم کردار ادا کر سکتا ہے۔",
+                "ایمانداری سے کی گئی تجارت دنیا اور آخرت کی کامیابی کی ضمانت ہے۔"
+              ],
+              "english": [
+                "It is a duty upon all to boycott activities that spread evil in society.",
+                "The trading community can play a vital role in eradicating social vices.",
+                "Trade conducted with honesty is a guarantee of success in both lives."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

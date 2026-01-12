@@ -1,0 +1,259 @@
+{
+  "hadithId": 822,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/822"],
+    "kitabId": 7,
+    "inKitabBab": 21,
+    "arabicBook": "بلوغ المرام",
+    "babId": 62
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن بشواهده. رواه الدارقطني (4/150)، وأحمد (6/440)، والبزار (1382)، وابن ماجه (2709).",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر حسن ہے۔ اسے دارقطنی، احمد، بزار اور ابن ماجہ نے مختلف صحابہ (معاذ، ابودرداء، ابوہریرہ) سے روایت کیا ہے۔ انفرادی طور پر اسناد میں ضعف ہے مگر مجموعی طور پر یہ روایت مستند ہے۔",
+    "english": "Hasan due to supporting evidences. Reported by Ad-Daraqutni (4/150), Ahmad (6/440), Al-Bazzar (1382), and Ibn Majah (2709). Individually the chains have weakness, but collectively they strengthen each other."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَصَدَّقَ",
+      "english": "Gave charity / Bestowed",
+      "urdu": "صدقہ کیا / احسان فرمایا"
+    },
+    {
+      "arabic": "بِثُلُثِ",
+      "english": "With one-third",
+      "urdu": "تہائی مال کے ساتھ"
+    },
+    {
+      "arabic": "وَفَاتِكُمْ",
+      "english": "Your death",
+      "urdu": "تمہاری موت"
+    },
+    {
+      "arabic": "زِيَادَةً",
+      "english": "Increase / Addition",
+      "urdu": "اضافہ"
+    },
+    {
+      "arabic": "حَسَنَاتِكُمْ",
+      "english": "Your good deeds",
+      "urdu": "تمہاری نیکیاں"
+    }
+  ],
+  "summary": {
+    "urdu": "اللہ تعالیٰ نے انسان کو یہ رعایت دی ہے کہ وہ اپنی موت کے وقت اپنے کل مال کے تہائی حصے تک کی وصیت کر سکتا ہے تاکہ اس کے نامہ اعمال میں نیکیوں کا اضافہ ہو۔",
+    "english": "Allah has granted a concession allowing a person to bequeath up to one-third of their wealth at the time of death to increase their rewards in the afterlife."
+  },
+  "references": [
+    {
+      "arabic": "سنن ابن ماجه (2709)",
+      "english": "Sunan Ibn Majah (2709)"
+    },
+    {
+      "arabic": "مسند أحمد (22097)",
+      "english": "Musnad Ahmad (22097)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معاذ بن جبل",
+        "english": "Mu'adh bin Jabal"
+      },
+      "slug": "muadh-bin-jabal"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "حسن لغيره",
+    "english": "Hasan Lighairihi (Good due to others)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اللہ تعالیٰ کا احسان اور رعایت",
+        "english": "Allah's Mercy and Concession"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تہائی مال کی وصیت کا حق",
+              "english": "The Right of One-Third Bequest"
+            },
+            "content": {
+              "urdu": [
+                "عام حالات میں انسان اپنے مال کا مکمل مالک ہوتا ہے مگر موت کے وقت تصرف محدود ہو جاتا ہے۔",
+                "اللہ نے ورثاء کے حق کے ساتھ ساتھ مرنے والے کو تہائی مال کی وصیت کا اختیار دیا۔",
+                "یہ رعایت اس لیے دی گئی تاکہ انسان اپنی زندگی کے آخری لمحات میں نیکی کما سکے۔"
+              ],
+              "english": [
+                "Under normal conditions, a person owns their wealth fully, but at death, control is restricted.",
+                "Allah granted the deceased the right to bequeath up to one-third alongside the heirs' rights.",
+                "This concession allows a person to earn continuous rewards in their final stages of life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیکیوں میں اضافے کا ذریعہ",
+              "english": "A Means to Increase Good Deeds"
+            },
+            "content": {
+              "urdu": [
+                "وصیت کے ذریعے کیے گئے صدقات میت کے لیے قبر اور آخرت میں راحت کا سبب بنتے ہیں۔",
+                "انسان کو چاہیے کہ وہ اس شرعی رعایت کا فائدہ اٹھائے اور اللہ کی راہ میں کچھ وقف کرے۔",
+                "یہ عمل اس بات کی دلیل ہے کہ اسلام مرنے کے بعد بھی انسان کی بہتری چاہتا ہے۔"
+              ],
+              "english": [
+                "Charity given through a will provides comfort for the deceased in the grave and afterlife.",
+                "One should take advantage of this Shariah concession by dedicating something for Allah's sake.",
+                "This practice proves that Islam seeks the betterment of a person even after their passing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "وصیت کے فقہی حدود",
+        "english": "Juristic Limits of Bequests"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تہائی سے زائد کی ممانعت",
+              "english": "Prohibition of More Than One-Third"
+            },
+            "content": {
+              "urdu": [
+                "ایک تہائی سے زیادہ مال کی وصیت کرنا شرعی طور پر درست نہیں ہے الا یہ کہ ورثاء راضی ہوں۔",
+                "اس حد کا مقصد ورثاء کو معاشی طور پر پریشان حال ہونے سے بچانا ہے۔",
+                "اسلام نے انفرادی سخاوت اور خاندانی ذمہ داریوں کے درمیان ایک توازن قائم کیا ہے۔"
+              ],
+              "english": [
+                "Bequeathing more than one-third of the estate is not valid unless the heirs consent.",
+                "The purpose of this limit is to prevent heirs from facing financial distress.",
+                "Islam has established a balance between individual generosity and family responsibilities."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وصیت کس کے لیے؟",
+              "english": "Who Can Receive the Bequest?"
+            },
+            "content": {
+              "urdu": [
+                "وصیت ان لوگوں یا کاموں کے لیے ہونی چاہیے جو وراثت میں حصہ نہیں پاتے۔",
+                "وارث کے حق میں وصیت جائز نہیں کیونکہ اس کا حصہ اللہ نے خود مقرر کر دیا ہے۔",
+                "یہ مال رفاہِ عامہ، غریب رشتہ داروں یا دینی مقاصد کے لیے استعمال کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "A will should be made for those individuals or causes that do not inherit automatically.",
+                "Making a will for a legal heir is invalid because Allah fixed their share already.",
+                "This portion can be used for public welfare, poor relatives, or religious causes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سندی بحث اور حدیث کی تقویت",
+        "english": "Chain Analysis and Strength"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضعیف روایات کا اجتماع",
+              "english": "Combination of Weak Narrations"
+            },
+            "content": {
+              "urdu": [
+                "حافظ ابن حجر کے مطابق اس موضوع کی تمام انفرادی روایات میں کچھ نہ کچھ ضعف موجود ہے۔",
+                "جب ایک ہی بات مختلف صحابہ سے مروی ہو تو وہ ایک دوسرے کو تقویت دیتی ہیں۔",
+                "محدثین کے ہاں یہ اصول 'حسن لغیرہ' کہلاتا ہے جس پر عمل کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "According to Ibn Hajar, all individual narrations on this topic have some level of weakness.",
+                "When the same message is reported via multiple companions, they strengthen one another.",
+                "In Hadith science, this principle is known as 'Hasan Lighairihi,' making it actionable."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اصولِ حدیث کی اہمیت",
+              "english": "Importance of Hadith Principles"
+            },
+            "content": {
+              "urdu": [
+                "محدثین نے بڑی باریک بینی سے ان روایات کی جانچ پڑتال کر کے ان کا درجہ متعین کیا ہے۔",
+                "ضعف کے باوجود مفہوم کا صحیح ہونا اسے مقبول بناتا ہے کیونکہ یہ قرآن کے مطابق ہے۔",
+                "واللہ اعلم کہہ کر حافظ صاحب نے علمی دیانت اور عاجزی کا ثبوت دیا ہے۔"
+              ],
+              "english": [
+                "Hadith scholars meticulously examined these narrations to determine their legal grading.",
+                "Despite technical weakness, the correct meaning makes it acceptable as it aligns with the Quran.",
+                "By saying 'Allah knows best,' the author demonstrates intellectual honesty and humility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آخری وقت کی تیاری",
+              "english": "Preparation for the Final Moment"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو اپنی وصیت تحریر کر کے رکھنی چاہیے تاکہ حقوق ضائع نہ ہوں۔",
+                "نیکی کرنے کا موقع زندگی میں ہے، موت کا انتظار کرنا دانشمندی نہیں ہے۔",
+                "تہائی مال کی وصیت کر کے اپنے لیے صدقہ جاریہ کا انتظام کرنا چاہیے۔"
+              ],
+              "english": [
+                "A Muslim should have their will written down to ensure rights are not lost.",
+                "The opportunity for good deeds is during life; waiting for death is not wise.",
+                "One should arrange for Sadaqah Jariyah by bequeathing one-third of the estate."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہل و عیال کا خیال",
+              "english": "Caring for the Family"
+            },
+            "content": {
+              "urdu": [
+                "وصیت کرتے وقت یہ ذہن میں رکھیں کہ آپ کے ورثاء محتاج نہ رہ جائیں۔",
+                "اپنے اپنوں پر خرچ کرنا بھی اللہ کے ہاں پسندیدہ اور اجر کا باعث ہے۔",
+                "شریعت نے حقوق العباد اور حقوق اللہ کے درمیان بہترین توازن سکھایا ہے۔"
+              ],
+              "english": [
+                "When making a will, keep in mind that your heirs should not be left in poverty.",
+                "Spending on your own family is also beloved by Allah and carries great reward.",
+                "Shariah has taught a perfect balance between the rights of people and the rights of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

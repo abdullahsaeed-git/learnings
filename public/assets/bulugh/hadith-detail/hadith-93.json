@@ -1,0 +1,290 @@
+{
+  "hadithId": 93,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 17 (related context)"],
+    "kitabId": 1,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 7
+  },
+
+  "takhreej": {
+    "arabic": " ضعيف.  لجمعه بين الحجارة والماء، ورواه البزار (227/كشف الأستار)  صحيح.  رواه أبو داود (44) ، والترمذي (3100)  عن أبي هريرة، عن النبي صلى الله عليه وسلم قال: نزلت هذه الآية في أهل قباء: {فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا} قال: كانوا يستنجون بالماء، فنزلت فيهم هذه الآية.  قلت: وهو وإن كان ضعيف السند إلا أن له شواهد يصح بها، وقد ذكرتها في \"الأصل\".",
+    "urdu": "ضعیف (کمزور) روایت، پتھر اور پانی دونوں کے ذکر کی وجہ سے۔ اسے بزار (227/کشف الأستار) نے روایت کیا ہے۔ صحیح روایت: اسے ابو داؤد (44) اور ترمذی (3100) نے ابوہریرہ رضی اللہ عنہ سے روایت کیا ہے کہ نبی صلی اللہ علیہ وسلم نے فرمایا: یہ آیت اہل قباء کے بارے میں نازل ہوئی: \"اس میں ایسے مرد ہیں جو خوب پاک ہونا پسند کرتے ہیں\"۔ آپ نے فرمایا: \"وہ پانی کے ساتھ استنجاء کرتے تھے، تو یہ آیت ان کے حق میں نازل ہوئی\"۔ اگرچہ یہ روایت سند کے لحاظ سے ضعیف ہے لیکن اس کے مؤید شواہد ہیں جن سے یہ صحیح ہو جاتی ہے، جیسا کہ اصل میں ذکر کیا گیا ہے۔",
+    "english": "Da'if (Weak), due to combining stones and water. Reported by Al-Bazzar (227/Kashf al-Astar). The authentic version is reported by Abu Dawud (44) and At-Tirmidhi (3100) from Abu Hurairah, who said that the Prophet ﷺ said: This verse was revealed concerning the people of Quba': \"In it are men who love to purify themselves.\" He said: \"They used to perform Istinja' with water, and so this verse was revealed about them.\" Although the chain of the Ibn Abbas version is weak, it has supporting evidences that make its meaning acceptable."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَهْلَ قُبَاءٍ",
+      "english": "People of Quba' (Mosque)",
+      "urdu": "اہل قباء"
+    },
+    {
+      "arabic": "سَأَلَ",
+      "english": "He asked",
+      "urdu": "سوال کیا"
+    },
+    {
+      "arabic": "نُتْبِعُ",
+      "english": "We follow up (additionally use)",
+      "urdu": "پیچھے استعمال کرتے ہیں"
+    },
+    {
+      "arabic": "الْحِجَارَةَ",
+      "english": "The stones",
+      "urdu": "ڈھیلے/پتھر"
+    },
+    {
+      "arabic": "الْمَاءَ",
+      "english": "The water",
+      "urdu": "پانی"
+    },
+    {
+      "arabic": "يَتَطَهَّرُوا",
+      "english": "They purify themselves",
+      "urdu": "پاکیزگی اختیار کریں"
+    },
+    {
+      "arabic": "أَصْلُهُ",
+      "english": "Its basis/root",
+      "urdu": "اس کی اصل"
+    },
+    {
+      "arabic": "ضَعِيف",
+      "english": "Weak",
+      "urdu": "ضعیف"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا صحیح مفہوم یہ ہے کہ اہل قباء کی قرآن مجید میں تعریف (سورۃ التوبہ، آیت 108) اس لیے کی گئی کہ وہ طہارت کے لیے پانی کا استعمال کرتے تھے، اور ڈھیلے کے ساتھ پانی کا استعمال مکمل پاکیزگی کی افضل صورت ہے۔",
+    "english": "The sound meaning of this Hadith is that the people of Quba' were praised in the Quran (Surah At-Tawbah, verse 108) because they used water for purification, and combining stones (or solids) with water is considered the most complete and superior form of cleansing."
+  },
+  "references": [
+    {
+      "arabic": "رواه البزار (227) بسند ضعيف",
+      "english": "Reported by Al-Bazzar (227) with a weak chain"
+    },
+    {
+      "arabic": "أصله في أبي داود (44)",
+      "english": "Basis in Abu Dawud (44)"
+    },
+    {
+      "arabic": "أصله في الترمذي (3100)",
+      "english": "Basis in At-Tirmidhi (3100)"
+    },
+    {
+      "arabic": "صححه ابن خزيمة من حديث أبي هريرة",
+      "english": "Authenticated by Ibn Khuzaymah from the Hadith of Abu Hurairah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 9301,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    },
+    {
+      "id": 9302,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah (Authentic narrator of the core meaning)"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح (للمعنى الثابت)",
+    "english": "Authentic (for the established meaning)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اہل قباء کی تعریف کی وجہ",
+        "english": "Reason for the Praise of the People of Quba'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آیت کا نزول اور طہارت",
+              "english": "Revelation of the Verse and Purification"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کریم میں سورۃ التوبہ کی آیت 108 میں اہل قباء کی پاکیزگی کے شوق کی وجہ سے تعریف کی گئی۔",
+                "نبی اکرم ﷺ نے جب ان سے اس تعریف کا سبب پوچھا تو انہوں نے پانی سے استنجاء کرنے کا ذکر کیا۔",
+                "صحیح روایات صرف پانی سے استنجاء کرنے کو ان کی فضیلت کا سبب قرار دیتی ہیں، جو کہ افضل ترین طریقہ ہے۔"
+              ],
+              "english": [
+                "The people of Quba' were praised in the Qur'an (Surah At-Tawbah, 9:108) for their love of purity.",
+                "When the Prophet ﷺ inquired about the reason for this praise, they mentioned using water for Istinja'.",
+                "The authentic narrations attribute their virtue to using water, which is the most superior method of cleansing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی اور ڈھیلے کا مجموعہ",
+              "english": "Combination of Water and Stones"
+            },
+            "content": {
+              "urdu": [
+                "ابن عباس رضی اللہ عنہما کی اس روایت میں پانی سے پہلے پتھروں کا ذکر کیا گیا ہے، جس پر کچھ محدثین نے ضعف کا حکم لگایا۔",
+                "پتھروں کے ساتھ پانی کا استعمال (استجمار کے بعد استنجاء) طہارت کی اعلیٰ ترین اور کامل ترین صورت ہے۔",
+                "یہ طریقہ نجاست کو ٹھوس چیز سے ہٹانے اور پھر پانی سے جگہ کو پاک کرنے کی ضمانت دیتا ہے۔"
+              ],
+              "english": [
+                "This narration (from Ibn Abbas) mentions using stones before water, which is the point of weakness cited by some scholars.",
+                "Using water after solid objects (Istinja' after Istijmar) represents the most complete and superior form of purification.",
+                "This combined method ensures that the bulk of the filth is removed by the solid object and the area is then cleansed by water."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی نقطہ نظر",
+        "english": "Juristic Perspective"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پانی کی افضلیت",
+              "english": "Superiority of Water"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کا اجماع ہے کہ طہارت حاصل کرنے کے لیے پانی کا استعمال سب سے افضل اور مکمل طریقہ ہے۔",
+                "پانی صفائی کے ساتھ ساتھ نجاست کے اثر (بو اور رنگ) کو بھی دور کرتا ہے، جو پتھر نہیں کر سکتے۔",
+                "اہل قباء کی تعریف اس بات کی دلیل ہے کہ اسلام میں پاکیزگی کے لیے پانی کو بنیادی اہمیت حاصل ہے۔"
+              ],
+              "english": [
+                "There is a consensus among jurists that using **water** is the most superior and complete method of achieving purification.",
+                "Water removes the filth along with its trace (smell and color), which solid objects cannot fully achieve.",
+                "The praise given to the people of Quba' is proof that water holds fundamental importance for cleanliness in Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استنجاء کے طریقے",
+              "english": "Methods of Istinja'"
+            },
+            "content": {
+              "urdu": [
+                "شرعی طور پر طہارت کے دو طریقے جائز ہیں: صرف پانی سے (استنجاء) یا صرف پتھر سے (استجمار)۔",
+                "صرف پتھروں سے استجمار جائز ہے اگر نجاست جگہ سے تجاوز نہ کرے اور کم از کم تین پتھر استعمال کیے جائیں۔",
+                "استجمار کے بعد پانی کا استعمال مستحب اور کامل ترین طہارت ہے، جسے اہل قباء نے اپنایا تھا۔"
+              ],
+              "english": [
+                "Legally, two methods of purification are valid: using **only water** (Istinja') or using **only stones** (Istijmar).",
+                "Using only stones is permissible provided the impurity does not spread beyond the area and a minimum of three stones is used.",
+                "Following Istijmar with water is recommended and results in the most complete purity, which was the practice of the people of Quba'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فضیلت اور اجر",
+        "english": "Virtue and Reward"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی محبت کا سبب",
+              "english": "Cause of Allah's Love"
+            },
+            "content": {
+              "urdu": [
+                "آیت کریمہ اور حدیث دونوں سے معلوم ہوتا ہے کہ پاکیزگی کو پسند کرنا اللہ کی محبت کو کھینچتا ہے۔",
+                "جسمانی طہارت کے ساتھ ساتھ انسان کی باطنی پاکیزگی (اخلاق اور نیت) بھی اللہ کے ہاں پسندیدہ ہے۔",
+                "اہل قباء کی مثال ایک مسلمان کو ہر حال میں صفائی اور طہارت کی بلند ترین معیار کو اپنانے کی ترغیب دیتی ہے۔"
+              ],
+              "english": [
+                "Both the verse and the Hadith indicate that loving purity attracts the love of Allah.",
+                "Alongside physical cleanliness, a person's inner purity (manners and intention) is also beloved to Allah.",
+                "The example of the people of Quba' encourages a Muslim to adopt the highest standard of cleanliness and purity in every situation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت پر عمل کی ترغیب",
+              "english": "Encouragement to Follow the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ ابن عباس کی روایت ضعیف ہے، لیکن اس کا بنیادی مفہوم صحیح ہے اور یہ پانی کے استعمال کو فضیلت دیتا ہے۔",
+                "نبی ﷺ کا اہل قباء سے سوال کرنا بتاتا ہے کہ آپ طہارت کے طریقوں کی تعلیم و ترغیب دیتے تھے۔",
+                "مسلمانوں کو چاہیے کہ وہ آسانی کی صورت میں پانی سے طہارت کو لازم سمجھیں اور اس فضیلت کو حاصل کریں۔"
+              ],
+              "english": [
+                "Although the narration of Ibn Abbas is weak, its fundamental meaning is sound and highlights the virtue of using water.",
+                "The Prophet's inquiry to the people of Quba' shows that he encouraged and taught methods of purification.",
+                "Muslims should, when possible, prioritize water for cleansing to achieve this great virtue and complete purity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند اور ضعف کی وضاحت",
+        "english": "Clarification of Narration Chain (Isnad) and Weakness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف روایات کا فرق",
+              "english": "Difference in Narrations"
+            },
+            "content": {
+              "urdu": [
+                "اس موضوع پر ابن عباس کی روایت (پتھر+پانی کا ذکر) کو ضعیف جبکہ ابوہریرہ کی روایت (صرف پانی کا ذکر) کو صحیح قرار دیا گیا ہے۔",
+                "ابوہریرہ کی روایت میں آیت کے نزول کا سبب صرف پانی سے استنجاء کو بتایا گیا ہے، جو کہ زیادہ درست ہے۔",
+                "اختلاف کے باوجود، تمام روایات طہارت کے لیے احتیاط اور پانی کے استعمال کی اہمیت پر متفق ہیں۔"
+              ],
+              "english": [
+                "On this topic, the narration of Ibn Abbas (mentioning stones + water) is deemed weak, while the narration of Abu Hurairah (mentioning only water) is authentic.",
+                "The Hadith of Abu Hurairah clearly states that the cause of the verse's revelation was Istinja' solely with water, which is more accurate.",
+                "Despite the differences, all narrations agree on the importance of caution and the use of water for purification."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حدیث کی اصل پر عمل",
+              "english": "Acting upon the Essence of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کا ضعیف روایت پر بھی شواہد کی بنیاد پر صحیح کا حکم لگانا اس کی اہمیت کو ظاہر کرتا ہے۔",
+                "حتمی نتیجہ یہ ہے کہ پانی کا استعمال افضل ترین طہارت ہے اور یہ قرآن کی تعریف کا سبب بنا۔",
+                "ایک مسلمان کو کسی بھی صورت میں صرف پتھر پر اکتفا کرنے کی بجائے پانی کی دستیابی کی کوشش کرنی چاہیے۔"
+              ],
+              "english": [
+                "The ruling of scholars to authenticate the weak narration based on supporting evidence highlights its underlying importance.",
+                "The conclusive finding is that the use of water is the most superior purification, and it was the reason for the Quranic praise.",
+                "A Muslim should strive to use water whenever possible rather than relying solely on stones for cleansing."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

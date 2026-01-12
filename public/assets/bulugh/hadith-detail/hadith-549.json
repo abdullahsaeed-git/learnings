@@ -1,0 +1,264 @@
+{
+  "hadithId": 549,
+  "hadithNo": 23,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/549"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1936)، ومسلم (1111)، وأبو داود (2390)، والترمذي (724)، والنسائي (2/212)، وابن ماجه (1671)، وأحمد (2/208).",
+    "urdu": "صحیح۔ اسے بخاری (1936)، مسلم (1111)، ابوداؤد (2390)، ترمذی (724)، نسائی (2/212)، ابن ماجہ (1671) اور احمد (2/208) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1936), Muslim (1111), Abu Dawud (2390), At-Tirmidhi (724), An-Nasa'i (2/212), Ibn Majah (1671), and Ahmad (2/208)."
+  },
+  "importantWords": [
+    {
+      "arabic": "هَلَكْتُ",
+      "english": "I am ruined",
+      "urdu": "میں ہلاک ہوگیا"
+    },
+    {
+      "arabic": "وَقَعْتُ",
+      "english": "I had intercourse",
+      "urdu": "میں نے مباشرت کی"
+    },
+    {
+      "arabic": "تَعْتِقُ",
+      "english": "Free / Emancipate",
+      "urdu": "آزاد کرنا"
+    },
+    {
+      "arabic": "مُتَتَابِعَيْنِ",
+      "english": "Consecutive",
+      "urdu": "پے در پے / متواتر"
+    },
+    {
+      "arabic": "بِعَرَقٍ",
+      "english": "With a basket",
+      "urdu": "ٹوکرے کے ساتھ"
+    },
+    {
+      "arabic": "لَابَتَيْهَا",
+      "english": "Two lava plains (Medina)",
+      "urdu": "دو سنگلاخ میدانوں کے درمیان"
+    }
+  ],
+  "summary": {
+    "urdu": "رمضان میں جان بوجھ کر جماع کرنے سے روزہ ٹوٹ جاتا ہے اور کفارہ (غلام آزاد کرنا، یا دو ماہ کے روزے، یا 60 مساکین کا کھانا) لازم ہوتا ہے۔",
+    "english": "Intentional sexual intercourse during Ramadan breaks the fast and requires an expiation (Kaffarah): freeing a slave, or fasting for two consecutive months, or feeding sixty poor people."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1936)",
+      "english": "Reported by Al-Bukhari (1936)"
+    },
+    {
+      "arabic": "رواه مسلم (1111)",
+      "english": "Reported by Muslim (1111)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dusi"
+      },
+      "slug": "abu-hurairah-al-dusi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2g3w_X8mO0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کفارہ کی ترتیب اور شرائط",
+        "english": "The Sequence and Conditions of Kaffarah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کفارہ جماع کی ترجیحات",
+              "english": "Priorities of Expiation for Intercourse"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں کفارہ کی تین ترتیب وار صورتیں بیان کی گئی ہیں۔",
+                "پہلی صورت غلام کی آزادی، دوسری دو ماہ کے مسلسل روزے اور تیسری ساٹھ مسکینوں کا کھانا ہے۔",
+                "ایک صورت کی استطاعت نہ ہونے پر ہی دوسری صورت کی طرف رجوع کیا جائے گا۔"
+              ],
+              "english": [
+                "The Hadith outlines three sequential forms of expiation.",
+                "First is freeing a slave, second is fasting for two consecutive months, and third is feeding sixty poor people.",
+                "Moving to the next option is only permitted if the preceding one is impossible."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسلسل روزوں کی شرط",
+              "english": "Requirement of Consecutive Fasting"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص روزے رکھتا ہے تو اسے دو ماہ تک بغیر کسی ناغہ کے مسلسل روزے رکھنے ہوں گے۔",
+                "اگر درمیان میں ایک بھی روزہ جان بوجھ کر چھوڑا تو دوبارہ گنتی شروع کرنی ہوگی۔",
+                "یہ سختی اس لیے ہے تاکہ روزے کی حرمت اور عظمت کا احساس دلایا جا سکے۔"
+              ],
+              "english": [
+                "If one chooses to fast, they must fast for two months without interruption.",
+                "If a single day is missed intentionally, the count must restart from the beginning.",
+                "This rigor is intended to emphasize the sanctity and greatness of the fast."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبوی شفقت اور فقہی حکمت",
+        "english": "Prophetic Compassion and Juridical Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی نرمی اور مسکراہٹ",
+              "english": "The Prophet's ﷺ Gentleness and Laughter"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے گناہ گار شخص کو سختی کے بجائے رہنمائی اور شفقت فراہم کی۔",
+                "آپ ﷺ کا اس شخص کی غریبی کی بات پر مسکرانا آپ کے بلند اخلاق کی دلیل ہے۔",
+                "اسلام گناہ گار کو مایوس کرنے کے بجائے اسے توبہ اور تلافی کا موقع دیتا ہے۔"
+              ],
+              "english": [
+                "The Prophet ﷺ provided guidance and compassion instead of harshness to the sinner.",
+                "His laughter at the man's extreme poverty demonstrates his sublime character.",
+                "Islam offers sinners a chance for repentance and restitution rather than despair."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کیا غربت سے کفارہ ساقط ہو جاتا ہے؟",
+              "english": "Does Poverty Waive the Expiation?"
+            },
+            "content": {
+              "urdu": [
+                "علماء میں اختلاف ہے کہ کیا کفارہ ادا کرنے کی طاقت نہ ہونے سے وہ ختم ہو جاتا ہے۔",
+                "نبی ﷺ نے اس شخص کو وہ صدقہ اپنے گھر والوں کو کھلانے کی اجازت دے دی۔",
+                "کچھ فقہاء کے نزدیک کفارہ ذمے پر باقی رہتا ہے یہاں تک کہ استطاعت حاصل ہو جائے۔"
+              ],
+              "english": [
+                "Scholars differ on whether inability to pay waives the expiation entirely.",
+                "The Prophet ﷺ allowed the man to feed the charity to his own family.",
+                "Some jurists believe the debt remains until the person gains the means to pay."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روزے کی حرمت پامال کرنے کا وبال",
+        "english": "The Consequence of Violating the Fast"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رمضان کی تعظیم",
+              "english": "Respecting Ramadan"
+            },
+            "content": {
+              "urdu": [
+                "رمضان میں جان بوجھ کر جماع کرنا ایک سنگین گناہ ہے جس پر 'ہلاکت' کا لفظ استعمال کیا گیا۔",
+                "یہ صرف ایک روزے کی قضا کا مسئلہ نہیں بلکہ ایک عظیم عبادت کی بے حرمتی ہے۔",
+                "سچا مومن وہی ہے جو اللہ کے مقرر کردہ حدود کا دل سے احترام کرے۔"
+              ],
+              "english": [
+                "Intentional intercourse in Ramadan is a grave sin, described by the word 'ruined'.",
+                "It is not merely about making up a day; it is a violation of a sacred act of worship.",
+                "A true believer is one who sincerely respects the boundaries set by Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیوی کا حکم",
+              "english": "Ruling Regarding the Wife"
+            },
+            "content": {
+              "urdu": [
+                "اگر بیوی کی رضا مندی شامل تھی تو اکثر فقہاء کے نزدیک اس پر بھی کفارہ لازم ہے۔",
+                "اگر اسے مجبور کیا گیا تھا تو اس پر صرف قضا لازم ہے، کفارہ نہیں۔",
+                "یہ مسئلہ میاں بیوی کے درمیان تقویٰ اور تعاون کی اہمیت کو اجاگر کرتا ہے۔"
+              ],
+              "english": [
+                "If the wife consented, most jurists hold that the expiation is also binding upon her.",
+                "If she was coerced, she only owes the make-up (Qada) and not the expiation.",
+                "This issue highlights the importance of piety and cooperation between spouses."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی معاشرت اور تعلیم",
+        "english": "Islamic Society and Education"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسائل پوچھنے کی اہمیت",
+              "english": "The Importance of Asking Questions"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام غلطی ہونے پر چھپنے کے بجائے نبی ﷺ سے رہنمائی لیتے تھے۔",
+                "دینی معاملات میں شرم و حیا علم حاصل کرنے میں رکاوٹ نہیں ہونی چاہیے۔",
+                "علماء سے رجوع کرنا انسان کو الجھنوں اور بڑے گناہوں کے اثرات سے بچاتا ہے۔"
+              ],
+              "english": [
+                "The Companions sought guidance from the Prophet ﷺ rather than hiding their mistakes.",
+                "Modesty should not prevent one from seeking knowledge in religious matters.",
+                "Consulting scholars saves a person from confusion and the consequences of major sins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صدقہ اور گھر والوں کی کفالت",
+              "english": "Charity and Supporting the Family"
+            },
+            "content": {
+              "urdu": [
+                "گھر والوں پر خرچ کرنا بھی صدقہ ہے، خاص طور پر جب وہ محتاج ہوں۔",
+                "نبی ﷺ نے دین کو بوجھ نہیں بنایا بلکہ غریب کے لیے آسانی پیدا فرمائی۔",
+                "یہ حدیث اسلام کی مالیاتی لچک اور سماجی ہمدردی کی بہترین مثال ہے۔"
+              ],
+              "english": [
+                "Spending on one's family is also a form of charity, especially when they are needy.",
+                "The Prophet ﷺ did not make religion a burden but created ease for the poor.",
+                "This Hadith is a prime example of Islam's financial flexibility and social empathy."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

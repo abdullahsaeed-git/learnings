@@ -1,0 +1,263 @@
+{
+  "hadithId": 67,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 6 (Chapter 6)"],
+    "kitabId": 1,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب حكم مس الذكر",
+    "babId": 6
+  },
+
+  "takhreej": {
+    "arabic": "  حسن.  رواه أبو داود (182 و 183) ، والنسائي (101) ، والترمذي (85) ، وابن ماجه (483) ، وأحمد (43) ، وابن حبان (207 موارد) .  ولكن ينبغي معرفة أن هذا الحديث منسوخ، إذ قال ابن حزم في \"المحلي\" (139)  ولنعم ما قال: \"هذا الخبر  -خبر طلق - صحيح إلا أنهم لا حجة لهم فيه لوجوه: أحدها: أن هذا الخبر موافق لما كان الناس عليه قبل ورود الأمر بالوضوء من مس الفرج، هذا لا شك فيه، فإذا هو كذلك فحكمه منسوخ يقينا حين أمر رسول الله صلى الله عليه وسلم بالوضوء من مس الفرج، ولا يحل ترك ما تيقن أنه ناسخ، والأخذ بما تيقن أنه منسوخ.  وثانيها: أن كلامه عليه السلام: \"هل هو إلا بضعة منك؟\" دليل بين على أنه كان قبل الأمر بالوضوء منه؛ لأنه لو كان بعده لم يقل عليه السلام هذا الكلام، بل كان يبين أن الأمر بذلك قد نسخ، وقوله هذا يدل على أنه لم يكن سلف فيه حكم أصلا، وأنه كسائر الأعضاء\" .",
+    "urdu": "حسن (درجہ)۔ اسے ابوداؤد (182، 183)، نسائی (101)، ترمذی (85)، ابن ماجہ (483) اور احمد (43) نے روایت کیا ہے، اور ابن حبان (207 موارد) نے اسے صحیح قرار دیا ہے۔ البتہ، ابن حزم نے واضح کیا ہے کہ یہ حدیث منسوخ ہے، کیونکہ یہ مس کرنے سے وضو کے حکم کے آنے سے پہلے کی تھی، اور بعد میں آنے والی بسرہ رضی اللہ عنہا کی حدیث نے اسے منسوخ کر دیا۔",
+    "english": "Ḥasan (Good). Narrated by the five Imāms (Ahmad, Abu Dawud, Tirmidhi, Nasā’ī, Ibn Mājah) and authenticated by Ibn Ḥibbān (207 Mawārid). **Note:** Many scholars, like Ibn Ḥazm, consider this Hadith to be abrogated (Mansūkh) by the later Hadith of Busrah bint Ṣafwān, which explicitly commands Wudu upon touching the private part. The reasoning is that the Prophet's comment, 'It is only a piece of flesh from you,' suggests it was before the specific ruling was revealed."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَسَسْتُ ذَكَرِي",
+      "english": "I touched my private part",
+      "urdu": "میں نے اپنی شرمگاہ کو ہاتھ لگایا"
+    },
+    {
+      "arabic": "أَعَلَيْهِ وُضُوءٍ",
+      "english": "Does he have to perform Wudu?",
+      "urdu": "کیا اسے وضو کرنا چاہیئے؟"
+    },
+    {
+      "arabic": "لَا",
+      "english": "No (negative answer)",
+      "urdu": "نہیں"
+    },
+    {
+      "arabic": "بَضْعَةٌ مِنْكَ",
+      "english": "A piece of flesh from you",
+      "urdu": "تیرے اپنے جسم کا ایک ٹکڑا"
+    },
+    {
+      "arabic": "مَنْسُوخ",
+      "english": "Abrogated (ruling)",
+      "urdu": "منسوخ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ شرمگاہ کو چھونے سے وضو نہیں ٹوٹتا کیونکہ وہ جسم کا ہی ایک حصہ ہے، لیکن یہ حکم **منسوخ** ہو چکا ہے اور بعد میں آنے والی **صحیح** احادیث کے مطابق شرمگاہ کو چھونے سے وضو ٹوٹ جاتا ہے۔",
+    "english": "This Hadith states that touching the private part does not invalidate Wudu because it is merely a part of the body. However, the ruling in this Hadith is generally considered **abrogated (Mansūkh)** by later authentic narrations which explicitly mandate Wudu after touching the private parts."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الطهارة، رقم 182",
+      "english": "Sunan Abī Dāwūd, The Book of Purification, Hadith 182"
+    },
+    {
+      "arabic": "جامع الترمذي، كتاب الطهارة، رقم 85",
+      "english": "Jami' At-Tirmidhī, The Book of Purification, Hadith 85"
+    },
+    {
+      "arabic": "سنن ابن ماجه، كتاب الطهارة، رقم 483",
+      "english": "Sunan Ibn Mājah, The Book of Purification, Hadith 483"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "طَلْقِ بْنِ عَلِيٍّ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Ṭalq ibn ʿAlī (May Allah be pleased with him)"
+      },
+      "slug": "talq-ibn-ali"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-45-touching-private-part",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Ḥasan (Good) but Abrogated (Mansūkh)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نسخ اور حکم کی تبدیلی",
+        "english": "Abrogation (Naskh) and Change of Ruling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "منسوخ حکم",
+              "english": "The Abrogated Ruling"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث میں نبی اکرم ﷺ نے فرمایا کہ شرمگاہ کو چھونے سے وضو نہیں ٹوٹتا ('لَا، إِنَّمَا هُوَ بَضْعَةٌ مِنْكَ')۔ یہ حکم اسلام کے ابتدائی دور کا ہے، جب وضو کی فرضیت مکمل نہیں ہوئی تھی۔",
+                "بعد میں، **حضرت بسرہ بنت صفوانؓ** کی صحیح حدیث نازل ہوئی، جس میں نبی ﷺ نے فرمایا: 'مَنْ مَسَّ ذَكَرَهُ فَلْيَتَوَضَّأْ' (جس نے اپنی شرمگاہ کو چھوا تو اسے وضو کرنا چاہیے)۔",
+                "جمہور محدثین اور فقہاء (امام شافعی، احمد) نے بعد میں آنے والی بسرہؓ کی حدیث کو **ناسخ** (منسوخ کرنے والا) اور طلقؓ کی حدیث کو **منسوخ** قرار دیا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) said in this Hadith that touching the private part does not break Wudu ('No, it is only a piece of flesh from you.'). This ruling belongs to the early period of Islam.",
+                "Later, the authentic Hadith of Busrah bint Ṣafwān was revealed, where the Prophet (ﷺ) commanded: 'Whoever touches his private part must perform Wudu.'",
+                "The majority of scholars (like Shafi'i and Ahmad) consider Busrah's Hadith as the **abrogator (Nāsikh)** and Ṭalq's Hadith as the **abrogated (Mansūkh)** ruling."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بسرہؓ کی حدیث کی ترجیح",
+              "english": "Preference for Busrah's Hadith"
+            },
+            "content": {
+              "urdu": [
+                "بسرہؓ کی حدیث اس حکم کے بعد کی ہے اور اس میں **وضو کا واضح حکم** موجود ہے، اس لیے شرعی طور پر آج کے دور کا حکم وہی ہے (کہ چھونے سے وضو ٹوٹتا ہے)۔",
+                "ابن المدینی کا اس حدیث کو بسرہؓ کی حدیث سے **'احسن'** کہنا سند کے لحاظ سے تھا، لیکن حکم شرعی کے لحاظ سے ناسخ (منسوخ کرنے والا) کو ترجیح حاصل ہے۔",
+                "یہ مسئلہ شرمگاہ کو چھونے سے وضو کے ٹوٹنے کے لیے سب سے زیادہ اختلاف والا مسئلہ ہے، لیکن صحیح اصولِ فقہ نسخ کو تسلیم کرتا ہے۔"
+              ],
+              "english": [
+                "Busrah's Hadith came later and contains an explicit **command to perform Wudu**, which is the current ruling in Sharia.",
+                "Ibn al-Madīnī calling Ṭalq's Hadith 'better' relates to the chain of narration (isnād), but for the legal ruling, the abrogator (Busrah's Hadith) takes precedence.",
+                "This issue is one of the most debated concerning Wudu, but the correct principle of Fiqh accepts the later abrogation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور عملی نتیجہ",
+        "english": "Fiqh and Practical Conclusion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موجودہ شرعی حکم",
+              "english": "The Current Legal Ruling"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں شرعی حکم یہ ہے کہ **بغیر کسی رکاوٹ (جیسے کپڑا) کے شرمگاہ کو چھونے سے وضو ٹوٹ جاتا ہے**، خواہ شہوت سے چھوا جائے یا بغیر شہوت کے۔",
+                "اس میں مرد اور عورت دونوں شامل ہیں، اور یہ حکم کسی بھی نماز کے دوران یا باہر لاگو ہوتا ہے۔",
+                "جو شخص اس عمل کو کرے، اسے اپنی نماز کو صحیح کرنے کے لیے دوبارہ وضو کرنا فرض ہے۔"
+              ],
+              "english": [
+                "The accepted legal ruling today is that **touching the private part without a barrier (like thick clothing) invalidates Wudu**, whether done with or without desire.",
+                "This rule applies to both men and women and is enforced during prayer or outside of it.",
+                "Anyone who performs this act is obliged to repeat their Wudu to validate their prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حنفی مسلک کی رائے",
+              "english": "The Ḥanafi School's View"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ اس حدیث (طلقؓ) پر عمل کرتے ہیں اور کہتے ہیں کہ چھونے سے وضو نہیں ٹوٹتا، کیونکہ یہ جسم کا ایک ٹکڑا ہے اور طلقؓ کی حدیث صحیح ہے۔",
+                "لیکن یہ حکم اس صورت میں ہے جب ہاتھ کے اندرونی حصے سے شرمگاہ کو چھوا جائے، اور اگر شہوت سے کوئی چیز خارج ہو تو وضو ٹوٹ جاتا ہے۔",
+                "تاہم، چونکہ بسرہؓ کی حدیث واضح امر ہے، اس لیے احتیاط اور جمہور کا عمل بسرہؓ کی حدیث پر ہی ہے۔"
+              ],
+              "english": [
+                "Imam Abu Hanifa acts upon Ṭalq's Hadith, stating that touching does not break Wudu because the private part is a part of the body, and Ṭalq's Hadith is authentic.",
+                "However, he limits this to touching with the inner palm; if anything is discharged due to desire, Wudu is broken.",
+                "Nevertheless, since Busrah's Hadith is a clear command, caution and the majority practice favor the ruling of Busrah's Hadith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرمگاہ چھونے کی حالتیں",
+        "english": "Conditions of Touching the Private Part"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چھونے کی اقسام",
+              "english": "Categories of Touching"
+            },
+            "content": {
+              "urdu": [
+                "شرمگاہ کو ہاتھ کی **اندرونی ہتھیلی** یا **انگلیوں کے اندرونی حصے** سے چھونے سے وضو ٹوٹ جاتا ہے۔",
+                "لیکن اگر شرمگاہ کو ہاتھ کے پچھلے حصے، بازو، یا کپڑے کے اوپر سے چھوا جائے تو وضو نہیں ٹوٹتا۔",
+                "یہ حکم طہارت میں احتیاط اور سنت کی پیروی کا تقاضا کرتا ہے، اور اسے نماز میں بے احتیاطی سے بچنے کے لیے جاری کیا گیا۔"
+              ],
+              "english": [
+                "Wudu is broken when the private part is touched with the **inner palm** or the **inner part of the fingers**.",
+                "Conversely, touching the private part with the back of the hand, the arm, or over clothing does not break Wudu.",
+                "This ruling requires caution in purification and adherence to the Sunnah, and it was revealed to prevent carelessness during prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آسانی اور سختی کا پہلو",
+              "english": "Aspects of Ease and Strictness"
+            },
+            "content": {
+              "urdu": [
+                "یہاں دین میں دو مختلف احکام موجود تھے: ایک آسانی والا (طلقؓ کی حدیث)، اور ایک احتیاط والا (بسرہؓ کی حدیث)، اور احتیاط والے حکم کو بعد میں ترجیح دی گئی۔",
+                "یہ اس بات کی دلیل ہے کہ اسلام کبھی کبھار زیادہ مشقت والے حکم کو بھی فرض کر سکتا ہے، جب اس میں کوئی بڑی حکمت پوشیدہ ہو۔",
+                "مسلمان کو چاہیے کہ وہ ہمیشہ ایسے حکم پر عمل کرے جو طہارت کی حالت میں یقین پیدا کرے اور شک سے بچائے۔"
+              ],
+              "english": [
+                "There were two different rulings in the religion: one of ease (Ṭalq's Hadith) and one of strictness/caution (Busrah's Hadith), and the cautious one was later preferred.",
+                "This demonstrates that Islam may sometimes mandate a more demanding ruling when it contains a greater underlying wisdom.",
+                "A Muslim should always act upon the ruling that establishes certainty in the state of purity and protects them from doubt."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور اخلاقی حکمت",
+        "english": "Educational and Moral Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نسخ کی حکمت",
+              "english": "Wisdom of Naskh (Abrogation)"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں نسخ (ابروگیشن) کا وجود اللہ کے تدریجی تکمیل اور امت کی آسانی کے لیے قانون کی تکمیل کی نشانی ہے۔",
+                "یہ ہمیں سکھاتا ہے کہ ابتدائی احکام حتمی، زیادہ مکمل قانون سازی کی تیاری تھے، جو لچک اور ترقی پسندانہ نظم و ضبط کو یقینی بناتے ہیں۔",
+                "یہ اسلامی قانون کی متحرک نوعیت کو ظاہر کرتا ہے، جو ایک ترقی پذیر معاشرے کے لیے قدم بہ قدم نازل ہوا تھا۔"
+              ],
+              "english": [
+                "The existence of Naskh (abrogation) in Sharia is a sign of Allah's gradual completion and perfection of the law for the ease of the Ummah.",
+                "It teaches us that early rulings were preparation for the final, more complete legislation, ensuring flexibility and progressive discipline.",
+                "This demonstrates the dynamic nature of Islamic law, which was revealed step-by-step to suit the developing community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کا احترام",
+              "english": "Respect for Purification"
+            },
+            "content": {
+              "urdu": [
+                "شرمگاہ کو چھونے پر وضو کا حکم (منسوخ کرنے والی حدیث کے مطابق) طہارت کی حالت کے لیے گہرا احترام پیدا کرتا ہے۔",
+                "یہ مومن کو اللہ کے سامنے نماز میں کھڑے ہونے سے پہلے روحانی اور جسمانی تیاری کی مستقل سطح کو برقرار رکھنے کی ترغیب دیتا ہے۔",
+                "مومن کو سکھایا جاتا ہے کہ وہ کسی بھی ایسے عمل سے بچنے میں محتاط رہے جو اس کے وضو کو باطل کرنے کا سبب بن سکتا ہو۔"
+              ],
+              "english": [
+                "The command to perform Wudu upon touching the private part (as per the abrogating Hadith) instills deep respect for the state of purity (Ṭahārah).",
+                "It encourages the believer to maintain a constant level of spiritual and physical readiness before standing in prayer before Allah.",
+                "The believer is taught to be meticulous in avoiding any action that could lead to the invalidation of their Wudu."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

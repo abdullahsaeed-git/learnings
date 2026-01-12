@@ -1,0 +1,259 @@
+{
+  "hadithId": 933,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1073"],
+    "kitabId": 8,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الإيلاء والظهار واللعان",
+    "babId": 73
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. أخرجه البيهقي في السنن الكبرى (7/381) موقوفاً على ابن عباس، وله حكم الرفع لأنه يتعلق بتشريع وتحديد مدد شرعية لا مجال للرأي فيها.",
+    "urdu": "صحیح۔ اسے امام بیہقی نے السنن الکبریٰ (7/381) میں روایت کیا ہے۔ یہ روایت اگرچہ ابن عباس پر موقوف ہے، لیکن چونکہ اس میں شرعی مدت کی تحدید اور زمانہ جاہلیت کے مقابلے میں اسلامی قانون کا ذکر ہے، اس لیے یہ حکماً مرفوع ہے۔",
+    "english": "Sahih. Reported by Al-Bayhaqi in As-Sunan al-Kubra (7/381). Though it is a statement of Ibn 'Abbas (Mauquf), it carries the ruling of a Marfu' Hadith because it explains the legislative change from Jahiliyyah to Islam."
+  },
+  "importantWords": [
+    {
+      "arabic": "إِيلَاءُ",
+      "english": "Vow of abstinence",
+      "urdu": "بیوی سے الگ رہنے کی قسم"
+    },
+    {
+      "arabic": "اَلْجاهِلِيَّةِ",
+      "english": "Pre-Islamic period",
+      "urdu": "زمانہ جاہلیت"
+    },
+    {
+      "arabic": "فَوَقَّتَ",
+      "english": "Fixed a limit",
+      "urdu": "وقت مقرر کر دیا"
+    },
+    {
+      "arabic": "أَرْبَعَةَ أَشْهُرٍ",
+      "english": "Four months",
+      "urdu": "چار ماہ"
+    },
+    {
+      "arabic": "أَقَلَّ",
+      "english": "Less than",
+      "urdu": "کم"
+    }
+  ],
+  "summary": {
+    "urdu": "اسلام نے زمانہ جاہلیت کے طویل 'ایلاء' کو ختم کر کے اس کی زیادہ سے زیادہ مدت چار ماہ مقرر کی تاکہ عورت کے حقوق کا تحفظ ہو سکے؛ چار ماہ سے کم کی قسم ایلاء کے شرعی احکام میں نہیں آتی۔",
+    "english": "Islam abolished the indefinite pre-Islamic Ila' and limited it to a maximum of four months to protect women's rights; any oath shorter than four months does not carry the specific legal consequences of Ila'."
+  },
+  "references": [
+    {
+      "arabic": "أخرجه البيهقي (7 /381)",
+      "english": "Reported by Al-Bayhaqi (7/381)"
+    },
+    {
+      "arabic": "تفسير ابن كثير (سورة البقرة: 226)",
+      "english": "Tafsir Ibn Kathir (Surah Al-Baqarah: 226)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-Yg4Dk-gE",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جاہلیت اور اسلامی قانون کا فرق",
+        "english": "Difference between Jahiliyyah and Islamic Law"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قدیم ظلم کا خاتمہ",
+              "english": "End of Ancient Oppression"
+            },
+            "content": {
+              "urdu": [
+                "زمانہ جاہلیت میں مرد اپنی بیویوں کو اذیت دینے کے لیے برسوں تک ان سے الگ رہنے کی قسم کھا لیتے تھے۔",
+                "اس طرح عورت نہ تو شادی شدہ رہتی تھی اور نہ ہی اسے طلاق دی جاتی تھی کہ وہ دوسری جگہ نکاح کر سکے۔",
+                "اسلام نے اس غیر انسانی روایت کو ختم کیا اور عورت کے فطری حق کو تسلیم کیا۔"
+              ],
+              "english": [
+                "In the pre-Islamic era, men would vow to stay away from their wives for years just to torment them.",
+                "In this state, the woman was neither truly married nor divorced enough to marry elsewhere.",
+                "Islam abolished this inhumane tradition and recognized the natural rights of women."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "چار ماہ کی تحدید",
+              "english": "The Four-Month Limitation"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے ایلاء کی زیادہ سے زیادہ حد چار ماہ مقرر کر کے مرد کی خودسری پر لگام ڈالی۔",
+                "یہ مدت اس لیے رکھی گئی تاکہ مرد اپنے غصے پر قابو پا کر صلح کر لے یا حتمی فیصلہ کرے۔",
+                "اگر چار ماہ گزر جائیں تو شرعی عدالت مرد کو رجوع کرنے یا طلاق دینے پر مجبور کرتی ہے۔"
+              ],
+              "english": [
+                "Allah set a maximum limit of four months for Ila' to curb the husband's arbitrary behavior.",
+                "This period allows the husband to overcome his anger and reconcile or make a final decision.",
+                "If four months pass, the Shariah court compels the man to either reconcile or divorce."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایلاء کی شرعی تعریف",
+        "english": "Shariah Definition of Ila'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چار ماہ سے کم کی قسم",
+              "english": "Oaths Shorter Than Four Months"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص چار ماہ سے کم (مثلاً ایک یا دو ماہ) کی قسم کھائے تو وہ شرعی 'ایلاء' نہیں ہے۔",
+                "ایسی صورت میں چار ماہ گزرنے پر شوہر سے مطالبہ نہیں کیا جائے گا کیونکہ قسم پہلے ہی ختم ہو چکی ہو گی۔",
+                "تاہم، ایسی قسم توڑنے پر 'کفارہ یمین' (قسم کا کفارہ) ادا کرنا لازم ہوگا۔"
+              ],
+              "english": [
+                "If someone vows to stay away for less than four months, it is not considered legal 'Ila'.",
+                "In this case, the husband is not summoned after four months because the oath has already expired.",
+                "However, breaking such an oath still requires paying 'Kaffarat al-Yamin' (expiation for the oath)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایلاء کے احکام کا نفاذ",
+              "english": "Enforcement of Ila' Rulings"
+            },
+            "content": {
+              "urdu": [
+                "شرعی ایلاء صرف وہی ہے جس میں مدت چار ماہ یا اس سے زائد رکھی گئی ہو۔",
+                "اس میں چار ماہ پورے ہوتے ہی بیوی کو حق حاصل ہے کہ وہ قاضی سے رجوع کرے۔",
+                "یہ قانون خاندانی زندگی میں نظم و ضبط اور عورت کے وقار کو برقرار رکھنے کے لیے ہے۔"
+              ],
+              "english": [
+                "Legal Ila' is only that which specifies a period of four months or more.",
+                "Upon completion of four months, the wife has the right to approach a judge.",
+                "This law is established to maintain discipline in family life and preserve a woman's dignity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عورت کے حقوق کا تحفظ",
+        "english": "Protection of Women's Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جذباتی اور جسمانی تحفظ",
+              "english": "Emotional and Physical Protection"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے نکاح کو ایک ایسا رشتہ بنایا ہے جس میں میاں بیوی ایک دوسرے کے لیے سکون کا باعث ہیں۔",
+                "بغیر کسی شرعی وجہ کے بیوی کو ازدواجی حقوق سے محروم رکھنا گناہ ہے۔",
+                "ایلاء کے احکام ظاہر کرتے ہیں کہ اسلام عورت کو محض ایک 'شے' نہیں بلکہ جیتے جاگتے جذبات رکھنے والا انسان سمجھتا ہے۔"
+              ],
+              "english": [
+                "Islam made marriage a bond where spouses find tranquility in each other.",
+                "Depriving a wife of her marital rights without a valid Shariah reason is a sin.",
+                "Ila' rulings show that Islam views women not as objects, but as humans with feelings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاندانی استحکام",
+              "english": "Family Stability"
+            },
+            "content": {
+              "urdu": [
+                "چار ماہ کی مہلت دراصل صلح اور صفائی کے لیے ایک 'کولنگ پیریڈ' (سکون کا وقفہ) ہے۔",
+                "یہ مدت گزرنے کے بعد لٹکائے رکھنا ظلم ہے، اس لیے یا تو نباہ کریں یا شرافت سے جدا کر دیں۔",
+                "اسلامی معاشرے میں گھروں کو آباد رکھنا پہلی ترجیح ہے، مگر ذلت آمیز زندگی کی اجازت نہیں۔"
+              ],
+              "english": [
+                "The four-month grace period is essentially a 'cooling period' for reconciliation.",
+                "Keeping her in limbo after this period is oppression; hence, either keep her or part kindly.",
+                "Sustaining homes is a priority in an Islamic society, but a humiliating life is not permitted."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اصلاحِ معاشرہ کے اسباق",
+        "english": "Social Reform Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت اور سنجیدگی",
+              "english": "Guarding the Tongue and Seriousness"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو چاہیے کہ وہ اپنی زبان سے ایسی قسمیں نہ کھائے جو دوسروں کے لیے تکلیف دہ ہوں۔",
+                "ازدواجی زندگی میں جذبات کے بجائے عقل اور شرعی حدود کا لحاظ رکھنا چاہیے۔",
+                "قسم کو ڈھال بنا کر اللہ کی حلال کردہ چیزوں سے رکنا پسندیدہ عمل نہیں ہے۔"
+              ],
+              "english": [
+                "A believer should not utter oaths with his tongue that are painful for others.",
+                "In marital life, one should prioritize reason and Shariah limits over raw emotions.",
+                "Using an oath as a shield to refrain from what Allah made lawful is not a praiseworthy act."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا قیام",
+              "english": "Establishing Justice"
+            },
+            "content": {
+              "urdu": [
+                "ایلاء کا قانون ثابت کرتا ہے کہ اسلام میں طاقتور (شوہر) کو کمزور (بیوی) پر ظلم کی اجازت نہیں۔",
+                "قانون کی نظر میں سب برابر ہیں اور کسی کا حق مارنا اللہ کو سخت ناپسند ہے۔",
+                "معاشرتی امن کا انحصار اسی بات پر ہے کہ ہر شخص اپنی حدود اور دوسروں کے حقوق پہچانے۔"
+              ],
+              "english": [
+                "The law of Ila' proves that Islam does not allow the strong (husband) to oppress the weak (wife).",
+                "Everyone is equal before the law, and usurping someone's right is loathed by Allah.",
+                "Social peace depends on every individual knowing their limits and others' rights."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "hadithId": 325,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:703", "muslim:467"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الأذان",
+    "babId": 20
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (703)، ومسلم (467).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری اور امام مسلم دونوں نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (703) and Muslim (467)."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَلْيُخَفِّفْ",
+      "english": "Should be brief / lighten",
+      "urdu": "تخفیف کرے / ہلکی رکھے"
+    },
+    {
+      "arabic": "ذَا اَلْحَاجَةِ",
+      "english": "The one with a need / busy",
+      "urdu": "حاجت مند / مصروف"
+    },
+    {
+      "arabic": "أَمَّ",
+      "english": "Leads (in prayer)",
+      "urdu": "امامت کرے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث امامت کے ایک اہم اصول کو بیان کرتی ہے کہ امام کو مقتدیوں کی سہولت اور ان کی مختلف جسمانی و سماجی حالتوں کا خیال رکھنا چاہیے۔",
+    "english": "This Hadith establishes a fundamental principle of leading prayers: the Imam must consider the ease of the congregation and their varying physical and social conditions."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (703)",
+      "english": "Sahih al-Bukhari (703)"
+    },
+    {
+      "arabic": "صحيح مسلم (467)",
+      "english": "Sahih Muslim (467)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Muttafaqun Alayh"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "امامت میں اعتدال",
+        "english": "Moderation in Leading Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تخفیف کا حکم",
+              "english": "Command to be Brief"
+            },
+            "content": {
+              "urdu": [
+                "امام کو چاہیے کہ وہ جماعت کے دوران قراءت اور ارکان میں اعتدال اختیار کرے تاکہ مقتدیوں پر بوجھ نہ پڑے۔",
+                "یہ تخفیف سنت کے مطابق ہونی چاہیے، یعنی اتنی مختصر بھی نہ ہو کہ نماز کے ارکان ناقص رہ جائیں۔",
+                "نبی ﷺ نے ان ائمہ کو تنبیہ فرمائی جو نماز کو بلاوجہ طویل کر کے لوگوں کو جماعت سے بیزار کرتے تھے۔"
+              ],
+              "english": [
+                "The Imam should maintain moderation in recitation and prayer units to avoid causing hardship for the congregation.",
+                "Briefness must be within the bounds of Sunnah, ensuring that the essential parts of the prayer are performed correctly.",
+                "The Prophet (ﷺ) cautioned Imams against unnecessarily prolonging prayers, which might discourage people from joining the congregation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مقتدیوں کے احوال کی رعایت",
+        "english": "Considering the Congregation's Condition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف گروہ",
+              "english": "Diverse Groups"
+            },
+            "content": {
+              "urdu": [
+                "جماعت میں بوڑھے، بیمار اور کمزور لوگ ہوتے ہیں جن کے لیے طویل قیام دشوار ہوتا ہے۔",
+                "کچھ لوگ کاروباری یا دیگر ضروری کاموں کی وجہ سے جلدی میں ہو سکتے ہیں، دین اسلام ان کی ضروریات کا لحاظ رکھتا ہے۔",
+                "بچوں کی موجودگی میں بھی تخفیف کی جانی چاہیے تاکہ ان کی مائیں پریشان نہ ہوں۔"
+              ],
+              "english": [
+                "Congregations include the elderly, the sick, and the weak who may find long standing difficult.",
+                "Some people may be in a rush due to work or other urgent needs; Islam accounts for their necessities.",
+                "The presence of children also warrants brevity so that their parents/mothers are not distressed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انفرادی نماز کی آزادی",
+        "english": "Freedom in Individual Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تنہا نماز",
+              "english": "Praying Alone"
+            },
+            "content": {
+              "urdu": [
+                "جب انسان اکیلا نماز پڑھے تو اسے اختیار ہے کہ وہ جتنا چاہے طویل قیام، رکوع اور سجدہ کرے۔",
+                "نبی ﷺ راتوں کو تنہا اتنی طویل نماز پڑھتے تھے کہ آپ کے پاؤں مبارک متورم ہو جاتے تھے۔",
+                "انفرادی نماز میں طوالت اللہ سے قربت کا بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "When praying alone, an individual is free to prolong the standing, bowing, and prostration as much as they wish.",
+                "The Prophet (ﷺ) used to pray so long in private night prayers that his feet would swell.",
+                "Lengthy individual prayers are a superior means of seeking proximity to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حسنِ انتظام اور ہمدردی",
+              "english": "Management and Empathy"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں سکھاتی ہے کہ عوامی ذمہ داریوں میں دوسروں کی کمزوریوں کا خیال رکھنا چاہیے۔",
+                "سخت گیری اور بلاوجہ کی طوالت سے لوگ دین سے دور ہو سکتے ہیں۔",
+                "ایک اچھا امام وہ ہے جو سنت کی پیروی کے ساتھ ساتھ لوگوں کے لیے آسانی پیدا کرے۔"
+              ],
+              "english": [
+                "This Hadith teaches us to be considerate of others' limitations in public responsibilities.",
+                "Harshness and unnecessary prolongation can push people away from the faith.",
+                "A good Imam is one who follows the Sunnah while making things easy for the people."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

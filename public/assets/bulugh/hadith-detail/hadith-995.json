@@ -1,0 +1,259 @@
+{
+  "hadithId": 995,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/3"],
+    "kitabId": 9,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 79
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (6533)‏، ومسلم (1678)‏ واللفظ لمسلم، إذ البخاري ليس عنده اللفظ: \"يوم القيامة\".‏",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری اور امام مسلم نے روایت کیا ہے۔ یہ الفاظ مسلم کے ہیں کیونکہ بخاری میں 'یوم القيامة' کے الفاظ نہیں ہیں۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6533) and Muslim (1678). The wording belongs to Muslim, as Al-Bukhari's version does not explicitly include 'on the Day of Resurrection'."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَوَّلُ",
+      "english": "First",
+      "urdu": "سب سے پہلے"
+    },
+    {
+      "arabic": "يُقْضَى",
+      "english": "Judged / Decided",
+      "urdu": "فیصلہ کیا جائے گا"
+    },
+    {
+      "arabic": "اَلنَّاسِ",
+      "english": "People",
+      "urdu": "لوگ"
+    },
+    {
+      "arabic": "اَلدِّمَاءِ",
+      "english": "Blood (plural)",
+      "urdu": "خون / قتل"
+    },
+    {
+      "arabic": "يَوْمَ اَلْقِيَامَةِ",
+      "english": "Day of Resurrection",
+      "urdu": "قیامت کا دن"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں انسانی جان کی عظمت بیان کی گئی ہے کہ قیامت کے دن حقوق العباد میں سب سے پہلے قتل و غارت کے مقدمات کا فیصلہ ہوگا۔",
+    "english": "This Hadith highlights the sanctity of human life, stating that among the rights of servants, cases of bloodshed will be the first to be judged."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6533)",
+      "english": "Reported by Al-Bukhari (6533)"
+    },
+    {
+      "arabic": "رواه مسلم (1678)",
+      "english": "Reported by Muslim (1678)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah ibn Mas'ud"
+      },
+      "slug": "abdullah-ibn-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F8xP9G1N3D8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "انسانی جان کی حرمت",
+        "english": "Sacredness of Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قتلِ ناحق کی سنگینی",
+              "english": "Severity of Unjust Killing"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں ایک بے گناہ انسان کا قتل پوری انسانیت کے قتل کے برابر ہے۔",
+                "خون کے مقدمات کو ترجیح دینا اس کی عظیم حرمت اور اہمیت کی دلیل ہے۔",
+                "اللہ تعالیٰ مظلوم کو انصاف دلانے کے لیے سب سے پہلے اس کا فیصلہ کرے گا۔"
+              ],
+              "english": [
+                "In Islam, killing one innocent soul is like killing the whole of humanity.",
+                "Prioritizing blood-related cases proves its immense sanctity and gravity.",
+                "Allah will judge these cases first to ensure justice for the oppressed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق العباد میں اولیت",
+              "english": "Priority in Human Rights"
+            },
+            "content": {
+              "urdu": [
+                "حقوق العباد کے معاملات میں سب سے پہلے خون کے بارے میں پوچھا جائے گا۔",
+                "نماز اللہ کے حقوق میں اول ہے، جبکہ خون بندوں کے حقوق میں اول ہے۔",
+                "یہ اس بات کی وارننگ ہے کہ کسی کی جان لینا معمولی جرم نہیں ہے۔"
+              ],
+              "english": [
+                "Regarding the rights of servants, blood-related matters will be settled first.",
+                "Prayer is first in Allah's rights, while blood is first in people's rights.",
+                "This serves as a warning that taking a life is not a trivial crime."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدلِ الٰہی کا ظہور",
+        "english": "Manifestation of Divine Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مکمل انصاف کی فراہمی",
+              "english": "Provision of Absolute Justice"
+            },
+            "content": {
+              "urdu": [
+                "دنیا میں اگر کوئی قاتل بچ بھی جائے تو قیامت میں نہیں بچ پائے گا۔",
+                "قیامت کا دن مظلوموں کے لیے امید اور ظالموں کے لیے عبرت ہے۔",
+                "خون کا بدلہ نہایت باریکی اور گہرائی کے ساتھ لیا جائے گا۔"
+              ],
+              "english": [
+                "If a murderer escapes in this world, they will not escape on Judgment Day.",
+                "Resurrection Day is hope for the oppressed and a warning for oppressors.",
+                "Retribution for bloodshed will be taken with extreme precision and depth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق کا دفاع",
+              "english": "Defense of Truth"
+            },
+            "content": {
+              "urdu": [
+                "مقتول اپنا کٹا ہوا سر لے کر اللہ کے حضور قاتل کے خلاف پیش ہوگا۔",
+                "اللہ تعالیٰ کی عدالت میں کوئی رشوت یا سفارش کام نہیں آئے گی۔",
+                "ہر قطرۂ خون کا حساب دینا ہوگا جو کسی نے ناحق بہایا ہوگا۔"
+              ],
+              "english": [
+                "The murdered will stand before Allah holding their head against the killer.",
+                "No bribe or intercession will work in the court of Allah Almighty.",
+                "Every drop of blood shed unlawfully must be accounted for by the killer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اثرات",
+        "english": "Social Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امن و امان کی اہمیت",
+              "english": "Importance of Law and Order"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث معاشرے میں تشدد اور قتل و غارت کو روکنے کا بڑا ذریعہ ہے۔",
+                "جان کا تحفظ ہی ایک پرامن اور مستحکم معاشرے کی بنیاد ہے۔",
+                "اسلامی قوانین کا مقصد ہی انسانی جانوں کو محفوظ بنانا ہے۔"
+              ],
+              "english": [
+                "This Hadith is a major deterrent against violence and bloodshed in society.",
+                "Protecting life is the foundation of a peaceful and stable society.",
+                "The primary objective of Islamic laws is to secure human lives."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوفِ خدا اور احتساب",
+              "english": "Fear of Allah and Accountability"
+            },
+            "content": {
+              "urdu": [
+                "قیامت کے حساب کا خوف انسان کو گناہوں سے دور رکھتا ہے۔",
+                "ہر مسلمان کو چاہیے کہ وہ دوسرے کی جان کو محترم سمجھے۔",
+                "آخرت کے احتساب کا یقین ہی معاشرتی اصلاح کی کنجی ہے۔"
+              ],
+              "english": [
+                "Fear of accountability on Judgment Day keeps people away from sins.",
+                "Every Muslim must view the life of others as sacred and honorable.",
+                "Belief in the hereafter's reckoning is the key to social reform."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غصے پر قابو پانا",
+              "english": "Controlling Anger"
+            },
+            "content": {
+              "urdu": [
+                "اکثر قتل و غارت غصے اور جذبات میں آکر کیے جاتے ہیں۔",
+                "حدیث ہمیں اپنے جذبات کو قابو میں رکھنے کی ترغیب دیتی ہے۔",
+                "ایک لقمہ حرام کھانے سے زیادہ سخت کسی کا ناحق خون بہانا ہے۔"
+              ],
+              "english": [
+                "Most killings occur due to uncontrolled anger and sudden emotions.",
+                "The Hadith encourages us to keep our emotions under control.",
+                "Shedding innocent blood is far worse than eating forbidden food."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق کی ادائیگی",
+              "english": "Fulfilling Rights"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں دوسروں کے تمام حقوق ادا کرنے کی فکر کرنی چاہیے۔",
+                "کسی کو جانی یا مالی نقصان پہنچانے سے سختی سے گریز کریں۔",
+                "کامیاب وہ ہے جس کا ہاتھ اور زبان دوسرے مسلمانوں کے لیے باعثِ امن ہو۔"
+              ],
+              "english": [
+                "We must be concerned about fulfilling all the rights of others.",
+                "Strictly avoid causing any physical or financial harm to anyone.",
+                "Successful is the one whose hand and tongue provide peace to others."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

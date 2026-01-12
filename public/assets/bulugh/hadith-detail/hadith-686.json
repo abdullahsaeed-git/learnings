@@ -1,0 +1,264 @@
+{
+  "hadithId": 686,
+  "hadithNo": 39,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/39"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3642)، وأبو داود (3384)، والترمذي (1258)، وابن ماجه (2402)، وأحمد (4/375).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (3642)، ابوداؤد، ترمذی، ابن ماجہ اور احمد نے روایت کیا ہے۔ عروہ بارقی کی یہ روایت تجارت میں برکت اور وکالت کے مسائل کے لیے اصل بنیاد ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3642), Abu Dawud (3384), at-Tirmidhi (1258), Ibn Majah (2402), and Ahmad (4/375). It is a fundamental text regarding agency (Wakalah) and blessings in trade."
+  },
+  "importantWords": [
+    {
+      "arabic": "أُضْحِيَّةً",
+      "english": "Sacrificial animal",
+      "urdu": "قربانی کا جانور"
+    },
+    {
+      "arabic": "دِينَارًا",
+      "english": "Dinar (Gold coin)",
+      "urdu": "دینار (سونے کا سکہ)"
+    },
+    {
+      "arabic": "بِالْبَرَكَةِ",
+      "english": "With blessing",
+      "urdu": "برکت کے ساتھ"
+    },
+    {
+      "arabic": "تُرَابًا",
+      "english": "Dust / Soil",
+      "urdu": "مٹی"
+    },
+    {
+      "arabic": "لَرَبِحَ",
+      "english": "Would have profited",
+      "urdu": "نفع پاتا"
+    },
+    {
+      "arabic": "شَاةً",
+      "english": "Sheep / Goat",
+      "urdu": "بکری"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں وکیل (نمائندہ) کی طرف سے کی گئی ایسی تجارت کا ذکر ہے جس میں مؤکل کا فائدہ ہو، اور رسول اللہ ﷺ کی دعا کی برکت کا اظہار ہے۔",
+    "english": "This Hadith illustrates the concept of agency in Islam, showing how an agent can act for the benefit of the principal, and highlights the effectiveness of the Prophet's (ﷺ) blessing."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب المناقب",
+      "english": "Sahih al-Bukhari, Book of Merits"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عروة بن أبي الجعد البارقي",
+        "english": "Urwah bin Abi al-Ja'd al-Bariqi"
+      },
+      "slug": "urwah-bin-abi-al-jad-al-bariqi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R0_qV9N_x9o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وکالت اور تصرف کا جواز",
+        "english": "Validity of Agency and Discretion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وکیل کا دائرہ اختیار",
+              "english": "Scope of an Agent's Authority"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے ثابت ہوتا ہے کہ وکیل اپنے مؤکل کی بہتری کے لیے فیصلہ کر سکتا ہے۔",
+                "عروہ بارقی کو ایک بکری کا کہا گیا مگر انہوں نے ذہانت سے دو بکریاں خریدیں۔",
+                "اگر وکیل کا عمل مؤکل کے لیے نفع بخش ہو تو وہ شرعاً نافذ العمل ہوتا ہے۔"
+              ],
+              "english": [
+                "This Hadith proves an agent can make decisions for the principal's benefit.",
+                "Urwah (RA) was asked for one sheep but intelligently purchased two.",
+                "If an agent's action is beneficial for the principal, it is legally binding."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیعِ فضولی کا مسئلہ",
+              "english": "Issue of Fuduli Transaction"
+            },
+            "content": {
+              "urdu": [
+                "بغیر صریح اجازت کے کسی دوسرے کے مال میں نفع بخش تصرف کرنا بیع فضولی ہے۔",
+                "آپ ﷺ نے اس نفع اور بکری کو قبول فرما کر اس عمل کی توثیق فرما دی۔",
+                "جمہور فقہاء کے نزدیک ایسی بیع مؤکل کی اجازت یا خوشی پر موقوف ہوتی ہے۔"
+              ],
+              "english": [
+                "Transacting with another's property without explicit permission is 'Fuduli'.",
+                "The Prophet (ﷺ) validated this by accepting both the profit and the sheep.",
+                "Most jurists agree such sales are valid if the principal later approves."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "برکتِ نبوی اور دعا",
+        "english": "Prophetic Blessing and Supplication"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعا کی تاثیر",
+              "english": "Effectiveness of Supplication"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ کی دعا کی بدولت عروہ بارقی کی ہر تجارت میں غیر معمولی نفع ہوتا تھا۔",
+                "یہ آپ ﷺ کے معجزات میں سے ایک ہے کہ مٹی میں بھی نفع ملتا تھا۔",
+                "بزرگوں اور صالحین سے اپنے کاروبار کے لیے دعا کروانا مستحب عمل ہے۔"
+              ],
+              "english": [
+                "Due to the Prophet's prayer, Urwah found extraordinary profit in every trade.",
+                "It is a miracle that he could earn profit even from trading soil.",
+                "Asking the righteous for supplications for one's business is recommended."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفع میں زیادتی",
+              "english": "Increase in Profit"
+            },
+            "content": {
+              "urdu": [
+                "محنت اور دیانتداری کے ساتھ اللہ کی برکت شامل ہو جائے تو مال بڑھتا ہے۔",
+                "عروہ بارقی نے ایمانداری سے بچا ہوا دینار بھی واپس کر دیا تھا۔",
+                "امانتداری ہی وہ صفت ہے جو اللہ کی نصرت اور برکت کو کھینچ لاتی ہے۔"
+              ],
+              "english": [
+                "Wealth grows when divine blessing is combined with hard work and honesty.",
+                "Urwah (RA) honestly returned the remaining Dinar along with the sheep.",
+                "Integrity is the quality that attracts Allah's help and blessings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تجارتی بصیرت اور ذہانت",
+        "english": "Commercial Insight and Intelligence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مارکیٹ سے واقفیت",
+              "english": "Knowledge of the Market"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عروہ نے منڈی کے حالات دیکھ کر ایک دینار سے دو بکریاں خریدیں۔",
+                "تاجر کو چاہیے کہ وہ خرید و فروخت میں اپنی عقل اور مہارت استعمال کرے۔",
+                "اچھی قیمت پر خریداری اور مناسب نفع پر فروخت تجارت کا بنیادی اصول ہے۔"
+              ],
+              "english": [
+                "Urwah (RA) assessed market conditions to buy two sheep for a Dinar.",
+                "A trader should utilize their intellect and skill in buying and selling.",
+                "Buying at a good price and selling for fair profit is a core trade principle."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امانتداری کا امتحان",
+              "english": "The Test of Trust"
+            },
+            "content": {
+              "urdu": [
+                "عروہ چاہتے تو نفع خود رکھ لیتے مگر انہوں نے امانت کا حق ادا کیا۔",
+                "وکیل کے پاس موجود رقم مؤکل کی امانت ہوتی ہے جس کا حساب ضروری ہے۔",
+                "اسلامی معاشرت میں امانت و دیانت ہی معاشی نظام کی ریڑھ کی ہڈی ہے۔"
+              ],
+              "english": [
+                "Urwah could have kept the profit, but he fulfilled the duty of trust.",
+                "Money held by an agent is a trust that must be accounted for accurately.",
+                "Integrity and trust form the backbone of the economic system in Islam."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور عملی نتائج",
+        "english": "Educational and Practical Outcomes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوشحالی کا راستہ",
+              "english": "The Path to Prosperity"
+            },
+            "content": {
+              "urdu": [
+                "رزقِ حلال اور دیانت خوشحالی اور ذہنی سکون کا باعث بنتے ہیں۔",
+                "دوسروں کے مال میں خیانت کرنا برکت کو جڑ سے ختم کر دیتا ہے۔",
+                "اللہ تعالیٰ سچے تاجروں کے رزق میں خود وسعت پیدا فرماتا ہے۔"
+              ],
+              "english": [
+                "Halal provision and integrity lead to prosperity and peace of mind.",
+                "Betraying trust in others' property completely eradicates blessings.",
+                "Allah Himself expands the provision of truthful and honest merchants."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وکیل بنانا (Delegation)",
+              "english": "Delegation of Authority"
+            },
+            "content": {
+              "urdu": [
+                "اپنے کام دوسروں کے سپرد کرنا اور ان پر اعتماد کرنا سنتِ نبوی ہے۔",
+                "نبی ﷺ نے اپنے صحابہ کو مختلف مالی اور انتظامی ذمہ داریاں سونپیں۔",
+                "یہ عمل دوسروں کی صلاحیتوں کو نکھارنے اور ٹیم ورک کا بہترین سبق ہے۔"
+              ],
+              "english": [
+                "Delegating tasks and trusting others is a Prophetic Sunnah.",
+                "The Prophet (ﷺ) assigned various financial and administrative roles to Sahaba.",
+                "This practice polishes others' skills and provides a lesson in teamwork."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

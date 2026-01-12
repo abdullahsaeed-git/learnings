@@ -1,0 +1,283 @@
+{
+  "hadithId": 110,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["Bukhari 347", "Muslim 368"],
+    "kitabId": 1,
+    "inKitabBab": 9,
+    "arabicBook": "كتاب التيمم (Tayamum)",
+    "babId": 9
+  },
+
+  "takhreej": {
+    "arabic": " صحيح. رواه البخاري (347) ، ومسلم (368) . البخاري رقم (338) . ",
+    "urdu": "صحیح (درست) حدیث۔ اسے بخاری (347) اور مسلم (368) نے روایت کیا ہے۔ بخاری کی دوسری روایت 338 میں مکمل وضاحت موجود ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (347) and Muslim (368). Al-Bukhari also has narration No. 338 which provides further detail."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَعَثَنِي",
+      "english": "He sent me",
+      "urdu": "مجھے بھیجا"
+    },
+    {
+      "arabic": "فَأَجْنَبْتُ",
+      "english": "I became Junub",
+      "urdu": "میں جنبی ہو گیا"
+    },
+    {
+      "arabic": "فَلَمْ أَجِدِ اَلْمَاءَ",
+      "english": "I could not find water",
+      "urdu": "مجھے پانی نہ ملا"
+    },
+    {
+      "arabic": "فَتَمَرَّغْتُ",
+      "english": "I rolled myself",
+      "urdu": "میں لوٹ پوٹ ہوا"
+    },
+    {
+      "arabic": "اَلصَّعِيدِ",
+      "english": "The pure earth/dust",
+      "urdu": "پاک مٹی"
+    },
+    {
+      "arabic": "اَلدَّابَّةُ",
+      "english": "The animal",
+      "urdu": "چوپایہ"
+    },
+    {
+      "arabic": "ضَرْبَةً وَاحِدَةً",
+      "english": "One strike",
+      "urdu": "ایک مرتبہ مارا"
+    },
+    {
+      "arabic": "وَجْهَهُ",
+      "english": "His face",
+      "urdu": "اس کا چہرہ"
+    },
+    {
+      "arabic": "كَفَّيْهِ",
+      "english": "His palms/hands",
+      "urdu": "اس کی ہتھیلیاں/ہاتھ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث پانی کی عدم موجودگی میں غسلِ جنابت اور وضو کے لیے تیمم کا صحیح طریقہ بیان کرتی ہے، جس میں صرف ایک مرتبہ پاک مٹی پر ہاتھ مارنا اور پھر چہرے اور ہاتھوں پر مسح کرنا کافی ہے۔",
+    "english": "This Hadith clarifies the correct method of Tayammum (dry ablution) for both Wudu' and Ghusl when water is unavailable, requiring only a single strike on the clean earth followed by wiping the face and hands."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (347)",
+      "english": "Reported by Al-Bukhari (347)"
+    },
+    {
+      "arabic": "رواه مسلم (368)",
+      "english": "Reported by Muslim (368)"
+    },
+    {
+      "arabic": "رواية البخاري (338)",
+      "english": "Narration in Al-Bukhari (338)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمار بن ياسر",
+        "english": "'Ammar bin Yasir"
+      },
+      "slug": "ammar-bin-yasir"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=hadith_tayammum_110",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تیمم کی حکمت اور سہولت",
+        "english": "Wisdom and Ease of Tayammum"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غلط فہمی کی اصلاح",
+              "english": "Correction of Misunderstanding"
+            },
+            "content": {
+              "urdu": [
+                "عمار بن یاسر رضی اللہ عنہ کو یہ غلط فہمی ہوئی کہ غسل کی طرح تیمم میں بھی پورے جسم پر مٹی ملنا ضروری ہے۔",
+                "نبی صلی اللہ علیہ وسلم نے ان کی اس کوشش کی تصحیح فرمائی اور یہ دکھایا کہ طہارت کے لیے سادگی ہی کافی ہے۔",
+                "یہ حکم شریعت اسلامیہ کی آسانی اور یہ کہ طہارت کا مقصد ظاہری نجاست دور کرنا ہے، کی وضاحت کرتا ہے۔"
+              ],
+              "english": [
+                "Ammar bin Yasir (RA) misunderstood that Tayammum for Ghusl required rolling in the dirt, similar to a complete body bath.",
+                "The Prophet (PBUH) corrected his action, demonstrating that simplicity is sufficient for purification in this situation.",
+                "This ruling illustrates the ease of the Islamic Shariah and clarifies that the purpose of purification is achieved through simplified means."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تیمم برائے غسل",
+              "english": "Tayammum for Ghusl (Major Impurity)"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح طور پر ثابت کرتی ہے کہ تیمم غسل جنابت (بڑی ناپاکی) کا متبادل بھی ہو سکتا ہے۔",
+                "صحیح قول کے مطابق، تیمم وضو اور غسل دونوں کے لیے یکساں طریقے سے کیا جاتا ہے۔",
+                "یعنی پانی نہ ہونے پر بڑی ناپاکی کے لیے مٹی میں لوٹ پوٹ ہونا ضروری نہیں، بلکہ وہی سادہ طریقہ کافی ہے۔"
+              ],
+              "english": [
+                "This Hadith clearly proves that Tayammum can serve as a substitute for Ghusl from Janabah (major impurity).",
+                "According to the soundest opinion, Tayammum is performed identically for both Wudu' (minor) and Ghusl (major) purification.",
+                "Therefore, when water is absent, rolling in the dust for major impurity is unnecessary; the simple method is sufficient."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تیمم کا صحیح طریقہ",
+        "english": "The Correct Method of Tayammum"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمل کی وضاحت",
+              "english": "Clarification of the Action"
+            },
+            "content": {
+              "urdu": [
+                "نبی صلی اللہ علیہ وسلم نے اپنے ہاتھوں کو ایک مرتبہ زمین پر مار کر تیمم کا سادہ ترین طریقہ سکھایا۔",
+                "بخاری کی روایت میں پھونک مارنے کا ذکر ہے تاکہ ہاتھوں سے زائد مٹی جھاڑ دی جائے اور صرف پاکیزگی کا اثر لیا جائے۔",
+                "یہ عمل اس بات پر زور دیتا ہے کہ تیمم میں چہرے اور ہاتھوں پر مسح کرنا ہی ضروری ہے، بازوؤں پر نہیں۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) taught the simplest method of Tayammum by striking the ground with his hands only once.",
+                "The narration in Bukhari mentions blowing into the hands to remove excess dust, ensuring only the purifying effect is used.",
+                "This action emphasizes that only wiping the face and hands up to the wrist is necessary in Tayammum, not the forearms."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسح کا طریقہ کار",
+              "english": "Procedure of Wiping (Masah)"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی روایت میں ہاتھ کی پشت اور چہرے پر مسح کرنے کا طریقہ بیان ہوا ہے۔",
+                "بائیں ہاتھ کو دائیں ہاتھ پر ملنا اور پھر دونوں ہاتھوں کی ہتھیلیوں سے چہرے پر مسح کرنا مسنون ہے۔",
+                "دونوں ہاتھ پر مسح کرنا ضروری ہے، جو کہ وضو میں بھی ہاتھوں کی حد تک ہوتا ہے۔"
+              ],
+              "english": [
+                "Muslim's narration describes the method of wiping the back of the hands and the face.",
+                "It is part of the Sunnah to wipe the right hand with the left, followed by wiping the face with both palms that touched the earth.",
+                "Wiping both hands is mandatory, corresponding to the required limit of hands in Wudu'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف اور ترجیح",
+        "english": "Juristic Disagreement and Preference"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہاتھوں کی حد",
+              "english": "The Limit of the Hands"
+            },
+            "content": {
+              "urdu": [
+                "اہلِ سنت کے چاروں ائمہ میں تیمم میں ہاتھوں پر مسح کی حد پر اختلاف ہے۔",
+                "مالکی اور حنبلی فقہاء ہاتھ کہنیوں سمیت مسح کرنے کو ضروری قرار دیتے ہیں، جبکہ حنفی اور شافعی صرف کلائیوں تک کافی سمجھتے ہیں۔",
+                "یہ حدیث جو صرف چہرے اور ہتھیلیوں تک مسح کا حکم دیتی ہے، راجح قول کی بنیاد ہے۔"
+              ],
+              "english": [
+                "There is disagreement among the four Imams of Sunni jurisprudence regarding the limit of wiping the hands in Tayammum.",
+                "Maliki and Hanbali jurists obligate wiping the hands up to the elbows, while Hanafi and Shafi'i jurists consider wiping up to the wrists sufficient.",
+                "This Hadith, which explicitly commands wiping only the face and palms, forms the strongest basis for the preferred and simplest view."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایک یا دو ضربیں؟",
+              "english": "One Strike or Two?"
+            },
+            "content": {
+              "urdu": [
+                "اس صحیح حدیث میں نبی صلی اللہ علیہ وسلم نے صرف ایک ضرب (ایک مرتبہ ہاتھ مارنا) کا عمل کیا ہے۔",
+                "کچھ روایات میں دو ضربیں مارنے کا ذکر ہے، لیکن یہ روایت سند کے لحاظ سے زیادہ مضبوط اور واضح ہے۔",
+                "اس لیے ایک ہی ضرب مارنا، جس سے چہرے اور ہاتھوں پر مسح کیا جائے، زیادہ صحیح اور مسنون طریقہ ہے۔"
+              ],
+              "english": [
+                "In this authentic Hadith, the Prophet (PBUH) demonstrated the practice of Tayammum with only a single strike (Dharbah Wahidah).",
+                "Although some narrations mention two strikes, this particular narration is stronger and clearer in its chain of authority.",
+                "Therefore, performing Tayammum with a single strike, which covers both the face and the hands, is the most authentic and established Sunnah method."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آسانی اور میانہ روی",
+              "english": "Ease and Moderation"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث بیان کرتی ہے کہ اللہ کی شریعت میں کوئی مشقت اور دشواری نہیں، اور ہمیشہ آسانی کو ترجیح دی گئی ہے۔",
+                "ناپاکی کی حالت میں جلد از جلد طہارت حاصل کرنا ضروری ہے، چاہے پانی نہ ملنے پر تیمم ہی کرنا پڑے۔",
+                "مسلمان کو چاہیے کہ وہ دین کے احکام پر عمل کرے اور غیر ضروری وسوسوں اور مبالغہ آرائی سے بچے۔"
+              ],
+              "english": [
+                "This Hadith conveys that there is no hardship or difficulty in Allah's Shariah, and ease is always prioritized.",
+                "It is essential to achieve purification as quickly as possible when in a state of impurity, even if it requires performing Tayammum.",
+                "A Muslim should follow the divine commands while avoiding unnecessary exaggeration and obsessive doubts (Waswas)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی کا انتظار یا تیمم",
+              "english": "Waiting for Water vs. Tayammum"
+            },
+            "content": {
+              "urdu": [
+                "جب نماز کا وقت ہو جائے اور پانی کی عدم دستیابی ہو تو نماز کو تاخیر کرنے کے بجائے تیمم کر کے پڑھنا چاہیے۔",
+                "اگر نماز کے دوران پانی مل جائے تو تیمم ٹوٹ جائے گا اور نماز کو نئے سرے سے وضو کے ساتھ دہرانا ہو گا۔",
+                "تاہم، صحیح قول کے مطابق، اگر نماز وقت پر ادا ہو گئی تو اسے پانی ملنے پر دوبارہ دہرانا ضروری نہیں ہے۔"
+              ],
+              "english": [
+                "When the time for prayer arrives and water is not found, one should perform Tayammum and pray immediately, rather than delaying Salah.",
+                "If water becomes available during the prayer, the Tayammum becomes void, and the prayer must be restarted after performing Wudu'.",
+                "However, according to the correct view, if the prayer was completed on time with Tayammum, it does not need to be repeated upon finding water."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

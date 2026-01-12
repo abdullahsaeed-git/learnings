@@ -1,0 +1,265 @@
+{
+  "hadithId": 1089,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/10"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. أخرجه مسلم (1731) في كتاب الجهاد والسير، باب تأمير الإمام الأمراء على البعوث ووصيته إياهم بآداب الغزو وغيرها.",
+    "urdu": "صحیح۔ اسے امام مسلم نے کتاب الجہاد والسیر (1731) میں روایت کیا ہے۔ یہ حدیث اسلامی نظام جنگ اور بین الاقوامی قوانین کی بنیاد ہے۔",
+    "english": "Sahih. Reported by Muslim (1731) in the Book of Jihad and Expeditions, Chapter on the Appointment of Commanders and the Prophet's Advice."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَغُلُّوا",
+      "english": "Do not embezzle",
+      "urdu": "خیانت نہ کرو"
+    },
+    {
+      "arabic": "لَا تَغْدُرُوا",
+      "english": "Do not betray",
+      "urdu": "دھوکہ / عہد شکنی نہ کرو"
+    },
+    {
+      "arabic": "لَا تُمَثِّلُوا",
+      "english": "Do not mutilate",
+      "urdu": "مثلہ نہ کرو (اعضاء نہ کاٹو)"
+    },
+    {
+      "arabic": "وَلِيداً",
+      "english": "Child / Newborn",
+      "urdu": "بچہ"
+    },
+    {
+      "arabic": "الْجِزْيَةَ",
+      "english": "Tribute / Tax",
+      "urdu": "جزیہ"
+    },
+    {
+      "arabic": "ذِمَّةَ",
+      "english": "Protection / Covenant",
+      "urdu": "عہد / پناہ / ذمہ"
+    },
+    {
+      "arabic": "تُخْفِرُوا",
+      "english": "Break / Violate",
+      "urdu": "توڑ دینا / عہد شکنی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس طویل حدیث میں اسلامی جہاد کے اخلاقی آداب، دشمن کو دعوت دینے کے مراحل، معاہدوں کی پاسداری اور فوجی حکمت عملی کے اہم اصول بیان کیے گئے ہیں۔",
+    "english": "This comprehensive Hadith outlines the ethical codes of Islamic warfare, the stages of inviting enemies, the sanctity of covenants, and military strategic principles."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1731)",
+      "english": "Narrated by Muslim (1731)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "بریدة بن الحصيب الأسلمي",
+        "english": "Buraidah bin al-Husaib al-Aslami"
+      },
+      "slug": "buraidah-bin-al-husaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=3u_C9pG6_7w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنگی اخلاقیات اور حدود",
+        "english": "War Ethics and Boundaries"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معصوموں کے قتل کی ممانعت",
+              "english": "Prohibition of Killing Innocents"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی جہاد میں بچوں، عورتوں اور غیر جانبدار بوڑھوں کو قتل کرنا حرام ہے۔",
+                "لڑائی صرف ان سے ہوگی جو عملاً جنگ میں شریک ہوں یا رکاوٹ بنیں۔",
+                "یہ اصول ثابت کرتا ہے کہ اسلام دہشت گردی کے بجائے صرف دفاعی جنگ کا حامی ہے۔"
+              ],
+              "english": [
+                "In Islamic Jihad, killing children, women, and neutral elderly is strictly forbidden.",
+                "Combat is only permitted against those who actively participate in or hinder warfare.",
+                "This principle proves that Islam supports just defense rather than terrorism."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مثلہ اور خیانت سے بچنا",
+              "english": "Avoiding Mutilation and Embezzlement"
+            },
+            "content": {
+              "urdu": [
+                "دشمن کی لاشوں کی بے حرمتی (مثلہ) کرنا شریعت میں سخت ممنوع ہے۔",
+                "مالِ غنیمت میں تقسیم سے پہلے چوری کرنا یا خیانت کرنا کبیرہ گناہ ہے۔",
+                "اسلام جنگ کے دوران بھی اعلیٰ درجے کے اخلاق برقرار رکھنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Desecrating enemy corpses (mutilation) is strictly prohibited in Sharia law.",
+                "Stealing or embezzling war booty before its formal distribution is a major sin.",
+                "Islam teaches the maintenance of high moral standards even during active conflict."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دعوت اور جزیہ کا نظام",
+        "english": "Dawah and the Jizya System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعوتِ اسلام کی ترجیح",
+              "english": "Priority of Inviting to Islam"
+            },
+            "content": {
+              "urdu": [
+                "جنگ سے پہلے دشمن کو اسلام قبول کرنے کی دعوت دینا لازمی ہے۔",
+                "اسلام کا مقصد لوگوں کا خون بہانا نہیں بلکہ ان کی ہدایت ہے۔",
+                "اگر وہ اسلام قبول کر لیں تو وہ مسلمانوں کے برابر حقوق حاصل کر لیتے ہیں۔"
+              ],
+              "english": [
+                "Inviting the enemy to Islam before initiating combat is mandatory.",
+                "The objective of Islam is the guidance of humanity, not the shedding of blood.",
+                "Upon accepting Islam, they gain rights equal to those of all other Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جزیہ کی حقیقت",
+              "english": "Reality of Jizya"
+            },
+            "content": {
+              "urdu": [
+                "اسلام قبول نہ کرنے کی صورت میں جزیہ دے کر وہ اسلامی ریاست کے شہری بن سکتے ہیں۔",
+                "جزیہ کے بدلے ان کی جان، مال اور عبادت گاہوں کی حفاظت کی ذمہ داری لی جاتی ہے۔",
+                "یہ نظام مذہبی آزادی اور پرامن بقائے باہمی کی بہترین مثال ہے۔"
+              ],
+              "english": [
+                "If they decline Islam, they can pay Jizya to become citizens of the Islamic state.",
+                "In exchange for Jizya, the state assumes responsibility for protecting their lives and property.",
+                "This system is a prime example of religious freedom and peaceful coexistence."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاہدوں کی پاسداری اور پناہ",
+        "english": "Sanctity of Covenants and Asylum"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذمہ داری اور عہد",
+              "english": "Responsibility and Covenant"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو چاہیے کہ وہ پناہ دیتے وقت اللہ کے نام کا ذمہ نہ دیں بلکہ اپنا ذمہ دیں۔",
+                "یہ اس لیے ہے تاکہ انسانی غلطی کی صورت میں اللہ کے نام کی توہین نہ ہو۔",
+                "اپنے وعدوں کو پورا کرنا ایمان کا حصہ اور غداری سے بچنا فرض ہے۔"
+              ],
+              "english": [
+                "Muslims should grant their own protection rather than swearing by Allah's Name.",
+                "This precaution prevents the desecration of Allah's Name in case of human error.",
+                "Fulfilling promises is a part of faith, while avoiding betrayal is a religious duty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فیصلہ سازی میں احتیاط",
+              "english": "Caution in Decision Making"
+            },
+            "content": {
+              "urdu": [
+                "قلعہ بند دشمن کو اللہ کے حکم کے بجائے اپنے اجتہاد پر اتارنا چاہیے۔",
+                "انسان سے اجتہاد میں غلطی ہو سکتی ہے جسے اللہ کے حکم سے منسوب کرنا درست نہیں۔",
+                "یہ نقطہ اسلامی فقہ میں بشری خطاء اور الہامی حکم کے فرق کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "Besieged enemies should be judged by human reasoning rather than claiming Allah's Will.",
+                "Human errors in judgment should not be falsely attributed to Divine command.",
+                "This point clarifies the distinction between human error and revealed law in Fiqh."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امیر کی ذمہ داریاں",
+        "english": "Responsibilities of the Commander"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تقویٰ اور خوفِ خدا",
+              "english": "Piety and Fear of Allah"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی منصب پر فائز شخص کے لیے اللہ کا ڈر ہونا کامیابی کی پہلی شرط ہے۔",
+                "تقویٰ حاکم کو طاقت کے غلط استعمال اور ظلم سے روکتا ہے۔",
+                "نبی ﷺ کی یہ وصیت قیامت تک کے تمام مسلمان لیڈروں کے لیے مشعلِ راہ ہے۔"
+              ],
+              "english": [
+                "Fear of Allah is the primary condition for success for anyone in a leadership role.",
+                "Piety prevents a ruler from the misuse of power and the act of oppression.",
+                "This advice of the Prophet (ﷺ) is a guiding light for all future Muslim leaders."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ساتھیوں کے ساتھ بھلائی",
+              "english": "Kindness Towards Companions"
+            },
+            "content": {
+              "urdu": [
+                "امیر کو اپنے ماتحتوں کی ضرورت اور سہولت کا پورا خیال رکھنا چاہیے۔",
+                "ایک اچھا لیڈر وہی ہے جو اپنے سپاہیوں کی فلاح کو مقدم رکھے۔",
+                "اسلامی قیادت کا تصور خدمت اور خیر خواہی پر مبنی ہے۔"
+              ],
+              "english": [
+                "A commander must take full care of the needs and comforts of his subordinates.",
+                "A good leader is one who prioritizes the welfare of his soldiers above all else.",
+                "The concept of Islamic leadership is built upon service and sincere goodwill."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "hadithId": 341,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bukhari:1090",
+      "muslim:685"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "تقصير الصلاة",
+    "babId": 21
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (1090)‏، ومسلم (685)‏. وزيادة أحمد (6/241) صحيحة بشواهدها.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری اور امام مسلم نے روایت کیا ہے۔ امام احمد کی زیادتی بھی دیگر شواہد کی بنا پر صحیح ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1090) and Muslim (685). The addition by Ahmad (6/241) is authentic through supporting narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "فُرِضَتْ",
+      "english": "Obligated/Enjoined",
+      "urdu": "فرض کی گئی"
+    },
+    {
+      "arabic": "أُقِرَّتْ",
+      "english": "Maintained/Retained",
+      "urdu": "برقرار رکھی گئی"
+    },
+    {
+      "arabic": "أُتِمَّتْ",
+      "english": "Completed/Increased",
+      "urdu": "پوری کر دی گئی (چار کر دی گئی)"
+    },
+    {
+      "arabic": "وِتْرُ اَلنَّهَارِ",
+      "english": "Witr of the day",
+      "urdu": "دن کے وتر (طاق نماز)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بتاتی ہے کہ ابتداء میں تمام نمازیں دو رکعت تھیں، بعد میں مقیم کے لیے چار کر دی گئیں جبکہ مسافر کے لیے دو ہی رہنے دی گئیں۔ مغرب اور فجر اس قاعدے سے مستثنیٰ ہیں۔",
+    "english": "This Hadith explains the historical development of Salah: initially all prayers were two Rak'ahs. Later, for residents, they were increased to four, while for travelers, they remained two. Maghrib and Fajr were exceptions."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1090)",
+      "english": "Sahih al-Bukhari (1090)"
+    },
+    {
+      "arabic": "صحيح مسلم (685)",
+      "english": "Sahih Muslim (685)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز کی رکعات کی تاریخ",
+        "english": "History of the Number of Rak'ahs"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابتداءِ اسلام میں نماز",
+              "english": "Prayer in the Early Days of Islam"
+            },
+            "content": {
+              "urdu": [
+                "معراج کے موقع پر جب نمازیں فرض ہوئیں تو ظہر، عصر، عشاء اور فجر سب دو دو رکعت تھیں۔",
+                "ہجرت کے بعد اللہ تعالیٰ نے مقیم (حضر) کی نمازوں میں دو رکعت کا اضافہ فرما کر انہیں چار کر دیا۔",
+                "سفر کی نماز کو اللہ نے اپنی طرف سے بندوں کے لیے 'صدقہ' اور آسانی کے طور پر دو ہی رکھا۔"
+              ],
+              "english": [
+                "When Salah was first made obligatory during Mi'raj, Dhuhr, Asr, Isha, and Fajr were all two Rak'ahs.",
+                "After the Migration (Hijrah), Allah increased the Rak'ahs for residents to four.",
+                "Traveler's prayer was kept at two as a 'charity' and ease from Allah for His servants."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استثناء: فجر اور مغرب",
+        "english": "Exceptions: Fajr and Maghrib"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مغرب: دن کے وتر",
+              "english": "Maghrib: The Witr of the Day"
+            },
+            "content": {
+              "urdu": [
+                "مغرب کی نماز تین رکعت ہی رہی، اسے چار نہیں کیا گیا کیونکہ یہ دن کی طاق (وتر) نماز کہلاتی ہے۔",
+                "جیسے رات کے آخر میں 'وتر' پڑھے جاتے ہیں، مغرب دن کے اعمال کے اختتام پر وتر کی حیثیت رکھتی ہے۔"
+              ],
+              "english": [
+                "Maghrib prayer remained three Rak'ahs and was not increased because it is considered the odd (Witr) prayer of the day.",
+                "Just as Witr is prayed at the end of the night, Maghrib acts as the Witr at the end of daylight deeds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فجر: لمبی قرآت کی اہمیت",
+              "english": "Fajr: Significance of Long Recitation"
+            },
+            "content": {
+              "urdu": [
+                "فجر کو دو رکعت ہی رہنے دیا گیا تاکہ اس میں قرآت کو لمبا کیا جا سکے (قرآن الفجر)۔",
+                "فجر کے وقت فرشتے حاضر ہوتے ہیں، اس لیے اس کی طوالتِ قرآت رکعات کی کمی کا بدل بن گئی۔"
+              ],
+              "english": [
+                "Fajr was kept at two Rak'ahs to allow for long recitation (Qur'an al-Fajr).",
+                "Angels are present during the Fajr recitation, so the length of recitation compensates for the fewer Rak'ahs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قصرِ نماز کا حکم",
+        "english": "The Rule of Shortening Prayer (Qasr)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفر میں قصر",
+              "english": "Qasr during Travel"
+            },
+            "content": {
+              "urdu": [
+                "سفر میں چار رکعت والی نماز کو دو پڑھنا (قصر) دراصل اسی قدیم حالت کی طرف لوٹنا ہے جو ابتداء میں فرض ہوئی تھی۔",
+                "اس سے دینِ اسلام میں موجود آسانی اور سہولت کا پتہ چلتا ہے۔"
+              ],
+              "english": [
+                "Shortening a four-Rak'ah prayer to two (Qasr) during travel is essentially returning to the original state of Salah.",
+                "This highlights the inherent ease and flexibility within Islamic law."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

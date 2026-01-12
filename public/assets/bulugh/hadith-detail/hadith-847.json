@@ -1,0 +1,259 @@
+{
+  "hadithId": 847,
+  "hadithNo": 24,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/24"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (2721، 5151) ، ومسلم (1418).",
+    "urdu": "صحیح۔ اسے بخاری (2721، 5151) اور مسلم (1418) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2721, 5151) and Muslim (1418)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَحَقَّ",
+      "english": "Most deserving",
+      "urdu": "زیادہ حق رکھنے والی"
+    },
+    {
+      "arabic": "الشُّرُوطِ",
+      "english": "Conditions",
+      "urdu": "شرائط"
+    },
+    {
+      "arabic": "يُوَفَّى",
+      "english": "Fulfilled",
+      "urdu": "پورا کیا جائے"
+    },
+    {
+      "arabic": "اِسْتَحْلَلْتُمْ",
+      "english": "Made lawful",
+      "urdu": "تم نے حلال کیا"
+    },
+    {
+      "arabic": "الْفُرُوجَ",
+      "english": "Private parts",
+      "urdu": "شرمگاہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "نکاح کے وقت طے پانے والی جائز شرائط کو پورا کرنا ہر حال میں لازم ہے کیونکہ اسی معاہدے پر ازدواجی تعلق کی بنیاد رکھی جاتی ہے۔",
+    "english": "It is mandatory to fulfill all lawful conditions agreed upon at the time of marriage, as they form the basis of the marital bond."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5151)",
+      "english": "Sahih al-Bukhari (5151)"
+    },
+    {
+      "arabic": "صحيح مسلم (1418)",
+      "english": "Sahih Muslim (1418)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عقبة بن عامر الجهني",
+        "english": "Uqbah bin Amir Al-Juhani"
+      },
+      "slug": "uqbah-bin-amir"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI7lT3w0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "معاہدہ نکاح کی اہمیت",
+        "english": "Importance of the Marriage Contract"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عہد کی پاسداری",
+              "english": "Honoring the Covenant"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں وعدوں اور معاہدوں کو پورا کرنا ایمان کا حصہ قرار دیا گیا ہے۔",
+                "نکاح ایک 'میثاق غلیظ' (مضبوط عہد) ہے، اس لیے اس کی شرائط کی اہمیت عام معاہدوں سے زیادہ ہے۔",
+                "جو شخص نکاح کی شرائط سے پھرتا ہے وہ اللہ کے نام پر کیے گئے عہد کی خلاف ورزی کرتا ہے۔"
+              ],
+              "english": [
+                "In Islam, fulfilling promises and contracts is considered a fundamental part of faith.",
+                "Marriage is a 'Solemn Covenant,' making its conditions more significant than ordinary contracts.",
+                "Violating marriage conditions is a breach of a commitment made in the name of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتماد کی بحالی",
+              "english": "Maintaining Trust"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کے وقت کی گئی شرائط فریقین کے درمیان اعتماد کی فضا قائم کرتی ہیں۔",
+                "ان شرائط کی وفاداری سے ازدواجی زندگی میں سکون اور محبت پیدا ہوتی ہے۔",
+                "شرائط کو نظر انداز کرنا گھریلو تنازعات اور طلاق کا بڑا سبب بنتا ہے۔"
+              ],
+              "english": [
+                "Conditions set during the marriage establish an atmosphere of trust between the spouses.",
+                "Fulfilling these conditions fosters peace and love within the marital life.",
+                "Ignoring these terms is a major cause of domestic disputes and eventual divorce."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جائز اور ناجائز شرائط",
+        "english": "Lawful vs Unlawful Conditions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جائز شرائط کی حدود",
+              "english": "Scope of Lawful Conditions"
+            },
+            "content": {
+              "urdu": [
+                "وہ تمام شرائط جو کتاب و سنت کے خلاف نہ ہوں، انہیں پورا کرنا لازمی ہے۔",
+                "مثال کے طور پر مہر کی ادائیگی، رہائش کی فراہمی یا نان نفقہ سے متعلق جائز مطالبات۔",
+                "اگر عورت نے شہر نہ چھوڑنے یا دوسری شادی نہ کرنے کی جائز شرط رکھی ہو تو اس کا لحاظ ضروری ہے۔"
+              ],
+              "english": [
+                "All conditions that do not contradict the Quran and Sunnah must be strictly fulfilled.",
+                "Examples include the payment of Mahr, provision of housing, or fair maintenance.",
+                "If a woman sets a lawful condition like not leaving her city, it must be respected."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناجائز شرائط کا حکم",
+              "english": "Ruling on Unlawful Conditions"
+            },
+            "content": {
+              "urdu": [
+                "ایسی کوئی بھی شرط جو حلال کو حرام یا حرام کو حلال کرے، شرعاً باطل ہے۔",
+                "مثلاً دوسری بیوی کو طلاق دینے کی شرط لگانا یا کسی شرعی حق سے دستبردار ہونا۔",
+                "ایسی باطل شرائط کی پاسداری کرنا ضروری نہیں بلکہ ان سے بچنا واجب ہے۔"
+              ],
+              "english": [
+                "Any condition that makes the lawful prohibited or vice versa is legally void.",
+                "Examples include demanding the divorce of a co-wife or forfeiting a fundamental Sharia right.",
+                "Fulfilling such void conditions is not required; rather, avoiding them is mandatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عورت کے حقوق کا تحفظ",
+        "english": "Safeguarding Women's Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقِ مہر کی ادائیگی",
+              "english": "Payment of Mahr"
+            },
+            "content": {
+              "urdu": [
+                "مہر وہ بنیادی شرط ہے جس کے ذریعے ازدواجی تعلق حلال ہوتا ہے۔",
+                "اس کی ادائیگی میں ٹال مٹول کرنا یا اسے ہضم کر جانا سنگین گناہ ہے۔",
+                "حدیث میں 'استحلالِ فروج' کا تذکرہ خاص طور پر مہر کی اہمیت کو اجاگر کرتا ہے۔"
+              ],
+              "english": [
+                "Mahr is the primary condition through which the marital relationship becomes lawful.",
+                "Delaying its payment or misappropriating it is a grave and punishable sin.",
+                "The mention of 'making private parts lawful' highlights the absolute priority of Mahr."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی وقار کا لحاظ",
+              "english": "Respect for Human Dignity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام عورت کو ایک معزز فریق تسلیم کرتا ہے جس کی شرائط کی قانونی حیثیت ہے۔",
+                "نکاح کو محض جسمانی ضرورت نہیں بلکہ ایک قانونی اور اخلاقی ذمہ داری بنایا گیا ہے۔",
+                "شرائط کی پابندی عورت کے سماجی اور معاشی تحفظ کو یقینی بناتی ہے۔"
+              ],
+              "english": [
+                "Islam recognizes the woman as an honorable party whose conditions have legal standing.",
+                "Marriage is framed not just as a physical need but as a legal and moral responsibility.",
+                "Adherence to conditions ensures the social and economic security of the woman."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و تربیتی پہلو",
+        "english": "Juristic and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدالتی چارہ جوئی",
+              "english": "Legal Recourse"
+            },
+            "content": {
+              "urdu": [
+                "اگر شوہر نکاح کی جائز شرائط پوری نہ کرے تو بیوی کو فسخِ نکاح کا حق حاصل ہو سکتا ہے۔",
+                "اسلامی عدالتیں ان شرائط کو بنیاد بنا کر مظلوم فریق کو انصاف فراہم کرتی ہیں۔",
+                "یہ حدیث نکاح کے معاملے میں قانون کی بالادستی کو واضح کرتی ہے۔"
+              ],
+              "english": [
+                "If a husband fails to fulfill lawful marriage conditions, the wife may have the right to annulment.",
+                "Islamic courts use these conditions as a basis to provide justice to the aggrieved party.",
+                "This Hadith clarifies the supremacy of the law within the marital contract."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوشگوار زندگی کا راز",
+              "english": "Secret to a Happy Life"
+            },
+            "content": {
+              "urdu": [
+                "شفافیت اور دیانتداری ہی بہترین ازدواجی زندگی کی ضمانت ہے۔",
+                "مرد کو چاہیے کہ وہ وہی وعدے کرے جنہیں وہ پورا کرنے کی استطاعت رکھتا ہو۔",
+                "سنتِ نبوی ﷺ پر عمل کرنا ہی دونوں جہانوں میں سرخروئی کا راستہ ہے۔"
+              ],
+              "english": [
+                "Transparency and honesty are the guarantees of an excellent married life.",
+                "A man should only make promises that he has the actual capacity to fulfill.",
+                "Following the Prophetic Sunnah is the path to success in both this world and the hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

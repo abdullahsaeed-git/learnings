@@ -1,0 +1,259 @@
+{
+  "hadithId": 1100,
+  "hadithNo": 21,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/21"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (2719) في حديث طويل، وأصله في صحيح مسلم (1753) من حديث خالد بن الوليد وعوف بن مالك رضي الله عنهما.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (2719) نے ایک طویل روایت میں ذکر کیا ہے، اور اس کی اصل صحیح مسلم (1753) میں خالد بن ولید اور عوف بن مالک رضی اللہ عنہما سے مروی ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2719) in a lengthy tradition. Its basis is found in Sahih Muslim (1753) narrated by Khalid bin al-Walid and 'Awf bin Malik (R.A)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَضَى",
+      "english": "Decreed/Decided",
+      "urdu": "فیصلہ فرمایا"
+    },
+    {
+      "arabic": "السَّلَبِ",
+      "english": "Spoils/Belongings of the slain",
+      "urdu": "مقتول کا ساز و سامان"
+    },
+    {
+      "arabic": "لِلْقَاتِلِ",
+      "english": "For the killer",
+      "urdu": "قاتل کے لیے"
+    },
+    {
+      "arabic": "مَقْتُول",
+      "english": "Slain enemy",
+      "urdu": "مقتول دشمن"
+    },
+    {
+      "arabic": "غَزْوَة",
+      "english": "Battle",
+      "urdu": "جنگ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا خلاصہ یہ ہے کہ میدانِ جنگ میں جو مجاہد کسی دشمن کو قتل کرے، اس دشمن کے ذاتی ہتھیار اور ساز و سامان (سلب) کا حقدار وہ مجاہد خود ہوتا ہے، یہ مالِ غنیمت کے عام حصے سے الگ ہے۔",
+    "english": "The summary of this Hadith is that a warrior who kills an enemy in battle is entitled to the personal belongings and weapons (Salab) of the slain enemy, separate from the general distribution of spoils."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1753)",
+      "english": "Sahih Muslim (1753)"
+    },
+    {
+      "arabic": "سنن أبي داود (2719)",
+      "english": "Sunan Abi Dawud (2719)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عوف بن مالك الأشجعي",
+        "english": "Awf bin Malik al-Ashja'i"
+      },
+      "slug": "awf-bin-malik-al-ashjai"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سلب کی تعریف اور حکم",
+        "english": "Definition and Ruling of Salab"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سلب کا مفہوم",
+              "english": "Concept of Salab"
+            },
+            "content": {
+              "urdu": [
+                "سلب سے مراد وہ سامان ہے جو دشمن کے سپاہی کے جسم پر یا اس کے ساتھ ہو۔",
+                "اس میں لباس، ہتھیار، گھوڑا اور وہ تمام چیزیں شامل ہیں جو جنگ میں اس کے استعمال میں تھیں۔",
+                "یہ سامان مالِ غنیمت کے عام پانچویں حصے (خمس) سے مستثنیٰ سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "Salab refers to the belongings found on the enemy soldier's person or with him.",
+                "This includes clothing, weapons, armor, the horse, and items used in combat.",
+                "These items are considered exempt from the usual one-fifth (Khums) distribution of spoils."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مجاہد کی حوصلہ افزائی",
+              "english": "Encouraging the Warrior"
+            },
+            "content": {
+              "urdu": [
+                "اس حکم کا ایک مقصد مجاہدین کو جرات اور بہادری پر ابھارنا ہے۔",
+                "دشمن کے بڑے جنگجوؤں کو نشانہ بنانے پر مجاہد کو یہ اضافی انعام دیا جاتا ہے۔",
+                "یہ قاعدہ تب لاگو ہوتا ہے جب مجاہد اپنی جان خطرے میں ڈال کر دشمن کو زیر کرے۔"
+              ],
+              "english": [
+                "One purpose of this ruling is to encourage bravery and valor among the Mujahideen.",
+                "It serves as an extra reward for targeting key enemy combatants in the field.",
+                "This rule applies when a warrior risks his life to personally overcome the foe."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی شرائط و ضوابط",
+        "english": "Juristic Terms and Conditions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قتل کی شرط",
+              "english": "Condition of Killing"
+            },
+            "content": {
+              "urdu": [
+                "سلب کا حقدار صرف وہی ہے جو دشمن کو قتل کرے یا اسے مکمل بے بس کر دے۔",
+                "صرف زخمی کرنے یا بھاگتے ہوئے کو پیچھے چھوڑنے پر یہ حق حاصل نہیں ہوتا۔",
+                "امام شافعی کے نزدیک یہ قاتل کا حق ہے چاہے امام (حاکم) اس کا اعلان کرے یا نہ کرے۔"
+              ],
+              "english": [
+                "Only the one who kills or completely incapacitates the enemy is entitled to the Salab.",
+                "Merely wounding or chasing away an enemy does not grant this specific right.",
+                "According to Imam Shafi'i, this is a right regardless of the leader's specific announcement."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام کی صوابدید",
+              "english": "Discretion of the Leader"
+            },
+            "content": {
+              "urdu": [
+                "کچھ فقہاء کے نزدیک یہ حق تب ملتا ہے جب حاکمِ وقت جنگ سے پہلے اس کا اعلان کرے۔",
+                "امام مالک کے نزدیک سلب کو بھی عام غنیمت کی طرح تقسیم کیا جا سکتا ہے اگر مصلحت ہو۔",
+                "تاہم، حدیث کا ظاہر اسی بات پر دلالت کرتا ہے کہ یہ مقتول کے قاتل کا حق ہے۔"
+              ],
+              "english": [
+                "Some jurists believe this right applies only if the leader announces it before the battle.",
+                "Imam Malik suggests Salab can be treated like general spoils if it serves a benefit.",
+                "However, the literal meaning of the Hadith indicates it is the killer's inherent right."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدل اور نظم و ضبط",
+        "english": "Justice and Discipline"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعوے کی تصدیق",
+              "english": "Verification of the Claim"
+            },
+            "content": {
+              "urdu": [
+                "مجاہد کو اپنا دعویٰ ثابت کرنے کے لیے گواہ یا واضح ثبوت پیش کرنا ہوتا ہے۔",
+                "تاکہ مال کے حصول کے لیے غلط بیانی یا آپسی جھگڑوں سے بچا جا سکے۔",
+                "رسول اللہ ﷺ خود گواہی سن کر سلب کا فیصلہ صادر فرماتے تھے۔"
+              ],
+              "english": [
+                "The warrior must provide witnesses or clear evidence to prove his claim.",
+                "This prevents false claims or internal disputes over the acquisition of property.",
+                "The Prophet (ﷺ) himself would listen to testimonies before decreeing the Salab."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خیانت سے اجتناب",
+              "english": "Avoiding Embezzlement"
+            },
+            "content": {
+              "urdu": [
+                "سلب کے علاوہ باقی تمام سامان غنیمت بیت المال میں جمع کرانا ضروری ہے۔",
+                "چوری چھپے غنیمت کا مال رکھنا (غلول) اسلام میں سخت حرام اور جہنم کی وعید ہے۔",
+                "شریعت نے حقوق واضح کر دیے ہیں تاکہ ہر شخص اپنی حدود میں رہے۔"
+              ],
+              "english": [
+                "Apart from the Salab, all other captured spoils must be surrendered to the treasury.",
+                "Secretly taking spoils (Ghulul) is strictly forbidden and leads to the Fire.",
+                "Shariah defines rights clearly so that every individual remains within their limits."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور حکمت",
+        "english": "Practical Lesson and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جرات کی قدردانی",
+              "english": "Appreciation of Courage"
+            },
+            "content": {
+              "urdu": [
+                "اسلام بہادری کی قدر کرتا ہے اور اسے انعامات کے ذریعے سراہتا ہے۔",
+                "یہ قانون ثابت کرتا ہے کہ محنت اور جفاکشی کا صلہ ملنا چاہیے۔",
+                "دین اور دنیا کے مفادات میں توازن برقرار رکھنا اسلامی تعلیمات کا حصہ ہے۔"
+              ],
+              "english": [
+                "Islam values courage and appreciates it through tangible rewards.",
+                "This law proves that hard work and bravery deserve to be compensated.",
+                "Maintaining a balance between religious and worldly interests is part of Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سپہ سالار کی ذمہ داری",
+              "english": "Responsibility of the Commander"
+            },
+            "content": {
+              "urdu": [
+                "قائد کو چاہیے کہ وہ اپنے ماتحتوں کے حقوق کا خیال رکھے اور میرٹ پر فیصلے کرے۔",
+                "انصاف پر مبنی فیصلے لشکر کے مورال کو بلند رکھتے ہیں۔",
+                "حق دار کو اس کا حق دینا ہی معاشرتی اور عسکری استحکام کی بنیاد ہے۔"
+              ],
+              "english": [
+                "A leader must care for the rights of subordinates and make decisions on merit.",
+                "Justice-based decisions keep the morale of the army high.",
+                "Giving the rightful person their due is the basis of social and military stability."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

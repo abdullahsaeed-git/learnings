@@ -1,0 +1,259 @@
+{
+  "hadithId": 1229,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:6716", "https://sunnah.com/muslim:997"],
+    "kitabId": 15,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب العتق",
+    "babId": 101
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (6716)، ومسلم (997)، والنسائي (8/246).",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے بخاری (6716) اور مسلم (997) نے روایت کیا ہے۔ اس میں مدبر غلام کی فروخت اور ضرورت کے وقت وصیت کی منسوخی کا بیان ہے۔",
+    "english": "Sahih. Muttafaqun 'Alayh. Reported by Al-Bukhari (6716), Muslim (997), and An-Nasa'i (8/246)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْتَقَ",
+      "english": "Emancipated",
+      "urdu": "آزاد کیا"
+    },
+    {
+      "arabic": "دُبُرٍ",
+      "english": "After death (Mudabbar)",
+      "urdu": "مرنے کے بعد"
+    },
+    {
+      "arabic": "يَشْتَرِيهِ",
+      "english": "Buy him",
+      "urdu": "اسے خریدے"
+    },
+    {
+      "arabic": "دَيْنٌ",
+      "english": "Debt",
+      "urdu": "قرض"
+    },
+    {
+      "arabic": "اقْضِ",
+      "english": "Pay/Settle",
+      "urdu": "ادا کرو"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ اگر کوئی شخص اپنے غلام کو مرنے کے بعد آزاد کرنے کی وصیت کرے (مدبر بنائے) لیکن وہ خود محتاج یا مقروض ہو، تو حاکمِ وقت اس وصیت کو منسوخ کر کے غلام فروخت کر سکتا ہے تاکہ قرض ادا ہو سکے۔",
+    "english": "This Hadith establishes that if a person manumits a slave effective after death but is himself in debt or need, the ruler can cancel the arrangement and sell the slave to settle the debt."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2141)",
+      "english": "Reported by Al-Bukhari (2141)"
+    },
+    {
+      "arabic": "رواه مسلم (997)",
+      "english": "Reported by Muslim (997)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مدبر غلام اور اس کی فروخت",
+        "english": "The Mudabbar Slave and His Sale"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تدبیر کا مفہوم",
+              "english": "Meaning of Tadbir"
+            },
+            "content": {
+              "urdu": [
+                "تدبیر سے مراد غلام کو مالک کی موت کے بعد آزاد کرنے کا وعدہ ہے۔",
+                "ایسا غلام 'مدبر' کہلاتا ہے کیونکہ اس کی آزادی مالک کی موت سے جڑی ہے۔",
+                "نبی ﷺ نے ضرورت پڑنے پر اس تدبیر کو منسوخ کر کے اسے فروخت کیا۔"
+              ],
+              "english": [
+                "Tadbir refers to promising a slave freedom after the master's death.",
+                "Such a slave is called 'Mudabbar' as his freedom follows the master.",
+                "The Prophet (ﷺ) cancelled this arrangement and sold him due to need."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فروخت کا شرعی جواز",
+              "english": "Legal Permissibility of Sale"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک مدبر غلام کو ضرورت کے وقت بیچا جا سکتا ہے۔",
+                "اگر مالک مقروض ہو تو قرض کی ادائیگی آزادی پر مقدم ہوتی ہے۔",
+                "یہ حدیث ثابت کرتی ہے کہ حقوق العباد (قرض) نفل نیکی (آزادی) پر غالب ہیں۔"
+              ],
+              "english": [
+                "Majority scholars agree a Mudabbar slave can be sold if necessary.",
+                "Debt repayment takes precedence over voluntary manumission of slaves.",
+                "This Hadith proves that people's rights (debts) outweigh voluntary acts."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مالی ترجیحات اور کفالت",
+        "english": "Financial Priorities and Support"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنی ذات سے آغاز",
+              "english": "Beginning with Oneself"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ خرچ کی ابتدا اپنی ذات اور ضروریات سے کرو۔",
+                "دوسروں پر صدقہ کرنے سے پہلے اپنی معاشی حالت دیکھنا ضروری ہے۔",
+                "اسلام میں اعتدال کی تعلیم دی گئی ہے تاکہ انسان خود محتاج نہ ہو۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught to begin spending with oneself and needs.",
+                "It is essential to check one's financial state before giving charity.",
+                "Islam teaches moderation so that a person does not become needy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرض کی ادائیگی کی اہمیت",
+              "english": "Importance of Debt Repayment"
+            },
+            "content": {
+              "urdu": [
+                "قرض کی ادائیگی کو تمام نفلی عبادات اور صدقات پر فوقیت حاصل ہے۔",
+                "نبی ﷺ نے انصاری کو رقم دے کر سب سے پہلے قرض ادا کرنے کا کہا۔",
+                "قرض کی حالت میں مرنا آخرت میں جوابدہی کا باعث بن سکتا ہے۔"
+              ],
+              "english": [
+                "Paying debts is superior to all voluntary worship and charities.",
+                "The Prophet (ﷺ) told the Ansari to pay his debts first with the money.",
+                "Dying in debt can lead to severe accountability in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حاکمِ وقت کی ذمہ داری",
+        "english": "Responsibility of the Ruler"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاملات میں مداخلت",
+              "english": "Interference in Affairs"
+            },
+            "content": {
+              "urdu": [
+                "حاکمِ وقت لوگوں کے مالی معاملات کی درستی کے لیے مداخلت کر سکتا ہے۔",
+                "نبی ﷺ نے عوامی طور پر غلام کو بیچ کر مالک کی مالی مدد فرمائی۔",
+                "یہ عمل رعایا کی معاشی فلاح و بہبود کی فکر کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "The ruler can intervene to rectify the financial affairs of the people.",
+                "The Prophet (ﷺ) publicly sold the slave to assist the owner financially.",
+                "This action shows concern for the economic welfare of the subjects."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شفافیت اور نیلامی",
+              "english": "Transparency and Auctioning"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے سرِ عام 'کون خریدے گا' کہہ کر شفاف قیمت کا تعین کیا۔",
+                "یہ عمل تجارت میں نیلامی (Auction) کے جواز کو ثابت کرتا ہے۔",
+                "اس کا مقصد چیز کی بہترین قیمت حاصل کرنا تھا تاکہ قرض اتر سکے۔"
+              ],
+              "english": [
+                "By asking 'Who will buy?', the Prophet (ﷺ) ensured a transparent price.",
+                "This action proves the permissibility of auctions in Islamic trade.",
+                "The goal was to get the best price to effectively settle the debt."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشی توازن",
+              "english": "Economic Balance"
+            },
+            "content": {
+              "urdu": [
+                "نیکی کے شوق میں اپنے اہل و عیال کو تنگی میں نہ ڈالیں۔",
+                "اسلامی تعلیمات کے مطابق معاشی منصوبہ بندی ایمان کا حصہ ہے۔",
+                "صدقہ صرف اس مال سے ہوتا ہے جو بنیادی ضروریات سے زائد ہو۔"
+              ],
+              "english": [
+                "Do not put your family in hardship due to enthusiasm for charity.",
+                "According to Islamic teachings, financial planning is part of faith.",
+                "Charity is only given from wealth that exceeds basic necessities."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرض سے بچاؤ",
+              "english": "Avoiding Debt"
+            },
+            "content": {
+              "urdu": [
+                "ہمیشہ قرض سے بچنے کی دعا کریں اور غیر ضروری قرض نہ لیں۔",
+                "اگر قرض ہو تو اسے جلد از جلد اتارنے کی کوشش کرنی چاہیے۔",
+                "قرض کی ادائیگی میں تاخیر کرنا ظلم کے مترادف ہو سکتا ہے۔"
+              ],
+              "english": [
+                "Always pray to be safe from debt and avoid unnecessary borrowing.",
+                "If in debt, one should strive to pay it back as soon as possible.",
+                "Delaying the repayment of a debt can be a form of oppression."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

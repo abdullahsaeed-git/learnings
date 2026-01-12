@@ -1,0 +1,259 @@
+{
+  "hadithId": 1122,
+  "hadithNo": 43,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/43"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1756). وأخرجه أبو داود (3037) والترمذي (1552).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (1756) میں روایت کیا ہے۔ یہ مالِ غنیمت اور مالِ فے کے احکام کو واضح کرتی ہے۔",
+    "english": "Sahih. Reported by Muslim (1756), Abu Dawud (3037), and At-Tirmidhi (1552). It distinguishes the rulings of Fai' and Ghanimah."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَهْمُكُمْ",
+      "english": "Your share",
+      "urdu": "تمہارا حصہ"
+    },
+    {
+      "arabic": "عَصَتْ",
+      "english": "Disobeyed",
+      "urdu": "نافرمانی کی"
+    },
+    {
+      "arabic": "خُمُسَهَا",
+      "english": "Its fifth part",
+      "urdu": "اس کا پانچواں حصہ"
+    },
+    {
+      "arabic": "قَرْيَةٍ",
+      "english": "Village/Town",
+      "urdu": "بستی"
+    },
+    {
+      "arabic": "لِلَّهِ وَرَسُولِهِ",
+      "english": "For Allah and His Messenger",
+      "urdu": "اللہ اور اس کے رسول کے لیے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں صلح اور جنگ کے نتیجے میں حاصل ہونے والے علاقوں اور اموال کے درمیان فرق بیان کیا گیا ہے۔ صلح سے حاصل شدہ علاقے 'فے' اور جنگ سے حاصل شدہ 'غنیمت' کہلاتے ہیں۔",
+    "english": "This Hadith distinguishes between territories acquired through peace (Fai') and those acquired through combat (Ghanimah), outlining how the ownership and shares are distributed."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1756)",
+      "english": "Sahih Muslim (1756)"
+    },
+    {
+      "arabic": "سنن أبي داود (3037)",
+      "english": "Sunan Abi Dawud (3037)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صلح اور جنگ کے اموال کا فرق",
+        "english": "Difference Between Peace and War Assets"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صلح سے حاصل شدہ بستی (فے)",
+              "english": "Peacefully Acquired Towns (Fai')"
+            },
+            "content": {
+              "urdu": [
+                "جو علاقہ بغیر لڑائی کے صلح سے حاصل ہو اسے 'فے' کہا جاتا ہے۔",
+                "ایسے علاقوں میں مسلمانوں کو عام شہریت اور وراثت کے حقوق حاصل ہوتے ہیں۔",
+                "اس مال کو بیت المال میں جمع کیا جاتا ہے تاکہ مسلمانوں کی فلاح و بہبود پر خرچ ہو۔"
+              ],
+              "english": [
+                "Territory acquired through a peace treaty without fighting is known as 'Fai'.",
+                "In such regions, Muslims enjoy general citizenship and inheritance rights.",
+                "These assets are deposited into the public treasury to be spent on Muslim welfare."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنگ سے حاصل شدہ بستی (غنیمت)",
+              "english": "War-Acquired Towns (Ghanimah)"
+            },
+            "content": {
+              "urdu": [
+                "جو علاقہ دشمن کی نافرمانی اور قتال کے بعد فتح ہو اسے 'غنیمت' سمجھا جاتا ہے۔",
+                "اس مال کا پانچواں حصہ (خمس) اللہ اور اس کے رسول (ریاست) کا حق ہے۔",
+                "باقی چار حصے ان مجاہدین میں تقسیم کیے جاتے ہیں جنہوں نے جنگ میں حصہ لیا۔"
+              ],
+              "english": [
+                "Territory conquered through combat after enemy defiance is treated as 'Ghanimah'.",
+                "One-fifth (Khums) of this property belongs to Allah and His Messenger (the State).",
+                "The remaining four-fifths are distributed among the warriors who participated in the battle."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خمس کی تقسیم اور مصرف",
+        "english": "Distribution and Purpose of Khums"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ریاست کے وسائل",
+              "english": "State Resources"
+            },
+            "content": {
+              "urdu": [
+                "خمس کا مقصد اسلامی ریاست کے اخراجات پورے کرنا ہے۔",
+                "اس سے یتیموں، مسکینوں اور مسافروں کی مدد کی جاتی ہے۔",
+                "یہ نظام معاشرے میں معاشی توازن برقرار رکھنے کا ایک ذریعہ ہے۔"
+              ],
+              "english": [
+                "The purpose of Khums is to cover the operational expenses of the Islamic state.",
+                "It is utilized to aid orphans, the needy, and wayfarers.",
+                "This system serves as a means to maintain economic balance in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نافرمانی کا انجام",
+              "english": "Consequence of Defiance"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'عصت' (نافرمانی) سے مراد اسلام کی دعوت کو رد کرنا اور جنگ کا راستہ اپنانا ہے۔",
+                "حق کے خلاف کھڑے ہونے والوں کو معاشی طور پر بھی کمزور کرنا جنگی حکمت عملی ہے۔",
+                "تاہم، مفتوحہ قوم کے غیر مقاتلین کے انسانی حقوق کا مکمل احترام کیا جاتا ہے۔"
+              ],
+              "english": [
+                "In the Hadith, 'defiance' refers to rejecting the call to Islam and opting for war.",
+                "Economically weakening those who stand against the truth is a strategic military move.",
+                "However, the human rights of non-combatants in conquered lands are fully respected."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "وراثت اور ملکیت کے احکام",
+        "english": "Inheritance and Ownership Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مہاجرین کا حق",
+              "english": "Rights of the Emigrants"
+            },
+            "content": {
+              "urdu": [
+                "صلح سے حاصل شدہ بستیوں میں مسلمانوں کی ملکیت کو تسلیم کیا گیا ہے۔",
+                "سیدنا عمر کے دور میں زمینوں کی تقسیم کے بجائے انہیں عوامی ملکیت رہنے دیا گیا تاکہ آمدنی جاری رہے۔",
+                "اسلام نے نجی ملکیت اور عوامی ملکیت کے درمیان خوبصورت توازن رکھا ہے۔"
+              ],
+              "english": [
+                "In peacefully acquired towns, the property rights of Muslims were recognized.",
+                "During Umar's caliphate, lands were kept as public trusts to ensure sustained state income.",
+                "Islam maintains a beautiful balance between private ownership and public assets."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل اور شفافیت",
+              "english": "Justice and Transparency"
+            },
+            "content": {
+              "urdu": [
+                "مالِ غنیمت کی تقسیم میں کسی قسم کی جانبداری یا خیانت کی گنجائش نہیں ہے۔",
+                "رسول اللہ ﷺ نے خود ان ضوابط کو نافذ کر کے مثال قائم فرمائی۔",
+                "ہر حق دار کو اس کا شرعی حق پہنچانا اسلامی نظامِ عدل کی پہچان ہے۔"
+              ],
+              "english": [
+                "There is no room for favoritism or embezzlement in the distribution of spoils.",
+                "The Prophet (ﷺ) set an example by personally implementing these regulations.",
+                "Ensuring every rightful person receives their Shariah-designated share is the hallmark of Islamic justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قانون کی بالادستی",
+              "english": "Supremacy of Law"
+            },
+            "content": {
+              "urdu": [
+                "ریاست کو اپنے مالیاتی قوانین قرآن و سنت کی روشنی میں بنانے چاہئیں۔",
+                "ٹیکس اور اموال کی وصولی میں شفافیت کا ہونا ضروری ہے۔",
+                "عوامی مال کی حفاظت ہر شہری اور حکمران کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "A state should formulate its financial laws in the light of the Quran and Sunnah.",
+                "Transparency in tax collection and asset management is essential.",
+                "Protecting public wealth is the responsibility of every citizen and ruler."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امن کو ترجیح دینا",
+              "english": "Prioritizing Peace"
+            },
+            "content": {
+              "urdu": [
+                "صلح کے ذریعے حاصل شدہ نتائج جنگ سے زیادہ پائیدار اور برکت والے ہوتے ہیں۔",
+                "اسلام جارحیت کے بجائے پرامن بقائے باہمی کی حوصلہ افزائی کرتا ہے۔",
+                "نافرمانی اور فتنہ و فساد سے بچنا ہی معاشرتی فلاح کی بنیاد ہے۔"
+              ],
+              "english": [
+                "Results achieved through peace are more lasting and blessed than those gained through war.",
+                "Islam encourages peaceful coexistence over unprovoked aggression.",
+                "Avoiding defiance and societal mischief is the foundation of communal well-being."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

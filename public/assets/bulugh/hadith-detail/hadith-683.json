@@ -1,0 +1,259 @@
+{
+  "hadithId": 683,
+  "hadithNo": 36,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:102"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (102)، وأحمد (7290)، والترمذي (1315)، وأبو داود (3452).",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام مسلم نے اپنی صحیح (102) میں روایت کیا ہے۔ یہ حدیث تجارتی اخلاقیات کی بنیادی بنیادوں میں سے ایک ہے۔",
+    "english": "Sahih. Reported by Muslim (102), Ahmad (7290), At-Tirmidhi (1315), and Abu Dawud (3452)."
+  },
+  "importantWords": [
+    {
+      "arabic": "صُبْرَةِ",
+      "english": "Heap / Pile",
+      "urdu": "اناج کا ڈھیر"
+    },
+    {
+      "arabic": "بَلَلًا",
+      "english": "Dampness / Wetness",
+      "urdu": "نمی / گیلا پن"
+    },
+    {
+      "arabic": "اَلسَّمَاءُ",
+      "english": "Rain (lit. Sky)",
+      "urdu": "بارش"
+    },
+    {
+      "arabic": "غَشَّ",
+      "english": "Deceived / Cheated",
+      "urdu": "دھوکہ دیا"
+    },
+    {
+      "arabic": "فَلَيْسَ مِنِّي",
+      "english": "Not of me",
+      "urdu": "مجھ سے (میرا راستہ) نہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تجارت میں دیانتداری کا حکم دیا گیا ہے اور سامان کے عیب کو چھپا کر بیچنے کو دھوکہ قرار دیتے ہوئے اس کی سخت مذمت کی گئی ہے۔",
+    "english": "This Hadith mandates honesty in trade and strictly condemns hiding defects in goods, classifying such acts as deception."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (102)",
+      "english": "Sahih Muslim (102)"
+    },
+    {
+      "arabic": "جامع الترمذي (1315)",
+      "english": "Jami' At-Tirmidhi (1315)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dusi"
+      },
+      "slug": "abu-hurairah-al-dusi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6xR8E3oA",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تجارت میں سچائی کی اہمیت",
+        "english": "Importance of Honesty in Trade"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عیب کو واضح کرنا",
+              "english": "Clarifying Defects"
+            },
+            "content": {
+              "urdu": [
+                "بیچنے والے پر لازم ہے کہ وہ سامان کا ہر عیب خریدار کو صاف صاف بتا دے۔",
+                "اچھے مال کو اوپر اور خراب کو نیچے چھپا کر رکھنا سراسر دھوکہ دہی ہے۔",
+                "نبی ﷺ نے واضح کیا کہ چھپانا بددیانتی ہے جبکہ ظاہر کرنا برکت کا باعث ہے۔"
+              ],
+              "english": [
+                "The seller is obligated to clearly inform the buyer of any defects in the goods.",
+                "Placing good quality items on top while hiding damaged ones is pure deception.",
+                "The Prophet (PBUH) clarified that hiding is dishonesty, while revealing brings blessing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی برکت",
+              "english": "Blessing of Halal Income"
+            },
+            "content": {
+              "urdu": [
+                "دھوکے سے کمایا گیا نفع انسان کی معیشت سے برکت کو ختم کر دیتا ہے۔",
+                "صرف سچائی پر مبنی تجارت ہی دنیا اور آخرت میں کامیابی کی ضمانت ہے۔",
+                "اسلامی معاشرے میں تاجر کو ایک امانت دار کا کردار ادا کرنا چاہیے۔"
+              ],
+              "english": [
+                "Profit earned through deception removes the divine blessing from one's livelihood.",
+                "Only trade based on truth ensures success in this world and the hereafter.",
+                "In an Islamic society, a merchant should function as a trustworthy trustee."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دھوکہ دہی کی شرعی مذمت",
+        "english": "Sharia Condemnation of Deception"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فلیس منی کا مفہوم",
+              "english": "Meaning of 'Not of Me'"
+            },
+            "content": {
+              "urdu": [
+                "اس جملے کا مطلب ہے کہ دھوکہ باز ہمارے طریقے اور سنت پر نہیں چل رہا۔",
+                "یہ وعید اس گناہ کی سنگینی کو ظاہر کرتی ہے کہ ایسا شخص مومنین کے نقشِ قدم سے دور ہے۔",
+                "دھوکہ دینا ایک مسلمان کی شان اور اس کے ایمان کے وقار کے خلاف ہے۔"
+              ],
+              "english": [
+                "This phrase implies that the deceiver is not following our path or Sunnah.",
+                "The warning shows the severity of the sin, distancing the person from the path of believers.",
+                "Deception is contrary to the dignity and faith expected of a Muslim."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکومتی نگرانی",
+              "english": "State Supervision"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے خود بازار جا کر معائنہ کیا، جو کہ 'حسبہ' (مارکیٹ واچ) کی بنیاد ہے۔",
+                "ریاست کی ذمہ داری ہے کہ وہ اشیاء کی کوالٹی اور ناپ تول کی نگرانی کرے۔",
+                "عوامی مصلحت کے لیے بازاروں میں بددیانتی کا خاتمہ حکومت کا فرض ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) inspected markets personally, forming the basis of 'Hisbah' (market watch).",
+                "The state is responsible for monitoring the quality and measurements of goods.",
+                "Eliminating dishonesty in markets for public welfare is a duty of the government."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و اخلاقی پہلو",
+        "english": "Juristic and Ethical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سودے کی شرعی حیثیت",
+              "english": "Legal Status of the Deal"
+            },
+            "content": {
+              "urdu": [
+                "دھوکے کی بنیاد پر کیا گیا سودا خریدار کو واپسی کا حق (خیارِ عیب) دیتا ہے۔",
+                "عیب چھپانا حرام ہے اور اس سے حاصل شدہ اضافی رقم مالِ حرام میں شمار ہوتی ہے۔",
+                "بیچنے والے کی ذمہ داری ہے کہ وہ سامان کی صحیح حالت خریدار پر واضح کرے۔"
+              ],
+              "english": [
+                "A deal made on deception grants the buyer the right to return (Khiyar al-Ayb).",
+                "Hiding defects is Haraam, and excess money gained is considered unlawful wealth.",
+                "It is the seller's responsibility to make the true condition of goods clear to the buyer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیانتدار تاجر کا مقام",
+              "english": "Status of the Honest Merchant"
+            },
+            "content": {
+              "urdu": [
+                "سچا اور امانت دار تاجر قیامت کے دن انبیاء اور صدیقین کے ساتھ ہوگا۔",
+                "تجارت کو محض نفع خوری نہیں بلکہ ایک خدمت اور عبادت سمجھنا چاہیے۔",
+                "اخلاقی قدریں معاشی نفع سے کہیں زیادہ قیمتی اور پائیدار ہوتی ہیں۔"
+              ],
+              "english": [
+                "A truthful and trustworthy merchant will be with Prophets and the righteous on Judgment Day.",
+                "Trade should be viewed as a service and worship, not just mere profiteering.",
+                "Ethical values are far more precious and enduring than temporary economic gains."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Life Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جدید دور کی دھوکہ دہی",
+              "english": "Modern Day Deception"
+            },
+            "content": {
+              "urdu": [
+                "آن لائن شاپنگ میں دکھانا کچھ اور بھیجنا کچھ اور اسی ممانعت میں آتا ہے۔",
+                "اشتہارات میں جھوٹے دعوے کرنا اور نقائص کو چھپانا بدترین دھوکہ ہے۔",
+                "مصنوعی ملاوٹ اور ایکسپائری ڈیٹس کی تبدیلی انسانی زندگیوں سے کھلواڑ ہے۔"
+              ],
+              "english": [
+                "Showing one thing and shipping another in online shopping falls under this prohibition.",
+                "Making false claims in advertisements and hiding flaws is a severe form of cheating.",
+                "Artificial adulteration and changing expiry dates is a dangerous play with human lives."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی اصلاح",
+              "english": "Social Reformation"
+            },
+            "content": {
+              "urdu": [
+                "جب پورا بازار دیانتدار ہوگا تو معاشی خوشحالی اور امن پیدا ہوگا۔",
+                "دھوکے کا خاتمہ معاشرے میں باہمی اعتماد کی فضا کو مضبوط کرتا ہے۔",
+                "ہمیں انفرادی سطح پر اپنی تجارت کو سنتِ نبوی کے مطابق ڈھالنا چاہیے۔"
+              ],
+              "english": [
+                "When the entire market is honest, economic prosperity and peace will prevail.",
+                "Eliminating deception strengthens the atmosphere of mutual trust in society.",
+                "We must individually mold our business practices according to the Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

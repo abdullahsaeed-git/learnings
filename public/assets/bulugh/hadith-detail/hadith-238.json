@@ -1,0 +1,272 @@
+{
+  "hadithId": 238,
+  "hadithNo": 29,
+  "hadithReferences": {
+    "sunnah.com": ["Sunan an-Nasa'i 1184"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 17
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه النسائي (3/224)‏ ، وابن خزيمة (1238)‏ .‏ النسائي أعلّه بقوله: \"لا أعلم أحدا روى هذا الحديث غير أبي داود الحفري وهو ثقة ، ولا أحسب هذا الحديث إلا خطأ .‏ والله -تعالى- أعلم\".‏ ولكن تصحيح ابن خزيمة له راجح، والعلة لم تترجح، فيبقى الحديث على صحته.‏ وصفة التربع: هو جعل باطن القدم اليمنى تحت الفخذ اليسرى ، وباطن القدم اليسرى تحت الفخذ اليمنى، ووضع الكفين على الركبتين.",
+    "urdu": "صحیح روایت۔ اسے نسائی (224/3) اور ابن خزیمہ (1238) نے روایت کیا ہے۔ نسائی نے اس پر کلام کیا مگر ان کا شک قطعی نہیں، جبکہ ابن خزیمہ کی تصحیح راجح ہے۔ پس یہ حدیث اپنی صحت پر باقی رہتی ہے۔ چار زانو بیٹھنے کی کیفیت یہ ہے: دائیں پاؤں کا اندرونی حصہ بائیں ران کے نیچے ہو اور بائیں پاؤں کا اندرونی حصہ دائیں ران کے نیچے۔",
+    "english": "Authentic (Sahih). Reported by An-Nasa'i (3/224) and Ibn Khuzaymah (1238). Although An-Nasa'i expressed doubt regarding the chain, the authentication by Ibn Khuzaymah is stronger, and the defect is not definitively established, so the Hadith remains authentic. The posture of 'Tarrabu' (sitting cross-legged) means placing the sole of the right foot under the left thigh and the sole of the left foot under the right thigh, with the hands resting on the knees."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُصَلِّي",
+      "english": "He was praying",
+      "urdu": "آپ نماز ادا کر رہے تھے"
+    },
+    {
+      "arabic": "مُتَرَبِّعًا",
+      "english": "Sitting cross-legged",
+      "urdu": "چار زانو ہو کر"
+    },
+    {
+      "arabic": "رَأَيْتُ",
+      "english": "I saw",
+      "urdu": "میں نے دیکھا"
+    },
+    {
+      "arabic": "أَعْظُم",
+      "english": "Bones/limbs",
+      "urdu": "ہڈیاں"
+    },
+    {
+      "arabic": "خَطَأ",
+      "english": "Mistake/Error",
+      "urdu": "غلطی"
+    },
+    {
+      "arabic": "ثِقَة",
+      "english": "Trustworthy",
+      "urdu": "ثقہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے بیماری یا کمزوری کی وجہ سے بیٹھ کر نماز ادا کی تو آپ ﷺ نے چار زانو (آلتی پالتی) کی شکل میں بیٹھنا اختیار کیا۔ یہ اس بات کا ثبوت ہے کہ نفل نماز یا عذر کی صورت میں بیٹھ کر نماز پڑھنا جائز ہے، اور بیٹھنے کی ایک مسنون شکل تربع (چار زانو ہو کر بیٹھنا) بھی ہے۔",
+    "english": "This Hadith states that the Prophet (ﷺ) was observed praying while sitting cross-legged (Mutarabbi'an), likely due to illness or weakness. This validates that it is permissible to pray while seated in voluntary prayers or due to necessity, and that the cross-legged posture is one of the established ways of sitting during such prayers."
+  },
+  "references": [
+    {
+      "arabic": "رواه النسائي (3/224)",
+      "english": "Reported by An-Nasa'i (3/224)"
+    },
+    {
+      "arabic": "صححه ابن خزيمة (1238)",
+      "english": "Authenticated by Ibn Khuzaymah (1238)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أبو داود الحفري",
+        "english": "Abu Dawud Al-Hafri"
+      },
+      "slug": "abu-dawud-al-hafari"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7n0PZ3xXg",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز میں بیٹھنے کی حالت",
+        "english": "The Posture of Sitting in Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تربع (چار زانو) کا حکم",
+              "english": "The Ruling on Sitting Cross-legged (Tarrabu')"
+            },
+            "content": {
+              "urdu": [
+                "چار زانو ہو کر نماز ادا کرنا نبی ﷺ سے ثابت ہے اور یہ بیٹھ کر نماز پڑھنے کی ایک جائز شکل ہے۔",
+                "یہ حالت عموماً اس وقت اختیار کی جاتی تھی جب نمازی قیام کی طاقت نہ رکھتا ہو یا نفل نماز ادا کر رہا ہو۔",
+                "تربع، یعنی دونوں ٹانگوں کو باہم ملا کر بیٹھنا، سکون اور اطمینان کی بہترین شکل ہے۔"
+              ],
+              "english": [
+                "Praying cross-legged is affirmed from the Prophet (ﷺ) and is a permissible form of praying while seated.",
+                "This posture was generally adopted when the worshipper lacked the ability to stand or was performing a voluntary (Nafl) prayer.",
+                "Tarrabu', sitting with both feet crossed and joined, is an excellent form for achieving comfort and composure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فرض یا نفل نماز میں",
+              "english": "In Obligatory or Voluntary Prayer"
+            },
+            "content": {
+              "urdu": [
+                "فرض نماز میں کھڑا ہونا بنیادی رکن ہے، لہٰذا بیٹھنا صرف عذر (بیماری وغیرہ) کی صورت میں جائز ہے۔",
+                "نفل نماز میں بغیر کسی عذر کے بھی بیٹھ کر نماز ادا کرنا جائز ہے، لیکن کھڑے ہونے پر دگنا ثواب ہے۔",
+                "عذر کی صورت میں، چار زانو بیٹھنے کی یہ شکل اس طرح جائز ہے جیسے التحیات میں تشہد کی حالت۔"
+              ],
+              "english": [
+                "In obligatory prayer, standing is a fundamental pillar, so sitting is only permissible due to necessity (illness, etc.).",
+                "In voluntary prayer, it is permissible to sit without an excuse, but standing yields twice the reward.",
+                "When sitting due to an excuse, this cross-legged posture is permissible, just like the Tashahhud sitting posture."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بیٹھنے کے مختلف طریقے",
+        "english": "Different Ways of Sitting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تربع اور التحیات",
+              "english": "Tarrabu' vs. Tashahhud Sitting"
+            },
+            "content": {
+              "urdu": [
+                "یہ حالت تشہد یا دو سجدوں کے درمیان کی سنت (افتراش یا تورک) سے مختلف ہے۔",
+                "تربع (چار زانو) لمبی قرأت یا قیام کے وقت بیٹھنے کے لیے زیادہ آرام دہ حالت ہے۔",
+                "عذر کی صورت میں تربع بیٹھ کر نماز پڑھنے کے دیگر طریقوں (جیسے دوزانو) میں سے ایک ہے۔"
+              ],
+              "english": [
+                "This posture differs from the established Sunnah sitting for Tashahhud or between prostrations (Iftirash or Tawarruk).",
+                "Tarrabu' is generally a more comfortable position for sitting during lengthy recitation or during the period corresponding to Qiyam.",
+                "In case of a valid excuse, Tarrabu' is one of the permissible ways of sitting to pray, alongside other postures."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہاتھوں کی جگہ",
+              "english": "Position of the Hands"
+            },
+            "content": {
+              "urdu": [
+                "چار زانو بیٹھتے وقت، سنت یہ ہے کہ ہاتھ رانوں کے نچلے حصے یا گھٹنوں پر رکھے جائیں۔",
+                "اس حالت میں ہاتھ ملانا یا باندھنا مشروع نہیں، بلکہ چھوڑ دینا یا رانوں پر رکھنا سنت ہے۔",
+                "ہاتھوں کی یہ پوزیشن سکون اور وقار برقرار رکھنے میں معاون ہوتی ہے۔"
+              ],
+              "english": [
+                "When sitting cross-legged, the Sunnah is to rest the hands on the lower thighs or the knees.",
+                "Joining or clasping the hands in this sitting position is not prescribed; rather, resting them on the thighs is the Sunnah.",
+                "This hand position helps maintain a state of composure and dignity throughout the seated prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجر اور روحانیت",
+        "english": "Reward and Spirituality"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عذر پر اجر",
+              "english": "Reward for Excused Actions"
+            },
+            "content": {
+              "urdu": [
+                "اگر نمازی عذر کی وجہ سے بیٹھ کر نماز پڑھے تو اسے کھڑے ہونے کا مکمل ثواب ملتا ہے۔",
+                "یہ اس بات کا ثبوت ہے کہ اللہ اپنے بندوں پر آسانیاں کرتا ہے اور مشقت پر بھی اجر دیتا ہے۔",
+                "اس لیے کسی بھی عذر کی بنا پر نماز کو ترک نہیں کرنا چاہیے، بلکہ کسی بھی حالت میں پڑھنا لازم ہے۔"
+              ],
+              "english": [
+                "If the worshipper prays sitting down due to a valid excuse, they receive the full reward of standing.",
+                "This proves that Allah facilitates matters for His servants and rewards them even for hardship.",
+                "Therefore, prayer must never be abandoned due to any excuse; it is obligatory to pray in any condition."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خشوع کا حصول",
+              "english": "Attaining Khushu'"
+            },
+            "content": {
+              "urdu": [
+                "بیٹھنے کی حالت میں بھی مکمل خشوع اور توجہ کو برقرار رکھنا ایمان کا تقاضا ہے۔",
+                "نماز کی ہیئت اگرچہ بدلی ہے، مگر روح اور دل کا تعلق اللہ سے ویسا ہی مضبوط ہونا چاہیے۔",
+                "چار زانو بیٹھنا اس بات میں مددگار ہوتا ہے کہ جسم سکون میں ہو اور دل اللہ کی طرف متوجہ رہے۔"
+              ],
+              "english": [
+                "Maintaining full devotion (Khushu') and focus even when sitting is a requirement of faith.",
+                "Although the physical form of the prayer has changed, the spirit and the heart's connection with Allah must remain strong.",
+                "The cross-legged posture helps ensure the body is at ease, allowing the heart to remain attentive to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلافِ سنت سے اجتناب",
+        "english": "Avoiding Contravention of the Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحت حدیث کی بحث",
+              "english": "Discussion on Hadith Authenticity"
+            },
+            "content": {
+              "urdu": [
+                "امام نسائی نے اس حدیث کی سند پر کلام کیا لیکن ابن خزیمہ نے اسے 'صحیح' قرار دیا۔",
+                "یہ بحث اس بات کو واضح کرتی ہے کہ محدثین نے سنت کے ہر پہلو کی گہرائی سے چھان بین کی۔",
+                "راجح قول یہ ہے کہ عذر کی حالت میں تربع کے ساتھ نماز پڑھنا بلاشبہ سنت ہے۔"
+              ],
+              "english": [
+                "Imam An-Nasa'i raised doubts about the chain, but Ibn Khuzaymah classified it as 'Sahih' (authentic).",
+                "This discussion highlights the thoroughness with which scholars scrutinized every aspect of the Sunnah.",
+                "The preferred view is that praying in the cross-legged posture when there is an excuse is undoubtedly a Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تکیہ لگانا مکروہ",
+              "english": "Disliking Leaning on Support"
+            },
+            "content": {
+              "urdu": [
+                "نماز میں بلا عذر زمین یا دیوار پر تکیہ لگانا یا سہارا لینا فقہاء کے نزدیک مکروہ ہے۔",
+                "چار زانو بیٹھنا خود سہارا لینے سے گریز ہے اور نماز کے وقار کو برقرار رکھتا ہے۔",
+                "مومن کو چاہیے کہ وہ اپنی نماز کی ہئیت کو تمام مکروہ اعمال سے پاک رکھے۔"
+              ],
+              "english": [
+                "Leaning on the ground or a wall without a necessity is disliked (Makruh) by jurists in prayer.",
+                "Sitting cross-legged avoids leaning on support and preserves the dignity of the prayer.",
+                "The believer should ensure that the posture of their prayer is free from all disliked actions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

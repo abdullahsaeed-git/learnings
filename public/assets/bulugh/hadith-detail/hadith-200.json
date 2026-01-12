@@ -1,0 +1,264 @@
+{
+  "hadithId": 200,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["2", "6"],
+    "kitabId": 2,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 16
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه الترمذي في كتاب البيوع، باب ما جاء في كراهية البيع والشراء في المسجد (1321)، والنسائي في سنن الكبرى (7147) وزيادة نشد الضالة موجودة فيهما. وقال الترمذي: حديث حسن.",
+    "urdu": "صحیح ہے۔ اسے ترمذی نے کتاب البیوع، باب ما جاء فی کراہیۃ البیع والشراء فی المسجد (1321) میں روایت کیا ہے، اور نسائی نے سنن الکبریٰ (7147) میں روایت کیا ہے اور گمشدہ چیز کے اعلان کی زیادتی ان دونوں میں موجود ہے۔ امام ترمذی نے اسے حدیث حسن قرار دیا ہے۔",
+    "english": "Authentic (Sahih). Reported by At-Tirmidhi in the Book of Trade, Chapter: What has been related concerning the dislike of buying and selling in the mosque (1321), and by An-Nasa’i in Sunan Al-Kubra (7147), and the addition regarding the announcement of a lost item is found in both. At-Tirmidhi graded the Hadith as Hasan (Good)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يبيع",
+      "english": "Sells",
+      "urdu": "بیچ رہا ہو"
+    },
+    {
+      "arabic": "يبتاع",
+      "english": "Buys",
+      "urdu": "خرید رہا ہو"
+    },
+    {
+      "arabic": "المسجد",
+      "english": "The Mosque",
+      "urdu": "مسجد"
+    },
+    {
+      "arabic": "لا أربح",
+      "english": "May Allah not profit",
+      "urdu": "اللہ نفع نہ دے"
+    },
+    {
+      "arabic": "تجارتك",
+      "english": "Your trade/business",
+      "urdu": "تمہاری تجارت"
+    },
+    {
+      "arabic": "إذا رأيتم",
+      "english": "If you see",
+      "urdu": "جب تم دیکھو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث مسجد میں خرید و فروخت کرنے کی شدید ممانعت کو بیان کرتی ہے، کیونکہ مسجد کو دنیاوی تجارت کے لیے نہیں بنایا گیا۔ جو شخص مسجد کے اندر یہ عمل کرے، اسے تنبیہ اور اس فعل کی مذمت کے طور پر یہ بد دعا دینی چاہیے کہ اللہ اس کی تجارت میں نفع نہ دے، تاکہ مسجد کی حرمت برقرار رہے۔",
+    "english": "This Hadith expresses a strong prohibition against buying and selling inside the mosque, as the mosque was not established for worldly trade. Anyone who engages in this act within the mosque should be admonished by saying a specific supplication (a mild curse) that Allah should not profit his trade, in order to maintain the sanctity of the mosque."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي، كتاب البيوع، باب كراهية البيع والشراء في المسجد (1321)",
+      "english": "Sunan At-Tirmidhi, Book of Trade, Chapter: Dislike of buying and selling in the mosque (1321)"
+    },
+    {
+      "arabic": "سنن النسائي الكبرى، كتاب عمل اليوم والليلة (7147)",
+      "english": "Sunan An-Nasa’i Al-Kubra, Book of Actions Day and Night (7147)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGvQk0X9o",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Good (Hasan)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد اور دنیاوی معاملات",
+        "english": "The Mosque and Worldly Affairs"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خرید و فروخت کی ممانعت",
+              "english": "Prohibition of Buying and Selling"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں خرید و فروخت کا عمل اس کے بنیادی مقصد، یعنی اللہ کی عبادت اور ذکر سے ٹکراتا ہے۔",
+                "مسجدیں دنیاوی بازاروں کے شور و غل اور منافع خوری سے پاک ہونی چاہییں۔",
+                "یہ ممانعت اس بات کو یقینی بناتی ہے کہ جب کوئی مسجد میں داخل ہو تو اس کا دھیان صرف آخرت کی طرف رہے۔"
+              ],
+              "english": [
+                "The act of buying and selling in the mosque conflicts with its primary purpose: the worship and remembrance of Allah.",
+                "Mosques should be free from the noise and profiteering of worldly markets.",
+                "This prohibition ensures that when someone enters the mosque, their focus remains solely on the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تنبیہ کا سخت انداز",
+              "english": "The Severe Tone of Admonishment"
+            },
+            "content": {
+              "urdu": [
+                "خرید و فروخت کرنے والے کو نفع کی نفی کی بد دعا دینا، اس عمل کی سنگینی کو واضح کرتا ہے۔",
+                "یہ بد دعا اصل میں اس شخص کے فعل کی مذمت ہے، نہ کہ اس کی ذات سے انتقام لینا مقصود ہے۔",
+                "مقصد یہ ہے کہ لوگ اس حکم کی اہمیت کو جانیں اور مسجد کے تقدس کو پامال نہ کریں۔"
+              ],
+              "english": [
+                "The supplication (mild curse) against the profit of the buyer/seller highlights the severity of this action.",
+                "This supplication is essentially a condemnation of the person's action, not an act of seeking personal revenge.",
+                "The goal is for people to realize the importance of this command and not violate the mosque's sanctity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور اخلاقی حدود",
+        "english": "Juristic and Ethical Boundaries"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاملے کا حکم",
+              "english": "Ruling on the Transaction"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک مسجد میں خرید و فروخت کا معاہدہ مکروہ تحریمی ہے، اگرچہ شرعی طور پر صحیح ہو جاتا ہے۔",
+                "ممنوعہ عمل وہ ہے جس میں ایجاب و قبول اور قیمت طے کی جا رہی ہو، یعنی خرید و فروخت کے الفاظ استعمال ہوں۔",
+                "اگر کوئی شخص صرف بیچنے کے ارادے سے چیز لے کر مسجد میں بیٹھے، تو یہ بھی ناپسندیدہ ہے۔"
+              ],
+              "english": [
+                "According to the majority of jurists, the contract of buying and selling in the mosque is Makruh Tahrimi (severely disliked), although legally the transaction is valid.",
+                "The prohibited action is using the words of offer and acceptance and settling the price inside the mosque.",
+                "If someone simply sits in the mosque with the intention of selling something, that is also disliked."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسجد کا ادب",
+              "english": "Respect for the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "مسجد کو دنیاوی فوائد اور مالی منافع کے حصول کی جگہ سے بلند رکھنا چاہیے۔",
+                "اگر کسی شخص کو اس بات کی اجازت دی جائے تو مسجدیں باقاعدہ بازار بن جائیں گی اور عبادت میں خلل آئے گا۔",
+                "یہ حکم ہمیں سکھاتا ہے کہ آخرت کے معاملات کو دنیا کے معاملات پر فوقیت دی جائے۔"
+              ],
+              "english": [
+                "The mosque should be kept above being a place for acquiring worldly gains and financial profit.",
+                "If people were allowed to trade, mosques would turn into regular markets, disrupting worship.",
+                "This command teaches us to prioritize matters of the Hereafter over matters of the world."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تنبیہ کا طریقہ کار",
+        "english": "Method of Admonishment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عملی تنبیہ",
+              "english": "Practical Admonishment"
+            },
+            "content": {
+              "urdu": [
+                "نبی صلی اللہ علیہ وسلم نے اس غلطی پر زبانی تنبیہ اور بد دعا کا حکم دیا، نہ کہ ہاتھ سے روکنے کا۔",
+                "یہ امر بالمعروف (اچھی بات کا حکم) کا ایک ایسا طریقہ ہے جو کسی کو تکلیف دیے بغیر انجام دیا جا سکتا ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ سننے والا فرد بھی تنبیہ کر کے اپنی شرعی ذمہ داری پوری کرے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) commanded verbal admonishment and supplication (mild curse) for this mistake, not physical intervention.",
+                "This is a method of Amr Bil-Ma'ruf (enjoining good) that can be carried out without causing harm to anyone.",
+                "This ruling proves that the individual listener also fulfills their religious duty by admonishing the wrongdoer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاملے کی سنگینی",
+              "english": "Seriousness of the Matter"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث میں بیع و شراء کے ساتھ گمشدہ چیز کا اعلان بھی اسی طرح کی وعید کا حامل ہے۔",
+                "دونوں کاموں میں دنیاوی غرض مقدم ہے اور مسجد کی روحانی حیثیت کو نقصان پہنچاتے ہیں۔",
+                "جس طرح دنیا کی چیزوں کے لیے مسجدیں نہیں بنیں، اسی طرح نفع و نقصان کی فکر بھی مسجد میں نہیں ہونی چاہیے۔"
+              ],
+              "english": [
+                "In this Hadith, announcing a lost item carries the same warning as buying and selling.",
+                "Both acts prioritize worldly interests and damage the spiritual status of the mosque.",
+                "Just as mosques were not built for worldly things, the concern for profit and loss should not exist in the mosque."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عبادت میں اخلاص کا سبق",
+        "english": "Lesson of Sincerity in Worship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجر کی حفاظت",
+              "english": "Protection of Reward"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں دنیاوی مصروفیت سے اجتناب، عبادات کے اجر کو بچانے کی ایک عملی تدبیر ہے۔",
+                "جس شخص کا دل دنیا میں مشغول ہو، اس کی عبادت میں خشوع اور اخلاص کم ہو جاتا ہے۔",
+                "ہمیں ہر اس کام سے بچنا چاہیے جو مسجد میں ہماری قلبی حاضری کو متاثر کرے۔"
+              ],
+              "english": [
+                "Avoiding worldly preoccupation in the mosque is a practical measure to protect the reward of worship.",
+                "A person whose heart is busy with the world has less Khushu' and sincerity in their worship.",
+                "We should avoid every action in the mosque that affects our presence of heart (concentration)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی طرزِ زندگی",
+              "english": "The Islamic Way of Life"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم اسلامی معاشرت میں مساجد کے کردار کی حدود کو واضح کرتا ہے۔",
+                "مسجدوں کو دنیا سے مکمل طور پر منقطع کرنا چاہیے تاکہ وہ روحانی تربیت کا مرکز بن سکیں۔",
+                "یہ اس بات کی تعلیم ہے کہ ایمان والے اپنی دنیاوی اور اخروی زندگی میں توازن قائم رکھیں۔"
+              ],
+              "english": [
+                "This ruling clarifies the boundaries of the mosque's role in Islamic society.",
+                "Mosques should be completely disconnected from worldly affairs to become centers of spiritual training.",
+                "This teaches believers to maintain balance between their worldly and eternal lives."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

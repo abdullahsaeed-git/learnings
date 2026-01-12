@@ -1,0 +1,259 @@
+{
+  "hadithId": 398,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-398"],
+    "kitabId": 2,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 24
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (1134)‏، والنسائي (3/179‏-180)، وأحمد (3/103)، والحاكم (1/294). وصححه الألباني في صحيح الجامع (4460).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (1134) اور نسائی نے روایت کیا ہے۔ امام حاکم اور علامہ البانی نے بھی اس کی سند کو صحیح قرار دیا ہے۔ یہ روایت اس بات کی دلیل ہے کہ اسلام میں عیدین کے علاوہ کسی اور مذہبی تہوار کی گنجائش نہیں ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (1134), An-Nasa'i (3/179-180), Ahmad, and Al-Hakim. Al-Albani also authenticated it in Sahih al-Jami' (4460)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَبْدَلَكُمُ",
+      "english": "He has substituted for you",
+      "urdu": "تمہیں بدل کر دے دیا"
+    },
+    {
+      "arabic": "يَلْعَبُونَ",
+      "english": "They play/celebrate",
+      "urdu": "وہ کھیلتے تھے"
+    },
+    {
+      "arabic": "خَيْرًا",
+      "english": "Better",
+      "urdu": "بہتر"
+    },
+    {
+      "arabic": "اَلْمَدِينَةَ",
+      "english": "Madinah",
+      "urdu": "مدینہ منورہ"
+    },
+    {
+      "arabic": "قَدِمَ",
+      "english": "Arrived/Came",
+      "urdu": "تشریف لائے"
+    }
+  ],
+  "summary": {
+    "urdu": "اللہ تعالیٰ نے مسلمانوں کے لیے جاہلیت کے تہواروں کے بدلے عید الفطر اور عید الاضحیٰ کے مبارک دن مقرر فرمائے ہیں جو عبادت اور خوشی کا بہترین امتزاج ہیں۔",
+    "english": "Allah has replaced pre-Islamic festivals with two better days: Eid-ul-Fitr and Eid-ul-Adha, which combine worship with lawful celebration."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (1134)",
+      "english": "Sunan Abu Dawud (1134)"
+    },
+    {
+      "arabic": "سنن النسائي (1556)",
+      "english": "Sunan An-Nasa'i (1556)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=significance+of+eid+in+islam+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تہواروں کی تبدیلی کی حکمت",
+        "english": "Wisdom Behind Changing Festivals"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جاہلیت سے علیحدگی",
+              "english": "Separation from Pre-Islamic Traditions"
+            },
+            "content": {
+              "urdu": [
+                "اہلِ مدینہ جاہلیت کے دو دن (نوروز اور مہرجان) منایا کرتے تھے۔",
+                "اسلام نے مسلمانوں کو اپنی الگ پہچان اور تہذیب عطا فرمائی ہے۔",
+                "غیر مسلموں کے مذہبی تہواروں کی مشابہت سے بچنا ایمان کا تقاضا ہے۔"
+              ],
+              "english": [
+                "The people of Madinah celebrated two pre-Islamic days (Nawruz and Mihrajan).",
+                "Islam provided Muslims with a distinct identity and cultural heritage.",
+                "Avoiding imitation of non-Muslim religious festivals is a requirement of faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت اور خوشی کا تعلق",
+              "english": "Connection Between Worship and Joy"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی عیدیں محض کھیل کود نہیں بلکہ عظیم عبادات کے بعد آتی ہیں۔",
+                "عید الفطر رمضان کے روزوں اور عید الاضحیٰ حج کی تکمیل پر ہے۔",
+                "یہ دن اللہ کے شکر اور اس کی بڑائی بیان کرنے کے لیے مقرر ہیں۔"
+              ],
+              "english": [
+                "Islamic Eids are not mere play but follow major acts of worship.",
+                "Eid-ul-Fitr follows Ramadan fasts, and Eid-ul-Adha follows Hajj rituals.",
+                "These days are designated for thanking Allah and proclaiming His greatness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی عیدین کی برتری",
+        "english": "Superiority of Islamic Eids"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہتر متبادل کی فراہمی",
+              "english": "Provision of a Better Alternative"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے الفاظ 'خيرا منهما' ظاہر کرتے ہیں کہ اسلامی عیدیں افضل ہیں۔",
+                "ان میں غریبوں کی مدد (صدقہ فطر اور قربانی کا گوشت) شامل ہے۔",
+                "یہ تہوار دنیاوی خوشی کے ساتھ ساتھ اخروی اجر کا باعث بھی ہیں۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) words 'better than them' prove Islamic Eids are superior.",
+                "They include helping the poor (Sadaqat-ul-Fitr and sacrificial meat).",
+                "These festivals lead to worldly joy as well as rewards in the hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعیت اور بھائی چارہ",
+              "english": "Collectivity and Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "عید کے اجتماعات مسلمانوں کے اتحاد اور یکجہتی کا مظہر ہوتے ہیں۔",
+                "یہ دن معاشرے کے تمام طبقات کو ایک دوسرے کے قریب لاتے ہیں۔",
+                "اسلامی عیدیں دلوں کی صفائی اور باہمی محبت کو فروغ دیتی ہیں۔"
+              ],
+              "english": [
+                "Eid gatherings are a manifestation of Muslim unity and solidarity.",
+                "These days bring all segments of society closer to one another.",
+                "Islamic Eids promote purification of hearts and mutual love."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تہذیبی شناخت کی حفاظت",
+        "english": "Preserving Cultural Identity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنے ورثے پر فخر",
+              "english": "Pride in One's Heritage"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو اپنے مذہبی تہواروں کو جوش و خروش سے منانا چاہیے۔",
+                "غیر شرعی میلوں اور ٹھیلوں سے پرہیز کرنا ضروری ہے۔",
+                "نئی نسل کو اسلامی تہواروں کی اہمیت اور فضیلت سے آگاہ کرنا چاہیے۔"
+              ],
+              "english": [
+                "Muslims should celebrate their religious festivals with full enthusiasm.",
+                "It is necessary to abstain from un-Islamic fairs and festivals.",
+                "The new generation must be informed about the virtue of Islamic days."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال اور حدود",
+              "english": "Moderation and Boundaries"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی خوشی میں گناہ اور لغویات کی کوئی گنجائش نہیں ہوتی۔",
+                "عید کا مطلب اللہ کی نافرمانی نہیں بلکہ اس کی حدوں میں رہنا ہے۔",
+                "مسنون طریقے پر عید منانا ہی اصل برکت اور راحت کا باعث ہے۔"
+              ],
+              "english": [
+                "Islamic joy has no room for sins or frivolous, vain activities.",
+                "Eid does not mean disobeying Allah but staying within His limits.",
+                "Celebrating Eid in the Sunnah way brings true blessing and comfort."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی مہمانی کی قدر",
+              "english": "Valuing Allah's Hospitality"
+            },
+            "content": {
+              "urdu": [
+                "عیدین اللہ کی طرف سے بندوں کے لیے ایک عظیم ضیافت ہیں۔",
+                "ان ایام میں روزہ رکھنا ممنوع قرار دیا گیا ہے تاکہ مہمانی پوری ہو۔",
+                "اللہ کے انعامات پر خوش ہونا اور ان کا شکر ادا کرنا بندگی ہے۔"
+              ],
+              "english": [
+                "The Eids are a great feast provided by Allah for His servants.",
+                "Fasting is prohibited on these days to ensure the feast is enjoyed.",
+                "Being happy with Allah's rewards and thanking Him is true devotion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مثالی معاشرے کا قیام",
+              "english": "Establishing an Ideal Society"
+            },
+            "content": {
+              "urdu": [
+                "مدینہ کی اسلامی ریاست نے تہواروں کے ذریعے بھی معاشرتی اصلاح کی۔",
+                "غلط رسوم و رواج کو ختم کر کے تعمیری روایات کو رواج دیا گیا۔",
+                "ایک مومن کو اپنی خوشیوں میں بھی دین کی روح کو مدنظر رکھنا چاہیے۔"
+              ],
+              "english": [
+                "The Islamic state of Madinah reformed society even through festivals.",
+                "Wrong customs were abolished and constructive traditions were introduced.",
+                "A believer should keep the spirit of religion in mind during celebrations."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

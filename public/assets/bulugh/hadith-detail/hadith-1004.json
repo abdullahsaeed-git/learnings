@@ -1,0 +1,264 @@
+{
+  "hadithId": 1004,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1154"],
+    "kitabId": 9,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 79
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن بشواهده. رواه أبو داود (4540)، والنسائي (4790)، وابن ماجه (2635) بإسناد قوي. وأخرجه أحمد والحاكم وصححه.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر حسن درجہ کی ہے۔ اسے ابوداؤد (4540)، نسائی (4790) اور ابن ماجہ (2635) نے روایت کیا ہے۔ امام حاکم نے اسے صحیح قرار دیا ہے۔",
+    "english": "Hasan (Good). Reported by Abu Dawud (4540), An-Nasa'i (4790), and Ibn Majah (2635) with a strong chain. Al-Hakim also classified it as Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "عِمِّيَّا",
+      "english": "Blind Fray / Confusion",
+      "urdu": "اندھا دھند لڑائی / ہنگامہ"
+    },
+    {
+      "arabic": "رِمِّيَّا",
+      "english": "Throwing Stones",
+      "urdu": "سنگباری / پتھر پھینکنا"
+    },
+    {
+      "arabic": "سَوْطٍ",
+      "english": "Whip",
+      "urdu": "کوڑا"
+    },
+    {
+      "arabic": "عَقْلُ اَلْخَطَإِ",
+      "english": "Accidental Blood-money",
+      "urdu": "دیتِ خطا"
+    },
+    {
+      "arabic": "قَوَدٌ",
+      "english": "Retaliation / Qisas",
+      "urdu": "قصاص / بدلہ"
+    },
+    {
+      "arabic": "حَالَ دُونَهُ",
+      "english": "Intervenes / Obstructs",
+      "urdu": "رکاوٹ بنے / حائل ہو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث غیر واضح ہنگامہ آرائی میں ہونے والے قتل اور دانستہ قتل کے درمیان فرق واضح کرتی ہے اور قصاص کی راہ میں رکاوٹ بننے والے پر لعنت بھیجتی ہے۔",
+    "english": "This Hadith distinguishes between deaths in chaotic frays and intentional murder, establishing accidental blood-money for the former and Qisas for the latter while warning against obstructing justice."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (4540)",
+      "english": "Sunan Abu Dawud (4540)"
+    },
+    {
+      "arabic": "سنن النسائي (4790)",
+      "english": "Sunan An-Nasa'i (4790)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قتل کی اقسام اور احکام",
+        "english": "Types of Homicide and Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیتِ خطا کی صورتیں",
+              "english": "Cases of Accidental Diyat"
+            },
+            "content": {
+              "urdu": [
+                "ایسی لڑائی جہاں قاتل کا تعین نہ ہو سکے یا آلہ قتل مہلک نہ ہو، اسے خطا میں شمار کیا جاتا ہے۔",
+                "پتھر، کوڑے یا لاٹھی سے غیر ارادی طور پر ہونے والی ہلاکت میں قصاص نہیں ہوتا۔",
+                "اس صورت میں مقتول کے ورثاء کو دیت (خون بہا) دی جاتی ہے جو قتلِ خطا کے برابر ہوتی ہے۔"
+              ],
+              "english": [
+                "A fight where the killer cannot be identified or the weapon is not inherently lethal is treated as accidental.",
+                "Unintentional deaths caused by stones, whips, or sticks do not invoke retaliation (Qisas).",
+                "In such cases, blood-money (Diyat) is paid to the victim's heirs equivalent to accidental homicide."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قتلِ عمد اور قصاص",
+              "english": "Intentional Murder and Qisas"
+            },
+            "content": {
+              "urdu": [
+                "جب کوئی شخص کسی کو دانستہ قتل کرے تو اس کی سزا 'قود' یعنی قصاص ہے۔",
+                "قصاص کا مقصد معاشرے میں جان کے بدلے جان کے اصول سے امن قائم کرنا ہے۔",
+                "اسلامی قانون میں جان کی حرمت کو سب سے زیادہ اہمیت دی گئی ہے۔"
+              ],
+              "english": [
+                "When someone kills another intentionally, the punishment is 'Qawad' or retaliation (Qisas).",
+                "The purpose of Qisas is to establish peace through the principle of 'life for a life'.",
+                "In Islamic law, the sanctity of human life is given supreme importance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انصاف میں رکاوٹ کی سزا",
+        "english": "Punishment for Obstructing Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قصاص میں حائل ہونا",
+              "english": "Interfering in Retaliation"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص اپنے اثر و رسوخ یا طاقت سے قاتل کو قصاص سے بچاتا ہے، وہ اللہ کی لعنت کا مستحق ہے۔",
+                "انصاف کے نظام کو سبوتاژ کرنا معاشرے میں لاقانونیت اور فتنہ و فساد کا سبب بنتا ہے۔",
+                "حقدار کو اس کا حق دلانے میں رکاوٹ ڈالنا ایک کبیرہ گناہ ہے۔"
+              ],
+              "english": [
+                "Anyone who uses influence or power to shield a murderer from justice deserves Allah's curse.",
+                "Sabotaging the judicial system leads to lawlessness and civil strife in society.",
+                "Obstructing a rightful claimant from receiving justice is a major sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "الہی لعنت کا مفہوم",
+              "english": "Meaning of Divine Curse"
+            },
+            "content": {
+              "urdu": [
+                "لعنت کا مطلب اللہ کی رحمت سے دوری اور محرومی ہے۔",
+                "یہ انتباہ ظاہر کرتا ہے کہ مجرم کی طرفداری کرنا اللہ کو سخت ناپسند ہے۔",
+                "آخرت میں ایسے شخص کا کوئی مددگار اور سفارشی نہیں ہوگا۔"
+              ],
+              "english": [
+                "Curse (La'nah) signifies distance and deprivation from Allah's mercy.",
+                "This warning shows that siding with a criminal is extremely detestable to Allah.",
+                "In the hereafter, such a person will find no helper or intercessor."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمتیں",
+        "english": "Juristic Wisdoms"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شبه عمد کی تعریف",
+              "english": "Definition of Quasi-Intentional"
+            },
+            "content": {
+              "urdu": [
+                "علماء نے لاٹھی یا کوڑے کے قتل کو 'شبہ عمد' کی ذیل میں بھی رکھا ہے۔",
+                "اگر آلہ قتل عام طور پر جان لینے کے لیے استعمال نہ ہو تو اسے مکمل عمد نہیں مانا جاتا۔",
+                "یہ باریک بینی اسلامی قانونِ عدل کی گہرائی کو ظاہر کرتی ہے۔"
+              ],
+              "english": [
+                "Scholars have classified deaths by sticks or whips under 'Shibhu al-Amd' (quasi-intentional).",
+                "If the instrument is not typically lethal, the act is not treated as fully intentional murder.",
+                "This precision reflects the depth of the Islamic judicial system."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی امن کا تحفظ",
+              "english": "Protection of Social Peace"
+            },
+            "content": {
+              "urdu": [
+                "ہنگامہ آرائی (عمیّا) میں خون ضائع ہونے سے بچانے کے لیے دیت کا حکم دیا گیا۔",
+                "یہ اصول قبیلوں کے درمیان لامتناہی انتقامی جنگوں کو روکتا ہے۔",
+                "اسلامی معاشرے میں ہر خون کا بدلہ یا دیت موجود ہے، کوئی جان رائیگاں نہیں جاتی۔"
+              ],
+              "english": [
+                "Diyat is ordered to prevent blood from being wasted in chaotic frays (Immiyya).",
+                "This principle prevents endless cycles of tribal vendettas and revenge wars.",
+                "In Islamic society, every life has a value (Diyat or Qisas); no life is lost in vain."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور سبق",
+        "english": "Practical Training and Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اشتعال انگیزی سے بچاؤ",
+              "english": "Avoiding Provocation"
+            },
+            "content": {
+              "urdu": [
+                "ہجوم اور ہنگامہ آرائی میں شرکت سے بچنا چاہیے کیونکہ وہاں جان کا خطرہ ہوتا ہے۔",
+                "مسلمانوں کو آپس کی لڑائیوں میں پتھر اور لاٹھی اٹھانے سے روکا گیا ہے۔",
+                "صبر اور تحمل اسلامی سیرت کا لازمی حصہ ہے۔"
+              ],
+              "english": [
+                "One should avoid participating in mobs and chaotic frays due to the risk of life.",
+                "Muslims are discouraged from raising stones or sticks against each other in disputes.",
+                "Patience and restraint are essential parts of the Islamic character."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق کا ساتھ دینا",
+              "english": "Siding with Truth"
+            },
+            "content": {
+              "urdu": [
+                "مومن کی ذمہ داری ہے کہ وہ ظالم کے بجائے ہمیشہ مظلوم اور حق کا ساتھ دے۔",
+                "مجرم کو چھپانا یا اسے قانونی کارروائی سے بچانا ایمان کے خلاف ہے۔",
+                "عدل کا قیام ہی وہ بنیاد ہے جس پر کائنات قائم ہے۔"
+              ],
+              "english": [
+                "A believer's responsibility is to always side with the oppressed and the truth, not the oppressor.",
+                "Hiding a criminal or shielding them from legal action is contrary to faith.",
+                "The establishment of justice is the very foundation upon which the universe stands."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

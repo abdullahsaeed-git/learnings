@@ -1,0 +1,259 @@
+{
+  "hadithId": 928,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/928", "abudawud/2186"],
+    "kitabId": 8,
+    "inKitabBab": 9,
+    "arabicBook": "كتاب الرجعة",
+    "babId": 72
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (2186)، والبيهقي (7/370) في السنن الكبرى، وابن أبي شيبة في المصنف. وصحح إسناده الألباني في إرواء الغليل (2078).",
+    "urdu": "یہ روایت صحیح ہے۔ اسے ابوداؤد (2186) اور بیہقی (7/370) نے روایت کیا ہے۔ علامہ البانی نے ارواء الغلیل میں اس کی سند کو صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2186), Al-Baihaki (7/370), and Ibn Abi Shaibah. Al-Albani graded its chain Sahih in Irwa' al-Ghalil (2078)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُرَاجِعُ",
+      "english": "Takes back / Reconciles",
+      "urdu": "رجوع کرتا ہے"
+    },
+    {
+      "arabic": "يُشْهِدُ",
+      "english": "Calls witnesses",
+      "urdu": "گواہ بناتا ہے"
+    },
+    {
+      "arabic": "أَشْهِدْ",
+      "english": "Call witnesses (Command)",
+      "urdu": "گواہ بناؤ"
+    },
+    {
+      "arabic": "مَوْقُوفًا",
+      "english": "Mauquf (Companion's saying)",
+      "urdu": "موقوف (صحابی کا قول)"
+    },
+    {
+      "arabic": "رَجْعَتِهَا",
+      "english": "Her reconciliation",
+      "urdu": "اس کا رجوع"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں طلاق اور رجوع کے معاملات میں گواہ بنانے کی تاکید کی گئی ہے تاکہ مستقبل میں کسی قسم کے تنازع یا شک و شبہ کی گنجائش نہ رہے۔",
+    "english": "This Hadith emphasizes calling witnesses during divorce and reconciliation to prevent future disputes, doubts, or legal complications."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2186)",
+      "english": "Reported by Abu Dawud (2186)"
+    },
+    {
+      "arabic": "رواه البيهقي (7/370)",
+      "english": "Reported by Al-Baihaki (7/370)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمران بن حصين الخزاعي",
+        "english": "Imran bin Husain Al-Khuza'i"
+      },
+      "slug": "imran-bin-husain"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-POfk5_3s",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طلاق اور رجوع میں گواہی کی اہمیت",
+        "english": "Importance of Witnesses in Divorce & Return"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی حکم اور مستحب عمل",
+              "english": "Legal Ruling and Recommended Act"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک طلاق اور رجوع پر گواہ بنانا مستحب اور پسندیدہ ہے۔",
+                "اگرچہ گواہوں کے بغیر بھی رجوع ہو جاتا ہے، مگر یہ سنت کے خلاف ہے۔",
+                "قرآن مجید میں بھی علیحدگی اور رجوع کے وقت گواہ بنانے کا ذکر موجود ہے۔"
+              ],
+              "english": [
+                "According to the majority of scholars, calling witnesses for divorce and return is recommended.",
+                "Although reconciliation is valid without witnesses, omitting them goes against the Sunnah.",
+                "The Holy Quran also mentions calling witnesses at the time of separation and reconciliation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نزاعات کا سدِ باب",
+              "english": "Prevention of Disputes"
+            },
+            "content": {
+              "urdu": [
+                "گواہ بنانے کا بنیادی مقصد میاں بیوی کے درمیان قانونی تحفظ فراہم کرنا ہے۔",
+                "گواہ نہ ہونے کی صورت میں وراثت اور عدت کے مسائل پیدا ہو سکتے ہیں۔",
+                "یہ طریقہ کار معاشرتی شفافیت اور خاندان کے استحکام کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "The primary purpose of witnesses is to provide legal protection between spouses.",
+                "In the absence of witnesses, issues regarding inheritance and waiting periods can arise.",
+                "This procedure is essential for social transparency and family stability."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سنتِ نبوی اور صحابہ کا موقف",
+        "english": "Prophetic Sunnah and Companions' Stance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیر مسنون طریقہ",
+              "english": "Non-Sunnah Manner"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمران بن حصین نے گواہ نہ بنانے کو خلافِ سنت قرار دیا ہے۔",
+                "ان کے نزدیک بغیر گواہ کے رجوع کرنا ایک نامکمل اور مشکوک عمل ہے۔",
+                "صحابہ کرامؓ شرعی معاملات میں احتیاط اور سنت کی پیروی کی تاکید کرتے تھے۔"
+              ],
+              "english": [
+                "Imran bin Husain (RA) regarded reconciliation without witnesses as contrary to Sunnah.",
+                "In his view, returning to a wife without witnesses is an incomplete and doubtful act.",
+                "The Companions used to emphasize caution and following the Sunnah in legal matters."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توبہ اور تلافی",
+              "english": "Repentance and Rectification"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی گواہ بنانا بھول گیا ہو تو اسے چاہیے کہ اب گواہ بنا لے۔",
+                "طبرانی کی روایت کے مطابق اس کوتاہی پر اللہ سے معافی مانگنی چاہیے۔",
+                "غلطی کا احساس ہونے پر اسے شرعی طریقے سے درست کرنا ایمان کا تقاضا ہے۔"
+              ],
+              "english": [
+                "If someone forgets to call witnesses, they should do so as soon as they remember.",
+                "According to At-Tabarani, one should seek Allah's forgiveness for this negligence.",
+                "Rectifying a mistake according to Shariah upon realization is a demand of faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی فوائد",
+        "english": "Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عورت کے حقوق کا تحفظ",
+              "english": "Protection of Women's Rights"
+            },
+            "content": {
+              "urdu": [
+                "گواہ ہونے سے عورت کے نان و نفقہ اور رہائش کے حقوق محفوظ رہتے ہیں۔",
+                "شوہر کے انتقال کی صورت میں گواہی وراثت کے حق کو ثابت کرتی ہے۔",
+                "یہ عمل عورت کو سماجی طور پر کسی بھی الزام یا بہتان سے بچاتا ہے۔"
+              ],
+              "english": [
+                "Witnesses ensure the protection of the woman's rights to maintenance and housing.",
+                "In the event of the husband's death, testimony establishes the right to inheritance.",
+                "This practice protects the woman socially from any accusations or slander."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شک و شبہ کا خاتمہ",
+              "english": "End of Doubt and Suspicion"
+            },
+            "content": {
+              "urdu": [
+                "خفیہ رجوع خاندان اور معاشرے میں غلط فہمیاں پیدا کر سکتا ہے۔",
+                "گواہ بنانا معاشرے کو مطلع کرنے کا ایک باوقار طریقہ ہے۔",
+                "اسلام ہر معاملے میں ابہام کے بجائے وضاحت اور شفافیت چاہتا ہے۔"
+              ],
+              "english": [
+                "Secret reconciliation can create misunderstandings within the family and society.",
+                "Calling witnesses is a dignified way to inform the community of the status.",
+                "Islam prefers clarity and transparency over ambiguity in all matters."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دینی مسائل میں علم کی اہمیت",
+              "english": "Importance of Knowledge in Religion"
+            },
+            "content": {
+              "urdu": [
+                "ازدواجی زندگی کے شرعی قوانین کا علم ہر مسلمان کے لیے ضروری ہے۔",
+                "لاعلمی میں کیے گئے فیصلے خاندانی پیچیدگیوں کا باعث بنتے ہیں۔",
+                "مسائل پیش آنے پر مستند علماء اور آثارِ صحابہ سے رجوع کرنا چاہیے۔"
+              ],
+              "english": [
+                "Knowledge of marital Shariah laws is essential for every Muslim.",
+                "Decisions made in ignorance lead to complex family complications.",
+                "One should consult authentic scholars and the precedents of the Companions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی پابندی",
+              "english": "Adherence to Discipline"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معاشرہ نظم و ضبط اور قانونی ضوابط پر مبنی ہے۔",
+                "گواہی کا نظام انصاف کی فراہمی میں کلیدی کردار ادا کرتا ہے۔",
+                "سنت کی پابندی میں ہی انسان کی دنیا اور آخرت کی کامیابی ہے۔"
+              ],
+              "english": [
+                "Islamic society is based on discipline and legal regulations.",
+                "The system of testimony plays a key role in the provision of justice.",
+                "Success in this world and the hereafter lies in adhering to the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "chapId": 48,
+  "bookId": 7,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 735,
+    "to": 737
+  },
+  "hadiths": [
+    {
+      "id": 735,
+      "name": {
+        "arabic": "عَنْ عَمْرِو بْنِ عَوْفٍ اَلْمُزَنِيِّ ‏- رضى الله عنه ‏- أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { اَلصُّلْحُ جَائِزٌ بَيْنَ اَلْمُسْلِمِينَ, إِلَّا صُلْحاً حَرَّمَ حَلَالاً أَوْ أَحَلَّ حَرَاماً، وَالْمُسْلِمُونَ عَلَى شُرُوطِهِمْ, إِلَّا شَرْطاً حَرَّمَ حَلَالاً أَوْ أَحَلَّ حَرَاماً } رَوَاهُ اَلتِّرْمِذِيُّ وَصَحَّحَهُ",
+        "urdu": "سیدنا عمرو بن عوف مزنی رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: ”مسلمانوں کے درمیان صلح (کرنا) جائز ہے، سوائے ایسی صلح کے جو کسی حلال کو حرام کر دے یا حرام کو حلال کر دے۔ اور مسلمان اپنی (طے کردہ) شرائط کے پابند ہیں، سوائے ایسی شرط کے جو حلال کو حرام کر دے یا حرام کو حلال کر دے۔“",
+        "english": "Narrated 'Amr bin 'Auf al-Muzani (R.A): Allah's Messenger (peace be upon him) said: \"Settlement (Sulh) is permissible between Muslims, except for a settlement that makes a lawful thing forbidden or an unlawful thing permitted. And Muslims are bound by their conditions, except for a condition that makes a lawful thing forbidden or an unlawful thing permitted.\""
+      }
+    },
+
+    {
+      "id": 736,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ رَضِيَ اَللَّهُ عَنْهُ أَنَّ اَلنَّبِيَّ صلى الله عليه وسلم قَالَ: { لَا يَمْنَعُ جَارٌ جَارَهُ أَنْ يَغْرِزَ خَشَبَةً فِي جِدَارِهِ }. ثُمَّ يَقُولُ أَبُو هُرَيْرَةَ: مَا لِي أَرَاكُمْ عَنْهَا مُعْرِضِينَ? وَاَللَّهِ لَأَرْمِيَنَّ بِهَا بَيْنَ أَكْتَافِكُمْ",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ نبی کریم ﷺ نے فرمایا: ”کوئی پڑوسی اپنے پڑوسی کو اپنی دیوار میں لکڑی گاڑنے (سہارا لینے) سے منع نہ کرے۔“ پھر ابوہریرہ رضی اللہ عنہ (لوگوں کی بے رخی دیکھ کر) کہتے: کیا بات ہے کہ میں تمہیں اس سنت سے اعراض کرتے ہوئے دیکھ رہا ہوں؟ اللہ کی قسم! میں اس لکڑی کو (یا اس سنت کو) تمہارے کندھوں کے درمیان ماروں گا (یعنی اسے تم پر لازم کروں گا)۔",
+        "english": "Narrated Abu Hurairah (RA): The Prophet (ﷺ) said: 'No neighbor should prevent his neighbor from fixing a wooden beam in his wall.' Abu Hurairah then said, 'Why do I see you turning away from this (Sunnah)? By Allah, I will certainly throw it (this sunnah) between your shoulders (force you to hear and apply it).'"
+      }
+    },
+
+    {
+      "id": 737,
+      "name": {
+        "arabic": " وَعَنْ أَبِي حُمَيْدٍ اَلسَّاعِدِيِّ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يَحِلُّ لِامْرِئٍ أَنْ يَأْخُذَ عَصَا أَخِيهِ بِغَيْرِ طِيبِ نَفْسٍ مِنْهُ } رَوَاهُ اِبْنُ حِبَّانَ, وَالْحَاكِمُ فِي \" صَحِيحَيْهِمَا \"",
+        "urdu": "سیدنا ابوحمید ساعدی رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کسی شخص کے لیے یہ حلال نہیں کہ وہ اپنے بھائی کی لاٹھی (عصا) بھی اس کی دلی خوشی اور رضامندی کے بغیر لے۔“",
+        "english": "Narrated Abu Humaid as-Sa'idi (R.A): Allah's Messenger (peace be upon him) said: \"It is not lawful for a person to take even the staff (walking stick) of his brother without his consent.\""
+      }
+    }
+  ]
+}

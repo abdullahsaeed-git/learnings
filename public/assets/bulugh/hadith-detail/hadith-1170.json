@@ -1,0 +1,259 @@
+{
+  "hadithId": 1170,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/50"],
+    "kitabId": 12,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب العقيقة",
+    "babId": 95
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (5/7)، وأبو داود (2838)، والنسائي (4220)، والترمذي (1522)، وابن ماجه (3165). قال الترمذي: حديث حسن صحيح.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد اور چاروں اصحابِ سنن نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح قرار دیا ہے، جو اس کے مستند ہونے کی قطعی دلیل ہے۔",
+    "english": "Sahih. Reported by Ahmad (5/7), Abu Dawud (2838), An-Nasa'i (4220), At-Tirmidhi (1522), and Ibn Majah (3165). At-Tirmidhi graded it Hasan Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "مُرْتَهَنٌ",
+      "english": "Pawned / Pledged",
+      "urdu": "گروی / رہن"
+    },
+    {
+      "arabic": "بِعَقِيقَتِهِ",
+      "english": "By his Aqiqa",
+      "urdu": "اپنے عقیقے کے عوض"
+    },
+    {
+      "arabic": "تُذْبَحُ",
+      "english": "Should be sacrificed",
+      "urdu": "ذبح کیا جائے"
+    },
+    {
+      "arabic": "يُحْلَقُ",
+      "english": "Should be shaved",
+      "urdu": "منڈوایا جائے"
+    },
+    {
+      "arabic": "يُسَمَّى",
+      "english": "Should be named",
+      "urdu": "نام رکھا جائے"
+    }
+  ],
+  "summary": {
+    "urdu": "پیدائش کے ساتویں دن عقیقہ کرنا، بال منڈوانا اور نام رکھنا مسنون اعمال ہیں، جس سے بچے کی روحانی سلامتی وابستہ ہے۔",
+    "english": "Performing Aqiqa, shaving the head, and naming the child on the seventh day are Sunnah acts linked to the child's spiritual well-being."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2838)",
+      "english": "Sunan Abi Dawud (2838)"
+    },
+    {
+      "arabic": "سنن الترمذي (1522)",
+      "english": "Sunan at-Tirmidhi (1522)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سمرة بن جندب",
+        "english": "Samurah bin Jundub"
+      },
+      "slug": "samurah-bin-jundub"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Q-vF1o7fI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عقیقہ اور 'رہن' کا مفہوم",
+        "english": "Concept of Aqiqa and being 'Pawned'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رہن سے کیا مراد ہے؟",
+              "english": "Meaning of Murtahan (Pawned)"
+            },
+            "content": {
+              "urdu": [
+                "بچہ عقیقہ ہونے تک اللہ کی خصوصی حفاظت یا کامل برکات سے رکا رہتا ہے۔",
+                "بعض علماء کے مطابق اس کا مطلب ہے کہ بچہ والدین کے لیے شفاعت نہیں کر سکے گا۔",
+                "یہ لفظ عقیقہ کی اہمیت اور اس کی فوری ادائیگی پر زور دینے کے لیے ہے۔"
+              ],
+              "english": [
+                "The child is withheld from certain blessings or divine protection until Aqiqa is done.",
+                "Some scholars interpret it as the child's intercession for parents being delayed.",
+                "The term emphasizes the critical importance and early fulfillment of the Aqiqa."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ساتویں دن کی فضیلت",
+              "english": "Significance of the Seventh Day"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں عقیقہ کے لیے ساتویں دن کو بہترین اور مسنون وقت قرار دیا گیا ہے۔",
+                "اگر ساتویں دن ممکن نہ ہو تو چودہویں یا اکیسویں دن کرنا بھی جائز ہے۔",
+                "وقت کی یہ تعیین نظم و ضبط اور سنت کی پیروی کا درس دیتی ہے۔"
+              ],
+              "english": [
+                "The Hadith specifies the seventh day as the most preferred and Sunnah time.",
+                "If it cannot be done on the 7th, the 14th or 21st days are also acceptable.",
+                "This timing teaches discipline and the importance of following the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نام رکھنے اور بال مونڈنے کے آداب",
+        "english": "Etiquettes of Naming and Shaving"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی نام کی اہمیت",
+              "english": "Importance of an Islamic Name"
+            },
+            "content": {
+              "urdu": [
+                "بچے کا نام اس کی شخصیت اور پہچان پر گہرا اثر ڈالتا ہے۔",
+                "نبی ﷺ نے اچھے اور بامعنی اسلامی نام رکھنے کی سختی سے تاکید فرمائی ہے۔",
+                "ساتویں دن نام رکھنا سنت ہے، اگرچہ پیدائش کے فوراً بعد بھی رکھا جا سکتا ہے۔"
+              ],
+              "english": [
+                "A child's name has a profound impact on their identity and personality.",
+                "The Prophet (ﷺ) strongly emphasized giving good and meaningful Islamic names.",
+                "Naming on the 7th day is Sunnah, though it is permissible immediately after birth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سر مونڈنا اور صدقہ",
+              "english": "Shaving and Charity"
+            },
+            "content": {
+              "urdu": [
+                "بچے کے پیدائشی بال مونڈنا صحت اور صفائی کے لحاظ سے مفید ہے۔",
+                "سنت یہ ہے کہ ان بالوں کے وزن کے برابر چاندی صدقہ کی جائے۔",
+                "یہ عمل اللہ کی دی ہوئی نعمت پر شکر گزاری کا ایک عملی اظہار ہے۔"
+              ],
+              "english": [
+                "Shaving the birth hair is beneficial for the child's health and hygiene.",
+                "The Sunnah is to give silver in charity equal to the weight of the hair.",
+                "This act is a practical expression of gratitude for the blessing given by Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و روحانی حکمتیں",
+        "english": "Juristic and Spiritual Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شیطان سے حفاظت",
+              "english": "Protection from Satan"
+            },
+            "content": {
+              "urdu": [
+                "عقیقہ کا جانور بچے کی طرف سے ایک فدیہ ہے جو اسے آفات سے بچاتا ہے۔",
+                "اس قربانی سے بچے کی زندگی میں برکت اور خیر کا نزول ہوتا ہے۔",
+                "یہ بچے کی روحانی بنیادوں کو سنتِ نبوی ﷺ پر استوار کرتا ہے۔"
+              ],
+              "english": [
+                "The Aqiqa animal is a ransom for the child, protecting them from calamities.",
+                "This sacrifice facilitates the descent of blessings and goodness in the child's life.",
+                "It establishes the child's spiritual foundation upon the Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی جڑت",
+              "english": "Social Cohesion"
+            },
+            "content": {
+              "urdu": [
+                "عقیقہ کے ذریعے رشتہ داروں اور غریبوں کو کھانا کھلانا مسنون ہے۔",
+                "یہ عمل خاندان میں خوشی کی لہر اور سماجی تعلقات کو مضبوط کرتا ہے۔",
+                "اسلام خوشی کے مواقع پر دوسروں کو شریک کرنے کی حوصلہ افزائی کرتا ہے۔"
+              ],
+              "english": [
+                "Feeding relatives and the poor through Aqiqa is a recommended act.",
+                "This practice spreads joy in the family and strengthens social bonds.",
+                "Islam encourages involving others during times of celebration and happiness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصیحت",
+        "english": "Practical Lesson and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت پر فوری عمل",
+              "english": "Prompt Action on Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "والدین کو چاہیے کہ استطاعت ہوتے ہی عقیقہ کی ذمہ داری پوری کریں۔",
+                "بلاوجہ تاخیر کرنا بچے کی روحانی ترقی میں رکاوٹ بن سکتا ہے۔",
+                "نبی ﷺ کے بتائے ہوئے طریقے میں ہی دنیا و آخرت کی کامیابی ہے۔"
+              ],
+              "english": [
+                "Parents should fulfill the Aqiqa responsibility as soon as they have the means.",
+                "Unnecessary delay can hinder the spiritual growth of the child.",
+                "Success in this world and the hereafter lies in the path shown by the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعمال کا توازن",
+              "english": "Balance of Actions"
+            },
+            "content": {
+              "urdu": [
+                "صرف قربانی ہی نہیں بلکہ نام اور صفائی (بال کاٹنا) بھی اتنے ہی اہم ہیں۔",
+                "دینِ اسلام زندگی کے ہر موڑ پر مکمل رہنمائی فراہم کرتا ہے۔",
+                "ہمیں ہر چھوٹے بڑے عمل کو سنتِ نبوی کے مطابق ڈھالنے کی کوشش کرنی چاہیے۔"
+              ],
+              "english": [
+                "Not just the sacrifice, but the name and hygiene (shaving) are equally important.",
+                "Islam provides complete guidance at every stage and milestone of life.",
+                "We must strive to mold every action, big or small, according to the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

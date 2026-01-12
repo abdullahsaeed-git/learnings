@@ -1,0 +1,264 @@
+{
+  "hadithId": 34,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 6 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الاستنثار",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه البخاري (3295) ، ومسلم (238) . ",
+    "urdu": "صحیح (درجہ)۔ اسے بخاری (3295) اور مسلم (238) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bukhari (3295) and Muslim (238)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِسْتَيْقَظَ",
+      "english": "Wakes up",
+      "urdu": "بیدار ہو"
+    },
+    {
+      "arabic": "مَنَامِهِ",
+      "english": "His sleep",
+      "urdu": "اپنی نیند"
+    },
+    {
+      "arabic": "فَلْيَسْتَنْثِرْ",
+      "english": "Should blow out/clean his nose",
+      "urdu": "ناک جھاڑ کر صاف کرے"
+    },
+    {
+      "arabic": "ثَلَاثًا",
+      "english": "Three times",
+      "urdu": "تین مرتبہ"
+    },
+    {
+      "arabic": "اَلشَّيْطَانَ",
+      "english": "The devil/Shaytan",
+      "urdu": "شیطان"
+    },
+    {
+      "arabic": "خَيْشُومِهِ",
+      "english": "Interior bridge of his nose",
+      "urdu": "ناک کے نتھنوں کی ہڈی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث صبح نیند سے بیدار ہونے کے بعد ناک کو تین بار اچھی طرح صاف (استنثار) کرنے کا حکم دیتی ہے، اور اس عمل کی وجہ یہ بتائی گئی ہے کہ شیطان رات بھر انسان کے ناک کے اندرونی حصے میں بسیرا کرتا ہے۔",
+    "english": "This Hadith mandates the practice of thoroughly cleaning the nose by expelling water (Istinthār) three times immediately upon waking up, stating that this is necessary because the devil resides in the nasal passage during sleep."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب بدء الخلق، رقم 3295",
+      "english": "Sahih Al-Bukhari, The Book of the Beginning of Creation, Hadith 3295"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الطهارة، رقم 238",
+      "english": "Sahih Muslim, The Book of Purification, Hadith 238"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abu Hurayrah (May Allah be pleased with him)"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-12-nasal-cleaning",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Agreed Upon (by Bukhari and Muslim)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور جسمانی صفائی",
+        "english": "Spiritual and Physical Cleanliness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استنثار کا حکم اور اس کی وجہ",
+              "english": "The Command for Istinthār and Its Reason"
+            },
+            "content": {
+              "urdu": [
+                "استنثار (ناک جھاڑ کر صاف کرنا) وہ سنت ہے جسے ہر نیند سے بیدار ہونے پر لازم کیا گیا ہے، اور وضو کے دوران یہ عمل واجب ہے۔",
+                "نبی اکرم ﷺ نے اس حکم کی وجہ یہ بیان فرمائی کہ رات کے دوران شیطان انسان کی ناک کے اندرونی حصے (خیشوم) پر بسیرا کرتا ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ اسلام نہ صرف ظاہری صفائی بلکہ ہر کام سے پہلے روحانی آلودگی کو دور کرنے کی بھی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Istinthār (blowing water out of the nose) is a Sunnah mandated upon waking up from any sleep, and it is an obligatory part of Wudu.",
+                "The Prophet (ﷺ) explicitly gave the reason for this command: the devil (Shaytan) spends the night on the inside of a person's nose (Khayshūm).",
+                "This ruling proves that Islam teaches not only physical cleanliness but also the removal of spiritual contamination before starting daily routines."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی حیثیت",
+              "english": "The Status of the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک استنثار یعنی ناک میں پانی ڈال کر جھاڑنا وضو کے فرائض میں شامل نہیں بلکہ سنتِ مؤکدہ ہے۔",
+                "تاہم، امام احمد بن حنبل اور بعض دیگر علماء کے نزدیک، خصوصاً نیند سے بیدار ہونے کے بعد، استنثار **واجب** کے قریب کا حکم رکھتا ہے۔",
+                "اس عمل کو تین بار دہرانا نبی ﷺ کی سنت ہے، جو مکمل صفائی اور زیادہ اجر کو یقینی بنانے کے لیے ہے۔"
+              ],
+              "english": [
+                "According to the majority of jurists, Istinthār is an emphasized Sunnah and not a formal obligation (Fard) of Wudu, though it is highly recommended.",
+                "However, some scholars, notably Imam Ahmad bin Hanbal, consider Istinthār to be near **obligatory (Wajib)**, especially after waking up from sleep.",
+                "Repeating this action three times is the Sunnah of the Prophet (ﷺ), intended to ensure complete cleansing and maximize the spiritual reward."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شیطان کا اثر اور حفاظت",
+        "english": "The Devil's Influence and Protection"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شیطان کی موجودگی",
+              "english": "The Presence of Shaytan"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں یہ بیان کہ شیطان ناک کے بانسے پر رات گزارتا ہے، روحانی طور پر انسان کو نیند کے دوران اس کے اثرات سے پاک کرنے کی اہمیت کو اجاگر کرتا ہے۔",
+                "علماء نے کہا ہے کہ اس کا مقصد شیطان کے وسوسوں اور نیند کے دوران ہونے والی گندگی کو زائل کرنا ہے، خواہ یہ ظاہری ہو یا باطنی۔",
+                "ناک کو صاف کرنے سے نیند کے غلبے میں ناک میں داخل ہونے والی خشکی یا کسی بھی قسم کی آلودگی بھی دور ہو جاتی ہے۔"
+              ],
+              "english": [
+                "The statement that the devil resides on the 'Khayshūm' spiritually highlights the importance of cleansing the self from the devil's influence after sleep.",
+                "Scholars explain that the purpose is to remove the effects of the devil's whisperings (Waswās) and any form of impurity or dirtiness accumulated during the sleeping state.",
+                "Physically, clearing the nose also removes dryness, dust, or any secretions that may have entered the nasal passages during deep, unmonitored sleep."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حس اور غیب پر ایمان",
+              "english": "Sensing and Belief in the Unseen"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اہل ایمان کو **غیب پر ایمان** رکھنے کی تعلیم دیتی ہے، کہ وہ اعمال جو اللہ اور اس کے رسول ﷺ نے بغیر کسی واضح مادی سبب کے بتائے ہیں، ان پر عمل کیا جائے۔",
+                "اگرچہ ہم شیطان کو ناک میں بیٹھے ہوئے دیکھ نہیں سکتے، لیکن حکمِ رسول ﷺ کی تعمیل میں یقین رکھنا ہی ایمان کی علامت ہے۔",
+                "اس لیے مسلمان اس عمل کو صرف جسمانی صفائی نہیں، بلکہ شیطانی اثرات سے بچاؤ کا ایک روحانی ذریعہ بھی سمجھ کر انجام دیتے ہیں۔"
+              ],
+              "english": [
+                "This Hadith teaches believers to have **faith in the unseen (Ghayb)**, acting upon commands from Allah and His Messenger (ﷺ) even without fully grasping the physical cause.",
+                "Although we cannot see the devil residing in the nose, obeying the Prophet's command is a mark of strong faith and submission.",
+                "Therefore, Muslims perform this act considering it not only physical hygiene but also a spiritual shield against the influence of the devil."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دیگر متعلقہ احکام",
+        "english": "Other Related Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیدار ہونے پر ہاتھ دھونا",
+              "english": "Washing Hands Upon Waking Up"
+            },
+            "content": {
+              "urdu": [
+                "اسی نوعیت کی ایک اور صحیح حدیث میں حکم دیا گیا ہے کہ نیند سے بیدار ہونے کے بعد اپنے ہاتھوں کو کسی برتن میں ڈالنے سے پہلے تین بار دھویا جائے۔",
+                "اس کی وجہ بھی یہ بتائی گئی کہ سونے والا نہیں جانتا کہ رات کو اس کا ہاتھ کہاں کہاں پڑا، جس میں ناپاک جگہوں کو چھونے کا امکان ہے۔",
+                "یہ دونوں حکم (ناک صاف کرنا اور ہاتھ دھونا) ایک ساتھ مل کر بیدار ہونے کے بعد طہارت کی ضرورت کو تقویت دیتے ہیں۔"
+              ],
+              "english": [
+                "Another authentic Hadith of a similar nature mandates washing one's hands three times upon waking up before putting them into any water vessel.",
+                "The reason given is that the sleeping person does not know where their hands have rested during the night, potentially touching impure areas.",
+                "These two commands (cleaning the nose and washing the hands) together emphasize the need for immediate ritual cleanliness upon ending sleep."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تین بار دہرانے کی حکمت",
+              "english": "Wisdom of Repeating Thrice"
+            },
+            "content": {
+              "urdu": [
+                "اعمالِ طہارت اور دیگر سنت افعال میں تین بار دہرانے کا اصول (تثلیث) نہ صرف صفائی کو یقینی بناتا ہے بلکہ اجر و ثواب میں اضافہ بھی کرتا ہے۔",
+                "مسلمانوں کے لیے تین بار ناک جھاڑ کر صاف کرنے کا حکم اس بات کی دلیل ہے کہ یہ طہارت کے لیے ایک قوی اور کامل طریقہ ہے۔",
+                "تمام عبادات میں نبی ﷺ نے یہی طریقہ سکھایا ہے کہ اہم افعال کو تین بار دہرایا جائے تاکہ کوئی شک نہ رہے اور سنت مکمل ہو۔"
+              ],
+              "english": [
+                "The principle of repetition (Tathlīth) thrice in acts of purification and other Sunnah deeds not only ensures thoroughness but also increases the reward.",
+                "The command to clean the nose three times confirms that this is the robust and complete method prescribed for purification.",
+                "The Prophet (ﷺ) taught this repetition in all major ritual actions so that there is no doubt remaining and the Sunnah is fully achieved."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کا وقت اور عمل",
+        "english": "Timing and Action of Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمل کا وقت",
+              "english": "The Time of the Action"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم خاص طور پر **نیند سے بیدار ہونے** کے لیے ہے، خواہ وہ رات کی نیند ہو یا دن کا قیلولہ، اس میں کوئی فرق نہیں ہے۔",
+                "چونکہ شیطان رات بھر بسیرا کرتا ہے، اس لیے صبح بیدار ہوتے ہی یہ عمل کرنا خاص طور پر اہم ہو جاتا ہے، بالخصوص فجر کی نماز کے وضو سے پہلے۔",
+                "یہ مسلمان کی روزمرہ زندگی کا پہلا روحانی اور جسمانی عمل ہونا چاہیے، جو دن کا آغاز طہارت سے کرنے کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "This command is specifically for **waking up from sleep**, whether it is the sleep of the night or a nap during the day; the ruling applies equally.",
+                "Since the devil resides throughout the night, performing this act immediately upon waking in the morning is particularly crucial, especially before performing Wudu for Fajr prayer.",
+                "It should be the first spiritual and physical act of a Muslim's day, encouraging the start of the day with full purity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استنشاق اور استنثار کا فرق",
+              "english": "Difference between Istinshāq and Istinthār"
+            },
+            "content": {
+              "urdu": [
+                "**استنشاق** کا مطلب ہے ناک میں پانی چڑھانا، جو وضو کا ایک بنیادی عمل ہے، اور یہ ہر وضو کے ساتھ سنت یا واجب ہے۔",
+                "**استنثار** کا مطلب ہے اس پانی کو جھاڑ کر باہر نکالنا، تاکہ ناک کے اندرونی حصے مکمل طور پر صاف ہو جائیں، اور حدیث میں اسی عمل کی تاکید ہے۔",
+                "بعض فقہاء نے ان دونوں کو ایک ہی حکم میں شامل کیا ہے اور ایک کے بغیر دوسرے کو ناقص قرار دیا ہے، لیکن مقصد اندرونی طہارت ہے۔"
+              ],
+              "english": [
+                "**Istinshāq** means drawing water into the nose, which is a fundamental act of Wudu, considered Sunnah or Wajib with every ablution.",
+                "**Istinthār** means expelling that water forcefully to clear the nasal passages, and this Hadith specifically emphasizes this expelling action.",
+                "Some jurists treat both as part of the same ruling, considering one incomplete without the other, but the core objective remains internal purification."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

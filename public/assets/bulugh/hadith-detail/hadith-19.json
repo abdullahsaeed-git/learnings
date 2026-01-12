@@ -1,0 +1,246 @@
+{
+  "hadithId": 19,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 1,
+    "inKitabBab": 2,
+    "arabicBook": "",
+    "babId": 2
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه البخاري (5478)  و (5488) ، (5496) ، ومسلم (1930) ، وله طرق وألفاظ، عن أبي ثعلبة.",
+    "urdu": "صحيح. اسے امام بخاری (5478، 5488، 5496) اور امام مسلم (1930) نے روایت کیا ہے، اور اس کے دیگر طرق و الفاظ بھی موجود ہیں، عن ابوثعلبہ۔",
+    "english": "Authentic. Narrated by Al-Bukhari (5478, 5488, 5496) and Muslim (1930), with different chains and wordings, from Abu Tha’laba."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَنَا أَرْضِ أَهْلِ كِتَابٍ",
+      "english": "Land of the People of the Book",
+      "urdu": "اہل کتاب کی زمین"
+    },
+    {
+      "arabic": "آنِيَتِهِمْ",
+      "english": "their utensils",
+      "urdu": "ان کے برتن"
+    },
+    {
+      "arabic": "فَاغْسِلُوهَا",
+      "english": "then wash them",
+      "urdu": "تو انہیں دھو کر"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ہمیں بتاتی ہے کہ مسلمانوں کو غیر مسلموں کے برتنوں میں بغیر ضرورت کھانے سے پرہیز کرنا چاہئے، مگر اگر دوسرے برتن دستیاب نہ ہوں تو انہیں دھو کر استعمال کیا جا سکتا ہے۔",
+    "english": "This Hadith instructs that Muslims should avoid eating from the utensils of non-Muslims unless necessary; if no other utensils are available, they may be washed and then used."
+  },
+  "references": [
+    {
+      "arabic": "البخاري (5478، 5488، 5496)، مسلم (1930)",
+      "english": "Al-Bukhari (5478, 5488, 5496), Muslim (1930)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو ثعلبہ الخشني",
+        "english": "Abu Tha’laba Al-Khushani"
+      },
+      "slug": "abu-thalaba-al-khushani"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Muttafaqun Alayh (Agreed upon)"
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اہل کتاب کے برتنوں سے کھانے کے بارے میں احتیاط",
+        "english": "Caution Regarding Utensils of People of the Book"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کھانے کی اجازت اور شرط",
+              "english": "Permission and Condition"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو اہل کتاب کے برتنوں میں کھانے سے منع کیا گیا ہے۔",
+                "البتہ، اگر دوسرے برتن دستیاب نہ ہوں تو اجازت دی گئی ہے۔",
+                "ایسی صورت میں برتن دھو کر استعمال کیے جائیں۔"
+              ],
+              "english": [
+                "Muslims are prohibited from eating in the utensils of People of the Book.",
+                "However, if no other utensils are available, permission is granted.",
+                "In such cases, the utensils should be washed before use."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہم تعلیمات",
+              "english": "Key Teachings"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں وضاحت کی گئی کہ ضرورت کے وقت استثناء ممکن ہے۔",
+                "طہارت کی اہمیت کو بیان کیا گیا ہے۔",
+                "مسلمانوں کو غیر ضروری امتیاز سے بچنے کی ہدایت دی گئی ہے۔"
+              ],
+              "english": [
+                "The Hadith clarifies that exceptions are allowed in necessity.",
+                "Importance of cleanliness is emphasized.",
+                "Muslims are guided to avoid unnecessary distinction."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "برتن دھونے کا طریقہ",
+        "english": "Method of Washing Utensils"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صاف پانی کا استعمال",
+              "english": "Use of Clean Water"
+            },
+            "content": {
+              "urdu": [
+                "اہل کتاب کے برتنوں کو پہلے صاف پانی سے دھویا جائے۔",
+                "یہ عمل برتن کو پاکیزہ بنانے کے لئے ضروری ہے۔",
+                "مسلمانوں کو اس پر سختی سے عمل کرنے کا حکم ہے۔"
+              ],
+              "english": [
+                "Utensils of People of the Book should first be washed with clean water.",
+                "This act is necessary to purify the utensil.",
+                "Muslims are instructed to strictly follow this."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دھونے کے بعد کھانے کی اجازت",
+              "english": "Permission to Eat After Washing"
+            },
+            "content": {
+              "urdu": [
+                "دھونے کے بعد برتن میں کھانے کی اجازت ہے۔",
+                "یہ حدیث عملی ہدایت کے طور پر دی گئی ہے۔",
+                "مسلمان اس سے برتن کے استعمال میں راحت حاصل کرسکتے ہیں۔"
+              ],
+              "english": [
+                "After washing, it is permissible to eat from the utensil.",
+                "This Hadith provides practical guidance.",
+                "Muslims can find ease in using such utensils."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ضرورت اور استثناء",
+        "english": "Necessity and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دستیابی کا معیار",
+              "english": "Availability Criteria"
+            },
+            "content": {
+              "urdu": [
+                "اگر صرف اہل کتاب کے برتن دستیاب ہوں تو ان کو دھو کر استعمال کیا جا سکتا ہے۔",
+                "یہ استثناء ضرورت کی حالت میں ہے۔",
+                "مسلمانوں کے لئے اصولی پابندی برقرار ہے۔"
+              ],
+              "english": [
+                "If only the utensils of People of the Book are available, they may be used after washing.",
+                "This exception applies in cases of necessity.",
+                "The general prohibition remains for Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاط کی تاکید",
+              "english": "Emphasis on Caution"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں ضرورت اور احتیاط دونوں کی تعلیم دی گئی ہے۔",
+                "مسلمان ہر وقت پاکیزگی اور صفائی پر توجہ دیں۔",
+                "یہ عادت طہارت اور شریعت کی پیروی کو مضبوط کرتی ہے۔"
+              ],
+              "english": [
+                "The Hadith teaches both necessity and caution.",
+                "Muslims should always pay attention to cleanliness.",
+                "This habit strengthens purity and adherence to Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی اور اخلاقی پہلو",
+        "english": "Social and Ethical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلمانوں کی امتیازی شناخت",
+              "english": "Distinct Identity of Muslims"
+            },
+            "content": {
+              "urdu": [
+                "حدیث مسلمانوں کو اپنی شناخت اور طہارت میں منفرد رہنے کی ہدایت دیتی ہے۔",
+                "اہل کتاب کے برتن صرف ضرورت میں استعمال ہوں۔",
+                "یہ اسلامی اخلاقیات اور ثقافت کی تعلیم کو مضبوط کرتا ہے۔"
+              ],
+              "english": [
+                "The Hadith guides Muslims to maintain distinct identity and purity.",
+                "Utensils of People of the Book are to be used only in necessity.",
+                "It reinforces Islamic ethics and cultural teachings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاقی تعلیمات",
+              "english": "Moral Lessons"
+            },
+            "content": {
+              "urdu": [
+                "حدیث ضرورت اور عملی اخلاقیات کی تعلیم دیتی ہے۔",
+                "مسلمانوں کو اپنے اعمال میں صفائی اور پاکیزگی کی عادت پیدا کرنے کا درس دیتی ہے۔",
+                "یہ عملی شریعت کے مطابق زندگی گزارنے کی رہنمائی فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "The Hadith provides lessons on necessity and practical ethics.",
+                "It teaches Muslims to cultivate habits of cleanliness and purity.",
+                "It guides living life according to practical Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

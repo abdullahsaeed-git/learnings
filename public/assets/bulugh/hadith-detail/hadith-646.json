@@ -1,0 +1,264 @@
+{
+  "hadithId": 646,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/6/2"],
+    "kitabId": 6,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الحج",
+    "babId": 41
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5089)، ومسلم (1207).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (5089) اور امام مسلم (1207) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5089) and Muslim (1207)."
+  },
+  "importantWords": [
+    {
+      "arabic": "شَاكِيَةٌ",
+      "english": "Ailing / Ill",
+      "urdu": "بیمار"
+    },
+    {
+      "arabic": "اشْتَرِطِي",
+      "english": "Make a condition",
+      "urdu": "شرط رکھ لو"
+    },
+    {
+      "arabic": "مَحَلِّي",
+      "english": "Place of exiting Ihram",
+      "urdu": "میرے حلال ہونے کی جگہ"
+    },
+    {
+      "arabic": "حَبَسْتَنِي",
+      "english": "You hindered me",
+      "urdu": "تو نے مجھے روکا"
+    },
+    {
+      "arabic": "أُرِيدُ",
+      "english": "I intend",
+      "urdu": "میں ارادہ کرتی ہوں"
+    },
+    {
+      "arabic": "حُجِّي",
+      "english": "Perform Hajj",
+      "urdu": "تم حج کرو"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں بیمار شخص کے لیے حج کے احرام میں شرط لگانے کی اجازت دی گئی ہے تاکہ اگر بیماری بڑھ جائے تو وہ بغیر جرمانہ (دم) کے احرام کھول سکے۔",
+    "english": "This Hadith permits an ill person to place a condition in their Ihram, allowing them to exit it without penalty if they are unable to continue."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري في كتاب النكاح",
+      "english": "Reported by Al-Bukhari in the Book of Marriage"
+    },
+    {
+      "arabic": "رواه مسلم في كتاب الحج",
+      "english": "Reported by Muslim in the Book of Hajj"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Xz2A4P_8K_Q",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Agreed Upon (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حج میں شرط لگانے کا مفہوم",
+        "english": "Concept of Stipulation in Hajj"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اشتراط کی شرعی حیثیت",
+              "english": "Legality of Stipulation"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص بیمار ہو تو وہ احرام کے وقت شرط لگا سکتا ہے۔",
+                "یہ شرط اسے کسی بھی ناگہانی رکاوٹ کی صورت میں تحفظ دیتی ہے۔",
+                "زبان سے یہ الفاظ ادا کرنا کہ 'میرا مقام وہی ہے جہاں تو نے روکا' ضروری ہے۔"
+              ],
+              "english": [
+                "If a person is ill, they may make a condition during Ihram.",
+                "This condition protects them in case of any sudden obstruction.",
+                "It is necessary to verbally state: 'My place is where You hinder me.'"
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے بیمار اور کمزور افراد کے لیے عبادات میں سہولت رکھی ہے۔",
+                "حج جیسی مشقت والی عبادت میں یہ شرط ایک بڑی رعایت ہے۔",
+                "یہ اللہ تعالیٰ کی طرف سے بندوں پر خاص رحمت اور شفقت ہے۔"
+              ],
+              "english": [
+                "Islam provides facilities for the sick and weak in acts of worship.",
+                "In a demanding worship like Hajj, this condition is a great concession.",
+                "This reflects Allah's special mercy and compassion toward His servants."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور فوائد",
+        "english": "Juristic Issues and Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دم یا فدیہ سے استثناء",
+              "english": "Exemption from Penalty"
+            },
+            "content": {
+              "urdu": [
+                "عام طور پر احرام توڑنے پر قربانی (دم) واجب ہوتی ہے۔",
+                "شرط لگانے والا شخص رکاوٹ آنے پر بغیر دم دیے حلال ہو سکتا ہے۔",
+                "اس پر اس حج کی قضا بھی لازم نہیں آتی اگر وہ نفل ہو۔"
+              ],
+              "english": [
+                "Generally, breaking Ihram requires a sacrificial penalty (Dam).",
+                "A person who makes a condition can exit Ihram without a penalty.",
+                "They are also not required to make up that Hajj if it was voluntary."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیمار کی عیادت اور رہنمائی",
+              "english": "Visiting the Sick and Guidance"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم صلی اللہ علیہ وسلم کا ضباعہ کے گھر جانا عیادت کی سنت ہے۔",
+                "علماء کو چاہیے کہ وہ مشکل وقت میں لوگوں کو شرعی حل بتائیں۔",
+                "بیماری کے باوجود نیکی کا ارادہ کرنا ایک پسندیدہ عمل ہے۔"
+              ],
+              "english": [
+                "The Prophet's visit to Duba'a is a Sunnah of visiting the sick.",
+                "Scholars should provide Sharia solutions to people during difficulties.",
+                "Intending good deeds despite illness is a highly praiseworthy act."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایمانی اور اخلاقی اسباق",
+        "english": "Faith and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ پر توکل اور تسلیم",
+              "english": "Trust and Submission to Allah"
+            },
+            "content": {
+              "urdu": [
+                "شرط کے الفاظ 'جہاں تو نے روکا' اللہ کے فیصلے پر رضا مندی ہے۔",
+                "انسان کو اپنی تدبیر کے ساتھ اللہ کی تقدیر پر بھروسہ کرنا چاہیے۔",
+                "ہر حال میں اللہ کا ذکر اور اس سے دعا کرنا مومن کا شیوہ ہے۔"
+              ],
+              "english": [
+                "The words 'where You hinder me' show contentment with Allah's decree.",
+                "A person should trust Allah's destiny alongside their own planning.",
+                "Remembering Allah and supplicating in all states is the way of a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابیات کا شوقِ عبادت",
+              "english": "Sahabiyat's Zeal for Worship"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ اور صحابیات بیماری کے باوجود حج جیسی عبادت کے لیے پرجوش تھے۔",
+                "ضباعہ رضی اللہ عنہا نے اپنی بیماری کو نیکی میں رکاوٹ نہیں بننے دیا۔",
+                "ہمیں بھی ہر حال میں اللہ کی طرف رجوع کرنے کا جذبہ رکھنا چاہیے۔"
+              ],
+              "english": [
+                "The companions were eager for worship like Hajj even while ill.",
+                "Duba'a (RA) did not let her illness prevent her from intending good.",
+                "We should also maintain the spirit of turning to Allah in all situations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے ہدایات",
+        "english": "Practical Life Instructions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفرِ حج کی تیاری",
+              "english": "Preparation for Hajj Travel"
+            },
+            "content": {
+              "urdu": [
+                "حج پر جانے سے پہلے طبی معائنہ اور احتیاطی تدابیر ضروری ہیں۔",
+                "اگر صحت خراب ہونے کا خدشہ ہو تو سنت کے مطابق شرط لگا لینی چاہیے۔",
+                "یہ عمل انسان کو ذہنی دباؤ اور پریشانی سے محفوظ رکھتا ہے۔"
+              ],
+              "english": [
+                "Medical checkups and precautions are necessary before Hajj travel.",
+                "If health issues are feared, one should make the Sunnah condition.",
+                "This practice protects a person from mental stress and anxiety."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علماء سے مشورہ",
+              "english": "Consulting Scholars"
+            },
+            "content": {
+              "urdu": [
+                "دینی معاملات میں کسی بھی پیچیدگی کی صورت میں اہل علم سے پوچھیں۔",
+                "ضباعہ رضی اللہ عنہا نے خود فیصلہ کرنے کے بجائے رسول اللہ سے پوچھا۔",
+                "صحیح علم ہی انسان کو غلطیوں اور مالی جرمانوں سے بچاتا ہے۔"
+              ],
+              "english": [
+                "Consult people of knowledge regarding any complexity in religious matters.",
+                "Duba'a (RA) asked the Prophet (ﷺ) instead of deciding for herself.",
+                "Correct knowledge protects a person from mistakes and financial penalties."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

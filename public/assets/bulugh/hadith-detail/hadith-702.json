@@ -1,0 +1,255 @@
+{
+  "hadithId": 702,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/70"],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1592). وأصله أن معمر بن عبد الله أرسل غلامه بصاع قمح ليبيعه ويشتري به شعيراً، فأخذ الغلام زيادة، فأنکر عليه معمر واستدل بهذا الحديث.",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم نے اسے اپنی صحیح (1592) میں روایت کیا ہے۔ اس روایت کا پس منظر یہ ہے کہ سیدنا معمر نے اپنے غلام کو گندم دے کر جو لانے بھیجا، غلام نے کچھ زیادہ مقدار لے لی، جس پر معمر رضی اللہ عنہ نے سختی کی اور یہ حدیث سنائی۔",
+    "english": "Sahih. Reported by Muslim (1592). The context involves Ma'mar's servant exchanging wheat for barley with an excess, which Ma'mar rejected based on this Prophetic command."
+  },
+  "importantWords": [
+    {
+      "arabic": "الطَّعَامُ",
+      "english": "Food / Grain",
+      "urdu": "کھانا یا غلہ"
+    },
+    {
+      "arabic": "مِثْلاً بِمِثْلٍ",
+      "english": "Like for like",
+      "urdu": "برابر برابر"
+    },
+    {
+      "arabic": "الشَّعِيرَ",
+      "english": "Barley",
+      "urdu": "جو"
+    },
+    {
+      "arabic": "يَوْمَئِذٍ",
+      "english": "In those days",
+      "urdu": "ان دنوں میں"
+    },
+    {
+      "arabic": "يَقُولُ",
+      "english": "Saying",
+      "urdu": "فرما رہے تھے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں اصول بیان ہوا ہے کہ ہم جنس غذائی اجناس کا تبادلہ کرتے وقت مقدار میں برابری لازمی ہے، ورنہ وہ سود کے زمرے میں آئے گا۔",
+    "english": "This Hadith establishes that exchanging the same kind of food commodities must be in equal quantities to avoid interest (Riba al-Fadl)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب المساقاة",
+      "english": "Sahih Muslim, Book of Musaqah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معمر بن عبد الله العدوي",
+        "english": "Ma'mar bin 'Abdullah al-Adawi"
+      },
+      "slug": "ma-mar-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S-t3POn69X0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غذائی اجناس میں سود کا تصور",
+        "english": "Concept of Riba in Foodstuffs"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برابری کی شرط",
+              "english": "The Condition of Equality"
+            },
+            "content": {
+              "urdu": [
+                "جب ایک ہی قسم کا غلہ (مثلاً گندم سے گندم) بدلا جائے تو برابری فرض ہے۔",
+                "اگر ایک طرف مقدار زیادہ ہو جائے تو اسے ربا الفضل کہا جاتا ہے۔",
+                "اسلام معیار کے بجائے مقدار کی برابری کو سود سے بچنے کا پیمانہ قرار دیتا ہے۔"
+              ],
+              "english": [
+                "When exchanging the same grain (e.g., wheat for wheat), equality is mandatory.",
+                "Any excess in quantity on one side constitutes 'Riba al-Fadl' (interest of excess).",
+                "Islam mandates quantitative equality over qualitative differences to prevent usury."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نقد لین دین",
+              "english": "Spot Transactions"
+            },
+            "content": {
+              "urdu": [
+                "کھانے پینے کی چیزوں کے تبادلے میں قبضہ اسی وقت ہونا ضروری ہے۔",
+                "ادھار کی صورت میں یہ معاملہ ربا النسیئہ بن سکتا ہے جو کہ حرام ہے۔",
+                "ہاتھوں ہاتھ سودا کرنے سے معاشی ابہام اور دھوکے کا خاتمہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Possession must occur on the spot when exchanging food items.",
+                "Any delay can turn the transaction into 'Riba al-Nasi'ah', which is forbidden.",
+                "Spot transactions eliminate economic ambiguity and potential deception."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "لفظ 'طعام' کی وسعت",
+        "english": "Scope of the term 'Food'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بنیادی خوراک",
+              "english": "Staple Foods"
+            },
+            "content": {
+              "urdu": [
+                "عہدِ نبوی میں طعام سے مراد عموماً گندم، جو، کھجور اور منقہ ہوتے تھے۔",
+                "فقہاء کے نزدیک ہر وہ چیز جو انسانی زندگی کے لیے بنیادی غذا ہے، اس میں سود جاری ہوتا ہے۔",
+                "چاول، مکئی اور دالیں بھی جدید دور میں اسی شرعی حکم کے تحت آتی ہیں۔"
+              ],
+              "english": [
+                "In the Prophetic era, 'food' usually referred to wheat, barley, dates, and raisins.",
+                "Jurists state that any staple necessary for human life falls under these Riba rules.",
+                "Rice, corn, and pulses are also subject to these Sharia laws in modern times."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجناس کا اختلاف",
+              "english": "Difference in Commodities"
+            },
+            "content": {
+              "urdu": [
+                "اگر غلہ مختلف ہو (مثلاً گندم کے بدلے چاول) تو مقدار کم بیش ہو سکتی ہے۔",
+                "جنس بدلنے پر برابری کی شرط ختم ہو جاتی ہے مگر نقد ہونا ضروری رہتا ہے۔",
+                "یہ اصول مارکیٹ میں مختلف اشیاء کی قیمتوں کے توازن کو برقرار رکھتا ہے۔"
+              ],
+              "english": [
+                "If the types differ (e.g., wheat for rice), quantities can be unequal.",
+                "The equality rule drops when categories change, but spot delivery remains required.",
+                "This principle maintains the balance of market values for different goods."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی پہلو",
+        "english": "Juristic and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحابہ کی احتیاط",
+              "english": "Precaution of the Companions"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا معمر نے اپنے غلام کی معمولی غلطی پر بھی اسے حدیث سنا کر ٹوکا۔",
+                "صحابہ کرام رزقِ حلال کے معاملے میں ذرہ برابر بھی سود برداشت نہیں کرتے تھے۔",
+                "ہمیں بھی اپنے ماتحتوں اور بچوں کو حلال و حرام کی تمیز سکھانی چاہیے۔"
+              ],
+              "english": [
+                "Ma'mar corrected his servant's minor error by citing the Prophetic Hadith.",
+                "The Companions would not tolerate even an atom's weight of usury in Halal earnings.",
+                "We must also teach our subordinates and children the difference between Halal and Haram."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استحصال سے بچاؤ",
+              "english": "Avoiding Exploitation"
+            },
+            "content": {
+              "urdu": [
+                "برابری کا حکم غریب کسانوں اور محنت کشوں کو بڑے تاجروں کے استحصال سے بچاتا ہے۔",
+                "سود کے ذریعے معاشرے میں دولت کا غلط رخ پر ارتکاز رک جاتا ہے۔",
+                "اسلامی معیشت سماجی برابری اور انصاف کی بنیادوں پر کھڑی ہے۔"
+              ],
+              "english": [
+                "The equality rule protects poor farmers from exploitation by large traders.",
+                "Riba rules prevent the unhealthy concentration of wealth in society.",
+                "The Islamic economy is built on the foundations of social equality and justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تجارت میں دیانت",
+              "english": "Integrity in Trade"
+            },
+            "content": {
+              "urdu": [
+                "ہمیشہ ناپ تول میں دیانتداری اختیار کریں اور شرعی حدود کا لحاظ رکھیں۔",
+                "تھوڑا نفع جو حلال ہو، اس حرام سے بہتر ہے جو بظاہر بہت زیادہ نظر آئے۔",
+                "سود سے پاک مال میں اللہ کی طرف سے برکت اور سکون ہوتا ہے۔"
+              ],
+              "english": [
+                "Always practice honesty in weights and measures and respect Sharia limits.",
+                "A small Halal profit is better than a seemingly large Haram gain.",
+                "Wealth free from usury carries divine blessings and provides peace of mind."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمِ دین کا حصول",
+              "english": "Seeking Religious Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "کاروبار شروع کرنے سے پہلے اس کے متعلقہ احکامات کا علم حاصل کرنا واجب ہے۔",
+                "لاعلمی کی وجہ سے انسان نادانستہ طور پر سودی معاملات میں پھنس سکتا ہے۔",
+                "روزمرہ کی خرید و فروخت میں مستند علماء سے رہنمائی لیتے رہیں۔"
+              ],
+              "english": [
+                "It is mandatory to learn relevant rulings before starting any business.",
+                "Ignorance can lead a person into usurious transactions unintentionally.",
+                "Continually seek guidance from authentic scholars regarding daily trade."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 972,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/9"],
+    "kitabId": 8,
+    "inKitabBab": 13,
+    "arabicBook": "بلوغ المرام - كتاب النكاح",
+    "babId": 76
+  },
+  
+  "takhreej": {
+    "arabic": "رواه أبو داود (2060)، والترمذي (1152) بنحوه، وأحمد (3715)، وفي سنده مقال لكن له شواهد تقويه عند ابن ماجه والحاكم.",
+    "urdu": "اسے ابوداؤد (2060) نے روایت کیا ہے۔ اس کی سند میں کلام ہے، لیکن ابن ماجہ اور حاکم میں موجود دیگر شواہد اس کے معنی کو تقویت دیتے ہیں۔",
+    "english": "Reported by Abu Dawud (2060) and At-Tirmidhi (1152). Although its chain has some discussion, other narrations in Ibn Majah and Al-Hakim strengthen its legal meaning."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَضَاع",
+      "english": "Breastfeeding / Suckling",
+      "urdu": "دودھ پینا / رضاعت"
+    },
+    {
+      "arabic": "أَنْشَزَ",
+      "english": "Strengthened / Raised",
+      "urdu": "ابھارا / مضبوط کیا"
+    },
+    {
+      "arabic": "اَلْعَظْمَ",
+      "english": "The Bone",
+      "urdu": "ہڈی"
+    },
+    {
+      "arabic": "أَنْبَتَ",
+      "english": "Grew / Cultivated",
+      "urdu": "اگایا / پیدا کیا"
+    },
+    {
+      "arabic": "اَللَّحْمَ",
+      "english": "The Flesh / Meat",
+      "urdu": "گوشت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث واضح کرتی ہے کہ شرعی طور پر وہی دودھ پینا رشتہ داری (حرمت) پیدا کرتا ہے جو بچپن میں ہو اور بچے کی جسمانی نشوونما کا سبب بنے۔",
+    "english": "This Hadith clarifies that legally binding suckling is only that which occurs during infancy and contributes to the physical growth of the child's bones and flesh."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2060)",
+      "english": "Reported by Abu Dawud (2060)"
+    },
+    {
+      "arabic": "رواه أحمد (3715)",
+      "english": "Reported by Ahmad (3715)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah ibn Mas'ud"
+      },
+      "slug": "abdullah-ibn-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=XWk3rV-eW-c",
+  "grade": {
+    "arabic": "ضعيف بهذا اللفظ (وصحيح المعنى)",
+    "english": "Da'if with this wording (but Authentic in meaning)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رضاعت کی شرعی حیثیت",
+        "english": "Legal Status of Suckling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرمتِ رضاعت کا ضابطہ",
+              "english": "The Principle of Suckling Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں رضاعت سے وہی رشتے حرام ہوتے ہیں جو نسب سے حرام ہوتے ہیں۔",
+                "اس حدیث نے اس رضاعت کے لیے ایک خاص معیار مقرر کیا ہے۔",
+                "وہی دودھ اثر کرتا ہے جو بچے کی غذا بن کر اس کے جسم کا حصہ بنے۔"
+              ],
+              "english": [
+                "In Sharia, suckling creates the same marriage prohibitions as lineage.",
+                "This Hadith establishes a specific criterion for such suckling.",
+                "Only the milk that serves as nourishment and becomes part of the body counts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جسمانی نشوونما",
+              "english": "Physical Development"
+            },
+            "content": {
+              "urdu": [
+                "ہڈیوں کی مضبوطی اور گوشت کا بننا صرف ابتدائی عمر میں ہوتا ہے۔",
+                "یہ اس بات کی دلیل ہے کہ بڑی عمر کی رضاعت معتبر نہیں ہے۔",
+                "دودھ کا مقدار میں اتنا ہونا ضروری ہے کہ وہ غذائی ضرورت پوری کرے۔"
+              ],
+              "english": [
+                "The strengthening of bones and growth of flesh occurs during early infancy.",
+                "This serves as evidence that adult suckling does not establish prohibition.",
+                "The amount of milk must be sufficient to fulfill nutritional needs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عمر کی تعین",
+        "english": "Determination of Age"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دودھ چھڑانے کی مدت",
+              "english": "The Weaning Period"
+        },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک رضاعت کی مدت دو سال تک ہے۔",
+                "دو سال کے بعد دودھ پینے سے حرمت ثابت نہیں ہوتی۔",
+                "قرآن پاک میں بھی دو سال کی مدت کا ذکر موجود ہے۔"
+              ],
+              "english": [
+                "The majority of scholars limit the suckling period to two years.",
+                "Suckling after the age of two does not establish legal prohibition.",
+                "The Quran also mentions the completion of suckling within two years."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شیر خوارگی کی اہمیت",
+              "english": "Importance of Infancy"
+            },
+            "content": {
+              "urdu": [
+                "بچہ جب تک صرف دودھ پر منحصر ہوتا ہے، وہی وقت اہم ہے۔",
+                "گوشت اور ہڈیاں اسی عمر میں دودھ سے بنتی ہیں۔",
+                "اس اصول سے خاندانی رشتوں کی حفاظت مقصود ہے۔"
+              ],
+              "english": [
+                "The time when a child depends solely on milk is what matters most.",
+                "Flesh and bones are built from milk specifically during this age.",
+                "This principle aims to protect the sanctity of family relations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل",
+        "english": "Jurisprudential Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقدارِ رضاعت",
+              "english": "Quantity of Suckling"
+            },
+            "content": {
+              "urdu": [
+                "صرف ایک قطرہ پینے سے حرمت ثابت نہیں ہوتی۔",
+                "دودھ اتنا ہونا چاہیے جو پیٹ بھرنے یا نشوونما کا باعث بنے۔",
+                "شافعی اور حنبلی مسلک میں پانچ مرتبہ پیٹ بھر کر پینا شرط ہے۔"
+              ],
+              "english": [
+                "Drinking a single drop does not establish a legal prohibition.",
+                "The milk must be enough to fill the stomach or aid growth.",
+                "The Shafi'i and Hanbali schools require five distinct feedings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بڑے کی رضاعت",
+              "english": "Adult Suckling"
+            },
+            "content": {
+              "urdu": [
+                "بالغ انسان کے دودھ پینے سے ماں بیٹے کا رشتہ قائم نہیں ہوتا۔",
+                "اس حدیث کا مفہوم واضح ہے کہ یہ صرف بچوں کے لیے ہے۔",
+                "صحابہ کرام کے دور میں بھی اسی پر فتویٰ دیا جاتا تھا۔"
+              ],
+              "english": [
+                "An adult drinking breast milk does not establish a mother-son bond.",
+                "The context of this Hadith clearly implies it is for infants.",
+                "This was the standard fatwa even during the era of the Sahaba."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اسباق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نکاح میں احتیاط",
+              "english": "Caution in Marriage"
+            },
+            "content": {
+              "urdu": [
+                "نکاح سے پہلے رضاعی رشتوں کی مکمل تحقیق کرنی چاہیے۔",
+                "مشکوک صورتحال میں علماء سے رجوع کرنا ضروری ہے۔",
+                "خاندانی ریکارڈ میں رضاعی بھائی بہنوں کا ذکر رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Thorough investigation of suckling relations is needed before marriage.",
+                "It is essential to consult scholars in doubtful situations.",
+                "Records of foster siblings should be maintained within families."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حلال و حرام کی تمیز",
+              "english": "Distinguishing Halal and Haram"
+            },
+            "content": {
+              "urdu": [
+                "رضاعت کے احکام کو معمولی نہیں سمجھنا چاہیے۔",
+                "یہ اللہ کی حدود ہیں جن کی پامالی سے بچنا لازم ہے۔",
+                "صحیح علم ہی انسان کو گناہ سے بچا سکتا ہے۔"
+              ],
+              "english": [
+                "The laws of suckling should not be taken lightly.",
+                "These are the limits of Allah that must not be transgressed.",
+                "Correct knowledge is what protects a person from sin."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

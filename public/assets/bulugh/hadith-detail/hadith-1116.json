@@ -1,0 +1,264 @@
+{
+  "hadithId": 1116,
+  "hadithNo": 37,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/37"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "حسن. رواه أبو داود (2159) و (2708)، والدارمي (2/230)، وأحمد (4/108)، والحاكم (2/136) وصححه ووافقه الذهبي.",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام ابوداؤد (2159، 2708) اور دارمی (2/230) نے روایت کیا ہے۔ امام حاکم نے اسے صحیح کہا ہے اور علامہ ذہبی نے ان کی موافقت کی ہے۔ اس کے راوی قابلِ اعتماد ہیں۔",
+    "english": "Hasan. Reported by Abu Dawud (2159, 2708), ad-Darimi (2/230), Ahmad (4/108), and al-Hakim (2/136), who graded it Sahih, with which adh-Dhahabi agreed."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَيْءِ",
+      "english": "Spoils/Public Property",
+      "urdu": "مالِ غنیمت / سرکاری مال"
+    },
+    {
+      "arabic": "دَابَّةً",
+      "english": "Beast/Animal",
+      "urdu": "چوپایہ / سواری"
+    },
+    {
+      "arabic": "أَعْجَفَهَا",
+      "english": "Emaciated/Weakened it",
+      "urdu": "اسے دبلا یا کمزور کر دیا"
+    },
+    {
+      "arabic": "أَخْلَقَهُ",
+      "english": "Worn it out",
+      "urdu": "اسے پرانا یا بوسیدہ کر دیا"
+    },
+    {
+      "arabic": "يُؤْمِنُ",
+      "english": "Believes",
+      "urdu": "ایمان رکھتا ہے"
+    },
+    {
+      "arabic": "رَدَّهَا",
+      "english": "Returned it",
+      "urdu": "اسے واپس کر دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں عوامی مال اور غنیمت کی تقسیم سے پہلے اس کے ذاتی استعمال کی سخت ممانعت کی گئی ہے، تاکہ امانت میں خیانت نہ ہو اور اجتماعی نقصان سے بچا جا سکے۔",
+    "english": "This Hadith strictly prohibits the personal use of public spoils or property before their formal distribution to prevent breach of trust and collective loss."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2708)",
+      "english": "Sunan Abi Dawud (2708)"
+    },
+    {
+      "arabic": "سنن الدارمي (2511)",
+      "english": "Sunan ad-Darimi (2511)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "رويفع بن ثابت",
+        "english": "Ruwaifi' bin Thabit"
+      },
+      "slug": "ruwaifi-bin-thabit"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عوامی مال کی حرمت",
+        "english": "Sanctity of Public Property"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امانت میں خیانت سے بچنا",
+              "english": "Avoiding Breach of Trust"
+            },
+            "content": {
+              "urdu": [
+                "مالِ غنیمت تقسیم سے پہلے تمام مسلمانوں کی مشترکہ ملکیت ہوتا ہے۔",
+                "کسی فرد کا اسے ذاتی فائدے کے لیے استعمال کرنا خیانت اور 'غلول' ہے۔",
+                "ایمان کا تقاضا ہے کہ سرکاری املاک کو اپنی ذاتی ملکیت نہ سمجھا جائے۔"
+              ],
+              "english": [
+                "Spoils of war are the collective property of all Muslims before distribution.",
+                "An individual using it for personal gain is a breach of trust called 'Ghulul'.",
+                "Faith dictates that public assets should never be treated as personal property."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قدر و قیمت میں کمی",
+              "english": "Reduction in Value"
+            },
+            "content": {
+              "urdu": [
+                "جانور کو استعمال کر کے دبلا کرنا اس کی قیمت اور افادیت کم کرتا ہے۔",
+                "اسی طرح نئے کپڑے پہن کر اسے بوسیدہ کرنا باقی شرکاء کا حق مارنا ہے۔",
+                "اسلام ہر اس عمل سے روکتا ہے جس سے عوامی مفاد کو نقصان پہنچے۔"
+              ],
+              "english": [
+                "Using an animal until it becomes weak reduces its market value and utility.",
+                "Similarly, wearing new clothes until they are tattered harms other stakeholders.",
+                "Islam prohibits any action that leads to the degradation of public welfare."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایمان اور آخرت کا تعلق",
+        "english": "Connection with Faith and Afterlife"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعمال کی بنیاد ایمان پر",
+              "english": "Actions Based on Faith"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے اس حکم کو اللہ اور آخرت پر ایمان کے ساتھ جوڑا ہے۔",
+                "یہ اس بات کی دلیل ہے کہ امانت داری ایمان کا لازمی جزو ہے۔",
+                "جس کے دل میں آخرت کا خوف ہوگا، وہ کبھی عوامی مال پر ہاتھ نہیں ڈالے گا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) linked this command to belief in Allah and the Last Day.",
+                "This indicates that integrity and honesty are essential components of faith.",
+                "He who fears the Hereafter will never infringe upon public resources illegally."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حساب و کتاب کا ڈر",
+              "english": "Fear of Accountability"
+            },
+            "content": {
+              "urdu": [
+                "قیامت کے دن ایک سوئی کی خیانت کا بھی حساب دینا پڑے گا۔",
+                "عوامی مال میں خیانت کرنے والا پوری قوم کا مجرم بن کر کھڑا ہوگا۔",
+                "دنیا کی معمولی سہولت کے لیے آخرت کا عذاب مول لینا سخت نادانی ہے۔"
+              ],
+              "english": [
+                "On Judgment Day, one will be accountable for even a needle taken dishonestly.",
+                "An embezzler of public funds will face the entire nation as his accuser.",
+                "Taking worldly ease at the cost of eternal punishment is total foolishness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی ضابطے اور حدود",
+        "english": "Juristic Rules and Limits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بوقتِ ضرورت استعمال",
+              "english": "Use During Necessity"
+            },
+            "content": {
+              "urdu": [
+                "جنگی ضرورت کے لیے جانور پر سواری یا اسلحہ کا استعمال جائز ہو سکتا ہے۔",
+                "لیکن یہ استعمال صرف جہاد کی مصلحت کے تحت ہونا چاہیے، ذاتی لذت نہیں۔",
+                "اگر استعمال سے چیز خراب ہو جائے تو اس کا معاوضہ دینا لازم ہو سکتا ہے۔"
+              ],
+              "english": [
+                "Using animals or weapons for actual military necessity may be permissible.",
+                "However, this use must strictly serve the Jihad, not personal comfort.",
+                "If personal use damages the item, compensation might become mandatory."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تطبیقِ احکام",
+              "english": "Application of Rulings"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث آج کے دور کے سرکاری ملازمین اور حکام پر بھی لاگو ہوتی ہے۔",
+                "سرکاری گاڑیوں اور دفتر کے سامان کا ذاتی استعمال اسی ممانعت میں آتا ہے۔",
+                "تقسیم سے پہلے کسی بھی مشترکہ چیز سے فائدہ اٹھانا اخلاقی اور شرعی جرم ہے۔"
+              ],
+              "english": [
+                "This Hadith applies to modern-day civil servants and government officials.",
+                "Personal use of official vehicles and office supplies falls under this ban.",
+                "Benefiting from shared assets before formal allocation is a legal and moral crime."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور اخلاقی اصلاح",
+        "english": "Social and Moral Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعلیٰ اخلاقی معیار",
+              "english": "High Moral Standards"
+            },
+            "content": {
+              "urdu": [
+                "اسلام اپنے پیروکاروں کو انتہائی درجے کی شفافیت کی تعلیم دیتا ہے۔",
+                "معاشرے کی تعمیر میں دیانت داری کو بنیادی ستون کی حیثیت حاصل ہے۔",
+                "صحابہ کرام نے ان تعلیمات پر عمل کر کے امانت داری کی مثالیں قائم کیں۔"
+              ],
+              "english": [
+                "Islam teaches its followers the highest possible degree of transparency.",
+                "Honesty serves as a foundational pillar in the construction of a society.",
+                "The Companions set peerless examples of integrity by following these teachings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بدعنوانی کا سدِباب",
+              "english": "Preventing Corruption"
+            },
+            "content": {
+              "urdu": [
+                "اگر عوامی مال کی حفاظت کا یہ احساس پیدا ہو جائے تو بدعنوانی ختم ہو سکتی ہے۔",
+                "نبی کریم ﷺ نے جڑ سے ہی اس فتنے کا خاتمہ کرنے کا طریقہ بتایا ہے۔",
+                "ایک صالح معاشرہ وہی ہے جہاں ہر فرد قومی اثاثوں کو امانت سمجھتا ہے۔"
+              ],
+              "english": [
+                "If this sense of protecting public wealth is instilled, corruption will vanish.",
+                "The Prophet (ﷺ) showed the way to uproot this trial from its very beginning.",
+                "A righteous society is one where everyone views national assets as a trust."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

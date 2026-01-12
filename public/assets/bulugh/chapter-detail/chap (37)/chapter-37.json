@@ -1,0 +1,34 @@
+{
+    "chapId": 37,
+    "summary": {
+        "urdu": [""],
+        "english": [""]
+    },
+    "description": {
+        "urdu": " ",
+        "english": " "
+    }, 
+    "hadithRange": {
+        "from": 590,
+        "to": 591
+    }, 
+    "hadiths": [
+      {
+        "id": 590,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      },
+
+      {
+        "id": 591,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      }
+    ]
+}

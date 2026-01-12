@@ -1,0 +1,170 @@
+{
+  "hadithId": 1353,
+  "hadithNo": 22,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bukhari:6389",
+      "muslim:2690"
+    ],
+    "kitabId": 16,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الدعوات",
+    "babId": 107
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6389)، ومسلم (2690). وفي رواية لمسلم بدأ بلفظ 'اللهم' بدلاً من 'ربنا'. وأصل هذه الدعوة في القرآن الكريم في سورة البقرة آية (201).",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری اور امام مسلم نے روایت کیا ہے۔ مسلم کی ایک روایت میں 'ربنا' کی جگہ 'اللهم' کے الفاظ ہیں۔ یہ دعا دراصل قرآن مجید کی سورۃ البقرة کی آیت 201 کا حصہ ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6389) and Muslim (2690). Some versions in Muslim begin with 'O Allah' instead of 'Our Lord.' This supplication is originally from the Quran, Surah Al-Baqarah, verse 201."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَسَنَةً",
+      "english": "Good / Excellence / Blessing",
+      "urdu": "بھلائی / نیکی / خوبی"
+    },
+    {
+      "arabic": "آتِنَا",
+      "english": "Grant us / Give us",
+      "urdu": "ہمیں عطا فرما"
+    },
+    {
+      "arabic": "قِنَا",
+      "english": "Protect us / Save us",
+      "urdu": "ہمیں بچا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نبی کریم ﷺ کی سب سے پسندیدہ اور جامع دعا کو بیان کرتی ہے جو دنیا کی خیر، آخرت کی کامیابی اور جہنم سے نجات کا احاطہ کرتی ہے۔",
+    "english": "This Hadith highlights the Prophet's (ﷺ) most frequent and comprehensive supplication, which encompasses worldly goodness, success in the Hereafter, and protection from Hellfire."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6389)",
+      "english": "Sahih al-Bukhari (6389)"
+    },
+    {
+      "arabic": "صحيح مسلم (2690)",
+      "english": "Sahih Muslim (2690)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك الأنصاري",
+        "english": "Anas bin Malik al-Ansari"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9NOnXh6g5U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعا کی جامعیت",
+        "english": "Comprehensiveness of the Du'a"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دنیا کی حسنة (بھلائی)",
+              "english": "Goodness in the World"
+            },
+            "content": {
+              "urdu": [
+                "دنیا کی بھلائی میں رزقِ حلال، نیک اولاد، سکونِ قلب، علمِ نافع اور صالح بیوی/شوہر شامل ہیں۔",
+                "مومن دنیا کو ترک نہیں کرتا بلکہ دنیا کی ہر ایسی نعمت مانگتا ہے جو اسے اللہ کے قریب کر دے۔",
+                "اس میں ہر قسم کی آفات اور بیماریوں سے سلامتی بھی شامل ہے۔"
+              ],
+              "english": [
+                "Goodness in this world includes lawful provision, righteous offspring, peace of mind, beneficial knowledge, and a pious spouse.",
+                "A believer does not abandon the world but asks for every blessing that brings them closer to Allah.",
+                "It also encompasses safety from calamities and diseases."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آخرت کی حسنة (بھلائی)",
+              "english": "Goodness in the Hereafter"
+            },
+            "content": {
+              "urdu": [
+                "آخرت کی سب سے بڑی بھلائی اللہ کی رضا اور جنت کا حصول ہے۔",
+                "اس میں قبر کے عذاب سے بچاؤ اور حشر کی رسوائی سے حفاظت بھی شامل ہے۔",
+                "نامۂ اعمال کا دائیں ہاتھ میں ملنا اور پل صراط سے آسانی سے گزرنا بھی اسی کا حصہ ہے۔"
+              ],
+              "english": [
+                "The greatest goodness in the Hereafter is attaining Allah's pleasure and Paradise.",
+                "It includes protection from the punishment of the grave and humiliation on the Day of Resurrection.",
+                "Receiving the record of deeds in the right hand and crossing the Sirat bridge easily are also part of it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عذابِ نار سے پناہ",
+        "english": "Refuge from the Fire"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جہنم سے دوری",
+              "english": "Distancing from Hell"
+            },
+            "content": {
+              "urdu": [
+                "صرف جنت مانگنا کافی نہیں، بلکہ اللہ کے غضب اور آگ سے پناہ مانگنا بھی لازمی ہے۔",
+                "نبی ﷺ کثرت سے یہ التجا کرتے تھے تاکہ امت کو اس کی سنگینی کا احساس رہے۔",
+                "یہ حصہ دعا کا نچوڑ ہے کہ اصل کامیابی آگ سے بچ کر جنت میں داخل ہو جانا ہے۔"
+              ],
+              "english": [
+                "It is not enough to just ask for Paradise; seeking refuge from Allah's wrath and the Fire is also essential.",
+                "The Prophet (ﷺ) supplicated this frequently so the Ummah would realize its gravity.",
+                "This part is the core of the Du'a: true success is being saved from the Fire and entering Paradise."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبوی سنت کی پیروی",
+              "english": "Following the Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "یہ دعا مختصر ترین الفاظ میں تمام انسانی ضرورتوں کو سمیٹے ہوئے ہے۔",
+                "ہمیں اپنی ہر دعا کے شروع یا آخر میں ان کلمات کو ضرور شامل کرنا چاہیے۔",
+                "نبی کریم ﷺ طواف کے دوران اور دیگر مبارک مقامات پر بھی یہی دعا پڑھا کرتے تھے۔"
+              ],
+              "english": [
+                "This supplication captures all human needs in the briefest of words.",
+                "We should include these words at the beginning or end of every Du'a we make.",
+                "The Prophet (ﷺ) used to recite this during Tawaf and at other blessed locations."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

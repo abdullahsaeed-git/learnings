@@ -1,0 +1,259 @@
+{
+  "hadithId": 1233,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:2739"],
+    "kitabId": 15,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الوصايا",
+    "babId": 101
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2739)، والنسائي (3593)، وأحمد (4/279).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (2739) نے روایت کیا ہے، اور سنن نسائی و مسند احمد میں بھی یہ روایت موجود ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2739), An-Nasa'i (3593), and Ahmad (4/279)."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَا تَرَكَ",
+      "english": "He did not leave",
+      "urdu": "نہیں چھوڑا"
+    },
+    {
+      "arabic": "دِرْهَمًا",
+      "english": "Dirham (Silver coin)",
+      "urdu": "چاندی کا سکہ"
+    },
+    {
+      "arabic": "دِينَارًا",
+      "english": "Dinar (Gold coin)",
+      "urdu": "سونا کا سکہ"
+    },
+    {
+      "arabic": "بَغْلَتَهُ",
+      "english": "His mule",
+      "urdu": "آپ کا خچر"
+    },
+    {
+      "arabic": "صَدَقَةً",
+      "english": "Charity",
+      "urdu": "صدقہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں رسول اللہ ﷺ کی زہد و قناعت اور فقرِ اختیاری کا ذکر ہے کہ آپ ﷺ نے وفات کے وقت کوئی دنیاوی مال و دولت وراثت کے لیے نہیں چھوڑی۔",
+    "english": "This Hadith highlights the Prophet's (ﷺ) asceticism and detachment from worldly wealth, showing that he left no monetary inheritance or slaves upon his death."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2739)",
+      "english": "Reported by Al-Bukhari (2739)"
+    },
+    {
+      "arabic": "رواه النسائي (3593)",
+      "english": "Reported by An-Nasa'i (3593)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن الحارث بن أبي ضرار",
+        "english": "Amr bin al-Harith bin Abi Dirar"
+      },
+      "slug": "amr-bin-al-harith"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9K8Z2o3T4Y",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نبی ﷺ کا زہد و قناعت",
+        "english": "The Prophet's (ﷺ) Asceticism"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دنیا سے بے رغبتی",
+              "english": "Detachment from the World"
+            },
+            "content": {
+              "urdu": [
+                "رسول اللہ ﷺ نے ہمیشہ سادہ طرزِ زندگی کو ترجیح دی۔",
+                "فتوحات کے باوجود آپ ﷺ نے مال جمع نہیں کیا۔",
+                "آپ ﷺ کا مقصد دنیا کمانا نہیں بلکہ آخرت کی فکر تھا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) always preferred a simple lifestyle.",
+                "Despite many conquests, he never accumulated personal wealth.",
+                "His purpose was not to gain the world but to focus on the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میراثِ نبوی کا تصور",
+              "english": "Concept of Prophetic Inheritance"
+            },
+            "content": {
+              "urdu": [
+                "نبی کی میراث مال و دولت نہیں بلکہ علم و حکمت ہے۔",
+                "نبی کی چھوڑی ہوئی چیزیں امت کے لیے صدقہ ہوتی ہیں۔",
+                "اس سے ثابت ہوا کہ انبیاء کے ورثاء میں مال تقسیم نہیں ہوتا۔"
+              ],
+              "english": [
+                "The legacy of a Prophet is knowledge and wisdom, not money.",
+                "Anything left by a Prophet is considered charity for the Ummah.",
+                "This proves that material goods of Prophets are not inherited by heirs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ترکہ میں چھوڑی گئی اشیاء",
+        "english": "Items Left Behind"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفید خچر اور اسلحہ",
+              "english": "The White Mule and Weaponry"
+            },
+            "content": {
+              "urdu": [
+                "سفید خچر آپ ﷺ کی سواری تھی جو سفر میں کام آتی تھی۔",
+                "اسلحہ جہاد اور دفاعِ دین کی علامت کے طور پر موجود تھا۔",
+                "یہ اشیاء ذاتی تعیش کے لیے نہیں بلکہ ضرورت کے لیے تھیں۔"
+              ],
+              "english": [
+                "The white mule was his means of transport for journeys.",
+                "His weapons remained as symbols of Jihad and defense of faith.",
+                "These items were kept for necessity, not for personal luxury."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صدقہ کی گئی زمین",
+              "english": "The Land Given in Charity"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے اپنی زندگی میں ہی اپنی زمین وقف کر دی تھی۔",
+                "یہ زمین مسافروں اور عام مسلمانوں کے فائدے کے لیے تھی۔",
+                "اس سے وقف کی اہمیت اور ثوابِ جاریہ کا ثبوت ملتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) had endowed his land during his lifetime.",
+                "This land was designated for the benefit of travelers and Muslims.",
+                "This highlights the importance of Waqf and perpetual charity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امت کے لیے پیغام",
+        "english": "Message for the Ummah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکمرانوں کے لیے اسوہ",
+              "english": "Example for Rulers"
+            },
+            "content": {
+              "urdu": [
+                "مسلم حکمرانوں کو عوامی مال میں خیانت سے بچنا چاہیے۔",
+                "سربراہِ مملکت کو اپنی ضروریات سادہ اور محدود رکھنی چاہئیں۔",
+                "مال کی ہوس معاشرے میں بگاڑ اور ناانصافی پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "Muslim rulers must avoid misappropriating public funds.",
+                "The head of state should keep his personal needs simple.",
+                "Greed for wealth leads to social corruption and injustice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مال کی عارضی حیثیت",
+              "english": "Temporary Nature of Wealth"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو مرتے وقت اپنے ساتھ صرف نیک اعمال لے جانے ہیں۔",
+                "دنیاوی مال و دولت یہیں دھری کی دھری رہ جائے گی۔",
+                "اصل کامیابی اللہ کی رضا اور اسوہ حسنہ پر عمل ہے۔"
+              ],
+              "english": [
+                "A person only takes their good deeds to the grave.",
+                "Worldly wealth and possessions will all remain behind.",
+                "True success lies in Allah's pleasure and following the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سادگی اختیار کرنا",
+              "english": "Adopting Simplicity"
+            },
+            "content": {
+              "urdu": [
+                "اپنی زندگی میں سنت کے مطابق سادگی پیدا کرنے کی کوشش کریں۔",
+                "مال و دولت کی نمائش سے بچ کر عاجزی کا راستہ اپنائیں۔",
+                "سادہ زندگی انسان کو ذہنی سکون اور روحانیت عطا کرتی ہے۔"
+              ],
+              "english": [
+                "Strive to incorporate Sunnah-based simplicity in your life.",
+                "Avoid the display of wealth and choose the path of humility.",
+                "A simple life grants peace of mind and spiritual growth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صدقہ جاریہ کی فکر",
+              "english": "Focus on Perpetual Charity"
+            },
+            "content": {
+              "urdu": [
+                "مرنے سے پہلے اپنے مال کا کچھ حصہ فلاحی کاموں میں لگائیں۔",
+                "وقف اور صدقہ جاریہ انسان کے نامہ اعمال کو زندہ رکھتے ہیں۔",
+                "ایسا مال خرچ کریں جو آخرت میں آپ کے کام آسکے۔"
+              ],
+              "english": [
+                "Invest a portion of your wealth in welfare before death.",
+                "Waqf and ongoing charity keep one's record of deeds alive.",
+                "Spend wealth in a way that benefits you in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

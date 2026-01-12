@@ -1,0 +1,254 @@
+{
+  "hadithId": 1130,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/51"],
+    "kitabId": 11,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الجهاد - باب السبق والنضال",
+    "babId": 91
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (420، 2868)، ومسلم (1870). قوله 'أضمرت': أي هيئت للسباق بتقليل طعامها وتدريبها.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (420، 2868) اور امام مسلم (1870) نے روایت کیا ہے۔ 'اضمار' کا مطلب گھوڑے کو کم خوراک دے کر اور دوڑا کر اس کی چربی کم کرنا ہے تاکہ وہ تیز دوڑ سکے۔",
+    "english": "Sahih. Reported by Al-Bukhari (420, 2868) and Muslim (1870). The term 'Udmira' refers to the process of making horses lean and fit for racing by controlling their diet and training."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَابَقَ",
+      "english": "Organized a race",
+      "urdu": "مقابلہ کرایا / دوڑ کرائی"
+    },
+    {
+      "arabic": "أُضْمِرَتْ",
+      "english": "Prepared / Made lean",
+      "urdu": "تیار کیے گئے (دبلے کیے گئے)"
+    },
+    {
+      "arabic": "أَمَدُهَا",
+      "english": "Its goal / end point",
+      "urdu": "اس کی انتہا / حد"
+    },
+    {
+      "arabic": "أَمْيَالٍ",
+      "english": "Miles",
+      "urdu": "میل"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ جنگی مہارت پیدا کرنے کے لیے گھڑ سواری کے مقابلے کرانا جائز اور سنتِ نبوی ہے۔ نیز جانوروں کی جسمانی فٹنس کے لحاظ سے ان کے لیے الگ الگ فاصلے مقرر کرنا بھی حکمتِ عملی کا حصہ ہے۔",
+    "english": "This Hadith proves that organizing horse races to develop military skills is permissible and a Sunnah. It also shows the strategy of setting different distances based on the physical fitness of the animals."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (420)",
+      "english": "Sahih al-Bukhari (420)"
+    },
+    {
+      "arabic": "صحيح مسلم (1870)",
+      "english": "Sahih Muslim (1870)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "گھڑ سواری اور مسابقت کا جواز",
+        "english": "Permissibility of Horse Racing and Competition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دفاعی تیاری",
+              "english": "Defensive Preparation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں ایسے کھیل اور مقابلے پسندیدہ ہیں جن سے جنگی مہارت اور جسمانی قوت پیدا ہو۔",
+                "گھڑ سواری اس دور کے دفاع کا لازمی حصہ تھی، اس لیے آپ ﷺ نے خود اس کی سرپرستی فرمائی۔",
+                "ایسے مقابلوں کا مقصد تفریح کے ساتھ ساتھ اللہ کی راہ میں جہاد کے لیے تیار رہنا ہے۔"
+              ],
+              "english": [
+                "Islam favors sports and competitions that enhance military skills and physical strength.",
+                "Horse riding was an essential part of defense at that time, so the Prophet (ﷺ) personally supervised it.",
+                "The goal of such competitions is to prepare for Jihad in the cause of Allah alongside recreation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی حدود",
+              "english": "Shariah Limits"
+            },
+            "content": {
+              "urdu": [
+                "دوڑ کے لیے وہ جانور استعمال کیے جائیں جو اس کے قابل ہوں تاکہ ان پر ظلم نہ ہو۔",
+                "نبی ﷺ نے تیار اور غیر تیار گھوڑوں کے لیے الگ الگ فاصلے رکھ کر جانوروں پر رحم کی مثال قائم کی۔",
+                "ایسے مقابلوں میں جوا یا غیر شرعی شرائط لگانا حرام ہے۔"
+              ],
+              "english": [
+                "Only animals fit for racing should be used to avoid cruelty.",
+                "The Prophet (ﷺ) set a precedent for animal mercy by setting different distances for trained and untrained horses.",
+                "It is forbidden to involve gambling or un-Islamic conditions in such races."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اضمار (گھوڑوں کی تربیت) کی حکمت",
+        "english": "The Wisdom of Training (Idmar)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تربیت کا طریقہ",
+              "english": "Training Method"
+            },
+            "content": {
+              "urdu": [
+                "اضمار ایک خاص طریقہ تھا جس میں گھوڑے کو خوراک کم دے کر پسینہ نکلوایا جاتا تھا تاکہ وہ پھرتیلا ہو جائے۔",
+                "یہ ثابت کرتا ہے کہ وسائل کو بہترین حالت میں رکھنے کے لیے سائنسی اور فنی طریقے اپنانا درست ہے۔",
+                "میدانِ جنگ میں صرف وہی سواری کام آتی ہے جس کی مکمل مشق کرائی گئی ہو۔"
+              ],
+              "english": [
+                "Idmar was a specific method of reducing food and inducing sweat in horses to make them agile.",
+                "This proves that adopting technical and scientific methods to maintain resources is correct.",
+                "On the battlefield, only the mount that has been thoroughly trained is useful."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صلاحیت کے مطابق ذمہ داری",
+              "english": "Responsibility According to Capability"
+            },
+            "content": {
+              "urdu": [
+                "تربیت یافتہ گھوڑوں کے لیے 6 میل اور غیر تربیت یافتہ کے لیے 1 میل کا فاصلہ رکھا گیا۔",
+                "یہ اصول زندگی کے ہر شعبے میں لاگو ہوتا ہے کہ کام صلاحیت کے مطابق لیا جائے۔",
+                "نبی کریم ﷺ کی تدبیر میں ہمیشہ عدل اور توازن ملحوظ رہتا تھا۔"
+              ],
+              "english": [
+                "A distance of 6 miles was set for trained horses and 1 mile for untrained ones.",
+                "This principle applies to every field of life: tasks should be assigned according to capability.",
+                "The Prophet's (ﷺ) planning always maintained justice and balance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحابہ کرام کا جوش و خروش",
+        "english": "The Enthusiasm of the Sahaba"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عملی شرکت",
+              "english": "Practical Participation"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابن عمر کا خود شریک ہونا ثابت کرتا ہے کہ صحابہ کھیل کو بھی عبادت سمجھ کر کرتے تھے۔",
+                "نبی ﷺ کے سامنے صحابہ کا ایک دوسرے سے آگے نکلنے کی کوشش کرنا ان کی بلند ہمتی کو ظاہر کرتا ہے۔",
+                "نیک کاموں اور دفاعی تیاری میں مقابلہ کرنا مستحسن عمل ہے۔"
+              ],
+              "english": [
+                "The participation of Ibn 'Umar proves that the Sahaba performed sports as a form of worship.",
+                "The Sahaba's effort to outstrip one another in the presence of the Prophet (ﷺ) shows their high resolve.",
+                "Competing in good deeds and defensive preparations is a commendable act."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسجد اور معاشرتی سرگرمیاں",
+              "english": "The Mosque and Social Activities"
+            },
+            "content": {
+              "urdu": [
+                "مسجد بنی زریق کا اختتامی نقطہ ہونا مسجد کی مرکزی حیثیت کو ظاہر کرتا ہے۔",
+                "عہدِ نبوی میں مساجد صرف نماز کے لیے نہیں بلکہ تربیتی مراکز کے طور پر بھی استعمال ہوتی تھیں۔",
+                "دین اور دنیا کی سرگرمیوں میں کوئی تضاد نہیں اگر وہ اللہ کی حدود میں ہوں۔"
+              ],
+              "english": [
+                "The end point being the Mosque of Banu Zuraiq highlights the central role of the mosque.",
+                "In the Prophetic era, mosques were not just for prayer but also training centers.",
+                "There is no contradiction between religious and worldly activities if they are within Allah's limits."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحت اور فٹنس",
+              "english": "Health and Fitness"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو اپنی اور اپنے وسائل کی فٹنس کا ہمیشہ خیال رکھنا چاہیے۔",
+                "سستی اور کاہلی مومن کا شیوہ نہیں ہے، خاص کر دفاعی معاملات میں۔",
+                "کھیلوں کے ذریعے جسمانی نظم و ضبط پیدا کرنا سنت سے ثابت ہے۔"
+              ],
+              "english": [
+                "Muslims should always maintain the fitness of themselves and their resources.",
+                "Laziness and lethargy are not the traits of a believer, especially in defensive matters.",
+                "Developing physical discipline through sports is established from the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "منصوبہ بندی کی اہمیت",
+              "english": "Importance of Planning"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی کام سے پہلے اس کی حد اور منزل (Goal) کا تعین کرنا ضروری ہے۔",
+                "نبی ﷺ نے فاصلے اور شرائط طے کر کے ہمیں منظم طریقے سے کام کرنے کا سبق دیا۔",
+                "کامیابی کے لیے درست نیت کے ساتھ ساتھ بہترین اسٹرٹیجی بھی لازمی ہے۔"
+              ],
+              "english": [
+                "It is essential to determine the limit and goal before starting any task.",
+                "By setting distances and conditions, the Prophet (ﷺ) taught us to work in an organized manner.",
+                "For success, the right intention must be coupled with the best strategy."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

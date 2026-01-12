@@ -1,0 +1,80 @@
+{
+  "chapId": 32,
+  "bookId": 4,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 520,
+    "to": 526
+  },
+  "hadiths": [
+    {
+      "id": 520,
+      "name": {
+        "arabic": " عَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -{ لَا تَحِلُّ اَلصَّدَقَةُ لِغَنِيٍّ إِلَّا لِخَمْسَةٍ: لِعَامِلٍ عَلَيْهَا, أَوْ رَجُلٍ اِشْتَرَاهَا بِمَالِهِ, أَوْ غَارِمٍ, أَوْ غَازٍ فِي سَبِيلِ اَللَّهِ, أَوْ مِسْكِينٍ تُصُدِّقَ عَلَيْهِ مِنْهَا, فَأَهْدَى مِنْهَا لِغَنِيٍّ } رَوَاهُ أَحْمَدُ, وَأَبُو دَاوُدَ, وَابْنُ مَاجَهْ, وَصَحَّحَهُ اَلْحَاكِمُ, وَأُعِلَّ بِالْإِرْسَالِ ",
+        "urdu": "سیدنا ابوسعید خدری رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”کسی مالدار کے لیے صدقہ حلال نہیں سوائے پانچ قسم کے مالداروں کے۔ زکوٰۃ کا مال اکٹھا کرنے والا، وہ شخص جو اپنے مال سے صدقے کی کوئی چیز خریدے، مقروض، فی سبیل اللہ جہاد کرنے والا اور وہ مسکین جسے صدقے میں کچھ ملا ہو اور وہ اس میں سے کسی مالدار کو تحفے کے طور پر دے دے۔“",
+        "english": "Narrated Abu Sa'id al-Khudri (RA): Allah's Messenger (ﷺ) said: \"Sadaqah (Zakat) is not lawful for a rich person except for five: One who is employed to collect it, a man who buys it with his own money, a debtor, a fighter in the cause of Allah, or a poor person who receives Sadaqah and gives some of it as a gift to a rich man.\""
+      }
+    },
+
+    {
+      "id": 521,
+      "name": {
+        "arabic": "وَعَنْ عُبَيْدِ اَللَّهِّ بْنِ عَدِيِّ بْنِ اَلْخِيَارِ; { أَنَّ رَجُلَيْنِ حَدَّثَاهُ أَنَّهُمَا أَتَيَا رَسُولَ اَللَّهِ - صلى الله عليه وسلم -يَسْأَلَانِهِ مِنَ اَلصَّدَقَةِ، فَقَلَّبَ فِيهِمَا اَلْبَصَرَ, فَرَآهُمَا جَلْدَيْنِ, فَقَالَ: \"إِنْ شِئْتُمَا, وَلَا حَظَّ فِيهَا لِغَنِيٍّ, وَلَا لِقَوِيٍّ مُكْتَسِبٍ\". } رَوَاهُ أَحْمَدُ وَقَوَّاهُ, وَأَبُو دَاوُدَ, وَالنَّسَائِيُّ",
+        "urdu": "سیدنا عبیداللہ بن عدی بن خیار رحمہ اللہ بیان کرتے ہیں کہ دو آدمیوں نے ان کو اپنا واقعہ سنایا کہ وہ دونوں رسول اللہ ﷺ کی خدمت میں حاضر ہوئے۔ دونوں نے آپ ﷺ سے صدقے کا سوال کیا۔ آپ ﷺ نے ان دونوں کو ایک نظر اٹھا کر اوپر سے نیچے تک دیکھا تو دونوں کو طاقتور پایا۔ آپ ﷺ نے فرمایا: ”اگر تم چاہتے ہو تو تم کو صدقہ دے دیتا ہوں، مگر مالدار اور صحت مند کماؤ آدمی کے لیے اس میں کوئی حصہ نہیں۔“",
+        "english": "Narrated 'Ubaidullah bin 'Adi bin al-Khiyar (RA): Two men informed him that they came to the Messenger of Allah (ﷺ) to ask him for Sadaqah (Zakat). He looked at them from head to foot and saw that they were strong. He (ﷺ) said, \"If you wish, I will give you, but there is no share in it for a rich man, nor for one who is strong and able to earn (a living).\""
+      }
+    },
+
+    {
+      "id": 522,
+      "name": {
+        "arabic": "وَعَنْ قَبِيصَةَ بْنِ مُخَارِقٍ اَلْهِلَالِيِّ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -{ إِنَّ اَلْمَسْأَلَةُ لَا تَحِلُّ إِلَّا لِأَحَدِ ثَلَاثَةٍ: رَجُلٌ تَحَمَّلَ حَمَالَةً, فَحَلَّتْ لَهُ اَلْمَسْأَلَةُ حَتَّى يُصِيبَهَا, ثُمَّ يُمْسِكَ، وَرَجُلٌ أَصَابَتْهُ جَائِحَةٌ, اِجْتَاحَتْ مَالَهُ, فَحَلَّتْ لَهُ اَلْمَسْأَلَةُ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ, وَرَجُلٌ أَصَابَتْهُ فَاقَةٌ حَتَّى يَقُومَ ثَلَاثَةٌ مِنْ ذَوِي الْحِجَى مِنْ قَومِهِ: لَقَدْ أَصَابَتْ فُلَانًا فَاقَةٌ; فَحَلَّتْ لَهُ اَلْمَسْأَلَةُ حَتَّى يُصِيبَ قِوَامًا مِنْ عَيْشٍ, فَمَا سِوَاهُنَّ مِنَ اَلْمَسْأَلَةِ يَا قَبِيصَةُ سُحْتٌ يَأْكُلُهَا صَاحِبُهَا سُحْتًا } رَوَاهُ مُسْلِمٌ",
+        "urdu": "سیدنا قبیصہ بن مخارق ہلالی رضی اللہ عنہ سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا: ”سوال کرنا صرف تین آدمیوں کے لیے حلال ہے۔ ایک وہ شخص جو کسی (کی صلح یا ضمانت) کا بوجھ اٹھا لے، تو اسے سوال کرنا جائز ہے یہاں تک کہ وہ رقم حاصل کر لے، پھر وہ رک جائے۔ دوسرا وہ جس پر کوئی ناگہانی آفت آ جائے جو اس کا مال تباہ کر دے، تو اسے گزر اوقات کے برابر حاصل کرنے تک سوال کرنا جائز ہے۔ تیسرا وہ شخص جسے فاقہ پہنچے یہاں تک کہ اس کی قوم کے تین عقل مند آدمی گواہی دیں کہ فلاں کو فاقہ پہنچا ہے، تو اسے بھی زندگی کی ضرورت پوری ہونے تک سوال کرنا جائز ہے۔ ان کے علاوہ اے قبیصہ! سوال کرنا حرام ہے اور ایسا کرنے والا حرام کھاتا ہے۔“",
+        "english": "Narrated Qabisah bin Mukhariq al-Hilali (RA): Allah's Messenger (ﷺ) said: \"Begging is not permissible except for one of three classes of people: A man who has become a guarantor for a payment (to settle a dispute), for whom begging is permissible till he gets that amount and then he must stop; a man whose property has been destroyed by a calamity which has smitten him, for whom begging is permissible till he gets what will support life; and a man who has been smitten by poverty, the genuineness of which is confirmed by three intelligent members of his people, for whom begging is permissible till he gets what will support life. Any other (reason for) begging, O Qabisah, is forbidden (Suht), and he who does it consumes it as forbidden property.\""
+      }
+    },
+
+    {
+      "id": 523,
+      "name": {
+        "arabic": "وَعَنْ عَبْدِ اَلْمُطَّلِبِ بْنِ رَبِيعَةَ بْنِ اَلْحَارِثِ رَضِيَ اَللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اَللَّهِ صلى الله عليه وسلم: { إِنَّ اَلصَّدَقَةَ لَا تَنْبَغِي لِآلِ مُحَمَّدٍ، إِنَّمَا هِيَ أَوْسَاخُ اَلنَّاسِ }. وَفِي رِوَايَةٍ: { وَإِنَّهَا لَا تَحِلُّ لِمُحَمَّدٍ وَلَا آلِ مُحَمَّدٍ } رَوَاهُ مُسْلِمٌ",
+        "urdu": "سیدنا عبدالمطلب بن ربیعہ بن حارث رضی اللہ عنہ سے مروی ہے کہ رسول اللہ ﷺ نے فرمایا: ”صدقہ آل محمد ﷺ کے لیے مناسب ہی نہیں، یہ تو لوگوں (کے مال) کا میل کچیل ہے۔“ اور ایک دوسری روایت میں ہے کہ ”صدقہ محمد ﷺ اور آل محمد ﷺ کے لیے حلال نہیں۔“ (مسلم)",
+        "english": "Narrated Abdul-Muttalib bin Rabi'a bin al-Harith (RA): The Messenger of Allah (ﷺ) said: \"Sadaqah (Zakat) is not becoming for the family of Muhammad, for it is only the impurities of the people.\" Another narration says: \"It is not lawful for Muhammad or the family of Muhammad.\""
+      }
+    },
+
+    {
+      "id": 524,
+      "name": {
+        "arabic": "وَعَنْ جُبَيْرِ بْنِ مُطْعِمٍ - رضى الله عنه - قَالَ: { مَشَيْتُ أَنَا وَعُثْمَانُ بْنُ عَفَّانَ - رضى الله عنه - إِلَى اَلنَّبِيِّ - صلى الله عليه وسلم -فَقُلْنَا: يَا رَسُولَ اَللَّهِ, أَعْطَيْتَ بَنِي اَلْمُطَّلِبِ مِنْ خُمُسِ خَيْبَرَ وَتَرَكْتَنَا, وَنَحْنُ وَهُمْ بِمَنْزِلَةٍ وَاحِدَةٍ, فَقَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم - \"إِنَّمَا بَنُو اَلْمُطَّلِبِ وَبَنُو هَاشِمٍ شَيْءٌ وَاحِدٌ\". } رَوَاهُ اَلْبُخَارِيُّ",
+        "urdu": "سیدنا جبیر بن مطعم رضی اللہ عنہ سے مروی ہے کہ میں اور عثمان بن عفان رضی اللہ عنہ نبی کریم ﷺ کی خدمت میں حاضر ہوئے اور عرض کیا: یا رسول اللہ! آپ نے بنو عبدالمطلب کو خیبر کے خمس میں حصہ عنایت فرمایا ہے اور ہمیں نظرانداز فرمایا حالانکہ ہم اور وہ (آپ ﷺ سے رشتہ کے اعتبار سے) ایک ہی مرتبہ کے ہیں۔ یہ سن کر رسول اللہ ﷺ نے فرمایا: ”بنو عبدالمطلب اور بنو ہاشم ایک ہی چیز ہیں۔“",
+        "english": "Narrated Jubair bin Mut'im (RA): 'Uthman bin 'Affan and I went to the Messenger of Allah (ﷺ) and said, \"O Messenger of Allah, you have given to Banu al-Muttalib from the one-fifth (Khumus) of the Khaybar (spoils) and left us out, although we and they are of the same degree of kinship to you.\" The Messenger of Allah (ﷺ) said, \"Banu al-Muttalib and Banu Hashim are but one and the same.\""
+      }
+    },
+
+    {
+      "id": 525,
+      "name": {
+        "arabic": "وَعَنْ أَبِي رَافِعٍ - رضي الله عنه - { أَنَّ اَلنَّبِيَّ - صلى الله عليه وسلم -بَعَثَ رَجُلًا عَلَى اَلصَّدَقَةِ مِنْ بَنِي مَخْزُومٍ, فَقَالَ لِأَبِي رَافِعٍ: اِصْحَبْنِي, فَإِنَّكَ تُصِيبُ مِنْهَا, قَالَ: حَتَّى آتِيَ اَلنَّبِيَّ - صلى الله عليه وسلم -فَأَسْأَلَهُ. فَأَتَاهُ فَسَأَلَهُ, فَقَالَ: \" مَوْلَى اَلْقَوْمِ مِنْ أَنْفُسِهِمْ, وَإِنَّا لَا تَحِلُّ لَنَا اَلصَّدَقَةُ \". } رَوَاهُ أَحْمَدُ, وَالثَّلَاثَةُ, وَابْنُ خُزَيْمَةَ, وَابْنُ حِبَّانَ",
+        "urdu": "سیدنا ابورافع رضی اللہ عنہ سے مروی ہے کہ نبی کریم ﷺ نے بنو مخزوم کے ایک آدمی کو زکوٰۃ کی وصولی پر مقرر فرمایا۔ اس نے ابورافع رضی اللہ عنہ کو کہا کہ تم میرے ساتھ چلو تجھے اس میں سے (بطور اجرت) کچھ حصہ مل جائے گا۔ انہوں نے کہا میں نہیں جاؤں گا جب تک میں نبی کریم ﷺ کی خدمت میں حاضر ہو کر اس بارے میں پوچھ نہ لوں۔ چنانچہ وہ نبی ﷺ کی خدمت میں آئے اور دریافت کیا تو آپ ﷺ نے فرمایا: ”کسی قوم کا آزاد کردہ غلام بھی انہی میں شمار ہوتا ہے، اور ہمارے لیے صدقہ (زکوٰۃ) حلال نہیں ہے۔“",
+        "english": "Narrated Abu Rafi' (RA): The Prophet (ﷺ) appointed a man from Banu Makhzum to collect Sadaqah (Zakat). That man said to Abu Rafi', \"Accompany me so that you may get a share of it.\" He replied, \"Not until I go to the Prophet (ﷺ) and ask him.\" So he went to him and asked, and he (ﷺ) said, \"The freed slave of a people is one of them, and Sadaqah is not lawful for us.\""
+      }
+    },
+
+    {
+      "id": 526,
+      "name": {
+        "arabic": "وَعَنْ سَالِمِ بْنِ عَبْدِ اَللَّهِ بْنِ عُمَرَ, عَنْ أَبِيهِ; { أَنَّ رَسُولَ اَللَّهِ - صلى الله عليه وسلم -كَانَ يُعْطِي عُمَرَ اَلْعَطَاءَ, فَيَقُولُ: أَعْطِهِ أَفْقَرَ مِنِّي, فَيَقُولُ: \"خُذْهُ فَتَمَوَّلْهُ, أَوْ تَصَدَّقْ بِهِ, وَمَا جَاءَكَ مِنْ هَذَا اَلْمَالِ, وَأَنْتَ غَيْرُ مُشْرِفٍ وَلَا سَائِلٍ فَخُذْهُ, وَمَا لَا فَلَا تُتْبِعْهُ نَفْسَكَ\". } رَوَاهُ مُسْلِمٌ ",
+        "urdu": "سیدنا سالم بن عبداللہ بن عمر رضی اللہ عنہما اپنے والد سے روایت کرتے ہیں کہ رسول اللہ ﷺ جب سیدنا عمر رضی اللہ عنہ کو کوئی عطیہ دیتے تو سیدنا عمر رضی اللہ عنہ عرض کرتے کہ جو لوگ مجھ سے زیادہ محتاج ہیں انہیں دے دیجیے۔ اس پر آپ ﷺ فرماتے: ”اسے لے لو اور اپنی ملکیت بنا لو یا اسے صدقہ کر دو۔ اور جو مال بغیر کسی طمع اور مانگے تمہارے پاس آئے اسے لے لیا کرو، اور جو اس طرح نہ ملے اس کے پیچھے اپنا جی نہ للچاؤ۔“",
+        "english": "Narrated Salim bin 'Abdullah bin 'Umar (RA), on the authority of his father: Whenever the Messenger of Allah (ﷺ) gave an allowance to 'Umar (RA), he would say, \"Give it to someone poorer than me.\" Thereupon, he (ﷺ) would say, \"Take it and keep it as your property or give it as Sadaqah. Whatever comes to you from this wealth without your being greedy or asking for it, take it; but do not let your heart hanker after what does not come to you in this way.\""
+      }
+    }
+  ]
+}

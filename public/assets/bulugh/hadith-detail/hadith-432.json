@@ -1,0 +1,255 @@
+{
+  "hadithId": 432,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/8", "bukhari/1241", "nasai/1839"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1241)، وأحمد (24177)، والنسائي (1839).",
+    "urdu": "صحیح۔ اسے امام بخاری نے اپنی صحیح (1241) میں روایت کیا ہے، اور امام نسائی نے بھی اسے نقل کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1241), Ahmad (24177), and An-Nasa'i (1839)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَبَّلَ",
+      "english": "Kissed",
+      "urdu": "بوسہ دیا"
+    },
+    {
+      "arabic": "بَعْدَ مَوْتِهِ",
+      "english": "After his death",
+      "urdu": "ان کی وفات کے بعد"
+    },
+    {
+      "arabic": "الصِّدِّيقَ",
+      "english": "The Truthful",
+      "urdu": "صدیق / سچائی والا"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Narrated by",
+      "urdu": "اسے روایت کیا"
+    },
+    {
+      "arabic": "عَنْهَا",
+      "english": "From her (Aishah)",
+      "urdu": "ان سے (عائشہ رض سے)"
+    }
+  ],
+  "summary": {
+    "urdu": "میت کو اظہارِ محبت یا الوداع کہنے کے لیے بوسہ دینا جائز ہے، جیسا کہ سیدنا ابوبکر رض نے نبی ﷺ کے ساتھ کیا۔",
+    "english": "It is permissible to kiss the deceased as a gesture of love or farewell, as demonstrated by Abu Bakr (RA) with the Prophet (ﷺ)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الجنائز، رقم 1241",
+      "english": "Sahih al-Bukhari, Book of Funerals, Hadith 1241"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=XWfMv8-XG6w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فقہی جواز اور شرعی حکم",
+        "english": "Legal Permissibility and Ruling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میت کا بوسہ لینے کا جواز",
+              "english": "Permissibility of Kissing the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے ثابت ہوتا ہے کہ وفات کے بعد میت کا بوسہ لینا شرعاً جائز اور درست ہے۔",
+                "سیدنا ابوبکر صدیق رض کا یہ عمل امت کے لیے ایک واضح فقہی نمونہ بن گیا۔",
+                "یہ عمل میت کی تکریم اور اس کے ساتھ دلی لگاؤ کا ایک خوبصورت اظہار ہے۔"
+              ],
+              "english": [
+                "This Hadith proves that kissing the deceased after death is religiously permissible and valid.",
+                "Abu Bakr As-Siddiq's action became a clear juristic precedent for the Muslim Ummah.",
+                "This act is a beautiful expression of honoring the deceased and showing deep affection."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کا مسئلہ",
+              "english": "Matter of Ritual Purity"
+            },
+            "content": {
+              "urdu": [
+                "میت کو چھونا یا بوسہ دینا وضو کو نہیں توڑتا، جیسا کہ فقہاء نے وضاحت کی ہے۔",
+                "نبی ﷺ کی وفات کے بعد آپ ﷺ کا جسمِ اطہر مکمل طاہر اور مبارک تھا۔",
+                "یہ عمل بتاتا ہے کہ میت کے جسم کی حرمت وفات کے بعد بھی باقی رہتی ہے۔"
+              ],
+              "english": [
+                "Touching or kissing the deceased does not break one's Wudu, as clarified by jurists.",
+                "The Prophet's (ﷺ) blessed body remained completely pure and sacred after his passing.",
+                "This action signifies that the sanctity of the body remains even after life has ended."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "محبت اور الوداعی جذبات",
+        "english": "Love and Farewell Emotions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیدنا ابوبکر رض کی والہانہ محبت",
+              "english": "The Intense Love of Abu Bakr (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوبکر رض کا نبی ﷺ کی پیشانی چومنا ان کی بے پناہ محبت کا ثبوت ہے۔",
+                "غم کی اس عظیم گھڑی میں انہوں نے ہمت دکھاتے ہوئے سنتِ الوداع قائم کی۔",
+                "صحابہ کرام کے نزدیک نبی ﷺ کی ذات زندگی میں بھی اور وفات کے بعد بھی محبوب تھی۔"
+              ],
+              "english": [
+                "Abu Bakr's kissing of the Prophet's forehead is proof of his immense and unparalleled love.",
+                "In that moment of great grief, he showed courage and established a sunnah of farewell.",
+                "To the Sahaba, the Prophet (ﷺ) was beloved both in life and after his passing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غم کے اظہار کا اعتدال",
+              "english": "Moderation in Expressing Grief"
+            },
+            "content": {
+              "urdu": [
+                "بوسہ لینا ایک خاموش اور باوقار طریقہ ہے میت کو آخری بار دیکھنے اور پیار کرنے کا۔",
+                "اسلام چیخنے چلانے اور بین کرنے سے روکتا ہے مگر پیار بھرے لمس کی اجازت دیتا ہے۔",
+                "یہ عمل لواحقین کے بوجھل دل کو سکون فراہم کرنے کا ایک ذریعہ بن سکتا ہے۔"
+              ],
+              "english": [
+                "Kissing is a quiet and dignified way to view and show affection to the deceased one last time.",
+                "Islam prohibits wailing and loud lamenting but allows for a loving touch or kiss.",
+                "This act can serve as a means of providing comfort to the heavy hearts of the bereaved."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تاریخی پس منظر",
+        "english": "Historical Background"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وفاتِ نبوی ﷺ کا واقعہ",
+              "english": "The Event of the Prophet's Passing"
+            },
+            "content": {
+              "urdu": [
+                "جب صحابہ صدمے کی حالت میں تھے، ابوبکر رض تشریف لائے اور حجرہ عائشہ میں داخل ہوئے۔",
+                "انہوں نے نبی ﷺ کے چہرہ مبارک سے کپڑا ہٹایا اور نم آنکھوں کے ساتھ آپ ﷺ کو چوما۔",
+                "ان کے اس عمل نے صحابہ کے دلوں کو ڈھارس بندھائی اور حقیقت کو تسلیم کرنے میں مدد دی۔"
+              ],
+              "english": [
+                "While the Sahaba were in shock, Abu Bakr arrived and entered Aishah's chamber.",
+                "He uncovered the Prophet's (ﷺ) face and kissed him with tearful eyes.",
+                "His action provided strength to the Sahaba and helped them accept the reality of the loss."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امت کے لیے تسلی",
+              "english": "Consolation for the Ummah"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث رہتی دنیا تک مسلمانوں کے لیے ایک جذباتی اور علمی سہارا ہے۔",
+                "یہ سکھاتی ہے کہ بزرگوں اور پیاروں کو رخصت کرتے وقت ادب و احترام کیسے برقرار رکھا جائے۔",
+                "صدیقِ اکبر رض نے ثابت کیا کہ موت مادی جدائی ہے مگر روحانی تعلق ہمیشہ قائم رہتا ہے۔"
+              ],
+              "english": [
+                "This Hadith serves as an emotional and scholarly support for Muslims until the end of time.",
+                "It teaches how to maintain respect and honor when bidding farewell to elders and loved ones.",
+                "As-Siddiq (RA) proved that death is a physical separation, but the spiritual bond remains."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت",
+        "english": "Practical Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میت کے احترام کے آداب",
+              "english": "Etiquettes of Respecting the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "میت کا چہرہ دیکھتے وقت باوضو ہونا اور کلماتِ خیر کہنا مستحب ہے۔",
+                "رشتہ داروں کو اجازت ہے کہ وہ میت کی پیشانی یا ہاتھوں کا بوسہ لیں۔",
+                "ایسے وقت میں صبر و استقامت کا دامن ہاتھ سے نہیں چھوڑنا چاہیے۔"
+              ],
+              "english": [
+                "It is recommended to be in a state of Wudu and utter good words when viewing the deceased.",
+                "Relatives are permitted to kiss the forehead or hands of the deceased person.",
+                "During such times, one should not let go of the garment of patience and steadfastness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت پر عمل کی اہمیت",
+              "english": "Importance of Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں ہر معاملے میں صحابہ کرام کے نقشِ قدم پر چلنے کی کوشش کرنی چاہیے۔",
+                "جنازے کے احکامات میں بدعات سے بچنا اور مسنون طریقوں کو اپنانا ضروری ہے۔",
+                "سیدنا ابوبکر رض کی پیروی میں ہی دین و دنیا کی بھلائی پوشیدہ ہے۔"
+              ],
+              "english": [
+                "We should strive to follow the footsteps of the Sahaba in every matter.",
+                "It is vital to avoid innovations (Bid'ah) in funeral rites and adopt Sunnah methods.",
+                "The welfare of this world and the hereafter lies in following Abu Bakr (RA)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

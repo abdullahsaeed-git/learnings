@@ -1,0 +1,264 @@
+{
+  "hadithId": 767,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/767"],
+    "kitabId": 7,
+    "inKitabBab": 15,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 56
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (2329)، ومسلم (1551). واللفظ لمسلم يوضح أن العمل والنفقة كانت على اليهود.",
+    "urdu": "صحیح۔ اسے بخاری (2329) اور مسلم (1551) نے روایت کیا ہے۔ یہ حدیث مساقات اور مخابرات کے جواز کی اصل بنیاد ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2329) and Muslim (1551). This narration is the primary evidence for the permissibility of Musaqat and Mukhabarat."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَامَلَ",
+      "english": "Treated / Contracted",
+      "urdu": "معاملہ کیا"
+    },
+    {
+      "arabic": "بِشَطْرِ",
+      "english": "In exchange for half",
+      "urdu": "آدھے کے بدلے"
+    },
+    {
+      "arabic": "يَعْتَمِلُوهَا",
+      "english": "Work on it",
+      "urdu": "اس پر محنت کریں"
+    },
+    {
+      "arabic": "أَجْلَاهُمْ",
+      "english": "Expelled them",
+      "urdu": "جلا وطن کر دیا"
+    },
+    {
+      "arabic": "نُقِرُّكُمْ",
+      "english": "We allow you to stay",
+      "urdu": "ہم تمہیں برقرار رکھیں گے"
+    },
+    {
+      "arabic": "ثَمَرٍ",
+      "english": "Fruit",
+      "urdu": "پھل"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث مساقات (پھلوں کی شراکت) اور مزارعت (کھیتی کی شراکت) کے جواز پر مبنی ہے، جس میں زمین ایک کی اور محنت دوسرے کی ہوتی ہے اور پیداوار آدھی آدھی تقسیم ہوتی ہے۔",
+    "english": "This Hadith establishes the permissibility of crop-sharing (Muzara'ah) and fruit-sharing (Musaqat) contracts, where land and labor are shared for a half portion of the produce."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2329)",
+      "english": "Reported by Al-Bukhari (2329)"
+    },
+    {
+      "arabic": "رواه مسلم (1551)",
+      "english": "Reported by Muslim (1551)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah bin Umar bin al-Khattab"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjI8_GfLpIs",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مساقات اور مزارعت کا شرعی حکم",
+        "english": "Legality of Crop and Fruit Sharing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پیداوار میں شراکت کا جواز",
+              "english": "Permissibility of Shared Output"
+            },
+            "content": {
+              "urdu": [
+                "اہلِ خیبر کے ساتھ یہ معاملہ ثابت کرتا ہے کہ بٹائی پر زمین دینا جائز ہے۔",
+                "اس میں اجرت متعین رقم کے بجائے کل پیداوار کا ایک حصہ (جیسے نصف) ہوتی ہے۔",
+                "یہ طریقہ ان لوگوں کے لیے مفید ہے جن کے پاس زمین ہے مگر محنت کی قوت نہیں۔"
+              ],
+              "english": [
+                "The contract with Khaibar proves that leasing land for a share of crops is permissible.",
+                "In this, the payment is a portion of the total yield (like half) rather than a fixed wage.",
+                "This method benefits those who own land but lack the capacity or tools for labor."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخراجات کی ذمہ داری",
+              "english": "Responsibility of Expenses"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی روایت کے مطابق بیج اور کام کے اخراجات محنت کش (یہود) کے ذمے تھے۔",
+                "شراکت داری کے معاہدے میں فریقین باہمی رضا مندی سے شرائط طے کر سکتے ہیں۔",
+                "پیداوار نہ ہونے کی صورت میں محنت کش کو کچھ نہیں ملے گا کیونکہ یہ نفع و نقصان میں شراکت ہے۔"
+              ],
+              "english": [
+                "According to Muslim, the costs of seeds and labor were the responsibility of the workers.",
+                "In a partnership contract, both parties can decide on specific terms by mutual consent.",
+                "If no crop is produced, the worker receives nothing as this is a risk-sharing partnership."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاہدے کی مدت اور جلاوطنی",
+        "english": "Contract Duration and Expulsion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکومتی اختیار اور عارضی قیام",
+              "english": "State Authority and Temporary Stay"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا تھا کہ ہم تمہیں 'جب تک چاہیں گے' یہاں رہنے دیں گے۔",
+                "اس سے معلوم ہوا کہ امام یا حاکمِ وقت معاہدے میں فسخ کا حق محفوظ رکھ سکتا ہے۔",
+                "یہ حکم خاص طور پر ان زمینوں کے لیے تھا جو بطورِ غنیمت مسلمانوں کی ملکیت میں آئی تھیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) stated they could stay as long as the Islamic state wished.",
+                "This shows that a ruler or authority can reserve the right to terminate such agreements.",
+                "This ruling specifically applied to lands that came under Muslim ownership as spoils of war."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیدنا عمر کا فیصلہ",
+              "english": "Decision of 'Umar (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر رضی اللہ عنہ نے اپنے دور میں یہود کو خیبر سے جلا وطن کیا۔",
+                "یہ فیصلہ جزیرہ عرب سے مشرکین و یہود کے اخراج کے عمومی نبوی حکم کے تحت تھا۔",
+                "اس سے ثابت ہوا کہ معاہدہ دائمی نہیں بلکہ ملکی مفاد اور شرعی احکام کے تابع تھا۔"
+              ],
+              "english": [
+                "Umar (RA) eventually expelled the Jews from Khaibar during his caliphate.",
+                "This decision aligned with the general Prophetic instruction to clear the Arabian Peninsula of hostile entities.",
+                "It proves the agreement was not permanent but subject to state interest and Shariah laws."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی فوائد اور حکمت",
+        "english": "Economic Benefits and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زمین کی آبادی اور پیداوار",
+              "english": "Land Cultivation and Production"
+            },
+            "content": {
+              "urdu": [
+                "زمین کو خالی چھوڑنے کے بجائے اسے آباد کرنا اسلامی معیشت کا ہدف ہے۔",
+                "خیبر کے یہود زمینوں کے ماہر تھے، اس لیے ان کی مہارت سے فائدہ اٹھایا گیا۔",
+                "اس سے ریاست کے بیت المال اور عوام دونوں کو خوراک اور آمدنی حاصل ہوئی۔"
+              ],
+              "english": [
+                "Cultivating land rather than leaving it fallow is a goal of the Islamic economy.",
+                "The Jews of Khaibar were skilled farmers, so their expertise was utilized.",
+                "This provided food and revenue for both the state treasury and the public."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا نمونہ",
+              "english": "Model of Justice and Fairness"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی ریاست نے مفتوحہ قوم کے ساتھ بھی انصاف پر مبنی تجارتی معاہدہ کیا۔",
+                "نصف پیداوار دینا ان کے لیے ایک پرکشش اور منصفانہ پیشکش تھی۔",
+                "عبداللہ بن رواحہ رضی اللہ عنہ پیداوار تقسیم کرتے وقت اتنے عادل تھے کہ یہود بھی حیران رہ گئے۔"
+              ],
+              "english": [
+                "The Islamic state established fair trade agreements even with conquered peoples.",
+                "Offering half the produce was an attractive and equitable offer for the workers.",
+                "Abdullah bin Rawahah (RA) was so just in dividing the crops that the Jews were amazed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Life Applications"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بٹائی پر کاشتکاری",
+              "english": "Sharecropping Practice"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں بھی زمیندار مزارعین کے ساتھ پیداوار میں شراکت کر سکتے ہیں۔",
+                "حصہ (آدھا، تہائی یا چوتھائی) پہلے سے طے ہونا شرعی ضرورت ہے۔",
+                "بیج اور کھاد کے اخراجات کس کے ذمے ہوں گے، یہ بھی واضح ہونا چاہیے۔"
+              ],
+              "english": [
+                "In modern times, landowners can still partner with farmers on a sharecropping basis.",
+                "The share (half, third, or quarter) must be pre-determined as per Shariah requirements.",
+                "It must be clear who is responsible for costs like seeds and fertilizers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاہدوں کی پاسداری",
+              "english": "Adherence to Agreements"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں پر واجب ہے کہ وہ اپنے طے شدہ معاہدوں اور شرائط کی پابندی کریں۔",
+                "اگر کام کرنے والا محنت کرے تو اسے اس کا پورا حق ملنا چاہیے۔",
+                "معاہدہ ختم کرنے کی صورت میں فریقین کو مناسب وقت اور حقوق ملنے چاہئیں۔"
+              ],
+              "english": [
+                "Muslims are obligated to strictly adhere to their agreed contracts and conditions.",
+                "If the worker puts in the effort, they must receive their full share of the rights.",
+                "Upon termination of a contract, both parties should receive fair time and settlement."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

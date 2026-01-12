@@ -1,0 +1,177 @@
+{
+  "hadithId": 345,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:1081", "muslim:693"],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "تقصير الصلاة",
+    "babId": 21
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1081)، ومسلم (693). وفي رواية للبخاري سئل أنس: 'أقمتم بمكة شيئاً؟' قال: 'أقمنا بها عشراً'.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (1081) اور امام مسلم (693) نے روایت کیا ہے۔ بخاری کی ایک روایت میں یہ بھی ہے کہ سیدنا انس سے پوچھا گیا: 'کیا آپ لوگوں نے مکہ میں قیام کیا تھا؟' تو انہوں نے جواب دیا: 'ہم وہاں دس دن ٹھہرے تھے۔'",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1081) and Muslim (693). In a narration by Al-Bukhari, Anas was asked, 'Did you stay in Makkah for some time?' He replied, 'We stayed there for ten days.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "خَرَجْنَا",
+      "english": "We went out / set out",
+      "urdu": "ہم نکلے"
+    },
+    {
+      "arabic": "رَكْعَتَيْنِ",
+      "english": "Two Rak'ahs",
+      "urdu": "دو رکعتیں"
+    },
+    {
+      "arabic": "حَتَّى رَجَعْنَا",
+      "english": "Until we returned",
+      "urdu": "یہاں تک کہ ہم واپس آ گئے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث قصرِ نماز (سفر میں نماز کم کرنے) کے بارے میں نبی ﷺ کی سنت کو بیان کرتی ہے کہ آپ ﷺ پورے سفر کے دوران، یہاں تک کہ مکہ میں قیام کے دوران بھی چار رکعت والی نمازوں کو دو رکعت ہی پڑھتے رہے۔",
+    "english": "This Hadith describes the Prophet's (ﷺ) practice of shortening the prayer (Qasr) during travel. Throughout the journey from Madinah to Makkah and back, including the stay in Makkah, he consistently prayed two Rak'ahs for the four-unit prayers."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1081)",
+      "english": "Sahih al-Bukhari (1081)"
+    },
+    {
+      "arabic": "صحيح مسلم (693)",
+      "english": "Sahih Muslim (693)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك الأنصاري",
+        "english": "Anas bin Malik al-Ansari"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سفر میں قصرِ نماز کی مداومت",
+        "english": "Consistency in Shortening Prayer During Travel"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبوی طریقہ کار",
+              "english": "The Prophetic Way"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ جب بھی سفر پر روانہ ہوتے تو چار رکعت والی فرض نمازوں (ظہر، عصر اور عشاء) میں قصر فرماتے تھے۔",
+                "آپ ﷺ نے کبھی بھی سفر کے دوران پوری نماز (اتمام) نہیں پڑھی، جو اس بات کی دلیل ہے کہ سفر میں قصر کرنا ہی افضل ہے۔",
+                "سیدنا انس کی گواہی ہے کہ مدینہ سے نکلنے سے لے کر واپسی تک آپ ﷺ نے قصر ہی کی، چاہے راستہ ہو یا منزل۔"
+              ],
+              "english": [
+                "Whenever the Prophet (ﷺ) set out on a journey, he would shorten the four-unit obligatory prayers (Dhuhr, Asr, and Isha).",
+                "He (ﷺ) never performed the full prayer (Itmam) while traveling, which indicates that shortening the prayer is superior in such cases.",
+                "Anas (RAA) testifies that from the moment they left Madinah until their return, the Prophet (ﷺ) only prayed Qasr, whether on the road or at their destination."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دورانِ قیام قصر کا حکم",
+        "english": "Shortening Prayer During a Stay"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مکہ میں قیام کی مدت",
+              "english": "Duration of Stay in Makkah"
+            },
+            "content": {
+              "urdu": [
+                "اس سفر (حجۃ الوداع یا فتح مکہ) کے دوران آپ ﷺ مکہ میں دس دن ٹھہرے اور اس پورے عرصے میں قصر ہی فرمائی۔",
+                "فقہاء کے درمیان اس بات پر بحث ہے کہ کتنے دن ٹھہرنے کی نیت پر قصر ختم ہو جاتی ہے، مگر اس حدیث سے ثابت ہے کہ کم از کم دس دن تک قصر کی جا سکتی ہے۔",
+                "مسافر جب تک اپنے گھر واپس نہ پہنچ جائے یا کسی جگہ مستقل رہنے کی نیت نہ کر لے، وہ مسافر ہی کہلاتا ہے۔"
+              ],
+              "english": [
+                "During this journey, the Prophet (ﷺ) stayed in Makkah for ten days and continued to shorten his prayers throughout.",
+                "Jurists debate the number of days of intended stay that ends the traveler's status, but this Hadith proves that Qasr can be performed for at least ten days.",
+                "A traveler remains a traveler until they return home or intend to reside permanently in a place."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کا صدقہ",
+        "english": "Charity from Allah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رخصت کو اپنانا",
+              "english": "Accepting the Concession"
+            },
+            "content": {
+              "urdu": [
+                "قصرِ نماز اللہ تعالیٰ کی طرف سے اپنے بندوں کے لیے ایک تحفہ اور 'صدقہ' ہے تاکہ انہیں مشقت نہ ہو۔",
+                "اس رعایت کو اللہ کی نعمت سمجھ کر قبول کرنا چاہیے، جیسا کہ پچھلی حدیث میں گزرا کہ اللہ اپنی رخصتوں پر عمل کو پسند فرماتا ہے۔",
+                "سنتِ مؤکدہ یہ ہے کہ سفر میں قصر ہی کیا جائے۔"
+              ],
+              "english": [
+                "Shortening the prayer is a gift and 'charity' from Allah to His servants to ease their hardship.",
+                "This concession should be accepted as a blessing, as the previous Hadith stated that Allah loves for His concessions to be used.",
+                "The emphasized Sunnah (Sunnah Mu'akkadah) is to perform Qasr while traveling."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آسانی اور سنت کی پیروی",
+              "english": "Ease and Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "دین میں اپنی طرف سے سختی پیدا کرنا نیکی نہیں بلکہ سنت کی اتباع ہی اصل نیکی ہے۔",
+                "سفر چاہے کتنا ہی آرام دہ (جہاز یا گاڑی) کیوں نہ ہو، قصر کا حکم برقرار رہتا ہے کیونکہ اس کی علت صرف 'سفر' ہے، 'مشقت' نہیں۔",
+                "ہمیں سفر کے احکام سیکھنے چاہئیں تاکہ ہماری عبادات شریعت کے مطابق درست ہوں۔"
+              ],
+              "english": [
+                "Creating hardship in religion is not piety; true piety lies in following the Sunnah.",
+                "Regardless of how comfortable the journey is (plane or car), the rule of Qasr remains because the legal reason is 'travel' itself, not 'hardship'.",
+                "We must learn the rulings of travel to ensure our worship is correct according to Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

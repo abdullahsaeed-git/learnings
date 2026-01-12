@@ -1,0 +1,259 @@
+{
+  "hadithId": 855,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/41"],
+    "kitabId": 8,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب النكاح",
+    "babId": 65
+  },
+ 
+  "takhreej": {
+    "arabic": "موضوع. رواه الحاكم (2/163)، والبزار (2641). قال أبو حاتم الرازي: هذا كذب لا أصل له. وقال ابن حبان: حديث منكر موضوع.",
+    "urdu": "یہ روایت موضوع (گھڑی ہوئی) ہے۔ امام ابو حاتم نے اسے صریح جھوٹ قرار دیا ہے اور امام ابن حبان کے نزدیک بھی یہ منکر اور موضوع ہے۔",
+    "english": "Fabricated (Mawdu'). Reported by Al-Hakim (2/163). Abu Hatim Al-Razi called it a lie with no basis. Ibn Hibban and Ibn Abd al-Barr also graded it as fabricated and rejected."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَكْفَاءُ",
+      "english": "Compatible / Equals",
+      "urdu": "برابر / ہم پلہ"
+    },
+    {
+      "arabic": "الْمَوَالِي",
+      "english": "Enfranchised slaves",
+      "urdu": "آزاد کردہ غلام"
+    },
+    {
+      "arabic": "حَائِكٌ",
+      "english": "Weaver",
+      "urdu": "جولاہا"
+    },
+    {
+      "arabic": "حَجَّامٌ",
+      "english": "Barber / Cupper",
+      "urdu": "حجام / پچھنے لگانے والا"
+    },
+    {
+      "arabic": "مُنْقَطِعٍ",
+      "english": "Broken chain",
+      "urdu": "ٹوٹا ہوا سلسلہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ روایت نکاح میں پیشہ ورانہ بنیادوں پر تفریق پیدا کرتی ہے، لیکن علمی تحقیق کے مطابق یہ رسول اللہ ﷺ کا فرمان نہیں بلکہ ایک من گھڑت بات ہے۔",
+    "english": "This narration suggests professional discrimination in marriage compatibility, but scholarly analysis proves it is fabricated and not a statement of the Prophet (ﷺ)."
+  },
+  "references": [
+    {
+      "arabic": "المستدرك للحاكم (2/163)",
+      "english": "Al-Mustadrak al-Hakim (2/163)"
+    },
+    {
+      "arabic": "علل ابن أبي حاتم (1236)",
+      "english": "Ilal Ibn Abi Hatim (1236)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah bin Umar bin al-Khattab"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R3L0f6LpB3M",
+  "grade": {
+    "arabic": "موضوع / منكر",
+    "english": "Fabricated / Rejected"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روایت کی علمی حیثیت",
+        "english": "Academic Status of the Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سندی کمزوری",
+              "english": "Weakness of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت کی سند میں مجہول راوی موجود ہیں جن کی شناخت ممکن نہیں ہے۔",
+                "محدثین نے صراحت کی ہے کہ یہ کلام رسول اللہ ﷺ سے ثابت ہی نہیں ہے۔",
+                "ایسی روایات جو نسلی یا پیشہ ورانہ برتری سکھائیں، وہ روحِ اسلام کے خلاف ہیں۔"
+              ],
+              "english": [
+                "The chain of this narration contains unknown narrators who cannot be verified.",
+                "Hadith scholars have explicitly stated that this speech is not proven from the Prophet (ﷺ).",
+                "Narrations promoting racial or professional superiority contradict the core spirit of Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "منکر ہونے کی وجوہات",
+              "english": "Reasons for Rejection"
+            },
+            "content": {
+              "urdu": [
+                "امام ابو حاتم اور ابن حبان نے اسے منکر اور جھوٹ قرار دیا ہے۔",
+                "اس کا متن قرآن کے مساوات والے اصولوں سے ٹکراتا ہے۔",
+                "اسلام میں معیارِ فضیلت صرف تقویٰ ہے نہ کہ کوئی پیشہ یا نسل۔"
+              ],
+              "english": [
+                "Imam Abu Hatim and Ibn Hibban labeled it as rejected and a lie.",
+                "The text conflicts with the principles of equality established in the Qur'an.",
+                "In Islam, the criterion for superiority is piety alone, not profession or lineage."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلام میں کفو کا تصور",
+        "english": "Concept of Kufu in Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دینی برابری",
+              "english": "Religious Equality"
+            },
+            "content": {
+              "urdu": [
+                "صحیح احادیث کے مطابق نکاح میں اصل کفو دین اور اخلاق ہے۔",
+                "اگر لڑکا اور لڑکی دیندار ہیں تو وہ ایک دوسرے کے لیے بہترین کفو ہیں۔",
+                "پیشہ ورانہ بنیادوں پر رشتوں کو رد کرنا اسلامی تعلیمات کا حصہ نہیں ہے۔"
+              ],
+              "english": [
+                "According to authentic Hadiths, true compatibility lies in religion and character.",
+                "If both parties are pious, they are considered compatible for each other.",
+                "Rejecting proposals based on professional backgrounds is not part of Islamic teachings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقویٰ سب سے بڑا معیار",
+              "english": "Piety as the Highest Standard"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کے مطابق اللہ کے نزدیک سب سے معزز وہ ہے جو سب سے زیادہ پرہیزگار ہے۔",
+                "حجام یا جولاہا ہونا کسی انسان کی عظمت کو کم نہیں کرتا۔",
+                "نبی کریم ﷺ نے خود مختلف پیشوں سے وابستہ افراد کی قدر فرمائی۔"
+              ],
+              "english": [
+                "According to the Qur'an, the most honorable in Allah's sight is the most God-fearing.",
+                "Being a barber or a weaver does not diminish a person's inherent dignity.",
+                "The Prophet (ﷺ) himself valued individuals from various professional backgrounds."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اثرات",
+        "english": "Social Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذات پات کا خاتمہ",
+              "english": "Elimination of Casteism"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے جاہلیت کے نسلی تفاخر اور ذات پات کے نظام کو جڑ سے اکھاڑ دیا۔",
+                "ایسی جھوٹی روایات معاشرے میں دوبارہ طبقاتی تقسیم پیدا کرنے کا باعث بنتی ہیں۔",
+                "مسلمانوں کو چاہیے کہ وہ رشتہ طے کرتے وقت صرف سیرت اور کردار دیکھیں۔"
+              ],
+              "english": [
+                "Islam uprooted the pre-Islamic systems of racial pride and casteism.",
+                "Fabricated narrations like this cause the re-emergence of class divisions in society.",
+                "Muslims should focus solely on character and conduct when finalizing marriage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مساواتِ محمدی ﷺ",
+              "english": "Prophetic Equality"
+            },
+            "content": {
+              "urdu": [
+                "حجۃ الوداع کے موقع پر آپ ﷺ نے فرمایا تھا کہ کسی عربی کو عجمی پر فوقیت نہیں۔",
+                "رنگ، نسل اور پیشہ انسانیت کی تقسیم کا پیمانہ نہیں بننا چاہیے۔",
+                "اسلامی معاشرے کی خوبصورتی باہمی احترام اور مساوات میں چھپی ہے۔"
+              ],
+              "english": [
+                "During the Farewell Pilgrimage, the Prophet (ﷺ) declared no Arab is superior to a non-Arab.",
+                "Color, race, and profession should not be measures for dividing humanity.",
+                "The beauty of Islamic society lies in mutual respect and total equality."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تحقیق کی ضرورت",
+        "english": "Need for Research"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علمِ حدیث کی اہمیت",
+              "english": "Importance of Hadith Science"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی بات کو رسول اللہ ﷺ کی طرف منسوب کرنے سے پہلے اس کی تصدیق لازم ہے۔",
+                "موضوع روایات کو پھیلانا گناہ اور دین میں بگاڑ کا سبب ہے۔",
+                "علماء کا کام ہے کہ وہ عوام کو ایسی غیر مستند باتوں سے باخبر رکھیں۔"
+              ],
+              "english": [
+                "It is mandatory to verify any statement before attributing it to the Prophet (ﷺ).",
+                "Spreading fabricated narrations is a sin and causes corruption in religion.",
+                "It is the duty of scholars to keep the public aware of such unauthentic claims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی سبق",
+              "english": "Practical Lesson"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے معاملات میں صرف مستند اور صحیح احادیث سے رہنمائی لینی چاہیے۔",
+                "پیشہ ورانہ کاموں کو حقیر سمجھنا اسلامی اخلاقیات کے سراسر خلاف ہے۔",
+                "محنت کرنے والا اللہ کا دوست ہے، چاہے اس کا کام کتنا ہی سادہ کیوں نہ ہو۔"
+              ],
+              "english": [
+                "We should derive guidance in our affairs only from authentic and Sahih Hadiths.",
+                "Belittling professional work is completely contrary to Islamic ethics.",
+                "The hardworking person is the friend of Allah, no matter how simple their job."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

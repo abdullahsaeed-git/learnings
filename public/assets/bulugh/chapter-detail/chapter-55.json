@@ -1,0 +1,35 @@
+{
+  "chapId": 55,
+  "bookId": 7,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 765,
+    "to": 766
+  },
+  "hadiths": [
+    {
+      "id": 765,
+      "name": {
+        "arabic": " عَنْ صُهَيْبٍ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ: { ثَلَاثٌ فِيهِنَّ اَلْبَرَكَةُ: اَلْبَيْعُ إِلَى أَجَلٍ، وَالْمُقَارَضَةُ، وَخَلْطُ اَلْبُرِّ بِالشَّعِيرِ لِلْبَيْتِ, لَا لِلْبَيْعِ } رَوَاهُ اِبْنُ مَاجَهْ بِإِسْنَادٍ ضَعِيفٍ",
+        "urdu": "سیدنا صہیب رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تین کاموں میں برکت ہے۔ ادھار بیو پاری (ایک مدت تک بیع)، مضاربت (سرمایہ کاری) اور گھر کے استعمال کے لیے گندم میں جو ملانا، نہ کہ فروخت کرنے کے لیے۔“ اسے ابن ماجہ نے ضعیف سند سے روایت کیا ہے۔",
+        "english": "Narrated Suhaib (RA): The Prophet (ﷺ) said: \"There are three things in which there is blessing: A sale for a fixed period (deferred payment), Muqaradah (Mudarabah/partnership), and mixing wheat with barley for home use, not for sale.\" [Reported by Ibn Majah with a weak chain]."
+      }
+    },
+
+    {
+      "id": 766,
+      "name": {
+        "arabic": "وَعَنْ حَكِيمِ بْنِ حِزَامٍ ‏- رضى الله عنه ‏- { أَنَّهُ كَانَ يَشْتَرِطُ عَلَى اَلرَّجُلِ إِذَا أَعْطَاهُ مَالًا مُقَارَضَةً: أَنْ لَا تَجْعَلَ مَالِي فِي كَبِدٍ رَطْبَةٍ, وَلَا تَحْمِلَهُ فِي بَحْرٍ, وَلَا تَنْزِلَ بِهِ فِي بَطْنِ مَسِيلٍ, فَإِنْ فَعَلْتَ شَيْئًا مِنْ ذَلِكَ فَقَدَ ضَمِنْتَ مَالِي } رَوَاهُ اَلدَّارَقُطْنِيُّ, وَرِجَالُهُ ثِقَاتٌ وَقَالَ مَالِكٌ فِي \" اَلْمُوَطَّأِ \" عَنْ اَلْعَلَاءِ بْنِ عَبْدِ اَلرَّحْمَنِ بْنِ يَعْقُوبَ, عَنْ أَبِيهِ, عَنْ جَدِّهِ: { أَنَّهُ عَمِلَ فِي مَالٍ لِعُثْمَانَ عَلَى أَنَّ اَلرِّبْحَ بَيْنَهُمَا } وَهُوَ مَوْقُوفٌ صَحِيحٌ ",
+        "urdu": "سیدنا حکیم بن حزام رضی اللہ عنہ سے روایت ہے کہ وہ جب کسی شخص کو مضاربت پر اپنا سرمایہ دیتے تھے تو اس سے یہ شرط کر لیا کرتے تھے کہ میرے مال سے حیوان کی تجارت نہ کرو گے اور سمندر میں لے کر بھی نہیں جاؤ گے اور سیلاب کی جگہوں میں لے کر اسے نہیں جاؤ گے۔ ان میں سے کوئی کام بھی اگر تم نے کیا تو میرے مال کے تم خود ضامن و ذمہ دار ہو گے۔ اسے دارقطنی نے روایت کیا ہے اور اس کے راوی ثقہ ہیں۔ امام مالک رحمہ اللہ نے موطا میں علاء بن عبدالرحمٰن بن یعقوب والد اور اس کے دادا کے واسطہ سے بیان کیا ہے کہ اس نے سیدنا عثمان رضی اللہ عنہ کے مال میں تجارت اس شرط پر کی تھی کہ منافع دونوں کے درمیان تقسیم ہو گا۔ یہ حدیث موقوف صحیح ہے۔ ",
+        "english": "Narrated Hakim bin Hizam (RA): When he used to give money as Muqaradah (Mudarabah), he would stipulate: 'Do not invest my money in livestock, do not take it across the sea, and do not halt with it in a dry riverbed (Wadi). If you do any of these, you will be liable (Damin) for my money.' [Reported by Ad-Daraqutni, and its narrators are reliable]. Malik also reported in Al-Muwatta that the grandfather of Al-Ala' bin 'Abd-ur-Rahman worked with 'Uthman's (RA) money on the basis that the profit would be divided between them. It is Mauquf Sahih."
+      }
+    }
+  ]
+}

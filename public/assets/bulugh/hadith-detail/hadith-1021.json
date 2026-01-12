@@ -1,0 +1,259 @@
+{
+  "hadithId": 1021,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/29"],
+    "kitabId": 9,
+    "inKitabBab": 3,
+    "arabicBook": "بلوغ المرام",
+    "babId": 81
+  },
+ 
+  "takhreej": {
+    "arabic": " صحيح.‏ رواه مسلم (1670). وأصله في قصة خيبر الشهيرة.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے روایت کیا ہے۔ یہ واقعہ خیبر میں عبداللہ بن سہل رضی اللہ عنہ کے قتل سے متعلق ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (1670). Its origin lies in the famous story of the incident at Khaibar involving the murder of Abdullah bin Sahl (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَقَرَّ",
+      "english": "Approved / Established",
+      "urdu": "برقرار رکھا / منظور کیا"
+    },
+    {
+      "arabic": "الْقَسَامَةَ",
+      "english": "Collective Oaths",
+      "urdu": "قسامت (قسمیں کھانا)"
+    },
+    {
+      "arabic": "الْجَاهِلِيَّةِ",
+      "english": "Pre-Islamic era",
+      "urdu": "زمانہ جاہلیت"
+    },
+    {
+      "arabic": "قَتِيلٍ",
+      "english": "Slain person",
+      "urdu": "مقتول"
+    },
+    {
+      "arabic": "ادَّعَوْهُ",
+      "english": "Accused / Claimed",
+      "urdu": "دعویٰ کیا / الزام لگایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں 'قسامت' کے قانون کا ذکر ہے جس میں کسی مشتبہ قتل کی صورت میں مقتول کے وارث پچاس قسمیں کھا کر دیت کے حقدار بنتے ہیں۔",
+    "english": "This Hadith mentions the law of Al-Qasamah, where heirs of a murder victim take fifty oaths in cases of suspicious death to establish the right to blood money."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1670)",
+      "english": "Reported by Muslim (1670)"
+    },
+    {
+      "arabic": "أخرجه البخاري (6898)",
+      "english": "Reported by Al-Bukhari (6898)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "رجل من الأنصار",
+        "english": "A man from the Ansar"
+      },
+      "slug": "man-from-ansar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=XW9Vl8-F-O4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قسامت کی تعریف اور حکم",
+        "english": "Definition and Ruling of Qasamah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسامت کا مفہوم",
+              "english": "Concept of Qasamah"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی بستی میں مقتول ملے اور قاتل کا علم نہ ہو تو وہاں کے لوگ قسمیں کھاتے ہیں۔",
+                "مقتول کے پچاس قریبی رشتہ داروں سے پچاس قسمیں لی جاتی ہیں۔",
+                "یہ طریقہ کار زمانہ جاہلیت میں بھی رائج تھا جسے اسلام نے برقرار رکھا۔"
+              ],
+              "english": [
+                "If a body is found in a locality and the killer is unknown, locals take oaths.",
+                "Fifty close relatives of the deceased must take fifty collective oaths.",
+                "This procedure existed in the pre-Islamic era and was retained by Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی حیثیت",
+              "english": "Legal Status"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے جاہلیت کی ان رسموں کو برقرار رکھا جو انصاف کے مطابق تھیں۔",
+                "قسامت کا مقصد انسانی خون کو ضائع ہونے سے بچانا اور امن قائم کرنا ہے۔",
+                "نبی کریم ﷺ نے خود انصار اور یہودیوں کے معاملے میں اس کا فیصلہ فرمایا۔"
+              ],
+              "english": [
+                "Islam retained pre-Islamic customs that aligned with principles of justice.",
+                "The goal of Qasamah is to prevent bloodshed from going uncompensated.",
+                "The Prophet (ﷺ) personally applied this in a dispute between Ansar and Jews."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قانونِ قسامت کی حکمت",
+        "english": "Wisdom of the Law of Qasamah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خون کی حرمت کا تحفظ",
+              "english": "Protecting Sanctity of Blood"
+            },
+            "content": {
+              "urdu": [
+                "اگر قاتل نامعلوم رہے تو مقتول کا خون ضائع ہونے کا خدشہ ہوتا ہے۔",
+                "قسامت کے ذریعے بستی والوں کو ذمہ دار ٹھہرایا جاتا ہے تاکہ وہ احتیاط کریں۔",
+                "یہ قانون معاشرے میں قتل و غارت گری کی حوصلہ شکنی کرتا ہے۔"
+              ],
+              "english": [
+                "If a killer remains unknown, there's a risk of the blood going in vain.",
+                "Through Qasamah, locals are held responsible to ensure community safety.",
+                "This law serves as a major deterrent against mysterious murders in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کی فراہمی",
+              "english": "Provision of Justice"
+            },
+            "content": {
+              "urdu": [
+                "جب واضح گواہ نہ ہوں تو قسم کو بطور ثبوت استعمال کیا جاتا ہے۔",
+                "مقتول کے وارثوں کی تسلی کے لیے یہ ایک اہم قانونی راستہ ہے۔",
+                "اگر مدعا علیہ قسم کھا لیں تو وہ قتل کے الزام سے بری ہو جاتے ہیں۔"
+              ],
+              "english": [
+                "In the absence of clear witnesses, oaths are utilized as primary evidence.",
+                "This provides a legal pathway for the heirs of the deceased to seek closure.",
+                "If the defendants take the oaths, they are cleared of the murder charge."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات",
+        "english": "Juristic Details"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسموں کی تعداد اور طریقہ",
+              "english": "Number and Method of Oaths"
+            },
+            "content": {
+              "urdu": [
+                "قسامت میں پچاس قسمیں کھانا لازمی قرار دیا گیا ہے۔",
+                "اگر وارثوں کی تعداد کم ہو تو وہی لوگ بار بار قسمیں کھائیں گے۔",
+                "انصاف کے تقاضوں کو پورا کرنے کے لیے یہ تعداد مقرر کی گئی ہے۔"
+              ],
+              "english": [
+                "In Qasamah, taking fifty specific oaths is mandatory by Shariah.",
+                "If heirs are few in number, the same individuals repeat the oaths.",
+                "This specific number is set to fulfill the rigorous demands of justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیت کی ادائیگی",
+              "english": "Payment of Blood Money"
+            },
+            "content": {
+              "urdu": [
+                "قسموں کے بعد مقتول کے ورثاء دیت (خون بہا) کے حقدار بن جاتے ہیں۔",
+                "اگر فریقِ ثانی قسم کھا لے تو دیت ان پر لازم نہیں ہوتی۔",
+                "بعض حالات میں بیت المال (ریاست) سے بھی دیت ادا کی جاتی ہے۔"
+              ],
+              "english": [
+                "After the oaths, the heirs of the deceased become entitled to Diyyah.",
+                "If the opposing party takes the oaths, they are not liable for Diyyah.",
+                "In certain complex cases, Diyyah is paid from the state treasury."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی و اخلاقی اسباق",
+        "english": "Practical and Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسم کی اہمیت",
+              "english": "Importance of Oaths"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں اللہ کے نام پر قسم کھانا ایک بہت بڑی ذمہ داری ہے۔",
+                "جھوٹی قسم کھانا کبیرہ گناہ ہے جو انسان کو ہلاک کر دیتا ہے۔",
+                "قسامت کا نظام لوگوں کے مذہبی ضمیر کو بیدار کرنے پر مبنی ہے۔"
+              ],
+              "english": [
+                "Taking an oath in the name of Allah is a massive responsibility in Islam.",
+                "Swearing a false oath is a major sin that leads a person to destruction.",
+                "The system of Qasamah relies on awakening the religious conscience of people."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہر بستی کے لوگوں کو اپنے علاقے کے امن کا محافظ ہونا چاہیے۔",
+                "مشتبہ حالات میں خاموشی اختیار کرنا جرم کو شہہ دینے کے مترادف ہے۔",
+                "اسلامی قوانین معاشرے میں بھائی چارے اور عدل کو فروغ دیتے ہیں۔"
+              ],
+              "english": [
+                "People of every locality must act as guardians of their own area's peace.",
+                "Remaining silent in suspicious circumstances is like encouraging crime.",
+                "Islamic laws promote brotherhood and rigorous justice in the community."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

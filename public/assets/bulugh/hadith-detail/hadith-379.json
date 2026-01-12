@@ -1,0 +1,269 @@
+{
+  "hadithId": 379,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/2/379"],
+    "kitabId": 2,
+    "inKitabBab": 13,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 23
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (4129) ومسلم (842) واللفظ لمسلم، ورواه ابن منده في المعرفة عن صالح بن خوات عن أبيه.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (4129) اور امام مسلم (842) نے روایت کیا ہے، اور یہ الفاظ مسلم کے ہیں۔ ابن مندہ نے اسے صالح بن خوات کے والد کے واسطے سے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bukhari (4129) and Muslim (842). The wording is from Muslim's narration."
+  },
+  "importantWords": [
+    {
+      "arabic": "ذَاتِ اَلرِّقَاعِ",
+      "english": "Dhat-ur-Riqa' (Ghazwa)",
+      "urdu": "غزوہ ذات الرقاع"
+    },
+    {
+      "arabic": "صَلَاةَ اَلْخَوْفِ",
+      "english": "Fear Prayer",
+      "urdu": "صلوٰۃ خوف"
+    },
+    {
+      "arabic": "طَائِفَةً",
+      "english": "Group / Party",
+      "urdu": "گروہ / جماعت"
+    },
+    {
+      "arabic": "وِجَاهَ",
+      "english": "Facing / Opposite",
+      "urdu": "سامنے / روبرو"
+    },
+    {
+      "arabic": "ثَبَتَ قَائِمًا",
+      "english": "Remained standing",
+      "urdu": "کھڑے ثابت رہے"
+    },
+    {
+      "arabic": "أَتَمُّوا لِأَنْفُسِهِمْ",
+      "english": "Completed for themselves",
+      "urdu": "اپنی نماز خود مکمل کی"
+    },
+    {
+      "arabic": "اِنْصَرَفُوا",
+      "english": "They departed",
+      "urdu": "وہ لوٹ گئے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث صلوٰۃ خوف (جنگ کی حالت میں نماز) کا طریقہ بیان کرتی ہے جس میں امام دو گروہوں کو باری باری نماز پڑھاتا ہے تاکہ دشمن سے دفاع بھی برقرار رہے۔",
+    "english": "This Hadith details the method of Salat-ul-Khawf (Fear Prayer), where the Imam leads two groups sequentially to ensure defense against the enemy is maintained."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (4129)",
+      "english": "Reported by Al-Bukhari (4129)"
+    },
+    {
+      "arabic": "رواه مسلم (842)",
+      "english": "Reported by Muslim (842)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "خوات بن جبير الأنصاري",
+        "english": "Khawat bin Jubayr al-Ansari"
+      },
+      "slug": "khawat-bin-jubayr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYI9j0R_8-M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صلوٰۃ خوف کی مشروعیت",
+        "english": "Legality of Fear Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میدانِ جنگ میں نماز",
+              "english": "Prayer in Battlefield"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں میدانِ جنگ کے شدید خوف میں بھی نماز معاف نہیں ہے۔",
+                "اللہ تعالیٰ نے مومنین کو باجماعت نماز کی فضیلت سے محروم نہیں رکھا۔",
+                "صلوٰۃ خوف کا طریقہ کار قرآنی احکامات اور سنت سے ثابت ہے۔"
+              ],
+              "english": [
+                "In Islam, prayer is not excused even during intense battlefield fear.",
+                "Allah did not deprive believers of the virtue of congregational prayer.",
+                "The method of Salat-ul-Khawf is proven by the Quran and Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دفاع اور عبادت کا امتزاج",
+              "english": "Combination of Defense and Worship"
+            },
+            "content": {
+              "urdu": [
+                "یہ طریقہ کار عسکری دفاع اور روحانی بندگی کا حسین سنگم ہے۔",
+                "ایک گروہ عبادت کرتا ہے جبکہ دوسرا دشمن کی نگرانی کرتا ہے۔",
+                "اس سے مسلمانوں کی فوجی حکمت عملی اور ڈسپلن کا اظہار ہوتا ہے۔"
+              ],
+              "english": [
+                "This method is a beautiful blend of military defense and worship.",
+                "One group worships while the other guards against the enemy.",
+                "This demonstrates the military strategy and discipline of Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نماز کا عملی طریقہ",
+        "english": "Practical Method of Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہلے گروہ کی ترتیب",
+              "english": "Procedure for the First Group"
+            },
+            "content": {
+              "urdu": [
+                "امام پہلے گروہ کو ایک رکعت پڑھا کر قیام میں ٹھہر جاتا ہے۔",
+                "مقتدی اپنی بقیہ نماز تیزی سے خود مکمل کر کے محاذ پر چلے جاتے ہیں۔",
+                "یہ عمل امام کی اقتدا اور انفرادی تکمیل کا مجموعہ ہے۔"
+              ],
+              "english": [
+                "The Imam leads the first group in one Rak'ah and stays standing.",
+                "Followers finish their remaining prayer quickly and go to the front.",
+                "This action combines following the Imam and individual completion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دوسرے گروہ کی شمولیت",
+              "english": "Participation of the Second Group"
+            },
+            "content": {
+              "urdu": [
+                "دوسرا گروہ آکر امام کے ساتھ دوسری رکعت میں شامل ہوتا ہے۔",
+                "امام قعدہ میں بیٹھا رہتا ہے جبکہ مقتدی اپنی نماز پوری کرتے ہیں۔",
+                "آخر میں امام اور دوسرا گروہ ایک ساتھ سلام پھیرتے ہیں۔"
+              ],
+              "english": [
+                "The second group joins the Imam for the second Rak'ah.",
+                "The Imam remains sitting while the followers complete their units.",
+                "Finally, the Imam and the second group perform the Taslim together."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و عسکری فوائد",
+        "english": "Legal and Military Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جماعت کی اہمیت",
+              "english": "Importance of Congregation"
+            },
+            "content": {
+              "urdu": [
+                "صلوٰۃ خوف ثابت کرتی ہے کہ باجماعت نماز کس قدر اہم ہے۔",
+                "شدید خطرے میں بھی صحابہ نے اسے ترک کرنا گوارا نہیں کیا۔",
+                "یہ امت کے اتحاد اور ایک مرکز پر جمع ہونے کی علامت ہے۔"
+              ],
+              "english": [
+                "Fear Prayer proves how vital congregational prayer is in Islam.",
+                "Even in grave danger, the Sahaba did not tolerate missing it.",
+                "It symbolizes the unity of the Ummah around a single center."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکمتِ عملی اور احتیاط",
+              "english": "Strategy and Caution"
+            },
+            "content": {
+              "urdu": [
+                "اسلام دشمن کے سامنے غافل ہونے کی اجازت نہیں دیتا۔",
+                "عبادت کے دوران بھی ہتھیار ساتھ رکھنا اور چوکنا رہنا سنت ہے۔",
+                "یہ حدیث مسلمانوں کو ہر وقت مستعد رہنے کی تربیت دیتی ہے۔"
+              ],
+              "english": [
+                "Islam does not permit being heedless in front of the enemy.",
+                "Keeping weapons and staying alert during worship is Sunnah.",
+                "This Hadith trains Muslims to remain prepared at all times."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "واقعاتی پس منظر",
+        "english": "Contextual Background"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذات الرقاع کا واقعہ",
+              "english": "Event of Dhat-ur-Riqa'"
+            },
+            "content": {
+              "urdu": [
+                "یہ غزوہ نجد کے قبائل کے خلاف 4 ہجری میں پیش آیا تھا۔",
+                "اسے ذات الرقاع اس لیے کہتے ہیں کیونکہ پاؤں پر چیتھڑے باندھے گئے تھے۔",
+                "اس سفر میں مشقت کے باوجود عبادات کا خاص اہتمام کیا گیا۔"
+              ],
+              "english": [
+                "This battle took place in 4 AH against the tribes of Najd.",
+                "It's called Dhat-ur-Riqa' because rags were tied around the feet.",
+                "Despite hardships on this journey, worship was strictly maintained."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "راوی کی تحقیق",
+              "english": "Narrator Investigation"
+            },
+            "content": {
+              "urdu": [
+                "صالح بن خوات نے اپنے والد یا کسی صحابی سے یہ روایت لی ہے۔",
+                "یہ روایت صلوٰۃ خوف کے باب میں سب سے مستند مانی جاتی ہے۔",
+                "ائمہ حدیث نے اس کے مختلف طرق کو کتبِ صحاح میں جگہ دی ہے۔"
+              ],
+              "english": [
+                "Salih bin Khawat took this from his father or a companion.",
+                "This narration is considered the most authentic regarding Fear Prayer.",
+                "Imams of Hadith included its various chains in the Sahih books."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

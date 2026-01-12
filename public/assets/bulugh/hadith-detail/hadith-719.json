@@ -1,0 +1,256 @@
+{
+  "hadithId": 719,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:2240"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب البيوع",
+    "babId": 46
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2239، 2240)، ومسلم (1604).",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (2239) اور مسلم (1604) کی متفقہ روایت ہے۔ امام بخاری نے اسے 'باب السلم' میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2239, 2240) and Muslim (1604). It is a Muttafaqun Alayh (agreed upon) Hadith."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُسْلِفُونَ",
+      "english": "Paying in advance",
+      "urdu": "پیشگی ادائیگی کرتے تھے"
+    },
+    {
+      "arabic": "كَيْلٍ مَعْلُومٍ",
+      "english": "Specified measure",
+      "urdu": "معلوم ناپ / پیمانہ"
+    },
+    {
+      "arabic": "وَزْنٍ مَعْلُومٍ",
+      "english": "Specified weight",
+      "urdu": "معلوم وزن"
+    },
+    {
+      "arabic": "أَجَلٍ مَعْلُومٍ",
+      "english": "Specified period",
+      "urdu": "معلوم مدت / مقررہ وقت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں 'بیعِ سلم' (پیشگی ادائیگی والا سودا) کے جواز اور اس کی شرائط بیان کی گئی ہیں تاکہ لین دین میں ابہام نہ رہے اور جھگڑوں کا سدِ باب ہو سکے۔",
+    "english": "This Hadith validates 'Bay' al-Salam' (forward sale) and outlines its conditions—specified quantity, weight, and delivery time—to eliminate ambiguity and disputes."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2239)",
+      "english": "Sahih al-Bukhari (2239)"
+    },
+    {
+      "arabic": "صحيح مسلم (1604)",
+      "english": "Sahih Muslim (1604)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیعِ سلم کی حقیقت",
+        "english": "The Reality of Bay' al-Salam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تعریف اور جواز",
+              "english": "Definition and Validity"
+            },
+            "content": {
+              "urdu": [
+                "بیعِ سلم وہ سودا ہے جس میں قیمت نقد ادا کی جاتی ہے مگر سامان بعد میں وصول کیا جاتا ہے۔",
+                "اسلام نے اس طریقے کو کسانوں اور چھوٹے تاجروں کی معاشی ضرورت کے پیشِ نظر جائز قرار دیا ہے۔",
+                "یہ عام اصول 'جو چیز پاس نہ ہو اسے نہ بیچو' سے ایک شرعی استثناء (رخصت) ہے۔"
+              ],
+              "english": [
+                "Bay' al-Salam is a contract where the price is paid in advance for goods to be delivered later.",
+                "Islam permitted this to help farmers and small traders manage their liquidity needs.",
+                "It is a legal exception to the general rule: 'Do not sell what you do not possess'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشی فائدہ",
+              "english": "Economic Benefit"
+            },
+            "content": {
+              "urdu": [
+                "اس سے کسانوں کو فصل کی تیاری کے لیے سرمایہ مل جاتا ہے۔",
+                "خریدار کو سامان عام مارکیٹ ریٹ سے کچھ سستا مل جاتا ہے کیونکہ وہ نقد ادائیگی کرتا ہے۔",
+                "یہ طریقہ بازار میں سرمایہ کاری اور پیداوار کو بڑھانے کا ایک حلال ذریعہ ہے۔"
+              ],
+              "english": [
+                "It provides farmers with capital to prepare their crops.",
+                "Buyers often get the goods at a lower rate because of the advance payment.",
+                "This method is a Halal way to increase investment and production in the market."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سلم کی لازمی شرائط",
+        "english": "Essential Conditions of Salam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقدار کا تعین",
+              "english": "Determination of Quantity"
+            },
+            "content": {
+              "urdu": [
+                "سامان کا ناپ (کیل) یا وزن بالکل واضح ہونا ضروری ہے تاکہ 'جہالت' نہ رہے۔",
+                "محض اندازے یا ڈھیر کی بنیاد پر یہ سودا نہیں کیا جا سکتا۔",
+                "وضاحت فریقین کے درمیان مستقبل میں ہونے والے جھگڑوں کو ختم کرتی ہے۔"
+              ],
+              "english": [
+                "The measure or weight of the goods must be clearly specified to avoid uncertainty.",
+                "This deal cannot be made based on mere estimation or heaps of unknown volume.",
+                "Clarity eliminates future disputes between the buyer and the seller."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کا تعین",
+              "english": "Determination of Time"
+            },
+            "content": {
+              "urdu": [
+                "سامان کی حوالگی کی تاریخ یا مدت (مثلاً فصل کٹنے پر) مقرر ہونی چاہیے۔",
+                "اگر وقت مقرر نہ ہو تو سودا غیر یقینی (غرر) کی وجہ سے فاسد ہو جائے گا۔",
+                "مدت ایسی ہونی چاہیے جس میں سامان کی فراہمی ممکن ہو۔"
+              ],
+              "english": [
+                "The date or period for delivery (e.g., harvest time) must be fixed.",
+                "If the time is not specified, the deal becomes void due to excessive risk (Gharar).",
+                "The duration must be realistic enough for the goods to be provided."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیمت کی فوری ادائیگی",
+              "english": "Immediate Payment of Price"
+            },
+            "content": {
+              "urdu": [
+                "بیعِ سلم کے درست ہونے کے لیے مجلسِ عقد میں پوری قیمت کی ادائیگی شرط ہے۔",
+                "اگر قیمت بھی ادھار ہو، تو یہ 'قرض کے بدلے قرض' (کالی بالکالی) بن جائے گا جو حرام ہے۔",
+                "نقد ادائیگی ہی اس سودے کو اس کی قانونی حیثیت فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "Full payment of the price at the time of the contract is a condition for validity.",
+                "If the price is also deferred, it becomes 'debt for debt' (Kali bi al-Kali), which is prohibited.",
+                "Advance payment is what gives this transaction its legal standing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سامان کی صفات",
+              "english": "Attributes of the Commodity"
+            },
+            "content": {
+              "urdu": [
+                "سامان ایسی چیز ہو جس کی صفات (کوالٹی، قسم) طے کی جا سکیں۔",
+                "منفر د اشیاء (جیسے قیمتی پتھر) جن کی مثل مارکیٹ میں نہ ہو، ان میں سلم درست نہیں۔",
+                "اناج، تیل، کپاس وغیرہ جیسی اشیاء میں سلم بہترین طریقے سے کام کرتا ہے۔"
+              ],
+              "english": [
+                "The goods must be generic items whose attributes (quality, type) can be standardized.",
+                "Unique items (like specific precious stones) that have no equivalent are not eligible for Salam.",
+                "Commodities like grain, oil, and cotton are ideal for Salam contracts."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اطلاق",
+        "english": "Modern Day Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فیکٹری آرڈرز اور آن لائن بیع",
+              "english": "Factory Orders and Online Sales"
+            },
+            "content": {
+              "urdu": [
+                "کمپنیوں کو ایڈوانس رقم دے کر مال تیار کروانا (استصناع یا سلم) اسی اصول پر مبنی ہے۔",
+                "آن لائن شاپنگ میں اگر نقد پیسے دے دیے جائیں تو سامان کی تفصیلات کا واضح ہونا ضروری ہے۔",
+                "جدید زرعی معیشت میں 'کونٹریکٹ فارمنگ' کی بنیادیں اسی حدیث میں ملتی ہیں۔"
+              ],
+              "english": [
+                "Ordering goods from factories with advance payments (Istisna or Salam) follows this logic.",
+                "In online shopping with advance payments, clear product specifications are mandatory.",
+                "The foundations of 'Contract Farming' in modern agriculture are found in this Hadith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی فکر",
+              "english": "Focus on Halal Provision"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے معاشی تنگی کا حل 'سود' کے بجائے 'سلم' جیسی شفاف صورتوں میں رکھا ہے۔",
+                "سودے میں ہر قسم کی الجھن کو دور کرنا برکت اور باہمی محبت کا باعث ہے۔",
+                "مسلمان تاجر کو چاہیے کہ وہ اپنی دستاویزات میں ناپ، تول اور وقت کو تحریر میں لائے۔"
+              ],
+              "english": [
+                "Islam solves economic liquidity issues through transparent methods like Salam instead of Usury.",
+                "Removing ambiguity from deals brings blessings and fosters mutual goodwill.",
+                "A Muslim merchant should document measurements, weight, and timing in writing."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

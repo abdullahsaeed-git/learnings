@@ -1,0 +1,259 @@
+{
+  "hadithId": 452,
+  "hadithNo": 28,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/28", "muslim/973", "nasai/1912"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (973)، وأبو داود (3189)، والنسائي (1912)، وابن ماجه (1519).",
+    "urdu": "صحیح۔ اسے امام مسلم نے اپنی صحیح (973) میں روایت کیا ہے۔ اس کے علاوہ سنن اربعہ میں بھی یہ روایت موجود ہے جو مسجد میں جنازہ پڑھنے کے جواز پر دلالت کرتی ہے۔",
+    "english": "Sahih. Reported by Muslim (973), Abu Dawud (3189), An-Nasa'i (1912), and Ibn Majah (1519)."
+  },
+  "importantWords": [
+    {
+      "arabic": "صَلَّى",
+      "english": "Offered prayer",
+      "urdu": "نماز ادا کی"
+    },
+    {
+      "arabic": "بَيْضَاءَ",
+      "english": "Baida' (Proper Name)",
+      "urdu": "بیضاء (نام)"
+    },
+    {
+      "arabic": "اَلْمَسْجِدِ",
+      "english": "The Mosque",
+      "urdu": "مسجد"
+    },
+    {
+      "arabic": "جَنَازَة",
+      "english": "Funeral",
+      "urdu": "جنازہ"
+    },
+    {
+      "arabic": "لَقَدْ",
+      "english": "Certainly",
+      "urdu": "یقیناً"
+    }
+  ],
+  "summary": {
+    "urdu": "مسجد میں نمازِ جنازہ پڑھنا شرعاً جائز اور درست ہے، جیسا کہ نبی کریم ﷺ کے عمل سے ثابت ہے۔",
+    "english": "It is religiously permissible to perform the funeral prayer inside the mosque, as established by the practice of the Prophet (ﷺ)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 973",
+      "english": "Sahih Muslim, The Book of Funerals, Hadith 973"
+    },
+    {
+      "arabic": "سنن النسائي، كتاب الجنائز، رقم 1912",
+      "english": "Sunan an-Nasa'i, The Book of Funerals, Hadith 1912"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_S6pXf2T8E",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد میں جنازہ پڑھنے کا جواز",
+        "english": "Permissibility of Funerals in the Mosque"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ نبوی سے ثبوت",
+              "english": "Evidence from Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رض نے قسم کھا کر واضح کیا کہ آپ ﷺ نے بیضاء کے بیٹوں کا جنازہ مسجد میں پڑھایا تھا۔",
+                "یہ اس بات کی دلیل ہے کہ مسجد کو نمازِ جنازہ کے لیے استعمال کرنا شرعاً منع نہیں ہے۔",
+                "امام شافعی، احمد اور اسحاق رحمہ اللہ کے نزدیک مسجد میں جنازہ پڑھنا مکمل طور پر جائز ہے۔"
+              ],
+              "english": [
+                "Aishah (RA) swore an oath to clarify that the Prophet (ﷺ) led the funeral in the mosque.",
+                "This serves as evidence that using the mosque for funeral prayers is not religiously prohibited.",
+                "According to Imams Shafi'i, Ahmad, and Ishaq, performing funerals in the mosque is fully permissible."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اختلافِ فقہاء اور راجح قول",
+              "english": "Juristic Difference and Preferred View"
+            },
+            "content": {
+              "urdu": [
+                "کچھ فقہاء اسے مکروہ سمجھتے تھے لیکن صحیح احادیث کی موجودگی میں جواز کا قول ہی قوی ہے۔",
+                "مسجد کی صفائی اور احترام کو برقرار رکھتے ہوئے وہاں جنازہ پڑھنے میں کوئی حرج نہیں ہے۔",
+                "سیدنا ابوبکر اور عمر رضی اللہ عنہما کے جنازے بھی مسجد نبوی ہی میں پڑھائے گئے تھے۔"
+              ],
+              "english": [
+                "Some jurists considered it disliked, but the view of permissibility is stronger due to Sahih Hadiths.",
+                "There is no harm in praying there as long as the cleanliness and sanctity of the mosque are maintained.",
+                "The funeral prayers for Abu Bakr and Umar (RA) were also performed in the Prophet's Mosque."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسجد کے آداب اور جنازہ",
+        "english": "Mosque Etiquettes and Funerals"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صفائی اور نفاست کا خیال",
+              "english": "Maintaining Cleanliness"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں جنازہ لاتے وقت اس بات کا اطمینان کر لینا چاہیے کہ میت سے گندگی نہ نکلے۔",
+                "مسجد کو ہر قسم کی نجاست سے پاک رکھنا واجب ہے، چاہے وہ جنازے کے دوران ہی کیوں نہ ہو۔",
+                "اگر نجاست کا خطرہ ہو تو پھر جنازہ مسجد سے باہر پڑھنا زیادہ بہتر اور محتاط طریقہ ہے۔"
+              ],
+              "english": [
+                "When bringing a body into the mosque, one must ensure that no impurities leak from it.",
+                "It is obligatory to keep the mosque free from all filth, even during a funeral.",
+                "If there is a risk of impurity, then performing the funeral outside the mosque is better and safer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لوگوں کے لیے آسانی",
+              "english": "Convenience for the People"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں جنازہ پڑھنے سے کثیر تعداد میں لوگ شریک ہو سکتے ہیں جو میت کے لیے باعثِ رحمت ہے۔",
+                "یہ طریقہ کار خاص طور پر اس وقت مفید ہے جب باہر گرمی، بارش یا جگہ کی کمی ہو۔",
+                "اسلامی شریعت ہمیشہ مسلمانوں کے لیے آسانی اور سہولت پیدا کرنے کو ترجیح دیتی ہے۔"
+              ],
+              "english": [
+                "Performing funerals in the mosque allows a large congregation to join, benefiting the deceased.",
+                "This method is particularly useful during extreme heat, rain, or a lack of outdoor space.",
+                "Islamic Sharia always prioritizes creating ease and convenience for the Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیدہ عائشہ رض کا علمی مقام",
+        "english": "The Scholarly Status of Aishah (RA)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غلط فہمیوں کا ازالہ",
+              "english": "Correction of Misconceptions"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رض نے جب دیکھا کہ لوگ مسجد میں جنازے پر اعتراض کر رہے ہیں تو انہوں نے اس کی تصحیح فرمائی۔",
+                "وہ سنتِ نبوی کے باریک پہلوؤں سے واقف تھیں اور اسے لوگوں تک پہنچانے میں کبھی سستی نہیں کی۔",
+                "ان کا یہ حلفیہ بیان اس مسئلے میں ایک حتمی شرعی نص کی حیثیت رکھتا ہے۔"
+              ],
+              "english": [
+                "When Aishah (RA) saw people objecting to funerals in the mosque, she corrected them.",
+                "She was well-aware of the subtle aspects of the Sunnah and never hesitated to convey them.",
+                "Her sworn testimony serves as a definitive legal text regarding this specific issue."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دینی مسائل میں عورتوں کی گواہی",
+              "english": "Women's Testimony in Religious Matters"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ثابت کرتی ہے کہ دینی مسائل میں امہات المؤمنین کی گواہی مستند اور قابلِ قبول ہے۔",
+                "صحابہ کرام مشکل مسائل میں سیدہ عائشہ رض کی طرف رجوع کیا کرتے تھے۔",
+                "علم کی ترویج میں خواتین کا کردار اسلامی تاریخ کا ایک روشن باب ہے۔"
+              ],
+              "english": [
+                "This Hadith proves that the testimony of the Mothers of the Believers is authentic and acceptable.",
+                "The Companions used to refer to Aishah (RA) regarding difficult and complex issues.",
+                "The role of women in the propagation of knowledge is a bright chapter in Islamic history."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کی پیروی کی اہمیت",
+              "english": "Importance of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے اعمال کی بنیاد سنی سنائی باتوں کے بجائے مستند احادیث پر رکھنی چاہیے۔",
+                "سنت پر عمل کرنا ہی اصل دین ہے، چاہے وہ لوگوں کے مروجہ خیالات کے خلاف ہو۔",
+                "علم حاصل کرنے کے بعد اسے دوسروں تک دیانتداری سے پہنچانا ہم سب کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "We should base our actions on authentic Hadiths rather than hearsay or common myths.",
+                "Following the Sunnah is the core of religion, even if it contradicts prevailing public opinions.",
+                "It is our responsibility to honestly convey knowledge to others after acquiring it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسجد کا مرکز ہونا",
+              "english": "The Mosque as a Center"
+            },
+            "content": {
+              "urdu": [
+                "مسجد صرف نمازِ پنجگانہ کے لیے نہیں بلکہ مسلمانوں کی تمام دینی ضرورتوں کا مرکز ہے۔",
+                "جنازے جیسے اہم سماجی اور دینی کام مسجد کے سائے میں انجام پانا اتحاد کی علامت ہے۔",
+                "ہمیں اپنی مساجد کو زندہ اور فعال رکھنا چاہیے جیسا کہ عہدِ نبوی میں تھا۔"
+              ],
+              "english": [
+                "The mosque is not just for the five prayers but a center for all religious needs of Muslims.",
+                "Performing significant acts like funerals under the mosque's shadow is a sign of unity.",
+                "We must keep our mosques vibrant and active, just as they were during the Prophetic era."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

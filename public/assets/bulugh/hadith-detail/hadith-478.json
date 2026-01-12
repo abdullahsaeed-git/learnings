@@ -1,0 +1,259 @@
+{
+  "hadithId": 478,
+  "hadithNo": 54,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/54"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه ابن ماجه (1521)، وأصله في صحيح مسلم (943). والمراد بالزجر هنا ليس التحريم المطلق بل الكراهة عند خوف التقصير في غسله أو كفنه أو قلة المصلين عليه.",
+    "urdu": "صحیح۔ اسے ابن ماجہ (1521) نے روایت کیا اور اس کی اصل صحیح مسلم (943) میں ہے۔ یہاں رات کو دفن کرنے سے ممانعت تحریمی نہیں بلکہ کراہت پر مبنی ہے، تاکہ غسل، کفن یا نمازِ جنازہ میں کمی نہ رہ جائے۔",
+    "english": "Sahih. Reported by Ibn Majah (1521), and its origin is in Sahih Muslim (943). The prohibition here implies dislike (Karahah) rather than total forbiddenness, to ensure proper washing, shrouding, and a larger congregation for prayer."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَدْفِنُوا",
+      "english": "Do not bury",
+      "urdu": "تم دفن نہ کرو"
+    },
+    {
+      "arabic": "تُضْطَرُّوا",
+      "english": "You are forced",
+      "urdu": "تم مجبور ہو جاؤ"
+    },
+    {
+      "arabic": "زَجَرَ",
+      "english": "Rebuked / Discouraged",
+      "urdu": "ڈانٹا / منع فرمایا"
+    },
+    {
+      "arabic": "يُقْبَرَ",
+      "english": "To be buried",
+      "urdu": "قبر میں اتارا جائے"
+    },
+    {
+      "arabic": "بِاللَّيْلِ",
+      "english": "At night",
+      "urdu": "رات کے وقت"
+    }
+  ],
+  "summary": {
+    "urdu": "رات کے وقت تدفین ناپسندیدہ ہے تاکہ میت کے حقوق (غسل، کفن، جنازہ) بہتر طور پر ادا ہوں، البتہ ضرورت کے تحت رات میں دفن کرنا جائز ہے۔",
+    "english": "Night burial is discouraged to ensure the rights of the deceased (washing, shrouding, prayer) are fully met, though it is permissible if necessary."
+  },
+  "references": [
+    {
+      "arabic": "سنن ابن ماجه، كتاب الجنائز، رقم 1521",
+      "english": "Sunan Ibn Majah, Book of Funerals, Hadith 1521"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 943",
+      "english": "Sahih Muslim, Book of Funerals, Hadith 943"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=SREkR5YtOsk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رات میں تدفین کی ممانعت کی وجوہات",
+        "english": "Reasons for Restricting Night Burials"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تجہیز و تکفین میں کمی کا خدشہ",
+              "english": "Risk of Inadequate Shrouding"
+            },
+            "content": {
+              "urdu": [
+                "رات کی تاریکی میں میت کو غسل دینے اور کفن پہنانے میں کوتاہی کا احتمال ہوتا ہے۔",
+                "مسلم کی روایت کے مطابق ایک صحابی کو رات میں ناقص کفن کے ساتھ دفن کیا گیا تھا۔",
+                "آپ ﷺ نے اس لیے منع فرمایا تاکہ میت کو بہترین اور مسنون طریقے سے رخصت کیا جائے۔"
+              ],
+              "english": [
+                "In the darkness of night, there is a risk of negligence in washing and shrouding the deceased.",
+                "According to Muslim, a companion was buried at night with an insufficient shroud.",
+                "The Prophet (ﷺ) forbade it to ensure the deceased is sent off in the best Sunnah manner."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نمازِ جنازہ میں حاضری",
+              "english": "Attendance at Funeral Prayer"
+            },
+            "content": {
+              "urdu": [
+                "رات کے وقت لوگ آرام کر رہے ہوتے ہیں، جس سے جنازے میں شرکت کم ہو جاتی ہے۔",
+                "دن کے وقت زیادہ لوگ جمع ہو سکتے ہیں، جو میت کے لیے مغفرت کی سفارش کا باعث ہے۔",
+                "زیادہ نمازیوں کا ہونا میت کے حق میں اللہ کی رحمت کو متوجہ کرنے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "People are resting at night, which leads to a smaller congregation for the funeral prayer.",
+                "More people can gather during the day, serving as intercessors for the deceased's forgiveness.",
+                "A larger number of worshipers is a means of attracting Allah's mercy for the deceased."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جواز اور استثنائی صورتیں",
+        "english": "Permissibility and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضرورت کے وقت تدفین",
+              "english": "Burial in Case of Necessity"
+            },
+            "content": {
+              "urdu": [
+                "اگر میت کے جسم کے خراب ہونے کا ڈر ہو، تو رات میں دفن کرنا بلا کراہت جائز ہے۔",
+                "حدیث میں 'إلا أن تضطروا' (مگر یہ کہ تم مجبور ہو) کے الفاظ اس جواز کو واضح کرتے ہیں۔",
+                "جدید دور میں روشنی کے انتظامات بہتر ہونے سے بعض وجوہات کی شدت کم ہو گئی ہے۔"
+              ],
+              "english": [
+                "If there is a fear of the body decomposing, night burial is permissible without dislike.",
+                "The phrase 'unless you are forced' in the Hadith clarifies this exception.",
+                "In modern times, improved lighting has reduced the intensity of some of these concerns."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ اور نبی ﷺ کا عمل",
+              "english": "Practice of the Sahaba and the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کو خود رات کے وقت دفنایا گیا تھا، جو اس کے جواز کی بڑی دلیل ہے۔",
+                "سیدنا ابوبکر صدیق، سیدہ فاطمہ اور سیدنا عثمان رضی اللہ عنہم بھی رات ہی کو دفن ہوئے تھے۔",
+                "اس سے ثابت ہوتا ہے کہ ممانعت صرف اس وقت ہے جب میت کے حقوق پامال ہونے کا ڈر ہو۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) himself was buried at night, which is a major proof of its permissibility.",
+                "Abu Bakr, Fatimah, and 'Uthman (RA) were also buried during the night hours.",
+                "This proves that the discouragement only applies when the deceased's rights are at risk."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "میت کے حقوق کی پاسداری",
+        "english": "Upholding the Rights of the Deceased"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تکریمِ میت",
+              "english": "Honoring the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے مرنے کے بعد بھی انسان کو وہ عزت دی ہے جو اس کی زندگی میں تھی۔",
+                "جلدی میں ناقص انتظام کر کے دفنا دینا میت کی توہین کے زمرے میں آتا ہے۔",
+                "اچھی طرح غسل، کفن اور مکمل نمازِ جنازہ میت کا آخری حق ہے جو ورثاء پر لازم ہے۔"
+              ],
+              "english": [
+                "Islam grants humans the same honor after death as they possessed during their lifetime.",
+                "Burying with inadequate arrangements in haste is considered disrespectful to the deceased.",
+                "Proper washing, shrouding, and a complete funeral prayer are the final rights of the dead."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی تعلیم",
+              "english": "Instruction in Discipline"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مسلمانوں کو جنازے کے معاملات میں نظم و ضبط اور منصوبہ بندی سکھاتی ہے۔",
+                "جذبات میں آ کر سنت کے خلاف کام کرنے سے گریز کرنا ایمان کا تقاضا ہے۔",
+                "تعلیمی اور انتظامی پہلوؤں کو مدنظر رکھ کر ہی سنت پر صحیح عمل ممکن ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches Muslims discipline and planning in funeral-related matters.",
+                "Avoiding actions contrary to the Sunnah due to emotions is a requirement of faith.",
+                "Correct adherence to the Sunnah is only possible by considering educational aspects."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مناسب وقت کا انتخاب",
+              "english": "Choosing an Appropriate Time"
+            },
+            "content": {
+              "urdu": [
+                "کوشش کرنی چاہیے کہ جنازہ ایسے وقت ہو جب زیادہ سے زیادہ لوگ شریک ہو سکیں۔",
+                "اگر رات میں دفنانا پڑے تو روشنی، غسل اور کفن کا بہترین انتظام یقینی بنائیں۔",
+                "سنت پر عمل کرنے سے میت کے لیے برکات اور پسماندگان کے لیے سکون حاصل ہوتا ہے۔"
+              ],
+              "english": [
+                "Efforts should be made to hold the funeral at a time when the maximum congregation can attend.",
+                "If burying at night is necessary, ensure excellent arrangements for lighting, washing, and shrouding.",
+                "Acting on the Sunnah brings blessings for the dead and tranquility for the bereaved."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غفلت سے بچاؤ",
+              "english": "Avoiding Negligence"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی صورت میں میت کو اکیلے یا بغیر نمازِ جنازہ کے دفن نہیں کرنا چاہیے۔",
+                "ورثاء کو چاہیے کہ وہ اپنی آسانی کے بجائے سنت کے معیار کو ترجیح دیں۔",
+                "موت کے آداب کو سیکھنا ہر مسلمان کے لیے ضروری ہے تاکہ وہ شرعی غلطیوں سے بچ سکے۔"
+              ],
+              "english": [
+                "Under no circumstances should the deceased be buried alone or without a funeral prayer.",
+                "The heirs should prioritize the standards of the Sunnah over their own personal convenience.",
+                "Learning funeral etiquettes is essential for every Muslim to avoid religious mistakes."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

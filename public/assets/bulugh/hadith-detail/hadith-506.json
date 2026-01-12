@@ -1,0 +1,268 @@
+{
+  "hadithId": 506,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/506"],
+    "kitabId": 4,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 30
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح البخاري (1508)، صحيح مسلم (985). ورواية الأقط عند البخاري (1506). ورواية أبي داود برقم (1618).",
+    "urdu": "یہ حدیث صحیح ہے، اسے بخاری (1508) اور مسلم (985) نے روایت کیا ہے۔ پنیر کا ذکر بخاری (1506) میں ہے، اور ابوداؤد والی روایت (1618) میں ہے۔",
+    "english": "Sahih Al-Bukhari (1508) and Sahih Muslim (985). The mention of Aaqit (cheese) is in Bukhari (1506), and the narration of Abu Dawud is under (1618)."
+  },
+  "importantWords": [
+    {
+      "arabic": "طَعَامٍ",
+      "english": "Food/Grain",
+      "urdu": "غلہ / کھانا"
+    },
+    {
+      "arabic": "زَبِيبٍ",
+      "english": "Raisins",
+      "urdu": "کشمش / منقیٰ"
+    },
+    {
+      "arabic": "أَقِطٍ",
+      "english": "Cottage Cheese",
+      "urdu": "خشک پنیر"
+    },
+    {
+      "arabic": "زَمَانِ",
+      "english": "Time/Era",
+      "urdu": "زمانہ / وقت"
+    },
+    {
+      "arabic": "أَبَدًا",
+      "english": "Forever",
+      "urdu": "ہمیشہ"
+    },
+    {
+      "arabic": "نُعْطِيهَا",
+      "english": "We give it",
+      "urdu": "ہم اسے دیتے تھے"
+    }
+  ],
+  "summary": {
+    "urdu": "سیدنا ابوسعید خدری رضی اللہ عنہ کی اس روایت سے معلوم ہوتا ہے کہ فطرانے کی مقدار ایک صاع مقرر ہے اور اسے مختلف قسم کے غلے اور اشیائے خوردونوش سے ادا کیا جا سکتا ہے۔",
+    "english": "The narration of Abu Sa'id al-Khudri (RA) establishes that the amount for Zakat-ul-Fitr is fixed at one Sa' and can be paid through various types of grains and staples."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1508)",
+      "english": "Sahih al-Bukhari (1508)"
+    },
+    {
+      "arabic": "صحيح مسلم (985)",
+      "english": "Sahih Muslim (985)"
+    },
+    {
+      "arabic": "سنن أبي داود (1618)",
+      "english": "Sunan Abi Dawud (1618)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري رضي الله عنه",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A_0uX2J9Sj8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فطرانے کی اقسام",
+        "english": "Types of Food for Fitrana"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف اشیاء کا استعمال",
+              "english": "Use of different commodities"
+            },
+            "content": {
+              "urdu": [
+                "عہدِ نبوی میں کھجور، جو، کشمش اور پنیر سے فطرانہ دیا جاتا تھا۔",
+                "یہ اشیاء اس دور کی بنیادی اور عام خوراک تھیں۔",
+                "اس سے معلوم ہوتا ہے کہ ہر علاقے کی اپنی عام خوراک سے فطرانہ دیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "During the Prophet's era, Fitrana was given in dates, barley, raisins, and cheese.",
+                "These items were the basic and common food staples of that time.",
+                "This indicates that Fitrana can be given from the common food of any region."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پنیر اور دیگر اشیاء",
+              "english": "Cheese and other items"
+            },
+            "content": {
+              "urdu": [
+                "روایت میں پنیر (اقط) کا ذکر خاص اہمیت رکھتا ہے۔",
+                "یہ اس بات کی دلیل ہے کہ صرف غلہ ہی نہیں بلکہ دیگر غذائی اشیاء بھی دی جا سکتی ہیں۔",
+                "مقصد غریبوں کی عید کے دن غذائی ضرورت کو پورا کرنا ہے۔"
+              ],
+              "english": [
+                "The mention of cottage cheese (Aaqit) in the narration is significant.",
+                "It proves that not only grains but other nutritional items can also be given.",
+                "The objective is to fulfill the nutritional needs of the poor on Eid day."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مقدار کا تعین",
+        "english": "Determination of Quantity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایک صاع کی پابندی",
+              "english": "Adherence to one Sa'"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوسعید خدری رضی اللہ عنہ تمام اشیاء میں ایک صاع دینے پر اصرار کرتے تھے۔",
+                "وہ نصف صاع (گندم کے معاملے میں) کے مقابلے میں ایک صاع کو ہی ترجیح دیتے تھے۔",
+                "یہ سنت پر سختی سے عمل پیرا ہونے کی بہترین مثال ہے۔"
+              ],
+              "english": [
+                "Abu Sa'id al-Khudri (RA) insisted on giving one Sa' for all types of items.",
+                "He preferred the full Sa' even when some suggested half a Sa' for wheat.",
+                "This is a prime example of strict adherence to the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صاع کی شرعی حیثیت",
+              "english": "Legal Status of Sa'"
+            },
+            "content": {
+              "urdu": [
+                "صاع ایک نبوی پیمانہ ہے جو وزن کے بجائے حجم (برتن) پر مبنی ہے۔",
+                "جدید اوزان میں یہ تقریبا ڈھائی سے تین کلو کے درمیان بنتا ہے۔",
+                "احتیاطا تھوڑی زیادہ مقدار نکالنا بہتر ہے تاکہ صاع کی کمی پوری ہو جائے۔"
+              ],
+              "english": [
+                "The Sa' is a prophetic measure based on volume rather than weight.",
+                "In modern weights, it is approximately between 2.5 to 3 kilograms.",
+                "As a precaution, giving slightly more is better to ensure the Sa' is complete."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحابہ کا عمل",
+        "english": "Practice of the Companions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا جذبہ",
+              "english": "Spirit of following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام عادات و عبادات میں نبی ﷺ کے طریقے کو بعینہ اپناتے تھے۔",
+                "ابوسعید خدری کا یہ کہنا کہ 'میں ہمیشہ وہی نکالوں گا' اسی محبت کی عکاسی ہے۔",
+                "دین میں اپنی طرف سے تبدیلی کے بجائے سنت کو مقدم رکھنا ضروری ہے۔"
+              ],
+              "english": [
+                "The Companions adopted the Prophet's (ﷺ) way exactly in habits and worship.",
+                "Abu Sa'id's statement 'I will always give the same' reflects this love.",
+                "It is essential to prioritize Sunnah over personal innovation in religion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتہادی اختلافات",
+              "english": "Ijtihad-based Differences"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کے درمیان بعض فقہی مسائل میں اجتہادی اختلاف پایا جاتا تھا۔",
+                "بعض نے گندم میں نصف صاع کو کافی سمجھا مگر ابوسعید نے مخالفت کی۔",
+                "یہ اختلاف امت کے لیے رحمت اور علمی گہرائی کا سبب ہے۔"
+              ],
+              "english": [
+                "There were Ijtihad-based differences among Companions on some rulings.",
+                "Some considered half a Sa' sufficient for wheat, but Abu Sa'id disagreed.",
+                "This difference is a mercy and a source of intellectual depth for the Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Application in Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہترین خوراک کا انتخاب",
+              "english": "Selecting the Best Food"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں فطرانے میں وہ چیز دینی چاہیے جو ہم خود شوق سے کھاتے ہیں۔",
+                "صرف سستی چیز کے بجائے اعلیٰ معیار کی اشیاء نکالنا زیادہ ثواب ہے۔",
+                "اللہ کی راہ میں بہترین چیز خرچ کرنا ہی اصل نیکی ہے۔"
+              ],
+              "english": [
+                "We should give items in Fitrana that we ourselves enjoy eating.",
+                "Giving high-quality items instead of just cheap ones earns more reward.",
+                "Spending the best of what you have for Allah is true righteousness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مساکین کی مدد",
+              "english": "Helping the Needy"
+            },
+            "content": {
+              "urdu": [
+                "فطرانہ صرف ایک رسم نہیں بلکہ غریبوں کی حقیقی مدد ہے۔",
+                "عید کی خوشیوں میں معاشرے کے نچلے طبقے کو شریک کرنا لازمی ہے۔",
+                "یہ عمل معاشرے میں معاشی توازن اور ہمدردی پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "Fitrana is not just a ritual but real assistance for the poor.",
+                "It is mandatory to involve the lower class in the joys of Eid.",
+                "This practice creates economic balance and sympathy in society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

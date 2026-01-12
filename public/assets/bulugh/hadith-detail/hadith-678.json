@@ -1,0 +1,264 @@
+{
+  "hadithId": 678,
+  "hadithNo": 31,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/31"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (760)، وابن الجارود (575)، والحاكم (2/125)، وابن حبان (4950)، والترمذي (1284).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابن الجارود، حاکم، ابن حبان اور ترمذی نے روایت کیا ہے۔ تمام ائمہ نے اس کی سند کو مضبوط اور صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (760), Ibn al-Jarud (575), Al-Hakim (2/125), Ibn Hibban (4950), and at-Tirmidhi (1284)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَمَرَنِي",
+      "english": "Commanded me",
+      "urdu": "مجھے حکم دیا"
+    },
+    {
+      "arabic": "غُلَامَيْنِ",
+      "english": "Two boys / slaves",
+      "urdu": "دو لڑکے یا غلام"
+    },
+    {
+      "arabic": "فَفَرَّقْتُ",
+      "english": "I separated",
+      "urdu": "میں نے جدا کر دیا"
+    },
+    {
+      "arabic": "أَدْرِكْهُمَا",
+      "english": "Overtake them",
+      "urdu": "ان تک پہنچو"
+    },
+    {
+      "arabic": "ارْتَجِعْهُمَا",
+      "english": "Take them back",
+      "urdu": "انہیں واپس لو"
+    },
+    {
+      "arabic": "جَمِيعًا",
+      "english": "Together",
+      "urdu": "اکٹھے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں خونی رشتوں، خاص طور پر بھائیوں کو تجارت کے دوران ایک دوسرے سے الگ کرنے کی ممانعت بیان کی گئی ہے تاکہ ان کی جذباتی وابستگی برقرار رہے۔",
+    "english": "This Hadith prohibits separating blood relatives, specifically brothers, during commercial transactions to preserve their emotional bonds and family unity."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد بن حنبل",
+      "english": "Musnad Ahmad bin Hanbal"
+    },
+    {
+      "arabic": "صحيح ابن حبان",
+      "english": "Sahih Ibn Hibban"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خونی رشتوں کا تقدس",
+        "english": "Sanctity of Blood Relations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جدا کرنے کی ممانعت",
+              "english": "Prohibition of Separation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام خونی رشتوں کو توڑنے یا انہیں تکلیف پہنچانے کی سختی سے ممانعت کرتا ہے۔",
+                "تجارت کے نام پر بھائیوں کو ایک دوسرے سے دور کرنا اخلاقی طور پر غلط ہے۔",
+                "نبی کریم ﷺ نے اس معاملے میں فوری اصلاح کا حکم دیا تاکہ تعلق قائم رہے۔"
+              ],
+              "english": [
+                "Islam strictly forbids breaking blood ties or causing emotional distress to relatives.",
+                "Separating brothers in the name of trade is considered ethically and legally wrong.",
+                "The Prophet (ﷺ) ordered immediate correction to ensure the family bond remained intact."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی ہمدردی",
+              "english": "Humanitarian Compassion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم اس بات کی دلیل ہے کہ اسلام غلاموں کے جذبات کا بھی خیال رکھتا ہے۔",
+                "کسی انسان کو اس کے عزیز سے جدا کرنا اس پر نفسیاتی ظلم کے مترادف ہے۔",
+                "اسلامی قانونِ تجارت عدل کے ساتھ ساتھ احسان اور مروت پر مبنی ہے۔"
+              ],
+              "english": [
+                "This ruling proves that Islam considers the emotions of even those in servitude.",
+                "Separating a person from their loved ones is akin to psychological oppression.",
+                "The Islamic law of commerce is based on justice, kindness, and chivalry."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات اور حدود",
+        "english": "Juristic Rulings and Limits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ماں اور بچے کا تعلق",
+              "english": "Mother and Child Bond"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک ماں اور اس کے چھوٹے بچے کو جدا کرنا سب سے بڑا گناہ ہے۔",
+                "جب تک بچہ سمجھدار نہ ہو جائے اسے ماں سے الگ فروخت کرنا جائز نہیں۔",
+                "نبی ﷺ نے فرمایا: جس نے ماں بیٹے کو جدا کیا، اللہ اسے قیامت میں اپنوں سے جدا کرے گا۔"
+              ],
+              "english": [
+                "Jurists consider separating a mother from her small child as a major sin.",
+                "It is not permissible to sell a child separately until they reach the age of discernment.",
+                "The Prophet (ﷺ) said: Whoever separates a mother and son, Allah will separate him from his loved ones on Judgment Day."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سودے کی منسوخی",
+              "english": "Cancellation of the Sale"
+            },
+            "content": {
+              "urdu": [
+                "اگر ایسا سودا ہو جائے تو اسے منسوخ کر کے اصلاح کرنا واجب ہے۔",
+                "سیدنا علی کو دیا گیا حکم ثابت کرتا ہے کہ غلط سودے کو واپس لیا جا سکتا ہے۔",
+                "حاکمِ وقت کی ذمہ داری ہے کہ وہ ایسے معاملات میں مداخلت کر کے انصاف کرے۔"
+              ],
+              "english": [
+                "If such a sale occurs, it is obligatory to cancel it and rectify the situation.",
+                "The command given to Ali (RA) proves that invalid transactions can be rescinded.",
+                "It is the leader's duty to intervene in such matters to ensure justice is served."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اصلاح",
+        "english": "Social Reformation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندان کی مرکزیت",
+              "english": "Centrality of the Family"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک مضبوط خاندانی نظام کی بنیاد رکھتا ہے جہاں رشتے محترم ہیں۔",
+                "مال و دولت کے حصول کے لیے رشتوں کی قربانی دینا اسلامی مزاج نہیں۔",
+                "یہ حدیث مسلمانوں کو اپنوں کے ساتھ جڑے رہنے کی ترغیب دیتی ہے۔"
+              ],
+              "english": [
+                "Islam builds a strong family system where relationships are highly respected.",
+                "Sacrificing family ties for the sake of wealth is contrary to the Islamic spirit.",
+                "This Hadith encourages Muslims to stay connected with their kith and kin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی رحمت",
+              "english": "The Prophet's Mercy"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ تمام جہانوں کے لیے رحمت بنا کر بھیجے گئے تھے۔",
+                "آپ ﷺ نے کمزور طبقات کے حقوق کے تحفظ کے لیے واضح قوانین وضع کیے۔",
+                "آپ ﷺ کی تعلیمات کا مقصد ظلم کا خاتمہ اور انسانیت کی فلاح ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) was sent as a mercy to all the worlds.",
+                "He established clear laws to protect the rights of the vulnerable classes.",
+                "His teachings aim at the eradication of oppression and the welfare of humanity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رشتہ داروں سے حسنِ سلوک",
+              "english": "Good Treatment of Relatives"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنی روزمرہ کی مصروفیات میں رشتوں کی اہمیت کو نہیں بھولنا چاہیے۔",
+                "کسی بھی فائدے کے لیے اپنے بہن بھائیوں کے حقوق پامال نہ کریں۔",
+                "صلہ رحمی (رشتہ جوڑنا) رزق اور عمر میں برکت کا باعث ہے۔"
+              ],
+              "english": [
+                "We must not forget the importance of family in our daily busy lives.",
+                "Do not violate the rights of siblings for any worldly gain.",
+                "Maintaining family ties (Silat al-Rahim) increases provision and lifespan."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلطی کا اعتراف اور اصلاح",
+              "english": "Acknowledging Mistakes and Rectification"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی نے اپنی غلطی معلوم ہونے پر اسے فوراً درست کرنے کی کوشش کی۔",
+                "اگر ہم سے نادانستہ کوئی شرعی غلطی ہو جائے تو اس کی اصلاح میں دیر نہ کریں۔",
+                "حق کی طرف رجوع کرنا مومن کی نشانی اور اللہ کے نزدیک پسندیدہ ہے۔"
+              ],
+              "english": [
+                "Ali (RA) immediately sought to rectify his mistake once he learned the truth.",
+                "If we unintentionally commit a Sharia error, we should not delay its correction.",
+                "Returning to the truth is a sign of a believer and beloved to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

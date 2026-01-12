@@ -1,0 +1,264 @@
+{
+  "hadithId": 1012,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1162"],
+    "kitabId": 9,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 80
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح رواه أبو داود (4547)، والنسائي (4806)، وابن ماجه (2627)، وابن حبان (6001).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد، نسائی اور ابن ماجہ نے روایت کیا ہے، اور ابن حبان نے اپنی صحیح میں اسے جگہ دی ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (4547), An-Nasa'i (4806), Ibn Majah (2627), and Ibn Hibban (6001)."
+  },
+  "importantWords": [
+    {
+      "arabic": "شِبْهِ اَلْعَمْدِ",
+      "english": "Quasi-intentional / Semi-intentional",
+      "urdu": "شبہ عمد (ارادے جیسا)"
+    },
+    {
+      "arabic": "السَّوْطِ",
+      "english": "Whip",
+      "urdu": "کوڑا"
+    },
+    {
+      "arabic": "الْعَصَا",
+      "english": "Stick / Staff",
+      "urdu": "لاٹھی"
+    },
+    {
+      "arabic": "بُطُونِهَا",
+      "english": "Their bellies / wombs",
+      "urdu": "ان کے پیٹ"
+    },
+    {
+      "arabic": "أَوْلَادُهَا",
+      "english": "Their offspring / young",
+      "urdu": "ان کے بچے"
+    },
+    {
+      "arabic": "مَائَةٌ",
+      "english": "One hundred",
+      "urdu": "ایک سو"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں 'شبہ عمد' (ایسا قتل جو مارنے کے ارادے سے ہو مگر آلہ قتل مہلک نہ ہو) کی دیت بیان کی گئی ہے جو کہ سو اونٹ ہے جس میں 40 حاملہ اونٹنیاں شامل ہونا ضروری ہیں۔",
+    "english": "This Hadith explains the blood-money for quasi-intentional homicide, which consists of 100 camels, including 40 pregnant ones to increase the severity of the compensation."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (4547)",
+      "english": "Sunan Abu Dawud (4547)"
+    },
+    {
+      "arabic": "سنن النسائي (4806)",
+      "english": "Sunan An-Nasa'i (4806)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin Amr bin al-As"
+      },
+      "slug": "abdullah-bin-amr-bin-al-as"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قتلِ شبہ عمد کی تعریف",
+        "english": "Definition of Quasi-Intentional Homicide"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آلہ قتل کی نوعیت",
+              "english": "Nature of the Weapon"
+            },
+            "content": {
+              "urdu": [
+                "ایسا قتل جو کسی ایسی چیز سے ہو جو عموماً قتل کے لیے استعمال نہیں ہوتی جیسے لاٹھی یا کوڑا۔",
+                "اس میں مارنے کا ارادہ تو ہوتا ہے مگر جان لینے کا ارادہ واضح نہیں ہوتا۔",
+                "شرعی طور پر اسے 'قتلِ عمد' اور 'قتلِ خطا' کے درمیان کی صورت مانا جاتا ہے۔"
+              ],
+              "english": [
+                "Homicide committed with an instrument not typically used for killing, like a stick or whip.",
+                "There is an intent to strike, but the intent to kill is not definitive.",
+                "Legally, it is considered a category between intentional and accidental murder."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیت کی غلظت (سختی)",
+              "english": "Severity of the Compensation"
+            },
+            "content": {
+              "urdu": [
+                "شبہ عمد کی دیت قتلِ خطا کے مقابلے میں زیادہ سخت (مغلظہ) ہوتی ہے۔",
+                "اسی لیے اس میں حاملہ اونٹنیوں کی شرط رکھی گئی ہے تاکہ اس کی مالی قیمت بڑھ جائے۔",
+                "یہ سختی اس لیے ہے کیونکہ اس میں ضرب (مارنے) کا ارادہ پایا گیا تھا۔"
+              ],
+              "english": [
+                "The Diyat for quasi-intentional murder is heavier (Mughallazah) than accidental murder.",
+                "Hence the requirement for pregnant camels to increase the financial value.",
+                "This severity is due to the underlying intent to physically assault the victim."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دیت کے احکام و ضوابط",
+        "english": "Rules and Regulations of Diyat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حاملہ اونٹنیوں کی شرط",
+              "english": "Condition of Pregnant Camels"
+            },
+            "content": {
+              "urdu": [
+                "سو اونٹوں میں سے چالیس کا حاملہ ہونا دیت کو مالی طور پر گراں قدر بنا دیتا ہے۔",
+                "یہ مقتول کے ورثاء کی زیادہ بہتر مالی تلافی کا ذریعہ بنتا ہے۔",
+                "فقہاء نے اونٹوں کی عمر اور صحت کے بارے میں بھی تفصیلی شرائط بیان کی ہیں۔"
+              ],
+              "english": [
+                "Forty of the hundred camels being pregnant makes the compensation very valuable.",
+                "This serves as a better financial reparation for the victim's heirs.",
+                "Jurists have also detailed the specific ages and health conditions of the camels."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ادائیگی کی مدت",
+              "english": "Period of Payment"
+            },
+            "content": {
+              "urdu": [
+                "شبہ عمد کی دیت عام طور پر تین سال کے عرصے میں ادا کی جانی چاہیے۔",
+                "اس کی ادائیگی کی ذمہ داری قاتل کے خاندان (عاقلہ) پر ہوتی ہے۔",
+                "یہ مہلت اس لیے ہے تاکہ ایک خاندان پر اچانک ناقابلِ برداشت معاشی بوجھ نہ پڑے۔"
+              ],
+              "english": [
+                "Diyat for this category is typically paid over a period of three years.",
+                "The responsibility for payment lies with the killer's paternal relatives (Aqilah).",
+                "This grace period prevents a sudden, unbearable economic burden on the family."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی قانونِ عدل کی حکمت",
+        "english": "Wisdom of Islamic Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خون ریزی کی روک تھام",
+              "english": "Prevention of Bloodshed"
+            },
+            "content": {
+              "urdu": [
+                "دیت کا یہ نظام قبائلی اور ذاتی انتقام کی آگ کو ٹھنڈا کرنے میں مددگار ہوتا ہے۔",
+                "جب ورثاء کو معقول تلافی مل جاتی ہے تو وہ قصاص کے مطالبے سے دستبردار ہو سکتے ہیں۔",
+                "یہ معاشرے میں لامتناہی قتل و غارت کے سلسلے کو روکنے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "This system of Diyat helps cool the fires of tribal and personal revenge.",
+                "Fair compensation allows heirs to reconsider and potentially waive retaliation.",
+                "It serves as a mechanism to halt endless cycles of killing in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توازن اور انصاف",
+              "english": "Balance and Justice"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر قسم کے قتل کے لیے اس کی نوعیت کے مطابق جداگانہ سزا دیتا ہے۔",
+                "یہ توازن برقرار رکھتا ہے کہ غیر ارادی فعل اور ارادی فعل کی سزا ایک جیسی نہ ہو۔",
+                "انسانی جان کی حرمت کو برقرار رکھتے ہوئے اصلاح کے مواقع فراہم کیے گئے ہیں۔"
+              ],
+              "english": [
+                "Islam provides distinct penalties for each type of homicide based on its nature.",
+                "This maintains a balance so that unintentional and intentional acts are not punished equally.",
+                "It upholds the sanctity of human life while offering opportunities for reform."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اشتعال انگیزی سے بچنا",
+              "english": "Avoiding Provocation"
+            },
+            "content": {
+              "urdu": [
+                "غصے میں کسی پر لاٹھی یا کوڑا اٹھانا جان لیوا ثابت ہو سکتا ہے اور عمر بھر کی ندامت بن سکتا ہے۔",
+                "یہ حدیث ہمیں غصے پر قابو پانے اور جسمانی تشدد سے بچنے کی ترغیب دیتی ہے۔",
+                "ایک لمحے کا غصہ پورے خاندان کو مالی اور سماجی طور پر تباہ کر سکتا ہے۔"
+              ],
+              "english": [
+                "Raising a stick or whip in anger can be fatal and lead to a lifetime of regret.",
+                "This Hadith encourages us to control anger and avoid physical violence.",
+                "A moment of rage can financially and socially ruin an entire family."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانونِ الہی کی پابندی",
+              "english": "Adherence to Divine Law"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو چاہیے کہ وہ خاندانی تنازعات کا حل شریعت کے مطابق تلاش کریں۔",
+                "دیت کی ادائیگی میں سستی کرنا یا حقدار کا حق مارنا سخت گناہ ہے۔",
+                "اللہ کے حدود کی پابندی ہی میں معاشرے کی حقیقی فلاح و بہبود مضمر ہے۔"
+              ],
+              "english": [
+                "Muslims should seek resolution to family disputes according to the Shariah.",
+                "Lethargy in paying Diyat or depriving the rightful heir is a grave sin.",
+                "The true welfare of society lies in adhering to the limits set by Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

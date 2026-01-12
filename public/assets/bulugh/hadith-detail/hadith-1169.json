@@ -1,0 +1,272 @@
+{
+  "hadithId": 1169,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/49"],
+    "kitabId": 12,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب العقيقة",
+    "babId": 95
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه الترمذي (1513) وقال: حسن صحيح. ورواه أحمد (6/31)، وأبو داود (2834)، والنسائي (4212)، وابن ماجه (3163) من حديث أم كرز الكعبية رضي الله عنها.",
+    "urdu": "یہ حدیث صحیح ہے۔ امام ترمذی نے اسے حسن صحیح کہا ہے۔ اس کے علاوہ امام احمد، ابوداؤد، نسائی اور ابن ماجہ نے اسے مختلف اسناد سے روایت کیا ہے جو اس کی تقویت کرتی ہیں۔",
+    "english": "Sahih. Reported by at-Tirmidhi (1513) and graded it Hasan Sahih. It was also reported by Ahmad (6/31), Abu Dawud (2834), an-Nasa'i (4212), and Ibn Majah (3163) from the hadith of Umm Kurz."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُعَقَّ",
+      "english": "Offer sacrifice (Aqiqa)",
+      "urdu": "عقیقہ کیا جائے"
+    },
+    {
+      "arabic": "اَلْغُلَامِ",
+      "english": "Male child / Boy",
+      "urdu": "لڑکا"
+    },
+    {
+      "arabic": "شَاتَانِ",
+      "english": "Two sheep",
+      "urdu": "دو بکریاں"
+    },
+    {
+      "arabic": "مُكَافِئَتَانِ",
+      "english": "Comparable / Similar",
+      "urdu": "ہم عمر / ایک جیسی"
+    },
+    {
+      "arabic": "اَلْجَارِيَةِ",
+      "english": "Female child / Girl",
+      "urdu": "لڑکی"
+    },
+    {
+      "arabic": "أَمْرَهُمْ",
+      "english": "He commanded them",
+      "urdu": "انہیں حکم دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "بچے کی پیدائش پر لڑکے کے لیے دو برابر کی بکریاں اور لڑکی کے لیے ایک بکری بطور عقیقہ ذبح کرنا مسنون ہے۔",
+    "english": "It is Sunnah to sacrifice two similar sheep for a newborn boy and one sheep for a newborn girl."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (1513)",
+      "english": "Sunan at-Tirmidhi (1513)"
+    },
+    {
+      "arabic": "سنن أبي داود (2834)",
+      "english": "Sunan Abi Dawud (2834)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أم كرز الكعبية",
+        "english": "Umm Kurz al-Ka'biyah"
+      },
+      "slug": "umm-kurz-al-kabiyah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Q-vF1o7fI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عقیقہ میں لڑکے اور لڑکی کا فرق",
+        "english": "Difference between Boy and Girl in Aqiqa"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دو بکریوں کا حکم",
+              "english": "The Rule of Two Sheep"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے لڑکے کے عقیقہ کے لیے دو بکروں یا بکریوں کا حکم دیا ہے۔",
+                "یہ بکریاں عمر اور جسامت میں ایک دوسرے کے برابر ہونی چاہئیں۔",
+                "یہ فرق لڑکے کی ولادت پر زیادہ خوشی یا ذمہ داری کے اظہار کے طور پر ہے۔"
+              ],
+              "english": [
+                "Shariah commands sacrificing two sheep or goats for a newborn boy.",
+                "The animals should be of similar age and physical stature to each other.",
+                "This difference may reflect the expression of joy or future responsibility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لڑکی کے لیے ایک بکری",
+              "english": "One Sheep for a Girl"
+            },
+            "content": {
+              "urdu": [
+                "لڑکی کی پیدائش پر ایک جانور ذبح کرنا سنت سے ثابت ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ لڑکی کی پیدائش بھی باعثِ برکت ہے۔",
+                "اگر استطاعت نہ ہو تو لڑکے کی طرف سے بھی ایک بکری دی جا سکتی ہے۔"
+              ],
+              "english": [
+                "Sacrificing one animal for a newborn girl is established by the Sunnah.",
+                "This ruling proves that the birth of a girl is also a source of blessing.",
+                "If financial means are limited, one sheep for a boy is also acceptable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جانور کی صفات اور معیار",
+        "english": "Attributes and Standards of the Animal"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موافقت اور ہمسری",
+              "english": "Equality and Similarity"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'مکافئتین' سے مراد یہ ہے کہ جانور تندرستی اور عمر میں برابر ہوں۔",
+                "عیب دار جانور سے عقیقہ کرنا درست نہیں ہے، اس کے لیے قربانی کے شرائط ہیں۔",
+                "بہترین مال اللہ کی راہ میں دینا تقویٰ کی علامت ہے۔"
+              ],
+              "english": [
+                "The term 'Mukafi'atan' implies that animals should be equal in health and age.",
+                "It is not valid to offer a defective animal; sacrifice rules apply here too.",
+                "Giving the best of one's wealth in Allah's path is a sign of piety."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنسِ جانور کی شرط",
+              "english": "Gender of the Animal"
+            },
+            "content": {
+              "urdu": [
+                "عقیقہ میں نر (بکرا) یا مادہ (بکری) دونوں کی اجازت موجود ہے۔",
+                "نبی ﷺ نے 'شاتان' (دو بکریاں) کا لفظ استعمال فرمایا جو دونوں پر محیط ہے۔",
+                "اصل مقصد اللہ کا شکر اور غریبوں کو کھانا کھلانا ہے۔"
+              ],
+              "english": [
+                "Both male (goat) and female (sheep) are permissible for Aqiqa.",
+                "The Prophet (ﷺ) used the word 'Shatan', which covers both genders.",
+                "The primary goal is thanking Allah and feeding the needy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عقیقہ کی اہمیت اور حکمت",
+        "english": "Importance and Wisdom of Aqiqa"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچے کی روحانی سلامتی",
+              "english": "Spiritual Safety of the Child"
+            },
+            "content": {
+              "urdu": [
+                "عقیقہ بچے کو شیطان کے اثرات سے بچانے کا ایک ذریعہ ہے۔",
+                "یہ بچہ کی طرف سے جان کا فدیہ ہے جو اسے مصیبتوں سے بچاتا ہے۔",
+                "بچے کی پرورش میں برکت اور خیر کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "Aqiqa is a means to protect the child from Satanic influences.",
+                "It serves as a ransom for the child's life, guarding him from calamities.",
+                "It brings blessings and goodness in the upbringing of the child."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی خوشی کا اظہار",
+              "english": "Expression of Social Joy"
+            },
+            "content": {
+              "urdu": [
+                "ولادت کی خوشی میں دوستوں اور رشتہ داروں کو شامل کرنا مسنون ہے۔",
+                "غریبوں کو گوشت پہنچانا اسلامی ہمدردی کا مظہر ہے۔",
+                "اس سے خاندان میں الفت اور باہمی تعلقات مضبوط ہوتے ہیں۔"
+              ],
+              "english": [
+                "Including friends and relatives in the joy of birth is Sunnah.",
+                "Providing meat to the poor reflects Islamic social compassion.",
+                "It strengthens affection and mutual relationships within the family."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی ہدایات اور احتیاط",
+        "english": "Practical Guidelines and Caution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استطاعت کے مطابق عمل",
+              "english": "Acting According to Means"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کے پاس دو بکروں کی گنجائش نہ ہو تو ایک بھی کافی ہے۔",
+                "دین میں تنگی نہیں ہے، اصل چیز اخلاص اور سنت کی نیت ہے۔",
+                "بلاوجہ قرض لے کر عقیقہ کرنا ضروری نہیں ہے۔"
+              ],
+              "english": [
+                "If one cannot afford two goats, one is sufficient for a boy.",
+                "There is no hardship in religion; sincerity and Sunnah intent matter most.",
+                "It is not necessary to take a loan specifically for performing Aqiqa."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی پابندی",
+              "english": "Adherence to Timing"
+            },
+            "content": {
+              "urdu": [
+                "ساتویں دن عقیقہ کرنا مستحب اور افضل ترین وقت ہے۔",
+                "تاخیر کی صورت میں جب بھی میسر ہو کر لینا چاہیے۔",
+                "سنت پر اس کی روح کے مطابق عمل کرنا اجر کو بڑھاتا ہے۔"
+              ],
+              "english": [
+                "The seventh day is the most recommended and preferred time for Aqiqa.",
+                "In case of delay, it should be done whenever possible later.",
+                "Acting on Sunnah according to its spirit increases the divine reward."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

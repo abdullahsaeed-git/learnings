@@ -1,0 +1,226 @@
+{
+  "hadithId": 36,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 8 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب إسباغ الوضوء وتخليل الأصابع",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه أبو داود (142 و 143) ، والنسائي (1 /66 و 69) ، والترمذي، (38) ، وابن ماجه (448) ، وابن خزيمة (150 و 168)  من طريق عاصم بن لقيط بن صبرة، عن أبيه، به. صحيح.  سنن أبي داود (144)  . ",
+    "urdu": "صحیح (درجہ)۔ اسے ابوداؤد (142، 143)، نسائی (1/66، 69)، ترمذی (38) اور ابن ماجہ (448) نے عاصم بن لقیط بن صبرہ عن ابیہ کے طریق سے روایت کیا ہے۔ اور ابن خزیمہ (150، 168) نے بھی اس کی صحت کی تصدیق کی۔ ابوداؤد میں ایک اور صحیح روایت (144) بھی ہے۔",
+    "english": "Sahih (Authentic). Narrated by Abu Dawud (142, 143), An-Nasa'i (1/66, 69), At-Tirmidhi (38), Ibn Mājah (448), and Ibn Khuzaymah (150, 168) through the chain of Āṣim ibn Laqīṭ ibn Ṣabirah, from his father. The wording from Abu Dawud is also Sahih (144)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَسْبِغْ",
+      "english": "Perform thoroughly",
+      "urdu": "اچھی طرح پورا کرو"
+    },
+    {
+      "arabic": "اَلْوُضُوءَ",
+      "english": "The Wudu/Ablution",
+      "urdu": "وضو"
+    },
+    {
+      "arabic": "خَلِّلْ",
+      "english": "Thread/interlace",
+      "urdu": "خلال کرو"
+    },
+    {
+      "arabic": "اَلْأَصَابِعِ",
+      "english": "The fingers",
+      "urdu": "انگلیوں"
+    },
+    {
+      "arabic": "بَالِغْ",
+      "english": "Be thorough/exaggerate",
+      "urdu": "اچھی طرح چڑھایا کرو"
+    },
+    {
+      "arabic": "صَائِمًا",
+      "english": "Fasting",
+      "urdu": "روزے کی حالت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وضو میں تین اہم سنتوں پر زور دیتی ہے: وضو کو مکمل کرنا، ہاتھ پاؤں کی انگلیوں کا خلال کرنا اور ناک میں پانی اچھی طرح چڑھانا، تاہم آخری حکم میں روزے داروں کو ممانعت کے ذریعے تخفیف دی گئی ہے۔",
+    "english": "This Hadith emphasizes three crucial Sunnah acts in Wudu: performing ablution thoroughly (Isbāgh), interspacing the fingers and toes (Takhlīl), and strongly rinsing the nose (Istinshāq), with an important exception made for the fasting person regarding the nasal rinse."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الطهارة، رقم 142",
+      "english": "Sunan Abī Dāwūd, The Book of Purification, Hadith 142"
+    },
+    {
+      "arabic": "جامع الترمذي، أبواب الطهارة، رقم 38",
+      "english": "Jami' At-Tirmidhi, The Book of Purification, Hadith 38"
+    },
+    {
+      "arabic": "سنن النسائي، كتاب الطهارة، رقم 66",
+      "english": "Sunan An-Nasā’ī, The Book of Purification, Hadith 66"
+    },
+    {
+      "arabic": "سنن ابن ماجه، كتاب الطهارة، رقم 448",
+      "english": "Sunan Ibn Mājah, The Book of Purification, Hadith 448"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "لَقِيطِ بْنُ صَبْرَةَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Laqīṭ ibn Ṣabirah (May Allah be pleased with him)"
+      },
+      "slug": "laqit-ibn-sabirah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-14-isbagh-wudu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وضو میں تکمیل اور خلال",
+        "english": "Completeness and Interspacing in Wudu"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسباغ الوضوء (وضو کو مکمل کرنا)",
+              "english": "Isbāgh al-Wudu (Performing Wudu Thoroughly)"
+            },
+            "content": {
+              "urdu": [
+                "اسباغ الوضوء کا مطلب ہے وضو کو ہر لحاظ سے مکمل کرنا، یعنی پانی کو ہر عضو کے تمام حصے تک پہنچانا اور اس کا حق ادا کرنا۔",
+                "یہ حکم اس بات کی تاکید ہے کہ وضو کو جلدی یا لاپرواہی سے نہیں کرنا چاہیے، بلکہ پوری توجہ اور خلوص کے ساتھ اعضاء کو تین تین بار دھونا چاہیے۔",
+                "ایسا کرنے سے نفاست کی تکمیل ہوتی ہے اور آخرت میں اس کے ذریعے عظیم اجر اور چمک (نور) حاصل ہو گی، جیسا کہ دیگر احادیث میں بیان ہوا ہے۔"
+              ],
+              "english": [
+                "Isbāgh al-Wudu means perfecting the Wudu in every respect, ensuring water reaches every part of the limb and giving it its due right.",
+                "This command emphasizes that Wudu should not be performed hastily or carelessly but with full attention and sincerely washing the limbs three times.",
+                "Doing so completes the ritual elegance and will lead to great reward and radiance (Nūr) in the Hereafter, as mentioned in other Ahadith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انگلیوں کا خلال",
+              "english": "Interspacing the Fingers and Toes"
+            },
+            "content": {
+              "urdu": [
+                "**تخلیل بین الأصابع** کا حکم اس بات کو یقینی بناتا ہے کہ ہاتھوں اور پاؤں کی انگلیوں کے درمیان کی جگہیں، جہاں پانی آسانی سے نہیں پہنچتا، گیلی ہو جائیں۔",
+                "انگلیوں کا خلال کرنا وضو کی ایک اہم سنت ہے، اور جمہور فقہاء کے نزدیک اس کے بغیر وضو ناقص اور بعض صورتوں میں باطل بھی ہو سکتا ہے۔",
+                "پاؤں کی انگلیوں کا خلال ہاتھ کی چھوٹی انگلی سے کرنا مسنون ہے، جبکہ ہاتھوں کی انگلیوں کو صرف آپس میں ملانے سے خلال ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The command for **Takhlīl bayna al-Aṣābi'** ensures that the spaces between the fingers and toes, where water may not easily reach, are moistened.",
+                "Interspacing the fingers is an essential Sunnah of Wudu, and according to the majority of jurists, neglecting it can render Wudu incomplete or even invalid in some cases.",
+                "It is Sunnah to use the little finger of the hand to interspace the toes, while for the hands, simply rubbing them together may suffice for Takhlīl."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ناک میں مبالغہ اور استثناء",
+        "english": "Exaggeration in the Nose and the Exception"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استنشاق میں مبالغہ",
+              "english": "Exaggeration in Istinshāq (Rinsing the Nose)"
+            },
+            "content": {
+              "urdu": [
+                "**بالغ فی الاستنشاق** کا مطلب ہے ناک میں پانی اس حد تک گہرائی میں چڑھانا کہ پانی بانسے کی ہڈی تک پہنچ جائے، جو مکمل طہارت کے لیے ضروری ہے۔",
+                "یہ عمل استنثار (جھاڑ کر صاف کرنے) کی تکمیل کے لیے ہے اور اس سے وضو میں طہارت کا معیار بلند ہو جاتا ہے۔",
+                "امام احمد اور اسحاق سمیت بعض فقہاء کے نزدیک مبالغہ کے ساتھ استنشاق کرنا واجب ہے، جبکہ جمہور اسے سنتِ مؤکدہ قرار دیتے ہیں۔"
+              ],
+              "english": [
+                "**Baligh fi al-Istinshāq** means drawing water deep into the nose until it reaches the bone of the nasal bridge, which is essential for complete inner purification.",
+                "This act complements Istinthār (expelling the water) and raises the standard of cleanliness achieved during Wudu.",
+                "Some jurists, including Imām Ahmad and Ishāq, regard performing Istinshāq thoroughly as obligatory (Wajib), while the majority view it as a highly emphasized Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزے دار کے لیے ممانعت",
+              "english": "The Prohibition for the Fasting Person"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کا اہم ترین حصہ **'إِلَّا أَنْ تَكُونَ صَائِمًا'** ہے، جو مبالغہ فی الاستنشاق (ناک میں زور سے پانی چڑھانے) سے روزے دار کو منع کرتا ہے۔",
+                "ممانعت کی وجہ یہ ہے کہ زور سے پانی چڑھانے کی صورت میں پانی حلق میں جا سکتا ہے، جو روزے کے فاسد ہونے کا سبب بن سکتا ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ ایک سنت کی تکمیل کے لیے دوسرے فرض (روزے) کو خطرے میں نہیں ڈالنا چاہیے، یعنی فرض کی اہمیت سنت سے زیادہ ہے۔"
+              ],
+              "english": [
+                "The most critical part of the Hadith is **'Illā an takūna ṣā’iman'** (unless you are fasting), which prohibits a fasting person from exaggerating the nasal rinse.",
+                "The reason for the prohibition is the risk of water entering the throat, which would invalidate the fast, thus emphasizing caution.",
+                "This ruling proves that one should not endanger a formal obligation (Fard, the fast) for the sake of completing a Sunnah (thorough rinsing), highlighting the hierarchy of obligations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کا مقصد اور اجزاء",
+        "english": "Purpose and Components of Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کلی کرنے کی اہمیت",
+              "english": "The Importance of Rinsing the Mouth (Maḍmaḍah)"
+            },
+            "content": {
+              "urdu": [
+                "ابوداؤد کی ایک روایت میں **کلی کرنے** کا حکم بھی شامل ہے، جس سے ثابت ہوتا ہے کہ منہ کی اندرونی صفائی وضو کے لیے بہت ضروری ہے۔",
+                "نبی ﷺ کا منہ کی صفائی کو وضو میں شامل کرنے کا حکم، یہ واضح کرتا ہے کہ منہ کی پاکیزگی نماز میں اللہ سے مناجات کے لیے کتنی اہمیت رکھتی ہے۔",
+                "تمام فقہی مسالک اس بات پر متفق ہیں کہ کلی کرنا وضو کی سنتوں میں سے ہے اور بعض اسے واجب بھی قرار دیتے ہیں۔"
+              ],
+              "english": [
+                "The secondary narration from Abu Dawud includes the command to **rinse the mouth (Maḍmaḍah)**, confirming that internal cleanliness of the mouth is vital for Wudu.",
+                "The Prophet's inclusion of mouth rinsing in Wudu demonstrates the significance of oral purity when addressing Allah in prayer.",
+                "All schools of jurisprudence agree that rinsing the mouth is an essential Sunnah of Wudu, with some classifying it as a mandatory act (Wajib)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجر کی زیادتی",
+              "english": "Increase in Reward"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص وضو میں ان تمام سنتوں (اسباغ، خلال، مبالغہ فی الاستنشاق) پر عمل کرتا ہے، وہ نبی ﷺ کے کامل طریقے کو اختیار کرتا ہے اور اس کا اجر بڑھ جاتا ہے۔",
+                "نبی اکرم ﷺ نے خود ان اعمال پر زور دیا تاکہ امت اس عمل کو بہترین طریقے سے انجام دے اور ہر عضو کی صفائی مکمل ہو جائے۔",
+                "یہ احکام اس بات کی بھی دلیل ہیں کہ مسلمان کے وضو کا مقصد صرف فرض کی ادائیگی نہیں، بلکہ کمال اور فضیلت کا حصول بھی ہے۔"
+              ],
+              "english": [
+                "A person who adheres to all these Sunnah acts (Isbāgh, Takhlīl, thorough Istinshāq) performs the Wudu in the most complete Prophetic manner, greatly multiplying their reward.",
+                "The Prophet (ﷺ) emphasized these details to ensure the Ummah performs the ritual optimally and that the purification of every limb is complete.",
+                "These rulings demonstrate that the Muslim's objective in Wudu is not just to fulfill an obligation but also to achieve perfection and high virtue."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

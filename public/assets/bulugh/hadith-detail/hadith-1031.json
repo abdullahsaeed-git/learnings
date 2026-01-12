@@ -1,0 +1,259 @@
+{
+  "hadithId": 1031,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/40"],
+    "kitabId": 9,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام",
+    "babId": 83
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (6923)‏، ومسلم (1652)‏، وأبو داود (4355).",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری و مسلم دونوں میں موجود ہے۔ اس کے مکمل واقعہ میں حضرت ابو موسیٰ اشعری اور حضرت معاذ بن جبل کی یمن میں ملاقات کا ذکر ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6923), Muslim (1652), and Abu Dawud (4355). It is part of a longer narration about Mu'adh bin Jabal's visit to Abu Musa in Yemen."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَهَوَّدَ",
+      "english": "Became a Jew",
+      "urdu": "یہودی ہو گیا"
+    },
+    {
+      "arabic": "قَضَاءُ",
+      "english": "Decree / Judgment",
+      "urdu": "فیصلہ / حکم"
+    },
+    {
+      "arabic": "اُسْتُتِيبَ",
+      "english": "Asked to repent",
+      "urdu": "توبہ کا مطالبہ کیا گیا"
+    },
+    {
+      "arabic": "يُقْتَلَ",
+      "english": "To be executed",
+      "urdu": "قتل کیا جائے"
+    },
+    {
+      "arabic": "أَسْلَمَ",
+      "english": "Embraced Islam",
+      "urdu": "اسلام لایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ارتداد (اسلام چھوڑنے) کی سزا اور اس سے قبل توبہ کی مہلت دینے کا شرعی حکم بیان کیا گیا ہے۔",
+    "english": "This Hadith discusses the penalty for apostasy in Islam and the requirement to ask the apostate to repent before carrying out the sentence."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6923)",
+      "english": "Reported by Al-Bukhari (6923)"
+    },
+    {
+      "arabic": "رواه مسلم (1652)",
+      "english": "Reported by Muslim (1652)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معاذ بن جبل",
+        "english": "Mu'adh bin Jabal"
+      },
+      "slug": "muadh-bin-jabal"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6o9l6Kts",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ارتداد کی شرعی سزا",
+        "english": "Legal Penalty for Apostasy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سزائے موت کا حکم",
+              "english": "Capital Punishment"
+            },
+            "content": {
+              "urdu": [
+                "اسلام قبول کرنے کے بعد دین سے پھر جانا ایک سنگین نظریاتی اور سیاسی جرم ہے۔",
+                "نبی کریم ﷺ کا فرمان ہے کہ جو اپنا دین بدل دے اسے قتل کر دو۔",
+                "یہ سزا اسلامی ریاست کے نظم اور وقار کو برقرار رکھنے کے لیے مقرر کی گئی ہے۔"
+              ],
+              "english": [
+                "Reverting from Islam after accepting it is considered a grave ideological crime.",
+                "The Prophet (ﷺ) stated that whoever changes his religion should be executed.",
+                "This penalty is established to maintain the integrity of the Islamic state."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا نفاذ",
+              "english": "Implementation of Justice"
+            },
+            "content": {
+              "urdu": [
+                "حضرت معاذ نے اسے اللہ اور اس کے رسول کا اٹل فیصلہ قرار دیا۔",
+                "قانون کی پاسداری میں کسی قسم کی نرمی یا تاخیر کو انہوں نے پسند نہیں کیا۔",
+                "یہ حکم ثابت کرتا ہے کہ دین کی حفاظت جان کی حفاظت سے مقدم ہے۔"
+              ],
+              "english": [
+                "Mu'adh (RA) declared this as the definitive decree of Allah and His Messenger.",
+                "He did not tolerate any delay or leniency in upholding the established law.",
+                "This ruling proves that protecting the faith is prioritized over saving a life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "توبہ کی مہلت",
+        "english": "Opportunity for Repentance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استتابہ کی اہمیت",
+              "english": "Importance of Asking Repentance"
+            },
+            "content": {
+              "urdu": [
+                "سزا دینے سے پہلے مرتد کو توبہ کی دعوت دینا اور شبہات دور کرنا ضروری ہے۔",
+                "ابوداؤد کی روایت کے مطابق اس شخص کو پہلے توبہ کا موقع دیا گیا تھا۔",
+                "اسلام کا مقصد انسانوں کو مارنا نہیں بلکہ انہیں جہنم سے بچانا ہے۔"
+              ],
+              "english": [
+                "Before execution, the apostate must be invited to repent and clear doubts.",
+                "According to Abu Dawud, this specific individual was given a chance to repent.",
+                "The goal of Islam is not to kill people but to save them from the Fire."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رحمت اور مہلت",
+              "english": "Mercy and Respite"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک توبہ کے لیے تین دن کی مہلت دینا مستحب یا واجب ہے۔",
+                "اگر وہ واپس اسلام میں آ جائے تو اس کی جان بخشی کر دی جائے گی۔",
+                "یہ طریقہ کار اسلامی قانون میں عدل اور رحمت کے توازن کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Jurists consider giving three days for repentance as recommended or obligatory.",
+                "If the person returns to Islam, the death penalty is immediately waived.",
+                "This procedure demonstrates the balance of justice and mercy in Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیاسی اور انتظامی پہلو",
+        "english": "Political and Administrative Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ریاست کی عملداری",
+              "english": "Authority of the State"
+            },
+            "content": {
+              "urdu": [
+                "حدود کا نفاذ صرف اسلامی حکومت اور قاضی کا اختیار ہے۔",
+                "کوئی فردِ واحد خود سے کسی مرتد پر سزا نافذ نہیں کر سکتا۔",
+                "نظمِ حکومت کی پیروی معاشرتی امن کے لیے انتہائی لازمی ہے۔"
+              ],
+              "english": [
+                "Applying Hudud is strictly the authority of the government and the judge.",
+                "No individual is allowed to carry out the execution of an apostate personally.",
+                "Following the administrative order is vital for maintaining social peace."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فتنے کا سدِ باب",
+              "english": "Curbing Sedition"
+            },
+            "content": {
+              "urdu": [
+                "ارتداد اکثر ریاست کے خلاف بغاوت اور دشمنوں کے ساتھ تعاون کا باعث بنتا ہے۔",
+                "اس سزا کے ذریعے معاشرے میں فکری انتشار کو روکا جاتا ہے۔",
+                "اسلامی معاشرے کے بنیادی ڈھانچے کے تحفظ کے لیے یہ قانون ناگزیر ہے۔"
+              ],
+              "english": [
+                "Apostasy often leads to rebellion against the state and aiding enemies.",
+                "This penalty serves to curb intellectual and social chaos in the community.",
+                "The law is indispensable for protecting the core structure of Islamic society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور اخلاقی سبق",
+        "english": "Educational and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیرتِ ایمانی",
+              "english": "Honor of Faith"
+            },
+            "content": {
+              "urdu": [
+                "حضرت معاذ کا طرزِ عمل دین کے معاملے میں ان کی شدید غیرت کو ظاہر کرتا ہے۔",
+                "ایک مومن کے لیے اللہ کے حکم کی تعمیل ہر رغبت پر مقدم ہونی چاہیے۔",
+                "دین کے معاملے میں سمجھوتہ نہ کرنا سچے ایمان کی علامت ہے۔"
+              ],
+              "english": [
+                "Mu'adh's (RA) conduct shows his intense protective honor for the religion.",
+                "For a believer, fulfilling Allah's command must precede all personal desires.",
+                "Refusing to compromise on religious matters is a sign of true faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استقامتِ دین",
+              "english": "Steadfastness in Religion"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اللہ سے ہمیشہ ایمان پر ثابت قدمی کی دعا مانگنی چاہیے۔",
+                "اسلام ایک عظیم نعمت ہے، اس کی قدر کرنا اور اس پر مرنا اصل کامیابی ہے۔",
+                "گمراہی سے بچنے کے لیے علم اور اہل اللہ کی صحبت ضروری ہے۔"
+              ],
+              "english": [
+                "We must always pray to Allah for steadfastness upon the true faith.",
+                "Islam is a great blessing; valuing it and dying upon it is true success.",
+                "Knowledge and the company of the righteous are essential to avoid misguidance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

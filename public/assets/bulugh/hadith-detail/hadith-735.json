@@ -1,0 +1,261 @@
+{
+  "hadithId": 735,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/tirmidhi:1352"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب البيوع",
+    "babId": 48
+  },
+  
+  "takhreej": {
+    "arabic": "رواه الترمذي (1352) وقال: حسن صحيح، وابن حبان (1199) من حديث أبي هريرة، والحاكم (2/49). وإن كان في سنده كثير بن عبد الله وهو ضعيف، لكن كثرة شواهده تقويه.",
+    "urdu": "اسے امام ترمذی (1352) نے روایت کیا اور صحیح کہا ہے۔ اگرچہ اس کی سند میں کثیر بن عبداللہ ضعیف راوی ہے، لیکن اس کے کئی شواہد (ابوہریرہ، انس بن مالک، ابن عمر وغیرہ سے) موجود ہیں جن کی بنا پر یہ حدیث حسن یا صحیح لغیرہ کے درجے تک پہنچ جاتی ہے۔",
+    "english": "Reported by At-Tirmidhi (1352) and Ibn Hibban from Abu Hurairah. While the narrator Kathir bin Abdullah is weak, the multiplicity of supporting chains (Shawahid) strengthens the Hadith to the level of Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلصُّلْحُ",
+      "english": "Settlement / Conciliation",
+      "urdu": "صلح / سمجھوتہ"
+    },
+    {
+      "arabic": "جَائِزٌ",
+      "english": "Permissible / Lawful",
+      "urdu": "جائز / درست"
+    },
+    {
+      "arabic": "شُرُوطِهِمْ",
+      "english": "Their conditions",
+      "urdu": "ان کی شرائط"
+    },
+    {
+      "arabic": "أَحَلَّ",
+      "english": "Made lawful",
+      "urdu": "حلال کر دیا"
+    },
+    {
+      "arabic": "حَرَّمَ",
+      "english": "Made forbidden",
+      "urdu": "حرام کر دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں مسلمانوں کو باہمی تنازعات صلح کے ذریعے حل کرنے کی ترغیب دی گئی ہے اور معاہدوں میں طے شدہ جائز شرائط کی پاسداری کو لازمی قرار دیا گیا ہے۔",
+    "english": "This Hadith encourages Muslims to resolve disputes through settlement and mandates the fulfillment of agreed-upon conditions, provided they don't violate Sharia."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي (1352)",
+      "english": "Jami' At-Tirmidhi (1352)"
+    },
+    {
+      "arabic": "صحيح ابن حبان (5091)",
+      "english": "Sahih Ibn Hibban (5091)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن عوف المزني",
+        "english": "Amr bin 'Auf al-Muzani"
+      },
+      "slug": "amr-bin-auf-al-muzani"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صلح کی اہمیت اور حدود",
+        "english": "Importance and Limits of Settlement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صلح کا جواز",
+              "english": "Permissibility of Conciliation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں تنازعات کو پیار و محبت اور افہام و تفہیم سے حل کرنا بہترین عمل ہے۔",
+                "صلح کے ذریعے فریقین کے درمیان کینہ اور دشمنی ختم ہو جاتی ہے۔",
+                "مالی معاملات ہو یا خاندانی، شریعت صلح کے دروازے ہر وقت کھلے رکھتی ہے۔"
+              ],
+              "english": [
+                "Resolving disputes through love and mutual understanding is a highly regarded act in Islam.",
+                "Settlements eliminate malice and enmity between the conflicting parties.",
+                "Whether in financial or family matters, Sharia keeps the doors of conciliation open."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی حد",
+              "english": "Sharia Boundaries"
+            },
+            "content": {
+              "urdu": [
+                "صلح صرف وہ جائز ہے جو شریعت کے بنیادی اصولوں سے نہ ٹکرائے۔",
+                "ایسی کوئی ڈیل کرنا حرام ہے جس میں کسی کا حق مارا جائے یا کسی حرام کام (مثلاً سود) کی بنیاد ڈالی جائے۔",
+                "حلال کو حرام قرار دینا بھی اتنا ہی بڑا گناہ ہے جتنا حرام کو حلال کرنا۔"
+              ],
+              "english": [
+                "Only settlements that do not conflict with core Sharia principles are valid.",
+                "It is forbidden to make a deal that usurps a right or introduces something prohibited (like Riba).",
+                "Declaring a lawful thing as forbidden is as grave a sin as permitting the forbidden."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاہدات اور شرائط کی پاسداری",
+        "english": "Adherence to Contracts and Conditions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وعدہ وفائی کی اہمیت",
+              "english": "Importance of Keeping Promises"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کی پہچان یہ ہے کہ وہ اپنی دی ہوئی زبان اور طے شدہ شرائط پر قائم رہیں۔",
+                "تجارتی معاہدوں میں جو شرائط فریقین کی رضامندی سے طے ہوں، ان پر عمل کرنا شرعاً فرض ہے۔",
+                "معاہدہ توڑنا یا شرائط سے پھر جانا منافقت کی نشانیوں میں سے ہے۔"
+              ],
+              "english": [
+                "A defining trait of a Muslim is standing by their word and fulfilling agreed-upon conditions.",
+                "In commercial contracts, conditions set by mutual consent are legally and religiously binding.",
+                "Breaking a contract or deviating from its terms is a sign of hypocrisy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باطل شرائط",
+              "english": "Void Conditions"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی معاہدے میں کوئی ایسی شرط ہو جو اللہ کے حکم کے خلاف ہو، تو وہ شرط ختم تصور ہوگی۔",
+                "مثلاً اگر کوئی نوکری کے معاہدے میں یہ شرط رکھے کہ نماز نہیں پڑھنے دی جائے گی، تو یہ شرط باطل ہے۔",
+                "معاہدے کی بنیاد عدل اور تقویٰ پر ہونی چاہیے۔"
+              ],
+              "english": [
+                "Any condition in a contract that violates Allah's commands is considered null and void.",
+                "For example, a job condition barring a worker from praying is religiously invalid.",
+                "Contracts must be founded on justice and God-consciousness (Taqwa)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی و معاشی اثرات",
+        "english": "Social and Economic Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی اعتماد کا فروغ",
+              "english": "Promoting Mutual Trust"
+            },
+            "content": {
+              "urdu": [
+                "جب لوگ شرائط کی پاسداری کرتے ہیں تو بازار میں اعتماد کی فضا قائم ہوتی ہے۔",
+                "اعتماد ہی معاشی ترقی اور خوشحالی کی بنیاد ہے۔",
+                "شفاف معاہدے عدالتی بوجھ کو کم کرتے ہیں اور سماجی امن کو یقینی بناتے ہیں۔"
+              ],
+              "english": [
+                "When people adhere to conditions, an atmosphere of trust is established in the market.",
+                "Trust is the bedrock of economic growth and prosperity.",
+                "Transparent contracts reduce the burden on courts and ensure social peace."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انفرادی اور اجتماعی اصلاح",
+              "english": "Individual and Collective Reform"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ایک مکمل نظامِ زندگی فراہم کرتی ہے جو فرد کو ذمہ دار بناتا ہے۔",
+                "اصلاحِ احوال کے لیے صلح کا راستہ اختیار کرنا انبیاء کی سنت ہے۔",
+                "امتِ مسلمہ کی طاقت ان کے باہمی اتحاد اور سچائی میں پوشیدہ ہے۔"
+              ],
+              "english": [
+                "This Hadith provides a complete system of life that makes an individual responsible.",
+                "Choosing the path of conciliation for reform is the Sunnah of the Prophets.",
+                "The strength of the Muslim Ummah lies in their mutual unity and truthfulness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلاصہ اور عملی نصیحت",
+        "english": "Summary and Practical Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایمان کا تقاضا",
+              "english": "The Requirement of Faith"
+            },
+            "content": {
+              "urdu": [
+                "اپنے لین دین کو ہر قسم کے حرام سے پاک رکھیں۔",
+                "معاہدہ کرنے سے پہلے اس کے تمام پہلوؤں کو اچھی طرح سمجھ لیں تاکہ بعد میں پشیمانی نہ ہو۔",
+                "ہمیشہ صلح کی کوشش کریں کیونکہ 'صلح خیر ہے'۔"
+              ],
+              "english": [
+                "Keep your transactions pure from all forms of prohibition.",
+                "Understand all aspects of a contract before signing to avoid future regret.",
+                "Always strive for conciliation because 'Settlement is best'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاتمہ",
+              "english": "Conclusion"
+            },
+            "content": {
+              "urdu": [
+                "یہ نبوی ضابطہ معاشرے کو افراط و تفریط سے بچاتا ہے۔",
+                "شرائط کی پابندی اور صلح جوئی ایک مثالی اسلامی معاشرے کی بنیادیں ہیں۔",
+                "اللہ ہمیں اپنے وعدوں اور معاہدوں کو پورا کرنے کی توفیق عطا فرمائے۔"
+              ],
+              "english": [
+                "This Prophetic rule protects society from extremes.",
+                "Adherence to conditions and conciliation are the pillars of an ideal Islamic society.",
+                "May Allah grant us the ability to fulfill our promises and contracts."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

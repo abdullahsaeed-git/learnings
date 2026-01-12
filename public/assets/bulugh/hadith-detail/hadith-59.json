@@ -1,0 +1,272 @@
+{
+  "hadithId": 59,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 7 (Chapter 5)"],
+    "kitabId": 1,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب ما ينقض المسح",
+    "babId": 5
+  },
+
+  "takhreej": {
+    "arabic": " انظر الدارقطني (103  - 204) ، والحاكم (181)   ",
+    "urdu": "اس کے لیے دارقطنی (103-204) اور حاکم (181) کو دیکھیں۔ حاکم نے اسے صحیح قرار دیا ہے۔",
+    "english": "See Ad-Dāraquṭnī (103-204) and Al-Ḥākim (181). Al-Ḥākim authenticated it as Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَبِسَ خُفَّيْهِ",
+      "english": "Puts on his Khuffayn",
+      "urdu": "موزے پہنے"
+    },
+    {
+      "arabic": "فَلْيَمْسَحْ عَلَيْهِمَا",
+      "english": "Then he should wipe over them",
+      "urdu": "ان پر مسح کر لینا چاہیئے"
+    },
+    {
+      "arabic": "وَلْيُصَلِّ فِيهِمَا",
+      "english": "And should pray in them",
+      "urdu": "ان کو پہنے ہوئے نماز پڑھ لے"
+    },
+    {
+      "arabic": "لَا يَخْلَعْهُمَا",
+      "english": "Should not take them off",
+      "urdu": "ان کو نہ اتارے"
+    },
+    {
+      "arabic": "إِنْ شَاءَ",
+      "english": "If he wishes",
+      "urdu": "اگر چاہے"
+    },
+    {
+      "arabic": "إِلَّا مِنْ جَنَابَةٍ",
+      "english": "Except for Janābah",
+      "urdu": "غسل جنابت کی ضرورت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اس بات کو بیان کرتی ہے کہ موزوں پر مسح کرنے والا شخص جب تک ان پر مسح کرنے کی مدت باقی ہے، وہ انہیں نہ اتارے اور ان میں نماز پڑھے، سوائے اس صورت کے جب اسے غسلِ جنابت (بڑی ناپاکی) درپیش ہو۔",
+    "english": "This Hadith clarifies that a person who starts wiping over their Khuffayn is permitted to keep them on and pray in them without removing them (within the time limit), unless they incur **Janābah** (major impurity), which necessitates their removal for Ghusl."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني، كتاب الطهارة، رقم 103-204",
+      "english": "Sunan Ad-Dāraquṭnī, The Book of Purification, Hadith 103-204"
+    },
+    {
+      "arabic": "المستدرك على الصحيحين للحاكم، رقم 181",
+      "english": "Al-Mustadrak 'ala al-Sahihayn by Al-Ḥākim, Hadith 181"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عُمَرُ بْنُ اَلْخَطَّابِ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Umar ibn Al-Khattāb (May Allah be pleased with him)"
+      },
+      "slug": "umar-ibn-al-khattab"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أَنَسُ بْنُ مَالِكٍ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Anas ibn Mālik (May Allah be pleased with him)"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-37-keep-khuffayn-on",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنابت کا اخراج اور وجوب",
+        "english": "Exclusion of Janābah and Its Obligation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بڑی ناپاکی کی شرط",
+              "english": "The Condition of Major Impurity"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ایک بار پھر اس بنیادی شرط کو واضح کرتی ہے کہ موزوں پر مسح کی اجازت صرف **حدث اصغر** (چھوٹی ناپاکی) کے لیے ہے، جو وضو کو توڑتی ہے۔",
+                "مسافر یا مقیم کے لیے **غسلِ جنابت (حدث اکبر)** کی صورت میں موزوں کو اتارنا **فرض** ہے، کیونکہ غسل میں پاؤں کا دھونا لازم ہے اور مسح کافی نہیں۔",
+                "یہ حکم اس بات کی دلیل ہے کہ اسلام میں طہارت کی نوعیت اور اس کے درجات مختلف ہیں، اور ہر ایک کا اپنا حکم ہے۔"
+              ],
+              "english": [
+                "This Hadith reconfirms the core rule that wiping over the socks is only permitted for **minor impurity (*ḥadath aṣghar*)**, which breaks Wudu.",
+                "For both the traveler and resident, the socks must be **removed** in the case of **major impurity (*Janābah*)**, as Ghusl is obligatory and requires washing the feet, which wiping does not achieve.",
+                "This ruling proves that the nature and degrees of ritual purity in Islam are distinct, and each has its own binding command."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز میں موزے پہننا",
+              "english": "Praying While Wearing Khuffayn"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کا یہ حصہ کہ 'ان کو پہنے ہوئے نماز پڑھ لے' اس بات کا ثبوت ہے کہ مسح علی الخفین سے حاصل ہونے والی طہارت **مکمل** اور نماز کے لیے کافی ہے۔",
+                "یہاں 'لَا يَخْلَعْهُمَا إِنْ شَاءَ' (اگر چاہے تو نہ اتارے) کا لفظ یہ ظاہر کرتا ہے کہ موزے اتارنا مسح کے باطل ہونے کی وجہ نہیں، بلکہ یہ محض **اختیار** ہے۔",
+                "یہ آسانی مومن کو سردی یا مشقت میں اس بات کی اجازت دیتی ہے کہ وہ موزے پہنے ہوئے اپنی عبادات کو جاری رکھے۔"
+              ],
+              "english": [
+                "The phrase 'and should pray in them' proves that the purity achieved through wiping over the Khuffayn is **complete** and sufficient for prayer.",
+                "The words 'and should not take them off if he wishes' indicate that removing the socks is not a nullifier of the Wudu but rather a matter of **choice**.",
+                "This facilitation permits the believer to continue their acts of worship while wearing their socks, especially in cold or difficult circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روایت کی اقسام اور قوت",
+        "english": "Types of Narration and Strength"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرفوع اور موقوف کا جمع ہونا",
+              "english": "Combination of Marfūʿ and Mawqūf"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کی ایک سند سیدنا عمرؓ تک **موقوف** ہے (یعنی صحابی کا قول)، جبکہ دوسری سند سیدنا انسؓ کے ذریعے نبی ﷺ تک **مرفوع** ہے (یعنی نبی ﷺ کا قول)۔",
+                "مرفوع روایت (نبی ﷺ کا قول یا فعل) زیادہ قوی ہوتی ہے اور اسی پر شرعی حکم کی بنیاد رکھی جاتی ہے، جو اس مسئلے میں حکم کو مضبوط کرتی ہے۔",
+                "علماء نے اس روایت کو صحیح قرار دیا ہے، جس سے مسح علی الخفین کا اصول مزید یقینی ہو جاتا ہے۔"
+              ],
+              "english": [
+                "One chain of this Hadith is **Mawqūf** (stopped at ʿUmar, the Companion's saying), while the other chain is **Marfūʿ** (traced back to the Prophet ﷺ) through Anas (RA).",
+                "The Marfūʿ narration (the Prophet's saying or action) is stronger and forms the basis for legal rulings, thus solidifying the ruling in this matter.",
+                "Scholars authenticated this narration as Sahih, which further confirms the principle of wiping over the Khuffayn."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسح کا سبب: وضو کی حالت",
+              "english": "Cause of Wiping: State of Wudu"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کا آغاز اس شرط سے ہوتا ہے کہ **'إِذَا تَوَضَّأَ أَحَدُكُمْ وَلَبِسَ خُفَّيْهِ'** (جب تم میں سے کوئی وضو کرے اور موزے پہنے)، جو موزوں پر مسح کی پہلی شرط کو دو طریقوں سے بیان کرتا ہے۔",
+                "یعنی، موزے پہننے سے پہلے پاؤں کا وضو کے ذریعے پاک ہونا ضروری ہے، اور یہ شرط مطلق ہے۔",
+                "اگرچہ یہاں ترتیب میں فرق ہے، لیکن مقصد وہی ہے کہ موزے طہارت کامل کے بعد پہنے گئے ہوں۔"
+              ],
+              "english": [
+                "The Hadith starts with the condition **'When any of you performs Wudu and puts on his Khuffayn,'** which confirms the primary condition for Mas'h: the feet must be ritually pure before the socks are worn.",
+                "This means that the feet must be washed in Wudu before the socks are put on, and this condition is absolute.",
+                "Although there might be a difference in the sequence of wording here, the ultimate goal remains that the socks must be worn after achieving complete ritual purity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسح کے باطل ہونے کے اسباب",
+        "english": "Causes for Invalidating the Wiping"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موزے اتارنا یا مدت کا گزرنا",
+              "english": "Removing Socks or Exceeding the Time Limit"
+            },
+            "content": {
+              "urdu": [
+                "موزوں پر مسح باطل ہو جاتا ہے اگر وہ **اتار دیے جائیں**، یا اگر **مسح کی مدت** (مقیم کے لیے ایک دن رات، مسافر کے لیے تین دن رات) **گزر جائے**۔",
+                "یہاں حدیث میں **جنابت** کا ذکر بھی موزے اتارنے کا ایک اہم سبب ہے، کیونکہ غسل کے لیے ان کا اتارنا لازم ہو جاتا ہے۔",
+                "ان تمام صورتوں میں، مسح کرنے والا شخص دوبارہ مسح نہیں کر سکتا، بلکہ اسے موزے اتار کر پاؤں دھو کر نیا وضو کرنا ضروری ہو گا۔"
+              ],
+              "english": [
+                "Wiping over the socks is nullified if the socks are **removed**, or if the **time limit** for wiping (one day/night for a resident, three days/nights for a traveler) **expires**.",
+                "The mention of **Janābah** in the Hadith is also a necessary cause for removal, as Ghusl requires the feet to be washed.",
+                "In all these cases, the person cannot resume wiping; they must remove the socks, wash their feet, and perform a complete Wudu."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اختیار کا پہلو",
+              "english": "The Element of Choice"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا یہ فرمانا کہ **'وَلَا يَخْلَعْهُمَا إِنْ شَاءَ'** (اگر چاہے تو نہ اتارے) اس بات کی دلیل ہے کہ موزوں کو اتارنا یا پہنے رکھنا **اختیاری** معاملہ ہے۔",
+                "مسلمان پر یہ لازم نہیں کہ وہ رخصت پر عمل کرے، وہ جب چاہے موزے اتار سکتا ہے اور پاؤں دھو کر وضو کر سکتا ہے۔",
+                "تاہم، جب تک وہ ان پر مسح کرنا چاہے، وہ مدت کے اندر ان میں نماز پڑھ سکتا ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) statement **'and should not take them off if he wishes'** proves that whether to keep the socks on or take them off is a matter of **choice** for the individual.",
+                "It is not mandatory for a Muslim to utilize the concession; they can remove their socks and wash their feet whenever they desire.",
+                "However, as long as they wish to wipe over them, they are permitted to pray in them within the prescribed time limit."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سہولت اور عمل کا مقصد",
+        "english": "Ease and Purpose of the Action"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اسلام کی روح، یعنی آسانی (یُسْر) کو واضح کرتی ہے، جہاں فرائض کی ادائیگی کے ساتھ ساتھ بندوں کی آسانی کا خیال رکھا گیا ہے۔",
+                "جنابت کا اخراج اس بات کی دلیل ہے کہ شریعت میں طہارت کے مکمل درجات کو برقرار رکھنا ضروری ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ اس رخصت کو قبول کریں اور اس پر عمل کرتے ہوئے اللہ کی نعمت کا شکر ادا کریں۔"
+              ],
+              "english": [
+                "This Hadith clarifies the spirit of Islam—**ease (Yusr)**—where the facilitation of believers is considered alongside the performance of obligations.",
+                "The exclusion of Janābah proves that maintaining the complete levels of ritual purity is essential in the Sharia.",
+                "Muslims should accept this concession and express gratitude to Allah for this ease by acting upon it when needed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کا اجر",
+              "english": "The Reward of Purity"
+            },
+            "content": {
+              "urdu": [
+                "موزوں پر مسح کرنے سے حاصل ہونے والی طہارت سے نماز صحیح ہو جاتی ہے، اور اس نماز کا اجر بھی مکمل ملتا ہے۔",
+                "یہ آسانی مومن کو سردی، سفر، یا مشقت میں بھی طہارت اور نماز کا تسلسل برقرار رکھنے میں مدد دیتی ہے۔",
+                "اس طرح، یہ حدیث مسلمان کو یہ پیغام دیتی ہے کہ وہ ہر حالت میں طہارت کو برقرار رکھ کر اللہ کے قریب رہے۔"
+              ],
+              "english": [
+                "The purity gained from wiping over the socks validates the prayer, and the full reward for that prayer is attained.",
+                "This ease assists the believer in maintaining the continuity of purity and prayer during cold, travel, or other hardships.",
+                "Thus, this Hadith encourages a Muslim to remain close to Allah by maintaining purity in all circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

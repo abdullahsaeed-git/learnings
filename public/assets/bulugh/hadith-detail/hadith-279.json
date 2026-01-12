@@ -1,0 +1,262 @@
+{
+  "hadithId": 279,
+  "hadithNo": 18,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/baihaqi:3766",
+      "https://sunnah.com/bukhari:4364"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "السنن الكبرى للبيهقي / صحيح البخاري",
+    "babId": 18
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البيهقي ( 2 / 369 )‏ وقال : \" أخرج البخاري صدر هذا الحديث .‏.‏.‏ فلم يسقه بتمامه ، وسجود الشكر في تمام الحديث صحيح على شرطه \" .‏ وأصله في صحيح البخاري (4364).",
+    "urdu": "صحیح۔ اسے بیہقی (2 / 369) نے روایت کیا ہے اور کہا ہے کہ بخاری نے اس حدیث کا ابتدائی حصہ روایت کیا ہے مگر مکمل بیان نہیں کیا، جبکہ مکمل حدیث میں سجدہ شکر کا ذکر بخاری کی شرط پر صحیح ہے۔ اس کی اصل صحیح بخاری (4364) میں ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bayhaqi (2/369), who stated that Al-Bukhari narrated the beginning of this Hadith but not the full text; however, the mention of Sujud ash-Shukr in the complete version is authentic according to Al-Bukhari's criteria. Its origin is in Sahih Al-Bukhari (4364)."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَعَثَ",
+      "english": "Sent",
+      "urdu": "بھیجا"
+    },
+    {
+      "arabic": "كَتَبَ",
+      "english": "Wrote",
+      "urdu": "لکھا / خط لکھا"
+    },
+    {
+      "arabic": "إِسْلَامِهِمْ",
+      "english": "Their Islam (acceptance)",
+      "urdu": "ان کا اسلام لانا"
+    },
+    {
+      "arabic": "قَرَأَ",
+      "english": "Read",
+      "urdu": "پڑھا"
+    },
+    {
+      "arabic": "خَرَّ سَاجِدًا",
+      "english": "Fell prostrating",
+      "urdu": "سجدے میں گر پڑے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بتاتی ہے کہ کسی قوم کے ہدایت پانے یا بڑی کامیابی کی خبر سن کر اللہ کے حضور سجدہ شکر ادا کرنا سنت نبوی ہے، جیسا کہ آپ ﷺ نے اہل یمن کے اسلام لانے پر کیا۔",
+    "english": "This Hadith demonstrates that performing Sujud ash-Shukr upon hearing news of guidance or great success is a Prophetic Sunnah, as he (ﷺ) did upon the acceptance of Islam by the people of Yemen."
+  },
+  "references": [
+    {
+      "arabic": "رواه البيهقي (3766)",
+      "english": "Reported by Al-Bayhaqi (3766)"
+    },
+    {
+      "arabic": "أصله في البخاري (4364)",
+      "english": "Origin in Al-Bukhari (4364)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "الْبَرَاءِ بْنِ عَازِبٍ",
+        "english": "Al-Bara' bin 'Azib"
+      },
+      "slug": "al-bara-bin-azib"
+    }
+  ],
+  "ytLink": "https://youtu.be/Fuvr5KkU1-g?si=Y9_G8AhW_lFfD7_d",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا پس منظر",
+        "english": "Background of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "یمن کی فتح",
+              "english": "Victory of Yemen"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے سیدنا علی رضی اللہ عنہ کو دعوت اسلام کے لیے بھیجا۔",
+                "قبیلہ ہمدان نے ایک ہی دن میں اسلام قبول کر لیا۔",
+                "یہ دعوت کے میدان میں ایک عظیم کامیابی تھی۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) sent Ali (RA) to Yemen for Da'wah.",
+                "The tribe of Hamdan accepted Islam in a single day.",
+                "This was a great success in the field of Da'wah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا ردعمل",
+              "english": "Reaction of the Prophet"
+            },
+            "content": {
+              "urdu": [
+                "خط پڑھتے ہی آپ ﷺ جذباتِ تشکر سے مغلوب ہو گئے۔",
+                "بے اختیار اللہ کے حضور سجدے میں گر پڑے۔",
+                "یہ امت کے لیے ہدایت کی خوشی منانے کا طریقہ ہے۔"
+              ],
+              "english": [
+                "Upon reading the letter, he (ﷺ) was overwhelmed with gratitude.",
+                "He spontaneously fell into prostration before Allah.",
+                "This is the way to celebrate the joy of guidance for the Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سجدہ شکر کی مشروعیت",
+              "english": "Legitimacy of Sujud Shukr"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سجدہ شکر کے مستحب ہونے کی واضح دلیل ہے۔",
+                "فقہاء کے نزدیک بڑی نعمت کے حصول پر یہ سجدہ سنت ہے۔",
+                "اس کے لیے تکبیرِ تحریمہ یا سلام کی ضرورت نہیں (راجح قول)۔"
+              ],
+              "english": [
+                "This Hadith is clear proof that Sujud Shukr is Mustahabb (recommended).",
+                "According to jurists, it is Sunnah upon receiving a major blessing.",
+                "It requires neither Takbir Tahreema nor Taslim (preferred view)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضو کی شرط",
+              "english": "Condition of Wudu"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے خط پڑھتے ہی سجدہ کیا، جس سے معلوم ہوتا ہے کہ وضو شرط نہیں۔",
+                "اچانک خوشخبری کے وقت وضو کا انتظام مشکل ہو سکتا ہے۔",
+                "یہ عمل کی سہولت اور فطری ردعمل کی تائید کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) prostrated immediately, implying Wudu is not a condition.",
+                "Arranging for Wudu can be difficult upon sudden news.",
+                "This supports the ease of action and natural reaction."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کامیابی کا انتساب",
+              "english": "Attributing Success"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اپنی حکمت عملی پر فخر نہیں کیا بلکہ اللہ کا شکر کیا۔",
+                "ہمیں اپنی ہر کامیابی کو اللہ کی عطا سمجھنا چاہیے۔",
+                "سجدہ کرنا تکبر کو ختم کرتا ہے اور عاجزی لاتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not pride himself on strategy but thanked Allah.",
+                "We should consider every success as a gift from Allah.",
+                "Prostrating removes arrogance and brings humility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لیڈر کی خوشی",
+              "english": "Leader's Joy"
+            },
+            "content": {
+              "urdu": [
+                "سچے رہنما کی سب سے بڑی خوشی لوگوں کی ہدایت ہوتی ہے۔",
+                "دنیاوی مال و دولت پر وہ اتنے خوش نہیں ہوتے جتنا دین کے پھیلاؤ پر۔",
+                "امت کے غم اور خوشی میں شریک ہونا سنت ہے۔"
+              ],
+              "english": [
+                "A true leader's greatest joy is the guidance of people.",
+                "They do not rejoice over worldly wealth as much as the spread of religion.",
+                "It is Sunnah to share in the grief and joy of the Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تحریری رپورٹنگ",
+              "english": "Written Reporting"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی نے زبانی پیغام کے بجائے خط لکھا۔",
+                "انتظامی امور میں تحریری رپورٹ کی اہمیت واضح ہوتی ہے۔",
+                "نبی ﷺ کا خط پڑھنا آپ کی توجہ اور اہتمام کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Ali (RA) wrote a letter instead of sending a verbal message.",
+                "The importance of written reports in administrative matters is clear.",
+                "The Prophet (ﷺ) reading the letter shows his attention and care."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعوت کے اثرات",
+              "english": "Effects of Da'wah"
+            },
+            "content": {
+              "urdu": [
+                "اخلاص کے ساتھ کی گئی دعوت دلوں کو بدل دیتی ہے۔",
+                "ایک داعی کے لیے سب سے بڑا انعام لوگوں کا راہ راست پر آنا ہے۔",
+                "اسلام تلوار سے نہیں، اخلاق اور دعوت سے پھیلا ہے۔"
+              ],
+              "english": [
+                "Da'wah performed with sincerity changes hearts.",
+                "The greatest reward for a preacher is people finding the right path.",
+                "Islam spread through character and Da'wah, not the sword."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

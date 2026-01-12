@@ -1,0 +1,259 @@
+{
+  "hadithId": 1225,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:1668"],
+    "kitabId": 15,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأيمان",
+    "babId": 100
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1668)، وأبو داود (3958)، والترمذي (1364)، والنسائي (1958).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (1668) نے اسے روایت کیا ہے۔ اس کے علاوہ دیگر کتب سنن میں بھی یہ مروی ہے۔",
+    "english": "Sahih. Reported by Muslim (1668), Abu Dawud (3958), At-Tirmidhi (1364), and An-Nasa'i (1958)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْتَقَ",
+      "english": "Emancipated",
+      "urdu": "آزاد کیا"
+    },
+    {
+      "arabic": "مَمْلُوكِينَ",
+      "english": "Slaves",
+      "urdu": "غلاموں کو"
+    },
+    {
+      "arabic": "أَثْلَاثًا",
+      "english": "Three groups",
+      "urdu": "تین حصے"
+    },
+    {
+      "arabic": "أَقْرَعَ",
+      "english": "Cast lots",
+      "urdu": "قرعہ اندازی کی"
+    },
+    {
+      "arabic": "شَدِيدًا",
+      "english": "Harsh/Severe",
+      "urdu": "سخت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ بسترِ مرگ پر دی گئی وصیت صرف کل مال کے ایک تہائی (1/3) حصے پر نافذ ہوتی ہے، تاکہ ورثاء کا حق ضائع نہ ہو۔",
+    "english": "This Hadith establishes that a bequest or gift made on one's deathbed is only valid for one-third of the estate to protect the heirs' rights."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1668)",
+      "english": "Reported by Muslim (1668)"
+    },
+    {
+      "arabic": "رواه الترمذي (1364)",
+      "english": "Reported by At-Tirmidhi (1364)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمران بن حصين",
+        "english": "Imran bin Husain"
+      },
+      "slug": "imran-bin-husain"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وصیت اور ایک تہائی کا قانون",
+        "english": "Wills and the One-Third Rule"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ورثاء کے حقوق کا تحفظ",
+              "english": "Protecting Heirs' Rights"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے مرنے والے کو صرف ایک تہائی مال میں تصرف کا حق دیا ہے۔",
+                "اگر کوئی سارا مال صدقہ کر دے تو ورثاء مفلس رہ جائیں گے۔",
+                "نبی ﷺ نے اس معاملے میں ورثاء کے مفاد کو مقدم رکھا۔"
+              ],
+              "english": [
+                "Islam grants the deceased the right to dispose of only one-third of the estate.",
+                "If the entire property were given away, the heirs would be left in poverty.",
+                "The Prophet (ﷺ) prioritized the welfare of the heirs in this ruling."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بسترِ مرگ کی وصیت",
+              "english": "Deathbed Bequests"
+            },
+            "content": {
+              "urdu": [
+                "مرض الموت میں کیے گئے مالی فیصلے وصیت کے حکم میں آتے ہیں۔",
+                "اس حالت میں انسان اکثر جذباتی ہو کر غیر متوازن فیصلے کرتا ہے۔",
+                "شریعت نے ایک تہائی کی حد لگا کر انصاف کا نظام قائم کیا ہے۔"
+              ],
+              "english": [
+                "Financial decisions made during a terminal illness are treated as bequests.",
+                "In this state, individuals often make unbalanced decisions based on emotion.",
+                "Sharia established the one-third limit to maintain a system of justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قرعہ اندازی کی اہمیت",
+        "english": "Significance of Casting Lots"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نزاع کا منصفانہ حل",
+              "english": "Fair Dispute Resolution"
+            },
+            "content": {
+              "urdu": [
+                "جب تمام غلام برابر ہوں تو کسی خاص کو چننا مشکل ہوتا ہے۔",
+                "قرعہ اندازی سے جانبداری کا خدشہ ختم ہو جاتا ہے۔",
+                "یہ طریقہ کار کسی کی دل آزاری کے بغیر تصفیہ کرتا ہے۔"
+              ],
+              "english": [
+                "When all slaves are equal, it is difficult to choose specific ones for freedom.",
+                "Casting lots eliminates any suspicion of favoritism or bias.",
+                "This method settles the matter without causing resentment among parties."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنتِ نبوی میں قرعہ",
+              "english": "Lots in Prophetic Tradition"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے پیچیدہ مسائل کے حل کے لیے قرعہ اندازی کو اپنایا۔",
+                "یہ اس بات کی دلیل ہے کہ قرعہ اندازی ایک شرعی طریقہ ہے۔",
+                "اس سے معاشرے میں بے یقینی اور باہمی دشمنی کا خاتمہ ہوتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) adopted casting lots to solve complex issues.",
+                "This serves as evidence that casting lots is a valid Sharia method.",
+                "It helps in eliminating uncertainty and mutual animosity in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سخت کلامی کی حکمت",
+        "english": "Wisdom Behind the Harsh Words"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غلط مالی رویے کی مذمت",
+              "english": "Condemning Poor Financial Conduct"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اس شخص کے فعل پر ناپسندیدگی کا اظہار فرمایا۔",
+                "ایک تہائی سے زیادہ خرچ کرنا ورثاء پر بوجھ ڈالنا ہے۔",
+                "ایسا کرنا اللہ کے مقرر کردہ حقوق میں تجاوز کے مترادف ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) expressed strong disapproval of the man's action.",
+                "Spending more than one-third imposes an unfair burden on the heirs.",
+                "Doing so is considered an overstepping of the rights ordained by Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعلیم اور تنبیہ",
+              "english": "Education and Admonition"
+            },
+            "content": {
+              "urdu": [
+                "سخت کلمات کا مقصد امت کو مستقبل میں ایسی غلطی سے روکنا تھا۔",
+                "صرف نیت کا اچھا ہونا کافی نہیں، عمل کا درست ہونا بھی ضروری ہے۔",
+                "دین میں حقوق اللہ کے ساتھ حقوق العباد کا توازن لازمی ہے۔"
+              ],
+              "english": [
+                "The harsh words were meant to deter the Ummah from such future mistakes.",
+                "Good intention alone is not sufficient; the action must also be correct.",
+                "In religion, a balance between the rights of Allah and people is mandatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وصیت میں اعتدال",
+              "english": "Moderation in Bequests"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو چاہیے کہ صحت کی حالت میں ہی صدقہ و خیرات کرے۔",
+                "آخری وقت کے لیے سارے کام چھوڑ دینا دانشمندی نہیں ہے۔",
+                "اپنی اولاد کو خود کفیل چھوڑ کر جانا صدقہ کرنے سے بہتر ہو سکتا ہے۔"
+              ],
+              "english": [
+                "A person should perform acts of charity while still in good health.",
+                "Leaving all charitable deeds for the final moments is not wise.",
+                "Leaving your children self-sufficient can be better than excessive charity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل کا نفاذ",
+              "english": "Implementing Justice"
+            },
+            "content": {
+              "urdu": [
+                "کسی کی مالی وصیت کو قانون کی نظر سے جانچنا ریاست کا حق ہے۔",
+                "انصاف کی روح کو برقرار رکھنے کے لیے قوانین پر عمل ضروری ہے۔",
+                "مظلوموں کے حقوق کا تحفظ کرنا بہترین اسلامی فریضہ ہے۔"
+              ],
+              "english": [
+                "The state has the right to scrutinize a financial will through law.",
+                "Following regulations is essential to uphold the spirit of justice.",
+                "Protecting the rights of the vulnerable is a noble Islamic duty."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

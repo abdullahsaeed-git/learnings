@@ -1,0 +1,281 @@
+{
+  "hadithId": 902,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/13/11", "nasai:3887", "bukhar:5409"],
+    "kitabId": 8,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 68
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه النسائي في السنن الكبرى (6683) واللفظ له، وأبو داود (3772)، والترمذي (1805)، وابن ماجه (3277). والحديث الثاني متفق عليه: البخاري (5409) ومسلم (2064).",
+    "urdu": "یہ روایت صحیح ہے۔ اسے امام نسائی (6683)، ابو داؤد (3772)، ترمذی (1805) اور ابن ماجہ (3277) نے روایت کیا ہے۔ دوسرا حصہ متفق علیہ ہے، بخاری (5409) اور مسلم (2064) میں موجود ہے۔",
+    "english": "Sahih. Reported by An-Nasa'i (6683), Abu Dawud (3772), At-Tirmidhi (1805), and Ibn Majah (3277). The second part is Sahih, reported by Al-Bukhari (5409) and Muslim (2064)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَصْعَةٍ",
+      "english": "Large bowl",
+      "urdu": "بڑا پیالہ"
+    },
+    {
+      "arabic": "ثَرِيدٍ",
+      "english": "Meat and bread dish",
+      "urdu": "ثرید (شوربے میں بھیگی روٹی)"
+    },
+    {
+      "arabic": "جَوَانِبِهَا",
+      "english": "Its sides",
+      "urdu": "اس کے اطراف / کنارے"
+    },
+    {
+      "arabic": "وَسَطِهَا",
+      "english": "Its middle",
+      "urdu": "اس کا درمیان"
+    },
+    {
+      "arabic": "الْبَرَكَةَ",
+      "english": "The blessing",
+      "urdu": "برکت"
+    },
+    {
+      "arabic": "عَابَ",
+      "english": "Found fault / Criticized",
+      "urdu": "عیب نکالا / برائی کی"
+    },
+    {
+      "arabic": "اشْتَهَى",
+      "english": "Desired",
+      "urdu": "خواہش کی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث کھانے کے آداب سکھاتی ہے: برکت کے حصول کے لیے کھانے کے درمیان کے بجائے کناروں سے کھانا چاہیے، اور کھانے میں عیب نکالنے سے بچنا چاہیے۔",
+    "english": "This Hadith teaches eating etiquettes: eating from the sides of the dish to gain blessing and avoiding criticizing food even if it is not liked."
+  },
+  "references": [
+    {
+      "arabic": "رواه النسائي (6683)",
+      "english": "Reported by An-Nasa'i (6683)"
+    },
+    {
+      "arabic": "رواه البخاري (5409)",
+      "english": "Reported by Al-Bukhari (5409)"
+    },
+    {
+      "arabic": "رواه مسلم (2064)",
+      "english": "Reported by Muslim (2064)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOfU5W4j-8I",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کھانے میں برکت کے آداب",
+        "english": "Etiquettes of Blessing in Food"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برکت کا نزول",
+              "english": "Descent of Blessing"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ کھانے کے درمیان میں برکت نازل فرماتا ہے۔",
+                "اگر درمیان سے کھایا جائے تو برکت جلد ختم ہو جاتی ہے۔",
+                "کناروں سے کھانا سنت نبوی اور برکت کا باعث ہے۔"
+              ],
+              "english": [
+                "Allah Almighty sends down blessings in the middle of the food.",
+                "Eating from the middle causes the blessing to vanish quickly.",
+                "Eating from the sides is the Prophetic Sunnah and brings barakah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی کھانے کے آداب",
+              "english": "Etiquettes of Shared Meals"
+            },
+            "content": {
+              "urdu": [
+                "ایک ہی پیالے میں کھاتے وقت دوسروں کا لحاظ رکھنا ضروری ہے۔",
+                "اپنے سامنے سے کھانا اسلامی تہذیب کا اہم حصہ ہے۔",
+                "درمیان میں ہاتھ ڈالنا بدتہذیبی اور بے برکتی کا سبب ہے۔"
+              ],
+              "english": [
+                "It is essential to consider others when eating from the same bowl.",
+                "Eating from what is directly in front of you is a core Islamic etiquette.",
+                "Reaching into the middle is considered poor manners and lacks blessing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کھانے کی قدر و منزلت",
+        "english": "Respecting the Provision"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عیب نکالنے کی ممانعت",
+              "english": "Prohibition of Criticizing Food"
+            },
+            "content": {
+              "urdu": [
+                "رسول اللہ ﷺ نے کبھی کسی حلال کھانے میں عیب نہیں نکالا۔",
+                "کھانے کی برائی کرنا اللہ کی نعمت کی ناشکری ہے۔",
+                "اگر کھانا پسند نہ ہو تو خاموشی سے چھوڑ دینا بہتر ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) never criticized any lawful food presented to him.",
+                "Finding fault with food is a form of ungratefulness to Allah.",
+                "If food is not to one's liking, it is better to leave it silently."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال اور پسند و ناپسند",
+              "english": "Moderation and Personal Preference"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو اپنی طبیعت کے مطابق کھانے کا حق حاصل ہے۔",
+                "نبی کریم ﷺ اشتہا ہونے پر کھاتے اور ناپسندیدگی پر چھوڑ دیتے۔",
+                "یہ طرز عمل ہمیں خوراک کے معاملے میں اعتدال سکھاتا ہے۔"
+              ],
+              "english": [
+                "A person has the right to eat according to their natural inclination.",
+                "The Prophet (ﷺ) ate when he desired and left it if he disliked it.",
+                "This behavior teaches us moderation and balance regarding food."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و تربیتی پہلو",
+        "english": "Moral and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شکر گزاری کا جذبہ",
+              "english": "Spirit of Gratitude"
+            },
+            "content": {
+              "urdu": [
+                "جو میسر ہو اسے اللہ کا فضل سمجھ کر قبول کرنا چاہیے۔",
+                "کھانے میں کیڑے نکالنا متکبرانہ رویے کی علامت ہے۔",
+                "عاجزی کے ساتھ کھانا برکت اور محبت کو بڑھاتا ہے۔"
+              ],
+              "english": [
+                "Accept whatever is available as a favor and grace from Allah.",
+                "Niggling over food is a sign of an arrogant attitude.",
+                "Eating with humility increases both blessing and mutual love."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی کمال عاجزی",
+              "english": "Humble Character of the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا اخلاق دسترخوان پر بھی نمایاں نظر آتا تھا۔",
+                "آپ ﷺ نے اپنی ذات کے لیے کبھی کھانے پر غصہ نہیں کیا۔",
+                "آپ ﷺ کی زندگی کا ہر عمل ہمارے لیے بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) character was evident even at the dining mat.",
+                "He never expressed anger over food for his own sake.",
+                "Every action in the life of the Prophet is the best example for us."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و طبی فوائد",
+        "english": "Juristic and Health Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کے مطابق کھانا",
+              "english": "Eating According to Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سنت پر عمل کرنے سے روحانی اور جسمانی سکون ملتا ہے۔",
+                "کناروں سے کھانا حرارت کو معتدل رکھنے میں مدد دیتا ہے۔",
+                "اسلامی طریقے سے کھانا نظام ہضم کے لیے بھی مفید ہے۔"
+              ],
+              "english": [
+                "Following the Sunnah provides spiritual and physical tranquility.",
+                "Eating from the sides helps in maintaining moderate temperature.",
+                "Eating the Islamic way is also beneficial for the digestive system."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نعمتوں کی حفاظت",
+              "english": "Safeguarding the Blessings"
+            },
+            "content": {
+              "urdu": [
+                "کھانے کے آداب کی پاسداری رزق میں اضافے کا سبب ہے۔",
+                "بے ادبی سے رزق کی برکت اٹھا لی جاتی ہے۔",
+                "دسترخوان کے آداب معاشرتی ہم آہنگی پیدا کرتے ہیں۔"
+              ],
+              "english": [
+                "Adhering to eating etiquettes leads to an increase in provision.",
+                "Disrespectful behavior causes the blessing of rizq to be lifted.",
+                "Table manners create social harmony and disciplined living."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

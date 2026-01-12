@@ -1,0 +1,261 @@
+{
+  "hadithId": 373,
+  "hadithNo": 20,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/2/428"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام - كتاب الصلاة",
+    "babId": 22
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف جداً أو موضوع. رواه البزار (307/1)، وفيه يوسف بن خالد السمتي وهو كذاب ومتروك كما قال ابن معين وغيره.",
+    "urdu": "یہ روایت سخت ضعیف یا من گھڑت ہے۔ اسے بزار (307/1) نے روایت کیا ہے، اس کی سند میں یوسف بن خالد السمتی ہے جسے امام ابن معین نے کذاب (جھوٹا) قرار دیا ہے۔",
+    "english": "Very weak or fabricated. Reported by al-Bazzar (1/307). Its chain includes Yusuf bin Khalid al-Samti, who was declared a liar and abandoned by Ibn Ma'in."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَسْتَغْفِرُ",
+      "english": "Seeking forgiveness",
+      "urdu": "بخشش مانگنا"
+    },
+    {
+      "arabic": "لِلْمُؤْمِنِينَ",
+      "english": "For believing men",
+      "urdu": "مومن مردوں کے لیے"
+    },
+    {
+      "arabic": "الْمُؤْمِنَاتِ",
+      "english": "For believing women",
+      "urdu": "مومن عورتوں کے لیے"
+    },
+    {
+      "arabic": "كُلَّ جُمُعَةٍ",
+      "english": "Every Friday",
+      "urdu": "ہر جمعہ"
+    },
+    {
+      "arabic": "لَيِّنٍ",
+      "english": "Soft / Weak",
+      "urdu": "کمزور / نرم"
+    }
+  ],
+  "summary": {
+    "urdu": "اس روایت میں جمعہ کے دن مومنین کے لیے دعائے مغفرت کا تذکرہ ہے، اگرچہ یہ سنداً ضعیف ہے مگر مسلمانوں کے لیے دعا کرنا ایک مستحسن عمل ہے۔",
+    "english": "This narration mentions seeking forgiveness for believers on Friday; although the chain is weak, praying for Muslims is a recommended act."
+  },
+  "references": [
+    {
+      "arabic": "مسند البزار (1/307)",
+      "english": "Musnad al-Bazzar (1/307)"
+    },
+    {
+      "arabic": "مجمع الزوائد (2/191)",
+      "english": "Majma' al-Zawa'id (2/191)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سمرة بن جندب",
+        "english": "Samurah bin Jundub"
+      },
+      "slug": "samurah-bin-jundub"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOfR8P2lT88",
+  "grade": {
+    "arabic": "ضعيف جداً",
+    "english": "Very Weak (Da'if Jiddan)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعائے مغفرت کی اہمیت",
+        "english": "Importance of Seeking Forgiveness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مومنین کے لیے دعا",
+              "english": "Praying for Believers"
+            },
+            "content": {
+              "urdu": [
+                "تمام مسلمان مردوں اور عورتوں کے لیے مغفرت طلب کرنا انبیاء کی سنت ہے۔",
+                "یہ عمل مسلمانوں کے مابین باہمی محبت اور ہمدردی کو ظاہر کرتا ہے۔",
+                "دوسروں کے لیے غائبانہ دعا کرنے پر فرشتے آمین کہتے ہیں۔"
+              ],
+              "english": [
+                "Seeking forgiveness for all Muslim men and women is a prophetic Sunnah.",
+                "This act reflects mutual love and compassion among the Muslim community.",
+                "Angels say 'Ameen' when a believer prays for others in their absence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جمعہ کا مخصوص موقع",
+              "english": "Specific Occasion of Friday"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کا دن قبولیتِ دعا کا دن ہے، اس لیے دعاؤں کا اہتمام کرنا چاہیے۔",
+                "خطبہ جمعہ میں مسلمانوں کے لیے دعا کرنا ایک قدیم اسلامی شعار ہے۔",
+                "اس سے امتِ مسلمہ کی اجتماعیت اور اتحاد کا اظہار ہوتا ہے۔"
+              ],
+              "english": [
+                "Friday is a day for acceptance of prayers, requiring extra effort in du'a.",
+                "Praying for Muslims during the Friday sermon is a long-standing Islamic practice.",
+                "It demonstrates the collective unity and strength of the Muslim Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روایت کی علمی حیثیت",
+        "english": "Scholarly Status of the Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کی کمزوری",
+              "english": "Weakness of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت کی سند میں یوسف بن خالد جیسا کذاب راوی موجود ہے۔",
+                "محدثین نے اسے 'ہالک' یعنی بالکل ناقابلِ اعتبار سند قرار دیا ہے۔",
+                "دین کے معاملے میں صحیح اور مستند احادیث پر ہی انحصار کرنا چاہیے۔"
+              ],
+              "english": [
+                "The chain contains Yusuf bin Khalid, who was known as a fabricator.",
+                "Scholars of Hadith have labeled this specific chain as 'destroyed' or unreliable.",
+                "One should rely solely on authentic and verified narrations in religious matters."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مفہوم کی درستی",
+              "english": "Correctness of the Meaning"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ خاص الفاظ ضعیف ہیں، مگر دیگر صحیح احادیث دعا کی تائید کرتی ہیں۔",
+                "قرآن پاک میں بھی مومنوں کے لیے استغفار کا حکم دیا گیا ہے۔",
+                "کسی ضعیف حدیث کا مفہوم اگر قرآن کے مطابق ہو تو اس پر عمل جائز ہے۔"
+              ],
+              "english": [
+                "Although these specific words are weak, other authentic Hadiths support prayer.",
+                "The Holy Quran also commands seeking forgiveness for the believers.",
+                "If the meaning of a weak Hadith aligns with the Quran, following it is permissible."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجتماعی دعا کے آداب",
+        "english": "Etiquettes of Collective Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خلوصِ نیت",
+              "english": "Sincerity of Intent"
+            },
+            "content": {
+              "urdu": [
+                "دعا صرف زبان سے نہیں بلکہ دل کی گہرائیوں سے ہونی چاہیے۔",
+                "امت کے حال پر رحم مانگنا اللہ کو بہت پسند ہے۔",
+                "خلوصِ نیت دعا کی قبولیت کے لیے پہلی اور بنیادی شرط ہے۔"
+              ],
+              "english": [
+                "Supplication should stem from the heart's depths, not just the tongue.",
+                "Allah loves when a servant asks for mercy upon the entire Ummah.",
+                "Sincerity is the primary and fundamental condition for the acceptance of du'a."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جامع دعاؤں کا انتخاب",
+              "english": "Choosing Comprehensive Prayers"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ہمیشہ مختصر مگر جامع دعائیں پسند فرماتے تھے۔",
+                "مومنین کے لیے مغفرت کی دعا ایک نہایت جامع کلمہ ہے۔",
+                "ایسی دعائیں دنیا اور آخرت کی تمام بھلائیوں کو سمیٹ لیتی ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) always preferred brief yet comprehensive supplications.",
+                "Praying for the forgiveness of believers is a very inclusive phrase.",
+                "Such prayers encompass all types of goodness for both worlds."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور سبق",
+        "english": "Practical Training and Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفرتوں کا خاتمہ",
+              "english": "Ending Hatred"
+            },
+            "content": {
+              "urdu": [
+                "دوسروں کے لیے دعا کرنا دل سے کینہ اور حسد ختم کرتا ہے۔",
+                "مومن وہی ہے جو اپنے بھائی کے لیے وہی چاہے جو اپنے لیے۔",
+                "دعائے مغفرت دلوں میں نرمی اور باہمی ہمدردی پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "Praying for others purifies the heart from malice and envy.",
+                "A true believer desires for his brother what he desires for himself.",
+                "Seeking forgiveness for others fosters tenderness and empathy in hearts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مستقل مزاجی",
+              "english": "Consistency in Worship"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت سے ہر جمعہ کو مستقل نیکی کرنے کا سبق ملتا ہے۔",
+                "نیکی کا وہ عمل بہترین ہے جو چاہے تھوڑا ہو مگر مستقل ہو۔",
+                "اپنے معمولات میں امت کے لیے دعا کو لازمی حصہ بنائیں۔"
+              ],
+              "english": [
+                "This narration teaches the lesson of performing good deeds consistently.",
+                "The best deed is the one done regularly, even if it is small.",
+                "Make praying for the Ummah an essential part of your daily routine."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

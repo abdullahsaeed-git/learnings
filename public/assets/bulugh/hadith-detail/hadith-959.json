@@ -1,0 +1,259 @@
+{
+  "hadithId": 959,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1101"],
+    "kitabId": 8,
+    "inKitabBab": 12,
+    "arabicBook": "كتاب العدة",
+    "babId": 75
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف جداً.‏ رواه الدارقطني (3 /310)‏، وفي سنده متروكون ومجاهيل. والصحيح في هذه المسألة ما ورد عن الصحابة كعمر وعثمان رضي الله عنهم بتحديد مدة أربع سنين.",
+    "urdu": "یہ روایت سخت ضعیف ہے۔ اسے امام دارقطنی نے روایت کیا ہے مگر اس کی سند میں متروک اور مجہول راوی ہیں۔ اس مسئلے میں صحیح بات وہ ہے جو حضرت عمر اور حضرت عثمان رضی اللہ عنہما سے مروی ہے کہ مفقود الخبر کی بیوی چار سال انتظار کرے۔",
+    "english": "Very Weak. Reported by Ad-Daraqutni (3/310). The chain contains abandoned and unknown narrators. The authentic position in this matter is what has been reported from Umar and Uthman (RA), designating a waiting period of four years."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْمَفْقُودِ",
+      "english": "Missing person",
+      "urdu": "گمشدہ شخص"
+    },
+    {
+      "arabic": "اَلْبَيَانُ",
+      "english": "Clear evidence/news",
+      "urdu": "واضح خبر یا اطلاع"
+    },
+    {
+      "arabic": "حَتَّى",
+      "english": "Until",
+      "urdu": "یہاں تک کہ"
+    },
+    {
+      "arabic": "إِسْنَادٍ",
+      "english": "Chain of narrators",
+      "urdu": "سند / واسطہ"
+    },
+    {
+      "arabic": "ضَعِيفٍ",
+      "english": "Weak",
+      "urdu": "کمزور"
+    }
+  ],
+  "summary": {
+    "urdu": "گمشدہ شخص کی بیوی کے متعلق یہ ضعیف روایت کہتی ہے کہ وہ ہمیشہ نکاح میں رہے گی، مگر فقہاء نے صحابہ کے فیصلوں کی روشنی میں اس کے لیے مخصوص مدت (چار سال) مقرر کی ہے۔",
+    "english": "This weak narration suggests a missing man's wife remains married indefinitely; however, jurists, following the Companions, established a specific waiting period (usually four years) before she can remarry."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني (3 /310)",
+      "english": "Sunan al-Daraqutni (3/310)"
+    },
+    {
+      "arabic": "نيل الأوطار للشوكاني",
+      "english": "Nayl al-Awtar by Ash-Shawkani"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "المغيرة بن شعبة",
+        "english": "Al-Mughirah bin Shu'bah"
+      },
+      "slug": "al-mughirah-bin-shubah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kq6fR_wz4",
+  "grade": {
+    "arabic": "ضعيف جداً",
+    "english": "Very Weak"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مفقود الخبر کی تعریف اور حکم",
+        "english": "Definition and Ruling of the Missing Person"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مفقود الخبر کون ہے؟",
+              "english": "Who is the 'Mafqud'?"
+            },
+            "content": {
+              "urdu": [
+                "مفقود الخبر وہ شخص ہے جو غائب ہو جائے اور یہ معلوم نہ ہو سکے کہ وہ زندہ ہے یا مر گیا۔",
+                "اس ضعیف حدیث کے مطابق جب تک موت یقینی نہ ہو جائے نکاح برقرار رہے گا۔",
+                "لیکن عملی طور پر اس سے عورت پر بڑی تنگی اور معاشرتی مسائل پیدا ہوتے ہیں۔"
+              ],
+              "english": [
+                "A 'Mafqud' is a person who disappears such that his life or death status is unknown.",
+                "According to this weak Hadith, the marriage remains intact until death is certain.",
+                "Practically, this leads to great hardship and social issues for the abandoned wife."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کرام کا فیصلہ",
+              "english": "Judgment of the Companions"
+            },
+            "content": {
+              "urdu": [
+                "حضرت عمر رضی اللہ عنہ نے فیصلہ دیا کہ بیوی چار سال تک انتظار کرے۔",
+                "چار سال گزرنے کے بعد وہ چار ماہ دس دن کی عدت گزار کر نکاح کر سکتی ہے۔",
+                "یہ فیصلہ مصلحت اور عورت کے حقوق کی حفاظت کے لیے کیا گیا تھا۔"
+              ],
+              "english": [
+                "Umar (RA) ruled that the wife should wait for a period of four years.",
+                "After four years, she observes the widow's Iddah (4 months 10 days) and then can remarry.",
+                "This decision was based on public interest and protecting the rights of the woman."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب کی آراء",
+        "english": "Views of Juristic Schools"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مالکی اور حنبلی موقف",
+              "english": "Maliki and Hanbali Position"
+            },
+            "content": {
+              "urdu": [
+                "امام مالک اور امام احمد کے نزدیک چار سال کی مدت مقرر ہے جس کے بعد عدت شروع ہوگی۔",
+                "یہ موقف دورِ حاضر کے حالات میں زیادہ قرینِ قیاس اور سہولت والا ہے۔",
+                "اس کا مقصد عورت کو معلق رہنے کی اذیت سے نجات دلانا ہے۔"
+              ],
+              "english": [
+                "Imams Malik and Ahmad set a period of four years, after which the Iddah begins.",
+                "This position is more logical and provides ease in modern circumstances.",
+                "The goal is to save the woman from the agony of being left in limbo."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احناف اور شوافع کا قدیم موقف",
+              "english": "Early Hanafi and Shafi'i Views"
+            },
+            "content": {
+              "urdu": [
+                "قدیم احناف کے نزدیک اس وقت تک انتظار کیا جائے گا جب تک اس کے ہم عمر لوگ نہ مر جائیں۔",
+                "تاہم بعد کے حنفی فقہاء نے ضرورت اور فتنے کے ڈر سے مالکی مسلک پر فتویٰ دیا ہے۔",
+                "اسلامی فقہ میں حالات کی تبدیلی کے ساتھ احکام میں لچک موجود ہے۔"
+              ],
+              "english": [
+                "Early Hanafis suggested waiting until his contemporaries had all passed away.",
+                "However, later Hanafi jurists adopted the Maliki view due to necessity and hardship.",
+                "Islamic jurisprudence offers flexibility as circumstances change over time."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدالت اور ثبوت کی اہمیت",
+        "english": "Importance of Court and Evidence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قاضی کا کردار",
+              "english": "Role of the Judge"
+            },
+            "content": {
+              "urdu": [
+                "یہ معاملہ عورت خود حل نہیں کر سکتی بلکہ اسے اسلامی عدالت سے رجوع کرنا چاہیے۔",
+                "قاضی تمام دستیاب ذرائع سے گمشدہ شخص کی تلاش کی کوشش کرے گا۔",
+                "عدالتی فیصلے کے بغیر عورت کا دوسرا نکاح کرنا شرعی طور پر درست نہیں ہوگا۔"
+              ],
+              "english": [
+                "The woman cannot resolve this alone; she must approach an Islamic court.",
+                "The judge must use all available means to search for the missing person.",
+                "Without a judicial decree, her second marriage would not be legally valid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "واضح اطلاع (البیان)",
+              "english": "Clear Information (Al-Bayan)"
+            },
+            "content": {
+              "urdu": [
+                "اگر عدت کے دوران یا دوسرے نکاح سے پہلے اصل شوہر آ جائے تو پہلا نکاح برقرار رہے گا۔",
+                "واضح اطلاع سے مراد معتبر گواہی یا سرکاری ریکارڈ ہے جو موت کی تصدیق کرے۔",
+                "شریعت میں شک کی بنیاد پر نکاح جیسے مضبوط رشتے کو ختم نہیں کیا جاتا۔"
+              ],
+              "english": [
+                "If the original husband returns during Iddah or before the next marriage, the first stands.",
+                "'Clear news' refers to reliable testimony or official records confirming death.",
+                "In Shariah, a strong bond like marriage is not terminated based solely on doubt."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صبر اور توکل",
+              "english": "Patience and Trust"
+            },
+            "content": {
+              "urdu": [
+                "ایسی آزمائش کی گھڑی میں عورت کو اللہ سے مدد مانگنی اور صبر کرنا چاہیے۔",
+                "مفقود الخبر کے گھر والوں کو بھی اس کی بیوی کے حقوق اور نفقہ کا خیال رکھنا چاہیے۔",
+                "انسانی ہمدردی کا تقاضا ہے کہ ایسی خاتون کو تنہا نہ چھوڑا جائے۔"
+              ],
+              "english": [
+                "In such a testing time, the woman should seek help from Allah and be patient.",
+                "The missing person's family must also care for the wife's rights and maintenance.",
+                "Human compassion requires that such a lady should not be left isolated."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "یہ ضعیف حدیث اگرچہ سختی کی طرف اشارہ کرتی ہے، مگر فقہاء کا عمل آسانی پر ہے۔",
+                "اسلام کسی بھی انسان کو ایسی تکلیف میں نہیں ڈالتا جس کا وہ متحمل نہ ہو سکے۔",
+                "شرعی حدود کا مقصد ہمیشہ انسانیت کی فلاح اور تحفظ ہوتا ہے۔"
+              ],
+              "english": [
+                "Although this weak Hadith suggests strictness, the jurists act upon ease.",
+                "Islam does not place a person in a hardship they cannot possibly bear.",
+                "The purpose of Shariah boundaries is always the welfare and protection of humanity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "hadithId": 21,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 1,
+    "inKitabBab": 2,
+    "arabicBook": "",
+    "babId": 2
+  },
+
+  "takhreej": {
+    "arabic": "1 - صحيح. رواه البخاري (3109).",
+    "urdu": "صحیح حدیث ہے۔ روایت بخاری (3109) میں موجود ہے۔",
+    "english": "Authentic. Reported by Bukhari (3109)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قدح",
+      "english": "cup / drinking vessel",
+      "urdu": "پیالہ / برتن"
+    },
+    {
+      "arabic": "سلسلة من فضة",
+      "english": "silver wire",
+      "urdu": "چاندی کا تار"
+    },
+    {
+      "arabic": "انكسر",
+      "english": "broke",
+      "urdu": "ٹوٹ گیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نبی کریم صلی اللہ علیہ وسلم کی سادگی اور چیزوں کو ضائع نہ کرنے کی تعلیم دیتی ہے۔ نبی ﷺ نے ٹوٹے برتن کو چاندی کے تار سے درست کیا۔",
+    "english": "This Hadith shows the simplicity of the Prophet (ﷺ) and teaches not to waste things. He repaired his broken cup using a silver wire."
+  },
+  "references": [
+    {
+      "arabic": "البخاري",
+      "english": "Bukhari"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas ibn Malik"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic"
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نبی ﷺ کی سادگی",
+        "english": "Simplicity of the Prophet (ﷺ)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چیزوں کی قدر",
+              "english": "Value of Things"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے ٹوٹے برتن کو ضائع نہیں کیا۔",
+                "انہوں نے اسے چاندی کے تار سے درست کیا۔",
+                "یہ ہمیں سادگی اور اشیاء کی قدر سکھاتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not waste the broken cup.",
+                "He repaired it using a silver wire.",
+                "This teaches simplicity and valuing possessions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزمرہ کی زندگی میں عملی سبق",
+              "english": "Practical Lesson in Daily Life"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنی چیزوں کو ضائع نہیں کرنا چاہیے۔",
+                "ٹوٹے ہوئے اشیاء کی مرمت کرنی چاہیے۔",
+                "یہ عمل معاشرتی اور مالی ذمہ داری سکھاتا ہے۔"
+              ],
+              "english": [
+                "We should not waste our belongings.",
+                "Broken items should be repaired.",
+                "It teaches social and financial responsibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی سبق",
+        "english": "Moral Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محفوظ چیزوں کی قدر",
+              "english": "Value of Preserving Items"
+            },
+            "content": {
+              "urdu": [
+                "اشیاء کو ضائع نہ کرنا اسلامی اخلاقیات میں شامل ہے۔",
+                "نبی ﷺ کا عمل مسلمانوں کے لیے رہنمائی ہے۔",
+                "سادگی اور کفایت شعاری کا سبق دیتا ہے۔"
+              ],
+              "english": [
+                "Not wasting possessions is part of Islamic ethics.",
+                "The Prophet's (ﷺ) action serves as guidance for Muslims.",
+                "It teaches simplicity and frugality."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی اثرات",
+              "english": "Social Impact"
+            },
+            "content": {
+              "urdu": [
+                "ٹوٹے ہوئے برتن کی مرمت معاشرت میں ذمہ داری سکھاتی ہے۔",
+                "یہ وسائل کی حفاظت اور احترام کا درس دیتا ہے۔",
+                "معاشرتی اقدار میں کفایت شعاری کو فروغ دیتا ہے۔"
+              ],
+              "english": [
+                "Repairing broken items teaches responsibility in society.",
+                "It promotes care and respect for resources.",
+                "It encourages frugality as a social value."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی رہنمائی",
+        "english": "Practical Guidance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اشیاء کی دیکھ بھال",
+              "english": "Maintenance of Items"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنی روزمرہ اشیاء کی حفاظت کرنی چاہیے۔",
+                "ٹوٹے ہوئے اشیاء کو مرمت کرنا چاہیے۔",
+                "یہ عمل زندگی میں کفایت شعاری اور ذمہ داری سکھاتا ہے۔"
+              ],
+              "english": [
+                "We should take care of our daily items.",
+                "Broken items should be repaired.",
+                "This teaches frugality and responsibility in life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیکھنے کا سبق",
+              "english": "Lesson to Learn"
+            },
+            "content": {
+              "urdu": [
+                "سادگی، کفایت شعاری اور اشیاء کی قدر کا سبق حاصل ہوتا ہے۔",
+                "نبی ﷺ کا عمل مسلمانوں کے لیے عملی مثال ہے۔",
+                "یہ ہمارے اخلاق اور طرز زندگی کو بہتر بناتا ہے۔"
+              ],
+              "english": [
+                "It teaches simplicity, frugality, and valuing possessions.",
+                "The Prophet's (ﷺ) action is a practical example for Muslims.",
+                "It improves our ethics and lifestyle."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی پہلو",
+        "english": "Shariah Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی سنت",
+              "english": "Sunnah of the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کی یہ سنت مسلمانوں کے لیے قابل تقلید ہے۔",
+                "اشیاء کو ضائع نہ کرنا ایک شرعی اور اخلاقی عمل ہے۔",
+                "یہ ہمارے دین میں کفایت شعاری اور ذمہ داری کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "This Sunnah is exemplary for Muslims.",
+                "Not wasting items is both a Shariah and moral act.",
+                "It teaches frugality and responsibility in Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رہنمائی برائے معاشرت",
+              "english": "Guidance for Society"
+            },
+            "content": {
+              "urdu": [
+                "اشیاء کی قدر اور ان کی مرمت معاشرت میں مثبت اثر ڈالتی ہے۔",
+                "یہ ہمارے معاشرتی اصولوں کو مضبوط کرتی ہے۔",
+                "اسلام میں وسائل کا صحیح استعمال اہم ہے۔"
+              ],
+              "english": [
+                "Valuing and repairing items has a positive social impact.",
+                "It strengthens societal principles.",
+                "Proper use of resources is important in Islam."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

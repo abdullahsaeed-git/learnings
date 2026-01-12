@@ -1,0 +1,263 @@
+{
+  "hadithId": 920,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/920", "abudawud/2194", "tirmidhi/1184"],
+    "kitabId": 8,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الطلاق",
+    "babId": 71
+  },
+  
+  "takhreej": {
+    "arabic": "حسن . رواه أبو داود (2194) والترمذي (1184) وابن ماجه (2039). وصححه الحاكم (2/198) ووافقه الذهبي. وله شواهد من حديث ابن عباس وعبادة بن الصامت.",
+    "urdu": "یہ حدیث حسن ہے۔ اسے ابوداؤد (2194)، ترمذی (1184) اور ابن ماجہ (2039) نے روایت کیا ہے۔ امام حاکم نے اسے صحیح کہا ہے اور دیگر شواہد کی بنا پر یہ روایت قابلِ حجت ہے۔",
+    "english": "Hasan (Good). Reported by Abu Dawud (2194), At-Tirmidhi (1184), and Ibn Majah (2039). Al-Hakim graded it Sahih (2/198), and Az-Zahabi agreed with him. It has supporting narrations from Ibn Abbas and Ubada bin al-Samit."
+  },
+  "importantWords": [
+    {
+      "arabic": "جِدُّهنَّ",
+      "english": "Their seriousness",
+      "urdu": "ان کی سنجیدگی"
+    },
+    {
+      "arabic": "هَزْلُهُنَّ",
+      "english": "Their jest / joke",
+      "urdu": "ان کا مذاق"
+    },
+    {
+      "arabic": "النِّكَاحُ",
+      "english": "Marriage",
+      "urdu": "نکاح"
+    },
+    {
+      "arabic": "الطَّلَاقُ",
+      "english": "Divorce",
+      "urdu": "طلاق"
+    },
+    {
+      "arabic": "الرَّجْعَةُ",
+      "english": "Taking back (Revocation)",
+      "urdu": "رجوع کرنا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تنبیہ کی گئی ہے کہ نکاح، طلاق اور رجوع جیسے اہم معاملات کو مذاق میں بھی زبان سے ادا کیا جائے تو وہ شرعی طور پر لاگو ہو جاتے ہیں۔",
+    "english": "This Hadith warns that critical matters like marriage, divorce, and revocation are legally binding even if spoken in jest or as a joke."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2194)",
+      "english": "Reported by Abu Dawud (2194)"
+    },
+    {
+      "arabic": "رواه الترمذي (1184)",
+      "english": "Reported by At-Tirmidhi (1184)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (2039)",
+      "english": "Reported by Ibn Majah (2039)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOfU5W4j-8I",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شرعی معاملات کی حساسیت",
+        "english": "Sensitivity of Shariah Matters"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت",
+              "english": "Guarding the Tongue"
+            },
+            "content": {
+              "urdu": [
+                "نکاح اور طلاق کے الفاظ زبان سے ادا ہوتے ہی اپنا اثر دکھاتے ہیں۔",
+                "اسلام میں ان الفاظ کو محض مذاق سمجھنا شرعی طور پر غلط ہے۔",
+                "انسان کو اپنی زبان سے نکلنے والے ہر لفظ کی سنگینی کا ادراک ہونا چاہیے۔"
+              ],
+              "english": [
+                "Words of marriage and divorce take effect as soon as they are uttered.",
+                "Treating these words as a mere joke is legally incorrect in Islam.",
+                "A person must realize the gravity of every word spoken from their tongue."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مذاق میں طلاق کا وقوع",
+              "english": "Effect of Divorce in Jest"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص مذاق میں طلاق دے تو جمہور کے نزدیک وہ واقع ہو جاتی ہے۔",
+                "شریعت نے ان معاملات میں 'نیت' کے بجائے 'الفاظ' کو معیار بنایا ہے۔",
+                "یہ اس لیے ہے تاکہ خاندانی نظام کو لوگوں کا کھلونا بننے سے بچایا جائے۔"
+              ],
+              "english": [
+                "If someone divorces in jest, it is effective according to the majority.",
+                "Shariah sets the 'words' as the standard rather than 'intent' here.",
+                "This is to prevent the family system from becoming a toy for people."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نکاح اور رجوع کی اہمیت",
+        "english": "Importance of Marriage and Revocation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مذاق میں نکاح",
+              "english": "Marriage in Jest"
+            },
+            "content": {
+              "urdu": [
+                "گواہوں کی موجودگی میں اگر نکاح کے الفاظ ادا کیے جائیں تو نکاح ہو جاتا ہے۔",
+                "چاہے فریقین کا مقصد محض تفریح ہی کیوں نہ ہو، عقد قائم ہو جائے گا۔",
+                "یہ حکم نکاح کے تقدس اور اس کی قانونی حیثیت کو برقرار رکھنے کے لیے ہے۔"
+              ],
+              "english": [
+                "If marriage words are spoken before witnesses, the marriage is valid.",
+                "Even if the parties intended it as fun, the contract is established.",
+                "This ruling is to preserve the sanctity and legal status of marriage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رجوع کی سنجیدگی",
+              "english": "Seriousness of Revocation"
+            },
+            "content": {
+              "urdu": [
+                "طلاقِ رجعی کے بعد اگر شوہر مذاق میں کہے 'میں نے رجوع کیا' تو رجوع ہو گیا۔",
+                "رجوع کے الفاظ ادا کرنے سے نکاح دوبارہ اپنی اصل حالت پر آ جاتا ہے۔",
+                "اس میں بھی زبان کے الفاظ کو ہی حتمی فیصلہ مانا جاتا ہے۔"
+              ],
+              "english": [
+                "If a husband says 'I take you back' in jest, the revocation is valid.",
+                "Uttering words of return restores the marriage to its original state.",
+                "In this case too, the spoken words are considered the final decision."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاندانی نظام کا تحفظ",
+        "english": "Protection of the Family System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کتاب اللہ سے کھلواڑ کی ممانعت",
+              "english": "Prohibition of Mocking Allah's Book"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی آیات اور حدود کو مذاق بنانا سنگین جرم ہے۔",
+                "جو ان معاملات میں لاپرواہی برتتا ہے وہ حدود اللہ کو پامال کرتا ہے۔",
+                "اسلامی معاشرے میں خاندانی استحکام کو اولین ترجیح دی گئی ہے۔"
+              ],
+              "english": [
+                "Mocking the verses and limits of Allah is a serious offense.",
+                "Whoever is careless in these matters violates the boundaries of Allah.",
+                "Family stability is given top priority in an Islamic society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سماجی نظم و ضبط",
+              "english": "Social Discipline"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث لوگوں کو غیر ذمہ دارانہ رویوں سے روکتی ہے۔",
+                "اگر مذاق کو عذر مانا جاتا تو طلاق کا قانون ایک تماشہ بن جاتا۔",
+                "قانون کی سختی لوگوں کو سوچ سمجھ کر بولنے پر مجبور کرتی ہے۔"
+              ],
+              "english": [
+                "This Hadith restrains people from irresponsible behaviors.",
+                "If jest was accepted as an excuse, divorce law would become a joke.",
+                "The strictness of the law compels people to speak with consideration."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصیحت",
+        "english": "Practical Lesson and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احتیاطی تدابیر",
+              "english": "Precautionary Measures"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو چاہیے کہ وہ لایعنی اور خطرناک باتوں سے پرہیز کرے۔",
+                "خاص طور پر ازدواجی معاملات میں کبھی مزاحیہ الفاظ استعمال نہ کریں۔",
+                "عقلمند انسان وہی ہے جو اپنے ہر قول و فعل کا جوابدہ ہو۔"
+              ],
+              "english": [
+                "A believer should avoid pointless and dangerous speech.",
+                "Especially in marital affairs, never use humorous language.",
+                "A wise person is one who remains accountable for every word and deed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمائے کرام سے رجوع",
+              "english": "Consulting the Scholars"
+            },
+            "content": {
+              "urdu": [
+                "ایسی صورتحال پیش آنے پر فوری مستند علماء سے فتویٰ لینا چاہیے۔",
+                "عوام کو خود سے فیصلے کرنے کے بجائے شرعی رہنمائی لینی چاہیے۔",
+                "دین کے مسائل میں جذبات کے بجائے علم پر عمل کرنا ضروری ہے۔"
+              ],
+              "english": [
+                "If such a situation arises, immediately seek a fatwa from scholars.",
+                "The public should seek Shariah guidance instead of deciding themselves.",
+                "In religious matters, it is vital to act on knowledge rather than emotions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

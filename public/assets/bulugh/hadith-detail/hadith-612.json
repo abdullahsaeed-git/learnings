@@ -1,0 +1,210 @@
+{
+  "hadithId": 612,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/32"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح مرفوعا وموقوفا.‏ رواه الحاكم (1/455) والبيهقي (5/74) والشافعي في المسند (1/327).",
+    "urdu": "صحیح۔ اسے امام حاکم نے مرفوعاً (نبی ﷺ کے فعل کے طور پر) اور بیہقی نے موقوفاً (ابن عباس کے فعل کے طور پر) روایت کیا ہے۔ دونوں ہی طریقوں سے اس کی اصل ثابت ہے۔",
+    "english": "Sahih. Reported by Al-Hakim (1/455) as Marfu' and Al-Baihaqi (5/74) as Mauquf. It is also in the Musnad of Ash-Shafi'i."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُقَبِّلُ",
+      "english": "Kiss",
+      "urdu": "بوسہ دینا"
+    },
+    {
+      "arabic": "يَسْجُدُ عَلَيْهِ",
+      "english": "Prostrate on it",
+      "urdu": "اس پر سجدہ کرنا / پیشانی رکھنا"
+    },
+    {
+      "arabic": "اَلْحَجَرَ اَلْأَسْوَدَ",
+      "english": "The Black Stone",
+      "urdu": "حجرِ اسود"
+    },
+    {
+      "arabic": "مَرْفُوعًا",
+      "english": "Attributed to Prophet",
+      "urdu": "مرفوع (نبی ﷺ کا فرمان یا فعل)"
+    }
+  ],
+  "summary": {
+    "urdu": "حجرِ اسود کو بوسہ دینا اور اس پر پیشانی رکھ کر سجدہ کرنا سنتِ نبوی اور سنتِ صحابہ سے ثابت ہے، جو اللہ کی بارگاہ میں عاجزی کا اظہار ہے۔",
+    "english": "Kissing the Black Stone and prostrating upon it is established from the Prophet's practice and his companions, symbolizing supreme humility before Allah."
+  },
+  "references": [
+    {
+      "arabic": "رواه الحاكم (1671)",
+      "english": "Reported by Al-Hakim (1671)"
+    },
+    {
+      "arabic": "سنن البيهقي (9199)",
+      "english": "Sunan al-Baihaqi (9199)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حجرِ اسود کی تعظیم کے آداب",
+        "english": "Etiquettes of Honoring the Black Stone"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بوسہ اور سجدہ کی حقیقت",
+              "english": "Reality of Kissing and Prostration"
+            },
+            "content": {
+              "urdu": [
+                "حجرِ اسود کو بوسہ دینا حج اور عمرہ کے طواف کے دوران ایک مسنون عمل ہے۔",
+                "اس پر سجدہ کرنے سے مراد نماز والا سجدہ نہیں بلکہ اپنی پیشانی کو پتھر پر عقیدت و عاجزی سے رکھنا ہے۔",
+                "نبی کریم ﷺ نے حجرِ اسود پر پیشانی رکھ کر طویل گریہ و زاری فرمائی تھی۔"
+              ],
+              "english": [
+                "Kissing the Black Stone is a Sunnah act during the Tawaf of Hajj and Umrah.",
+                "Prostrating on it does not mean a formal prayer prostration, but rather placing the forehead on the stone in devotion and humility.",
+                "The Prophet (ﷺ) was seen placing his forehead on the stone and weeping for a long time."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا جذبہ",
+              "english": "Spirit of Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر فاروق رضی اللہ عنہ نے فرمایا تھا کہ تو ایک پتھر ہے، میں تجھے بوسہ نہ دیتا اگر رسول اللہ ﷺ کو دیتے ہوئے نہ دیکھتا۔",
+                "یہ عمل خالصتاً اتباعِ رسول ﷺ کی علامت ہے، کسی پتھر کی پوجا نہیں۔",
+                "ابن عباس رضی اللہ عنہما کا یہ فعل ثابت کرتا ہے کہ صحابہ اس سنت کی باریکیوں پر سختی سے عمل کرتے تھے۔"
+              ],
+              "english": [
+                "Umar Farooq (RA) famously stated that the stone cannot harm or benefit, but he kissed it only because he saw the Prophet (ﷺ) doing so.",
+                "This act is purely a symbol of following the Prophet (ﷺ), not stone worship.",
+                "Ibn Abbas's (RA) practice confirms that the companions strictly adhered to the nuances of this Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات اور سہولت",
+        "english": "Juristic Rulings and Ease"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہجوم اور رش کا لحاظ",
+              "english": "Considering the Crowd"
+            },
+            "content": {
+              "urdu": [
+                "اگر رش کی وجہ سے بوسہ دینا یا پیشانی رکھنا ممکن نہ ہو تو دور سے اشارہ کرنا کافی ہے۔",
+                "دوسرے مسلمانوں کو دھکے دینا یا اذیت پہنچانا سنت کے حصول کے لیے جائز نہیں ہے۔",
+                "نبی ﷺ نے سواری پر طواف کرتے ہوئے اپنی چھڑی سے حجرِ اسود کا استلام فرمایا تھا۔"
+              ],
+              "english": [
+                "If it is impossible to kiss or place the forehead due to crowds, gesturing from a distance is sufficient.",
+                "Pushing or causing harm to other Muslims is not permissible in pursuit of this Sunnah.",
+                "The Prophet (ﷺ) performed 'Istilam' (touching) of the Black Stone with his staff while performing Tawaf on a mount."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حجرِ اسود کی فضیلت",
+              "english": "Virtue of the Black Stone"
+            },
+            "content": {
+              "urdu": [
+                "حجرِ اسود جنت کے پتھروں میں سے ایک پتھر ہے جو برف سے زیادہ سفید تھا مگر انسانوں کے گناہوں نے اسے سیاہ کر دیا۔",
+                "قیامت کے دن اس کی دو آنکھیں اور زبان ہوگی اور یہ اپنے استلام کرنے والوں کی گواہی دے گا۔",
+                "یہ بیت اللہ کا وہ حصہ ہے جہاں سے طواف کا آغاز اور اختتام ہوتا ہے۔"
+              ],
+              "english": [
+                "The Black Stone is one of the stones of Paradise; it was whiter than milk, but the sins of humans turned it black.",
+                "On the Day of Resurrection, it will have two eyes and a tongue to testify for those who touched it with sincerity.",
+                "This is the part of the Kaaba where the Tawaf begins and ends."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عاجزی اور انا کی نفی",
+              "english": "Humility and Negation of Ego"
+            },
+            "content": {
+              "urdu": [
+                "ایک عظیم الشان بادشاہ یا عالم کا پتھر پر پیشانی رکھنا اس کے کبر کو خاک میں ملا دیتا ہے۔",
+                "یہ عمل یاد دلاتا ہے کہ اللہ کی عظمت کے سامنے انسان کی حیثیت ایک ذرے سے زیادہ نہیں۔",
+                "رونا اور گریہ کرنا دل کی نرمی اور تقویٰ کی علامت ہے۔"
+              ],
+              "english": [
+                "A mighty king or a great scholar placing his forehead on a stone shatters his ego.",
+                "This act reminds one that compared to Allah's greatness, a human is nothing more than a speck.",
+                "Weeping and crying during this act is a sign of a soft heart and piety."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محبتِ الٰہی کا اظہار",
+              "english": "Expression of Divine Love"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح انسان اپنے پیاروں کی نشانیوں کو چومتا ہے، حجرِ اسود اللہ کی طرف سے ایک نشانی ہے۔",
+                "یہ بندگی کا وہ مقام ہے جہاں عقل کے بجائے محبت اور سپردگی کام کرتی ہے۔",
+                "دینِ اسلام جذبات اور احکامات کا بہترین امتزاج ہے۔"
+              ],
+              "english": [
+                "Just as a person kisses mementos of loved ones, the Black Stone is a sign from Allah.",
+                "This is a level of servitude where love and surrender take precedence over cold logic.",
+                "Islam is the perfect blend of emotions and regulations."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

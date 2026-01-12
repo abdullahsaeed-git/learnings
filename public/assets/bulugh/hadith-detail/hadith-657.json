@@ -1,0 +1,259 @@
+{
+  "hadithId": 657,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh:657"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح البخاري (2168)، كتاب البيوع، باب شراء المملوك من المكاتب؛ وصحيح مسلم (1504)، كتاب العتق، باب إنما الولاء لمن أعتق.",
+    "urdu": "صحیح بخاری (2168) اور صحیح مسلم (1504) کی متفقہ روایت ہے، الفاظ بخاری کے ہیں۔",
+    "english": "Sahih al-Bukhari (2168) and Sahih Muslim (1504). It is a Muttafaqun Alayh (agreed upon) Hadith."
+  },
+  "importantWords": [
+    {
+      "arabic": "كَاتَبْتُ",
+      "english": "Contracted for freedom",
+      "urdu": "مکاتبت کی / آزادی کا معاہدہ کیا"
+    },
+    {
+      "arabic": "أُوَاقٍ",
+      "english": "Ounces (of silver)",
+      "urdu": "اوقیہ (چاندی کا وزن)"
+    },
+    {
+      "arabic": "الْوَلَاءُ",
+      "english": "Right of inheritance",
+      "urdu": "ولاء (وارث بننے کا حق)"
+    },
+    {
+      "arabic": "أَعْتَقَ",
+      "english": "Manumitted / Freed",
+      "urdu": "آزاد کیا"
+    },
+    {
+      "arabic": "بَاطِلٌ",
+      "english": "Invalid / Void",
+      "urdu": "باطل / ختم"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اس بات کی دلیل ہے کہ معاہدات میں صرف وہی شرطیں معتبر ہیں جو شریعت کے مطابق ہوں، اور آزاد کردہ غلام کی وراثت کا حق صرف آزاد کرنے والے کو ملتا ہے۔",
+    "english": "This Hadith establishes that only Sharia-compliant conditions are valid in contracts and the right of Wala' belongs exclusively to the one who manumits a slave."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2168)",
+      "english": "Sahih al-Bukhari (2168)"
+    },
+    {
+      "arabic": "صحيح مسلم (1504)",
+      "english": "Sahih Muslim (1504)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=pAnS_E4u80w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ولاء کا شرعی مفہوم",
+        "english": "Meaning of Wala' in Sharia"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آزاد کرنے والے کا حق",
+              "english": "Right of the Manumitter"
+            },
+            "content": {
+              "urdu": [
+                "ولاء وہ حق ہے جس کے تحت آزاد کرنے والا اپنے سابقہ غلام کا وارث بنتا ہے۔",
+                "نبی ﷺ نے واضح فرمایا کہ یہ حق صرف اس کا ہے جو قیمت ادا کر کے آزاد کرے۔",
+                "اسے 'ولاء العتاقہ' کہا جاتا ہے جو نسب کی طرح ایک مضبوط رشتہ ہے۔"
+              ],
+              "english": [
+                "Wala' is a legal bond where the manumitter inherits from the freed slave if they have no heirs.",
+                "The Prophet (PBUH) clarified that this right belongs only to the person who grants freedom.",
+                "It is called 'Wala' al-Ataqah', and it is considered a bond as strong as lineage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلط شرائط کی تردید",
+              "english": "Rejection of False Conditions"
+            },
+            "content": {
+              "urdu": [
+                "بریرہ کے سابقہ مالکوں نے رقم لینے کے باوجود ولاء کا حق اپنے پاس رکھنا چاہا۔",
+                "یہ مطالبہ شرعی اصولوں کے خلاف تھا کیونکہ رقم سیدہ عائشہ ادا کر رہی تھیں۔",
+                "آپ ﷺ نے اس غلط مطالبے کو باطل قرار دے کر حقدار کا حق متعین کیا۔"
+              ],
+              "english": [
+                "Barira's former masters wanted to keep the right of Wala' even after being paid.",
+                "This demand contradicted Sharia principles since Lady 'Aishah was paying the price.",
+                "The Prophet (PBUH) declared this false demand void and identified the rightful owner."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاہدات میں شرائط کے اصول",
+        "english": "Principles of Conditions in Contracts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کتاب اللہ کے مطابق شرط",
+              "english": "Conditions According to Allah's Book"
+            },
+            "content": {
+              "urdu": [
+                "ہر وہ شرط جو قرآن و سنت کے حلال کردہ کو حرام کرے، وہ باطل ہے۔",
+                "معاہدہ کرتے وقت فریقین ایسی شرائط نہیں رکھ سکتے جو شرعی حکم کو بدل دیں۔",
+                "نبی ﷺ نے 'سو شرطیں' کہہ کر مبالغے کے طور پر اس کی ممانعت واضح فرمائی۔"
+              ],
+              "english": [
+                "Any condition that makes something permissible prohibited according to Quran and Sunnah is void.",
+                "Parties cannot include conditions in a contract that override a primary Sharia ruling.",
+                "By saying 'even a hundred conditions', the Prophet (PBUH) emphasized absolute invalidity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرطِ فاسد کا اثر",
+              "english": "Impact of Corrupt Conditions"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی معاہدے میں کوئی غیر شرعی شرط ہو تو وہ شرط ختم ہو جائے گی مگر عقد قائم رہے گا۔",
+                "جیسے سیدہ عائشہ نے ولاء کی شرط مانی لیکن وہ شرعاً باطل ہونے کی وجہ سے نافذ نہ ہوئی۔",
+                "یہ اصول کاروباری معاملات میں شفافیت اور عدل و انصاف فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "If a contract contains an illegal condition, the condition is void while the contract remains valid.",
+                "Lady 'Aishah accepted the masters' condition, but it never took effect as it was legally void.",
+                "This principle ensures transparency, justice, and fairness in all business dealings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیدہ عائشہ کی سخاوت",
+        "english": "Generosity of Lady 'Aishah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محتاج کی مدد",
+              "english": "Helping the Needy"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ نے بریرہ کی پریشانی دیکھ کر فوراً تمام رقم ادا کرنے کی پیشکش کی۔",
+                "وہ ایک قسط وار قرض کو یکمشت ختم کر کے کسی کو مکمل آزاد دیکھنا چاہتی تھیں۔",
+                "یہ عمل اہل بیت کی سخاوت اور غلاموں کی آزادی میں رغبت کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Lady 'Aishah immediately offered to pay the full amount upon seeing Barira's distress.",
+                "She preferred to end an installment debt all at once to see someone fully freed.",
+                "This act reflects the generosity of the Ahl al-Bayt and their desire to free slaves."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمی جستجو اور عمل",
+              "english": "Seeking Knowledge and Action"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ نے ہر قدم پر نبی ﷺ سے مشورہ کیا اور شرعی حکم پر عمل کیا۔",
+                "انہوں نے یہ نہیں سوچا کہ ان کا مال ضائع ہو رہا ہے بلکہ حکمِ رسول کو مقدم رکھا۔",
+                "اس سے خواتین کے لیے علمی اور سماجی معاملات میں فعال ہونے کا سبق ملتا ہے۔"
+              ],
+              "english": [
+                "Lady 'Aishah consulted the Prophet (PBUH) at every step and followed the Sharia ruling.",
+                "She did not worry about her wealth being 'wasted' but prioritized the Prophet's instruction.",
+                "This serves as a lesson for women to be active in seeking knowledge and social welfare."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اصلاحِ معاشرہ اور خطبہ",
+        "english": "Social Reform and the Sermon"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عوامی آگاہی",
+              "english": "Public Awareness"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے صرف گھر میں بات ختم نہیں کی بلکہ منبر پر جا کر لوگوں کو سمجھایا۔",
+                "جب کوئی غلط رواج عام ہونے لگے تو اس کی کھلم کھلا تردید ضروری ہے۔",
+                "آپ ﷺ کا انداز نہایت حکیمانہ تھا، کسی کا نام لیے بغیر غلطی کی نشاندہی کی۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) did not keep the matter private but taught the public from the pulpit.",
+                "When an incorrect custom starts spreading, it is necessary to refute it openly.",
+                "His approach was wise; he corrected the mistake without publicly naming the individuals."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کا فیصلہ اٹل ہے",
+              "english": "Allah's Decree is Absolute"
+            },
+            "content": {
+              "urdu": [
+                "خطبے میں 'قضاء اللہ احق' کا جملہ بتا رہا ہے کہ شریعت ہر چیز پر حاکم ہے۔",
+                "انسانوں کی بنائی ہوئی رسمیں اللہ کے قانون کے سامنے کوئی حیثیت نہیں رکھتیں۔",
+                "یہ حدیث توحیدِ حاکمیت اور اتباعِ سنت کی ایک عظیم مثال ہے۔"
+              ],
+              "english": [
+                "The phrase 'Allah's decree is more rightful' shows Sharia is supreme over everything.",
+                "Human-made customs and traditions hold no weight against the laws of Allah.",
+                "This Hadith is a great example of the sovereignty of Allah and following the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

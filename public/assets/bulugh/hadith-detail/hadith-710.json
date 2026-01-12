@@ -1,0 +1,241 @@
+{
+  "hadithId": 710,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/78"],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (3359)، والنسائي (4539)، والترمذي (1225)، وابن ماجه (2264)، وأحمد (1/175). وصححه ابن المديني والحاكم والترمذي.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد، نسائی، ترمذی، ابن ماجہ اور احمد نے روایت کیا ہے۔ علی بن المدینی، حاکم اور ترمذی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (3359), An-Nasa'i (4539), At-Tirmidhi (1225), Ibn Majah (2264), and Ahmad (1/175). Graded Sahih by Ali bin al-Madini, Al-Hakim, and At-Tirmidhi."
+  },
+  "importantWords": [
+    {
+      "arabic": "الرُّطَبِ",
+      "english": "Fresh dates",
+      "urdu": "تازہ کھجوریں"
+    },
+    {
+      "arabic": "التَّمْرِ",
+      "english": "Dry dates",
+      "urdu": "خشک کھجوریں"
+    },
+    {
+      "arabic": "أَيَنْقُصُ",
+      "english": "Does it decrease?",
+      "urdu": "کیا وہ کم ہوتی ہیں؟"
+    },
+    {
+      "arabic": "يَبِسَ",
+      "english": "Becomes dry",
+      "urdu": "خشک ہو جانا"
+    },
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ربا الفضل (سود) سے بچنے کا اصول بتایا گیا ہے کہ ایک ہی جنس کی دو ایسی چیزوں کا تبادلہ جن کی حتمی مقدار میں برابری یقینی نہ ہو، جائز نہیں ہے۔",
+    "english": "This Hadith establishes a rule to avoid Riba al-Fadl (interest of excess), stating that exchanging items of the same species is prohibited if their final quantity cannot be guaranteed as equal."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي، كتاب البيوع",
+      "english": "Jami' at-Tirmidhi, Book of Sales"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سعد بن أبي وقاص",
+        "english": "Sa'd bin Abi Waqqas"
+      },
+      "slug": "sa-d-bin-abi-waqqas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0p7U_pG_2Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ربا الفضل اور کھجور کا تبادلہ",
+        "english": "Riba al-Fadl and Date Exchange"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برابری کی شرط",
+              "english": "Condition of Equality"
+            },
+            "content": {
+              "urdu": [
+                "سود سے بچنے کے لیے ایک ہی جنس کی اشیاء میں وزن اور پیمائش کی برابری لازمی ہے۔",
+                "تازہ کھجور میں پانی ہوتا ہے، جو خشک ہونے پر اڑ جاتا ہے اور وزن کم ہو جاتا ہے۔",
+                "چونکہ وقتِ سودا برابری یقینی نہیں، اس لیے یہ معاملہ سود کے زمرے میں آتا ہے۔"
+              ],
+              "english": [
+                "Equality in weight and measure is mandatory for same-species exchanges to avoid Riba.",
+                "Fresh dates contain moisture which evaporates upon drying, reducing their weight.",
+                "Since equality at the final stage is not guaranteed at the time of sale, it falls under usury."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا طرزِ استدلال",
+              "english": "The Prophet's Reasoning"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے لوگوں سے حقیقتِ حال دریافت فرما کر ان کی عقل کو مطمئن کیا۔",
+                "یہ اصول طے پایا کہ 'نامعلوم برابری، زیادتی کے حکم میں ہے'۔",
+                "شرعی احکامات منطق اور عدل پر مبنی ہوتے ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) satisfied their intellect by asking about the physical reality of dates.",
+                "The principle established is: 'Unknown equality is treated as actual excess'.",
+                "Sharia rulings are deeply rooted in logic and fairness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اطلاق اور وسعت",
+        "english": "Juristic Application and Scope"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیگر اجناس پر قیاس",
+              "english": "Analogy with Other Commodities"
+            },
+            "content": {
+              "urdu": [
+                "یہی حکم انگور اور منقہ، یا گیلی اور خشک گندم کے تبادلے پر بھی لاگو ہوتا ہے۔",
+                "ہر وہ ربوی شے جس کی حالت بدلنے سے وزن بدلے، اس کا آپس میں تبادلہ منع ہے۔",
+                "اسلامی معیشت میں کسی بھی قسم کے ابہام کو جگہ نہیں دی گئی۔"
+              ],
+              "english": [
+                "The same ruling applies to fresh grapes vs. raisins, or wet vs. dry wheat.",
+                "Any Ribawi item whose weight changes with its state cannot be exchanged for its dried version.",
+                "Islamic economics leaves no room for ambiguity or uncertainty in trade."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحیح تجارتی طریقہ",
+              "english": "Correct Trading Method"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کو تازہ کھجور کے بدلے خشک چاہیے، تو وہ پہلے اپنی چیز پیسوں میں بیچے۔",
+                "حاصل شدہ رقم سے مارکیٹ ریٹ پر دوسری چیز خرید لے۔",
+                "رقم کا واسطہ تمام شرعی قباحتوں کو دور کر دیتا ہے۔"
+              ],
+              "english": [
+                "If someone needs dry dates for fresh ones, they should sell theirs for cash first.",
+                "Use the proceeds to buy the desired item at the current market rate.",
+                "Involving money removes all legal and religious complications."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی شفافیت",
+        "english": "Economic Transparency"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استحصال کا سدِ باب",
+              "english": "Preventing Exploitation"
+            },
+            "content": {
+              "urdu": [
+                "ایسے سودوں میں اکثر ایک فریق نادانستہ طور پر نقصان اٹھاتا ہے۔",
+                "شریعت نے دونوں فریقین کے مالی حقوق کا تحفظ یقینی بنایا ہے۔",
+                "واضح پیمائش ہی برکت اور انصاف کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "In such deals, one party often unknowingly suffers a loss.",
+                "Sharia ensures the financial rights of both parties are protected.",
+                "Clear measurement is the key to blessings and justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاملات میں صفائی",
+              "english": "Clarity in Dealings"
+            },
+            "content": {
+              "urdu": [
+                "ہمیشہ ناپ تول اور حساب کتاب کو واضح رکھیں۔",
+                "مشکوک نفع کے پیچھے بھاگنے کے بجائے صاف ستھری کمائی پر قناعت کریں۔",
+                "سود سے بچنا ایمان کی حفاظت کے لیے ناگزیر ہے۔"
+              ],
+              "english": [
+                "Always keep weights, measures, and accounts transparent.",
+                "Be content with clean earnings rather than chasing doubtful profits.",
+                "Avoiding Riba is indispensable for safeguarding one's faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحیح علم کی اہمیت",
+              "english": "Importance of Correct Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام چھوٹے چھوٹے تجارتی مسائل بھی نبی ﷺ سے پوچھتے تھے۔",
+                "تجارت کرنے والوں کو چاہیے کہ وہ خرید و فروخت کے مسائل سیکھیں۔",
+                "بغیر علم کے تجارت کرنا انسان کو انجانے میں حرام کی طرف لے جا سکتا ہے۔"
+              ],
+              "english": [
+                "The Companions consulted the Prophet (ﷺ) even on minor trade issues.",
+                "Those involved in business should actively learn the rulings of buying and selling.",
+                "Trading without knowledge can lead one toward Haram unintentionally."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

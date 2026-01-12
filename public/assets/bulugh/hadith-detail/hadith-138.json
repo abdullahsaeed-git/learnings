@@ -1,0 +1,273 @@
+{
+  "hadithId": 138,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["1:2:10"],
+    "kitabId": 2,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 11
+  },
+  
+  "takhreej": {
+    "arabic": " ضعيف مرفوعاً، صحيح موقوفاً.‏ رواه الدارقطني في \"السنن\" (1/269/3)‏ وتمام لفظه: \"فإذا غاب الشفق، وجبت الصلاة\".‏ وقد رجح ابن خزيمة (1/345)، والبيهقي (1/374)، والنووي وقفه على ابن عمر.‏ ورغم ضعف رفعه، فإن هذا هو قول جمهور الفقهاء والأئمة.‏",
+    "urdu": "ضعیف مرفوعاً (نبی ﷺ سے منسوب ہو کر)، صحیح موقوفاً (صحابی کا قول ہو کر)۔ اسے دارقطنی نے \"السنن\" (1/269/3) میں روایت کیا ہے اور اس کا مکمل متن ہے: \"جب شفق غائب ہو جائے تو نماز واجب ہو جاتی ہے۔\" ابن خزیمہ (1/345)، بیہقی (1/374)، اور نووی نے اس کے ابن عمر کا قول ہونے کو ترجیح دی ہے۔ اگرچہ یہ مرفوعاً ضعیف ہے، مگر یہ جمہور فقہاء اور ائمہ کا قول ہے۔",
+    "english": "Weak as Marfū' (attributed to the Prophet), Authentic as Mauqūf (attributed to the Companion). Reported by Ad-Daraquṭnī in 'As-Sunan' (1/269/3), and the full wording is: 'When the shafaq disappears, the prayer becomes due.' Ibn Khuzaymah (1/345), Al-Bayhaqī (1/374), and An-Nawawī preferred it to be Mauqūf (a saying of Ibn 'Umar). Despite the weakness of its Marfū' status, this is the view of the majority of jurists and Imams."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلشَّفَقُ",
+      "english": "The Twilight (Shafaq)",
+      "urdu": "شفق / شام کی روشنی"
+    },
+    {
+      "arabic": "اَلْحُمْرَةُ",
+      "english": "The Redness",
+      "urdu": "سرخی"
+    },
+    {
+      "arabic": "غَابَ",
+      "english": "Disappears/vanishes",
+      "urdu": "غائب ہو جائے"
+    },
+    {
+      "arabic": "وَجَبَتْ",
+      "english": "Becomes obligatory/due",
+      "urdu": "واجب ہو جائے"
+    },
+    {
+      "arabic": "مَوْقُوفَهُ",
+      "english": "Its Mauqūf status",
+      "urdu": "اس کا موقوف ہونا (صحابی کا قول)"
+    },
+    {
+      "arabic": "اَلْعِشَاءِ",
+      "english": "The 'Isha' Prayer",
+      "urdu": "عشاء کی نماز"
+    },
+    {
+      "arabic": "مَذْهَبُ",
+      "english": "School of thought/view",
+      "urdu": "مذہب"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ نماز مغرب کا وقت ختم ہونے اور نماز عشاء کا وقت شروع ہونے کی علامت 'شفق' کا غائب ہو جانا ہے، اور شفق سے مراد افق پر موجود غروب آفتاب کے بعد والی سرخ روشنی ہے۔ اس سرخی کے غائب ہونے کے بعد سفید روشنی بھی غائب ہو جاتی ہے، اور عشاء کا وقت داخل ہو جاتا ہے۔",
+    "english": "This Hadith clarifies that the sign for the Maghrib prayer time to end and the 'Isha' prayer time to begin is the disappearance of 'Shafaq' (twilight), which is defined as the redness on the horizon after sunset. Once this redness disappears, the 'Isha' time begins."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني في السنن (1/269/3)",
+      "english": "Reported by Ad-Daraquṭnī in As-Sunan (1/269/3)"
+    },
+    {
+      "arabic": "تصحيح ابن خزيمة (1/345)",
+      "english": "Affirmed by Ibn Khuzaymah (1/345)"
+    },
+    {
+      "arabic": "تصحيح البيهقي (1/374)",
+      "english": "Affirmed by Al-Bayhaqī (1/374)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn 'Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A7c1kZ0JqN0",
+  "grade": {
+    "arabic": "صحيح موقوف",
+    "english": "Authentic (Mauqūf)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شفق کی تعریف اور فقہی اثرات",
+        "english": "Definition of Shafaq and Juristic Implications"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شفق کی وضاحت",
+              "english": "Clarifying the Twilight (Shafaq)"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں شفق کو 'الحمرۃ' (سرخی) سے تعبیر کیا گیا ہے جو غروب آفتاب کے بعد مغربی افق پر نمودار ہوتی ہے۔",
+                "یہ ابن عمر رضی اللہ عنہما کا قول ہے، جسے جمہور علماء نے قبول کیا ہے اور اسے موقوفاً صحیح مانا ہے۔",
+                "سرخی کے غائب ہونے کا مطلب ہے کہ نماز مغرب کا وقت ختم اور نماز عشاء کا وقت شروع ہو گیا۔"
+              ],
+              "english": [
+                "The Hadith defines Shafaq as 'Al-Ḥumrah' (the redness) which appears on the western horizon after sunset.",
+                "This is the saying of Ibn 'Umar (RA), which the majority of scholars have accepted, regarding it as authentic (Mauqūf).",
+                "The disappearance of this redness signifies the end of Maghrib time and the beginning of 'Isha' time."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہاء کے مذاہب",
+              "english": "Schools of Jurisprudence"
+            },
+            "content": {
+              "urdu": [
+                "جمہور ائمہ (مالکی، شافعی اور حنبلی) کے نزدیک شفق سے مراد غروب کے بعد کی سرخی ہے۔",
+                "ان کے مطابق جب یہ سرخی غائب ہو جائے تو مغرب کا وقت ختم ہوتا ہے۔",
+                "امام ابوحنیفہؒ کے نزدیک شفق سے مراد سرخی کے بعد کی سفیدی ہے (الشفق الأبیض)، اس لیے عشاء کا وقت تھوڑا مؤخر ہوتا ہے۔"
+              ],
+              "english": [
+                "According to the majority of Imams (Maliki, Shafi'i, and Hanbali), Shafaq refers to the redness that follows sunset.",
+                "In their view, when this redness disappears, the Maghrib time ends.",
+                "Imam Abu Hanifah's view is that Shafaq refers to the white light that appears after the redness (Al-Shafaq Al-Abyaḍ), so the 'Isha' time starts slightly later."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نمازوں کے اوقات کی تعیین",
+        "english": "Determining Prayer Times"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مغرب کا آخری وقت",
+              "english": "The Final Time for Maghrib"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث نماز مغرب کے آخری وقت کو واضح کرتی ہے، جو شفق (سرخی) کے غائب ہونے تک ہے۔",
+                "اگر کوئی شخص عذر کے بغیر مغرب کی نماز کو اس حد تک مؤخر کرے تو وہ مکروہ تحریمی کا مرتکب ہوگا۔",
+                "صحیح قول کے مطابق مغرب کا وقت نسبتاً مختصر ہے، لہٰذا اس کی ادائیگی میں جلدی کرنی چاہیے۔"
+              ],
+              "english": [
+                "This Hadith clarifies the end time of the Maghrib prayer, which lasts until the Shafaq (redness) disappears.",
+                "If a person delays the Maghrib prayer until this limit without a valid excuse, it is considered strongly disliked (Makrūh Taḥrīmī).",
+                "According to the preferred view, Maghrib time is relatively short, so it should be performed promptly."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عشاء کا آغاز",
+              "english": "The Beginning of 'Isha'"
+            },
+            "content": {
+              "urdu": [
+                "جب شفق کی سرخی زائل ہو جاتی ہے تو رات کا اندھیرا چھا جاتا ہے، اور یہ نماز عشاء کے وقت کا آغاز ہے۔",
+                "اختلافِ رائے کے باوجود، تمام فقہاء اس بات پر متفق ہیں کہ نماز عشاء کا وقت نصف رات تک رہتا ہے۔",
+                "اس واضح حد بندی سے دو فرض نمازوں کے وقت کا آغاز اور اختتام طے ہوتا ہے۔"
+              ],
+              "english": [
+                "When the redness of the Shafaq disappears, darkness prevails, marking the start of the 'Isha' prayer time.",
+                "Despite the difference of opinion on the exact start, all jurists agree that 'Isha' time extends until midnight.",
+                "This clear boundary defines the beginning and end of two obligatory prayer times."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اصول حدیث اور موقوف کا حکم",
+        "english": "Hadith Principles and Mauqūf Ruling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کا موقوف ہونا",
+              "english": "The Mauqūf Status of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "بڑے محدثین جیسے ابن خزیمہ اور بیہقی نے اس روایت کو نبی ﷺ کا قول (مرفوع) کی بجائے صحابی کا قول (موقوف) قرار دیا ہے۔",
+                "موقوف حدیث، اگرچہ براہ راست نبی ﷺ کی طرف منسوب نہیں، لیکن فقہی اصولوں میں اس کی بڑی اہمیت ہے۔",
+                "ابن عمرؓ جیسے عظیم صحابی کا ذاتی قول بھی شرعی مسائل میں قوی دلیل ہوتا ہے۔"
+              ],
+              "english": [
+                "Major Hadith scholars like Ibn Khuzaymah and Al-Bayhaqī ruled this narration to be the saying of the Companion (Mauqūf), rather than the Prophet (Marfū').",
+                "A Mauqūf Hadith, while not directly attributed to the Prophet (ﷺ), carries significant weight in legal rulings.",
+                "A personal statement from a great Companion like Ibn 'Umar is considered a strong evidence in Islamic jurisprudence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موقوف اور اجماع",
+              "english": "Mauqūf and Consensus"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ جمہور فقہاء نے اسی تعریف کو اختیار کیا ہے، لہٰذا یہ قول اجماعِ عملی کی صورت اختیار کر چکا ہے۔",
+                "یہ فقہی اتفاق شریعت میں وقت کی تعیین کی اہمیت کو ثابت کرتا ہے۔",
+                "اس اصول پر عمل کرنے سے اوقاتِ نماز میں یقین اور نظم و ضبط برقرار رہتا ہے۔"
+              ],
+              "english": [
+                "Since the majority of jurists adopted this definition, this saying has achieved the status of practical consensus ('Ijmā' 'Amalī).",
+                "This juristic agreement proves the importance of establishing time boundaries in the Sharī'ah.",
+                "Adhering to this principle maintains certainty and discipline in observing prayer times."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور احتیاط",
+        "english": "Practical Training and Caution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت کی پابندی",
+              "english": "Adherence to Time"
+            },
+            "content": {
+              "urdu": [
+                "نمازی کو چاہیے کہ وہ مغرب کی نماز ادا کرنے میں جلدی کرے اور اسے شفق کے غائب ہونے تک مؤخر نہ کرے۔",
+                "عشاء کی نماز میں افضل تاخیر کا حکم ہے لیکن شفق کے غائب ہونے کا یقین کر لینا ضروری ہے۔",
+                "دینی احکام کی پیروی میں ہر مسلمان کو اوقات کی صحیح پہچان ہونی چاہیے۔"
+              ],
+              "english": [
+                "The worshipper should hasten the Maghrib prayer and not delay it until the disappearance of the Shafaq.",
+                "It is recommended to delay the 'Isha' prayer, but certainty of the Shafaq's disappearance must be established.",
+                "Every Muslim should have an accurate understanding of the times when following religious rulings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمائے کرام کی طرف رجوع",
+              "english": "Referring to Scholars"
+            },
+            "content": {
+              "urdu": [
+                "مختلف علاقوں میں شفق کی تعریف میں فرق ہوتا ہے، لہٰذا مقامی علماء کی رہنمائی لینا چاہیے۔",
+                "جدید فلکیاتی حسابات نے اوقات کی تعیین کو زیادہ یقینی بنا دیا ہے۔",
+                "دین کے اس اہم مسئلہ میں سستی اور لاپرواہی سے بچنا چاہیے۔"
+              ],
+              "english": [
+                "The definition of Shafaq can vary in different regions, so guidance should be sought from local scholars.",
+                "Modern astronomical calculations have made the determination of these times more certain.",
+                "In this important matter of religion, laziness and carelessness must be avoided."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

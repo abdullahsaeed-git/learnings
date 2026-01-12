@@ -1,0 +1,264 @@
+{
+  "hadithId": 1066,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/10/16"],
+    "kitabId": 10,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحدود",
+    "babId": 87
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (2559)‏، ومسلم (2612)‏، واللفظ لمسلم: 'إذا قاتل أحدكم فليجتنب الوجه، فإن الله خلق آدم على صورته'.",
+    "urdu": "یہ روایت صحیح ہے، اسے امام بخاری (2559) اور امام مسلم (2612) نے روایت کیا ہے۔ مسلم کے الفاظ میں یہ اضافہ ہے کہ اللہ نے آدم کو اپنی صورت پر پیدا کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2559) and Muslim (2612). The version in Muslim adds: 'For Allah created Adam in His image.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "ضَرَبَ",
+      "english": "Strikes/Beats",
+      "urdu": "مارے"
+    },
+    {
+      "arabic": "يَتَّقِ",
+      "english": "Avoid/Fear",
+      "urdu": "بچنا چاہیے"
+    },
+    {
+      "arabic": "الْوَجْهَ",
+      "english": "The Face",
+      "urdu": "چہرہ"
+    },
+    {
+      "arabic": "فَلْيَجْتَنِبِ",
+      "english": "Must stay away",
+      "urdu": "پس اجتناب کرے"
+    },
+    {
+      "arabic": "خَلَقَ",
+      "english": "Created",
+      "urdu": "پیدا کیا"
+    },
+    {
+      "arabic": "أَحَدُكُمْ",
+      "english": "One of you",
+      "urdu": "تم میں سے کوئی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں چہرے کی حرمت بیان کی گئی ہے کہ سزا دیتے وقت یا کسی لڑائی کے دوران چہرے پر مارنا شرعاً ممنوع ہے۔",
+    "english": "This Hadith highlights the sanctity of the face, prohibiting striking it during punishments or combat."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2559)",
+      "english": "Sahih al-Bukhari (2559)"
+    },
+    {
+      "arabic": "صحيح مسلم (2612)",
+      "english": "Sahih Muslim (2612)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=2v-k9tBv0mY",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "چہرے کی حرمت اور وقار",
+        "english": "Sanctity and Dignity of the Face"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی وقار کا تحفظ",
+              "english": "Preserving Human Dignity"
+            },
+            "content": {
+              "urdu": [
+                "چہرہ انسان کی شناخت اور اس کے تمام حواس کا مرکز ہے۔",
+                "چہرے پر مارنا انسان کی تذلیل اور اہانت کا سبب بنتا ہے۔",
+                "اسلام نے سزا کے دوران بھی انسانی وقار کے تحفظ کا حکم دیا ہے۔"
+              ],
+              "english": [
+                "The face is the center of human identity and all primary senses.",
+                "Striking the face causes extreme humiliation and degradation to a person.",
+                "Islam commands the preservation of human dignity even during legal punishments."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تخلیقِ آدم کی نسبت",
+              "english": "Relation to Adam's Creation"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی روایت کے مطابق اللہ نے آدم کو اپنی صورت پر پیدا کیا ہے۔",
+                "اس نسبت کی وجہ سے چہرہ خاص احترام اور تکریم کا مستحق ہے۔",
+                "اس حدیث سے چہرے کی خصوصی قدرو منزلت واضح ہوتی ہے۔"
+              ],
+              "english": [
+                "According to Muslim, Allah created Adam in His image (attributes).",
+                "Because of this relation, the face deserves special respect and honor.",
+                "This Hadith clarifies the unique spiritual status of the human face."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سزا کے دوران احتیاط",
+        "english": "Caution During Punishment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدود کا نفاذ",
+              "english": "Implementation of Hudud"
+            },
+            "content": {
+              "urdu": [
+                "حد مارتے وقت جلاد کو چاہیے کہ وہ مقتل اعضاء سے بچے۔",
+                "چہرہ نازک ترین حصہ ہے جہاں چوٹ لگنے سے بینائی یا سماعت جا سکتی ہے۔",
+                "سزا کا مقصد اصلاح ہے، مستقل معذوری یا چہرے کی بگاڑ نہیں۔"
+              ],
+              "english": [
+                "Executioners must avoid vital organs when administering legal floggings.",
+                "The face is fragile; a blow can cause loss of sight or hearing.",
+                "The goal of punishment is reform, not permanent disability or disfigurement."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچوں کی تادیب",
+              "english": "Disciplining Children"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم بچوں کی تعلیم و تربیت کے دوران مارنے پر بھی لاگو ہوتا ہے۔",
+                "والدین اور اساتذہ کو سختی سے چہرے پر مارنے سے روکا گیا ہے۔",
+                "اسلامی تربیت میں چہرے پر تھپڑ مارنا اخلاقی طور پر سخت ناپسندیدہ ہے۔"
+              ],
+              "english": [
+                "This ruling applies to disciplining children during their education.",
+                "Parents and teachers are strictly forbidden from hitting a child's face.",
+                "Slapping the face is morally reprehensible in Islamic educational principles."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور سماجی حکمت",
+        "english": "Medical and Social Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طبی نقصانات سے بچاؤ",
+              "english": "Prevention of Medical Harm"
+            },
+            "content": {
+              "urdu": [
+                "چہرے پر دماغ اور اعصاب کا حساس ترین جال بچھا ہوا ہے۔",
+                "ایک معمولی ضرب بھی مستقل دماغی نقصان کا باعث بن سکتی ہے۔",
+                "حدیث کی یہ تعلیم جدید میڈیکل سائنس کے اصولوں کے عین مطابق ہے۔"
+              ],
+              "english": [
+                "The face contains a sensitive network of brain tissues and nerves.",
+                "Even a minor blow can result in permanent neurological damage.",
+                "This Prophetic teaching aligns perfectly with modern medical science."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفرت کا خاتمہ",
+              "english": "Eradication of Hatred"
+            },
+            "content": {
+              "urdu": [
+                "چہرے پر مارنے سے انسان کے دل میں شدید نفرت پیدا ہوتی ہے۔",
+                "یہ عمل انتقامی جذبات کو ہوا دیتا ہے جو معاشرتی بگاڑ کا سبب ہے۔",
+                "اسلام باہمی تعلقات میں نرمی اور وقار کو ملحوظ رکھنے کی تاکید کرتا ہے۔"
+              ],
+              "english": [
+                "Striking the face instills deep-seated hatred in a person's heart.",
+                "This action fuels revenge, leading to broader social unrest.",
+                "Islam emphasizes maintaining gentleness and dignity in interpersonal relations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی نظامِ عدل",
+        "english": "Islamic Justice System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رحمت اور قانون کا امتزاج",
+              "english": "Blending Mercy and Law"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی سزائیں وحشیانہ نہیں بلکہ ضابطے کے تحت دی جاتی ہیں۔",
+                "سزا دیتے وقت بھی مجرم کے بنیادی حقوق کا خیال رکھا جاتا ہے۔",
+                "یہ حدیث اسلام کے نظامِ عدل کی خوبصورتی کو ظاہر کرتی ہے۔"
+              ],
+              "english": [
+                "Islamic punishments are regulated and not barbaric in nature.",
+                "Basic rights of the offender are respected even during the penalty.",
+                "This Hadith showcases the beauty of the Islamic judicial system."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی زندگی میں اطلاق",
+              "english": "Practical Application"
+            },
+            "content": {
+              "urdu": [
+                "کھیلوں یا کشتی کے دوران بھی چہرے پر ضرب لگانا ممنوع ہے۔",
+                "مسلمانوں کو ہر حال میں آپسی لڑائی میں اس حد کا خیال رکھنا چاہیے۔",
+                "اس سنت پر عمل پیرا ہونا اللہ کی مخلوق پر رحم کرنے کے مترادف ہے۔"
+              ],
+              "english": [
+                "Striking the face is prohibited even during sports or wrestling.",
+                "Muslims must strictly observe this limit during any personal conflicts.",
+                "Following this Sunnah is equivalent to showing mercy to Allah's creation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

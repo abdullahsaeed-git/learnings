@@ -1,0 +1,44 @@
+{
+  "chapId": 43,
+  "bookId": 7,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 692,
+    "to": 694
+  },
+  "hadiths": [
+    {
+      "id": 692,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا, عَنْ رَسُولِ اَللَّهِ صلى الله عليه وسلم قَالَ: { إِذَا تَبَايَعَ اَلرَّجُلَانِ, فَكُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ مَا لَم| يَتَفَرَّقَا وَكَانَا جَمِيعاً, أَوْ يُخَيِّرُ أَحَدُهُمَا اَلْآخَرَ, فَإِنْ خَيَّرَ أَحَدُهُمَا اَلْآخَرَ فَتَبَايَعَا عَلَى ذَلِكَ فَقَدَ وَجَبَ اَلْبَيْعُ, وَإِنْ تَفَرَّقَا بَعْدَ أَنْ تَبَايَعَا, وَلَمْ يَتْرُكْ وَاحِدٌ مِنْهُمَا اَلْبَيْعَ فَقَدْ وَجَبَ اَلْبَيْعُ } مُتَّفَقٌ عَلَيْهِ, وَاللَّفْظُ لِمُسْلِمٍ",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما رسول اللہ صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا: ”جب دو آدمی آپس میں سودا کرنے لگیں تو جب تک وہ اکٹھے رہیں اور ایک دوسرے سے جدا نہ ہوں، ان میں سے ہر ایک کو اختیار ہے (کہ سودا منسوخ کر دے)، یا ایک دوسرے کو (جدا ہونے سے پہلے ہی) اختیار دے دے، اگر ایک دوسرے کو اختیار دے دے اور اسی پر سودا طے ہو جائے تو سودا پختہ ہو گیا، اور اگر سودا طے کرنے کے بعد ایک دوسرے سے الگ الگ ہو جائیں اور دونوں میں سے کسی نے بھی بیع کو فسخ نہ کیا ہو تو بیع پختہ ہو جائے گی۔“",
+        "english": "Narrated Ibn 'Umar (RA): Allah's Messenger (ﷺ) said: 'When two men enter into a transaction, each of them has the option (to cancel it) as long as they have not separated and are still together; or if one gives the other the option (to settle it finally). If one gives the other the option and they agree on the sale, then the sale becomes binding. If they separate after the sale and neither of them has cancelled it, then the sale becomes binding.'"
+      }
+    },
+
+    {
+      "id": 693,
+      "name": {
+        "arabic": " وَعَنْ عَمْرِو بْنِ شُعَيْبٍ, عَنْ أَبِيهِ, عَنْ جَدِّهِ; أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ: { اَلْبَائِعُ وَالْمُبْتَاعُ بِالْخِيَارِ حَتَّى يَتَفَرَّقَا, إِلَّا أَنْ تَكُونَ صَفْقَةَ خِيَارٍ, وَلَا يَحِلُّ لَهُ أَنْ يُفَارِقَهُ خَشْيَةَ أَنْ يَسْتَقِيلَهُ } رَوَاهُ اَلْخَمْسَةُ",
+        "urdu": "سیدنا عمرو بن شعیب رحمہ اللہ نے اپنے والد سے، انہوں نے اپنے دادا سے روایت کیا ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا: ”بیچنے والے اور خریدنے والے کو (سودا منسوخ کرنے کا) اختیار ہے جب تک کہ وہ ایک دوسرے سے جدا نہ ہو جائیں، سوائے اس صورت کے کہ سودا ہی اختیار کی شرط پر ہوا ہو، اور کسی (فریق) کے لیے یہ حلال نہیں کہ وہ اس ڈر سے کہ دوسرا سودا منسوخ نہ کر دے، جلدی سے وہاں سے الگ ہو جائے۔“",
+        "english": "Narrated 'Amr bin Shu'aib, on his father's authority from his grandfather, that the Prophet (peace be upon him) said: \"The seller and the buyer have the right of option (to cancel) as long as they have not separated, unless it is a transaction of option (where a period is fixed). And it is not lawful for one to leave the other for fear that the other might cancel the deal.\""
+      }
+    },
+
+    {
+      "id": 694,
+      "name": {
+        "arabic": "وَعَنِ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: ذَكَرَ رَجُلٌ لِلنَّبِيِّ صلى الله عليه وسلم أَنَّهُ يُخْدَعُ فِي اَلْبُيُوعِ فَقَالَ: { إِذَا بَايَعْتَ فَقُلْ: لَا خَلَابَةَ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس ایک شخص نے ذکر کیا کہ اسے بیع میں عام طور پر دھوکہ دیا جاتا ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا: ”سودا کرتے وقت کہہ دیا کرو کہ کوئی فریب و دھوکہ نہیں ہو گا۔“ (بخاری و مسلم)",
+        "english": "Narrated Ibn 'Umar (RA): A man mentioned to the Prophet (ﷺ) that he was often deceived in business transactions. The Prophet (ﷺ) said, 'When you enter into a transaction, say: There is to be no deception (La khilabah).'"
+      }
+    }
+  ]
+}

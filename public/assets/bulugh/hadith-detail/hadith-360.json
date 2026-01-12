@@ -1,0 +1,264 @@
+{
+  "hadithId": 360,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["muslim:867"],
+    "kitabId": 2,
+    "inKitabBab": 12,
+    "arabicBook": "صحيح مسلم",
+    "babId": 22
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (867)، والنسائي (1578)، وابن ماجه (45).",
+    "urdu": "صحیح روایت۔ اسے امام مسلم (867)، نسائی (1578) اور ابن ماجہ (45) نے روایت کیا ہے۔",
+    "english": "Sahih. Recorded by Muslim (867), An-Nasa'i (1578), and Ibn Majah (45)."
+  },
+  "importantWords": [
+    {
+      "arabic": "مُنْذِرُ جَيْشٍ",
+      "english": "Warner of an army",
+      "urdu": "لشکر کو ڈرانے والا"
+    },
+    {
+      "arabic": "خَيْرَ الْهَدْيِ",
+      "english": "Best guidance",
+      "urdu": "بہترین طریقہ"
+    },
+    {
+      "arabic": "مُحْدَثَاتُهَا",
+      "english": "Newly introduced matters",
+      "urdu": "نئی ایجاد کردہ باتیں"
+    },
+    {
+      "arabic": "بِدْعَةٍ",
+      "english": "Innovation (in religion)",
+      "urdu": "دین میں نیا کام"
+    },
+    {
+      "arabic": "ضَلَالَةٌ",
+      "english": "Misguidance",
+      "urdu": "گمراہی"
+    },
+    {
+      "arabic": "احْمَرَّتْ",
+      "english": "Turned red",
+      "urdu": "سرخ ہو گئیں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں خطبہ جمعہ کے آداب، سنت کی پیروی کی اہمیت اور دین میں نئی چیزیں پیدا کرنے (بدعت) کی سخت ممانعت بیان کی گئی ہے۔",
+    "english": "This Hadith highlights the etiquette of the Friday sermon, the importance of following the Sunnah, and the severe prohibition of religious innovations (Bid'ah)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (867)",
+      "english": "Sahih Muslim (867)"
+    },
+    {
+      "arabic": "سنن النسائي (1578)",
+      "english": "Sunan an-Nasa'i (1578)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9KExM9O2_w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خطبے کا انداز اور اسلوب",
+        "english": "The Style of the Sermon"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جوش اور بلند آواز",
+              "english": "Passion and Raised Voice"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ خطبہ دیتے وقت انتہائی سنجیدہ اور پرجوش ہوتے تھے۔",
+                "آواز کا بلند ہونا سامعین کی توجہ حاصل کرنے کے لیے ضروری ہے۔",
+                "یہ اسلوب کسی اہم اور ہنگامی خطرے سے خبردار کرنے جیسا ہوتا تھا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) was extremely serious and passionate during sermons.",
+                "Raising the voice is necessary to capture the audience's attention.",
+                "This style resembled warning people of an urgent, imminent danger."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تاثرات کی اہمیت",
+              "english": "Importance of Expressions"
+            },
+            "content": {
+              "urdu": [
+                "آنکھوں کا سرخ ہونا کلام کی تاثیر اور خلوص کو ظاہر کرتا تھا۔",
+                "خطیب کو چاہیے کہ وہ خطبے کے موضوع کے مطابق اپنے جذبات رکھے۔",
+                "سستی اور بے دلی کے بجائے جوش سے بات کرنا سنتِ نبوی ہے۔"
+              ],
+              "english": [
+                "Redness of the eyes reflected the sincerity and impact of the speech.",
+                "The orator should align their emotions with the topic of the sermon.",
+                "Speaking with vigor instead of lethargy follows the Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اتباعِ سنت اور بدعت کی مذمت",
+        "english": "Following Sunnah and Condemning Bid'ah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہترین طریقہ",
+              "english": "The Best Guidance"
+            },
+            "content": {
+              "urdu": [
+                "کامیابی صرف اللہ کی کتاب اور نبی ﷺ کے طریقے میں ہے۔",
+                "تمام انسانی فلسفے اور طریقے سنت کے سامنے ہیچ ہیں۔",
+                "نبی ﷺ کی زندگی ہمارے لیے ہدایت کا کامل اور حتمی نمونہ ہے۔"
+              ],
+              "english": [
+                "Success lies solely in Allah's Book and the Prophet's (ﷺ) way.",
+                "All human philosophies and methods are inferior to the Sunnah.",
+                "The Prophet's (ﷺ) life is the perfect and final model of guidance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بدعت کی گمراہی",
+              "english": "The Deviation of Innovation"
+            },
+            "content": {
+              "urdu": [
+                "دین میں اپنی طرف سے اضافہ کرنا بدعت اور سخت گناہ ہے۔",
+                "ہر وہ نیا کام جو شریعت کے خلاف ہو، وہ رد کر دیا جاتا ہے۔",
+                "بدعت انسان کو سنت سے دور اور جہنم کے قریب کر دیتی ہے۔"
+              ],
+              "english": [
+                "Adding newly invented matters to religion is a severe sin (Bid'ah).",
+                "Every innovation that contradicts Shariah is rejected and void.",
+                "Innovation distances a person from Sunnah and leads toward Hell."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ہدایت اور گمراہی کے اصول",
+        "english": "Principles of Guidance and Misguidance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی مشیت",
+              "english": "The Will of Allah"
+            },
+            "content": {
+              "urdu": [
+                "ہدایت صرف اللہ کے ہاتھ میں ہے، وہی سیدھا راستہ دکھاتا ہے۔",
+                "جسے اللہ ہدایت دے اسے کوئی دنیاوی طاقت بہکا نہیں سکتی۔",
+                "ہدایت کے حصول کے لیے سچی طلب اور دعا لازمی شرائط ہیں۔"
+              ],
+              "english": [
+                "Guidance is in Allah's hands; He alone shows the straight path.",
+                "No worldly power can misguide one whom Allah has guided.",
+                "Sincere desire and supplication are essential to receive guidance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گمراہی کا انجام",
+              "english": "The End of Deviation"
+            },
+            "content": {
+              "urdu": [
+                "حق سے منہ موڑنے والوں کے لیے ہدایت کا کوئی دوسرا ذریعہ نہیں۔",
+                "گمراہی کا آخری ٹھکانہ جہنم کی آگ ہے جیسا کہ نسائی میں مذکور ہے۔",
+                "اللہ کی پناہ طلب کرنا اور حق پر قائم رہنا ہر مومن کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "There is no other source of guidance for those who turn from Truth.",
+                "The final destination of misguidance is Hellfire, as stated in An-Nasa'i.",
+                "Seeking Allah's protection and staying firm on Truth is every believer's duty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خطبے کے بنیادی اجزاء",
+        "english": "Essential Components of the Sermon"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حمد و ثناء",
+              "english": "Praising Allah"
+            },
+            "content": {
+              "urdu": [
+                "ہر خطبے کا آغاز اللہ کی تعریف اور شکر سے ہونا چاہیے۔",
+                "نبی ﷺ نے ہمیشہ حمد و ثناء کے بعد کلام کا آغاز فرمایا۔",
+                "یہ عمل کلام میں برکت اور تاثیر پیدا کرنے کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "Every sermon must begin with the praise and thanks of Allah.",
+                "The Prophet (ﷺ) always began his speech after praising Allah.",
+                "This practice brings blessings and effectiveness to the message."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عقیدے کی درستگی",
+              "english": "Correction of Creed"
+            },
+            "content": {
+              "urdu": [
+                "خطبہ جمعہ کا مقصد لوگوں کے عقائد اور اعمال کی اصلاح ہے۔",
+                "قرآن و سنت کی بالادستی کا ذکر خطبے کا لازمی حصہ ہے۔",
+                "مسلمانوں کو ہر دور کے فتنوں اور نئی ایجادات سے خبردار کرنا چاہیے۔"
+              ],
+              "english": [
+                "The goal of the Friday sermon is to reform beliefs and actions.",
+                "Mentioning the supremacy of Quran and Sunnah is an essential part.",
+                "Muslims must be warned against contemporary trials and innovations."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

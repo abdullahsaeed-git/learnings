@@ -1,0 +1,267 @@
+{
+  "hadithId": 277,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/abudawud:2774",
+      "https://sunnah.com/tirmidhi:1578",
+      "https://sunnah.com/ibnmajah:1394"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "سنن أبي داود / جامع الترمذي",
+    "babId": 18
+  },
+  "name": {
+    "arabic": "وَعَنْ أَبِي بَكْرَةَ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-{ كَانَ إِذَا جَاءَهُ أَمْرٌ يَسُرُّهُ خَرَّ سَاجِداً لِلَّهِ } رَوَاهُ اَلْخَمْسَةُ إِلَّا النَّسَائِيَّ .",
+    "urdu": "سیدنا ابوبکرہ رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم کو جب کوئی ایسا معاملہ پیش آتا جس سے آپ خوش ہوتے (یا خوشخبری دی جاتی)، تو آپ اللہ کے شکرانے کے طور پر سجدے میں گر پڑتے۔ (اسے نسائی کے علاوہ پانچوں [یعنی احمد، ابوداؤد، ترمذی، ابن ماجہ] نے روایت کیا ہے)",
+    "english": "Narrated Abu Bakra (RA): \"When anything came to the Prophet (ﷺ) which caused pleasure (or, by which he was made glad), he prostrated himself in gratitude to Allah.\" (Reported by the Five except An-Nasa'i)"
+  },
+  "takhreej": {
+    "arabic": "صحيح بشواهده .‏ رواه أبو داود ( 2774 )‏ ، والترمذي ( 1578 )‏ ، وابن ماجه ( 1394 )‏ ، وأحمد ( 5 / 45 )‏. وله شواهد من حديث عبد الرحمن بن عوف والبراء بن عازب وغيرهم.",
+    "urdu": "اپنے شواہد کی بنا پر صحیح ہے۔ اسے ابوداؤد (2774)، ترمذی (1578)، ابن ماجہ (1394) اور احمد (5 / 45) نے روایت کیا ہے۔ اس کے شواہد عبدالرحمن بن عوف اور براء بن عازب رضی اللہ عنہم وغیرہ کی احادیث میں موجود ہیں۔",
+    "english": "Sahih (Authentic) due to supporting evidences. Reported by Abu Dawud (2774), At-Tirmidhi (1578), Ibn Majah (1394), and Ahmad (5/45). It is supported by narrations from Abdur-Rahman bin 'Auf and Al-Bara' bin 'Azib (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَمْرٌ",
+      "english": "Matter/News",
+      "urdu": "معاملہ / خبر"
+    },
+    {
+      "arabic": "يَسُرُّهُ",
+      "english": "Pleases him",
+      "urdu": "اسے خوش کرتا"
+    },
+    {
+      "arabic": "خَرَّ",
+      "english": "Fell down",
+      "urdu": "گر پڑے"
+    },
+    {
+      "arabic": "سَاجِداً",
+      "english": "Prostrating",
+      "urdu": "سجدہ کرتے ہوئے"
+    },
+    {
+      "arabic": "شُكْر",
+      "english": "Gratitude",
+      "urdu": "شکر"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث 'سجدہ شکر' کی مشروعیت کو ثابت کرتی ہے کہ جب انسان کو کوئی بڑی خوشی ملے یا مصیبت ٹل جائے تو اللہ کے حضور سجدہ شکر ادا کرنا سنت ہے۔",
+    "english": "This Hadith establishes the legitimacy of 'Sujud ash-Shukr' (Prostration of Gratitude). It is a Sunnah to prostrate to Allah upon receiving good news or being saved from a calamity."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2774)",
+      "english": "Reported by Abu Dawud (2774)"
+    },
+    {
+      "arabic": "رواه الترمذي (1578)",
+      "english": "Reported by At-Tirmidhi (1578)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي بَكْرَةَ",
+        "english": "Abu Bakra"
+      },
+      "slug": "abu-bakra"
+    }
+  ],
+  "ytLink": "https://youtu.be/83wSXe5O2MA?si=9w2zD4lqP7Sgq_X8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سجدہ شکر کی اہمیت",
+        "english": "Importance of Sujud Shukr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی نعمت کا اعتراف",
+              "english": "Acknowledging Allah's Blessing"
+            },
+            "content": {
+              "urdu": [
+                "خوشی کے وقت انسان اکثر غافل ہو جاتا ہے۔",
+                "سجدہ شکر بندے کو یاد دلاتا ہے کہ یہ کامیابی اللہ کی عطا ہے۔",
+                "یہ عاجزی اور بندگی کا بہترین اظہار ہے۔"
+              ],
+              "english": [
+                "Man often becomes heedless in times of joy.",
+                "Sujud Shukr reminds the servant that success is Allah's gift.",
+                "This is the best expression of humility and servitude."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت نبوی",
+              "english": "Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کو جب بھی فتح یا خوشخبری ملتی، آپ فوراً سجدہ کرتے۔",
+                "صحابہ کرام نے بھی اس سنت پر عمل کیا۔",
+                "سیدنا ابوبکر صدیق نے مسیلمہ کذاب کے قتل کی خبر سن کر سجدہ کیا تھا۔"
+              ],
+              "english": [
+                "Whenever the Prophet (ﷺ) received victory or good news, he prostrated immediately.",
+                "The Companions also acted upon this Sunnah.",
+                "Abu Bakr As-Siddiq (RA) prostrated upon hearing the news of Musaylimah's death."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سجدہ شکر کا طریقہ",
+              "english": "Method of Sujud Shukr"
+            },
+            "content": {
+              "urdu": [
+                "اس کے لیے وضو شرط نہیں ہے (راجح قول کے مطابق)۔",
+                "قبلہ رخ ہونا افضل ہے، لیکن ضروری نہیں۔",
+                "صرف ایک سجدہ کیا جاتا ہے اور اس میں اللہ کی حمد بیان کی جاتی ہے۔"
+              ],
+              "english": [
+                "Wudu is not a condition for it (according to the preferred view).",
+                "Facing Qiblah is preferred but not mandatory.",
+                "Only one prostration is performed, praising Allah in it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کے دوران ممانعت",
+              "english": "Prohibition during Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نماز کے اندر سجدہ شکر ادا نہیں کیا جا سکتا۔",
+                "اگر نماز میں خوشخبری ملے تو نماز مکمل کرنے کے بعد سجدہ کریں۔",
+                "نماز کے افعال مقرر ہیں، ان میں اضافہ جائز نہیں۔"
+              ],
+              "english": [
+                "Sujud Shukr cannot be performed inside the prayer.",
+                "If good news arrives during prayer, prostrate after completing it.",
+                "The actions of prayer are fixed; adding to them is not permissible."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جذبات کا رخ",
+              "english": "Direction of Emotions"
+            },
+            "content": {
+              "urdu": [
+                "خوشی میں ناچ گانے کے بجائے اللہ کا شکر ادا کریں۔",
+                "مسلمان اپنی خوشی کو بھی عبادت بنا لیتا ہے۔",
+                "اس عمل سے نعمت میں برکت اور اضافہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Instead of dancing and singing in joy, thank Allah.",
+                "A Muslim turns even his happiness into worship.",
+                "This action brings blessings and increase in the favor."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فوری ردعمل",
+              "english": "Immediate Reaction"
+            },
+            "content": {
+              "urdu": [
+                "خبر سنتے ہی 'خرّ' (گر پڑنا) کا لفظ فوری عمل کو ظاہر کرتا ہے۔",
+                "نیکی میں تاخیر نہیں کرنی چاہیے۔",
+                "اللہ کے احسان کا بدلہ فوراً شکر سے چکانا چاہیے۔"
+              ],
+              "english": [
+                "The word 'kharra' (fell down) indicates immediate action upon hearing news.",
+                "Good deeds should not be delayed.",
+                "Allah's favor should be immediately repaid with gratitude."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی ثقافت",
+              "english": "Islamic Culture"
+            },
+            "content": {
+              "urdu": [
+                "یہ عمل اسلامی معاشرے کی پہچان ہے۔",
+                "جب کھلاڑی یا کامیاب لوگ سجدہ کرتے ہیں تو دعوت کا کام ہوتا ہے۔",
+                "یہ اللہ کی کبریائی کا اعلانیہ اظہار ہے۔"
+              ],
+              "english": [
+                "This act is a hallmark of Islamic society.",
+                "When athletes or successful people prostrate, it serves as Da'wah.",
+                "It is a public declaration of Allah's Greatness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نعمت کا تحفظ",
+              "english": "Preservation of Blessing"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کا وعدہ ہے: 'اگر شکر کرو گے تو میں زیادہ دوں گا'۔",
+                "سجدہ شکر نعمت کو محفوظ کرنے کا ذریعہ ہے۔",
+                "ناشکری نعمتوں کے چھین لیے جانے کا سبب بنتی ہے۔"
+              ],
+              "english": [
+                "Quran promises: 'If you are grateful, I will surely increase you'.",
+                "Sujud Shukr is a means to preserve the blessing.",
+                "Ingratitude causes blessings to be taken away."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "hadithId": 1126,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/47"],
+    "kitabId": 11,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الجهاد - باب الجزية والهدنة",
+    "babId": 90
+  },
+  
+  "takhreej": {
+    "arabic": "حسن بشواهده. رواه الدارقطني (3/252) والروياني في مسنده (2/282). وله شاهد معلق عند البخاري (1353) بلفظ: «الإسلام يعلو ولا يعلى عليه»، ووصله البيهقي (6/205).",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر حسن ہے۔ اسے امام دارقطنی اور رویانی نے روایت کیا ہے۔ امام بخاری نے بھی اسے اپنی صحیح میں 'تعلیقاً' (یعنی بغیر سند کے جزم کے ساتھ) ذکر کیا ہے، اور امام بیہقی نے اس کی سند کو متصل بیان کیا ہے۔",
+    "english": "Hasan due to supporting evidences. Reported by ad-Daraqutni (3/252) and ar-Ruyani. Al-Bukhari mentioned it as a Mu'allaq (suspended) report in his Sahih (1353), and al-Bayhaqi (6/205) provided its full connected chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَعْلُو",
+      "english": "Rises above / Prevails",
+      "urdu": "غالب رہتا ہے / بلند ہوتا ہے"
+    },
+    {
+      "arabic": "لَا يُعْلَى",
+      "english": "Not surpassed / Not overridden",
+      "urdu": "مغلوب نہیں ہوتا / نیچے نہیں دبتا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مفہوم یہ ہے کہ اللہ کا دین (اسلام) اپنی حقانیت اور دلائل کی بنیاد پر ہمیشہ بلند رہتا ہے، اور مسلمانوں کو چاہیے کہ وہ اپنے کردار اور فیصلوں میں اسے ہی برتر رکھیں۔",
+    "english": "This Hadith signifies that Islam, being the divine truth, is inherently superior in its proofs and principles, and Muslims must uphold its dignity in all legal and social matters."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1353) - تعليقاً",
+      "english": "Sahih al-Bukhari (1353) - Suspended"
+    },
+    {
+      "arabic": "السنن الكبرى للبيهقي (6/205)",
+      "english": "Al-Sunan al-Kubra by al-Bayhaqi (6/205)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائذ بن عمرو المزني",
+        "english": "Aidh bin Amr al-Muzani"
+      },
+      "slug": "aidh-bin-amr-al-muzani"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اسلام کی حقانیت اور برتری",
+        "english": "The Truth and Superiority of Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دلیل اور حجت کا غلبہ",
+              "english": "Victory of Logic and Proof"
+            },
+            "content": {
+              "urdu": [
+                "اسلام اپنے روشن دلائل اور مضبوط اصولوں کی وجہ سے ہر دوسرے نظام پر فوقیت رکھتا ہے۔",
+                "عقلی اور نقلی اعتبار سے اسلام کا کوئی بھی حکم مغلوب نہیں کیا جا سکتا۔",
+                "یہ دین اللہ کا آخری پیغام ہے، اس لیے اسے ہی ابدی غلبہ حاصل ہے۔"
+              ],
+              "english": [
+                "Islam excels over all other systems due to its clear proofs and solid principles.",
+                "Logically and scripturally, no Islamic ruling can be proven inferior.",
+                "As the final divine message, it is destined for eternal dominance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمانی وقار",
+              "english": "Dignity of Faith"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو اپنے دین پر فخر ہونا چاہیے اور اسے کسی احساسِ کمتری کا شکار نہیں ہونا چاہیے۔",
+                "نبی ﷺ نے مسلمانوں کو یہ یقین دلایا کہ ان کا راستہ ہی سب سے بلند ہے۔",
+                "اسلام کی عزت و تکریم کرنا ہر مومن کی بنیادی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "A Muslim should take pride in their faith and never suffer from an inferiority complex.",
+                "The Prophet (ﷺ) assured Muslims that their path is the most elevated one.",
+                "Upholding the honor and respect of Islam is a fundamental duty of every believer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور قانونی اطلاق",
+        "english": "Juristic and Legal Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نکاح اور وراثت کے احکام",
+              "english": "Marriage and Inheritance Rulings"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کی بنیاد پر فقہاء نے یہ اصول طے کیا کہ مسلم عورت کا نکاح غیر مسلم سے نہیں ہو سکتا۔",
+                "اسلام کسی ایسے معاہدے یا رشتے کی اجازت نہیں دیتا جہاں اسلام کو کسی دوسرے دین کے ماتحت کیا جائے۔",
+                "وراثت کے معاملات میں بھی اسلام کی برتری کو ملحوظ خاطر رکھا جاتا ہے۔"
+              ],
+              "english": [
+                "Based on this Hadith, jurists established that a Muslim woman cannot marry a non-Muslim.",
+                "Islam does not permit any contract or relationship where it is subordinated to another faith.",
+                "In matters of inheritance and legal priority, the superiority of Islam is maintained."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدالتی معاملات",
+              "english": "Judicial Matters"
+            },
+            "content": {
+              "urdu": [
+                "اگر ایک فریق مسلمان ہو اور دوسرا غیر مسلم، تو فیصلہ اسلامی قانون کے مطابق ہوگا۔",
+                "اسلامی ریاست میں قوانین کی بنیاد اسلامی اصولوں پر رکھی جاتی ہے۔",
+                "یہ برتری دوسرے مذاہب پر ظلم کے لیے نہیں بلکہ حق کے غلبے کے لیے ہے۔"
+              ],
+              "english": [
+                "In legal disputes where one party is Muslim, the judgment is given according to Islamic law.",
+                "Within an Islamic state, the framework of laws is rooted in Islamic principles.",
+                "This superiority is for the dominance of truth, not for the oppression of other faiths."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور سیاسی پہلو",
+        "english": "Social and Political Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سربلندی کا معیار",
+              "english": "Standard of Elevation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کی سربلندی مسلمانوں کے اعلیٰ اخلاق اور کردار سے وابستہ ہے۔",
+                "جب مسلمان اپنے دین پر صحیح معنوں میں عمل کرتے ہیں تو دنیا ان کے سامنے سرنگوں ہوتی ہے۔",
+                "یہ حدیث مسلمانوں کو ہر میدان میں محنت اور فضیلت حاصل کرنے کا سبق دیتی ہے۔"
+              ],
+              "english": [
+                "The elevation of Islam is tied to the high morals and character of its followers.",
+                "When Muslims practice their faith truly, the world bows to their excellence.",
+                "This Hadith teaches Muslims to strive for excellence and lead in every field."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مذہبی رواداری اور اسلام",
+              "english": "Religious Tolerance and Islam"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کی برتری کا مطلب دوسروں کی تحقیر کرنا نہیں بلکہ عدل و انصاف کا قیام ہے۔",
+                "غیر مسلموں کو ان کے حقوق دیے جاتے ہیں لیکن وہ اسلامی ریاست کے بنیادی نظریے کو نہیں بدل سکتے۔",
+                "اسلام انسانیت کو اندھیروں سے نکال کر روشنی کی طرف لانے والا بلند تر نظام ہے۔"
+              ],
+              "english": [
+                "The superiority of Islam implies establishing justice, not belittling others.",
+                "Non-Muslims are granted their rights, but they cannot override the core ideology of the state.",
+                "Islam is a superior system meant to guide humanity from darkness into light."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتماد اور استقامت",
+              "english": "Confidence and Steadfastness"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے عقیدے کے بارے میں کسی قسم کے شک یا خوف میں مبتلا نہیں ہونا چاہیے۔",
+                "اسلام کے اصولوں کو زندگی کے ہر شعبے میں دوسروں کے تجربات پر فوقیت دینی چاہیے۔",
+                "استقامتِ دین ہی اللہ کی نصرت اور دنیاوی غلبے کی کنجی ہے۔"
+              ],
+              "english": [
+                "We should not harbor any doubt or fear concerning our creed.",
+                "Islamic principles should be prioritized over man-made experiments in every walk of life.",
+                "Steadfastness in faith is the key to Allah's support and worldly success."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعوتِ دین کی ذمہ داری",
+              "english": "Responsibility of Da'wah"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کے غلبے کا پیغام دنیا کے ہر کونے تک پہنچانا ہر مسلمان کا فرض ہے۔",
+                "جب ہم اسلام کی خوبصورتی پیش کریں گے تو لوگ خود بخود اس کی برتری تسلیم کریں گے۔",
+                "اللہ ہمیں اپنے دین کی صحیح معنوں میں سربلندی کے لیے کام کرنے کی توفیق دے۔"
+              ],
+              "english": [
+                "It is the duty of every Muslim to spread the message of Islam's superiority globally.",
+                "When we present the beauty of Islam, people will naturally recognize its excellence.",
+                "May Allah enable us to work for the true elevation of His religion."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

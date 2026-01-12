@@ -1,0 +1,264 @@
+{
+  "hadithId": 514,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/514"],
+    "kitabId": 4,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 31
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1425)، ومسلم (1024). واللفظ المذكور في المتن متفق عليه مع فروق يسيرة في الروايات.",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (1425) اور امام مسلم (1024) نے اسے اپنی صحیحین میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1425) and Muslim (1024). The wording is agreed upon with minor variations in different narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَنْفَقَتِ",
+      "english": "Spent / Gave",
+      "urdu": "خرچ کیا"
+    },
+    {
+      "arabic": "طَعَامِ",
+      "english": "Food",
+      "urdu": "کھانا / غلہ"
+    },
+    {
+      "arabic": "مُفْسِدَةٍ",
+      "english": "Causing damage / Wasteful",
+      "urdu": "بگاڑ پیدا کرنے والی"
+    },
+    {
+      "arabic": "اِكْتَسَبَ",
+      "english": "Earned",
+      "urdu": "کمایا"
+    },
+    {
+      "arabic": "اَلْخَازِنِ",
+      "english": "Storekeeper",
+      "urdu": "خزانچی / محافظ"
+    },
+    {
+      "arabic": "لَا يَنْقُصُ",
+      "english": "Does not diminish",
+      "urdu": "کمی نہیں کرتا"
+    }
+  ],
+  "summary": {
+    "urdu": "گھر کے مال میں سے نیکی کی نیت سے خرچ کرنے پر عورت، کمانے والا مرد اور اس مال کی حفاظت کرنے والا ملازم سب اجر میں برابر کے شریک ہیں۔",
+    "english": "When a woman gives charity from her home's provisions sincerely, she, her earning husband, and the caretaker all share the reward equally without any reduction."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1425)",
+      "english": "Sahih al-Bukhari (1425)"
+    },
+    {
+      "arabic": "صحيح مسلم (1024)",
+      "english": "Sahih Muslim (1024)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A9f7C6Y_7Kk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عورت کا گھر کے مال میں تصرف",
+        "english": "Woman's Management of House Wealth"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجازت اور حد",
+              "english": "Permission and Limits"
+            },
+            "content": {
+              "urdu": [
+                "عورت کو شوہر کے مال سے معروف طریقے کے مطابق صدقہ کرنے کی اجازت ہے۔",
+                "اس خرچ کی شرط یہ ہے کہ اس سے گھر کے بجٹ میں بگاڑ یا فساد پیدا نہ ہو۔",
+                "اگر شوہر نے سختی سے منع کیا ہو تو پھر اس کی اجازت لینا ضروری ہے۔"
+              ],
+              "english": [
+                "A woman is permitted to give charity from her husband's wealth within reasonable bounds.",
+                "The condition for this spending is that it must not cause waste or financial harm to the family.",
+                "If a husband has explicitly forbidden it, she must seek his permission first."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فضول خرچی سے اجتناب",
+              "english": "Avoiding Extravagance"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'غیر مفسدہ' کا لفظ اعتدال اور توازن کی طرف اشارہ کرتا ہے۔",
+                "نیکی کا وہ عمل جو گھر کے سکون کو برباد کر دے، شریعت میں پسندیدہ نہیں۔",
+                "صدقہ اس مال سے ہونا چاہیے جو بنیادی ضروریات سے زائد ہو۔"
+              ],
+              "english": [
+                "The term 'without wasting' in the Hadith points towards moderation and balance.",
+                "A good deed that ruins the peace of the household is not desirable in Shariah.",
+                "Charity should come from wealth that is surplus to the family's basic needs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجر و ثواب میں شراکت",
+        "english": "Partnership in Divine Reward"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کسب اور خرچ کا تعلق",
+              "english": "Link Between Earning and Spending"
+            },
+            "content": {
+              "urdu": [
+                "شوہر کو مال کمانے اور مشقت اٹھانے کی وجہ سے مکمل اجر ملتا ہے۔",
+                "عورت کو مال کی صحیح جگہ منتقلی اور حسنِ انتظام کا اجر ملتا ہے۔",
+                "اللہ کا فضل اتنا وسیع ہے کہ وہ دونوں کو پورا پورا بدلہ عطا فرماتا ہے۔"
+              ],
+              "english": [
+                "The husband receives a full reward for earning the wealth and enduring hardship.",
+                "The woman receives a reward for properly managing and distributing the wealth.",
+                "Allah's grace is so vast that He grants both of them complete compensation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ملازمین اور محافظین کا اجر",
+              "english": "Reward for Employees and Guardians"
+            },
+            "content": {
+              "urdu": [
+                "اگر گھر کا خزانچی یا ملازم مال کی حفاظت اور تقسیم میں مدد دے تو وہ بھی برابر کا شریک ہے۔",
+                "نیکی کے عمل میں جتنے لوگ معاون بنیں گے، سب کو اجر ملے گا۔",
+                "یہ اصول اسلام کے سماجی تعاون اور ٹیم ورک کی اہمیت کو اجاگر کرتا ہے۔"
+              ],
+              "english": [
+                "If a storekeeper or servant helps in guarding and distributing wealth, they are equal partners.",
+                "Everyone who assists in a good deed will receive a share of the reward.",
+                "This principle highlights the importance of social cooperation and teamwork in Islam."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور گھریلو برکات",
+        "english": "Social and Domestic Blessings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی اعتماد کا فروغ",
+              "english": "Promoting Mutual Trust"
+            },
+            "content": {
+              "urdu": [
+                "گھر کے مال سے صدقہ کرنا خاندان میں برکت اور خوشحالی لاتا ہے۔",
+                "اس سے میاں بیوی کے درمیان اعتماد اور ہمدردی کا رشتہ مضبوط ہوتا ہے۔",
+                "غریبوں کی مدد سے گھر کی آفات و بلاؤں کا خاتمہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Giving charity from household wealth brings blessings and prosperity to the family.",
+                "It strengthens the bond of trust and sympathy between husband and wife.",
+                "Helping the poor serves as a means to ward off domestic calamities."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزق میں فراخی",
+              "english": "Abundance in Provision"
+            },
+            "content": {
+              "urdu": [
+                "صدقہ کرنے سے مال گھٹتا نہیں بلکہ اللہ کے غیبی خزانوں سے بڑھتا ہے۔",
+                "جب عورت سخی ہو تو اللہ شوہر کے کاروبار اور کمائی میں برکت ڈال دیتا ہے۔",
+                "یہ حدیث خواتین کو بخل کے بجائے سخاوت پر ابھارتی ہے۔"
+              ],
+              "english": [
+                "Wealth does not decrease by charity; rather, it increases from Allah's hidden treasures.",
+                "When a woman is generous, Allah blesses the husband's business and earnings.",
+                "This Hadith encourages women toward generosity instead of miserliness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مشاورت کی اہمیت",
+              "english": "Importance of Consultation"
+            },
+            "content": {
+              "urdu": [
+                "خواتین کو چاہیے کہ بڑے صدقات کے لیے شوہر کو اعتماد میں لیں۔",
+                "چھوٹی موٹی چیزیں جیسے کھانا وغیرہ دینا عام اجازت کے زمرے میں آتا ہے۔",
+                "گھریلو ہم آہنگی کے لیے ان معاملات میں شفافیت ضروری ہے۔"
+              ],
+              "english": [
+                "Women should take their husbands into confidence regarding large donations.",
+                "Minor items like sharing food fall under the category of general implied permission.",
+                "Transparency in these matters is essential for maintaining domestic harmony."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کا اخلاص",
+              "english": "Sincerity of Intention"
+            },
+            "content": {
+              "urdu": [
+                "اجر کا دارومدار نیت پر ہے، چاہے وہ کمانے والا ہو یا خرچ کرنے والا۔",
+                "ہر شخص کو اپنی ذمہ داری ایمانداری سے پوری کرنی چاہیے۔",
+                "ملازمین کو بھی چاہیے کہ وہ مالِ مالکان کی حفاظت کو اپنی عبادت سمجھیں۔"
+              ],
+              "english": [
+                "Reward depends on intention, whether one is the earner or the spender.",
+                "Every individual must fulfill their responsibility with honesty.",
+                "Employees should also consider guarding their employer's wealth as an act of worship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

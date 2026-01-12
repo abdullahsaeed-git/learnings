@@ -1,0 +1,210 @@
+{
+  "hadithId": 622,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/42"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده.‏ رواه أبو داود (1940)، والترمذي (893)، وابن ماجه (3025)، وأحمد (1/234). والحديث صححه الترمذي وابن حبان وغيرهما بمجموع طرقه، وإن كان في بعض أسانيده مقال إلا أنها تقوى ببعضها.",
+    "urdu": "صحیح (شواہد کی بنا پر)۔ اسے ابوداؤد، ترمذی، ابن ماجہ اور احمد نے روایت کیا ہے۔ اگرچہ حافظ ابن حجر نے اس میں انقطاع کا ذکر کیا ہے، مگر امام ترمذی نے اسے حسن صحیح کہا ہے اور دیگر شواہد سے اس کی اصل ثابت ہے۔",
+    "english": "Sahih due to corroborating evidences. Reported by Abu Dawud, at-Tirmidhi, Ibn Majah, and Ahmad. While Ibn Hajar mentions an interruption, at-Tirmidhi and Ibn Hibban graded it authentic based on collective routes."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَرْمُوا",
+      "english": "Do not throw / stone",
+      "urdu": "کنکریاں نہ مارو"
+    },
+    {
+      "arabic": "تَطْلُعَ",
+      "english": "Rises",
+      "urdu": "طلوع ہو جائے"
+    },
+    {
+      "arabic": "الْجَمْرَةَ",
+      "english": "The Jamrah (specifically al-Aqabah)",
+      "urdu": "جمرہ (بڑا شیطان)"
+    },
+    {
+      "arabic": "اِنْقِطَاعٌ",
+      "english": "Interruption in the chain",
+      "urdu": "سند کا ٹوٹا ہوا ہونا"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ نے بچوں اور نوجوانوں کو تاکید فرمائی کہ وہ 10 ذوالحجہ کی رمی (کنکریاں مارنا) سورج نکلنے کے بعد ہی کریں، اگرچہ کمزوروں کو پہلے جانے کی اجازت دی گئی تھی۔",
+    "english": "The Prophet (ﷺ) instructed the youth and children of his family to wait until sunrise to perform the stoning of the Jamrah on the 10th of Dhul-Hijjah."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (893)",
+      "english": "Sunan at-Tirmidhi (893)"
+    },
+    {
+      "arabic": "سنن أبي داود (1940)",
+      "english": "Sunan Abi Dawud (1940)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رمیِ جمرہ کا وقت اور خاندانِ نبوی کی تربیت",
+        "english": "Timing of Stoning and Training the Prophet's Family"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "افضل وقت کی نشاندہی",
+              "english": "Identifying the Best Time"
+            },
+            "content": {
+              "urdu": [
+                "10 ذوالحجہ (عید کے دن) کی رمی کا سنت اور افضل وقت سورج نکلنے کے بعد سے زوال تک ہے۔",
+                "نبی ﷺ نے اپنے خاندان کے نوجوانوں (جیسے ابن عباس) کو ہدایت کی کہ وہ مسنون وقت کا انتظار کریں۔",
+                "یہ حکم اس لیے تھا تاکہ وہ اس عظیم عبادت کے آداب اور بہترین وقت کی اہمیت کو سمجھ سکیں۔"
+              ],
+              "english": [
+                "The Sunnah and preferred time for stoning on the 10th of Dhul-Hijjah is from sunrise until midday.",
+                "The Prophet (ﷺ) specifically guided the youth of his household to wait for this Sunnah time.",
+                "This was intended to instill the importance of performing rituals at their optimal prescribed times."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کمزوروں کے لیے رعایت بمقابلہ نوجوانوں کے لیے حکم",
+              "english": "Concession for the Weak vs Command for the Youth"
+            },
+            "content": {
+              "urdu": [
+                "پچھلی احادیث میں کمزوروں اور خواتین کو آدھی رات کے بعد منیٰ جانے کی رخصت دی گئی تھی۔",
+                "نوجوانوں اور تندرست افراد کے لیے حکم یہی ہے کہ وہ سنت وقت کی پابندی کریں۔",
+                "یہ تفریق ظاہر کرتی ہے کہ شریعت میں عذر کی بنیاد پر رخصت ہے، مگر عام حالت میں بہترین وقت مطلوب ہے۔"
+              ],
+              "english": [
+                "Previous Hadiths granted concessions to women and the weak to leave for Mina after midnight.",
+                "However, healthy youth were encouraged to strictly adhere to the Sunnah timing.",
+                "This distinction shows that while concessions exist for excuses, the primary goal is following the standard Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور حدیث کی فنی حیثیت",
+        "english": "Juristic Aspects and Technical Status"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند میں انقطاع کی وضاحت",
+              "english": "Explanation of Interruption in the Chain"
+            },
+            "content": {
+              "urdu": [
+                "حافظ ابن حجر نے ذکر کیا کہ بعض اسانید میں راویوں کا درمیانی واسطہ گرا ہوا ہے (انقطاع)۔",
+                "لیکن محدثین کے نزدیک دیگر صحیح روایات اس مفہوم کی تائید کرتی ہیں، اس لیے یہ قابلِ عمل ہے۔",
+                "امام ترمذی نے اسے 'حسن صحیح' قرار دے کر اس کے ثبوت پر مہر لگائی ہے۔"
+              ],
+              "english": [
+                "Ibn Hajar noted that some chains have missing links (interruption).",
+                "However, Hadith experts consider it actionable as other authentic narrations support this meaning.",
+                "At-Tirmidhi's grading of 'Hasan Sahih' confirms its reliability in established practice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کیا فجر سے پہلے رمی جائز ہے؟",
+              "english": "Is Stoning Permissible Before Dawn?"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک عذر کی صورت میں رات کے آخری حصے میں رمی کرنا جائز ہے۔",
+                "یہ حدیث 'حکمِ استحباب' پر محمول ہے، یعنی سورج نکلنے تک انتظار کرنا زیادہ بہتر ہے۔",
+                "شدید ازدحام اور جان کے خطرے کی صورت میں فقہاء نے اب ہر وقت کی گنجائش دی ہے۔"
+              ],
+              "english": [
+                "The majority of jurists allow stoning in the latter part of the night if there is a valid excuse.",
+                "This Hadith is interpreted as a recommendation for excellence (Istihbab).",
+                "In modern times of extreme crowding, scholars provide wider flexibility for safety."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اولاد کی دینی تربیت",
+              "english": "Religious Training of Children"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اپنے خاندان کے بچوں کو حج کے دقیق مسائل خود سکھائے۔",
+                "والدین کی ذمہ داری ہے کہ وہ بچوں کو عبادات کے بہترین اوقات سے آگاہ کریں۔",
+                "بچپن میں سیکھی گئی سنتیں زندگی بھر کے لیے نقش ہو جاتی ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) personally taught the children of his family the intricacies of Hajj.",
+                "It is the responsibility of parents to inform children about the optimal times for worship.",
+                "Sunnahs learned in childhood remain etched in the mind for a lifetime."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صبر اور نظم و ضبط",
+              "english": "Patience and Discipline"
+            },
+            "content": {
+              "urdu": [
+                "عبادت میں جلد بازی کے بجائے سنت کے وقت کا انتظار کرنا صبر سکھاتا ہے۔",
+                "حج کے اعمال ہمیں وقت کی پابندی اور نظم و ضبط کا درس دیتے ہیں۔",
+                "اللہ کی رضا ان کاموں میں ہے جو اس کے رسول ﷺ کے بتائے ہوئے طریقے پر ہوں۔"
+              ],
+              "english": [
+                "Waiting for the Sunnah time instead of rushing through worship teaches patience.",
+                "The rituals of Hajj train pilgrims in punctuality and discipline.",
+                "Allah's pleasure is found in acts performed according to the methodology of His Messenger (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

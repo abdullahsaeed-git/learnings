@@ -1,0 +1,264 @@
+{
+  "hadithId": 381,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/3/44"],
+    "kitabId": 2,
+    "inKitabBab": 13,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 23
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (840)، وأبو داود (1236) بلفظ مطول، والنسائي (1551). وأصل القصة في غزوة عسفان حيث كان خالد بن الوليد قائداً للمشركين قبل إسلامه.",
+    "urdu": "صحیح روایت۔ اسے امام مسلم (840) نے روایت کیا، اور امام ابوداؤد (1236) نے اس کی تفصیلات بیان کیں کہ اس وقت مشرکین کے لشکر کی قیادت خالد بن ولید کر رہے تھے (اسلام لانے سے پہلے)۔",
+    "english": "Sahih. Reported by Muslim (840) and Abu Dawud (1236). The incident took place during the Expedition of Usfan, where Khalid bin Walid was leading the polytheists before his conversion to Islam."
+  },
+  "importantWords": [
+    {
+      "arabic": "صَفَّيْنِ",
+      "english": "Two rows",
+      "urdu": "دو صفیں"
+    },
+    {
+      "arabic": "اِنْحَدَرَ",
+      "english": "Went down / Descended",
+      "urdu": "نیچے جھکا / سجدے میں گیا"
+    },
+    {
+      "arabic": "نَحْرِ اَلْعَدُوِّ",
+      "english": "Facing the enemy",
+      "urdu": "دشمن کے مدمقابل"
+    },
+    {
+      "arabic": "عُسْفَانَ",
+      "english": "Usfan (Place name)",
+      "urdu": "عسفان (ایک مقام کا نام)"
+    },
+    {
+      "arabic": "تَأَخَّرَ",
+      "english": "Moved back",
+      "urdu": "پیچھے ہٹ گیا"
+    },
+    {
+      "arabic": "تَقَدَّمَ",
+      "english": "Moved forward",
+      "urdu": "آگے بڑھ گیا"
+    }
+  ],
+  "summary": {
+    "urdu": "جب دشمن قبلہ کی سمت ہو، تو صلاۃ الخوف کا طریقہ یہ ہے کہ تمام لشکر ساتھ نماز شروع کرے، لیکن سجدے میں باری باری جائیں تاکہ ایک گروہ دشمن پر نظر رکھ سکے۔",
+    "english": "When the enemy is in the direction of the Qiblah, the Fear Prayer is performed by all together in Ruku, but in Sujud, they take turns so one group always guards against the enemy."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (840)",
+      "english": "Sahih Muslim (840)"
+    },
+    {
+      "arabic": "سنن أبي داود (1236)",
+      "english": "Sunan Abi Dawud (1236)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=AUnV5zU7nC4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عسفان کا طریقہ نماز",
+        "english": "The Method at Usfan"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دشمن قبلہ کی سمت میں ہو",
+              "english": "Enemy in Direction of Qiblah"
+            },
+            "content": {
+              "urdu": [
+                "اگر دشمن قبلہ کی سمت ہو تو پوری فوج امام کے پیچھے صفیں بنا کر کھڑی ہوتی ہے۔",
+                "رکوع تک سب ساتھ ہوتے ہیں کیونکہ دشمن سامنے نظر آ رہا ہوتا ہے۔",
+                "سجدے میں جانے سے نظر ہٹ جاتی ہے، اس لیے ایک صف سجدہ کرتی ہے اور دوسری کھڑی رہتی ہے۔"
+              ],
+              "english": [
+                "If the enemy is towards the Qiblah, the entire army stands in rows behind the Imam.",
+                "Everyone performs Ruku together since the enemy is still visible while standing.",
+                "During prostration, visibility is lost, so one row prostrates while the other remains on guard."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صفوں کی تبدیلی",
+              "english": "Swapping of Rows"
+            },
+            "content": {
+              "urdu": [
+                "دوسری رکعت میں پہلی صف پیچھے چلی جاتی ہے اور پچھلی صف آگے آ جاتی ہے۔",
+                "یہ اس لیے کیا جاتا ہے تاکہ دوسرے گروہ کو بھی پہلی صف میں نماز کا ثواب مل سکے۔",
+                "یہ عمل اسلامی عسکری نظام میں برابری اور عدل کی بہترین مثال ہے۔"
+              ],
+              "english": [
+                "In the second Rak'ah, the front row moves back and the back row moves forward.",
+                "This is done so the second group can also gain the reward of the front row.",
+                "This practice is a great example of equality and justice in the Islamic military system."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حفاظتی حکمت عملی",
+        "english": "Protective Strategy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دشمن کی چال ناکام بنانا",
+              "english": "Thwarting Enemy Tactics"
+            },
+            "content": {
+              "urdu": [
+                "مشرکین (خالد بن ولید کی قیادت میں) نے سوچا تھا کہ سجدے کے وقت حملہ کریں گے۔",
+                "اللہ تعالیٰ نے وحی کے ذریعے آپ ﷺ کو اس چال سے خبردار کر دیا تھا۔",
+                "صلاۃ الخوف کا یہ طریقہ دشمن کے اچانک حملے کے خطرے کو ختم کر دیتا ہے۔"
+              ],
+              "english": [
+                "The polytheists (under Khalid bin Walid) planned to attack during prostration.",
+                "Allah warned the Prophet (ﷺ) of this plot through revelation.",
+                "This method of prayer eliminates the risk of a surprise enemy attack."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیداری اور ہوشیاری",
+              "english": "Alertness and Vigilance"
+            },
+            "content": {
+              "urdu": [
+                "نماز کے دوران بھی ہتھیار ساتھ رکھنے اور ہوشیار رہنے کا حکم ہے۔",
+                "اسلام سکھاتا ہے کہ اللہ پر توکل کے ساتھ ظاہری اسباب اور دفاع ضروری ہے۔",
+                "مسلمانوں کی بیداری دیکھ کر دشمن پر ہیبت طاری ہو جاتی ہے۔"
+              ],
+              "english": [
+                "Keeping weapons and staying alert is commanded even during prayer.",
+                "Islam teaches that outward means and defense are necessary alongside trust in Allah.",
+                "Seeing the alertness of Muslims strikes awe and fear into the hearts of the enemy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور وسعت",
+        "english": "Juristic Aspects and Scope"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کی مختلف صورتیں",
+              "english": "Different Forms of Prayer"
+            },
+            "content": {
+              "urdu": [
+                "امام نسائی کی روایت میں ایک اور طریقہ بیان ہے جہاں امام نے دو دو رکعت پڑھائیں۔",
+                "امام دو رکعت پڑھا کر سلام پھیر دیتا ہے، پھر دوسرا گروہ آ کر اس کے پیچھے دو رکعت پڑھتا ہے۔",
+                "یہ اس وقت ہوتا ہے جب امام مقیم ہو یا حالات زیادہ سازگار ہوں۔"
+              ],
+              "english": [
+                "An-Nasa'i's report describes the Imam leading two Rak'ahs for each group.",
+                "The Imam concludes with Taslim, then the second group joins for another two Rak'ahs.",
+                "This occurs when the Imam is a resident or conditions are more favorable."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جماعت کا ترک نہ ہونا",
+              "english": "No Abandoning of Congregation"
+            },
+            "content": {
+              "urdu": [
+                "صلاۃ الخوف کی اتنی تفصیلات ثابت کرتی ہیں کہ باجماعت نماز کی کتنی اہمیت ہے۔",
+                "انتہائی خوف کے عالم میں بھی صحابہ نے انفرادی نماز پر باجماعت کو ترجیح دی۔",
+                "یہ حکم قیامت تک کے لیے اسلامی فوج کے لیے رہنمائی فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "The details of Salat al-Khawf prove the immense importance of congregational prayer.",
+                "Even in extreme fear, the Companions preferred congregation over individual prayer.",
+                "This ruling provides guidance for the Islamic military until the Day of Judgment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور تربیتی اسباق",
+        "english": "Spiritual and Training Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نظم و ضبط اور اطاعت",
+              "english": "Discipline and Obedience"
+            },
+            "content": {
+              "urdu": [
+                "صفوں کی تبدیلی اور باری باری سجدے میں جانا اعلیٰ ترین نظم و ضبط کا ثبوت ہے۔",
+                "یہ نماز سپاہیوں کو حکم کی فوری تعمیل اور آپس میں ہم آہنگی سکھاتی ہے۔",
+                "بغیر شور و غل کے اتنی بڑی فوج کا نماز ادا کرنا معجزانہ نظم ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Swapping rows and alternating prostrations demonstrate peak military discipline.",
+                "This prayer teaches soldiers instant obedience and mutual coordination.",
+                "The silent execution of prayer by a large army shows miraculous organization."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی نصرت پر یقین",
+              "english": "Belief in Allah's Help"
+            },
+            "content": {
+              "urdu": [
+                "دشمن کے مدمقابل سر جھکانا اس بات کا اعلان ہے کہ حاکمِ اعلیٰ صرف اللہ ہے۔",
+                "یہ عمل مومن کے دل سے موت کا خوف نکال کر اللہ کا خوف پیدا کرتا ہے۔",
+                "ایمان کی یہی طاقت مسلمانوں کو مادی قلت کے باوجود فتح دلاتی ہے۔"
+              ],
+              "english": [
+                "Bowing before Allah in front of the enemy declares Him the Supreme Ruler.",
+                "This act removes the fear of death and replaces it with the fear of Allah.",
+                "This strength of faith brings victory to Muslims despite material shortages."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

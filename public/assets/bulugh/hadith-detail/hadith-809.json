@@ -1,0 +1,259 @@
+{
+  "hadithId": 809,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/809"],
+    "kitabId": 7,
+    "inKitabBab": 20,
+    "arabicBook": "بلوغ المرام",
+    "babId": 61
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف. رواه أحمد (4/428)، وأبو داود (2896)، والترمذي (2101)، والنسائي في الكبرى (4/73). والحسن البصري لم يسمع من عمران بن حصين.",
+    "urdu": "یہ روایت سندا ضعیف ہے۔ امام احمد، ابوداؤد، ترمذی اور نسائی نے اسے روایت کیا ہے۔ اس میں انقطاع ہے کیونکہ حسن بصری کا عمران بن حصین سے سماع ثابت نہیں، تاہم اس کے شواہد دیگر روایات میں موجود ہیں۔",
+    "english": "Da'if (Weak). Reported by Ahmad (4/428), Abu Dawud (2896), At-Tirmidhi (2101), and An-Nasa'i. There is a break in the chain as Hasan al-Basri did not hear from 'Imran bin Husain."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِبْنَ اِبْنِي",
+      "english": "Son's son (Grandson)",
+      "urdu": "میرا پوتا"
+    },
+    {
+      "arabic": "مِيرَاثِهِ",
+      "english": "His inheritance",
+      "urdu": "اس کی میراث"
+    },
+    {
+      "arabic": "اَلسُّدُسُ",
+      "english": "The one-sixth (1/6)",
+      "urdu": "چھٹا حصہ"
+    },
+    {
+      "arabic": "وَلَّى",
+      "english": "Turned back / Went away",
+      "urdu": "پیٹھ پھیری / جانے لگا"
+    },
+    {
+      "arabic": "طُعْمَةٌ",
+      "english": "Additional gift / Provision",
+      "urdu": "بطورِ خوراک / زائد عطیہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں دادا کی وراثت کا ذکر ہے کہ پوتے کی وفات پر اسے چھٹا حصہ ملتا ہے، اور بعض حالات میں رسول اللہ ﷺ نے اسے زائد حصہ بطور عطیہ بھی مرحمت فرمایا۔",
+    "english": "The Hadith mentions the grandfather's inheritance from a grandson; he receives one-sixth, and in specific cases, the Prophet (ﷺ) granted an additional sixth as a gift."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2896)",
+      "english": "Sunan Abu Dawud (2896)"
+    },
+    {
+      "arabic": "سنن الترمذي (2101)",
+      "english": "Sunan At-Tirmidhi (2101)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمران بن حصين الخزاعي",
+        "english": "Imran bin Husain al-Khuza'i"
+      },
+      "slug": "imran-bin-husain-al-khuzai"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9j6Q3bU_I8",
+  "grade": {
+    "arabic": "ضعيف للانقطاع",
+    "english": "Weak due to interruption in chain"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دادا کی وراثت کے احکام",
+        "english": "Rulings on Grandfather's Inheritance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دادا کا بنیادی حصہ",
+              "english": "Basic Share of the Grandfather"
+            },
+            "content": {
+              "urdu": [
+                "اگر میت کا باپ نہ ہو تو دادا باپ کے قائم مقام بن جاتا ہے۔",
+                "میت کی اولاد کی موجودگی میں دادا کو چھٹا حصہ (1/6) ملتا ہے۔",
+                "یہ حصہ 'اصحاب الفروض' کے طور پر قرآن و سنت سے ثابت ہے۔"
+              ],
+              "english": [
+                "If the father is deceased, the grandfather takes his place in inheritance.",
+                "In the presence of the deceased's children, the grandfather receives 1/6.",
+                "This share is established as a fixed portion (Ashab al-Furud) in Islamic law."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زائد حصے کی شرعی حیثیت",
+              "english": "Legal Status of the Additional Share"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں دوسرے چھٹے حصے کو 'طعمہ' (عطیہ) کہا گیا ہے۔",
+                "فقہاء کے مطابق یہ اس وقت ہوتا ہے جب دادا بطور 'عصبہ' بقیہ مال کا حقدار بنے۔",
+                "یہ رسول اللہ ﷺ کی طرف سے دادا کی مالی ضرورت کا خاص خیال رکھنا تھا۔"
+              ],
+              "english": [
+                "The second sixth mentioned in the Hadith is called 'Tu'mah' (a gift).",
+                "Jurists explain this occurs when the grandfather acts as an agnate (Asabah).",
+                "This was a special consideration by the Prophet (ﷺ) for the grandfather's financial needs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و علمی نکات",
+        "english": "Juristic and Scholarly Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باپ اور دادا کا فرق",
+              "english": "Difference Between Father and Grandfather"
+            },
+            "content": {
+              "urdu": [
+                "باپ کی موجودگی میں دادا وراثت سے محروم رہتا ہے۔",
+                "اگر باپ زندہ ہو تو وراثت براہِ راست اسے ملتی ہے نہ کہ دادا کو۔",
+                "یہ قاعدہ 'الاقرب فالاقرب' (قریبی کو ترجیح) کے تحت کام کرتا ہے۔"
+              ],
+              "english": [
+                "The presence of the father excludes the grandfather from inheritance.",
+                "If the father is alive, the share goes to him directly rather than the grandfather.",
+                "This rule operates under the principle of 'closer relative takes precedence'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روایت کی سندی حیثیت",
+              "english": "Status of the Chain of Narration"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت میں حسن بصری اور عمران بن حصین کے درمیان انقطاع ہے۔",
+                "اگرچہ سند ضعیف ہے، مگر اس کے معنی دیگر مستند احکامات سے مطابقت رکھتے ہیں۔",
+                "امام ترمذی نے اسے 'حسن صحیح' کہا ہے جو اس کے متن کی قبولیت کی دلیل ہے۔"
+              ],
+              "english": [
+                "There is an interruption between Hasan al-Basri and 'Imran bin Husain in this chain.",
+                "While the chain is weak, the meaning aligns with other authentic rulings.",
+                "Imam At-Tirmidhi called it 'Hasan Sahih,' indicating the acceptance of its text."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی عدل و احسان",
+        "english": "Social Justice and Kindness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بزرگوں کا معاشی تحفظ",
+              "english": "Economic Security for Elders"
+            },
+            "content": {
+              "urdu": [
+                "اسلام بزرگوں کے حقوق اور ان کی معاشی ضروریات کا خاص خیال رکھتا ہے۔",
+                "پوتے کی میراث میں دادا کا حصہ ان کے بڑھاپے کا سہارا بنتا ہے۔",
+                "یہ نظام خاندان کے اندر باہمی تعاون اور ذمہ داری کا احساس دلاتا ہے۔"
+              ],
+              "english": [
+                "Islam pays special attention to the rights and financial needs of the elderly.",
+                "A grandfather's share in a grandson's estate provides support in old age.",
+                "This system fosters a sense of mutual cooperation and responsibility within families."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبوی طرزِ تعلیم",
+              "english": "Prophetic Method of Teaching"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے سائل کو بار بار بلا کر اس کے حق کی وضاحت فرمائی۔",
+                "یہ سائل کی اطمینانِ قلب اور معاملے کی اہمیت کو ظاہر کرتا ہے۔",
+                "حاکمِ وقت کو چاہیے کہ وہ کمزور طبقات کے حقوق کی خود نگرانی کرے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) repeatedly called the questioner back to clarify his rights.",
+                "This demonstrates concern for the questioner's peace of mind and the matter's importance.",
+                "The authority of the time should personally supervise the rights of the vulnerable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علمِ وراثت کا حصول",
+              "english": "Gaining Knowledge of Inheritance"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کے مسائل پچیدہ ہو سکتے ہیں، اس لیے علماء سے رجوع ضروری ہے۔",
+                "اپنے وارثوں کے حقوق کا علم ہونا شرعی ذمہ داری ہے۔",
+                "صحیح تقسیم سے خاندانی نزاعات کا خاتمہ ممکن ہوتا ہے۔"
+              ],
+              "english": [
+                "Inheritance matters can be complex; consulting scholars is essential.",
+                "Knowing the rights of one's heirs is a religious responsibility.",
+                "Correct distribution makes it possible to eliminate family disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رضاکارانہ عطیہ (طعمہ)",
+              "english": "Voluntary Provision (Tu'mah)"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کے علاوہ بھی رشتہ داروں کو مالی تعاون فراہم کرنا مستحسن ہے۔",
+                "خاندان کے بزرگوں پر خرچ کرنا برکت اور ثواب کا باعث ہے۔",
+                "ضرورت مند وارثوں کی اضافی مدد کرنا سنتِ نبوی کے عین مطابق ہے۔"
+              ],
+              "english": [
+                "Providing financial support to relatives beyond inheritance is commendable.",
+                "Spending on the elders of the family brings blessings and rewards.",
+                "Helping needy heirs with extra support is perfectly in line with Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 422,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:2078"],
+    "kitabId": 2,
+    "inKitabBab": 17,
+    "arabicBook": "كتاب اللباس والزينة",
+    "babId": 27
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (2078)‏، وأبو داود (4044)، والنسائي (5172)، وأحمد (1/104).‏",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (2078) نے اسے روایت کیا ہے۔ قسی سے مراد وہ کپڑے ہیں جن میں ریشم کی آمیزش ہو اور مصر کے علاقے قس سے آتے تھے۔ معصفر سے مراد وہ کپڑا ہے جسے عصفر (ایک پیلا/سرخ رنگ کا پودا) سے رنگا گیا ہو۔",
+    "english": "Authentic (Sahih). Reported by Muslim (2078), Abu Dawud (4044), and An-Nasa'i (5172). Al-Qassi refers to garments mixed with silk, and Al-Mu'asfar refers to clothes dyed with safflower."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "الْقَسِيِّ",
+      "english": "Silk-mixed garments",
+      "urdu": "ریشم ملے ہوئے کپڑے"
+    },
+    {
+      "arabic": "الْمُعَصْفَرِ",
+      "english": "Dyed with safflower",
+      "urdu": "زرد رنگا ہوا کپڑا"
+    },
+    {
+      "arabic": "لُبْسِ",
+      "english": "Wearing",
+      "urdu": "پہننا"
+    },
+    {
+      "arabic": "تختم الذهب",
+      "english": "Wearing gold ring",
+      "urdu": "سونے کی انگوٹھی پہننا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں مردوں کے لیے ریشم کی آمیزش والے کپڑے اور زرد/سرخ رنگ کے شوخ کپڑے پہننے کی ممانعت بیان کی گئی ہے۔",
+    "english": "This Hadith states the prohibition for men to wear garments mixed with silk and those dyed in bright yellow or reddish colors (safflower)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (2078)",
+      "english": "Sahih Muslim (2078)"
+    },
+    {
+      "arabic": "سنن أبي داود (4044)",
+      "english": "Sunan Abu Dawud (4044)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=5rL9E2Xm-x0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قسی کپڑوں کا حکم",
+        "english": "Ruling on Al-Qassi Garments"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ریشم کی آمیزش",
+              "english": "Mixing with Silk"
+            },
+            "content": {
+              "urdu": [
+                "قسی ان کپڑوں کو کہا جاتا ہے جن کے تانے بانے میں ریشم استعمال کیا گیا ہو۔",
+                "مردوں کے لیے ایسا لباس پہننا منع ہے جس میں ریشم کی مقدار زیادہ ہو۔",
+                "یہ حکم مردوں کے وقار اور سادگی کو برقرار رکھنے کے لیے دیا گیا ہے۔"
+              ],
+              "english": [
+                "Al-Qassi refers to clothes where silk is woven into the fabric.",
+                "It is forbidden for men to wear garments with a significant silk content.",
+                "This ruling is given to maintain the dignity and simplicity of men."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشرکین کی مشابہت سے گریز",
+              "english": "Avoiding Imitation"
+            },
+            "content": {
+              "urdu": [
+                "یہ کپڑے اس دور میں غیر مسلموں اور متکبر لوگوں کی پہچان تھے۔",
+                "اسلام مسلمانوں کو لباس میں اپنی منفرد اور سادہ پہچان رکھنے کی تلقین کرتا ہے۔",
+                "نمود و نمائش والے لباس سے بچنا تقویٰ کی علامت ہے۔"
+              ],
+              "english": [
+                "These garments were a sign of non-Muslims and arrogant people at that time.",
+                "Islam encourages Muslims to maintain a unique and simple identity in clothing.",
+                "Avoiding showy garments is a sign of righteousness (Taqwa)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رنگین لباس کی ممانعت",
+        "english": "Prohibition of Dyed Clothes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عصفر کا رنگ",
+              "english": "Color of Safflower"
+            },
+            "content": {
+              "urdu": [
+                "عصفر سے رنگا ہوا کپڑا بہت شوخ زرد یا سرخی مائل ہوتا ہے۔",
+                "مردوں کے لیے ایسے شوخ رنگ پہننا ناپسندیدہ ہے جو خواتین سے مشابہت رکھیں۔",
+                "مردانہ لباس میں وقار اور متانت کا ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "Garments dyed with safflower are very bright yellow or reddish.",
+                "It is disliked for men to wear bright colors that resemble female attire.",
+                "Masculine clothing must embody dignity and sobriety."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خواتین کے لیے رعایت",
+              "english": "Exemption for Women"
+            },
+            "content": {
+              "urdu": [
+                "یہ ممانعت صرف مردوں کے لیے ہے، خواتین ریشم اور رنگین لباس پہن سکتی ہیں۔",
+                "خواتین کے لیے زینت اور بناؤ سنگھار کی شریعت میں گنجائش ہے۔",
+                "مردوں کو حکم دیا گیا ہے کہ وہ اپنے لباس میں سادگی اختیار کریں۔"
+              ],
+              "english": [
+                "This prohibition is only for men; women can wear silk and dyed clothes.",
+                "Sharia allows women the use of adornments and colorful clothing.",
+                "Men are commanded to adopt simplicity in their attire."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و تربیتی فوائد",
+        "english": "Moral and Educational Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عجز و انکساری",
+              "english": "Humility and Submission"
+            },
+            "content": {
+              "urdu": [
+                "قیمتی اور ریشمی لباس اکثر انسان میں تکبر پیدا کرتا ہے۔",
+                "اسلامی تعلیمات کا مقصد انسان کے اندر عاجزی پیدا کرنا ہے۔",
+                "سادہ لباس پہننا سنتِ نبوی اور انبیاء کا طریقہ ہے۔"
+              ],
+              "english": [
+                "Expensive and silk clothing often breeds arrogance in a person.",
+                "The goal of Islamic teachings is to instill humility within an individual.",
+                "Wearing simple clothes is the Sunnah of the Prophet and the way of the Prophets."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جسمانی و معاشی فوائد",
+              "english": "Physical and Economic Benefits"
+            },
+            "content": {
+              "urdu": [
+                "عیاشی اور اسراف سے بچنا معاشی استحکام کا سبب بنتا ہے۔",
+                "مردانہ مشقت کے لیے سادہ اور پائیدار لباس زیادہ موزوں ہے۔",
+                "دولت کا درست استعمال ضرورت مندوں کی مدد میں ہونا چاہیے۔"
+              ],
+              "english": [
+                "Avoiding luxury and extravagance leads to economic stability.",
+                "Simple and durable clothing is more suitable for masculine labor.",
+                "The correct use of wealth should be in helping those in need."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی حدود کا پاس",
+              "english": "Respecting Sharia Limits"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو لباس خریدتے وقت شرعی احکامات کو مدنظر رکھنا چاہیے۔",
+                "مردوں کو ریشم اور شوخ رنگوں سے پرہیز کرنا چاہیے۔",
+                "ظاہری وضع قطع میں سنت کی پیروی برکت کا باعث ہے۔"
+              ],
+              "english": [
+                "A Muslim should keep Sharia commands in mind when buying clothes.",
+                "Men should avoid silk and excessively bright, showy colors.",
+                "Following the Sunnah in outward appearance brings blessings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باطن کی اصلاح",
+              "english": "Reforming the Inner Self"
+            },
+            "content": {
+              "urdu": [
+                "لباس کی سادگی انسان کی باطنی پاکیزگی پر اثر انداز ہوتی ہے۔",
+                "نمود و نمائش سے بچنے والا شخص اللہ کے زیادہ قریب ہوتا ہے۔",
+                "حقیقی خوبصورتی لباس میں نہیں بلکہ اخلاق اور تقویٰ میں ہے۔"
+              ],
+              "english": [
+                "Simplicity in clothing affects the inner purity of a person.",
+                "One who avoids show-off is closer to Allah.",
+                "True beauty lies not in clothing but in character and piety."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

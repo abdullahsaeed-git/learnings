@@ -1,0 +1,218 @@
+{
+  "hadithId": 726,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/94"],
+    "kitabId": 7,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب البيوع",
+    "babId": 46
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف جداً مرفوعاً. رواه الحارث في مسنده (437)، والبيهقي (5/350). لكن معناه مجمع عليه بين الفقهاء. والموقوف عند البخاري (3814) عن عبد الله بن سلام صحيح بلفظ: «إذا كان لك على رجل حق، فأهدى إليك حمل تبن، أو حمل شعير، أو حمل قت، فإنه ربا».",
+    "urdu": "یہ روایت مرفوعاً بہت ضعیف ہے کیونکہ اس کی سند میں سوار بن مصعب متروک راوی ہے۔ تاہم اس کا معنی فقہاء کے نزدیک اجماعی طور پر درست ہے۔ بخاری (3814) میں عبداللہ بن سلام کا موقوف اثر صحیح ہے جس میں انہوں نے بھوسے یا جو کے ایک بوجھ کو بھی قرض کے بدلے لینے کو سود قرار دیا۔",
+    "english": "Very weak as a Marfu' (Prophetic) tradition due to Sawwar bin Mus'ab. However, its meaning is a consensus among jurists. The Mauquf version in Bukhari (3814) from Abdullah bin Salam is authentic, where he equates even a load of straw given as a gift for a debt to Riba."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَرْضٍ",
+      "english": "Loan",
+      "urdu": "قرض"
+    },
+    {
+      "arabic": "جَرَّ",
+      "english": "Drawn / Dragged / Brought",
+      "urdu": "کھینچ لائے یا باعث بنے"
+    },
+    {
+      "arabic": "مَنْفَعَةً",
+      "english": "Benefit / Profit",
+      "urdu": "منافع یا فائدہ"
+    },
+    {
+      "arabic": "رِبًا",
+      "english": "Usury / Interest",
+      "urdu": "سود"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا بنیادی پیغام یہ ہے کہ قرض ایک ہمدردی کا معاملہ ہے، اگر اس کے بدلے میں کوئی مشروط مالی یا مادی فائدہ لیا جائے تو وہ سود بن جاتا ہے۔",
+    "english": "The core message is that a loan in Islam is a charitable act; if any conditional material benefit is extracted from it, it is classified as Riba."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب مناقب الأنصار",
+      "english": "Sahih al-Bukhari, Book of Virtues of Ansar"
+    },
+    {
+      "arabic": "سنن البيهقي الكبرى",
+      "english": "Sunan al-Bayhaqi al-Kubra"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0p7U_pG_2Q",
+  "grade": {
+    "arabic": "ضعيف جداً (لكن معناه صحيح إجماعاً)",
+    "english": "Very Weak (but the meaning is consensus Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قرض اور سود کا فرق",
+        "english": "Difference Between Loan and Riba"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرض ایک نیکی کا عمل ہے",
+              "english": "Lending as a Virtuous Act"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں قرض دینا ایک مالی عبادت اور 'قرضِ حسنہ' کہلاتا ہے۔",
+                "قرض کا مقصد ضرورت مند کی مدد کرنا ہے، اس سے مال کمانا نہیں۔",
+                "جب قرض سے نفع کمانے کی نیت شامل ہو جائے تو وہ تجارت کے بجائے سود بن جاتا ہے۔"
+              ],
+              "english": [
+                "In Islam, lending is a form of worship and is termed 'Qard al-Hasan'.",
+                "The objective is to help the needy, not to earn wealth from them.",
+                "Once the intent to profit from a loan is added, it transforms from charity into Riba."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "منفعت کی تعریف",
+              "english": "Definition of Benefit"
+            },
+            "content": {
+              "urdu": [
+                "منفعت سے مراد ہر وہ فائدہ ہے جو قرض خواہ (لینڈر) کو قرض کی وجہ سے ملے۔",
+                "مثلاً قرض کے بدلے مقروض کی سواری استعمال کرنا یا اس کے گھر رہنا۔",
+                "اگر یہ فائدہ پہلے سے طے شدہ ہو یا عرف میں لازم سمجھا جاتا ہو تو یہ سود ہے۔"
+              ],
+              "english": [
+                "Benefit refers to any gain the lender receives due to the loan.",
+                "Examples include using the debtor's vehicle or staying at their house for free.",
+                "If the benefit is pre-agreed or customarily expected, it is Riba."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ممنوعہ نفع کی صورتیں",
+        "english": "Forms of Prohibited Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تحائف اور ضیافت",
+              "english": "Gifts and Hospitality"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عبداللہ بن سلام نے بھوسے کے ایک گٹھڑے کو بھی سود قرار دیا اگر وہ قرض کی وجہ سے ہو۔",
+                "اگر مقروض اور قرض خواہ کے درمیان پہلے سے تحائف کا تبادلہ نہ ہو، تو قرض کے دوران ہدیہ لینا مکروہ ہے۔",
+                "اس سختی کا مقصد سود کے ہر ممکنہ چور دروازے کو بند کرنا ہے۔"
+              ],
+              "english": [
+                "Abdullah bin Salam equated even a bundle of straw to Riba if given because of a loan.",
+                "If there was no prior habit of exchanging gifts, accepting a gift during a loan is disliked.",
+                "This strictness aims to close every potential loophole to usury."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رہن سے فائدہ اٹھانا",
+              "english": "Benefiting from Collateral"
+            },
+            "content": {
+              "urdu": [
+                "گروی رکھی ہوئی چیز کا نفع مالک کا ہوتا ہے، قرض دینے والے کا نہیں۔",
+                "اگر قرض دینے والا گروی رکھی زمین کی فصل کھائے تو یہ 'قرض جر منفعۃ' کی شکل ہے۔",
+                "صرف ان جانوروں کا دودھ یا سواری جائز ہے جن کے چارے کا خرچہ قرض دینے والا خود اٹھائے۔"
+              ],
+              "english": [
+                "Profits from pledged items belong to the owner, not the creditor.",
+                "A lender consuming crops from a pledged land is a form of Riba.",
+                "Benefiting from pledged animals is only allowed if the lender pays for their upkeep/feed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جائز منافع اور ترغیب",
+        "english": "Permissible Gains and Encouragement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوش دلی سے زیادہ واپسی",
+              "english": "Repaying More Voluntarily"
+            },
+            "content": {
+              "urdu": [
+                "اگر مقروض اپنی خوشی سے بغیر کسی شرط کے قرض سے زیادہ واپس کرے تو یہ جائز اور مستحب ہے۔",
+                "نبی ﷺ نے فرمایا: 'تم میں بہترین وہ ہے جو قرض کی ادائیگی اچھے طریقے سے کرے'۔",
+                "ممانعت صرف وہاں ہے جہاں یہ 'زیادتی' پہلے سے طے شدہ یا شرط ہو۔"
+              ],
+              "english": [
+                "If the debtor voluntarily repays more without any prior condition, it is permissible and recommended.",
+                "The Prophet (ﷺ) said: 'The best of you are those who are best in paying off debts'.",
+                "Prohibition only applies when the 'excess' is pre-stipulated or conditioned."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سماجی ہمدردی",
+              "english": "Social Compassion"
+            },
+            "content": {
+              "urdu": [
+                "قرض کو خالصتاً اللہ کی رضا کے لیے دیں تاکہ معاشرے میں غربت کم ہو۔",
+                "مجبور لوگوں کی پریشانیوں سے مالی فائدہ اٹھانا اخلاقی اور شرعی جرم ہے۔",
+                "رزقِ حلال کی فکر انسان کے مال اور زندگی میں برکت پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "Provide loans solely for Allah's sake to alleviate poverty in society.",
+                "Extracting financial gain from the hardships of others is a moral and religious crime.",
+                "Prioritizing Halal earnings brings blessings to one's wealth and life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

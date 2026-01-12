@@ -1,0 +1,216 @@
+{
+  "hadithId": 311,
+  "hadithNo": 32,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:748",
+      "https://sunnah.com/tirmidhi:478"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "صحيح مسلم / جامع الترمذي",
+    "babId": 19
+  },
+  "name": {
+    "arabic": "وَعَنْ زَيْدِ بْنِ أَرْقَمَ; أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ: { صَلَاةُ اَلْأَوَّابِينَ حِينَ تَرْمَضُ اَلْفِصَالُ } رَوَاهُ اَلتِّرْمِذِيُّ .",
+    "urdu": "سیدنا زید بن ارقم رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اوابین (رجوع کرنے والوں) کی نماز کا وقت وہ ہے جب اونٹنی کے بچے (ریت کی) تپش محسوس کرنے لگیں۔“ (ترمذی۔ لیکن صحیح یہ ہے کہ یہ مسلم کی روایت ہے)",
+    "english": "Narrated Zaid bin Arqam (RA): The Messenger of Allah (ﷺ) said: \"The prayer of the Awwabin (those who frequently return to Allah) is when the young weaned camels feel the heat of the sand.\""
+  },
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (748)‏ وفيه: أن زيد بن أرقم رأى قوما يصلون من الضحى.‏ فقال: أما لقد عملوا أن الصلاة في غير هذه الساعة أفضل.‏ إن رسول الله صلى الله عليه وسلم قال: الحديث بنصه.‏ ومن الواضح أن عزو الحافظ الحديث للترمذي إنما هو وهم.‏",
+    "urdu": "صحیح۔ اسے مسلم (748) نے روایت کیا ہے۔ اس میں تفصیل یہ ہے کہ زید بن ارقم رضی اللہ عنہ نے کچھ لوگوں کو (صبح سویرے) چاشت کی نماز پڑھتے دیکھا تو فرمایا: ”کیا یہ نہیں جانتے کہ نماز اس وقت کے علاوہ (تھوڑی دیر بعد) پڑھنا زیادہ بہتر ہے؟ بے شک رسول اللہ ﷺ نے فرمایا... (آگے حدیث بیان کی)۔“ واضح رہے کہ حافظ ابن حجر کا اسے ترمذی کی طرف منسوب کرنا وہم (غلطی) ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (748). Context: Zaid bin Arqam saw people praying Duha (early). He said: \"Do they not know that prayer at another time is better? The Messenger of Allah (ﷺ) said...\" (cited the Hadith). It is clear that Al-Hafiz's attribution of this Hadith to At-Tirmidhi is an error."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْأَوَّابِينَ",
+      "english": "The Oft-Returning (Repentant)",
+      "urdu": "اوابین / کثرت سے رجوع کرنے والے"
+    },
+    {
+      "arabic": "تَرْمَضُ",
+      "english": "Feel the heat / Burn",
+      "urdu": "تپش محسوس کریں / جلنے لگیں"
+    },
+    {
+      "arabic": "اَلْفِصَالُ",
+      "english": "Young weaned camels",
+      "urdu": "اونٹنی کے بچے (جو دودھ چھوڑ چکے ہوں)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نمازِ چاشت (ضحٰی) کا بہترین وقت بیان کرتی ہے۔ اگرچہ یہ سورج نکلنے کے بعد سے پڑھی جا سکتی ہے، لیکن اس کا افضل وقت وہ ہے جب دھوپ تیز ہو جائے (نصف النہار سے پہلے)۔ اسے 'صلوٰۃ الاوابین' کہا گیا ہے۔",
+    "english": "This Hadith specifies the best time for the Duha prayer. Although it can be prayed after sunrise, the most preferred time is when the sun gets hot (before midday). It is referred to as 'Salat al-Awwabin'."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (748)",
+      "english": "Reported by Muslim (748)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "زَيْدِ بْنِ أَرْقَمَ",
+        "english": "Zaid bin Arqam"
+      },
+      "slug": "zaid-bin-arqam"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "افضل وقت",
+              "english": "Preferred Time"
+            },
+            "content": {
+              "urdu": [
+                "چاشت کی نماز کا وقت سورج بلند ہونے سے لے کر زوال (ظہر) تک ہے۔",
+                "نبی ﷺ نے اس کا بہترین وقت وہ بتایا جب ریت گرم ہو جائے اور اونٹ کے بچے گرمی محسوس کریں۔",
+                "یہ تقریباً دن کا چوتھائی حصہ گزرنے کے بعد کا وقت بنتا ہے۔"
+              ],
+              "english": [
+                "The time for Duha starts from when the sun rises high until Zawal (midday).",
+                "The Prophet (ﷺ) defined its best time as when the sand gets hot and young camels feel the heat.",
+                "This corresponds to roughly when a quarter of the day has passed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اوابین کا لقب",
+              "english": "Title of Awwabin"
+            },
+            "content": {
+              "urdu": [
+                "اواب وہ ہے جو کثرت سے اللہ کی طرف رجوع کرے۔",
+                "اس وقت (گرم چاشت) لوگ عموماً دنیاوی کاموں میں مصروف ہوتے ہیں۔",
+                "جو اس غفلت اور مصروفیت کے وقت سب چھوڑ کر اللہ کو یاد کرے، وہ سچا 'اواب' ہے۔"
+              ],
+              "english": [
+                "Awwab is one who frequently returns to Allah.",
+                "At this time (hot forenoon), people are usually busy with worldly tasks.",
+                "One who leaves everything to remember Allah during this busy time is a true 'Awwab'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غلط فہمی کا ازالہ",
+        "english": "Clarification of Misconception"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مغرب کے بعد کے نفل",
+              "english": "Nafl after Maghrib"
+            },
+            "content": {
+              "urdu": [
+                "عوام میں مشہور ہے کہ مغرب اور عشاء کے درمیان پڑھے جانے والے 6 نفل 'اوابین' ہیں۔",
+                "اس بارے میں جو احادیث ہیں وہ ضعیف ہیں۔",
+                "صحیح حدیث (جو اوپر گزری) کی رو سے اصل 'صلوٰۃ الاوابین' چاشت کی نماز ہی ہے۔"
+              ],
+              "english": [
+                "It is commonly believed that the 6 Nafl prayed between Maghrib and Isha are 'Awwabin'.",
+                "The Hadiths regarding that are weak.",
+                "According to this authentic Hadith, the real 'Salat al-Awwabin' is the Duha prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفل کا انتخاب",
+              "english": "Selection of Nafl"
+            },
+            "content": {
+              "urdu": [
+                "اگر دفتر یا کام پر ہوں، تو صبح 10 یا 11 بجے کے قریب 2 رکعت پڑھ لیں۔",
+                "یہ وہ وقت ہے جب انسان دنیا میں کھویا ہوتا ہے۔",
+                "اس وقت اللہ کو یاد کرنا اللہ کی محبت کو کھینچ لاتا ہے۔"
+              ],
+              "english": [
+                "If at work, pray 2 Rak'ahs around 10 or 11 AM.",
+                "This is the time when one is engrossed in the world.",
+                "Remembering Allah at this time draws His love."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علم کی درستی",
+              "english": "Correction of Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا زید بن ارقم نے لوگوں کو اصلاح کی نیت سے ٹوکا۔",
+                "اگر کوئی افضل وقت چھوڑ کر غیر افضل وقت میں پڑھے تو اسے بتانا چاہیے۔",
+                "البتہ چاشت کا وقت سورج بلند ہونے کے بعد شروع ہو جاتا ہے، اس سے پہلے پڑھنا بھی جائز ہے۔"
+              ],
+              "english": [
+                "Zaid bin Arqam corrected the people with the intention of reform.",
+                "If someone opts for a less preferred time over the best one, they should be informed.",
+                "However, Duha time starts after the sun is high, so praying earlier is also valid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محدثین کا وہم",
+              "english": "Error of Muhaddithin"
+            },
+            "content": {
+              "urdu": [
+                "حافظ ابن حجر جیسے بڑے محدث سے بھی حوالے میں غلطی ہو سکتی ہے۔",
+                "انہوں نے اسے ترمذی کہا حالانکہ یہ مسلم میں ہے۔",
+                "یہ طالب علم کو سکھاتا ہے کہ ہمیشہ اصل ماخذ (Original Sources) کی طرف رجوع کریں۔"
+              ],
+              "english": [
+                "Even great Muhaddithin like Al-Hafiz Ibn Hajar can make referencing errors.",
+                "He attributed it to Tirmidhi while it is in Muslim.",
+                "This teaches students to always refer back to the original sources."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

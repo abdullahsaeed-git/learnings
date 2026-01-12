@@ -1,0 +1,259 @@
+{
+  "hadithId": 275,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:1077"],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "صحیح البخاری",
+    "babId": 18
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البخاري ( 1077 )‏ ... وهو في \" الموطأ \" ( 1 / 206 / 16 )‏ بنحوه ورجاله ثقات إلا أنه منقطع بين عروة بن الزبير وبين عمر بن الخطاب .‏",
+    "urdu": "صحیح۔ اسے بخاری (1077) نے روایت کیا ہے۔ اور یہ موطا (1 / 206 / 16) میں بھی موجود ہے، اس کے راوی ثقہ ہیں سوائے اس کے کہ عروہ بن زبیر اور عمر بن خطاب کے درمیان انقطاع ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1077). It is also in Al-Muwatta (1/206/16) with trustworthy narrators, although there is a disconnection (Munqati') between Urwah bin Az-Zubayr and Umar bin Al-Khattab."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَمُرُّ",
+      "english": "We pass by",
+      "urdu": "ہم گزرتے ہیں"
+    },
+    {
+      "arabic": "أَصَابَ",
+      "english": "Did right",
+      "urdu": "اس نے درست کیا"
+    },
+    {
+      "arabic": "إِثْمَ",
+      "english": "Sin",
+      "urdu": "گناہ"
+    },
+    {
+      "arabic": "لَمْ يَفْرِضْ",
+      "english": "Did not obligate",
+      "urdu": "فرض نہیں کیا"
+    },
+    {
+      "arabic": "نَشَاءَ",
+      "english": "We wish",
+      "urdu": "ہم چاہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث سجدہ تلاوت کے واجب نہ ہونے پر دلیل ہے، جیسا کہ سیدنا عمر رضی اللہ عنہ نے واضح کیا کہ اسے کرنا ثواب ہے اور چھوڑنے پر گناہ نہیں۔",
+    "english": "This Hadith serves as evidence that Sujud at-Tilawah is not obligatory, as Umar (RA) clarified that performing it brings reward, while omitting it carries no sin."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1077)",
+      "english": "Reported by Al-Bukhari (1077)"
+    },
+    {
+      "arabic": "رواه الموطأ (1/206/16)",
+      "english": "Reported in Al-Muwatta (1/206/16)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin Al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    }
+  ],
+  "ytLink": "https://youtu.be/_UZMuFGJY6s?si=pUu0-Xq5vN1i9Wz_",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سجدہ تلاوت کا حکم",
+              "english": "Ruling on Prostration"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر رضی اللہ عنہ نے واضح کیا کہ سجدہ تلاوت فرض نہیں ہے۔",
+                "یہ اللہ کی طرف سے بندوں پر ایک تخفیف (آسانی) ہے۔",
+                "اسے کرنے والا اجروثواب پاتا ہے، مگر چھوڑنے والا گنہگار نہیں۔"
+              ],
+              "english": [
+                "Umar (RA) clarified that Sujud at-Tilawah is not obligatory.",
+                "This is a relief (ease) from Allah for His servants.",
+                "One who performs it earns reward, but one who omits it is not sinful."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اختیار کا پہلو",
+              "english": "Aspect of Choice"
+            },
+            "content": {
+              "urdu": [
+                "الفاظ 'مگر یہ کہ ہم چاہیں' اختیار کی طرف اشارہ کرتے ہیں۔",
+                "اس سے مراد یہ ہے کہ ہم اپنی مرضی سے اسے لازم کر لیں۔",
+                "یہ نفل عبادت کی طرح ہے جس میں بندے کو اختیار ہوتا ہے۔"
+              ],
+              "english": [
+                "The words 'unless we wish' indicate choice.",
+                "It implies that we may impose it upon ourselves voluntarily.",
+                "It is like a voluntary worship where the servant has an option."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحابہ کا اجماع",
+              "english": "Consensus of Companions"
+            },
+            "content": {
+              "urdu": [
+                "عمر رضی اللہ عنہ نے یہ بات منبر پر جمعہ کے دن کہی۔",
+                "تمام صحابہ موجود تھے اور کسی نے اختلاف نہیں کیا۔",
+                "اسے 'اجماع سکوتی' کہتے ہیں جو قوی دلیل ہے۔"
+              ],
+              "english": [
+                "Umar (RA) said this on the pulpit on a Friday.",
+                "All Companions were present, and no one disagreed.",
+                "This is called 'Silent Consensus' (Ijma Sukuti), which is strong evidence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسالک کا اختلاف",
+              "english": "Difference of Schools"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک سجدہ تلاوت سنت ہے۔",
+                "احناف کے نزدیک واجب ہے، وہ 'اصاب' (درست کیا) کی تاویل کرتے ہیں۔",
+                "لیکن ظاہر حدیث جمہور کے موقف کی تائید کرتا ہے۔"
+              ],
+              "english": [
+                "For the majority of scholars, Sujud at-Tilawah is Sunnah.",
+                "For Hanafis, it is Wajib; they interpret 'did right' differently.",
+                "However, the apparent meaning supports the majority view."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لوگوں پر تنگی نہ کرنا",
+              "english": "Not burdening people"
+            },
+            "content": {
+              "urdu": [
+                "خطیب اور امام کو چاہیے کہ وہ لوگوں پر سختی نہ کریں۔",
+                "مسائل کو واضح کریں تاکہ لوگ وہم میں مبتلا نہ ہوں۔",
+                "اگر کوئی سجدہ نہ کرے تو اسے ملامت نہ کی جائے۔"
+              ],
+              "english": [
+                "Preachers and Imams should not be harsh on people.",
+                "Clarify rulings so people do not fall into doubt.",
+                "If someone does not prostrate, they should not be rebuked."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی رغبت",
+              "english": "Desire for Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "فرض نہ ہونے کا مطلب یہ نہیں کہ اسے چھوڑ دیا جائے۔",
+                "مومن کو ہر نیکی کے موقع سے فائدہ اٹھانا چاہیے۔",
+                "اللہ کے سامنے جھکنا بڑی سعادت کی بات ہے۔"
+              ],
+              "english": [
+                "Not being obligatory does not mean it should be abandoned.",
+                "A believer should take advantage of every opportunity for good.",
+                "Prostrating before Allah is a matter of great felicity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تعلیم کا طریقہ",
+              "english": "Method of Teaching"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر نے عملی طور پر سکھایا (ایک بار کیا، ایک بار چھوڑا)۔",
+                "عمل کے ذریعے سکھانا زبان سے سکھانے سے زیادہ مؤثر ہے۔",
+                "عوام کی اصلاح کے لیے منبر کا استعمال بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "Umar (RA) taught practically (did it once, omitted it once).",
+                "Teaching through action is more effective than words.",
+                "The pulpit is the best medium for reforming the public."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں وسعت",
+              "english": "Scope in Religion"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے اہم اور غیر اہم میں فرق رکھا ہے۔",
+                "ہر حکم کو اس کے درجے پر رکھنا ضروری ہے۔",
+                "یہ دین اسلام کی حکمت اور اعتدال کا نمونہ ہے۔"
+              ],
+              "english": [
+                "Shariah distinguishes between the critical and the non-critical.",
+                "It is necessary to keep every ruling in its proper rank.",
+                "This is an example of the wisdom and moderation of Islam."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

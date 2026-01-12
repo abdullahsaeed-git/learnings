@@ -1,0 +1,259 @@
+{
+  "hadithId": 399,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-399"],
+    "kitabId": 2,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 24
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف.‏ رواه الترمذي (530) وابن ماجه (1295). قال الترمذي حسن، لكن ضعفه البخاري والنووي وغيرهما لأن في سنده الحارث الأعور وهو ضعيف، إلا أن العمل على هذا عند أكثر أهل العلم.",
+    "urdu": "یہ روایت سند کے لحاظ سے ضعیف ہے کیونکہ اس کے راوی حارث اعور پر کلام ہے، تاہم اکثر اہل علم کے نزدیک اس پر عمل کرنا مستحب اور مسنون ہے۔",
+    "english": "Weak. Reported by At-Tirmidhi (530) and Ibn Majah (1295). While Tirmidhi called it Hasan, many scholars like Al-Bukhari and An-Nawawi graded it weak due to Al-Harith al-A'war. However, most scholars act upon this as a recommended practice."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلسُّنَّةِ",
+      "english": "The Way / Sunnah",
+      "urdu": "سنت"
+    },
+    {
+      "arabic": "يَخْرُجَ",
+      "english": "To go out",
+      "urdu": "نکلنا"
+    },
+    {
+      "arabic": "اَلْعِيدِ",
+      "english": "The Eid",
+      "urdu": "عید"
+    },
+    {
+      "arabic": "مَاشِيًا",
+      "english": "Walking",
+      "urdu": "پیدل چل کر"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Reported it",
+      "urdu": "اسے روایت کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "عید کی نماز کے لیے عیدگاہ پیدل جانا سنت اور مستحب عمل ہے، جس سے بندگی میں عاجزی کا اظہار ہوتا ہے۔",
+    "english": "Walking to the Eid prayer is a recommended Sunnah that reflects humility and devotion in worship."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (530)",
+      "english": "Sunan At-Tirmidhi (530)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (1295)",
+      "english": "Sunan Ibn Majah (1295)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=walking+to+eid+prayer+sunnah+urdu",
+  "grade": {
+    "arabic": "ضعيف (والعمل عليه عند العلماء)",
+    "english": "Weak (but acted upon by scholars)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پیدل چلنے کی فضیلت",
+        "english": "Virtue of Walking"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عاجزی اور انکساری",
+              "english": "Humility and Modesty"
+            },
+            "content": {
+              "urdu": [
+                "عید گاہ پیدل جانا اللہ کے حضور عاجزی اور بندگی کے جذبے کو ظاہر کرتا ہے۔",
+                "سواری کے بجائے پیدل چلنے سے انسان میں تکبر پیدا نہیں ہوتا۔",
+                "نبی کریم ﷺ کا بھی عمومی معمول عید کے لیے پیدل جانے کا تھا۔"
+              ],
+              "english": [
+                "Walking to the Eidgah reflects a spirit of humility and servitude before Allah.",
+                "Walking instead of riding prevents pride and arrogance from entering the heart.",
+                "The general practice of the Prophet (ﷺ) was to walk to the Eid prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہر قدم پر اجر",
+              "english": "Reward for Every Step"
+            },
+            "content": {
+              "urdu": [
+                "نماز کے لیے اٹھنے والا ہر قدم نیکیوں میں اضافے اور گناہوں کی معافی کا سبب ہے۔",
+                "پیدل چلنے سے ذکر الہی اور تکبیرات کہنے کے زیادہ مواقع ملتے ہیں۔",
+                "راستے میں لوگوں سے ملنے اور عید مبارک کہنے میں آسانی رہتی ہے۔"
+              ],
+              "english": [
+                "Every step taken towards prayer increases good deeds and erases sins.",
+                "Walking provides more opportunities for Dhikr and reciting Takbirat aloud.",
+                "It makes it easier to meet people on the way and exchange Eid greetings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و عملی احکام",
+        "english": "Juristic and Practical Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استحباب اور رخصت",
+              "english": "Preference and Concession"
+            },
+            "content": {
+              "urdu": [
+                "پیدل جانا مستحب ہے، لیکن ضرورت پڑنے پر سواری کا استعمال بھی جائز ہے۔",
+                "اگر عید گاہ بہت دور ہو یا کوئی معذوری ہو تو سواری پر جانے میں حرج نہیں۔",
+                "دین میں سختی نہیں بلکہ آسانی اور نیت کی اہمیت زیادہ ہے۔"
+              ],
+              "english": [
+                "Walking is recommended, but using a vehicle when necessary is permissible.",
+                "If the Eidgah is very far or there is a disability, riding is perfectly fine.",
+                "There is no hardship in religion; intention and ease are prioritized."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "راستے کے آداب",
+              "english": "Etiquettes of the Path"
+            },
+            "content": {
+              "urdu": [
+                "پیدل چلتے ہوئے باآواز بلند تکبیرات کہنا سنتِ نبوی ﷺ ہے۔",
+                "راستے میں وقار اور سنجیدگی کو برقرار رکھنا ضروری ہے۔",
+                "اسلامی شعار کا اظہار کرتے ہوئے عید گاہ کی طرف پیش قدمی کرنی چاہیے۔"
+              ],
+              "english": [
+                "Reciting Takbirat loudly while walking is a prophetic Sunnah.",
+                "It is essential to maintain dignity and seriousness while on the path.",
+                "One should proceed to the Eidgah while manifesting Islamic symbols."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی اثرات",
+        "english": "Social Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مساوات کا اظہار",
+              "english": "Expression of Equality"
+            },
+            "content": {
+              "urdu": [
+                "جب امیر و غریب سب پیدل چلتے ہیں تو اسلامی مساوات کا نقشہ نظر آتا ہے۔",
+                "یہ عمل مسلمانوں کے درمیان طبقاتی فرق کو ختم کرنے میں مدد دیتا ہے۔",
+                "عید کا دن اجتماعیت اور بھائی چارے کے فروغ کا بہترین موقع ہے۔"
+              ],
+              "english": [
+                "When rich and poor all walk together, it portrays Islamic equality.",
+                "This practice helps in bridging the gap between social classes.",
+                "Eid is the best opportunity to promote collectivity and brotherhood."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی خیر سگالی",
+              "english": "Mutual Goodwill"
+            },
+            "content": {
+              "urdu": [
+                "پیدل چلنے سے پڑوسیوں اور اہل محلہ کے ساتھ روابط مضبوط ہوتے ہیں۔",
+                "ایک دوسرے کی خوشی میں شریک ہونا اور حال احوال پوچھنا آسان ہوتا ہے۔",
+                "یہ عمل معاشرے میں محبت اور یگانگت کی فضا پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "Walking strengthens bonds with neighbors and community members.",
+                "It becomes easier to share joy and inquire about each other's well-being.",
+                "This act creates an atmosphere of love and harmony in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و تربیتی سبق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کی پاسداری",
+              "english": "Adherence to Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "روایت ضعیف ہونے کے باوجود صحابہ کا عمل اس کی تائید کرتا ہے۔",
+                "مسلمان کو چاہیے کہ وہ عبادات میں چھوٹی چھوٹی سنتوں کا بھی اہتمام کرے۔",
+                "نبی ﷺ کے طریقے میں ہی دنیا و آخرت کی کامیابی پوشیدہ ہے۔"
+              ],
+              "english": [
+                "Despite the narration being weak, the practice of Sahaba supports it.",
+                "A Muslim should strive to observe even the minor Sunnahs in worship.",
+                "Success in both worlds is hidden in following the Prophet's (ﷺ) way."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جسمانی اور روحانی صحت",
+              "english": "Physical and Spiritual Health"
+            },
+            "content": {
+              "urdu": [
+                "پیدل چلنا جسمانی صحت کے لیے بھی مفید اور سنت نبوی ہے۔",
+                "روحانی طور پر یہ اللہ کے لیے مشقت اٹھانے اور اجر پانے کا ذریعہ ہے۔",
+                "خوشی کے دن بھی اپنے رب کی یاد میں مگن رہنا اصل بندگی ہے۔"
+              ],
+              "english": [
+                "Walking is beneficial for physical health and is a prophetic Sunnah.",
+                "Spiritually, it is a way to endure effort for Allah and gain rewards.",
+                "True devotion is remaining engrossed in Allah's remembrance even on Eid."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

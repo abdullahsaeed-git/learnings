@@ -1,0 +1,272 @@
+{
+  "hadithId": 266,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["urn:1257"],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "Bulugh al-Maram",
+    "babId": 18
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (401)، ومسلم (572). وأما حديث عبد الله بن جعفر: فهو ضعيف؛ رواه أحمد (1/205)، وأبو داود (1033)، والنسائي (3/30)، وابن خزيمة (1033) بسند ضعيف، وإن حاول الشيخ أحمد شاكر توثيق رجاله.",
+    "urdu": "صحیح۔ اسے بخاری (401) اور مسلم (572) نے روایت کیا ہے۔ جہاں تک عبداللہ بن جعفر کی حدیث کا تعلق ہے تو وہ ضعیف ہے۔ اسے احمد (1/205)، ابوداؤد (1033)، نسائی (3/30) اور ابن خزیمہ (1033) نے ضعیف سند کے ساتھ روایت کیا ہے، اگرچہ شیخ احمد شاکر نے اس کے رجال کی توثیق کی کوشش کی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (401) and Muslim (572). As for the Hadith of Abdullah bin Ja'far, it is Weak; reported by Ahmad (1/205), Abu Dawud (1033), An-Nasa'i (3/30), and Ibn Khuzaimah (1033) with a weak chain, although Sheikh Ahmad Shakir tried to authenticate its narrators."
+  },
+  "importantWords": [
+    {
+      "arabic": "بشر",
+      "english": "Human being",
+      "urdu": "انسان / بشر"
+    },
+    {
+      "arabic": "أنسى",
+      "english": "I forget",
+      "urdu": "میں بھولتا ہوں"
+    },
+    {
+      "arabic": "ذكروني",
+      "english": "Remind me",
+      "urdu": "مجھے یاد دلاؤ"
+    },
+    {
+      "arabic": "يتحرى",
+      "english": "Seek / Aim for",
+      "urdu": "تلاش کرے / کوشش کرے"
+    },
+    {
+      "arabic": "الصواب",
+      "english": "Correctness",
+      "urdu": "درستگی / حق"
+    },
+    {
+      "arabic": "حدث",
+      "english": "Happened (New)",
+      "urdu": "نیا واقعہ ہوا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نبی ﷺ کی بشریت اور بھولنے کا ذکر ہے۔ اگر نماز میں شک ہو تو 'تحری' (غالب گمان) پر عمل کریں اور نماز مکمل کر کے آخر میں دو سجدے کریں۔",
+    "english": "This Hadith highlights the human nature of the Prophet (ﷺ) regarding forgetfulness. If one doubts in prayer, they should act on 'Taharry' (strongest probability), complete the prayer, and perform two prostrations at the end."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (401)",
+      "english": "Reported by Al-Bukhari (401)"
+    },
+    {
+      "arabic": "رواه مسلم (572)",
+      "english": "Reported by Muslim (572)"
+    },
+    {
+      "arabic": "رواه أبو داود (1033)",
+      "english": "Reported by Abu Dawud (1033)"
+    },
+    {
+      "arabic": "رواه النسائي (1246)",
+      "english": "Reported by An-Nasa'i (1246)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah bin Mas'ud"
+      },
+      "slug": "abdullah-bin-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=HuZVX6S4mGM",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انبیاء کی بشریت",
+              "english": "Humanity of Prophets"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے فرمایا کہ میں ایک بشر ہوں اور بھول سکتا ہوں۔",
+                "یہ بھول اللہ کی طرف سے حکمت ہے تاکہ امت کے لیے احکام بنیں۔",
+                "آپ ﷺ کا بھولنا تبلیغِ دین میں نہیں بلکہ بشری افعال میں ہوتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) stated that he is a human and can forget.",
+                "This forgetfulness is a wisdom from Allah to establish rulings for the Ummah.",
+                "His forgetfulness is in human actions, not in the delivery of the Message."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحری صواب کا حکم",
+              "english": "Ruling on Seeking Correctness"
+            },
+            "content": {
+              "urdu": [
+                "جب نماز میں شک ہو تو انسان کو سوچنا چاہیے کہ کیا صحیح ہے۔",
+                "یقین یا غالب گمان کی بنیاد پر نماز پوری کرنی چاہیے۔",
+                "محض شک کی بنیاد پر نماز نہیں توڑنی چاہیے۔"
+              ],
+              "english": [
+                "When in doubt during prayer, one should reflect on what is correct.",
+                "Complete the prayer based on certainty or strong probability.",
+                "One should not invalidate the prayer based on mere doubt."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل",
+        "english": "Juristic Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شک کی صورتیں",
+              "english": "Types of Doubt"
+            },
+            "content": {
+              "urdu": [
+                "اگر رکعتوں کی تعداد میں شک ہو تو غالب گمان پر عمل کریں۔",
+                "اگر کوئی غالب گمان نہ ہو تو کم تعداد (یقین) پر بنیاد رکھیں۔",
+                "اس حدیث میں غالب گمان (تحری) کی دلیل موجود ہے۔"
+              ],
+              "english": [
+                "If doubting the number of Rak'ahs, act on the strongest probability.",
+                "If there is no strong probability, build on the lesser number (certainty).",
+                "This Hadith provides evidence for acting on strong probability (Taharry)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سجدہ سہو کا وقت",
+              "english": "Time of Sujud as-Sahw"
+            },
+            "content": {
+              "urdu": [
+                "جب نماز میں زیادتی ہو جائے تو سجدہ سہو سلام کے بعد بہتر ہے۔",
+                "شک کی صورت میں بھی بعض فقہاء سلام کے بعد سجدے کو ترجیح دیتے ہیں۔",
+                "مقصد نماز کی اصلاح اور شیطان کی تذلیل ہے۔"
+              ],
+              "english": [
+                "When there is an addition in prayer, Sujud is better performed after Taslim.",
+                "In case of doubt, some jurists also prefer Sujud after Taslim.",
+                "The purpose is to rectify the prayer and humiliate Satan."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی ہدایات",
+        "english": "Practical Guidelines"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام کو یاد دلانا",
+              "english": "Reminding the Imam"
+            },
+            "content": {
+              "urdu": [
+                "اگر امام غلطی کرے تو مقتدیوں کو 'سبحان اللہ' کہہ کر یاد دلانا چاہیے۔",
+                "نبی ﷺ نے فرمایا 'مجھے یاد دلا دیا کرو'۔",
+                "یہ باہمی تعاون اور نماز کی حفاظت کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "If the Imam makes a mistake, followers should remind him by saying 'Subhan Allah'.",
+                "The Prophet (ﷺ) said, 'Remind me'.",
+                "This is a means of mutual cooperation and preserving the prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بات چیت کے بعد سجدہ",
+              "english": "Sujud after talking"
+            },
+            "content": {
+              "urdu": [
+                "اگر سلام پھیرنے کے بعد بات چیت ہو جائے تب بھی سجدہ سہو ہو سکتا ہے۔",
+                "شرط یہ ہے کہ وقفہ بہت طویل نہ ہو۔",
+                "نبی ﷺ نے صحابہ سے بات کرنے کے بعد سجدہ کیا۔"
+              ],
+              "english": [
+                "Sujud as-Sahw can be done even if one spoke after Taslim.",
+                "The condition is that the gap should not be too long.",
+                "The Prophet (ﷺ) performed Sujud after speaking to the Companions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی پہلو",
+        "english": "Educational Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عاجزی کا درس",
+              "english": "Lesson of Humility"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا اپنی بشریت کا اقرار کرنا عاجزی کی انتہا ہے۔",
+                "رہنما اگر غلطی کرے تو اسے تسلیم کرنا چاہیے اور اصلاح کرنی چاہیے۔",
+                "یہ قائدین اور اساتذہ کے لیے ایک بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) admission of his humanity is the peak of humility.",
+                "If a leader makes a mistake, they should admit and correct it.",
+                "This is an excellent example for leaders and teachers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین کی تکمیل",
+              "english": "Perfection of Religion"
+            },
+            "content": {
+              "urdu": [
+                "اللہ نے نبی ﷺ سے یہ افعال کروائے تاکہ دین مکمل ہو۔",
+                "اگر نبی کبھی نہ بھولتے تو امت کو بھولنے کا مسئلہ حل نہ ملتا۔",
+                "ہر عمل میں اللہ کی حکمت پوشیدہ ہوتی ہے۔"
+              ],
+              "english": [
+                "Allah caused these actions from the Prophet (ﷺ) to perfect the religion.",
+                "If the Prophet never forgot, the Ummah wouldn't know how to handle forgetfulness.",
+                "There is hidden wisdom in every action of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

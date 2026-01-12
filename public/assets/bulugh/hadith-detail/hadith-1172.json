@@ -1,0 +1,255 @@
+{
+  "hadithId": 1172,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/13/2"],
+    "kitabId": 13,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأيمان والنذور",
+    "babId": 96
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1653) في كتاب الأيمان، باب الحلف على نية المستحلف.",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (1653) نے اسے اپنی صحیح میں 'کتاب الایمان' کے باب 'قسم لینے والے کی نیت کے اعتبار سے ہوگی' میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1653) in the Book of Oaths, Chapter: The oath is according to the intention of the one who demands it."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَمِينُكَ",
+      "english": "Your oath",
+      "urdu": "تمہاری قسم"
+    },
+    {
+      "arabic": "يُصَدِّقُكَ",
+      "english": "Believes you",
+      "urdu": "وہ تجھے سچا سمجھے"
+    },
+    {
+      "arabic": "صَاحِبُكَ",
+      "english": "Your companion",
+      "urdu": "تمہارا ساتھی"
+    },
+    {
+      "arabic": "نِيَّةِ",
+      "english": "Intention",
+      "urdu": "نیت"
+    },
+    {
+      "arabic": "اَلْمُسْتَحْلِفِ",
+      "english": "The one who asks for the oath",
+      "urdu": "قسم لینے والا"
+    }
+  ],
+  "summary": {
+    "urdu": "قسم کا مطلب وہی لیا جائے گا جو قسم لینے والا مراد لے رہا ہے، قسم کھانے والا الفاظ میں ہیر پھیر کر کے اللہ کو دھوکہ نہیں دے سکتا۔",
+    "english": "The validity of an oath is based on the intention of the person demanding it, meaning one cannot use wordplay to deceive others or Allah."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1653)",
+      "english": "Sahih Muslim (1653)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S8YV59Uu0oU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قسم میں نیت کا اعتبار",
+        "english": "Validity of Intention in Oaths"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسم لینے والے کا حق",
+              "english": "Rights of the Petitioner"
+            },
+            "content": {
+              "urdu": [
+                "جب کوئی شخص دوسرے سے حق کے لیے قسم لیتا ہے تو نیت اسی کی معتبر ہوتی ہے۔",
+                "قسم کھانے والا اپنے دل میں کوئی اور مطلب رکھ کر دھوکہ نہیں دے سکتا۔",
+                "شریعت نے قسم کے الفاظ کو اس کے عرفی اور ظاہری مفہوم کے تابع رکھا ہے۔"
+              ],
+              "english": [
+                "When someone demands an oath for a right, their understanding is what counts.",
+                "The person swearing cannot deceive by holding a different secret intention.",
+                "Shariah keeps the meaning of an oath bound to its apparent and common use."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "الفاظ کا ہیر پھیر (توریہ)",
+              "english": "Wordplay and Equivocation"
+            },
+            "content": {
+              "urdu": [
+                "الفاظ میں ذو معنی مطلب نکال کر جھوٹی قسم کھانا گناہِ کبیرہ ہے۔",
+                "اگر قسم لینے والا ظالم نہ ہو تو توریہ یا ہیر پھیر کرنا جائز نہیں ہوتا۔",
+                "ایسی قسمیں اللہ کے نزدیک جھوٹ شمار ہوتی ہیں اور سخت وعید کا باعث ہیں۔"
+              ],
+              "english": [
+                "Using double meanings to take a false oath is considered a major sin.",
+                "Equivocation is not allowed if the one demanding the oath is not an oppressor.",
+                "Such oaths are counted as lies by Allah and lead to severe punishment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حقوق العباد اور عدالتی ضابطہ",
+        "english": "Human Rights and Judicial Code"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدالتی قسم کا حکم",
+              "english": "Ruling on Judicial Oaths"
+            },
+            "content": {
+              "urdu": [
+                "عدالت میں جب جج قسم لیتا ہے تو وہ جج کی نیت اور سوال پر مبنی ہوتی ہے۔",
+                "مدعی علیہ جھوٹے الفاظ کا سہارا لے کر کسی کا حق غصب نہیں کر سکتا۔",
+                "یہ حدیث اسلامی قانونِ شہادت میں ایک بنیادی اور اہم اصول فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "Oaths in court are based on the judge's intent and the specific question.",
+                "The defendant cannot usurp rights by using misleading or ambiguous words.",
+                "This Hadith provides a fundamental principle in Islamic laws of evidence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی اعتماد کا تحفظ",
+              "english": "Protecting Social Trust"
+            },
+            "content": {
+              "urdu": [
+                "قسم کا مقصد فریقین کے درمیان شکوک و شبہات کا مکمل خاتمہ کرنا ہے۔",
+                "اگر ہر کوئی اپنی نیت کے مطابق مطلب نکالے تو قسم کا مقصد فوت ہو جائے۔",
+                "اسلام معاشرے میں سچائی اور باہمی اعتماد کو برقرار رکھنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "The purpose of an oath is to completely remove doubts between parties.",
+                "If everyone interprets as they please, the purpose of the oath is lost.",
+                "Islam teaches maintaining truthfulness and mutual trust in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استثناء اور خاص حالات",
+        "english": "Exceptions and Special Contexts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ظالم کے سامنے قسم",
+              "english": "Oaths Before an Oppressor"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی ظالم ناحق جان یا مال لینے کے لیے زبردستی قسم اٹھوائے تو حکم الگ ہے۔",
+                "ایسی مجبوری کی حالت میں الفاظ میں توریہ کرنا اپنی حفاظت کے لیے جائز ہے۔",
+                "علماء کے نزدیک ایسی صورت میں قسم کھانے والے کی اپنی نیت معتبر ہوگی۔"
+              ],
+              "english": [
+                "The ruling differs if an oppressor forces an oath to take life or property.",
+                "In such forced situations, using double meanings is allowed for protection.",
+                "According to scholars, the swearer's own intent is valid in this specific case."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کی اہمیت",
+              "english": "Significance of Intent"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ انسان کے دلوں کے بھیدوں سے خوب اچھی طرح واقف ہے۔",
+                "ظاہری الفاظ سے دنیا کو دھوکہ دیا جا سکتا ہے مگر خالق کو نہیں۔",
+                "اعمال کا دارومدار نیتوں پر ہے اور قسم بھی ایک بہت بڑا عمل ہے۔"
+              ],
+              "english": [
+                "Allah Almighty is fully aware of the secrets hidden within hearts.",
+                "The world can be deceived by outward words, but the Creator cannot.",
+                "Actions depend on intentions, and taking an oath is a major action."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و عملی سبق",
+        "english": "Ethical and Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیانت داری کی تاکید",
+              "english": "Emphasis on Integrity"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو ہر حال میں دیانت دار اور راست گو ہونا چاہیے۔",
+                "قسم کو اپنے گناہوں یا چوری چھپانے کا ذریعہ بنانا سخت منافقت ہے۔",
+                "سچائی انسان کو نجات دیتی ہے جبکہ جھوٹ اسے ہلاکت میں ڈالتا ہے۔"
+              ],
+              "english": [
+                "A Muslim must be honest and straightforward in every circumstance.",
+                "Using an oath to hide sins or theft is considered severe hypocrisy.",
+                "Truthfulness saves a person while lying leads them to total destruction."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کا ڈر (تقویٰ)",
+              "english": "Fear of Allah (Taqwa)"
+            },
+            "content": {
+              "urdu": [
+                "قسم اٹھاتے وقت اللہ کی عظمت اور اس کے عذاب کو یاد رکھنا چاہیے۔",
+                "ناحق قسم کھا کر کسی کا مال ہڑپ کرنا جہنم کی آگ خریدنا ہے۔",
+                "تقویٰ کا تقاضا ہے کہ انسان زبان کے استعمال میں انتہائی محتاط رہے۔"
+              ],
+              "english": [
+                "Remember Allah's greatness and His punishment when taking an oath.",
+                "Usurping property through a false oath is buying the fire of Hell.",
+                "Piety requires a person to be extremely cautious in their use of speech."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

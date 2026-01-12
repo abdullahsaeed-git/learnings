@@ -1,0 +1,264 @@
+{
+  "hadithId": 516,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/516"],
+    "kitabId": 4,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 31
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1474)، ومسلم (1040). والمزعة بضم الميم وسكون الزاي هي القطعة من اللحم.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (1474) اور امام مسلم (1040) نے روایت کیا ہے۔ 'المزعہ' کا مطلب گوشت کا ٹکڑا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1474) and Muslim (1040). 'Muz'ah' refers to a small piece or slice of flesh."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَسْأَلُ",
+      "english": "Begs / Asks",
+      "urdu": "مانگتا ہے / سوال کرتا ہے"
+    },
+    {
+      "arabic": "مُزْعَةُ",
+      "english": "Piece / Bit",
+      "urdu": "ٹکڑا"
+    },
+    {
+      "arabic": "لَحْمٍ",
+      "english": "Flesh / Meat",
+      "urdu": "گوشت"
+    },
+    {
+      "arabic": "وَجْهِهِ",
+      "english": "His face",
+      "urdu": "اس کا چہرہ"
+    },
+    {
+      "arabic": "يَوْمَ اَلْقِيَامَةِ",
+      "english": "Day of Resurrection",
+      "urdu": "قیامت کا دن"
+    },
+    {
+      "arabic": "الرَّجُلُ",
+      "english": "The man",
+      "urdu": "آدمی"
+    }
+  ],
+  "summary": {
+    "urdu": "بغیر ضرورت کے لوگوں کے سامنے ہاتھ پھیلانا اور گداگری کو پیشہ بنانا آخرت میں ذلت اور رسوائی کا باعث بنے گا جس کی علامت بے گوشت چہرہ ہو گا۔",
+    "english": "Begging without absolute necessity and making it a profession leads to humiliation on the Day of Judgment, symbolized by a face without flesh."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1474)",
+      "english": "Sahih al-Bukhari (1474)"
+    },
+    {
+      "arabic": "صحيح مسلم (1040)",
+      "english": "Sahih Muslim (1040)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر رضي الله عنهما",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0kI47xXyU-8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "گداگری کی مذمت",
+        "english": "Condemnation of Begging"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پیشہ ورانہ بھیک کی ممانعت",
+              "english": "Prohibition of Professional Begging"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں بغیر کسی شدید مجبوری کے لوگوں سے مانگنا سخت ناپسندیدہ ہے۔",
+                "جو لوگ اسے پیشہ بنا لیتے ہیں وہ دراصل اپنی عزتِ نفس کو فروخت کرتے ہیں۔",
+                "یہ عمل انسان کے توکل اور خودداری کو ختم کر کے اسے دوسروں کا محتاج بنا دیتا ہے۔"
+              ],
+              "english": [
+                "In Islam, begging without extreme necessity is highly discouraged and disliked.",
+                "Those who turn begging into a profession are essentially selling their dignity.",
+                "This act destroys one's self-reliance and trust in Allah, making them dependent on people."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عزتِ نفس کا تحفظ",
+              "english": "Protection of Self-Respect"
+            },
+            "content": {
+              "urdu": [
+                "مومن کی شان یہ ہے کہ وہ محنت کر کے کھائے اور دوسروں کا محتاج نہ بنے۔",
+                "سوال کرنے سے چہرے کی رونق اور وقار ختم ہو جاتا ہے جو آخرت میں نظر آئے گا۔",
+                "اللہ تعالیٰ ان لوگوں کو پسند فرماتا ہے جو تنگی میں بھی سوال نہیں کرتے۔"
+              ],
+              "english": [
+                "It is the hallmark of a believer to earn through labor and not depend on others.",
+                "Begging strips away the light and dignity of the face, which will manifest in the Hereafter.",
+                "Allah loves those who maintain their integrity and do not ask even in times of need."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "آخرت کی رسوائی",
+        "english": "Humiliation in the Hereafter"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بے گوشت چہرہ اور اس کی حکمت",
+              "english": "The Fleshless Face and its Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "قیامت کے دن چہرے پر گوشت نہ ہونا اس کی دنیاوی ذلت کی سزا ہے۔",
+                "جس نے دنیا میں چہرے کا پانی بیچا، اللہ اسے وہاں سب کے سامنے رسوا کرے گا۔",
+                "یہ جسمانی سزا اس بات کی علامت ہے کہ اس نے انسانیت کے وقار کو پامال کیا۔"
+              ],
+              "english": [
+                "The absence of flesh on the face on Judgment Day is a punishment for worldly disgrace.",
+                "He who traded his dignity for money will be exposed by Allah before all creation.",
+                "This physical punishment signifies that the individual violated the sanctity of human honor."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعمال کے مطابق جزا",
+              "english": "Recompense According to Deeds"
+            },
+            "content": {
+              "urdu": [
+                "یہ سزا اس لیے ہے کیونکہ سائل نے اپنا چہرہ لوگوں کے سامنے ذلیل کیا تھا۔",
+                "آخرت کی جزا اور سزا ہمیشہ عمل کی نوعیت کے مطابق دی جاتی ہے۔",
+                "یہ ہولناک منظر دوسروں کے لیے عبرت کا باعث ہوگا کہ دنیاوی مال کی خاطر وقار نہ کھوئیں۔"
+              ],
+              "english": [
+                "This penalty exists because the beggar debased his face before people for money.",
+                "Rewards and punishments in the Hereafter always match the nature of the action.",
+                "This terrifying sight will serve as a warning not to sacrifice honor for worldly gain."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جائز سوال کی حدود",
+        "english": "Limits of Permissible Asking"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شدید ضرورت کا استثناء",
+              "english": "Exception of Extreme Necessity"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی جان لیوا بھوک یا شدید فقر میں ہو تو اس کے لیے سوال کی گنجائش ہے۔",
+                "مجبوری کی حالت میں مانگنا اس وعید اور سزا کے زمرے میں نہیں آتا۔",
+                "دین میں ضرورت کے وقت مدد مانگنا جائز ہے مگر اسے عادت بنانا حرام ہے۔"
+              ],
+              "english": [
+                "There is an allowance for asking if one is facing life-threatening hunger or extreme poverty.",
+                "Begging under dire necessity does not fall under this specific warning or punishment.",
+                "While asking for help in genuine need is allowed, making it a habit is forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعاون اور مدد کا نظام",
+              "english": "System of Cooperation and Aid"
+            },
+            "content": {
+              "urdu": [
+                "اسلام معاشرے کو حکم دیتا ہے کہ وہ سفید پوش ضرورت مندوں کو خود ڈھونڈیں۔",
+                "صدقات کا اصل مقصد ان لوگوں تک پہنچنا ہے جو مانگنے سے شرماتے ہیں۔",
+                "معاشرتی نظام ایسا ہونا چاہیے کہ کسی کو سوال کرنے کی نوبت ہی نہ آئے۔"
+              ],
+              "english": [
+                "Islam commands the community to actively seek out the dignified needy who do not ask.",
+                "The true purpose of charity is to reach those who are too shy to beg.",
+                "The social system should be robust enough so that no one is forced to ask others."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محنت کی عظمت",
+              "english": "The Dignity of Labor"
+            },
+            "content": {
+              "urdu": [
+                "ہاتھ پھیلانے سے بہتر ہے کہ انسان لکڑیاں کاٹ کر اپنا پیٹ پالے۔",
+                "محنت کی کمائی میں اللہ نے برکت اور چہرے پر وقار رکھا ہے۔",
+                "نوجوان نسل کو ہنر سیکھنے اور خود کفیل بننے کی ترغیب دینی چاہیے۔"
+              ],
+              "english": [
+                "It is better for one to cut wood and sell it than to stretch out hands to people.",
+                "Allah has placed blessings in hard-earned income and dignity on the working face.",
+                "The younger generation should be encouraged to learn skills and become self-sufficient."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صدقات میں احتیاط",
+              "english": "Caution in Giving Charity"
+            },
+            "content": {
+              "urdu": [
+                "صدقہ دیتے وقت مستحق اور پیشہ ور بھکاری کے درمیان فرق کرنا ضروری ہے۔",
+                "پیشہ ور گداگروں کی حوصلہ شکنی کرنا معاشرتی اصلاح کے لیے لازم ہے۔",
+                "اپنا مال ان اداروں اور افراد کو دیں جو واقعی مستحقین کی کفالت کر رہے ہوں۔"
+              ],
+              "english": [
+                "When giving charity, it is vital to distinguish between the needy and professional beggars.",
+                "Discouraging professional panhandling is necessary for social reform.",
+                "Direct your wealth to institutions and individuals truly supporting the deserving."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

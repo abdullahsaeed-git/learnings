@@ -1,0 +1,261 @@
+{
+  "hadithId": 445,
+  "hadithNo": 21,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:1695"
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1695). والحديث يثبت أن من أقيم عليه الحد يغسل ويصلى عليه ويدفن في مقابر المسلمين.",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (1695) نے اسے روایت کیا ہے۔ اس سے ثابت ہوتا ہے کہ جس پر شرعی حد قائم کی جائے، اسے غسل دیا جائے گا، اس کی نماز جنازہ پڑھی جائے گی اور مسلمانوں کے قبرستان میں دفن کیا جائے گا۔",
+    "english": "Authentic. Reported by Muslim (1695). This Hadith establishes that anyone on whom a legal Hudud punishment is carried out is still to be washed, prayed over, and buried in Muslim graveyards."
+  },
+  "importantWords": [
+    {
+      "arabic": "قِصَّةِ",
+      "english": "Story / Incident",
+      "urdu": "واقعہ / قصہ"
+    },
+    {
+      "arabic": "أَمَرَ",
+      "english": "Ordered / Commanded",
+      "urdu": "حکم دیا"
+    },
+    {
+      "arabic": "بِرَجْمِهَا",
+      "english": "Stoning her",
+      "urdu": "اسے رجم کرنا"
+    },
+    {
+      "arabic": "فَصُلِّيَ",
+      "english": "Prayed over",
+      "urdu": "نماز پڑھی گئی"
+    },
+    {
+      "arabic": "دُفِنَتْ",
+      "english": "Was buried",
+      "urdu": "دفن کی گئی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے معلوم ہوتا ہے کہ گناہِ کبیرہ کے مرتکب مسلمان پر اگر حد جاری کر دی جائے، تب بھی وہ دائرہ اسلام سے خارج نہیں ہوتا اور اس کے جنازے و تدفین کے حقوق برقرار رہتے ہیں۔",
+    "english": "This Hadith clarifies that a Muslim who commits a major sin and receives the legal punishment (Hadd) remains a Muslim, and retains their rights to a funeral prayer and Islamic burial."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1695)",
+      "english": "Sahih Muslim (1695)"
+    },
+    {
+      "arabic": "سنن النسائي (1957)",
+      "english": "Sunan an-Nasa'i (1957)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "بريدة بن الحصيب الأسلمي",
+        "english": "Buraidah bin al-Husaib al-Aslami"
+      },
+      "slug": "buraidah-bin-al-husaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=O_5-tI8Xqf4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "توبہ کی قبولیت اور مقام",
+        "english": "Acceptance of Repentance and Status"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سچی توبہ کا اثر",
+              "english": "Impact of Sincere Repentance"
+            },
+            "content": {
+              "urdu": [
+                "غامدیہ رضی اللہ عنہا نے خود آکر اعترافِ گناہ کیا اور پاک ہونے کی خواہش کی۔",
+                "نبی ﷺ نے ان کی توبہ کے بارے میں فرمایا کہ ایسی توبہ ہے جو پورے شہر کے لیے کافی ہے۔",
+                "حد کا نفاذ گناہگار کے لیے دنیا میں پاکیزگی اور کفارہ بن جاتا ہے۔"
+              ],
+              "english": [
+                "The Ghamidiyah woman confessed her sin voluntarily to seek purification.",
+                "The Prophet (ﷺ) stated her repentance was enough for the entire city's inhabitants.",
+                "Enforcing the legal punishment acts as an expiation and purification for the sinner."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی اخوت کا برقرار رہنا",
+              "english": "Persistence of Islamic Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "گناہِ کبیرہ سے انسان ایمان سے مکمل طور پر محروم نہیں ہو جاتا۔",
+                "نبی ﷺ کا نمازِ جنازہ پڑھنا ان کی بخشش کی گواہی اور مہر ہے۔",
+                "حد کے بعد بھی اس عورت کا احترام ایک مسلمان بہن کے طور پر باقی رہا۔"
+              ],
+              "english": [
+                "Committing a major sin does not entirely remove a person from the fold of faith.",
+                "The Prophet (ﷺ) offering her funeral prayer is a testimony to her forgiveness.",
+                "After the punishment, she retained her respect and status as a Muslim sister."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام و مسائل",
+        "english": "Juristic Rulings and Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نمازِ جنازہ کی مشروعیت",
+              "english": "Legitimacy of Funeral Prayer"
+            },
+            "content": {
+              "urdu": [
+                "ہر وہ مسلمان جو توحید پر مرا ہو، اس کی نمازِ جنازہ پڑھنا فرضِ کفایہ ہے۔",
+                "حد کے نتیجے میں مرنے والا بھی جنازے اور دعا کا حقدار ہوتا ہے۔",
+                "نبی ﷺ کے عمل نے اس مسئلے میں تمام ابہام اور شکوک کو ختم کر دیا۔"
+              ],
+              "english": [
+                "It is a communal obligation to pray over every Muslim who dies upon Monotheism.",
+                "One who dies due to a legal punishment is still entitled to prayer and supplication.",
+                "The Prophet's (ﷺ) action removed all ambiguities and doubts regarding this matter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تدفین اور غسل",
+              "english": "Burial and Washing"
+            },
+            "content": {
+              "urdu": [
+                "میت کو غسل دینا اور کفنانا ایک لازمی شرعی تقاضا ہے۔",
+                "اسے مسلمانوں کے قبرستان میں عام مسلمانوں کے ساتھ دفن کیا جائے گا۔",
+                "گناہ کی سزا مل جانے کے بعد اس پر لعن طعن کرنا جائز نہیں ہے۔"
+              ],
+              "english": [
+                "Washing and shrouding the deceased is a mandatory Shariah requirement.",
+                "They should be buried alongside other Muslims in a Muslim graveyard.",
+                "It is not permissible to curse or revile them after the punishment is served."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رحمتِ نبوی ﷺ کا ظہور",
+        "english": "Manifestation of Prophetic Mercy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی شفقت",
+              "english": "Compassion of the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے اس خاتون کو توبہ اور بچے کی پرورش کا پورا موقع دیا۔",
+                "آپ ﷺ کا جنازہ پڑھنا میت کے لیے اللہ کی بارگاہ میں شفاعت ہے۔",
+                "اسلام انصاف کے ساتھ ساتھ انسانی جذبات اور ندامت کی بھی قدر کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gave her ample time for repentance and raising her child.",
+                "His leading of the funeral prayer serves as intercession before Allah.",
+                "Islam values justice as well as human emotions and sincere remorse."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اصلاحِ معاشرہ کا پہلو",
+              "english": "Aspect of Social Reform"
+            },
+            "content": {
+              "urdu": [
+                "حدود کا مقصد معاشرے کو پاک کرنا اور گناہوں کا راستہ روکنا ہے۔",
+                "جب کوئی توبہ کر لے تو معاشرے کو اسے قبول کرنا چاہیے۔",
+                "جنازہ و تدفین کا عمل معاشرتی بائیکاٹ کے بجائے ہمدردی کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "The goal of Hudud is to purify society and prevent the spread of vice.",
+                "Once someone repents, society should accept them back into the fold.",
+                "Funeral rites teach compassion rather than perpetual social boycott."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایمانی و اخلاقی سبق",
+        "english": "Faith and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوفِ خدا اور ندامت",
+              "english": "Fear of Allah and Remorse"
+            },
+            "content": {
+              "urdu": [
+                "خاتون کا جذبہء ایمانی ایسا تھا کہ انہوں نے آخرت کی سزا پر دنیا کی سزا کو ترجیح دی۔",
+                "یہ واقعہ ہمیں اللہ کے حضور سچی ندامت کی اہمیت سکھاتا ہے۔",
+                "گناہ کے بعد مایوس ہونے کے بجائے توبہ کا دروازہ ہمیشہ کھلا رکھنا چاہیے۔"
+              ],
+              "english": [
+                "The woman's faith led her to prefer worldly punishment over that of the Hereafter.",
+                "This incident teaches us the immense importance of sincere remorse before Allah.",
+                "Instead of despairing after a sin, one must remember that repentance is always open."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دوسروں کے بارے میں رویہ",
+              "english": "Attitude Towards Others"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں کسی گناہگار کو حقیر نہیں سمجھنا چاہیے، شاید اس کی توبہ ہم سے بہتر ہو۔",
+                "شرعی حدود کے نفاذ کے بعد معاملہ اللہ کے سپرد کر دینا چاہیے۔",
+                "مسلمانوں کے جنازوں میں شرکت کرنا اور ان کے لیے دعا کرنا اخلاقی فریضہ ہے۔"
+              ],
+              "english": [
+                "We should not belittle a sinner; perhaps their repentance is superior to ours.",
+                "After the Shariah law is applied, the matter should be left to Allah.",
+                "Attending Muslim funerals and praying for them is a core moral duty."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

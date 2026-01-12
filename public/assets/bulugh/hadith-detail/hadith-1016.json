@@ -1,0 +1,259 @@
+{
+  "hadithId": 1016,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1166"],
+    "kitabId": 9,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 80
+  },
+
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (6695)، وأبو داود (4583)، والترمذي (1413)، والنسائي (4807)، وابن ماجه (2644). وصححه ابن خزيمة والحاكم.",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام احمد، ابوداؤد، ترمذی، نسائی اور ابن ماجہ نے روایت کیا ہے، اور ابن خزیمہ اور حاکم نے اسے صحیح قرار دیا ہے۔",
+    "english": "Hasan (Good). Reported by Ahmad (6695), Abu Dawud (4583), At-Tirmidhi (1413), An-Nasa'i (4807), and Ibn Majah (2644). Ibn Khuzaimah and Al-Hakim graded it Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَقْلُ",
+      "english": "Blood-money (Diyat)",
+      "urdu": "دیت / خون بہا"
+    },
+    {
+      "arabic": "أَهْلِ اَلذِّمَّةِ",
+      "english": "Non-Muslim citizens",
+      "urdu": "ذمی / غیر مسلم شہری"
+    },
+    {
+      "arabic": "نِصْفُ",
+      "english": "Half",
+      "urdu": "آدھا / نصف"
+    },
+    {
+      "arabic": "اَلْمُعَاهِدِ",
+      "english": "Person under covenant",
+      "urdu": "معاہد / جس سے معاہدہ ہو"
+    },
+    {
+      "arabic": "اَلثُّلُثَ",
+      "english": "One-third",
+      "urdu": "تہائی / تیسرا حصہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں غیر مسلم شہریوں کی دیت کی مقدار اور عورت و مرد کے زخموں کے مالی معاوضے کے مابین فرق و برابری کے اصول بیان کیے گئے ہیں۔",
+    "english": "This Hadith outlines the proportions of blood-money for non-Muslim citizens and the specific rules regarding compensation for injuries sustained by women compared to men."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي (4807)",
+      "english": "Sunan An-Nasa'i (4807)"
+    },
+    {
+      "arabic": "سنن أبي داود (4583)",
+      "english": "Sunan Abu Dawud (4583)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعيب",
+        "english": "Amr bin Shu'aib"
+      },
+      "slug": "amr-bin-shuaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غیر مسلموں کی دیت کا حکم",
+        "english": "Diyat of Non-Muslim Citizens"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نصف دیت کا ضابطہ",
+              "english": "The Half-Diyat Regulation"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک ذمی (غیر مسلم شہری) کی دیت مسلمان کے مقابلے میں آدھی ہے۔",
+                "یہ حکم ان غیر مسلموں کے لیے ہے جن سے ریاست کا امن کا معاہدہ ہو۔",
+                "دیت میں یہ فرق ایمانی فضیلت کی بنا پر ہے، نہ کہ انسانیت کی تذلیل کے لیے۔"
+              ],
+              "english": [
+                "The majority of jurists hold that the Diyat for a Dhimmi is half that of a Muslim.",
+                "This ruling applies to non-Muslims with whom the state has a peace treaty.",
+                "The difference in Diyat is based on religious status, not to degrade humanity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جان کی حفاظت کی ضمانت",
+              "english": "Guarantee of Protection"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی ریاست میں ذمیوں کی جان و مال کا تحفظ ریاست کی شرعی ذمہ داری ہے۔",
+                "دیت کا وجوب ظاہر کرتا ہے کہ ان کا خون رائیگاں نہیں ہے بلکہ قابلِ تلافی ہے۔",
+                "کسی غیر مسلم معاہد کو بلاوجہ قتل کرنا جنت کی خوشبو سے محرومی کا باعث ہے۔"
+              ],
+              "english": [
+                "Protecting the lives and property of Dhimmis is a Shariah obligation of the state.",
+                "The necessity of Diyat shows that their blood is not in vain but compensable.",
+                "Killing a non-Muslim under covenant without cause bars one from the fragrance of Paradise."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عورت کی دیت کے احکام",
+        "english": "Rulings on Women's Compensation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زخموں میں برابری کا اصول",
+              "english": "Equality in Minor Injuries"
+            },
+            "content": {
+              "urdu": [
+                "معمولی زخموں کے معاوضے (ارُش) میں عورت اور مرد برابر سمجھے جاتے ہیں۔",
+                "جب تک زخم کی دیت مکمل دیت کے تہائی (1/3) سے کم رہے، معاوضہ یکساں ہوگا۔",
+                "یہ اصول عدلِ الہی اور خواتین کے طبی اخراجات کے تحفظ کی عکاسی کرتا ہے۔"
+              ],
+              "english": [
+                "In compensation for minor injuries (Arsh), men and women are treated equally.",
+                "As long as the compensation is less than one-third of the total Diyat, it remains the same.",
+                "This reflects divine justice and protection for women's medical needs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تہائی سے زائد پر فرق",
+              "english": "Difference After One-Third"
+            },
+            "content": {
+              "urdu": [
+                "اگر زخم اتنا گہرا ہو کہ معاوضہ تہائی سے بڑھ جائے تو وہ مرد سے نصف ہو جاتا ہے۔",
+                "یہ تقسیم سماجی و معاشی ذمہ داریوں (کفالت) کے فرق کی بنیاد پر کی گئی ہے۔",
+                "فقہاء نے اس حدیث سے زخموں کے جرمانے کے باریک مسائل اخذ کیے ہیں۔"
+              ],
+              "english": [
+                "If an injury is so severe that compensation exceeds one-third, it becomes half of a man's.",
+                "This division is based on differences in socio-economic responsibilities (maintenance).",
+                "Jurists have derived detailed rulings on injury fines from this specific Hadith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی معاشرت اور عدل",
+        "english": "Islamic Society and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ریاستی ذمہ داری",
+              "english": "State Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ریاست کو چاہیے کہ وہ دیت کے قوانین کو بغیر کسی امتیاز کے نافذ کرے۔",
+                "معاہدین کے حقوق کا تحفظ اسلامی ریاست کے وقار کی علامت ہے۔",
+                "عدلیہ کو ان مالی احکام کی روشنی میں فیصلے کرنے چاہییں۔"
+              ],
+              "english": [
+                "The state must implement Diyat laws without any unlawful discrimination.",
+                "Protecting the rights of Covenanters is a sign of the dignity of an Islamic state.",
+                "The judiciary should base its verdicts on these financial regulations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خون کی تلافی کا نظام",
+              "english": "System of Blood Compensation"
+            },
+            "content": {
+              "urdu": [
+                "دیت کا نظام معاشرے میں لامتناہی انتقامی کارروائیوں کو روکتا ہے۔",
+                "مالی معاوضہ مقتول کے خاندان کی معاشی مدد کا ایک ذریعہ بنتا ہے۔",
+                "اسلام نے ہر طبقے کے لیے جان کی تلافی کا ایک جامع فریم ورک دیا ہے۔"
+              ],
+              "english": [
+                "The system of Diyat prevents endless retaliatory actions in society.",
+                "Financial compensation serves as a means of support for the victim's family.",
+                "Islam provides a comprehensive framework for life compensation for every class."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور تربیتی پہلو",
+        "english": "Educational and Reformative Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق کی پہچان",
+              "english": "Recognition of Rights"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو غیر مسلموں کے شرعی حقوق کا علم ہونا ضروری ہے۔",
+                "عورت کے حقوق کا تحفظ اسلامی قانون کے ہر پہلو میں نمایاں ہے۔",
+                "علمِ فرائض اور علمِ جنایات کا مطالعہ معاشرتی شعور پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "It is essential for Muslims to know the Shariah rights of non-Muslims.",
+                "Protection of women's rights is prominent in every aspect of Islamic law.",
+                "Studying the laws of inheritance and crimes creates social awareness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایفائے عہد کی تربیت",
+              "english": "Training in Fulfilling Covenants"
+            },
+            "content": {
+              "urdu": [
+                "معاہد کی دیت کا ذکر ہمیں عہد کی پاسداری کا سبق دیتا ہے۔",
+                "اسلامی معاشرہ وعدوں کی خلافت ورزی کو سخت ناپسند کرتا ہے۔",
+                "عدل کا قیام ہی دنیا میں امن و سکون کی ضمانت ہے۔"
+              ],
+              "english": [
+                "Mentioning the Diyat of the Covenanter teaches us to honor agreements.",
+                "Islamic society strictly discourages the violation of promises.",
+                "The establishment of justice is the guarantee of peace in the world."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

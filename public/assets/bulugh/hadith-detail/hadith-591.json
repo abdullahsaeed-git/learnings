@@ -1,0 +1,259 @@
+{
+  "hadithId": 591,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/591"],
+    "kitabId": 6,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 37
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح بمجموع طرقه. رواه أبو داود (1739)، والنسائي (5/125). أصل الحديث في مسلم (1183) بشك الراوي، وصححه البيهقي (5/27). أما تحديد عمر لذات عرق فرواه البخاري (1531).",
+    "urdu": "مختلف طرق کی وجہ سے صحیح ہے۔ ابوداؤد (1739) اور نسائی نے اسے روایت کیا ہے۔ اصل روایت مسلم (1183) میں ہے جس میں راوی کو شک تھا۔ بخاری (1531) میں حضرت عمر کا ذکر ہے جنہوں نے اہل عراق کی سہولت کے لیے اسے مقرر کیا۔",
+    "english": "Sahih due to its multiple chains. Reported by Abu Dawud (1739) and An-Nasa'i (5/125). The core narration is in Muslim (1183) with a doubt from the narrator. Al-Bukhari (1531) records 'Umar fixing it based on the alignment of other Miqats."
+  },
+  "importantWords": [
+    {
+      "arabic": "وَقَّتَ",
+      "english": "Fixed / Designated",
+      "urdu": "مقرر کیا / وقت مقرر کیا"
+    },
+    {
+      "arabic": "ذَاتَ عِرْقٍ",
+      "english": "Dhat 'Irq (Place Name)",
+      "urdu": "ذات عرق (ایک مقام)"
+    },
+    {
+      "arabic": "الْمَشْرِقِ",
+      "english": "The East",
+      "urdu": "مشرق"
+    },
+    {
+      "arabic": "مِيْقَات",
+      "english": "Station of Ihram",
+      "urdu": "احرام باندھنے کی جگہ"
+    },
+    {
+      "arabic": "الْعَقِيْق",
+      "english": "Al-Aqiq (Place Name)",
+      "urdu": "عقیق (ایک وادی)"
+    }
+  ],
+  "summary": {
+    "urdu": "اہل عراق اور مشرق سے آنے والوں کے لیے ذات عرق اور عقیق کو میقات مقرر کیا گیا ہے، جہاں سے عمرہ یا حج کے لیے احرام باندھنا ضروری ہے۔",
+    "english": "Dhat 'Irq and Al-Aqiq were designated as the Miqats for the people of Iraq and those coming from the East to enter the state of Ihram."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1739)",
+      "english": "Reported by Abu Dawud (1739)"
+    },
+    {
+      "arabic": "رواه البخاري (1531)",
+      "english": "Reported by Al-Bukhari (1531)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYI7H7_nO6o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ذات عرق کی تعین اور شرعی حیثیت",
+        "english": "Designation of Dhat 'Irq and Legal Status"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ اور حضرت عمر کا فیصلہ",
+              "english": "Decision of the Prophet ﷺ and Umar (RA)"
+            },
+            "content": {
+              "urdu": [
+                "روایات سے معلوم ہوتا ہے کہ نبی ﷺ نے وحی کی بنیاد پر پہلے ہی ذات عرق کا اشارہ دے دیا تھا۔",
+                "حضرت عمر رضی اللہ عنہ نے اپنے دور میں جب کوفہ اور بصرہ فتح ہوئے تو اجتہاد سے اسے دوبارہ نافذ کیا۔",
+                "یہ حضرت عمر کی علمی بصیرت تھی کہ ان کا فیصلہ سنت کے عین مطابق ثابت ہوا۔"
+              ],
+              "english": [
+                "Narrations suggest the Prophet (ﷺ) had already indicated Dhat 'Irq through revelation.",
+                "Umar (RA) later implemented it through Ijtihad when Kufa and Basra were conquered.",
+                "This highlights Umar's (RA) wisdom as his decision perfectly aligned with the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہل عراق کے لیے آسانی",
+              "english": "Ease for the People of Iraq"
+            },
+            "content": {
+              "urdu": [
+                "اہل عراق کے لیے 'قرن المنازل' کا راستہ دشوار اور ٹیڑھا پڑتا تھا۔",
+                "ذات عرق کے مقرر ہونے سے ان کا راستہ سیدھا اور مسافت میں کمی واقع ہوئی۔",
+                "اسلامی شریعت میں عبادات کی ادائیگی کے لیے سہولت فراہم کرنا ایک بنیادی اصول ہے۔"
+              ],
+              "english": [
+                "For Iraqis, the route via Qarn al-Manazil was difficult and indirect.",
+                "The designation of Dhat 'Irq straightened their path and reduced travel distance.",
+                "Providing facilitation in acts of worship is a fundamental principle of Islamic Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "میقات اور اس کی اہمیت",
+        "english": "The Concept of Miqat and Its Importance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میقات سے تجاوز کا حکم",
+              "english": "Crossing Miqat Without Ihram"
+            },
+            "content": {
+              "urdu": [
+                "حج یا عمرہ کی نیت رکھنے والے کے لیے میقات سے بغیر احرام گزرنا جائز نہیں ہے۔",
+                "اگر کوئی بغیر احرام گزر جائے تو اسے واپس میقات پر آنا پڑتا ہے یا دم دینا ہوتا ہے۔",
+                "میقات دراصل اللہ کے گھر میں داخل ہونے سے پہلے کی ایک روحانی سرحد ہے۔"
+              ],
+              "english": [
+                "One intending Hajj or Umrah is not allowed to cross the Miqat without Ihram.",
+                "If someone crosses it, they must return to the Miqat or offer a sacrifice (Damm).",
+                "The Miqat is essentially a spiritual boundary before entering the Sanctuary of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وادی عقیق کا مقام",
+              "english": "Status of Wadi al-Aqiq"
+        },
+            "content": {
+              "urdu": [
+                "وادی عقیق اہل مشرق (ایران، وسطی ایشیا) کے لیے میقات کے طور پر مروی ہے۔",
+                "یہ مقام ذات عرق کے قریب ہی واقع ہے اور احرام کے لیے ایک مستند جگہ ہے۔",
+                "مختلف مقامات کا تعین مسافروں کی سہولت اور جغرافیائی ضرورت کے تحت کیا گیا۔"
+              ],
+              "english": [
+                "Wadi al-Aqiq is reported as the Miqat for the people of the East (Iran, Central Asia).",
+                "This location is near Dhat 'Irq and is an authentic station for entering Ihram.",
+                "Designating various points was based on traveler convenience and geographical needs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں اور محدثین کا کلام",
+        "english": "Juristic Nuances and Scholarly Critique"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرفوع اور موقوف روایات",
+              "english": "Marfu' vs Mauquf Narrations"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک اہل عراق کی میقات کی کچھ روایات میں انقطاع یا شک پایا گیا ہے۔",
+                "تاہم مجموعی طرق (شواہد) کی بنیاد پر یہ ثابت ہے کہ یہ حکم شرعی ہے۔",
+                "حافظ ابن حجر نے 'فتح الباری' میں ان تمام طرق کو قوی قرار دیا ہے۔"
+              ],
+              "english": [
+                "Scholars noted gaps or doubts in some narrations regarding Iraq's Miqat.",
+                "However, based on collective chains (supporting evidence), it is a proven legal ruling.",
+                "Ibn Hajar in 'Fath al-Bari' strengthened these routes through corroboration."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت اور اجتہاد کا سنگم",
+              "english": "Intersection of Sunnah and Ijtihad"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے ثابت ہوتا ہے کہ خلفائے راشدین کا اجتہاد سنت کے تابع تھا۔",
+                "حضرت عمر کا فیصلہ محض ذاتی رائے نہیں بلکہ شرعی علل کی بنیاد پر تھا۔",
+                "صحابہ کرام کا عمل سنت کی تشریح اور ترویج میں کلیدی کردار ادا کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith proves that the Ijtihad of the Rightly Guided Caliphs followed the Sunnah.",
+                "Umar's (RA) decision was not mere opinion but based on Shariah justifications.",
+                "The practice of the Companions plays a key role in explaining and spreading the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی پابندی",
+              "english": "Adherence to Discipline"
+            },
+            "content": {
+              "urdu": [
+                "میقات کے حدود کی پابندی سکھاتی ہے کہ عبادت میں نظم و ضبط کتنا ضروری ہے۔",
+                "ایک مومن کو اللہ کے مقرر کردہ حدود کا احترام ہر حال میں کرنا چاہیے۔",
+                "بغیر تیاری اور نیت کے مقدس مقامات پر داخلہ آداب کے خلاف ہے۔"
+              ],
+              "english": [
+                "Adhering to Miqat boundaries teaches the importance of discipline in worship.",
+                "A believer must respect the limits set by Allah in all circumstances.",
+                "Entering sacred places without preparation and intention is against spiritual etiquette."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمی تحقیق کا فائدہ",
+              "english": "Benefit of Scholarly Research"
+            },
+            "content": {
+              "urdu": [
+                "مختلف ائمہ کی روایات کا مطالعہ ہمیں دین کی گہرائی سمجھنے میں مدد دیتا ہے۔",
+                "علماء کی محنت سے ہی ہمیں صحیح اور ضعیف احادیث کا فرق معلوم ہوتا ہے۔",
+                "دین کے مسائل میں مستند ذرائع سے رجوع کرنا ہی سلامتی کا راستہ ہے۔"
+              ],
+              "english": [
+                "Studying reports from various Imams helps us understand the depth of religion.",
+                "It is through the efforts of scholars that we distinguish Sahih from Da'if.",
+                "Referring to authentic sources in religious matters is the path to safety."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

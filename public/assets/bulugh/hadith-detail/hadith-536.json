@@ -1,0 +1,162 @@
+{
+  "hadithId": 536,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/536"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أحمد (4/17)، وأبو داود (2355)، والترمذي (658) وقال: حسن صحيح، والنسائي في الكبرى (3325)، وابن ماجه (1699)، وصححه ابن خزيمة (2095)، وابن حبان (3515)، والحاكم (1/432).",
+    "urdu": "یہ حدیث اپنے شواہد کے ساتھ صحیح ہے۔ اسے احمد، ابوداؤد، ترمذی، نسائی اور ابن ماجہ نے روایت کیا ہے۔ ابن خزیمہ، ابن حبان اور حاکم نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih with its corroborating evidences. Reported by Ahmad (4/17), Abu Dawud (2355), At-Tirmidhi (658) who graded it Hasan Sahih, An-Nasa'i, and Ibn Majah (1699). Also authenticated by Ibn Khuzaymah (2095), Ibn Hibban (3515), and Al-Hakim (1/432)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَفْطَرَ",
+      "english": "Breaks the fast",
+      "urdu": "افطار کیا"
+    },
+    {
+      "arabic": "تَمْرٍ",
+      "english": "Dates",
+      "urdu": "کھجور"
+    },
+    {
+      "arabic": "مَاءٍ",
+      "english": "Water",
+      "urdu": "پانی"
+    },
+    {
+      "arabic": "طَهُورٌ",
+      "english": "Pure/Purifying",
+      "urdu": "پاک / پاک کرنے والا"
+    }
+  ],
+  "summary": {
+    "urdu": "روزہ افطار کرنے کا مسنون طریقہ یہ ہے کہ پہلے کھجور استعمال کی جائے، اور اگر میسر نہ ہو تو پانی سے افطار کیا جائے۔",
+    "english": "The Sunnah method of breaking the fast is to start with dates, and if they are unavailable, to use water."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2355)",
+      "english": "Sunan Abi Dawud (2355)"
+    },
+    {
+      "arabic": "سنن الترمذي (658)",
+      "english": "Sunan At-Tirmidhi (658)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سلمان بن عامر الضبي",
+        "english": "Salman bin Amir al-Dhabbi"
+      },
+      "slug": "salman-bin-amir-al-dhabbi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A8vNfB2u3qM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "افطار کے مسنونات",
+        "english": "Sunnahs of Iftar"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کھجور سے افطار کی فضیلت",
+              "english": "Virtue of Breaking Fast with Dates"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کا مستقل معمول کھجور سے افطار کرنے کا تھا، اگر تازہ کھجور (رطب) نہ ہوتی تو خشک کھجور (تمر) سے افطار فرماتے۔",
+                "کھجور میں غذائیت اور مٹھاس ہوتی ہے جو دن بھر کی کمزوری کو فوری طور پر دور کرنے میں مدد دیتی ہے۔",
+                "یہ سنت پر عمل کرنے کا ثواب بھی ہے اور صحت کے لیے مفید بھی۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) habitually broke his fast with dates; if fresh ones were unavailable, he used dried dates.",
+                "Dates provide nutrition and natural sugars that help quickly alleviate the day's weakness.",
+                "It combines the spiritual reward of following Sunnah with physical health benefits."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی کی اہمیت",
+              "english": "Importance of Water"
+            },
+            "content": {
+              "urdu": [
+                "اگر کھجور میسر نہ ہو تو پانی دوسرا بہترین انتخاب ہے کیونکہ یہ فطری طور پر پاک اور جسم کی صفائی کرنے والا ہے۔",
+                "پانی معدے کو کھانے کے لیے تیار کرتا ہے اور دن بھر کی پیاس کی شدت کو ختم کرتا ہے۔",
+                "حدیث میں پانی کو 'طہور' (پاکیزہ) کہا گیا ہے جو اس کی روحانی اور مادی برکت کی طرف اشارہ ہے۔"
+              ],
+              "english": [
+                "If dates are unavailable, water is the best alternative as it is naturally pure and cleansing.",
+                "Water prepares the stomach for food and quenches the day's intense thirst.",
+                "The Hadith describes water as 'Tahuur' (pure), indicating both its physical and spiritual blessings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی و شرعی فوائد",
+        "english": "Medical and Religious Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فطری غذا کی ترغیب",
+              "english": "Encouraging Natural Food"
+            },
+            "content": {
+              "urdu": [
+                "اسلام سادہ اور فطری غذاؤں سے افطار کو پسند کرتا ہے، بجائے اس کے کہ مرغن اور بھاری چیزوں سے آغاز کیا جائے۔",
+                "کھجور اور پانی سے افطار کرنا انسانی بصارت اور اعصاب کے لیے نہایت مفید ثابت ہوا ہے۔",
+                "سنت کی پیروی انسان کو نظم و ضبط اور اعتدال سکھاتی ہے۔"
+              ],
+              "english": [
+                "Islam prefers breaking the fast with simple, natural foods rather than heavy or oily items.",
+                "Starting with dates and water has been proven beneficial for human eyesight and the nervous system.",
+                "Following the Sunnah teaches discipline and moderation in consumption."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "افطار میں دعا کی قبولیت",
+              "english": "Acceptance of Prayer at Iftar"
+            },
+            "content": {
+              "urdu": [
+                "افطار کا وقت اللہ کے ہاں بہت اہمیت رکھتا ہے اور اس وقت کی گئی دعا رد نہیں ہوتی۔",
+                "سنت طریقے پر افطار کرنا دعا کی قبولیت کے امکانات کو بڑھا دیتا ہے۔",
+                "مومن کو چاہیے کہ افطار کے وقت مسنون دعائیں پڑھے اور اللہ کا شکر ادا کرے۔"
+              ],
+              "english": [
+                "The time of Iftar is highly significant; supplications made then are not rejected.",
+                "Breaking the fast according to the Sunnah increases the likelihood of prayers being answered.",
+                "A believer should recite the prescribed supplications and thank Allah at the time of Iftar."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

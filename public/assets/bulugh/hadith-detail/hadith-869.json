@@ -1,0 +1,259 @@
+{
+  "hadithId": 869,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/68"],
+    "kitabId": 8,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب النكاح",
+    "babId": 66
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3331، 5185، 5186، 6018) ومسلم (1468).",
+    "urdu": "صحیح۔ اسے امام بخاری اور امام مسلم دونوں نے اپنی صحیحین میں روایت کیا ہے۔ یہ حدیث معاشرتی آداب اور حقوقِ زوجیت کے حوالے سے کلیدی اہمیت رکھتی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3331) and Muslim (1468). It is an 'Agreed Upon' (Muttafaqun Alayh) narration."
+  },
+  "importantWords": [
+    {
+      "arabic": "اسْتَوْصُوا",
+      "english": "Accept advice / Enjoin",
+      "urdu": "وصیت قبول کرو / تاکید کرو"
+    },
+    {
+      "arabic": "ضِلَعٍ",
+      "english": "Rib",
+      "urdu": "پسلی"
+    },
+    {
+      "arabic": "أَعْوَجَ",
+      "english": "Most crooked",
+      "urdu": "زیادہ ٹیڑھا"
+    },
+    {
+      "arabic": "تُقِيمَهُ",
+      "english": "Straighten it",
+      "urdu": "اسے سیدھا کرے"
+    },
+    {
+      "arabic": "عِوَجٌ",
+      "english": "Crookedness / Curve",
+      "urdu": "ٹیڑھا پن / کجی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث پڑوسیوں کے حقوق اور عورتوں کے ساتھ حسنِ سلوک کی تاکید کرتی ہے، اور مردوں کو سمجھاتی ہے کہ وہ عورت کی فطری نزاکت اور کجی کو برداشت کریں۔",
+    "english": "This Hadith emphasizes neighbors' rights and commands kind treatment of women, advising men to be patient with women's inherent nature and emotional sensitivity."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5186)",
+      "english": "Sahih al-Bukhari (5186)"
+    },
+    {
+      "arabic": "صحيح مسلم (1468)",
+      "english": "Sahih Muslim (1468)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI7lT3w0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عورت کی فطرت کی وضاحت",
+        "english": "Nature of Women's Creation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پسلی سے تخلیق کا استعارہ",
+              "english": "Metaphor of the Rib"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے عورت کی نزاکت اور جذباتی طبیعت کو پسلی کی کجی سے تشبیہ دی ہے۔",
+                "پسلی کا ٹیڑھا پن اس کے کام (دل کی حفاظت) کے لیے ضروری ہے، اسی طرح عورت کی طبیعت خاندان کے لیے اہم ہے۔",
+                "یہ ٹیڑھا پن کوئی عیب نہیں بلکہ ایک فطری صفت ہے جو اس کی ممتا اور شفقت کے لیے لازم ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) compared a woman's sensitivity to the inherent curve of a rib.",
+                "Just as a rib's curve is essential for protecting the heart, a woman's nature is vital for family bonding.",
+                "This 'crookedness' is not a flaw but a natural trait necessary for her role as a mother and caregiver."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیدھا کرنے سے ممانعت",
+              "english": "Prohibition of Forceful Straightening"
+            },
+            "content": {
+              "urdu": [
+                "عورت کو مرد کے سانچے میں ڈھالنے کی کوشش کرنا اسے جذباتی طور پر توڑنے کے مترادف ہے۔",
+                "شدت پسندی اور سختی سے کام لینے سے ازدواجی تعلقات خراب ہو جاتے ہیں اور بات طلاق تک پہنچتی ہے۔",
+                "اسلام مرد کو صبر اور درگزر کی تعلیم دیتا ہے تاکہ گھر کا سکون برقرار رہے۔"
+              ],
+              "english": [
+                "Attempting to mold a woman completely into a man's mindset is equivalent to breaking her emotionally.",
+                "Using excessive force or harshness destroys marital relations and leads to divorce.",
+                "Islam teaches men patience and forbearance to maintain the peace and stability of the home."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حسنِ معاشرت کی وصیت",
+        "english": "Instruction for Kind Treatment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خیر کی وصیت",
+              "english": "Command for Goodness"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے بار بار 'عورتوں کے بارے میں بھلائی کی وصیت' فرما کر ان کی اہمیت اجاگر کی۔",
+                "مرد پر لازم ہے کہ وہ بیوی کی کمزوریوں کو نظر انداز کرے اور اس کی خوبیوں پر نظر رکھے۔",
+                "عورتوں کے ساتھ اچھے سلوک کو آپ ﷺ نے ایک وصیت کے طور پر امت کو سونپا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) repeatedly emphasized treating women well, highlighting their social significance.",
+                "A husband is required to overlook his wife's weaknesses and appreciate her virtues.",
+                "Kindness towards women has been entrusted to the Ummah as a final Prophetic legacy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طلاق سے بچنے کی تدبیر",
+              "english": "Prevention of Divorce"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی روایت میں 'توڑنے' کی تفسیر 'طلاق' سے کی گئی ہے، جو ایک ناپسندیدہ امر ہے۔",
+                "معمولی باتوں پر جھگڑا کرنا اور کجی کو دور کرنے میں غلو کرنا جدائی کا سبب بنتا ہے۔",
+                "دانشمندی یہ ہے کہ ٹیڑھے پن کے باوجود تعلق کو خوش اسلوبی سے نبھایا جائے۔"
+              ],
+              "english": [
+                "In Muslim's narration, 'breaking' is defined as divorce, which is a disliked outcome.",
+                "Arguing over trifles and being over-critical about natural traits leads to separation.",
+                "Wisdom lies in managing the relationship gracefully despite differences in nature."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پڑوسی کے حقوق اور ایمان",
+        "english": "Rights of Neighbors and Faith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایمان اور ایذائے ہمسایہ",
+              "english": "Faith and Harming Neighbors"
+            },
+            "content": {
+              "urdu": [
+                "پڑوسی کو تکلیف نہ دینا اللہ اور آخرت پر ایمان کی بنیادی علامتوں میں سے ہے۔",
+                "اسلامی معاشرے میں پڑوسی کی عزت، جان اور مال کی حفاظت کو مقدس قرار دیا گیا ہے۔",
+                "جو شخص اپنے پڑوسی کے لیے تکلیف دہ ہے، اس کا دعویٰ ایمان نامکمل ہے۔"
+              ],
+              "english": [
+                "Refraining from harming a neighbor is a core sign of belief in Allah and the Day of Judgment.",
+                "In an Islamic society, protecting a neighbor's honor and property is considered sacred.",
+                "One who is a source of distress for their neighbor has an incomplete claim to faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی امن",
+              "english": "Social Peace"
+            },
+            "content": {
+              "urdu": [
+                "پڑوسیوں اور گھر والوں کے ساتھ اچھا سلوک ہی ایک پرامن معاشرے کی اکائی ہے۔",
+                "اگر ہر فرد اپنے قریب ترین لوگوں کو امن دے گا تو پورا معاشرہ پرسکون ہو جائے گا۔",
+                "یہ حدیث انفرادی اخلاق کو اجتماعی فلاح و بہبود کے ساتھ جوڑتی ہے۔"
+              ],
+              "english": [
+                "Good conduct with neighbors and family members is the building block of a peaceful society.",
+                "If every individual ensures the safety of those closest to them, the whole community prospers.",
+                "This Hadith connects individual morality with collective social welfare."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برداشت اور تحمل",
+              "english": "Tolerance and Patience"
+            },
+            "content": {
+              "urdu": [
+                "میاں بیوی کے رشتے میں کمال کی تلاش کے بجائے گزارا کرنے کا ہنر سیکھنا چاہیے۔",
+                "عورت کی نفسیات کو سمجھنا مرد کے لیے خوشگوار گھرانے کی چابی ہے۔",
+                "آپ ﷺ نے مردوں کو مخاطب کر کے انہیں اپنی ذمہ داری اور شفقت کی یاد دہانی کرائی ہے۔"
+              ],
+              "english": [
+                "In the marital bond, one should learn the art of compromise rather than seeking perfection.",
+                "Understanding female psychology is the key for a husband to maintain a happy home.",
+                "The Prophet (ﷺ) addressed men to remind them of their responsibility and the need for compassion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبوی طرزِ زندگی",
+              "english": "Prophetic Lifestyle"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ اپنی ازواج کے ساتھ انتہائی نرمی اور خوش طبعی سے پیش آتے تھے۔",
+                "آپ ﷺ نے کبھی کسی عورت پر ہاتھ نہیں اٹھایا اور ہمیشہ ان کے حقوق کا تحفظ کیا۔",
+                "ہمیں بھی اپنے گھروں میں اسی سنتِ مطہرہ کو زندہ کرنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) treated his wives with extreme gentleness and a pleasant disposition.",
+                "He never raised a hand against a woman and always protected their legal rights.",
+                "We must revive this blessed Sunnah within our own households today."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

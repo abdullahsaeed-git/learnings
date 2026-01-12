@@ -1,0 +1,223 @@
+{
+  "hadithId": 146,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["1:3:3"],
+    "kitabId": 2,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأذان والإقامة",
+    "babId": 12
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (605)‏، ومسلم (378)‏.‏ والاستثناء المذكور (إلا الإقامة، يعني قد قامت الصلاة) ورد في رواية البخاري، وهو دليل على تکرارها مرتين.‏ صحيح.‏ رواه النسائي (2/3)‏ .‏ ",
+    "urdu": "صحیح۔ اسے بخاری (605) اور مسلم (378) نے روایت کیا ہے۔ مذکورہ استثناء (بجز اقامت کے، یعنی قد قامت الصلاة) بخاری کی روایت میں آیا ہے، اور یہ اس بات کی دلیل ہے کہ اسے دو بار دہرایا جاتا ہے۔ صحیح۔ اسے نسائی (2/3) نے روایت کیا ہے۔",
+    "english": "Authentic (Ṣaḥīḥ). Reported by Al-Bukhārī (605) and Muslim (378). The mentioned exception ('except for the Iqāmah, meaning Qad qāmat aṣ-ṣalāh') is found in Al-Bukhārī's narration, and it is evidence that it is repeated twice. Authentic (Ṣaḥīḥ). Reported by An-Nasā'ī (2/3).",
+    "english_alternative": ""
+  },
+  "importantWords": [
+    {
+      "arabic": "يَشْفَعَ اَلْآذَانَ",
+      "english": "Say the Adhān phrases twice (even numbers)",
+      "urdu": "اذان کے کلمات دو، دو مرتبہ کہیں"
+    },
+    {
+      "arabic": "يُوتِرَ اَلْإِقَامَةَ",
+      "english": "Say the Iqāmah phrases once (odd numbers)",
+      "urdu": "اقامت کے کلمات ایک، ایک مرتبہ کہیں"
+    },
+    {
+      "arabic": "قَدْ قَامَتِ اَلصَّلَاةُ",
+      "english": "Prayer is about to begin",
+      "urdu": "نماز کھڑی ہونے والی ہے"
+    },
+    {
+      "arabic": "اَلِاسْتِثْنَاءَ",
+      "english": "The exception",
+      "urdu": "استثناء"
+    },
+    {
+      "arabic": "أَمَرَ بِلَالٌ",
+      "english": "Bilāl was commanded",
+      "urdu": "بلال کو حکم دیا گیا"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْهِ",
+      "english": "Agreed upon (Bukhari and Muslim)",
+      "urdu": "بخاری و مسلم متفق"
+    }
+  ],
+  "summary": {
+    "urdu": "سیدنا انس رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم کی طرف سے سیدنا بلال رضی اللہ عنہ کو اذان (شروع کی تکبیر اور آخری کلمے کے علاوہ) کے کلمات کو دو دو بار کہنے اور اقامت کے کلمات کو ایک ایک بار کہنے کا حکم بیان کیا۔ اس میں صرف «قد قامت الصلاة» کا استثناء ہے جسے اقامت میں دو بار کہا جاتا ہے۔ یہ اذان اور اقامت کے فرادیٰ (وتری) طریقے کی دلیل ہے۔",
+    "english": "Anas ibn Mālik (RA) narrated the Prophet's (ﷺ) command to Bilāl (RA) to call the Adhān phrases twice (Shifa') and the Iqāmah phrases once (Watr), with the exception of 'Qad qāmat aṣ-ṣalāh' which is said twice. This Hadith serves as the primary evidence for the Furādā (singular/odd numbered) method of Iqāmah."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (605)",
+      "english": "Reported by Al-Bukhārī (605)"
+    },
+    {
+      "arabic": "رواه مسلم (378)",
+      "english": "Reported by Muslim (378)"
+    },
+    {
+      "arabic": "رواه النسائي (2/3)",
+      "english": "Reported by An-Nasā'ī (2/3)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas ibn Mālik"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kR9U_vH0xYk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اذان اور اقامت کا طریقہ",
+        "english": "The Method of Adhān and Iqāmah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اذان کو شفع (جفت) کرنا",
+              "english": "Making the Adhān Shifa' (Even)"
+            },
+            "content": {
+              "urdu": [
+                "«يَشْفَعَ اَلْآذَانَ» سے مراد ہے اذان کے ہر کلمے کو دو دو مرتبہ کہنا (ماسوائے بعض ابتدائی تکبیرات کے)۔",
+                "یہ طریقہ اذان کے کلمات کو زیادہ واضح اور مؤثر بناتا ہے تاکہ دور تک آواز پہنچ سکے۔",
+                "یہ وہی اذان بلالی ہے جس کے کلمات بغیر ترجیع کے دو دو بار کہے جاتے ہیں۔"
+              ],
+              "english": [
+                "'Yashfa' al-Adhān' means saying each phrase of the Adhān twice (in even numbers, except for some initial Takbīrāt).",
+                "This method makes the phrases of the Adhān clearer and more effective, ensuring the voice carries far.",
+                "This is the Bilālī Adhān where the phrases are said twice without Tarjī'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اقامت کو وتر (طاق) کرنا",
+              "english": "Making the Iqāmah Watr (Odd)"
+            },
+            "content": {
+              "urdu": [
+                "«وَيُوتِرَ اَلْإِقَامَةَ» سے مراد ہے اقامت کے ہر کلمے کو صرف ایک ایک مرتبہ (وتری یا فرادیٰ) کہنا۔",
+                "یہ اقامت کا طریقہ جماعت کے وقت کی قربت کو ظاہر کرتا ہے، اس لیے اسے مختصر رکھا گیا ہے۔",
+                "اس طریقے پر امام مالک، امام شافعی اور امام احمد کا ایک قول ہے، جبکہ امام ابوحنیفہ تثنیہ کے قائل ہیں۔"
+              ],
+              "english": [
+                "'Yūtir al-Iqāmah' means saying each phrase of the Iqāmah only once (Watrī or Furādā).",
+                "This method of Iqāmah indicates the imminent start of the congregation, hence it is kept brief.",
+                "Imām Mālik, Imām Shāfi'ī, and one opinion of Imām Aḥmad support this method, while Imām Abū Ḥanīfah prefers saying it twice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قد قامت الصلاة کا استثناء",
+        "english": "The Exception of Qad qāmat aṣ-ṣalāh"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دو بار کہنے کی دلیل",
+              "english": "Evidence for Saying it Twice"
+            },
+            "content": {
+              "urdu": [
+                "بخاری کی روایت میں واضح طور پر «إِلَّا اَلْإِقَامَةَ، يَعْنِي قَوْلَهُ: قَدْ قَامَتِ اَلصَّلَاةُ» کا استثناء موجود ہے۔",
+                "اس استثناء کی وجہ سے «قد قامت الصلاة» کو اقامت میں دو مرتبہ کہا جاتا ہے، جس پر فقہاء کا اتفاق ہے۔",
+                "یہ اس بات کی اہمیت کو ظاہر کرتا ہے کہ نماز اب واقعی شروع ہونے والی ہے۔"
+              ],
+              "english": [
+                "The exception 'except for the Iqāmah, meaning Qad qāmat aṣ-ṣalāh' is explicitly present in Al-Bukhārī's narration.",
+                "Due to this exception, 'Qad qāmat aṣ-ṣalāh' is said twice in the Iqāmah, which is agreed upon by jurists.",
+                "This emphasizes the imminent start of the actual prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسلم میں استثناء کا ترک",
+              "english": "Omission of the Exception in Muslim"
+            },
+            "content": {
+              "urdu": [
+                "صحیح مسلم میں استثناء کا ذکر نہیں، لیکن بخاری میں ذکر ہونے کی وجہ سے اسے قبول کیا جاتا ہے۔",
+                "جب کوئی ثقہ راوی کسی حدیث میں اضافی تفصیل بیان کرے تو اسے محفوظ (Mahfūz) مانا جاتا ہے۔",
+                "یہ واقعہ سنتِ نبوی ﷺ کے ذریعے اذان و اقامت کے طریقے کو حتمی شکل دیتا ہے۔"
+              ],
+              "english": [
+                "The exception is omitted in Ṣaḥīḥ Muslim, but it is accepted because it is mentioned in Al-Bukhārī.",
+                "When a trustworthy narrator mentions an additional detail in a Hadith, it is considered preserved (Mahfūẓ).",
+                "This incident finalized the form of Adhān and Iqāmah according to the Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رسول اللہ ﷺ کا حکم",
+        "english": "The Command of the Messenger (ﷺ)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بلالؓ کی تعلیم",
+              "english": "Instruction to Bilāl (RA)"
+            },
+            "content": {
+              "urdu": [
+                "نسائی کی روایت میں واضح ہے کہ نبی اکرم ﷺ نے بلالؓ کو ان کلمات کے ساتھ اذان و اقامت کا حکم دیا۔",
+                "بلالؓ اسلام کے پہلے مؤذن تھے، اس لیے ان کا طریقہ عمل کو مستند بناتا ہے۔",
+                "نبی ﷺ کا یہ حکم شرعی ذمہ داری اور طریقہ کار کی قطعی دلیل ہے۔"
+              ],
+              "english": [
+                "An-Nasā'ī's narration clearly states that the Prophet (ﷺ) commanded Bilāl (RA) with these wordings for Adhān and Iqāmah.",
+                "Bilāl (RA) was the first Mu'adhdhin of Islam, thus his method establishes an authoritative practice.",
+                "This command from the Prophet (ﷺ) is decisive proof of the legal obligation and method."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اطاعت اور عمل",
+              "english": "Obedience and Practice"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو چاہیے کہ وہ اذان اور اقامت کے صحیح طریقے کی پابندی کرے اور ان پر عمل کرے۔",
+                "یہ حکم ہمیں سکھاتا ہے کہ عبادات میں اپنی مرضی کے بجائے صرف نبی ﷺ کی تعلیمات کی پیروی کی جائے۔",
+                "اذان و اقامت کا صحیح طریقہ نبی ﷺ کی واضح سنت کا حصہ ہے۔"
+              ],
+              "english": [
+                "A Muslim should adhere to and practice the correct method of Adhān and Iqāmah.",
+                "This command teaches us to follow only the Prophet's (ﷺ) instructions in worship, not our own preferences.",
+                "The correct method of Adhān and Iqāmah is a clear part of the Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

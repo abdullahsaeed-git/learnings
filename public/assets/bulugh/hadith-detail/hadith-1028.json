@@ -1,0 +1,264 @@
+{
+  "hadithId": 1028,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1178"],
+    "kitabId": 9,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام",
+    "babId": 83
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (6892)‏، ومسلم (1673).",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری و مسلم دونوں میں موجود ہے۔ امام مسلم نے اس میں ہاتھ کھینچنے کی وضاحت بھی کی ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6892) and Muslim (1673)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَاتَلَ",
+      "english": "Fought / Quarrelled",
+      "urdu": "لڑائی کی"
+    },
+    {
+      "arabic": "عَضَّ",
+      "english": "Bit / Biting",
+      "urdu": "کاٹا"
+    },
+    {
+      "arabic": "فَنَزَعَ",
+      "english": "Pulled away / Extracted",
+      "urdu": "پس کھینچ لیا"
+    },
+    {
+      "arabic": "ثَنِيَّتَهُ",
+      "english": "Front tooth / Incisor",
+      "urdu": "سامنے کا دانت"
+    },
+    {
+      "arabic": "اَلْفَحْلُ",
+      "english": "Male camel / Stallion",
+      "urdu": "نر اونٹ"
+    },
+    {
+      "arabic": "لَا دِيَةَ",
+      "english": "No blood-money / Compensation",
+      "urdu": "کوئی دیت نہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص کسی کو کاٹے اور مقتول اپنا ہاتھ چھڑاتے ہوئے کاٹنے والے کا دانت توڑ دے، تو اس پر کوئی جرمانہ یا دیت نہیں کیونکہ یہ دفاعِ نفس میں ہوا۔",
+    "english": "If someone bites another person and the victim breaks the biter's tooth while pulling their hand away, no compensation is required as it was done in self-defense."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6892)",
+      "english": "Sahih al-Bukhari (6892)"
+    },
+    {
+      "arabic": "صحيح مسلم (1673)",
+      "english": "Sahih Muslim (1673)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمران بن حصين",
+        "english": "Imran bin Husain"
+      },
+      "slug": "imran-bin-husain"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دفاعِ نفس کا حق",
+        "english": "Right of Self-Defense"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نقصان کا ذمہ دار کون؟",
+              "english": "Who is Responsible for Harm?"
+            },
+            "content": {
+              "urdu": [
+                "جس شخص نے پہلے حملہ کیا یا کاٹا، وہ ظالم شمار ہوتا ہے۔",
+                "مظلوم کو اپنا ہاتھ چھڑانے کا پورا حق حاصل ہے تاکہ مزید تکلیف سے بچ سکے۔",
+                "اگر چھڑانے کے عمل میں حملہ آور کا دانت ٹوٹ جائے تو مظلوم پر کوئی تاوان نہیں۔"
+              ],
+              "english": [
+                "The person who initiated the bite or attack is considered the oppressor.",
+                "The victim has a full right to pull their hand away to prevent further pain.",
+                "If the attacker's tooth breaks during this struggle, the victim is not liable for damages."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دفاع میں جان بوجھ کر نقصان",
+              "english": "Intentional Harm in Defense"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے مطابق دفاع کے دوران صرف اتنی طاقت استعمال کرنی چاہیے جو ضروری ہو۔",
+                "یہاں دانت کا ٹوٹنا ہاتھ کھینچنے کا قدرتی نتیجہ تھا، اس لیے دیت ساقط ہوئی۔",
+                "اسلامی قانون کسی شخص کو اپنی حفاظت کرنے پر سزا نہیں دیتا۔"
+              ],
+              "english": [
+                "Jurists state that only the necessary amount of force should be used in defense.",
+                "Here, the broken tooth was a natural result of pulling back, so liability was waived.",
+                "Islamic law does not punish a person for exercising legitimate self-defense."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جانوروں جیسی خصلت کی مذمت",
+        "english": "Condemnation of Animalistic Traits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نر اونٹ کی مثال",
+              "english": "The Camel Analogy"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے کاٹنے والے کو نر اونٹ سے تشبیہ دے کر اس فعل کی برائی ظاہر کی۔",
+                "دانتوں سے کاٹنا انسانوں کا نہیں بلکہ درندوں اور جانوروں کا شیوہ ہے۔",
+                "یہ کلام ناراضگی اور تنبیہ کے طور پر تھا تاکہ مسلمانوں کے اخلاق بلند ہوں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) compared the biter to a male camel to highlight the vileness of the act.",
+                "Biting with teeth is a characteristic of beasts and animals, not humans.",
+                "This statement served as a reprimand to elevate the character of Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسلمانوں کی باہمی اخوت",
+              "english": "Brotherhood Among Muslims"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے 'تم میں سے کوئی اپنے بھائی کو' کہہ کر رشتے کی نزاکت یاد دلائی۔",
+                "بھائیوں کے درمیان لڑائی جھگڑا اور جسمانی اذیت پہنچانا ایمان کے کمال کے خلاف ہے۔",
+                "اسلامی معاشرے میں غصے پر قابو پانے اور وقار برقرار رکھنے کی تاکید ہے۔"
+              ],
+              "english": [
+                "By saying 'one of you [to] his brother', the Prophet (ﷺ) reminded them of their bond.",
+                "Fighting and causing physical pain between brothers contradicts the perfection of faith.",
+                "Islamic society emphasizes controlling anger and maintaining personal dignity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و عدالتی اصول",
+        "english": "Juristic and Judicial Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیت کی نفی کی وجہ",
+              "english": "Reason for Denying Diyat"
+            },
+            "content": {
+              "urdu": [
+                "اگر دانت بلاوجہ توڑا جاتا تو اس کی دیت 5 اونٹ واجب ہوتی۔",
+                "مگر چونکہ یہ زیادتی کا جواب تھا، اس لیے قانونی طور پر اسے 'ہدر' (رائگاں) مانا گیا۔",
+                "یہ اصول 'الصائل' (حملہ آور) کے خلاف کارروائی کی بنیاد فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "If a tooth were broken without cause, its Diyat would be 5 camels.",
+                "Since it was a reaction to aggression, it was legally deemed 'Hadar' (uncompensated).",
+                "This principle provides the basis for legal action against an 'As-Sa'il' (aggressor)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدالتی بصیرت",
+              "english": "Judicial Insight"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے کیس کے محرکات دیکھ کر فیصلہ صادر فرمایا۔",
+                "قاضی کو چاہیے کہ وہ صرف نتیجہ نہ دیکھے بلکہ واقعے کے پس منظر کو بھی سمجھے۔",
+                "انصاف کا تقاضا ہے کہ مظلوم کو اس کے دفاعی عمل پر مجبور نہ کیا جائے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) issued the verdict after considering the motives of the case.",
+                "A judge should not just look at the outcome but understand the context of the incident.",
+                "Justice demands that a victim should not be held liable for their defensive actions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غصے کے نقصانات",
+              "english": "Consequences of Anger"
+            },
+            "content": {
+              "urdu": [
+                "لڑائی جھگڑا ہمیشہ ندامت اور جسمانی و مالی نقصان پر ختم ہوتا ہے۔",
+                "غصے کی حالت میں انسان ایسی حرکتیں کر جاتا ہے جو اس کے وقار کے خلاف ہیں۔",
+                "صحابہ کرام کے ان واقعات میں ہمارے لیے عمل کی اصلاح کا سامان موجود ہے۔"
+              ],
+              "english": [
+                "Fighting and quarreling always end in regret and physical or financial loss.",
+                "In a state of anger, humans often perform acts that are beneath their dignity.",
+                "These incidents involving the Sahaba contain material for our own moral correction."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا طرزِ تربیت",
+              "english": "Prophetic Teaching Method"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے صرف قانونی فیصلہ نہیں دیا بلکہ اخلاقی درس بھی دیا۔",
+                "سوالیہ انداز میں نصیحت کرنا سامع کے دل پر گہرا اثر ڈالتا ہے۔",
+                "حکمرانوں اور ججوں کو نصیحت اور قانون کا امتزاج رکھنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not just give a legal verdict; he provided a moral lesson.",
+                "Giving advice in an interrogative manner leaves a deep impression on the listener.",
+                "Rulers and judges should combine legal rulings with sincere admonition."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 402,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/2/402"],
+    "kitabId": 2,
+    "inKitabBab": 15,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 25
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1065)، ومسلم (901).",
+    "urdu": "صحیح روایت۔ اسے امام بخاری (1065) اور امام مسلم (901) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1065) and Muslim (901)."
+  },
+  "importantWords": [
+    {
+      "arabic": "جَهَرَ",
+      "english": "Recited aloud",
+      "urdu": "بلند آواز سے قرآت کی"
+    },
+    {
+      "arabic": "الْكُسُوفِ",
+      "english": "Solar Eclipse",
+      "urdu": "سورج گرہن"
+    },
+    {
+      "arabic": "رَكَعَاتٍ",
+      "english": "Bowings (Ruku')",
+      "urdu": "رکوع"
+    },
+    {
+      "arabic": "مُنَادِيًا",
+      "english": "A caller",
+      "urdu": "پکارنے والا"
+    },
+    {
+      "arabic": "الصلاة جامعة",
+      "english": "Prayer in congregation",
+      "urdu": "نماز جمع ہونے والی ہے"
+    },
+    {
+      "arabic": "سَجَدَاتٍ",
+      "english": "Prostrations",
+      "urdu": "سجدے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نمازِ کسوف (سورج گرہن) کا طریقہ بیان ہوا ہے کہ اس میں بلند آواز سے قرآت کی جائے گی اور ہر رکعت میں دو رکوع ہوں گے۔",
+    "english": "This Hadith describes the method of the eclipse prayer, emphasizing audible recitation and performing two bowings in each unit (Rak'ah)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1065)",
+      "english": "Sahih al-Bukhari (1065)"
+    },
+    {
+      "arabic": "صحيح مسلم (901)",
+      "english": "Sahih Muslim (901)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Xz2uL1Y9S5o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نمازِ کسوف کی کیفیت",
+        "english": "Method of Eclipse Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رکوع کی تعداد",
+              "english": "Number of Bowings"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ کسوف کی ہر رکعت میں دو رکوع اور دو سجدے ہوتے ہیں۔",
+                "اس طرح دو رکعتوں میں کل چار رکوع اور چار سجدے مکمل ہوتے ہیں۔",
+                "یہ طریقہ عام نمازوں سے مختلف ہے اور سنتِ نبوی سے ثابت ہے۔"
+              ],
+              "english": [
+                "The eclipse prayer consists of two bowings (Ruku') in each unit.",
+                "This results in a total of four bowings and four prostrations.",
+                "This unique method is established through the Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بلند آواز سے قرآت",
+              "english": "Audible Recitation"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے اس نماز میں بلند آواز (جہر) کے ساتھ قرآت فرمائی۔",
+                "اس سے ثابت ہوتا ہے کہ کسوف کی نماز جہری نمازوں میں شمار ہوتی ہے۔",
+                "طویل قرآت کرنا اس نماز کی خاص خصوصیت اور سنت ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) recited the Quran aloud during this prayer.",
+                "This proves that the eclipse prayer is classified as audible.",
+                "Performing long recitations is a Sunnah and a key feature of it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پکار اور اعلان",
+        "english": "The Call and Announcement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "الصلاة جامعة کا لفظ",
+              "english": "Using 'As-Salatu Jamiah'"
+            },
+            "content": {
+              "urdu": [
+                "گرہن کی نماز کے لیے اذان اور اقامت مشروع نہیں ہے۔",
+                "لوگوں کو جمع کرنے کے لیے 'الصلاة جامعة' کے الفاظ پکارے جاتے ہیں۔",
+                "یہ اعلان اس بات کی علامت ہے کہ نماز باجماعت ادا کی جائے گی۔"
+              ],
+              "english": [
+                "Adhan and Iqamah are not prescribed for the eclipse prayer.",
+                "The phrase 'As-Salatu Jamiah' is used to gather the people.",
+                "This call indicates that the prayer will be held in congregation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعیت کی دعوت",
+              "english": "Call for Unity"
+            },
+            "content": {
+              "urdu": [
+                "آفت کے وقت مسلمانوں کو مسجد میں جمع ہو کر اللہ سے رجوع کرنا چاہیے۔",
+                "منادی بھیجنا اس بات کی دلیل ہے کہ اس میں باجماعت شرکت افضل ہے۔",
+                "اسلامی معاشرے میں اہم مواقع پر باہمی اتحاد کا اظہار ضروری ہے۔"
+              ],
+              "english": [
+                "Muslims should gather in the mosque to turn to Allah during calamities.",
+                "Sending a caller proves that congregational participation is preferred.",
+                "Displaying unity during significant events is vital in an Islamic society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و شرعی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گرہن اللہ کی نشانی",
+              "english": "Eclipse as a Sign of Allah"
+            },
+            "content": {
+              "urdu": [
+                "سورج اور چاند کا گرہن اللہ تعالی کی قدرت کی عظیم نشانیاں ہیں۔",
+                "یہ کسی کی موت یا زندگی کی وجہ سے نہیں ہوتا بلکہ ڈرانے کے لیے ہوتا ہے۔",
+                "ایسے وقت میں نماز، صدقہ اور استغفار کی تاکید کی گئی ہے۔"
+              ],
+              "english": [
+                "Solar and lunar eclipses are great signs of Allah's power.",
+                "They do not occur for someone's birth or death, but to instill fear of Allah.",
+                "Prayer, charity, and seeking forgiveness are urged during these times."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طوالتِ نماز",
+              "english": "Length of the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "گرہن کی نماز اتنی طویل ہونی چاہیے کہ گرہن ختم ہو جائے۔",
+                "نبی ﷺ نے اس میں بہت طویل قیام اور رکوع فرمائے تھے۔",
+                "یہ عمل بندے کے اللہ کے سامنے عاجزی اور خشوع کا مظہر ہے۔"
+              ],
+              "english": [
+                "The prayer should last until the eclipse has completely ended.",
+                "The Prophet (PBUH) performed very long standing and bowing in it.",
+                "This act manifests the servant's humility and devotion to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اسباق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "گرہن کے وقت سائنسی وجوہات کے ساتھ ساتھ شرعی پہلو کو بھی یاد رکھیں۔",
+                "نبی کریم ﷺ کے بتائے ہوئے طریقے کے مطابق مسجد کا رخ کریں۔",
+                "خرافات اور توہم پرستی سے بچنا ہر مسلمان کے ایمان کا تقاضا ہے۔"
+              ],
+              "english": [
+                "Keep the Sharia perspective in mind along with scientific reasons.",
+                "Head to the mosque following the method taught by the Prophet (PBUH).",
+                "Avoiding myths and superstitions is a requirement of a Muslim's faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ سے تعلق",
+              "english": "Connection with Allah"
+            },
+            "content": {
+              "urdu": [
+                "قدرتی تغیرات انسان کو اللہ کی عظمت کی یاد دلاتے ہیں۔",
+                "دعا اور ذکر کے ذریعے اپنے تعلق کو اللہ سے مضبوط کریں۔",
+                "ہر مشکل اور حیرت انگیز لمحے میں اللہ ہی کی طرف رجوع کرنا چاہیے۔"
+              ],
+              "english": [
+                "Natural changes remind humans of the greatness of Allah.",
+                "Strengthen your bond with Allah through supplication and remembrance.",
+                "One should turn only to Allah in every difficult or amazing moment."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

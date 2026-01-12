@@ -1,0 +1,275 @@
+{
+  "hadithId": 409,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-409"],
+    "kitabId": 2,
+    "inKitabBab": 16,
+    "arabicBook": "بلوغ المرام",
+    "babId": 26
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (1010)‏، وهو دليل على التوسل بدعاء الصالحين الأحياء.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (1010) نے اپنی صحیح میں روایت کیا ہے۔ یہ زندہ نیک لوگوں کی دعا کا وسیلہ لینے کی مستند دلیل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1010). This Hadith serves as evidence for seeking the intercession (Tawassul) through the supplication of living righteous people."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَحِطُوا",
+      "english": "Suffered from drought",
+      "urdu": "وہ قحط میں مبتلا ہوئے"
+    },
+    {
+      "arabic": "يَسْتَسْقِي",
+      "english": "Prays for rain",
+      "urdu": "بارش طلب کرتا ہے"
+    },
+    {
+      "arabic": "نَتَوَسَّلُ",
+      "english": "We seek intercession",
+      "urdu": "ہم وسیلہ پکڑتے ہیں"
+    },
+    {
+      "arabic": "بِعَمِّ نَبِيِّنَا",
+      "english": "By our Prophet's uncle",
+      "urdu": "ہمارے نبی کے چچا کے ذریعے"
+    },
+    {
+      "arabic": "فَاسْقِنَا",
+      "english": "So give us water",
+      "urdu": "پس ہمیں سیراب کر"
+    }
+  ],
+  "summary": {
+    "urdu": "قحط کے وقت سیدنا عمر فاروق رضی اللہ عنہ نے حضرت عباس رضی اللہ عنہ سے دعا کروائی، جو اس بات کی دلیل ہے کہ کسی زندہ بزرگ یا نیک شخص سے دعا کی درخواست کرنا جائز ہے۔",
+    "english": "During a drought, 'Umar (RA) requested Al-Abbas (RA) to pray for rain, proving that asking a living righteous person to supplicate on one's behalf is permissible."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1010)",
+      "english": "Sahih al-Bukhari (1010)"
+    },
+    {
+      "arabic": "صحيح البخاري (3710)",
+      "english": "Sahih al-Bukhari (3710)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin Al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    },
+    {
+      "id": 3,
+      "name": {
+        "arabic": "العباس بن عبد المطلب",
+        "english": "Al-Abbas bin Abdul-Muttalib"
+      },
+      "slug": "al-abbas-bin-abdul-muttalib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=tawassul+hazrat+umar+hazrat+abbas+hadith+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وسیلہ کا صحیح مفہوم",
+        "english": "The Correct Meaning of Tawassul"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعا کا وسیلہ",
+              "english": "Intercession Through Supplication"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث میں وسیلے سے مراد کسی نیک بندے سے اللہ کے حضور دعا کروانا ہے۔",
+                "سیدنا عمر نے حضرت عباس کو آگے بڑھایا تاکہ وہ لوگوں کے لیے مغفرت مانگیں۔",
+                "یہ عمل ثابت کرتا ہے کہ اللہ کے پیارے بندوں کی دعا میں خاص اثر ہوتا ہے۔"
+              ],
+              "english": [
+                "In this Hadith, Tawassul refers to asking a righteous person to pray to Allah.",
+                "Umar (RA) brought Al-Abbas (RA) forward to seek forgiveness for the people.",
+                "This practice proves that the prayers of Allah's beloved servants have a special impact."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زندہ اور فوت شدہ میں فرق",
+              "english": "Difference Between Living and Deceased"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام کا عمل بتاتا ہے کہ وہ زندہ بزرگوں سے دعا کی درخواست کرتے تھے۔",
+                "وفات کے بعد نبی ﷺ کی قبر پر جا کر استسقاء کرنا صحابہ سے منقول نہیں ہے۔",
+                "حضرت عمر کا حضرت عباس کی طرف رجوع کرنا اسی شرعی ضابطے کی عکاسی ہے۔"
+              ],
+              "english": [
+                "The Sahaba's actions show they requested prayers from living righteous people.",
+                "Requesting rain at the Prophet's (ﷺ) grave after his death is not narrated from them.",
+                "Umar's (RA) recourse to Al-Abbas (RA) reflects this specific Islamic legal principle."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اہلِ بیت کی فضیلت",
+        "english": "Virtue of the Prophet's Family"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رشتہ داری کا احترام",
+              "english": "Respect for Kinship"
+            },
+            "content": {
+              "urdu": [
+                "حضرت عباس رضی اللہ عنہ رسول اللہ ﷺ کے سگے چچا اور بزرگ ہستی تھے۔",
+                "حضرت عمر نے ان کا انتخاب ان کی بزرگی اور خاندانی نسبت کی بنا پر کیا۔",
+                "نبی ﷺ کے قرابت داروں کا احترام کرنا ایمان کا حصہ اور سنتِ خلفاء ہے۔"
+              ],
+              "english": [
+                "Al-Abbas (RA) was the Prophet's (ﷺ) paternal uncle and a venerable figure.",
+                "Umar (RA) chose him due to his senior status and kinship with the Prophet (ﷺ).",
+                "Respecting the Prophet's relatives is part of faith and the Sunnah of the Caliphs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عاجزی کا مظہر",
+              "english": "A Manifestation of Humility"
+            },
+            "content": {
+              "urdu": [
+                "خلیفہ وقت ہونے کے باوجود حضرت عمر نے خود کو دعا کے لیے مقدم نہیں کیا۔",
+                "انہوں نے دوسروں کی فضیلت کا اعتراف کر کے عاجزی کی مثال قائم کی۔",
+                "اجتماعی دعاؤں میں صاحبِ فضیلت لوگوں کو آگے کرنا مستحب عمل ہے۔"
+              ],
+              "english": [
+                "Despite being the Caliph, Umar (RA) did not prioritize himself for the prayer.",
+                "He set an example of humility by acknowledging the virtues of others.",
+                "Leading collective prayers with people of high virtue is a recommended act."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قحط اور توبہ کا تعلق",
+        "english": "Connection Between Drought and Repentance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجتماعی استغفار",
+              "english": "Collective Seeking of Forgiveness"
+            },
+            "content": {
+              "urdu": [
+                "قحط سالی بسا اوقات انسانی کوتاہیوں اور گناہوں کا نتیجہ ہوتی ہے۔",
+                "ایسے حالات میں پوری قوم کا اکٹھے ہو کر توبہ کرنا لازمی ہے۔",
+                "حضرت عمر کی یہ دعا توبہ اور اللہ کی طرف رجوع کا بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "Droughts are often a consequence of human shortcomings and sins.",
+                "In such conditions, it is mandatory for the entire nation to repent together.",
+                "Umar's (RA) supplication is a perfect model of repentance and turning to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کی قبولیت",
+              "english": "Acceptance of Supplication"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے آخر میں 'فيسقون' کے الفاظ بتاتے ہیں کہ اللہ نے ان کی دعا قبول کی۔",
+                "خلوصِ نیت کے ساتھ مانگی گئی دعا کبھی رائیگاں نہیں جاتی۔",
+                "اللہ تعالیٰ اپنے نیک بندوں کی لاج رکھتا ہے اور بارش عطا فرماتا ہے۔"
+              ],
+              "english": [
+                "The word 'so it would rain' at the end shows Allah accepted their prayer.",
+                "A supplication made with sincerity of heart is never wasted.",
+                "Allah honors His righteous servants and grants rain through their means."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور تربیتی سبق",
+        "english": "Educational and Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علماء سے رجوع کرنا",
+              "english": "Consulting the Scholars"
+            },
+            "content": {
+              "urdu": [
+                "مشکل وقت میں عوام کو اپنے وقت کے بزرگوں اور عالموں کے پاس جانا چاہیے۔",
+                "نیک لوگوں کی صحبت اور ان سے دعا کی درخواست کرنا خیر و برکت کا باعث ہے۔",
+                "یہ حدیث ہمیں سماجی اور دینی نظم و ضبط کی تعلیم دیتی ہے۔"
+              ],
+              "english": [
+                "During hard times, people should go to the elders and scholars of their time.",
+                "The company of righteous people and asking them for prayer brings blessings.",
+                "This Hadith teaches us about social and religious discipline."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توحیدِ باری تعالیٰ",
+              "english": "The Oneness of Allah"
+            },
+            "content": {
+              "urdu": [
+                "وسیلہ صرف ایک ذریعہ ہے، اصل دینے والی ذات صرف اللہ کی ہے۔",
+                "دعا کے الفاظ 'إليك' (تیری طرف) ظاہر کرتے ہیں کہ رخ اللہ ہی کی جانب ہے۔",
+                "مسلمان کو ہر حال میں اپنا عقیدہ توحید پر قائم رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Intercession is only a means; the actual Giver is only Allah.",
+                "The words 'to You' in the prayer show that the focus is solely on Allah.",
+                "A Muslim must remain steadfast on the belief in Monotheism in all states."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

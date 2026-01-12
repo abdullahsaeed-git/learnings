@@ -1,0 +1,259 @@
+{
+  "hadithId": 854,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/44"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (5261)، ومسلم (1433)، وأخرجه النسائي (3276)، والترمذي (1118)، وأبو داود (2309)، وابن ماجه (1932).",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (5261) اور امام مسلم (1433) نے روایت کیا ہے۔ یہ روایت اس اہم فقہی مسئلے کو واضح کرتی ہے کہ تین طلاقوں کے بعد حلالہ شرعیہ کے لیے دخول (جسمانی تعلق) شرط ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5261) and Muslim (1433). Also reported by An-Nasa'i, At-Tirmidhi, Abu Dawud, and Ibn Majah. It establishes the necessity of consummation for the validity of remarrying a former husband after three divorces."
+  },
+  "importantWords": [
+    {
+      "arabic": "ثَلَاثًا",
+      "english": "Three times",
+      "urdu": "تین بار"
+    },
+    {
+      "arabic": "يَدْخُلَ",
+      "english": "Cohabitation / Enter upon",
+      "urdu": "دخول / ہمبستری"
+    },
+    {
+      "arabic": "عُسَيْلَتِهَا",
+      "english": "Her sweetness (Metaphor for intercourse)",
+      "urdu": "اس کی مٹھاس / لذت"
+    },
+    {
+      "arabic": "يَذُوقَ",
+      "english": "To taste",
+      "urdu": "چکھ لے"
+    },
+    {
+      "arabic": "يَتَزَوَّجَهَا",
+      "english": "Marry her",
+      "urdu": "اس سے نکاح کرے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں یہ واضح کیا گیا ہے کہ اگر کوئی شخص اپنی بیوی کو تین طلاقیں دے دے تو وہ اس وقت تک اس کے لیے حلال نہیں ہوگی جب تک وہ کسی دوسرے شخص سے نکاح نہ کرے اور وہ دوسرا شوہر اس سے ہمبستری نہ کر لے۔",
+    "english": "This Hadith clarifies that after a triple divorce, a woman is not lawful for her first husband until she marries another man and that second marriage is consummated."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الطلاق، رقم الحديث ٥٢٦١",
+      "english": "Sahih Bukhari, Book of Divorce, Hadith No. 5261"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب النكاح، رقم الحديث ١٤٣٣",
+      "english": "Sahih Muslim, Book of Marriage, Hadith No. 1433"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Qf8vB7s4M",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تین طلاق کے بعد حلالہ شرعیہ",
+        "english": "Legal Halala After Triple Divorce"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرآنی حکم کی وضاحت",
+              "english": "Explanation of Quranic Command"
+            },
+            "content": {
+              "urdu": [
+                "قرآن مجید میں سورہ بقرہ کی آیت 230 میں یہ حکم موجود ہے کہ تین طلاقوں کے بعد عورت دوسرے شوہر سے نکاح کرے۔",
+                "نبی کریم ﷺ نے اس حدیث میں واضح فرمایا کہ صرف نکاح کا عقد (نکاح نامہ) کافی نہیں ہے۔",
+                "پہلے شوہر کے لیے حلال ہونے کے لیے دوسرے شوہر سے جسمانی تعلق کا ہونا لازمی شرط ہے۔"
+              ],
+              "english": [
+                "The Quran (2:230) states that after three divorces, a woman must marry another man to become lawful for the first.",
+                "The Prophet (ﷺ) clarified in this Hadith that a mere marriage contract is not sufficient.",
+                "Physical consummation with the second husband is an absolute condition for returning to the first husband."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دخول کی اہمیت",
+              "english": "Importance of Consummation"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'عسیلہ' سے مراد جماع کی لذت ہے، جو اس بات کی دلیل ہے کہ ہمبستری ضروری ہے۔",
+                "اگر دوسرا شوہر بغیر ہمبستری کے طلاق دے دے یا مر جائے تو عورت پہلے شوہر سے نکاح نہیں کر سکتی۔",
+                "یہ شرط طلاق کے معاملے میں مرد کو سنجیدہ بنانے اور جلد بازی سے روکنے کے لیے ہے۔"
+              ],
+              "english": [
+                "The term 'Usailah' refers to the pleasure of intercourse, proving that consummation is required.",
+                "If the second husband divorces her or dies without having intercourse, she cannot return to the first.",
+                "This condition is meant to make men serious about divorce and prevent impulsive actions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حلالہ اور طے شدہ معاہدہ",
+        "english": "Halala and Pre-planned Agreements"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حلالہ مروجہ کی ممانعت",
+              "english": "Prohibition of Conventional Halala"
+            },
+            "content": {
+              "urdu": [
+                "ایسا نکاح جو صرف پہلے شوہر کے لیے حلال کرنے کی نیت سے (معاہدہ کر کے) کیا جائے، وہ حرام ہے۔",
+                "نبی کریم ﷺ نے حلالہ کرنے والے اور کروانے والے پر لعنت فرمائی ہے۔",
+                "شرعی حلالہ وہ ہے جو اتفاقاً ہو، یعنی دوسرا نکاح مستقل بنیادوں پر کیا گیا ہو اور پھر نباہ نہ ہو سکے۔"
+              ],
+              "english": [
+                "A marriage contracted with the sole intent of making her lawful for the first (via agreement) is haram.",
+                "The Prophet (ﷺ) cursed both the one who performs such an act and the one for whom it is done.",
+                "True Shari'ah Halala is accidental, meaning the second marriage was intended to be permanent but failed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی حکمت",
+              "english": "Juristic Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے خاندان کے استحکام کو ترجیح دی ہے اور طلاق کو آخری حل قرار دیا ہے۔",
+                "تین طلاقوں کے بعد یہ سخت شرائط اس لیے ہیں تاکہ طلاق کے عمل کو مذاق نہ بنایا جائے۔",
+                "عورت کو ایک شوہر سے دوسرے کی طرف منتقل کرنا اس کے وقار کا مسئلہ ہے تاکہ مرد ہوش سے کام لیں۔"
+              ],
+              "english": [
+                "Islam prioritizes family stability and considers divorce as a last resort.",
+                "These strict conditions after a triple divorce ensure that the process is not mocked.",
+                "Transferring a woman from one husband to another serves as a heavy social deterrent for men."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اثرات اور اصلاح",
+        "english": "Social Impact and Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جلد بازی کے نتائج",
+              "english": "Consequences of Haste"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مردوں کو یہ سبق دیتی ہے کہ غصے کی حالت میں طلاق دینے کے سنگین نتائج ہو سکتے ہیں۔",
+                "ایک بار تین طلاقیں دے دینے کے بعد واپسی کا راستہ بہت مشکل کر دیا گیا ہے۔",
+                "معاشرے میں طلاق کی شرح کو کم کرنے کے لیے ان احکامات کی آگاہی ضروری ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches men that giving divorce in a state of anger can have severe consequences.",
+                "Once triple divorce is pronounced, the path to reconciliation is made extremely difficult.",
+                "Awareness of these rulings is necessary to reduce the divorce rate in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خواتین کے حقوق کا تحفظ",
+              "english": "Protecting Women's Rights"
+            },
+            "content": {
+              "urdu": [
+                "یہ قانون عورت کو اس شوہر کے ظلم سے بچاتا ہے جو اسے بار بار طلاق دے کر لٹکائے رکھتا ہے۔",
+                "اسلامی شریعت نے عورت کے نکاحِ ثانی کو اس کا حق قرار دیا ہے اگر پہلے سے نباہ نہ ہو۔",
+                "دوسرے شوہر کے ساتھ ازدواجی زندگی کا مکمل تجربہ ہی اسے پہلے کے پاس واپس جانے کا حق دیتا ہے۔"
+              ],
+              "english": [
+                "This law protects women from abusive husbands who might repeatedly divorce and take them back.",
+                "Islamic Shariah establishes the second marriage as her right if the first fails irrevocably.",
+                "The full experience of marital life with the second husband validates her return to the first."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور تربیت",
+        "english": "Practical Lesson and Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں حیلہ سازی سے گریز",
+              "english": "Avoiding Legal Loopholes"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کے احکامات میں حیلے تلاش کرنا منافقت اور کمزور ایمان کی علامت ہے۔",
+                "نکاح کے معاملے میں سچائی اور دیانتداری کو ہر حال میں ملحوظ رکھنا چاہیے۔",
+                "مصنوعی حلالہ معاشرے میں بے حیائی اور اللہ کے غضب کو دعوت دیتا ہے۔"
+              ],
+              "english": [
+                "Seeking loopholes in Allah's commands is a sign of hypocrisy and weak faith.",
+                "Truthfulness and integrity must be maintained in all marriage-related matters.",
+                "Artificial Halala invites immorality into society and invokes the wrath of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنتِ نبوی کی اہمیت",
+              "english": "Importance of Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کی رہنمائی کے بغیر قرآن کے احکامات کی صحیح فہم ممکن نہیں ہے۔",
+                "یہ حدیث سنت کی قانون ساز حیثیت کو واضح کرتی ہے کہ اس نے 'نکاح' کے لفظ کی وضاحت کی۔",
+                "مومن کو چاہیے کہ وہ اپنی زندگی کے تمام خاندانی معاملات میں سنت کو مشعلِ راہ بنائے۔"
+              ],
+              "english": [
+                "Proper understanding of Quranic commands is impossible without the Prophet's (ﷺ) guidance.",
+                "This Hadith demonstrates the legislative status of Sunnah in clarifying the term 'Nikah'.",
+                "A believer should take the Sunnah as a guiding light in all family and personal matters."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

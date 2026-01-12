@@ -1,0 +1,259 @@
+{
+  "hadithId": 1111,
+  "hadithNo": 32,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/32"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (16124)، وأبو داود (2753)، والطحاوي في شرح معاني الآثار (3/242)، والبيهقي (9/53). وصححه الألباني.",
+    "urdu": "صحیح۔ اسے امام احمد (16124)، ابوداؤد (2753) اور امام طحاوی نے شرح معانی الآثار (3/242) میں روایت کیا ہے۔ علامہ البانی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (16124), Abu Dawud (2753), and At-Tahawi in Sharh Ma'ani al-Athar (3/242). Authenticated by Al-Albani."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا نَفْلَ",
+      "english": "No bonus / extra",
+      "urdu": "کوئی زائد انعام نہیں"
+    },
+    {
+      "arabic": "الْخُمُسِ",
+      "english": "The fifth portion",
+      "urdu": "پانچواں حصہ"
+    },
+    {
+      "arabic": "سَمِعْتُ",
+      "english": "I heard",
+      "urdu": "میں نے سنا"
+    },
+    {
+      "arabic": "بَعْدَ",
+      "english": "After",
+      "urdu": "بعد میں"
+    },
+    {
+      "arabic": "الْغَنِيمَة",
+      "english": "War booty",
+      "urdu": "مال غنیمت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں مالِ غنیمت کی تقسیم کا شرعی ضابطہ بیان کیا گیا ہے کہ مجاہدین کو اضافی انعام (نفل) دینے سے پہلے ریاست کا پانچواں حصہ (خمس) الگ کرنا لازمی ہے۔",
+    "english": "This Hadith clarifies the regulation of war booty, stating that any extra rewards for soldiers must only be distributed after the state's one-fifth share has been set aside."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (16124)",
+      "english": "Narrated by Ahmad (16124)"
+    },
+    {
+      "arabic": "رواه أبو داود (2753)",
+      "english": "Narrated by Abu Dawud (2753)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معن بن يزيد السلمي",
+        "english": "Ma'n bin Yazid al-Sulami"
+      },
+      "slug": "man-bin-yazid"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3Xn89gA",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مالِ غنیمت اور خمس کا قانون",
+        "english": "Law of Booty and the Fifth"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خمس کی شرعی حیثیت",
+              "english": "Legal Status of Khums"
+            },
+            "content": {
+              "urdu": [
+                "مالِ غنیمت کے کل پانچ حصے کیے جاتے ہیں جن میں سے ایک حصہ (خمس) اللہ اور رسول کا ہے۔",
+                "یہ پانچواں حصہ بیت المال میں جمع ہوتا ہے جو عوامی فلاح اور مستحقین کے لیے مخصوص ہے۔",
+                "خمس نکالنے کے بعد باقی چار حصے لشکر کے مجاہدین کے درمیان تقسیم کیے جاتے ہیں۔"
+              ],
+              "english": [
+                "War booty is divided into five parts, one of which (Khums) belongs to Allah and His Messenger.",
+                "This fifth part is deposited in the public treasury for social welfare and the needy.",
+                "After extracting the Khums, the remaining four parts are distributed among the soldiers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اضافی انعام (تنفیل) کا ضابطہ",
+              "english": "Regulation of Extra Bonuses (Nafal)"
+            },
+            "content": {
+              "urdu": [
+                "نفل سے مراد وہ اضافی انعام ہے جو کسی مجاہد کو اس کی غیر معمولی کارکردگی پر دیا جائے۔",
+                "حدیث کے مطابق یہ انعام اسی وقت دیا جائے گا جب پہلے خمس کا حصہ الگ کر لیا جائے۔",
+                "اس سے مقصود عوامی خزانے کے حق کو محفوظ رکھنا اور تقسیم میں شفافیت لانا ہے۔"
+              ],
+              "english": [
+                "Nafal refers to an extra reward given to a soldier for exceptional performance or bravery.",
+                "According to the Hadith, this bonus is only granted after the Khums has been set aside.",
+                "This ensures the protection of public funds and maintains transparency in distribution."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ریاستی اموال میں امانت داری",
+        "english": "Trustworthiness in State Assets"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حساب کتاب میں شفافیت",
+              "english": "Transparency in Accounting"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی نظامِ عدل میں مالِ غنیمت کا ایک ایک ذرہ باقاعدہ حساب کے تحت لایا جاتا ہے۔",
+                "کسی بھی لیڈر کو یہ حق نہیں کہ وہ عوامی حق (خمس) کو نظر انداز کر کے نوازشات کرے۔",
+                "قانون کی بالادستی مالیاتی معاملات میں نظم و ضبط پیدا کرنے کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "In the Islamic justice system, every bit of war booty is brought under formal accounting.",
+                "No leader has the right to bestow favors by ignoring the public share (Khums).",
+                "The supremacy of law is essential to create discipline in financial matters."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مستحقین کے حقوق کا تحفظ",
+              "english": "Protecting Rights of Beneficiaries"
+            },
+            "content": {
+              "urdu": [
+                "خمس کا مال یتیموں، مسکینوں اور مسافروں کی مدد کے لیے استعمال ہوتا ہے۔",
+                "اگر نفل (انعام) خمس سے پہلے دیا جائے تو ان کمزور طبقات کا حق متاثر ہو سکتا ہے۔",
+                "شریعت نے طاقتور سپاہیوں کے ساتھ ساتھ معاشرے کے کمزور افراد کا بھی خیال رکھا ہے۔"
+              ],
+              "english": [
+                "The Khums funds are utilized to aid orphans, the poor, and wayfarers.",
+                "Distributing bonuses before Khums could negatively impact the rights of these vulnerable groups.",
+                "Sharia considers the needs of the weak alongside rewarding the powerful soldiers."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی ابعاد اور مصلحت",
+        "english": "Juristic Dimensions and Public Interest"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام کا صوابدیدی اختیار",
+              "english": "Discretionary Power of the Imam"
+            },
+            "content": {
+              "urdu": [
+                "حاکم کو اختیار ہے کہ وہ خمس کے حصے سے ہی مجاہدین کو اضافی نفل عطا کرے۔",
+                "یہ انعام عسکری مصلحت اور سپاہیوں کی حوصلہ افزائی کے لیے ایک بہترین ہتھیار ہے۔",
+                "فقہاء نے اس حدیث سے مالیاتی انتظام کے دقیق اصول وضع کیے ہیں۔"
+              ],
+              "english": [
+                "The ruler has the authority to grant extra Nafal to soldiers from the Khums portion itself.",
+                "This reward serves as an excellent tool for military pragmatism and soldier motivation.",
+                "Jurists have derived precise financial management principles from this Hadith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مالی بے ضابطگیوں کا سدِ باب",
+              "english": "Prevention of Financial Irregularities"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول مالِ غنیمت میں کسی بھی قسم کی خورد برد یا غبن کو روکتا ہے۔",
+                "تقسیم کا ایک واضح وقت اور طریقہ کار طے ہونا بدعنوانی کا خاتمہ کرتا ہے۔",
+                "اسلامی ریاست میں ہر مالی لین دین شرعی حدود کا پابند ہوتا ہے۔"
+              ],
+              "english": [
+                "This principle prevents any form of embezzlement or misappropriation of booty.",
+                "Having a clear timing and procedure for distribution eliminates corruption.",
+                "In an Islamic state, every financial transaction is bound by Sharia limits."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور اخلاقی اسباق",
+        "english": "Educational and Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قانونی حدود کا احترام",
+              "english": "Respect for Legal Boundaries"
+            },
+            "content": {
+              "urdu": [
+                "ایک مومن کو چاہیے کہ وہ انعام حاصل کرتے وقت بھی شرعی حدود کو نہ بھولے۔",
+                "جو مال اللہ کے مقرر کردہ طریقے کے خلاف ملے، اس میں برکت نہیں ہوتی۔",
+                "اطاعتِ رسول ﷺ کا تقاضا ہے کہ تقسیم کے نبوی طریقے پر عمل کیا جائے۔"
+              ],
+              "english": [
+                "A believer should not forget Sharia limits even while receiving a reward.",
+                "Wealth obtained in violation of Allah's prescribed methods lacks blessing.",
+                "Obedience to the Prophet (ﷺ) requires following his methods of distribution."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدلِ اجتماعی کا تصور",
+              "english": "Concept of Social Justice"
+            },
+            "content": {
+              "urdu": [
+                "اسلام انفرادی بہادری کو سراہتا ہے مگر اجتماعی حقوق کو اس پر مقدم رکھتا ہے۔",
+                "معاشرے کے تمام طبقات کے درمیان وسائل کی منصفانہ تقسیم اسلام کا طرہ امتیاز ہے۔",
+                "یہ حدیث ہمیں سکھاتی ہے کہ نظام کی بہتری اصولوں کی پاسداری میں ہے۔"
+              ],
+              "english": [
+                "Islam appreciates individual bravery but prioritizes collective rights over it.",
+                "Fair distribution of resources among all sectors of society is a hallmark of Islam.",
+                "This Hadith teaches us that systemic improvement lies in adhering to principles."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

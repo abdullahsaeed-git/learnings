@@ -1,0 +1,218 @@
+{
+  "hadithId": 219,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["2", "7"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب صفة الصلاة",
+    "babId": 17
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواية بدء القراءة بـ(الحمد لله رب العالمين) عند البخاري (743) ومسلم (399). الزيادة في مسلم (لا يذكرون: بسم الله...) صحيحة، وقد أشار الحافظ إلى أن النفي محمول على الجہر. رواية الجہر بالنفي عند أحمد (3/275) والنسائي (2/135) وابن خزيمة (1/250) وهي صحيحة.",
+    "urdu": "صحیح متفق علیہ۔ قراءت کا آغاز «الحمد لله رب العالمين» سے کرنا بخاری (743) اور مسلم (399) میں موجود ہے۔ مسلم میں 'بسم اللہ' کا ذکر نہ کرنے کی زیادتی صحیح ہے، اور حافظ ابن حجر نے اشارہ کیا ہے کہ نفی کو جہری قراءت پر محمول کیا جائے گا۔ 'بسم اللہ' کو جہراً نہ پڑھنے کی روایت احمد (3/275)، نسائی (2/135) اور ابن خزیمہ (1/250) میں ہے اور یہ صحیح ہے۔",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh). The narration regarding starting the recitation with 'Al-Hamdu Lillahi Rabbil 'Alamīn' is in Al-Bukhari (743) and Muslim (399). The addition in Muslim about not mentioning 'Bismillah...' is authentic, and Hafiz Ibn Hajar suggested that the negation implies the negation of loud recitation. The narration about not reciting 'Bismillah' aloud (Jahran) is authentic in Ahmad (3/275), An-Nasa’i (2/135), and Ibn Khuzaymah (1/250)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَفْتَتِحُونَ",
+      "english": "They would begin/start",
+      "urdu": "وہ آغاز کرتے تھے"
+    },
+    {
+      "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "english": "All praise is for Allah, Lord of the Worlds",
+      "urdu": "تمام تعریفیں اللہ ہی کے لیے ہیں، جو رب العالمین ہے"
+    },
+    {
+      "arabic": "لَا يَذْكُرُونَ",
+      "english": "They did not mention",
+      "urdu": "وہ ذکر نہیں کرتے تھے"
+    },
+    {
+      "arabic": "بِسْمِ اللَّهِ",
+      "english": "In the name of Allah",
+      "urdu": "بسم اللہ"
+    },
+    {
+      "arabic": "لَا يَجْهَرُونَ",
+      "english": "They would not recite aloud",
+      "urdu": "وہ اونچی آواز سے نہیں پڑھتے تھے"
+    },
+    {
+      "arabic": "يُسِرُّونَ",
+      "english": "They would recite silently",
+      "urdu": "وہ آہستہ پڑھتے تھے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز میں سورۃ فاتحہ کے آغاز کے مسنون طریقہ کو بیان کرتی ہے۔ نبی صلی اللہ علیہ وسلم، حضرت ابوبکر اور حضرت عمر رضی اللہ عنہم تینوں جہری نمازوں میں بھی قراءت کا آغاز 'الحمد لله رب العالمين' سے کرتے تھے۔ اس کا مطلب ہے کہ وہ 'بسم اللہ الرحمن الرحیم' کو بلند آواز سے نہیں پڑھتے تھے، بلکہ اسے آہستہ آواز میں پڑھتے یا خاموش رہتے تھے، جو اس بات کی دلیل ہے کہ 'بسم اللہ' سورۃ فاتحہ کا حصہ نہیں ہے۔",
+    "english": "This Hadith clarifies the Sunnah method for beginning the recitation of Surah Al-Fātiḥah in prayer. The Prophet (PBUH), Abu Bakr, and 'Umar (RA) would start the recitation with 'Al-Hamdu Lillahi Rabbil 'Alamīn,' even in loud prayers. This implies they did not recite 'Bismi Allāhi Ar-Raḥmāni Ar-Raḥīm' audibly, but rather recited it silently or remained silent, supporting the view that 'Bismillah' is not part of Surah Al-Fātiḥah."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأذان، باب ما يقول بعد التكبير (743)",
+      "english": "Sahih Al-Bukhari, Book of Adhan, Chapter: What one says after the Takbīr (743)"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الصلاة، باب حجة من قال لا يجهر بـ(بسم الله الرحمن الرحيم) (399)",
+      "english": "Sahih Muslim, Book of Prayer, Chapter: The argument of those who say 'Bismillah Ar-Rahman Ar-Rahim' should not be recited aloud (399)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas ibn Malik"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2E-R6kUeB0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز میں 'بسم اللہ' کا حکم",
+        "english": "The Ruling of 'Bismillah' in Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جہری اور سِری قراءت",
+              "english": "Audible (Jahri) and Silent (Sirri) Recitation"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں نفی کا مطلب 'بسم اللہ' کو ترک کرنا نہیں، بلکہ اسے بلند آواز سے (جہراً) نہ پڑھنا ہے۔",
+                "نبی صلی اللہ علیہ وسلم کا عمل اور ابن خزیمہ کی روایت (یُسِرُّونَ) اس بات کی تائید کرتی ہے کہ 'بسم اللہ' آہستہ پڑھی جاتی تھی۔",
+                "یہ طریقہ جماعت میں خاموشی برقرار رکھنے اور سورۃ فاتحہ کے آغاز کو واضح کرنے کے لیے اپنایا گیا تھا۔"
+              ],
+              "english": [
+                "The negation in the Hadith does not mean abandoning 'Bismillah' but rather not reciting it loudly (Jahran).",
+                "The practice of the Prophet (PBUH) and Ibn Khuzaymah's narration (Yusirrūn) confirm that 'Bismillah' was recited silently.",
+                "This method was adopted to maintain silence in congregation and to clearly mark the beginning of Surah Al-Fātiḥah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فاتحہ سے نماز کا آغاز",
+              "english": "Starting Prayer with Al-Fātiḥah"
+            },
+            "content": {
+              "urdu": [
+                "نماز کی قراءت کا آغاز 'الحمد للہ رب العالمین' سے کرنا اس بات کو ثابت کرتا ہے کہ سورۃ فاتحہ نماز کا رکن ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ اصل قراءت کا آغاز توحید اور اللہ کی حمد و ثنا کے اقرار سے ہونا چاہیے۔",
+                "اماموں (ابوبکرؓ و عمرؓ) کا عمل بھی اسی سنت کی اتباع میں تھا، جو اس حکم کی تاکید ہے۔"
+              ],
+              "english": [
+                "Starting the prayer's recitation with 'Al-Hamdu Lillahi Rabbil 'Alamīn' proves that Surah Al-Fātiḥah is a pillar of the prayer.",
+                "This ruling indicates that the core recitation should begin with the affirmation of Tawheed and the praise of Allah.",
+                "The practice of the Imāms (Abu Bakr and 'Umar) was in adherence to this Sunnah, emphasizing the command."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور علمی مسائل",
+        "english": "Juristic and Scholarly Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اختلافِ ائمہ",
+              "english": "Differences Among the Imāms"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث پر فقہاء کے درمیان شدید اختلاف ہے کہ کیا 'بسم اللہ' سورۃ فاتحہ کا جزو ہے اور کیا اسے جہراً پڑھا جائے؟",
+                "شافعیؒ اور بعض دیگر ائمہ 'بسم اللہ' کو سورۃ فاتحہ کا جزو مان کر جہری نمازوں میں بلند آواز سے پڑھتے ہیں۔",
+                "جبکہ حنفیؒ اور مالکیؒ مکاتب فکر اس حدیث کی بنیاد پر اسے آہستہ پڑھتے یا بالکل نہیں پڑھتے۔"
+              ],
+              "english": [
+                "There is a strong difference of opinion among jurists based on this Hadith: Is 'Bismillah' part of Al-Fātiḥah, and should it be recited audibly?",
+                "Ash-Shāfi'ī and some other Imāms consider 'Bismillah' a part of Al-Fātiḥah and recite it aloud in audible prayers.",
+                "The Ḥanafī and Mālikī schools, based on this Hadith, recite it silently or omit it entirely."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفی کا صحیح محمل",
+              "english": "Correct Interpretation of the Negation"
+            },
+            "content": {
+              "urdu": [
+                "جن علماء نے مسلم کی نفی کو جہری قراءت پر محمول کیا، انہوں نے دونوں طرح کی روایات میں تطبیق پیدا کی۔",
+                "یہ تطبیق اس بات کو ممکن بناتی ہے کہ 'بسم اللہ' پڑھی بھی جائے (آہستہ) اور نمازی کو معلوم بھی نہ ہو۔",
+                "اس سے نماز میں سنت کی پیروی کا راستہ وسیع اور اختلافات میں رواداری کا درس ملتا ہے۔"
+              ],
+              "english": [
+                "Scholars who interpreted Muslim's negation as referring to audible recitation reconciled both types of narrations.",
+                "This reconciliation makes it possible that 'Bismillah' was recited (silently) without the follower realizing it.",
+                "This expands the scope of following the Sunnah in prayer and teaches tolerance in differences of opinion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور تربیتی پہلو",
+        "english": "Spiritual and Educational Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام کی اطاعت",
+              "english": "Obedience to the Imām"
+            },
+            "content": {
+              "urdu": [
+                "مقتدی کا امام کی قراءت پر دھیان دینا اور امام کی پیروی کرنا بھی نماز کا ایک اہم ادب ہے۔",
+                "امام کا اس سنت پر عمل دراصل نماز کے بنیادی ارکان کی تعلیم و حفاظت کا ذریعہ ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ ان فرعی مسائل پر جھگڑنے کے بجائے اصلی عبادت (خشوع) پر توجہ دیں۔"
+              ],
+              "english": [
+                "Paying attention to the Imām's recitation and following him is an important etiquette of prayer.",
+                "The Imām's adherence to this Sunnah is a means of teaching and safeguarding the fundamental pillars of prayer.",
+                "Muslims should focus on the core worship (Khushu') rather than debating these subsidiary issues."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہؓ کی اتباع",
+              "english": "Emulation of the Companions (RA)"
+            },
+            "content": {
+              "urdu": [
+                "خلفائے راشدین (ابوبکر و عمر) کی نبی صلی اللہ علیہ وسلم کے طریقے پر استقامت اس سنت کی مضبوطی کو ظاہر کرتی ہے۔",
+                "ان کا عمل اس بات کی دلیل ہے کہ نماز کے چھوٹے چھوٹے آداب بھی اہمیت کے حامل ہیں۔",
+                "ہمیں چاہیے کہ صحابہ کرامؓ کے متفقہ عمل کی پیروی کریں تاکہ نماز میں اتحاد اور اخلاص پیدا ہو۔"
+              ],
+              "english": [
+                "The steadfastness of the Rightly Guided Caliphs (Abu Bakr and 'Umar) on the Prophet's method shows the strength of this Sunnah.",
+                "Their practice confirms that even small details of prayer etiquette are significant.",
+                "We should follow the agreed-upon practice of the Companions to foster unity and sincerity in prayer."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

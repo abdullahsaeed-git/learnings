@@ -1,0 +1,264 @@
+{
+  "hadithId": 676,
+  "hadithNo": 29,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/29"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2140)، ومسلم (1515). واللفظ للبخاري، وأصل النهي في مسلم أيضاً بلفظ السوم.",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (2140) اور امام مسلم (1515) نے اسے روایت کیا ہے۔ بخاری کے الفاظ جامع ہیں جبکہ مسلم میں بھاؤ پر بھاؤ لگانے کی صراحت ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2140) and Muslim (1515). The wording is from Bukhari; Muslim includes the specific prohibition regarding outbidding a fellow Muslim."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَنَاجَشُوا",
+      "english": "Bidding high to deceive",
+      "urdu": "نجش (قیمت بڑھانا)"
+    },
+    {
+      "arabic": "يَسُمِ",
+      "english": "Outbidding / Bargaining",
+      "urdu": "بھاؤ تاؤ کرنا"
+    },
+    {
+      "arabic": "خِطْبَةِ",
+      "english": "Marriage Proposal",
+      "urdu": "پیغامِ نکاح"
+    },
+    {
+      "arabic": "لِتَكْفَأَ",
+      "english": "To empty / overturn",
+      "urdu": "تاکہ الٹ دے"
+    },
+    {
+      "arabic": "حَاضِرٌ لِبَادٍ",
+      "english": "Townsman for a nomad",
+      "urdu": "شہری دیہاتی کے لیے"
+    },
+    {
+      "arabic": "أُخْتِهَا",
+      "english": "Her sister (fellow woman)",
+      "urdu": "اس کی بہن"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایسے تمام اعمال سے روکا گیا ہے جو مسلمانوں کے درمیان نفرت، دشمنی اور معاشی یا سماجی ناانصافی کا باعث بنیں، جیسے دھوکے کی تجارت یا دوسروں کے رشتوں میں مداخلت۔",
+    "english": "This Hadith prohibits all actions that cause hatred and social or economic injustice among Muslims, such as deceptive trade practices and interfering in others' marriage proposals."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب البيوع",
+      "english": "Sahih al-Bukhari, Book of Sales"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب البيوع",
+      "english": "Sahih Muslim, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تجارتی اخلاقیات اور دھوکہ دہی",
+        "english": "Business Ethics and Deception"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیع نجش کی ممانعت",
+              "english": "Prohibition of Najsh"
+            },
+            "content": {
+              "urdu": [
+                "نجش یہ ہے کہ خریدنے کا ارادہ نہ ہو لیکن صرف قیمت بڑھانے کے لیے بھاؤ لگایا جائے۔",
+                "یہ عمل خریدار کو دھوکہ دینے اور مصنوعی مہنگائی پیدا کرنے کے مترادف ہے۔",
+                "اسلام ہر اس تجارتی چال سے روکتا ہے جو مروت اور سچائی کے خلاف ہو۔"
+              ],
+              "english": [
+                "Najsh is bidding on an item without intent to buy, only to hike the price.",
+                "This practice amounts to deceiving the buyer and creating artificial inflation.",
+                "Islam prohibits any commercial trickery that violates integrity and truthfulness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سودے پر سودا کرنا",
+              "english": "Outbidding a Settled Deal"
+            },
+            "content": {
+              "urdu": [
+                "جب دو فریقین میں سودا طے ہو رہا ہو تو تیسرے کا مداخلت کرنا منع ہے۔",
+                "یہ عمل مسلمانوں کے درمیان بغض، کینہ اور دشمنی کا بیج بوتا ہے۔",
+                "مارکیٹ میں صحت مند مقابلے کی اجازت ہے مگر طے شدہ بات چیت میں دخل دینا جرم ہے۔"
+              ],
+              "english": [
+                "Interfering when two parties are finalizing a deal is strictly forbidden.",
+                "This action sows the seeds of hatred and enmity among fellow Muslims.",
+                "While healthy competition is allowed, disrupting a settled bargain is a sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی حقوق اور رشتے",
+        "english": "Social Rights and Relationships"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پیغامِ نکاح پر پیغام دینا",
+              "english": "Proposing over another's Proposal"
+            },
+            "content": {
+              "urdu": [
+                "جب کسی کا رشتہ طے ہو رہا ہو تو وہاں اپنا پیغام بھیجنا اخلاقی پستی ہے۔",
+                "اس سے خاندانوں کے درمیان دیرینہ دشمنیاں پیدا ہونے کا خدشہ ہوتا ہے۔",
+                "اسلام دوسروں کی خوشی اور فیصلوں کا احترام کرنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Sending a marriage proposal where one is already being considered is unethical.",
+                "This risks creating long-standing feuds and animosity between families.",
+                "Islam teaches us to respect the happiness and settled decisions of others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طلاق کا مطالبہ کرنا",
+              "english": "Demanding another's Divorce"
+            },
+            "content": {
+              "urdu": [
+                "کسی عورت کا اپنے نکاح کے لیے دوسری عورت کی طلاق مانگنا سخت گناہ ہے۔",
+                "دوسرے کا گھر اجاڑ کر اپنا گھر بسانا اسلامی تعلیمات کے سراسر خلاف ہے۔",
+                "رزق اور نصیب اللہ کے ہاتھ میں ہے، اسے چھیننے کی کوشش کرنا جرم ہے۔"
+              ],
+              "english": [
+                "A woman seeking the divorce of another to marry the husband is a grave sin.",
+                "Destroying someone else's home to build one's own is contrary to Islam.",
+                "Provision and destiny are from Allah; trying to snatch them is a crime."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی تحفظ اور شہری حقوق",
+        "english": "Economic Protection and Civil Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شہری اور دیہاتی کا معاملہ",
+              "english": "Townsman and Nomad Trade"
+            },
+            "content": {
+              "urdu": [
+                "شہری کو دیہاتی کا مال روک کر مہنگا بیچنے سے اس لیے روکا گیا تاکہ قیمتیں نارمل رہیں۔",
+                "اس سے عام صارف (Consumer) کو سستی اشیاء کی فراہمی ممکن ہوتی ہے۔",
+                "اسلامی معیشت میں مڈل مین کے کردار کو محدود کیا گیا ہے تاکہ عوام کا فائدہ ہو۔"
+              ],
+              "english": [
+                "A townsman is restricted from withholding a nomad's goods to keep prices fair.",
+                "This ensures that basic commodities remain affordable for the general consumer.",
+                "Islamic economics limits the middleman's role to maximize public welfare."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بھاؤ پر بھاؤ لگانے کا نقصان",
+              "english": "Harm of Competitive Bargaining"
+            },
+            "content": {
+              "urdu": [
+                "بھاؤ پر بھاؤ لگانے سے مارکیٹ میں تناؤ اور غیر یقینی صورتحال پیدا ہوتی ہے۔",
+                "مسلمان کو چاہیے کہ وہ اپنے بھائی کے لیے وہی پسند کرے جو اپنے لیے کرتا ہے۔",
+                "دیانتداری برکت کا باعث ہے جبکہ چالاکی برکت کو ختم کر دیتی ہے۔"
+              ],
+              "english": [
+                "Bargaining against a brother creates tension and uncertainty in the market.",
+                "A Muslim should love for his brother what he loves for himself.",
+                "Honesty invites divine blessings, while clever deception destroys them."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی اخوت کا فروغ",
+              "english": "Promoting Mutual Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "تمام ممنوعات کا مقصد مسلمانوں کے درمیان بھائی چارے کو مضبوط کرنا ہے۔",
+                "معاشی اور سماجی معاملات میں خود غرضی سے بچنا ہی اصل تقویٰ ہے۔",
+                "معاشرے کا امن دوسروں کے حقوق کے احترام میں پوشیدہ ہے۔"
+              ],
+              "english": [
+                "All these prohibitions aim to strengthen brotherhood among Muslims.",
+                "True piety lies in avoiding selfishness in economic and social affairs.",
+                "The peace of society is hidden in the respect for others' rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کی پاکیزگی",
+              "english": "Purity of Intentions"
+            },
+            "content": {
+              "urdu": [
+                "ہمارے اعمال کا دارومدار نیتوں پر ہے، دوسروں کو نقصان پہنچانے والی نیت گناہ ہے۔",
+                "تجارت ہو یا رشتہ، ہمیشہ اللہ کے فیصلوں پر راضی رہنا چاہیے۔",
+                "خالص نیت سے کیا گیا کام دنیا اور آخرت میں کامیابی کا ضامن ہے۔"
+              ],
+              "english": [
+                "Actions depend on intentions; intending harm to others is a sin.",
+                "Whether in trade or marriage, one should be content with Allah's decree.",
+                "Work done with pure intentions guarantees success in both worlds."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

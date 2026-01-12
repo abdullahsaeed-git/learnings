@@ -1,0 +1,213 @@
+{
+  "hadithId": 44,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 16 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الترتيب في الأركان",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  النسائي (536) .  مسلم (2/888) ، أي: بلفظ: \"أبدأ\" وانظر رقم (742) . ",
+    "urdu": "صحیح (درجہ)۔ اسے نسائی (536) نے روایت کیا ہے۔ اور مسلم (2/888) کے ہاں لفظ 'أبدأ' (میں شروع کرتا ہوں) کے ساتھ ہے (دیکھیں رقم 742)۔",
+    "english": "Sahih (Authentic). Narrated by An-Nasā’ī (536). Also found in Muslim (2/888) with the wording 'Abda'u' (I begin), confirming the established practice."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِبْدَؤُوا",
+      "english": "Begin (command)",
+      "urdu": "ابتداء کرو"
+    },
+    {
+      "arabic": "بِمَا بَدَأَ",
+      "english": "With what has begun",
+      "urdu": "جس سے آغاز کیا"
+    },
+    {
+      "arabic": "اَللَّهُ",
+      "english": "Allah",
+      "urdu": "اللہ تعالیٰ"
+    },
+    {
+      "arabic": "اَلْأَمْر",
+      "english": "Commanding tense",
+      "urdu": "صیغہ امر"
+    },
+    {
+      "arabic": "اَلْخَبَر",
+      "english": "Reporting tense",
+      "urdu": "جملہ خبریہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ایک عظیم شرعی اصول کو بیان کرتی ہے کہ عبادات میں افعال کی **ترتیب** وہی ہونی چاہیے جو اللہ تعالیٰ نے اپنی کتاب (قرآن) میں بیان کی ہے یا جسے نبی اکرم صلی اللہ علیہ وسلم نے اپنے قول و فعل سے متعین فرمایا ہے۔",
+    "english": "This Hadith establishes a great legal principle: the **sequence (Tartīb)** of actions in worship must follow the order laid down by Allah in the Qur'an or designated by the Prophet (ﷺ) through his sayings and actions."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي، كتاب مناسك الحج، رقم 536",
+      "english": "Sunan An-Nasā’ī, The Book of Hajj Rituals, Hadith 536"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الحج، رقم 1218",
+      "english": "Sahih Muslim, The Book of Hajj, Hadith 1218"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جَابِرُ بْنُ عَبْدِ اَللَّهِ رَضِيَ اَللَّهُ عَنْهُمَا",
+        "english": "Jābir ibn ʿAbdillāh (May Allah be pleased with them both)"
+      },
+      "slug": "jabir-ibn-abdillah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-22-tartib-rule",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عبادات میں ترتیب کا اصول",
+        "english": "The Principle of Sequence (Tartīb) in Worship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ترتیب کا وجوب",
+              "english": "Mandatory Nature of Sequence (Tartīb)"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ایک **عظیم قاعدہ** ہے جو اصولِ فقہ میں یہ ثابت کرتا ہے کہ اگر شریعت نے کسی عمل میں ترتیب مقرر کی ہو تو اس کی پیروی واجب (فرض) ہے۔",
+                "یہ حکم بنیادی طور پر حج کی سعی (صفا اور مروہ) کے بارے میں تھا، جہاں اللہ نے پہلے صفا کا ذکر کیا، اس لیے وہاں سے شروع کرنا واجب ہے۔",
+                "وضو کے ارکان (چہرہ، ہاتھ، سر، پاؤں) کی ترتیب بھی اسی آیت اور اس اصول کی وجہ سے جمہور علماء کے نزدیک **فرض** ہے۔"
+              ],
+              "english": [
+                "This Hadith establishes a **major rule** in jurisprudence: if the Sharia mandates a sequence of actions, following that order is obligatory (Fard).",
+                "The command was initially given concerning the pilgrimage (Hajj) ritual of Sa'ī (between Ṣafā and Marwah), where starting with Ṣafā is mandatory because Allah mentioned it first.",
+                "The sequence of Wudu's obligatory limbs (face, hands, head, feet) is also considered **obligatory** by the majority of scholars due to the Wudu verse and this general principle."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرآن میں آغاز",
+              "english": "Starting with the Qur'anic Order"
+            },
+            "content": {
+              "urdu": [
+                "وضو کے اعضاء کا ذکر قرآن کی آیت (المائدہ 6) میں جس ترتیب سے آیا ہے (چہرہ، ہاتھ، سر، پاؤں)، اسی ترتیب سے دھونا فرض ہے۔",
+                "یہ حدیث اس قرآنی حکم کو تقویت دیتی ہے اور اس پر عمل کو لازم قرار دیتی ہے کہ ہم اپنی عبادات کو اللہ کے مقرر کردہ طریقے سے ہٹ کر نہ کریں۔",
+                "نسائی کی روایت میں 'اِبْدَؤُوا' (ابتداء کرو) کا صیغۂ امر اس ترتیب کی فرضیت کو مزید واضح کر دیتا ہے۔"
+              ],
+              "english": [
+                "The order of Wudu limbs mentioned in the Qur'anic verse (Al-Mā'idah 5:6)—face, hands, head, feet—is the mandatory sequence for washing them.",
+                "This Hadith reinforces that Qur'anic command, making it obligatory to perform acts of worship in the exact manner prescribed by Allah.",
+                "The commanding tense 'Ibda'ū' (begin) in An-Nasā’ī's narration clearly emphasizes the mandatory nature of this sequence."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "الفاظ کا اختلاف اور فقہی نتیجہ",
+        "english": "Wording Difference and Fiqh Outcome"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلم اور نسائی کے الفاظ",
+              "english": "Wording in Muslim and Nasā’ī"
+            },
+            "content": {
+              "urdu": [
+                "نسائی کی روایت میں **امر** (حکم) کا صیغہ استعمال ہوا ہے ('اِبْدَؤُوا')، جو وجوب (فرضیت) پر دلالت کرتا ہے اور یہ فقہاء کے لیے مضبوط دلیل ہے۔",
+                "جبکہ مسلم کی روایت میں **خبر** کا صیغہ ہے (بمعنی 'ہم شروع کرتے ہیں')، جو اگرچہ وجوب پر دلالت نہیں کرتا لیکن نبی ﷺ کے فعل کی پیروی پر زور دیتا ہے۔",
+                "دونوں روایات مل کر اس بات کو یقینی بناتی ہیں کہ ترتیب نبی ﷺ کی سنت بھی ہے اور وجوب پر بھی قوی دلیل موجود ہے۔"
+              ],
+              "english": [
+                "An-Nasā’ī's narration uses the **commanding tense** ('Ibda'ū'), which is strong evidence for the obligation (Wujūb) of following the sequence.",
+                "Muslim's narration uses the **reporting tense** (meaning 'We begin'), which, although not directly commanding, emphasizes adherence to the Prophet's established practice.",
+                "Both narrations combined strongly confirm that the order is both the Sunnah of the Prophet (ﷺ) and a ruling with compelling evidence for its obligation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضو میں ترتیب کی اہمیت",
+              "english": "The Importance of Sequence in Wudu"
+            },
+            "content": {
+              "urdu": [
+                "وضو کی آیت میں چار اعضاء ایک خاص ترتیب سے بیان ہوئے ہیں، اور یہ حدیث اس بات کی دلیل ہے کہ وضو کو اسی ترتیب سے کرنا چاہیے۔",
+                "اگر کوئی شخص قصداً اس ترتیب کو توڑتا ہے، مثلاً پہلے پاؤں دھوئے پھر چہرہ، تو جمہور کے نزدیک اس کا وضو باطل ہو جائے گا۔",
+                "یہ حکم وضو کے تمام ارکان کے درست طریقے سے ادا ہونے کو یقینی بناتا ہے، جو نماز کی قبولیت کی بنیادی شرط ہے۔"
+              ],
+              "english": [
+                "The Wudu verse lists four limbs in a specific order, and this Hadith is proof that Wudu must be performed following that exact sequence.",
+                "If a person intentionally breaks this sequence—for example, washing the feet before the face—the Wudu is considered invalid by the majority of scholars.",
+                "This ruling guarantees that all pillars of Wudu are performed correctly, which is the foundational prerequisite for the acceptance of Ṣalāh (prayer)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی اور علم کا منبع",
+        "english": "The Narrator and Source of Knowledge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جابر بن عبداللہؓ کا مقام",
+              "english": "The Status of Jābir ibn ʿAbdillāh"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا جابر بن عبداللہ رضی اللہ عنہ ایک جلیل القدر صحابی ہیں اور نبی اکرم ﷺ کے حج کے تفصیلی واقعات کے راوی ہیں۔",
+                "ان کی روایت سے یہ اصول صرف وضو تک محدود نہیں رہتا بلکہ تمام اہم شرعی افعال، جہاں ترتیب ضروری ہو، پر لاگو ہوتا ہے۔",
+                "ان کا یہ مشاہدہ اور روایت اس بات کی دلیل ہے کہ صحابہ کرام ہر شرعی عمل میں نبی ﷺ کی کامل پیروی کا کتنا خیال رکھتے تھے۔"
+              ],
+              "english": [
+                "Sayyiduna Jābir ibn ʿAbdillāh (RA) was a major Companion and the detailed narrator of the Prophet's farewell Hajj pilgrimage.",
+                "His narration extends the principle of sequence beyond Wudu to all crucial legal acts where order is specified and essential.",
+                "This observation and narration prove the meticulous care the Companions took to ensure complete adherence to the Prophet's practice in every legal matter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تیمن اور ترتیب کا تعلق",
+              "english": "Connection between Tayamum and Tartīb"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث وضو میں **ترتیب (Tartīb)** کے وجوب کو بیان کرتی ہے، جبکہ پچھلی احادیث میں **تیمن (دائیں سے آغاز)** کی سنت کو بیان کیا گیا۔",
+                "ترتیب (چہرہ، ہاتھ، سر، پاؤں) فرض ہے، جبکہ تیمن (دایاں پہلے) سنت ہے، دونوں مل کر وضو کو کمال عطا کرتے ہیں۔",
+                "اس طرح یہ حدیث وضو کے عمل کو ایک مکمل، منظم اور ربانی ہدایت کے مطابق انجام دینے کی تعلیم دیتی ہے۔"
+              ],
+              "english": [
+                "This Hadith establishes the obligation of **Tartīb** (sequence) in Wudu, while previous Ahadith established the Sunnah of **Tayamum** (starting with the right).",
+                "Tartīb (order of limbs) is obligatory, while Tayamum (right first) is Sunnah; both together lead to the perfection of Wudu.",
+                "Thus, this Hadith teaches that the act of Wudu must be performed completely, systematically, and precisely according to Divine guidance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

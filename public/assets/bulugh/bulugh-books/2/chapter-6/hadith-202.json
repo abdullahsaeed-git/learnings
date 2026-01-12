@@ -1,0 +1,276 @@
+{
+  "hadithId": 202,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["2", "6"],
+    "kitabId": 2,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 16
+  },
+  "name": {
+    "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ : { أُصِيبَ سَعْدٌ يَوْمَ اَلْخَنْدَقِ , فَضَرَبَ عَلَيْهِ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- خَيْمَةً فِي اَلْمَسْجِدِ , لِيَعُودَهُ مِنْ قَرِيبٍ } مُتَّفَقٌ عَلَيْهِ .‏",
+    "urdu": "سیدہ عائشہ رضی اللہ عنہا روایت کرتی ہیں کہ ” غزوہ خندق کے روز سیدنا سعد رضی اللہ عنہ زخمی ہو گئے تھے رسول اللہ صلی اللہ علیہ وسلم نے ان کیلئے مسجد میں خیمہ لگوایا تھا، تاکہ قریب سے ان کی تیمارداری (بآسانی) کر سکیں۔“ (بخاری و مسلم)  ",
+    "english": "Narrated from 'Aishah (may Allah be pleased with her): Sa'd (ibn Mu'adh) was wounded on the day of Al-Khandaq (the Battle of the Trench), and the Messenger of Allah (peace and blessings be upon him) set up a tent for him in the mosque so that he could visit him closely (and attend to him easily)."
+  },
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواه البخاري في كتاب الصلاة، باب الخيمة في المسجد (463)، ومسلم في كتاب الجهاد والسير، باب جواز معالجة الجرحى في المسجد (1769).",
+    "urdu": "صحیح متفق علیہ۔ اسے بخاری نے کتاب الصلاة، باب الخیمة فی المسجد (463) میں روایت کیا ہے، اور مسلم نے کتاب الجہاد والسیر، باب جواز معالجة الجرحی فی المسجد (1769) میں روایت کیا ہے۔",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh). Reported by Al-Bukhari in the Book of Prayer, Chapter: A tent in the mosque (463), and by Muslim in the Book of Jihad and Expeditions, Chapter: Permissibility of treating the wounded in the mosque (1769)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أُصِيبَ",
+      "english": "Was wounded/struck",
+      "urdu": "زخمی ہوئے"
+    },
+    {
+      "arabic": "يوم الخندق",
+      "english": "The day of Al-Khandaq (Trench)",
+      "urdu": "غزوہ خندق کے دن"
+    },
+    {
+      "arabic": "خيمة",
+      "english": "Tent/Canopy",
+      "urdu": "خیمہ/ٹینٹ"
+    },
+    {
+      "arabic": "ليعوده",
+      "english": "So that he could visit him",
+      "urdu": "تاکہ ان کی تیمارداری کر سکیں"
+    },
+    {
+      "arabic": "من قريب",
+      "english": "From close proximity/easily",
+      "urdu": "قریب سے/آسانی سے"
+    },
+    {
+      "arabic": "المسجد",
+      "english": "The Mosque",
+      "urdu": "مسجد"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ مسجد کو نہ صرف عبادت کے لیے، بلکہ سماجی اور فلاحی مقاصد کے لیے بھی استعمال کیا جا سکتا ہے، جیسے شدید زخمی یا بیمار کی دیکھ بھال کرنا۔ نبی صلی اللہ علیہ وسلم نے حضرت سعد بن معاذ رضی اللہ عنہ کے لیے مسجد میں خیمہ لگوایا تاکہ وہ خود اور مسلمان آسانی سے ان کی تیمارداری کر سکیں اور ان کی حالت سے باخبر رہیں۔",
+    "english": "This Hadith illustrates that the mosque can be used not only for worship but also for social and welfare purposes, such as caring for the seriously wounded or sick. The Prophet (PBUH) had a tent erected for Sa'd ibn Mu'adh (RA) inside the mosque so that he and the Muslims could visit him easily and stay informed about his condition."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الصلاة، باب الخيمة في المسجد (463)",
+      "english": "Sahih Al-Bukhari, Book of Prayer, Chapter: A tent in the mosque (463)"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الجهاد والسير، باب جواز معالجة الجرحى في المسجد (1769)",
+      "english": "Sahih Muslim, Book of Jihad and Expeditions, Chapter: Permissibility of treating the wounded in the mosque (1769)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "'Aishah bint Abi Bakr As-Siddiq"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "سعد بن معاذ",
+        "english": "Sa'd ibn Mu'adh"
+      },
+      "slug": "sad-ibn-muadh"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S8L_o_0aJkU",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد، مرکزِ فلاح و بہبود",
+        "english": "The Mosque: A Center for Welfare"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد میں علاج اور دیکھ بھال",
+              "english": "Treatment and Care in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم صلی اللہ علیہ وسلم نے مسجد کو صرف نماز کے لیے نہیں بلکہ ایک فعال سماجی مرکز بنایا۔",
+                "حضرت سعد کو مسجد میں ٹھہرانا یہ ثابت کرتا ہے کہ ضرورت کے تحت مسجد میں مریض کی دیکھ بھال جائز ہے۔",
+                "شرط یہ ہے کہ مریض یا زخمی کی طرف سے مسجد میں نجاست یا گندگی پھیلنے کا اندیشہ نہ ہو۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) established the mosque not just for prayer but as an active social center.",
+                "Keeping Sa'd in the mosque proves that it is permissible to care for a sick or wounded person in the mosque out of necessity.",
+                "The condition is that there should be no fear of the patient or wounded spreading impurity or filth in the mosque."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تیمارداری کی سہولت",
+              "english": "Facilitation of Visiting the Sick"
+            },
+            "content": {
+              "urdu": [
+                "خیمہ نصب کرنے کا مقصد یہ تھا کہ نبی صلی اللہ علیہ وسلم اور دیگر صحابہ آسانی سے تیمارداری کر سکیں۔",
+                "یہ حکم اس بات کی دلیل ہے کہ مسجد کو اجتماعی اور فلاحی ضروریات کے لیے استعمال کیا جا سکتا ہے۔",
+                "تیمارداری کرنا اسلامی اخلاقیات کا ایک اہم حصہ ہے، جسے مسجد کے ذریعے سہل بنایا گیا۔"
+              ],
+              "english": [
+                "The purpose of erecting the tent was to allow the Prophet (PBUH) and other Companions to visit him easily.",
+                "This ruling proves that the mosque can be used for communal and welfare needs.",
+                "Visiting the sick is a crucial part of Islamic ethics, which was made easier through the mosque."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خیمہ اور نجاست کی حفاظت",
+        "english": "The Tent and Protection of Purity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد میں خیمہ لگانا",
+              "english": "Erecting a Tent in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "حضرت سعد کے لیے خیمہ لگانے کا عمل اس بات کی طرف اشارہ ہے کہ خلوت اور طہارت کا خیال رکھا گیا۔",
+                "خیمہ نجاستوں کو مسجد کی زمین تک پہنچنے سے روکنے میں مددگار ہو سکتا تھا۔",
+                "یہ اس اصول کو مزید تقویت دیتا ہے کہ مسجد کے تقدس میں خلل نہ پڑے۔"
+              ],
+              "english": [
+                "The act of setting up a tent for Sa'd suggests that privacy and purity were maintained.",
+                "The tent could have helped prevent impurities from reaching the mosque floor.",
+                "This reinforces the principle that the sanctity of the mosque should not be compromised."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عورتوں کی عیادت",
+              "english": "Women's Nursing (in the Mosque)"
+            },
+            "content": {
+              "urdu": [
+                "ایک دوسری روایت میں ہے کہ حضرت سعد کی دیکھ بھال ایک صحابیہ رفیدہ رضی اللہ عنہا نے کی تھی۔",
+                "اس سے یہ ثابت ہوتا ہے کہ مسجد میں خواتین کا نرسنگ کا کام کرنا بھی جائز ہے۔",
+                "مسجدِ نبوی ایک بڑا مرکز تھا جہاں مردوں اور عورتوں کے لیے الگ حصے مقرر تھے۔"
+              ],
+              "english": [
+                "Another narration mentions that Sa'd was nursed by a female Companion, Rufaydah (RA).",
+                "This proves that it is permissible for women to carry out nursing duties in the mosque.",
+                "The Prophet's Mosque was a large center with separate areas designated for men and women."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی استدلال اور احکام",
+        "english": "Juristic Inferences and Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد میں قیام",
+              "english": "Staying Overnight in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مسافروں، غریبوں، اور ضرورت مندوں کے لیے مسجد میں عارضی قیام کا جواز فراہم کرتی ہے۔",
+                "اس سے پتہ چلتا ہے کہ اعتکاف کی صورت کے علاوہ بھی کسی خاص ضرورت پر مسجد میں ٹھہرنا جائز ہے۔",
+                "مسجد کی دیکھ بھال اور طہارت کو برقرار رکھنا ہمیشہ مقدم رہنا چاہیے۔"
+              ],
+              "english": [
+                "This Hadith permits temporary stay in the mosque for travelers, the poor, and those in need.",
+                "It shows that staying in the mosque is permissible for specific needs, even outside the context of I'tikaf (spiritual retreat).",
+                "The maintenance and purity of the mosque must always be prioritized."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ضرورت بمطابق استعمال",
+              "english": "Usage According to Necessity"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول مسجد کے استعمال کی وسعت کو واضح کرتا ہے: ضرورت کے مطابق جائز کاموں کے لیے استعمال کیا جائے۔",
+                "جیسے قیدی کو باندھنا، زخمی کا علاج، یا فقراء کو پناہ دینا، سب جائز ہیں۔",
+                "ممنوعہ کام وہ ہیں جو مسجد کی حرمت کے خلاف ہوں یا عام عبادت میں خلل ڈالیں۔"
+              ],
+              "english": [
+                "This principle clarifies the broad usage of the mosque: it can be used for permissible activities based on necessity.",
+                "Actions like tying a captive, treating the wounded, or providing shelter to the needy are all permissible.",
+                "Prohibited actions are those that violate the sanctity of the mosque or disrupt general worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور اجتماعی سبق",
+        "english": "Ethical and Communal Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سماجی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "مسجد مسلمانوں کو ایک دوسرے کی دیکھ بھال اور خبر گیری کا درس دیتی ہے۔",
+                "حضرت سعد کے لیے خیمہ لگانا مسلمانوں کی آپس میں مضبوطی اور بھائی چارے کو ظاہر کرتا ہے۔",
+                "مسجد کی انتظامیہ کو چاہیے کہ وہ ہنگامی صورتحال کے لیے مسجد کو تیار رکھے۔"
+              ],
+              "english": [
+                "The mosque teaches Muslims mutual care and looking out for one another.",
+                "Erecting a tent for Sa'd shows the strong bond and brotherhood among the Muslims.",
+                "Mosque management should ensure the mosque is prepared for emergency situations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قیادت کی مثال",
+              "english": "Example of Leadership"
+            },
+            "content": {
+              "urdu": [
+                "نبی صلی اللہ علیہ وسلم کا سعد کی تیمارداری کے لیے خیمہ لگوانا بہترین قائدانہ مثال ہے۔",
+                "اس سے معلوم ہوتا ہے کہ رہنما کو اپنے ساتھیوں کے معاملات اور ضروریات سے باخبر رہنا چاہیے۔",
+                "یہ عمل دین و دنیا کے معاملات میں ایک کامل توازن کی مثال ہے۔"
+              ],
+              "english": [
+                "The Prophet's action of setting up a tent for Sa'd to visit him is an excellent example of leadership.",
+                "It shows that a leader should be attentive to the affairs and needs of his followers.",
+                "This action exemplifies a perfect balance between religious and worldly matters."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

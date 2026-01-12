@@ -1,0 +1,257 @@
+{
+  "hadithId": 273,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:1073",
+      "https://sunnah.com/muslim:577"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "صحیح البخاری / صحیح مسلم",
+    "babId": 18
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح متفق عليه .‏ رواه البخاري ( 1073 )‏ ، ومسلم ( 577 )‏ .‏",
+    "urdu": "صحیح، متفق علیہ۔ اسے بخاری (1073) اور مسلم (577) نے روایت کیا ہے۔",
+    "english": "Sahih (Agreed Upon). Reported by Al-Bukhari (1073) and Muslim (577)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَرَأْتُ",
+      "english": "I recited",
+      "urdu": "میں نے پڑھا"
+    },
+    {
+      "arabic": "اَلنَّجْمَ",
+      "english": "The Star (Surah An-Najm)",
+      "urdu": "سورۃ النجم"
+    },
+    {
+      "arabic": "فَلَمْ يَسْجُدْ",
+      "english": "He did not prostrate",
+      "urdu": "انہوں نے سجدہ نہیں کیا"
+    },
+    {
+      "arabic": "عَلَى اَلنَّبِيِّ",
+      "english": "Before the Prophet",
+      "urdu": "نبی ﷺ کے سامنے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بتاتی ہے کہ سجدہ تلاوت فرض نہیں ہے بلکہ سنت مؤکدہ یا مستحب ہے، کیونکہ نبی ﷺ نے سورۃ النجم سننے کے باوجود سجدہ ترک فرمایا تاکہ امت پر آسانی ہو۔",
+    "english": "This Hadith indicates that the Prostration of Recitation (Sujud at-Tilawah) is not obligatory (Fard) but Recommended (Sunnah), as the Prophet (ﷺ) omitted it to show flexibility."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1073)",
+      "english": "Reported by Al-Bukhari (1073)"
+    },
+    {
+      "arabic": "رواه مسلم (577)",
+      "english": "Reported by Muslim (577)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "زَيْدِ بْنِ ثَابِتٍ",
+        "english": "Zaid bin Thabit"
+      },
+      "slug": "zaid-bin-thabit"
+    }
+  ],
+  "ytLink": "https://youtu.be/J6yR0gqF37E?si=Hq6T6yR0Xz5Z_g_n",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سجدہ تلاوت کا حکم",
+              "english": "Ruling on Prostration"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک سجدہ تلاوت سنت ہے، واجب نہیں۔",
+                "نبی ﷺ کا سجدہ چھوڑنا اس کے عدم وجوب کی دلیل ہے۔",
+                "اگر یہ فرض ہوتا تو آپ ﷺ کبھی نہ چھوڑتے۔"
+              ],
+              "english": [
+                "According to the majority of scholars, Sujud Tilawah is Sunnah, not Wajib.",
+                "The Prophet's omission is proof that it is not obligatory.",
+                "If it were Fard, he would never have omitted it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "واقعہ کا پس منظر",
+              "english": "Background of the Event"
+            },
+            "content": {
+              "urdu": [
+                "زید بن ثابت رضی اللہ عنہ نے تلاوت کی اور نبی ﷺ سامع تھے۔",
+                "سامع (سننے والے) پر سجدہ تب لازم ہوتا ہے جب قاری سجدہ کرے۔",
+                "ممکن ہے کہ اس وقت وضو نہ ہو یا کوئی عذر ہو۔"
+              ],
+              "english": [
+                "Zaid bin Thabit (RA) recited, and the Prophet (ﷺ) was the listener.",
+                "The listener is required to prostrate only if the reciter prostrates.",
+                "It is possible there was no Wudu or a valid excuse at that time."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وجوب یا استحباب",
+              "english": "Obligation or Recommendation"
+            },
+            "content": {
+              "urdu": [
+                "شافعی اور مالکی مسلک میں یہ حدیث سنت ہونے کی قوی دلیل ہے۔",
+                "احناف کے نزدیک سجدہ تلاوت واجب ہے، وہ اس حدیث کو تاخیر پر محمول کرتے ہیں۔",
+                "یعنی سجدہ اسی وقت کرنا ضروری نہیں، بعد میں بھی ہو سکتا ہے۔"
+              ],
+              "english": [
+                "For Shafi'is and Malikis, this is strong proof of it being Sunnah.",
+                "Hanafis consider it Wajib and interpret this Hadith as delaying the act.",
+                "Meaning, it is not necessary to perform it immediately; it can be done later."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تلاوت کے آداب",
+              "english": "Etiquettes of Recitation"
+            },
+            "content": {
+              "urdu": [
+                "قاری کی ذمہ داری ہے کہ وہ سجدہ کرے تو سامعین بھی کریں۔",
+                "اگر قاری سجدہ نہ کرے تو سامعین پر سجدہ لازم نہیں۔",
+                "یہ اصول جماعت اور نظم و ضبط کو برقرار رکھتا ہے۔"
+              ],
+              "english": [
+                "It is the reciter's duty; if he prostrates, listeners should too.",
+                "If the reciter does not prostrate, it is not binding on the listeners.",
+                "This principle maintains congregation and discipline."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "ہر وقت سجدہ کرنا بعض اوقات مشکل ہو سکتا ہے (جیسے سواری پر)۔",
+                "نبی ﷺ کے عمل نے امت کے لیے گنجائش پیدا کی۔",
+                "مشکل حالات میں سجدہ تلاوت کو مؤخر یا ترک کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "Prostrating every time can be difficult (e.g., while riding).",
+                "The Prophet's action created flexibility for the Ummah.",
+                "In difficult situations, Sujud Tilawah can be delayed or omitted."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباع سنت",
+              "english": "Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں ہر حال میں سنت کی پیروی کرنی چاہیے۔",
+                "اگر امام سجدہ کرے تو ساتھ دیں، نہ کرے تو خاموش رہیں۔",
+                "اختلافی مسائل میں جھگڑنے سے بچنا چاہیے۔"
+              ],
+              "english": [
+                "We must follow the Sunnah in every situation.",
+                "If the Imam prostrates, join him; if not, remain silent.",
+                "Avoid arguing over difference of opinion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرآن سننا",
+              "english": "Listening to Quran"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام نبی ﷺ کو قرآن سناتے تھے۔",
+                "اچھی آواز میں قرآن سننا نبی ﷺ کی سنت ہے۔",
+                "استاد اپنے شاگرد سے بھی قرآن سن سکتا ہے۔"
+              ],
+              "english": [
+                "The Companions used to recite Quran to the Prophet (ﷺ).",
+                "Listening to Quran in a good voice is a Sunnah.",
+                "A teacher can also listen to the Quran from his student."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سورۃ النجم کی فضیلت",
+              "english": "Virtue of Surah An-Najm"
+            },
+            "content": {
+              "urdu": [
+                "یہ پہلی سورۃ ہے جس میں سجدہ نازل ہوا۔",
+                "اس کی تلاوت دلوں پر گہرا اثر کرتی ہے۔",
+                "مشرکین بھی اس کی تاثیر سے سجدہ کرنے پر مجبور ہو گئے تھے۔"
+              ],
+              "english": [
+                "This is the first Surah in which a prostration was revealed.",
+                "Its recitation has a deep effect on hearts.",
+                "Even polytheists were compelled to prostrate by its impact."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

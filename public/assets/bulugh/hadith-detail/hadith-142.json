@@ -1,0 +1,285 @@
+{
+  "hadithId": 142,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["1:2:14"],
+    "kitabId": 2,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 11
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (1278)‏، والترمذي (419)‏، وأحمد (5811)‏، وعند أبي داود في أوله زيادة: \"ليبلغ شاهدكم غائبكم\".‏ وقال الترمذي: \"ومعنى هذا الحديث إنما يقول: لا صلاة بعد طلوع الفجر إلا ركعتي الفجر\".‏ قلت: وما قاله الترمذي هو لفظ رواية عبد الرازق.‏ وأما ابن ماجه (235)‏ فاقتصر على قوله: \"ليبلغ شاهدكم غائبكم\"، وبذلك يتبين أن عزو الحديث له غير دقيق من الحافظ رحمه الله .‏ صحيح.‏ رواه عبد الرزاق في \"المصنف\" (3 /53 /4760)‏.‏ صحيح بما قبله.‏ ورواه الدارقطني (1/419/3)‏ ولفظه: \"لا صلاة بعد صلاة الفجر إلا ركعتين\".‏ ",
+    "urdu": "صحیح۔ اسے ابو داؤد (1278)، ترمذی (419) اور احمد (5811) نے روایت کیا ہے۔ ابو داؤد کے شروع میں اضافہ ہے: ”تمہارا حاضر غائب کو پہنچا دے۔“ ترمذی نے کہا: ”اس حدیث کا مفہوم یہ ہے کہ وہ کہہ رہے ہیں: طلوع فجر کے بعد صرف فجر کی دو رکعات ہیں۔“ میں (حافظ ابن حجر) کہتا ہوں: جو ترمذی نے کہا وہ عبدالرزاق کی روایت کے الفاظ ہیں۔ ابن ماجہ (235) نے صرف یہ جملہ: ”تمہارا حاضر غائب کو پہنچا دے“ پر اکتفا کیا، اس طرح یہ واضح ہوتا ہے کہ اس حدیث کو ان کی طرف منسوب کرنا حافظ (ابن حجر) کی طرف سے غیر دقیق ہے۔ صحیح۔ اسے عبدالرزاق نے \"المصنف\" (3/53/4760) میں روایت کیا ہے۔ یہ اپنی سابقہ روایت کے ساتھ مل کر صحیح ہے۔ اسے دارقطنی (1/419/3) نے روایت کیا ہے، اور اس کے الفاظ ہیں: ”نماز فجر کے بعد صرف دو رکعات ہیں۔“",
+    "english": "Authentic (Sahih). Reported by Abu Dawud (1278), At-Tirmidhī (419), and Ahmad (5811). Abu Dawud includes an addition at the beginning: 'Let your present ones inform your absent ones.' At-Tirmidhī said: 'The meaning of this Hadith is only to say: There is no prayer after the rising of Fajr except the two rak'ahs of Fajr.' I say: What At-Tirmidhī said is the wording of 'Abdur-Razzāq's narration. As for Ibn Mājah (235), he limited it to the phrase: 'Let your present ones inform your absent ones,' thus it is clear that Al-Ḥāfiẓ's attribution of the Hadith to him is inaccurate. Authentic (Sahih). Reported by 'Abdur-Razzāq in 'Al-Muṣannaf' (3/53/4760). Authentic by virtue of the preceding narrations. Reported by Ad-Dāraquṭnī (1/419/3) with the wording: 'There is no prayer after the Fajr prayer except for two rak'ahs.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا صَلَاةَ",
+      "english": "No prayer",
+      "urdu": "کوئی نماز نہیں"
+    },
+    {
+      "arabic": "بَعْدَ اَلْفَجْرِ",
+      "english": "After Fajr prayer",
+      "urdu": "فجر کی نماز کے بعد"
+    },
+    {
+      "arabic": "إِلَّا سَجْدَتَيْنِ",
+      "english": "Except for two prostrations",
+      "urdu": "سوائے دو سجدوں کے (دو رکعات)"
+    },
+    {
+      "arabic": "طُلُوعِ اَلْفَجْرِ",
+      "english": "The rising of Fajr (dawn)",
+      "urdu": "طلوع فجر کے بعد"
+    },
+    {
+      "arabic": "رَكْعَتَيْ اَلْفَجْرِ",
+      "english": "The two rak'ahs of Fajr (Sunnah)",
+      "urdu": "فجر کی دو رکعتیں (سنت)"
+    },
+    {
+      "arabic": "شَاهِدَكُمْ",
+      "english": "Your present ones",
+      "urdu": "تمہارا حاضر"
+    },
+    {
+      "arabic": "غَائِبَكُمْ",
+      "english": "Your absent ones",
+      "urdu": "تمہارا غائب"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز فجر اور نماز عصر کے بعد عام نوافل پڑھنے کی ممانعت کو مزید واضح کرتی ہے۔ یہ حکم دیتی ہے کہ جب فجر کی سچی روشنی (فجر صادق) طلوع ہو جائے تو صرف فجر کی دو سنتیں ادا کی جا سکتی ہیں، اس کے علاوہ طلوع آفتاب تک کوئی اور نفل نماز جائز نہیں۔",
+    "english": "This Hadith further clarifies the prohibition of performing general voluntary prayers after Fajr and 'Asr. It commands that once the true dawn (Fajr Ṣādiq) has risen, no voluntary prayers are permissible until sunrise, except for the two highly emphasized Sunnah rak'ahs of Fajr."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1278)",
+      "english": "Reported by Abu Dawud (1278)"
+    },
+    {
+      "arabic": "رواه الترمذي (419)",
+      "english": "Reported by At-Tirmidhī (419)"
+    },
+    {
+      "arabic": "رواه عبد الرزاق في المصنف (4760)",
+      "english": "Reported by 'Abdur-Razzāq in Al-Muṣannaf (4760)"
+    },
+    {
+      "arabic": "رواه الدارقطني (1/419/3)",
+      "english": "Reported by Ad-Dāraquṭnī (1/419/3)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn 'Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah ibn 'Amr ibn Al-'Āṣ"
+      },
+      "slug": "abdullah-ibn-amr-ibn-al-as"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjIuS4dYwM0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فجر کے بعد نماز کی ممانعت کا حکم",
+        "english": "The Ruling on Prayer After Fajr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دو ممانعت کے اوقات",
+              "english": "Two Periods of Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث میں طلوع فجر سے لے کر طلوع آفتاب تک نوافل کی ممانعت کا ذکر ہے۔",
+                "نبی اکرم ﷺ نے واضح کیا کہ اس عرصے میں صرف فجر کی سنتیں (دو رکعات) ہی ادا کی جا سکتی ہیں۔",
+                "فجر کی سنتیں ان نوافل میں شامل ہیں جو ممنوع اوقات میں استثنا رکھتے ہیں، کیونکہ یہ نماز کے ساتھ جڑی ہیں۔"
+              ],
+              "english": [
+                "This Hadith mentions the prohibition of voluntary prayers from the rising of Fajr until sunrise.",
+                "The Prophet (ﷺ) clarified that during this period, only the Sunnah of Fajr (two rak'ahs) may be performed.",
+                "The Fajr Sunnah is among the voluntary prayers that are exceptions in prohibited times, as they are intrinsically linked to the obligatory prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بعد از فرض نماز کا حکم",
+              "english": "Ruling After the Obligatory Prayer"
+            },
+            "content": {
+              "urdu": [
+                "ایک روایت میں 'بعد الفجر' سے مراد فرض نماز فجر کے بعد کا وقت بھی ہے، یعنی طلوع آفتاب تک۔",
+                "طلوع آفتاب تک نماز فجر کے بعد کسی بھی قسم کا نفل پڑھنا مکروہ ہے، چاہے وہ ذی سبب ہی کیوں نہ ہو۔",
+                "یہ ممانعت اس لیے ہے تاکہ کوئی شخص طلوع آفتاب کے ممنوع وقت میں نماز نہ پڑھنے لگے۔"
+              ],
+              "english": [
+                "One wording, 'after the Fajr prayer,' refers to the time after the obligatory Fajr prayer until sunrise.",
+                "Performing any voluntary prayer after the Fajr obligatory prayer until sunrise is disliked (Makrūh), even if it has a reason.",
+                "This prohibition prevents a person from inadvertently praying during the strictly prohibited time of sunrise."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور عملی تقسیم",
+        "english": "Juristic and Practical Division"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طلوع فجر سے پہلے",
+              "english": "Before Fajr Rises"
+            },
+            "content": {
+              "urdu": [
+                "طلوع فجر سے پہلے رات کے آخری حصے میں نفل نماز اور تہجد کی اجازت ہے۔",
+                "فجر کی سنتیں نماز فجر کے وقت سے پہلے (یعنی فجر صادق کے طلوع ہوتے ہی) ادا کرنا افضل ہے۔",
+                "سحری کا اختتام طلوع فجر کے ساتھ ہی ہو جاتا ہے، اس کے بعد نماز کا وقت شروع ہوتا ہے۔"
+              ],
+              "english": [
+                "Voluntary prayers and Tahajjud are permissible in the last part of the night before Fajr rises.",
+                "It is preferable to perform the Sunnah of Fajr immediately upon the rising of Fajr Ṣādiq (true dawn).",
+                "Suhoor ends with the rising of Fajr, after which the time for the obligatory prayer begins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قضا اور تحیۃ المسجد",
+              "english": "Qadā' and Greeting the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کا اختلاف ہے کہ کیا فوت شدہ فرض نمازوں کی قضا ان ممنوع اوقات میں ادا کی جا سکتی ہے۔",
+                "تحیۃ المسجد (مسجد میں داخل ہونے کی نماز) کے بارے میں بھی اختلاف ہے، لیکن اکثر علماء اسے ممنوع اوقات میں جائز نہیں سمجھتے۔",
+                "صحیح قول یہی ہے کہ فجر کی سنتوں کے علاوہ تمام نفل نمازیں ان اوقات میں ممنوع ہیں۔"
+              ],
+              "english": [
+                "Jurists differ on whether missed obligatory prayers (Qadā') can be performed during these prohibited times.",
+                "There is also a difference regarding Tahiyyat Al-Masjid (Greeting the Mosque), but most scholars deem it impermissible during prohibited times.",
+                "The correct view is that all voluntary prayers, except the Fajr Sunnah, are prohibited during these times."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی وضاحت اور تنبیہ",
+        "english": "Clarification and Admonition of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دو سجدوں کی اہمیت",
+              "english": "Importance of the Two Prostrations"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'سجدتین' (دو سجدے) سے مراد 'رکعتین' (دو رکعات) ہیں، جیسا کہ دیگر روایات میں وضاحت ہے۔",
+                "فجر کی سنتیں تمام نوافل میں سب سے زیادہ مؤکد اور اہم ہیں اور ان کی ادائیگی پر زور دیا گیا ہے۔",
+                "یہ سنتیں سفر میں بھی ادا کی جاتی تھیں، جو ان کے عظیم مقام کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "The 'sajdatayn' (two prostrations) in the Hadith refer to 'rak'atayn' (two rak'ahs), as clarified in other narrations.",
+                "The Sunnah of Fajr is the most emphasized and important of all voluntary prayers, and its performance is stressed.",
+                "These Sunnah prayers were performed even during travel, indicating their high status."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خبر کو عام کرنے کا حکم",
+              "english": "The Command to Convey the News"
+            },
+            "content": {
+              "urdu": [
+                "ابو داؤد کی روایت میں 'لیبلغ شاهدكم غائبكم' (تمہارا حاضر غائب کو پہنچا دے) کا حکم ہے، جو شرعی علم کو عام کرنے کی ترغیب دیتا ہے۔",
+                "یہ حکم سکھاتا ہے کہ ایک مسلمان کو صرف اپنی ذات تک علم محدود نہیں رکھنا چاہیے بلکہ دوسروں تک پہنچانا بھی ضروری ہے۔",
+                "شرعی احکام کی نشر و اشاعت کرنا ہر مومن کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "Abu Dawud's narration includes the command 'Let your present ones inform your absent ones,' encouraging the dissemination of religious knowledge.",
+                "This command teaches that a Muslim should not restrict knowledge to themselves but must convey it to others.",
+                "The publication and spread of legal rulings are the responsibility of every believer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجر اور مقصد",
+        "english": "Reward and Purpose"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کی حفاظت",
+              "english": "Guarding the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "ان اوقات میں نوافل کی ممانعت کا ایک بڑا مقصد فرض نمازوں کو دوسرے اعمال پر فوقیت دینا ہے۔",
+                "ان اوقات میں نوافل میں مشغول ہونے سے لوگ فرض کی اہمیت کو کم نہ سمجھیں۔",
+                "یہ اصول نماز کے پورے نظام اور اوقات کے احترام کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "A main purpose of prohibiting voluntary prayers at these times is to prioritize obligatory prayers over other deeds.",
+                "It prevents people from diminishing the importance of the obligatory prayer by engaging in voluntary worship at the same time.",
+                "This principle ensures respect for the entire prayer system and its timings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فضائل میں احتیاط",
+              "english": "Caution in Virtues"
+            },
+            "content": {
+              "urdu": [
+                "سابقہ حدیث (141) کے برعکس، یہ حدیث صحیح ہے اور اس پر فقہی حکم کا مدار ہے۔",
+                "مسلمان کو ہمیشہ صحیح اور معتبر احادیث پر عمل کرنا چاہیے اور ضعیف روایات سے بچنا چاہیے۔",
+                "فجر کی سنتوں کا اجر اور فضیلت تمام دنیا سے بہتر ہے، اس لیے اسے ادا کرنا ضروری ہے۔"
+              ],
+              "english": [
+                "Unlike the previous Hadith (141), this one is authentic and forms the basis for legal rulings.",
+                "A Muslim should always act upon authentic and reliable Ahadith and avoid weak narrations.",
+                "The reward and virtue of the Fajr Sunnah are better than the entire world, making its performance essential."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

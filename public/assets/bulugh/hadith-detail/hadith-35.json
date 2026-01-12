@@ -1,0 +1,218 @@
+{
+  "hadithId": 35,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 7 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب غسل اليدين بعد النوم",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه البخاري (162) ، ومسلم (278) . ",
+    "urdu": "صحیح (درجہ)۔ اسے بخاری (162) اور مسلم (278) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bukhari (162) and Muslim (278)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِسْتَيْقَظَ",
+      "english": "Wakes up",
+      "urdu": "بیدار ہو"
+    },
+    {
+      "arabic": "نَوْمِهِ",
+      "english": "His sleep",
+      "urdu": "اپنی نیند"
+    },
+    {
+      "arabic": "فَلَا يَغْمِسُ",
+      "english": "Must not dip",
+      "urdu": "نہ ڈالے"
+    },
+    {
+      "arabic": "اَلْإِنَاءِ",
+      "english": "The vessel (of water)",
+      "urdu": "برتن"
+    },
+    {
+      "arabic": "يَغْسِلَهَا ثَلَاثًا",
+      "english": "Washes it three times",
+      "urdu": "تین مرتبہ دھوئے"
+    },
+    {
+      "arabic": "أَيْنَ بَاتَتْ يَدَهُ",
+      "english": "Where his hand spent the night",
+      "urdu": "ہاتھ کہاں رہا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اس اصول کو واضح کرتی ہے کہ نیند سے بیدار ہونے کے بعد اپنے ہاتھوں کو کسی بھی پانی کے برتن میں ڈالنے سے پہلے تین بار دھونا ضروری ہے، تاکہ طہارت کے پانی کو ہاتھ کی ممکنہ نجاست سے محفوظ رکھا جا سکے۔",
+    "english": "This Hadith establishes the crucial ruling that upon waking from sleep, one must wash their hands three times before dipping them into a water vessel, ensuring the water for purification remains free from possible contamination."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الوضوء، رقم 162",
+      "english": "Sahih Al-Bukhari, The Book of Ablution, Hadith 162"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الطهارة، رقم 278",
+      "english": "Sahih Muslim, The Book of Purification, Hadith 278"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abu Hurayrah (May Allah be pleased with him)"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-13-hand-washing-sleep",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Agreed Upon (by Bukhari and Muslim)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پانی کی حفاظت کا اصول",
+        "english": "The Principle of Protecting Water Purity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیند سے بیداری پر ہاتھ دھونے کا حکم",
+              "english": "The Command to Wash Hands Upon Waking"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم خاص طور پر اس پانی کی حفاظت کے لیے دیا گیا ہے جو طہارت (وضو یا غسل) کے لیے استعمال ہونا ہے، تاکہ وہ ہاتھوں کی ممکنہ نجاست سے پاک رہے۔",
+                "نبی اکرم ﷺ نے ہاتھ دھونے کو **واجب** یا کم از کم سخت تاکیدی **سنت** قرار دیا، جس کی خلاف ورزی سے بقیہ پانی مشکوک ہو سکتا ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ وضو اور غسل کے لیے استعمال ہونے والا پانی طاہر ہونا چاہیے، اور اس کی حفاظت پر سختی سے زور دیا گیا ہے۔"
+              ],
+              "english": [
+                "This ruling is specifically aimed at protecting the purity of the water designated for ritual purification (Wudu or Ghusl) from potential hand contamination.",
+                "The Prophet (ﷺ) made washing the hands **obligatory (Wājib)** or at least a highly emphasized **Sunnah** before dipping them, as violation could render the rest of the water doubtful.",
+                "This command underscores the principle that water used for ablution must be pure, and its preservation is strictly emphasized in Islamic law."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدم علم کی بنیاد پر احتیاط",
+              "english": "Precaution Based on Lack of Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں حکم کی وجہ یہ بیان کی گئی کہ 'اسے یہ معلوم نہیں کہ رات بھر ہاتھ کہاں کہاں گردش کرتا رہا۔' یہ ایک **احتیاطی** تدبیر ہے۔",
+                "سونے کے دوران انسان کو احساس نہیں ہوتا کہ اس کا ہاتھ بستر، جسم کے خفیہ حصوں یا کسی نجاست پر پڑا ہو گا، اس لیے نجاست کا **شبہ** موجود ہے۔",
+                "یہ حکم اس بات پر دلیل ہے کہ طہارت کے معاملات میں شک کی بنیاد پر بھی احتیاطی تدابیر اختیار کی جانی چاہئیں تاکہ پاکیزگی میں کوئی کمی نہ رہے۔"
+              ],
+              "english": [
+                "The reason provided in the Hadith is 'he does not know where his hand spent the night,' which serves as a **precautionary** measure (Ihtiyāṭ).",
+                "During sleep, one is unaware if their hand touched impure areas (like private parts) or other contamination, creating a **doubt** of ritual impurity.",
+                "This ruling establishes that in matters of purity, precautionary steps must be taken even based on doubt, to ensure that cleanliness is maintained without compromise."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور حکم کی نوعیت",
+        "english": "Fiqh Rulings and the Nature of the Command"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکم کا اطلاق",
+              "english": "Application of the Ruling"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم نیند سے بیدار ہونے والے ہر مسلمان پر لاگو ہوتا ہے، خواہ وہ مرد ہو یا عورت، اور اس سے مراد ہر قسم کی نیند ہے، خواہ قلیل ہو۔",
+                "یہ حکم صرف اس صورت میں ہے جب ہاتھ کو کسی **برتن میں رکھے ہوئے تھوڑے پانی** میں ڈبویا جائے جو وضو کے لیے استعمال ہونا ہے۔",
+                "اگر پانی بہت زیادہ ہو (جیسے بڑے ٹینک یا ندی) یا اگر ہاتھوں کو دھونے کے لیے بہتا ہوا پانی استعمال کیا جائے، تو یہ ممانعت لاگو نہیں ہوتی۔"
+              ],
+              "english": [
+                "This ruling applies to every Muslim who wakes up from sleep, male or female, and refers to any sleep, whether short or long.",
+                "The prohibition is specific to dipping the hand into a **small, stationary vessel of water** that is intended for Wudu or purification.",
+                "If the water source is large (like a vast reservoir or river) or if running water is used to wash the hands, the prohibition does not apply."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی کے حکم پر اثر",
+              "english": "Effect on the Water's Status"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک، اگر کوئی شخص بغیر دھوئے ہاتھ برتن میں ڈال دیتا ہے، تو اس پانی کے پاک ہونے کے بارے میں اختلاف پایا جاتا ہے۔",
+                "امام شافعی کے نزدیک پانی پاک رہتا ہے، لیکن ہاتھ دھونے کی سنت چھوٹ جاتی ہے۔ جبکہ دیگر کے نزدیک اگر شبہ ہو تو پانی نجس یا مشکوک ہو جاتا ہے۔",
+                "اس لیے احتیاط کا تقاضا ہے کہ برتن کے پانی کو محفوظ رکھنے کے لیے سنت پر مکمل عمل کیا جائے اور تین بار دھونے کے بعد ہی ہاتھ ڈالا جائے۔"
+              ],
+              "english": [
+                "If a person dips an unwashed hand into a vessel, scholars differ on the purity of that water, based on the strength of the doubt.",
+                "The Shafi'is hold that the water remains pure, but the Sunnah of washing the hands is missed. Others suggest the water becomes ritually impure (Najis) or doubtful.",
+                "Prudence dictates fully following the Sunnah—washing three times before dipping—to safeguard the purity of the water intended for ritual use."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی حکمت اور اخلاقی پہلو",
+        "english": "Educational Wisdom and Ethical Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طہارت میں بیداری",
+              "english": "Vigilance in Purity"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مسلمانوں کو طہارت اور حفظانِ صحت کے بارے میں ہمیشہ **بیدار اور ذمہ دار** رہنے کی تعلیم دیتی ہے، خاص طور پر نیند کے بعد۔",
+                "ایک مسلمان کو اپنے دینی معاملات میں کبھی لاپرواہ نہیں ہونا چاہیے اور ہمیشہ اس بات کو یقینی بنانا چاہیے کہ ان کی عبادات درست ہوں۔",
+                "یہ چھوٹی سی سنت اس بات کی علامت ہے کہ اسلام اپنے ماننے والوں کو روحانی اور جسمانی دونوں سطح پر اعلیٰ ترین صفائی کی طرف رہنمائی کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches Muslims to be continuously **vigilant and responsible** regarding purity and hygiene, especially after periods of unconsciousness like sleep.",
+                "A Muslim should never be negligent in religious matters and must always ensure that their acts of worship are based on certain purity.",
+                "This small Sunnah signifies that Islam guides its followers toward the highest standards of cleanliness on both spiritual and physical levels."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تین بار دھونے کی ترغیب",
+              "english": "Encouragement for Washing Thrice"
+            },
+            "content": {
+              "urdu": [
+                "جیسا کہ تمام وضو کے اعضاء کو تین بار دھونا سنت ہے، اسی طرح بیدار ہونے پر ہاتھوں کو تین بار دھونا بھی **کمالِ صفائی** کی ترغیب دیتا ہے۔",
+                "تین بار دھونے سے یہ یقینی ہو جاتا ہے کہ ہاتھ پر لگی ہوئی ممکنہ ناپاکی مکمل طور پر زائل ہو گئی ہے اور پانی محفوظ ہے۔",
+                "یہ طریقہ کار اس بات کا بھی ثبوت ہے کہ نبی اکرم ﷺ نے امت کو ہمیشہ ہر کام میں کامل ترین صورت اختیار کرنے کی ترغیب دی۔"
+              ],
+              "english": [
+                "Just as it is Sunnah to wash the limbs of Wudu three times, washing the hands three times upon waking promotes **thorough cleanliness**.",
+                "Washing thrice ensures that any potential, unseen impurity on the hand is completely removed and the water source is safeguarded.",
+                "This practice demonstrates that the Prophet (ﷺ) always encouraged the Ummah to adopt the most complete and perfect form for every religious act."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

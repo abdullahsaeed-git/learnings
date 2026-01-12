@@ -1,0 +1,200 @@
+{
+  "hadithId": 722,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/90"],
+    "kitabId": 7,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب البيوع",
+    "babId": 46
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه الحاكم (2/23)، والبيهقي (5/288)، والنسائي (4627)، والترمذي (1213). وصححه الحاكم والترمذي.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے حاکم، بیہقی، نسائی اور ترمذی نے روایت کیا ہے۔ اس کے تمام راوی ثقہ ہیں اور امام حاکم نے اسے شیخین کی شرط پر صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Al-Hakim (2/23), Al-Bayhaqi (5/288), An-Nasa'i (4627), and At-Tirmidhi (1213). Graded Sahih by Al-Hakim and At-Tirmidhi."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَزٌّ",
+      "english": "Garments / Cloth",
+      "urdu": "کپڑا یا کپڑے کا تھان"
+    },
+    {
+      "arabic": "بِنَسِيئَةٍ",
+      "english": "On credit",
+      "urdu": "ادھار"
+    },
+    {
+      "arabic": "مَيْسَرَةٍ",
+      "english": "Affluence / Ease / Means",
+      "urdu": "کشادگی یا مال آنے تک"
+    },
+    {
+      "arabic": "فَامْتَنَعَ",
+      "english": "He refused",
+      "urdu": "اس نے انکار کر دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ ضرورت کے وقت ادھار سودا کرنا جائز ہے، اور یہ بھی معلوم ہوتا ہے کہ نبی ﷺ کی زندگی کس قدر سادہ اور فقر والی تھی۔",
+    "english": "This Hadith establishes the permissibility of buying goods on credit and highlights the humble and modest lifestyle of the Prophet (ﷺ)."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي، كتاب البيوع",
+      "english": "Sunan at-Tirmidhi, Book of Sales"
+    },
+    {
+      "arabic": "مستدرك الحاكم، كتاب البيوع",
+      "english": "Mustadrak al-Hakim, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0S1_WvX-oI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ادھار بیع کا جواز",
+        "english": "Permissibility of Credit Sales"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ادھار خرید و فروخت",
+              "english": "Buying and Selling on Credit"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے واضح ہوتا ہے کہ ضرورت کے تحت ادھار سودا کرنا شرعاً جائز ہے۔",
+                "نبی ﷺ نے سیدہ عائشہ کی تجویز پر ادھار کے لیے پیغام بھیجا، جو اس کے حلال ہونے کی دلیل ہے۔",
+                "اسلامی معاشیات میں ادھار لین دین کو معاشی نظام کا حصہ تسلیم کیا گیا ہے۔"
+              ],
+              "english": [
+                "The Hadith clearly shows that purchasing goods on credit is Sharia-compliant.",
+                "The Prophet (ﷺ) sending a messenger for a credit purchase validates its lawfulness.",
+                "In Islamic economics, credit transactions are recognized as a valid part of the financial system."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مدت کی ادائیگی",
+              "english": "Payment Duration"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'میسرہ' سے مراد وہ وقت ہے جب ادائیگی کی گنجائش پیدا ہو جائے۔",
+                "اگرچہ مدت متعین کرنا بہتر ہے، مگر باہمی اعتماد پر لچک رکھی جا سکتی ہے۔",
+                "قرض دہندہ کو حق حاصل ہے کہ وہ اپنی مرضی سے ادھار دے یا انکار کرے۔"
+              ],
+              "english": [
+                "The term 'Maysarah' refers to a future time when payment becomes easier.",
+                "While fixing a specific date is preferred, flexibility based on mutual trust is allowed.",
+                "A seller has the legal right to either grant credit or refuse it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبوی زہد اور سادگی",
+        "english": "Prophetic Asceticism and Simplicity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سادہ طرزِ زندگی",
+              "english": "Modest Lifestyle"
+            },
+            "content": {
+              "urdu": [
+                "دو کپڑوں کے لیے ادھار کا ارادہ کرنا آپ ﷺ کے زہد اور دنیا سے بے رغبتی کو ظاہر کرتا ہے۔",
+                "ساری دنیا کے خزانے آپ ﷺ کے قدموں میں تھے، مگر آپ ﷺ نے فقر کو پسند فرمایا۔",
+                "نبی ﷺ نے کبھی اپنے اثر و رسوخ کو دنیاوی آسائشوں کے لیے استعمال نہیں کیا۔"
+              ],
+              "english": [
+                "Intending to buy just two garments on credit reflects the Prophet's (ﷺ) asceticism.",
+                "Despite having access to the world's treasures, he chose a life of poverty and modesty.",
+                "The Prophet (ﷺ) never used his influence to amass worldly luxuries."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تاجر کا حق اور اخلاقیات",
+        "english": "Merchant Rights and Ethics"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انکار کا حق",
+              "english": "Right of Refusal"
+            },
+            "content": {
+              "urdu": [
+                "تاجر نے ادھار دینے سے انکار کر دیا، جو اس کا قانونی حق تھا۔",
+                "نبی ﷺ نے اس کے انکار پر کوئی ناراضگی ظاہر نہیں کی بلکہ اس کی آزادی کا احترام کیا۔",
+                "تاجر کو اپنے مالی معاملات میں فیصلہ کرنے کی مکمل آزادی ہونی چاہیے۔"
+              ],
+              "english": [
+                "The merchant's refusal to provide credit was his legal right.",
+                "The Prophet (ﷺ) did not express anger, respecting the merchant's business autonomy.",
+                "Traders should have complete freedom to make their own financial decisions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عورت کی مشاورت",
+              "english": "Consulting Women"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ کی تجویز پر آپ ﷺ کا عمل کرنا گھریلو معاملات میں مشاورت کی اہمیت بتاتا ہے۔",
+                "بیوی کی نیک مشورے اور ضرورت کا خیال رکھنا سنتِ نبوی ہے۔",
+                "گھریلو زندگی میں باہمی تعاون خوشحالی کی بنیاد ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) acting on 'Aishah's suggestion highlights the importance of consultation at home.",
+                "Considering a wife's sound advice and needs is part of the Prophetic Sunnah.",
+                "Mutual cooperation in domestic life is the foundation of prosperity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

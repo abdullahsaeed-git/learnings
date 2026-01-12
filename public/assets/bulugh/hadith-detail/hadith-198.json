@@ -1,0 +1,280 @@
+{
+  "hadithId": 198,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["2", "6"],
+    "kitabId": 2,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 16
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواه البخاري في كتاب الصلاة، باب إنشاد الشعر في المسجد (3212) وفي الأدب، باب الهجاء (6097)، ومسلم في فضائل الصحابة، باب فضائل حسان بن ثابت (2485).",
+    "urdu": "صحیح متفق علیہ۔ اسے بخاری نے کتاب الصلاة، باب انشاد الشعر فی المسجد (3212) اور کتاب الادب (6097) میں روایت کیا ہے، اور مسلم نے فضائل الصحابۃ، باب فضائل حسان بن ثابت (2485) میں روایت کیا ہے۔",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh). Reported by Al-Bukhari in the Book of Prayer, Chapter: Reciting poetry in the mosque (3212) and in the Book of Manners (6097), and by Muslim in the Virtues of the Companions, Chapter: Virtues of Hassan ibn Thabit (2485)."
+  },
+  "importantWords": [
+    {
+      "arabic": "مرّ",
+      "english": "Passed by",
+      "urdu": "گزر ہوا"
+    },
+    {
+      "arabic": "حسان",
+      "english": "Hassan (ibn Thabit)",
+      "urdu": "حسان بن ثابت"
+    },
+    {
+      "arabic": "ينشد",
+      "english": "Reciting/Chanting (poetry)",
+      "urdu": "اشعار پڑھ رہے تھے"
+    },
+    {
+      "arabic": "فَلَحَظَ إليه",
+      "english": "He looked sternly at him",
+      "urdu": "انہوں نے گھور کر دیکھا"
+    },
+    {
+      "arabic": "من هو خير منك",
+      "english": "One who was better than you",
+      "urdu": "جو آپ سے افضل تھے"
+    },
+    {
+      "arabic": "المسجد",
+      "english": "The Mosque",
+      "urdu": "مسجد"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ مسجد کو نہ صرف عبادت کے لیے استعمال کیا جا سکتا ہے بلکہ ان مفید سرگرمیوں کے لیے بھی جو دین یا اسلام کے دفاع میں ہوں، جیسے نیک اور مقصد والے اشعار پڑھنا۔ حضرت حسان رضی اللہ عنہ نے یہ واضح کیا کہ جب رسول اللہ صلی اللہ علیہ وسلم کی موجودگی میں شعر پڑھنا جائز تھا، جو کہ حضرت عمر سے افضل تھے، تو ان کے دورِ خلافت میں بھی یہ جائز ہے۔",
+    "english": "This Hadith illustrates that the mosque can be used not only for worship but also for beneficial activities that support Islam or its defense, such as reciting virtuous and purposeful poetry. Hassan (RA) clarified that since reciting poetry was permissible in the presence of the Messenger of Allah (PBUH), who was superior to 'Umar (RA), it remained permissible during 'Umar's Caliphate."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الصلاة، باب انشاد الشعر في المسجد (3212)",
+      "english": "Sahih Al-Bukhari, Book of Prayer, Chapter: Reciting poetry in the mosque (3212)"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب فضائل الصحابة، باب فضائل حسان بن ثابت (2485)",
+      "english": "Sahih Muslim, Book of the Virtues of the Companions, Chapter: Virtues of Hassan ibn Thabit (2485)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "'Umar ibn Al-Khattab"
+      },
+      "slug": "umar-ibn-al-khattab"
+    },
+    {
+      "id": 3,
+      "name": {
+        "arabic": "حسان بن ثابت",
+        "english": "Hassan ibn Thabit"
+      },
+      "slug": "hassan-ibn-thabit"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYv0R2cM5nE",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد کا عمومی استعمال",
+        "english": "General Use of the Mosque"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اشعار پڑھنے کا جواز",
+              "english": "Permissibility of Reciting Poetry"
+            },
+            "content": {
+              "urdu": [
+                "حضرت حسان رضی اللہ عنہ کا واقعہ ثابت کرتا ہے کہ مسجد میں نیکی، حکمت اور دفاعِ دین پر مبنی اشعار پڑھنا جائز ہے۔",
+                "یہ اجازت اس وقت ہے جب اشعار فحاشی، بدگوئی یا دنیاوی فضولیات سے پاک ہوں۔",
+                "نبی اکرم صلی اللہ علیہ وسلم کی خاموش تائید اس بات کی دلیل ہے کہ مسجد صرف نماز کے لیے نہیں ہے۔"
+              ],
+              "english": [
+                "The incident of Hassan (RA) proves the permissibility of reciting poetry of goodness, wisdom, and defense of Islam in the mosque.",
+                "This permission is granted when the poetry is free from obscenity, slander, or worldly frivolous matters.",
+                "The silent approval of the Prophet (PBUH) is evidence that the mosque is not exclusively for prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حضرت عمر کا گھورنا",
+              "english": "Umar's Stern Look"
+            },
+            "content": {
+              "urdu": [
+                "حضرت عمر رضی اللہ عنہ نے شاید اس ڈر سے حضرت حسان کو دیکھا کہ یہ عمل مسجد کے ادب کے خلاف نہ ہو۔",
+                "آپ رضی اللہ عنہ مسجد کے تقدس اور سکون کو برقرار رکھنے کے لیے بہت حساس تھے۔",
+                "حضرت حسان نے جوابی دلیل میں نبی صلی اللہ علیہ وسلم کے عمل کا حوالہ دے کر وضاحت کی۔"
+              ],
+              "english": [
+                "'Umar (RA) likely looked sternly at Hassan out of concern that this act might violate the mosque's sanctity.",
+                "He was highly sensitive to maintaining the reverence and tranquility of the mosque.",
+                "Hassan responded by citing the Prophet's practice as justification for his action."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فضائل اور علمی استدلال",
+        "english": "Virtues and Academic Reasoning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد میں علمی اور نفع بخش کام",
+              "english": "Scholarly and Beneficial Activities in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مساجد میں نفع بخش علمی، ادبی اور دفاعی سرگرمیوں کے جواز کو ثابت کرتی ہے۔",
+                "مسجد تعلیم، خطبات، فتویٰ، مشاورت اور سماجی اجتماعات کا مرکز بن سکتی ہے۔",
+                "شرط صرف یہ ہے کہ یہ کام عبادت میں خلل نہ ڈالیں اور اخلاقی حدود کو پار نہ کریں۔"
+              ],
+              "english": [
+                "This Hadith proves the permissibility of beneficial academic, literary, and defensive activities in mosques.",
+                "The mosque can serve as a center for education, sermons, consultation, and social gatherings.",
+                "The only condition is that these activities should not disrupt worship or cross moral boundaries."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دلائل کا وزن",
+              "english": "Weight of the Evidence"
+            },
+            "content": {
+              "urdu": [
+                "حضرت حسان کا استدلال 'فِیہِ مَنْ ھُوَ خَیْرٌ مِنْک' (اس میں وہ ذات تھی جو آپ سے بہتر تھی) بہت قوی ہے۔",
+                "رسول اللہ صلی اللہ علیہ وسلم کی موجودگی اور خاموش رضامندی شرعی طور پر جواز فراہم کرتی ہے۔",
+                "فقہی طور پر، یہ عمل (اچھے اشعار پڑھنا) سنتِ فعلی کے تحت آتا ہے اور مستحسن ہے۔"
+              ],
+              "english": [
+                "Hassan's argument, 'In it was one who was better than you,' carries significant weight.",
+                "The presence and silent approval of the Messenger of Allah provide legal justification (Shar'i permissibility).",
+                "From a juristic perspective, this act (reciting virtuous poetry) falls under the Active Sunnah and is commendable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقیات اور رہنما اصول",
+        "english": "Ethics and Guiding Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد کا ادب",
+              "english": "Etiquette of the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "تمام جائز سرگرمیوں کے باوجود، مسجد کا سب سے بڑا ادب عبادت اور ذکرِ الٰہی ہے۔",
+                "شور مچانے، لڑائی جھگڑا کرنے، یا دنیاوی خرید و فروخت سے مسجد کو پاک رکھنا چاہیے۔",
+                "مسجد کے تقدس کو ہر صورت میں غیر ضروری دنیوی مصروفیت سے بچانا لازم ہے۔"
+              ],
+              "english": [
+                "Despite all permissible activities, the foremost etiquette of the mosque is worship and the remembrance of Allah.",
+                "The mosque must be kept free from noise, arguments, and worldly buying and selling.",
+                "Safeguarding the sanctity of the mosque from unnecessary worldly preoccupations is mandatory."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توازن اور اعتدال",
+              "english": "Balance and Moderation"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مسجد کے استعمال میں اعتدال اور توازن برقرار رکھنے کا حکم دیتی ہے۔",
+                "نبی اکرم صلی اللہ علیہ وسلم کی زندگی میں مسجد ایک فعال مرکز تھی جس میں تعلیم و تربیت بھی ہوتی تھی۔",
+                "ہمیں مسجد کو صرف نماز کی جگہ نہیں بلکہ ملت اسلامیہ کی تعمیر کا پلیٹ فارم بنانا چاہیے۔"
+              ],
+              "english": [
+                "This Hadith commands us to maintain balance and moderation in the usage of the mosque.",
+                "In the Prophet's life, the mosque was an active center where education and training also took place.",
+                "We must make the mosque a platform for building the Islamic community, not just a place for prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں تقلید",
+        "english": "Emulation in Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دفاعی اشعار کی اہمیت",
+              "english": "Importance of Defensive Poetry"
+            },
+            "content": {
+              "urdu": [
+                "حضرت حسان بن ثابت 'شاعر الرسول' تھے اور ان کے اشعار دشمنانِ اسلام کا رد کرتے تھے۔",
+                "آج کے دور میں بھی مسجد کو اسلام کی حمایت اور دفاعی شعور بیدار کرنے کے لیے استعمال کیا جا سکتا ہے۔",
+                "لیکن یہ تمام سرگرمیاں شائستگی اور شرعی آداب کے دائرے میں رہ کر ہونی چاہئیں۔"
+              ],
+              "english": [
+                "Hassan ibn Thabit was the 'Poet of the Messenger,' and his poetry countered the enemies of Islam.",
+                "Even today, the mosque can be used to support Islam and raise defensive awareness.",
+                "However, all such activities must remain within the bounds of decency and Islamic etiquette."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کا باہمی ادب",
+              "english": "Mutual Respect Among Companions"
+            },
+            "content": {
+              "urdu": [
+                "یہ واقعہ صحابہ کے درمیان اخلاقیات اور ایک دوسرے کے لیے احترام کا درس بھی دیتا ہے۔",
+                "حضرت عمر کا مقصد حسان کی تنقید نہیں بلکہ مسجد کے آداب کی حفاظت تھا۔",
+                "حسان کا جواب دلیل پر مبنی تھا، نہ کہ ذاتی رنجش پر، جو ان کے اعلیٰ اخلاق کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "This incident also teaches us about the ethics and mutual respect among the Companions.",
+                "'Umar's intention was not to criticize Hassan but to safeguard the mosque's etiquette.",
+                "Hassan's response was based on evidence, not personal resentment, which shows their high moral character."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

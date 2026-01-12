@@ -1,0 +1,284 @@
+{
+  "hadithId": 73,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["muslim:373"],
+    "kitabId": 1,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 6
+  },
+
+  "takhreej": {
+    "arabic": " صحيح. علقه البخاري (214/فتح) ، ووصله مسلم (373) ",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے بخاری نے تعلیقاً (214/فتح) روایت کیا ہے اور مسلم نے مکمل سند کے ساتھ (373) روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Al-Bukhari reported it subordinately (214/Fath), and Muslim reported it with a complete chain (No. 373)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُذْكُرُ",
+      "english": "He used to remember/mention",
+      "urdu": "ذکر کرتے تھے"
+    },
+    {
+      "arabic": "اللَّهَ",
+      "english": "Allah",
+      "urdu": "اللہ تعالیٰ"
+    },
+    {
+      "arabic": "عَلَى",
+      "english": "Upon/In",
+      "urdu": "پر / میں"
+    },
+    {
+      "arabic": "كُلِّ",
+      "english": "All/Every",
+      "urdu": "ہر"
+    },
+    {
+      "arabic": "أَحْيَانِهِ",
+      "english": "His states/times",
+      "urdu": "حالتوں / اوقات"
+    },
+    {
+      "arabic": "رَضِيَ اَللَّهُ عَنْهَا",
+      "english": "May Allah be pleased with her",
+      "urdu": "اللہ ان سے راضی ہو"
+    },
+    {
+      "arabic": "رَسُولُ",
+      "english": "Messenger",
+      "urdu": "رسول"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Reported it",
+      "urdu": "روایت کیا"
+    },
+    {
+      "arabic": "مُسْلِمٌ",
+      "english": "Imam Muslim (the compiler)",
+      "urdu": "امام مسلم"
+    },
+    {
+      "arabic": "عَلَّقَهُ",
+      "english": "Reported it subordinately (Ta'liqan)",
+      "urdu": "تعلیقاً نقل کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ نبی اکرم صلی اللہ علیہ وسلم طہارت کی حالت ہو یا بے طہارت، دن ہو یا رات، ہر وقت اور ہر حالت میں اللہ کا ذکر کرنے کا معمول رکھتے تھے۔",
+    "english": "This Hadith states that the Prophet Muhammad (peace be upon him) consistently engaged in the remembrance of Allah (Dhikr) in all circumstances and states, whether ritually pure or impure, day or night."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (373)",
+      "english": "Reported by Muslim (No. 373)"
+    },
+    {
+      "arabic": "علقه البخاري (214/فتح)",
+      "english": "Reported subordinately by Al-Bukhari (214/Fath)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا",
+        "english": "'Aishah (May Allah be pleased with her)"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ذکر اللہ کی ہمہ گیری",
+        "english": "The Universality of Dhikr (Remembrance of Allah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہر حالت میں ذکر",
+              "english": "Dhikr in All States"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رضی اللہ عنہا کی یہ روایت واضح کرتی ہے کہ نبی صلی اللہ علیہ وسلم کا ذکر اللہ کا معمول دائمی تھا۔",
+                "اس میں اٹھنا، بیٹھنا، چلنا، اور آرام کرنا شامل ہے، یعنی زندگی کے ہر چھوٹے بڑے کام میں اللہ کی یاد شامل تھی۔",
+                "یہ اس بات کا ثبوت ہے کہ مسلمان کو اپنی روح اور قلب کو اللہ کے ساتھ مسلسل جوڑے رکھنا چاہیے۔"
+              ],
+              "english": [
+                "This narration from 'Aishah (RA) clarifies that the Prophet's (PBUH) remembrance of Allah was a perpetual practice.",
+                "This includes rising, sitting, walking, and resting, meaning Allah's remembrance permeated every small and large aspect of life.",
+                "It serves as evidence that a Muslim should continuously connect their soul and heart with Allah in all circumstances."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کا اصول",
+              "english": "The Principle of Purity"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی دلیل ہے کہ ذکرِ زبانی کے لیے طہارت (وضو یا غسل) کی شرط نہیں ہے۔",
+                "آپ صلی اللہ علیہ وسلم ناپاکی کی حالت میں بھی ذکر کرتے تھے، سوائے قرآن کو چھونے یا نماز پڑھنے کے۔",
+                "یہ اس سے پہلے والی حدیث (قرآن چھونے) کے حکم سے فرق واضح کرتا ہے کہ ذکر اللہ ہر حال میں جائز ہے۔"
+              ],
+              "english": [
+                "This Hadith serves as proof that ritual purity (Wudu' or Ghusl) is not a prerequisite for verbal remembrance (Dhikr).",
+                "The Prophet (PBUH) used to perform Dhikr even when in a state of impurity, excluding touching the Mus'haf or offering prayer.",
+                "This clearly distinguishes the rule for verbal Dhikr from the rule for touching the Qur'an (mentioned in the preceding Hadith)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ذکر کی اہمیت اور فضیلت",
+        "english": "The Importance and Virtue of Dhikr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دائمی تعلق کی مثال",
+              "english": "Example of Perpetual Connection"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم صلی اللہ علیہ وسلم کا یہ عمل امت کے لیے بہترین نمونہ ہے کہ رب سے تعلق کبھی منقطع نہ ہو۔",
+                "یہ ذکر کی فضیلت کو ظاہر کرتا ہے جو دلوں کو زندہ رکھتا ہے اور گناہوں کو مٹاتا ہے۔",
+                "دائمی ذکر کرنے سے انسان دنیوی غفلتوں سے محفوظ رہتا ہے اور آخرت کی تیاری میں مصروف رہتا ہے۔"
+              ],
+              "english": [
+                "The Prophet's (PBUH) consistent practice serves as the best example for the Ummah to never sever their connection with the Lord.",
+                "It highlights the great virtue of Dhikr, which revives the hearts and is instrumental in erasing sins.",
+                "Constant remembrance protects a person from worldly heedlessness and keeps them engaged in preparing for the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحت اور بیماری میں ذکر",
+              "english": "Dhikr in Health and Sickness"
+            },
+            "content": {
+              "urdu": [
+                "آپ صلی اللہ علیہ وسلم کا ہر حالت میں ذکر کرنا یہ سکھاتا ہے کہ ذکر صرف آرام کی حالت کے لیے مخصوص نہیں ہے۔",
+                "بیماری، سفر، یا شدید مشقت کے دوران بھی ذکر کو ترک نہیں کرنا چاہیے، کیونکہ یہ دل کا عمل ہے۔",
+                "ذکر اللہ کی پناہ اور رحمت حاصل کرنے کا ذریعہ ہے، جو ہر تکلیف دہ حالت میں بھی سکون فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet's Dhikr in 'all times' teaches us that remembrance is not restricted only to comfortable situations.",
+                "Dhikr should not be abandoned during sickness, travel, or severe hardship, as it is primarily an action of the heart.",
+                "Dhikr is a means of gaining Allah's refuge and mercy, providing tranquility even during distressful circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور محدثانہ نکات",
+        "english": "Juristic and Hadith Methodology Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تعلیق اور وصل کا مفہوم",
+              "english": "Meaning of Ta'liq and Wasl"
+            },
+            "content": {
+              "urdu": [
+                "امام بخاری کا اسے 'تعلیقاً' لانا یہ بتاتا ہے کہ انہوں نے سند کا ابتدائی حصہ حذف کر دیا ہے۔",
+                "جبکہ امام مسلم کا اسے 'وصل' (مکمل سند) سے روایت کرنا، اس کی صحت اور قوت کو مزید تقویت دیتا ہے۔",
+                "محدثین کا اس کی سند پر اتفاق ہے اور اسے حدیث کی صحت کے اعلیٰ معیار (صحیح) پر تسلیم کیا گیا ہے۔"
+              ],
+              "english": [
+                "Al-Bukhari reporting it 'Ta'liqan' means he omitted the initial part of the chain of narration.",
+                "In contrast, Muslim reporting it with 'Wasl' (a connected, complete chain) further confirms its strength and authenticity.",
+                "Hadith scholars agree on its chain, and it is universally recognized under the highest standard of authenticity (Sahih)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنبی کا ذکر کرنا",
+              "english": "Dhikr for a Ritually Impure Person (Junub)"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی واضح دلیل ہے کہ جنبی (جس پر غسل فرض ہو) بھی اللہ کا ذکر کر سکتا ہے۔",
+                "جنبی کو قرآن کی تلاوت (مصحف سے دیکھ کر) یا نماز کی اجازت نہیں، مگر 'سبحان اللہ' وغیرہ کہنا جائز ہے۔",
+                "اس سے پتہ چلتا ہے کہ اسلام میں ذکر اور دل کے تعلق کو ظاہری نجاستوں پر فوقیت حاصل ہے۔"
+              ],
+              "english": [
+                "This Hadith is clear proof that a person in a state of major ritual impurity (Junub) can still perform Dhikr.",
+                "While a Junub cannot recite the Qur'an (from the Mus'haf) or pray, saying 'Subhan Allah' and other forms of Dhikr are permissible.",
+                "This indicates that in Islam, the connection of the heart through remembrance is prioritized over external ritual impurities."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور عملی اثرات",
+        "english": "Spiritual and Practical Effects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زندگی میں برکت",
+              "english": "Blessing in Life"
+            },
+            "content": {
+              "urdu": [
+                "ہر وقت اللہ کا ذکر کرنے سے انسان کی زندگی میں اللہ کی طرف سے برکتیں نازل ہوتی ہیں۔",
+                "ذکرِ کثیر کرنے والوں کا شمار ان خوش قسمت لوگوں میں ہوتا ہے جن کا نام اللہ یاد فرماتا ہے۔",
+                "یہ ہمیں سکھاتا ہے کہ وقت کو ضائع نہ کریں اور اسے خدا کی یاد میں صرف کر کے بہتر بنائیں۔"
+              ],
+              "english": [
+                "Constant remembrance of Allah brings blessings and favors into a person's life from the Divine.",
+                "Those who perform abundant Dhikr are counted among the fortunate individuals whom Allah remembers.",
+                "It teaches us not to waste time but to utilize it wisely by engaging in the remembrance of God."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی کی پیروی کا تقاضا",
+              "english": "Requirement of Following the Prophet"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث پر عمل کرنا نبی صلی اللہ علیہ وسلم کی سنت کی مکمل پیروی کی ایک روشن مثال ہے۔",
+                "ایک مسلمان کو ہر وقت ذکر کی عادت ڈالنی چاہیے تاکہ وہ رسول اللہ صلی اللہ علیہ وسلم کے نقش قدم پر چل سکے۔",
+                "زندگی کے تمام معاملات میں، چاہے وہ دنیاوی ہوں یا دینی، ذکر اللہ سے رہنمائی حاصل کی جاتی ہے۔"
+              ],
+              "english": [
+                "Acting upon this Hadith is a shining example of fully following the Sunnah of the Prophet (PBUH).",
+                "A Muslim should cultivate the habit of continuous Dhikr to walk in the footsteps of the Messenger of Allah (PBUH).",
+                "Guidance is sought through the remembrance of Allah in all affairs of life, whether they are mundane or religious."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

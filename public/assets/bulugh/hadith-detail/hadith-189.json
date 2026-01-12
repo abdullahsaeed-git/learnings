@@ -1,0 +1,285 @@
+{
+  "hadithId": 189,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["2", "5"],
+    "kitabId": 2,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 15
+  },
+  
+  "takhreej": {
+    "arabic": "رواه أبو داود (945)، والنسائي (3/6)، والترمذي (379)، وابن ماجه (1027)، وأحمد (5/150). وأصل الحديث عن معيقيب عند البخاري (1207) ومسلم (546).",
+    "urdu": "اسے ابو داؤد (945)، نسائی (3/6)، ترمذی (379)، ابن ماجہ (1027)، اور احمد (5/150) نے روایت کیا ہے۔ اس حدیث کا اصل مفہوم حضرت معیقیب کی روایت سے صحیح بخاری (1207) اور صحیح مسلم (546) میں بھی موجود ہے۔",
+    "english": "Reported by Abu Dawud (945), An-Nasa’i (3/6), At-Tirmidhi (379), Ibn Majah (1027), and Ahmad (5/150). The core meaning of the Hadith is also present in the narration of Mu'ayqib in Sahih Al-Bukhari (1207) and Sahih Muslim (546)."
+  },
+  "importantWords": [
+    {
+      "arabic": "الصلاة",
+      "english": "Prayer",
+      "urdu": "نماز"
+    },
+    {
+      "arabic": "فلا يمسح",
+      "english": "Let him not wipe/smooth",
+      "urdu": "صاف نہ کرے"
+    },
+    {
+      "arabic": "الحصى",
+      "english": "Pebbles/Gravel",
+      "urdu": "کنکریاں/سنگریزے"
+    },
+    {
+      "arabic": "الرحمة",
+      "english": "Mercy",
+      "urdu": "رحمت"
+    },
+    {
+      "arabic": "تواجهه",
+      "english": "Faces him",
+      "urdu": "سامنے ہوتی ہے/متوجہ ہوتی ہے"
+    },
+    {
+      "arabic": "واحدة",
+      "english": "Once",
+      "urdu": "ایک مرتبہ"
+    },
+    {
+      "arabic": "أو دع",
+      "english": "Or leave it",
+      "urdu": "یا چھوڑ دے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز میں خشوع اور یکسوئی برقرار رکھنے کی ترغیب دیتی ہے، اور اس بات سے منع کرتی ہے کہ دورانِ نماز سجدہ گاہ کی کنکریوں کو زیادہ حرکت دی جائے، کیونکہ اس وقت اللہ کی رحمت نمازی کی طرف متوجہ ہوتی ہے۔",
+    "english": "This Hadith encourages maintaining concentration and humility in prayer, prohibiting excessive movement, specifically wiping or smoothing the pebbles on the place of prostration, because at that time, Allah's Mercy is focused upon the worshipper."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود، كتاب الصلاة، باب مسح الحصى في الصلاة (945)",
+      "english": "Reported by Abu Dawud, Book of Prayer, Chapter: Wiping the Pebbles during Prayer (945)"
+    },
+    {
+      "arabic": "رواه الترمذي، كتاب الصلاة، باب ما جاء في كراهية مسح الحصى في الصلاة (379)",
+      "english": "Reported by At-Tirmidhi, Book of Prayer, Chapter: What has been related concerning the dislike of wiping the pebbles during Prayer (379)"
+    },
+    {
+      "arabic": "صحيح البخاري، كتاب العمل في الصلاة (1207)",
+      "english": "Sahih Al-Bukhari, Book of Actions during Prayer (1207) (Mu'ayqib's narration)"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب المساجد ومواضع الصلاة (546)",
+      "english": "Sahih Muslim, Book of Masajid and Places of Prayer (546) (Mu'ayqib's narration)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو ذر الغفاري",
+        "english": "Abu Dharr Al-Ghifari"
+      },
+      "slug": "abu-dharr-al-ghifari"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "معيقيب بن أبي فاطمة الدوسي",
+        "english": "Mu'ayqib ibn Abi Fatimah Ad-Dawsi"
+      },
+      "slug": "muayqib-ibn-abi-fatimah-ad-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2E-R6kUeB0",
+  "grade": {
+    "arabic": "حسن أو صحيح بشواهده",
+    "english": "Hasan (Good) or Sahih (Authentic) due to supporting narrations"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز میں خشوع کی اہمیت",
+        "english": "Importance of Khushu' (Humility) in Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کنکریوں کو صاف کرنے کی ممانعت",
+              "english": "Prohibition of Wiping Pebbles"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں نمازی کو بلاوجہ سجدہ گاہ کی کنکریوں کو صاف کرنے سے منع کیا گیا ہے۔",
+                "یہ ممانعت اس لیے ہے تاکہ نمازی کے دل کی توجہ اور جسم کی حرکت میں خلل نہ آئے۔",
+                "اگر زمین نا ہموار ہو اور سجدہ متاثر ہو تو ایک بار صاف کرنے کی رخصت ہے۔"
+              ],
+              "english": [
+                "The Hadith prohibits the worshipper from unnecessarily smoothing the pebbles on the place of prostration.",
+                "This prohibition is meant to prevent disruption in the worshipper's concentration and physical stillness.",
+                "If the ground is uneven and affects prostration, a single movement is permitted as a concession."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رحمت کا نزول",
+              "english": "Descent of Mercy"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم صلی اللہ علیہ وسلم نے فرمایا کہ نماز میں اللہ کی رحمت نمازی کی طرف متوجہ ہوتی ہے۔",
+                "یہ رحمت کا نزول اس بات کی دلیل ہے کہ نماز ایک عظیم مقام اور شرف کی حالت ہے۔",
+                "لہذا اس عظیم وقت میں ادھر ادھر کی حرکتوں سے گریز کرنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) stated that Allah's Mercy faces the worshipper during prayer.",
+                "The descent of this Mercy is evidence that prayer is a state of great honor and status.",
+                "Therefore, one should avoid distracting movements during this great time."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نماز کی ہیئت اور آداب",
+        "english": "Manner and Etiquette of Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرکت میں اعتدال",
+              "english": "Moderation in Movement"
+            },
+            "content": {
+              "urdu": [
+                "نماز میں معمولی حرکات کی اجازت ہے، بشرطیکہ وہ نماز کے جوہر کو ختم نہ کریں۔",
+                "کنکریاں ہٹانے کا عمل زیادہ بار دہرانا 'عبث' (فضول کام) میں شامل ہو سکتا ہے۔",
+                "حضرت احمد بن حنبل کی روایت میں ایک بار کی اجازت اعتدال کا درس دیتی ہے۔"
+              ],
+              "english": [
+                "Minor movements are permissible in prayer, provided they do not nullify its essence.",
+                "Repeatedly smoothing the pebbles can be classified as an 'Abath' (vain act).",
+                "The allowance of a single movement in the narration of Imam Ahmad teaches moderation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سجدہ کی جگہ کی تیاری",
+              "english": "Preparing the Place of Prostration"
+            },
+            "content": {
+              "urdu": [
+                "سنت یہ ہے کہ نماز سے پہلے سجدہ کی جگہ کو آرام دہ بنایا جائے۔",
+                "دورانِ نماز صرف ضرورت کے وقت ہی ہلکی سی حرکت کی جائے۔",
+                "مقصد یہ ہے کہ سجدہ کے اعضاء کو تکلیف نہ ہو اور نماز باقاعدہ ادا ہو۔"
+              ],
+              "english": [
+                "The Sunnah is to make the place of prostration comfortable before starting the prayer.",
+                "During the prayer, movement should be minimal and only when absolutely necessary.",
+                "The objective is to ensure the limbs of prostration are not harmed and the prayer is performed properly."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مکروہ فعل سے اجتناب",
+              "english": "Avoiding Disliked Acts (Makruh)"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے دورانِ نماز کنکریوں کو زیادہ حرکت دینے کو مکروہ قرار دیا ہے۔",
+                "اس کی وجہ یہ ہے کہ یہ فعل خشوع کو کم کرتا ہے اور نماز کے حسن کو متاثر کرتا ہے۔",
+                "اگر ایک سے زیادہ بار کیا جائے تو یہ 'کثرتِ عمل' (بہت زیادہ حرکت) بن کر نماز کو فاسد کر سکتا ہے۔"
+              ],
+              "english": [
+                "Jurists have declared excessive wiping of pebbles during prayer as 'Makruh' (disliked).",
+                "The reason is that this act diminishes Khushu' and affects the beauty of the prayer.",
+                "If done more than once, it may constitute 'Kathrat Al-'Amal' (excessive movement) and potentially invalidate the prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز میں غیر ضروری مصروفیت",
+              "english": "Unnecessary Preoccupation in Prayer"
+            },
+            "content": {
+              "urdu": [
+                "حدیث اس بات کی نشاندہی کرتی ہے کہ اللہ کی عبادت میں دنیاوی توجہ کو دور رکھنا چاہیے۔",
+                "کنکریوں کو صاف کرنے کی فکر بھی دنیاوی فکر میں شامل ہو جاتی ہے۔",
+                "دل کا سکون اور نگاہوں کا ارتکاز نماز کی مقبولیت کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "The Hadith indicates that worldly focus should be kept away during the worship of Allah.",
+                "The concern over smoothing pebbles becomes a type of worldly preoccupation.",
+                "Heart's tranquility and focused gaze are essential for the acceptance of prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی رہنمائی اور سبق",
+        "english": "Practical Guidance and Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دورانِ نماز سکون",
+              "english": "Tranquility During Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نمازی کو چاہیے کہ وہ اپنی پوری توجہ اللہ کی طرف رکھے اور سکون اختیار کرے۔",
+                "اگر کوئی چیز سجدہ میں رکاوٹ بنے تو صرف ایک بار اسے ہٹا کر مزید حرکت سے گریز کرے۔",
+                "یہ اصول ہر اس عمل پر لاگو ہوتا ہے جو نماز میں غیر ضروری حرکت کا باعث بنے۔"
+              ],
+              "english": [
+                "The worshipper must maintain complete focus on Allah and practice tranquility.",
+                "If something obstructs prostration, remove it once and avoid further movement.",
+                "This principle applies to every action that causes unnecessary movement in prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رحمتِ الٰہی کی قدر",
+              "english": "Appreciating Divine Mercy"
+            },
+            "content": {
+              "urdu": [
+                "نماز کی حالت میں رحمت کے متوجہ ہونے کا احساس دل میں پیدا کرنا چاہیے۔",
+                "جب نمازی خشوع و خضوع کے ساتھ نماز پڑھتا ہے تو رحمت بڑھ جاتی ہے۔",
+                "اس حدیث پر عمل کر کے ہم رحمت کے نزول میں رکاوٹ ڈالنے سے بچ سکتے ہیں۔"
+              ],
+              "english": [
+                "The feeling that Mercy is facing the worshipper during prayer should be cultivated in the heart.",
+                "When a worshipper prays with humility and submission, the Mercy increases.",
+                "By acting upon this Hadith, we can avoid hindering the descent of this Mercy."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

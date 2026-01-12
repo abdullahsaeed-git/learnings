@@ -1,0 +1,79 @@
+{
+    "chapId": 14,
+    "summary": {
+        "urdu": [""],
+        "english": [""]
+    },
+    "description": {
+        "urdu": " ",
+        "english": " "
+    }, 
+    "hadithRange": {
+        "from": 180,
+        "to": 186
+    }, 
+    "hadiths": [
+      {
+        "id": 180,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      },
+
+      {
+        "id": 181,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      },
+
+      {
+        "id": 182,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      },
+
+      {
+        "id": 183,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      },
+
+      {
+        "id": 184,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      },
+
+      {
+        "id": 185,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      },
+
+      {
+        "id": 186,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 1058,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1254"],
+    "kitabId": 10,
+    "inKitabBab": 3,
+    "arabicBook": "بلوغ المرام",
+    "babId": 86
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (3/463)، وأبو داود (4388)، والترمذي (1449)، والنسائي (8/28)، وابن ماجه (2593)، وصححه ابن حبان (4412).",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام احمد، ابو داؤد، ترمذی، نسائی اور ابن ماجہ نے روایت کیا ہے۔ ابن حبان اور ترمذی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (3/463), Abu Dawud (4388), At-Tirmidhi (1449), An-Nasa'i (8/28), and Ibn Majah (2593). Graded Sahih by Ibn Hibban and At-Tirmidhi."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا قَطْعَ",
+      "english": "No cutting off",
+      "urdu": "ہاتھ کاٹنا نہیں ہے"
+    },
+    {
+      "arabic": "ثَمَرٍ",
+      "english": "Fruit",
+      "urdu": "پھل"
+    },
+    {
+      "arabic": "كَثَرٍ",
+      "english": "Palm spadix / Pith",
+      "urdu": "کھجور کا گابھا / کلی"
+    },
+    {
+      "arabic": "سَمِعْتُ",
+      "english": "I heard",
+      "urdu": "میں نے سنا"
+    },
+    {
+      "arabic": "صَحَّحَهُ",
+      "english": "Authenticated it",
+      "urdu": "اسے صحیح قرار دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں بتایا گیا ہے کہ درخت پر لگے پھل یا کھجور کے گابھے کی چوری پر ہاتھ کاٹنے کی حد نافذ نہیں ہوتی کیونکہ یہ عام طور پر محفوظ جگہ (حرز) میں نہیں ہوتے۔",
+    "english": "This Hadith states that the legal punishment of cutting the hand is not applied for stealing hanging fruit or palm pith, as they are generally not in a secure storage (Hirz)."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (1449)",
+      "english": "Reported by At-Tirmidhi (1449)"
+    },
+    {
+      "arabic": "رواه أبو داود (4388)",
+      "english": "Reported by Abu Dawud (4388)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "رافع بن خديج",
+        "english": "Rafi' bin Khadij"
+      },
+      "slug": "rafi-bin-khadij"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=XvX8r2m-pSg",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پھلوں کی چوری اور شرعی حد",
+        "english": "Theft of Fruit and Sharia Penalty"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرز کی اہمیت",
+              "english": "Importance of Hirz"
+            },
+            "content": {
+              "urdu": [
+                "درختوں پر لگے پھل عام طور پر غیر محفوظ اور ہر ایک کی پہنچ میں ہوتے ہیں۔",
+                "شرعی اصول کے مطابق ہاتھ تب کاٹا جاتا ہے جب مال کسی بند جگہ سے چرایا جائے۔",
+                "چونکہ باغ کی دیواریں گھر جیسی محفوظ نہیں ہوتیں، اس لیے یہاں حد نہیں لگتی۔"
+              ],
+              "english": [
+                "Fruits hanging on trees are generally unsecured and accessible to everyone.",
+                "According to Sharia, the hand is cut only if property is stolen from a closed place.",
+                "Since orchard walls aren't as secure as homes, the specific 'Hadd' is not applied."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گابھے (کثر) کی وضاحت",
+              "english": "Explanation of the Spadix (Kathar)"
+            },
+            "content": {
+              "urdu": [
+                "کثر کھجور کے درخت کے اس حصے کو کہتے ہیں جو بالکل ابتدائی حالت میں ہوتا ہے۔",
+                "اس کی چوری پر بھی ہاتھ کاٹنے کی سزا نہیں رکھی گئی ہے۔",
+                "یہ حکم اس وقت ہے جب یہ چیزیں ابھی درخت پر ہوں یا کھلے میدان میں ہوں۔"
+              ],
+              "english": [
+                "Kathar refers to the internal part or spadix of the palm tree in its early stages.",
+                "The penalty of cutting the hand is also not prescribed for its theft.",
+                "This ruling applies while these items are still on trees or in open fields."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "متبادل سزائیں",
+        "english": "Alternative Punishments"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تاوان اور تعزیر",
+              "english": "Compensation and Ta'zir"
+            },
+            "content": {
+              "urdu": [
+                "ہاتھ نہ کاٹنے کا مطلب یہ نہیں کہ چوری کرنے والا بالکل معاف ہے۔",
+                "چور کو اس پھل کی قیمت کا دوگنا جرمانہ یا کوڑوں کی سزا دی جا سکتی ہے۔",
+                "یہ سزا قاضی کی صوابدید پر منحصر ہے جسے تعزیر کہا جاتا ہے۔"
+              ],
+              "english": [
+                "Not cutting the hand does not mean the thief is entirely pardoned.",
+                "The thief may be fined double the value of the fruit or face lashing.",
+                "This punishment depends on the judge's discretion, known as Ta'zir."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بھوک کی صورت میں رعایت",
+              "english": "Concession in Case of Hunger"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی بھوک کی وجہ سے تھوڑا سا پھل کھا لے تو اس پر گناہ نہیں۔",
+                "بشرطیکہ وہ ساتھ باندھ کر لے جانے کی نیت نہ رکھتا ہو۔",
+                "اسلام انسانی ضرورت کو قانونی سختی پر مقدم رکھتا ہے۔"
+              ],
+              "english": [
+                "If someone eats a small amount of fruit due to hunger, there is no sin.",
+                "Provided they do not intend to pack it and carry it away.",
+                "Islam prioritizes human necessity over legal rigidity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گودام سے چوری",
+              "english": "Theft from Warehouse"
+            },
+            "content": {
+              "urdu": [
+                "اگر پھل توڑ کر گودام یا گھر میں محفوظ کر دیے جائیں تو حکم بدل جائے گا۔",
+                "محفوظ جگہ سے نصاب کے برابر پھل چرانے پر ہاتھ کاٹنے کی حد لگے گی۔",
+                "جگہ کی تبدیلی سے جرم کی نوعیت اور سزا بدل جاتی ہے۔"
+              ],
+              "english": [
+                "If fruits are harvested and stored in a warehouse or home, the ruling changes.",
+                "Stealing fruit worth the Nisab from a secure place will incur the Hadd.",
+                "Changing the location alters the nature of the crime and its penalty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانون کا توازن",
+              "english": "Legal Balance"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے جرم کی سنگینی اور حالات کے درمیان توازن برقرار رکھا ہے۔",
+                "معمولی اور غیر محفوظ چیزوں پر انتہائی سزا نہیں دی جاتی۔",
+                "اس سے نظامِ عدل کی شفافیت اور رحمت ظاہر ہوتی ہے۔"
+              ],
+              "english": [
+                "Sharia maintains a balance between the severity of crime and circumstances.",
+                "Extreme penalties are not applied to minor and unsecured items.",
+                "This demonstrates the transparency and mercy of the judicial system."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور عملی اسباق",
+        "english": "Educational and Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دوسروں کے حق کا احترام",
+              "english": "Respect for Others' Rights"
+            },
+            "content": {
+              "urdu": [
+                "پھل خواہ درخت پر ہی کیوں نہ ہو، وہ کسی کی ملکیت ہے۔",
+                "بغیر اجازت کسی کی چیز لینا اخلاقی طور پر برا عمل ہے۔",
+                "مومن کو چاہیے کہ وہ ہمیشہ حلال رزق اور دیانت داری اپنائے۔"
+              ],
+              "english": [
+                "Even if fruit is on a tree, it is someone else's property.",
+                "Taking someone's things without permission is morally wrong.",
+                "A believer should always adopt lawful earning and integrity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہ الحدیث کی فہم",
+              "english": "Understanding Hadith Jurisprudence"
+            },
+            "content": {
+              "urdu": [
+                "احادیث کے الفاظ کے ساتھ ان کے سیاق و سباق کو سمجھنا ضروری ہے۔",
+                "علماء سے رہنمائی کے بغیر خود سے شرعی نتائج اخذ کرنا درست نہیں۔",
+                "ہر حدیث ایک مخصوص قانونی دائرے کی وضاحت کرتی ہے۔"
+              ],
+              "english": [
+                "It is essential to understand the context along with the words of Hadith.",
+                "Deriving Sharia conclusions without scholarly guidance is incorrect.",
+                "Each Hadith explains a specific legal framework."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

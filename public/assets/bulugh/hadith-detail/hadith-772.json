@@ -1,0 +1,264 @@
+{
+  "hadithId": 772,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/772"],
+    "kitabId": 7,
+    "inKitabBab": 15,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 56
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (2227) وابن ماجه (2442). الحافظ ابن حجر ذكر في المتن أنه رواه مسلم، ولكنه في الحقيقة في صحيح البخاري، كما نبه عليه الشراح.",
+    "urdu": "صحیح۔ اسے امام بخاری (2227) اور ابن ماجہ (2442) نے روایت کیا ہے۔ بلوغ المرام کے متن میں 'رواہ مسلم' کا ذکر سہو ہے، درحقیقت یہ روایت صحیح بخاری کی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2227) and Ibn Majah (2442). The attribution to Muslim in the text is a slip by Al-Hafiz; it is actually in Sahih Al-Bukhari."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَصْمُهُمْ",
+      "english": "Their Adversary",
+      "urdu": "ان کا دشمن / مدعی"
+    },
+    {
+      "arabic": "غَدَرَ",
+      "english": "Acted Treacherously",
+      "urdu": "بدعہدی کی"
+    },
+    {
+      "arabic": "حُرًّا",
+      "english": "A Free Man",
+      "urdu": "آزاد انسان"
+    },
+    {
+      "arabic": "أَجِيرًا",
+      "english": "A Worker / Laborer",
+      "urdu": "مزدور"
+    },
+    {
+      "arabic": "فَاسْتَوْفَى",
+      "english": "Took in full",
+      "urdu": "پورا کام لیا"
+    },
+    {
+      "arabic": "أَجْرَهُ",
+      "english": "His Wage",
+      "urdu": "اس کی اجرت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیثِ قدسی تین سنگین گناہوں کی مذمت کرتی ہے: اللہ کے نام پر بدعہدی، انسانی اسمگلنگ (آزاد کو بیچنا) اور مزدور کا استحصال۔ ان جرائم میں اللہ تعالیٰ خود مظلوم کا وکیل بن کر ظالم کا مقابلہ کرے گا۔",
+    "english": "This Hadith Qudsi condemns three grave sins: breaking a covenant made in Allah's name, selling a free person into slavery, and exploiting workers. In these cases, Allah Himself will be the opponent of the oppressor."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2227)",
+      "english": "Reported by Al-Bukhari (2227)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (2442)",
+      "english": "Reported by Ibn Majah (2442)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah ad-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0Z8f28T_x-o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اللہ تعالیٰ کا خصم (مدعی) ہونا",
+        "english": "Allah as the Adversary"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاملے کی سنگینی",
+              "english": "Severity of the Matter"
+            },
+            "content": {
+              "urdu": [
+                "جس کا دشمن اللہ بن جائے، اس کی تباہی میں کوئی شک نہیں رہ جاتا۔",
+                "یہ وعید ان گناہوں کے لیے ہے جو معاشرتی ڈھانچے اور عدل کو تباہ کرتے ہیں۔",
+                "قیامت کے دن اللہ تعالیٰ خود مظلوم کا مقدمہ لڑے گا اور انصاف کرے گا۔"
+              ],
+              "english": [
+                "There is no doubt in the destruction of one whose opponent is Allah Himself.",
+                "This warning is for sins that destroy the social fabric and justice.",
+                "On the Day of Judgment, Allah will personally advocate for the oppressed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کے نام پر بدعہدی",
+              "english": "Betrayal in Allah's Name"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کا نام استعمال کر کے لوگوں کو دھوکہ دینا ایمان کے منافی ہے۔",
+                "عہد کو توڑنا نفاق کی علامت ہے اور اللہ کے وقار کی توہین ہے۔",
+                "مسلمان پر واجب ہے کہ وہ اپنے وعدوں کو ہر حال میں پورا کرے۔"
+              ],
+              "english": [
+                "Using Allah's name to deceive people is contrary to faith.",
+                "Breaking a covenant is a sign of hypocrisy and disrespect toward Allah's dignity.",
+                "It is mandatory for a Muslim to fulfill his promises under all circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انسانی حقوق کی پامالی",
+        "english": "Violation of Human Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آزاد انسان کو فروخت کرنا",
+              "english": "Selling a Free Person"
+            },
+            "content": {
+              "urdu": [
+                "کسی آزاد کو غلام بنا کر بیچنا انسانیت کے خلاف بدترین جرم ہے۔",
+                "اس میں اغوا، انسانی اسمگلنگ اور ناجائز قبضہ جیسے گناہ شامل ہیں۔",
+                "اسلام نے انسانی آزادی کو ایک بنیادی حق کے طور پر تسلیم کیا ہے۔"
+              ],
+              "english": [
+                "Selling a free person into slavery is among the worst crimes against humanity.",
+                "This includes kidnapping, human trafficking, and unlawful possession.",
+                "Islam recognizes human freedom as a fundamental and sacred right."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مزدور کا استحصال",
+              "english": "Exploitation of Workers"
+            },
+            "content": {
+              "urdu": [
+                "کام لینے کے بعد اجرت نہ دینا یا اسے روک لینا ظلمِ عظیم ہے۔",
+                "مزدور کا حق مارنا اس کی زندگی اور خاندان پر حملہ کرنے کے مترادف ہے۔",
+                "اسلام حکم دیتا ہے کہ مزدور کا پسینہ خشک ہونے سے پہلے اجرت ادا کرو۔"
+              ],
+              "english": [
+                "Not paying wages after taking full work is an act of great oppression.",
+                "Depriving a worker of his right is equivalent to attacking his life and family.",
+                "Islam commands paying the worker before his sweat dries."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی عدل و انصاف",
+        "english": "Economic Justice and Equity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجرت کی ادائیگی میں دیانت",
+              "english": "Honesty in Wage Payment"
+            },
+            "content": {
+              "urdu": [
+                "آجر (مالک) پر فرض ہے کہ وہ طے شدہ معاوضہ بغیر کسی کٹوتی کے دے۔",
+                "مزدور کی کمزوری کا فائدہ اٹھا کر اسے کم پیسے دینا بھی اسی وعید میں آتا ہے۔",
+                "معاشی معاملات میں شفافیت ہی برکت اور فلاح کا راستہ ہے۔"
+              ],
+              "english": [
+                "The employer is obligated to pay the agreed compensation without any deductions.",
+                "Exploiting a worker's weakness to pay less also falls under this warning.",
+                "Transparency in economic dealings is the only path to blessing and success."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی توازن",
+              "english": "Social Balance"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ایک ایسے معاشرے کی بنیاد رکھتی ہے جہاں کوئی کسی کا حق نہیں مارتا۔",
+                "جب مزدور کو اس کا حق ملے گا تو معاشرے میں امن اور خوشحالی آئے گی۔",
+                "ظلم کا خاتمہ ہی اسلامی ریاست کا اولین مقصد ہے۔"
+              ],
+              "english": [
+                "This Hadith lays the foundation of a society where no one usurps another's rights.",
+                "When a worker receives his rights, peace and prosperity prevail in society.",
+                "The eradication of oppression is the primary goal of the Islamic state."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وعدوں کی پاسداری",
+              "english": "Fulfilling Commitments"
+            },
+            "content": {
+              "urdu": [
+                "کاروباری ہو یا سماجی، ہر معاہدے کو اللہ کو حاضر و ناظر جان کر پورا کریں۔",
+                "دھوکہ دہی اور فراڈ دنیا میں تو شاید فائدہ دیں، مگر آخرت میں تباہی ہیں۔",
+                "اپنی زبان کی قدر کریں اور عہد کے پکے بنیں۔"
+              ],
+              "english": [
+                "Fulfill every commitment, whether business or social, knowing Allah is watching.",
+                "Deception and fraud might yield profit in this world, but lead to ruin in the Hereafter.",
+                "Value your word and remain steadfast in your promises."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مزدوروں کے ساتھ حسنِ سلوک",
+              "english": "Kindness Toward Workers"
+            },
+            "content": {
+              "urdu": [
+                "اپنے ماتحت کام کرنے والوں کو اپنا بھائی سمجھیں اور ان کا حق نہ ماریں۔",
+                "اجرت کی بروقت ادائیگی کو اپنی ترجیحات میں شامل کریں۔",
+                "اللہ کی پکڑ سے ڈریں کیونکہ مظلوم کی پکار براہ راست اللہ تک پہنچتی ہے۔"
+              ],
+              "english": [
+                "Treat your subordinates as brothers and do not deprive them of their rights.",
+                "Include the timely payment of wages among your highest priorities.",
+                "Fear Allah's seizure, for the cry of the oppressed reaches Allah directly."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

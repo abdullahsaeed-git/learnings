@@ -1,0 +1,282 @@
+{
+  "hadithId": 86,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 10 (related context)"],
+    "kitabId": 1,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 7
+  },
+
+  "takhreej": {
+    "arabic": "ضعيف. ووهم الحافظ في نسبته لعائشة رضي الله عنها، وإنما الحديث لأبي هريرة عند أبي داود (35) . و في لفظ آخر: \"إذا دخل الخلاء فليستتر\".",
+    "urdu": "ضعیف (کمزور) روایت۔ حافظ (ابن حجر) سے اسے حضرت عائشہ رضی اللہ عنہا کی طرف منسوب کرنے میں غلطی ہوئی ہے۔ یہ حدیث درحقیقت حضرت ابوہریرہ رضی اللہ عنہ سے ابوداؤد (35) میں مروی ہے۔ ایک اور لفظ میں ہے: ”جب وہ بیت الخلاء میں داخل ہو تو پردہ کر لے۔“",
+    "english": "Da'if (Weak) narration. The Hafiz (Ibn Hajar) was mistaken in attributing it to 'A'ishah (may Allah be pleased with her). The Hadith is actually from Abu Hurairah in Abu Dawud (35). In another wording: \"When he enters the lavatory, let him conceal himself.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "الْغَائِطَ",
+      "english": "The defecation place",
+      "urdu": "قضائے حاجت کی جگہ"
+    },
+    {
+      "arabic": "أَتَى",
+      "english": "Goes/Comes to",
+      "urdu": "آنا/جانا"
+    },
+    {
+      "arabic": "فَلْيَسْتَتِرْ",
+      "english": "Let him conceal himself",
+      "urdu": "اسے پردہ کرنا چاہیے"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Reported by",
+      "urdu": "اس کو روایت کیا"
+    },
+    {
+      "arabic": "ضعيف",
+      "english": "Weak",
+      "urdu": "ضعیف"
+    },
+    {
+      "arabic": "الخلاء",
+      "english": "The lavatory/open ground",
+      "urdu": "بیت الخلاء"
+    },
+    {
+      "arabic": "الساتر",
+      "english": "The covering/screen",
+      "urdu": "پردہ/آڑ"
+    },
+    {
+      "arabic": "السنة",
+      "english": "The Sunnah",
+      "urdu": "سنت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مفہوم یہ ہے کہ قضائے حاجت کے وقت ستر اور پردے کا اہتمام کرنا اسلامی آداب میں سے ہے تاکہ انسان کی شرمگاہ چھپی رہے۔",
+    "english": "The essence of this Hadith is the necessity of ensuring privacy and concealment while answering the call of nature, to keep one's private parts covered according to Islamic etiquette."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (35) عن أبي هريرة",
+      "english": "Reported by Abu Dawud (35) from Abu Hurairah"
+    },
+    {
+      "arabic": "أخطأ الحافظ في نسبته لعائشة",
+      "english": "The Hafiz erred in attributing it to 'A'ishah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 8601,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    },
+    {
+      "id": 8602,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "'A'ishah bint Abi Bakr (Misattributed narrator)"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا بنیادی حکم",
+        "english": "The Fundamental Ruling of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ستر پوشی کی اہمیت",
+              "english": "Importance of Covering the Awrah"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کا بنیادی حکم قضائے حاجت کے وقت ستر پوشی اور پردہ کا انتظام کرنا ہے۔",
+                "یہ حکم مرد و عورت دونوں کے لیے ہے کہ وہ اپنے ستر کو دوسروں کی نگاہوں سے بچائیں۔",
+                "کھلی جگہوں پر پردہ کرنے کے لیے اونچی دیوار یا کسی رکاوٹ کو استعمال کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "The core ruling of this Hadith is to ensure concealment and cover while answering the call of nature.",
+                "This command applies to both men and women, requiring them to shield their private parts from the sight of others.",
+                "In open spaces, one should use a high wall or any available barrier to achieve proper concealment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حیا اور عفت",
+              "english": "Modesty and Chastity"
+            },
+            "content": {
+              "urdu": [
+                "استتار (پردہ کرنا) اسلامی تعلیمات میں حیا اور عفت کے اعلیٰ معیار کو ظاہر کرتا ہے۔",
+                "حیا ایمان کا حصہ ہے اور انسان کو ایسے افعال سے روکتی ہے جو شرم و حیا کے خلاف ہوں۔",
+                "نبی اکرم ﷺ نے فرمایا کہ اللہ تعالیٰ خود ستر پوشی کو پسند فرماتا ہے۔"
+              ],
+              "english": [
+                "Concealment (Istitaar) reflects the high standard of modesty and chastity taught by Islam.",
+                "Modesty is a part of faith and prevents a person from engaging in actions contrary to shame and decency.",
+                "The Prophet ﷺ stated that Allah Himself loves and prefers concealment and shyness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ضعف حدیث اور احتیاط",
+        "english": "Weakness of the Hadith and Caution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضعیف ہونے کے باوجود عمل",
+              "english": "Action Despite Weakness"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث سند کے لحاظ سے 'ضعیف' ہے، لیکن اس کا مضمون دیگر صحیح احادیث سے ثابت ہے۔",
+                "فقہاء کے نزدیک فضائل اعمال اور آداب میں ضعیف حدیث پر عمل کیا جا سکتا ہے۔",
+                "پردہ پوشی کا حکم اخلاقی طور پر انتہائی اہم ہے، لہٰذا اس پر عمل کرنا مستحب اور سنت ہے۔"
+              ],
+              "english": [
+                "Although this Hadith is 'Weak' (Da'if) in its chain of narration, its content is supported by other authentic narrations.",
+                "According to jurists, a weak Hadith can be acted upon when it pertains to good deeds and recommended etiquette.",
+                "The command for concealment is ethically very important, making its practice desirable and Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "راوی کی تصحیح",
+              "english": "Correction of the Narrator"
+            },
+            "content": {
+              "urdu": [
+                "محدثین نے یہ وضاحت کی ہے کہ اصل روایت حضرت ابوہریرہ رضی اللہ عنہ سے ہے، نہ کہ حضرت عائشہ رضی اللہ عنہا سے۔",
+                "علم حدیث میں یہ جانچ پڑتال بہت ضروری ہے تاکہ احادیث کو درست راوی سے منسوب کیا جا سکے۔",
+                "اس تصحیح کے باوجود، حدیث کا حکم (پردہ کرنا) اپنی جگہ برقرار ہے۔"
+              ],
+              "english": [
+                "Scholars of Hadith clarified that the original narration is from Abu Hurairah (RA), not 'A'ishah (RA).",
+                "This scrutiny is essential in Hadith sciences to attribute narrations to their correct source.",
+                "Despite this correction, the ruling conveyed by the Hadith (the need for cover) remains valid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "آداب قضائے حاجت",
+        "english": "Etiquettes of Relieving Oneself"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نجاست سے دوری",
+              "english": "Keeping Away from Impurity"
+            },
+            "content": {
+              "urdu": [
+                "پردہ کرنے کا ایک مقصد نجاست کو جسم اور کپڑوں پر لگنے سے بچانا بھی ہے۔",
+                "پردہ دار جگہوں پر، نجاست کے چھینٹوں سے محفوظ رہنے کا زیادہ امکان ہوتا ہے۔",
+                "طہارت اور پاکیزگی اسلام میں بنیادی اہمیت رکھتی ہے۔"
+              ],
+              "english": [
+                "One purpose of seeking cover is also to prevent impurity from splashing onto the body and clothes.",
+                "In concealed places, there is a greater chance of staying safe from splashes of impurity.",
+                "Purity (Taharah) and cleanliness hold fundamental importance in Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنات سے پردہ",
+              "english": "Concealment from Jinn"
+            },
+            "content": {
+              "urdu": [
+                "بعض روایات سے معلوم ہوتا ہے کہ قضائے حاجت کے وقت پردہ جنات کی نظروں سے بھی حفاظت کرتا ہے۔",
+                "بیت الخلا میں داخل ہونے سے پہلے 'أَعُوذُ بِاللَّهِ مِنَ الْخُبُثِ وَالْخَبَائِثِ' کی دعا بھی اسی مقصد کے لیے ہے۔",
+                "ستر پوشی اس بات کو یقینی بناتی ہے کہ انسان شیطانی اثرات اور بری نظروں سے محفوظ رہے۔"
+              ],
+              "english": [
+                "Some narrations indicate that concealment during nature's call also provides protection from the sight of the Jinn.",
+                "The supplication 'A'udhu billahi min al-khubuthi wa'l-khaba'ith' (Seeking refuge from the male and female Jinn) is also for this purpose.",
+                "Covering ensures that a person is safeguarded from Satanic influences and ill-willed gazes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور اخلاقی درس",
+        "english": "Social and Ethical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عوامی مقامات پر حیا",
+              "english": "Modesty in Public Places"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم عوامی مقامات پر بھی مکمل پردے کی اہمیت کو اجاگر کرتا ہے، خصوصاً جب بیت الخلاء دستیاب نہ ہو۔",
+                "مسلمان کو چاہیے کہ وہ ہمیشہ ایسی جگہ تلاش کرے جہاں مکمل تنہائی میسر ہو۔",
+                "ایسے عمل سے معاشرتی آداب کی پاسداری ہوتی ہے اور شرم و حیا برقرار رہتی ہے۔"
+              ],
+              "english": [
+                "This ruling emphasizes the importance of complete privacy in public places, especially when a proper restroom is unavailable.",
+                "A Muslim should always seek a location where complete seclusion and privacy can be obtained.",
+                "Such an action upholds social etiquette and maintains modesty and decorum."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذاتی وقار کا تحفظ",
+              "english": "Protection of Personal Dignity"
+            },
+            "content": {
+              "urdu": [
+                "پردہ کرنے کا حکم فرد کے ذاتی وقار اور احترام کو برقرار رکھنے میں مدد دیتا ہے۔",
+                "یہ عمل فرد کی نفسیاتی راحت اور پرسکون ہونے کے لیے بھی ضروری ہے۔",
+                "اسلام ہر شخص کو عزت اور وقار کے ساتھ زندگی گزارنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "The command for concealment helps to maintain the individual's personal dignity and self-respect.",
+                "This practice is also necessary for the psychological comfort and peacefulness of the individual.",
+                "Islam teaches every person to live a life with honor and dignity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

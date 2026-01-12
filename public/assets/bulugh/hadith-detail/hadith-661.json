@@ -1,0 +1,259 @@
+{
+  "hadithId": 661,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:2284"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2284). والعسب هو ثمن ماء الفحل أو كرائه للضراب.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری نے اپنی صحیح (2284) میں روایت کیا ہے۔ عسب سے مراد نر جانور کو جفتی کے لیے کرائے پر دینا اور اس کا بدلہ لینا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2284). 'Asb' refers to the payment for the semen of a male animal or the fee for its services in breeding."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "عَسْبِ",
+      "english": "Hire fee for breeding",
+      "urdu": "جفتی کا معاوضہ"
+    },
+    {
+      "arabic": "الْفَحْلِ",
+      "english": "The male (stud)",
+      "urdu": "نر جانور"
+    },
+    {
+      "arabic": "ثمن",
+      "english": "Price / Fee",
+      "urdu": "قیمت / اجرت"
+    },
+    {
+      "arabic": "ماء",
+      "english": "Semen",
+      "urdu": "مادہ منویہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نر جانور (مثلاً اونٹ، گھوڑا، بیل) کو نسل کشی یا جفتی کے لیے کرائے پر دینے اور اس کی اجرت لینے سے سختی سے منع کیا گیا ہے۔",
+    "english": "This Hadith prohibits taking a fee or rent for providing a male animal (like a camel, horse, or bull) for the purpose of breeding or stud services."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2284)",
+      "english": "Sahih al-Bukhari (2284)"
+    },
+    {
+      "arabic": "فتح الباري شرح صحيح البخاري",
+      "english": "Fath al-Bari Sharh Sahih al-Bukhari"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عسب الفحل کی ممانعت",
+        "english": "Prohibition of Breeding Fees"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی ممانعت کی وجہ",
+              "english": "Reason for Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "نسل کشی کے لیے مادہ منویہ ایک ایسی چیز ہے جس کی مقدار متعین نہیں کی جا سکتی۔",
+                "یہ بیع مجہول (نامعلوم چیز کی فروخت) کے زمرے میں آتی ہے جو کہ ناجائز ہے۔",
+                "اسلامی تعلیمات میں جانوروں کی نسل کشی کو ایک تعاون اور خیر کا کام سمجھا گیا ہے۔"
+              ],
+              "english": [
+                "Semen for breeding is something that cannot be accurately measured or guaranteed.",
+                "It falls under 'Gharar' or an uncertain transaction, which is prohibited in trade.",
+                "Islamic teachings view animal breeding as a form of cooperation and community benefit."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نسل کشی میں تعاون",
+              "english": "Cooperation in Breeding"
+            },
+            "content": {
+              "urdu": [
+                "ایک بھائی کو چاہیے کہ وہ اپنے نر جانور کے ذریعے دوسرے بھائی کی مدد کرے۔",
+                "ایسی چیزوں پر معاوضہ لینا انسانی اخلاق اور سخاوت کے منافی ہے۔",
+                "شریعت نے مسلمانوں کو باہمی ہمدردی اور بے لوث مدد کی ترغیب دی ہے۔"
+              ],
+              "english": [
+                "A person should help his brother by lending his male animal for breeding without charge.",
+                "Taking a fee for such services contradicts the spirit of Islamic generosity and ethics.",
+                "Sharia encourages Muslims to engage in mutual sympathy and selfless assistance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور استدلال",
+        "english": "Juristic Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیع باطل کی قسم",
+              "english": "A Form of Void Transaction"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک عسب الفحل کی بیع باطل ہے کیونکہ مبیع (فروخت شدہ چیز) قبضہ میں نہیں۔",
+                "اس میں دھوکے کا عنصر موجود ہے کیونکہ جفتی کے باوجود حمل قرار پانا یقینی نہیں۔",
+                "امام شافعی، مالک اور ابو حنیفہ رحمہم اللہ سب اس کی حرمت پر متفق ہیں۔"
+              ],
+              "english": [
+                "Jurists consider this transaction void because the product (semen) is not deliverable at will.",
+                "Element of deception exists as pregnancy is not guaranteed after breeding.",
+                "Imams Shafi'i, Malik, and Abu Hanifa (may Allah have mercy on them) all agree on its prohibition."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کرایہ یا اجرت کا حکم",
+              "english": "Ruling on Rent or Wages"
+            },
+            "content": {
+              "urdu": [
+                "بعض متاخرین فقہاء نے جانور کو نسل کشی کے لیے مخصوص وقت کے لیے کرائے پر دینے کی اجازت دی ہے۔",
+                "لیکن راجح قول یہی ہے کہ اس کی اجرت لینا مکمل طور پر منع ہے جیسا کہ حدیث میں وارد ہے۔",
+                "اگر جانور کا مالک صرف اس کی خوراک یا دیکھ بھال کا خرچ لے تو وہ اجرت میں نہیں آتا۔"
+              ],
+              "english": [
+                "Some later jurists allowed renting the animal for a specific time for breeding purposes.",
+                "However, the stronger view remains that taking a fee is strictly forbidden as per the Hadith.",
+                "If the owner takes only the cost of fodder or maintenance, it is not considered a breeding fee."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و سماجی اسباق",
+        "english": "Ethical and Social Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بخالت کی مذمت",
+              "english": "Condemnation of Stinginess"
+            },
+            "content": {
+              "urdu": [
+                "ایسی چیزیں جو اللہ کی دی ہوئی قدرتی صلاحیت ہیں، ان پر پیسے لینا بخل کی علامت ہے۔",
+                "حدیث میں ایسے لوگوں کی حوصلہ شکنی کی گئی ہے جو ہر چیز کو تجارت بنا لیتے ہیں۔",
+                "یہ معاشرے میں خود غرضی کو ختم کر کے ایثار و قربانی کا جذبہ پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "Charging for natural abilities granted by Allah is a sign of stinginess.",
+                "The Hadith discourages individuals from turning every minor service into a commercial trade.",
+                "It aims to eliminate selfishness and foster a spirit of altruism in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحائف اور انعامات",
+              "english": "Gifts and Rewards"
+            },
+            "content": {
+              "urdu": [
+                "اگر مادہ کا مالک بطور ہدیہ یا انعام نر کے مالک کو کچھ دے تو وہ جائز ہے۔",
+                "لیکن یہ پہلے سے طے شدہ اجرت یا شرط کی بنیاد پر نہیں ہونا چاہیے۔",
+                "اسلام تحفہ دینے کی حوصلہ افزائی کرتا ہے تاکہ باہمی محبت میں اضافہ ہو۔"
+              ],
+              "english": [
+                "If the owner of the female gives a gift to the owner of the male, it is permissible.",
+                "However, this should not be based on a prior condition or fixed contract fee.",
+                "Islam encourages giving gifts to increase mutual love and strengthen social bonds."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور اور نسل کشی",
+        "english": "Modern Era and Breeding"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مصنوعی نسل کشی کا حکم",
+              "english": "Ruling on Artificial Insemination"
+            },
+            "content": {
+              "urdu": [
+                "جدید دور میں مصنوعی نسل کشی (Artificial Insemination) کے لیے سیمن خریدا جاتا ہے۔",
+                "کئی علماء کے نزدیک لیبارٹری کے اخراجات اور ڈاکٹر کی فیس لینا جائز ہے۔",
+                "اصل ممانعت اس 'عسب' کی ہے جو بغیر کسی اضافی خدمت کے محض جفتی پر لیا جائے۔"
+              ],
+              "english": [
+                "In the modern era, semen is purchased for artificial insemination services.",
+                "Many scholars allow charging for laboratory costs and medical professional fees.",
+                "The core prohibition remains on 'Asb'—a fee for natural mating without additional services."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی روح کی پاسداری",
+              "english": "Adherence to Sharia Spirit"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو چاہیے کہ وہ اپنے کاروبار میں شرعی حدود کا مکمل لحاظ رکھیں۔",
+                "حرام اور مشتبہ ذرائع آمدن سے بچنا ایمان کی سلامتی کے لیے ضروری ہے۔",
+                "تجارت میں سادگی اور برکت کا حصول اتباع سنت میں ہی پنہاں ہے۔"
+              ],
+              "english": [
+                "Muslims should strictly observe Sharia limits in their business dealings.",
+                "Avoiding haram and doubtful sources of income is essential for the safety of one's faith.",
+                "Simplicity and blessing in trade are hidden in following the Sunnah of the Prophet."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "hadithId": 349,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh:420"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 21
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف مرفوعاً وصحيح موقوفاً. رواه الدارقطني (1/387) مرفوعاً وفي سنده إسماعيل بن عياش عن الحجازيين وهو ضعيف. ورواه البيهقي (3/137) وابن خزيمة (958) موقوفاً على ابن عباس بإسناد صحيح.",
+    "urdu": "یہ روایت رسول اللہ ﷺ کی طرف منسوب (مرفوع) ہونے کے اعتبار سے ضعیف ہے، لیکن ابن عباس رضی اللہ عنہما کے قول (موقوف) کے طور پر صحیح سند سے ثابت ہے۔ امام بیہقی اور ابن خزیمہ نے اسے موقوفاً روایت کیا ہے۔",
+    "english": "Weak as a Marfu' (attributed to the Prophet) but authentic as a Mauquf (statement of Ibn Abbas). Reported by Ad-Daraqutni as Marfu' (weak) and by Ibn Khuzaimah and Al-Baihaqi as Mauquf with a Sahih chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَرْبَعَةِ بُرُدٍ",
+      "english": "Four Burud (Post stages)",
+      "urdu": "چار برد (تقریباً 80 کلومیٹر)"
+    },
+    {
+      "arabic": "عُسْفَانَ",
+      "english": "Usfan (A place near Makkah)",
+      "urdu": "عسفان (مکہ کے قریب ایک بستی)"
+    },
+    {
+      "arabic": "مَوْقُوفٌ",
+      "english": "Mauquf (Statement of a Companion)",
+      "urdu": "موقوف (صحابی کا قول)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں قصرِ نماز کے لیے کم سے کم مسافت کا ذکر ہے جو کہ چار برد (تقریباً 48 میل یا 80 کلومیٹر) بنتی ہے۔ اگرچہ اس کا انتساب نبی ﷺ کی طرف ضعیف ہے، مگر یہ کبار صحابہ کا فتویٰ رہا ہے۔",
+    "english": "This narration discusses the minimum distance required to shorten prayers (Qasr), which is four Burud (approx. 80km). While its attribution to the Prophet is weak, it is the established legal opinion of several major Sahaba."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني (1/387)",
+      "english": "Sunan ad-Daraqutni (1/387)"
+    },
+    {
+      "arabic": "صحيح ابن خزيمة (958)",
+      "english": "Sahih Ibn Khuzaimah (958)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "ضعيف مرفوعاً / صحيح موقوفاً",
+    "english": "Weak as Marfu' / Authentic as Mauquf"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قصرِ نماز کی مسافت",
+        "english": "Distance for Shortening Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چار برد کی تحقیق",
+              "english": "Research on Four Burud"
+            },
+            "content": {
+              "urdu": [
+                "ایک 'برید' 12 میل کا ہوتا ہے، لہذا چار برد کا مطلب 48 میل (تقریباً 77 سے 80 کلومیٹر) ہے۔",
+                "سیدنا ابن عباس اور ابن عمر رضی اللہ عنہم اسی مسافت کو قصر کے لیے معیار سمجھتے تھے۔",
+                "ائمہ ثلاثہ (مالک، شافعی اور احمد) کے نزدیک قصر کے لیے اتنی مسافت کا ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "One 'Barid' equals 12 miles; thus, four Burud equals 48 miles (approx. 77-80 km).",
+                "Ibn Abbas and Ibn Umar (RAA) considered this distance the standard for Qasr.",
+                "The three Imams (Malik, Shafi'i, and Ahmad) require this minimum distance for shortening prayers."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف",
+        "english": "Jurisprudential Differences"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احناف اور دیگر مکاتبِ فکر",
+              "english": "Hanafis and Other Schools"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ کے نزدیک قصر کے لیے مسافت تین دن اور تین رات کی پیدل مسافت ہے، جو تقریباً 92 کلومیٹر بنتی ہے۔",
+                "کچھ علماء کے نزدیک 'سفر' کی کوئی خاص حد نہیں، بلکہ عرفِ عام میں جسے سفر کہا جائے وہاں قصر کی جا سکتی ہے۔",
+                "جدید دور میں کلومیٹر کے حساب سے احتیاطاً 78 سے 80 کلومیٹر کو معیار مانا جاتا ہے۔"
+              ],
+              "english": [
+                "Imam Abu Hanifa defines the distance as a three-day-and-night journey on foot (approx. 92 km).",
+                "Some scholars argue there is no fixed limit; any journey culturally defined as 'travel' allows for Qasr.",
+                "In modern times, 78 to 80 km is widely accepted as a cautious standard."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مرفوع اور موقوف کا فرق",
+        "english": "Difference between Marfu' and Mauquf"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کی فنی نوعیت",
+              "english": "Technical Nature of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "مرفوع وہ حدیث ہے جو براہ راست نبی ﷺ سے مروی ہو، جبکہ موقوف صحابی کا قول ہے۔",
+                "اس روایت میں نبی ﷺ کا نام لینا ضعیف ہے، مگر ابن عباس کا قول ہونا صحیح سند سے ثابت ہے۔",
+                "چونکہ مسافت کا تعین عقل سے نہیں کیا جا سکتا، اس لیے ابن عباس کے قول کو بھی بعض علماء 'حکمِ مرفوع' میں شمار کرتے ہیں۔"
+              ],
+              "english": [
+                "Marfu' is a narration directly from the Prophet (ﷺ), while Mauquf is a saying of a Companion.",
+                "The chain naming the Prophet in this specific text is weak, but it is authentically attributed to Ibn Abbas.",
+                "Since distance determination is not based on mere opinion, some scholars treat Ibn Abbas's view as having the weight of a Prophetic teaching."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عبادت میں آسانی",
+              "english": "Ease in Worship"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے مسافر کے لیے دین میں بہت آسانی رکھی ہے، لہذا طویل سفر میں قصر ضرور کرنی چاہیے۔",
+                "ہمیں چاہیے کہ سفر پر روانہ ہونے سے پہلے اپنے مسلک کے مطابق مسافت اور احکام کی معلومات حاصل کریں۔",
+                "قصر کرنا محض رخصت نہیں بلکہ سنتِ نبوی پر عمل کرنے کا بہترین طریقہ ہے۔"
+              ],
+              "english": [
+                "Allah has placed ease in religion for the traveler, so one should definitely perform Qasr during long journeys.",
+                "Before traveling, it is advisable to check the distance and rules according to reliable scholarship.",
+                "Shortening the prayer is not just a concession but a way to follow the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

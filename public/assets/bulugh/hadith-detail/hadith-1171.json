@@ -1,0 +1,275 @@
+{
+  "hadithId": 1171,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/13/1"],
+    "kitabId": 13,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأيمان والنذور",
+    "babId": 96
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6646)، ومسلم (1646) واللفظ لمسلم. ورواية أبي هريرة رواها أبو داود (3248) والنسائي (7/5).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (6646) اور امام مسلم (1646) نے روایت کیا ہے۔ ابوداؤد اور نسائی کی روایت بھی سنداً صحیح ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (6646) and Muslim (1646). The narration of Abu Hurairah is recorded by Abu Dawud (3248) and An-Nasa'i (7/5)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَحْلِفُ",
+      "english": "Swearing / Taking an oath",
+      "urdu": "قسم اٹھانا"
+    },
+    {
+      "arabic": "يَنْهَاكُمْ",
+      "english": "Forbids you",
+      "urdu": "تمہیں منع فرماتا ہے"
+    },
+    {
+      "arabic": "لِيَصْمُتْ",
+      "english": "Remain silent",
+      "urdu": "خاموش رہے"
+    },
+    {
+      "arabic": "بِالْأَنْدَادِ",
+      "english": "By rivals / Idols",
+      "urdu": "شریکوں / بتوں کی"
+    },
+    {
+      "arabic": "صَادِقُونَ",
+      "english": "Truthful",
+      "urdu": "سچے"
+    }
+  ],
+  "summary": {
+    "urdu": "غیر اللہ کی قسم کھانا حرام ہے؛ قسم صرف اللہ کے نام کی کھانی چاہیے اور وہ بھی تب جب انسان سچا ہو۔",
+    "english": "Swearing by anyone other than Allah is forbidden; oaths must only be taken in Allah's name and only when one is being truthful."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6646)",
+      "english": "Sahih al-Bukhari (6646)"
+    },
+    {
+      "arabic": "صحيح مسلم (1646)",
+      "english": "Sahih Muslim (1646)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    },
+    {
+      "id": 3,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S8YV59Uu0oU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غیر اللہ کی قسم کی ممانعت",
+        "english": "Prohibition of Swearing by Others"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تعظیم صرف اللہ کے لیے",
+              "english": "Veneration is for Allah Only"
+            },
+            "content": {
+              "urdu": [
+                "قسم اٹھانا دراصل اس ہستی کی تعظیم ہے جس کا نام لیا جائے۔",
+                "تعظیم کی یہ قسم صرف اللہ رب العزت کے لیے خاص ہے۔",
+                "آباء و اجداد یا کسی مخلوق کی قسم کھانا شرکِ اصغر ہے۔"
+              ],
+              "english": [
+                "Taking an oath is an act of veneration for the entity named.",
+                "This specific type of veneration belongs exclusively to Allah.",
+                "Swearing by ancestors or any creation is considered minor Shirk."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جاہلیت کی رسم کا خاتمہ",
+              "english": "Ending Pre-Islamic Customs"
+            },
+            "content": {
+              "urdu": [
+                "زمانہ جاہلیت میں لوگ اپنے باپ دادا کی قسمیں کھایا کرتے تھے۔",
+                "اسلام نے اس رسم کو ختم کر کے توحید کو مضبوط کیا۔",
+                "نبی ﷺ نے سیدنا عمر کو اس پر فوراً ٹوکا اور اصلاح کی۔"
+              ],
+              "english": [
+                "In the pre-Islamic era, people used to swear by their forefathers.",
+                "Islam abolished this custom to strengthen the concept of Tawhid.",
+                "The Prophet (ﷺ) immediately corrected Umar (RA) regarding this."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قسم اٹھانے کے صحیح آداب",
+        "english": "Etiquettes of Taking Oaths"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صرف اللہ کے نام کی قسم",
+              "english": "Swearing only by Allah"
+            },
+            "content": {
+              "urdu": [
+                "اگر قسم اٹھانا ناگزیر ہو تو صرف اللہ کا نام لیا جائے۔",
+                "اللہ کی صفات کی قسم کھانا بھی شرعی طور پر جائز ہے۔",
+                "بلا ضرورت قسمیں کھانے سے بچنا تقویٰ کی علامت ہے۔"
+              ],
+              "english": [
+                "If taking an oath is unavoidable, only Allah's name should be used.",
+                "Swearing by the attributes of Allah is also legally permissible.",
+                "Avoiding unnecessary oaths is a sign of true righteousness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاموشی کی ترجیح",
+              "english": "Preference for Silence"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ یا تو اللہ کی قسم کھاؤ یا خاموش رہو۔",
+                "زیادہ قسمیں کھانا انسان کی بات کی اہمیت کم کر دیتا ہے۔",
+                "ایک مومن کی بات بغیر قسم کے بھی قابلِ اعتماد ہونی چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) said to either swear by Allah or stay silent.",
+                "Taking frequent oaths diminishes the credibility of one's speech.",
+                "A believer's word should be trustworthy even without an oath."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سچائی کی اہمیت",
+        "english": "Importance of Truthfulness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جھوٹی قسم کا گناہ",
+              "english": "Sin of False Oaths"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کے نام کی جھوٹی قسم کھانا گناہِ کبیرہ ہے۔",
+                "اسے 'یمینِ غموس' کہا جاتا ہے جو انسان کو ہلاک کرتی ہے۔",
+                "قسم صرف اسی وقت کھائیں جب آپ سو فیصد سچے ہوں۔"
+              ],
+              "english": [
+                "Taking a false oath in Allah's name is a major sin.",
+                "It is called 'Yamin al-Ghamus', which plunges one into ruin.",
+                "Only take an oath when you are one hundred percent certain."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کے نام کی تعظیم",
+              "english": "Revering Allah's Name"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کا نام بہت پاک ہے، اسے معمولی باتوں میں استعمال نہ کریں۔",
+                "جھوٹی قسم اللہ کی بارگاہ میں سخت گستاخی تصور کی جاتی ہے۔",
+                "حقوق العباد کے معاملات میں جھوٹی قسم دنیا و آخرت کی رسوائی ہے۔"
+              ],
+              "english": [
+                "Allah's name is sacred; do not use it for trivial matters.",
+                "A false oath is considered a grave insolence toward Allah.",
+                "False swearing in matters of human rights leads to disgrace."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و تربیتی پہلو",
+        "english": "Juristic and Training Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرکِ اصغر کی وضاحت",
+              "english": "Explanation of Minor Shirk"
+            },
+            "content": {
+              "urdu": [
+                "غیر اللہ کی قسم کو شرکِ اصغر اس لیے کہا گیا کہ یہ تعظیم مخلوق ہے۔",
+                "ایسی قسم شرعی طور پر منعقد نہیں ہوتی اور اس کا کفارہ نہیں ہوتا۔",
+                "انسان کو اپنی زبان کی حفاظت کے لیے ہمہ وقت چوکنا رہنا چاہیے۔"
+              ],
+              "english": [
+                "Swearing by others is minor Shirk as it venerates creation.",
+                "Such an oath is legally invalid and requires no expiation.",
+                "A person must remain vigilant at all times to guard their tongue."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اصلاح کا اسلوب",
+              "english": "Method of Correction"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے سیدنا عمر کو محبت اور حکمت کے ساتھ روکا۔",
+                "صحابہ کرام حق بات سنتے ہی فوراً اپنی اصلاح کر لیتے تھے۔",
+                "ہمیں بھی دوسروں کی غلطی پر پیار سے نصیحت کرنی چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) corrected Umar (RA) with love and wisdom.",
+                "The Companions would immediately reform themselves upon hearing truth.",
+                "We should also advise others kindly when they make a mistake."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

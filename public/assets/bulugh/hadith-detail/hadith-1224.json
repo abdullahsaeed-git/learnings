@@ -1,0 +1,259 @@
+{
+  "hadithId": 1224,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/15/5"],
+    "kitabId": 15,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب العتق",
+    "babId": 100
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أحمد (5/15)، وأبو داود (3949)، والترمذي (1365)، وابن ماجه (2524). وله شاهد صحيح من حديث ابن عمر عند ابن ماجه (2525). ورجح جمع من الحفاظ رفعه وصحته.",
+    "urdu": "صحیح۔ اسے احمد، ابوداؤد (3949)، ترمذی اور ابن ماجہ نے روایت کیا ہے۔ ابن عمر رضی اللہ عنہما سے بھی اس کا صحیح شاہد موجود ہے۔ اگرچہ بعض نے اسے موقوف کہا ہے، لیکن محققین کی بڑی جماعت نے اسے مرفوع اور صحیح قرار دیا ہے۔",
+    "english": "Sahih with corroborating evidences. Reported by Ahmad (5/15), Abu Dawud (3949), At-Tirmidhi (1365), and Ibn Majah (2524). It has a Sahih supporting narration from Ibn 'Umar in Ibn Majah (2525). Many scholars of Hadith have graded it as Marfu' and authentic."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَلَكَ",
+      "english": "Owned / Possessed",
+      "urdu": "مالک بنا"
+    },
+    {
+      "arabic": "ذَا رَحِمٍ",
+      "english": "Blood relative",
+      "urdu": "رشتہ دار"
+    },
+    {
+      "arabic": "مَحْرَمٍ",
+      "english": "Prohibited for marriage",
+      "urdu": "محرم (جس سے نکاح حرام ہو)"
+    },
+    {
+      "arabic": "حُرٌّ",
+      "english": "Free",
+      "urdu": "آزاد"
+    },
+    {
+      "arabic": "مَوْقُوف",
+      "english": "Attributed to a companion",
+      "urdu": "موقوف (صحابی کا قول)"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص اپنے کسی ایسے قریبی رشتہ دار (جیسے باپ، بیٹا، بھائی) کو خریدے یا کسی طرح اس کا مالک بنے جس سے نکاح حرام ہے، تو وہ رشتہ دار فوراً آزاد ہو جائے گا۔",
+    "english": "The Hadith establishes that if a person acquires ownership of a close relative (Mahram), that relative automatically gains their freedom."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب العتق، رقم 3949",
+      "english": "Sunan Abi Dawud, Book of Emancipation, No. 3949"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب الأحكام، رقم 1365",
+      "english": "Sunan at-Tirmidhi, Book of Judgments, No. 1365"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سمرة بن جندب",
+        "english": "Samurah bin Jundub"
+      },
+      "slug": "samurah-bin-jundub"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih lighairihi (Authentic due to corroboration)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صلہ رحمی اور انسانی وقار",
+        "english": "Upholding Kinship and Human Dignity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رشتہ داری اور غلامی کا تضاد",
+              "english": "Incompatibility of Kinship and Slavery"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں قریبی رشتہ داروں (محرم) کے درمیان غلام اور آقا کا رشتہ قائم نہیں رہ سکتا۔",
+                "رشتہ داری کی حرمت اور عظمت اس بات کا تقاضا کرتی ہے کہ وہ شخص آزاد رہے۔",
+                "یہ حکم اس بات کی علامت ہے کہ خونی رشتے غلامی کی زنجیروں سے زیادہ طاقتور ہیں۔"
+              ],
+              "english": [
+                "In Islam, the relationship of master and slave cannot exist between close Mahram relatives.",
+                "The sanctity and greatness of kinship demand that such an individual remains free.",
+                "This ruling signifies that blood ties are far more powerful than the chains of bondage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خودکار آزادی کا اصول",
+              "english": "The Principle of Automatic Freedom"
+            },
+            "content": {
+              "urdu": [
+                "جیسے ہی ملکیت حاصل ہوتی ہے، زبان سے کہے بغیر ہی وہ رشتہ دار شرعی طور پر آزاد ہو جاتا ہے۔",
+                "اس آزادی کے لیے کسی باقاعدہ دستاویز یا عدالتی فیصلے کی ضرورت نہیں پڑتی۔",
+                "یہ شریعت کا وہ حسن ہے جو خاندان کے وقار کو غلامی کی تذلیل سے محفوظ رکھتا ہے۔"
+              ],
+              "english": [
+                "As soon as ownership is acquired, the relative is legally free without needing a verbal declaration.",
+                "There is no requirement for a formal document or court ruling to enact this freedom.",
+                "This reflects the beauty of Sharia in protecting family dignity from the humiliation of slavery."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات اور حدود",
+        "english": "Juristic Details and Boundaries"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذو رحم محرم کی تعریف",
+              "english": "Defining Dhu Rahim Mahram"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد وہ رشتہ دار ہیں جن سے نکاح ابدی طور پر حرام ہے، جیسے ماں، باپ، اولاد اور بہن بھائی۔",
+                "احناف کے نزدیک تمام ذو رحم (خونی رشتہ دار) اس حکم میں شامل ہیں، چاہے وہ محرم ہوں یا نہ ہوں۔",
+                "دیگر فقہاء اسے صرف ان رشتہ داروں تک محدود رکھتے ہیں جن سے نکاح حرام ہے۔"
+              ],
+              "english": [
+                "This refers to relatives with whom marriage is permanently forbidden, such as parents, children, and siblings.",
+                "According to Hanafis, all blood relatives are included in this ruling, whether they are Mahram or not.",
+                "Other jurists restrict it specifically to those relatives with whom marriage is prohibited."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وراثت اور تحائف کا معاملہ",
+              "english": "Inheritance and Gifts"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص وراثت میں اپنے قریبی رشتہ دار کا مالک بنے، تب بھی وہ آزاد ہو جائے گا۔",
+                "اسی طرح اگر کوئی اسے تحفے میں ملے، تو ملکیت مکمل ہوتے ہی آزادی نافذ ہو جائے گی۔",
+                "یہ قانون ہر اس ذریعے پر لاگو ہوتا ہے جس سے شرعی ملکیت ثابت ہوتی ہو۔"
+              ],
+              "english": [
+                "If a person acquires ownership of a close relative through inheritance, they still become free.",
+                "Similarly, if received as a gift, freedom is enacted as soon as the ownership is finalized.",
+                "This law applies to every means through which Sharia-compliant ownership is established."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلام کا سماجی انقلاب",
+        "english": "Islam's Social Revolution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غلامی کے خاتمے کی تدبیر",
+              "english": "Strategy for Abolishing Slavery"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے غلامی کو ختم کرنے کے لیے مختلف راستے بنائے، جن میں سے ایک یہ بھی ہے۔",
+                "یہ قانون لوگوں کو ترغیب دیتا ہے کہ وہ اپنے رشتہ داروں کو خرید کر آزاد کریں۔",
+                "اس سے معاشرے میں خاندانی نظام مضبوط ہوتا ہے اور غلاموں کی تعداد کم ہوتی ہے۔"
+              ],
+              "english": [
+                "Islam created various avenues to abolish slavery, and this is one of those legal paths.",
+                "This law encourages people to purchase their enslaved relatives specifically to set them free.",
+                "It strengthens the family structure within society and reduces the number of enslaved persons."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احسان اور صلہ رحمی",
+              "english": "Excellence and Kinship"
+            },
+            "content": {
+              "urdu": [
+                "اپنے رشتہ دار کو آزادی دلانا صلہ رحمی کی بہترین اور اعلیٰ ترین شکل ہے۔",
+                "یہ عمل اللہ کے نزدیک بہت زیادہ اجر و ثواب کا حامل ہے۔",
+                "ایثار اور قربانی کا یہ جذبہ اسلامی معاشرت کی اصل روح ہے۔"
+              ],
+              "english": [
+                "Securing freedom for a relative is the best and highest form of maintaining kinship ties.",
+                "This act carries an immense amount of reward and blessings in the sight of Allah.",
+                "This spirit of altruism and sacrifice is the true essence of Islamic social conduct."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عصری اسباق",
+        "english": "Modern Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندان کی حفاظت",
+              "english": "Protecting the Family"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں اگرچہ روایتی غلامی نہیں، مگر رشتہ داروں کی مالی و اخلاقی مدد ضروری ہے۔",
+                "اپنے اپنوں کو کسی بھی قسم کی تنگی یا معاشی غلامی سے نکالنا اسی سنت کی پیروی ہے۔",
+                "خاندان کے افراد کی فلاح و بہبود پر خرچ کرنا صدقہ اور صلہ رحمی دونوں ہے۔"
+              ],
+              "english": [
+                "While traditional slavery is gone, financial and moral support for relatives remains vital today.",
+                "Rescuing one's own from any hardship or economic bondage follows the spirit of this Sunnah.",
+                "Spending on the welfare of family members counts as both charity and upholding kinship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شریعت کی ہمہ گیری",
+              "english": "Universality of Sharia"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ظاہر کرتی ہے کہ اسلام نے ہر ممکن صورت میں انسانی آزادی کو ترجیح دی ہے۔",
+                "شرعی قوانین انسانی فطرت اور رشتوں کے تقدس کے عین مطابق ہیں۔",
+                "حقوق العباد کی ادائیگی میں اپنوں کو مقدم رکھنا اسلامی تعلیمات کا حصہ ہے۔"
+              ],
+              "english": [
+                "This Hadith shows that Islam prioritized human freedom in every possible scenario.",
+                "Sharia laws are perfectly aligned with human nature and the sanctity of relationships.",
+                "Prioritizing one's own in the fulfillment of human rights is part of Islamic teachings."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

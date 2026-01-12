@@ -1,0 +1,264 @@
+{
+  "hadithId": 1009,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/17"],
+    "kitabId": 9,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 80
+  },
+
+  "takhreej": {
+    "arabic": "صحيح بشواهده. أخرجه النسائي (4853)، وأحمد (2/179)، وابن حبان (6559)، والحاكم (1/395). الكتاب مشهور تلقاه العلماء بالقبول.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے امام نسائی، احمد اور ابن حبان نے روایت کیا ہے۔ علمائے امت نے اس خط (کتاب) کو قبول کیا ہے اور یہ دیت کے احکام میں بنیادی اصل ہے۔",
+    "english": "Sahih through supporting evidences. Reported by An-Nasa'i (4853), Ahmad (2/179), and Ibn Hibban (6559). The document is famous and has been accepted by scholars as a primary source for the laws of blood money."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِعْتَبَطَ",
+      "english": "Killed Unjustly",
+      "urdu": "ناحق قتل کیا"
+    },
+    {
+      "arabic": "قَوَدٌ",
+      "english": "Retaliation",
+      "urdu": "قصاص"
+    },
+    {
+      "arabic": "الدِّيَةُ",
+      "english": "Blood Money",
+      "urdu": "دیت"
+    },
+    {
+      "arabic": "أُوعِبَ",
+      "english": "Completely",
+      "urdu": "مکمل / جڑ سے"
+    },
+    {
+      "arabic": "الْمُوضِحَةِ",
+      "english": "Bone-exposing wound",
+      "urdu": "وہ زخم جس میں ہڈی نظر آئے"
+    },
+    {
+      "arabic": "دِينَارٍ",
+      "english": "Gold Coin",
+      "urdu": "سونے کا سکہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس طویل حدیث میں انسانی جان اور اعضاء کے قتل یا ضیاع کی صورت میں قصاص اور دیت کی مکمل تفصیلات بیان کی گئی ہیں۔",
+    "english": "This long Hadith provides comprehensive details on the laws of Qisas and blood money (Diyyah) for loss of life or specific body parts."
+  },
+  "references": [
+    {
+      "arabic": "رواه النسائي (4853)",
+      "english": "Reported by An-Nasa'i (4853)"
+    },
+    {
+      "arabic": "رواه أحمد (2/179)",
+      "english": "Reported by Ahmad (2/179)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن حزم",
+        "english": "Amr bin Hazm"
+      },
+      "slug": "amr-bin-hazm"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6o9l6Kts",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "انسانی جان اور اعضاء کی قیمت",
+        "english": "The Value of Life and Limb"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جان کی دیت کا معیار",
+              "english": "Standard for Blood Money"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کی جان کی دیت سو اونٹ مقرر کی گئی ہے۔",
+                "اگر اونٹ موجود نہ ہوں تو ایک ہزار سونے کے دینار ادا کیے جائیں گے۔",
+                "یہ رقم مقتول کے ورثاء کو اس کے نقصان کے بدلے فراہم کی جاتی ہے۔"
+              ],
+              "english": [
+                "The blood money for a Muslim's life is set at one hundred camels.",
+                "If camels are not available, one thousand gold Dinars must be paid.",
+                "This amount is provided to the heirs as compensation for their loss."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعضاء کا قصاص اور دیت",
+              "english": "Diyyah for Body Parts"
+            },
+            "content": {
+              "urdu": [
+                "جو اعضاء جسم میں تنہا ہیں (جیسے زبان، ناک) ان میں پوری دیت ہے۔",
+                "جو جوڑوں کی شکل میں ہیں (جیسے آنکھیں، ہونٹ) ان میں بھی پوری دیت ہے۔",
+                "کسی ایک پاؤں یا ہاتھ کے ضائع ہونے پر نصف دیت (50 اونٹ) واجب ہوگی۔"
+              ],
+              "english": [
+                "Organs that are single (e.g., tongue, nose) require full blood money.",
+                "Paired organs (e.g., eyes, lips) together also require full blood money.",
+                "Losing a single foot or hand warrants half blood money (50 camels)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "زخموں کے احکام",
+        "english": "Rulings on Wounds"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سر اور پیٹ کے زخم",
+              "english": "Head and Stomach Wounds"
+            },
+            "content": {
+              "urdu": [
+                "دماغ تک پہنچنے والے زخم (مأمومہ) میں تہائی دیت (33 اونٹ) ہے۔",
+                "پیٹ کے گہرے زخم (جائفہ) میں بھی تہائی دیت مقرر ہے۔",
+                "ہڈی ٹوٹنے یا منتقل ہونے والے زخم میں پندرہ اونٹ واجب ہوتے ہیں۔"
+              ],
+              "english": [
+                "A head wound reaching the brain (Ma'mumah) requires one-third Diyyah.",
+                "A deep abdominal wound (Ja'ifah) also requires one-third Diyyah.",
+                "Wounds that fracture or displace a bone require fifteen camels."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معمولی زخم اور دانت",
+              "english": "Minor Wounds and Teeth"
+            },
+            "content": {
+              "urdu": [
+                "ایسا زخم جس سے ہڈی ظاہر ہو جائے (موضحہ) اس میں پانچ اونٹ ہیں۔",
+                "ایک دانت کے ضائع ہونے پر بھی پانچ اونٹ کی دیت لازم آتی ہے۔",
+                "ہاتھ یا پاؤں کی ہر انگلی کی دیت دس اونٹ مقرر کی گئی ہے۔"
+              ],
+              "english": [
+                "A wound exposing the bone (Mudihah) warrants five camels.",
+                "The loss of a single tooth also requires five camels as compensation.",
+                "Every single finger or toe is compensated with ten camels."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مساوات اور عدل",
+        "english": "Equality and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرد اور عورت کا قصاص",
+              "english": "Retaliation Between Genders"
+            },
+            "content": {
+              "urdu": [
+                "اگر مرد کسی عورت کو قتل کرے تو اسے قصاص میں قتل کیا جائے گا۔",
+                "اسلامی قانون میں جان کی حرمت میں مرد اور عورت برابر ہیں۔",
+                "یہ حکم جاہلیت کی ان رسموں کو ختم کرتا ہے جہاں تفریق کی جاتی تھی۔"
+              ],
+              "english": [
+                "If a man kills a woman, he is executed in retaliation (Qisas).",
+                "In Islamic law, the sanctity of life is equal for both men and women.",
+                "This ruling abolished Jahiliyyah customs that discriminated between genders."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناحق قتل کی سزا",
+              "english": "Penalty for Unjust Killing"
+            },
+            "content": {
+              "urdu": [
+                "ناحق قتل کا واحد حل قصاص ہے جب تک ورثاء معاف نہ کریں۔",
+                "گواہوں کی موجودگی میں قصاص کا نفاذ ریاست کی ذمہ داری ہے۔",
+                "معافی کی صورت میں دیت کی ادائیگی لازم ہوتی ہے۔"
+              ],
+              "english": [
+                "Qisas is the primary solution for murder unless the heirs forgive.",
+                "Executing Qisas in the presence of witnesses is the state's duty.",
+                "If the heirs choose to forgive, the payment of Diyyah becomes mandatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی قانون کی جامعیت",
+        "english": "Comprehensiveness of Islamic Law"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اہلِ یمن کو تحریر",
+              "english": "Writing to the People of Yemen"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے باقاعدہ دستاویزات کے ذریعے قوانین پہنچائے۔",
+                "یہ خط اسلامی ریاست کے تحریری دستور کی ایک اہم مثال ہے۔",
+                "اس سے حکومتی امور میں ریکارڈ اور تحریر کی اہمیت معلوم ہوتی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) conveyed laws through formal written documents.",
+                "This letter is a prime example of the written constitution of the Islamic state.",
+                "It shows the importance of documentation and writing in governance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظامِ عدل کا مقصد",
+              "english": "Purpose of the Justice System"
+            },
+            "content": {
+              "urdu": [
+                "دیت کا نظام معاشرے میں انتقام کی آگ کو ٹھنڈا کرنے کے لیے ہے۔",
+                "یہ مالی جرمانہ مجرم کے لیے سزا اور مظلوم کے لیے سہارا ہے۔",
+                "اسلامی سزائیں انسانی حقوق کے تحفظ کی بہترین ضامن ہیں۔"
+              ],
+              "english": [
+                "The system of Diyyah is meant to cool the fire of revenge in society.",
+                "This financial penalty is a punishment for the criminal and support for the victim.",
+                "Islamic penalties are the best guarantors for the protection of human rights."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

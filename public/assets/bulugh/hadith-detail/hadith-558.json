@@ -1,0 +1,259 @@
+{
+  "hadithId": 558,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/52"],
+    "kitabId": 5,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الصيام",
+    "babId": 34
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1991)، ومسلم (1138). والنهي هنا للتحريم بإجماع العلماء.",
+    "urdu": "صحیح۔ اسے امام بخاری (1991) اور امام مسلم (1138) نے روایت کیا ہے۔ اس ممانعت پر تمام علماء کا اتفاق ہے کہ ان دو دنوں میں روزہ رکھنا حرام ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1991) and Muslim (1138). The prohibition here implies that fasting on these two days is strictly haram (forbidden) by consensus."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "صِيَامِ",
+      "english": "Fasting",
+      "urdu": "روزہ"
+    },
+    {
+      "arabic": "يَوْمَيْنِ",
+      "english": "Two days",
+      "urdu": "دو دن"
+    },
+    {
+      "arabic": "اَلْفِطْرِ",
+      "english": "Breaking fast",
+      "urdu": "افطار / عید الفطر"
+    },
+    {
+      "arabic": "اَلنَّحْرِ",
+      "english": "Sacrifice",
+      "urdu": "قربانی / عید الاضحی"
+    }
+  ],
+  "summary": {
+    "urdu": "عید الفطر اور عید الاضحی کے دنوں میں روزہ رکھنا شرعاً ممنوع اور حرام ہے کیونکہ یہ دن اللہ کی طرف سے ضیافت اور خوشی کے ہیں۔",
+    "english": "It is forbidden to fast on the days of Eid al-Fitr and Eid al-Adha, as these are days of celebration and hospitality provided by Allah."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1991)",
+      "english": "Reported by Al-Bukhari (1991)"
+    },
+    {
+      "arabic": "رواه مسلم (1138)",
+      "english": "Reported by Muslim (1138)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0Z7Gj-mS9c",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عیدین کے روزوں کی ممانعت",
+        "english": "Prohibition of Fasting on the Two Eids"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکمِ شرعی اور حرمت",
+              "english": "Legal Status and Sanctity"
+            },
+            "content": {
+              "urdu": [
+                "عید الفطر اور عید الاضحی کے دن روزہ رکھنا قطعی طور پر حرام ہے۔",
+                "اگر کوئی ان ایام میں روزے کی نذر مانے تو وہ پوری کرنا جائز نہیں۔",
+                "یہ ممانعت تمام مسلمانوں کے لیے یکساں ہے، چاہے وہ مسافر ہوں یا مقیم۔"
+              ],
+              "english": [
+                "Fasting on the days of Eid al-Fitr and Eid al-Adha is strictly forbidden.",
+                "If someone vows to fast on these days, the vow is invalid and must not be kept.",
+                "This prohibition applies to all Muslims, whether they are traveling or resident."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ممانعت کی حکمت",
+              "english": "Wisdom Behind the Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "عید الفطر رمضان کے روزوں کی تکمیل اور اللہ کے انعام کا دن ہے۔",
+                "عید الاضحی قربانی کے گوشت کھانے اور مہمانی کا دن ہے۔",
+                "اللہ کی مہمانی کو ٹھکرانا اور اس دن روزہ رکھنا بندگی کے خلاف ہے۔"
+              ],
+              "english": [
+                "Eid al-Fitr marks the completion of Ramadan and is a day of divine reward.",
+                "Eid al-Adha is a day for eating the meat of sacrifice and receiving hospitality.",
+                "Rejecting Allah's hospitality by fasting on these days goes against servitude."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی شعائر اور خوشی",
+        "english": "Islamic Symbols and Joy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوشی کا اظہار",
+              "english": "Expressing Gratitude and Joy"
+            },
+            "content": {
+              "urdu": [
+                "اسلام صرف عبادت کا نام نہیں بلکہ جائز خوشیوں کا بھی نام ہے۔",
+                "عید کے دن اچھے کھانے پینے سے اللہ کا شکر ادا کیا جاتا ہے۔",
+                "یہ دن امتِ مسلمہ کی باہمی محبت اور اتحاد کا مظہر ہیں۔"
+              ],
+              "english": [
+                "Islam is not just about rituals but also about celebrating permissible joys.",
+                "Gratitude is shown to Allah through eating and drinking well on Eid days.",
+                "These days are a manifestation of love and unity within the Muslim Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کھانے پینے کے احکام",
+              "english": "Etiquette of Eating and Drinking"
+            },
+            "content": {
+              "urdu": [
+                "عید الفطر کی نماز سے پہلے کچھ کھا کر نکلنا سنت ہے۔",
+                "عید الاضحی میں نماز کے بعد قربانی کے گوشت سے شروعات مستحب ہے۔",
+                "یہ اعمال نبوی ﷺ روزے کی ممانعت کی عملی تاکید کرتے ہیں۔"
+              ],
+              "english": [
+                "It is Sunnah to eat something before leaving for the Eid al-Fitr prayer.",
+                "On Eid al-Adha, it is recommended to eat first from the sacrificial meat after prayer.",
+                "These Prophetic actions emphasize the prohibition of fasting on these days."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور ابحاث",
+        "english": "Juristic Issues and Discussions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایامِ تشریق کے روزے",
+              "english": "Fasting During the Days of Tashreeq"
+            },
+            "content": {
+              "urdu": [
+                "عید الاضحی کے بعد تین دن (11، 12، 13 ذوالحجہ) بھی کھانے پینے کے ہیں۔",
+                "عام حالات میں ان دنوں میں بھی روزہ رکھنا منع ہے۔",
+                "صرف ان حاجیوں کے لیے رخصت ہے جن کے پاس قربانی میسر نہ ہو۔"
+              ],
+              "english": [
+                "The three days following Eid (11, 12, 13 Dhul-Hijjah) are for eating and drinking.",
+                "Fasting is generally prohibited during these days (Ayyam al-Tashreeq).",
+                "An exception is made only for pilgrims who cannot find a sacrificial animal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجماعِ امت",
+              "english": "Consensus of the Ummah"
+            },
+            "content": {
+              "urdu": [
+                "تمام فقہاء کا اس بات پر اجماع ہے کہ عیدین کے روزے باطل ہیں۔",
+                "اگر کوئی جان بوجھ کر رکھے تو وہ گناہگار ہوگا اور روزہ شمار نہ ہوگا۔",
+                "یہ مسئلہ اسلام کے قطعی اور واضح احکامات میں سے ہے۔"
+              ],
+              "english": [
+                "All jurists agree that fasting on the two Eids is invalid and void.",
+                "One who fasts intentionally on these days commits a sin and the fast doesn't count.",
+                "This issue is among the definitive and clear rulings of Islam."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدود اللہ کی پاسداری",
+              "english": "Observing the Limits of Allah"
+            },
+            "content": {
+              "urdu": [
+                "عبادت وہی مقبول ہے جو شریعت کے بتائے ہوئے طریقے پر ہو۔",
+                "نیکی سمجھ کر اپنی مرضی کرنا اللہ کو پسند نہیں ہے۔",
+                "اطاعتِ رسول ﷺ ہی بندگی کا اصل جوہر ہے۔"
+              ],
+              "english": [
+                "Worship is only accepted when performed according to Sharia methods.",
+                "Inventing acts of devotion based on personal desire is unpleasing to Allah.",
+                "Obedience to the Messenger (ﷺ) is the true essence of servitude."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توازن اور اعتدال",
+              "english": "Balance and Moderation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام رہبانیت (دنیا چھوڑنے) کی نفی کرتا ہے اور اعتدال سکھاتا ہے۔",
+                "جہاں روزے کا حکم ہے، وہاں افطار کے مواقع بھی مقرر ہیں۔",
+                "دینِ فطرت انسانی ضروریات اور روحانی تقاضوں میں توازن رکھتا ہے۔"
+              ],
+              "english": [
+                "Islam rejects monasticism and teaches moderation in all things.",
+                "Where there are commands to fast, there are also designated times to feast.",
+                "The religion of nature balances human needs with spiritual requirements."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

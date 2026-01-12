@@ -1,0 +1,259 @@
+{
+  "hadithId": 829,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/6"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (1/392)، وأبو داود (2118)، والنسائي (3/104)، والترمذي (1105)، وابن ماجه (1892)، والحاكم (2/182). وقال الترمذي: هذا حديث حسن.",
+    "urdu": "صحیح۔ اسے امام احمد (392/1)، ابوداؤد (2118)، نسائی (104/3)، ترمذی (1105)، ابن ماجہ (1892) اور حاکم (182/2) نے روایت کیا ہے۔ امام ترمذی نے اسے حسن قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (1/392), Abu Dawud (2118), An-Nasa'i (3/104), At-Tirmidhi (1105), Ibn Majah (1892), and Al-Hakim (2/182). At-Tirmidhi graded it as Hasan."
+  },
+  "importantWords": [
+    {
+      "arabic": "التَّشَهُّدَ",
+      "english": "Testimony / Sermon",
+      "urdu": "گواہی / خطبہ"
+    },
+    {
+      "arabic": "نَسْتَعِينُهُ",
+      "english": "We seek His help",
+      "urdu": "ہم اس سے مدد مانگتے ہیں"
+    },
+    {
+      "arabic": "شُرُورِ",
+      "english": "Evils",
+      "urdu": "شر / برائیاں"
+    },
+    {
+      "arabic": "يَهْدِهِ",
+      "english": "He guides him",
+      "urdu": "وہ اسے ہدایت دے"
+    },
+    {
+      "arabic": "مُضِلَّ",
+      "english": "Misguider",
+      "urdu": "گمراہ کرنے والا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں 'خطبہ حاجت' کے الفاظ سکھائے گئے ہیں جو نکاح، جمعہ اور دیگر اہم اجتماعات کے آغاز میں پڑھنا مسنون ہے۔",
+    "english": "This Hadith teaches 'Khutbat-ul-Hajah', a prophetic sermon recited at the beginning of marriage contracts, Friday sermons, and important gatherings."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2118)",
+      "english": "Sunan Abi Dawud (2118)"
+    },
+    {
+      "arabic": "سنن الترمذي (1105)",
+      "english": "Sunan at-Tirmidhi (1105)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah bin Mas'ud"
+      },
+      "slug": "abdullah-bin-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0_u6e6eK2rI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خطبہ حاجت کی اہمیت",
+        "english": "Importance of Khutbat-ul-Hajah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ نبوی کا احیاء",
+              "english": "Revival of the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم صلی اللہ علیہ وسلم نے اہم کاموں کے آغاز میں یہ خطبہ پڑھنا سکھایا ہے۔",
+                "نکاح کے موقع پر اس خطبے کا پڑھنا برکت اور سنت کی پیروی ہے۔",
+                "یہ خطبہ توحید، رسالت اور اللہ کی عظمت کے اعتراف پر مبنی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught this sermon for the commencement of important tasks.",
+                "Reciting this sermon at a wedding brings blessings and fulfills a Sunnah.",
+                "The sermon is based on acknowledging Tawheed, Prophethood, and Allah's Greatness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی حمد و ثنا",
+              "english": "Praising Allah"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی کام کا آغاز اللہ کی تعریف سے کرنا اسلامی شعار ہے۔",
+                "اس سے بندے کے عجز اور اللہ کی قدرت کا اظہار ہوتا ہے۔",
+                "حمد و ثنا کے بعد مانگی جانے والی دعا اور کیا جانے والا کام بابرکت ہوتا ہے۔"
+              ],
+              "english": [
+                "Starting any task with the praise of Allah is an Islamic hallmark.",
+                "It expresses the servant's humility and Allah's supreme power.",
+                "A task or supplication preceded by Allah's praise becomes blessed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفس کے شر سے پناہ",
+        "english": "Seeking Refuge from Self-Evil"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تزکیہ نفس کی ضرورت",
+              "english": "Need for Purification of Soul"
+            },
+            "content": {
+              "urdu": [
+                "انسان کا نفس اسے برائی اور سرکشی پر اکسا سکتا ہے۔",
+                "نفس کے شر سے پناہ مانگنا تقویٰ کے حصول کا پہلا زینہ ہے۔",
+                "نکاح جیسے بندھن میں داخل ہوتے وقت پاکیزہ نیت اور نفس کی اصلاح ضروری ہے۔"
+              ],
+              "english": [
+                "A person's inner self can incite them toward evil and rebellion.",
+                "Seeking refuge from the soul's evil is the first step toward piety.",
+                "Entering a bond like marriage requires pure intentions and self-reform."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہدایت کا مالک اللہ ہے",
+              "english": "Allah is the Controller of Guidance"
+            },
+            "content": {
+              "urdu": [
+                "ہدایت صرف اللہ کے ہاتھ میں ہے اور وہی سیدھا راستہ دکھاتا ہے۔",
+                "جسے اللہ ہدایت دے اسے دنیا کی کوئی طاقت گمراہ نہیں کر سکتی۔",
+                "یہ یقین انسان کو غرور سے بچاتا ہے اور اللہ کی طرف متوجہ رکھتا ہے۔"
+              ],
+              "english": [
+                "Guidance is solely in Allah's hands and He shows the straight path.",
+                "Whomever Allah guides, no power on earth can lead them astray.",
+                "This conviction protects a person from pride and keeps them focused on Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قرآنی آیات کی تلاوت",
+        "english": "Recitation of Quranic Verses"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین اہم آیات",
+              "english": "Three Vital Verses"
+            },
+            "content": {
+              "urdu": [
+                "آپؐ اس خطبے کے بعد سورہ آل عمران، سورہ نساء اور سورہ احزاب کی آیات پڑھتے تھے۔",
+                "ان آیات میں تقویٰ، حقوق العباد اور سچی بات کہنے کی تاکید کی گئی ہے۔",
+                "یہ آیات خاندانی زندگی کے لیے ایک مکمل ضابطہ اخلاق فراہم کرتی ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) recited verses from Al-Imran, An-Nisa, and Al-Ahzab after the sermon.",
+                "These verses emphasize piety, rights of others, and speaking the truth.",
+                "These verses provide a complete code of conduct for family life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقویٰ کی بنیاد",
+              "english": "The Foundation of Piety"
+            },
+            "content": {
+              "urdu": [
+                "تلاوت کردہ آیات کا مرکزی نکتہ اللہ سے ڈرنا (تقویٰ) ہے۔",
+                "کامیاب ازدواجی زندگی کی بنیاد فریقین کا باہمی تقویٰ ہے۔",
+                "تقویٰ انسان کو گناہوں سے بچاتا ہے اور ذمہ داریوں کا احساس دلاتا ہے۔"
+              ],
+              "english": [
+                "The central theme of the recited verses is the fear of Allah (Taqwa).",
+                "A successful marriage is built on the mutual piety of both partners.",
+                "Taqwa protects a person from sins and instills a sense of responsibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اطلاق",
+        "english": "Practical Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نکاح میں مسنون خطبہ",
+              "english": "The Prophetic Wedding Sermon"
+            },
+            "content": {
+              "urdu": [
+                "آج کل نکاح کے موقع پر صرف ایجاب و قبول پر توجہ دی جاتی ہے، خطبہ چھوٹ جاتا ہے۔",
+                "علماء اور نکاح خواں حضرات کو اس مسنون خطبے کا اہتمام کرنا چاہیے۔",
+                "اس خطبے کے الفاظ حاضرین کے دلوں میں اللہ کا خوف پیدا کرتے ہیں۔"
+              ],
+              "english": [
+                "Nowadays, weddings focus on the contract, often neglecting the Sunnah sermon.",
+                "Scholars and marriage officials should ensure the recitation of this sermon.",
+                "The words of this sermon instill the fear of Allah in the hearts of the audience."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذکر و اذکار کی عادت",
+              "english": "Habit of Remembrance"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں سکھاتی ہے کہ ہر اہم کام سے پہلے ذکر اللہ ضروری ہے۔",
+                "دین میں مسنون دعاؤں اور خطبات کی بڑی تاثیر اور برکت ہے۔",
+                "مومن کو چاہیے کہ وہ اپنی گفتگو کا آغاز اللہ کی ثناء سے کرے۔"
+              ],
+              "english": [
+                "This Hadith teaches that remembering Allah before important tasks is essential.",
+                "Prophetic supplications and sermons hold great impact and blessing in religion.",
+                "A believer should strive to begin their speech with the praise of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 520,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/520"],
+    "kitabId": 4,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 32
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (3/56)، وأبو داود (1636)، وابن ماجه (1841)، والحاكم (1/407) وصححه جماعة من الأئمة منهم الحافظ ابن حجر في التلخيص.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے احمد، ابوداؤد اور ابن ماجہ نے روایت کیا ہے اور حاکم نے اسے صحیح قرار دیا ہے۔ ائمہ کی ایک جماعت نے اس کی تصحیح کی ہے۔",
+    "english": "Sahih. Reported by Ahmad (3/56), Abu Dawud (1636), Ibn Majah (1841), and Al-Hakim (1/407). A group of scholars, including Ibn Hajar, authenticated it."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَحِلُّ",
+      "english": "Not lawful",
+      "urdu": "حلال نہیں"
+    },
+    {
+      "arabic": "لِغَنِيٍّ",
+      "english": "For a rich person",
+      "urdu": "مالدار کے لیے"
+    },
+    {
+      "arabic": "لِعَامِلٍ",
+      "english": "For a collector",
+      "urdu": "عامل (جمع کرنے والا)"
+    },
+    {
+      "arabic": "غَارِمٍ",
+      "english": "Debtor",
+      "urdu": "مقروض"
+    },
+    {
+      "arabic": "غَازٍ",
+      "english": "Fighter",
+      "urdu": "مجاہد"
+    },
+    {
+      "arabic": "فَأَهْدَى",
+      "english": "Gave as a gift",
+      "urdu": "تحفہ دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اصولی طور پر زکوٰۃ مالداروں پر حرام ہے، لیکن پانچ مخصوص صورتوں میں ایک صاحبِ استطاعت شخص زکوٰۃ کا مال وصول کر سکتا ہے یا استعمال کر سکتا ہے۔",
+    "english": "Zakat is generally prohibited for the wealthy, but there are five specific legal exceptions where a rich person can receive or utilize Zakat funds."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (3/56)",
+      "english": "Reported by Ahmad (3/56)"
+    },
+    {
+      "arabic": "رواه أبو داود (1636)",
+      "english": "Reported by Abu Dawud (1636)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A_0uX2J9Sj8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "زکوٰۃ کے حقدار مالدار",
+        "english": "Wealthy People Eligible for Zakat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عامل اور خریدار",
+              "english": "Collectors and Buyers"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ جمع کرنے والے عامل کو اس کی محنت کے عوض اجرت زکوٰۃ سے دی جا سکتی ہے۔",
+                "اگر کوئی مالدار شخص زکوٰۃ میں دی گئی چیز کسی مستحق سے خرید لے تو وہ حلال ہے۔",
+                "یہ دونوں صورتیں مال کی ملکیت بدل جانے کی وجہ سے جائز قرار دی گئی ہیں۔"
+              ],
+              "english": [
+                "Zakat collectors can be paid from Zakat funds as a wage for their labor.",
+                "If a rich person buys a Zakat item from a poor recipient, it becomes lawful for him.",
+                "These cases are permitted because the legal nature of the ownership has changed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مقروض اور مجاہد",
+              "english": "Debtors and Warriors"
+            },
+            "content": {
+              "urdu": [
+                "ایک شخص صاحبِ نصاب ہو مگر اس پر قرض زیادہ ہو تو اسے زکوٰۃ دی جا سکتی ہے۔",
+                "اللہ کی راہ میں لڑنے والے مجاہد کو جنگی اخراجات کے لیے زکوٰۃ مل سکتی ہے۔",
+                "ان صورتوں میں ضرورت انفرادی مالداری سے زیادہ اہم سمجھی جاتی ہے۔"
+              ],
+              "english": [
+                "A person may own assets but if they are heavily in debt, they can receive Zakat.",
+                "A warrior fighting for Allah's cause can receive Zakat for military expenses.",
+                "In these instances, the collective need overrides personal wealth status."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تحفے کی شرعی حیثیت",
+        "english": "Legal Status of Gifts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسکین کا تحفہ",
+              "english": "Gift from a Poor Person"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی غریب کو زکوٰۃ ملے اور وہ اپنی خوشی سے مالدار کو تحفہ دے تو وہ جائز ہے۔",
+                "مالدار کے لیے وہ شے اب زکوٰۃ نہیں بلکہ 'تحفہ' کہلائے گی۔",
+                "نبی ﷺ نے حضرت بریرہؓ کے حوالے سے اس اصول کی وضاحت فرمائی تھی۔"
+              ],
+              "english": [
+                "If a poor person receives Zakat and gifts it to a rich person, it is permissible.",
+                "For the rich person, that item is no longer 'Zakat' but a 'Gift'.",
+                "The Prophet (ﷺ) clarified this principle regarding Barira (RA)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ملکیت کی تبدیلی",
+              "english": "Change of Ownership"
+            },
+            "content": {
+              "urdu": [
+                "ملکیت بدلنے سے شے کی شرعی حیثیت بھی بدل جاتی ہے۔",
+                "غریب کے ہاتھ میں آتے ہی وہ مال زکوٰۃ کی پابندیوں سے نکل جاتا ہے۔",
+                "یہ اسلام کی فقہی باریکی اور سماجی لچک کی ایک بڑی مثال ہے۔"
+              ],
+              "english": [
+                "A change in ownership changes the legal status of the commodity.",
+                "Once the poor person receives it, the restrictions of Zakat are lifted.",
+                "This is a prime example of Islamic legal precision and social flexibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اصولی پابندیاں",
+        "english": "Fundamental Restrictions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عام مالدار کے لیے ممانعت",
+              "english": "Prohibition for General Rich"
+            },
+            "content": {
+              "urdu": [
+                "ان پانچ صورتوں کے علاوہ کسی بھی مالدار کے لیے زکوٰۃ لینا حرام ہے۔",
+                "زکوٰۃ کا مقصد دولت کی منصفانہ تقسیم اور غربت کا خاتمہ ہے۔",
+                "بلا ضرورت زکوٰۃ لینا دوسروں کے حق پر ڈاکہ ڈالنے کے مترادف ہے۔"
+              ],
+              "english": [
+                "Except for these five cases, Zakat is forbidden for any wealthy person.",
+                "The purpose of Zakat is fair distribution of wealth and poverty eradication.",
+                "Taking Zakat without need is equivalent to stealing the rights of others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امانت کی حفاظت",
+              "english": "Protection of Trust"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ اللہ کا مال ہے جو مخصوص طبقوں کے لیے امانت ہے۔",
+                "صرف مستحقین تک مال پہنچانا اسلامی حکومت اور عوام کی ذمہ داری ہے۔",
+                "غلط مصرف پر مال خرچ کرنا گناہ اور نظام کی خرابی کا باعث ہے۔"
+              ],
+              "english": [
+                "Zakat is Allah's wealth held in trust for specific categories of people.",
+                "Ensuring it reaches only the deserving is a duty of the state and public.",
+                "Spending it on the wrong categories is sinful and disrupts the system."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زکوٰۃ کے مسائل کا علم",
+              "english": "Knowledge of Zakat Rulings"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو زکوٰۃ کے شرعی مصارف کا علم ہونا ضروری ہے۔",
+                "تحقیق کے بغیر زکوٰۃ دینا یا لینا دونوں خطرناک ہو سکتے ہیں۔",
+                "علماء سے رہنمائی لینا پیچیدہ مالی مسائل کے حل کے لیے لازمی ہے۔"
+              ],
+              "english": [
+                "Every Muslim must know the Shariah-approved categories for Zakat.",
+                "Giving or taking Zakat without verification can be hazardous.",
+                "Consulting scholars is mandatory for solving complex financial issues."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ہمدردی",
+              "english": "Social Compassion"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ کا نظام معاشرے میں محبت اور بھائی چارے کو فروغ دیتا ہے۔",
+                "قرض داروں کی مدد کرنا معاشرتی بوجھ کو کم کرنے کا ذریعہ ہے۔",
+                "اللہ کی راہ میں خرچ کرنے سے مال کم نہیں ہوتا بلکہ پاک ہوتا ہے۔"
+              ],
+              "english": [
+                "The Zakat system fosters love and brotherhood within society.",
+                "Helping debtors is a means of reducing the social burden.",
+                "Spending in Allah's path does not decrease wealth; it purifies it."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

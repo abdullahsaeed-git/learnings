@@ -1,0 +1,259 @@
+{
+  "hadithId": 1018,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1168"],
+    "kitabId": 9,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 80
+  },
+
+  "takhreej": {
+    "arabic": "ضعيف مرفوعاً وصحيح مرسلاً. رواه أبو داود (4546)، والترمذي (1388)، والنسائي (4803)، وابن ماجه (2629). وأعله النسائي وأبو حاتم بالإرسال.",
+    "urdu": "یہ روایت مرفوعاً ضعیف ہے لیکن مرسل سند کے ساتھ اسے ترجیح دی گئی ہے۔ اسے ابوداؤد، ترمذی، نسائی اور ابن ماجہ نے روایت کیا ہے۔",
+    "english": "Weak as Marfu' but preferred as Mursal. Reported by Abu Dawud (4546), At-Tirmidhi (1388), An-Nasa'i (4803), and Ibn Majah (2629)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَتَلَ",
+      "english": "Killed",
+      "urdu": "قتل کیا"
+    },
+    {
+      "arabic": "عَهْدِ",
+      "english": "Time / Era",
+      "urdu": "زمانہ / عہد"
+    },
+    {
+      "arabic": "دِيَتَهُ",
+      "english": "His blood-money",
+      "urdu": "اس کی دیت"
+    },
+    {
+      "arabic": "اِثْنَيْ عَشَرَ",
+      "english": "Twelve",
+      "urdu": "بارہ"
+    },
+    {
+      "arabic": "أَلْفًا",
+      "english": "Thousand",
+      "urdu": "ہزار"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں چاندی (درہم) کی صورت میں دیت کی مقدار بارہ ہزار درہم بیان کی گئی ہے، جو کہ اونٹوں کی دیت کے متبادل کے طور پر استعمال ہوتی ہے۔",
+    "english": "This Hadith specifies the amount of blood-money in silver as twelve thousand Dirhams, serving as a monetary alternative to the standard camel-based Diyat."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (4546)",
+      "english": "Sunan Abu Dawud (4546)"
+    },
+    {
+      "arabic": "سنن الترمذي (1388)",
+      "english": "Sunan At-Tirmidhi (1388)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دیت کی مالی مقدار",
+        "english": "Financial Value of Diyat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "درہم کی صورت میں دیت",
+              "english": "Diyat in Dirhams"
+            },
+            "content": {
+              "urdu": [
+                "اصل دیت اونٹ ہیں، لیکن شہری علاقوں میں چاندی کے سکوں (درہم) کی شکل میں بھی ادائیگی کی جاتی تھی۔",
+                "نبی ﷺ کے دور میں دیت کی مقدار بارہ ہزار درہم مقرر کی گئی تھی۔",
+                "یہ مقدار 100 اونٹوں کی اس وقت کی بازاری قیمت کے تناسب سے طے کی گئی تھی۔"
+              ],
+              "english": [
+                "While camels are the primary Diyat, silver Dirhams were used for payment in urban areas.",
+                "During the Prophet's (ﷺ) time, the Diyat was fixed at twelve thousand Dirhams.",
+                "This amount was set according to the market value of 100 camels at that time."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کرنسی میں تبدیلی اور اضافہ",
+              "english": "Currency Fluctuations"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر رضی اللہ عنہ کے دور میں چاندی کی قیمت بدلنے پر اسے بارہ ہزار سے تبدیل کیا گیا تھا۔",
+                "سونے کی صورت میں دیت ایک ہزار دینار مقرر کی گئی ہے۔",
+                "حاکمِ وقت معاشی حالات کے مطابق دیت کی قیمت کا دوبارہ تعین کر سکتا ہے۔"
+              ],
+              "english": [
+                "During the Caliphate of Umar (RA), the silver value was adjusted due to currency changes.",
+                "When paid in gold, the Diyat is fixed at one thousand Dinars.",
+                "The ruler has the authority to re-evaluate the Diyat value based on economic conditions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدالتی و فقہی باریکیاں",
+        "english": "Judicial and Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قتلِ عمد اور دیت",
+              "english": "Intentional Murder and Diyat"
+            },
+            "content": {
+              "urdu": [
+                "قتلِ عمد میں ورثاء قصاص کے بجائے دیت پر صلح کر سکتے ہیں۔",
+                "ایسی صورت میں دیت مغلظہ (سخت) ہوتی ہے جس کی قیمت زیادہ ہو سکتی ہے۔",
+                "دیت کی ادائیگی قاتل کے اپنے مال سے فوری طور پر ہونی چاہیے۔"
+              ],
+              "english": [
+                "In intentional murder, heirs can opt for Diyat instead of retaliation (Qisas).",
+                "In such cases, the Diyat is 'Mughallazah' (heavy) and may carry a higher value.",
+                "The payment must be made promptly from the murderer's own assets."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قتلِ خطا میں دیت کا حکم",
+              "english": "Diyat in Accidental Homicide"
+            },
+            "content": {
+              "urdu": [
+                "غیر ارادی قتل میں دیت کی ادائیگی قاتل کے خاندان (عاقلہ) کی ذمہ داری ہے۔",
+                "اس میں دیت کی مقدار مخففہ (ہلکی) ہوتی ہے جسے اقساط میں دیا جا سکتا ہے۔",
+                "یہ قانون خاندانوں کے درمیان دشمنی کو ختم کرنے اور مقتول کے ورثاء کی مدد کے لیے ہے۔"
+              ],
+              "english": [
+                "In accidental killing, the liability of Diyat falls on the killer's paternal kin (Aqilah).",
+                "The Diyat in this category is 'Mukhaffafah' (lightened) and can be paid in installments.",
+                "This law aims to end feuds between families and support the victim's heirs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روایت کی اسنادی بحث",
+        "english": "Narrational Analysis"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرسل اور مرفوع کی بحث",
+              "english": "Mursal vs. Marfu' Debate"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک اس روایت کا مرسل ہونا زیادہ وزنی اور صحیح ہے۔",
+                "مرسل وہ حدیث ہے جس میں تابعی براہِ راست نبی ﷺ سے روایت کرے۔",
+                "اگرچہ یہ ضعیف ہے، مگر دیگر احادیث اس کے معنی اور مفہوم کی تائید کرتی ہیں۔"
+              ],
+              "english": [
+                "Scholars consider the Mursal version of this report more weighty and accurate.",
+                "A Mursal Hadith is one where a Successor (Tabi'i) narrates directly from the Prophet (ﷺ).",
+                "Although technically weak as Marfu', other narrations support its overall meaning."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ائمہ کا استدلال",
+              "english": "Reasoning of the Imams"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور ائمہ کی ایک جماعت بارہ ہزار درہم دیت کے قائل ہیں۔",
+                "احناف کے نزدیک دیت دس ہزار درہم ہے، جو دیگر روایات سے ثابت ہے۔",
+                "ان اختلافات کی بنیاد چاندی کے سکوں کی اس وقت کی قیمت اور اوزان پر ہے۔"
+              ],
+              "english": [
+                "Imam Shafi'i and a group of Imams favor the 12,000 Dirham Diyat ruling.",
+                "According to the Hanafis, the Diyat is 10,000 Dirhams, based on other reports.",
+                "These differences stem from the varying values and weights of silver coins at the time."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی معاشرت اور توازن",
+        "english": "Islamic Social Balance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جان کی قیمت اور عدل",
+              "english": "Value of Life and Justice"
+            },
+            "content": {
+              "urdu": [
+                "دیت کا نظام اس بات کی علامت ہے کہ کسی کا خون رائیگاں نہیں جاتا۔",
+                "معاشی تلافی مقتول کے خاندان کو بے سہارا ہونے سے بچاتی ہے۔",
+                "اسلام ہر جان کی حرمت اور اس کی قیمت کو قانونی تحفظ فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "The Diyat system signifies that no blood goes uncompensated in Islam.",
+                "Economic reparation prevents the victim's family from falling into destitution.",
+                "Islam provides legal protection for the sanctity and value of every human life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صلح اور بھائی چارہ",
+              "english": "Peace and Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "دیت کا لین دین فریقین کے درمیان انتقام کی آگ بجھانے میں مددگار ہے۔",
+                "یہ قبائلی جنگوں اور لامتناہی دشمنیوں کے خلاف ایک حفاظتی ڈھال ہے۔",
+                "اسلامی ریاست کا مقصد انتقام کے بجائے اصلاح اور سماجی ہم آہنگی ہے۔"
+              ],
+              "english": [
+                "Exchanging Diyat helps extinguish the flames of revenge between parties.",
+                "It acts as a shield against tribal wars and endless animosities.",
+                "The Islamic state aims for reform and social harmony rather than mere vengeance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

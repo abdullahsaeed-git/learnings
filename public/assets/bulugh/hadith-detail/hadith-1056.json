@@ -1,0 +1,264 @@
+{
+  "hadithId": 1056,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1252"],
+    "kitabId": 10,
+    "inKitabBab": 3,
+    "arabicBook": "بلوغ المرام",
+    "babId": 86
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3475) ومسلم (1688). وقصة المرأة المخزومية مشهورة في الصحيحين.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (3475) اور مسلم (1688) میں مروی ہے۔ اس میں مخزومی عورت کا واقعہ بیان کیا گیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3475) and Muslim (1688). The story refers to the Makhzumi woman whose case is famous in the Sahihayn."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَتَشْفَعُ",
+      "english": "Do you intercede?",
+      "urdu": "کیا تو سفارش کرتا ہے؟"
+    },
+    {
+      "arabic": "هَلَكَ",
+      "english": "Destroyed",
+      "urdu": "ہلاک ہوئے"
+    },
+    {
+      "arabic": "الشَّرِيفُ",
+      "english": "The high-born / Noble",
+      "urdu": "معزز / اونچے حسب والا"
+    },
+    {
+      "arabic": "الضَّعِيفُ",
+      "english": "The weak / Poor",
+      "urdu": "کمزور / غریب"
+    },
+    {
+      "arabic": "تَسْتَعِيرُ",
+      "english": "Borrows",
+      "urdu": "ادھار لیتی تھی"
+    },
+    {
+      "arabic": "تَجْحَدُهُ",
+      "english": "Denies it",
+      "urdu": "انکار کر دیتی تھی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں قانون کی بالادستی، سفارش کی ممانعت اور سابقہ امتوں کی تباہی کا سبب دوہرا معیارِ عدل بتایا گیا ہے۔",
+    "english": "This Hadith emphasizes the supremacy of law, forbids intercession in Hudud, and identifies double standards in justice as the cause of previous nations' destruction."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (3475)",
+      "english": "Reported by Al-Bukhari (3475)"
+    },
+    {
+      "arabic": "رواه مسلم (1688)",
+      "english": "Reported by Muslim (1688)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjI-O9h8S9w",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قانون کی نظر میں برابری",
+        "english": "Equality Before the Law"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دوہرا معیارِ انصاف",
+              "english": "Double Standards in Justice"
+            },
+            "content": {
+              "urdu": [
+                "امیر اور غریب کے لیے الگ الگ قانون ہلاکت کا باعث ہے۔",
+                "سابقہ امتیں اسی لیے تباہ ہوئیں کہ وہاں بڑے لوگوں کو چھوٹ تھی۔",
+                "اسلام ہر شہری کو قانون کے سامنے برابر قرار دیتا ہے۔"
+              ],
+              "english": [
+                "Having different laws for the rich and poor leads to destruction.",
+                "Previous nations were ruined because powerful people were exempt.",
+                "Islam declares every citizen equal before the judicial system."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفارش کی ممانعت",
+              "english": "Prohibition of Intercession"
+            },
+            "content": {
+              "urdu": [
+                "جب معاملہ عدالت میں پہنچ جائے تو حدود میں سفارش حرام ہے۔",
+                "رسول اللہ ﷺ نے حضرت اسامہ جیسے محبوب صحابی کی سفارش رد فرمائی۔",
+                "حدود اللہ کے نفاذ میں کسی کا رتبہ یا تعلق نہیں دیکھا جاتا۔"
+              ],
+              "english": [
+                "Once a case reaches court, intercession in Hudud is forbidden.",
+                "The Prophet (ﷺ) rejected the plea of even his beloved companion Usama.",
+                "Status or relationships are irrelevant when enforcing Allah's limits."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی تباہی کے اسباب",
+        "english": "Causes of Societal Decay"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ظلم اور ناانصافی",
+              "english": "Oppression and Injustice"
+            },
+            "content": {
+              "urdu": [
+                "جس معاشرے میں غریب کو سزا اور امیر کو پناہ ملے وہ تباہ ہو جاتا ہے۔",
+                "عدل کا فقدان سماجی بغاوت اور بے امنی کو جنم دیتا ہے۔",
+                "اسلامی ریاست کی بنیاد ہی غیر جانبدارانہ انصاف پر رکھی گئی ہے۔"
+              ],
+              "english": [
+                "A society where the poor are punished and the rich are shielded fails.",
+                "A lack of justice breeds social rebellion and widespread unrest.",
+                "The foundation of an Islamic state is built on impartial justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبرتِ ناک انجام",
+              "english": "A Warning from History"
+            },
+            "content": {
+              "urdu": [
+                "تاریخ گواہ ہے کہ ناانصافی کرنے والی قومیں صفحہ ہستی سے مٹ گئیں۔",
+                "مسلمانوں کو ان اقوام کے نقشِ قدم پر چلنے سے روکا گیا ہے۔",
+                "قانون کی بالادستی ہی قوموں کے عروج و زوال کا فیصلہ کرتی ہے۔"
+              ],
+              "english": [
+                "History witnesses that unjust nations were wiped off the earth.",
+                "Muslims are strictly warned against following their footsteps.",
+                "The rule of law determines the rise and fall of civilizations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "چوری کی ایک خاص قسم",
+        "english": "A Specific Type of Theft"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عاریت (ادھار) کا انکار",
+              "english": "Denial of Borrowed Items"
+            },
+            "content": {
+              "urdu": [
+                "کسی سے چیز ادھار لینا اور پھر مکر جانا بھی چوری کے زمرے میں ہے۔",
+                "مخزومی عورت لوگوں سے سامان لیتی اور پھر واپس کرنے سے مکر جاتی۔",
+                "اس جرم کی سنگینی کی وجہ سے اس پر چوری کی حد جاری ہوئی۔"
+              ],
+              "english": [
+                "Borrowing an item and then denying it is categorized as theft.",
+                "The Makhzumi woman took goods and later refused to return them.",
+                "Due to the severity of this dishonesty, the penalty was applied."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امانت میں خیانت",
+              "english": "Breach of Trust"
+            },
+            "content": {
+              "urdu": [
+                "لوگوں کا مال دھوکے سے ہڑپ کرنا اخلاقی اور قانونی جرم ہے۔",
+                "یہ عمل باہمی اعتماد کی فضا کو بری طرح متاثر کرتا ہے۔",
+                "شریعت نے ایسے دھوکہ بازوں کے لیے بھی سخت سزا رکھی ہے۔"
+              ],
+              "english": [
+                "Usurping people's wealth through deceit is a moral and legal crime.",
+                "This action severely damages the atmosphere of mutual trust.",
+                "Sharia has ordained strict penalties for such fraudulent acts."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلافت اور حکمرانی کا اصول",
+        "english": "Principles of Governance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکمران کی ذمہ داری",
+              "english": "Responsibility of the Ruler"
+            },
+            "content": {
+              "urdu": [
+                "حاکمِ وقت پر لازم ہے کہ وہ بلا امتیاز حدود کا نفاذ کرے۔",
+                "اگر حاکم سفارش قبول کرے گا تو وہ اللہ کے ہاں جوابدہ ہوگا۔",
+                "نبی کریم ﷺ کا یہ خطبہ قیامت تک کے حکمرانوں کے لیے مشعلِ راہ ہے۔"
+              ],
+              "english": [
+                "The ruler must enforce legal penalties without discrimination.",
+                "If a ruler accepts intercession, he is accountable before Allah.",
+                "The Prophet's (ﷺ) speech is a guide for all future leaders."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقویٰ اور عدل",
+              "english": "Piety and Justice"
+            },
+            "content": {
+              "urdu": [
+                "سچا مومن وہی ہے جو اللہ کے حدود کے سامنے سر تسلیم خم کرے۔",
+                "ذاتی تعلقات کو اللہ کے حکم پر ترجیح دینا ایمان کے خلاف ہے۔",
+                "عدل کا قیام ہی تقویٰ کے سب سے زیادہ قریب ترین عمل ہے۔"
+              ],
+              "english": [
+                "A true believer submits completely before the limits of Allah.",
+                "Prioritizing personal ties over Allah's command opposes faith.",
+                "Establishing justice is the action closest to true God-consciousness."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

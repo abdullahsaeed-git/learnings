@@ -1,0 +1,259 @@
+{
+  "hadithId": 812,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/812"],
+    "kitabId": 7,
+    "inKitabBab": 20,
+    "arabicBook": "بلوغ المرام",
+    "babId": 61
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (1/28)، والترمذي (2103) وقال: حسن صحيح، وابن ماجه (2737)، وابن حبان (1227)، والحاكم (4/344).",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام احمد، ترمذی، ابن ماجہ اور ابن حبان نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح قرار دیا ہے۔ اس کے دیگر شواہد حضرت عائشہؓ اور مقدام بن معدی کربؓ سے بھی مروی ہیں۔",
+    "english": "Sahih. Reported by Ahmad (1/28), At-Tirmidhi (2103) who graded it Hasan Sahih, Ibn Majah (2737), and Ibn Hibban (1227). It is supported by narrations from 'Aishah (RA) and Al-Miqdam (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَوْلَى",
+      "english": "Guardian / Protector",
+      "urdu": "ولی / سرپرست"
+    },
+    {
+      "arabic": "الْخَالُ",
+      "english": "Maternal uncle",
+      "urdu": "ماموں"
+    },
+    {
+      "arabic": "وَارِثُ",
+      "english": "Heir",
+      "urdu": "وارث"
+    },
+    {
+      "arabic": "كَتَبَ",
+      "english": "Wrote",
+      "urdu": "لکھا / خط بھیجا"
+    },
+    {
+      "arabic": "حَسَّنَهُ",
+      "english": "Graded it Hasan",
+      "urdu": "اسے حسن قرار دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ جس شخص کا کوئی قریبی وارث نہ ہو، اس کا مال ماموں کو ملے گا، اور ریاست (بیت المال) ایسے افراد کی سرپرست ہوتی ہے جن کا کوئی سہارا نہ ہو۔",
+    "english": "This Hadith establishes that if a person has no primary heirs, the maternal uncle inherits, and the State (Bayt al-Mal) acts as a guardian for those who have no protector."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (2103)",
+      "english": "Sunan At-Tirmidhi (2103)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (2737)",
+      "english": "Sunan Ibn Majah (2737)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو أمامة بن سهل بن حنيف",
+        "english": "Abu Umamah bin Sahl bin Hunaif"
+      },
+      "slug": "abu-umama-bin-sahl"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی ریاست کی ذمہ داری",
+        "english": "Responsibility of the Islamic State"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بے سہاروں کی سرپرستی",
+              "english": "Guardianship of the Helpless"
+            },
+            "content": {
+              "urdu": [
+                "اللہ اور اس کے رسول کا مولیٰ ہونا اس بات کی علامت ہے کہ ریاست ہر فرد کی ضامن ہے۔",
+                "جس شخص کا کوئی معاشی یا سماجی سہارا نہ ہو، اسلامی حکومت اس کی کفالت کی پابند ہے۔",
+                "یہ تصور جدید دور کے 'سوشل ویلفیئر سٹیٹ' کی بنیاد فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "Allah and His Messenger being the Mawla signifies that the state is the ultimate guarantor.",
+                "The Islamic government is obligated to support those who have no financial or social aid.",
+                "This concept provides the foundation for the modern 'social welfare state' model."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مالی اور قانونی تحفظ",
+              "english": "Financial and Legal Protection"
+            },
+            "content": {
+              "urdu": [
+                "ریاست نہ صرف وراثت کی تقسیم کی نگرانی کرتی ہے بلکہ بے وارث میت کی تجہیز و تکفین کی بھی ذمہ دار ہے۔",
+                "اگر کوئی وارث نہ ملے تو مال بیت المال میں جاتا ہے جو عوامی فلاح پر خرچ ہوتا ہے۔",
+                "یہ قانون معاشرے میں کسی بھی فرد کو تنہا یا لاوارث محسوس نہیں ہونے دیتا۔"
+              ],
+              "english": [
+                "The state oversees inheritance and is responsible for the burial of those without heirs.",
+                "If no heir is found, the wealth goes to the public treasury for communal welfare.",
+                "This law ensures that no individual in society is left entirely alone or unprotected."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ذوی الارحام کا حقِ وراثت",
+        "english": "Inheritance Rights of Distant Kindred"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ماموں کی ترجیحی حیثیت",
+              "english": "Priority Status of the Maternal Uncle"
+            },
+            "content": {
+              "urdu": [
+                "ماموں کو وارث قرار دینا اس بات کی دلیل ہے کہ اسلام خونی رشتوں کو اہمیت دیتا ہے۔",
+                "ذوی الارحام (ماں کی طرف کے رشتہ دار) اس وقت وارث بنتے ہیں جب اصحاب الفروض نہ ہوں۔",
+                "یہ حکم خاندان کے وسیع حلقے میں معاشی فوائد کی تقسیم کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "Declaring the maternal uncle an heir proves that Islam values blood ties significantly.",
+                "Distant kindred inherit only when primary fixed heirs and agnates are absent.",
+                "This ruling ensures the distribution of economic benefits within the wider family circle."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف کی وضاحت",
+              "english": "Clarification of Juristic Difference"
+            },
+            "content": {
+              "urdu": [
+                "احناف اور حنابلہ اس حدیث کی بنیاد پر ذوی الارحام کی وراثت کے قائل ہیں۔",
+                "شوافع اور مالکیہ کا ابتدائی موقف مختلف تھا مگر بعد میں انہوں نے بھی اس پر عمل کیا۔",
+                "یہ حدیث اس فقہی بحث میں ایک فیصلہ کن اور مستند نص کی حیثیت رکھتی ہے۔"
+              ],
+              "english": [
+                "Hanafis and Hanbalis base their support for distant kindred's inheritance on this Hadith.",
+                "Shafi'is and Malikis initially held a different view but later aligned with this practice.",
+                "This Hadith serves as a decisive and authentic primary text in this juristic debate."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نظامِ وراثت کی حکمت",
+        "english": "Wisdom of the Inheritance System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سماجی انصاف کی فراہمی",
+              "english": "Providing Social Justice"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کے قوانین دولت کے ارتکاز کو روکتے ہیں اور اسے گردش میں رکھتے ہیں۔",
+                "ماموں جیسے رشتوں کو شامل کرنا باہمی الفت اور صلہ رحمی کو فروغ دیتا ہے۔",
+                "اسلامی نظامِ وراثت مردوں اور عورتوں کے تمام حقوق کا جامع احاطہ کرتا ہے۔"
+              ],
+              "english": [
+                "Inheritance laws prevent the accumulation of wealth and keep it in circulation.",
+                "Including relatives like maternal uncles promotes mutual affection and family ties.",
+                "The Islamic inheritance system comprehensively covers the rights of both men and women."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ریاستی اور خاندانی توازن",
+              "english": "State and Familial Balance"
+            },
+            "content": {
+              "urdu": [
+                "پہلے خاندانی رشتہ داروں کو حق دیا جاتا ہے، پھر بیت المال کی باری آتی ہے۔",
+                "یہ ترتیب ثابت کرتی ہے کہ اسلام خاندان کو سماج کی بنیادی اکائی مانتا ہے۔",
+                "ریاست صرف اسی صورت میں دخل دیتی ہے جب خاندان میں کوئی وارث موجود نہ ہو۔"
+              ],
+              "english": [
+                "Rights are first given to family relatives before the public treasury is considered.",
+                "This order proves that Islam regards the family as the fundamental unit of society.",
+                "The state intervenes only when no surviving heir exists within the family hierarchy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صلہ رحمی اور حسنِ سلوک",
+              "english": "Maintaining Ties and Kindness"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے ننھیالی رشتہ داروں کے ساتھ بھی تعلقات استوار رکھنے چاہئیں۔",
+                "ماموں اور خالہ کے حقوق کا اعتراف نبوی تعلیمات کا حصہ ہے۔",
+                "وراثت کے احکامات ہمیں اپنی جڑوں اور وسیع خاندان سے جوڑے رکھتے ہیں۔"
+              ],
+              "english": [
+                "We must maintain strong relationships with our maternal relatives as well.",
+                "Acknowledging the rights of maternal uncles and aunts is part of Prophetic teaching.",
+                "Inheritance rulings keep us connected to our roots and extended family network."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دینی احکامات کی پابندی",
+              "english": "Adherence to Religious Orders"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کی تقسیم میں اپنی مرضی کے بجائے اللہ کے مقررہ ضابطوں پر عمل کریں۔",
+                "شرعی حصوں میں کمی بیشی کرنا حدود اللہ کی سنگین خلاف ورزی ہے۔",
+                "علمِ فرائض کو سیکھنا اور دوسروں تک پہنچانا ایک عظیم دینی خدمت ہے۔"
+              ],
+              "english": [
+                "Follow Allah's established regulations in inheritance instead of personal whims.",
+                "Altering Shariah shares is a serious violation of the limits set by Allah.",
+                "Learning and teaching the science of inheritance is a great religious service."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

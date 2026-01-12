@@ -1,0 +1,259 @@
+{
+  "hadithId": 1291,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["muslim:2589", "bulugh:1491"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب البر والصلة والآداب",
+    "babId": 105
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (2589)، وأبو داود (4874)، والترمذي (1934)، وأحمد (8061).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (2589) نے اسے روایت کیا ہے۔ یہ روایت غیبت اور بہتان کے درمیان فرق کو واضح کرنے کے لیے بنیادی اصل ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (2589), Abu Dawud (4874), At-Tirmidhi (1934), and Ahmad (8061). It is a foundational text defining backbiting and slander."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْغِيبَةُ",
+      "english": "Backbiting",
+      "urdu": "غیبت"
+    },
+    {
+      "arabic": "ذِكْرُكَ",
+      "english": "Your mentioning",
+      "urdu": "تمہارا ذکر کرنا"
+    },
+    {
+      "arabic": "يَكْرَهُ",
+      "english": "He dislikes",
+      "urdu": "وہ ناپسند کرے"
+    },
+    {
+      "arabic": "اِغْتَبْتَهُ",
+      "english": "You backbitten him",
+      "urdu": "تم نے اس کی غیبت کی"
+    },
+    {
+      "arabic": "بَهَتَّهُ",
+      "english": "You slandered him",
+      "urdu": "تم نے اس پر بہتان لگایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں غیبت کی جامع تعریف بیان کی گئی ہے کہ کسی کی پیٹھ پیچھے ایسی بات کرنا جو اسے ناپسند ہو غیبت ہے، اور جھوٹی بات منسوب کرنا بہتان ہے۔",
+    "english": "This Hadith provides a comprehensive definition of backbiting: mentioning someone behind their back in a way they would dislike, while attributing false traits is slander."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (2589)",
+      "english": "Sahih Muslim (2589)"
+    },
+    {
+      "arabic": "سنن أبي داود (4874)",
+      "english": "Sunan Abu Dawud (4874)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غیبت کی حقیقت",
+        "english": "The Reality of Backbiting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیبت کی شرعی تعریف",
+              "english": "Sharia Definition of Backbiting"
+            },
+            "content": {
+              "urdu": [
+                "غیبت سے مراد کسی کی غیر موجودگی میں اس کا ایسا ذکر ہے جو اسے برا لگے۔",
+                "چاہے وہ ذکر اس کے جسم، اخلاق یا دین کے متعلق ہی کیوں نہ ہو۔",
+                "اگر وہ بات سچی بھی ہو تب بھی اسے پیٹھ پیچھے کہنا غیبت کہلاتا ہے۔"
+              ],
+              "english": [
+                "Backbiting means mentioning someone in their absence in a way that hurts them.",
+                "This applies whether the mention concerns their body, character, or religious practice.",
+                "Even if the statement is true, saying it behind their back is still considered backbiting."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بہتان کی سنگینی",
+              "english": "The Severity of Slander"
+            },
+            "content": {
+              "urdu": [
+                "بہتان سے مراد کسی شخص کی طرف ایسی برائی منسوب کرنا ہے جو اس میں نہ ہو۔",
+                "یہ گناہ غیبت سے بھی زیادہ سنگین ہے کیونکہ اس میں جھوٹ شامل ہے۔",
+                "اسلام میں کسی بے گناہ پر تہمت لگانا کبیرہ گناہوں میں شمار ہوتا ہے۔"
+              ],
+              "english": [
+                "Slander refers to attributing an evil trait to someone that they do not possess.",
+                "This sin is more severe than backbiting because it involves deliberate lying.",
+                "In Islam, accusing an innocent person of a fault is considered a major sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور روحانی نقصانات",
+        "english": "Social and Spiritual Consequences"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردہ بھائی کا گوشت",
+              "english": "Flesh of a Dead Brother"
+            },
+            "content": {
+              "urdu": [
+                "قرآن پاک میں غیبت کو مردہ بھائی کا گوشت کھانے سے تشبیہ دی گئی ہے۔",
+                "یہ عمل انسان کے باہمی اعتماد اور محبت کو ختم کر دیتا ہے۔",
+                "غیبت کرنے والا معاشرے میں نفرت اور فساد کے بیج بوتا ہے۔"
+              ],
+              "english": [
+                "The Quran likens backbiting to eating the flesh of one's dead brother.",
+                "This act destroys mutual trust and love between members of the community.",
+                "A backbiter sows seeds of hatred and discord within society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیکیوں کی بربادی",
+              "english": "Destruction of Good Deeds"
+            },
+            "content": {
+              "urdu": [
+                "غیبت کرنے والے کی نیکیاں اس شخص کو دے دی جاتی ہیں جس کی غیبت کی۔",
+                "یہ عمل انسان کے نامہ اعمال کو برباد کرنے والا سب سے بڑا فتنہ ہے۔",
+                "روحانی طور پر غیبت دل کو سیاہ اور ایمان کو کمزور کر دیتی ہے۔"
+              ],
+              "english": [
+                "The good deeds of a backbiter are transferred to the person they spoke against.",
+                "This act is the biggest trial that ruins a person's record of deeds.",
+                "Spiritually, backbiting darkens the heart and weakens the faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غیبت سے بچنے کے اسباب",
+        "english": "Ways to Avoid Backbiting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت",
+              "english": "Guarding the Tongue"
+            },
+            "content": {
+              "urdu": [
+                "خاموشی اختیار کرنا فضول باتوں اور غیبت سے بچنے کا بہترین طریقہ ہے۔",
+                "مومن وہی ہے جس کی زبان سے دوسرے مسلمان محفوظ رہیں۔",
+                "بولنے سے پہلے یہ سوچنا چاہیے کہ کیا یہ بات اللہ کو پسند آئے گی۔"
+              ],
+              "english": [
+                "Adopting silence is the best way to avoid idle talk and backbiting.",
+                "A true believer is one from whose tongue other Muslims are safe.",
+                "Before speaking, one must consider if the words will please Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مظلوم کی حمایت",
+              "english": "Supporting the Victim"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی محفل میں غیبت ہو رہی ہو تو اسے روکنا ہر مسلمان کا فرض ہے۔",
+                "غیبت سننے والا بھی اس گناہ میں برابر کا شریک ہوتا ہے۔",
+                "اپنے بھائی کی عزت کا دفاع کرنا جہنم سے آزادی کا ذریعہ بنتا ہے۔"
+              ],
+              "english": [
+                "Stopping backbiting in a gathering is the duty of every Muslim.",
+                "The person who listens to backbiting shares equally in the sin.",
+                "Defending a brother's honor acts as a shield against the Hellfire."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "توبہ اور تلافی",
+        "english": "Repentance and Amends"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معافی اور دعا",
+              "english": "Forgiveness and Prayer"
+            },
+            "content": {
+              "urdu": [
+                "غیبت سے توبہ کے لیے اللہ سے معافی اور اس شخص سے صلح ضروری ہے۔",
+                "اگر اس شخص تک بات پہنچ جائے تو اس سے براہ راست معافی مانگیں۔",
+                "جس کی غیبت کی ہو اس کے لیے دعائے مغفرت کرنا تلافی کا ایک طریقہ ہے۔"
+              ],
+              "english": [
+                "Repentance requires seeking Allah's mercy and reconciling with the victim.",
+                "If the person finds out, one must ask for their forgiveness directly.",
+                "Praying for the person's forgiveness is a way to make amends for the harm."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خود احتسابی",
+              "english": "Self-Accountability"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو چاہیے کہ دوسروں کے عیب تلاش کرنے کے بجائے اپنی اصلاح کرے۔",
+                "اپنی زبان کے استعمال کا روزانہ جائزہ لینا ایمان کی پختگی کی علامت ہے۔",
+                "نبی کریم ﷺ کے اسوہ حسنہ پر عمل کر کے ہی زبان کی آفتوں سے بچا جا سکتا ہے۔"
+              ],
+              "english": [
+                "One should focus on self-reform instead of searching for others' faults.",
+                "Reviewing daily usage of the tongue is a sign of strong faith.",
+                "One can only escape the trials of the tongue by following the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

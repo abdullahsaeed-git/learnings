@@ -1,0 +1,259 @@
+{
+  "hadithId": 603,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/603"],
+    "kitabId": 6,
+    "inKitabBab": 4,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 39
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1816)، ومسلم (1201). واللفظ للبخاري.",
+    "urdu": "صحیح۔ اسے بخاری (1816) اور مسلم (1201) نے روایت کیا ہے۔ یہ حدیث فدیہ اذیت کے بیان میں قرآن کی آیت (سورہ البقرہ: 196) کی تفسیر ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1816) and Muslim (1201). This Hadith explains the 'Ransom for suffering' mentioned in the Quran (2:196)."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْقَمْلُ",
+      "english": "Lice",
+      "urdu": "جوئیں"
+    },
+    {
+      "arabic": "الْوَجَعَ",
+      "english": "Pain / Suffering",
+      "urdu": "تکلیف / بیماری"
+    },
+    {
+      "arabic": "شَاةً",
+      "english": "Sheep / Goat",
+      "urdu": "بکری"
+    },
+    {
+      "arabic": "نِصْفُ صَاعٍ",
+      "english": "Half a Sa' (approx. 1.5kg)",
+      "urdu": "آدھا صاع"
+    },
+    {
+      "arabic": "فِدْيَة",
+      "english": "Ransom / Compensation",
+      "urdu": "فدیہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر حالتِ احرام میں بیماری یا تکلیف کی وجہ سے کوئی ممنوعہ کام (جیسے سر منڈوانا) کرنا پڑے، تو اس کا فدیہ بکری ذبح کرنا، یا تین روزے رکھنا، یا چھ مسکینوں کو کھانا کھلانا ہے۔",
+    "english": "If a person in Ihram is forced to commit a prohibited act (like shaving the head) due to illness or suffering, the ransom is either sacrificing a sheep, fasting for three days, or feeding six needy people."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1816)",
+      "english": "Reported by Al-Bukhari (1816)"
+    },
+    {
+      "arabic": "رواه مسلم (1201)",
+      "english": "Reported by Muslim (1201)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "كعب بن عجرة الأنصاري",
+        "english": "Ka'b bin 'Ujrah Al-Ansari"
+      },
+      "slug": "kab-bin-ujrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فدیہِ اذیت کا پس منظر",
+        "english": "Background of the Ransom for Suffering"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کعب بن عجرہ کا واقعہ",
+              "english": "The Incident of Ka'b bin 'Ujrah"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا کعب بن عجرہ حدیبیہ کے موقع پر احرام میں تھے اور ان کے سر میں شدید زخم اور جوئیں ہو گئی تھیں۔",
+                "تکلیف اس حد تک بڑھ گئی تھی کہ جوئیں ان کے چہرے پر گر رہی تھیں۔",
+                "نبی ﷺ نے ان کی حالت دیکھ کر ہمدردی فرمائی اور انہیں سر منڈوانے کی اجازت دے کر فدیہ کا طریقہ بتایا۔"
+              ],
+              "english": [
+                "Ka'b bin 'Ujrah (RA) was in Ihram during Hudaybiyyah and suffered from severe head wounds and lice.",
+                "The pain was so intense that lice were falling onto his face.",
+                "Seeing his state, the Prophet (ﷺ) empathized and allowed him to shave his head while specifying the ransom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرآنی حکم کی تفسیر",
+              "english": "Interpretation of Quranic Command"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سورہ بقرہ کی آیت 196 (ففدية من صيام أو صدقة أو نسك) کی عملی تفسیر ہے۔",
+                "قرآن نے مجمل حکم دیا تھا، جبکہ اس حدیث نے روزوں، صدقہ اور قربانی کی مقدار واضح کر دی۔",
+                "یہ 'فدیہ تخییر' کہلاتا ہے، یعنی انسان ان تینوں میں سے کسی ایک کا انتخاب کر سکتا ہے۔"
+              ],
+              "english": [
+                "This Hadith is a practical explanation of Surah Al-Baqarah verse 196 regarding fidyah.",
+                "While the Quran gave a general command, this Hadith clarified the specific amounts for fasting, charity, and sacrifice.",
+                "It is known as 'Ransom of Choice', meaning the pilgrim can choose any of the three options."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فدیہ کی اقسام اور مقدار",
+        "english": "Types and Quantities of Fidyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین اختیارات",
+              "english": "Three Options"
+            },
+            "content": {
+              "urdu": [
+                "پہلا اختیار: ایک بکری ذبح کرنا۔",
+                "دوسرا اختیار: تین دن کے روزے رکھنا (چاہے لگاتار ہوں یا الگ الگ)۔",
+                "تیسرا اختیار: چھ مسکینوں کو کھانا کھلانا، ہر ایک کو آدھا صاع (تقریباً 1.5 کلو گرام) غلہ دینا۔"
+              ],
+              "english": [
+                "First option: Sacrificing one sheep.",
+                "Second option: Fasting for three days (consecutive or separate).",
+                "Third option: Feeding six needy people, giving each half a Sa' (approx. 1.5 kg) of grain."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آسانی اور سہولت",
+              "english": "Ease and Facilitation"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ان تینوں میں 'او' (یا) کا لفظ استعمال کیا جو اختیار پر دلالت کرتا ہے۔",
+                "غریب آدمی روزے رکھ سکتا ہے، جبکہ صاحبِ ثروت قربانی یا صدقہ کر سکتا ہے۔",
+                "یہ اللہ کی طرف سے اپنے بندوں کے لیے ایک بڑی رعایت اور رحمت ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) used the word 'or' (aw), indicating a choice for the pilgrim.",
+                "A poor person can fast, while a wealthy one can offer a sacrifice or give charity.",
+                "This reflects Allah's immense concession and mercy toward His servants."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام و مسائل",
+        "english": "Juristic Rulings and Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عذر کی حالت میں ممنوعات",
+              "english": "Prohibitions Under Necessity"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص عذر (بیماری، زخم، شدید گرمی یا سردی) کی وجہ سے احرام کی خلاف ورزی کرے تو وہ گناہگار نہیں ہوگا۔",
+                "خلاف ورزی (جیسے سلا ہوا کپڑا پہننا یا سر ڈھانپنا) کی صورت میں فدیہ دینا لازم ہے۔",
+                "بغیر عذر کے جان بوجھ کر ایسا کرنا گناہ ہے اور اس میں بھی فدیہ واجب ہوتا ہے۔"
+              ],
+              "english": [
+                "If someone violates Ihram restrictions due to a valid excuse (illness, wound, extreme weather), they are not sinful.",
+                "However, in case of violation (like wearing stitched clothes or covering the head), fidyah remains mandatory.",
+                "Doing so intentionally without an excuse is a sin and still requires the payment of fidyah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فدیہ کی ادائیگی کا مقام",
+              "english": "Location for Paying Fidyah"
+            },
+            "content": {
+              "urdu": [
+                "قربانی کا جانور حدودِ حرم میں ذبح کرنا ضروری ہے۔",
+                "صدقہ (کھانا کھلانا) بھی حرم کے مساکین کو دینا افضل ہے، اگرچہ بعض کے نزدیک کہیں بھی دیا جا سکتا ہے۔",
+                "روزے کہیں بھی رکھے جا سکتے ہیں کیونکہ وہ بدنی عبادت ہیں۔"
+              ],
+              "english": [
+                "The sacrificial animal must be slaughtered within the boundaries of the Haram.",
+                "Feeding the poor is best done for the needy within the Haram, though some say it's allowed elsewhere.",
+                "Fasting can be done anywhere since it is a physical act of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی شفقت",
+              "english": "The Prophet's (ﷺ) Compassion"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ اپنے صحابہ کی تکلیف پر بہت رنجیدہ ہوتے تھے اور ان کا حال پوچھتے تھے۔",
+                "آپ ﷺ کا یہ فرمانا 'میرا یہ خیال نہ تھا' آپ ﷺ کی انسانی ہمدردی کو ظاہر کرتا ہے۔",
+                "رہنماؤں کو چاہیے کہ وہ اپنے ماتحتوں کی تکالیف کا احساس کریں اور ان کے لیے آسانیاں پیدا کریں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) felt deeply for his companions' suffering and would inquire about their well-being.",
+                "His statement \"I did not think...\" highlights his profound human empathy.",
+                "Leaders should be sensitive to the hardships of those under them and strive to provide ease."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دینِ فطرت",
+              "english": "The Natural Religion"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک لچکدار دین ہے جو انسانی ضروریات اور مجبوریوں کا لحاظ رکھتا ہے۔",
+                "مشقت آنے پر احکام میں نرمی آ جاتی ہے (المشقة تجلب التيسير)۔",
+                "مومن کو چاہیے کہ وہ تنگی میں بھی اللہ کے حدود کا احترام کرے اور شرعی حل تلاش کرے۔"
+              ],
+              "english": [
+                "Islam is a flexible religion that considers human needs and constraints.",
+                "Whenever there is hardship, the legal rulings become easier (Hardship brings ease).",
+                "A believer should respect Allah's limits even in difficulty and seek legitimate Shariah solutions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

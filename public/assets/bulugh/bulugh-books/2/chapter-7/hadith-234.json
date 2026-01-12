@@ -1,0 +1,273 @@
+{
+  "hadithId": 234,
+  "hadithNo": 25,
+  "hadithReferences": {
+    "sunnah.com": ["Sahih al-Bukhari 812", "Sahih Muslim 490"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 17
+  },
+  "name": {
+    "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أُمِرْتُ أَنْ أَسْجُدَ عَلَى سَبْعَةِ أَعْظُمٍ : عَلَى اَلْجَبْهَةِ ‏- وَأَشَارَ بِيَدِهِ إِلَى أَنْفِهِ ‏- وَالْيَدَيْنِ , وَالرُّكْبَتَيْنِ , وَأَطْرَافِ اَلْقَدَمَيْنِ } مُتَّفَقٌ عَلَيْهِ .‏",
+    "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” مجھے سات ہڈیوں (اعضاء) پر سجدہ کرنے کا حکم دیا گیا ہے۔“ اپنے دست مبارک سے اشارہ کر کے فرمایا ” پیشانی و ناک پر اور دونوں ہاتھوں اور دونوں گھٹنوں اور دونوں قدموں پر۔“ (بخاری و مسلم)",
+    "english": "Narrated Ibn Abbas (May Allah be pleased with them both): The Messenger of Allah (ﷺ) said: \"I have been commanded to prostrate on seven bones (limbs): on the forehead – and he pointed with his hand to his nose – the two hands, the two knees, and the ends (toes) of the two feet.\" (Agreed upon: Al-Bukhari and Muslim)."
+  },
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البخاري (812)‏ ، ومسلم (490) (230) وزادا : \" ولا نكفت الثياب ولا الشعر\".‏",
+    "urdu": "صحیح متفق علیہ روایت۔ اسے بخاری (812) اور مسلم (490/230) نے روایت کیا ہے۔ بخاری اور مسلم نے یہ اضافہ بھی نقل کیا ہے کہ: \"اور ہمیں کپڑے یا بال سمیٹنے سے بھی منع کیا گیا ہے۔\" (سجدے کے دوران)",
+    "english": "Authentic (Sahih). Reported by Al-Bukhari (812) and Muslim (490/230). Both narrations include the addition: 'And we were forbidden to tuck up the clothes or hair (during prayer).'"
+  },
+  "importantWords": [
+    {
+      "arabic": "أَسْجُدَ",
+      "english": "I prostrate",
+      "urdu": "میں سجدہ کروں"
+    },
+    {
+      "arabic": "سَبْعَةِ أَعْظُمٍ",
+      "english": "Seven bones/limbs",
+      "urdu": "سات ہڈیوں پر"
+    },
+    {
+      "arabic": "اَلْجَبْهَةِ",
+      "english": "The forehead",
+      "urdu": "پیشانی"
+    },
+    {
+      "arabic": "أَنْفِهِ",
+      "english": "His nose",
+      "urdu": "اس کی ناک"
+    },
+    {
+      "arabic": "الْيَدَيْنِ",
+      "english": "The two hands",
+      "urdu": "دونوں ہاتھ"
+    },
+    {
+      "arabic": "اَلرُّكْبَتَيْنِ",
+      "english": "The two knees",
+      "urdu": "دونوں گھٹنے"
+    },
+    {
+      "arabic": "أَطْرَافِ اَلْقَدَمَيْنِ",
+      "english": "The ends (toes) of the two feet",
+      "urdu": "دونوں قدموں کے کنارے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز میں سجدہ کرنے کے درست شرعی طریقہ کو واضح کرتی ہے، جہاں نبی اکرم ﷺ نے ان سات اعضاء کی نشاندہی فرمائی جن کا سجدے کی حالت میں زمین پر ٹکنا ضروری ہے۔ سجدہ کی صحت ان اعضاء کو زمین پر رکھنے پر منحصر ہے۔",
+    "english": "This Hadith clarifies the correct legal method of prostration in prayer by identifying the seven limbs that must touch the ground during Sujud. The validity of the prostration depends on placing these specific body parts on the ground."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (812)",
+      "english": "Reported by Al-Bukhari (812)"
+    },
+    {
+      "arabic": "رواه مسلم (490)",
+      "english": "Reported by Muslim (490)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=QZ0s8hW1XkE",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سجدے کے فرائض",
+        "english": "Mandatory Elements of Sujud"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سات اعضاء کی تفصیل",
+              "english": "Detail of the Seven Limbs"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں سجدے کے لیے سات اعضاء کا ذکر ہے جن کا زمین پر لگنا ضروری ہے، یہ سجدہ کی صحت کے لیے فرض ہیں۔",
+                "سات اعضاء یہ ہیں: پیشانی (ناک سمیت)، دونوں ہاتھ، دونوں گھٹنے اور دونوں قدموں کی انگلیاں۔",
+                "نبی اکرم ﷺ نے پیشانی کے ساتھ ناک کو بھی شامل کر کے سجدہ کا طریقہ واضح فرمایا۔"
+              ],
+              "english": [
+                "The Hadith mentions seven limbs that must touch the ground for the prostration to be valid, which are mandatory elements.",
+                "The seven limbs are: the forehead (including the nose), the two hands, the two knees, and the toes of the two feet.",
+                "The Prophet (ﷺ) clarified the method of prostration by indicating the inclusion of the nose with the forehead."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناک کا حکم",
+              "english": "The Ruling on the Nose"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ کا ہاتھ سے اشارہ کرنا اس بات پر دلالت کرتا ہے کہ ناک بھی پیشانی کے ساتھ ہی سمجھی جائے۔",
+                "جمہور فقہاء کے نزدیک سجدے میں پیشانی کا زمین پر لگنا فرض ہے، جبکہ ناک کا لگانا سنت ہے۔",
+                "بعض علماء کے نزدیک ناک کا لگانا بھی فرض ہے کیونکہ نبی اکرم ﷺ نے اسے پیشانی کے تابع کر کے ذکر فرمایا۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) gesture indicates that the nose is considered part of the area of prostration along with the forehead.",
+                "The majority of jurists hold that the placement of the forehead is obligatory, while placing the nose is a confirmed Sunnah.",
+                "Some scholars believe placing the nose is also obligatory due to the Prophet (ﷺ) explicitly linking it to the forehead."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سجدہ اور عبادات کی تنظیم",
+        "english": "Prostration and Organization of Worship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سجدے کی حکمت",
+              "english": "Wisdom of Prostration"
+            },
+            "content": {
+              "urdu": [
+                "سجدہ وہ حالت ہے جب انسان کا سب سے اشرف حصہ (پیشانی) سب سے نچلے حصے (پاؤں) کے برابر ہوتا ہے۔",
+                "یہ جسم کے ان سات اعضاء کو یکجا کر کے رب کے سامنے عاجزی اور انکساری کو ظاہر کرتا ہے۔",
+                "ان اعضاء پر سجدہ کرنا اللہ کے سامنے مکمل سپردگی اور تابع داری کی نشانی ہے۔"
+              ],
+              "english": [
+                "Sujud is the state where the most honorable part of man (the forehead) is equal to the lowest part (the feet).",
+                "It demonstrates humility and subservience to the Lord by gathering these seven distinct limbs.",
+                "Prostrating on these limbs is a sign of complete surrender and obedience to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بال اور کپڑے نہ سمیٹنے کا حکم",
+              "english": "Prohibition of Tucking Hair and Clothes"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں یہ اضافہ موجود ہے کہ ہمیں بالوں یا کپڑوں کو سجدے کے دوران سمیٹنے سے منع کیا گیا ہے۔",
+                "اس کی حکمت یہ ہے کہ یہ اعضاء اور بال بھی سجدہ کریں تاکہ بندے کا پورا وجود عاجزی ظاہر کرے۔",
+                "کپڑوں کو اوپر چڑھانا (مثلاً آستینیں) مکروہ ہے کیونکہ یہ تکبر کی ایک شکل ہو سکتی ہے۔"
+              ],
+              "english": [
+                "The Hadith includes the addition that we are forbidden from tucking up our hair or clothes during prostration.",
+                "The wisdom behind this is for these limbs and the hair to also participate in the prostration, showing complete humility.",
+                "Pulling up garments (like sleeves) is disliked (Makruh) as it may reflect a form of arrogance or distraction."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات",
+        "english": "Juristic Details"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہاتھوں اور پاؤں کی انگلیاں",
+              "english": "Hands and Toes of the Feet"
+            },
+            "content": {
+              "urdu": [
+                "سجدے میں ہاتھوں کی ہتھیلیوں کو زمین پر رکھنا اور پاؤں کی انگلیوں کا قبلہ رخ ہونا سنت ہے۔",
+                "پاؤں کی انگلیوں کے 'اطراف' کا مطلب ان کی نوکوں کو زمین پر ٹکانا بھی ہے جو سجدے کی صحت کے لیے لازم ہے۔",
+                "اگر کوئی شخص عذر کے بغیر ان سات اعضاء میں سے کسی ایک پر بھی سجدہ نہ کرے تو نماز باطل ہو جاتی ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to place the palms of the hands on the ground and to face the toes of the feet towards the Qiblah during prostration.",
+                "The 'ends' of the feet means the tips of the toes must be placed on the ground, which is necessary for the validity of Sujud.",
+                "If someone intentionally fails to prostrate on any of the seven limbs without a valid excuse, the prayer becomes invalid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجزاء کا تعلق",
+              "english": "The Connection of the Parts"
+            },
+            "content": {
+              "urdu": [
+                "یہ سات اعضاء جسم کے مختلف حصوں کو زمین پر برابر لا کر مساوات کا درس دیتے ہیں۔",
+                "ناک کا ذکر پیشانی کے ساتھ، اس کی اہمیت اور سجدے میں اس کے لازم ہونے کو واضح کرتا ہے۔",
+                "اگر پیشانی پر کوئی چیز حائل ہو تو اس صورت میں سجدہ جائز نہیں، سوائے قمیص کے کنارے کے۔"
+              ],
+              "english": [
+                "These seven limbs teach a lesson of equality by bringing different parts of the body to the same level on the ground.",
+                "The inclusion of the nose with the forehead clarifies its importance and its necessity in prostration.",
+                "If there is a barrier on the forehead, the prostration is generally invalid, except perhaps for the edge of a garment used for comfort."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حسّی اور روحانی سبق",
+        "english": "Sensory and Spiritual Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سات اعضاء اور کمال بندگی",
+              "english": "Seven Limbs and Perfect Servitude"
+            },
+            "content": {
+              "urdu": [
+                "ان سات اعضاء پر سجدہ کرنا، رسول اللہ ﷺ کی مکمل اطاعت اور پیروی کا مظاہرہ ہے۔",
+                "یہ سجدہ اس بات کی علامت ہے کہ بندے نے اپنا سب کچھ اللہ کی راہ میں جھکا دیا ہے۔",
+                "اس عمل سے اللہ راضی ہوتا ہے اور اس کے بدلے میں گناہوں کی مغفرت ہوتی ہے۔"
+              ],
+              "english": [
+                "Prostrating on these seven limbs demonstrates complete obedience and emulation of the Messenger of Allah (ﷺ).",
+                "This prostration symbolizes that the servant has surrendered everything entirely to the will of Allah.",
+                "This act pleases Allah and results in the forgiveness of sins for the believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی تعلیم",
+              "english": "The Prophet's Teaching Method"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے 'أُمِرْتُ' (مجھے حکم دیا گیا) فرما کر واضح کیا کہ یہ اللہ کی طرف سے فرض کردہ حکم ہے۔",
+                "اشارہ کر کے ناک کی شمولیت کو واضح کرنا تعلیم و تربیت کا بہترین طریقہ ہے۔",
+                "مسلمان کو چاہیے کہ وہ نماز کو اس مفصل شرعی اصول کے مطابق ہی ادا کرے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) used the phrase 'I have been commanded' to clarify that this is an obligation established by Allah.",
+                "Clarifying the inclusion of the nose with a physical gesture is an excellent method of teaching and instruction.",
+                "Every Muslim must ensure their prayer is performed strictly according to this detailed legal principle."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

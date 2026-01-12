@@ -1,0 +1,59 @@
+{
+    "bookId": 12,
+    "summary": {
+        "english": [], 
+        "urdu": []
+    },
+    "description": {
+        "urdu": " ",
+        "english" : " "
+    }, 
+    "hadithRange": {
+"from": 1135,
+"to": 1170
+    },
+    "chapters": [
+        {
+            "id": 92,
+            "chapNo": 1,
+            "name": {
+                "arabic": " (أحاديث في الأطعمة)",
+                "english": " ",
+                "urdu": " (کھانے کے متعلق احادیث)"
+            }
+        },
+
+        
+        {
+            "id": 93,
+            "chapNo": 2,
+            "name": {
+                "arabic": "باب الصيد والذبائح ",
+                "english": " ",
+                "urdu": " شکار اور ذبائح کا بیان"
+            }
+        },
+
+        {
+            "id": 94,
+            "chapNo": 3,
+            "name": {
+                "arabic": " باب الأضاحي",
+                "english": " ",
+                "urdu": "(احکام) قربانی کا بیان "
+            }
+        },
+
+        {
+            "id": 95,
+            "chapNo": 4,
+            "name": {
+                "arabic": "باب العقيقة",
+                "english": " ",
+                "urdu": "عقیقہ کا بیان "
+            }
+        }
+
+
+    ]
+}

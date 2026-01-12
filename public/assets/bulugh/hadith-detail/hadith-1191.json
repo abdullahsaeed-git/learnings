@@ -1,0 +1,264 @@
+{
+  "hadithId": 1191,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/14/4"],
+    "kitabId": 14,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب القضاء",
+    "babId": 97
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (7352)، ومسلم (1716) من حديث عمرو بن العاص رضي الله عنه.",
+    "urdu": "صحیح۔ اسے بخاری (7352) اور مسلم (1716) نے روایت کیا ہے، یہ روایت حضرت عمرو بن العاص رضی اللہ عنہ سے مروی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (7352) and Muslim (1716) on the authority of Amr bin al-As (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَكَمَ",
+      "english": "Judged / Passed judgment",
+      "urdu": "فیصلہ کیا"
+    },
+    {
+      "arabic": "اجْتَهَدَ",
+      "english": "Strove / Exercised reasoning",
+      "urdu": "کوشش کی / اجتہاد کیا"
+    },
+    {
+      "arabic": "أَصَابَ",
+      "english": "Was correct / Hit the mark",
+      "urdu": "درست فیصلہ کیا"
+    },
+    {
+      "arabic": "أَجْرَانِ",
+      "english": "Two rewards",
+      "urdu": "دو اجر / دگنا ثواب"
+    },
+    {
+      "arabic": "أَخْطَأَ",
+      "english": "Made a mistake / Erred",
+      "urdu": "غلطی کی / خطا کی"
+    },
+    {
+      "arabic": "اَلْحَاكِمُ",
+      "english": "The Judge / Ruler",
+      "urdu": "حاکم یا قاضی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اجتہاد کی فضیلت بیان کرتی ہے کہ اگر ایک اہل شخص پوری کوشش کے بعد صحیح نتیجہ نکالے تو اسے دوہرا اجر ملتا ہے، اور غلطی کی صورت میں بھی نیت اور محنت کا ایک اجر ملتا ہے۔",
+    "english": "This Hadith highlights the virtue of Ijtihad, stating that a qualified judge receives a double reward for a correct decision and a single reward for an incorrect one despite sincere effort."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الاعتصام بالكتاب والسنة، رقم 7352",
+      "english": "Sahih al-Bukhari, Book of Holding Fast to the Quran and Sunnah, No. 7352"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الأقضية، رقم 1716",
+      "english": "Sahih Muslim, Book of Judicial Decisions, No. 1716"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن العاص",
+        "english": "Amr bin al-As"
+      },
+      "slug": "amr-bin-al-as"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0kFpY5U82oU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اجتہاد کی اہمیت اور جزا",
+        "english": "The Importance and Reward of Ijtihad"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "درست فیصلے پر دوہرا اجر",
+              "english": "Double Reward for Correct Decisions"
+            },
+            "content": {
+              "urdu": [
+                "حاکم یا مفتی جب حق تک پہنچنے کے لیے پوری علمی جدوجہد کرتا ہے تو اسے محنت کا اجر ملتا ہے۔",
+                "اگر وہ درست نتیجے تک پہنچ جائے تو اللہ کی طرف سے اسے دوسرا اجر حق کی رہنمائی پر ملتا ہے۔",
+                "یہ اس بات کی ترغیب ہے کہ اہل علم معاشرے کے پیچیدہ مسائل کو حل کرنے میں پیچھے نہ ہٹیں۔"
+              ],
+              "english": [
+                "When a judge or scholar puts full intellectual effort into reaching the truth, they are rewarded for that effort.",
+                "If they arrive at the correct conclusion, they receive a second reward for correctly identifying the truth.",
+                "This serves as an encouragement for qualified people to actively solve complex societal issues."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خطا پر معافی اور ایک اجر",
+              "english": "Pardon and Single Reward for Errors"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی اہل شخص سے نیت کی درستی اور پوری تحقیق کے باوجود غلطی ہو جائے تو وہ گناہ گار نہیں ہوتا۔",
+                "اسے اس کی علمی تحقیق اور خلوص نیت کی بنیاد پر ایک اجر پھر بھی دیا جاتا ہے۔",
+                "اسلامی شریعت میں حسن نیت اور مخلصانہ کوشش کو بہت بڑی اہمیت حاصل ہے۔"
+              ],
+              "english": [
+                "If a qualified person makes an error despite having sincere intentions and conducting thorough research, they are not sinful.",
+                "They are still granted one reward based on their intellectual struggle and sincerity of purpose.",
+                "Islamic Sharia places immense importance on good intentions and sincere effort."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجتہاد کے لیے شرائط",
+        "english": "Conditions for Practicing Ijtihad"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اہلیت اور علم کی ضرورت",
+              "english": "Requirement of Qualification and Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "یہ اجر صرف اس شخص کے لیے ہے جو اجتہاد کے تمام ضروری علوم پر دسترس رکھتا ہو۔",
+                "جاہل یا غیر مستند شخص اگر تکے سے صحیح فیصلہ بھی کر دے تو وہ گناہ گار ٹھہرے گا۔",
+                "دین کے معاملے میں رائے زنی کے لیے قرآن، سنت اور اصول فقہ کا علم ہونا لازمی ہے۔"
+              ],
+              "english": [
+                "This reward is only for those who possess mastery over the necessary sciences required for Ijtihad.",
+                "An ignorant or unqualified person is sinful even if they happen to reach a correct decision by chance.",
+                "Knowledge of Quran, Sunnah, and Principles of Jurisprudence is mandatory for issuing religious opinions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پوری کوشش صرف کرنا",
+              "english": "Exerting Maximum Effort"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'اجتہد' کا لفظ استعمال ہوا ہے جس کا مطلب ہے اپنی تمام تر توانائیاں صرف کر دینا۔",
+                "سررسی نظر ڈال کر فیصلہ کرنا اجتہاد نہیں کہلاتا بلکہ اس میں گہری تحقیق شامل ہوتی ہے۔",
+                "اجر کا مستحق وہی ہے جس نے دستیاب دلائل کو پرکھنے میں کوئی کسر نہ چھوڑی ہو۔"
+              ],
+              "english": [
+                "The Hadith uses the word 'Ijtahada', which means to exert all of one's available energy and capabilities.",
+                "Making a superficial decision is not considered Ijtihad; it requires deep and rigorous research.",
+                "Only the one who leaves no stone unturned in evaluating the evidence deserves the divine reward."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی نظام عدل کی وسعت",
+        "english": "The Breadth of the Islamic Judicial System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدالتی دباؤ کا خاتمہ",
+              "english": "Removal of Judicial Pressure"
+            },
+            "content": {
+              "urdu": [
+                "یہ قانون ججوں کو نفسیاتی دباؤ سے نکالتا ہے تاکہ وہ بغیر کسی خوف کے حق کی تلاش کریں۔",
+                "جب ایک قاضی کو معلوم ہو کہ نیک نیتی سے کی گئی خطا پر پکڑ نہیں تو وہ دلیری سے فیصلہ کرتا ہے۔",
+                "یہ اصول عدل و انصاف کی فراہمی میں استحکام پیدا کرنے کے لیے انتہائی ضروری ہے۔"
+              ],
+              "english": [
+                "This rule relieves judges of psychological pressure, allowing them to seek the truth without fear.",
+                "When a judge knows that a sincere error is not punished, they can pass judgments with courage.",
+                "This principle is essential for maintaining stability and confidence in the provision of justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلام میں رحمت کا پہلو",
+              "english": "The Aspect of Mercy in Islam"
+            },
+            "content": {
+              "urdu": [
+                "خطا پر اجر ملنا اللہ تعالی کی صفتِ رحیمی اور بندہ نوازی کا منہ بولتا ثبوت ہے۔",
+                "انسان فطرتی طور پر کمزور ہے اور ہر معاملے میں صد فیصد درست ہونا اس کے لیے ممکن نہیں۔",
+                "اللہ تعالی نے محنت کی قدر دانی فرمائی ہے چاہے نتیجہ انسانی غلطی کی وجہ سے بدل جائے۔"
+              ],
+              "english": [
+                "Receiving a reward for an error is a clear proof of Allah's mercy and benevolence towards His servants.",
+                "Humans are inherently limited, and it is not always possible for them to be 100% correct in every matter.",
+                "Allah Almighty appreciates the effort put in, even if the outcome is affected by human fallibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و عملی فوائد",
+        "english": "Juristic and Practical Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اختلافِ رائے کی گنجائش",
+              "english": "Scope for Difference of Opinion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث فقہاء کے درمیان ہونے والے اختلافی مسائل میں اعتدال کی راہ سکھاتی ہے۔",
+                "اگر دو مجتہدین کی رائے الگ ہو تو دونوں ہی اجر کے مستحق ہو سکتے ہیں۔",
+                "کسی کی علمی خطا پر اسے طعن و تشنیع کا نشانہ بنانا اس نبوی اصول کے خلاف ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches moderation regarding differences of opinion among Islamic jurists.",
+                "If two Mujtahids hold different views, both can potentially be deserving of divine reward.",
+                "Subjecting someone to ridicule for a scholarly error goes against this prophetic principle."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نئی صورتحال کا حل",
+              "english": "Solutions for New Situations"
+            },
+            "content": {
+              "urdu": [
+                "دورِ حاضر کے جدید مسائل جن کا حل براہِ راست نصوص میں نہیں، ان میں اجتہاد ضروری ہے۔",
+                "علماء کو چاہیے کہ وہ اس حدیث سے ہمت پا کر نئے چیلنجز کا شرعی حل تلاش کریں۔",
+                "اجتہاد کا دروازہ بند کرنا امت کو فکری جمود کا شکار کر دیتا ہے جو دین کی روح کے خلاف ہے۔"
+              ],
+              "english": [
+                "Ijtihad is necessary for modern issues whose direct solutions are not found in primary texts.",
+                "Scholars should take courage from this Hadith to find Sharia-compliant solutions for new challenges.",
+                "Closing the door of Ijtihad leads to intellectual stagnation, which contradicts the spirit of the faith."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

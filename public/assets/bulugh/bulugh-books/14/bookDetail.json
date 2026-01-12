@@ -1,0 +1,49 @@
+{
+    "bookId": 18,
+    "summary": {
+        "english": [], 
+        "urdu": []
+    },
+    "description": {
+        "urdu": " ",
+        "english" : " "
+    }, 
+    "hadithRange": {
+"from": 1188,
+"to": 1219
+    },
+    "chapters": [
+        {
+            "id": 97,
+            "chapNo": 1,
+            "name": {
+                "arabic": " (أحاديث في القضاء)",
+                "english": " ",
+                "urdu": " (قضاء کے متعلق احادیث)"
+            }
+        },
+
+        
+        {
+            "id": 98,
+            "chapNo": 2,
+            "name": {
+                "arabic": "باب الشهادات ",
+                "english": " ",
+                "urdu": " شہادتوں (گواہیوں) کا بیان"
+            }
+        },
+
+        {
+            "id": 99,
+            "chapNo": 3,
+            "name": {
+                "arabic": "باب الدعوى والبينات ",
+                "english": " ",
+                "urdu": "دعویٰ اور دلائل کا بیان "
+            }
+        }
+
+
+    ]
+}

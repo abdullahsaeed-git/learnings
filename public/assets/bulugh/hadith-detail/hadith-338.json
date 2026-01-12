@@ -1,0 +1,145 @@
+{
+  "hadithId": 338,
+  "hadithNo": 25,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/198"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الصلاة - باب الإمامة",
+    "babId": 20
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أحمد (3/132، 192)، وأبو داود (595)، وابن حبان (2134، 2135). الحديث صحيح لشواهده الكثيرة، وقد استخلفه النبي ﷺ على المدينة بضع عشرة مرة.‏",
+    "urdu": "صحیح۔ اسے امام احمد، ابوداؤد اور ابن حبان نے روایت کیا ہے۔ اس کے شواہد کثیر ہیں، نبی کریم ﷺ نے ابن ام مکتوم کو مدینہ میں تقریباً 13 مرتبہ اپنا نائب مقرر فرمایا تھا۔",
+    "english": "Sahih. Reported by Ahmad (3/132, 192), Abu Dawud (595), and Ibn Hibban (2134, 2135). The Hadith is authentic due to its multiple chains. The Prophet (ﷺ) left Ibn Umm Maktum in charge of Madinah about 13 times."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِسْتَخْلَفَ",
+      "english": "Appointed as deputy",
+      "urdu": "نائب مقرر کیا / خلیفہ بنایا"
+    },
+    {
+      "arabic": "يَؤُمُّ",
+      "english": "Leading in prayer",
+      "urdu": "امامت کراتے تھے"
+    },
+    {
+      "arabic": "أَعْمَى",
+      "english": "Blind",
+      "urdu": "نابینا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ نابینا شخص کی امامت بالکل جائز ہے، بشرطیکہ وہ تلاوت اور مسائلِ نماز کا علم رکھتا ہو۔ اسلام میں امامت کا معیار جسمانی معذوری نہیں بلکہ علم اور تقویٰ ہے۔",
+    "english": "This Hadith proves that the leadership (Imamate) of a blind person in prayer is perfectly permissible, provided he is proficient in recitation and the rulings of prayer. In Islam, the criteria for leadership are knowledge and piety, not physical ability."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الصلاة، رقم 595",
+      "english": "Sunan Abi Dawud, Book of Prayer, No. 595"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نابینا کی امامت کا حکم",
+        "english": "Ruling on a Blind Imam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جوازِ امامت",
+              "english": "Permissibility of Imamate"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کا ابن ام مکتوم رضی اللہ عنہ کو امام بنانا اس بات کی واضح دلیل ہے کہ نابینا کی امامت میں کوئی کراہت نہیں ہے۔",
+                "نابینا شخص کو امامت کے لیے اس وقت مقدم کیا جائے گا جب وہ مقتدیوں میں سب سے زیادہ قرآن کا علم رکھتا ہو۔",
+                "اگر ایک نابینا اور ایک بینا (دیکھنے والا) علم اور حفظ میں برابر ہوں، تو بعض فقہاء کے نزدیک بینا افضل ہے کیونکہ وہ نجاست وغیرہ سے بچنے میں زیادہ بہتر ہوتا ہے، مگر امامت بہرحال دونوں کی درست ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) appointment of Ibn Umm Maktum (RA) is clear evidence that there is no dislike for a blind man leading the prayer.",
+                "A blind person is prioritized for Imamate if he is the most knowledgeable of the Qur'an among the people.",
+                "If a blind man and a sighted man are equal in knowledge, some jurists prefer the sighted one for better avoidance of impurities, but the prayer behind both is valid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ابن ام مکتوم کا مقام",
+        "english": "Status of Ibn Umm Maktum"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعلیٰ ذمہ داری",
+              "english": "Noble Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ جب کسی غزوے پر تشریف لے جاتے تو اکثر ابن ام مکتوم رضی اللہ عنہ کو مدینہ کا والی اور امام مقرر فرما کر جاتے۔",
+                "یہ ان کے علمی مقام اور نبی ﷺ کے ان پر اعتماد کی علامت تھی۔",
+                "وہ نہ صرف امام تھے بلکہ بلال رضی اللہ عنہ کے ساتھ باری باری اذان بھی دیا کرتے تھے۔"
+              ],
+              "english": [
+                "Whenever the Prophet (ﷺ) went on a military expedition, he would often leave Ibn Umm Maktum (RA) in charge of Madinah as governor and Imam.",
+                "This was a sign of his scholarly status and the Prophet's (ﷺ) trust in him.",
+                "He was not only an Imam but also used to call the Adhan alternately with Bilal (RA)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی مساوات",
+        "english": "Islamic Equality"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معذوری رکاوٹ نہیں",
+              "english": "Disability is Not a Barrier"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے جسمانی خامیوں کے بجائے کردار اور قابلیت کو اہمیت دی ہے۔",
+                "نابینا افراد کو معاشرے کا فعال حصہ بنانا اور انہیں اہم ذمہ داریاں سونپنا سنتِ نبوی ہے۔",
+                "یہ حدیث معذور افراد کی حوصلہ افزائی کرتی ہے کہ وہ علم حاصل کریں اور دینی خدمات انجام دیں۔"
+              ],
+              "english": [
+                "Islam prioritizes character and ability over physical deficiencies.",
+                "Integrating blind individuals into society and assigning them major responsibilities is a Sunnah.",
+                "This Hadith encourages people with disabilities to seek knowledge and serve the religion."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 1202,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/14/15"],
+    "kitabId": 14,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب القضاء",
+    "babId": 98
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2651)، ومسلم (2535).",
+    "urdu": "صحیح۔ اسے امام بخاری (2651) اور امام مسلم (2535) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2651) and Muslim (2535)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَرْنِي",
+      "english": "My generation",
+      "urdu": "میرا زمانہ / نسل"
+    },
+    {
+      "arabic": "يَلُونَهُمْ",
+      "english": "Follow them",
+      "urdu": "ان کے بعد آنے والے"
+    },
+    {
+      "arabic": "يَشْهَدُونَ",
+      "english": "They bear witness",
+      "urdu": "وہ گواہی دیتے ہیں"
+    },
+    {
+      "arabic": "يَخُونُونَ",
+      "english": "They are treacherous",
+      "urdu": "وہ خیانت کرتے ہیں"
+    },
+    {
+      "arabic": "يُوفُونَ",
+      "english": "Fulfill (vows)",
+      "urdu": "پورا کرتے ہیں"
+    },
+    {
+      "arabic": "اَلسِّمَنُ",
+      "english": "Obesity / Fatness",
+      "urdu": "موٹاپا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث قرونِ اولیٰ کی فضیلت اور بعد میں آنے والے لوگوں میں اخلاقی بگاڑ، خیانت، جھوٹی گواہی اور دنیا پرستی کی علامات بیان کرتی ہے۔",
+    "english": "This Hadith highlights the excellence of the first three generations of Islam and warns of future moral decay, including dishonesty, betrayal of trusts, and materialism."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الشهادات، رقم 2651",
+      "english": "Sahih al-Bukhari, Book of Witnesses, No. 2651"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب فضائل الصحابة، رقم 2535",
+      "english": "Sahih Muslim, Book of Virtues of the Companions, No. 2535"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمران بن حصين",
+        "english": "Imran bin Husain"
+      },
+      "slug": "imran-bin-husain"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S8p7ySj9j4s",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بہترین زمانوں کی فضیلت",
+        "english": "Excellence of the Best Generations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرونِ ثلاثہ کی اہمیت",
+              "english": "The Importance of the Three Generations"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کا دور، صحابہ، تابعین اور تبع تابعین کا دور اسلام کا سنہری دور ہے۔",
+                "ان زمانوں کے لوگوں میں تقویٰ، اخلاص اور دین کی صحیح سمجھ سب سے زیادہ تھی۔",
+                "امت کے لیے ان ادوار کی پیروی ہدایت اور کامیابی کا راستہ ہے۔"
+              ],
+              "english": [
+                "The era of the Prophet (ﷺ), the Companions, and their followers is the golden age of Islam.",
+                "People of these generations possessed the highest levels of piety, sincerity, and understanding.",
+                "Following these generations is the path to guidance and success for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معیارِ حق",
+              "english": "The Standard of Truth"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام کے ایمان کو اللہ نے امت کے لیے معیار قرار دیا ہے۔",
+                "ان زمانوں میں بدعات اور اخلاقی بگاڑ کا وجود نہ ہونے کے برابر تھا۔",
+                "دین کی حفاظت اور منتقلی میں ان مبارک نسلوں نے عظیم کردار ادا کیا۔"
+              ],
+              "english": [
+                "Allah established the faith of the Companions as a standard for the entire Ummah.",
+                "Innovations and moral decay were almost non-existent during these blessed eras.",
+                "These generations played a monumental role in preserving and transmitting the religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی بگاڑ کی علامات",
+        "english": "Signs of Moral Decay"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بے جا گواہی اور خیانت",
+              "english": "Unsolicited Testimony and Treachery"
+            },
+            "content": {
+              "urdu": [
+                "بعد کے لوگوں میں گواہی کی اہمیت ختم ہو جائے گی اور وہ بغیر طلب کے گواہ بنیں گے۔",
+                "امانتوں میں خیانت عام ہو جائے گی اور لوگ ایک دوسرے پر بھروسہ نہیں کریں گے۔",
+                "جھوٹ اور فریب معاشرے کی بنیادوں کو کھوکھلا کر دیں گے۔"
+              ],
+              "english": [
+                "Later generations will lose respect for testimony, offering it without being rightly asked.",
+                "Breach of trust will become widespread, and mutual confidence among people will vanish.",
+                "Lies and deception will eventually hollow out the foundations of society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نذر کی خلاف ورزی",
+              "english": "Violation of Vows"
+            },
+            "content": {
+              "urdu": [
+                "لوگ اللہ سے وعدے اور نذریں تو مانیں گے لیکن انہیں پورا کرنے کی فکر نہیں ہوگی۔",
+                "یہ عمل دین میں کمزوری اور اللہ کے خوف کی کمی کی واضح نشانی ہے۔",
+                "وعدہ خلافی منافقت کی علامت ہے جو بعد کے زمانوں میں کثرت سے پاتی جائے گی۔"
+              ],
+              "english": [
+                "People will make promises and vows to Allah but will lack the concern to fulfill them.",
+                "This behavior is a clear sign of weakness in faith and a lack of fear of Allah.",
+                "Breaking promises is a trait of hypocrisy that will be prevalent in later times."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دنیا پرستی اور موٹاپا",
+        "english": "Materialism and Obesity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موٹاپے کا ظہور",
+              "english": "The Appearance of Obesity"
+            },
+            "content": {
+              "urdu": [
+                "یہاں موٹاپے سے مراد عیش و عشرت میں مگن ہونا اور دنیاوی لذتوں میں کھو جانا ہے۔",
+                "لوگ اپنی صحت اور جسم کی فکر تو کریں گے لیکن روح کی غذا یعنی عبادت سے غافل ہوں گے۔",
+                "یہ علامت مادہ پرستی اور آخرت سے بے فکری کی طرف اشارہ کرتی ہے۔"
+              ],
+              "english": [
+                "Obesity here refers to being engrossed in luxury and lost in worldly pleasures.",
+                "People will obsess over their physical bodies while neglecting the soul's nourishment through worship.",
+                "This sign points towards extreme materialism and heedlessness regarding the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آرام طلبی کا غلبہ",
+              "english": "Prevalence of Laziness"
+            },
+            "content": {
+              "urdu": [
+                "امت میں محنت اور جہاد کا جذبہ کم ہو کر آرام طلبی کی جگہ لے لے گا۔",
+                "شکم پروری اور انواع و اقسام کے کھانوں کی حرص اخلاقی گراوٹ کا سبب بنے گی۔",
+                "جب پیٹ بھرے ہوں اور دل غافل ہوں تو معاشرہ زوال کا شکار ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The spirit of hard work and struggle will be replaced by a love for ease and comfort.",
+                "Gluttony and greed for various types of food will contribute to moral decline.",
+                "When bellies are full and hearts are heedless, society falls into a state of decay."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پیش گوئی اور اصلاح",
+        "english": "Prophecy and Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبوی پیش گوئی",
+              "english": "Prophetic Foresight"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث نبی کریم ﷺ کے سچا ہونے کی دلیل ہے کیونکہ یہ علامات آج ظاہر ہو رہی ہیں۔",
+                "آپ ﷺ نے اپنی امت کو آنے والے فتنوں سے پہلے ہی خبردار کر دیا تھا۔",
+                "مقصد یہ تھا کہ مومن ان برائیوں سے بچ کر اپنے ایمان کی حفاظت کرے۔"
+              ],
+              "english": [
+                "This Hadith is a proof of the Prophet's (ﷺ) truthfulness as these signs are manifest today.",
+                "He (ﷺ) warned his Ummah about future trials and tribulations in advance.",
+                "The objective was for believers to avoid these evils and protect their faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انفرادی ذمہ داری",
+              "english": "Individual Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو چاہیے کہ وہ اس حدیث کی روشنی میں اپنا محاسبہ کرے۔",
+                "ہمیں خیانت، جھوٹ اور دنیا پرستی سے بچ کر قرونِ اولیٰ کے نقشِ قدم پر چلنا چاہیے۔",
+                "اصلاح کا آغاز اپنی ذات سے کرنا ہی امت کی مجموعی بہتری کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Every Muslim should hold themselves accountable in the light of this Hadith.",
+                "We must avoid treachery, lies, and materialism to follow the footsteps of the early generations.",
+                "Starting reform within oneself is the only way to achieve the collective betterment of the Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

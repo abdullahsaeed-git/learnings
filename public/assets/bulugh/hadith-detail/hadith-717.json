@@ -1,0 +1,256 @@
+{
+  "hadithId": 717,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:1554a"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب البيوع",
+    "babId": 45
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1554)، والنسائي (7/263)، وأبو داود (3470)، وابن ماجه (2219). والجائحة هي الآفة السماوية التي تصيب الثمار فتفسدها.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام مسلم نے اپنی صحیح (1554) میں روایت کیا ہے۔ 'جائحہ' سے مراد وہ قدرتی آفت (جیسے بارش، ژالہ باری، آندھی) ہے جو فصل یا پھلوں کو تباہ کر دے۔",
+    "english": "Sahih. Reported by Muslim (1554), An-Nasa'i (7/263), Abu Dawud (3470), and Ibn Majah (2219). 'Jaih'ah' refers to natural disasters or blights that destroy crops."
+  },
+  "importantWords": [
+    {
+      "arabic": "جَائِحَةٌ",
+      "english": "Natural calamity / Blight",
+      "urdu": "قدرتی آفت / اسمانی بلا"
+    },
+    {
+      "arabic": "بِغَيْرِ حَقٍّ",
+      "english": "Without right / Unjustly",
+      "urdu": "ناحق / بغیر کسی جواز کے"
+    },
+    {
+      "arabic": "وَضْعِ",
+      "english": "Remission / Reduction",
+      "urdu": "وضع کرنا / معاف کرنا"
+    },
+    {
+      "arabic": "أَخِيكَ",
+      "english": "Your brother",
+      "urdu": "تمہارا بھائی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں یہ اصول بیان کیا گیا ہے کہ اگر درخت پر لگے پھلوں کا سودا ہو جائے اور کٹائی سے پہلے وہ قدرتی آفت سے تباہ ہو جائیں، تو بیچنے والے کو قیمت وصول کرنے کا حق نہیں کیونکہ خریدار کو مال ملا ہی نہیں، لہذا قیمت لینا ناحق ہو گا۔",
+    "english": "This Hadith establishes that if fruit sold on trees is destroyed by a natural calamity before harvest, the seller is not entitled to the price because the buyer never received the goods, and taking money for nothing is unjust."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1554)",
+      "english": "Sahih Muslim (1554)"
+    },
+    {
+      "arabic": "فتح الباري شرح صحيح البخاري",
+      "english": "Fath al-Bari Sharh Sahih al-Bukhari"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0O5vXJ4Xm4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "آفاتِ سماوی اور معاشی عدل",
+        "english": "Natural Calamities and Economic Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نقصان کی ذمہ داری (ضمان)",
+              "english": "Liability for Loss"
+            },
+            "content": {
+              "urdu": [
+                "جب تک پھل درخت پر ہیں اور کٹائی کے قابل نہیں ہوئے، ان کا رسک بائع (بیچنے والے) کے ذمہ ہے۔",
+                "اگر آفت سے مال ضائع ہو جائے تو خریدار سے پیسے مانگنا اس لیے غلط ہے کہ اسے بدلے میں کچھ نہیں ملا۔",
+                "اسلامی معیشت میں 'بدلہ' (Exchange) کا توازن برقرار رکھنا ضروری ہے۔"
+              ],
+              "english": [
+                "As long as the fruit is on the tree and not yet harvestable, the risk lies with the seller.",
+                "Asking the buyer for money after the crop is destroyed is wrong because they received no commodity.",
+                "Islamic economics mandates maintaining the balance of exchange (commodity vs price)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناحق مال لینے کی ممانعت",
+              "english": "Prohibition of Unjust Wealth"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ایک اہم سوال اٹھایا: 'تم کس حق کے تحت اپنے بھائی کا مال لوگے؟'۔",
+                "یہ سوال ضمیر کو جھنجھوڑنے کے لیے ہے کہ محض کاغذ پر سودے سے حقیقت نہیں بدلتی۔",
+                "مساوات اور ہمدردی اسلامی تجارت کی روح ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) raised a profound question: 'By what right would you take your brother's money?'",
+                "This serves to awaken the conscience, emphasizing that a paper deal doesn't change reality.",
+                "Equality and empathy are the core spirits of Islamic trade."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب اور وضعِ جوائح",
+        "english": "Juristic Views on Remission"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام شافعی اور امام احمد کا موقف",
+              "english": "Position of Shafi'i and Ahmad"
+            },
+            "content": {
+              "urdu": [
+                "ان ائمہ کے نزدیک اگر آفت سے ایک تہائی (1/3) یا اس سے زیادہ فصل تباہ ہو، تو قیمت معاف کرنا واجب ہے۔",
+                "حدیث کا ظاہری حکم 'امر' (حکم) کے صیغے میں ہے، جو وجوب پر دلالت کرتا ہے۔",
+                "اس سے کسانوں اور بیوپاریوں کے درمیان تنازعات کا بہترین حل نکلتا ہے۔"
+              ],
+              "english": [
+                "According to these Imams, if one-third or more of the crop is destroyed, remitting the price is mandatory.",
+                "The Hadith uses the imperative form (Amara), indicating a legal obligation.",
+                "This provides an ideal resolution for disputes between farmers and merchants."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام ابوحنیفہ کا نقطہ نظر",
+              "english": "Imam Abu Hanifa's Viewpoint"
+            },
+            "content": {
+              "urdu": [
+                "احناف کے نزدیک اگر سودا ہو گیا اور خریدار کو مال حاصل کرنے کا موقع مل گیا، تو ضمان اس کا ہے۔",
+                "وہ اس حدیث کو وجوب کے بجائے اخلاقی ترغیب اور ہمدردی پر محمول کرتے ہیں۔",
+                "تاہم، تمام فقہاء اس بات پر متفق ہیں کہ مصیبت زدہ بھائی کے ساتھ نرمی کرنا اجرِ عظیم ہے۔"
+              ],
+              "english": [
+                "Hanafis believe that once the deal is done and delivery is possible, the risk transfers to the buyer.",
+                "They interpret this Hadith as an ethical recommendation and encouragement of sympathy.",
+                "However, all jurists agree that showing leniency to a distressed brother brings great reward."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی اور اخلاقی پہلو",
+        "english": "Social and Ethical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی اخوت",
+              "english": "Islamic Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'اخیک' (تمہارا بھائی) کا لفظ استعمال کر کے رشتہِ ایمان یاد دلایا گیا ہے۔",
+                "تجارت کو محض مادی نفع نقصان کا ترازو نہیں بننا چاہیے، بلکہ انسانیت کا بھی خیال رکھنا چاہیے۔",
+                "دوسرے کے نقصان پر خوش ہونا یا فائدہ اٹھانا مومن کی شان نہیں ہے۔"
+              ],
+              "english": [
+                "The term 'your brother' is used to remind us of the bond of faith.",
+                "Trade should not be measured only by material gains but by human compassion as well.",
+                "Taking advantage of another's loss is contrary to the dignity of a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "برکت کا حصول",
+              "english": "Attaining Blessings"
+            },
+            "content": {
+              "urdu": [
+                "مشکل وقت میں کسی کا قرض یا قیمت معاف کرنا اللہ کی رحمتوں کو کھینچ لاتا ہے۔",
+                "نبی ﷺ نے فرمایا کہ جو کسی تنگدست کے لیے آسانی کرے، اللہ اس کے لیے دنیا و آخرت میں آسانی کرے گا۔",
+                "ایثار اور قربانی سے معاشرے میں محبت اور اعتماد بڑھتا ہے۔"
+              ],
+              "english": [
+                "Forgiving a debt or price during hard times attracts Allah's mercy.",
+                "The Prophet (PBUH) said that whoever eases the burden of a debtor, Allah will ease his burden in both worlds.",
+                "Altruism and sacrifice strengthen love and trust within society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اطلاق",
+        "english": "Modern Day Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انشورنس اور معاہدات",
+              "english": "Insurance and Contracts"
+            },
+            "content": {
+              "urdu": [
+                "آج کل 'فورس میجر' (Force Majeure) کی شقیں اسی نبوی اصول کی جدید شکل ہیں۔",
+                "غیر متوقع حالات میں معاہدوں کی شرائط میں نرمی کرنا شرعی اور قانونی ضرورت ہے۔",
+                "کاروباری افراد کو چاہیے کہ وہ ناگہانی آفات میں اپنے پارٹنرز کا ساتھ دیں۔"
+              ],
+              "english": [
+                "Modern 'Force Majeure' clauses are digital echoes of this Prophetic principle.",
+                "Softening contract terms during unforeseen events is a Sharia and legal necessity.",
+                "Businessmen should support their partners during sudden calamities."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خلاصہ کلام",
+              "english": "Conclusion"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معیشت صرف لین دین نہیں بلکہ اخلاق اور عدل کا مجموعہ ہے۔",
+                "آفت کی صورت میں قیمت کی واپسی یا معافی ایک عظیم سنت ہے۔",
+                "رزقِ حلال کی پہچان یہ ہے کہ وہ کسی کے آنسوؤں یا حق تلفی پر مبنی نہ ہو۔"
+              ],
+              "english": [
+                "Islamic economics is a blend of transactions, ethics, and justice.",
+                "Refunding or waiving the price in case of disaster is a great Sunnah.",
+                "Halal provision is identified by not being based on someone's tears or violation of rights."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 771,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/771"],
+    "kitabId": 7,
+    "inKitabBab": 15,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 56
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (1568). والحديث بتمامه عند مسلم: «ثمن الكلب خبيث، ومهر البغي خبيث، وكسب الحجام خبيث».",
+    "urdu": "صحیح۔ اسے امام مسلم (1568) نے روایت کیا ہے۔ مکمل حدیث میں کتے کی قیمت اور زنا کی اجرت کے ساتھ حجام کی کمائی کا تذکرہ ہے، جو اس کی ناپسندیدگی پر دلالت کرتی ہے۔",
+    "english": "Sahih. Reported by Muslim (1568). The full version in Muslim states: \"The price of a dog is evil, the dowry of a prostitute is evil, and the earnings of a cupper are evil.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "كَسْبُ",
+      "english": "Earnings / Income",
+      "urdu": "کمائی"
+    },
+    {
+      "arabic": "اَلْحَجَّامِ",
+      "english": "The Cupper",
+      "urdu": "حجام / سینگی لگانے والا"
+    },
+    {
+      "arabic": "خَبِيثٌ",
+      "english": "Evil / Lowly / Unclean",
+      "urdu": "خبیث / ناپاک / گھٹیا"
+    },
+    {
+      "arabic": "ثَمَن",
+      "english": "Price",
+      "urdu": "قیمت"
+    },
+    {
+      "arabic": "مَهْر",
+      "english": "Dowry / Payment",
+      "urdu": "اجرت / مہر"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں حجام کی کمائی کو 'خبیث' کہا گیا ہے، جس سے مراد اس کا قطعی حرام ہونا نہیں بلکہ اس پیشے کی ظاہری نوعیت کی وجہ سے اسے ناپسندیدہ قرار دینا ہے۔",
+    "english": "In this Hadith, the earnings of a cupper are described as 'Khabith,' which refers to it being lowly or undesirable due to the nature of the work, rather than strictly prohibited."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1568)",
+      "english": "Reported by Muslim (1568)"
+    },
+    {
+      "arabic": "سنن الترمذي (1277)",
+      "english": "Sunan at-Tirmidhi (1277)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "رافع بن خديج",
+        "english": "Rafi' bin Khadij"
+      },
+      "slug": "rafi-bin-khadij"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kq692mQ0k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "لفظ 'خبیث' کی تشریح",
+        "english": "Interpretation of the term 'Khabith'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرام اور خبیث میں فرق",
+              "english": "Difference between Haram and Khabith"
+            },
+            "content": {
+              "urdu": [
+                "شرعی اصطلاح میں ہر خبیث چیز کا حرام ہونا ضروری نہیں ہے۔",
+                "یہاں خبیث سے مراد 'رذیل' یا 'گھٹیا' ہے، جیسے لہسن اور پیاز کو بھی حدیث میں خبیث کہا گیا ہے۔",
+                "چونکہ حجام کا کام گندے خون سے متعلق ہے، اس لیے اسے ذوقی طور پر ناپسندیدہ کہا گیا۔"
+              ],
+              "english": [
+                "In Shariah terminology, not every 'Khabith' thing is necessarily prohibited (Haram).",
+                "Here, 'Khabith' means 'lowly' or 'unpleasant,' similar to how garlic and onions are described in Hadith.",
+                "Since a cupper deals with impure blood, the profession is considered aesthetically undesirable."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پیشے کی درجہ بندی",
+              "english": "Classification of Professions"
+            },
+            "content": {
+              "urdu": [
+                "اسلام مسلمانوں کو اعلیٰ اور باعزت پیشے اختیار کرنے کی ترغیب دیتا ہے۔",
+                "ایسے کام جن میں نجاست سے واسطہ پڑے، انہیں ضرورت کی حد تک محدود رکھنے کا اشارہ ہے۔",
+                "یہ ممانعت کراہتِ تنزیہی پر محمول ہے، یعنی یہ گناہ نہیں مگر بچنا بہتر ہے۔"
+              ],
+              "english": [
+                "Islam encourages Muslims to adopt noble and dignified professions.",
+                "Jobs involving contact with impurities are suggested to be limited to necessity.",
+                "This discouragement is classified as 'Makruh Tanzihi,' meaning it's not a sin but better to avoid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعارض کا حل (پچھلی حدیث کے ساتھ)",
+        "english": "Reconciling with the Previous Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبوی عمل اور قول میں تطبیق",
+              "english": "Reconciliation of Prophetic Action and Speech"
+            },
+            "content": {
+              "urdu": [
+                "پچھلی حدیث میں آپ ﷺ نے حجام کو اجرت دی، جو اس کے جائز ہونے کی دلیل ہے۔",
+                "اگر یہ قطعی حرام ہوتی تو اللہ کے رسول ﷺ کبھی اسے ادا نہ فرماتے۔",
+                "لہذا، 'خبیث' کا لفظ یہاں حرمت کے لیے نہیں بلکہ صرف ناپسندیدگی کے لیے ہے۔"
+              ],
+              "english": [
+                "In the previous Hadith, the Prophet (ﷺ) paid the cupper, proving it is permissible.",
+                "Had it been strictly prohibited, the Messenger of Allah would never have paid it.",
+                "Therefore, the word 'Khabith' here does not imply prohibition but merely dislike."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آزاد اور غلام کا فرق",
+              "english": "Difference between Free Men and Slaves"
+            },
+            "content": {
+              "urdu": [
+                "بعض علماء کے نزدیک آزاد مرد کے لیے یہ کمائی ناپسندیدہ ہے جبکہ ضرورت مند کے لیے جائز۔",
+                "آپ ﷺ نے اجرت دے کر اس کے 'اصل جواز' کو برقرار رکھا۔",
+                "یہ اسلوبِ بیان دراصل لوگوں کی تہذیب اور نفاست پسندی کی تربیت کے لیے ہے۔"
+              ],
+              "english": [
+                "Some scholars believe this income is disliked for free men but permissible for the needy.",
+                "The Prophet (ﷺ) maintained its basic legality by personally paying the wage.",
+                "This style of speech is meant to cultivate refined tastes and hygiene among Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی ضرورت اور حجامہ",
+        "english": "Medical Necessity and Hijamah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علاج کے طور پر اہمیت",
+              "english": "Importance as a Treatment"
+            },
+            "content": {
+              "urdu": [
+                "حجامہ بذاتِ خود ایک مستحسن اور نبوی علاج ہے۔",
+                "کمائی کی ناپسندیدگی کا مطلب یہ نہیں کہ یہ علاج ہی برا ہے۔",
+                "یہ توازن قائم کرتا ہے کہ علاج کروائیں مگر اس کمائی کو اپنا مستقل فخر نہ بنائیں۔"
+              ],
+              "english": [
+                "Hijamah itself is a highly recommended and Prophetic medical treatment.",
+                "Disliking the earnings does not mean the treatment itself is bad.",
+                "It strikes a balance: seek the treatment, but do not make such earnings a point of pride."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جدید طبی تناظر",
+              "english": "Modern Medical Context"
+            },
+            "content": {
+              "urdu": [
+                "حجامہ کے دوران خون اور فضلات سے بچاؤ کے لیے طبی احتیاط ضروری ہے۔",
+                "موجودہ دور میں ڈاکٹروں کی فیس اسی زمرے میں آتی ہے جو کہ حلال ہے۔",
+                "صفائی ستھرائی کا نظام بہتر ہونے سے اس کراہت میں بھی کمی آتی ہے۔"
+              ],
+              "english": [
+                "Medical precautions are necessary to avoid contact with blood and waste during cupping.",
+                "In modern times, medical fees fall under the same category and are lawful.",
+                "Improved hygiene systems reduce the physical reason for such dislike."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور عملی اسباق",
+        "english": "Ethical and Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پاکیزہ کمائی کی تلاش",
+              "english": "Seeking Pure Earnings"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو چاہیے کہ وہ ہمیشہ 'طیب' (بہترین اور پاکیزہ) رزق تلاش کرے۔",
+                "حلال ہونے کے باوجود بعض کام مروت اور شرافت کے خلاف ہو سکتے ہیں۔",
+                "معاشرے میں اپنی عزت اور وقار کے مطابق پیشہ اختیار کرنا چاہیے۔"
+              ],
+              "english": [
+                "A Muslim should always seek 'Tayyib' (purest and best) provision.",
+                "Even if something is lawful, it might be contrary to dignity and refinement.",
+                "One should choose a profession that aligns with their dignity in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حجامہ کرنے والوں سے سلوک",
+              "english": "Dealing with Cuppers"
+            },
+            "content": {
+              "urdu": [
+                "کسی پیشے کی کمائی کو 'خبیث' کہنے کا مطلب اس انسان کی توہین کرنا نہیں ہے۔",
+                "آپ ﷺ نے خود حجامہ کروایا اور اجرت دی، جو معالج کے احترام کی دلیل ہے۔",
+                "دین ہمیں ہر کام کرنے والے کی محنت کی قدر کرنے کا سبق دیتا ہے۔"
+              ],
+              "english": [
+                "Describing a profession's earnings as 'Khabith' is not an insult to the person.",
+                "The Prophet (ﷺ) had himself cupped and paid the wage, showing respect for the practitioner.",
+                "Islam teaches us to value the labor of every working individual."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

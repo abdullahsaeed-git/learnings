@@ -1,0 +1,148 @@
+{
+  "hadithId": 342,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/202"],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "كتاب الصلاة - باب صلاة المسافر والمريض",
+    "babId": 21
+  },
+ 
+  "takhreej": {
+    "arabic": "رواه الدارقطني (2/44)، والبيهقي (3/141). إسناده ظاهره الصحة لكنه معلول بالرفع، والصحيح أنه موقوف على عائشة رضي الله عنها من فعلها.",
+    "urdu": "اسے دارقطنی اور بیہقی نے روایت کیا ہے۔ اس کی سند کے راوی اگرچہ ثقہ ہیں لیکن اسے نبی ﷺ کی طرف منسوب کرنا غلط ہے (معلول ہے)۔ درست یہ ہے کہ یہ سیدہ عائشہ رضی اللہ عنہا کا اپنا عمل تھا۔",
+    "english": "Reported by ad-Daraqutni and al-Baihaqi. While the narrators are reliable, the attribution to the Prophet (ﷺ) is considered a mistake (Ma'lul). The authentic version is that this was the personal practice of 'Aisha (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَقْصُرُ",
+      "english": "Shorten (Prayer)",
+      "urdu": "قصر کرنا (نماز مختصر کرنا)"
+    },
+    {
+      "arabic": "يُتِمُّ",
+      "english": "Complete (Prayer)",
+      "urdu": "اتمام کرنا (پوری نماز پڑھنا)"
+    },
+    {
+      "arabic": "مَعْلُولٌ",
+      "english": "Defective (in Hadith science)",
+      "urdu": "معلول (وہ حدیث جس میں کوئی پوشیدہ علت یا خرابی ہو)"
+    },
+    {
+      "arabic": "لَا يَشُقُّ",
+      "english": "Not difficult / No hardship",
+      "urdu": "مشقت نہیں / گراں نہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "سفر میں نماز قصر کرنا سنتِ مؤکدہ ہے، تاہم سیدہ عائشہ رضی اللہ عنہا کبھی کبھی سفر میں پوری نماز بھی پڑھ لیتی تھیں۔ یہ حدیث واضح کرتی ہے کہ اتمام (پوری نماز) ان کا ذاتی اجتہاد تھا کیونکہ وہ اسے مشقت نہیں سمجھتی تھیں، جبکہ نبی ﷺ کا مستقل عمل قصر کرنا ہی تھا۔",
+    "english": "Shortening the prayer (Qasr) during travel is a confirmed Sunnah. However, 'Aisha (RA) sometimes prayed in full. This Hadith clarifies that praying in full was her personal choice as she found no hardship in it, whereas the Prophet's (ﷺ) consistent practice was Qasr."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني، كتاب الصلاة، رقم 189",
+      "english": "Sunan ad-Daraqutni, Book of Prayer, No. 189"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "معلول (موقوف على عائشة)",
+    "english": "Defective (Authentic only as a statement/action of 'Aisha)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سفر میں قصر اور اتمام کا مسئلہ",
+        "english": "Issue of Qasr and Itmam during Travel"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا مستقل عمل",
+              "english": "Consistent Practice of the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ سے سفر کے دوران پوری نماز (اتمام) پڑھنا کسی صحیح صریح حدیث سے ثابت نہیں ہے۔",
+                "آپ ﷺ نے ہمیشہ چار رکعت والی نماز کو دو رکعت ہی پڑھا جب تک کہ آپ حالتِ سفر میں رہے۔",
+                "سیدہ عائشہ کی طرف اتمام کی نسبت کرنا کہ نبی ﷺ بھی ایسا کرتے تھے، محدثین کے نزدیک علمی غلطی ہے۔"
+              ],
+              "english": [
+                "There is no authentic, explicit Hadith proving that the Prophet (ﷺ) ever prayed in full (Itmam) while traveling.",
+                "He consistently shortened the four-unit prayers to two units as long as he was on a journey.",
+                "Attributing Itmam to the Prophet (ﷺ) based on 'Aisha's narration is considered a scholarly error by Hadith specialists."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیدہ عائشہ کا اجتہاد",
+        "english": "The Ijtihad of Aisha (RA)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذاتی فعل کی وجہ",
+              "english": "Reason for Personal Practice"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رضی اللہ عنہا نے اتمام کو اس لیے اختیار کیا کیونکہ وہ سمجھتی تھیں کہ قصر ایک رخصت ہے جو مشقت کی وجہ سے دی گئی ہے۔",
+                "ان کا قول ہے کہ 'مجھ پر یہ گراں نہیں'، یعنی وہ تندرست تھیں اور پوری نماز پڑھنا ان کے لیے بوجھ نہ تھا۔",
+                "تاہم، جمہور صحابہ اور فقہاء کے نزدیک سنتِ نبوی کی پیروی میں قصر کرنا ہی افضل ہے۔"
+              ],
+              "english": [
+                "Aisha (RA) chose to pray in full because she viewed Qasr as a concession granted due to hardship.",
+                "She stated, 'It is not difficult for me,' implying she was healthy and capable of praying in full without burden.",
+                "However, according to the majority of Companions and jurists, following the Prophet's Sunnah by shortening the prayer is superior."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی فنی حیثیت (معلول)",
+        "english": "Technical Status (Ma'lul)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موقوف اور مرفوع کا فرق",
+              "english": "Marfu' vs Mawquf"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث 'معلول' ہے کیونکہ اسے غلطی سے 'مرفوع' (نبی ﷺ کا عمل) بنا دیا گیا، جبکہ یہ 'موقوف' (صحابیہ کا عمل) ہے۔",
+                "امام ابن تیمیہ اور ابن قیم جیسے جلیل القدر محدثین نے نبی ﷺ کی طرف اس بات کی نسبت کو غلط قرار دیا ہے۔"
+              ],
+              "english": [
+                "This Hadith is 'Ma'lul' (defective) because it was mistakenly reported as Marfu' (action of the Prophet), whereas it is actually Mawquf (action of a Companion).",
+                "Great scholars like Ibn Taymiyyah and Ibn al-Qayyim rejected the attribution of this practice to the Prophet (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

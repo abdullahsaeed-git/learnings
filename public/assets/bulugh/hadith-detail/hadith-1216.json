@@ -1,0 +1,264 @@
+{
+  "hadithId": 1216,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/14/28"],
+    "kitabId": 14,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب القضاء",
+    "babId": 99
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (7212)، ومسلم (108).",
+    "urdu": "صحیح۔ اسے امام بخاری (7212) اور امام مسلم (108) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (7212) and Muslim (108)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يُزَكِّيهِمْ",
+      "english": "Will not purify them",
+      "urdu": "انہیں پاک نہیں کرے گا"
+    },
+    {
+      "arabic": "بِالْفَلَاةِ",
+      "english": "In the desert / open land",
+      "urdu": "بیابان یا جنگل میں"
+    },
+    {
+      "arabic": "ابْنِ اَلسَّبِيلِ",
+      "english": "Wayfarer / Traveler",
+      "urdu": "مسافر"
+    },
+    {
+      "arabic": "بَعْدَ اَلْعَصْرِ",
+      "english": "After Asr prayer",
+      "urdu": "عصر کے بعد"
+    },
+    {
+      "arabic": "بَايَعَ إِمَامًا",
+      "english": "Pledged to a leader",
+      "urdu": "حکمران کی بیعت کی"
+    },
+    {
+      "arabic": "لَمْ يَفِ",
+      "english": "Did not fulfill",
+      "urdu": "وفا نہیں کی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تین ہلاک کن گناہوں کا ذکر ہے: ضرورت سے زائد پانی مسافر سے روکنا، جھوٹی قسم کھا کر مال بیچنا، اور محض دنیاوی مفاد کے لیے حکمران کی بیعت کرنا۔",
+    "english": "This Hadith warns against three severe sins: withholding surplus water from travelers, using false oaths for trade, and pledging loyalty to leaders solely for worldly gain."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأحكام، رقم 7212",
+      "english": "Sahih al-Bukhari, Book of Judgments, No. 7212"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الإيمان، رقم 108",
+      "english": "Sahih Muslim, Book of Faith, No. 108"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0kFpY5U82oU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بخالت اور انسانی ہمدردی کا فقدان",
+        "english": "Stinginess and Lack of Human Sympathy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پانی روکنے کی سنگینی",
+              "english": "Severity of Withholding Water"
+            },
+            "content": {
+              "urdu": [
+                "صحرا میں پانی زندگی کی علامت ہے، اسے مسافر سے روکنا اسے موت کے منہ میں دھکیلنے کے برابر ہے۔",
+                "اگر انسان کے پاس اپنی ضرورت سے زائد پانی ہو تو اسے پیاسے کو دینا اخلاقی اور شرعی فریضہ ہے۔",
+                "ایسا شخص اللہ کی رحمت سے محروم رہتا ہے کیونکہ اس نے اللہ کی نعمت کو اللہ کے بندوں سے چھپایا۔"
+              ],
+              "english": [
+                "In a desert, water is life; withholding it from a traveler is akin to pushing them toward death.",
+                "If a person has water beyond their needs, providing it to the thirsty is a moral and religious duty.",
+                "Such an individual is deprived of Allah's mercy for hiding His blessings from His servants."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسافر کے حقوق",
+              "english": "Rights of the Wayfarer"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں مسافر (ابن السبیل) کے خاص حقوق مقرر کیے گئے ہیں جن میں مدد اور پناہ شامل ہے۔",
+                "بیابان میں مسافر بے یار و مددگار ہوتا ہے، اس وقت اس کی مدد نہ کرنا انسانیت کی تذلیل ہے۔",
+                "پانی اللہ کی ملکیت ہے، انسان صرف اس کا امین ہے، اس پر بلاجواز پہرہ بٹھانا سنگین جرم ہے۔"
+              ],
+              "english": [
+                "Islam grants specific rights to travelers (wayfarers), including assistance and shelter.",
+                "In the wilderness, a traveler is helpless; failing to help them is an affront to humanity.",
+                "Water belongs to Allah; humans are mere trustees, and guarding it without reason is a grave sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تجارت میں جھوٹ اور قسم کا وبال",
+        "english": "The Sin of Lying and Oaths in Trade"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عصر کے بعد کی تجارت",
+              "english": "Trading After Asr"
+            },
+            "content": {
+              "urdu": [
+                "عصر کا وقت دن کا آخری حصہ ہے جب فرشتے تبدیل ہوتے ہیں اور اعمال نامے پیش کیے جاتے ہیں۔",
+                "اس بابرکت وقت میں جھوٹی قسم کھا کر کسی کو دھوکہ دینا گناہ کی شدت کو بڑھا دیتا ہے۔",
+                "تاجر کا جھوٹی قسم کھانا برکت کو ختم کر دیتا ہے اور مال کو حرام بنا دیتا ہے۔"
+              ],
+              "english": [
+                "Asr is the final part of the day when angels change shifts and deeds are presented.",
+                "Using a false oath to deceive someone during this blessed time intensifies the sin.",
+                "A trader's false oath obliterates blessings (Barakah) and renders the earnings haram."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتبار کو ٹھیس پہنچانا",
+              "english": "Breach of Trust"
+            },
+            "content": {
+              "urdu": [
+                "جب خریدار تاجر کی قسم پر بھروسہ کر لیتا ہے تو وہ اپنی امانت تاجر کے سپرد کر دیتا ہے۔",
+                "نامِ الہی کا غلط استعمال کر کے گاہک کا اعتماد توڑنا بدترین خیانت اور منافقت ہے۔",
+                "دنیاوی نفع کے لیے اللہ کے نام کو آلہ کار بنانا اخروی رسوائی کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "When a buyer trusts a merchant's oath, they place their confidence in the merchant's hands.",
+                "Breaking that trust by misusing Allah's Name is the worst form of betrayal and hypocrisy.",
+                "Using Allah's Name as a tool for worldly gain leads to disgrace in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیاسی بیعت اور مادہ پرستی",
+        "english": "Political Allegiance and Materialism"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مفاد پرستانہ بیعت",
+              "english": "Opportunistic Allegiance"
+            },
+            "content": {
+              "urdu": [
+                "حکمران کی بیعت اجتماعی مفاد، عدل اور دین کی سربلندی کے لیے ہونی چاہیے۔",
+                "اگر بیعت کا مقصد صرف مال و دولت کا حصول ہو تو ایسی بیعت کی کوئی شرعی حیثیت نہیں ہے۔",
+                "ایسا شخص ضمیر فروش ہے جو پیسے کی خاطر اپنی وفاداریاں بدلتا رہتا ہے۔"
+              ],
+              "english": [
+                "Pledging loyalty to a leader should be for collective welfare, justice, and the cause of faith.",
+                "If the purpose of the pledge is solely to gain wealth, it holds no religious validity.",
+                "Such an individual is a mercenary who sells their conscience and changes loyalties for money."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غداری اور عہد شکنی",
+              "english": "Treachery and Breaking Pledges"
+            },
+            "content": {
+              "urdu": [
+                "دنیا نہ ملنے پر حکمران کے خلاف بغاوت یا عہد شکنی کرنا معاشرے میں فتنہ پیدا کرتا ہے۔",
+                "وفاداری کا معیار حق و صداقت ہونا چاہیے نہ کہ ذاتی تجوریوں کا بھرنا۔",
+                "یہ طرزِ عمل منافقت کی نشانی ہے جو ریاست کے استحکام کو نقصان پہنچاتا ہے۔"
+              ],
+              "english": [
+                "Rebelling or breaking a pledge because of a lack of worldly gain creates chaos in society.",
+                "The standard of loyalty must be truth and integrity, not the filling of personal coffers.",
+                "This behavior is a sign of hypocrisy that undermines the stability of the state."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قیامت کے دن کی سزا",
+        "english": "Punishment on the Day of Judgment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نظرِ رحمت سے محرومی",
+              "english": "Deprivation of Divine Mercy"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کا کلام نہ کرنا اور نظر نہ ڈالنا اس کی شدید ناراضگی اور غضب کی علامت ہے۔",
+                "جس پر اللہ غصہ ہو جائے، کائنات کی کوئی طاقت اسے عذاب سے نہیں بچا سکتی۔",
+                "پاک نہ کیے جانے کا مطلب یہ ہے کہ وہ اپنے گناہوں کے بوجھ تلے دبے رہیں گے۔"
+              ],
+              "english": [
+                "Allah not speaking to or looking at someone is a sign of His extreme anger and wrath.",
+                "If Allah is angry with someone, no power in the universe can save them from punishment.",
+                "Not being purified means they will remain crushed under the weight of their sins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دردناک عذاب",
+              "english": "Painful Punishment"
+            },
+            "content": {
+              "urdu": [
+                "ان گناہوں کا انجام صرف دنیاوی نقصان نہیں بلکہ ابدی عذابِ الیم ہے۔",
+                "حقوق العباد کی پامالی اور اللہ کے نام کے ساتھ کھلواڑ کرنے والوں کا انجام عبرتناک ہوگا۔",
+                "انسان کو چاہیے کہ ان ہلاک کن گناہوں سے بچ کر اللہ کی رضا تلاش کرے۔"
+              ],
+              "english": [
+                "The result of these sins is not just worldly loss but eternal, painful punishment.",
+                "The end for those who trample human rights and play with Allah's Name will be exemplary.",
+                "A person must avoid these destructive sins and strive to seek the pleasure of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

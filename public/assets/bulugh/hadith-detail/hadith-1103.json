@@ -1,0 +1,259 @@
+{
+  "hadithId": 1103,
+  "hadithNo": 24,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/24"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1846)، ومسلم (1357) في كتاب الحج، باب جواز دخول مكة بغير إحرام، والترمذي (1693).",
+    "urdu": "صحیح۔ اسے امام بخاری (1846) اور امام مسلم (1357) نے روایت کیا ہے۔ یہ واقعہ فتح مکہ کے موقع کا ہے جب عام معافی کے باوجود چند مجرموں کو قتل کرنے کا حکم دیا گیا تھا۔",
+    "english": "Sahih. Reported by Al-Bukhari (1846) and Muslim (1357) in the Book of Hajj. It took place during the Conquest of Makkah when the Prophet (ﷺ) ordered the execution of a few specific criminals despite the general amnesty."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْمِغْفَرُ",
+      "english": "Helmet",
+      "urdu": "خود (لوہے کی ٹوپی)"
+    },
+    {
+      "arabic": "نَزَعَهُ",
+      "english": "Took it off",
+      "urdu": "اسے اتارا"
+    },
+    {
+      "arabic": "مُتَعَلِّقٌ",
+      "english": "Clinging / Hanging",
+      "urdu": "لٹکا ہوا / چمٹا ہوا"
+    },
+    {
+      "arabic": "أَسْتَارِ",
+      "english": "Curtains / Coverings",
+      "urdu": "پردے"
+    },
+    {
+      "arabic": "اُقْتُلُوهُ",
+      "english": "Kill him",
+      "urdu": "اسے قتل کر دو"
+    }
+  ],
+  "summary": {
+    "urdu": "فتح مکہ کے موقع پر نبی کریم ﷺ نے ابن خطل جیسے سنگین مجرم کو کعبہ کی پناہ میں ہونے کے باوجود قتل کرنے کا حکم دیا کیونکہ اس کا جرم ناقابلِ معافی تھا۔",
+    "english": "During the Conquest of Makkah, the Prophet (ﷺ) ordered the execution of Ibn Khatal even though he was clinging to the Ka'bah, as his crimes were unforgivable."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (3044)",
+      "english": "Narrated by Al-Bukhari (3044)"
+    },
+    {
+      "arabic": "رواه مسلم (1357)",
+      "english": "Narrated by Muslim (1357)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3Xn89gA",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ابن خطل کے قتل کی وجہ",
+        "english": "The Reason for Ibn Khatal's Execution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنگین جرائم",
+              "english": "Grave Crimes"
+            },
+            "content": {
+              "urdu": [
+                "عبداللہ بن خطل پہلے مسلمان ہوا تھا مگر اس نے ایک مسلمان کو قتل کر دیا تھا۔",
+                "وہ مرتد ہو گیا تھا اور نبی ﷺ کی شان میں گستاخی کرنے والی شاعری کرتا تھا۔",
+                "اس کے جرائم محض کفر نہیں بلکہ قتلِ عمد اور بدترین فتنہ انگیزی پر مبنی تھے۔"
+              ],
+              "english": [
+                "Abdullah bin Khatal had embraced Islam but later murdered a fellow Muslim.",
+                "He apostatized and composed satirical poetry insulting the Prophet (ﷺ).",
+                "His crimes were not just disbelief, but premeditated murder and severe treason."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پناہِ کعبہ اور مجرم",
+              "english": "Asylum of Ka'bah and the Criminal"
+            },
+            "content": {
+              "urdu": [
+                "عام طور پر حرم مکہ میں خون ریزی منع ہے اور وہاں پناہ لینے والا محفوظ ہوتا ہے۔",
+                "مگر ابن خطل جیسے مفسد کے لیے اس مقدس مقام کی پناہ کو بھی ختم کر دیا گیا۔",
+                "یہ حکم ظاہر کرتا ہے کہ حدود اللہ کے نفاذ میں جگہ کا تقدس رکاوٹ نہیں بنتا۔"
+              ],
+              "english": [
+                "Normally, bloodshed is forbidden in the Haram, and anyone seeking refuge is safe.",
+                "However, for a mischief-maker like Ibn Khatal, the sanctuary's protection was revoked.",
+                "This ruling shows that the sanctity of a place does not hinder the execution of Sharia penalties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فتح مکہ اور مسنون طریقہ",
+        "english": "The Conquest of Makkah and Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بغیر احرام داخلہ",
+              "english": "Entry Without Ihram"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ مکہ میں داخل ہوتے وقت احرام کے بجائے جنگی لباس اور خود پہنے ہوئے تھے۔",
+                "اس سے ثابت ہوتا ہے کہ جنگ یا ضرورت کی حالت میں مکہ میں بغیر احرام داخل ہونا جائز ہے۔",
+                "آپ ﷺ کا یہ عمل عسکری حکمت عملی اور دفاعی ضرورت کے عین مطابق تھا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) entered Makkah wearing military gear and a helmet instead of Ihram.",
+                "This proves that entering Makkah without Ihram is permissible during war or necessity.",
+                "His action aligned perfectly with military strategy and defensive requirements."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عام معافی سے استثناء",
+              "english": "Exemption from General Amnesty"
+            },
+            "content": {
+              "urdu": [
+                "فتح مکہ پر آپ ﷺ نے سب کے لیے عام معافی کا اعلان فرمایا تھا۔",
+                "صرف چند افراد (بشمول ابن خطل) کو اس معافی سے محروم رکھا گیا تھا۔",
+                "عدل کا تقاضا ہے کہ معاشرے کے بدترین مجرموں کو ان کے کیے کی سزا دی جائے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) declared a general amnesty for everyone on the day of victory.",
+                "Only a few individuals (including Ibn Khatal) were excluded from this pardon.",
+                "Justice demands that the worst criminals of society face the consequences of their actions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور عسکری پہلو",
+        "english": "Juristic and Military Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرم کی حرمت اور جنگ",
+              "english": "Sanctity of the Haram and War"
+            },
+            "content": {
+              "urdu": [
+                "اللہ نے نبی ﷺ کے لیے تھوڑی دیر کے لیے مکہ میں قتال کو حلال فرما دیا تھا۔",
+                "یہ رعایت صرف اسی دن اور اسی خاص مقصد یعنی مکہ کی پاکیزگی کے لیے تھی۔",
+                "قیامت تک اب مکہ میں کسی قسم کی خون ریزی یا شکار کرنا حرام ہے۔"
+              ],
+              "english": [
+                "Allah made fighting in Makkah lawful for the Prophet (ﷺ) for a brief period.",
+                "This concession was specific to that day and the goal of purifying Makkah.",
+                "Fighting or hunting in Makkah remains prohibited until the Day of Judgment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خود (ہیلمٹ) کا استعمال",
+              "english": "Use of the Helmet (Mighfar)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے حفاظتی تدابیر کے طور پر لوہے کی ٹوپی (خود) کا استعمال فرمایا۔",
+                "یہ سنت ہمیں سکھاتی ہے کہ توکل کے ساتھ ظاہری اسباب اور حفاظت اختیار کرنا ضروری ہے۔",
+                "دین میں بہادری کا مطلب بغیر تیاری کے دشمن کے سامنے جانا ہرگز نہیں ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) used an iron helmet (Mighfar) as a protective measure.",
+                "This Sunnah teaches that using physical means and protection is vital alongside trust in Allah.",
+                "Bravery in religion does not mean facing the enemy without proper preparation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فتنہ انگیزی کا انجام",
+              "english": "The Consequence of Mischief"
+            },
+            "content": {
+              "urdu": [
+                "دین سے پھر جانا اور اسلام کے خلاف پروپیگنڈا کرنا دنیا و آخرت کی بربادی ہے۔",
+                "کعبہ کا سایہ بھی اس مجرم کو نہ بچا سکا جس نے انسانیت اور اللہ کے رسول پر ظلم کیا۔",
+                "حق کا غلبہ باطل کو اس کے محفوظ ترین ٹھکانوں سے بھی نکال کر ختم کر دیتا ہے۔"
+              ],
+              "english": [
+                "Apostasy and spreading propaganda against Islam lead to ruin in both worlds.",
+                "Even the shadow of the Ka'bah could not save the criminal who oppressed humanity and the Prophet.",
+                "The dominance of truth eliminates falsehood even from its most secure hideouts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی غیرت اور عدل",
+              "english": "Prophetic Honor and Justice"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے اپنی ذات کے لیے بدلہ نہیں لیا مگر دین کی تذلیل پر سزا دی۔",
+                "اسلامی ریاست میں قانون کی بالادستی سب سے مقدم ہوتی ہے۔",
+                "رحمت اللعالمین ہونے کا مطلب یہ نہیں کہ مجرموں کو کھلا چھوڑ دیا جائے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) never took revenge for himself, but punished the degradation of faith.",
+                "In an Islamic state, the supremacy of the law is of utmost importance.",
+                "Being a 'Mercy to the Worlds' does not mean letting criminals escape justice."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

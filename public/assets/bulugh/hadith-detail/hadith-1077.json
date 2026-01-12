@@ -1,0 +1,259 @@
+{
+  "hadithId": 1077,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/10/106"],
+    "kitabId": 10,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحدود",
+    "babId": 88
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6778)، ومسلم (1707). وفي رواية البخاري: 'صاحب خمر' بدل 'شارب خمر'، وزاد: 'وذلك أن رسول الله صلى الله عليه وسلم لم يسنه'.",
+    "urdu": "صحیح۔ اسے امام بخاری (6778) اور امام مسلم (1707) نے روایت کیا ہے۔ بخاری کی ایک روایت میں 'شارب خمر' کی جگہ 'صاحب خمر' کے الفاظ ہیں اور یہ اضافہ بھی ہے کہ 'رسول اللہ ﷺ نے اس کی کوئی خاص حد مقرر نہیں فرمائی تھی'۔",
+    "english": "Sahih. Reported by Al-Bukhari (6778) and Muslim (1707). Al-Bukhari's version uses 'companion of wine' and adds, 'That is because the Messenger of Allah (ﷺ) did not fix a specific legal limit for it.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "أُقِيمَ",
+      "english": "Execute / Establish",
+      "urdu": "نافذ کروں"
+    },
+    {
+      "arabic": "فَيَمُوتُ",
+      "english": "And he dies",
+      "urdu": "پس وہ مر جائے"
+    },
+    {
+      "arabic": "نَفْسِي",
+      "english": "Myself / My soul",
+      "urdu": "میرا جی / میرا دل"
+    },
+    {
+      "arabic": "شَارِبَ",
+      "english": "Drinker",
+      "urdu": "پینے والا"
+    },
+    {
+      "arabic": "وَدَيْتُهُ",
+      "english": "I paid his Diyah",
+      "urdu": "میں نے اس کا تاوان (دیت) بھرا"
+    }
+  ],
+  "summary": {
+    "urdu": "سیدنا علی رضی اللہ عنہ کے نزدیک شراب نوشی کی سزا میں کوڑوں کی تعداد اللہ کی طرف سے متعین نہیں تھی، اس لیے اگر اس دوران موت واقع ہو جائے تو دیت لازم ہوگی۔",
+    "english": "Ali (RA) believed that since the exact number of lashes for drinking was not fixed by the Prophet (ﷺ), any death resulting from it requires blood money."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6778)",
+      "english": "Narrated by Al-Bukhari (6778)"
+    },
+    {
+      "arabic": "رواه مسلم (1707)",
+      "english": "Narrated by Muslim (1707)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_7e0Z8q7Fk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حد اور تعزیر کی بحث",
+        "english": "Hadd vs. Ta'zir Discussion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقررہ حدود کی ذمہ داری",
+              "english": "Responsibility of Fixed Penalties"
+            },
+            "content": {
+              "urdu": [
+                "زنا یا چوری جیسی حدود اللہ کی طرف سے واضح طور پر مقرر کردہ ہیں۔",
+                "اگر ان حدود کے نفاذ کے دوران مجرم کی موت ہو جائے تو حاکم پر کوئی ضمان نہیں۔",
+                "کیونکہ یہ سزائیں برحق ہیں اور ان کا نفاذ اللہ کا حکم پورا کرنا ہے۔"
+              ],
+              "english": [
+                "Fixed penalties like those for adultery or theft are clearly prescribed by Allah.",
+                "If the offender dies during the execution of these Hudud, the ruler is not liable.",
+                "This is because these punishments are divine mandates that must be fulfilled."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شراب کی سزا کی نوعیت",
+              "english": "Nature of Alcohol Penalty"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے دور میں شرابی کو جوتوں اور ہاتھوں سے مارا جاتا تھا مگر تعداد طے نہ تھی۔",
+                "سیدنا علی کے نزدیک یہ سزا 'تعزیر' کے زمرے میں آتی تھی کیونکہ تعداد اجتہادی تھی۔",
+                "اجتہادی سزا میں اگر جان چلی جائے تو اس کا بدل (دیت) دینا پڑتا ہے۔"
+              ],
+              "english": [
+                "In the Prophet's time, drinkers were beaten with shoes and hands without a fixed count.",
+                "Ali (RA) viewed this as Ta'zir because the specific number of lashes was based on Ijtihad.",
+                "If a life is lost during a discretionary punishment, compensation (Diyah) must be paid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیدنا علی رضی اللہ عنہ کا فقہی موقف",
+        "english": "Juristic Stance of Ali (RA)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیت کی ادائیگی کا سبب",
+              "english": "Reason for Paying Blood Money"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی کا ماننا تھا کہ جس سزا کی حد اللہ نے طے نہیں کی وہ حاکم کی صوابدید ہے۔",
+                "اگر حاکم کی دی گئی سزا سے موت ہو جائے تو وہ 'خطاء' (غلطی) کے حکم میں ہوگی۔",
+                "اسی لیے وہ شرابی کے مرنے پر بیت المال سے دیت دینے کے قائل تھے۔"
+              ],
+              "english": [
+                "Ali (RA) believed punishments not fixed by Allah are at the ruler's discretion.",
+                "If a death occurs due to such a punishment, it is classified as an accidental killing.",
+                "Therefore, he advocated paying blood money from the public treasury in such cases."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاط کا پہلو",
+              "english": "Aspect of Caution"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی کی یہ بات ان کی کمالِ احتیاط اور انسانی جان کی حرمت پر دلالت کرتی ہے۔",
+                "وہ حدود کے نفاذ میں ذرہ برابر بھی زیادتی کو پسند نہیں فرماتے تھے۔",
+                "یہ موقف ظاہر کرتا ہے کہ اسلامی عدل میں مجرم کے حقوق کا بھی خیال رکھا جاتا ہے۔"
+              ],
+              "english": [
+                "Ali's (RA) statement demonstrates his extreme caution and respect for human life.",
+                "He did not tolerate even the slightest excess in the implementation of penalties.",
+                "This stance shows that Islamic justice also safeguards the rights of the offender."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جمہور فقہاء کی رائے",
+        "english": "Opinion of the Majority Jurists"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شراب کی حد چالیس یا اسی",
+              "english": "Forty or Eighty Lashes"
+            },
+            "content": {
+              "urdu": [
+                "جمہور صحابہ اور فقہاء کے نزدیک اب شراب کی سزا بھی 'حد' بن چکی ہے۔",
+                "سیدنا عمر نے صحابہ کے مشورے سے اسے 80 کوڑے مقرر کر دیا تھا۔",
+                "جب کسی سزا پر اجماع ہو جائے تو وہ بھی حد کے حکم میں آ جاتی ہے۔"
+              ],
+              "english": [
+                "The majority of companions and jurists now consider the penalty for wine as a 'Hadd'.",
+                "Umar (RA) fixed it at 80 lashes after consulting with the major companions.",
+                "Once a penalty is established by consensus, it takes the legal status of Hadd."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہلاکت پر ضمان کا مسئلہ",
+              "english": "Liability for Fatality"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور امام احمد کے نزدیک اگر سزا شرعی طریقہ کار کے مطابق ہو تو دیت نہیں۔",
+                "شرعی فریضہ انجام دیتے ہوئے ہونے والا نقصان معاف (ہدر) ہوتا ہے۔",
+                "سیدنا علی کا یہ قول ان کا اپنا انفرادی فقہی اجتہاد تھا۔"
+              ],
+              "english": [
+                "According to Shafi'i and Ahmad, if the punishment follows Sharia procedure, no Diyah is due.",
+                "Losses incurred while performing a religious duty are considered legally non-compensable.",
+                "This specific saying of Ali (RA) represents his own individual juristic reasoning."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اصلاحی اور تربیتی اسباق",
+        "english": "Reformative and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدل کا توازن",
+              "english": "The Balance of Justice"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون میں مجرم کو سزا دینا ضروری ہے مگر اس پر ظلم کرنا حرام ہے۔",
+                "حاکم کو سزا دیتے وقت مجرم کی جسمانی طاقت اور صحت کا خیال رکھنا چاہیے۔",
+                "سزا کا مقصد ہلاک کرنا نہیں بلکہ گناہ سے پاک کرنا اور عبرت دلانا ہے۔"
+              ],
+              "english": [
+                "In Islamic law, punishing the criminal is necessary, but oppressing them is forbidden.",
+                "The ruler must consider the physical strength and health of the offender.",
+                "The goal of punishment is not to kill but to purify and provide a deterrent."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کے اختلافات کی نوعیت",
+              "english": "Nature of Companions' Differences"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کے درمیان فقہی اختلافات علم اور دیانت داری پر مبنی تھے۔",
+                "ان اختلافات سے اسلامی قانون میں وسعت اور لچک پیدا ہوتی ہے۔",
+                "ہمیں صحابہ کے تمام اقوال کا احترام کرتے ہوئے مستند دلائل پر عمل کرنا چاہیے۔"
+              ],
+              "english": [
+                "Juristic differences among the companions were based on deep knowledge and integrity.",
+                "These differences provide breadth and flexibility within Islamic law.",
+                "We should respect all views of the companions while following the strongest evidence."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

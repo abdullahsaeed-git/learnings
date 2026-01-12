@@ -1,0 +1,226 @@
+{
+  "hadithId": 226,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["2", "7"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب صفة الصلاة",
+    "babId": 17
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه النسائي في كتاب الافتتاح، باب القراءة في الصبح (2/167)، وأبو داود في كتاب الصلاة (806). هذا الحديث يدل على أن هذا الترتيب في القراءة هو السنّة النبوية المشهورة.",
+    "urdu": "صحیح۔ اسے نسائی نے کتاب الافتتاح، باب القراءة فی الصبح (2/167) میں اور ابو داؤد نے کتاب الصلاة (806) میں روایت کیا ہے۔ یہ حدیث قرأت کا یہ ترتیب (طوال، اوساط، قصار) سنت نبوی ہونے پر دلالت کرتی ہے۔",
+    "english": "Authentic (Sahih). Reported by An-Nasa’i in the Book of Opening the Prayer, Chapter: Recitation in Fajr (2/167), and Abu Dawud in the Book of Prayer (806). This Hadith confirms that this order of recitation (long, medium, short) is the established Sunnah of the Prophet."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُطِيلُ الْأُولَيَيْنِ",
+      "english": "He lengthens the first two",
+      "urdu": "وہ پہلی دو لمبی کرتے ہیں"
+    },
+    {
+      "arabic": "يُخَفِّفُ الْعَصْرَ",
+      "english": "He shortens the 'Asr",
+      "urdu": "عصر کو ہلکا کرتے ہیں"
+    },
+    {
+      "arabic": "قِصَارِ اَلْمُفَصَّلِ",
+      "english": "Short Surahs of Al-Mufaṣṣal",
+      "urdu": "قصار مفصل (چھوٹی سورتیں)"
+    },
+    {
+      "arabic": "بِوَسَطِهِ",
+      "english": "The medium (Surahs)",
+      "urdu": "درمیانی سورتیں"
+    },
+    {
+      "arabic": "بِطُولِهِ",
+      "english": "The long (Surahs)",
+      "urdu": "لمبی سورتیں"
+    },
+    {
+      "arabic": "أَشْبَهَ صَلَاةِ",
+      "english": "More similar in prayer",
+      "urdu": "نماز کے زیادہ مشابہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نمازوں میں قرأت کی طوالت کے معیار کو واضح کرتی ہے۔ فجر میں سب سے لمبی، ظہر میں نسبتاً لمبی، عصر میں ہلکی، عشاء میں درمیانی اور مغرب میں سب سے مختصر قرأت مسنون ہے۔ یہ طریقہ نبی صلی اللہ علیہ وسلم کی نماز سے سب سے زیادہ مشابہ قرار دیا گیا ہے، جو ہر نماز کے وقت کے لحاظ سے توازن اور اعتدال قائم کرتا ہے۔",
+    "english": "This Hadith clarifies the standard for the length of recitation in prayers. The Sunnah dictates the longest recitation in Fajr, followed by a relatively long recitation in Zuhr, a light one in 'Asr, medium length in 'Ishā', and the shortest in Maghrib. This pattern is deemed to be the most similar to the Prophet's prayer, establishing balance and moderation relative to the time of each prayer."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي، كتاب الافتتاح، باب القراءة في الصبح (2/167)",
+      "english": "Sunan An-Nasa’i, Book of Opening the Prayer, Chapter: Recitation in Fajr (2/167)"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الصلاة، باب قدر القراءة في صلاة الظهر والعصر (806)",
+      "english": "Sunan Abu Dawud, Book of Prayer, Chapter: The measure of recitation in Zuhr and 'Asr prayers (806)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سليمان بن يسار",
+        "english": "Sulaymān ibn Yasār"
+      },
+      "slug": "sulayman-ibn-yasar"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2E-R6kUeB0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قرأت کی ترتیب (المفصّل)",
+        "english": "The Order of Recitation (Al-Mufaṣṣal)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طوال، اوساط اور قصار",
+              "english": "Long, Medium, and Short Surahs"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کی سورتوں کے آخری حصہ (سورۃ ق تا سورۃ ناس) کو مفصّل کہتے ہیں، جسے تین حصوں میں تقسیم کیا جاتا ہے۔",
+                "طوال مفصّل (لمبی سورتیں) فجر میں: سورۃ ق سے سورۃ نبا تک۔",
+                "اوساط مفصّل (درمیانی سورتیں) عشاء میں: سورۃ نبا سے سورۃ ضحیٰ تک۔ قصار مفصّل (چھوٹی سورتیں) مغرب میں: سورۃ ضحیٰ سے سورۃ ناس تک۔"
+              ],
+              "english": [
+                "The final part of the Qur'an (Surah Qāf to Surah Nās) is called Al-Mufaṣṣal, divided into three sections.",
+                "Long Surahs (Ṭiwāl Al-Mufaṣṣal) for Fajr: from Surah Qāf to Surah An-Naba.",
+                "Medium Surahs (Awsāṭ Al-Mufaṣṣal) for 'Ishā': from Surah An-Naba to Surah Ad-Duḥā. Short Surahs (Qiṣār Al-Mufaṣṣal) for Maghrib: from Surah Ad-Duḥā to Surah An-Nās."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہر نماز میں قرأت کا معیار",
+              "english": "Standard of Recitation in Each Prayer"
+            },
+            "content": {
+              "urdu": [
+                "فجر کی نماز دن کی پہلی نماز ہے، اس لیے اسے سب سے لمبا پڑھنا سنت ہے تاکہ مسلمان دن کا آغاز خشوع سے کریں۔",
+                "ظہر کی نماز دن کے درمیانی حصے میں ہونے کی وجہ سے نسبتاً لمبی ہوتی ہے، اور عصر میں تخفیف کی جاتی ہے۔",
+                "مغرب کی نماز وقت کی تنگی کی وجہ سے سب سے مختصر رکھی جاتی ہے، اور عشاء میں درمیانی طوالت ہوتی ہے۔"
+              ],
+              "english": [
+                "Fajr is the first prayer of the day, so it is Sunnah to lengthen it the most, allowing Muslims to start their day with Khushu'.",
+                "Zuhr prayer, occurring mid-day, is relatively long, while 'Asr is shortened.",
+                "Maghrib prayer is kept the shortest due to the limited time, and 'Ishā' has a medium length."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اعتدال اور آسانی کا اصول",
+        "english": "Principle of Moderation and Ease"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابوہریرہؓ کا مشاہدہ",
+              "english": "Abu Hurayrah's Observation"
+            },
+            "content": {
+              "urdu": [
+                "حضرت ابوہریرہؓ کا یہ کہنا کہ اس امام کی نماز نبی صلی اللہ علیہ وسلم کی نماز سے سب سے زیادہ مشابہ ہے، اس حکم کی تاکید ہے۔",
+                "یہ اس بات کی دلیل ہے کہ نماز میں نبی صلی اللہ علیہ وسلم کی سنت کی کامل پیروی کرنا بہت فضیلت کا کام ہے۔",
+                "اس سے معلوم ہوتا ہے کہ نبی صلی اللہ علیہ وسلم نے قرأت کی طوالت میں توازن کا خوب خیال رکھا۔"
+              ],
+              "english": [
+                "Abu Hurayrah's statement that this Imām's prayer most resembled the Prophet's prayer emphasizes the significance of this ruling.",
+                "This proves that adhering completely to the Prophet's Sunnah in prayer is highly virtuous.",
+                "It shows that the Prophet (PBUH) maintained a good balance in the length of recitation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عام لوگوں کے لیے آسانی",
+              "english": "Ease for the General Public"
+            },
+            "content": {
+              "urdu": [
+                "نبی صلی اللہ علیہ وسلم ہمیشہ لوگوں پر آسانی کو ترجیح دیتے تھے، اسی لیے طوالت میں اعتدال رکھا گیا۔",
+                "امام کو قرأت اتنی لمبی نہیں کرنی چاہیے کہ مقتدی تنگ آ جائیں یا جماعت سے دور بھاگیں۔",
+                "فقہی اصول یہ ہے کہ امام کو نماز کی ہیئت میں 'أخف الطائفتين' (دو سورتوں میں سے ہلکی) کو اختیار کرنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) always preferred ease for the people, hence the moderation in lengthening.",
+                "The Imām should not prolong the recitation so much that the followers are distressed or avoid the congregation.",
+                "The juristic principle is that the Imām should choose 'Akhaff al-Ṭā'ifatayn' (the lighter of the two sides) in the prayer's posture."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور تربیتی سبق",
+        "english": "Spiritual and Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت کی حکمت",
+              "english": "Wisdom of Time"
+            },
+            "content": {
+              "urdu": [
+                "ہر نماز کو اس کے وقت کی مناسبت سے پڑھنے میں روحانی اور جسمانی حکمت پوشیدہ ہے۔",
+                "رات کی طویل نیند کے بعد فجر میں لمبا قیام دن کے لیے روحانی توانائی فراہم کرتا ہے۔",
+                "یہ طریقہ ہمیں سکھاتا ہے کہ ہر کام میں نیت اور وقت کی پابندی کو ملحوظ خاطر رکھا جائے۔"
+              ],
+              "english": [
+                "There is spiritual and physical wisdom in performing each prayer according to the requirements of its time.",
+                "Long standing in Fajr, after a long night's sleep, provides spiritual energy for the day.",
+                "This method teaches us to observe the intention and time adherence in every action."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ائمہ کی ذمہ داری",
+              "english": "Responsibility of the Imāms"
+            },
+            "content": {
+              "urdu": [
+                "ائمہ کو چاہیے کہ وہ اس ترتیب (طوال، اوساط، قصار) کی پیروی کریں تاکہ سنت زندہ رہے۔",
+                "نمازیوں کو بھی اس سنت کا علم ہونا چاہیے تاکہ وہ امام کی طوالت پر اعتراض نہ کریں اور خشوع حاصل کریں۔",
+                "نماز کی ان تفصیلات کا علم ہی ہمیں صحیح معنوں میں نبی صلی اللہ علیہ وسلم کا امتی بناتا ہے۔"
+              ],
+              "english": [
+                "Imāms should follow this order (long, medium, short) to keep the Sunnah alive.",
+                "Worshippers should also know this Sunnah so they do not object to the Imām's lengthening and can attain Khushu'.",
+                "Knowledge of these prayer details truly makes us followers of the Prophet (PBUH)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

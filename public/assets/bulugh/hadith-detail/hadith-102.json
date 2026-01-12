@@ -1,0 +1,236 @@
+{
+  "hadithId": 102,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 102"],
+    "kitabId": 1,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الغسل",
+    "babId": 8
+  },
+
+  "takhreej": {
+    "arabic": " ضعيف.  رواه أبو داود (229) ، والنسائي (144) ، والترمذي (146) ، ابن ماجه (594) ، وأحمد (1/83) ، وابن حبان (799) .  ولبعضهم ألفاظ أخر",
+    "urdu": "ضعیف (کمزور) روایت۔ اسے ابو داؤد (229)، نسائی (144)، ترمذی (146)، ابن ماجہ (594)، اور احمد (1/83) نے روایت کیا ہے، اور ابن حبان (799) نے اسے صحیح کہا ہے۔ ان میں سے بعض کے الفاظ مختلف ہیں۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (229), An-Nasa'i (144), At-Tirmidhi (146), Ibn Majah (594), and Ahmad (1/83). Authenticated as Sahih by Ibn Hibban (799). Some of these reports have different wordings. (Note: Despite the weakness in the chain, the ruling itself is agreed upon by many scholars based on supporting evidence)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُقْرِئُنَا",
+      "english": "He used to teach us to recite",
+      "urdu": "ہمیں پڑھا دیا کرتے تھے"
+    },
+    {
+      "arabic": "اَلْقُرْآنَ",
+      "english": "The Qur'an",
+      "urdu": "قرآن مجید"
+    },
+    {
+      "arabic": "جُنُبًا",
+      "english": "In a state of Janabah (major impurity)",
+      "urdu": "جنبی (حالت جنابت)"
+    },
+    {
+      "arabic": "مَا لَمْ يَكُنْ",
+      "english": "As long as he was not",
+      "urdu": "جب تک نہیں ہوتے تھے"
+    },
+    {
+      "arabic": "قِرَاءَة",
+      "english": "Recitation",
+      "urdu": "تلاوت"
+    },
+    {
+      "arabic": "اَلْخَمْسَةُ",
+      "english": "The Five (Ahmad, Abu Dawud, Tirmidhi, Nasa'i, Ibn Majah)",
+      "urdu": "پانچوں ائمہ"
+    },
+    {
+      "arabic": "غُسْل",
+      "english": "Ritual bath",
+      "urdu": "غسل"
+    },
+    {
+      "arabic": "اَلطَّهَارَة",
+      "english": "Purity",
+      "urdu": "طہارت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اس اصول کو بیان کرتی ہے کہ حالت **جنابت** (غسل کی ضرورت) میں قرآن مجید کی تلاوت کرنا نبی اکرم ﷺ کی سنت کے خلاف تھا، جس کی وجہ سے جنبی شخص پر قرآن کی تلاوت حرام ہے۔",
+    "english": "This Hadith states the principle that reciting the Qur'an while in a state of **Janabah** (requiring Ghusl) was contrary to the practice of the Prophet ﷺ, leading to the ruling that a Junub person is prohibited from reciting the Qur'an."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (146) وحسنه",
+      "english": "Reported by At-Tirmidhi (146) and graded Hasan"
+    },
+    {
+      "arabic": "رواه ابن حبان (799) وصححه",
+      "english": "Reported by Ibn Hibban (799) and authenticated as Sahih"
+    },
+    {
+      "arabic": "رواه أبو داود (229)",
+      "english": "Reported by Abu Dawud (229)"
+    },
+    {
+      "arabic": "رواه النسائي (144)",
+      "english": "Reported by An-Nasa'i (144)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 10201,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "'Ali ibn Abi Talib"
+      },
+      "slug": "ali-ibn-abi-talib"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "ضعيف (بالمجموع لكن الحكم ثابت)",
+    "english": "Weak (Collectively, but the ruling is established)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حالت جنابت میں قرآن کا حکم",
+        "english": "Ruling on Qur'an Recitation in Janabah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تلاوت کی ممانعت",
+              "english": "Prohibition of Recitation"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کی بنیاد پر، جمہور فقہاء (مالکی، شافعی، حنبلی) کے نزدیک جنبی شخص کے لیے قرآن مجید کی تلاوت کرنا **حرام** ہے۔",
+                "یہ ممانعت قرآن کی تعظیم اور اللہ کے کلام کے احترام کی وجہ سے ہے، جو صرف پاکی کی حالت میں ممکن ہے۔",
+                "البتہ، جنبی شخص کو اذکار (جیسے لا إله إلا الله) یا دعائیں (جو قرآن کی آیات نہ ہوں) پڑھنے کی اجازت ہے۔"
+              ],
+              "english": [
+                "Based on this Hadith, the majority of jurists (Maliki, Shafi'i, Hanbali) rule that it is **Haram (forbidden)** for a Junub person to recite the Qur'an.",
+                "This prohibition is out of reverence for the Qur'an and the Word of Allah, which should only be handled in a state of purity.",
+                "However, a Junub person is permitted to recite Adhkar (remembrance like La ilaha illallah) or Du'as (supplications not intended as Qur'anic recitation)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حدیث کی سند پر رائے",
+              "english": "Opinion on the Hadith's Chain"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ ابن حبان اور ترمذی نے اس روایت کو صحیح یا حسن کہا ہے، لیکن متاخرین محدثین نے اس کی سند کو **ضعیف** قرار دیا ہے۔",
+                "اس کی وجہ سند میں اضطراب اور بعض راویوں کا ضعف ہے، جس کی وجہ سے یہ واحد حدیث اتنی قوی نہیں ہے۔",
+                "تاہم، فقہی حکم اس ایک حدیث پر ہی نہیں بلکہ امت کے عمومی عمل اور قرآن کے احترام کے اصول پر مبنی ہے۔"
+              ],
+              "english": [
+                "Although Ibn Hibban and At-Tirmidhi graded this narration as Sahih or Hasan, later Hadith scholars generally ruled its chain to be **weak**.",
+                "This is due to inconsistency in the chain (Idtirab) and weakness in some narrators, meaning this single Hadith is not robust enough on its own.",
+                "Nevertheless, the juristic ruling is based not solely on this Hadith but on the general practice of the Ummah and the principle of reverence for the Qur'an."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قرآن سے تعلق کے آداب",
+        "english": "Etiquettes of Interacting with the Qur'an"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنابت اور وضو کا فرق",
+              "english": "Difference between Janabah and Wudu'"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح کرتی ہے کہ تلاوت کی ممانعت صرف بڑی ناپاکی (جنابت) کی حالت میں ہے، چھوٹی ناپاکی (بے وضو ہونا) میں نہیں۔",
+                "بے وضو شخص کے لیے قرآن کی تلاوت کرنا جائز ہے، لیکن قرآن کو چھونا (مصحف کو) اس کے لیے بھی حرام ہے۔",
+                "جنابت میں تو نہ صرف چھونا بلکہ زبانی تلاوت کرنا بھی منع ہے، جو غسل کی فوری اہمیت کو اجاگر کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith clarifies that the prohibition of recitation is only for the state of major impurity (Janabah), not minor impurity (being without Wudu').",
+                "It is permissible for a person without Wudu' to recite the Qur'an verbally, but touching the physical copy (Mushaf) is prohibited for them too.",
+                "In Janabah, not only is touching prohibited, but even verbal recitation is forbidden, underscoring the urgency of Ghusl."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرآن کا احترام",
+              "english": "Reverence for the Qur'an"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا حالت جنابت میں قرآن نہ پڑھانا اس عظیم کتاب کا بے حد احترام سکھاتا ہے۔",
+                "جنبی ہونا انسان کے لیے اس وقت کی ایک عارضی ناپاکی ہے، جس سے جلد از جلد غسل کے ذریعے پاک ہونا ضروری ہے۔",
+                "قرآن کی تعظیم ایمان کا حصہ ہے اور اس کے آداب کی پاسداری ہر مسلمان کا فریضہ ہے۔"
+              ],
+              "english": [
+                "The Prophet's abstention from teaching the Qur'an while Junub teaches immense reverence for this great Book.",
+                "Being Junub is a temporary ritual impurity for a person, from which they must purify themselves immediately through Ghusl.",
+                "Revering the Qur'an is part of faith, and observing its etiquettes is the duty of every Muslim."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی استثناء اور احتیاط",
+        "english": "Juristic Exceptions and Caution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استثناء کی صورتیں",
+              "english": "Cases of Exception"
+            },
+            "content": {
+              "urdu": [
+                "اس حکم سے استثناء اس صورت میں ہے جب کوئی شخص قرآن کی کسی آیت کو دعا یا ذکر کی نیت سے پڑھے۔",
+                "جیسے سفر پر نکلتے وقت یا سوتے وقت قرآن کی مخصوص آیات کو تلاوت کی نیت کے بغیر پڑھنا جائز ہے۔",
+                "یہ رعایت اس لیے دی گئی ہے کہ انسان ہر حال میں اللہ کو یاد کر سکے اور خیر کی دعا مانگ سکے۔"
+              ],
+              "english": [
+                "An exception to this ruling is when a person recites a verse of the Qur'an with the intention of supplication (Du'a) or remembrance (Dhikr).",
+                "For example, reciting specific Qur'anic verses before traveling or sleeping is permissible without the intention of Qur'anic recitation.",
+                "This allowance is granted so that a person can remember Allah and seek blessings in all situations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حائضہ اور نفاس والی عورت",
+              "english": "Menstruating and Post-Natal Bleeding Women"
+            },
+            "content": {
+              "urdu": [
+                "حالت جنابت کا حکم حائضہ اور نفاس والی عورت پر بھی لاگو ہوتا ہے، کہ وہ تلاوتِ قرآن نہیں کر سکتیں۔",
+                "تاہم، بعض فقہاء نے حائضہ کو تعلیم و تعلم کی ضرورت کی بنا پر تلاوت کی اجازت دی ہے، بشرطیکہ وہ جلد از جلد غسل کرے۔",
+                "بہر حال، قرآن کے احترام کا تقاضا ہے کہ غسل کی استطاعت ہونے پر اسے فوری طور پر کر لینا چاہیے۔"
+              ],
+              "english": [
+                "The ruling for Janabah also applies to menstruating (Ha'idah) and post-natal bleeding (Nifas) women, meaning they cannot recite the Qur'an.",
+                "However, some jurists permit a Ha'idah woman to recite for the necessity of teaching or learning, provided she performs Ghusl as soon as possible.",
+                "In all cases, reverence for the Qur'an demands that Ghusl be performed immediately when purification is physically possible."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

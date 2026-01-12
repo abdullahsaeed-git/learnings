@@ -1,0 +1,265 @@
+{
+  "hadithId": 429,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/abudawud:3121"
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف. رواه أبو داود (3121) ، والنسائي في عمل اليوم والليلة (1074) ، وابن حبان (3002). والحديث فيه اضطراب وجهالة في بعض رواته، لذا ضعفه الدارقطني وغيره من المحققين.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے ابوداؤد (3121)، نسائی اور ابن حبان نے روایت کیا ہے۔ اس کی سند میں اضطراب اور بعض راویوں کے مجہول ہونے کی وجہ سے محدثین کی اکثریت نے اسے ضعیف قرار دیا ہے۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (3121), an-Nasa'i, and Ibn Hibban (3002). The Hadith has issues in its chain, including ambiguity (jahalah) regarding some narrators, leading major scholars like Ad-Daraqutni to grade it weak."
+  },
+  "importantWords": [
+    {
+      "arabic": "اقْرَأُوا",
+      "english": "Recite",
+      "urdu": "تم پڑھو"
+    },
+    {
+      "arabic": "مَوْتَاكُمْ",
+      "english": "Your dying ones",
+      "urdu": "تمہارے مرنے والے"
+    },
+    {
+      "arabic": "يس",
+      "english": "Surah Ya-Sin",
+      "urdu": "سورہ یٰسین"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Narrated it",
+      "urdu": "اسے روایت کیا"
+    },
+    {
+      "arabic": "صَحَّحَهُ",
+      "english": "Authenticated it",
+      "urdu": "اسے صحیح قرار دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں احتضار (جانکنی) کے وقت سورہ یٰسین پڑھنے کی ترغیب دی گئی ہے، اگرچہ سند کے لحاظ سے یہ روایت ضعیف ہے مگر بہت سے فقہاء اسے مستحب سمجھتے ہیں۔",
+    "english": "The Hadith encourages reciting Surah Ya-Sin for someone on their deathbed; although the narration is weak, many scholars consider it a recommended practice."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (3121)",
+      "english": "Reported by Abu Dawud (3121)"
+    },
+    {
+      "arabic": "عمل اليوم والليلة للنسائي (1074)",
+      "english": "Amal al-Yawm wal-Laylah by an-Nasa'i (1074)"
+    },
+    {
+      "arabic": "صحيح ابن حبان (3002)",
+      "english": "Sahih Ibn Hibban (3002)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معقل بن يسار المزني",
+        "english": "Ma'qil bin Yasar Al-Muzani"
+      },
+      "slug": "maqil-bin-yasar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqE99oR706M",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا شرعی حکم",
+        "english": "The Legal Status of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کی حیثیت",
+              "english": "Status of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کی سند میں ابوعثمان نامی راوی مجہول ہے۔",
+                "امام دارقطنی اور امام نووی نے اسے ضعیف قرار دیا ہے۔",
+                "ابن حبان کا اسے صحیح کہنا جمہور کے نزدیک درست نہیں۔"
+              ],
+              "english": [
+                "The narrator Abu Uthman in this chain is unknown (Majhul).",
+                "Imam Ad-Daraqutni and Imam An-Nawawi graded it weak.",
+                "Ibn Hibban's authentication is not accepted by the majority."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عمل کی گنجائش",
+              "english": "Permissibility of the Act"
+            },
+            "content": {
+              "urdu": [
+                "ضعف کے باوجود کئی فقہاء اسے فضائل میں قبول کرتے ہیں۔",
+                "امام احمد بن حنبل سے اس پر عمل منقول ہے۔",
+                "اسے تلاوتِ قرآن کی عام فضیلت کے تحت رکھا جاتا ہے۔"
+              ],
+              "english": [
+                "Despite the weakness, many jurists accept it for virtues.",
+                "Practice upon this is reported from Imam Ahmad bin Hanbal.",
+                "It is kept under the general virtue of reciting the Quran."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سورہ یٰسین کی حکمت",
+        "english": "Wisdom of Surah Ya-Sin"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نزع میں آسانی",
+              "english": "Ease in Death Throes"
+            },
+            "content": {
+              "urdu": [
+                "علماء کے نزدیک اس سے جاں کنی میں آسانی ہوتی ہے۔",
+                "اس سورہ میں توحید اور آخرت کا تذکرہ پایا جاتا ہے۔",
+                "یہ مرنے والے کے دل کو تسکین فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "Scholars believe it brings ease during the moments of death.",
+                "This Surah contains themes of Tawheed and the Hereafter.",
+                "It provides spiritual comfort to the person who is dying."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمان کی تازگی",
+              "english": "Refreshing the Faith"
+            },
+            "content": {
+              "urdu": [
+                "موت کے وقت توحید کا تذکرہ ایمان کو پختہ کرتا ہے۔",
+                "سورہ یٰسین قرآن کا دل کہلاتی ہے جو سکون بخش ہے۔",
+                "یہ تلاوت شیطان کے آخری حملوں سے بچاؤ میں مددگار ہے۔"
+              ],
+              "english": [
+                "Mentioning Tawheed at death strengthens the person's faith.",
+                "Ya-Sin is the heart of the Quran and provides tranquility.",
+                "Reciting it helps guard against the final trials of Satan."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تلاوت کا صحیح وقت",
+        "english": "Proper Time for Recitation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موت سے پہلے",
+              "english": "Before Death"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'موتاکم' سے مراد وہ ہیں جو قریب الموت ہوں۔",
+                "اس وقت تلاوت سننا مرنے والے کے لیے مفید ہے۔",
+                "مرنے کے بعد تلاوت پر علماء کے درمیان اختلاف ہے۔"
+              ],
+              "english": [
+                "The term 'Mawtakum' refers to those nearing death.",
+                "Listening to the Quran at this time is beneficial for them.",
+                "Scholars differ on reciting it after the soul has departed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حاضرین کی ذمہ داری",
+              "english": "Responsibility of those Present"
+            },
+            "content": {
+              "urdu": [
+                "قریب الموت شخص کے پاس کلمہ کی تلقین بھی کرنی چاہیے۔",
+                "ماحول کو پرسکون اور ذکر الٰہی سے معمور رکھنا چاہیے۔",
+                "تلاوت کا مقصد مرنے والے کو اللہ کی طرف متوجہ کرنا ہے۔"
+              ],
+              "english": [
+                "Those present should also encourage the dying to say Shahadah.",
+                "The environment should be kept peaceful and filled with Dhikr.",
+                "The goal of recitation is to turn the soul toward Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و تربیتی پہلو",
+        "english": "Educational and Training Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرآن سے وابستگی",
+              "english": "Attachment to the Quran"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو زندگی بھر قرآن سے تعلق قائم رکھنا چاہیے۔",
+                "موت کے وقت قرآن کی آواز مومن کا آخری سہارا ہے۔",
+                "یہ حدیث قرآن کی برکت اور تاثیر کو واضح کرتی ہے۔"
+              ],
+              "english": [
+                "A person should maintain a bond with the Quran throughout life.",
+                "The sound of the Quran is a believer's last support at death.",
+                "This Hadith clarifies the blessings and impact of the Quran."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباع سنت کا جذبہ",
+              "english": "Spirit of Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ضعیف روایات پر عمل میں احتیاط برتنی ضروری ہے۔",
+                "صحیح احادیث سے ثابت شدہ اذکار کو ترجیح دینی چاہیے۔",
+                "دین کے ہر معاملے میں تحقیق اور اتباعِ سنت لازم ہے۔"
+              ],
+              "english": [
+                "Caution is necessary when acting upon weak narrations.",
+                "Priority should be given to Dhikr proven by Sahih Hadiths.",
+                "Research and following the Sunnah is vital in all matters."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

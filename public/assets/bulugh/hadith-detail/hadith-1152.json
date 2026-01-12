@@ -1,0 +1,218 @@
+{
+  "hadithId": 1152,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/12/18"],
+    "kitabId": 12,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأطعمة - باب الصيد والذبائح",
+    "babId": 93
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5479)، ومسلم (1954). والخذف: رمي الحصاة الصغيرة بين إصبعين أو بمرماة.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (5479) اور امام مسلم (1954) نے روایت کیا ہے۔ 'خذف' کا مطلب ہے چھوٹی کنکری کو انگلیوں کے درمیان رکھ کر یا کسی غلیل نما چیز سے مارنا۔",
+    "english": "Sahih. Reported by Al-Bukhari (5479) and Muslim (1954). 'Al-Khadhf' refers to flinging a small pebble between two fingers or using a similar flicking motion."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْخَذْفِ",
+      "english": "Flinging pebbles",
+      "urdu": "کنکریاں مارنا (انگلیوں سے اچھالنا)"
+    },
+    {
+      "arabic": "تَنْكَأُ",
+      "english": "Wounds / Injures",
+      "urdu": "زخمی کرنا / دفع کرنا"
+    },
+    {
+      "arabic": "تَفْقَأُ",
+      "english": "Gouges / Puts out",
+      "urdu": "پھوڑنا"
+    },
+    {
+      "arabic": "صَيْدًا",
+      "english": "Game / Prey",
+      "urdu": "شکار"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایسے بے فائدہ کاموں سے روکا گیا ہے جن کا کوئی تعمیری مقصد (جیسے شکار یا دفاع) نہ ہو بلکہ ان سے صرف دوسروں کو جسمانی تکلیف پہنچنے کا خدشہ ہو۔",
+    "english": "This Hadith prohibits useless actions that serve no constructive purpose (like hunting or defense) but instead pose a risk of causing physical harm to others."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5479)",
+      "english": "Sahih al-Bukhari (5479)"
+    },
+    {
+      "arabic": "صحيح مسلم (1954)",
+      "english": "Sahih Muslim (1954)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مغفل المزني",
+        "english": "Abdullah bin Mughaffal al-Muzani"
+      },
+      "slug": "abdullah-bin-mughaffal"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ممانعت کی وجوہات اور حکمت",
+        "english": "Reasons and Wisdom for the Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بے مقصد اذیت رسانی",
+              "english": "Purposeless Harm"
+            },
+            "content": {
+              "urdu": [
+                "کنکری مارنا (خذف) کسی بڑے جانور کا شکار نہیں کر سکتا اور نہ ہی میدانِ جنگ میں دشمن کو ہلاک کرنے کے کام آتا ہے۔",
+                "اس سے صرف دوسروں کو چوٹ لگتی ہے، جیسے کسی کی آنکھ ضائع ہو جانا یا دانت ٹوٹنا۔",
+                "اسلام ہر اس سرگرمی سے منع کرتا ہے جس میں فائدہ کم اور نقصان کا پہلو زیادہ ہو۔"
+              ],
+              "english": [
+                "Flicking small pebbles cannot hunt large game nor is it effective in killing enemies in battle.",
+                "It only causes injuries to innocent bystanders, such as loss of sight or breaking teeth.",
+                "Islam prohibits any activity where the benefit is negligible compared to the potential harm."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی اعضاء کا احترام",
+              "english": "Respect for Human Body Parts"
+            },
+            "content": {
+              "urdu": [
+                "آنکھ اور دانت اللہ کی بڑی نعمتیں ہیں، ان کا بلاوجہ ضیاع گناہ ہے۔",
+                "کھیل کود میں بھی دوسرے کی سلامتی کا خیال رکھنا ایمان کا تقاضا ہے۔",
+                "نبی ﷺ نے ان اعضاء کا خاص ذکر کر کے ان کی اہمیت واضح فرمائی۔"
+              ],
+              "english": [
+                "Eyes and teeth are great blessings from Allah; causing their loss without reason is a sin.",
+                "Belief requires being mindful of others' safety even during recreation.",
+                "The Prophet (ﷺ) specifically mentioned these parts to highlight their significance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی پہلو",
+        "english": "Juristic and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصولِ اباحت اور ممانعت",
+              "english": "Principles of Permission and Ban"
+            },
+            "content": {
+              "urdu": [
+                "تیر اندازی اور نیزہ بازی کی اجازت اس لیے ہے کہ وہ مفید اور دفاعی فنون ہیں۔",
+                "اگر کسی عمل کا نتیجہ صرف شر کی صورت میں نکلے تو وہ 'لہو و لعب' میں شمار ہوتا ہے۔",
+                "شریعت 'نقصان نہ پہنچانے' (لا ضرر ولا ضرار) کے اصول پر قائم ہے۔"
+              ],
+              "english": [
+                "Archery and spear-throwing are allowed because they are useful defensive skills.",
+                "If an action results only in mischief, it is categorized as a forbidden pastime.",
+                "The Shariah is based on the principle of 'no harm and no reciprocating harm'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اطاعتِ رسول کی اہمیت",
+              "english": "Importance of Obeying the Messenger"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کے ایک دوسرے حصے میں مروی ہے کہ راوی نے اپنے رشتہ دار کو یہ کام کرتے دیکھ کر اس سے ترکِ تعلق کر لیا کیونکہ اس نے سنت کی خلاف ورزی کی تھی۔",
+                "سنتِ نبوی کے سامنے اپنی پسند کو قربان کر دینا ہی سچا ایمان ہے۔",
+                "چھوٹی نظر آنے والی غلطیاں بھی اگر سنت کے خلاف ہوں تو انہیں معمولی نہیں سمجھنا چاہیے۔"
+              ],
+              "english": [
+                "Another part of this narration mentions that the narrator broke ties with a relative who persisted in this act after being told of the Prophet's ban.",
+                "True faith lies in sacrificing one's preferences before the Prophet's (ﷺ) Sunnah.",
+                "Seemingly small mistakes should not be taken lightly if they contradict a Prophetic command."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عصری اطلاق (Modern Application)",
+        "english": "Modern Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خطرناک کھیلوں سے پرہیز",
+              "english": "Avoidance of Dangerous Games"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں ہوائی فائرنگ، تیز رفتار بائیک چلانا یا دوسروں پر پٹاخے پھینکنا اسی ممانعت میں آتا ہے۔",
+                "ایسی تفریح جو دوسروں کی جان یا مال کے لیے خطرہ بنے، شرعاً ناجائز ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ اپنی توانائی تعمیری کاموں میں صرف کریں۔"
+              ],
+              "english": [
+                "In modern times, celebratory firing, reckless biking, or throwing firecrackers at others fall under this prohibition.",
+                "Recreation that poses a threat to the life or property of others is Shariah-prohibited.",
+                "Muslims should invest their energy in constructive and beneficial tasks."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بامقصد زندگی",
+              "english": "Purposeful Living"
+            },
+            "content": {
+              "urdu": [
+                "ایک مومن کا کوئی بھی عمل عبث اور فضول نہیں ہونا چاہیے۔",
+                "ہر کام کرنے سے پہلے اس کے نفع اور نقصان کا جائزہ لینا دانشمندی ہے۔",
+                "دوسروں کے لیے باعثِ راحت بننا ہی انسانیت کا معراج ہے۔"
+              ],
+              "english": [
+                "None of a believer's actions should be pointless or futile.",
+                "It is wise to evaluate the pros and cons of an action before performing it.",
+                "Being a source of comfort for others is the pinnacle of humanity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

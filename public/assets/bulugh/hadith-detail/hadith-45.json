@@ -1,0 +1,209 @@
+{
+  "hadithId": 45,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 17 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب غسل المرافق",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "ضعيف جدا.  رواه الدارقطني (1/15/83)  . ",
+    "urdu": "ضعیف جداً (بہت کمزور)۔ اسے دارقطنی (1/15/83) نے روایت کیا ہے۔",
+    "english": "Da'īf Jiddan (Very Weak). Narrated by Ad-Dāraquṭnī (1/15/83)."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَوَضَّأَ",
+      "english": "Performed Wudu",
+      "urdu": "وضو کرتے"
+    },
+    {
+      "arabic": "أَدَارَ",
+      "english": "Made run/poured around",
+      "urdu": "پانی ڈالتے"
+    },
+    {
+      "arabic": "اَلْمَاءَ",
+      "english": "The water",
+      "urdu": "پانی"
+    },
+    {
+      "arabic": "مُرْفَقَيْهِ",
+      "english": "His two elbows",
+      "urdu": "کہنیوں"
+    },
+    {
+      "arabic": "ضَعِيف ٍ",
+      "english": "Weak (chain)",
+      "urdu": "ضعیف (سند)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ نبی کریم صلی اللہ علیہ وسلم وضو کے دوران اپنے بازوؤں کو دھوتے وقت خاص طور پر اپنی کہنیوں پر اچھی طرح پانی ڈالتے تھے، لیکن محدثین نے اس روایت کی سند کو بہت کمزور قرار دیا ہے۔",
+    "english": "This Hadith reports that the Prophet (ﷺ), while washing his arms during Wudu, specifically ensured water ran thoroughly over his elbows, but scholars of Hadith have classified this narration's chain as very weak."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني، كتاب الطهارة، رقم 1/15/83",
+      "english": "Sunan Ad-Dāraquṭnī, The Book of Purification, Hadith 1/15/83"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جَابِرُ بْنُ عَبْدِ اَللَّهِ رَضِيَ اَللَّهُ عَنْهُمَا",
+        "english": "Jābir ibn ʿAbdillāh (May Allah be pleased with them both)"
+      },
+      "slug": "jabir-ibn-abdillah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-23-elbow-washing",
+  "grade": {
+    "arabic": "ضعيف جدا",
+    "english": "Da'īf Jiddan (Very Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کہنیوں پر پانی ڈالنے کا حکم",
+        "english": "The Command to Pour Water Over Elbows"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کہنیوں کا مقام اور دھونے کا فرض",
+              "english": "Status of the Elbows and Obligatory Washing"
+            },
+            "content": {
+              "urdu": [
+                "آیت وضو میں حکم ہے کہ ہاتھ **کہنیوں تک** دھوئے جائیں، جس سے فقہاء نے یہ اصول اخذ کیا کہ کہنیاں دھونے کے فرض میں شامل ہیں۔",
+                "یہ حدیث اس فرض کی عملی صورت کو بیان کرتی ہے کہ کہنیوں کے ارد گرد پانی کو اچھی طرح پہنچایا جائے تاکہ کوئی حصہ خشک نہ رہ جائے۔",
+                "اگرچہ یہ روایت بذات خود **بہت کمزور** ہے، لیکن یہ حکم (کہنیوں کو دھونا) دیگر **صحیح** احادیث اور آیتِ قرآنی سے ثابت ہے۔"
+              ],
+              "english": [
+                "The Wudu verse commands washing the hands **up to the elbows**, from which jurists deduce that the elbows themselves must be included in the washing.",
+                "This Hadith describes the practical implementation: ensuring water thoroughly covers the entire area of the elbow so no part remains dry.",
+                "While this specific narration is **very weak**, the underlying ruling (washing the elbows) is confirmed by other **authentic** Ahadith and the Qur'anic verse."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آیتِ وضو کا اطلاق",
+              "english": "Application of the Wudu Verse"
+            },
+            "content": {
+              "urdu": [
+                "قرآن میں لفظ 'إلى' (تک) بعض اوقات اس حد کو بھی شامل کرتا ہے جس کا ذکر ہو، اور یہاں کہنیوں کو دھونے کا عمل اسی شمولیت کے تحت آتا ہے۔",
+                "چونکہ کہنی بازو کے اس حصے پر واقع ہے جہاں ہاتھ اور بازو ملتے ہیں، اس لیے کہنیوں کے ارد گرد اچھی طرح پانی بہانا احتیاط کے لیے ضروری ہے۔",
+                "یہ عمل اس بات کو یقینی بناتا ہے کہ وضو کے فرض اعضاء کا کوئی بھی حصہ خشک نہ رہ جائے، جس سے وضو کے باطل ہونے کا خدشہ ختم ہو جاتا ہے۔"
+              ],
+              "english": [
+                "In the Qur'an, the preposition 'ilā' (up to) sometimes implies inclusion of the boundary point, and washing the elbows falls under this inclusion.",
+                "Since the elbow is the joint connecting the hand and forearm, it's necessary to ensure water flows well around it as a measure of precaution.",
+                "This practice ensures that no portion of the obligatory Wudu limbs remains dry, thus eliminating any doubt about the validity of the ablution."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند کی حیثیت اور فقہی نتیجہ",
+        "english": "Status of the Chain and Fiqh Outcome"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کی کمزوری",
+              "english": "Weakness of the Narration"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کو دارقطنی نے **ضعیف جداً** قرار دیا ہے، جس کا مطلب ہے کہ اس کی سند اتنی کمزور ہے کہ اسے شرعی حکم ثابت کرنے کے لیے استعمال نہیں کیا جا سکتا۔",
+                "روایت کے ضعیف ہونے کی وجہ سے 'کہنیوں پر پانی ڈالنے' کا یہ خاص طریقہ (علیحدہ عمل کے طور پر) سنتِ نبوی میں شامل نہیں کیا جاتا۔",
+                "البتہ، عام طور پر ہاتھ دھوتے وقت ہی کہنیوں کو اچھی طرح دھونا **واجب** ہے، اور یہ حکم دیگر صحیح اور متفق علیہ احادیث سے ثابت ہے۔"
+              ],
+              "english": [
+                "This Hadith is graded **Da'īf Jiddan** (Very Weak) by Ad-Dāraquṭnī, meaning its chain is too weak to be used as legal evidence (Hujjah) to establish a specific ruling.",
+                "Due to the weakness of this specific wording, the act of 'making water run around the elbows' (as a distinct practice) is not established as a proven Sunnah.",
+                "Nonetheless, washing the elbows thoroughly while washing the arms remains **obligatory** (Fard), a ruling established by other authentic Ahadith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دَلک (ملنے) کا حکم",
+              "english": "The Ruling of Dalk (Rubbing)"
+            },
+            "content": {
+              "urdu": [
+                "پچھلی حدیث (رقم 10) میں بازوؤں کو **ملنے (دلک)** کا ذکر آیا ہے، اور یہ عمل کہنیوں کو مکمل طور پر تر کرنے میں مدد دیتا ہے۔",
+                "کہنیوں کے گرد پانی ڈالنا یا رگڑنا ایک ایسی احتیاطی سنت ہے جو اس بات کو یقینی بناتی ہے کہ کہنیوں کی گہری سطح تک پانی پہنچ جائے۔",
+                "فقہی طور پر، بازوؤں کو مل کر دھونا ہی وہ عمل ہے جس سے یہ یقینی ہو جاتا ہے کہ کہنیاں بھی اچھی طرح دھل گئی ہیں۔"
+              ],
+              "english": [
+                "The previous Hadith (No. 10) mentioned the practice of **rubbing (Dalk)** the forearms, an action that naturally helps ensure the elbows are completely moistened.",
+                "Puring or rubbing water around the elbows is a precautionary Sunnah that helps guarantee water reaches the deep crevices of the elbow joint.",
+                "Jurisprudentially, thoroughly washing the arms while rubbing (Dalk) is the primary act that ensures the elbows are adequately purified."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کا فلسفہ",
+        "english": "The Philosophy of Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کامل طہارت کی اہمیت",
+              "english": "Importance of Complete Purity"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کو اجاگر کرتی ہے کہ ایک مسلمان کو وضو میں اعضاء کو دھونے کے معاملے میں کس قدر **اھتمام اور احتیاط** برتنی چاہیے۔",
+                "نبی اکرم ﷺ نے چھوٹی چھوٹی جگہوں، جیسے کہنیوں اور ٹخنوں پر پانی پہنچانے کی تاکید فرمائی تاکہ طہارت میں ذرہ برابر بھی کمی نہ رہے۔",
+                "یہ احتیاط اس لیے ضروری ہے تاکہ نماز کے لیے کھڑے ہوتے وقت مسلمان مکمل طور پر پاکیزگی کی حالت میں ہو اور اس کی عبادت میں کوئی نقص نہ آئے۔"
+              ],
+              "english": [
+                "This Hadith highlights the degree of **diligence and caution** a Muslim should exercise regarding the washing of Wudu limbs.",
+                "The Prophet (ﷺ) emphasized ensuring water reaches all corners, like the elbows and ankles, to ensure that the purity is not lacking in any way.",
+                "This vigilance is necessary so that when standing for prayer, the Muslim is in a state of complete ritual purity, preventing any invalidation of the worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ضعیف احادیث سے استدلال",
+              "english": "Deriving Benefit from Weak Ahadith"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث **ضعیف جداً** ہے، لیکن یہ ایک ایسا عمل بیان کرتی ہے جو دیگر صحیح احادیث (جیسے اسباغ الوضوء) کے عمومی حکم کے تحت آتا ہے۔",
+                "علماء کے نزدیک ضعیف حدیث پر عمل کیا جا سکتا ہے اگر وہ فضائلِ اعمال (اعمال کی فضیلت) سے متعلق ہو، نہ کہ کسی شرعی حکم کی فرضیت سے۔",
+                "کہنیوں پر پانی ڈالنا فضائلِ طہارت کے زمرے میں آتا ہے، لہٰذا اس پر عمل کرنا درست ہے، بشرطیکہ اسے فرض نہ سمجھا جائے۔"
+              ],
+              "english": [
+                "Although this Hadith is **very weak**, it describes an action that falls under the general scope of other authentic Ahadith (like Isbāgh al-Wudu).",
+                "Scholars generally agree that weak Ahadith can be acted upon for **Fadā'il al-A'māl** (virtues of deeds), but not for establishing mandatory legal rulings.",
+                "Ensuring water runs over the elbows falls within the virtues of purification, so practicing it is permissible, provided it is not mistaken for an obligation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "hadithId": 455,
+  "hadithNo": 31,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/nasai:1987"
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف جدا. رواه الشافعي في المسند (1/209) من طريق إبراهيم بن محمد بن أبي يحيى، وهو متروك الحديث. ولكن أصل قراءة الفاتحة في الجنازة ثابت بصحيح البخاري من حديث ابن عباس رضي الله عنهما.",
+    "urdu": "یہ روایت سنداً بہت ضعیف ہے کیونکہ اس کے ایک راوی ابراہیم بن ابی یحییٰ متروک ہیں۔ تاہم، جنازہ میں سورہ فاتحہ پڑھنے کی اصل بنیاد صحیح بخاری کی دیگر صحیح احادیث (مثلاً ابن عباس رضی اللہ عنہما کی روایت) سے ثابت ہے۔",
+    "english": "Very Weak. Reported by ash-Shafi'i in his Musnad (1/209) via Ibrahim bin Abi Yahya, who is abandoned (matruk). However, the basis of reciting Al-Fatihah in Janazah is established through Sahih Bukhari via Ibn Abbas (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُكَبِّرُ",
+      "english": "Proclaiming Takbir",
+      "urdu": "تکبیر کہتے تھے"
+    },
+    {
+      "arabic": "جَنَائِزِنَا",
+      "english": "Our funerals",
+      "urdu": "ہمارے جنازے"
+    },
+    {
+      "arabic": "بِفَاتِحَةِ اَلْكِتَابِ",
+      "english": "Opening Chapter (Al-Fatihah)",
+      "urdu": "سورہ فاتحہ"
+    },
+    {
+      "arabic": "اَلتَّكْبِيرَةِ اَلْأُولَى",
+      "english": "The first Takbir",
+      "urdu": "پہلی تکبیر"
+    },
+    {
+      "arabic": "إِسْنَادٍ ضَعِيفٍ",
+      "english": "Weak chain",
+      "urdu": "کمزور سند"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نمازِ جنازہ میں چار تکبیرات اور پہلی تکبیر کے بعد سورہ فاتحہ کی تلاوت کا تذکرہ ہے، جو کہ مسنون عمل ہے۔",
+    "english": "This Hadith mentions the practice of saying four Takbirs in the funeral prayer and reciting Surah Al-Fatihah after the first Takbir."
+  },
+  "references": [
+    {
+      "arabic": "مسند الشافعي (578)",
+      "english": "Musnad ash-Shafi'i (578)"
+    },
+    {
+      "arabic": "صحيح البخاري (1335)",
+      "english": "Sahih al-Bukhari (1335) - Supporting Evidence"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6TfN1Kic",
+  "grade": {
+    "arabic": "ضعيف جدا",
+    "english": "Very Weak"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنازہ میں سورہ فاتحہ کا حکم",
+        "english": "Ruling of Surah Al-Fatihah in Janazah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ سند ضعیف ہے، مگر صحیح بخاری کی دیگر روایات سے فاتحہ پڑھنا ثابت ہے۔",
+                "پہلی تکبیر کے بعد ثناء یا براہِ راست سورہ فاتحہ پڑھنا مسنون عمل ہے۔",
+                "نبی کریم ﷺ نے اسے جنازہ کی دعا اور ثناء کے طور پر پڑھا ہے۔"
+              ],
+              "english": [
+                "Although this chain is weak, other Sahih Bukhari narrations confirm the recitation.",
+                "Reciting Al-Fatihah after the first Takbir is a Sunnah practice.",
+                "The Prophet (ﷺ) recited it as a form of praise and supplication for the dead."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف",
+              "english": "Juristic Difference"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور احمد کے نزدیک جنازہ میں سورہ فاتحہ پڑھنا فرض یا واجب ہے۔",
+                "امام مالک اور ابوحنیفہ کے نزدیک یہ محض دعا ہے، قرات کے طور پر لازم نہیں۔",
+                "احادیثِ صحیحہ کی روشنی میں اسے پڑھنا افضل اور بہتر طریقہ ہے۔"
+              ],
+              "english": [
+                "Imams Shafi'i and Ahmad consider reciting Al-Fatihah in Janazah mandatory.",
+                "Imams Malik and Abu Hanifa view it as a prayer, not a required recitation.",
+                "In light of authentic Hadiths, reciting it is the superior and better method."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نمازِ جنازہ کی ترتیب",
+        "english": "Order of the Janazah Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تکبیراتِ اربعہ",
+              "english": "The Four Takbirs"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ جنازہ میں چار تکبیرات کہنا ہی امت کا متفقہ عمل ہے۔",
+                "پہلی تکبیر کے بعد فاتحہ، دوسری کے بعد درود اور تیسری کے بعد دعا پڑھی جاتی ہے۔",
+                "چوتھی تکبیر کے بعد مختصر دعا کر کے سلام پھیر دیا جاتا ہے۔"
+              ],
+              "english": [
+                "Saying four Takbirs in the Janazah prayer is the consensus of the Ummah.",
+                "Follow Al-Fatihah with Durud after the 2nd Takbir, then Du'a after the 3rd.",
+                "After the 4th Takbir, a brief supplication is made followed by the Taslim."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بلند آواز سے قرات",
+              "english": "Audible Recitation"
+            },
+            "content": {
+              "urdu": [
+                "سنت یہ ہے کہ جنازہ میں قرات آہستہ (سری) کی جائے۔",
+                "کبھی کبھار تعلیم کی غرض سے امام بلند آواز سے بھی پڑھ سکتا ہے۔",
+                "اس سے حاضرین کو سنت طریقے کی پہچان اور تعلیم حاصل ہوتی ہے۔"
+              ],
+              "english": [
+                "The Sunnah is for the recitation in Janazah to be performed silently.",
+                "Occasionally, the Imam may recite loudly for educational purposes.",
+                "This allows the congregation to learn and identify the Sunnah method."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "میت کے لیے دعا کی اہمیت",
+        "english": "Importance of Prayer for the Deceased"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سورہ فاتحہ کی جامعیت",
+              "english": "Comprehensiveness of Al-Fatihah"
+            },
+            "content": {
+              "urdu": [
+                "سورہ فاتحہ اللہ کی حمد اور ہدایت کی دعا پر مشتمل بہترین کلام ہے۔",
+                "یہ میت کے لیے اللہ کی رحمت طلب کرنے کا ایک بابرکت ذریعہ ہے۔",
+                "اس سورت کا جنازہ میں پڑھنا شفاعت کی ایک صورت ہے۔"
+              ],
+              "english": [
+                "Surah Al-Fatihah is the best speech, containing praise and guidance.",
+                "It is a blessed means to seek Allah's mercy for the deceased.",
+                "Reciting this chapter in Janazah acts as a form of intercession."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاص کی ضرورت",
+              "english": "Need for Sincerity"
+            },
+            "content": {
+              "urdu": [
+                "جنازہ کی روح میت کے لیے دل کی گہرائیوں سے دعا کرنا ہے۔",
+                "اذکار اور سورتوں کا فہم دعا میں عاجزی پیدا کرتا ہے۔",
+                "مومن کا جنازہ دوسرے مومن کے لیے آخری خیر خواہی کا مظاہرہ ہے۔"
+              ],
+              "english": [
+                "The essence of Janazah is praying from the heart for the deceased.",
+                "Understanding the Dhikr and Surahs creates humility in supplication.",
+                "A believer's Janazah is the final act of goodwill for another believer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علمی و تربیتی نکات",
+        "english": "Scientific and Educational Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضعیف احادیث کا مقام",
+              "english": "Status of Weak Hadiths"
+            },
+            "content": {
+              "urdu": [
+                "ضعیف حدیث اکیلے شرعی حکم ثابت کرنے کے لیے کافی نہیں ہوتی۔",
+                "مگر جب دیگر صحیح شواہد موجود ہوں تو اس پر عمل کیا جا سکتا ہے۔",
+                "محدثین کی تحقیق ہمیں صحیح اور غلط روایت میں تمیز سکھاتی ہے۔"
+              ],
+              "english": [
+                "A weak Hadith alone is not sufficient to establish a Shariah ruling.",
+                "However, it can be acted upon when supported by other authentic evidence.",
+                "The research of Muhaddithin teaches us to distinguish true narrations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی پابندی اور ترتیب",
+              "english": "Punctuality and Order"
+            },
+            "content": {
+              "urdu": [
+                "جنازہ میں تکبیرات کی ترتیب سنت کے مطابق ہونی چاہیے۔",
+                "ترتیب کے بغیر عبادت کی روح متاثر ہو سکتی ہے۔",
+                "علماء سے جنازہ کے مکمل احکام سیکھنا ہر مسلمان کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "The sequence of Takbirs in Janazah must follow the Sunnah strictly.",
+                "Without proper order, the essence of the worship may be compromised.",
+                "It is the duty of every Muslim to learn complete funeral rites from scholars."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

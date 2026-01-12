@@ -1,0 +1,259 @@
+{
+  "hadithId": 482,
+  "hadithNo": 58,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/58", "bukhari/1393", "tirmidhi/1982"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1393)، والترمذي (1982)، والنسائي (1935)، وأحمد (6/180).",
+    "urdu": "صحیح۔ اسے امام بخاری نے اپنی صحیح (1393) میں اور ترمذی نے (1982) میں روایت کیا ہے۔ یہ روایت نسائی اور مسند احمد میں بھی موجود ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1393), At-Tirmidhi (1982), An-Nasa'i (1935), and Ahmad (6/180)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَسُبُّوا",
+      "english": "Do not abuse",
+      "urdu": "گالی مت دو"
+    },
+    {
+      "arabic": "الْأَمْوَاتَ",
+      "english": "The dead",
+      "urdu": "مردے"
+    },
+    {
+      "arabic": "أَفْضَوْا",
+      "english": "They have reached",
+      "urdu": "وہ پہنچ چکے"
+    },
+    {
+      "arabic": "قَدَّمُوا",
+      "english": "They sent forward",
+      "urdu": "جو انہوں نے (اعمال) آگے بھیجے"
+    },
+    {
+      "arabic": "تُؤْذُوا",
+      "english": "You hurt / annoy",
+      "urdu": "تم تکلیف دیتے ہو"
+    }
+  ],
+  "summary": {
+    "urdu": "فوت شدہ لوگوں کی برائیاں کرنے اور انہیں گالیاں دینے سے بچنا چاہیے کیونکہ وہ اپنے اعمال کا بدلہ پانے کے لیے اللہ کے پاس پہنچ چکے ہیں اور ان کی برائی سے ان کے زندہ رشتہ داروں کو تکلیف ہوتی ہے۔",
+    "english": "It is forbidden to abuse or speak ill of the deceased because they have already gone to face the consequences of their deeds, and such behavior hurts their living relatives."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الجنائز، رقم 1393",
+      "english": "Sahih al-Bukhari, Book of Funerals, Hadith 1393"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب البر والصلة، رقم 1982",
+      "english": "Sunan at-Tirmidhi, Book of Righteousness and Joining Ties, Hadith 1982"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9iY9rS_iFw",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مردوں کی برائی کی ممانعت",
+        "english": "Prohibition of Abusing the Dead"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بے فائدہ کلام سے پرہیز",
+              "english": "Avoiding Useless Speech"
+            },
+            "content": {
+              "urdu": [
+                "مرنے والوں کو گالی دینا ایک لایعنی عمل ہے جس کا کوئی دینی یا دنیاوی فائدہ نہیں ہے۔",
+                "وہ لوگ اب دنیا کے معاملات سے کٹ چکے ہیں اور ان کا معاملہ اللہ کے سپرد ہو چکا ہے۔",
+                "مسلمان کو اپنی زبان کی حفاظت کرنی چاہیے اور مردوں کے عیوب کو اچھالنے سے بچنا چاہیے۔"
+              ],
+              "english": [
+                "Abusing the deceased is a pointless act that brings no religious or worldly benefit.",
+                "They are now disconnected from worldly affairs, and their case is with Allah alone.",
+                "A Muslim must guard their tongue and avoid highlighting the faults of those who passed away."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعمال کا انجام",
+              "english": "Consequences of Deeds"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے الفاظ 'افضوا الی ما قدموا' بتاتے ہیں کہ وہ اپنے اعمال کا صلہ پانے پہنچ گئے ہیں۔",
+                "اگر وہ برے تھے تو اللہ انہیں سزا دے گا اور اگر نیک تھے تو جزا پائیں گے۔",
+                "آپ کی گالی ان کے انجام کو بدل نہیں سکتی، بلکہ الٹا آپ کے اپنے نامہ اعمال میں گناہ لکھے جائیں گے۔"
+              ],
+              "english": [
+                "The phrase 'they have reached what they sent forward' means they are facing their results.",
+                "If they were evil, Allah will judge them; if they were good, He will reward them.",
+                "Your abuse cannot change their fate; rather, it only adds sins to your own record."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "زندہ لوگوں کی دل آزاری",
+        "english": "Hurting the Living"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رشتہ داروں کا احترام",
+              "english": "Respect for Relatives"
+            },
+            "content": {
+              "urdu": [
+                "مردوں کو برا کہنے سے ان کے زندہ لواحقین اور دوست احباب کو شدید دکھ پہنچتا ہے۔",
+                "اسلام کسی کو بلاوجہ ایذاء دینے کی سختی سے ممانعت کرتا ہے، چاہے وہ الفاظ کے ذریعے ہو۔",
+                "مردے کی برائی درحقیقت اس کے زندہ پسماندگان کی توہین اور دل شکنی کا سبب بنتی ہے۔"
+              ],
+              "english": [
+                "Speaking ill of the dead causes immense grief to their living relatives and friends.",
+                "Islam strictly prohibits causing unnecessary harm to others, even through words.",
+                "Criticizing the deceased is essentially an insult and a source of heartbreak for the survivors."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ہم آہنگی",
+              "english": "Social Harmony"
+            },
+            "content": {
+              "urdu": [
+                "مردوں کی برائی کرنے سے خاندانوں کے درمیان دشمنیاں اور نفرتیں جنم لیتی ہیں۔",
+                "اسلامی معاشرے کی بنیاد باہمی احترام اور ایک دوسرے کی پردہ پوشی پر رکھی گئی ہے۔",
+                "ماضی کی تلخیوں کو دفن کر کے مردوں کے حق میں خاموشی یا دعا اختیار کرنا ہی بہتر ہے۔"
+              ],
+              "english": [
+                "Criticizing the deceased breeds enmity and hatred between families in society.",
+                "The foundation of Islamic society is built on mutual respect and concealing faults.",
+                "It is better to bury past bitterness and maintain silence or pray for the deceased."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استثنائی صورتیں",
+        "english": "Exceptional Cases"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بدعتی اور ظالم کا تذکرہ",
+              "english": "Mentioning Innovators and Tyrants"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی مرنے والے کی برائی بیان کرنے میں لوگوں کو شر سے بچانا مقصود ہو تو وہ جائز ہے۔",
+                "فتنہ پرور لوگوں یا گمراہ فرقوں کے سرداروں کی حقیقت بیان کرنا تاکہ لوگ گمراہ نہ ہوں، ممنوع نہیں۔",
+                "اس صورت میں نیت ذاتی دشمنی کے بجائے دین کی حفاظت اور خیر خواہی ہونی چاہیے۔"
+              ],
+              "english": [
+                "If mentioning a deceased person's faults is necessary to protect people from evil, it is allowed.",
+                "Exposing leaders of misguidance or tyrants so people aren't misled is not part of the prohibition.",
+                "In such cases, the intention must be protecting religion rather than personal vendetta."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تاریخی گواہی",
+              "english": "Historical Testimony"
+            },
+            "content": {
+              "urdu": [
+                "جرح و تعدیل کے علم میں راویوں کی خامیوں کا ذکر کرنا دین کی ضرورت کے تحت جائز قرار دیا گیا ہے۔",
+                "تاریخی حقائق کی وضاحت کے لیے سچی بات کہنا گالی یا ممنوعہ سب و شتم میں نہیں آتا۔",
+                "بغیر کسی شرعی ضرورت کے عام مسلمانوں کے عیوب بیان کرنا بہرحال حرام ہے۔"
+              ],
+              "english": [
+                "In the science of Hadith narrators, mentioning flaws is permitted due to religious necessity.",
+                "Stating truthful historical facts for clarification does not count as prohibited abuse.",
+                "However, publicizing the faults of ordinary Muslims without Sharia necessity remains haram."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موت سے عبرت",
+              "english": "Taking Heed from Death"
+            },
+            "content": {
+              "urdu": [
+                "دوسروں کی برائی کرنے کے بجائے اپنی موت اور اللہ کے حضور پیشی کی فکر کرنی چاہیے۔",
+                "ہمیں یہ سوچنا چاہیے کہ مرنے کے بعد لوگ ہمیں کن الفاظ میں یاد کریں گے۔",
+                "نبی کریم ﷺ نے ہمیں مردوں کی خوبیاں بیان کرنے اور برائیوں سے رکنے کی تعلیم دی ہے۔"
+              ],
+              "english": [
+                "Instead of criticizing others, one should worry about their own death and meeting Allah.",
+                "We must reflect on what kind of words people will use to remember us after we pass away.",
+                "The Prophet (ﷺ) taught us to mention the virtues of the dead and refrain from their faults."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زبان کی پاکیزگی",
+              "english": "Purity of the Tongue"
+            },
+            "content": {
+              "urdu": [
+                "مومن کی زبان سے ہمیشہ خیر کے کلمات نکلنے چاہئیں، چاہے وہ زندوں کے لیے ہوں یا مردوں کے لیے۔",
+                "دوسروں کے حق میں بدگوئی کرنا درحقیقت اپنی ہی نیکیوں کو برباد کرنے کے مترادف ہے۔",
+                "اللہ تعالیٰ ہمیں زبان کی لغزشوں سے بچائے اور دوسروں کے لیے باعثِ رحمت بنائے۔"
+              ],
+              "english": [
+                "A believer's tongue should always utter good words, whether for the living or the dead.",
+                "Speaking ill of others is essentially like destroying one's own good deeds.",
+                "May Allah protect us from the slips of the tongue and make us a source of mercy for others."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

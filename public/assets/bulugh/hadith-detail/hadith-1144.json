@@ -1,0 +1,218 @@
+{
+  "hadithId": 1144,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/12/10"],
+    "kitabId": 12,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 92
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5510)، ومسلم (1942). وفي رواية لمسلم: «ونحن بالمدينة».",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری اور امام مسلم نے روایت کیا ہے۔ مسلم کی ایک روایت میں یہ صراحت بھی ہے کہ 'ہم اس وقت مدینہ میں تھے'۔",
+    "english": "Sahih. Reported by al-Bukhari (5510) and Muslim (1942). A narration in Muslim adds: \"And we were in Madinah at that time.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "نَحَرْنَا",
+      "english": "We slaughtered / sacrificed",
+      "urdu": "ہم نے ذبح کیا / نحر کیا"
+    },
+    {
+      "arabic": "عَهْدِ",
+      "english": "Lifetime / Era",
+      "urdu": "زمانہ / عہد"
+    },
+    {
+      "arabic": "فَرَساً",
+      "english": "Horse",
+      "urdu": "گھوڑا"
+    },
+    {
+      "arabic": "فَأَكَلْنَاهُ",
+      "english": "Then we ate it",
+      "urdu": "پس ہم نے اسے کھایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ گھوڑے کا گوشت کھانا حلال اور جائز ہے، کیونکہ صحابہ کرام نے نبی کریم ﷺ کی موجودگی میں اسے کھایا اور آپ ﷺ نے اس سے منع نہیں فرمایا۔",
+    "english": "This Hadith proves that horse meat is Halal and permissible to consume, as the Companions ate it during the Prophet's (ﷺ) lifetime and he did not prohibit it."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5510)",
+      "english": "Sahih al-Bukhari (5510)"
+    },
+    {
+      "arabic": "صحيح مسلم (1942)",
+      "english": "Sahih Muslim (1942)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أسماء بنت أبي بكر",
+        "english": "Asma bint Abi Bakr"
+      },
+      "slug": "asma-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "گھوڑے کی حلت کا شرعی حکم",
+        "english": "Shariah Ruling on Horse Meat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حلت کی دلیل",
+              "english": "Evidence of Permissibility"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ اسماء رضی اللہ عنہا کا یہ بیان کہ 'ہم نے کھایا' اس بات کی واضح دلیل ہے کہ گھوڑا حلال جانور ہے۔",
+                "صحابہ کرام کا عہدِ نبوی میں کوئی کام کرنا اور اس پر وحی کا خاموش رہنا اس کے جائز ہونے کی علامت ہے۔",
+                "جمہور ائمہ (شافعی، احمد، اسحاق) کے نزدیک گھوڑا بلا کراہت حلال ہے۔"
+              ],
+              "english": [
+                "Asma's (R.A) statement 'we ate it' is a clear proof that horse meat is permissible.",
+                "An action performed by the Sahaba during the Prophetic era without divine or Prophetic objection signifies its legality.",
+                "The majority of Imams (Shafi'i, Ahmad, Ishaq) hold that horse meat is Halal without any dislike."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احناف کا موقف",
+              "english": "Hanafi Perspective"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ کے نزدیک گھوڑے کا گوشت 'مکروہ تنزیہی' (ناپسندیدہ مگر گناہ نہیں) تھا۔",
+                "ان کی وجہ یہ تھی کہ گھوڑا آلہِ جہاد ہے، اس لیے اسے ذبح کرنے سے عسکری قوت کمزور ہو سکتی ہے۔",
+                "تاہم صاحبین (امام ابویوسف و محمد) نے ان احادیث کی بنا پر اسے حلال قرار دیا ہے اور فتویٰ اسی پر ہے۔"
+              ],
+              "english": [
+                "Imam Abu Hanifa considered horse meat 'Makruh Tanzihi' (disliked but not sinful).",
+                "His reasoning was that horses are tools of Jihad, and slaughtering them could weaken military strength.",
+                "However, his main students (Abu Yusuf and Muhammad) declared it Halal based on these Hadiths, and that is the adopted fatwa."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نحر اور ذبح کی وضاحت",
+        "english": "Explanation of 'Nahr' and Slaughtering"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصطلاحی فرق",
+              "english": "Technical Difference"
+            },
+            "content": {
+              "urdu": [
+                "اونٹ کے لیے 'نحر' (گردن کے نچلے حصے میں نیزہ مارنا) سنت طریقہ ہے۔",
+                "گھوڑے اور گائے بکری کے لیے 'ذبح' (حلقوم کاٹنا) مسنون طریقہ ہے۔",
+                "سیدہ اسماء نے 'نحرنا' کا لفظ استعمال کیا، جس سے مراد جانور کو مارنا اور ذبح کرنا ہے۔"
+              ],
+              "english": [
+                "'Nahr' (piercing the base of the neck) is the Sunnah method for camels.",
+                "'Dhabh' (cutting the throat) is the Sunnah method for horses, cows, and sheep.",
+                "Asma (R.A) used the word 'Naharna', which here generally refers to the act of slaughtering the animal for food."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سنتِ تقریری کی اہمیت",
+        "english": "Importance of Tacit Approval (Sunnah Taqririyah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاموش منظوری",
+              "english": "Silent Approval"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سنتِ تقریری کی مثال ہے، یعنی ایسا کام جو آپ ﷺ کے علم میں ہوا اور آپ ﷺ نے منع نہ فرمایا۔",
+                "اگر گھوڑا حرام ہوتا تو وحی کے ذریعے اس کی ممانعت آ جاتی جیسے گھریلو گدھے کی آئی۔",
+                "یہ دین کی تکمیل اور حلال و حرام کے ضوابط کی وضاحت کا ایک اہم ذریعہ ہے۔"
+              ],
+              "english": [
+                "This Hadith is an example of Sunnah Taqririyah—an action known to the Prophet (ﷺ) that he did not oppose.",
+                "If horse meat were Haram, revelation would have prohibited it, as happened with domestic donkeys.",
+                "This serves as a vital source for completing the Shariah and clarifying the rules of Halal and Haram."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غذا میں وسعت",
+              "english": "Broadness in Diet"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے انسان کے لیے طیب غذاؤں میں بہت وسعت رکھی ہے۔",
+                "کسی حلال چیز کو بلاوجہ اپنے اوپر حرام کر لینا درست نہیں ہے۔",
+                "اسلامی احکامات انسانی ضرورتوں اور مصلحتوں کو مدنظر رکھتے ہیں۔"
+              ],
+              "english": [
+                "Allah has provided great variety in pure foods for mankind.",
+                "It is not right to forbid upon oneself what Allah has made Halal without a valid reason.",
+                "Islamic rulings take into account human needs and strategic benefits."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت پر عمل کا جذبہ",
+              "english": "Spirit of Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام ہر معاملے میں رسول اللہ ﷺ کے طرزِ عمل کو سامنے رکھتے تھے۔",
+                "ہمیں بھی اپنی زندگی کے ہر شعبے میں مستند احادیث سے رہنمائی لینی چاہیے۔",
+                "علمِ دین کا حصول اور اس پر عمل ہی کامیابی کا راستہ ہے۔"
+              ],
+              "english": [
+                "The Companions looked to the Prophet's (ﷺ) conduct in every matter.",
+                "We should also seek guidance from authentic Hadiths in every sphere of our lives.",
+                "Acquiring religious knowledge and acting upon it is the path to success."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

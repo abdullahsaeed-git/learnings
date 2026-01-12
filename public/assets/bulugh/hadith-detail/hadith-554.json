@@ -1,0 +1,264 @@
+{
+  "hadithId": 554,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/48"],
+    "kitabId": 5,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الصيام",
+    "babId": 34
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2840)، ومسلم (1153). وقوله 'في سبيل الله' حمله بعض العلماء على الجهاد وبعضهم على الإخلاص.",
+    "urdu": "صحیح۔ اسے امام بخاری (2840) اور امام مسلم (1153) نے روایت کیا ہے۔ اس حدیث میں اللہ کی رضا کے لیے رکھے گئے روزے کی عظیم فضیلت بیان کی گئی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2840) and Muslim (1153). The phrase 'in the path of Allah' refers to fasting with sincerity or while on Jihad."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَبْدٍ",
+      "english": "Servant",
+      "urdu": "بندہ"
+    },
+    {
+      "arabic": "يَصُومُ",
+      "english": "Fasts",
+      "urdu": "روزہ رکھتا ہے"
+    },
+    {
+      "arabic": "سَبِيلِ اَللَّهِ",
+      "english": "Path of Allah",
+      "urdu": "اللہ کی راہ"
+    },
+    {
+      "arabic": "بَاعَدَ",
+      "english": "Distanced",
+      "urdu": "دور کر دیا"
+    },
+    {
+      "arabic": "وَجْهِهِ",
+      "english": "His face",
+      "urdu": "اس کا چہرہ"
+    },
+    {
+      "arabic": "خَرِيفًا",
+      "english": "Years / Autumns",
+      "urdu": "سال / خزاں"
+    }
+  ],
+  "summary": {
+    "urdu": "اللہ کی رضا کے لیے ایک دن کا روزہ انسان کو جہنم سے ستر سال کی مسافت جتنا دور کر دیتا ہے۔",
+    "english": "Fasting a single day for the sake of Allah distances a person from the Hellfire by a span of seventy years."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2840)",
+      "english": "Reported by Al-Bukhari (2840)"
+    },
+    {
+      "arabic": "رواه مسلم (1153)",
+      "english": "Reported by Muslim (1153)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F3XmUqM2l5o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روزے کی فضیلت اور اجر",
+        "english": "Virtue and Reward of Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جہنم سے دوری کا ذریعہ",
+              "english": "Means of Distancing from Hell"
+            },
+            "content": {
+              "urdu": [
+                "صرف ایک دن کا نفلی روزہ انسان کی نجات کا باعث بن سکتا ہے۔",
+                "ستر سال کی مسافت اللہ کی طرف سے بہت بڑی حفاظت کی علامت ہے۔",
+                "یہ اجر اس بات کی عکاسی کرتا ہے کہ اللہ کو روزہ کتنا پسند ہے۔"
+              ],
+              "english": [
+                "A single day of voluntary fasting can lead to a person's salvation.",
+                "A distance of seventy years signifies immense protection from Allah.",
+                "This reward reflects how beloved fasting is to Allah the Almighty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ستر سال کی حقیقت",
+              "english": "Reality of Seventy Years"
+            },
+            "content": {
+              "urdu": [
+                "عربی میں 'ستر' کا لفظ کثرت اور مبالغے کے لیے استعمال ہوتا ہے۔",
+                "اس کا مقصد جہنم سے انتہائی دوری اور مکمل تحفظ کو ظاہر کرنا ہے۔",
+                "خریف کا لفظ سال کے لیے استعمال ہوا ہے جو وقت کی طوالت بتاتا ہے۔"
+              ],
+              "english": [
+                "In Arabic, the number 'seventy' is often used to denote abundance.",
+                "It aims to show extreme distancing and complete safety from Hell.",
+                "The word 'Khareef' (autumn) is used here to represent a full year."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فی سبیل اللہ کی تشریح",
+        "english": "Meaning of 'In the Path of Allah'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خلوصِ نیت",
+              "english": "Sincerity of Intention"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد وہ روزہ ہے جو خالص اللہ کی رضا کے لیے ہو۔",
+                "ریاکاری اور دکھاوے سے پاک عمل ہی مقبولیت پاتا ہے۔",
+                "اخلاص عمل کے اجر کو کئی گنا بڑھا دیتا ہے۔"
+              ],
+              "english": [
+                "It refers to fasting performed purely for the pleasure of Allah.",
+                "Only actions free from showing off and hypocrisy find acceptance.",
+                "Sincerity increases the reward of an action manifold."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میدانِ جہاد میں روزہ",
+              "english": "Fasting During Jihad"
+            },
+            "content": {
+              "urdu": [
+                "کچھ علماء کے نزدیک اس کا مطلب جہاد کے دوران روزہ رکھنا ہے۔",
+                "مشقت کے باوجود عبادت کرنا درجے کو بلند کرتا ہے۔",
+                "تاہم، اگر روزہ لڑائی میں کمزوری لائے تو افطار کرنا بہتر ہے۔"
+              ],
+              "english": [
+                "Some scholars interpret it as fasting while engaged in Jihad.",
+                "Worshipping despite physical hardship elevates one's rank.",
+                "However, if fasting causes weakness during battle, breaking it is better."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفلی روزوں کی ترغیب",
+        "english": "Encouragement for Voluntary Fasts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعمالِ صالحہ میں مسابقت",
+              "english": "Competing in Good Deeds"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مسلمانوں کو کثرت سے روزے رکھنے پر ابھارتی ہے۔",
+                "نفلی روزے فرائض میں رہ جانے والی کمی کا ازالہ کرتے ہیں۔",
+                "اللہ کے مقرب بندے نفلی عبادات کے ذریعے ہی قرب حاصل کرتے ہیں۔"
+              ],
+              "english": [
+                "This Hadith motivates Muslims to fast frequently.",
+                "Voluntary fasts compensate for deficiencies in obligatory ones.",
+                "The close servants of Allah gain proximity through voluntary acts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جسمانی اور روحانی ڈھال",
+              "english": "Physical and Spiritual Shield"
+            },
+            "content": {
+              "urdu": [
+                "روزہ گناہوں سے بچانے والی ایک مضبوط ڈھال ہے۔",
+                "جو دنیا میں ڈھال بنے گا وہی آخرت میں آگ سے بچائے گا۔",
+                "یہ عمل انسان کے تزکیہ نفس کے لیے بہترین ہے۔"
+              ],
+              "english": [
+                "Fasting is a strong shield that protects one from sins.",
+                "What acts as a shield in this world protects from Fire in the next.",
+                "This practice is ideal for the purification of the soul."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصیحت",
+        "english": "Practical Lesson and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت کی قدر",
+              "english": "Valuing Time"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو چاہیے کہ وہ اپنی زندگی کے ایام کو قیمتی بنائے۔",
+                "کبھی کبھار نفلی روزہ رکھ لینا جہنم سے بچاؤ کا سستا سودا ہے۔",
+                "آخرت کی کامیابی کے لیے چھوٹی چھوٹی نیکیاں بھی اہم ہیں۔"
+              ],
+              "english": [
+                "A believer should make the days of his life valuable.",
+                "Fasting occasionally is a small price for protection from Hell.",
+                "Small good deeds are vital for success in the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی رحمت پر یقین",
+              "english": "Faith in Allah's Mercy"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ اپنے بندوں کو بخشنے کے بہانے تلاش کرتا ہے۔",
+                "ہمیں اللہ کے فضل سے کبھی مایوس نہیں ہونا چاہیے۔",
+                "امید اور خوف کے درمیان رہ کر بندگی کرنا اصل ایمان ہے۔"
+              ],
+              "english": [
+                "Allah the Almighty looks for excuses to forgive His servants.",
+                "We must never despair of the grace and bounty of Allah.",
+                "True faith is worshipping between the states of hope and fear."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "english": "Kitab ul Taharat",
+      "arabic": "كتاب الطهارة"
+    },
+    "bookSlug": "kitab-ul-taharat"
+  },
+  {
+    "id": 2,
+    "name": {
+      "english": "Kitab ul Salat",
+      "arabic": "كتاب الصلاة"
+    },
+    "bookSlug": "kitab-ul-salat"
+  },
+  {
+    "id": 3,
+    "name": {
+      "english": "Kitab ul janaiz",
+      "arabic": "كتاب الجنائز"
+    },
+    "bookSlug": "kitab-ul-janaiz"
+  },
+  {
+    "id": 4,
+    "name": {
+      "english": "Kitab ul zakat",
+      "arabic": "كتاب الزكاة"
+    },
+    "bookSlug": "kitab-ul-zakat"
+  },
+  {
+    "id": 5,
+    "name": {
+      "english": "Kitab ul siyam",
+      "arabic": "كتاب الصيام (الصيام)"
+    },
+    "bookSlug": "kitab-ul-siyam"
+  },
+  {
+    "id": 6,
+    "name": {
+      "english": "Kitab ul haj",
+      "arabic": "كتاب الحج (الحج)"
+    },
+    "bookSlug": "kitab-ul-haj"
+  },
+  {
+    "id": 7,
+    "name": {
+      "english": "Kitab ul tijarat",
+      "arabic": "كتاب المعاملات التجارية"
+    },
+    "bookSlug": "kitab-ul-tijarat"
+  },
+  {
+    "id": 8,
+    "name": {
+      "english": "Kitab ul zawaj",
+      "arabic": "كتاب الزواج"
+    },
+    "bookSlug": "kitab-ul-zawaj"
+  },
+  {
+    "id": 9,
+    "name": {
+      "english": "Kitab ul jaraim",
+      "arabic": "كتاب الجنايات (الجرائم)"
+    },
+    "bookSlug": "kitab-ul-jaraim"
+  },
+  {
+    "id": 10,
+    "name": {
+      "english": "Kitab ul hudud",
+      "arabic": "كتاب الحدود (العقوبات المقررة)"
+    },
+    "bookSlug": "kitab-ul-hudud"
+  },
+  {
+    "id": 11,
+    "name": {
+      "english": "Kitab ul jihad",
+      "arabic": "كتاب الجهاد"
+    },
+    "bookSlug": "kitab-ul-jihad"
+  },
+  {
+    "id": 12,
+    "name": {
+      "english": "Kitab ul atama",
+      "arabic": "كتاب الأطعمة"
+    },
+    "bookSlug": "kitab-ul-atama"
+  },
+  {
+    "id": 13,
+    "name": {
+      "english": "Kitab ul eman",
+      "arabic": "كتاب الأيمان والنذور"
+    },
+    "bookSlug": "kitab-ul-eman"
+  },
+  {
+    "id": 14,
+    "name": {
+      "english": "Kitab ul hukm",
+      "arabic": "كتاب الحكم"
+    },
+    "bookSlug": "kitab-ul-hukm"
+  },
+  {
+    "id": 15,
+    "name": {
+      "english": "Kitab ul taharar",
+      "arabic": "كتاب التحرر"
+    },
+    "bookSlug": "kitab-ul-taharar"
+  },
+  {
+    "id": 16,
+    "name": {
+      "english": "Kitab ul shamil",
+      "arabic": "الكتاب الشامل"
+    },
+    "bookSlug": "kitab-ul-shamil"
+  }
+]

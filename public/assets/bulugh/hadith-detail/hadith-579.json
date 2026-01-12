@@ -1,0 +1,259 @@
+{
+  "hadithId": 579,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/579"],
+    "kitabId": 6,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 36
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1773)، ومسلم (1349)، والترمذي (933)، والنسائي (2629)، وابن ماجه (2888).",
+    "urdu": "صحیح۔ اسے بخاری (1773) اور مسلم (1349) نے روایت کیا ہے۔ یہ روایت عمرہ اور حج کی فضیلت کے بارے میں سب سے مستند احادیث میں سے ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1773) and Muslim (1349). It is also found in the Sunan collections of At-Tirmidhi, An-Nasa'i, and Ibn Majah."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْعُمْرَةُ",
+      "english": "Umrah (Minor Pilgrimage)",
+      "urdu": "عمرہ"
+    },
+    {
+      "arabic": "كَفَّارَةٌ",
+      "english": "Expiation / Atonement",
+      "urdu": "کفارہ / مٹانے والا"
+    },
+    {
+      "arabic": "الْمَبْرُورُ",
+      "english": "Accepted / Pure",
+      "urdu": "مبرور / مقبول"
+    },
+    {
+      "arabic": "جَزَاءٌ",
+      "english": "Reward / Recompense",
+      "urdu": "بدلہ / جزا"
+    },
+    {
+      "arabic": "الْجَنَّةَ",
+      "english": "Paradise",
+      "urdu": "جنت"
+    }
+  ],
+  "summary": {
+    "urdu": "عمرے کی تکرار گناہوں کی معافی کا ذریعہ ہے، جبکہ وہ حج جو اللہ کی رضا کے لیے خلوص سے ادا کیا جائے، اس کا یقینی بدلہ صرف جنت ہے۔",
+    "english": "Repeated Umrahs serve as a means of erasing sins, while Hajj Mabrur (an accepted Hajj) guarantees the ultimate reward of Paradise."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1773)",
+      "english": "Reported by Al-Bukhari (1773)"
+    },
+    {
+      "arabic": "رواه مسلم (1349)",
+      "english": "Reported by Muslim (1349)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dusi"
+      },
+      "slug": "abu-hurairah-al-dusi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عمرہ کی فضیلت اور گناہوں کا مٹنا",
+        "english": "Excellence of Umrah and Forgiveness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گناہوں کا کفارہ",
+              "english": "Expiation of Sins"
+            },
+            "content": {
+              "urdu": [
+                "عمرہ کرنے سے پچھلے عمرے تک کے تمام صغیرہ گناہ معاف ہو جاتے ہیں۔",
+                "یہ اللہ کی رحمت ہے کہ وہ بار بار حاضری پر بندے کو پاک کر دیتا ہے۔",
+                "کبیرہ گناہوں کے لیے توبہ کی ضرورت ہوتی ہے لیکن صغیرہ اعمالِ صالحہ سے مٹ جاتے ہیں۔"
+              ],
+              "english": [
+                "Performing Umrah erases all minor sins committed since the previous one.",
+                "It reflects Allah's mercy, as frequent visits to His House purify the believer.",
+                "While major sins require sincere repentance, minor sins are wiped by good deeds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عمرے کی تکرار کا استحباب",
+              "english": "Recommendation of Frequent Umrah"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے معلوم ہوتا ہے کہ سال میں ایک سے زیادہ عمرے کرنا مستحب ہے۔",
+                "عمرہ نیکیوں میں اضافے اور گناہوں کی دھلائی کا ایک مستقل ذریعہ ہے۔",
+                "سلف صالحین کثرت سے بیت اللہ کا سفر کر کے اپنے ایمان کو تازگی دیتے تھے۔"
+              ],
+              "english": [
+                "This Hadith indicates that performing multiple Umrahs in a year is recommended.",
+                "Umrah is a continuous means for increasing rewards and cleansing from sins.",
+                "The righteous predecessors frequently visited the Kaaba to refresh their faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حج مبرور کی حقیقت اور اجر",
+        "english": "Reality and Reward of Hajj Mabrur"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حج مبرور سے کیا مراد ہے؟",
+              "english": "What is Hajj Mabrur?"
+            },
+            "content": {
+              "urdu": [
+                "وہ حج جس میں کوئی گناہ، ریاکاری یا فسق و فجور شامل نہ ہو۔",
+                "جس حج کے بعد انسان کی زندگی میں واضح نیکی اور تبدیلی نظر آئے۔",
+                "مبرور وہ ہے جو سنت نبوی کے مطابق تمام ارکان کے ساتھ ادا کیا جائے۔"
+              ],
+              "english": [
+                "It is the Hajj free from sin, showing off (Riya), or any disobedience.",
+                "A Hajj after which a person's life shows a visible change towards righteousness.",
+                "Mabrur is that performed correctly according to the Sunnah with all its pillars."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صرف جنت کا وعدہ",
+              "english": "Promise of Paradise Alone"
+            },
+            "content": {
+              "urdu": [
+                "حج مبرور کا صلہ صرف جنت ہے، یعنی اس کا ثواب عام نیکیوں سے بڑھ کر ہے۔",
+                "حج مبرور کرنے والا اپنے گناہوں سے ایسا پاک ہو جاتا ہے جیسے آج پیدا ہوا ہو۔",
+                "یہ عبادت مالی اور بدنی مشقت کا مجموعہ ہے، اس لیے اس کا اجر بھی عظیم ہے۔"
+              ],
+              "english": [
+                "The reward for Hajj Mabrur is nothing less than Paradise, exceeding normal rewards.",
+                "One who performs Hajj Mabrur returns as sinless as the day they were born.",
+                "As Hajj combines both financial and physical sacrifice, its reward is equally vast."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی نکات",
+        "english": "Juristic and Educational Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حلال رزق کی اہمیت",
+              "english": "Importance of Halal Earnings"
+            },
+            "content": {
+              "urdu": [
+                "حج کی قبولیت کے لیے سب سے بنیادی شرط حلال مال کا ہونا ہے۔",
+                "حرام مال سے کیا گیا حج 'مبرور' نہیں کہلا سکتا اور نہ وہ اجر کا باعث ہے۔",
+                "دین میں اخلاص اور پاکیزہ مال ہی عمل کو اللہ کے ہاں مقبول بناتے ہیں۔"
+              ],
+              "english": [
+                "The primary condition for Hajj to be accepted is using Halal (lawful) wealth.",
+                "Hajj performed with unlawful wealth cannot be 'Mabrur' or earn the promised reward.",
+                "Sincerity and pure earnings are what make an act acceptable to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاق کی درستی",
+              "english": "Refinement of Character"
+            },
+            "content": {
+              "urdu": [
+                "حج کے دوران صبر اور خوش اخلاقی کا مظاہرہ اسے مبرور بناتا ہے۔",
+                "لوگوں کو کھانا کھلانا اور نرم گفتگو کرنا حج کے بڑے مقاصد میں سے ہے۔",
+                "حج ایک عملی تربیت گاہ ہے جو مسلمان کو ضبط نفس اور بھائی چارہ سکھاتی ہے۔"
+              ],
+              "english": [
+                "Demonstrating patience and good character during Hajj makes it Mabrur.",
+                "Feeding people and speaking kindly are among the major objectives of Hajj.",
+                "Hajj is a practical training ground teaching self-control and brotherhood."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفرِ آخرت کی تیاری",
+              "english": "Preparing for the Final Journey"
+            },
+            "content": {
+              "urdu": [
+                "حج اور عمرہ ہمیں کفن (احرام) پہن کر اللہ کے حضور پیشی کی یاد دلاتے ہیں۔",
+                "یہ عمل دنیا کی بے ثباتی اور آخرت کی فکر پیدا کرنے کا ذریعہ ہے۔",
+                "ایک حاجی کو چاہیے کہ واپسی پر اپنی توبہ اور نیک اعمال پر قائم رہے۔"
+              ],
+              "english": [
+                "Hajj and Umrah remind us of standing before Allah while wearing the shroud (Ihram).",
+                "This act instills awareness of the world's transience and concern for the hereafter.",
+                "A pilgrim must remain steadfast in repentance and good deeds after returning."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی رحمت سے امید",
+              "english": "Hope in Allah's Mercy"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مایوس گناہگاروں کے لیے خوشخبری ہے کہ اللہ معاف کرنے والا ہے۔",
+                "حج و عمرہ کے ذریعے زندگی کے نئے سفر کا آغاز کیا جا سکتا ہے۔",
+                "مومن کو چاہیے کہ وہ اللہ سے حسن ظن رکھے اور ان مبارک عبادات کی تڑپ رکھے۔"
+              ],
+              "english": [
+                "This Hadith is glad tidings for sinners, proving that Allah is truly the Forgiver.",
+                "Hajj and Umrah offer a chance to start a completely new chapter of life.",
+                "A believer should hold good expectations of Allah and long for these blessed acts."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "hadithId": 495,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:1483",
+      "https://sunnah.com/abudawud:1596"
+    ],
+    "kitabId": 4,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 29
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1483)، وأبو داود (1596). والعثري: هو الزرع الذي يشرب بعروقه من ماء المطر أو رطوبة الأرض دون سقي آلي.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (1483) اور ابوداؤد (1596) نے روایت کیا ہے۔ 'عثری' اس زراعت کو کہتے ہیں جو بغیر کسی مشقت کے صرف زمین کی رطوبت یا بارش سے سیراب ہو۔",
+    "english": "Authentic. Reported by Al-Bukhari (1483) and Abu Dawud (1596). 'Athari' refers to crops that drink through their roots from rainwater or ground moisture without artificial irrigation."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْعُشْرُ",
+      "english": "One-tenth (10%)",
+      "urdu": "دسواں حصہ (عشر)"
+    },
+    {
+      "arabic": "نِصْفُ اَلْعُشْرِ",
+      "english": "One-twentieth (5%)",
+      "urdu": "بیسواں حصہ (نصف عشر)"
+    },
+    {
+      "arabic": "عَثَرِيًّا",
+      "english": "Naturally watered",
+      "urdu": "خود بخود سیراب ہونے والی"
+    },
+    {
+      "arabic": "بِالنَّضْحِ",
+      "english": "Artificial irrigation / Lifting water",
+      "urdu": "پانی کھینچ کر سیراب کرنا"
+    },
+    {
+      "arabic": "السَّوَانِي",
+      "english": "Water-carrying animals",
+      "urdu": "پانی لانے والے جانور"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں زرعی پیداوار پر زکوٰۃ (عشر) کی شرح بیان کی گئی ہے۔ بارش اور قدرتی ذرائع سے سیراب ہونے والی فصل پر 10 فیصد اور مصنوعی ذرائع (ٹیوب ویل وغیرہ) سے سیراب ہونے والی فصل پر 5 فیصد زکوٰۃ واجب ہے۔",
+    "english": "This Hadith specifies the Zakat rates on agricultural produce: 10% for crops naturally irrigated (rain/springs) and 5% for crops requiring artificial irrigation and extra labor/expense."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1483)",
+      "english": "Sahih al-Bukhari (1483)"
+    },
+    {
+      "arabic": "سنن أبي داود (1596)",
+      "english": "Sunan Abu Dawud (1596)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سالم بن عبد الله بن عمر",
+        "english": "Salim bin 'Abdullah bin 'Umar"
+      },
+      "slug": "salim-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_rOun7K5bY",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عشر اور نصف عشر کے احکام",
+        "english": "Rulings on Ushr and Half-Ushr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قدرتی ذرائع پر شرح (10٪)",
+              "english": "Rate for Natural Sources (10%)"
+            },
+            "content": {
+              "urdu": [
+                "جس زمین کو سیراب کرنے کے لیے کسان کو مشقت نہ کرنی پڑے اور نہ ہی خرچہ کرنا پڑے، اس کی پیداوار پر دسواں حصہ (10٪) زکوٰۃ ہے۔",
+                "اس میں بارش کا پانی، چشمے، دریا یا زمین کی ایسی نمی شامل ہے جس سے پودے خود بخود جڑیں گیلی کر لیں۔",
+                "چونکہ یہاں اللہ کی رحمت زیادہ ہے اور انسان کی محنت کم، اس لیے زکوٰۃ کی شرح زیادہ رکھی گئی ہے۔"
+              ],
+              "english": [
+                "Land irrigated without farmer labor or expense (rain, springs, rivers) requires a 10% Zakat.",
+                "This includes 'Athari' crops that sustain themselves through ground moisture or natural floodwaters.",
+                "Since natural bounty is higher and human cost lower, the Zakat rate is higher."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مصنوعی ذرائع پر شرح (5٪)",
+              "english": "Rate for Artificial Sources (5%)"
+            },
+            "content": {
+              "urdu": [
+                "اگر پانی کھینچنے کے لیے ٹیوب ویل، انجن، جانوروں یا دیگر آلات کا استعمال کیا جائے، تو پیداوار پر بیسواں حصہ (5٪) زکوٰۃ ہے۔",
+                "شریعت نے کسان کے ان اخراجات اور محنت کی رعایت کرتے ہوئے زکوٰۃ کی شرح آدھی کر دی ہے۔",
+                "اسے اصطلاح میں 'نصف عشر' کہا جاتا ہے۔"
+              ],
+              "english": [
+                "If irrigation requires mechanical pumps, engines, animals, or purchased water, the rate is 5%.",
+                "Shariah halves the Zakat rate to compensate for the farmer's expenses and extra labor.",
+                "This is technically known as 'Nisf-Ushr' (Half-Tenth)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عشر کے وجوب کی شرائط",
+        "english": "Conditions for Ushr Obligation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نصاب اور ادائیگی کا وقت",
+              "english": "Threshold and Timing"
+            },
+            "content": {
+              "urdu": [
+                "جمہور کے نزدیک عشر تب واجب ہوتا ہے جب پیداوار 5 وسق (تقریباً 653 کلوگرام) کو پہنچ جائے۔",
+                "امام ابوحنیفہ کے نزدیک زمین سے نکلنے والی ہر تھوڑی یا زیادہ پیداوار پر عشر واجب ہے۔",
+                "عشر کے لیے 'سال گزرنے' کی شرط نہیں ہے بلکہ ہر فصل کٹنے پر اسے ادا کیا جائے گا۔"
+              ],
+              "english": [
+                "The majority hold that Ushr is due if produce reaches 5 Wasqs (approx. 653 kg).",
+                "Imam Abu Hanifa views Ushr as due on any amount of produce, small or large.",
+                "Unlike cash Zakat, a one-year possession is not required; it is due upon harvest."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخراجات کی کٹوتی",
+              "english": "Deduction of Expenses"
+            },
+            "content": {
+              "urdu": [
+                "جدید فقہاء کے نزدیک بیج، کھاد اور کیڑے مار ادویات کے اخراجات نکالنے کے بعد بچنے والی پیداوار پر عشر کا حساب کیا جا سکتا ہے۔",
+                "اگر فصل کا کچھ حصہ دونوں طریقوں (بارش اور ٹیوب ویل) سے سیراب ہو، تو اس کا اوسط (7.5٪) نکالا جائے گا۔",
+                "اسلام کا معاشی نظام کسانوں کی حالت اور فصل کی لاگت کا مکمل لحاظ رکھتا ہے۔"
+              ],
+              "english": [
+                "Modern jurists allow deducting costs of seeds, fertilizers, and pesticides before calculating Ushr.",
+                "If a crop is watered by both methods (rain and pump), a blended rate (7.5%) is applied.",
+                "The Islamic economic system fully considers the farmer's status and production costs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور روحانی اہمیت",
+        "english": "Social and Spiritual Importance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کا شکر اور غریبوں کا حق",
+              "english": "Gratitude to Allah and Rights of the Poor"
+            },
+            "content": {
+              "urdu": [
+                "عشر ادا کرنا درحقیقت زمین سے اناج اگانے پر اللہ تعالیٰ کا عملی شکر ادا کرنا ہے۔",
+                "یہ مال غریبوں اور مسکینوں کا حق ہے، اسے روکنا اللہ کی نعمت کی ناشکری ہے۔",
+                "عشر کی ادائیگی سے رزق میں برکت اور آفات سے حفاظت حاصل ہوتی ہے۔"
+              ],
+              "english": [
+                "Paying Ushr is a practical way of thanking Allah for the harvest.",
+                "This portion is the right of the poor; withholding it is ingratitude for Allah's bounty.",
+                "Fulfilling this duty brings barakah (blessing) and protection from agricultural calamities."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال اور توازن",
+              "english": "Moderation and Balance"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے محنت اور سہولت کے درمیان جو فرق کیا ہے، وہ عدلِ الہیٰ کا مظہر ہے۔",
+                "اسلام صرف عبادات کا نام نہیں بلکہ یہ معاشی توازن قائم کرنے کا نظام بھی ہے۔",
+                "عشر کا نظام دیہی علاقوں میں غربت ختم کرنے کا سب سے بڑا ذریعہ ہے۔"
+              ],
+              "english": [
+                "The distinction between labor-intensive and natural irrigation manifests Divine Justice.",
+                "Islam is not just rituals; it is a system that establishes economic equilibrium.",
+                "The Ushr system is the primary tool for alleviating poverty in rural areas."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

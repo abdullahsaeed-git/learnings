@@ -1,0 +1,255 @@
+{
+  "hadithId": 864,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/54"],
+    "kitabId": 8,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب النكاح",
+    "babId": 65
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف جدا . رواه الحاكم (4/34)، وفي إسناده جميل بن زيد وهو مجهول، واضطرب فيه اضطراباً شديداً. قال البخاري: لم يصح حديثه، وقال ابن معين: ليس بثقة.",
+    "urdu": "یہ روایت بہت ضعیف ہے۔ اسے حاکم نے روایت کیا ہے لیکن اس کی سند میں جمیل بن زید مجہول راوی ہے اور اس کی سند میں سخت اضطراب پایا جاتا ہے۔ امام بخاری نے فرمایا کہ اس کی حدیث صحیح نہیں ہے۔",
+    "english": "Extremely weak. Reported by Al-Hakim (4/34). Its chain contains Jamil bin Zaid, who is an unknown (Majhul) narrator, and the report suffers from severe inconsistency (Idtirab). Al-Bukhari and Ibn Ma'in graded it as unreliable."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَنِي غِفَارٍ",
+      "english": "Banu Ghifar (Tribe)",
+      "urdu": "بنو غفار (قبیلہ)"
+    },
+    {
+      "arabic": "كَشْحِهَا",
+      "english": "Her flank / side",
+      "urdu": "اس کا پہلو"
+    },
+    {
+      "arabic": "بَيَاضًا",
+      "english": "Whiteness (Leucoderma)",
+      "urdu": "سفیدی / برص"
+    },
+    {
+      "arabic": "اِلْبَسِي",
+      "english": "Put on / Wear",
+      "urdu": "پہن لو"
+    },
+    {
+      "arabic": "بِالصَّدَاقِ",
+      "english": "With the dower (Mahr)",
+      "urdu": "مہر کے ساتھ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس ضعیف روایت میں نکاح کے بعد جسمانی عیب ظاہر ہونے کی صورت میں علیحدگی اور مہر کی ادائیگی کا ذکر ہے، جس سے فقہاء نے خیارِ عیب کے مسائل اخذ کیے ہیں۔",
+    "english": "This weak narration discusses separation and the payment of dower if a physical defect is discovered after marriage, from which jurists derive rulings on annulment due to defects."
+  },
+  "references": [
+    {
+      "arabic": "المستدرك للحاكم، كتاب النكاح، رقم الحديث ٢٨٠٥",
+      "english": "Al-Mustadrak Al-Hakim, Book of Marriage, Hadith No. 2805"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "كعب بن عجرة",
+        "english": "Ka'b bin 'Ujrah"
+      },
+      "slug": "kab-bin-ujrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Qf8vB7s4M",
+  "grade": {
+    "arabic": "ضعيف جداً",
+    "english": "Extremely Weak"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نکاح میں عیوب کا ظاہر ہونا",
+        "english": "Discovery of Defects in Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خیارِ عیب کا شرعی حق",
+              "english": "Shariah Right to Annulment (Khiyar al-Aib)"
+            },
+            "content": {
+              "urdu": [
+                "اگر نکاح کے بعد میاں بیوی میں سے کسی کو دوسرے کے ایسے عیب کا پتہ چلے جو پہلے چھپایا گیا تھا، تو اسے علیحدگی کا حق حاصل ہے۔",
+                "فقہاء کے نزدیک برص (پھلبہری)، جذام اور جنسی نقائص ایسے عیوب ہیں جن کی بنیاد پر نکاح فسخ کیا جا سکتا ہے۔",
+                "اس حق کا مقصد میاں بیوی کو ایسی تکلیف سے بچانا ہے جو ازدواجی زندگی میں رکاوٹ بنے۔"
+              ],
+              "english": [
+                "If either spouse discovers a hidden defect in the other after marriage, they have the right to seek annulment.",
+                "Jurists include conditions like leprosy, vitiligo, and sexual dysfunction as valid grounds for ending the contract.",
+                "This right is granted to protect individuals from undue hardship that hinders a healthy marital relationship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عیب چھپانے کی ممانعت",
+              "english": "Prohibition of Hiding Defects"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں رشتہ طے کرتے وقت کسی بھی بڑے جسمانی یا ذہنی عیب کو چھپانا دھوکہ دہی شمار ہوتا ہے۔",
+                "دیانت داری کا تقاضا ہے کہ فریقین ایک دوسرے کو تمام اہم حقائق سے آگاہ کریں تاکہ بعد میں پشیمانی نہ ہو۔",
+                "دھوکے کی بنیاد پر قائم ہونے والا رشتہ معاشرتی اور اخلاقی طور پر کمزور ہوتا ہے۔"
+              ],
+              "english": [
+                "In Islam, concealing major physical or mental defects during marriage negotiations is considered a form of deception.",
+                "Honesty requires both parties to disclose relevant facts to prevent future regret and legal disputes.",
+                "A relationship built on deception is socially and morally fragile and lacks divine blessing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مہر کی ادائیگی کا حکم",
+        "english": "Ruling on the Payment of Mahr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خلوتِ صحیحہ کے بعد مہر",
+              "english": "Mahr After Valid Privacy"
+            },
+            "content": {
+              "urdu": [
+                "اگر خلوت (تنہائی) ہو چکی ہو تو عورت پورے مہر کی حقدار بن جاتی ہے، خواہ علیحدگی عیب کی بنیاد پر ہو۔",
+                "شریعت نے عورت کے حقِ مہر کو اس لیے محفوظ رکھا ہے تاکہ اس کی عزت اور مالی مفاد کا تحفظ ہو۔",
+                "اگر علیحدگی دخول یا خلوت سے پہلے ہو جائے تو مہر کے احکامات مختلف ہوتے ہیں۔"
+              ],
+              "english": [
+                "If valid privacy (Khalwa) has occurred, the woman is entitled to the full dower, even if separation is due to a defect.",
+                "Shariah secures the woman's right to Mahr to protect her dignity and financial interests during transitions.",
+                "If separation happens before consummation or valid privacy, the rules for Mahr differ accordingly."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوقِ زوجیت کا احترام",
+              "english": "Respecting Marital Rights"
+            },
+            "content": {
+              "urdu": [
+                "علیحدگی کے وقت بھی نبی ﷺ کا مہر دینے کا حکم فرمانا عورت کے حقوق کی پاسداری کو ظاہر کرتا ہے۔",
+                "اسلام نے کسی بھی حال میں عورت کو بے سہارا چھوڑنے یا اس کا حق مارنے سے منع فرمایا ہے۔",
+                "مہر ایک واجب حق ہے جو نکاح کے بندھن کی سنجیدگی کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) instruction to pay Mahr even during separation highlights the sanctity of women's rights.",
+                "Islam prohibits leaving a woman stranded or depriving her of her legal dues under any circumstance.",
+                "Mahr is a mandatory right that signifies the seriousness and commitment of the marriage contract."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روایت کا علمی و فنی تجزیہ",
+        "english": "Scholarly and Technical Analysis"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کی کمزوری",
+              "english": "Weakness of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک یہ روایت 'ضعیف جدا' ہے کیونکہ اس کا راوی جمیل بن زید ناقابلِ اعتبار ہے۔",
+                "امام بخاری اور ابن معین جیسے جلیل القدر ائمہ نے اس روایت کو مستند تسلیم نہیں کیا ہے۔",
+                "اسلامی احکام کی بنیاد صرف صحیح اور پختہ روایات پر رکھی جاتی ہے۔"
+              ],
+              "english": [
+                "Critics categorize this narration as 'very weak' because Jamil bin Zaid is considered unreliable.",
+                "Great masters like Al-Bukhari and Ibn Ma'in did not accept this report as an authentic historical event.",
+                "Islamic legal principles are established only upon sound (Sahih) and well-attested narrations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مفہوم کی تائید",
+              "english": "Support for the Meaning"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ خاص واقعہ ضعیف ہے، لیکن عیوب کی وجہ سے نکاح فسخ کرنے کا اصول دیگر صحیح دلائل سے ثابت ہے۔",
+                "سیدنا عمر رضی اللہ عنہ سے بھی اسی قسم کے فیصلے منقول ہیں جو اس مفہوم کی تائید کرتے ہیں۔",
+                "فقہ میں اس ضعیف حدیث کے بجائے عمومی شرعی اصولوں اور دیگر آثار پر عمل کیا جاتا ہے۔"
+              ],
+              "english": [
+                "While this specific incident is weak, the principle of annulment due to defects is proven by other authentic evidences.",
+                "Similar rulings are reported from Umar (RA), which provide weight to the underlying juristic concept.",
+                "In Fiqh, practice is based on general Shariah maxims and other reliable traditions rather than this specific weak report."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اعلیٰ اخلاق اور نبوی طرزِ عمل",
+        "english": "Noble Character and Prophetic Conduct"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شائستگی کے ساتھ علیحدگی",
+              "english": "Separation with Decency"
+            },
+            "content": {
+              "urdu": [
+                "اگر یہ واقعہ پیش آیا تو اس میں نبی ﷺ نے کمالِ شائستگی کے ساتھ اسے گھر واپس بھیجنے کا حکم دیا۔",
+                "آپ ﷺ نے اس کی پردہ پوشی کا حکم دیا (کپڑے پہن لو) تاکہ اسے شرمندگی کا سامنا نہ کرنا پڑے۔",
+                "اسلام ہمیں سکھاتا ہے کہ اگر نباہ نہ ہو سکے تو 'احسان' کے ساتھ علیحدگی اختیار کرنی چاہیے۔"
+              ],
+              "english": [
+                "If the incident occurred, the Prophet (ﷺ) ordered her return with the utmost decency and politeness.",
+                "He commanded her to cover herself immediately to protect her from embarrassment and loss of dignity.",
+                "Islam teaches that if reconciliation is impossible, separation should be done with kindness (Ihsan)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی بشرتی حیثیت",
+              "english": "Human Nature of the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "یہ روایت اس بات کی طرف اشارہ کرتی ہے کہ نبی ﷺ کو غیب کا وہ علم نہیں تھا جو اللہ نے نہیں دیا تھا۔",
+                "آپ ﷺ نے ایک عام انسان کی طرح نکاح کیا اور حالات سامنے آنے پر شرعی فیصلہ فرمایا۔",
+                "یہ پہلو نبی ﷺ کی زندگی کو ہمارے لیے ایک عملی اور قابلِ تقلید نمونہ بناتا ہے۔"
+              ],
+              "english": [
+                "This report suggests the Prophet (ﷺ) did not possess knowledge of the unseen except what Allah revealed.",
+                "He engaged in marriage as a human being and applied Shariah rulings once circumstances became apparent.",
+                "This human aspect makes the Prophet's (ﷺ) life a practical and relatable model for all of humanity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

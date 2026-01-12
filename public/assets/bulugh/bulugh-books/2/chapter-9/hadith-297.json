@@ -1,0 +1,267 @@
+{
+  "hadithId": 297,
+  "hadithNo": 18,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/abudawud:1419"],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "سنن أبي داود",
+    "babId": 19
+  },
+  "name": {
+    "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ بُرَيْدَةَ , عَنْ أَبِيهِ قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ اَلْوِتْرُ حَقٌّ, فَمَنْ لَمْ يُوتِرْ فَلَيْسَ مِنَّا } أَخْرَجَهُ أَبُو دَاوُدَ بِسَنَد لَيِّنٍ, وَصَحَّحَهُ اَلْحَاكِمُ . وَلَهُ شَاهِدٌ ضَعِيفٌ عَنْ أَبِي هُرَيْرَةَ عِنْدَ أَحْمَدَ .",
+    "urdu": "سیدنا عبداللہ بن بریدہ رضی اللہ عنہ اپنے والد (سیدنا بریدہ رضی اللہ عنہ) سے روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”وتر حق (ضروری) ہے، سو جس نے وتر نہ پڑھے اس کا ہم سے کوئی تعلق نہیں۔“ (اسے ابوداؤد نے کمزور سند کے ساتھ روایت کیا ہے اور حاکم نے اسے صحیح کہا ہے۔ احمد کے پاس سیدنا ابوہریرہ رضی اللہ عنہ سے اس کا ایک شاہد بھی ہے مگر وہ ضعیف ہے)",
+    "english": "Narrated Abdullah bin Buraidah (RA) from his father: The Messenger of Allah (ﷺ) said: \"The Witr is a right (duty), so whoever does not pray Witr is not of us.\" (Reported by Abu Dawud with a soft [weak] chain, and authenticated by Al-Hakim. It has a weak supporting narration from Abu Hurairah in Musnad Ahmad.)"
+  },
+  "takhreej": {
+    "arabic": "ضعيف .‏ رواه أبو داود ( 1419 )‏ ، والحاكم ( 1 / 305 ‏- 306 )‏ .‏ وأحمد ( 5 / 357 )‏ .‏ وإسناد أبي داود ضعيف ؛ لضعف عبيد الله بن عبد الله بن بريدة ، وقال الحافظ في \" التقريب \" : \" لين الحديث \" .‏ وضعفه أحمد ، والدارقطني .‏",
+    "urdu": "ضعیف۔ اسے ابوداؤد (1419)، حاکم (1/305-306) اور احمد (5/357) نے روایت کیا ہے۔ ابوداؤد کی سند عبید اللہ بن عبداللہ بن بریدہ کی وجہ سے ضعیف ہے جسے حافظ ابن حجر نے 'لین الحدیث' (کمزور) کہا ہے۔ امام احمد اور دارقطنی نے بھی اسے ضعیف قرار دیا ہے۔",
+    "english": "Weak. Reported by Abu Dawud (1419), Al-Hakim (1/305-306), and Ahmad (5/357). The chain in Abu Dawud is weak due to Ubaydullah bin Abdullah bin Buraidah, whom Al-Hafiz called 'Layyin al-Hadith' (soft in Hadith). Ahmad and Ad-Daraqutni also weakened it."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَقٌّ",
+      "english": "Right / Truth / Duty",
+      "urdu": "حق / ضروری / سچ"
+    },
+    {
+      "arabic": "لَمْ يُوتِرْ",
+      "english": "Did not pray Witr",
+      "urdu": "وتر نہیں پڑھے"
+    },
+    {
+      "arabic": "فَلَيْسَ مِنَّا",
+      "english": "He is not of us",
+      "urdu": "وہ ہم میں سے نہیں"
+    },
+    {
+      "arabic": "لَيِّنٍ",
+      "english": "Soft / Weak",
+      "urdu": "نرم / کمزور"
+    },
+    {
+      "arabic": "شَاهِدٌ",
+      "english": "Witness / Supporting evidence",
+      "urdu": "شاہد / تائیدی روایت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وتر چھوڑنے پر سخت وعید سناتی ہے کہ ایسا شخص نبی ﷺ کے طریقے پر نہیں ہے، اگرچہ سند کے اعتبار سے یہ روایت کمزور ہے لیکن وتر کی تاکید کو ظاہر کرتی ہے۔",
+    "english": "This Hadith issues a severe warning against neglecting Witr, stating that such a person is not following the Prophet's way. Although the chain is weak, it highlights the emphasis on Witr."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1419)",
+      "english": "Reported by Abu Dawud (1419)"
+    },
+    {
+      "arabic": "رواه الحاكم (1/305)",
+      "english": "Reported by Al-Hakim (1/305)"
+    },
+    {
+      "arabic": "رواه أحمد (5/357)",
+      "english": "Reported by Ahmad (5/357)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "بُرَيْدَةَ بْنِ الْحُصَيْبِ",
+        "english": "Buraidah bin Al-Husaib"
+      },
+      "slug": "buraidah-bin-al-husaib"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لیس منا کا مطلب",
+              "english": "Meaning of 'Not of us'"
+            },
+            "content": {
+              "urdu": [
+                "اس وعید کا مطلب یہ نہیں کہ وہ اسلام سے خارج ہے یا کافر ہے۔",
+                "اس سے مراد یہ ہے کہ وہ ہمارے طریقے اور سنت پر نہیں ہے۔",
+                "یہ الفاظ سخت تنبیہ اور ناراضگی کے اظہار کے لیے استعمال ہوتے ہیں۔"
+              ],
+              "english": [
+                "This warning does not mean he is expelled from Islam or is a disbeliever.",
+                "It means he is not following our path and Sunnah.",
+                "These words are used to express severe warning and displeasure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وتر کی تاکید",
+              "english": "Emphasis on Witr"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں وتر کو 'حق' کہا گیا ہے، یعنی یہ ایک ثابت شدہ اور لازم امر ہے۔",
+                "نبی ﷺ نے وتر چھوڑنے والے سے لاتعلقی کا اظہار فرمایا۔",
+                "یہ اس بات کی دلیل ہے کہ وتر عام نفل نہیں بلکہ انتہائی اہم عبادت ہے۔"
+              ],
+              "english": [
+                "The Hadith calls Witr 'Haqq', meaning it is established and binding.",
+                "The Prophet (ﷺ) expressed disassociation from one who neglects it.",
+                "This proves Witr is not an ordinary voluntary act but a very important worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی استدلال",
+        "english": "Juristic Deduction"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وجوب کی دلیل",
+              "english": "Evidence for Obligation"
+            },
+            "content": {
+              "urdu": [
+                "احناف اس حدیث سے وتر کے واجب ہونے پر استدلال کرتے ہیں۔",
+                "ان کے نزدیک 'لیس منا' کی وعید صرف واجب یا فرض چھوڑنے پر ہی دی جا سکتی ہے۔",
+                "تاہم، سند کی کمزوری کی وجہ سے جمہور اسے فرضیت کی دلیل نہیں مانتے۔"
+              ],
+              "english": [
+                "Hanafis deduce the obligation (Wujub) of Witr from this Hadith.",
+                "According to them, the threat 'not of us' implies omission of a Wajib.",
+                "However, due to the weak chain, the majority do not accept it as proof of Fard."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سند کا حال",
+              "english": "Status of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "حافظ ابن حجر نے اسے 'سند لین' (کمزور سند) کہا ہے۔",
+                "حاکم نے اسے صحیح کہا، لیکن محدثین حاکم کی تصحیح میں تساہل (نرمی) مانتے ہیں۔",
+                "اس لیے یہ حدیث فضیلت اور تاکید کے لیے تو ہے، احکام کے لیے نہیں۔"
+              ],
+              "english": [
+                "Al-Hafiz called it 'Sanad Layyin' (soft/weak chain).",
+                "Al-Hakim authenticated it, but scholars consider him lenient in grading.",
+                "Therefore, this Hadith serves for virtue and emphasis, not for strict rulings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کی قدر",
+              "english": "Valuing Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں نبی ﷺ کی ناراضگی سے ڈرنا چاہیے۔",
+                "وتر جیسی اہم نماز کو کبھی قضا نہیں کرنا چاہیے۔",
+                "اگر چھوٹ جائے تو اس کی قضا پڑھ لینی چاہیے۔"
+              ],
+              "english": [
+                "We should fear the displeasure of the Prophet (ﷺ).",
+                "Such an important prayer like Witr should never be missed.",
+                "If missed, it should be made up (Qada)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گروہ بندی کا مفہوم",
+              "english": "Concept of Belonging"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان ہونے کا دعویٰ تب سچا ہے جب عمل بھی نبی ﷺ والا ہو۔",
+                "جو شخص سنتوں سے منہ موڑتا ہے، اس کا تعلق کمزور پڑ جاتا ہے۔",
+                "نبی ﷺ کے گروہ میں شامل رہنے کے لیے ان کے طریقے پر چلنا ضروری ہے۔"
+              ],
+              "english": [
+                "The claim of being Muslim is true when actions align with the Prophet (ﷺ).",
+                "One who turns away from Sunnah weakens his connection.",
+                "To remain in the Prophet's group, following his path is essential."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لین الحدیث",
+              "english": "Layyin al-Hadith"
+            },
+            "content": {
+              "urdu": [
+                "یہ جرح و تعدیل کی ایک اصطلاح ہے جس کا مطلب 'حدیث میں نرمی' ہے۔",
+                "ایسا راوی مکمل متروک نہیں ہوتا لیکن اس کی یادداشت کمزور ہوتی ہے۔",
+                "اس کی روایت شواہد کے ساتھ مل کر 'حسن' بن سکتی ہے، اکیلی نہیں۔"
+              ],
+              "english": [
+                "This is a term in Jarh wa Ta'deel meaning 'soft in Hadith'.",
+                "Such a narrator is not rejected, but has weak memory.",
+                "His narration can become 'Hasan' with support, but not on its own."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "متن کی سختی",
+              "english": "Severity of Text"
+            },
+            "content": {
+              "urdu": [
+                "بعض اوقات ضعیف حدیث کا متن بھی دل کو ہلا دینے والا ہوتا ہے۔",
+                "محدثین متن کی سختی کو دیکھ کر بھی راویوں پر مزید تحقیق کرتے ہیں۔",
+                "ایسی احادیث کو ترغیب و ترہیب (فضائل و وعید) کے باب میں بیان کیا جاتا ہے۔"
+              ],
+              "english": [
+                "Sometimes the text of a weak Hadith is shaking/severe.",
+                "Scholars investigate narrators further upon seeing severe texts.",
+                "Such Hadiths are narrated in chapters of encouragement and warning."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

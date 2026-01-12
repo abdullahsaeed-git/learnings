@@ -1,0 +1,259 @@
+{
+  "hadithId": 588,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/6/10"],
+    "kitabId": 6,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الحج",
+    "babId": 36
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (1811)، وابن ماجه (2903)، وابن حبان (3629). والراجح عند الإمام أحمد أنه موقوف من قول ابن عباس، لكنه في حكم المرفوع لأن مثله لا يقال بالرأي.",
+    "urdu": "صحیح۔ اسے ابوداؤد (1811) اور ابن ماجہ (2903) نے روایت کیا ہے۔ اگرچہ امام احمد نے اسے موقوف قرار دیا ہے، لیکن شرعی ضابطے کے مطابق یہ حکم مرفوع کے درجے میں ہے کیونکہ حج کے احکام اپنی رائے سے طے نہیں کیے جا سکتے۔",
+    "english": "Sahih. Reported by Abu Dawud (1811) and Ibn Majah (2903). While Imam Ahmad viewed it as a statement of Ibn Abbas (Mauquf), it carries the authority of a Prophetic command (Marfu') as such legal criteria are not based on personal opinion."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَبَّيْكَ",
+      "english": "At your service / Here I am",
+      "urdu": "میں حاضر ہوں"
+    },
+    {
+      "arabic": "شُبْرُمَةَ",
+      "english": "Shubrumah (A proper name)",
+      "urdu": "شبرمہ (ایک نام)"
+    },
+    {
+      "arabic": "قَرِيبٌ",
+      "english": "Relative",
+      "urdu": "رشتہ دار"
+    },
+    {
+      "arabic": "نَفْسِكَ",
+      "english": "Yourself",
+      "urdu": "تمہاری اپنی ذات"
+    },
+    {
+      "arabic": "ثُمَّ",
+      "english": "Then / Afterwards",
+      "urdu": "پھر"
+    }
+  ],
+  "summary": {
+    "urdu": "حجِ بدل (کسی دوسرے کی طرف سے حج) کرنے کے لیے یہ لازمی شرط ہے کہ انسان پہلے اپنا فرضی حج مکمل کر چکا ہو۔",
+    "english": "To perform Hajj on behalf of someone else (Hajj by proxy), it is a mandatory prerequisite that the individual has already performed their own obligatory Hajj."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1811)",
+      "english": "Reported by Abu Dawud (1811)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (2903)",
+      "english": "Reported by Ibn Majah (2903)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R96vG2p3-Y0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حجِ بدل کی لازمی شرط",
+        "english": "Mandatory Condition for Hajj by Proxy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنا حج پہلے کرنا",
+              "english": "Performing Own Hajj First"
+            },
+            "content": {
+              "urdu": [
+                "دوسرے کی طرف سے حج کرنے کے لیے اپنا حجِ اسلام کرنا ضروری ہے۔",
+                "اگر کسی نے اپنا حج نہیں کیا تو وہ کسی کا وکیل نہیں بن سکتا۔",
+                "نبی ﷺ نے شبرمہ کی طرف سے حج کرنے والے کو پہلے اپنی فکر کی تلقین کی۔"
+              ],
+              "english": [
+                "It is necessary to perform one's own Hajj before acting for another.",
+                "One who hasn't fulfilled their own obligation cannot act as a proxy.",
+                "The Prophet (ﷺ) instructed the man to prioritize his own Hajj first."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ترتیب کی اہمیت",
+              "english": "Importance of Sequence"
+            },
+            "content": {
+              "urdu": [
+                "عبادات میں ترتیب کا لحاظ رکھنا شریعت کا اہم تقاضا ہے۔",
+                "پہلے اپنی ذمہ داری پوری کرنا عقل اور دین دونوں کے مطابق ہے۔",
+                "بغیر اپنے حج کے دوسرے کا حج کرنا شرعاً معتبر نہیں مانا جاتا۔"
+              ],
+              "english": [
+                "Maintaining sequence in worship is a key requirement of Sharia.",
+                "Fulfilling one's own duty first aligns with both logic and faith.",
+                "Performing Hajj for another without doing one's own is not legally valid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات اور مسائل",
+        "english": "Juristic Rulings and Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احرام کی تبدیلی",
+              "english": "Changing the Intent of Ihram"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی غلطی سے دوسرے کی نیت کر لے، تو وہ خود بخود اس کا اپنا حج بن جائے گا۔",
+                "نبی ﷺ کے حکم سے ثابت ہے کہ نیت کو درست کر کے حج مکمل کیا جائے۔",
+                "یہ مسئلہ ان لوگوں کے لیے ہے جو صاحبِ استطاعت ہونے کے باوجود اپنا حج نہ کر چکے ہوں۔"
+              ],
+              "english": [
+                "If one intends for another by mistake, it automatically becomes their own Hajj.",
+                "The Prophetic command indicates that one must correct the intent and proceed.",
+                "This applies to those capable of Hajj who haven't performed it yet."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شبرمہ کون تھا؟",
+              "english": "Who was Shubrumah?"
+            },
+            "content": {
+              "urdu": [
+                "شبرمہ ایک صحابی تھے جو فوت ہو چکے تھے یا حج کرنے سے معذور تھے۔",
+                "ان کے بھائی یا قریبی رشتہ دار ان کی طرف سے نیکی کرنا چاہتے تھے۔",
+                "رشتہ داروں کی طرف سے حجِ بدل کرنا صلہ رحمی کی بہترین صورت ہے۔"
+              ],
+              "english": [
+                "Shubrumah was a companion who had passed away or was disabled from Hajj.",
+                "His relative wanted to perform a good deed on his behalf.",
+                "Hajj by proxy for relatives is a superior form of maintaining family ties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مرفوع اور موقوف کی بحث",
+        "english": "Marfu' and Mauquf Discussion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام احمد کا موقف",
+              "english": "Imam Ahmad's Position"
+            },
+            "content": {
+              "urdu": [
+                "امام احمد بن حنبل اسے ابن عباس کا قول (موقوف) قرار دیتے ہیں۔",
+                "تاہم، ابن عباس جیسے جلیل القدر صحابی کا فتویٰ بھی حجت مانا جاتا ہے۔",
+                "اکثر محدثین نے اس کے مرفوع (نبی ﷺ کے قول) ہونے کو ترجیح دی ہے۔"
+              ],
+              "english": [
+                "Imam Ahmad bin Hanbal considers this a statement of Ibn Abbas (Mauquf).",
+                "However, the legal verdict of a great companion like him is a proof.",
+                "Most Hadith scholars have preferred its status as a Marfu' narration."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی ضابطہ",
+              "english": "Legal Principle"
+        },
+            "content": {
+              "urdu": [
+                "چونکہ یہ معاملہ خالصتاً عبادت کی شرائط سے ہے، اس لیے اسے منجانب اللہ مانا جاتا ہے۔",
+                "صحابہ کرام ایسی باتیں اپنی عقل سے نہیں بلکہ اللہ کے رسول ﷺ سے سن کر کہتے تھے۔",
+                "اسی لیے یہ روایت تمام فقہی مذاہب میں ایک معتبر بنیاد سمجھی جاتی ہے۔"
+              ],
+              "english": [
+                "Since this involves worship conditions, it is viewed as divinely inspired.",
+                "Companions stated such things based on hearing from the Prophet (ﷺ).",
+                "Hence, this narration is a reliable basis across all juristic schools."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنے فرائض کی فکر",
+              "english": "Caring for Own Duties"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو چاہیے کہ پہلے اپنے گناہوں اور فرائض کی فکر کرے۔",
+                "دوسروں کی مدد کرنا تبھی کارآمد ہے جب اپنی بنیاد مضبوط ہو۔",
+                "یہ حدیث ہمیں خود احتسابی اور ترجیحات کا تعین کرنا سکھاتی ہے۔"
+              ],
+              "english": [
+                "One must first worry about their own sins and obligatory duties.",
+                "Helping others is effective only when one's own foundation is solid.",
+                "This Hadith teaches self-accountability and the setting of priorities."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیکی میں تعاون",
+              "english": "Cooperation in Goodness"
+            },
+            "content": {
+              "urdu": [
+                "فوت شدگان کے لیے حج کرنا ان کو اجر پہنچانے کا بہترین ذریعہ ہے۔",
+                "اسلام سماجی تعلقات کو عبادات کے ساتھ جوڑ کر محبت پیدا کرتا ہے۔",
+                "اللہ کی بندگی میں ایک دوسرے کا سہارا بننا عظیم ترین نیکی ہے۔"
+              ],
+              "english": [
+                "Performing Hajj for the deceased is an excellent way to benefit them.",
+                "Islam fosters love by linking social relations with acts of worship.",
+                "Supporting one another in Allah's servitude is the greatest of virtues."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

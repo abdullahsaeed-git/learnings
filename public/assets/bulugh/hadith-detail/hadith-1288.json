@@ -1,0 +1,259 @@
+{
+  "hadithId": 1288,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:6116", "bulugh:1488"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الجامع",
+    "babId": 105
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6116)، والترمذي (2020)، وأحمد (8728).",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (6116) نے اسے اپنی صحیح میں روایت کیا ہے۔ یہ جوامع الکلم میں سے ہے کیونکہ غصے پر قابو پانا تمام برائیوں کا سدِ باب ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6116), At-Tirmidhi (2020), and Ahmad (8728). It is considered one of the comprehensive sayings of the Prophet (ﷺ)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَوْصِنِي",
+      "english": "Counsel me / Advise me",
+      "urdu": "مجھے نصیحت کیجیے"
+    },
+    {
+      "arabic": "لَا تَغْضَبْ",
+      "english": "Do not get angry",
+      "urdu": "غصہ نہ کرو"
+    },
+    {
+      "arabic": "فَرَدَّدَ",
+      "english": "He repeated",
+      "urdu": "اس نے بار بار دہرایا"
+    },
+    {
+      "arabic": "مِرَارًا",
+      "english": "Several times",
+      "urdu": "کئی مرتبہ / بارہا"
+    },
+    {
+      "arabic": "وَصِيَّة",
+      "english": "Legacy / Advice",
+      "urdu": "وصیت / نصیحت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث تمام برائیوں کی جڑ یعنی غصے سے بچنے کی تاکید کرتی ہے۔ آپ ﷺ نے ایک جامع نصیحت کے طور پر غصے کو ترک کرنے کا حکم دیا۔",
+    "english": "This Hadith emphasizes avoiding anger, which is the root of many evils. The Prophet (ﷺ) gave this as a concise and comprehensive counsel."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6116)",
+      "english": "Sahih al-Bukhari (6116)"
+    },
+    {
+      "arabic": "جامع الترمذي (2020)",
+      "english": "Jami' at-Tirmidhi (2020)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A_zWp7S7v-g",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غصے کی حقیقت اور ممانعت",
+        "english": "Reality and Prohibition of Anger"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جامع نصیحت",
+              "english": "Comprehensive Counsel"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے سائل کی ضرورت کے مطابق اسے غصہ نہ کرنے کی ہدایت فرمائی۔",
+                "بار بار دہرانے کا مقصد اس بات کی اہمیت کو ذہن نشین کروانا تھا۔",
+                "غصہ ترک کر دینے میں دنیا و آخرت کی تمام بھلائیاں پوشیدہ ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) advised the asker to avoid anger based on his specific needs.",
+                "Repeating the advice aimed to emphasize its critical importance.",
+                "Abstaining from anger contains all the goodness of this world and the hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غصہ تمام برائیوں کی جڑ",
+              "english": "Anger as the Root of Evils"
+            },
+            "content": {
+              "urdu": [
+                "غصے کی حالت میں انسان ہوش و حواس کھو کر غلط فیصلے کرتا ہے۔",
+                "زیادہ تر گناہ جیسے قتل، گالی اور قطع رحمی غصے ہی کا نتیجہ ہوتے ہیں۔",
+                "نبی ﷺ نے فرمایا کہ پہلوان وہ نہیں جو پچھاڑ دے، بلکہ وہ ہے جو غصہ پی جائے۔"
+              ],
+              "english": [
+                "In anger, a person loses self-control and makes irrational decisions.",
+                "Most sins like murder, abuse, and severing ties result from anger.",
+                "The Prophet (ﷺ) said the strong man is the one who controls his anger."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور نفسیاتی نقصانات",
+        "english": "Medical and Psychological Harms"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحت پر اثرات",
+              "english": "Effects on Health"
+            },
+            "content": {
+              "urdu": [
+                "شدید غصہ بلڈ پریشر اور دل کی بیماریوں کا سبب بنتا ہے۔",
+                "یہ اعصابی نظام کو کمزور کرتا ہے اور ذہنی تناؤ میں اضافہ کرتا ہے۔",
+                "طبی ماہرین بھی غصے پر قابو پانے کو لمبی زندگی کے لیے ضروری قرار دیتے ہیں۔"
+              ],
+              "english": [
+                "Intense anger causes high blood pressure and heart diseases.",
+                "It weakens the nervous system and increases psychological stress.",
+                "Medical experts also consider anger management vital for a long life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی رشتوں کی تباہی",
+              "english": "Destruction of Relationships"
+            },
+            "content": {
+              "urdu": [
+                "غصے میں کہی گئی کڑوی باتیں زندگی بھر کے تعلقات ختم کر دیتی ہیں۔",
+                "ایک لمحے کا غصہ برسوں کی محبت اور بھروسے کو راکھ کر سکتا ہے۔",
+                "غصے پر قابو پانے سے معاشرتی امن اور باہمی ہم آہنگی بڑھتی ہے۔"
+              ],
+              "english": [
+                "Bitter words spoken in anger can end lifelong relationships.",
+                "A moment of rage can turn years of love and trust into ashes.",
+                "Controlling anger promotes social peace and mutual harmony."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غصے کا نبوی علاج",
+        "english": "Prophetic Cures for Anger"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعوذ باللہ اور وضو",
+              "english": "Seeking Refuge and Ablution"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے غصہ آنے پر 'اعوذ باللہ' پڑھنے کی تلقین فرمائی ہے۔",
+                "وضو کرنا غصے کی آگ کو ٹھنڈا کرنے کا ایک مؤثر علاج ہے۔",
+                "پانی کا استعمال اور جسمانی حالت بدلنا غصے کی شدت کم کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) advised seeking refuge in Allah when feeling angry.",
+                "Performing Wudu (ablution) is an effective cure to cool the fire of anger.",
+                "Using water and changing physical posture helps reduce the intensity of rage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاموشی اور صبر",
+              "english": "Silence and Patience"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے فرمایا: 'جب تم میں سے کسی کو غصہ آئے تو وہ خاموش ہو جائے'۔",
+                "خاموشی غصے میں ہونے والی بدزبانی اور پچھتاوے سے بچاتی ہے۔",
+                "صبر کا کڑوا گھونٹ پینا اللہ کے ہاں بہت بڑا اجر رکھتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) said: 'When one of you is angry, let him be silent.'",
+                "Silence prevents the abuse and regret that follow angry outbursts.",
+                "Swallowing the bitter cup of patience carries a great reward with Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور تربیت",
+        "english": "Practical Lessons and Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تزکیہ نفس",
+              "english": "Self-Purification"
+            },
+            "content": {
+              "urdu": [
+                "غصے پر قابو پانا نفسانی خواہشات کو لگام دینے کا پہلا زینہ ہے۔",
+                "مومن وہی ہے جو اپنی عقل کو اپنے جذبات پر حاکم رکھے۔",
+                "برداشت اور حلم پیدا کرنا اسلامی تربیت کا بنیادی مقصد ہے۔"
+              ],
+              "english": [
+                "Controlling anger is the first step in restraining carnal desires.",
+                "A true believer is one whose intellect rules over their emotions.",
+                "Developing tolerance and forbearance is a core goal of Islamic training."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزمرہ زندگی میں اطلاق",
+              "english": "Daily Life Application"
+            },
+            "content": {
+              "urdu": [
+                "گھر، دفتر اور بازار میں غصے سے بچنا خوشگوار زندگی کی ضمانت ہے۔",
+                "معاف کر دینے کی عادت اپنائیں کیونکہ یہ اللہ کی صفت ہے۔",
+                "دوسروں کی غلطیوں پر درگزر کرنا اپنے وقار میں اضافے کا باعث ہے۔"
+              ],
+              "english": [
+                "Avoiding anger at home or work ensures a pleasant and successful life.",
+                "Adopt the habit of forgiveness as it is an attribute of Allah.",
+                "Overlooking others' mistakes leads to an increase in one's own dignity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

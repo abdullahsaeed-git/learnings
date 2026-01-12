@@ -1,0 +1,259 @@
+{
+  "hadithId": 940,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/940"],
+    "kitabId": 8,
+    "inKitabBab": 11,
+    "arabicBook": "كتاب اللعان",
+    "babId": 74
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (5308)‏ ومسلم (1492)‏ من حديث سهل بن سعد الساعدي رضي الله عنه.‏",
+    "urdu": "یہ روایت صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (5308) اور امام مسلم (1492) نے سیدنا سہل بن سعد الساعدی سے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5308) and Muslim (1492) from the narration of Sahl bin Sa'd al-Sa'idi (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَرَغَا",
+      "english": "Finished",
+      "urdu": "فارغ ہوئے"
+    },
+    {
+      "arabic": "تَلَاعُنِهِمَا",
+      "english": "Their Li'an (Mutual Cursing)",
+      "urdu": "ان دونوں کا لعان"
+    },
+    {
+      "arabic": "أَمْسَكْتُهَا",
+      "english": "I kept her",
+      "urdu": "میں نے اسے روکا"
+    },
+    {
+      "arabic": "طَلَّقَهَا",
+      "english": "Divorced her",
+      "urdu": "اسے طلاق دی"
+    },
+    {
+      "arabic": "ثَلَاثًا",
+      "english": "Three times",
+      "urdu": "تین بار"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے معلوم ہوتا ہے کہ لعان کے بعد میاں بیوی کا نکاح ختم ہو جاتا ہے اور شوہر کو اسے اپنے پاس رکھنے کا کوئی حق نہیں رہتا۔",
+    "english": "This Hadith clarifies that after the process of Li'an, the marriage is terminated, and the husband no longer has the right to keep his wife."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (5308)",
+      "english": "Reported by Al-Bukhari (5308)"
+    },
+    {
+      "arabic": "رواه مسلم (1492)",
+      "english": "Reported by Muslim (1492)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سهل بن سعد الساعدي",
+        "english": "Sahl bin Sa'd al-Sa'idi"
+      },
+      "slug": "sahl-bin-sad"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-POfk5_3s",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "لعان کے بعد نکاح کی حیثیت",
+        "english": "Status of Marriage After Li'an"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فوری علیحدگی کا وجوب",
+              "english": "Obligation of Immediate Separation"
+            },
+            "content": {
+              "urdu": [
+                "لعان مکمل ہوتے ہی میاں بیوی کے درمیان شرعی علیحدگی واقع ہو جاتی ہے۔",
+                "شوہر کا تین طلاقیں دینا اس بات کا اعتراف تھا کہ وہ اب ساتھ نہیں رہ سکتے۔",
+                "نبی کریم ﷺ نے اس علیحدگی کو دائمی اور ابدی قرار دیا ہے۔"
+              ],
+              "english": [
+                "Legal separation between spouses occurs as soon as Li'an is completed.",
+                "The husband's pronouncement of three divorces was an admission of the end.",
+                "The Prophet (ﷺ) considered this separation permanent and everlasting."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقِ رجوع کا خاتمہ",
+              "english": "Termination of the Right to Return"
+            },
+            "content": {
+              "urdu": [
+                "لعان کرنے والے جوڑے میں کبھی بھی دوبارہ نکاح کی گنجائش نہیں رہتی۔",
+                "اس عمل کے بعد عورت اپنے شوہر پر ہمیشہ کے لیے حرام ہو جاتی ہے۔",
+                "یہ حکم خاندانی تقدس اور الزام تراشی کی سنگینی کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "A couple who performs Li'an can never remarry each other again.",
+                "After this process, the woman becomes forbidden to the husband forever.",
+                "This ruling reflects the sanctity of the family and gravity of accusation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تین طلاقوں کا اثر",
+        "english": "Effect of Three Divorces"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شوہر کا اپنا فیصلہ",
+              "english": "The Husband's Own Decision"
+            },
+            "content": {
+              "urdu": [
+                "شوہر نے نبی ﷺ کے حکم سے پہلے ہی علیحدگی کا حتمی اعلان کر دیا۔",
+                "اس سے معلوم ہوتا ہے کہ وہ اپنی تہمت کی سچائی پر قائم تھا۔",
+                "ایک ساتھ تین طلاقیں دینا یہاں مکمل بائیکاٹ کی علامت سمجھا گیا۔"
+              ],
+              "english": [
+                "The husband announced the final separation before the Prophet's command.",
+                "This shows that he remained firm in the truth of his accusation.",
+                "Giving three divorces at once was seen here as a sign of complete boycott."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی نکتہ",
+              "english": "Juristic Point"
+            },
+            "content": {
+              "urdu": [
+                "بعض فقہاء اس سے ایک ساتھ تین طلاقوں کے وقوع پر استدلال کرتے ہیں۔",
+                "مگر لعان میں نکاح پہلے ہی ختم ہو چکا ہوتا ہے اس لیے یہ تاکید تھی۔",
+                "نبی ﷺ نے ان کے اس عمل پر کوئی اعتراض نہیں فرمایا۔"
+              ],
+              "english": [
+                "Some jurists use this to argue for the validity of three divorces at once.",
+                "However, in Li'an, the marriage is already over, so it was for emphasis.",
+                "The Prophet (ﷺ) did not raise any objection to his action."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدالتی طریقہ کار",
+        "english": "Judicial Procedure"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حاکم کا کردار",
+              "english": "The Role of the Ruler"
+            },
+            "content": {
+              "urdu": [
+                "لعان کا تمام عمل حاکمِ وقت یا قاضی کی نگرانی میں ہونا ضروری ہے۔",
+                "فیصلہ سنانے سے پہلے فریقین کو توبہ کی ترغیب دینا مستحب ہے۔",
+                "نبی ﷺ نے عدالتی کارروائی کو مکمل شفافیت کے ساتھ سرانجام دیا۔"
+              ],
+              "english": [
+                "The entire Li'an process must be supervised by a ruler or judge.",
+                "It is recommended to encourage the parties to repent before the ruling.",
+                "The Prophet (ﷺ) conducted the judicial proceedings with full transparency."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی تحفظ",
+              "english": "Social Protection"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون معاشرے کو بے بنیاد الزامات سے پاک رکھنے کی ضمانت دیتا ہے۔",
+                "لعان کا راستہ الزام لگانے والے کو سزا سے بچنے کا موقع دیتا ہے۔",
+                "اس سے خاندانی نزاعات کو باوقار طریقے سے حل کرنے میں مدد ملتی ہے۔"
+              ],
+              "english": [
+                "Islamic law guarantees keeping society free from baseless accusations.",
+                "The path of Li'an allows the accuser to avoid the penalty of slander.",
+                "It helps in resolving domestic disputes in a dignified manner."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و عملی سبق",
+        "english": "Moral and Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتماد کی بحالی ناممکن",
+              "english": "Impossibility of Restoring Trust"
+            },
+            "content": {
+              "urdu": [
+                "جب میاں بیوی کے درمیان شدید بے اعتمادی پیدا ہو جائے تو جدائی بہتر ہے۔",
+                "زبردستی کا رشتہ مزید گناہوں اور نفرتوں کا سبب بنتا ہے۔",
+                "اسلام نے علیحدگی کے لیے بھی ایک مہذب ضابطہ عطا فرمایا ہے۔"
+              ],
+              "english": [
+                "Separation is better when severe mistrust arises between spouses.",
+                "A forced relationship leads to further sins and animosity.",
+                "Islam has provided a civilized code even for separation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سچائی کی اہمیت",
+              "english": "Importance of Truthfulness"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو ہر حال میں سچ بولنا چاہیے چاہے وہ کتنا ہی کڑوا ہو۔",
+                "لعان کا عمل جھوٹی قسم کھانے والوں کے لیے اللہ کی طرف سے وارننگ ہے۔",
+                "آخرت کا عذاب دنیا کی رسوائی سے کہیں زیادہ سخت اور دائمی ہے۔"
+              ],
+              "english": [
+                "A believer must speak the truth regardless of how bitter it is.",
+                "The process of Li'an is a warning from Allah for those who lie.",
+                "The punishment of the Hereafter is much harsher than worldly disgrace."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

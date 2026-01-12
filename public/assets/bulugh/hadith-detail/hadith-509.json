@@ -1,0 +1,263 @@
+{
+  "hadithId": 509,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/509"],
+    "kitabId": 4,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 31
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه ابن حبان (3310)، والحاكم (1/416) وصححه على شرط مسلم، وأحمد (4/147). وفي رواية ابن حبان: 'حتى يُقضى بين الناس'.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابن حبان (3310) اور حاکم (1/416) نے روایت کیا اور اسے امام مسلم کی شرط پر صحیح قرار دیا۔ امام احمد نے بھی اسے اپنی مسند میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Ibn Hibban (3310), al-Hakim (1/416) who graded it Sahih according to Muslim's criteria, and Ahmad (4/147). In Ibn Hibban's version: 'Until judgment is passed among people'."
+  },
+  "importantWords": [
+    {
+      "arabic": "كُلُّ اِمْرِئٍ",
+      "english": "Every person",
+      "urdu": "ہر آدمی / ہر شخص"
+    },
+    {
+      "arabic": "ظِلِّ",
+      "english": "Shade",
+      "urdu": "سایہ"
+    },
+    {
+      "arabic": "صَدَقَتِهِ",
+      "english": "His charity",
+      "urdu": "اس کا صدقہ"
+    },
+    {
+      "arabic": "يُفْصَلَ",
+      "english": "Judgment is passed",
+      "urdu": "فیصلہ کیا جائے"
+    },
+    {
+      "arabic": "يَقُولُ",
+      "english": "He says",
+      "urdu": "وہ فرماتے ہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "قیامت کے دن جب تپش انتہا پر ہوگی، مومن کا صدقہ اس کے لیے ڈھال اور سایہ بن جائے گا اور وہ حساب کتاب مکمل ہونے تک اسی ٹھنڈک میں رہے گا۔",
+    "english": "On the Day of Judgment, a believer's charity will transform into a physical shade, protecting them from the intense heat until all accounts are settled."
+  },
+  "references": [
+    {
+      "arabic": "صحيح ابن حبان (3310)",
+      "english": "Sahih Ibn Hibban (3310)"
+    },
+    {
+      "arabic": "المستدرك للحاكم (1/416)",
+      "english": "Al-Mustadrak al-Hakim (1/416)"
+    },
+    {
+      "arabic": "مسند أحمد (4/147)",
+      "english": "Musnad Ahmad (4/147)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عقبة بن عامر الجهني",
+        "english": "Uqbah bin Amir al-Juhani"
+      },
+      "slug": "uqbah-bin-amir-al-juhani"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صدقہ اور قیامت کی تپش",
+        "english": "Charity and Judgment Day Heat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صدقہ بطورِ محافظ",
+              "english": "Charity as a Protector"
+            },
+            "content": {
+              "urdu": [
+                "قیامت کے دن سورج کی تپش سے بچنے کے لیے صدقہ ایک ٹھنڈا سایہ فراہم کرے گا۔",
+                "جتنا زیادہ صدقہ ہوگا، اس سائے کی وسعت اور گہرائی بھی اتنی ہی زیادہ ہوگی۔",
+                "یہ سایہ حشر کے میدان کی طویل انتظار کی گھڑیوں میں راحت کا باعث بنے گا۔"
+              ],
+              "english": [
+                "Charity will provide a cool shade to escape the sun's heat on Judgment Day.",
+                "The more one gives in charity, the wider and deeper this shade will be.",
+                "This shade will be a source of relief during the long waiting hours of the Gathering."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعمال کا مجسم ہونا",
+              "english": "Manifestation of Deeds"
+            },
+            "content": {
+              "urdu": [
+                "آخرت میں اللہ تعالیٰ نیک اعمال کو صاحبِ عمل کے لیے نفع بخش شکل دے دے گا۔",
+                "دنیا میں غریب کی تکلیف دور کرنے والا وہاں اپنے صدقے کی بدولت پرسکون ہوگا۔",
+                "یہ اللہ کا اپنے بندوں سے وعدہ ہے کہ نیکی کبھی ضائع نہیں ہوتی۔"
+              ],
+              "english": [
+                "In the Hereafter, Allah will manifest good deeds into beneficial forms for the doer.",
+                "Those who relieved the poor's distress will be at peace due to their charity.",
+                "It is Allah's promise to His servants that goodness is never lost."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مستقل صدقہ کی اہمیت",
+        "english": "Importance of Constant Charity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزانہ صدقہ کرنے کی عادت",
+              "english": "Habit of Daily Charity"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کے راوی کے شاگرد (یزید) ہر روز کچھ نہ کچھ ضرور صدقہ کرتے تھے۔",
+                "چاہے ایک پیاز یا روٹی کا ٹکڑا ہی کیوں نہ ہو، صدقہ کرنا ضروری ہے۔",
+                "مستقل مزاجی سے کیا گیا چھوٹا عمل بھی قیامت میں بڑے سائے کا سبب بنتا ہے۔"
+              ],
+              "english": [
+                "The narrator's student (Yazid) used to give something in charity every single day.",
+                "Giving even a piece of bread or an onion is essential to maintain the habit.",
+                "A small act done consistently can lead to a massive shade on Judgment Day."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صدقہ کی برکات",
+              "english": "Blessings of Charity"
+            },
+            "content": {
+              "urdu": [
+                "صدقہ نہ صرف آخرت میں سایہ دیتا ہے بلکہ دنیا میں بلاؤں کو ٹالتا ہے۔",
+                "یہ مال میں برکت اور دل کو پاکیزگی عطا کرنے کا بہترین ذریعہ ہے۔",
+                "انسان کو چاہیے کہ وہ موت سے پہلے اپنے لیے سائے کا بندوبست کر لے۔"
+              ],
+              "english": [
+                "Charity not only provides shade hereafter but averts calamities in this world.",
+                "It is the best way to grant blessings to wealth and purity to the heart.",
+                "A person should arrange their own shade before death approaches."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فیصلے تک تحفظ",
+        "english": "Protection Until Judgment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حساب کتاب کا عرصہ",
+              "english": "Duration of Reckoning"
+            },
+            "content": {
+              "urdu": [
+                "میدانِ محشر میں حساب کا وقت بہت طویل اور ہولناک محسوس ہوگا۔",
+                "صدقے کا سایہ اس وقت تک رہے گا جب تک حتمی فیصلہ نہیں ہو جاتا۔",
+                "یہ سایہ اللہ کی خاص پناہ میں ہونے کی ایک ظاہری علامت ہے۔"
+              ],
+              "english": [
+                "The time of reckoning in the field of Gathering will feel very long and terrifying.",
+                "The shade of charity will persist until the final verdict is passed.",
+                "This shade is a physical sign of being under Allah's special protection."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفسیاتی اطمینان",
+              "english": "Psychological Peace"
+            },
+            "content": {
+              "urdu": [
+                "جہاں لوگ پریشان ہوں گے، صدقہ کرنے والا اپنے سائے میں مطمئن ہوگا۔",
+                "یہ عمل بندے کو مایوسی سے نکال کر امیدِ مغفرت کی طرف لے جاتا ہے۔",
+                "نیک اعمال کا بدلہ اللہ کے ہاں فوری اور یقینی ہے۔"
+              ],
+              "english": [
+                "Where people will be distressed, the charitable person will be calm in their shade.",
+                "This act takes a servant from despair toward the hope of forgiveness.",
+                "The reward for good deeds with Allah is immediate and certain."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استطاعت کے مطابق خرچ",
+              "english": "Spending according to Means"
+            },
+            "content": {
+              "urdu": [
+                "صدقہ کے لیے بہت زیادہ مالدار ہونا ضروری نہیں ہے۔",
+                "خلوص کے ساتھ دیا گیا ایک روپیہ بھی پہاڑ جتنا سایہ بن سکتا ہے۔",
+                "اپنی استطاعت کے مطابق اللہ کی راہ میں دینے کی عادت ڈالیں۔"
+              ],
+              "english": [
+                "Being wealthy is not a prerequisite for giving charity.",
+                "A single penny given with sincerity can become a shade as large as a mountain.",
+                "Develop the habit of giving in Allah's path according to your means."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خیرات میں جلدی",
+              "english": "Haste in Charity"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں نیکی کے موقع کو ہاتھ سے نہیں جانے دینا چاہیے۔",
+                "کل پر ٹالنے کے بجائے آج ہی اپنے مستقبل کا تحفظ کریں۔",
+                "صدقہ کرنے سے مال کم نہیں ہوتا بلکہ اس میں اضافہ ہوتا ہے۔"
+              ],
+              "english": [
+                "We must not let any opportunity for doing good slip away.",
+                "Protect your future today instead of postponing it until tomorrow.",
+                "Wealth does not decrease by giving charity; rather, it increases."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

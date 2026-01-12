@@ -1,0 +1,218 @@
+{
+  "hadithId": 167,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["1:4:8"],
+    "kitabId": 2,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب صفة الصلاة (صحة الصلاة)",
+    "babId": 13
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه الترمذي (317)‏ ، وهو وإن كان معلولا بالإرسال ؛ إلا أنها ليست بعلة قادحة ، ولذلك مال الحافظ نفسه إلى تصحيح الحديث في \"التلخيص\" (1/277)‏ .‏ ونقل ابن تيمية في \"الفتاوى\" (22/160)‏ تصحيح الحفاظ له .‏",
+    "urdu": "صحیح۔ اسے ترمذی (317) نے روایت کیا ہے، اور اگرچہ یہ ارسال (سند میں انقطاع) کی وجہ سے معلول ہے، لیکن یہ علت قادحہ (نقصان دہ) نہیں ہے۔ اسی لیے حافظ ابن حجر خود ”التلخیص“ (1/277) میں اس حدیث کو صحیح قرار دینے کی طرف مائل ہوئے ہیں۔ ابن تیمیہ نے ”الفتاویٰ“ (22/160) میں بھی حفاظِ حدیث کا اسے صحیح قرار دینا نقل کیا ہے۔",
+    "english": "Authentic (Ṣaḥīḥ). Reported by At-Tirmidhī (317). Although it has a defect due to Irsāl (discontinuity in the chain, as a Tābi'ī narrates from the Prophet directly), this defect is not detrimental ('illah Qādiḥah). Thus, Al-Ḥāfiẓ (Ibn Ḥajar) himself inclined to authenticate the Hadith in 'At-Talkhīṣ' (1/277). Ibn Taymiyyah also quoted the authentication of the Ḥuffāẓ (master memorizers of Hadith) in 'Al-Fatāwá' (22/160).",
+    "english_alternative": ""
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْأَرْضُ كُلُّهَا مَسْجِدٌ",
+      "english": "The entire earth is a place of prayer",
+      "urdu": "ساری زمین مسجد ہے"
+    },
+    {
+      "arabic": "إِلَّا اَلْمَقْبَرَةَ",
+      "english": "Except for the graveyard",
+      "urdu": "سوائے قبرستان کے"
+    },
+    {
+      "arabic": "وَالْحَمَّامَ",
+      "english": "And the bathhouse",
+      "urdu": "اور حمام کے"
+    },
+    {
+      "arabic": "مَسْجِدٌ",
+      "english": "Place of prostration",
+      "urdu": "سجدہ کرنے کی جگہ"
+    },
+    {
+      "arabic": "مَعْلُولًا بِالْإِرْسَالِ",
+      "english": "Defective due to Irsāl",
+      "urdu": "ارسال کی وجہ سے معلول"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ اللہ تعالیٰ نے امت محمدیہ کو یہ خصوصیت عطا کی ہے کہ ساری زمین ان کے لیے پاک اور مسجد (نماز کی جگہ) بنا دی گئی ہے۔ لیکن اس عمومی حکم میں قبرستان اور حمام (غسل خانے) مستثنیٰ ہیں، اور ان دو جگہوں پر نماز پڑھنا ممنوع ہے۔",
+    "english": "This Hadith states that Allah has granted the Ummah of Muhammad the unique privilege that the entire earth is made pure and a place of prayer (Masjid) for them. However, two places are explicitly excluded from this general ruling and prayer is prohibited in them: the graveyard and the bathhouse."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (317)",
+      "english": "Reported by At-Tirmidhī (317)"
+    },
+    {
+      "arabic": "صححه الحافظ ابن حجر في التلخيص (1/277)",
+      "english": "Authenticated by Al-Ḥāfiẓ Ibn Ḥajar in At-Talkhīṣ (1/277)"
+    },
+    {
+      "arabic": "الفتاوى لابن تيمية (22/160)",
+      "english": "Al-Fatāwá by Ibn Taymiyyah (22/160)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abū Sa'īd Al-Khudrī"
+      },
+      "slug": "abu-said-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A2Wp-7Z_l3k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "امت محمدیہ کی خصوصیت",
+        "english": "The Uniqueness of the Muhammadan Ummah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ساری زمین مسجد",
+              "english": "The Entire Earth is a Masjid"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ نے فرمایا کہ ساری زمین ہمارے لیے پاک اور سجدہ گاہ بنا دی گئی ہے، جو سابقہ امتوں سے ایک انفرادی فضیلت ہے۔",
+                "مسلمان دنیا میں کہیں بھی ہو، اگر کوئی مخصوص ممانعت نہ ہو تو وہ نماز ادا کر سکتا ہے۔",
+                "یہ حکم سفر میں اور ایسے علاقوں میں نماز کی ادائیگی میں آسانی پیدا کرتا ہے جہاں مسجد میسر نہ ہو۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) stated that the entire earth has been made pure and a place of prostration for us, a unique privilege among previous nations.",
+                "A Muslim can perform prayer anywhere in the world, provided there is no specific prohibition for that place.",
+                "This ruling provides ease in praying during travel and in areas where a mosque is not available."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کی ممانعت کی جگہ",
+              "english": "Places Where Prayer is Prohibited"
+            },
+            "content": {
+              "urdu": [
+                "دو جگہیں اس عمومی حکم سے مستثنیٰ ہیں: قبرستان (المقبرة) اور حمام (Bathhouse)۔",
+                "قبرستان میں نماز کی ممانعت کا سبب شرک اور بت پرستی کا خوف ہے، کیونکہ سابقہ امتوں نے انبیاء کی قبروں کو سجدہ گاہ بنا لیا تھا۔",
+                "حمام میں نماز کی ممانعت نجاست اور عام طور پر ستر کے نہ ڈھانپے جانے کی وجہ سے ہے۔"
+              ],
+              "english": [
+                "Two places are excluded from this general ruling: the graveyard (Maqbarah) and the bathhouse (Ḥammām).",
+                "Prayer is prohibited in graveyards due to the fear of Shirk (polytheism) and idolatry, as previous nations turned their prophets' graves into places of worship.",
+                "Prayer is prohibited in bathhouses due to the presence of impurity (Najāsah) and because people generally uncover their 'Awrah there."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی صحت اور فقہی استدلال",
+        "english": "Hadith Authenticity and Juristic Derivation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ارسال کی علت",
+              "english": "The Defect of Irsāl"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث ارسال کی علت رکھتی ہے (تابعی نے براہ راست نبی ﷺ سے روایت کی)، لیکن محدثین نے اسے دوسرے شواہد کی بنا پر صحیح قرار دیا۔",
+                "دوسری صحیح احادیث میں بھی ان دونوں جگہوں پر نماز کی ممانعت کا حکم موجود ہے۔",
+                "اس طرح، یہ حدیث اگرچہ سنداً بحث طلب ہے، لیکن حکم کے اعتبار سے قوی اور معمول بہ ہے۔"
+              ],
+              "english": [
+                "Although this Hadith has the defect of Irsāl (a Tābi'ī narrating directly from the Prophet), scholars authenticated it based on corroborating evidence.",
+                "Other authentic Ahadith also contain the ruling prohibiting prayer in these two places.",
+                "Thus, while the chain of this Hadith is debated, the ruling it contains is strong and acted upon."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہاء کا موقف",
+              "english": "The Stance of the Jurists"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء نے ان دونوں جگہوں (قبرستان اور حمام) کو مستثنیٰ قرار دیا ہے، اور ان میں نماز کو مکروہ تحریمی کہا ہے۔",
+                "امام ابن تیمیہ اور دیگر حفاظ نے بھی اس حکم کی صحت کو تسلیم کیا ہے، جس سے اس کا فقہی وزن بڑھ جاتا ہے۔",
+                "یہ حکم مسلمانوں کو ان جگہوں پر نماز سے دور رہنے کی تاکید کرتا ہے جہاں نجاست یا شرک کا خوف ہو۔"
+              ],
+              "english": [
+                "The majority of jurists exclude these two places (graveyards and bathhouses) and consider prayer in them strongly disliked (Makrūh Taḥrīmī).",
+                "Imām Ibn Taymiyyah and other Hadith masters also accepted the authenticity of this ruling, which increases its legal weight.",
+                "This ruling strongly encourages Muslims to avoid praying in places associated with impurity or the fear of Shirk."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اطلاق اور احتیاط",
+        "english": "Practical Implementation and Caution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیگر ممنوع جگہیں",
+              "english": "Other Prohibited Places"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے اس اصول پر قیاس کرتے ہوئے مزید کچھ جگہیں بھی نماز کے لیے مکروہ قرار دی ہیں (جیسے اونٹ باندھنے کی جگہ، نجاست والی جگہ)۔",
+                "مسلمان کو چاہیے کہ وہ ہمیشہ ایسی جگہ پر نماز ادا کرے جو ظاہری اور باطنی نجاستوں سے پاک ہو۔",
+                "صفائی اور طہارت اسلامی عبادات کا لازمی جزو ہیں۔"
+              ],
+              "english": [
+                "Based on analogy (Qiyās) with this principle, jurists have declared other places also disliked for prayer (e.g., camel enclosures, places with visible impurity).",
+                "A Muslim should always perform prayer in a place that is free from both physical and spiritual impurities.",
+                "Cleanliness and purification are mandatory components of Islamic acts of worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عافیت کا اصول",
+              "english": "Principle of Well-being ('Āfiyah)"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم دراصل مسلمانوں کے دین و ایمان کی حفاظت کے لیے ایک حفاظتی تدبیر ہے۔",
+                "قبرستان میں نماز پڑھنا شرک کی طرف لے جا سکتا ہے، جبکہ حمام نجاست کا مرکز ہوتے ہیں۔",
+                "شریعت نے وہ تمام راستے بند کر دیے ہیں جو شرک یا نجاست کی طرف لے جا سکتے ہیں۔"
+              ],
+              "english": [
+                "This ruling is essentially a precautionary measure to safeguard the faith and purity of Muslims.",
+                "Praying in a graveyard may lead to Shirk, while bathhouses are centers of impurity.",
+                "The Sharī'ah has blocked all potential pathways that could lead to polytheism or ritual impurity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

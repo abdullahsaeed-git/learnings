@@ -1,0 +1,259 @@
+{
+  "hadithId": 1096,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/17"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3965)، وأبو داود (2665). القصة في مبارزة حمزة وعلي وعبيدة بن الحارث لعتبة وشيبة والوليد بن عتبة.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (3965) اور ابوداؤد (2665) نے روایت کیا ہے۔ اس میں غزوہ بدر کے مشہور واقعے کا ذکر ہے جب حمزہ، علی اور عبیدہ بن الحارث مقابلے کے لیے عتبہ، شائبہ اور ولید کے سامنے نکلے تھے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3965) and Abu Dawud (2665). The story details the duels of Hamza, 'Ali, and 'Ubaidah bin al-Harith against 'Utbah, Shaibah, and al-Walid bin 'Utbah."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَبَارَزُوا",
+      "english": "Engaged in single combat",
+      "urdu": "ایک دوسرے کے مقابلے میں نکلے"
+    },
+    {
+      "arabic": "يَوْمَ بَدْرٍ",
+      "english": "The day of Badr",
+      "urdu": "بدر کا دن"
+    },
+    {
+      "arabic": "مُطَوَّلاً",
+      "english": "At length/In detail",
+      "urdu": "تفصیل کے ساتھ"
+    },
+    {
+      "arabic": "مُبَارَزَة",
+      "english": "Dueling",
+      "urdu": "دو بدو لڑائی"
+    },
+    {
+      "arabic": "أَخْرَجَهُ",
+      "english": "Extracted/Reported it",
+      "urdu": "اسے روایت کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "غزوہ بدر میں جنگ کے آغاز سے پہلے اسلامی لشکر کے شہسواروں نے مشرکین کے سرداروں کو دو بدو مقابلے کا چیلنج دیا اور انہیں واصل جہنم کیا، جو کہ اسلامی جنگی تاریخ کا اہم باب ہے۔",
+    "english": "In the Battle of Badr, before the main clash, Muslim warriors challenged the leaders of the polytheists to single combat and defeated them, marking a pivotal moment in Islamic history."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (3965)",
+      "english": "Sahih al-Bukhari (3965)"
+    },
+    {
+      "arabic": "سنن أبي داود (2665)",
+      "english": "Sunan Abi Dawud (2665)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مبارزت کا شرعی حکم",
+        "english": "Legal Status of Dueling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انفرادی مقابلے کا جواز",
+              "english": "Permissibility of Single Combat"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی شریعت میں جنگ کے آغاز پر مبارزت (انفرادی مقابلہ) ایک مستند اور جائز عمل ہے۔",
+                "نبی کریم ﷺ نے خود صحابہ کرام کو مقابلے کے لیے نامزد فرما کر اس کی اجازت دی تھی۔",
+                "یہ عمل دشمن کے حوصلے پست کرنے اور مجاہدین کی جرات بڑھانے کا بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "In Islamic Shariah, single combat (mubarazah) at the start of a battle is an established and valid practice.",
+                "The Prophet (ﷺ) himself authorized it by nominating specific companions to step forward for the duel.",
+                "This act serves as an excellent means to demoralize the enemy and boost the courage of the Mujahideen."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کفایت و شجاعت",
+              "english": "Sufficiency and Bravery"
+            },
+            "content": {
+              "urdu": [
+                "مبارزت صرف ان شہسواروں کو کرنی چاہیے جو فنِ حرب میں مہارت اور مکمل جرات رکھتے ہوں۔",
+                "بلا ضرورت یا کمزوری کی حالت میں خود کو خطرے میں ڈالنا اسلامی جنگی حکمت عملی کے خلاف ہے۔",
+                "غزوہ بدر میں علی، حمزہ اور عبیدہ رضی اللہ عنہم نے اپنی مہارت سے دشمن کے پاؤں اکھاڑ دیے۔"
+              ],
+              "english": [
+                "Only those warriors skilled in combat and possessing total bravery should engage in such duels.",
+                "Putting oneself at risk without necessity or in a state of weakness is against Islamic military strategy.",
+                "In Badr, Ali, Hamza, and 'Ubaidah (R.A) uprooted the enemy's confidence with their superior skills."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غزوہ بدر کے تاریخی پہلو",
+        "english": "Historical Aspects of Badr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حق و باطل کا پہلا معرکہ",
+              "english": "First Battle of Truth and Falsehood"
+            },
+            "content": {
+              "urdu": [
+                "غزوہ بدر اسلام کی پہلی باقاعدہ جنگ تھی جس میں اللہ نے مسلمانوں کو عظیم فتح عطا کی۔",
+                "اس مقابلے نے ثابت کر دیا کہ فتح تعداد کی کثرت سے نہیں بلکہ ایمانی قوت سے ملتی ہے۔",
+                "سردارِ قریش عتبہ اور اس کے ساتھیوں کی ہلاکت نے مشرکین کی کمر توڑ دی۔"
+              ],
+              "english": [
+                "The Battle of Badr was the first formal war in Islam where Allah granted a grand victory to Muslims.",
+                "This duel proved that victory comes from the strength of faith, not from numerical superiority.",
+                "The killing of Quraish leader 'Utbah and his companions broke the back of the polytheists' army."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انصار و مہاجرین کی یکجہتی",
+              "english": "Unity of Ansar and Muhajirun"
+            },
+            "content": {
+              "urdu": [
+                "جب انصار کے نوجوان مقابلے کو نکلے تو مشرکین نے صرف مہاجرین قریش سے لڑنے کا مطالبہ کیا۔",
+                "نبی ﷺ نے ان کے مطالبے پر اپنے قریبی رشتہ داروں کو پہلے میدان میں اتارا۔",
+                "یہ عمل قیادت کی عظیم مثال ہے کہ مشکل وقت میں سب سے پہلے اپنے قریبی لوگوں کو پیش کیا۔"
+              ],
+              "english": [
+                "When young Ansar came forward, the polytheists demanded to fight only their Quraishi kin.",
+                "The Prophet (ﷺ) responded by sending his closest relatives into the field first.",
+                "This is a great example of leadership—putting one's own kin at the forefront during trials."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفسیاتی جنگ اور اثرات",
+        "english": "Psychological Warfare and Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دشمن پر رعب",
+              "english": "Awe Over the Enemy"
+            },
+            "content": {
+              "urdu": [
+                "مبارزت میں کامیابی دشمن کے لشکر میں خوف اور افراتفری پیدا کر دیتی ہے۔",
+                "مشرکین کو اپنی طاقت پر ناز تھا مگر ان کے سرداروں کی ہلاکت نے انہیں ہلا کر رکھ دیا۔",
+                "اسلامی تاریخ میں انفرادی مقابلوں نے ہمیشہ جنگوں کے نتائج پر گہرا اثر ڈالا ہے۔"
+              ],
+              "english": [
+                "Success in a duel creates fear and chaos within the ranks of the enemy's army.",
+                "The polytheists were proud of their power, but the death of their leaders shook them to the core.",
+                "In Islamic history, individual duels have always had a profound impact on the outcomes of wars."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمانی جذبے کی بیداری",
+              "english": "Awakening of Faith"
+            },
+            "content": {
+              "urdu": [
+                "اپنے ساتھیوں کو بہادری سے لڑتے دیکھ کر پورے لشکر میں جوش و خروش پیدا ہوتا ہے۔",
+                "صحابیِ رسول کا اللہ کے دشمن کے سامنے ڈٹ جانا توحید کی عملی تصویر ہے۔",
+                "موت کا خوف دل سے نکال کر اللہ کی رضا پانے کا جذبہ ہی اصل طاقت ہے۔"
+              ],
+              "english": [
+                "Watching their comrades fight bravely instills enthusiasm and zeal throughout the entire army.",
+                "A companion standing firm against the enemy of Allah is a practical image of Monotheism.",
+                "The desire to gain Allah's pleasure by removing the fear of death is the true source of power."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حق کے لیے جرات",
+              "english": "Courage for the Truth"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں بھی باطل اور برائی کے سامنے ڈٹ جانے کے لیے جرات و بہادری پیدا کرنی چاہیے۔",
+                "حق کا ساتھ دینے کے لیے کسی ملامت کرنے والے کی ملامت کا ڈر نہیں ہونا چاہیے۔",
+                "سیدنا علی رضی اللہ عنہ کی زندگی ہمارے لیے بہادری کا بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "We must also develop courage and bravery to stand firm against falsehood and evil.",
+                "In supporting the truth, there should be no fear of the blame of those who blame.",
+                "The life of Sayyidina 'Ali (R.A) is the best model of bravery and valor for us."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تیاری اور مہارت",
+              "english": "Preparation and Skill"
+            },
+            "content": {
+              "urdu": [
+                "کامیابی کے لیے صرف جذبہ کافی نہیں بلکہ فنونِ حرب اور علم میں مہارت بھی ضروری ہے۔",
+                "مسلمانوں کو اپنے دفاع کے لیے ہر وقت مادی اور روحانی طور پر تیار رہنا چاہیے۔",
+                "نظم و ضبط کی پابندی ہی کسی بھی گروہ کو کامیابی سے ہمکنار کرتی ہے۔"
+              ],
+              "english": [
+                "Zeal alone is not enough for success; skill in strategy and knowledge is also essential.",
+                "Muslims must be materially and spiritually prepared at all times for their self-defense.",
+                "Adherence to discipline is what leads any group to achieve its goals successfully."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

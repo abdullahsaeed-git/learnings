@@ -1,0 +1,259 @@
+{
+  "hadithId": 587,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/587"],
+    "kitabId": 6,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 36
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1862)، ومسلم (1341)، وأحمد (1/222).",
+    "urdu": "صحیح۔ اسے امام بخاری (1862) اور امام مسلم (1341) نے روایت کیا ہے۔ یہ حدیث خواتین کے سفر اور پردے کے احکام میں بنیادی اہمیت رکھتی ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1862) and Muslim (1341). This Hadith is a foundational text regarding the rulings of travel for women and the concept of seclusion (Khalwah)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَخْلُوَنَّ",
+      "english": "Should not be alone",
+      "urdu": "ہرگز تنہا نہ ہو"
+    },
+    {
+      "arabic": "مَحْرَمٍ",
+      "english": "Mahram (Unmarriageable kin)",
+      "urdu": "محرم رشتہ دار"
+    },
+    {
+      "arabic": "تُسَافِرُ",
+      "english": "To travel",
+      "urdu": "سفر کرے"
+    },
+    {
+      "arabic": "اِكْتُتِبْتُ",
+      "english": "Enlisted / Written",
+      "urdu": "میرا نام لکھا گیا"
+    },
+    {
+      "arabic": "اِنْطَلِقْ",
+      "english": "Go / Set out",
+      "urdu": "چلے جاؤ"
+    }
+  ],
+  "summary": {
+    "urdu": "خواتین کے لیے محرم کے بغیر سفر کرنا منع ہے، یہاں تک کہ حج جیسی عبادت کے لیے بھی محرم کا ہونا ضروری ہے، اور شوہر کو اپنی بیوی کی حفاظت کے لیے نفلی جہاد چھوڑنے کی بھی اجازت دی گئی۔",
+    "english": "Women are prohibited from traveling without a Mahram, even for acts of worship like Hajj. A husband may even be excused from military service to accompany his wife for her safety."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1862)",
+      "english": "Reported by Al-Bukhari (1862)"
+    },
+    {
+      "arabic": "رواه مسلم (1341)",
+      "english": "Reported by Muslim (1341)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F3S79vOqX-A",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خلوت اور محرم کے احکام",
+        "english": "Rulings on Seclusion and Mahram"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجنبی مرد کے ساتھ تنہائی",
+              "english": "Seclusion with a Stranger"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں نامحرم مرد اور عورت کا تنہائی میں ملنا سختی سے منع ہے تاکہ فتنے سے بچا جا سکے۔",
+                "محرم کی موجودگی اس لیے ضروری ہے تاکہ عورت کی عزت و ناموس کی حفاظت ہو سکے۔",
+                "شیطان ایسے موقعوں پر تیسرا ساتھی بن کر انسان کو بہکاتا ہے۔"
+              ],
+              "english": [
+                "Islam strictly prohibits a non-Mahram man and woman from being alone together to prevent temptation.",
+                "The presence of a Mahram is essential to ensure the protection and honor of the woman.",
+                "Shaytan often acts as the third party in such secluded meetings to misguide individuals."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفر کے لیے محرم کی شرط",
+              "english": "Requirement of Mahram for Travel"
+            },
+            "content": {
+              "urdu": [
+                "عورت کے لیے تنہا لمبا سفر کرنا جائز نہیں ہے کیونکہ سفر میں خطرات ہوتے ہیں۔",
+                "محرم اس کے لیے ایک مضبوط سہارا اور محافظ کا کردار ادا کرتا ہے۔",
+                "یہ حکم عورت کی آزادی چھیننے کے لیے نہیں بلکہ اسے تحفظ فراہم کرنے کے لیے ہے۔"
+              ],
+              "english": [
+                "It is not permissible for a woman to travel long distances alone due to potential risks during the journey.",
+                "A Mahram acts as a strong support system and a protector for her.",
+                "This ruling is not meant to restrict freedom but to provide a secure environment for her."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حج اور محرم کی اہمیت",
+        "english": "Importance of Mahram for Hajj"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فرض حج میں بھی پابندی",
+              "english": "Restriction Even for Fard Hajj"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اس شخص کو حکم دیا کہ وہ جہاد کے بجائے اپنی بیوی کے ساتھ حج پر جائے۔",
+                "اس سے ثابت ہوتا ہے کہ حج جیسی عظیم عبادت کے لیے بھی محرم کی موجودگی شرط ہے۔",
+                "اگر محرم میسر نہ ہو تو اکثر فقہاء کے نزدیک عورت پر حج فرض ہی نہیں رہتا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) ordered the man to go for Hajj with his wife instead of participating in Jihad.",
+                "This proves that the presence of a Mahram is a condition even for the obligatory act of Hajj.",
+                "If a Mahram is unavailable, most jurists believe Hajj is not yet mandatory for the woman."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ترجیحات کا تعین",
+              "english": "Determining Priorities"
+            },
+            "content": {
+              "urdu": [
+                "بیوی کی حفاظت اور رفاقت کو ایک نفل غزوے (جہاد) پر ترجیح دی گئی۔",
+                "گھریلو ذمہ داریاں اور اپنوں کا خیال رکھنا دین کا اہم حصہ ہے۔",
+                "شریعت نے انسانی ضروریات اور سماجی تحفظ کو ہر حال میں مقدم رکھا ہے۔"
+              ],
+              "english": [
+                "The protection and companionship of the wife were prioritized over a voluntary military expedition.",
+                "Fulfilling family responsibilities and caring for loved ones is a vital part of faith.",
+                "Shariah prioritizes human needs and social security in all circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور جدید مسائل",
+        "english": "Juristic Aspects and Modern Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محرم کی تعریف",
+              "english": "Definition of Mahram"
+            },
+            "content": {
+              "urdu": [
+                "محرم وہ مرد ہے جس سے عورت کا نکاح ہمیشہ کے لیے حرام ہو، جیسے باپ، بھائی، بیٹا وغیرہ۔",
+                "شوہر بھی محرم کے حکم میں آتا ہے اور اس کی رفاقت سب سے بہتر ہے۔",
+                "محرم کا عاقل اور بالغ ہونا ضروری ہے تاکہ وہ حفاظت کی ذمہ داری پوری کر سکے۔"
+              ],
+              "english": [
+                "A Mahram is a man with whom marriage is permanently forbidden, such as a father, brother, or son.",
+                "The husband also falls under the category of Mahram, and his companionship is ideal.",
+                "A Mahram should be sane and mature enough to fulfill the responsibility of protection."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گروہ کی صورت میں سفر",
+              "english": "Traveling in a Group"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی کے نزدیک اگر خواتین کا قابلِ اعتماد گروہ ہو تو وہ محرم کے بغیر فرض حج کر سکتی ہیں۔",
+                "تاہم، احتیاط اسی میں ہے کہ حدیث کے ظاہری الفاظ پر عمل کرتے ہوئے محرم کے ساتھ سفر کیا جائے۔",
+                "جدید دور کے محفوظ سفر کے باوجود شرعی اصول اپنی جگہ برقرار رہتے ہیں۔"
+              ],
+              "english": [
+                "Imam Shafi'i permits women to perform Fard Hajj without a Mahram if they travel in a trustworthy group.",
+                "However, caution lies in following the literal text of the Hadith by traveling with a Mahram.",
+                "Despite modern travel safety, the foundational Shariah principles remain applicable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عورت کا احترام",
+              "english": "Respect for Women"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے عورت کو اکیلا نہیں چھوڑا بلکہ اسے ہر قدم پر تحفظ فراہم کیا ہے۔",
+                "پردہ اور محرم کی شرط دراصل عورت کی قدر و منزلت بڑھانے کے لیے ہے۔",
+                "خاندان کے مردوں کو اپنی خواتین کی ضروریات اور سفر کا خیال رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Islam does not leave a woman isolated but provides her protection at every step.",
+                "The conditions of Hijab and Mahram are meant to elevate the status and value of women.",
+                "The men of the family must take responsibility for the needs and safety of their women."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی بصیرت",
+              "english": "Prophetic Foresight"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ایک ہی لمحے میں اس شخص کا مسئلہ حل کر دیا اور اسے صحیح سمت دکھائی۔",
+                "دین میں سختی نہیں بلکہ حالات کے مطابق لچک اور حکمت موجود ہے۔",
+                "حکمرانوں کو چاہیے کہ وہ رعایا کے انفرادی اور خاندانی مسائل کو اہمیت دیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) solved the man's dilemma instantly and guided him toward the right priority.",
+                "Religion is not rigid but contains flexibility and wisdom based on circumstances.",
+                "Leaders should prioritize the individual and family concerns of their citizens."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

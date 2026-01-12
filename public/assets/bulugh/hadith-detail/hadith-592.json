@@ -1,0 +1,259 @@
+{
+  "hadithId": 592,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/6/14"],
+    "kitabId": 6,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الحج",
+    "babId": 38
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري ( 1562 )‏، ومسلم ( 1211 )‏. واللفظ لمسلم، وفيه بيان أنواع النسك الثلاثة.",
+    "urdu": "صحیح۔ اسے بخاری (1562) اور مسلم (1211) نے روایت کیا ہے۔ یہ روایت حج کی تینوں اقسام (تمتع، قران، اور افراد) کے جواز اور ان کے احکام پر صریح دلیل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1562) and Muslim (1211). The wording is Muslim's, providing a comprehensive overview of the three types of Hajj."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَهَلَّ",
+      "english": "Raised the voice / Shouted Labbayk",
+      "urdu": "تلبیہ پکارا / نیت کی"
+    },
+    {
+      "arabic": "حَجَّةِ اَلْوَدَاعِ",
+      "english": "Farewell Pilgrimage",
+      "urdu": "آخری حج"
+    },
+    {
+      "arabic": "فَحَلَّ",
+      "english": "Became free from Ihram",
+      "urdu": "احرام کھول دیا / حلال ہو گئے"
+    },
+    {
+      "arabic": "يَوْمَ اَلنَّحْرِ",
+      "english": "Day of Sacrifice (Eid)",
+      "urdu": "قربانی کا دن"
+    },
+    {
+      "arabic": "نُسُك",
+      "english": "Ritual / Type of Hajj",
+      "urdu": "طریقہ عبادت"
+    }
+  ],
+  "summary": {
+    "urdu": "حج کی تین اقسام ہیں: تمتع (پہلے عمرہ پھر حج)، قران (دونوں کا ایک ساتھ احرام) اور افراد (صرف حج)۔ احرام کھولنے کا وقت ہر ایک کے لیے مختلف ہے۔",
+    "english": "There are three types of Hajj: Tamattu', Qiran, and Ifrad. The time for exiting the state of Ihram depends on which type the pilgrim intends."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1562)",
+      "english": "Sahih al-Bukhari (1562)"
+    },
+    {
+      "arabic": "صحيح مسلم (1211)",
+      "english": "Sahih Muslim (1211)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0Oq4lH9X-U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حج کی تینوں اقسام کی وضاحت",
+        "english": "Explanation of the Three Types of Hajj"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حجِ تمتع، قران اور افراد",
+              "english": "Tamattu', Qiran, and Ifrad"
+            },
+            "content": {
+              "urdu": [
+                "حج تمتع میں مسافر پہلے صرف عمرہ کرتا ہے اور پھر احرام کھول کر حج کا انتظار کرتا ہے۔",
+                "حج قران میں حج اور عمرہ دونوں کی نیت ایک ساتھ کی جاتی ہے اور احرام نہیں کھولا جاتا۔",
+                "حج افراد میں صرف حج کی نیت ہوتی ہے اور اس میں عمرہ شامل نہیں ہوتا۔"
+              ],
+              "english": [
+                "In Tamattu', the pilgrim performs Umrah, exits Ihram, then enters it again for Hajj.",
+                "In Qiran, Hajj and Umrah are combined in one Ihram without exiting until the end.",
+                "In Ifrad, only Hajj is performed without combining it with an Umrah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احرام سے حلال ہونے کا وقت",
+              "english": "Timing for Exiting Ihram"
+            },
+            "content": {
+              "urdu": [
+                "تمتع کرنے والے عمرہ مکمل کرتے ہی بال کٹوا کر حلال ہو جاتے ہیں۔",
+                "قارن اور مفرد کے لیے ضروری ہے کہ وہ 10 ذوالحجہ تک احرام کی حالت میں رہیں۔",
+                "قربانی کے دن بڑے شیطان کو کنکریاں مارنے کے بعد ہی وہ حلال ہو سکتے ہیں۔"
+              ],
+              "english": [
+                "Those performing Tamattu' exit Ihram immediately after completing their Umrah.",
+                "Qarin and Mufrid must remain in Ihram until the 10th of Dhul-Hijjah.",
+                "They can only exit Ihram after pelting the large Jamarah on the day of Eid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبی ﷺ کا طرزِ عمل",
+        "english": "The Prophet's (ﷺ) Practice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آپ ﷺ کا اپنا حج",
+              "english": "The Prophet's Own Hajj"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے حجۃ الوداع کے موقع پر 'حجِ قران' فرمایا تھا۔",
+                "چونکہ آپ ﷺ کے ساتھ ہدی (قربانی کا جانور) تھا، اس لیے آپ نے احرام نہیں کھولا۔",
+                "آپ ﷺ کا عمل امت کے لیے بہترین نمونہ اور رہنمائی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) performed Hajj al-Qiran during the Farewell Pilgrimage.",
+                "Since he had brought sacrificial animals (Hady) with him, he did not exit Ihram.",
+                "His practice serves as the ultimate guide and example for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کو رعایت دینا",
+              "english": "Granting Concessions to Companions"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے صحابہ کو اپنی پسند کے مطابق کوئی بھی قسم منتخب کرنے کی اجازت دی۔",
+                "جن کے پاس قربانی نہیں تھی، انہیں آپ ﷺ نے تمتع کرنے کا حکم دیا۔",
+                "اس سے ثابت ہوتا ہے کہ دین میں وسعت ہے اور تنگی نہیں ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) allowed companions to choose whichever type they preferred.",
+                "He specifically commanded those without Hady to perform Hajj al-Tamattu'.",
+                "This demonstrates the inherent flexibility and lack of hardship in religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات اور باریکیاں",
+        "english": "Juristic Rulings and Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قربانی (ہدی) کا وجوب",
+              "english": "Obligation of Sacrifice (Hady)"
+        },
+            "content": {
+              "urdu": [
+                "تمتع اور قران کرنے والے پر شکرانے کی قربانی واجب ہوتی ہے۔",
+                "اگر کوئی قربانی کی طاقت نہ رکھے تو اسے دس روزے رکھنے ہوتے ہیں۔",
+                "حج افراد (تنہا حج) کرنے والے پر قربانی واجب نہیں ہے بلکہ مستحب ہے۔"
+              ],
+              "english": [
+                "A sacrificial offering is mandatory for those performing Tamattu' or Qiran.",
+                "If a pilgrim cannot afford the Hady, they must fast for ten days.",
+                "For Ifrad (Hajj alone), the sacrifice is recommended but not obligatory."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حج کا مہینہ اور عمرہ",
+              "english": "Hajj Months and Umrah"
+            },
+            "content": {
+              "urdu": [
+                "حج کے مہینوں میں عمرہ کرنا جاہلیت میں گناہ سمجھا جاتا تھا جسے اسلام نے ختم کیا۔",
+                "نبی ﷺ نے ثابت کیا کہ عمرہ سال کے کسی بھی حصے میں کیا جا سکتا ہے۔",
+                "حجۃ الوداع کے تمام واقعات اسلامی احکامات کی تکمیل کا ذریعہ بنے۔"
+              ],
+              "english": [
+                "Islam abolished the Pre-Islamic belief that Umrah during Hajj months was a sin.",
+                "The Prophet (ﷺ) proved that Umrah can be performed at any time of the year.",
+                "Events of the Farewell Hajj served as the completion of Islamic law."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت کی درستگی",
+              "english": "Correctness of Intention"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی عبادت کا مدار نیت پر ہے، چاہے وہ حج ہو یا عمرہ۔",
+                "تلبیہ پکارنا نیت کے اظہار کا مسنون طریقہ ہے۔",
+                "مومن کو چاہیے کہ سفر شروع کرنے سے پہلے اپنے مقصد کو واضح کر لے۔"
+              ],
+              "english": [
+                "The validity of any worship depends on the intention, whether Hajj or Umrah.",
+                "Shouting 'Labbayk' is the Sunnah method of declaring one's intention.",
+                "A believer should clarify their objective before embarking on the journey."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صبر اور استقامت",
+              "english": "Patience and Perseverance"
+            },
+            "content": {
+              "urdu": [
+                "حالتِ احرام میں طویل عرصہ رہنا صبر کی ایک بڑی مشق ہے۔",
+                "قارن اور مفرد کے لیے یہ مشقت ان کے درجات کی بلندی کا سبب ہے۔",
+                "دین کی خاطر تکلیف اٹھانا اللہ کے ہاں نہایت پسندیدہ ہے۔"
+              ],
+              "english": [
+                "Remaining in Ihram for a long duration is a significant exercise in patience.",
+                "For the Qarin and Mufrid, this hardship elevates their spiritual ranks.",
+                "Enduring difficulties for the sake of religion is highly beloved to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

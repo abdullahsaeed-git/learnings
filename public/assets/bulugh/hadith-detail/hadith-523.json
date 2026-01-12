@@ -1,0 +1,260 @@
+{
+  "hadithId": 523,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/523"],
+    "kitabId": 4,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 32
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم في صحيحه برقم (1072) في حديث طويل يتعلق بطلب العمل على الصدقة.",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (1072) نے اسے اپنی صحیح میں ایک طویل واقعے کے ساتھ روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1072) in a long Hadith regarding the request for employment in Zakat administration."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَنْبَغِي",
+      "english": "Not becoming / Not proper",
+      "urdu": "مناسب نہیں / لائق نہیں"
+    },
+    {
+      "arabic": "آلِ مُحَمَّدٍ",
+      "english": "Family of Muhammad",
+      "urdu": "آلِ محمد (صلی اللہ علیہ وسلم)"
+    },
+    {
+      "arabic": "أَوْسَاخُ",
+      "english": "Impurities / Filth",
+      "urdu": "میل کچیل"
+    },
+    {
+      "arabic": "لَا تَحِلُّ",
+      "english": "Not lawful / Forbidden",
+      "urdu": "حلال نہیں"
+    },
+    {
+      "arabic": "اَلصَّدَقَةَ",
+      "english": "Alms / Zakat",
+      "urdu": "صدقہ / زکوٰۃ"
+    },
+    {
+      "arabic": "اَلنَّاسِ",
+      "english": "The people",
+      "urdu": "لوگ"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ اور آپ کی آل کے لیے زکوٰۃ اور واجب صدقات لینا حرام قرار دیا گیا ہے کیونکہ یہ لوگوں کے گناہوں اور مالوں کی صفائی کا ذریعہ (میل) ہے۔",
+    "english": "Zakat and obligatory charity are forbidden for the Prophet (ﷺ) and his family (Ahl al-Bayt) because it is considered the 'impurity' that cleanses the people's wealth."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1072)",
+      "english": "Sahih Muslim (1072)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد المطلب بن ربيعة",
+        "english": "Abdul-Muttalib bin Rabi'a"
+      },
+      "slug": "abdul-muttalib-bin-rabia"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "آلِ محمد ﷺ پر صدقے کی حرمت",
+        "english": "Prohibition of Charity for Ahl al-Bayt"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقدس نسب کا احترام",
+              "english": "Respect for the Sacred Lineage"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کے خاندان کا مقام و مرتبہ عام لوگوں سے بلند اور پاکیزہ ہے۔",
+                "صدقہ واجبہ (زکوٰۃ) مالداروں کے مال کی میل کچیل ہے جو ان کی صفائی کے لیے نکالی جاتی ہے۔",
+                "اس میل کچیل کو آلِ رسول ﷺ کے لیے حلال نہیں کیا گیا تاکہ ان کے شرف کی حفاظت ہو۔"
+              ],
+              "english": [
+                "The status of the Prophet's (ﷺ) family is elevated and pure compared to others.",
+                "Obligatory charity (Zakat) is the 'impurity' of the wealthy, removed to purify their assets.",
+                "This residue was not made lawful for the Household to preserve their honor and nobility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آلِ محمد ﷺ سے مراد",
+              "english": "Meaning of Aal-e-Muhammad"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک اس سے مراد بنو ہاشم اور بنو عبدالمطلب کے خاندان ہیں۔",
+                "ان میں حضرت علی، حضرت جعفر، حضرت عقیل اور حضرت عباس (رضی اللہ عنہم) کی اولادیں شامل ہیں۔",
+                "نبی ﷺ نے ان کے لیے صدقے کے بجائے خمس (مالِ غنیمت کا پانچواں حصہ) مقرر فرمایا تھا۔"
+              ],
+              "english": [
+                "According to jurists, this refers to the clans of Banu Hashim and Banu Abdul-Muttalib.",
+                "It includes the descendants of Ali, Ja'far, Aqeel, and Abbas (may Allah be pleased with them).",
+                "Instead of Zakat, the Prophet (ﷺ) designated the Khumus (one-fifth of spoils) for them."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صدقے کی حقیقت: میل کچیل",
+        "english": "The Nature of Sadaqah: Impurities"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تزکیہ مال کا ذریعہ",
+              "english": "Means of Purifying Wealth"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ نکالنے سے بقیہ مال پاک ہو جاتا ہے اور گناہوں کا کفارہ ہوتا ہے۔",
+                "جیسے صابن جسم کی میل دور کرتا ہے، زکوٰۃ مال کی میل (ناپاکی) دور کرتی ہے۔",
+                "نبی ﷺ نے اسے 'اوساخ' (میل) قرار دے کر اس کے لینے سے کراہت کا اظہار کیا۔"
+              ],
+              "english": [
+                "Paying Zakat purifies the remaining wealth and serves as expiation for sins.",
+                "Just as soap removes dirt from the body, Zakat removes 'dirt' from wealth.",
+                "The Prophet (ﷺ) called it 'Awsakh' (filth) to express the aversion to receiving it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عظمتِ نبوت کی حفاظت",
+              "english": "Protecting Prophetic Dignity"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے خود کو اور اپنے گھر والوں کو لوگوں کے صدقات سے دور رکھا۔",
+                "اس کا مقصد یہ تھا کہ کوئی یہ نہ کہے کہ نبی لوگوں کا مال بٹورنے آیا ہے۔",
+                "یہ اسلام کی صداقت اور نبی ﷺ کے تقویٰ و اخلاص کی بہت بڑی دلیل ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) kept himself and his family away from people's charities.",
+                "This ensured no one could claim that the Prophet came to collect people's wealth.",
+                "This is a great proof of the truth of Islam and the Prophet's (ﷺ) sincerity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور استثناء",
+        "english": "Juristic Issues and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفلی صدقات اور تحائف",
+              "english": "Voluntary Charity and Gifts"
+            },
+            "content": {
+              "urdu": [
+                "واجب صدقہ (زکوٰۃ) حرام ہے، لیکن نفلی صدقات میں فقہاء کا اختلاف ہے۔",
+                "نبی کریم ﷺ تحفہ قبول فرماتے تھے لیکن صدقہ قبول نہیں فرماتے تھے۔",
+                "تحفہ محبت کی علامت ہے جبکہ صدقہ مال کی میل اور ترحم (ترس) کی علامت ہے۔"
+              ],
+              "english": [
+                "Obligatory charity is forbidden, but scholars differ regarding voluntary ones.",
+                "The Prophet (ﷺ) would accept gifts but strictly refused Sadaqah.",
+                "A gift is a sign of love, while Sadaqah is a sign of cleansing wealth and pity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صدقہ کا مصرف بدلنا",
+              "english": "Change of Zakat Status"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی غیر ہاشمی مسکین زکوٰۃ وصول کرے اور پھر وہ اسے ہاشمی کو تحفہ دے تو وہ حلال ہے۔",
+                "حضرت بریرہؓ کے واقعے سے ثابت ہے کہ غریب کے لیے وہ صدقہ ہے اور نبی ﷺ کے لیے تحفہ۔",
+                "ملکیت بدلنے سے مال کی شرعی حیثیت تبدیل ہو جاتی ہے۔"
+              ],
+              "english": [
+                "If a non-Hashimi needy person receives Zakat and then gifts it to a Hashimi, it is lawful.",
+                "The story of Barira (RA) proves it is Sadaqah for the poor and a gift for the Prophet (ﷺ).",
+                "The legal status of wealth changes when the ownership and nature of transfer change."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصیحت",
+        "english": "Practical Lessons and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سادات کا احترام",
+              "english": "Respect for the Sayyids"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو چاہیے کہ وہ اولادِ رسول ﷺ (سادات) کا ہمیشہ ادب و احترام کریں۔",
+                "انہیں زکوٰۃ دینے کے بجائے اپنے حلال اور طیب مال سے تحائف پیش کرنے چاہئیں۔",
+                "ان کی مالی ضرورت کا خیال رکھنا امت پر ان کی محبت کا تقاضا ہے۔"
+              ],
+              "english": [
+                "Muslims must always honor and respect the descendants of the Prophet (ﷺ).",
+                "Instead of giving them Zakat, we should offer gifts from our pure and lawful wealth.",
+                "Caring for their financial needs is a requirement of loving the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زکوٰۃ کی اہمیت کا ادراک",
+              "english": "Understanding the Importance of Zakat"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ دینا بخل سے پاکی اور مال کی بڑھوتری کا ذریعہ ہے۔",
+                "یہ غریب کا حق ہے جو اللہ نے امیر کے مال میں رکھا ہے۔",
+                "جب کوئی شخص زکوٰۃ دیتا ہے تو وہ درحقیقت اپنے مال سے ناپاکی نکال کر اسے صاف کرتا ہے۔"
+              ],
+              "english": [
+                "Paying Zakat is a means of purification from greed and an increase in wealth.",
+                "It is the right of the poor that Allah placed within the wealth of the rich.",
+                "When a person pays Zakat, they are essentially removing impurities to clean their assets."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

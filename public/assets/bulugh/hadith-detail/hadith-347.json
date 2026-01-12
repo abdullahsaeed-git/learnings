@@ -1,0 +1,172 @@
+{
+  "hadithId": 347,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh:418"],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "تقصير الصلاة",
+    "babId": 21
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1111)، ومسلم (704). وزيادة الحاكم وأبي نعيم تدل على مشروعية جمع التقديم أيضاً، وقد صحح الحافظ ابن حجر إسنادها في البلوغ.",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری اور مسلم نے روایت کیا ہے۔ حاکم اور ابونعیم کی زیادات سے 'جمع تقدیم' (ظہر کے وقت میں عصر پڑھنا) کا ثبوت ملتا ہے، جس کی سند کو حافظ ابن حجر نے صحیح قرار دیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1111) and Muslim (704). The additions by Al-Hakim and Abu Nu'aim indicate the permissibility of 'Jam' Taqdīm' (combining prayers in the earlier time), and Ibn Hajar authenticated their chains."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِرْتَحَلَ",
+      "english": "Departed / Set out",
+      "urdu": "کوچ کیا / سفر شروع کیا"
+    },
+    {
+      "arabic": "تَزِيغَ",
+      "english": "Pass the meridian (Zawal)",
+      "urdu": "سورج کا ڈھلنا"
+    },
+    {
+      "arabic": "جَمَعَ بَيْنَهُمَا",
+      "english": "Combined between them",
+      "urdu": "ان دونوں کو اکٹھا کیا"
+    },
+    {
+      "arabic": "أَخَّرَ",
+      "english": "Delayed",
+      "urdu": "مؤخر کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث سفر کے دوران ظہر اور عصر کی نمازوں کو جمع کر کے پڑھنے (جمع بین الصلاتین) کے طریقے کو بیان کرتی ہے۔ اگر زوال سے پہلے نکلیں تو 'جمع تاخیر' اور زوال کے بعد نکلیں تو 'جمع تقدیم' کی جا سکتی ہے۔",
+    "english": "This Hadith explains the method of combining Dhuhr and Asr prayers during travel. If departing before Zawal, one performs 'Jam' Ta'khīr' (delaying); if departing after Zawal, 'Jam' Taqdīm' (early combination) is practiced."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1111)",
+      "english": "Sahih al-Bukhari (1111)"
+    },
+    {
+      "arabic": "صحيح مسلم (704)",
+      "english": "Sahih Muslim (704)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك الأنصاري",
+        "english": "Anas bin Malik al-Ansari"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Muttafaqun Alayh"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جمع بین الصلاتین کے طریقے",
+        "english": "Methods of Combining Prayers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمع تاخیر (Delying Combination)",
+              "english": "Jam' Ta'khīr"
+            },
+            "content": {
+              "urdu": [
+                "اگر مسافر زوال (ظہر کا وقت شروع ہونے) سے پہلے سفر شروع کر دے تو وہ ظہر کو عصر کے وقت تک لیٹ کر سکتا ہے۔",
+                "عصر کا وقت ہونے پر وہ دونوں نمازیں (ظہر اور عصر) ایک ساتھ ادا کرے گا۔",
+                "یہ طریقہ اس وقت مفید ہے جب سفر کے دوران رکنا مشکل ہو اور منزل پر عصر کے وقت پہنچنا متوقع ہو۔"
+              ],
+              "english": [
+                "If the traveler sets out before Dhuhr time begins, he can delay Dhuhr until Asr time.",
+                "Both Dhuhr and Asr will be prayed together when Asr time arrives.",
+                "This method is beneficial when stopping during the journey is difficult."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جمع تقدیم (Early Combination)",
+              "english": "Jam' Taqdīm"
+            },
+            "content": {
+              "urdu": [
+                "اگر سورج زوال پذیر ہو چکا ہو (ظہر کا وقت ہو گیا ہو) اور ابھی روانہ ہونا ہو، تو ظہر کے ساتھ ہی عصر پڑھ لینا جائز ہے۔",
+                "حاکم اور ابونعیم کی روایات اس طریقے کی صریح دلیل ہیں جنہیں حافظ ابن حجر نے 'جید' قرار دیا ہے۔",
+                "اس طرح مسافر ایک ہی وقت میں دونوں نمازوں سے فارغ ہو کر طویل سفر جاری رکھ سکتا ہے۔"
+              ],
+              "english": [
+                "If the sun has passed the meridian (Dhuhr started) and the traveler is about to leave, he can pray Asr along with Dhuhr.",
+                "The narrations of Al-Hakim and Abu Nu'aim provide explicit evidence for this, which Ibn Hajar graded as 'Jayyid' (good).",
+                "This allows the traveler to complete both obligations at once and proceed on a long journey."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور آسانی",
+        "english": "Jurisprudential Aspect and Ease"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں وسعت",
+              "english": "Flexibility in Religion"
+            },
+            "content": {
+              "urdu": [
+                "سفر میں نمازوں کو جمع کرنا اللہ کی طرف سے ایک بڑی سہولت ہے تاکہ مسافر کے لیے دشواری نہ ہو۔",
+                "یہ حکم صرف ظہر و عصر اور مغرب و عشاء کے لیے ہے۔ فجر کی نماز کو کسی دوسری نماز کے ساتھ جمع نہیں کیا جا سکتا۔",
+                "امام شافعی، احمد اور مالک کے نزدیک یہ جمع حقیقی ہے، جبکہ احناف کے نزدیک یہ صرف 'جمع صوری' (ایک کا آخری وقت اور دوسری کا اول وقت) ہے۔"
+              ],
+              "english": [
+                "Combining prayers during travel is a major concession from Allah to prevent hardship.",
+                "This rule only applies to Dhuhr/Asr and Maghrib/Isha. Fajr cannot be combined with any other prayer.",
+                "While Imams Shafi'i, Ahmad, and Malik allow actual combination, the Hanafi school generally views this as 'Jam' Suri' (apparent combination)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حالات کے مطابق عمل",
+              "english": "Acting According to Circumstances"
+            },
+            "content": {
+              "urdu": [
+                "سفر کے دوران وقت اور سہولت کو مدنظر رکھتے ہوئے جمع تقدیم یا تاخیر میں سے کسی ایک کا انتخاب کیا جا سکتا ہے۔",
+                "ایک مومن کو چاہیے کہ وہ سفر میں بھی نماز کا پابند رہے اور اللہ کی دی ہوئی رخصتوں سے فائدہ اٹھائے۔",
+                "نمازوں کو جمع کرنے کا مقصد مشقت کو ختم کرنا ہے، لہذا اسے بوجھ نہیں سمجھنا چاہیے۔"
+              ],
+              "english": [
+                "A traveler can choose between early or delayed combination based on time and convenience.",
+                "A believer must remain committed to prayer even during travel, utilizing the concessions provided by Allah.",
+                "The purpose of combining prayers is to eliminate hardship, so it should be embraced as a mercy."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "hadithId": 600,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/6/22"],
+    "kitabId": 6,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحج",
+    "babId": 39
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1825)، ومسلم (1193). وفيه النهي عن أكل الصيد الذي صيد لأجل المحرم.",
+    "urdu": "صحیح۔ اسے امام بخاری (1825) اور امام مسلم (1193) نے روایت کیا ہے۔ یہ حدیث اس بات کی دلیل ہے کہ جو شکار محرم کے لیے کیا گیا ہو، اس کا کھانا محرم کے لیے ممنوع ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1825) and Muslim (1193). The Hadith indicates the prohibition for a Muhrim to consume game that was specifically hunted for them."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَهْدَى",
+      "english": "Presented a gift",
+      "urdu": "تحفہ دیا"
+    },
+    {
+      "arabic": "حِمَارًا وَحْشِيًّا",
+      "english": "Wild ass / Zebra",
+      "urdu": "گورخر / جنگلی گدھا"
+    },
+    {
+      "arabic": "فَرَدَّهُ",
+      "english": "Returned it",
+      "urdu": "اسے واپس کر دیا"
+    },
+    {
+      "arabic": "حُرُمٌ",
+      "english": "In state of Ihram",
+      "urdu": "احرام والے / حالتِ احرام میں"
+    }
+  ],
+  "summary": {
+    "urdu": "احرام کی حالت میں محرم کے لیے شکار کرنا یا ایسا جانور کھانا جو خاص اس کے لیے شکار کیا گیا ہو، ممنوع ہے۔ نبی ﷺ نے اسی وجہ سے صحابی کا ہدیہ واپس فرمایا۔",
+    "english": "In the state of Ihram, it is forbidden for a pilgrim to hunt or eat an animal that was specifically hunted for them. This is why the Prophet (ﷺ) returned the gift."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1825)",
+      "english": "Sahih al-Bukhari (1825)"
+    },
+    {
+      "arabic": "صحيح مسلم (1193)",
+      "english": "Sahih Muslim (1193)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "صعب بن جثامة الليثي",
+        "english": "As-Sa'b bin Jaththama al-Laythi"
+      },
+      "slug": "as-sab-bin-jaththama"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0Oq4lH9X-U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "احرام میں شکار کا حکم",
+        "english": "Ruling on Hunting in Ihram"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممانعت کی وجہ",
+              "english": "Reason for Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "قرآن و سنت کی رو سے محرم کے لیے خشکی کا شکار کرنا حرام ہے۔",
+                "نبی ﷺ نے ہدیہ اس لیے واپس کیا کیونکہ وہ جانور ذبح شدہ نہیں بلکہ زندہ حالت میں یا خاص آپ ﷺ کے لیے شکار کر کے لایا گیا تھا۔",
+                "احرام امن اور سلامتی کی حالت ہے جہاں جنگلی حیات کو بھی امان حاصل ہوتی ہے۔"
+              ],
+              "english": [
+                "According to Quran and Sunnah, hunting land animals is forbidden for a Muhrim.",
+                "The Prophet (ﷺ) returned the gift because it was either brought alive to be slaughtered or hunted specifically for him.",
+                "Ihram is a state of peace where even wildlife is granted safety."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شکار کی مختلف صورتیں",
+              "english": "Different Scenarios of Hunting"
+            },
+            "content": {
+              "urdu": [
+                "اگر شکار محرم نے خود کیا ہو تو اس کا کھانا سب کے لیے حرام ہے۔",
+                "اگر کسی غیر محرم نے خاص محرم کے لیے شکار کیا ہو، تب بھی محرم اسے نہیں کھا سکتا۔",
+                "اگر شکار عام طریقے سے کیا گیا ہو اور محرم کو اس کا گوشت پیش کیا جائے تو وہ جائز ہے۔"
+              ],
+              "english": [
+                "If a Muhrim hunts personally, the meat is forbidden for everyone.",
+                "If a non-Muhrim hunts specifically for a Muhrim, the Muhrim still cannot eat it.",
+                "If game was caught generally and then offered to a Muhrim, it is permissible to eat."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبوی اخلاق اور دلجوئی",
+        "english": "Prophetic Manners and Empathy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہدیہ واپس کرنے کی وضاحت",
+              "english": "Explaining the Return of a Gift"
+            },
+            "content": {
+              "urdu": [
+                "جب آپ ﷺ نے دیکھا کہ صعب رضی اللہ عنہ ہدیہ واپسی پر غمگین ہوئے، تو آپ نے فورا وجہ بیان فرمائی۔",
+                "یہ سنت ہمیں سکھاتی ہے کہ اگر کسی کا تحفہ مجبوری میں لوٹانا پڑے تو عذر بیان کر دینا چاہیے تاکہ دل شکنی نہ ہو۔",
+                "حسنِ اخلاق کا تقاضا ہے کہ دوسروں کے جذبات کا احترام کیا جائے۔"
+              ],
+              "english": [
+                "When the Prophet (ﷺ) noticed As-Sa'b's sadness at the return of his gift, he immediately explained the reason.",
+                "This teaches us that if a gift must be returned due to necessity, one should provide an excuse to avoid hurting feelings.",
+                "Good character requires respecting the emotions of others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عظمتِ احرام",
+              "english": "The Greatness of Ihram"
+            },
+            "content": {
+              "urdu": [
+                "احرام صرف لباس کا نام نہیں بلکہ یہ ایک روحانی کیفیت اور ضابطہ ہے۔",
+                "نبی ﷺ نے اپنے عمل سے ثابت کیا کہ قانونِ الٰہی پر عمل درآمد ہر چیز سے مقدم ہے۔",
+                "بندگی کا تقاضا ہے کہ حلال چیزیں بھی اللہ کے حکم پر چھوڑ دی جائیں۔"
+              ],
+              "english": [
+                "Ihram is not just a dress; it is a spiritual state and a code of conduct.",
+                "The Prophet (ﷺ) proved through his action that implementing Divine Law takes precedence over everything.",
+                "Servitude requires abandoning even permissible things when Allah commands."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جغرافیائی اور تاریخی پس منظر",
+        "english": "Geographic and Historical Context"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابواء اور ودان کا مقام",
+              "english": "The Location of Al-Abwa' and Waddan"
+            },
+            "content": {
+              "urdu": [
+                "یہ مقامات مکہ اور مدینہ کے درمیان واقع ہیں۔",
+                "نبی ﷺ حجۃ الوداع کے سفر کے دوران یہاں سے گزر رہے تھے۔",
+                "اس سفر کے ہر واقعے کو صحابہ نے نہایت باریکی سے محفوظ کیا تاکہ امت کے لیے رہنمائی ہو۔"
+              ],
+              "english": [
+                "These locations are situated between Makkah and Madinah.",
+                "The Prophet (ﷺ) was passing through here during his Farewell Pilgrimage.",
+                "Companions recorded every detail of this journey meticulously to guide the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گورخر (جنگلی گدھا) کا حکم",
+              "english": "Ruling on the Wild Ass"
+            },
+            "content": {
+              "urdu": [
+                "گورخر یا جنگلی گدھا حلال جانور ہے، جبکہ گھریلو گدھا حرام ہے۔",
+                "صعب رضی اللہ عنہ ایک ماہر شکاری تھے اور انہوں نے حلال سمجھ کر ہی ہدیہ پیش کیا تھا۔",
+                "ممانعت صرف حالتِ احرام کی وجہ سے عارضی طور پر لاگو ہوئی تھی۔"
+              ],
+              "english": [
+                "The wild ass (zebra/onager) is a Halal animal, whereas the domestic donkey is Haram.",
+                "As-Sa'b (RA) was a skilled hunter and offered it because it was Halal.",
+                "The prohibition was only temporary due to the state of Ihram."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Life Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شبہات سے بچنا",
+              "english": "Avoiding Doubts"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے شک سے بچنے کے لیے ہدیہ قبول نہیں فرمایا۔",
+                "اگر کسی معاملے میں شرعی حرمت کا اندیشہ ہو تو احتیاط بہتر ہے۔",
+                "تقویٰ کا ایک پہلو یہ بھی ہے کہ انسان مشکوک اشیاء سے دور رہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) declined the gift to avoid any doubt regarding Sharia compliance.",
+                "If there is a fear of legal prohibition in any matter, caution is superior.",
+                "An aspect of piety (Taqwa) is for an individual to stay away from doubtful things."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قوانینِ الٰہی کی پاسداری",
+              "english": "Observing Divine Laws"
+            },
+            "content": {
+              "urdu": [
+                "حج کے سفر میں ہر حاجی کو چاہیے کہ وہ محظوراتِ احرام (ممنوعات) کا گہرا علم حاصل کرے۔",
+                "نادانی میں کی گئی غلطی بھی دم یا فدیہ واجب کر سکتی ہے۔",
+                "عبادت کی درستگی کے لیے علمِ دین کا ہونا لازمی شرط ہے۔"
+              ],
+              "english": [
+                "Every pilgrim should acquire deep knowledge of the prohibitions of Ihram.",
+                "Errors made in ignorance can still necessitate an expiation or ransom.",
+                "Religious knowledge is a prerequisite for the correctness of worship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

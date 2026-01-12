@@ -1,0 +1,251 @@
+{
+  "hadithId": 707,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh:707"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (3580)، والترمذي (1337) وقال: حسن صحيح. وأخرجه أيضاً ابن ماجه (2313) وأحمد (2/164).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (3580) اور ترمذی (1337) نے روایت کیا ہے، اور امام ترمذی نے اسے حسن صحیح قرار دیا ہے۔ ابن ماجہ اور احمد نے بھی اسے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (3580) and At-Tirmidhi (1337), who graded it Hasan Sahih. Also reported by Ibn Majah (2313) and Ahmad."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَعَنَ",
+      "english": "Cursed",
+      "urdu": "لعنت فرمائی"
+    },
+    {
+      "arabic": "الرَّاشِي",
+      "english": "The Briber",
+      "urdu": "رشوت دینے والا"
+    },
+    {
+      "arabic": "الْمُرْتَشِيَ",
+      "english": "The Bribed",
+      "urdu": "رشوت لینے والا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں رشوت ستانی کی شدید مذمت کی گئی ہے اور واضح کیا گیا ہے کہ رشوت لینے اور دینے والے دونوں اللہ کی رحمت سے دور (ملعون) ہیں۔",
+    "english": "This Hadith strictly condemns bribery, declaring both the giver and the taker of a bribe as cursed and deprived of Allah's mercy."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي (1337)",
+      "english": "Jami' At-Tirmidhi (1337)"
+    },
+    {
+      "arabic": "سنن أبي داود (3580)",
+      "english": "Sunan Abi Dawud (3580)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin 'Amr bin al-'As"
+      },
+      "slug": "abdullah-bin-amr-bin-al-as"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0O5vXJ4Xm4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رشوت کی تعریف اور سنگینی",
+        "english": "Definition and Gravity of Bribery"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رشوت کا شرعی مفہوم",
+              "english": "Sharia Definition of Bribery"
+            },
+            "content": {
+              "urdu": [
+                "رشوت سے مراد وہ مال یا فائدہ ہے جو کسی باطل کام کو ثابت کرنے یا حق کو دبانے کے لیے دیا جائے۔",
+                "نبی ﷺ کی لعنت اس بات کی دلیل ہے کہ یہ گناہِ کبیرہ ہے جو ایمان کی جڑوں کو کھوکھلا کر دیتا ہے۔",
+                "یہ معاشرے میں عدل و انصاف کے نظام کو تباہ کرنے کا سب سے بڑا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Bribery refers to giving wealth or benefit to establish something false or suppress the truth.",
+                "The Prophet's curse proves it is a major sin that hollows out the roots of faith.",
+                "It is the primary means of destroying the system of justice and fairness in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گناہ میں برابری",
+              "english": "Equality in Sin"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح رشوت لینا حرام ہے، اسی طرح اسے دینا بھی اللہ کی ناراضگی کا باعث ہے۔",
+                "دینے والا (راشی) اس باطل نظام کو شروع کرتا ہے اور لینے والا (مرتشی) اسے پروان چڑھاتا ہے۔",
+                "شریعت نے دونوں پر ایک جیسی وعید سنا کر بدعنوانی کے تمام دروازے بند کر دیے ہیں۔"
+              ],
+              "english": [
+                "Just as taking a bribe is forbidden, giving it also causes Allah's displeasure.",
+                "The giver initiates the corrupt system, and the taker nurtures it.",
+                "Sharia closes all doors to corruption by issuing the same warning to both parties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور معاشی اثرات",
+        "english": "Social and Economic Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق کی پامالی",
+              "english": "Violation of Rights"
+            },
+            "content": {
+              "urdu": [
+                "رشوت کی وجہ سے مستحق لوگ اپنے حق سے محروم رہ جاتے ہیں اور نااہل لوگ آگے آ جاتے ہیں۔",
+                "اس سے معاشرے میں مایوسی، نفرت اور عدم استحکام پیدا ہوتا ہے۔",
+                "عدالتوں اور سرکاری دفاتر میں رشوت کا رواج ملک کے زوال کا پیش خیمہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Bribery causes deserving people to lose their rights while incompetent people advance.",
+                "It creates despair, hatred, and instability within the society.",
+                "The prevalence of bribery in courts and government offices is a precursor to a nation's decline."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کا تحفظ",
+              "english": "Protection of Halal Sustenance"
+            },
+            "content": {
+              "urdu": [
+                "رشوت کے ذریعے حاصل کیا گیا مال 'سحت' (حرام) ہے جو دعاؤں کی قبولیت میں رکاوٹ بنتا ہے۔",
+                "ایک مسلمان کو چاہیے کہ وہ معاشی تنگی کے باوجود اللہ کے احکامات پر ثابت قدم رہے۔",
+                "حرام مال سے پرورش پانے والا جسم جہنم کی آگ کا زیادہ حقدار ہے۔"
+              ],
+              "english": [
+                "Wealth gained through bribery is 'Suht' (unlawful), obstructing the acceptance of prayers.",
+                "A Muslim must remain steadfast in Allah's commands despite economic hardships.",
+                "A body nourished by forbidden wealth is more deserving of the fire of Hell."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور استثناء",
+        "english": "Juristic Aspects and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مجبوری کی صورت کا حکم",
+              "english": "Ruling on Cases of Necessity"
+            },
+            "content": {
+              "urdu": [
+                "بعض فقہاء کے نزدیک اگر کسی کا جائز حق رشوت دیے بغیر نہ مل رہا ہو، تو وہ گناہ گار نہیں ہوگا۔",
+                "ایسی صورت میں گناہ صرف لینے والے (مرتشی) پر ہوگا جو ظلم کر رہا ہے۔",
+                "مگر یہ اجازت صرف شدید ضرورت اور جائز حق کے لیے ہے، کسی دوسرے کا حق مارنے کے لیے نہیں۔"
+              ],
+              "english": [
+                "Some jurists believe if a legitimate right cannot be attained without paying, the giver may not be sinful.",
+                "In such cases, the sin lies solely with the taker who is committing oppression.",
+                "However, this concession is only for dire necessity and legitimate rights, not to usurp others' rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہدیہ اور رشوت میں فرق",
+              "english": "Difference Between Gift and Bribe"
+            },
+            "content": {
+              "urdu": [
+                "سرکاری عہدیداروں کو دورانِ ملازمت ملنے والے تحائف اکثر رشوت کے حکم میں آتے ہیں۔",
+                "نبی ﷺ نے فرمایا تھا کہ 'وہ اپنے باپ کے گھر کیوں نہ بیٹھا رہا تاکہ اسے ہدیہ ملتا'۔",
+                "اگر ہدیہ کسی خاص مقصد یا کام کے بدلے میں ہو، تو وہ رشوت ہی ہے۔"
+              ],
+              "english": [
+                "Gifts received by public officials during service often fall under the ruling of bribery.",
+                "The Prophet (PBUH) once asked: 'Why didn't he stay in his father's house to see if he got gifts?'",
+                "If a gift is in exchange for a specific task or purpose, it is effectively a bribe."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے اسباق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصلاحِ معاشرہ کی کوشش",
+              "english": "Striving for Social Reform"
+            },
+            "content": {
+              "urdu": [
+                "رشوت کا خاتمہ ہر شہری کی اخلاقی اور مذہبی ذمہ داری ہے۔",
+                "جب ہم انفرادی طور پر رشوت دینے سے انکار کریں گے، تو اس نظام کی جڑ کٹے گی۔",
+                "دیانتداری کو اپنا شعار بنانا ہی حقیقی کامیابی کا راستہ ہے۔"
+              ],
+              "english": [
+                "Eliminating bribery is the moral and religious duty of every citizen.",
+                "When we individually refuse to give bribes, the roots of this system will be cut.",
+                "Adopting integrity as a way of life is the path to true success."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خلاصہ کلام",
+              "english": "Conclusion"
+            },
+            "content": {
+              "urdu": [
+                "رشوت اللہ اور اس کے رسول ﷺ کی نظر میں انتہائی ناپسندیدہ فعل ہے۔",
+                "دنیاوی فائدہ تو عارضی ہے مگر اس کی نحوست اور آخرت کا عذاب دائمی ہے۔",
+                "ایک پاکیزہ معاشرے کی بنیاد دیانت، امانت اور عدل پر ہونی چاہیے۔"
+              ],
+              "english": [
+                "Bribery is an extremely disliked act in the sight of Allah and His Messenger (PBUH).",
+                "Worldly gain is temporary, but its evil consequences and the punishment of the Hereafter are eternal.",
+                "A pure society must be founded on integrity, trust, and justice."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

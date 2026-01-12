@@ -1,0 +1,254 @@
+{
+  "hadithId": 1250,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/15"],
+    "kitabId": 16,
+    "inKitabBab": 1,
+    "arabicBook": "الجامع - باب الأدب",
+    "babId": 102
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (2020).",
+    "urdu": "صحیح۔ اسے امام مسلم (2020) نے اپنی صحیح میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (2020) in his Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "بِيَمِينِهِ",
+      "english": "With his right hand",
+      "urdu": "اپنے دائیں ہاتھ سے"
+    },
+    {
+      "arabic": "بِشِمَالِهِ",
+      "english": "With his left hand",
+      "urdu": "اپنے بائیں ہاتھ سے"
+    },
+    {
+      "arabic": "فَلْيَأْكُلْ",
+      "english": "So he should eat",
+      "urdu": "پس اسے چاہیے کہ کھائے"
+    },
+    {
+      "arabic": "اَلشَّيْطَانَ",
+      "english": "The Devil / Satan",
+      "urdu": "شیطان"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کھانے پینے کا ایک اہم اسلامی ادب بیان کیا گیا ہے کہ ہمیشہ دایاں ہاتھ استعمال کیا جائے اور شیطانی مشابہت (بائیں ہاتھ کے استعمال) سے بچا جائے۔",
+    "english": "This Hadith highlights an essential Islamic etiquette of eating and drinking: always use the right hand and avoid imitating Satan by using the left hand."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الأشربة، باب آداب الأكل والشرب، رقم 2020",
+      "english": "Sahih Muslim, Book of Drinks, No. 2020"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الأطعمة، رقم 3776",
+      "english": "Sunan Abi Dawud, Book of Foods, No. 3776"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqG0F8L_8Gk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دائیں ہاتھ کے استعمال کی اہمیت",
+        "english": "Importance of Using the Right Hand"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی حکم اور فضیلت",
+              "english": "Sharia Ruling and Virtue"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے کھانے پینے کے لیے دائیں ہاتھ کو مخصوص فرمایا ہے، جو برکت اور عزت کی علامت ہے۔",
+                "دایاں ہاتھ اچھے اور پاکیزہ کاموں کے لیے استعمال ہوتا ہے جبکہ بایاں ہاتھ صفائی اور استنجاء کے لیے۔",
+                "یہ حکم مسلمانوں کو ایک خاص تہذیب اور نفاست پسندی سکھاتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) designated the right hand for eating and drinking, symbolizing blessing and honor.",
+                "The right hand is used for noble and pure tasks, while the left hand is reserved for cleaning and hygiene.",
+                "This ruling teaches Muslims a specific culture of refinement and cleanliness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شیطانی عمل سے دوری",
+              "english": "Avoiding Satanic Practice"
+            },
+            "content": {
+              "urdu": [
+                "بائیں ہاتھ سے کھانا پینا شیطان کا طریقہ ہے، اور مسلمانوں کو اس کی مشابہت سے سختی سے منع کیا گیا ہے۔",
+                "شیطان کی مخالفت کرنا ایمان کا حصہ ہے، چاہے وہ روزمرہ کی عادات میں ہی کیوں نہ ہو۔",
+                "بائیں ہاتھ کے استعمال سے بچنا درحقیقت نفس اور شیطان کی پیروی سے بچنے کی مشق ہے۔"
+              ],
+              "english": [
+                "Eating and drinking with the left hand is the way of Satan, and Muslims are strictly forbidden from imitating him.",
+                "Opposing Satan is a part of faith, even in mundane daily habits.",
+                "Avoiding the left hand is, in essence, a practice in avoiding the following of whims and the devil."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حکمت اور فوائد",
+        "english": "Wisdom and Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حفظانِ صحت کا پہلو",
+              "english": "Hygienic Perspective"
+            },
+            "content": {
+              "urdu": [
+                "طہارت کے کاموں کے لیے بایاں ہاتھ مخصوص ہونے کی وجہ سے اس سے کھانا جراثیم کی منتقلی کا باعث بن سکتا ہے۔",
+                "کھانے کے لیے ایک الگ ہاتھ (دایاں) مخصوص کرنا اعلیٰ درجے کی صفائی اور صحت کے اصولوں کے عین مطابق ہے۔",
+                "اسلام نے چودہ سو سال پہلے ہی وہ طبی اصول بتائے جن کی آج سائنس بھی تائید کرتی ہے۔"
+              ],
+              "english": [
+                "Since the left hand is used for hygiene and cleaning, eating with it could lead to the transfer of germs.",
+                "Setting aside a specific hand (the right) for eating aligns with the highest standards of cleanliness and health.",
+                "Islam taught medical principles 1,400 years ago that modern science validates today."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط اور پہچان",
+              "english": "Discipline and Identity"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم مسلمانوں میں ایک اجتماعی نظم و ضبط پیدا کرتا ہے کہ سب ایک ہی طریقے سے دسترخوان پر بیٹھیں گے۔",
+                "یہ ایک مسلمان کی منفرد شناخت ہے جو اسے غیر مسلموں اور جاہلی طریقوں سے ممتاز کرتی ہے۔",
+                "آدابِ زندگی کی یہ پابندی انسان کی شخصیت میں وقار اور ٹھہراؤ پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "This ruling creates collective discipline among Muslims, ensuring everyone follows the same etiquette at the table.",
+                "It serves as a unique identity for a Muslim, distinguishing them from non-believers and ignorant practices.",
+                "Adhering to life etiquettes instills dignity and composure in a person's character."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیل اور استثناء",
+        "english": "Juristic Detail and Exception"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکم کی نوعیت",
+              "english": "Nature of the Command"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء کے نزدیک دائیں ہاتھ سے کھانا پینا سنتِ مؤکدہ ہے اور بائیں ہاتھ سے بلاوجہ کھانا مکروہِ تحریمی ہے۔",
+                "اگر کوئی شخص جان بوجھ کر سنت کا مذاق اڑاتے ہوئے ایسا کرتا ہے تو یہ گناہِ کبیرہ بن سکتا ہے۔",
+                "صحابہ کرام اس حکم پر اتنی سختی سے عمل کرتے تھے کہ بائیں ہاتھ سے کھانے والوں کو ٹوک دیا کرتے تھے۔"
+              ],
+              "english": [
+                "Most jurists consider eating with the right hand a Sunnah Mu'akkadah (strongly emphasized) and the left hand disliked.",
+                "If someone does it intentionally to mock the Sunnah, it can escalate to a major sin.",
+                "The Companions practiced this so strictly that they would correct anyone they saw using their left hand."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مجبوری کی صورت",
+              "english": "Case of Necessity"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کا دایاں ہاتھ زخمی ہو، مفلوج ہو یا کوئی اور حقیقی عذر ہو تو وہ بائیں ہاتھ سے کھا سکتا ہے۔",
+                "شریعت میں جہاں حقیقی تنگی ہو وہاں اللہ تعالیٰ نے آسانی فراہم کی ہے۔",
+                "ممانعت ان لوگوں کے لیے ہے جو تندرست ہونے کے باوجود سستی یا فیشن کی بنیاد پر بایاں ہاتھ استعمال کرتے ہیں۔"
+              ],
+              "english": [
+                "If the right hand is injured, paralyzed, or there is another genuine excuse, one may use the left hand.",
+                "Sharia provides ease where there is genuine hardship or disability.",
+                "The prohibition is for those who are healthy but use the left hand out of laziness or trend following."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیت اور خلاصہ",
+        "english": "Training and Summary"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچوں کی تربیت",
+              "english": "Training Children"
+            },
+            "content": {
+              "urdu": [
+                "والدین کو چاہیے کہ وہ بچپن ہی سے بچوں کو دائیں ہاتھ سے کھانے پینے کی عادت ڈالیں۔",
+                "نبی ﷺ نے ایک بچے (عمر بن ابی سلمہ) کو کھانے کے دوران پیار سے یہی نصیحت فرمائی تھی۔",
+                "بچپن کی یہ تربیت عمر بھر کی عادات کو سنت کے مطابق ڈھالنے میں مددگار ثابت ہوتی ہے۔"
+              ],
+              "english": [
+                "Parents should instill the habit of using the right hand for eating and drinking from early childhood.",
+                "The Prophet (ﷺ) kindly gave this exact advice to a child (Umar bin Abi Salamah) during a meal.",
+                "Early training helps in shaping lifelong habits according to the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا جذبہ",
+              "english": "Spirit of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سنت پر عمل کرنا صرف ایک عادت نہیں بلکہ اللہ سے محبت کا اظہار اور ثواب کا ذریعہ ہے۔",
+                "ہر وہ کام جو ہمیں شیطان کی مشابہت سے بچاتا ہے، ہمیں اللہ کے قریب کرتا ہے۔",
+                "نبی ﷺ کی ہر چھوٹی بڑی سنت پر عمل کرنا ہی ایک سچے مومن کا مطلوب و مقصود ہے۔"
+              ],
+              "english": [
+                "Following the Sunnah is not just a habit; it is an expression of love for Allah and a source of reward.",
+                "Every action that prevents us from imitating Satan brings us closer to Allah.",
+                "Adhering to every Sunnah, large or small, is the ultimate goal of a true believer."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

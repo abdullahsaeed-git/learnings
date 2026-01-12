@@ -1,0 +1,257 @@
+{
+  "hadithId": 960,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh/8/960"
+    ],
+    "kitabId": 8,
+    "inKitabBab": 12,
+    "arabicBook": "كتاب العدة",
+    "babId": 75
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (2171) في كتاب السلام، باب تحريم الخلوة بالأجنبية والدخول عليها.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام مسلم نے اپنی صحیح (2171) میں کتاب السلام کے تحت 'اجنبی عورت کے ساتھ خلوت کی تحریم' کے باب میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (2171) in the Book of Salam, Chapter: The Prohibition of Being Alone with a Non-Mahram Woman."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَبِيتَنَّ",
+      "english": "Spend the night",
+      "urdu": "رات گزارنا"
+    },
+    {
+      "arabic": "نَاكِحًا",
+      "english": "Married (Husband)",
+      "urdu": "نکاح کرنے والا / شوہر"
+    },
+    {
+      "arabic": "مَحْرَمٍ",
+      "english": "Unmarriageable relative",
+      "urdu": "محرم (جس سے نکاح حرام ہو)"
+    },
+    {
+      "arabic": "اِمْرَأَةٍ",
+      "english": "Woman",
+      "urdu": "عورت"
+    },
+    {
+      "arabic": "إِلَّا",
+      "english": "Except",
+      "urdu": "سوائے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں غیر محرم مرد اور عورت کے درمیان تنہائی میں رات گزارنے کی سخت ممانعت کی گئی ہے تاکہ فتنہ اور بے حیائی کا سدِ باب ہو سکے۔",
+    "english": "This Hadith strictly prohibits a non-Mahram man from spending the night alone with a woman to prevent fitnah and immoral behavior."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (2171)",
+      "english": "Reported by Muslim (2171)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-POfk5_3s",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خلوت کی ممانعت اور حکمت",
+        "english": "Prohibition of Seclusion and its Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فتنہ سے تحفظ",
+              "english": "Protection from Fitnah"
+            },
+            "content": {
+              "urdu": [
+                "غیر محرم مرد و عورت کا تنہائی میں ہونا شیطان کو موقع فراہم کرتا ہے۔",
+                "اسلام نے برائی کے راستوں کو بند کرنے کے لیے خلوت سے منع فرمایا ہے۔",
+                "رات کا وقت تنہائی کے لیے زیادہ حساس ہے، اس لیے خاص تاکید کی گئی۔"
+              ],
+              "english": [
+                "The seclusion of non-Mahrams provides an opportunity for Shaytan's influence.",
+                "Islam prohibits such privacy to close the doors leading to immorality.",
+                "Nighttime is particularly sensitive for seclusion, hence the specific emphasis."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حیا اور عفت کی حفاظت",
+              "english": "Safeguarding Modesty and Chastity"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم مسلم معاشرے میں پاکیزگی اور اعلیٰ اخلاق کے قیام کے لیے ہے۔",
+                "مومن مرد اور عورت کو اپنی عفت کی حفاظت کا ہر حال میں حکم ہے۔",
+                "شرعی حدود کی پابندی ہی انسان کو گناہوں کی دلدل سے بچاتی ہے۔"
+              ],
+              "english": [
+                "This ruling aims to establish purity and high morals in Muslim society.",
+                "Believing men and women are commanded to guard their chastity always.",
+                "Adhering to Shariah limits saves individuals from the mire of sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "محرم اور شوہر کا استثناء",
+        "english": "Exemption of Mahrams and Husbands"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محرم کی تعریف اور اہمیت",
+              "english": "Definition and Importance of Mahram"
+            },
+            "content": {
+              "urdu": [
+                "محرم وہ رشتہ دار ہے جس سے عورت کا نکاح ہمیشہ کے لیے حرام ہو۔",
+                "باپ، بھائی اور بیٹے جیسے رشتوں میں فطری طور پر حیا اور تحفظ ہے۔",
+                "ایسے رشتوں کے ساتھ خلوت یا سفر میں کوئی شرعی قباحت نہیں ہے۔"
+              ],
+              "english": [
+                "A Mahram is a relative with whom marriage is permanently forbidden.",
+                "Relationships like father, brother, and son offer natural protection.",
+                "Seclusion or travel with such relatives carries no legal Shariah objection."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ازدواجی تعلق کا تقدس",
+              "english": "Sanctity of the Marital Relationship"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کے بعد شوہر اور بیوی کے لیے کوئی پردہ یا خلوت کی ممانعت نہیں۔",
+                "یہ رشتہ اللہ کے نزدیک سب سے زیادہ معزز اور حلال تعلق ہے۔",
+                "نبی ﷺ نے نکاح کو ایمان کی تکمیل اور عفت کا ذریعہ قرار دیا ہے۔"
+              ],
+              "english": [
+                "There is no hijab or prohibition of seclusion between husband and wife.",
+                "This relationship is the most honorable and lawful bond before Allah.",
+                "The Prophet (ﷺ) called marriage a means of completing faith and chastity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی نظم و ضبط",
+        "english": "Social Discipline"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بدگمانی کا سدِ باب",
+              "english": "Prevention of Suspicion"
+            },
+            "content": {
+              "urdu": [
+                "اجنبی مرد و عورت کی خلوت معاشرے میں بدگمانی اور تہمت کا سبب بنتی ہے۔",
+                "اسلام ہمیں اپنی عزت کو مشکوک بنانے والے کاموں سے روکتا ہے۔",
+                "معاشرتی امن کے لیے ضروری ہے کہ انسان اپنے کردار کو بے داغ رکھے۔"
+              ],
+              "english": [
+                "Seclusion of strangers causes suspicion and slander within the community.",
+                "Islam prevents us from actions that make our honor and reputation doubtful.",
+                "For social peace, it is essential for individuals to keep their character spotless."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاندانی نظام کا تحفظ",
+              "english": "Protection of the Family System"
+            },
+            "content": {
+              "urdu": [
+                "خلوت کی ممانعت دراصل خاندانی وفاداری اور استحکام کی ضمانت ہے۔",
+                "غیروں کی مداخلت سے گھروں میں فساد اور طلاق کی نوبت آتی ہے۔",
+                "یہ ضابطہ اخلاق ہمیں ایک محفوظ اور باحیا خاندانی ماحول فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "The prohibition of seclusion guarantees family loyalty and stability.",
+                "The interference of outsiders leads to discord and divorce in homes.",
+                "This code of conduct provides us with a secure and modest family environment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ نبوی کی پیروی",
+              "english": "Following Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے احکامات انسانیت کی فلاح اور نجات کا واحد راستہ ہیں۔",
+                "چھوٹی چھوٹی سماجی پابندیاں دراصل بڑے فتنوں سے بچاؤ کی ڈھال ہیں۔",
+                "مومن وہی ہے جو اللہ کے رسول کے ہر حکم پر سرِ تسلیم خم کر دے۔"
+              ],
+              "english": [
+                "The Prophet's commands are the only path to success and salvation.",
+                "Small social restrictions act as a shield against major temptations.",
+                "A believer is one who submits to every command of the Messenger of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقویٰ اور بصیرت",
+              "english": "Piety and Insight"
+            },
+            "content": {
+              "urdu": [
+                "تنہائی میں بھی اللہ کے حاضر و ناظر ہونے کا احساس رکھنا تقویٰ ہے۔",
+                "دین کے اصولوں کو سمجھنا اور ان پر عمل کرنا بصیرت کی علامت ہے۔",
+                "اپنے نفس کی خواہشات پر قابو پانا ہی اصل جہاد اور کامیابی ہے۔"
+              ],
+              "english": [
+                "Feeling Allah's presence even in solitude is the essence of true piety.",
+                "Understanding and applying religious principles is a sign of insight.",
+                "Controlling one's personal desires is the real Jihad and ultimate victory."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

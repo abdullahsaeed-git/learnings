@@ -1,0 +1,259 @@
+{
+  "hadithId": 1278,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:6114", "muslim:2609"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الجامع",
+    "babId": 105
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6114)، ومسلم (2609)، وأحمد (7308).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (6114) اور امام مسلم (2609) نے اپنی صحیحین میں روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6114) and Muslim (2609)."
+  },
+  "importantWords": [
+    {
+      "arabic": "الشَّدِيدُ",
+      "english": "The strong / powerful",
+      "urdu": "طاقتور / بہادر"
+    },
+    {
+      "arabic": "بِالصُّرَعَةِ",
+      "english": "By wrestling / throwing down",
+      "urdu": "پچھاڑ دینے والا / کشتی گیر"
+    },
+    {
+      "arabic": "يَمْلِكُ",
+      "english": "Controls / Masters",
+      "urdu": "قابو رکھتا ہے / مالک ہوتا ہے"
+    },
+    {
+      "arabic": "نَفْسَهُ",
+      "english": "Himself / His soul",
+      "urdu": "اپنے آپ کو / اپنے نفس کو"
+    },
+    {
+      "arabic": "الْغَضَبِ",
+      "english": "Anger / Rage",
+      "urdu": "غصہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں حقیقی بہادری کا معیار جسمانی طاقت کے بجائے اخلاقی اور نفسیاتی ضبطِ نفس کو قرار دیا گیا ہے۔",
+    "english": "This Hadith redefines true strength, shifting the criteria from physical prowess to moral and psychological self-control."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6114)",
+      "english": "Sahih al-Bukhari (6114)"
+    },
+    {
+      "arabic": "صحيح مسلم (2609)",
+      "english": "Sahih Muslim (2609)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A_zWp7S7v-g",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حقیقی بہادری کا تصور",
+        "english": "Concept of True Bravery"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی بمقابلہ اخلاقی طاقت",
+              "english": "Physical vs Moral Strength"
+            },
+            "content": {
+              "urdu": [
+                "کسی کو کشتی میں گرا دینا صرف جسمانی قوت کی علامت ہے۔",
+                "اصل طاقتور وہ ہے جو اپنے جذبات پر قابو پانے کی ہمت رکھتا ہو۔",
+                "نفس پر فتح حاصل کرنا دشمن پر فتح حاصل کرنے سے زیادہ مشکل ہے۔"
+              ],
+              "english": [
+                "Knocking someone down in a duel is merely a sign of physical power.",
+                "A truly strong person is one who has the courage to control their emotions.",
+                "Conquering one's own ego is harder than defeating an external enemy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معیار کی تبدیلی",
+              "english": "Shifting the Standard"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے جاہلی معاشرے کے بہادری کے تصور کو بدل دیا۔",
+                "اسلام میں پہلوانی سے زیادہ اہمیت کردار کی پختگی کو دی گئی ہے۔",
+                "یہ حدیث ایک مومن کو اندرونی طور پر مضبوط بننے کی ترغیب دیتی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) redefined the pre-Islamic concept of bravery.",
+                "In Islam, character maturity is valued more than athletic wrestling.",
+                "This Hadith encourages a believer to become internally resilient."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غصہ اور اس کے نقصانات",
+        "english": "Anger and its Harmful Effects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عقل پر غصے کا غلبہ",
+              "english": "Anger Overpowering Reason"
+            },
+            "content": {
+              "urdu": [
+                "غصے کی حالت میں انسان سوچنے سمجھنے کی صلاحیت کھو دیتا ہے۔",
+                "زیادہ تر پچھتاوے غصے میں کیے گئے فیصلوں کا نتیجہ ہوتے ہیں۔",
+                "غصہ انسان کو شیطان کے قریب اور اللہ سے دور کر دیتا ہے۔"
+              ],
+              "english": [
+                "During anger, a person loses the capacity for rational thought.",
+                "Most regrets result from decisions made in a state of rage.",
+                "Anger brings a person closer to Satan and further from Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی بگاڑ",
+              "english": "Social Corruption"
+            },
+            "content": {
+              "urdu": [
+                "بے قابو غصہ خاندانوں اور دوستوں میں دراڑیں ڈال دیتا ہے۔",
+                "غصہ لڑائی جھگڑوں اور نفرتوں کی بنیادی جڑ ہے۔",
+                "حلم اور بردباری معاشرے میں امن و سکون لاتی ہے۔"
+              ],
+              "english": [
+                "Uncontrolled anger creates rifts within families and friendships.",
+                "Anger is the fundamental root of quarrels and deep-seated hatred.",
+                "Forbearance and patience bring peace and tranquility to society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غصہ قابو کرنے کے نبوی طریقے",
+        "english": "Prophetic Methods of Anger Control"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی حالت بدلنا",
+              "english": "Changing Physical State"
+            },
+            "content": {
+              "urdu": [
+                "غصہ آئے تو اگر کھڑے ہوں تو بیٹھ جائیں، بیٹھے ہوں تو لیٹ جائیں۔",
+                "وضو کرنا غصے کی آگ کو ٹھنڈا کرنے کا بہترین روحانی علاج ہے۔",
+                "خاموشی اختیار کرنا غصے کے نقصانات سے بچنے کا آزمودہ طریقہ ہے۔"
+              ],
+              "english": [
+                "If angry, sit down if standing; lie down if already sitting.",
+                "Performing Wudu is the best spiritual cure to cool the fire of anger.",
+                "Adopting silence is a proven method to avoid the harms of rage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذکر اور دعا",
+              "english": "Dhikr and Supplication"
+            },
+            "content": {
+              "urdu": [
+                "اعوذ باللہ پڑھنا شیطان کے اثر سے بچنے کا نبوی نسخہ ہے۔",
+                "اللہ کی قدرت کو یاد کرنے سے انسان کا غصہ کافور ہو جاتا ہے۔",
+                "صبر کرنے والوں کے لیے اللہ نے عظیم اجر کا وعدہ کیا ہے۔"
+              ],
+              "english": [
+                "Reciting 'A'udhu billah' is the Prophetic prescription against Satan.",
+                "Remembering Allah's power causes one's human anger to vanish.",
+                "Allah has promised a great reward for those who practice patience."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور عملی سبق",
+        "english": "Educational and Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعلیٰ اخلاقی معیار",
+              "english": "High Moral Standards"
+            },
+            "content": {
+              "urdu": [
+                "مومن وہی ہے جس کا اپنے نفس اور جذبات پر مکمل کنٹرول ہو۔",
+                "معاف کر دینا بدلہ لینے سے زیادہ بڑی بہادری ہے۔",
+                "ضبطِ نفس کے ذریعے ہی انسان ولایت کے درجے پر فائز ہوتا ہے۔"
+              ],
+              "english": [
+                "A believer is one who has full control over their soul and emotions.",
+                "Forgiving is a greater act of bravery than seeking revenge.",
+                "It is through self-control that a person attains spiritual stations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزمرہ زندگی میں اطلاق",
+              "english": "Daily Life Application"
+            },
+            "content": {
+              "urdu": [
+                "گھر اور دفتر میں غصے پر قابو پانا خوشگوار زندگی کی ضمانت ہے۔",
+                "بات کرنے سے پہلے اپنے جذبات کا جائزہ لینا ضروری ہے۔",
+                "دوسروں کی تلخ باتوں پر خاموشی اختیار کرنا دانشمندی ہے۔"
+              ],
+              "english": [
+                "Controlling anger at home and office guarantees a happy life.",
+                "It is essential to evaluate one's emotions before speaking.",
+                "Staying silent during others' bitter words is a mark of wisdom."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

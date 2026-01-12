@@ -1,0 +1,250 @@
+{
+  "hadithId": 625,
+  "hadithNo": 19,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/625"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1684). ثبير: جبل عظيم بمكة يطل على المزدلفة.",
+    "urdu": "صحیح۔ اسے امام بخاری نے (1684) پر روایت کیا ہے۔ 'ثبیر' مکہ کا ایک بڑا پہاڑ ہے جو مزدلفہ کے سامنے واقع ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1684). Thabir is a large mountain in Makkah overlooking Muzdalifah."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يُفِيضُونَ",
+      "english": "Did not leave / depart",
+      "urdu": "وہ کوچ نہیں کرتے تھے / واپس نہیں لوٹتے تھے"
+    },
+    {
+      "arabic": "أَشْرِقْ ثَبِيرُ",
+      "english": "Let the sun shine on Thabir",
+      "urdu": "اے ثبیر پہاڑ! روشن ہو جا"
+    },
+    {
+      "arabic": "خَالَفَهُمْ",
+      "english": "Acted differently / Opposed them",
+      "urdu": "ان کی مخالفت کی"
+    },
+    {
+      "arabic": "قَبْلَ أَنْ تَطْلُعَ",
+      "english": "Before it rises",
+      "urdu": "نکلنے سے پہلے"
+    }
+  ],
+  "summary": {
+    "urdu": "مزدلفہ سے منیٰ کی طرف روانگی کا مسنون وقت 10 ذوالحجہ کو نمازِ فجر کے بعد اور طلوعِ آفتاب سے پہلے ہے، تاکہ مشرکین کے طریقے کی مخالفت ہو سکے۔",
+    "english": "The Sunnah time to depart from Muzdalifah to Mina is after the Fajr prayer and before sunrise on the 10th of Dhul-Hijjah, intentionally differing from the practice of the polytheists."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1684)",
+      "english": "Reported by Al-Bukhari (1684)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مشرکین کی مخالفت کا اصول",
+        "english": "Principle of Differing from Polytheists"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جاہلیت کے رسوم کا خاتمہ",
+              "english": "Ending Jahiliyyah Traditions"
+            },
+            "content": {
+              "urdu": [
+                "مشرکینِ مکہ سورج کی پوجا کرتے تھے یا اس کے طلوع ہونے کو بہت اہمیت دیتے تھے، اس لیے وہ سورج نکلنے کا انتظار کرتے تھے۔",
+                "اسلام نے مسلمانوں کو اپنی الگ شناخت برقرار رکھنے کے لیے مشرکین کے طریقوں کی مخالفت کا حکم دیا۔",
+                "نبی ﷺ نے عبادات کے اوقات میں تبدیلی فرما کر یہ واضح کیا کہ اسلام ایک آزاد اور مکمل ضابطہ حیات ہے۔"
+              ],
+              "english": [
+                "The polytheists of Makkah held the rising of the sun in high regard, often linked to solar worship, so they waited for it before moving.",
+                "Islam commanded Muslims to differ from the ways of the polytheists to maintain a distinct identity.",
+                "By changing the timings of rituals, the Prophet (ﷺ) clarified that Islam is an independent and complete way of life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ثبیر پہاڑ اور ان کا نعرہ",
+              "english": "Mount Thabir and their Slogan"
+            },
+            "content": {
+              "urdu": [
+                "مشرکین 'اشرق ثبیر کیما نغیر' (اے ثبیر پہاڑ! روشن ہو جا تاکہ ہم کوچ کریں) کا نعرہ لگاتے تھے۔",
+                "وہ سورج کی روشنی کو روانگی کے لیے شرط سمجھتے تھے۔",
+                "نبی ﷺ نے اندھیرے (سفیدی) میں ہی روانہ ہو کر ان کے اس عقیدے اور رواج کو توڑ دیا۔"
+              ],
+              "english": [
+                "The pagans used to chant: 'Shine, O Thabir, so that we may depart.'",
+                "They made sunlight a condition for their departure from Muzdalifah.",
+                "The Prophet (ﷺ) broke this tradition by departing while it was still twilight (before sunrise)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مزدلفہ سے روانگی کا وقت",
+        "english": "Timing of Departure from Muzdalifah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسنون وقت",
+              "english": "The Sunnah Time"
+            },
+            "content": {
+              "urdu": [
+                "10 ذوالحجہ کی صبح مزدلفہ میں نمازِ فجر بالکل اول وقت میں پڑھنا سنت ہے۔",
+                "نماز کے بعد روشنی ہونے تک دعا و مناجات (وقوف) کرنا چاہیے، جسے 'مشعر حرام' کا وقوف کہا جاتا ہے۔",
+                "جیسے ہی خوب سفیدی پھیل جائے مگر سورج نہ نکلا ہو، تب منیٰ کی طرف روانہ ہونا مسنون ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to perform Fajr at the earliest possible time in Muzdalifah on the 10th of Dhul-Hijjah.",
+                "After prayer, one should remain in supplication (Wuquf) until it becomes very bright, known as the standing at al-Mash'ar al-Haram.",
+                "The prescribed time to leave for Mina is when it is bright but before the sun actually rises."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت میں وقت کی اہمیت",
+              "english": "Importance of Timing in Worship"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی عبادات (نماز، روزہ، حج) میں وقت کی پابندی کو بنیادی اہمیت حاصل ہے۔",
+                "مزدلفہ کا وقوف اور وہاں سے واپسی کا وقت مقرر ہونا نظم و ضبط کی بہترین مثال ہے۔",
+                "سنت کے مطابق وقت کی رعایت کرنا ہی عمل کی قبولیت کا ضامن ہے۔"
+              ],
+              "english": [
+                "Punctuality and specific timings are fundamental to Islamic acts of worship like Prayer, Fasting, and Hajj.",
+                "The fixed timing for staying and leaving Muzdalifah is an excellent example of discipline.",
+                "Adhering to the timings prescribed by the Sunnah ensures the acceptance of the deed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و انتظامی نکات",
+        "english": "Juristic and Administrative Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مزدلفہ میں قیام کی حیثیت",
+              "english": "Status of Staying in Muzdalifah"
+            },
+            "content": {
+              "urdu": [
+                "مزدلفہ میں رات گزارنا واجب ہے، اور جو فجر تک وہاں رہے اسے طلوع آفتاب سے پہلے نہیں نکلنا چاہیے۔",
+                "خواتین اور کمزوروں کے لیے آدھی رات کے بعد نکلنے کی رخصت الگ حدیث سے ثابت ہے۔",
+                "لیکن تندرست مردوں کے لیے سنت وہی ہے جو سیدنا عمر نے اس حدیث میں بیان فرمائی۔"
+              ],
+              "english": [
+                "Staying overnight in Muzdalifah is mandatory (Wajib), and those present until Fajr should not leave before the proper time.",
+                "Concessions for women and the weak to leave after midnight are proven from other Hadiths.",
+                "However, for healthy men, the Sunnah remains exactly as Umar (RA) described in this narration."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسلمانوں کی انفرادیت",
+              "english": "Distinctiveness of Muslims"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سکھاتی ہے کہ مسلمانوں کو اپنے عقائد اور عبادات میں غیر مسلموں سے ممتاز ہونا چاہیے۔",
+                "غیروں کی نقالی (مشابہت) سے بچنا ایمانی غیرت کا تقاضا ہے۔",
+                "حج کے مناسک کو شرک کی آمیزش سے پاک کر کے خالص توحید پر مبنی کیا گیا ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches that Muslims should be distinct from non-Muslims in their beliefs and rituals.",
+                "Avoiding the imitation of others (Tashabbuh) is a requirement of faith-based honor.",
+                "The Hajj rituals were purified from polytheistic influences and established on pure Monotheism (Tawhid)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا جذبہ",
+              "english": "Spirit of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر کا اس واقعے کو بیان کرنا ان کی سنت کے ساتھ گہری وابستگی کو ظاہر کرتا ہے۔",
+                "ایک مومن کو چاہیے کہ وہ اپنی زندگی کے ہر شعبے میں سنتِ نبوی کو تلاش کرے۔",
+                "جہاں لوگوں کا ہجوم ایک غلط رواج پر ہو، وہاں تنہا سنت پر قائم رہنا بڑی نیکی ہے۔"
+              ],
+              "english": [
+                "Umar's (RA) narration of this event shows his profound attachment to the Sunnah.",
+                "A believer should seek out the Prophetic Sunnah in every aspect of their life.",
+                "Standing firm on the Sunnah even when the masses follow a wrong custom is a great virtue."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توحید کا پیغام",
+              "english": "The Message of Tawhid"
+            },
+            "content": {
+              "urdu": [
+                "حج کے تمام ارکان ہمیں بت پرستی اور مظاہرِ فطرت کی پوجا سے نکال کر ایک اللہ کی طرف لاتے ہیں۔",
+                "روانگی کا وقت سورج سے وابستہ نہ کرنا اس بات کا اعلان ہے کہ ہم سورج کے نہیں بلکہ سورج کے رب کے غلام ہیں۔",
+                "بندگی کا کمال یہ ہے کہ انسان کا ہر عمل اللہ کی رضا کے مطابق ہو۔"
+              ],
+              "english": [
+                "All Hajj rituals direct us away from idolatry and nature-worship toward the One Allah.",
+                "Divorcing the departure time from the sun's rising is a declaration that we serve the Lord of the sun, not the sun itself.",
+                "The perfection of servitude is for every human action to align with Allah's pleasure."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

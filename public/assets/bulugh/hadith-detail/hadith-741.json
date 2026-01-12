@@ -1,0 +1,274 @@
+{
+  "hadithId": 741,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/7/62"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 8,
+    "arabicBook": "بلوغ المرام",
+    "babId": 49
+  },
+  
+  "takhreej": {
+    "arabic": "منكر.‏ رواه البيهقي ( 6 / 77 )‏ وقال: إسناده ضعيف.‏ تفرد به بقية، عن أبي محمد؛ عمر بن أبي عمر الكلاعي، وهو من مشايخ بقية المجهولين، ورواياته منكرة.",
+    "urdu": "یہ حدیث منکر اور ضعیف ہے۔ اسے بیہقی (6/77) نے روایت کیا ہے اور اس کی سند کو ضعیف قرار دیا ہے کیونکہ اس میں مجہول راوی موجود ہیں۔",
+    "english": "Munkar (Rejected). Reported by Al-Baihaqi (6/77). He stated its chain is weak due to the presence of unknown narrators and rejected narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا كَفَالَةَ",
+      "english": "No Bailing / Guarantee",
+      "urdu": "کوئی ضمانت نہیں"
+    },
+    {
+      "arabic": "حَدٍّ",
+      "english": "Prescribed Punishment",
+      "urdu": "شرعی حد"
+    },
+    {
+      "arabic": "إِسْنَادٍ",
+      "english": "Chain of Narrators",
+      "urdu": "سند"
+    },
+    {
+      "arabic": "ضَعِيفٍ",
+      "english": "Weak",
+      "urdu": "کمزور"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Narrated it",
+      "urdu": "اسے روایت کیا"
+    },
+    {
+      "arabic": "جَدِّهِ",
+      "english": "His Grandfather",
+      "urdu": "ان کے دادا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مفہوم یہ ہے کہ حدود کے معاملات (جیسے چوری یا زنا کی سزا) میں کسی کی ضمانت قبول نہیں کی جاتی تاکہ شرعی نظامِ عدل متاثر نہ ہو۔",
+    "english": "The essence of this Hadith is that in cases of Hudud (prescribed punishments), bail or guarantees are not accepted to ensure justice is not hindered."
+  },
+  "references": [
+    {
+      "arabic": "رواه البيهقي (6/77)",
+      "english": "Reported by Al-Baihaqi (6/77)"
+    },
+    {
+      "arabic": "سنن الكبرى للبيهقي",
+      "english": "Sunan al-Kubra by Al-Baihaqi"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعيب",
+        "english": "Amr bin Shu'aib"
+      },
+      "slug": "amr-bin-shuaib"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin Amr bin al-As"
+      },
+      "slug": "abdullah-bin-amr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9j_vM94nks",
+  "grade": {
+    "arabic": "ضعيف جداً / منكر",
+    "english": "Very Weak / Munkar"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدود میں ضمانت کا حکم",
+        "english": "Ruling of Bail in Hudud"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضمانت کی ممانعت",
+              "english": "Prohibition of Guarantee"
+            },
+            "content": {
+              "urdu": [
+                "شرعی حدود کے معاملات میں مجرم کو کسی کی ضمانت پر رہا نہیں کیا جا سکتا۔",
+                "یہ اصول اس لیے ہے تاکہ مجرم سزا سے بچ کر بھاگ نہ سکے۔",
+                "حقوق اللہ سے متعلق سزاؤں میں سختی برتی جاتی ہے تاکہ امن قائم ہو۔"
+              ],
+              "english": [
+                "In cases of Hudud, a criminal cannot be released based on someone's guarantee.",
+                "This principle ensures that the culprit does not escape the legal penalty.",
+                "Strictness is maintained in punishments relating to Allah's rights for peace."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق العباد اور حدود کا فرق",
+              "english": "Difference Between Civil Rights and Hudud"
+            },
+            "content": {
+              "urdu": [
+                "مالی معاملات میں ضمانت (کفالت) جائز اور مستحسن عمل ہے۔",
+                "لیکن حدود (جیسے چوری، زنا) میں کوئی مالی بدلہ یا ضمانت نہیں چلتی۔",
+                "اسلامی قانون میں جان و مال کی حفاظت کے لیے حدود کا نفاذ لازم ہے۔"
+              ],
+              "english": [
+                "In financial matters, providing a guarantee (Kafalah) is permissible and encouraged.",
+                "However, in Hudud cases, no financial compensation or bail is accepted.",
+                "Enforcing Hudud is essential in Islamic law to protect life and property."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی فنی حیثیت",
+        "english": "Technical Status of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کی کمزوری",
+              "english": "Weakness of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "امام بیہقی نے واضح کیا ہے کہ اس حدیث کی سند میں راوی مجہول ہیں۔",
+                "مجہول راوی کی وجہ سے اس قول کو یقینی طور پر رسول اللہ ﷺ کی طرف منسوب نہیں کیا جا سکتا۔",
+                "فقہاء اس حدیث کو صرف تائیدی طور پر ذکر کرتے ہیں، اصل بنیاد قرآن و سنت کے دیگر دلائل ہیں۔"
+              ],
+              "english": [
+                "Imam Al-Baihaqi clarified that this chain contains unknown (Majhul) narrators.",
+                "Due to unknown narrators, this statement cannot be definitively attributed to the Prophet (ﷺ).",
+                "Jurists mention this Hadith as secondary support, basing the law on other Sahih texts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اتفاق",
+              "english": "Juristic Consensus"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث ضعیف ہے، لیکن اکثر فقہاء کا عمل اسی پر ہے۔",
+                "جمہور علماء کے نزدیک حدود میں کفالت بالنفس (جان کی ضمانت) جائز نہیں۔",
+                "ضعیف حدیث اگر امت کے عمل کے مطابق ہو تو اس کے مفہوم کو اہمیت دی جاتی ہے۔"
+              ],
+              "english": [
+                "Although this Hadith is weak, most jurists act according to its meaning.",
+                "The majority of scholars agree that personal bail is not allowed in Hudud cases.",
+                "A weak Hadith aligned with the practice of the Ummah is given consideration in meaning."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدالتی نظام میں شفافیت",
+        "english": "Transparency in Judicial System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "با اثر افراد کا اثر و رسوخ",
+              "english": "Influence of Powerful Individuals"
+            },
+            "content": {
+              "urdu": [
+                "حدود میں ضمانت نہ ہونے سے با اثر لوگوں کا اثر ختم ہو جاتا ہے۔",
+                "عدل و انصاف کے سامنے امیر اور غریب کی تفریق ختم کرنا مقصود ہے۔",
+                "اگر ضمانت کی اجازت دی جائے تو طاقتور لوگ سزا سے بچ سکتے ہیں۔"
+              ],
+              "english": [
+                "Disallowing bail in Hudud limits the influence of powerful individuals.",
+                "The goal is to eliminate the distinction between rich and poor in justice.",
+                "If bail were allowed, powerful people might evade their prescribed penalties."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سزا کا عبرتناک ہونا",
+              "english": "Punishment as a Deterrent"
+            },
+            "content": {
+              "urdu": [
+                "حدود کا مقصد معاشرے میں عبرت پیدا کرنا اور جرم روکنا ہے۔",
+                "سزا کے نفاذ میں تاخیر یا رعایت جرم کی حوصلہ افزائی کا سبب بنتی ہے۔",
+                "اسلامی عدلیہ کا وقار حدود کے غیر جانبدارانہ نفاذ میں پنہاں ہے۔"
+              ],
+              "english": [
+                "The purpose of Hudud is to create a deterrent and stop crime in society.",
+                "Delays or leniency in enforcing punishments encourages further crimes.",
+                "The dignity of the Islamic judiciary lies in the impartial enforcement of Hudud."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قانون کی بالادستی",
+              "english": "Supremacy of Law"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو ہمیشہ قانونِ الہیٰ کا احترام اور اس کی پابندی کرنی چاہیے۔",
+                "کسی مجرم کی ناجائز طرفداری کرنا یا اسے بچانا گناہ کا باعث ہے۔",
+                "معاشرتی اصلاح کے لیے حدود و تعزیرات کا فہم ضروری ہے۔"
+              ],
+              "english": [
+                "A believer must always respect and adhere to Divine laws.",
+                "Taking sides with a criminal or trying to save them is a cause of sin.",
+                "Understanding Hudud and Tazir is vital for social reformation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمی تحقیق کا ذوق",
+              "english": "Taste for Scholarly Research"
+            },
+            "content": {
+              "urdu": [
+                "احادیث کی صحت اور ضعف کو سمجھنا علمِ دین کا اہم حصہ ہے۔",
+                "ہر سنی سنائی بات کو بغیر تحقیق کے رسول اللہ ﷺ سے منسوب نہ کریں۔",
+                "علماء اور محدثین کی تحقیقات پر اعتماد کرنا ضروری ہے۔"
+              ],
+              "english": [
+                "Understanding the authenticity and weakness of Hadith is a key part of religion.",
+                "Do not attribute every heard statement to the Prophet (ﷺ) without verification.",
+                "It is necessary to trust the research of scholars and Hadith experts."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

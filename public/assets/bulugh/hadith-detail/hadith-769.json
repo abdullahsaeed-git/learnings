@@ -1,0 +1,259 @@
+{
+  "hadithId": 769,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/769"],
+    "kitabId": 7,
+    "inKitabBab": 15,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 56
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (1549). والمزارعة المنهي عنها هنا هي التي تشمل الغرر والجهالة، أما المؤاجرة فهي كراء الأرض بالذهب والفضة.",
+    "urdu": "صحیح۔ اسے امام مسلم (1549) نے روایت کیا ہے۔ یہاں مزارعت کی ممانعت سے مراد وہ صورت ہے جس میں دھوکہ یا جہالت ہو، جبکہ مؤاجرت سے مراد نقد رقم کے عوض زمین دینا ہے۔",
+    "english": "Sahih. Reported by Muslim (1549). The forbidden Muzara'ah here refers to contracts involving uncertainty, while Mu'ajarah refers to leasing land for a fixed amount of gold or silver."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "اَلْمُزَارَعَةِ",
+      "english": "Crop-sharing",
+      "urdu": "مزارعت (پیداوار میں حصہ)"
+    },
+    {
+      "arabic": "أَمَرَ",
+      "english": "Commanded",
+      "urdu": "حکم دیا / اجازت دی"
+    },
+    {
+      "arabic": "بِالْمُؤَاجَرَةِ",
+      "english": "Leasing / Renting",
+      "urdu": "ٹھیکہ / کرایہ"
+    },
+    {
+      "arabic": "ثَابِتِ",
+      "english": "Thabit (Narrator)",
+      "urdu": "ثابت (راوی)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں مزارعت (غیر یقینی پیداوار کی بنیاد پر شراکت) کی ممانعت اور مؤاجرت (طے شدہ کرایے پر زمین دینے) کی حوصلہ افزائی کی گئی ہے تاکہ فریقین کا حق محفوظ رہے۔",
+    "english": "This Hadith prohibits Muzara'ah (uncertain crop-sharing) and encourages Mu'ajarah (fixed-rent leasing) to ensure the rights of both parties are protected."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1549)",
+      "english": "Reported by Muslim (1549)"
+    },
+    {
+      "arabic": "صحيح ابن حبان (5186)",
+      "english": "Sahih Ibn Hibban (5186)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ثابت بن الضحاك",
+        "english": "Thabit bin ad-Dahhak"
+      },
+      "slug": "thabit-bin-ad-dahhak"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjI8_GfLpIs",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مزارعت اور مؤاجرت کا فرق",
+        "english": "Difference Between Muzara'ah and Mu'ajarah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مزارعت کی ممانعت کی وجہ",
+              "english": "Reason for Forbidding Muzara'ah"
+            },
+            "content": {
+              "urdu": [
+                "قدیم دور میں مزارعت میں زمین کا ایک خاص حصہ مالک کے لیے مخصوص ہوتا تھا۔",
+                "اگر اس مخصوص حصے میں فصل نہ ہوتی تو مزارع کو فائدہ اور مالک کو نقصان ہوتا۔",
+                "اسلام نے اس غیر یقینی صورتحال (غرر) کی وجہ سے اس سے منع فرمایا۔"
+              ],
+              "english": [
+                "In ancient Muzara'ah, specific parts of the field were reserved for the owner.",
+                "If crops failed in that specific area, the owner would lose while the tenant gained.",
+                "Islam forbade this due to the inherent uncertainty (Gharar) in such deals."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مؤاجرت کی شرعی حیثیت",
+              "english": "Shariah Status of Mu'ajarah"
+            },
+            "content": {
+              "urdu": [
+                "مؤاجرت سے مراد زمین کو نقد رقم یا طے شدہ کرایے پر دینا ہے۔",
+                "اس میں مالک کا حق محفوظ رہتا ہے اور مزارع کو اپنی محنت کا علم ہوتا ہے۔",
+                "یہ طریقہ کار عدل و انصاف کے قریب تر ہے اور جھگڑے کا احتمال ختم کرتا ہے۔"
+              ],
+              "english": [
+                "Mu'ajarah refers to leasing the land for a fixed cash rent.",
+                "In this, the owner's right is secure and the tenant knows his costs.",
+                "This method is closer to justice and eliminates the risk of disputes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی ابحاث اور تشریح",
+        "english": "Juristic Analysis and Interpretation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممانعت کا دائرہ کار",
+              "english": "Scope of Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک مزارعت اگر منصفانہ ہو (یعنی کل پیداوار میں فیصد حصہ) تو جائز ہے۔",
+                "ممانعت صرف ان صورتوں کے لیے ہے جہاں حصہ داری غیر واضح یا جاہلانہ ہو۔",
+                "امام مسلم کی یہ روایت نقد کرایہ داری کے واضح جواز کو پیش کرتی ہے۔"
+              ],
+              "english": [
+                "Most jurists agree crop-sharing is valid if it's a fair percentage of the total yield.",
+                "Prohibition is only for cases where the share is ambiguous or based on ignorance.",
+                "This narration in Muslim presents the clear permissibility of cash-based leasing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکمِ نبوی کی حکمت",
+              "english": "Wisdom of the Prophetic Command"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے مسلمانوں کو آپس میں مالی تنازعات سے بچنے کی تاکید فرمائی۔",
+                "ٹھیکہ (کرایہ) ایک واضح معاملہ ہے جس میں قیمت پہلے سے طے ہوتی ہے۔",
+                "معاشی استحکام کے لیے واضح شرائط پر مبنی معاہدے ناگزیر ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) emphasized avoiding financial conflicts among Muslims.",
+                "Renting is a clear transaction where the price is pre-determined.",
+                "Agreements based on clear terms are essential for economic stability."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اثرات",
+        "english": "Social Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کسان کے حقوق کا تحفظ",
+              "english": "Protection of Farmer Rights"
+            },
+            "content": {
+              "urdu": [
+                "مزارعت میں اکثر غریب کسان کا استحصال ہونے کا خدشہ رہتا تھا۔",
+                "نقد کرایے سے کسان کو اپنی محنت کا پورا فائدہ اٹھانے کا موقع ملتا ہے۔",
+                "اسلامی معاشرہ کمزور طبقے کی معاشی حفاظت کو اولیت دیتا ہے۔"
+              ],
+              "english": [
+                "In ancient crop-sharing, there was a risk of exploiting poor farmers.",
+                "Cash rent allows the farmer to keep the surplus profit of his hard work.",
+                "Islamic society prioritizes the economic protection of the vulnerable class."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زمین کی آباد کاری",
+              "english": "Land Cultivation"
+            },
+            "content": {
+              "urdu": [
+                "کرایے پر زمین دینے سے زمین بنجر رہنے سے بچ جاتی ہے۔",
+                "مالک اور کرایہ دار کے درمیان واضح تعلق پیداوار میں اضافے کا باعث بنتا ہے۔",
+                "معیشت کی ترقی کے لیے زمین کا استعمال سنت کے مطابق ہونا چاہیے۔"
+              ],
+              "english": [
+                "Leasing prevents land from remaining barren or uncultivated.",
+                "A clear relationship between owner and tenant leads to increased production.",
+                "Land utilization for economic growth should follow Prophetic guidelines."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاہدے کی شفافیت",
+              "english": "Transparency in Contracts"
+            },
+            "content": {
+              "urdu": [
+                "زمین یا مکان کرایے پر دیتے وقت کرایے کی رقم واضح ہونی چاہیے۔",
+                "تحریری معاہدہ سنت اور قانونی ضرورت ہے تاکہ بعد میں فتنہ نہ ہو۔",
+                "غیر یقینی وعدوں پر مبنی کاروبار سے ہمیشہ اجتناب کریں۔"
+              ],
+              "english": [
+                "Rent amounts must be clear when leasing land or property.",
+                "Written contracts are a Sunnah and a legal necessity to prevent discord.",
+                "Always avoid businesses based on uncertain or ambiguous promises."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیانتداری کا تقاضا",
+              "english": "Requirement of Honesty"
+            },
+            "content": {
+              "urdu": [
+                "مالک کو چاہیے کہ وہ کرایہ دار پر ناجائز بوجھ نہ ڈالے۔",
+                "کرایہ دار کو چاہیے کہ وہ زمین کی حفاظت اور وقت پر ادائیگی کرے۔",
+                "باہمی خیر خواہی برکت کے حصول کا اصل ذریعہ ہے۔"
+              ],
+              "english": [
+                "The owner should not place an unfair burden on the tenant.",
+                "The tenant should take care of the land and pay the rent on time.",
+                "Mutual goodwill is the true source of attaining blessings (Barakah)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

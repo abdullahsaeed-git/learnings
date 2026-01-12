@@ -1,0 +1,214 @@
+{
+  "hadithId": 1305,
+  "hadithNo": 29,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh:1505"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الجامع",
+    "babId": 105
+  },
+
+  "takhreej": {
+    "arabic": "ضعيف. أخرجه البزار في مسنده (13/447)، وأبو نعيم في الحلية (8/125). قال الحافظ العراقي في تخريج الإحياء: إسناده ضعيف. ولكن معناه صحيح وتشهد له نصوص أخرى.",
+    "urdu": "یہ روایت سنداً ضعیف ہے، تاہم اس کا مفہوم درست ہے اور دیگر صحیح نصوص اس کی تائید کرتے ہیں۔ اسے امام بزار نے اپنی مسند میں اور ابو نعیم نے حلیۃ الاولیاء میں روایت کیا ہے۔",
+    "english": "Weak chain, but the meaning is authentic. Reported by al-Bazzar and Abu Nu'aym. Although the chain is weak according to scholars like Al-Iraqi, its message is consistent with other Islamic teachings."
+  },
+  "importantWords": [
+    {
+      "arabic": "طُوبَى",
+      "english": "Glad Tidings / Success",
+      "urdu": "خوشخبری / مبارک باد / جنت کا درخت"
+    },
+    {
+      "arabic": "شَغَلَهُ",
+      "english": "Occupied him",
+      "urdu": "اسے مشغول رکھا"
+    },
+    {
+      "arabic": "عَيْبُهُ",
+      "english": "His own fault",
+      "urdu": "اس کا اپنا عیب"
+    },
+    {
+      "arabic": "عُيُوبِ اَلنَّاسِ",
+      "english": "Faults of people",
+      "urdu": "لوگوں کے عیوب"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ہمیں دوسروں کی برائیاں تلاش کرنے کے بجائے اپنی اصلاح اور ذاتی کوتاہیوں پر توجہ دینے کی ترغیب دیتی ہے۔",
+    "english": "This Hadith encourages focusing on self-improvement and one's own shortcomings instead of searching for the flaws of others."
+  },
+  "references": [
+    {
+      "arabic": "مسند البزار (13/447)",
+      "english": "Musnad al-Bazzar (13/447)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك الأنصاري",
+        "english": "Anas bin Malik al-Ansari"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "ضعيف (والمعنى صحيح)",
+    "english": "Weak (but the meaning is sound)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ذاتی اصلاح کی اہمیت",
+        "english": "Importance of Self-Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنے عیبوں پر نظر",
+              "english": "Focusing on Personal Flaws"
+            },
+            "content": {
+              "urdu": [
+                "انسان کا اپنے عیب دیکھنا اللہ کی طرف سے بصیرت اور توفیق کی علامت ہے۔",
+                "جب بندہ اپنی اصلاح میں لگ جاتا ہے تو اسے دوسروں پر تنقید کا وقت نہیں ملتا۔",
+                "اپنی کوتاہیوں کا احساس انسان کو عاجزی اور اللہ کی طرف رجوع کرنے پر ابھارتا ہے۔"
+              ],
+              "english": [
+                "Recognizing one's own faults is a sign of wisdom and divine guidance.",
+                "When a person is busy correcting themselves, they have no time to criticize others.",
+                "Realizing one's shortcomings leads to humility and turning back to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اصلاحِ نفس کا طریقہ",
+              "english": "Method of Self-Purification"
+            },
+            "content": {
+              "urdu": [
+                "تزکیہ نفس کا پہلا قدم یہ ہے کہ انسان اپنے باطن کی غلاظتوں کو پہچانے۔",
+                "نبی ﷺ نے فرمایا: 'تم میں سے بہترین وہ ہے جو اپنے نفس کا محاسبہ کرے'۔",
+                "دوسروں کی پگڑیاں اچھالنے سے زیادہ اپنی آخرت سنوارنا ضروری ہے۔"
+              ],
+              "english": [
+                "The first step in purifying the soul is identifying one's internal impurities.",
+                "The Prophet (ﷺ) said: 'The best among you is the one who holds their soul accountable'.",
+                "Securing one's hereafter is more important than tarnishing others' reputations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دوسروں کے عیبوں سے چشم پوشی",
+        "english": "Overlooking the Faults of Others"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عیب جوئی کی مذمت",
+              "english": "Condemnation of Fault-finding"
+            },
+            "content": {
+              "urdu": [
+                "دوسروں کے عیب تلاش کرنا (تجسس) قرآن و حدیث میں سختی سے منع ہے۔",
+                "جو شخص دوسروں کے پردے فاش کرتا ہے، اللہ اسے اس کے گھر میں رسوا کر دیتا ہے۔",
+                "عیب جوئی معاشرے میں حسد، کینہ اور بدظنی پھیلانے کا باعث بنتی ہے۔"
+              ],
+              "english": [
+                "Searching for people's flaws (spying) is strictly forbidden in Islam.",
+                "Allah humiliates those who try to expose the secrets of others, even in their own homes.",
+                "Fault-finding spreads envy, malice, and ill-will in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پردہ پوشی کی فضیلت",
+              "english": "Virtue of Covering Faults"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے مطابق جو کسی مسلمان کا عیب چھپائے گا، اللہ قیامت میں اس کے عیب چھپائے گا۔",
+                "مومن کا کام دوسروں کی ستر پوشی کرنا ہے نہ کہ ان کی رسوائی کا سامان کرنا۔",
+                "لوگوں کی کوتاہیوں کو درگزر کرنا اعلیٰ اخلاقی مقام ہے۔"
+              ],
+              "english": [
+                "Whoever covers the faults of a Muslim, Allah will cover their faults on the Day of Judgment.",
+                "A believer's duty is to shield others' dignity, not facilitate their humiliation.",
+                "Overlooking people's mistakes is a mark of high moral standing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفسیاتی اور سماجی فوائد",
+        "english": "Psychological and Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذہنی سکون",
+              "english": "Peace of Mind"
+            },
+            "content": {
+              "urdu": [
+                "دوسروں کے معاملات سے بے پرواہ ہو کر انسان ذہنی تناؤ سے محفوظ رہتا ہے۔",
+                "حسد اور کینہ صرف دوسروں کے عیوب پر نظر رکھنے سے پیدا ہوتے ہیں۔",
+                "اپنی فکر کرنے والا بندہ ہمیشہ مطمئن اور اللہ کی رضا میں راضی رہتا ہے۔"
+              ],
+              "english": [
+                "Focusing on oneself protects a person from unnecessary mental stress.",
+                "Envy and malice are born from focusing too much on others' lives.",
+                "A person occupied with their own reform remains content and pleased with Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محاسبہ اور توبہ",
+              "english": "Accountability and Repentance"
+            },
+            "content": {
+              "urdu": [
+                "روزانہ سونے سے پہلے اپنے دن بھر کے اعمال کا جائزہ لیں۔",
+                "اگر زبان سے کسی کی غیبت ہوئی ہو تو اللہ سے توبہ کریں اور اس شخص سے معافی مانگیں۔",
+                "ایسی مجلسوں سے پرہیز کریں جہاں لوگوں کے عیب اچھالے جاتے ہوں۔"
+              ],
+              "english": [
+                "Review your daily actions every night before going to sleep.",
+                "If you have backbitten someone, repent to Allah and seek that person's forgiveness.",
+                "Avoid gatherings where the main topic of conversation is the flaws of others."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

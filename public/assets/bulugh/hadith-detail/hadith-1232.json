@@ -1,0 +1,264 @@
+{
+  "hadithId": 1232,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/15/14"],
+    "kitabId": 15,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب العتق",
+    "babId": 101
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (1/222)، وأبو داود (4581)، والنسائي (8/46). وصححه الحاكم (2/219) ووافقه الذهبي.",
+    "urdu": "صحیح۔ اسے احمد، ابوداؤد (4581) اور نسائی نے روایت کیا ہے۔ امام حاکم نے اسے صحیح کہا ہے اور علامہ ذہبی نے ان کی تائید کی ہے۔",
+    "english": "Sahih. Reported by Ahmad (1/222), Abu Dawud (4581), and An-Nasa'i (8/46). Al-Hakim graded it Sahih and Ad-Dhahabi agreed."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُودَى",
+      "english": "Is paid blood money",
+      "urdu": "دیت ادا کی جائے گی"
+    },
+    {
+      "arabic": "اَلْمُكَاتَبُ",
+      "english": "Contracted slave",
+      "urdu": "مکاتب غلام"
+    },
+    {
+      "arabic": "بِقَدْرِ",
+      "english": "According to the amount",
+      "urdu": "کے برابر / کے بقدر"
+    },
+    {
+      "arabic": "دِيَةَ",
+      "english": "Blood money",
+      "urdu": "خون بہا / دیت"
+    },
+    {
+      "arabic": "اَلْحُرِّ",
+      "english": "The Free man",
+      "urdu": "آزاد"
+    },
+    {
+      "arabic": "رَقَّ",
+      "english": "Remains enslaved",
+      "urdu": "غلام باقی ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کسی مکاتب غلام کو قتل کر دیا جائے یا زخمی کیا جائے، تو اس کی دیت کا حساب اس کی ادا کردہ اقساط کے تناسب سے آزاد اور غلام کے فرق کو مدنظر رکھ کر کیا جائے گا۔",
+    "english": "This Hadith provides the legal formula for calculating the blood money of a contracted slave, apportioning it based on the percentage of the freedom price already paid."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الديات، رقم 4581",
+      "english": "Sunan Abi Dawud, Book of Blood Money, No. 4581"
+    },
+    {
+      "arabic": "مسند أحمد بن حنبل، رقم 2008",
+      "english": "Musnad Ahmad bin Hanbal, No. 2008"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دیت کی تقسیم کا اصول",
+        "english": "Principle of Diyah Apportionment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آزادی کے تناسب سے دیت",
+              "english": "Diyah Based on Freedom Ratio"
+            },
+            "content": {
+              "urdu": [
+                "مکاتب وہ غلام ہے جس نے آزادی کے لیے رقم طے کی ہوتی ہے، وہ مکمل آزاد نہیں ہوتا۔",
+                "اگر اس نے آدھی رقم ادا کر دی ہو، تو اسے آدھا آزاد تصور کر کے دیت کا حساب کیا جائے گا۔",
+                "مثال کے طور پر، دیت کا نصف حصہ آزاد شہری کا ہوگا اور نصف حصہ غلام کا ہوگا۔"
+              ],
+              "english": [
+                "A Mukatab is a slave with a repayment contract and is not yet fully free.",
+                "If he has paid half of the agreed amount, he is treated as half-free for legal compensation.",
+                "For example, half of his Diyah will follow the rate of a free man and half that of a slave."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی جان کا تحفظ",
+              "english": "Protection of Human Life"
+            },
+            "content": {
+              "urdu": [
+                "یہ قانون اس بات کو یقینی بناتا ہے کہ مکاتب کی جان کو ضائع نہ سمجھا جائے۔",
+                "جتنی اقساط وہ ادا کرتا جاتا ہے، اس کی قانونی حیثیت اور قیمتِ خون بڑھتی جاتی ہے۔",
+                "اسلام نے غلاموں کو مرحلہ وار انسانی حقوق اور سماجی برابری فراہم کرنے کا نظام بنایا۔"
+              ],
+              "english": [
+                "This law ensures that the life of a Mukatab is not considered worthless or cheap.",
+                "As he pays more installments, his legal status and the 'value of his blood' increase.",
+                "Islam established a system to provide slaves with progressive human rights and equality."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب کے نظریات",
+        "english": "Views of the Juristic Schools"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمہور فقہاء کا موقف",
+              "english": "Position of the Majority"
+            },
+            "content": {
+              "urdu": [
+                "امام احمد، مالک اور شافعی کے نزدیک مکاتب کی دیت میں یہ تقسیم لازمی ہے۔",
+                "ان کا استدلال حضرت ابن عباس رضی اللہ عنہما کی اس صحیح اور واضح حدیث سے ہے۔",
+                "یہ اصول مالی معاملات اور فوجداری قوانین میں توازن پیدا کرنے کے لیے وضع کیا گیا۔"
+              ],
+              "english": [
+                "According to Imams Ahmad, Malik, and Shafi'i, this division in Diyah is mandatory.",
+                "They derive their reasoning from this clear and authentic Hadith of Ibn 'Abbas.",
+                "This principle was established to balance financial matters and criminal laws."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احناف کا نقطہ نظر",
+              "english": "The Hanafi Perspective"
+            },
+            "content": {
+              "urdu": [
+                "امام ابو حنیفہ کے نزدیک مکاتب جب تک مکمل آزاد نہ ہو، غلام کے حکم میں رہتا ہے۔",
+                "چنانچہ ان کے نزدیک دیت صرف غلام کے حساب سے ہی واجب ہوگی۔",
+                "تاہم، فتویٰ اور عمل کے لیے اس صحیح حدیث کو ایک مضبوط بنیاد مانا جاتا ہے۔"
+              ],
+              "english": [
+                "According to Imam Abu Hanifa, a Mukatab remains under the ruling of a slave until fully free.",
+                "Therefore, in his view, the Diyah should be calculated solely at the slave's rate.",
+                "However, this Sahih Hadith remains a strong foundation for legal practice and rulings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انصاف اور سماجی حیثیت",
+        "english": "Justice and Social Status"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انصاف کی باریک بینی",
+              "english": "Meticulousness of Justice"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں کسی کا حق مارنے کی گنجائش نہیں ہے، چاہے وہ غلام ہی کیوں نہ ہو۔",
+                "ادائیگی کے بقدر اسے آزاد ماننا اس کی محنت اور کوشش کا اعتراف کرنا ہے۔",
+                "یہ حدیث ظاہر کرتی ہے کہ اسلامی قانون کتنا باریک بین اور منصفانہ ہے۔"
+              ],
+              "english": [
+                "There is no room in Sharia to suppress anyone's right, even if they are a slave.",
+                "Recognizing freedom proportional to payment acknowledges their hard work and struggle.",
+                "This Hadith demonstrates how meticulous and just Islamic law is."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ظلم کا سدِ باب",
+              "english": "Prevention of Oppression"
+            },
+            "content": {
+              "urdu": [
+                "اگر دیت کم رکھی جاتی تو لوگ مکاتب غلاموں کو نقصان پہنچانے میں نڈر ہو جاتے۔",
+                "دیت میں اضافے سے ان کے تحفظ کو یقینی بنایا گیا ہے تاکہ کوئی زیادتی نہ کرے۔",
+                "اسلامی ریاست میں ہر شہری کی جان، چاہے وہ مکاتب ہو، ریاست کی حفاظت میں ہے۔"
+              ],
+              "english": [
+                "If the blood money remained low, people might feel emboldened to harm contracted slaves.",
+                "Increasing the Diyah ensures their safety and prevents any potential abuse.",
+                "In an Islamic state, every resident's life, including a Mukatab, is under state protection."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق کی تدریجی پہچان",
+              "english": "Gradual Recognition of Rights"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث سکھاتی ہے کہ حقوق کی ادائیگی محنت اور ذمہ داری سے جڑی ہوئی ہے۔",
+                "جیسے جیسے انسان اپنے فرائض پورے کرتا ہے، اس کے حقوق اور سماجی حیثیت بلند ہوتی ہے۔",
+                "ہمیں دوسروں کی محنت کا اعتراف کرنا چاہیے اور انہیں ان کا جائز مقام دینا چاہیے۔"
+              ],
+              "english": [
+                "This Hadith teaches that the granting of rights is linked to effort and responsibility.",
+                "As a person fulfills their duties, their rights and social status naturally elevate.",
+                "We must acknowledge the efforts of others and grant them their rightful position."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانون کی عالمگیریت",
+              "english": "Universality of the Law"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قوانین ہر طبقے اور ہر صورتحال کے لیے واضح رہنمائی فراہم کرتے ہیں۔",
+                "خون بہا کے قوانین کا مقصد انسانی جان کی حرمت کو برقرار رکھنا اور بدلہ لینا ہے۔",
+                "قیامت تک یہ اصول انسانی حقوق کے تحفظ کے لیے بہترین ماڈل رہیں گے۔"
+              ],
+              "english": [
+                "Islamic laws provide clear guidance for every social class and situation.",
+                "Blood money laws aim to maintain the sanctity of life and ensure just retribution.",
+                "These principles remain the best model for protecting human rights until the Last Day."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

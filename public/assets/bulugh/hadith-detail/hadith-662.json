@@ -1,0 +1,264 @@
+{
+  "hadithId": 662,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/15"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2143)، ومسلم (1514). وهذا البيع باطل لما فيه من الغرر الفاحش والجهالة.",
+    "urdu": "یہ حدیث صحیح ہے، اسے بخاری (2143) اور مسلم (1514) نے روایت کیا ہے۔ یہ بیع اس لیے باطل ہے کیونکہ اس میں غرر (دھوکہ) اور جہالت پائی جاتی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2143) and Muslim (1514). This transaction is void because it involves excessive uncertainty (Gharar) and ignorance of the subject matter."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَبَلِ اَلْحَبَلَةِ",
+      "english": "Pregnancy of the pregnancy",
+      "urdu": "بچے کے بچے کی پیدائش"
+    },
+    {
+      "arabic": "يَبْتَاعُ",
+      "english": "Buys",
+      "urdu": "خریدتا ہے"
+    },
+    {
+      "arabic": "اَلْجَزُورَ",
+      "english": "Camel for slaughter",
+      "urdu": "اونٹ"
+    },
+    {
+      "arabic": "تُنْتَجَ",
+      "english": "Gives birth",
+      "urdu": "بچہ جنے"
+    },
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "اَلْجَاهِلِيَّةِ",
+      "english": "Pre-Islamic Ignorance",
+      "urdu": "زمانہ جاہلیت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایسی تجارت سے منع کیا گیا ہے جس میں ادائیگی کا وقت یا سودے کی شے نامعلوم اور غیر یقینی ہو، جیسے پیدا ہونے والے بچے کے بھی آگے پیدا ہونے والے بچے کا انتظار کرنا۔",
+    "english": "This Hadith prohibits transactions where the time of payment or the subject matter is unknown and uncertain, such as waiting for an unborn offspring's future offspring."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب البيوع",
+      "english": "Sahih al-Bukhari, Book of Sales"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب البيوع",
+      "english": "Sahih Muslim, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیعِ غرر کی ممانعت",
+        "english": "Prohibition of Uncertain Sales"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیر یقینی سودوں کا خاتمہ",
+              "english": "End of Uncertain Deals"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر اس تجارت سے روکتا ہے جس میں دھوکہ یا غیر یقینی صورتحال ہو۔",
+                "حبل الحبلہ میں نہ تو وقت معلوم ہے اور نہ یہ کہ بچہ زندہ ہوگا یا نہیں۔",
+                "ایسے سودے معاشرے میں جھگڑوں اور ناانصافی کا باعث بنتے ہیں۔"
+              ],
+              "english": [
+                "Islam prohibits any trade involving deception or extreme uncertainty.",
+                "In Habal al-Habalah, neither the time nor the survival of the offspring is known.",
+                "Such deals lead to disputes and injustice within the community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زمانہ جاہلیت کی اصلاح",
+              "english": "Reform of Jahiliyyah Practices"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے جاہلیت کی ان تمام تجارتی رسوم کو ختم کیا جو عقل کے خلاف تھیں۔",
+                "مستقبل کے نامعلوم نفع پر اجرت یا قیمت طے کرنا جوئے کے مترادف ہے۔",
+                "اسلام نے تجارت کو ٹھوس اور واضح بنیادوں پر استوار کیا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) abolished irrational pre-Islamic trade customs.",
+                "Setting prices based on unknown future gains is akin to gambling.",
+                "Islam established trade on concrete and clear foundations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور حکمت",
+        "english": "Juristic Aspects and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ادائیگی کے وقت کا تعین",
+              "english": "Fixing the Time of Payment"
+            },
+            "content": {
+              "urdu": [
+                "تجارت میں ادھار کی صورت میں وقت کا تعین ہونا ضروری ہے۔",
+                "ایسی شرط لگانا جو طویل اور غیر معینہ ہو، بیع کو باطل کر دیتی ہے۔",
+                "حبل الحبلہ میں ادائیگی کا وقت کئی سالوں تک لٹک سکتا تھا۔"
+              ],
+              "english": [
+                "In credit transactions, the time of payment must be clearly defined.",
+                "Stipulating an excessively long and indefinite time voids the sale.",
+                "In Habal al-Habalah, payment could be delayed for several years indefinitely."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معدوم کی بیع",
+              "english": "Sale of Non-Existent Items"
+            },
+            "content": {
+              "urdu": [
+                "جو چیز ابھی وجود میں ہی نہیں آئی، اس کی بیع کرنا منع ہے۔",
+                "بچے کے پیٹ میں موجود بچے کی بیع 'بیع المعدوم' کی ایک قسم ہے۔",
+                "اسلامی قانون صرف موجود اور ملکیت میں موجود شے کی بیع کی اجازت دیتا ہے۔"
+              ],
+              "english": [
+                "It is forbidden to sell something that does not yet exist.",
+                "Selling the offspring of an unborn animal is a type of 'Sale of the Non-Existent'.",
+                "Islamic law only allows selling items that are present and owned."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی شفافیت",
+        "english": "Economic Transparency"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق کا تحفظ",
+              "english": "Protection of Rights"
+            },
+            "content": {
+              "urdu": [
+                "واضح شرائط خریدار اور فروخت کنندہ دونوں کے حقوق محفوظ کرتی ہیں۔",
+                "ابہام ختم کرنے سے فریقین کے درمیان اعتماد پیدا ہوتا ہے۔",
+                "اسلامی معیشت کا حسن اس کی شفافیت اور عدل و انصاف میں ہے۔"
+              ],
+              "english": [
+                "Clear conditions protect the rights of both buyer and seller.",
+                "Eliminating ambiguity builds trust between the transacting parties.",
+                "The beauty of Islamic economics lies in its transparency and justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جدید دور میں اطلاق",
+              "english": "Modern Day Application"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں 'فیوچر ٹریڈنگ' کی بعض اقسام میں یہ مشابہت پائی جاتی ہے۔",
+                "ہر وہ سودا جس میں نفع و نقصان کا دارومدار محض اتفاق پر ہو، ناجائز ہے۔",
+                "مسلمانوں کو جدید مالیاتی نظام میں شرعی حدود کا خیال رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Similarities can be found in certain types of modern 'future trading'.",
+                "Any deal where profit or loss depends purely on chance is invalid.",
+                "Muslims must observe Sharia limits within modern financial systems."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لالچ سے بچاؤ",
+              "english": "Avoiding Greed"
+            },
+            "content": {
+              "urdu": [
+                "غیر یقینی سودے اکثر زیادہ منافع کے لالچ میں کیے جاتے ہیں۔",
+                "اسلام ہمیں قناعت اور رزقِ حلال کے حصول کی تربیت دیتا ہے۔",
+                "حرص و ہوس انسان کو غلط راستوں پر ڈال دیتی ہے۔"
+              ],
+              "english": [
+                "Uncertain deals are often driven by the greed for excessive profit.",
+                "Islam trains us in contentment and the pursuit of Halal provision.",
+                "Greed and lust can lead an individual down the wrong paths."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاہدوں کی پاسداری",
+              "english": "Adherence to Contracts"
+            },
+            "content": {
+              "urdu": [
+                "قرآن و سنت معاہدوں کو مکمل وضاحت کے ساتھ طے کرنے کا حکم دیتے ہیں۔",
+                "سچی گواہی اور تحریری ثبوت تنازعات سے بچنے کا بہترین حل ہے۔",
+                "ایک سچا مسلمان اپنی زبان اور معاہدوں کا پکا ہوتا ہے۔"
+              ],
+              "english": [
+                "The Quran and Sunnah command defining contracts with total clarity.",
+                "Truthful testimony and written evidence are the best ways to avoid conflict.",
+                "A true Muslim remains steadfast in his word and his agreements."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

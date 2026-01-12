@@ -1,0 +1,261 @@
+{
+  "hadithId": 608,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/28"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف.‏ رواه الشافعي في المسند (797)، والدارقطني (2/236)، والبيهقي (5/41). فيه صالح بن محمد بن زائدة الليثي، وهو ضعيف الحديث.",
+    "urdu": "ضعیف۔ اسے امام شافعی، دارقطنی اور بیہقی نے روایت کیا ہے۔ اس کی سند میں صالح بن محمد بن زائدہ لیثی نامی راوی ہے جو کہ ضعیف الحدیث ہے۔",
+    "english": "Da'if (Weak). Reported by ash-Shafi'i in his Musnad (797), ad-Daraqutni, and al-Baihaqi. It contains Salih bin Muhammad bin Za'idah, who is a weak narrator."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَلْبِيَتِهِ",
+      "english": "His Talbiyah",
+      "urdu": "اس کا تلبیہ (لبیک پکارنا)"
+    },
+    {
+      "arabic": "رِضْوَانَهُ",
+      "english": "His Pleasure",
+      "urdu": "اس کی رضا / خوشنودی"
+    },
+    {
+      "arabic": "الْجَنَّةَ",
+      "english": "Paradise",
+      "urdu": "جنت"
+    },
+    {
+      "arabic": "اسْتَعَاذَ",
+      "english": "Sought refuge",
+      "urdu": "پناہ مانگی"
+    },
+    {
+      "arabic": "النَّارِ",
+      "english": "The Fire (Hell)",
+      "urdu": "آگ / جہنم"
+    }
+  ],
+  "summary": {
+    "urdu": "تلبیہ (لبیک) پکارنے کے بعد اللہ تعالیٰ سے جنت کا سوال کرنا اور جہنم سے پناہ مانگنا سنتِ نبوی اور مستحب عمل ہے۔",
+    "english": "After completing the Talbiyah, it is recommended to supplicate to Allah for Paradise and seek refuge from the Hellfire, following the practice of the Prophet (ﷺ)."
+  },
+  "references": [
+    {
+      "arabic": "مسند الشافعي (797)",
+      "english": "Musnad ash-Shafi'i (797)"
+    },
+    {
+      "arabic": "سنن الدارقطني (2/236)",
+      "english": "Sunan ad-Daraqutni (2/236)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "خزيمة بن ثابت",
+        "english": "Khuzaymah bin Thabit"
+      },
+      "slug": "khuzaymah-bin-thabit"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تلبیہ کے بعد دعا کی اہمیت",
+        "english": "Importance of Dua After Talbiyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قبولیت کا وقت",
+              "english": "Time of Acceptance"
+            },
+            "content": {
+              "urdu": [
+                "تلبیہ ایک عظیم ذکر ہے جو بندے اور اللہ کے درمیان تعلق کو ظاہر کرتا ہے۔",
+                "کسی بھی نیک عمل یا ذکر کے بعد مانگی گئی دعا کی قبولیت کے امکانات زیادہ ہوتے ہیں۔",
+                "نبی ﷺ کا یہ عمل سکھاتا ہے کہ تلبیہ کے بعد خاموش رہنے کے بجائے دعا کرنی چاہیے۔"
+              ],
+              "english": [
+                "Talbiyah is a great form of remembrance that manifests the bond between the servant and Allah.",
+                "Supplications made after a righteous deed or Dhikr have a higher chance of acceptance.",
+                "The Prophet's (ﷺ) practice teaches us to pray after Talbiyah rather than remaining silent."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کے الفاظ",
+              "english": "Wording of the Supplication"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ اللہ کی رضا اور جنت مانگتے تھے جو کہ مومن کا اصل ہدف ہے۔",
+                "جہنم سے پناہ مانگنا ہر مشکل اور تکلیف سے بچاؤ کی بنیاد ہے۔",
+                "یہ دعا جامع ہے کیونکہ اس میں دنیا اور آخرت کی بھلائی سمو دی گئی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) would ask for Allah's pleasure and Paradise, which is the ultimate goal of a believer.",
+                "Seeking refuge from Hellfire is the foundation of protection from all hardships.",
+                "This supplication is comprehensive, encompassing the goodness of both worlds."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور حدیث کی حیثیت",
+        "english": "Juristic Aspect and Hadith Status"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کی کمزوری",
+              "english": "Weakness of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک اس روایت کی سند ضعیف ہے کیونکہ اس میں صالح بن محمد موجود ہیں۔",
+                "تاہم، فضائلِ اعمال میں ضعیف احادیث پر عمل کرنے کی گنجائش اکثر علماء کے ہاں موجود ہے۔",
+                "ذکر کے بعد دعا کرنا عمومی قرآنی اور نبوی اصولوں سے بھی ثابت ہے۔"
+              ],
+              "english": [
+                "Scholars consider the chain of this narration weak due to the presence of Salih bin Muhammad.",
+                "However, many scholars allow acting upon weak Hadith in matters of virtuous deeds (Fada'il al-A'mal).",
+                "Supplicating after Dhikr is also established through general Quranic and Prophetic principles."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام شافعی کا موقف",
+              "english": "Imam Shafi'i's Position"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی رحمہ اللہ نے اس روایت کو اپنی کتاب میں جگہ دی ہے جو اس کے استحباب کی دلیل ہے۔",
+                "ان کے نزدیک تلبیہ کے بعد دعا کرنا سنتِ مستحبہ ہے۔",
+                "دیگر ائمہ بھی اس وقت میں دعا کو پسندیدہ قرار دیتے ہیں۔"
+              ],
+              "english": [
+                "Imam ash-Shafi'i included this narration in his book, which serves as evidence for its desirability.",
+                "According to him, supplicating after Talbiyah is a recommended Sunnah.",
+                "Other Imams also regard supplication at this time as highly commendable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اعمالِ حج اور توبہ",
+        "english": "Hajj Rituals and Repentance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حج کی روح",
+              "english": "The Spirit of Hajj"
+            },
+            "content": {
+              "urdu": [
+                "حج صرف ظاہری افعال کا نام نہیں بلکہ یہ دل کی گہرائیوں سے توبہ کا موقع ہے۔",
+                "تلبیہ کے ساتھ اپنی عاجزی کا اظہار کرنا اللہ کی رحمت کو کھینچ لاتا ہے۔",
+                "رضائے الٰہی کی تڑپ حج کے سفر کا اصل زادِ راہ ہے۔"
+              ],
+              "english": [
+                "Hajj is not just outward rituals; it is an opportunity for deep-seated repentance.",
+                "Expressing humility alongside the Talbiyah attracts the Mercy of Allah.",
+                "The yearning for Allah's pleasure is the true provision of the Hajj journey."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عاجزی اور مسکینی",
+              "english": "Humility and Submissiveness"
+            },
+            "content": {
+              "urdu": [
+                "احرام کی حالت میں بندہ ایک فقیر کی مانند اللہ کے در پر کھڑا ہوتا ہے۔",
+                "جنت کا سوال اور آگ سے پناہ مانگنا اس مسکینی کا اظہار ہے۔",
+                "یہ کیفیت انسان کے اندر تکبر کو ختم کرنے میں مددگار ہوتی ہے۔"
+              ],
+              "english": [
+                "In the state of Ihram, the servant stands at Allah's door like a beggar.",
+                "Asking for Paradise and seeking refuge from the Fire expresses this submissiveness.",
+                "This state helps in eliminating arrogance from within a person."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعاؤں کا اہتمام",
+              "english": "Diligence in Supplication"
+            },
+            "content": {
+              "urdu": [
+                "حاجی کو چاہیے کہ وہ حج کے ہر مرحلے پر مسنون دعاؤں کا اہتمام کرے۔",
+                "ذکر اللہ کی زبان پر کثرت انسان کو شیطانی وسوسوں سے محفوظ رکھتی ہے۔",
+                "صرف الفاظ کی ادائیگی کافی نہیں، بلکہ دل کی حاضری بھی ضروری ہے۔"
+              ],
+              "english": [
+                "The pilgrim should be diligent in making Sunnah supplications at every stage of Hajj.",
+                "Constant Dhikr on the tongue protects a person from satanic whispers.",
+                "Mere vocalization is not enough; the presence of the heart is also essential."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی پیروی",
+              "english": "Following the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "کامل بندگی وہی ہے جو نبی کریم ﷺ کے بتائے ہوئے طریقے پر ہو۔",
+                "اگرچہ یہ حدیث ضعیف ہے، مگر اس کا مفہوم نیکی اور بھلائی پر مبنی ہے۔",
+                "اللہ کی رحمت سے کبھی مایوس نہیں ہونا چاہیے اور مسلسل مانگتے رہنا چاہیے۔"
+              ],
+              "english": [
+                "Perfect servitude is that which follows the method shown by the Prophet (ﷺ).",
+                "Even though this Hadith is weak, its meaning is rooted in goodness and virtue.",
+                "One should never despair of Allah's Mercy and should keep asking continuously."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

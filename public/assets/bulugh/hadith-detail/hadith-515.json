@@ -1,0 +1,272 @@
+{
+  "hadithId": 515,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/515"],
+    "kitabId": 4,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 31
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1462)، ومسلم (1000). والحديث يوضح جواز إعطاء المرأة صدقتها لزوجها الفقير وأولادها.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (1462) اور امام مسلم (1000) نے روایت کیا ہے۔ اس سے ثابت ہوتا ہے کہ عورت اپنا صدقہ اپنے غریب شوہر کو دے سکتی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1426) and Muslim (1000). It establishes that a woman may give her charity to her needy husband and children."
+  },
+  "importantWords": [
+    {
+      "arabic": "حُلِيٌّ",
+      "english": "Jewelry / Ornaments",
+      "urdu": "زیور"
+    },
+    {
+      "arabic": "أَتَصَدَّقَ",
+      "english": "Give charity",
+      "urdu": "صدقہ کرنا"
+    },
+    {
+      "arabic": "فَزَعَمَ",
+      "english": "He claimed",
+      "urdu": "اس نے خیال ظاہر کیا"
+    },
+    {
+      "arabic": "أَحَقُّ",
+      "english": "More deserving",
+      "urdu": "زیادہ حقدار"
+    },
+    {
+      "arabic": "صَدَقَ",
+      "english": "Spoke the truth",
+      "urdu": "سچ کہا"
+    },
+    {
+      "arabic": "وَلَدُكِ",
+      "english": "Your children",
+      "urdu": "تمہاری اولاد"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر شوہر غریب ہو تو بیوی اپنے نفلی صدقات اور زکوٰۃ اسے دے سکتی ہے، کیونکہ رشتہ داروں کی مدد کرنا دوہرے اجر (صدقہ اور صلہ رحمی) کا باعث ہے۔",
+    "english": "A woman can give her charity to her needy husband and children, as providing for family members earns a double reward: charity and maintaining family ties."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1462)",
+      "english": "Sahih al-Bukhari (1462)"
+    },
+    {
+      "arabic": "صحيح مسلم (1000)",
+      "english": "Sahih Muslim (1000)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري رضي الله عنه",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "زينب امرأة ابن مسعود",
+        "english": "Zainab the wife of Ibn Mas'ud"
+      },
+      "slug": "zainab-wife-of-ibn-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیوی کا شوہر کو صدقہ دینا",
+        "english": "Wife giving Charity to Husband"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شوہر کی مالی ضرورت",
+              "english": "Financial need of the Husband"
+            },
+            "content": {
+              "urdu": [
+                "اگر شوہر مستحق ہو تو بیوی اسے زکوٰۃ یا صدقہ دے سکتی ہے۔",
+                "شوہر پر بیوی کا نفقہ واجب ہے، لیکن بیوی پر شوہر کا واجب نہیں۔",
+                "اس صورت میں بیوی کا مال شوہر کی معاشی مدد کا بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "If a husband is needy, the wife is allowed to give him Zakat or charity.",
+                "Husbands must support wives, but wives are not legally bound to support husbands.",
+                "In this case, the wife's wealth becomes a noble means to assist the husband."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رشتہ داری اور دہرا ثواب",
+              "english": "Kinship and Double Reward"
+            },
+            "content": {
+              "urdu": [
+                "رشتہ داروں پر خرچ کرنے سے صدقہ اور صلہ رحمی دونوں کا اجر ملتا ہے۔",
+                "قریبی افراد کو نظر انداز کر کے دور والوں کو دینا سنت کے خلاف ہے۔",
+                "اسلام خاندان کے اندر ہی معاشی خود کفالت کو ترجیح دیتا ہے۔"
+              ],
+              "english": [
+                "Spending on relatives earns rewards for both charity and family ties.",
+                "Giving to distant people while neglecting close ones is against the Sunnah.",
+                "Islam prioritizes economic self-sufficiency within the family unit first."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خواتین اور انفاق کا جذبہ",
+        "english": "Women and the Spirit of Giving"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زیورات کا صدقہ",
+              "english": "Charity of Jewelry"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ زینب رضی اللہ عنہا کا زیور پیش کرنا ان کے ایثار کی دلیل ہے۔",
+                "خواتین کو اپنے پسندیدہ مال سے بھی اللہ کی راہ میں دینا چاہیے۔",
+                "یہ عمل دنیا کی محبت کم کر کے آخرت کی فکر پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "Lady Zainab's offering of jewelry is a testament to her selflessness.",
+                "Women should give from what they love most for the sake of Allah.",
+                "This practice reduces love for the world and fosters concern for the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمی رہنمائی کا حصول",
+              "english": "Seeking Knowledgeable Guidance"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ زینب نے براہ راست نبی ﷺ سے مسئلہ دریافت کر کے سنت قائم کی۔",
+                "دینی معاملات میں شک ہو تو اہل علم سے رجوع کرنا چاہیے۔",
+                "صحیح علم ہی عمل کو مقبول اور موثر بناتا ہے۔"
+              ],
+              "english": [
+                "Lady Zainab set a Sunnah by asking the Prophet (ﷺ) directly for clarification.",
+                "One should refer to people of knowledge when in doubt about religious matters.",
+                "Correct knowledge is what makes an action accepted and effective."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اولاد کی کفالت",
+        "english": "Supporting Children"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچوں پر خرچ کی فضیلت",
+              "english": "Virtue of Spending on Children"
+            },
+            "content": {
+              "urdu": [
+                "اپنی اولاد کی تربیت اور خوراک پر خرچ کرنا بھی صدقہ ہے۔",
+                "حدیث میں شوہر کے ساتھ اولاد کے حق کو بھی بیان کیا گیا ہے۔",
+                "یہ انفاق نسلوں کی بہتر نشوونما اور مستقبل کی ضمانت ہے۔"
+              ],
+              "english": [
+                "Spending on the upbringing and food of one's children is a form of charity.",
+                "The Hadith mentions the rights of children alongside the husband.",
+                "This spending guarantees better growth for generations and their future."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاندانی ہم آہنگی",
+              "english": "Family Harmony"
+            },
+            "content": {
+              "urdu": [
+                "مالی تعاون خاندان میں محبت اور شکریہ کے جذبات کو بڑھاتا ہے۔",
+                "بیوی کا حسنِ سلوک شوہر کے وقار اور گھریلو سکون کا باعث بنتا ہے۔",
+                "یہ عمل اسلامی معاشرے کے خاندانی نظام کو مضبوط کرتا ہے۔"
+              ],
+              "english": [
+                "Financial cooperation increases feelings of love and gratitude in the family.",
+                "A wife's kindness contributes to the husband's dignity and domestic peace.",
+                "This practice strengthens the family system of the Islamic society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور عملی اسباق",
+        "english": "Juristic and Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صدقہ کی ترجیحات",
+              "english": "Priorities of Charity"
+            },
+            "content": {
+              "urdu": [
+                "سب سے پہلے واجبات، پھر قریب ترین رشتہ دار اور پھر عام لوگ۔",
+                "ضرورت مند شوہر کو غیروں پر ترجیح دینا عقل اور دین کا تقاضا ہے۔",
+                "اپنے گھر کو مستحکم کرنا ہی اصل سماجی خدمت ہے۔"
+              ],
+              "english": [
+                "Prioritize obligations, then closest relatives, then the general public.",
+                "Preferring a needy husband over strangers is a requirement of wisdom and faith.",
+                "Stabilizing one's own home is the true form of social service."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مرد کی غیرت اور حقیقت",
+              "english": "Male Honor and Reality"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابن مسعود نے اپنی ضرورت کا اظہار کر کے سچائی کا ثبوت دیا۔",
+                "ضرورت کے وقت بیوی سے مدد لینا شرم کی بات نہیں بلکہ شرعی حق ہے۔",
+                "میاں بیوی کا ایک دوسرے کے لیے مددگار ہونا ہی مثالی زندگی ہے۔"
+              ],
+              "english": [
+                "Ibn Mas'ud proved his truthfulness by expressing his actual need.",
+                "Taking help from a wife in times of need is a Shariah right, not a shame.",
+                "Being helpful to each other is the essence of an ideal married life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

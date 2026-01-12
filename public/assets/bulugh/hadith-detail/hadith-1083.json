@@ -1,0 +1,259 @@
+{
+  "hadithId": 1083,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/4"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3004)، ومسلم (2549)، وأحمد (3/75)، وأبو داود (2530). واللفظ للبخاري ومسلم في أصل القصة، والزيادة صحيحة عند أبي داود.",
+    "urdu": "صحیح۔ اسے امام بخاری (3004) اور مسلم (2549) نے روایت کیا ہے۔ ابوداؤد (2530) اور احمد کی روایت میں والدین سے اجازت لینے کا اضافہ ہے جو کہ سنداً صحیح ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3004) and Muslim (2549). The version with the additional instruction to seek permission is reported by Ahmad and Abu Dawud (2530) and is authentic."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَسْتَأْذِنُهُ",
+      "english": "Seeking his permission",
+      "urdu": "ان سے اجازت مانگ رہا تھا"
+    },
+    {
+      "arabic": "أَحَيٌّ",
+      "english": "Are they alive?",
+      "urdu": "کیا وہ زندہ ہیں؟"
+    },
+    {
+      "arabic": "فَفِيهِمَا",
+      "english": "Concerning them",
+      "urdu": "پس ان دونوں میں"
+    },
+    {
+      "arabic": "فَجَاهِدْ",
+      "english": "Exert yourself / Strive",
+      "urdu": "پس جہاد کرو / محنت کرو"
+    },
+    {
+      "arabic": "فَبِرَّهُمَا",
+      "english": "Treat them kindly",
+      "urdu": "ان کے ساتھ نیکی کرو"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ والدین کی خدمت اور ان کی رضامندی حاصل کرنا نفلی جہاد سے مقدم ہے اور اسے بھی جہاد کے برابر اجر والا عمل قرار دیا گیا ہے۔",
+    "english": "This Hadith establishes that serving one's parents and obtaining their consent takes precedence over voluntary Jihad and is considered an act of struggle with equivalent reward."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (3004)",
+      "english": "Narrated by Al-Bukhari (3004)"
+    },
+    {
+      "arabic": "رواه مسلم (2549)",
+      "english": "Narrated by Muslim (2549)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin Amr bin al-As"
+      },
+      "slug": "abdullah-bin-amr-bin-al-as"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F3z4K_qX6zU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "والدین کی خدمت کی اہمیت",
+        "english": "The Importance of Serving Parents"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خدمتِ والدین بطور جہاد",
+              "english": "Parental Service as Jihad"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے والدین کی خدمت کو جہاد کے مترادف قرار دیا ہے۔",
+                "یہ ان لوگوں کے لیے ہے جن کے والدین کو ان کی ضرورت ہو۔",
+                "والدین کی خوشنودی حاصل کرنا اللہ کی رضا پانے کا آسان راستہ ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) termed the service of parents as equivalent to Jihad.",
+                "This applies especially when parents are in need of their children's support.",
+                "Seeking the pleasure of parents is a direct path to the pleasure of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق العباد کی ترجیح",
+              "english": "Priority of Human Rights"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں حقوق اللہ کے ساتھ حقوق العباد کو بھی بڑی اہمیت حاصل ہے۔",
+                "نفلی عبادات پر والدین کے حقوق کو فوقیت دی گئی ہے۔",
+                "معذور یا بوڑھے والدین کو چھوڑ کر جانا شریعت کے مزاج کے خلاف ہے۔"
+              ],
+              "english": [
+                "Islam places great emphasis on human rights alongside divine obligations.",
+                "Parental rights are prioritized over voluntary acts of worship.",
+                "Leaving disabled or elderly parents behind contradicts the spirit of Sharia."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جہاد کے لیے اجازت کی شرط",
+        "english": "Condition of Permission for Jihad"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "والدین سے اجازت لینا",
+              "english": "Seeking Consent from Parents"
+            },
+            "content": {
+              "urdu": [
+                "اگر جہاد فرضِ عین نہ ہو تو والدین کی اجازت لینا لازمی ہے۔",
+                "بغیر اجازت ہجرت یا جہاد پر نکلنا والدین کی نافرمانی شمار ہو سکتا ہے۔",
+                "والدین کا دکھ اور تنہائی جہاد کے اجر میں رکاوٹ بن سکتے ہیں۔"
+              ],
+              "english": [
+                "If Jihad is not an individual obligation, parental consent is mandatory.",
+                "Departing for Hijrah or Jihad without permission may be considered disobedience.",
+                "The grief and loneliness of parents can hinder the rewards of Jihad."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکمتِ نبوی ﷺ",
+              "english": "The Prophetic Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے سائل کے حالات دیکھ کر اسے والدین کے پاس رہنے کا حکم دیا۔",
+                "دین کے ہر حکم کے پیچھے انسانی فلاح اور سماجی استحکام پوشیدہ ہے۔",
+                "گھر کی ذمہ داریاں نبھانا بھی ایک عظیم عبادت اور ایثار ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) assessed the seeker's situation before ordering him to stay.",
+                "Human welfare and social stability are behind every religious command.",
+                "Fulfilling household responsibilities is also a great act of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور ابعاد",
+        "english": "Juristic Issues and Dimensions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فرضِ کفایہ اور فرضِ عین",
+              "english": "Fard al-Kifayah vs. Fard al-Ayn"
+            },
+            "content": {
+              "urdu": [
+                "والدین کی اجازت اس وقت ضروری ہے جب جہاد فرضِ کفایہ ہو۔",
+                "اگر دشمن حملہ کر دے اور جہاد فرضِ عین ہو جائے تو اجازت شرط نہیں۔",
+                "فقہاء نے اس حدیث سے حقوق العباد کی حساسیت کو واضح کیا ہے۔"
+              ],
+              "english": [
+                "Parental permission is required when Jihad is a communal obligation.",
+                "If an enemy attacks and Jihad becomes an individual duty, consent is not required.",
+                "Jurists use this Hadith to highlight the sensitivity of human rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیکی اور حسن سلوک",
+              "english": "Kindness and Good Treatment"
+            },
+            "content": {
+              "urdu": [
+                "اگر والدین اجازت نہ دیں تو ان کے پاس رہ کر نیکی کرنا بہترین عمل ہے۔",
+                "خدمت میں صبر اور عاجزی اختیار کرنا بلند درجات کا سبب ہے۔",
+                "والدین کی دعا میدانِ کارزار کی فتح سے زیادہ وزنی ہو سکتی ہے۔"
+              ],
+              "english": [
+                "If parents refuse permission, staying and serving them is the best deed.",
+                "Exercising patience and humility in service leads to high spiritual ranks.",
+                "A parent's prayer can be weightier than a victory on the battlefield."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور اخلاقی سبق",
+        "english": "Social and Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی نظام کا تحفظ",
+              "english": "Protection of the Family System"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک مضبوط خاندانی ڈھانچے کی تعمیر پر زور دیتا ہے۔",
+                "بزرگوں کی دیکھ بھال معاشرے کے اخلاقی معیار کی عکاسی کرتی ہے۔",
+                "والدین کو تنہا چھوڑنا اسلامی معاشرت کے اصولوں کے منافی ہے۔"
+              ],
+              "english": [
+                "Islam emphasizes the construction of a strong family structure.",
+                "Caring for elders reflects the ethical standards of a society.",
+                "Abandoning parents contradicts the principles of Islamic social life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جذبات اور شریعت کا توازن",
+              "english": "Balance of Emotions and Sharia"
+            },
+            "content": {
+              "urdu": [
+                "نیکی کا جوش اپنی جگہ، مگر حدودِ الٰہی کا علم ہونا ضروری ہے۔",
+                "صرف جذبات کی بنیاد پر کیے گئے فیصلے شرعی لحاظ سے غلط ہو سکتے ہیں۔",
+                "حقیقی مجاہد وہ ہے جو اپنے نفس اور جذبات کو شریعت کے تابع کرے۔"
+              ],
+              "english": [
+                "Zeal for good is fine, but knowledge of Divine limits is essential.",
+                "Decisions made solely on emotions can be juristically incorrect.",
+                "A true Mujahid is one who subordinates his ego and emotions to Sharia."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

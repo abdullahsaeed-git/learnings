@@ -1,0 +1,259 @@
+{
+  "hadithId": 1092,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/13"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3012)، ومسلم (1745). قوله 'يبيتون' أي يغار عليهم بالليل بحيث لا يميز بين الرجل والمرأة.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (3012) اور امام مسلم (1745) نے روایت کیا ہے۔ 'یبیتون' کا مطلب ہے کہ رات کے اندھیرے میں حملہ کرنا جب جنگجو مردوں اور غیر جنگجو عورتوں و بچوں میں تمیز کرنا مشکل ہو۔",
+    "english": "Sahih. Reported by Al-Bukhari (3012) and Muslim (1745). The term 'Yubayyatun' refers to attacking at night when it is difficult to distinguish between combatants and non-combatants."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُبَيِّتُونَ",
+      "english": "Attacked at night",
+      "urdu": "شب خون مارنا"
+    },
+    {
+      "arabic": "ذَرَارِي",
+      "english": "Offspring/Children",
+      "urdu": "نسل / بچے"
+    },
+    {
+      "arabic": "نِسَاء",
+      "english": "Women",
+      "urdu": "عورتیں"
+    },
+    {
+      "arabic": "هُمْ مِنْهُمْ",
+      "english": "They are from them",
+      "urdu": "وہ ان ہی میں سے ہیں"
+    },
+    {
+      "arabic": "فَيُصِيبُونَ",
+      "english": "They strike/hit",
+      "urdu": "وہ زد میں آجاتے ہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مفہوم یہ ہے کہ جنگی ضرورت کے تحت رات کے حملے میں اگر نادانستہ طور پر عورتیں یا بچے ہلاک ہو جائیں تو مجاہدین پر کوئی گناہ یا جرمانہ نہیں، کیونکہ اس وقت تمیز کرنا ممکن نہیں ہوتا۔",
+    "english": "This Hadith implies that if women or children are unintentionally killed during a necessary night raid because they cannot be distinguished from combatants, there is no sin or legal liability upon the fighters."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (3012)",
+      "english": "Sahih al-Bukhari (3012)"
+    },
+    {
+      "arabic": "صحيح مسلم (1745)",
+      "english": "Sahih Muslim (1745)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "الصعب بن جثامة",
+        "english": "As-Sa'b bin Jaththama"
+      },
+      "slug": "as-sab-bin-jaththama"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنگی مصلحت اور حدود",
+        "english": "Military Necessity and Limits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قصداً قتل کی ممانعت",
+              "english": "Prohibition of Intentional Killing"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے جنگ کے دوران بچوں اور عورتوں کو قصداً نشانہ بنانے سے سختی سے روکا ہے۔",
+                "دیگر احادیث میں صراحت ہے کہ عورتوں اور بچوں کو قتل نہ کیا جائے۔",
+                "اس حدیث کا تعلق صرف اس صورت سے ہے جب اندھیرے کی وجہ سے تمیز کرنا ممکن نہ ہو۔"
+              ],
+              "english": [
+                "Islam strictly prohibits the intentional targeting of children and women during war.",
+                "Other narrations explicitly state that women and children must not be killed.",
+                "This Hadith only pertains to situations where it is impossible to distinguish them due to darkness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شب خون کا جواز",
+              "english": "Permissibility of Night Raids"
+            },
+            "content": {
+              "urdu": [
+                "دشمن کی قوت توڑنے کے لیے رات کے وقت حملہ کرنا ایک جائز جنگی چال ہے۔",
+                "اگر تمیز ممکن ہو تو غیر مقاتلین کو بچانا لازمی اور فرض ہے۔",
+                "لیکن اگر نادانستہ نقصان ہو جائے تو اسے جنگ کا ناگزیر حصہ سمجھا جائے گا۔"
+              ],
+              "english": [
+                "Attacking at night is a permissible military tactic to weaken the enemy's power.",
+                "If distinction is possible, it is mandatory to save non-combatants.",
+                "However, unintentional damage is considered an unavoidable part of warfare."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام کی وضاحت",
+        "english": "Clarification of Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وہ ان میں سے ہیں کا مطلب",
+              "english": "Meaning of 'They are from them'"
+            },
+            "content": {
+              "urdu": [
+                "اس جملے کا مطلب ہے کہ ان کے احکام وہی ہیں جو ان کے والدین کے ہیں۔",
+                "یعنی وہ مشرکین کے معاشرے کا حصہ ہیں اور ان کے ساتھ ہی شمار ہوں گے۔",
+                "اس سے مراد یہ نہیں کہ انہیں جان بوجھ کر مارنا حلال کر دیا گیا ہے۔"
+              ],
+              "english": [
+                "This phrase means their legal status in that specific context is the same as their parents.",
+                "It implies they are part of that society and will be counted amongst them.",
+                "It does not mean that killing them intentionally has been made permissible."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیت اور کفارہ",
+              "english": "Blood Money and Expiation"
+            },
+            "content": {
+              "urdu": [
+                "دورانِ جنگ نادانستہ طور پر ہلاک ہونے والے مشرک بچوں پر دیت واجب نہیں۔",
+                "مشرکین کے درمیان رہائش کی وجہ سے وہ اس خطرے کا خود شکار ہوتے ہیں۔",
+                "مسلمانوں کو ہر ممکن کوشش کرنی چاہیے کہ وہ معصوم جانوں کو بچائیں۔"
+              ],
+              "english": [
+                "No blood money is due for polytheist children killed unintentionally during war.",
+                "By residing among the polytheists, they are naturally exposed to such risks.",
+                "Muslims must make every effort possible to spare innocent lives."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی اخلاقیاتِ جنگ",
+        "english": "Islamic Ethics of War"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رحمت اور عدل کا امتزاج",
+              "english": "Blending Mercy and Justice"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی جنگ کا مقصد انسانیت کی اصلاح ہے نہ کہ زمین پر فساد پھیلانا۔",
+                "مجبوری کی حالت میں دی گئی اجازت کو قاعدہ نہیں بنانا چاہیے۔",
+                "آپ ﷺ نے ہمیشہ مجاہدین کو تقویٰ اور عدل کی وصیت فرمائی۔"
+              ],
+              "english": [
+                "The goal of Islamic warfare is reformation, not spreading corruption on earth.",
+                "Permissiveness granted under necessity should not be turned into a general rule.",
+                "The Prophet (ﷺ) always advised the fighters toward piety and justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی جان کی حرمت",
+              "english": "Sanctity of Human Life"
+            },
+            "content": {
+              "urdu": [
+                "ناحق کسی کو قتل کرنا اسلام میں بہت بڑا گناہ قرار دیا گیا ہے۔",
+                "جنگ میں بھی معصوموں کی زندگیوں کے بارے میں احتیاط کا حکم ہے۔",
+                "یہ حدیث صرف ان حالات کی وضاحت ہے جہاں انسان بے بس ہو۔"
+              ],
+              "english": [
+                "Killing anyone unjustly is declared a major sin in Islam.",
+                "Even in war, caution regarding the lives of the innocent is commanded.",
+                "This Hadith only explains the ruling for situations beyond human control."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سوال و جواب کی اہمیت",
+              "english": "Importance of Q&A"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام مشکل معاملات میں رہنمائی کے لیے آپ ﷺ سے رجوع کرتے تھے۔",
+                "علم کی پختگی کے لیے سوال کرنا اور باریکیوں کو سمجھنا ضروری ہے۔",
+                "ہر مسلمان کو اپنے عمل کی شرعی حیثیت کے بارے میں علم ہونا چاہیے۔"
+              ],
+              "english": [
+                "The Companions turned to the Prophet (ﷺ) for guidance in difficult matters.",
+                "Asking questions and understanding nuances is vital for sound knowledge.",
+                "Every Muslim should be aware of the Shariah status of their actions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکمت اور تدبر",
+              "english": "Wisdom and Reflection"
+            },
+            "content": {
+              "urdu": [
+                "مشکل فیصلے کرتے وقت شریعت کے اصولوں اور مصلحتوں کو دیکھنا چاہیے۔",
+                "اسلامی تعلیمات میں ہر پہلو کے لیے توازن اور اعتدال موجود ہے۔",
+                "دین پر عمل کرنے میں پختگی علم اور تقویٰ کے امتزاج سے آتی ہے۔"
+              ],
+              "english": [
+                "One must consider Shariah principles and benefits when making tough decisions.",
+                "Islamic teachings offer balance and moderation for every aspect of life.",
+                "Firmness in practicing religion comes from a blend of knowledge and piety."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

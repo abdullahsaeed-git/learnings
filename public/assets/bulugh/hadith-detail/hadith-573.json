@@ -1,0 +1,259 @@
+{
+  "hadithId": 573,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/573"],
+    "kitabId": 5,
+    "inKitabBab": 3,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 35
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه أبو داود (2473)، والدارقطني (2/201)، والبيهقي (4/315). قال الحافظ: والراجح وقف آخره، أي قوله: 'ولا اعتكاف إلا بصوم...'.",
+    "urdu": "حسن روایت ہے۔ اسے ابوداؤد (2473) نے روایت کیا ہے۔ حافظ ابن حجر کے مطابق اس کے آخری حصے (روزے اور جامع مسجد کی شرط) کا موقوف (صحابی کا قول) ہونا راجح ہے۔",
+    "english": "Hasan (Good) narration. Reported by Abu Dawud (2473). Al-Hafiz Ibn Hajar mentioned that the last part concerning fasting and the congregational mosque is most likely Mauquf (the words of the Companion)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْمُعْتَكِفِ",
+      "english": "One observing I'tikaf",
+      "urdu": "اعتکاف کرنے والا"
+    },
+    {
+      "arabic": "لَا يَعُودَ",
+      "english": "Should not visit",
+      "urdu": "بیمار پرسی نہ کرے"
+    },
+    {
+      "arabic": "لَا بُدَّ",
+      "english": "Indispensable / Necessary",
+      "urdu": "جس کے بغیر چارہ نہ ہو"
+    },
+    {
+      "arabic": "مُبَاشِرَهَا",
+      "english": "Consummate / Embrace",
+      "urdu": "مباشرت / ہم بستری"
+    },
+    {
+      "arabic": "جَامِعٍ",
+      "english": "Congregational",
+      "urdu": "جامع (بڑی مسجد)"
+    }
+  ],
+  "summary": {
+    "urdu": "اعتکاف کی حالت میں مسجد سے باہر نکلنے، بیمار پرسی، جنازہ اور ازدواجی تعلقات کی ممانعت ہے تاکہ اعتکاف کا اصل مقصد (یکسوئی) حاصل ہو سکے۔",
+    "english": "During I'tikaf, leaving the mosque, visiting the sick, attending funerals, and marital relations are prohibited to maintain the spiritual focus and seclusion."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2473)",
+      "english": "Reported by Abu Dawud (2473)"
+    },
+    {
+      "arabic": "سنن البيهقي (4/315)",
+      "english": "Sunan al-Bayhaqi (4/315)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=J3WvE4VpI3s",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اعتکاف کے ممنوعات",
+        "english": "Prohibitions During I'tikaf"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد سے نکلنے کی حد",
+              "english": "Limits of Leaving the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "اعتکاف کرنے والا صرف ان کاموں کے لیے مسجد سے نکل سکتا ہے جن کے بغیر چارہ نہ ہو، جیسے قضائے حاجت۔",
+                "بیمار پرسی اور جنازہ اگرچہ نیک کام ہیں، مگر اعتکاف کی حالت میں ان کے لیے نکلنا اعتکاف کو باطل کر دیتا ہے۔",
+                "مسجد سے بلا ضرورت نکلنے سے اعتکاف کی روح (مسلسل قیام) ختم ہو جاتی ہے۔"
+              ],
+              "english": [
+                "A person in I'tikaf can only leave for indispensable needs, such as answering the call of nature.",
+                "Visiting the sick and attending funerals, though virtuous, invalidate I'tikaf if performed outside the mosque.",
+                "Leaving the mosque without a valid necessity destroys the essence of continuous seclusion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ازدواجی تعلقات کی ممانعت",
+              "english": "Prohibition of Marital Relations"
+            },
+            "content": {
+              "urdu": [
+                "اعتکاف کے دوران ہم بستری کرنا قرآن کی نص سے حرام ہے اور اس سے اعتکاف ٹوٹ جاتا ہے۔",
+                "شہوانی لمس اور بوس و کنار سے بھی پرہیز کرنا لازم ہے تاکہ یکسوئی برقرار رہے۔",
+                "یہ پابندی اس لیے ہے تاکہ بندہ مکمل طور پر اللہ کی محبت میں غرق رہے۔"
+              ],
+              "english": [
+                "Sexual intercourse is forbidden during I'tikaf by Quranic text and nullifies the ritual.",
+                "Sensual touching and kissing must also be avoided to maintain spiritual focus.",
+                "These restrictions ensure that the person remains completely immersed in the devotion to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اعتکاف کی شرائط",
+        "english": "Conditions for I'tikaf"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزے کی شرط",
+              "english": "Requirement of Fasting"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کے مطابق بغیر روزے کے اعتکاف درست نہیں ہے، جو کہ احناف کا موقف ہے۔",
+                "اگرچہ بعض علماء (شافعیہ) کے نزدیک نفل اعتکاف بغیر روزے کے بھی ہو سکتا ہے، مگر سنت اعتکاف روزے کے ساتھ ہی ہے۔",
+                "روزہ اور اعتکاف مل کر نفس کی تطہیر میں اہم کردار ادا کرتے ہیں۔"
+              ],
+              "english": [
+                "According to this narration, I'tikaf is not valid without fasting, which is the Hanafi position.",
+                "While some scholars (Shafi'is) allow voluntary I'tikaf without fasting, the Sunnah practice is with it.",
+                "Fasting and I'tikaf together play a vital role in the purification of the soul."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسجدِ جامع کی قید",
+              "english": "Restriction to Congregational Mosque"
+            },
+            "content": {
+              "urdu": [
+                "اعتکاف ایسی مسجد میں ہونا چاہیے جہاں پانچ وقت کی نماز باجماعت ہوتی ہو۔",
+                "افضل یہ ہے کہ جامع مسجد (جہاں جمعہ ہوتا ہو) میں ہو تاکہ جمعہ کے لیے بھی مسجد سے نہ نکلنا پڑے۔",
+                "مسجد اللہ کا گھر ہے اور اعتکاف دراصل اللہ کے در پر ڈیرہ ڈالنا ہے۔"
+              ],
+              "english": [
+                "I'tikaf must be observed in a mosque where the five daily prayers are held in congregation.",
+                "It is better to be in a Jami' mosque (where Friday prayer is held) to avoid leaving for Jumu'ah.",
+                "The mosque is the house of Allah, and I'tikaf is essentially camping at His doorstep."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و علمی باریکیاں",
+        "english": "Juristic and Scholarly Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرفوع اور موقوف کا فرق",
+              "english": "Difference Between Marfu' and Mauquf"
+            },
+            "content": {
+              "urdu": [
+                "حافظ ابن حجر کے مطابق 'بغیر روزے کے اعتکاف نہیں' والے الفاظ سیدہ عائشہ کا اپنا قول (موقوف) ہیں۔",
+                "تاہم صحابی کا قول بھی تشریحِ دین میں اہمیت رکھتا ہے، خاص طور پر جب وہ سنت کا لفظ استعمال کریں۔",
+                "فقہاء نے ان باریکیوں کی بنیاد پر مختلف حالات کے لیے احکام مستنبط کیے ہیں۔"
+              ],
+              "english": [
+                "Ibn Hajar notes that the phrase 'No I'tikaf without fasting' is the word of 'Aisha (Mauquf).",
+                "However, a Companion's statement is significant, especially when using the term 'Sunnah'.",
+                "Jurists derive rulings for various situations based on these critical scholarly nuances."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی حاجات کی رعایت",
+              "english": "Allowance for Human Needs"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے 'ما لا بد لہ' (ناگزیر ضروریات) کے لیے مسجد سے نکلنے کی اجازت دے کر آسانی پیدا کی ہے۔",
+                "کھانے پینے کا انتظام اگر مسجد میں نہ ہو سکے تو اس کے لیے بھی باہر جایا جا سکتا ہے۔",
+                "یہ دینِ فطرت ہے جو انسانی ضروریات اور بندگی کے درمیان توازن قائم کرتا ہے۔"
+              ],
+              "english": [
+                "Shariah provides ease by allowing departure for 'indispensable needs' (Ma la budda lahu).",
+                "If food or drink arrangements cannot be made inside, one may step out to procure them.",
+                "This is a natural religion that balances human necessities with acts of devotion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور سبق",
+        "english": "Practical Training and Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "یکسوئی کی تربیت",
+              "english": "Training in Focus"
+            },
+            "content": {
+              "urdu": [
+                "اعتکاف ہمیں سکھاتا ہے کہ کس طرح دنیاوی تعلقات کو عارضی طور پر توڑ کر اللہ سے جڑا جاتا ہے۔",
+                "بیمار پرسی جیسے عظیم کام کو بھی اعتکاف کی خاطر چھوڑنا ترجیحات کی تربیت ہے۔",
+                "اصل مقصد دل کو غیر اللہ سے خالی کر کے اللہ کی یاد سے بھرنا ہے۔"
+              ],
+              "english": [
+                "I'tikaf teaches how to temporarily sever worldly ties to connect deeply with Allah.",
+                "Foregoing even virtuous acts like visiting the sick for I'tikaf is a lesson in prioritizing goals.",
+                "The ultimate goal is to empty the heart of distractions and fill it with Allah's remembrance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفس پر کنٹرول",
+              "english": "Control Over Self"
+            },
+            "content": {
+              "urdu": [
+                "ازدواجی تعلقات اور باہر گھومنے پھرنے پر پابندی نفس کو قابو میں رکھنے کی مشق ہے۔",
+                "جب انسان حلال چیزوں کو اللہ کے لیے چھوڑ دیتا ہے، تو حرام سے بچنا آسان ہو جاتا ہے۔",
+                "یہ دس دن مومن کی روحانی بیٹری کو چارج کرنے کے لیے بہترین وقت ہیں۔"
+              ],
+              "english": [
+                "Restrictions on marital relations and moving about are exercises in self-control.",
+                "When a person abandons permissible things for Allah, avoiding the forbidden becomes easier.",
+                "These ten days are the ideal time to recharge a believer's spiritual battery."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

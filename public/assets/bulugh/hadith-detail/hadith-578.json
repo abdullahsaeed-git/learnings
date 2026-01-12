@@ -1,0 +1,259 @@
+{
+  "hadithId": 578,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/72"],
+    "kitabId": 5,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الصيام",
+    "babId": 35
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1197)، ومسلم (1397). وهذا الحديث أصل في بيان فضيلة هذه المساجد الثلاثة على غيرها.",
+    "urdu": "صحیح۔ اسے امام بخاری (1197) اور امام مسلم (1397) نے روایت کیا ہے۔ یہ حدیث ان تین مساجد کی فضیلت اور وہاں سفر کر کے جانے کی اہمیت پر بنیادی دلیل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1197) and Muslim (1397). This Hadith is a primary evidence for the unique status of these three mosques over all others."
+  },
+  "importantWords": [
+    {
+      "arabic": "تُشَدُّ",
+      "english": "Are tied / undertaken",
+      "urdu": "باندھے جائیں"
+    },
+    {
+      "arabic": "اَلرِّحَالُ",
+      "english": "Saddles / Journey",
+      "urdu": "کجاوے / سفر"
+    },
+    {
+      "arabic": "اَلْمَسْجِدِ اَلْحَرَامِ",
+      "english": "The Sacred Mosque (Makkah)",
+      "urdu": "مسجدِ حرام"
+    },
+    {
+      "arabic": "مَسْجِدِي هَذَا",
+      "english": "This mosque of mine",
+      "urdu": "میری یہ مسجد"
+    },
+    {
+      "arabic": "اَلْمَسْجِدِ اَلْأَقْصَى",
+      "english": "The Farthest Mosque (Jerusalem)",
+      "urdu": "مسجدِ اقصی"
+    }
+  ],
+  "summary": {
+    "urdu": "ثواب کی نیت سے صرف تین مسجدوں کی طرف سفر کرنا جائز اور باعثِ فضیلت ہے: مسجدِ حرام، مسجدِ نبوی اور مسجدِ اقصی۔",
+    "english": "It is only permissible and virtuous to undertake a journey specifically for worship to three mosques: the Sacred Mosque in Makkah, the Prophet's Mosque in Madinah, and Al-Aqsa Mosque in Jerusalem."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1197)",
+      "english": "Reported by Al-Bukhari (1197)"
+    },
+    {
+      "arabic": "رواه مسلم (1397)",
+      "english": "Reported by Muslim (1397)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=XvI2vU5n-rI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تین مساجد کی خصوصی فضیلت",
+        "english": "Unique Virtue of the Three Mosques"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفر کی تخصیص",
+              "english": "Exclusivity of the Journey"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کا مطلب یہ ہے کہ کسی مسجد کو دوسری مسجد پر برتری دے کر وہاں نماز کے لیے سفر کرنا صرف ان تین مقامات کے لیے جائز ہے۔",
+                "باقی تمام مساجد فضیلت میں برابر ہیں، اس لیے کسی خاص مسجد کے لیے دور کا سفر کرنا درست نہیں۔",
+                "یہ حکم عقیدے کی درستگی اور غلو سے بچنے کے لیے دیا گیا ہے۔"
+              ],
+              "english": [
+                "This Hadith implies that undertaking a journey specifically to a mosque because of its perceived superiority is only allowed for these three.",
+                "All other mosques are equal in status, so traveling far specifically for one over another is not sanctioned.",
+                "This ruling aims to safeguard the creed and prevent exaggeration in honoring places."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعلیٰ ثواب کے مقامات",
+              "english": "Places of Maximum Reward"
+            },
+            "content": {
+              "urdu": [
+                "مسجدِ حرام میں ایک نماز کا ثواب ایک لاکھ نمازوں کے برابر ہے۔",
+                "مسجدِ نبوی میں ایک نماز کا ثواب ایک ہزار نمازوں کے برابر ہے۔",
+                "مسجدِ اقصی میں ایک نماز کا ثواب پانچ سو یا دو سو پچاس نمازوں کے برابر مروی ہے۔"
+              ],
+              "english": [
+                "One prayer in Al-Masjid al-Haram is equivalent to 100,000 prayers elsewhere.",
+                "One prayer in Al-Masjid an-Nabawi is equivalent to 1,000 prayers elsewhere.",
+                "One prayer in Al-Masjid al-Aqsa is narrated to be worth 500 or 250 prayers."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی حدود اور فہم",
+        "english": "Sharia Limits and Understanding"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفر کی دیگر اقسام",
+              "english": "Other Types of Travel"
+            },
+            "content": {
+              "urdu": [
+                "تجارت، تعلیم، رشتہ داروں سے ملنے یا سیر و تفریح کے لیے سفر کرنا اس ممانعت میں شامل نہیں ہے۔",
+                "صرف وہ سفر منع ہے جو کسی مقام کو شرعی طور پر متبرک سمجھ کر ثواب کی نیت سے کیا جائے۔",
+                "علماء کے نزدیک قبروں کی زیارت کے لیے دور دراز کا سفر کرنا بھی اسی ممانعت کے زمرے میں آتا ہے۔"
+              ],
+              "english": [
+                "Journeys for trade, education, visiting relatives, or recreation are not included in this prohibition.",
+                "Only travel intended for worship based on the specific sanctity of a place is restricted.",
+                "Scholars state that traveling long distances specifically to visit graves falls under this restriction."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی تاریخ اور تقدس",
+              "english": "Islamic History and Sanctity"
+            },
+            "content": {
+              "urdu": [
+                "یہ تینوں مساجد انبیاء علیہم السلام کے مراکز اور وحی کے نزول کے مقامات رہے ہیں۔",
+                "مسجدِ اقصی مسلمانوں کا قبلہ اول ہے اور معراج کا اہم مقام ہے۔",
+                "ان مقامات کا تقدس براہِ راست وحیِ الٰہی سے ثابت ہے۔"
+              ],
+              "english": [
+                "These three mosques have been the centers of Prophets and the sites of Divine Revelation.",
+                "Al-Masjid al-Aqsa is the first Qibla of Muslims and the site of the Night Journey (Isra).",
+                "The sanctity of these locations is established directly through Divine Revelation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی پہلو",
+        "english": "Juristic and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتحادِ امت کا مرکز",
+              "english": "Centers of Ummah Unity"
+            },
+            "content": {
+              "urdu": [
+                "یہ تینوں مساجد عالمی سطح پر مسلمانوں کے اتحاد اور یکجہتی کی علامت ہیں۔",
+                "حج اور عمرہ کے دوران مسجدِ حرام اور مسجدِ نبوی مسلمانوں کے عالمی اجتماع کے مراکز بنتے ہیں۔",
+                "ان مقامات کی زیارت سے مومن کے ایمان میں تازگی اور تاریخ سے رشتہ مضبوط ہوتا ہے۔"
+              ],
+              "english": [
+                "These three mosques symbolize the global unity and solidarity of the Muslim Ummah.",
+                "During Hajj and Umrah, the mosques in Makkah and Madinah become centers for global assembly.",
+                "Visiting these sites refreshes a believer's faith and strengthens their bond with Islamic history."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بدعت کا سدِ باب",
+              "english": "Prevention of Innovation"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث لوگوں کو اپنی طرف سے مقامات کو متبرک بنانے سے روکتی ہے۔",
+                "عبادت کے معاملے میں صرف وہی راستہ درست ہے جو نبی ﷺ نے دکھایا۔",
+                "مقامات کے تقدس کا فیصلہ صرف اللہ اور اس کا رسول ﷺ کر سکتے ہیں۔"
+              ],
+              "english": [
+                "This Hadith prevents people from inventing sanctity for various locations on their own.",
+                "In matters of worship, only the path shown by the Prophet (ﷺ) is correct.",
+                "The decision regarding the sanctity of places belongs solely to Allah and His Messenger (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقامی مساجد کی اہمیت",
+              "english": "Importance of Local Mosques"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو چاہیے کہ وہ اپنی قریبی مسجد کو آباد کرے اور وہیں نماز کا اہتمام کرے۔",
+                "بلاوجہ دور کی مساجد کی تلاش میں مقامی مسجد کے حقوق ضائع نہیں کرنے چاہئیں۔",
+                "ہر مسجد اللہ کا گھر ہے اور اس کا احترام واجب ہے۔"
+              ],
+              "english": [
+                "A believer should populate and maintain their local mosque for daily prayers.",
+                "One should not neglect the rights of the local mosque by unnecessarily seeking distant ones.",
+                "Every mosque is a House of Allah, and its respect is obligatory."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کی درستگی",
+              "english": "Correction of Intentions"
+            },
+            "content": {
+              "urdu": [
+                "جب بھی ان تین مساجد کا سفر کریں تو نیت خالص اللہ کی عبادت اور اتباعِ سنت ہونی چاہیے۔",
+                "سفرِ زیارت کو دکھاوے یا محض سیاحت کا ذریعہ نہیں بنانا چاہیے۔",
+                "مبارک مقامات پر وقت کی قدر کرنی چاہیے اور عبادات میں مشغول رہنا چاہیے۔"
+              ],
+              "english": [
+                "When traveling to these three mosques, the intention must be purely for worship and following the Sunnah.",
+                "The visit should not be turned into an act of showing off or mere tourism.",
+                "One must value time at these blessed sites and stay engaged in worship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

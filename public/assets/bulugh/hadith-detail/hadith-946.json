@@ -1,0 +1,261 @@
+{
+  "hadithId": 946,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh/8/946"
+    ],
+    "kitabId": 8,
+    "inKitabBab": 12,
+    "arabicBook": "كتاب العدة",
+    "babId": 75
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح من حيث المتن ومعلول من حيث السند.‏ رواه ابن ماجه (2077)، والدارقطني (3/309). قال الدارقطني: المحفوظ أنه من قول القاسم بن محمد (مرسل).‏ وصححه البوصيري في الزوائد لثقة رجاله، لكن الأصح أن عدتها كانت حيضة واحدة في روايات أخرى.‏",
+    "urdu": "یہ روایت ابن ماجہ (2077) میں موجود ہے۔ اس کے راوی ثقہ ہیں، لیکن امام دارقطنی اور دیگر محدثین نے اسے معلول قرار دیا ہے کیونکہ یہ روایت قاسم بن محمد کا قول (مرسل) ہے نہ کہ مرفوع۔ تاہم اس کا متن دیگر صحیح احادیث سے تائید یافتہ ہے۔",
+    "english": "Sahih in text but defective in chain. Reported by Ibn Majah (2077) and Ad-Daraqutni (3/309). Its narrators are reliable, but experts like Ad-Daraqutni mentioned that it is a statement of Qasim bin Muhammad (Mursal) rather than being directly from the Prophet (ﷺ)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أُمِرَتْ",
+      "english": "She was commanded",
+      "urdu": "اسے حکم دیا گیا"
+    },
+    {
+      "arabic": "تَعْتَدَّ",
+      "english": "To observe Iddah",
+      "urdu": "عدت گزارے"
+    },
+    {
+      "arabic": "حِيَضٍ",
+      "english": "Menstrual cycles",
+      "urdu": "حیض (ایام)"
+    },
+    {
+      "arabic": "بَرِيرَةُ",
+      "english": "Barirah (Name)",
+      "urdu": "سیدہ بریرہ"
+    },
+    {
+      "arabic": "مَعْلُولٌ",
+      "english": "Defective (Technical Term)",
+      "urdu": "معلول (جس میں کوئی فنی نقص ہو)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں لونڈی کی آزادی کے بعد اختیار ملنے پر نکاح ختم کرنے کی صورت میں اس کی عدت کا بیان ہے کہ وہ آزاد عورت کی طرح تین حیض عدت گزارے گی۔",
+    "english": "This Hadith discusses the waiting period (Iddah) for a female slave who chooses to dissolve her marriage after being set free, stating she should observe three cycles like a free woman."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن ماجه (2077)",
+      "english": "Reported by Ibn Majah (2077)"
+    },
+    {
+      "arabic": "رواه الدارقطني (3/309)",
+      "english": "Reported by Ad-Daraqutni (3/309)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0K07_z0U",
+  "grade": {
+    "arabic": "معلول سندا",
+    "english": "Defective in chain (Ma'lul)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سیدہ بریرہ کا قصہ اور فقہی اہمیت",
+        "english": "The Case of Barirah and Juristic Significance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لونڈی کی آزادی کا اختیار",
+              "english": "Choice of a Freed Slave"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ بریرہ جب آزاد ہوئیں تو انہیں نکاح برقرار رکھنے یا ختم کرنے کا اختیار ملا۔",
+                "اسلام غلامی سے نکلنے والی عورت کو اپنی ازدواجی زندگی کا فیصلہ خود کرنے کا حق دیتا ہے۔",
+                "سیدہ بریرہ نے اپنے سابقہ شوہر مغیث رضی اللہ عنہ سے علیحدگی کو ترجیح دی تھی۔"
+              ],
+              "english": [
+                "When Barirah was freed, she was given the choice to remain married or separate.",
+                "Islam grants a woman emerging from slavery the right to decide her marital future.",
+                "Barirah (RA) ultimately chose to separate from her former husband, Mughith (RA)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدت کی مقدار کا مسئلہ",
+              "english": "Issue of the Iddah Duration"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت کے مطابق آزاد ہونے والی لونڈی کی عدت تین حیض مقرر کی گئی۔",
+                "یہ عدت ایک آزاد عورت کی طلاق کی عدت کے برابر ہے جو برابری ظاہر کرتی ہے۔",
+                "اگرچہ بعض روایات میں ایک حیض کا ذکر ہے مگر یہ روایت کمالِ پاکیزگی پر دلالت کرتی ہے۔"
+              ],
+              "english": [
+                "According to this narration, the Iddah for a freed slave was set at three cycles.",
+                "This duration equals the Iddah of a free woman, symbolizing her new status.",
+                "While some reports mention one cycle, this narration emphasizes complete purification."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کے فنی اور علمی مباحث",
+        "english": "Technical and Scholarly Analysis of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معلول ہونے کا مفہوم",
+              "english": "Meaning of being Defective (Ma'lul)"
+            },
+            "content": {
+              "urdu": [
+                "معلول اس حدیث کو کہتے ہیں جس کی سند میں کوئی پوشیدہ خرابی موجود ہو۔",
+                "محدثین کے نزدیک یہ روایت حضرت عائشہ سے مرفوعاً ثابت ہونا مشکل ہے۔",
+                "اکثر ماہرین فن کے مطابق یہ صحابی یا تابعی کا ذاتی اجتہاد یا قول ہو سکتا ہے۔"
+              ],
+              "english": [
+                "Ma'lul refers to a Hadith with a hidden defect in its chain of transmission.",
+                "Scholars find it difficult to prove this as a direct quote from the Prophet (ﷺ).",
+                "Most experts believe it might be the personal legal opinion of a companion or successor."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مختلف فقہی مذاہب",
+              "english": "Different Juristic Schools"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور امام احمد کے نزدیک لونڈی کی طلاق کی عدت دو حیض ہے۔",
+                "امام ابوحنیفہ کے نزدیک بھی لونڈی کی عدت آزاد عورت سے نصف یا کم ہوتی ہے۔",
+                "تین حیض کی یہ روایت لونڈی کو مکمل طور پر آزاد عورت کے حکم میں لاتی ہے۔"
+              ],
+              "english": [
+                "Imams Shafi'i and Ahmad state that a slave's Iddah for divorce is two cycles.",
+                "Imam Abu Hanifa also holds that a slave's Iddah is half or less than a free woman's.",
+                "This narration of three cycles places the freed slave fully under the rules of free women."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی قانون میں عورت کا وقار",
+        "english": "Dignity of Women in Islamic Law"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نئی زندگی کا آغاز",
+              "english": "Starting a New Life"
+            },
+            "content": {
+              "urdu": [
+                "عدت کا مقصد صرف رحم کی صفائی نہیں بلکہ جذباتی استحکام بھی فراہم کرنا ہے۔",
+                "تین حیض کی مدت عورت کو اپنی سابقہ زندگی کے اثرات سے نکلنے میں مدد دیتی ہے۔",
+                "اسلامی احکام ہمیشہ انسانی فطرت اور نفسیات کو مدنظر رکھ کر بنائے گئے ہیں۔"
+              ],
+              "english": [
+                "Iddah serves not only to ensure purity of the womb but also emotional stability.",
+                "A three-cycle period helps a woman move past the influence of her previous life.",
+                "Islamic rulings are consistently crafted to consider human nature and psychology."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نسب کی حفاظت",
+              "english": "Protection of Lineage"
+            },
+            "content": {
+              "urdu": [
+                "عدت کی پابندی سے نسب کے اختلاط اور مشکوک ہونے کا خطرہ ختم ہو جاتا ہے۔",
+                "اسلامی معاشرے میں خاندان کی بنیاد سچائی اور شفافیت پر رکھی گئی ہے۔",
+                "لونڈی ہو یا آزاد، شریعت سب کے لیے نسب کی حفاظت کو یقینی بناتی ہے۔"
+              ],
+              "english": [
+                "Adhering to Iddah eliminates the risk of mixed or suspicious lineages.",
+                "The foundation of family in Islamic society is built on truth and transparency.",
+                "Whether slave or free, Shariah ensures the protection of lineage for everyone."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صبر اور حدود اللہ",
+              "english": "Patience and Allah's Limits"
+            },
+            "content": {
+              "urdu": [
+                "علیحدگی کے بعد جلد بازی کے بجائے شرعی مدت کا انتظار کرنا لازمی ہے۔",
+                "اللہ کی مقرر کردہ حدود میں ہی انسان کے لیے خیر اور برکت چھپی ہوئی ہے۔",
+                "نبی ﷺ کے دور کے واقعات ہمیں صبر اور ضابطہ اخلاق سکھاتے ہیں۔"
+              ],
+              "english": [
+                "It is mandatory to wait for the legal period instead of rushing after separation.",
+                "Goodness and blessings are hidden within the limits set by Allah.",
+                "Incidents from the Prophet's era teach us patience and a code of ethics."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہلِ علم سے رجوع",
+              "english": "Consulting People of Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "عدت اور طلاق جیسے پیچیدہ مسائل میں مستند فقہاء سے مشورہ کرنا چاہیے۔",
+                "روایات کی تحقیق اور ان کے صحیح مفہوم کے لیے علماء کی ضرورت ہوتی ہے۔",
+                "دین پر صحیح فہم کے ساتھ عمل کرنا ہی اللہ کی رضا کا بہترین راستہ ہے۔"
+              ],
+              "english": [
+                "One must consult authentic jurists regarding complex issues like Iddah and divorce.",
+                "Scholars are needed to verify narrations and understand their correct meanings.",
+                "Acting upon religion with proper understanding is the best path to Allah's pleasure."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

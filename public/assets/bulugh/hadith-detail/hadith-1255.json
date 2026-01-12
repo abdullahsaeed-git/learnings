@@ -1,0 +1,213 @@
+{
+  "hadithId": 1255,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/tirmidhi:1899"],
+    "kitabId": 16,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب البر والصلة",
+    "babId": 103
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه الترمذي (1899)، وابن حبان (429)، والحاكم (4/152) وصححه ووافقه الذهبي.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے امام ترمذی، ابن حبان اور حاکم نے روایت کیا ہے اور حاکم نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih due to supporting evidences. Reported by At-Tirmidhi (1899), Ibn Hibban (429), and Al-Hakim (4/152) who graded it Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "رِضَا",
+      "english": "Pleasure / Approval",
+      "urdu": "رضامندی / خوشنودی"
+    },
+    {
+      "arabic": "سَخَطُ",
+      "english": "Displeasure / Wrath",
+      "urdu": "ناراضگی / غصہ"
+    },
+    {
+      "arabic": "الْوَالِدَيْنِ",
+      "english": "The Parents",
+      "urdu": "والدین (ماں باپ)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا خلاصہ یہ ہے کہ اللہ تعالیٰ کو خوش کرنے کا واحد راستہ والدین کو خوش رکھنا ہے، اور ان کی نافرمانی اللہ کے غضب کا باعث ہے۔",
+    "english": "The essence of this Hadith is that seeking Allah's pleasure is intrinsically linked to pleasing one's parents, and incurring their anger leads to Allah's wrath."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (1899)",
+      "english": "Reported by At-Tirmidhi (1899)"
+    },
+    {
+      "arabic": "رواه الحاكم (7244)",
+      "english": "Reported by Al-Hakim (7244)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin 'Amr bin al-'As"
+      },
+      "slug": "abdullah-bin-amr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "والدین کی عظمت و مقام",
+        "english": "Greatness and Status of Parents"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی بندگی کے بعد پہلا حق",
+              "english": "First Right After Allah's Worship"
+            },
+            "content": {
+              "urdu": [
+                "قرآن مجید میں اللہ نے اپنی توحید کے فوراً بعد والدین سے حسنِ سلوک کا حکم دیا ہے۔",
+                "والدین انسان کی وجود کا ظاہری سبب ہیں، اس لیے ان کی قدر شناسی لازمی ہے۔",
+                "والدین کی خدمت کو جہاد پر بھی فوقیت دی گئی ہے اگر وہ ضرورت مند ہوں۔"
+              ],
+              "english": [
+                "In the Quran, Allah commands kindness to parents immediately after His Oneness.",
+                "Parents are the apparent cause of one's existence, making their gratitude mandatory.",
+                "Serving parents is prioritized even over voluntary Jihad if they are in need."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کی قبولیت کا ذریعہ",
+              "english": "A Means for Acceptance of Prayers"
+            },
+            "content": {
+              "urdu": [
+                "والدین کی دعا اولاد کے حق میں کبھی رد نہیں ہوتی۔",
+                "ان کی خوشی سے رزق میں برکت اور عمر میں اضافہ ہوتا ہے۔",
+                "والدین کی خدمت کرنے والے کی اپنی دعائیں اللہ جلدی قبول فرماتا ہے۔"
+              ],
+              "english": [
+                "The supplication of parents for their children is never rejected.",
+                "Their happiness brings blessings in provision and increases lifespan.",
+                "Allah swiftly accepts the prayers of those who serve their parents."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اطاعت کی حدود اور فضیلت",
+        "english": "Limits and Excellence of Obedience"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جائز امور میں فرمانبرداری",
+              "english": "Obedience in Lawful Matters"
+            },
+            "content": {
+              "urdu": [
+                "والدین کی اطاعت ہر اس معاملے میں واجب ہے جو گناہ نہ ہو۔",
+                "اگر وہ شرک یا معصیت کا حکم دیں تو وہاں اطاعت نہیں، مگر تب بھی حسنِ سلوک جاری رہے گا۔",
+                "نبی ﷺ نے 'اف' تک کہنے سے منع فرمایا ہے تاکہ ان کے ادب میں کمی نہ آئے۔"
+              ],
+              "english": [
+                "Obedience to parents is mandatory in everything that is not sinful.",
+                "If they command Shirk or sin, obedience is denied, but kindness must continue.",
+                "The Prophet (ﷺ) forbade saying even 'Uff' (a sigh of frustration) to them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رضائے الٰہی کا شارٹ کٹ",
+              "english": "Shortcut to Allah's Pleasure"
+            },
+            "content": {
+              "urdu": [
+                "بہت سی نفلی عبادتوں سے زیادہ اجر والدین کی ایک مسکراہٹ میں ہے۔",
+                "جو اپنے والدین کو ناراض کر کے اللہ کو ڈھونڈتا ہے، وہ گمراہی میں ہے۔",
+                "جنت کے دروازوں میں سے بہترین دروازہ 'والد' ہے، اسے چاہو تو ضائع کرو یا بچا لو۔"
+              ],
+              "english": [
+                "A single smile from a parent holds more reward than many voluntary acts of worship.",
+                "One who seeks Allah while displeasing their parents is in misguidance.",
+                "The 'Father' is the best of the gates of Paradise; keep it or lose it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نافرمانی کے ہولناک نتائج",
+        "english": "Horrific Consequences of Disobedience"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دنیا میں فوری سزا",
+              "english": "Immediate Punishment in This World"
+            },
+            "content": {
+              "urdu": [
+                "والدین کا نافرمان دنیا میں بھی ذلیل و خوار ہوتا ہے۔",
+                "عقوق الوالدین (نافرمانی) گناہِ کبیرہ ہے جس کا بدلہ مرنے سے پہلے ملتا ہے۔",
+                "اللہ ایسے شخص کی طرف قیامت کے دن نظرِ رحمت سے نہیں دیکھے گا۔"
+              ],
+              "english": [
+                "A disobedient child faces humiliation and hardship even in this world.",
+                "Disobedience to parents is a major sin whose retribution starts before death.",
+                "Allah will not look with mercy upon such a person on the Day of Judgment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بڑھاپے میں سہارا بننا",
+              "english": "Being a Support in Old Age"
+            },
+            "content": {
+              "urdu": [
+                "والدین جب کمزور ہو جائیں تو انہیں وقت دیں اور ان کی باتیں تحمل سے سنیں۔",
+                "ان کی مالی اور جسمانی ضروریات کا خیال رکھنا اولاد کی ذمہ داری ہے۔",
+                "ان کے انتقال کے بعد ان کے لیے دعا اور ان کے دوستوں کا احترام بھی صلہ رحمی ہے۔"
+              ],
+              "english": [
+                "Give time to parents in their weakness and listen to them patiently.",
+                "Caring for their financial and physical needs is the child's responsibility.",
+                "After their death, praying for them and honoring their friends is also a duty."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

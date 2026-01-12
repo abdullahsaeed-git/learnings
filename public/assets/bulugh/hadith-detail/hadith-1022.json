@@ -1,0 +1,259 @@
+{
+  "hadithId": 1022,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1172"],
+    "kitabId": 9,
+    "inKitabBab": 4,
+    "arabicBook": "بلوغ المرام",
+    "babId": 82
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6874)، ومسلم (98).",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری و مسلم کی متفق علیہ روایت ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6874) and Muslim (98)."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَمَلَ",
+      "english": "Carried / Raised",
+      "urdu": "اٹھایا"
+    },
+    {
+      "arabic": "عَلَيْنَا",
+      "english": "Against us",
+      "urdu": "ہمارے خلاف"
+    },
+    {
+      "arabic": "اَلسِّلَاحَ",
+      "english": "Weapon / Arms",
+      "urdu": "ہتھیار"
+    },
+    {
+      "arabic": "فَلَيْسَ",
+      "english": "So he is not",
+      "urdu": "پس نہیں ہے وہ"
+    },
+    {
+      "arabic": "مِنَّا",
+      "english": "From us / Of us",
+      "urdu": "ہم میں سے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث مسلمانوں کے خلاف ہتھیار اٹھانے اور ناحق خون بہانے کی سخت ممانعت بیان کرتی ہے اور اسے ملتِ اسلامیہ کے طریقے سے انحراف قرار دیتی ہے۔",
+    "english": "This Hadith strictly prohibits raising weapons against Muslims and shedding their blood, stating that such actions deviate from the path of the Muslim community."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6874)",
+      "english": "Sahih al-Bukhari (6874)"
+    },
+    {
+      "arabic": "صحيح مسلم (98)",
+      "english": "Sahih Muslim (98)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تحریمِ قتالِ مسلم",
+        "english": "Prohibition of Fighting Muslims"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلمان کی جان کی حرمت",
+              "english": "Sanctity of a Muslim's Life"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں ایک مسلمان کا خون دوسرے مسلمان پر قطعی حرام ہے۔",
+                "نبی کریم ﷺ نے بیت اللہ کی حرمت سے زیادہ مومن کی جان کی حرمت بیان فرمائی ہے۔",
+                "بلاوجہ شرعی کسی مسلمان کو ڈرانا یا اس پر ہتھیار تاننا کبیرہ گناہ ہے۔"
+              ],
+              "english": [
+                "In Islam, the blood of a Muslim is strictly forbidden to another Muslim.",
+                "The Prophet ﷺ stated that a believer's life is more sacred than the Kaaba.",
+                "Intimidating or pointing a weapon at a Muslim without justification is a major sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جماعت سے علیحدگی",
+              "english": "Separation from the Community"
+            },
+            "content": {
+              "urdu": [
+                "’ہم میں سے نہیں‘ کا مطلب یہ ہے کہ وہ شخص سنتِ نبوی ﷺ کے راستے پر نہیں ہے۔",
+                "ہتھیار اٹھانا اسلامی اخوت اور بھائی چارے کے بنیادی اصولوں کے خلاف ہے۔",
+                "ایسا فعل ایمان کے کمال کو ختم کر دیتا ہے اور انسان کو گمراہی کی طرف لے جاتا ہے۔"
+              ],
+              "english": [
+                "The phrase 'not of us' means that person is not following the Prophetic path.",
+                "Taking up arms is contrary to the fundamental principles of Islamic brotherhood.",
+                "Such an act nullifies the perfection of faith and leads a person toward misguidance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فتنہ اور بغاوت کی مذمت",
+        "english": "Condemnation of Strife and Rebellion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی امن کا تحفظ",
+              "english": "Protection of Social Peace"
+            },
+            "content": {
+              "urdu": [
+                "ہتھیار اٹھانے سے معاشرے میں خوف و ہراس اور فتنہ و فساد پھیلتا ہے۔",
+                "اسلامی ریاست میں امن و امان برقرار رکھنا ہر شہری کی دینی ذمہ داری ہے۔",
+                "انتقام یا ذاتی مفاد کے لیے طاقت کا استعمال معاشرے کو تباہ کر دیتا ہے۔"
+              ],
+              "english": [
+                "Raising weapons spreads fear, panic, and chaos within society.",
+                "Maintaining peace and order in an Islamic state is every citizen's religious duty.",
+                "Using force for revenge or personal gain destroys the social fabric."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بغاوت کا انجام",
+              "english": "Consequences of Rebellion"
+            },
+            "content": {
+              "urdu": [
+                "مسلم حکمران یا ریاست کے خلاف ناحق خروج اور بغاوت سخت ممنوع ہے۔",
+                "جو شخص مسلمانوں پر تلوار اٹھاتا ہے وہ ان کے تحفظ کے دائرے سے نکل جاتا ہے۔",
+                "یہ حدیث انتہاء پسندی اور دہشت گردی کے خلاف ایک واضح اعلان ہے۔"
+              ],
+              "english": [
+                "Unjust rebellion against a Muslim ruler or the state is strictly prohibited.",
+                "He who raises a sword against Muslims leaves the circle of their protection.",
+                "This Hadith is a clear declaration against extremism and terrorism."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و تربیتی پہلو",
+        "english": "Ethical and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہتھیار کی نمائش سے گریز",
+              "english": "Avoiding Display of Weapons"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں مذاق میں بھی کسی مسلمان کی طرف ہتھیار سے اشارہ کرنا منع ہے۔",
+                "فرشتے اس شخص پر لعنت کرتے ہیں جو اپنے بھائی کی طرف لوہا (ہتھیار) لہراتا ہے۔",
+                "یہ تعلیمات انسانی نفسیات اور باہمی احترام کو ملحوظ خاطر رکھتی ہیں۔"
+              ],
+              "english": [
+                "In Islam, even jokingly pointing a weapon at a Muslim is forbidden.",
+                "Angels curse the one who gestures towards his brother with an iron weapon.",
+                "These teachings take human psychology and mutual respect into account."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صبر اور عفو و درگزر",
+              "english": "Patience and Forgiveness"
+            },
+            "content": {
+              "urdu": [
+                "اشتعال کے وقت خود پر قابو پانا اور عفو و درگزر کرنا مومن کا شیوہ ہے۔",
+                "طاقت کا استعمال آخری حربہ ہونا چاہیے، وہ بھی صرف دفاعی مقاصد کے لیے۔",
+                "معاشرتی مسائل کا حل بات چیت اور شرعی ضابطوں کے ذریعے تلاش کرنا چاہیے۔"
+              ],
+              "english": [
+                "Self-control during provocation and practicing forgiveness is the way of a believer.",
+                "The use of force should be a last resort, and only for defensive purposes.",
+                "Solutions to social issues should be sought through dialogue and Shariah regulations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دفاعِ نفس کا حق",
+              "english": "Right of Self-Defense"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم اس شخص کے لیے ہے جو ناحق اور ظلم کی بنیاد پر ہتھیار اٹھائے۔",
+                "مظلوم کو اپنی جان، مال اور عزت کے تحفظ کے لیے دفاع کا حق حاصل ہے۔",
+                "قانون کی نظر میں ظالم اور مفسد کی سرکوبی کرنا ریاست کا فرض ہے۔"
+              ],
+              "english": [
+                "This ruling applies to those who raise weapons unjustly and based on oppression.",
+                "An oppressed person has the right to defend their life, property, and honor.",
+                "In the eyes of the law, it is the state's duty to suppress oppressors and mischief-makers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لفظ 'منّا' کی تشریح",
+              "english": "Interpretation of 'From Us'"
+            },
+            "content": {
+              "urdu": [
+                "علماء کے مطابق اس کا مطلب ملت سے خارج ہونا نہیں بلکہ کامل اسلام سے محرومی ہے۔",
+                "یہ الفاظ جرم کی سنگینی اور شناعت کو ظاہر کرنے کے لیے استعمال ہوئے ہیں۔",
+                "مسلمان کو ڈرانے والا شخص محمدی ﷺ گروہ کے مثالی طریقے پر نہیں ہے۔"
+              ],
+              "english": [
+                "Scholars say this doesn't mean leaving the faith, but lacking complete Islam.",
+                "These words are used to highlight the gravity and heinousness of the crime.",
+                "One who intimidates Muslims is not following the ideal way of the Muhammadi ﷺ group."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

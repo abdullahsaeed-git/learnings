@@ -1,0 +1,268 @@
+{
+  "hadithId": 530,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/530"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (2342)، وابن حبان (3447)، والحاكم (1/423) وصححه ووافقه الذهبي. والحديث دليل على قبول خبر الواحد العدل في رؤية هلال رمضان.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (2342)، ابن حبان (3447) اور حاکم (1/423) نے روایت کیا ہے۔ یہ حدیث اس بات کی دلیل ہے کہ رمضان کے چاند کے لیے ایک عادل شخص کی گواہی کافی ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2342), Ibn Hibban (3447), and Al-Hakim (1/423), who graded it Sahih and Adh-Dhahabi agreed. It proves that the testimony of one reliable person is sufficient for Ramadan."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَرَاءَى",
+      "english": "To look for / Seek",
+      "urdu": "ایک دوسرے کے ساتھ مل کر دیکھنا"
+    },
+    {
+      "arabic": "اَلْهِلَالَ",
+      "english": "The crescent moon",
+      "urdu": "پہلی رات کا چاند"
+    },
+    {
+      "arabic": "فَأَخْبَرْتُ",
+      "english": "So I informed",
+      "urdu": "پس میں نے خبر دی"
+    },
+    {
+      "arabic": "فَصَامَ",
+      "english": "So he fasted",
+      "urdu": "پس آپ ﷺ نے روزہ رکھا"
+    },
+    {
+      "arabic": "أَمَرَ",
+      "english": "He commanded",
+      "urdu": "آپ ﷺ نے حکم دیا"
+    },
+    {
+      "arabic": "بِصِيَامِهِ",
+      "english": "To fast it",
+      "urdu": "اس کے روزے کا"
+    }
+  ],
+  "summary": {
+    "urdu": "رمضان المبارک کا چاند ثابت کرنے کے لیے ایک سچے اور معتبر مسلمان کی گواہی کافی ہے، جیسا کہ نبی ﷺ نے حضرت ابن عمرؓ کی اکیلی گواہی پر روزے کا حکم دیا۔",
+    "english": "The testimony of a single reliable Muslim is sufficient to establish the start of Ramadan, as the Prophet (ﷺ) accepted Ibn 'Umar’s sighting and ordered the fast."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2342)",
+      "english": "Sunan Abi Dawud (2342)"
+    },
+    {
+      "arabic": "صحيح ابن حبان (3447)",
+      "english": "Sahih Ibn Hibban (3447)"
+    },
+    {
+      "arabic": "المستدرك للحاكم (1/423)",
+      "english": "Al-Mustadrak al-Hakim (1/423)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A8vNfB2u3qM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خبرِ واحد کی قبولیت",
+        "english": "Acceptance of Single Testimony"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رمضان کے لیے ایک گواہ",
+              "english": "One Witness for Ramadan"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک رمضان کے چاند کے لیے ایک عادل مسلمان کی گواہی کافی ہے۔",
+                "نبی ﷺ نے حضرت ابن عمرؓ کی اکیلی گواہی پر پورے مدینہ کو روزے کا حکم دیا۔",
+                "یہ حکم مسلمانوں کے لیے آسانی پیدا کرنے اور عبادت کے بروقت آغاز کے لیے ہے۔"
+              ],
+              "english": [
+                "Most jurists agree that one reliable Muslim's testimony suffices for Ramadan's moon.",
+                "The Prophet (ﷺ) ordered all of Madinah to fast based solely on Ibn 'Umar's report.",
+                "This ruling facilitates ease for Muslims and ensures the timely start of worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گواہ کا معتبر ہونا",
+              "english": "Reliability of the Witness"
+            },
+            "content": {
+              "urdu": [
+                "گواہ کا مسلمان، عاقل، بالغ اور سچا (عادل) ہونا ضروری شرط ہے۔",
+                "حضرت ابن عمرؓ جلیل القدر صحابی تھے جن کی سچائی پر کوئی شک نہ تھا۔",
+                "حاکمِ وقت کو چاہیے کہ وہ گواہ کی ساکھ دیکھ کر رویت کا فیصلہ کرے۔"
+              ],
+              "english": [
+                "The witness must be a Muslim, sane, adult, and upright (Adil) in character.",
+                "Ibn 'Umar (RA) was a prominent companion whose truthfulness was beyond doubt.",
+                "The authority in charge should decide on the sighting after verifying the witness's integrity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رمضان اور عید میں فرق",
+        "english": "Difference Between Ramadan and Eid"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عید کے لیے دو گواہ",
+              "english": "Two Witnesses for Eid"
+            },
+            "content": {
+              "urdu": [
+                "رمضان کے آغاز کے برعکس، عید الفطر کے لیے دو عادل گواہوں کا ہونا ضروری ہے۔",
+                "روزہ شروع کرنے میں احتیاط برتی جاتی ہے تاکہ کوئی فرض روزہ چھوٹ نہ جائے۔",
+                "عید میں دو گواہوں کی شرط اس لیے ہے تاکہ بلاوجہ ایک فرض عبادت ختم نہ ہو۔"
+              ],
+              "english": [
+                "Unlike the start of Ramadan, Eid al-Fitr requires two reliable witnesses for the moon.",
+                "Precaution is taken in starting the fast to ensure no obligatory day is missed.",
+                "The two-witness requirement for Eid prevents the premature ending of an obligatory act."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی اصول کی حکمت",
+              "english": "Wisdom of Shariah Principles"
+            },
+            "content": {
+              "urdu": [
+                "یہ فقہی باریکی دین میں نظم و ضبط اور احتیاط کے پہلو کو اجاگر کرتی ہے۔",
+                "عبادت میں داخل ہونا آسان رکھا گیا ہے تاکہ خیر سے محرومی نہ ہو۔",
+                "عبادت سے نکلنے (افطار/عید) میں زیادہ ثبوت مانگے گئے ہیں تاکہ یقین حاصل ہو۔"
+              ],
+              "english": [
+                "This juristic nuance highlights the aspects of discipline and caution in religion.",
+                "Entering into worship is made easier so that people are not deprived of goodness.",
+                "Exiting worship (Eid) requires stronger evidence to ensure absolute certainty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجتماعی مشاہدہ اور سنت",
+        "english": "Collective Observation and Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چاند دیکھنے کی کوشش",
+              "english": "Effort to Sight the Moon"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام چاند دیکھنے کے لیے اکٹھے ہوتے تھے، جو کہ ایک مستحسن سنت ہے۔",
+                "رویتِ ہلال کی کوشش کرنا پورے معاشرے کی ذمہ داری (فرضِ کفایہ) ہے۔",
+                "لوگوں کا مل کر چاند دیکھنا معاشرتی ہم آہنگی اور دینی شعور پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "The Companions used to gather to sight the moon, which is a recommended Sunnah.",
+                "Striving to sight the crescent is a communal obligation (Fard al-Kifayah).",
+                "Collective moon-sighting fosters social harmony and religious awareness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حاکمِ وقت کی اطاعت",
+              "english": "Obedience to the Ruler"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے حکم دیتے ہی تمام مسلمانوں نے بلا تاخیر روزہ رکھا۔",
+                "چاند کے اعلان کے بعد نظمِ جماعت کی پابندی کرنا ہر مسلمان پر فرض ہے۔",
+                "انفرادی طور پر چاند دیکھ کر الگ روزہ رکھنا انتشار کا باعث ہے جس سے بچنا چاہیے۔"
+              ],
+              "english": [
+                "As soon as the Prophet (ﷺ) commanded, all Muslims fasted without delay.",
+                "It is obligatory to follow the community order once the moon is officially declared.",
+                "Fasting individually despite a sighting causes fitna and should be avoided."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گواہی کی ذمہ داری",
+              "english": "Responsibility of Testimony"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص تنہا چاند دیکھے تو اسے ذمہ دار اداروں کو مطلع کرنا چاہیے۔",
+                "دینی معاملات میں صحیح خبر پہنچانا ایک بڑی امانت اور نیکی کا کام ہے۔",
+                "ایسی گواہی سے لاکھوں مسلمانوں کو عبادت کرنے میں سہولت میسر آتی ہے۔"
+              ],
+              "english": [
+                "If an individual sights the moon alone, they should inform the responsible authorities.",
+                "Conveying accurate news in religious matters is a great trust and a noble deed.",
+                "Such testimony facilitates millions of Muslims in performing their worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتحاد اور یگانگت",
+              "english": "Unity and Solidarity"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی تہواروں کا آغاز اور اختتام پوری امت کو ایک لڑی میں پروتا ہے۔",
+                "ہمیں چاہیے کہ چاند کے معاملے میں اپنے مقامی اور شرعی فیصلوں کا احترام کریں۔",
+                "اتحاد میں برکت ہے اور تفرقہ بازی سے دین و دنیا دونوں کا نقصان ہے۔"
+              ],
+              "english": [
+                "The start and end of Islamic festivals bind the entire Ummah together.",
+                "We must respect local and Shariah decisions regarding the moon sighting.",
+                "There is blessing in unity, while division causes loss in both worlds."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

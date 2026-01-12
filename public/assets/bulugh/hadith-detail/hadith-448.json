@@ -1,0 +1,259 @@
+{
+  "hadithId": 448,
+  "hadithNo": 24,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/24", "tirmidhi/986", "ahmad/23295"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (5/385)، والترمذي (986)، وابن ماجه (1476). وقال الترمذي: 'حديث حسن صحيح'. والمراد بالنعي المنهي عنه هو نعي الجاهلية الذي فيه تفخيم وصياح، لا مجرد الإخبار للجنازة.",
+    "urdu": "حسن۔ اسے احمد (5/385)، ترمذی (986) اور ابن ماجہ (1476) نے روایت کیا ہے۔ ترمذی نے اسے حسن صحیح کہا ہے۔ ممانعت اس منادی کی ہے جو جاہلیت کے انداز میں فخر اور چیخ و پکار کے ساتھ کی جائے، نہ کہ صرف نمازِ جنازہ کے لیے اطلاع دینا۔",
+    "english": "Hasan. Reported by Ahmad (5/385), At-Tirmidhi (986), and Ibn Majah (1476). At-Tirmidhi graded it as Hasan Sahih. The forbidden 'Na'i' refers to the Pre-Islamic style of loud, boastful public shouting, not the mere informing of people for the funeral."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَنْهَى",
+      "english": "Forbade / Used to prohibit",
+      "urdu": "منع فرماتے تھے"
+    },
+    {
+      "arabic": "النَّعْيِ",
+      "english": "Public announcement of death",
+      "urdu": "موت کی منادی / اعلان"
+    },
+    {
+      "arabic": "الْجَاهِلِيَّةِ",
+      "english": "Pre-Islamic Ignorance",
+      "urdu": "زمانہ جاہلیت"
+    },
+    {
+      "arabic": "إِخْبَار",
+      "english": "Informing / Notifying",
+      "urdu": "اطلاع دینا"
+    },
+    {
+      "arabic": "الصِّيَاح",
+      "english": "Shouting / Wailing",
+      "urdu": "چیخ و پکار"
+    }
+  ],
+  "summary": {
+    "urdu": "اسلام میں زمانہ جاہلیت کے انداز میں چیخ و پکار اور فخریہ انداز میں موت کا اعلان کرنا منع ہے، البتہ نمازِ جنازہ کے لیے سادہ اطلاع دینا جائز ہے۔",
+    "english": "Islam forbids the boastful and loud Pre-Islamic style of announcing death, while simple notification for funeral purposes is permissible."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي، كتاب الجنائز، رقم 986",
+      "english": "Sunan at-Tirmidhi, Book of Funerals, Hadith 986"
+    },
+    {
+      "arabic": "مسند أحمد، رقم 23295",
+      "english": "Musnad Ahmad, Hadith 23295"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حذيفة بن اليمان",
+        "english": "Hudhaifah bin al-Yaman"
+      },
+      "slug": "hudhaifah-bin-al-yaman"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9iY9rS_iFw",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "النعی (موت کے اعلان) کی اقسام",
+        "english": "Types of Death Announcements (An-Na'i)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممنوعہ منادی (نعیِ جاہلیت)",
+              "english": "Forbidden Announcement (Jahiliyyah Style)"
+            },
+            "content": {
+              "urdu": [
+                "جاہلیت میں لوگ بازاروں اور بلند جگہوں پر کھڑے ہو کر چیخ چیخ کر میت کا فخریہ ذکر کرتے تھے۔",
+                "اس میں میت کے دنیاوی جاہ و جلال کا تذکرہ اور بین کرنا شامل تھا جو کہ شرعاً ممنوع ہے۔",
+                "ایسا اعلان کرنا جو لوگوں میں بے صبری اور شور و غل پیدا کرے، اسلامی تعلیمات کے خلاف ہے۔"
+              ],
+              "english": [
+                "In the Pre-Islamic era, people would shout loudly in markets to boastfully announce a death.",
+                "This included mentioning the worldly status of the deceased and wailing, which is prohibited.",
+                "Announcements that incite impatience and loud noise among people go against Islamic teachings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جائز اطلاع (اطلاعِ جنازہ)",
+              "english": "Permissible Notification"
+            },
+            "content": {
+              "urdu": [
+                "رشتہ داروں اور دوستوں کو نمازِ جنازہ اور تدفین میں شرکت کے لیے بتانا 'نعی' میں شامل نہیں ہے۔",
+                "آپ ﷺ نے خود نجاشی کی وفات کی اطلاع دی اور لوگوں کو نمازِ جنازہ کے لیے جمع کیا۔",
+                "سادہ اطلاع دینا میت کے حق میں بہتر ہے تاکہ زیادہ سے زیادہ لوگ دعائے مغفرت کر سکیں۔"
+              ],
+              "english": [
+                "Informing relatives and friends for the funeral prayer and burial is not part of the forbidden Na'i.",
+                "The Prophet (ﷺ) himself announced the death of Negus and gathered people for the funeral prayer.",
+                "Simple notification is beneficial for the deceased so that more people can pray for their forgiveness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی حکمت اور آداب",
+        "english": "Religious Wisdom and Etiquettes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صبر اور وقار کا قیام",
+              "english": "Establishing Patience and Dignity"
+            },
+            "content": {
+              "urdu": [
+                "شور و غل کے ساتھ اعلان کرنے سے میت کے گھر والوں کے غم میں بے جا اضافہ ہوتا ہے۔",
+                "اسلام چاہتا ہے کہ موت کے وقت خاموشی، وقار اور اللہ کی رضا پر تسلیم کا ماحول ہو۔",
+                "دکھلاوے کی منادی سے بچنا اخلاص اور تقویٰ کے زیادہ قریب ہے۔"
+              ],
+              "english": [
+                "Loud public announcements unnecessarily increase the grief of the bereaved family.",
+                "Islam desires an atmosphere of silence, dignity, and submission to Allah's will at the time of death.",
+                "Avoiding ostentatious announcements is closer to sincerity (Ikhlas) and righteousness (Taqwa)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بدعات سے اجتناب",
+              "english": "Avoiding Innovations (Bid'ah)"
+            },
+            "content": {
+              "urdu": [
+                "اعلانِ وفات میں حد سے بڑھنا بدعت اور غیر اسلامی رسم و رواج کی پیروی ہو سکتی ہے۔",
+                "آج کل اخبارات یا سوشل میڈیا پر فخریہ اشتہارات دینا جاہلانہ منادی کی ایک جدید شکل ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ جنازے کے تمام معاملات میں سنتِ مطہرہ کی سادگی کو اپنائیں۔"
+              ],
+              "english": [
+                "Going to extremes in death announcements can lead to Bid'ah and following non-Islamic customs.",
+                "Modern boastful advertisements in newspapers or social media can be a form of Jahili style Na'i.",
+                "Muslims should adopt the simplicity of the purified Sunnah in all funeral-related matters."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "میت کے لیے نفع بخش اعمال",
+        "english": "Beneficial Acts for the Deceased"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کثرتِ دعا کی اہمیت",
+              "english": "Importance of Abundant Supplication"
+            },
+            "content": {
+              "urdu": [
+                "میت کو شور و غل والے اعلانات کی نہیں بلکہ مخلصانہ دعاؤں کی ضرورت ہوتی ہے۔",
+                "لوگوں کو جمع کرنے کا مقصد صرف یہ ہونا چاہیے کہ وہ میت کے لیے سفارش (دعا) کریں۔",
+                "نمازِ جنازہ میں صفوں کی کثرت میت کی مغفرت کا ایک بڑا ذریعہ بنتی ہے۔"
+              ],
+              "english": [
+                "The deceased does not need loud announcements but rather sincere supplications.",
+                "The purpose of gathering people should solely be to intercede (pray) for the deceased.",
+                "A large number of rows in the funeral prayer is a significant means of forgiveness for the dead."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تدفین میں تعجیل",
+              "english": "Hastening the Burial"
+            },
+            "content": {
+              "urdu": [
+                "منادی کے انتظار میں تدفین میں تاخیر کرنا سنت کے خلاف ہے؛ جنازے میں جلدی کرنی چاہیے۔",
+                "آپ ﷺ نے میت کو جلد قبر تک پہنچانے کی تاکید فرمائی ہے تاکہ وہ اپنے انجام کو پہنچے۔",
+                "طویل اعلانات اور لوگوں کے انتظار میں میت کو روکنا درست نہیں ہے۔"
+              ],
+              "english": [
+                "Delaying the burial while waiting for broad announcements is against the Sunnah; funerals should be quick.",
+                "The Prophet (ﷺ) emphasized taking the deceased to the grave quickly to meet their destiny.",
+                "Holding back the body for lengthy announcements and waiting for people is not appropriate."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصحیت",
+        "english": "Practical Lesson and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جدید ذرائع کا استعمال",
+              "english": "Using Modern Means"
+            },
+            "content": {
+              "urdu": [
+                "مساجد کے لاؤڈ اسپیکر یا واٹس ایپ کا استعمال صرف ضروری اطلاع کے لیے کرنا چاہیے۔",
+                "اعلان میں میت کے فضائل بیان کرنے میں غلو کرنے سے گریز کرنا ضروری ہے۔",
+                "ہمارا ہدف صرف نمازِ جنازہ کے وقت اور مقام کی درست نشاندہی ہونا چاہیے۔"
+              ],
+              "english": [
+                "Using mosque loudspeakers or WhatsApp should be restricted to necessary notifications only.",
+                "One must avoid exaggeration in praising the deceased during the announcement.",
+                "Our goal should only be to accurately identify the time and place of the funeral prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موت سے عبرت حاصل کرنا",
+              "english": "Taking Heed from Death"
+            },
+            "content": {
+              "urdu": [
+                "اعلانِ وفات سننے والوں کے لیے اپنی موت کی یاد دہانی اور توبہ کا پیغام ہونا چاہیے۔",
+                "شور مچانے کے بجائے دل میں موت کی حقیقت پر غور کرنا مومن کا شیوہ ہے۔",
+                "موت کا ہر اعلان ہمیں یہ بتاتا ہے کہ اگلی باری ہماری بھی ہو سکتی ہے۔"
+              ],
+              "english": [
+                "Hearing a death announcement should be a reminder of one's own death and a call to repentance.",
+                "Instead of making noise, reflecting on the reality of death is the trait of a believer.",
+                "Every death announcement tells us that our turn could be next."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

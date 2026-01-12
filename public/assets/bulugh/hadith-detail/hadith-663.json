@@ -1,0 +1,259 @@
+{
+  "hadithId": 663,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:6756"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح البخاري (6756)، كتاب الفرائض، باب بيع الولاء وهبته؛ وصحيح مسلم (1506)، كتاب العتق، باب نهي عن بيع الولاء وهبته.",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (6756) اور امام مسلم (1506) دونوں نے اسے روایت کیا ہے۔",
+    "english": "Sahih al-Bukhari (6756) and Sahih Muslim (1506). It is a Muttafaqun Alayh (agreed upon) Hadith."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "بَيْعِ",
+      "english": "Sale",
+      "urdu": "فروخت / بیچنا"
+    },
+    {
+      "arabic": "اَلْوَلَاءُ",
+      "english": "Right of Inheritance",
+      "urdu": "وارث بننے کا حق"
+    },
+    {
+      "arabic": "هِبَتِهِ",
+      "english": "Giving as gift",
+      "urdu": "ہبہ کرنا / تحفہ دینا"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْهِ",
+      "english": "Agreed upon",
+      "urdu": "بخاری و مسلم کی متفقہ روایت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں واضح کیا گیا ہے کہ ولاء (آزاد کردہ غلام کی وراثت کا حق) ایک مستقل شرعی رشتہ ہے جسے نہ بیچا جا سکتا ہے اور نہ ہی کسی کو تحفے میں دیا جا سکتا ہے۔",
+    "english": "This Hadith clarifies that Wala' (the right of inheritance from a freed slave) is an unalienable legal bond that cannot be sold or gifted."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6756)",
+      "english": "Sahih al-Bukhari (6756)"
+    },
+    {
+      "arabic": "صحيح مسلم (1506)",
+      "english": "Sahih Muslim (1506)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=pAnS_E4u80w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ولاء کا شرعی مقام",
+        "english": "Legal Status of Wala'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نسب کی طرح ایک رشتہ",
+              "english": "A Bond Like Lineage"
+            },
+            "content": {
+              "urdu": [
+                "ولاء وہ تعلق ہے جو ایک مالک اور اس کے آزاد کردہ غلام کے درمیان قائم ہوتا ہے۔",
+                "حدیثِ نبوی کے مطابق ولاء ایک ایسا رشتہ ہے جیسے انسان کا خونی نسب ہوتا ہے۔",
+                "جس طرح کوئی اپنا نسب نہیں بیچ سکتا، ویسے ہی ولاء کا حق بھی منتقل نہیں ہوتا۔"
+              ],
+              "english": [
+                "Wala' is the relationship established between a master and their freed slave.",
+                "According to the Prophetic tradition, Wala' is a bond similar to blood lineage.",
+                "Just as one cannot sell their lineage, the right of Wala' cannot be transferred."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وراثت کا حقدار",
+              "english": "Entitlement to Inheritance"
+            },
+            "content": {
+              "urdu": [
+                "اگر آزاد کردہ غلام بغیر وارث کے فوت ہو جائے تو اس کا مال اس کے آزاد کرنے والے کو ملتا ہے۔",
+                "یہ حق اللہ تعالیٰ کی طرف سے انعام ہے اس شخص کے لیے جس نے غلام کو آزادی دی۔",
+                "یہ رشتہ صرف موت سے ختم ہوتا ہے، اسے انسانی سودے بازی کا حصہ نہیں بنایا جا سکتا۔"
+              ],
+              "english": [
+                "If a freed slave dies without heirs, their property goes to the one who freed them.",
+                "This right is a reward from Allah for the person who granted the slave freedom.",
+                "This bond only ends with death and cannot be part of human bargaining."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بیع اور ہبہ کی ممانعت",
+        "english": "Prohibition of Sale and Gift"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تجارت کی ممانعت",
+              "english": "Prohibition of Trade"
+            },
+            "content": {
+              "urdu": [
+                "ولاء کو فروخت کرنا اس لیے منع ہے کہ یہ کوئی مالی شے نہیں بلکہ ایک قانونی رشتہ ہے۔",
+                "زمانہ جاہلیت میں لوگ اسے خریدتے اور بیچتے تھے، جسے اسلام نے ختم کر دیا۔",
+                "اس ممانعت سے شرعی حقوق کے تقدس اور وراثت کے قوانین کی حفاظت ہوتی ہے۔"
+              ],
+              "english": [
+                "Selling Wala' is forbidden because it is a legal bond, not a commercial commodity.",
+                "In the pre-Islamic era, people bought and sold it, which Islam subsequently abolished.",
+                "This prohibition protects the sanctity of legal rights and inheritance laws."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہبہ (تحفہ) کرنے کا حکم",
+              "english": "Ruling on Gifting"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح اسے بیچنا حرام ہے، اسی طرح اسے کسی دوسرے کو منتقل کرنا بھی ناجائز ہے۔",
+                "ولاء کا حق صرف اس شخص تک محدود رہتا ہے جس نے حقیقت میں غلام آزاد کیا ہو۔",
+                "یہ اصول اس بات کو یقینی بناتا ہے کہ شرعی ذمہ داریاں اور حقوق تبدیل نہ ہوں۔"
+              ],
+              "english": [
+                "Just as selling it is prohibited, gifting or transferring it to another is also unlawful.",
+                "The right of Wala' remains restricted to the person who actually freed the slave.",
+                "This principle ensures that Sharia responsibilities and rights remain unchanged."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمتیں",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وراثت کے قانون کا تحفظ",
+              "english": "Protection of Inheritance Law"
+            },
+            "content": {
+              "urdu": [
+                "وراثت اللہ کے مقرر کردہ حصے ہیں جن میں انسان اپنی مرضی سے تبدیلی نہیں کر سکتا۔",
+                "ولاء کو منتقل کرنے کی اجازت دینے سے وراثت کے نظام میں انتشار پیدا ہوتا۔",
+                "شریعت نے سماجی ڈھانچے کو مضبوط رکھنے کے لیے ان حدود کا تعین کیا ہے۔"
+              ],
+              "english": [
+                "Inheritance involves fixed shares set by Allah that humans cannot alter at will.",
+                "Allowing the transfer of Wala' would have caused chaos in the inheritance system.",
+                "Sharia defined these boundaries to keep the social structure stable and intact."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی وقار کی بحالی",
+              "english": "Restoration of Human Dignity"
+            },
+            "content": {
+              "urdu": [
+                "غلام کو آزاد کرنے کا مطلب اسے مکمل انسانی حقوق دینا ہے، نہ کہ اس کے حقوق کی تجارت کرنا۔",
+                "اگر ولاء بکتی رہتی تو غلام کی آزادی کے بعد بھی اس پر معاشی سودے بازی جاری رہتی۔",
+                "اسلام نے اس عمل کو روک کر انسان کو ہر قسم کی غلامانہ جکڑ بندیوں سے نکالا۔"
+              ],
+              "english": [
+                "Freeing a slave means giving them full human rights, not trading their future rights.",
+                "If Wala' remained saleable, economic bargaining over the freed person would persist.",
+                "By stopping this practice, Islam liberated humans from all forms of enslavement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی حدود کی پاسداری",
+              "english": "Adherence to Sharia Limits"
+            },
+            "content": {
+              "urdu": [
+                "ایک مومن کو چاہیے کہ وہ خرید و فروخت میں حلال اور حرام کا خاص خیال رکھے۔",
+                "ہر وہ چیز جو اللہ نے منع کی ہے، اس میں کوئی نہ کوئی معاشرتی یا اخلاقی برائی چھپی ہوتی ہے۔",
+                "اتباعِ سنت ہی کامیابی اور برکت کا واحد راستہ ہے۔"
+              ],
+              "english": [
+                "A believer must pay special attention to Halal and Haram in buying and selling.",
+                "Everything Allah has forbidden contains some hidden social or moral evil.",
+                "Following the Sunnah is the only path to ultimate success and blessing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاہدات کی شفافیت",
+              "english": "Transparency in Contracts"
+            },
+            "content": {
+              "urdu": [
+                "تجارت اور لین دین میں صرف وہی چیزیں شامل کریں جو شرعاً جائز ہوں۔",
+                "غیر قانونی شرائط اور حقوق کی خرید و فروخت سے بچنا قانونی اور اخلاقی ضرورت ہے۔",
+                "یہ حدیث ہمیں سکھاتی ہے کہ دین کے احکام کو دنیاوی فائدے کے لیے تبدیل نہ کریں۔"
+              ],
+              "english": [
+                "Include only those things in trade and transactions that are legally permissible.",
+                "Avoiding illegal conditions and the sale of fixed rights is a legal and moral necessity.",
+                "This Hadith teaches us not to alter religious rulings for worldly gains."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

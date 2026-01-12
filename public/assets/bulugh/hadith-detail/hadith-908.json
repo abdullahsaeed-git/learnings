@@ -1,0 +1,255 @@
+{
+  "hadithId": 908,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/908", "muslim:1460"],
+    "kitabId": 8,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب النكاح",
+    "babId": 69
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه مسلم في صحيحه (1460)، كتاب الرضاع، باب قدر ما تستحقه البكر والثيب من إقامة الزوج عندها عقب الزفاف.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (1460) میں 'کتاب الرضاع' کے تحت روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim in his Sahih (1460), Book of Suckling, Chapter regarding the duration a husband should stay with a new bride."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَقَامَ",
+      "english": "Stayed",
+      "urdu": "قیام کیا"
+    },
+    {
+      "arabic": "هَوَانٌ",
+      "english": "Humiliation / Low estimate",
+      "urdu": "ذلت / حقارت"
+    },
+    {
+      "arabic": "شِئْتِ",
+      "english": "You wish",
+      "urdu": "تم چاہو"
+    },
+    {
+      "arabic": "سَبَّعْتُ",
+      "english": "Stayed seven nights",
+      "urdu": "میں نے سات دن دیے"
+    },
+    {
+      "arabic": "نِسَائِي",
+      "english": "My wives",
+      "urdu": "میری بیویاں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نئی شادی کی صورت میں بیوہ یا طلاق یافتہ عورت (ثیبہ) کے لیے شوہر کے قیام کی مدت اور عدل کے اصول بیان کیے گئے ہیں۔",
+    "english": "This Hadith explains the duration a husband should stay with a previously married bride and the principles of justice between co-wives."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1460)",
+      "english": "Reported by Muslim (1460)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم سلمة هند بنت أبي أمية",
+        "english": "Umm Salamah Hind bint Abi Umayya"
+      },
+      "slug": "umm-salamah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0K07_z0U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نئی بیوی کے حقوق",
+        "english": "Rights of a New Bride"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ثیبہ کے لیے قیام کی مدت",
+              "english": "Duration for a Previously Married Bride"
+            },
+            "content": {
+              "urdu": [
+                "بیوہ یا طلاق یافتہ عورت سے نکاح کی صورت میں تین دن کا قیام سنت ہے۔",
+                "یہ تین دن دیگر بیویوں کی باری (تقسیم) میں شمار نہیں ہوتے۔",
+                "یہ وقت نئی بیوی کی دلجوئی اور اسے مانوس کرنے کے لیے دیا جاتا ہے۔"
+              ],
+              "english": [
+                "Staying for three nights is Sunnah when marrying a previously married woman.",
+                "These three nights are not deducted from the rotation of other wives.",
+                "This period is intended to comfort and familiarize the new bride."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اختیار دینا",
+              "english": "Giving the Choice"
+            },
+            "content": {
+              "urdu": [
+                "شوہر اپنی بیوی کو تین یا سات دن کے قیام کا اختیار دے سکتا ہے۔",
+                "سات دن کا انتخاب کرنے کی صورت میں دیگر بیویوں کو بھی اتنا وقت دینا ہوگا۔",
+                "یہ اصول ازدواجی زندگی میں باہمی رضا مندی کی اہمیت ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "The husband may offer the bride a choice between three or seven nights.",
+                "If seven nights are chosen, the husband must stay seven nights with each co-wife.",
+                "This principle highlights the importance of mutual consent in marriage."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدل و انصاف کا معیار",
+        "english": "Standards of Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیویوں کے درمیان برابری",
+              "english": "Equality Among Wives"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر حال میں بیویوں کے درمیان عدل قائم رکھنے کا حکم دیتا ہے۔",
+                "اگر ایک کو زائد وقت دیا جائے تو دوسروں کا حق بھی بڑھ جاتا ہے۔",
+                "نبی کریم ﷺ نے اپنی زندگی سے عدل کی بہترین مثال پیش فرمائی۔"
+              ],
+              "english": [
+                "Islam commands maintaining absolute justice among wives at all times.",
+                "If extra time is given to one, the rights of others increase accordingly.",
+                "The Prophet (ﷺ) set the ultimate example of justice through his actions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق تلفی سے بچنا",
+              "english": "Avoiding Violation of Rights"
+            },
+            "content": {
+              "urdu": [
+                "کسی ایک بیوی کی ترجیح میں دوسروں کی باری متاثر نہیں ہونی چاہیے۔",
+                "شرعی حدود کی پابندی گھر میں سکون اور محبت برقرار رکھتی ہے۔",
+                "ناانصافی قیامت کے دن رسوائی اور عذاب کا باعث بنے گی۔"
+              ],
+              "english": [
+                "Favoring one wife should not result in the neglect of others' turns.",
+                "Adherence to Shariah limits maintains peace and love in the household.",
+                "Injustice will lead to disgrace and punishment on the Day of Judgment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاتون کی عزت و تکریم",
+        "english": "Dignity of the Woman"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذلت و حقارت کی نفی",
+              "english": "Negating Humiliation"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ بیوی کا رتبہ شوہر کے گھر میں بلند ہے۔",
+                "تین دن کا قیام اسے یہ احساس دلاتا ہے کہ وہ قابلِ قدر ہے۔",
+                "اسلام نے عورت کو معاشرے میں عزت اور تحفظ فراہم کیا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) affirmed that a wife holds a high status in her home.",
+                "A three-night stay makes her feel valued and respected as a partner.",
+                "Islam has provided women with dignity and protection in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفسیاتی دلجوئی",
+              "english": "Psychological Comfort"
+            },
+            "content": {
+              "urdu": [
+                "نیا ماحول عورت کے لیے اجنبیت اور گھبراہٹ کا باعث ہو سکتا ہے۔",
+                "ابتدائی قیام اس کے ذہنی تناؤ کو ختم کرنے میں مدد دیتا ہے۔",
+                "یہ سنت نبوی انسانی نفسیات اور جذبات کی مکمل رعایت رکھتی ہے۔"
+              ],
+              "english": [
+                "A new environment can cause a woman to feel alienated or anxious.",
+                "The initial stay helps in alleviating her mental stress and unease.",
+                "This Prophetic Sunnah fully respects human psychology and emotions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کنواری اور بیوہ کا فرق",
+              "english": "Difference Between Virgin and Non-Virgin"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک کنواری کے لیے سات اور ثیبہ کے لیے تین دن ہیں۔",
+                "یہ تقسیم حدیثِ نبوی کی روشنی میں طے کی گئی ہے۔",
+                "ان ایام کے بعد تمام بیویوں میں باری کی تقسیم برابر ہوگی۔"
+              ],
+              "english": [
+                "Jurists state seven nights for a virgin and three for a non-virgin.",
+                "This distribution is established in light of Prophetic Hadith.",
+                "After these initial days, the rotation among all wives must be equal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظامِ تقسیم کی اہمیت",
+              "english": "Importance of the Rotation System"
+            },
+            "content": {
+              "urdu": [
+                "باریوں کی تقسیم (قسْم) ازدواجی حقوق کا لازمی حصہ ہے۔",
+                "شوہر پر واجب ہے کہ وہ اپنی تمام بیویوں کا وقت مقرر کرے۔",
+                "نظم و ضبط کی یہ پابندی خاندانی جھگڑوں کے خاتمے کا سبب ہے۔"
+              ],
+              "english": [
+                "The allocation of turns (Qasm) is an essential part of marital rights.",
+                "It is obligatory for the husband to schedule time for all his wives.",
+                "Adhering to this discipline prevents and resolves family disputes."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

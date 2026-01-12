@@ -1,0 +1,231 @@
+{
+  "hadithId": 1142,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/12/8"],
+    "kitabId": 12,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 92
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أبو داود (3785)، والترمذي (1824)، وابن ماجه (3189)، وأحمد (2/60). وقال الترمذي: حديث حسن غريب.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے امام ابوداؤد، ترمذی اور ابن ماجہ نے روایت کیا ہے۔ امام ترمذی نے اسے حسن غریب کہا ہے۔ 'جلالہ' وہ جانور ہے جو بنیادی طور پر نجاست کھاتا ہو۔",
+    "english": "Sahih due to corroborating evidences. Reported by Abu Dawud (3785), At-Tirmidhi (1824), Ibn Majah (3189), and Ahmad (2/60). At-Tirmidhi classified it as Hasan Gharib."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "اَلْجَلَّالَةِ",
+      "english": "Al-Jallalah (Filth-eater)",
+      "urdu": "گندگی کھانے والا جانور"
+    },
+    {
+      "arabic": "أَلْبَانِهَا",
+      "english": "Its milk",
+      "urdu": "اس کا دودھ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا خلاصہ یہ ہے کہ ایسے جانور جو گندگی اور نجاست کھاتے ہوں (جیسے وہ مرغیاں یا مویشی جو غلاظت پر پلیں)، ان کا گوشت کھانا، ان پر سواری کرنا اور ان کا دودھ پینا اس وقت تک منع ہے جب تک انہیں پاک صاف غذا دے کر ان کا جسم نجاست کے اثرات سے پاک نہ کر دیا جائے۔",
+    "english": "This Hadith clarifies that animals primarily consuming filth or dung (Al-Jallalah) are prohibited for consumption, milking, or riding until they are quarantined and fed pure food long enough for the effects of the filth to dissipate."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (1824)",
+      "english": "Sunan at-Tirmidhi (1824)"
+    },
+    {
+      "arabic": "سنن أبي داود (3785)",
+      "english": "Sunan Abi Dawud (3785)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جلالہ کی تعریف اور ممانعت",
+        "english": "Definition and Prohibition of Jallalah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جلالہ کسے کہتے ہیں؟",
+              "english": "What is Jallalah?"
+            },
+            "content": {
+              "urdu": [
+                "جلالہ سے مراد وہ حلال جانور (اونٹ، گائے، بکری یا مرغی) ہے جس کی اکثر خوراک نجاست اور گندگی پر مبنی ہو۔",
+                "صرف تھوڑی بہت گندگی کھانے سے جانور جلالہ نہیں بنتا، بلکہ جب اس کے گوشت یا پسینے سے بو آنے لگے تو یہ حکم لاگو ہوتا ہے۔",
+                "یہ ممانعت صحت اور صفائی کے اسلامی اصولوں پر مبنی ہے۔"
+              ],
+              "english": [
+                "Jallalah refers to permissible animals (camel, cow, goat, or chicken) whose primary diet consists of filth or dung.",
+                "Consuming minor amounts of filth does not make an animal Jallalah; the ruling applies when its meat or sweat begins to smell of the filth.",
+                "This prohibition is rooted in Islamic principles of hygiene and health."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ممانعت کی نوعیت",
+              "english": "Nature of the Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء کے نزدیک یہ ممانعت 'مکروہ تحریمی' ہے، یعنی اس حالت میں کھانا گناہ کے قریب ہے۔",
+                "منع کرنے کا مقصد انسان کو ان بیماریوں اور کراہت سے بچانا ہے جو گندگی خور جانور کے ذریعے منتقل ہو سکتی ہیں۔",
+                "اس میں گوشت کے ساتھ ساتھ دودھ اور انڈے بھی شامل ہیں۔"
+              ],
+              "english": [
+                "Most jurists consider this prohibition 'Makruh Tahrimi' (highly disliked, bordering on forbidden).",
+                "The aim is to protect humans from diseases and repulsion that can be transmitted through filth-eating animals.",
+                "This applies to the meat, milk, and eggs of such animals."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پاک کرنے کا طریقہ (قید و بند)",
+        "english": "Method of Purification (Quarantine)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استبراء (قید کرنا)",
+              "english": "Istibra (Quarantine)"
+            },
+            "content": {
+              "urdu": [
+                "جلالہ جانور کو ذبح کرنے سے پہلے کچھ دن پاک چارہ کھلانا ضروری ہے تاکہ نجاست کا اثر ختم ہو جائے۔",
+                "عبداللہ بن عمر رضی اللہ عنہ مرغی کو تین دن تک بند رکھتے اور پاک غذا دیتے تھے۔",
+                "جب گوشت سے بدبو ختم ہو جائے اور وہ طیب ہو جائے تو اسے کھانا حلال ہو جاتا ہے۔"
+              ],
+              "english": [
+                "Before slaughtering, a Jallalah animal must be fed pure fodder for a specific period to remove the effects of filth.",
+                "Abdullah bin Umar (R.A) used to keep a chicken confined for three days, feeding it pure food.",
+                "Once the foul smell disappears and the meat becomes wholesome (Tayyib), it becomes Halal to eat."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مقررہ ایام",
+              "english": "Specific Durations"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے مختلف جانوروں کے لیے مختلف مدتیں بتائی ہیں (مثلاً اونٹ کے لیے 40 دن، گائے کے لیے 20، بکری کے لیے 7 اور مرغی کے لیے 3 دن)۔",
+                "بنیادی معیار یہ ہے کہ جانور کی حالت بدل جائے اور گندگی کا اثر زائل ہو جائے۔",
+                "یہ عمل خوراک کی حفاظت (Food Safety) کے جدید تصورات سے ہم آہنگ ہے۔"
+              ],
+              "english": [
+                "Jurists suggested various durations (e.g., 40 days for camels, 20 for cows, 7 for goats, and 3 for chickens).",
+                "The core standard is the transformation of the animal's physical state and the removal of the filth's impact.",
+                "This practice aligns with modern concepts of Food Safety."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور سائنسی پہلو",
+        "english": "Medical and Scientific Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحت عامہ کا تحفظ",
+              "english": "Protection of Public Health"
+            },
+            "content": {
+              "urdu": [
+                "گندگی میں موجود جراثیم، بیکٹیریا اور زہریلے مادے جانور کے گوشت اور دودھ میں جذب ہو جاتے ہیں۔",
+                "ایسا گوشت کھانے سے انسان سنگین بیماریوں کا شکار ہو سکتا ہے۔",
+                "اسلام نے چودہ سو سال پہلے ہی ان خطرات سے آگاہ کر دیا تھا جن پر آج میڈیکل سائنس تحقیق کر رہی ہے۔"
+              ],
+              "english": [
+                "Pathogens, bacteria, and toxins in filth are absorbed into the animal's flesh and milk.",
+                "Consuming such meat can lead to serious human health complications.",
+                "Islam highlighted these risks 1400 years ago, which are now subjects of medical research."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اسباق اور حکمت",
+        "english": "Practical Lessons and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طیب غذا کی اہمیت",
+              "english": "Importance of Pure Food"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو صرف حلال ہی نہیں بلکہ 'طیب' (پاکیزہ) غذا کی تلاش کرنی چاہیے۔",
+                "جانوروں کی پرورش میں حرام اور گندی اشیاء (جیسے خون یا مردار کا چارہ) سے بچنا واجب ہے۔",
+                "پاکیزہ خوراک کا اثر انسان کے اخلاق اور عبادات کی قبولیت پر بھی پڑتا ہے۔"
+              ],
+              "english": [
+                "A Muslim should seek food that is not only Halal but also 'Tayyib' (pure/wholesome).",
+                "In animal husbandry, avoiding forbidden or filthy feed (like blood or carrion meal) is mandatory.",
+                "Pure food influences a person's character and the acceptance of their worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ماحولیاتی صفائی",
+              "english": "Environmental Hygiene"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں اپنے ماحول کو صاف رکھنے اور مویشیوں کو گندگی سے دور رکھنے کی ترغیب دیتی ہے۔",
+                "پالنے والے کی ذمہ داری ہے کہ وہ جانوروں کے حقوق اور ان کی غذا کا خیال رکھے۔",
+                "اسلام زندگی کے ہر شعبے میں معیار (Quality Control) پر زور دیتا ہے۔"
+              ],
+              "english": [
+                "This Hadith encourages keeping the environment clean and keeping livestock away from filth.",
+                "It is the owner's responsibility to ensure the rights and proper diet of the animals.",
+                "Islam emphasizes Quality Control in every sphere of life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

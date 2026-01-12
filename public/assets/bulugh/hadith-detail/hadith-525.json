@@ -1,0 +1,268 @@
+{
+  "hadithId": 525,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/525"],
+    "kitabId": 4,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 32
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (6/10)، وأبو داود (1650)، والنسائي (5/107)، والترمذي (657)، وابن خزيمة (2344)، وابن حبان (3276). وقال الترمذي: حسن صحيح.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے احمد، ابوداؤد، نسائی، ترمذی (657)، ابن خزیمہ اور ابن حبان نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (6/10), Abu Dawud (1650), An-Nasa'i (5/107), At-Tirmidhi (657), Ibn Khuzaymah (2344), and Ibn Hibban (3276). At-Tirmidhi graded it Hasan Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَعَثَ",
+      "english": "Appointed / Sent",
+      "urdu": "بھیجا / مقرر کیا"
+    },
+    {
+      "arabic": "اِصْحَبْنِي",
+      "english": "Accompany me",
+      "urdu": "میرے ساتھ چلو"
+    },
+    {
+      "arabic": "تُصِيبُ",
+      "english": "You will get / Obtain",
+      "urdu": "تم حاصل کرو گے"
+    },
+    {
+      "arabic": "مَوْلَى",
+      "english": "Freed slave",
+      "urdu": "آزاد کردہ غلام"
+    },
+    {
+      "arabic": "أَنْفُسِهِمْ",
+      "english": "Themselves (one of them)",
+      "urdu": "انہی کی جانیں / انہی میں سے"
+    },
+    {
+      "arabic": "لَا تَحِلُّ",
+      "english": "Not lawful",
+      "urdu": "حلال نہیں ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "آلِ محمد ﷺ اور ان کے آزاد کردہ غلاموں پر زکوٰۃ کا مال حرام ہے، کیونکہ غلام شرعی طور پر اپنے مالکوں کے خاندان کا ہی حصہ شمار ہوتا ہے۔",
+    "english": "Zakat is forbidden for the family of Prophet Muhammad (ﷺ) and their freed slaves, as a freed slave is legally considered part of the family that freed them."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (657)",
+      "english": "Sunan At-Tirmidhi (657)"
+    },
+    {
+      "arabic": "سنن أبي داود (1650)",
+      "english": "Sunan Abi Dawud (1650)"
+    },
+    {
+      "arabic": "مسند أحمد (6/10)",
+      "english": "Musnad Ahmad (6/10)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو رافع القبطي",
+        "english": "Abu Rafi' al-Qibti"
+      },
+      "slug": "abu-rafi-al-qibti"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غلام کی شرعی حیثیت",
+        "english": "Legal Status of a Freed Slave"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندان میں شمولیت",
+              "english": "Inclusion in the Family"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون کے مطابق 'ولا' کا رشتہ غلام کو مالک کے خاندان کا حصہ بنا دیتا ہے۔",
+                "آزاد کردہ غلام کو وہی شرعی احکامات لاگو ہوتے ہیں جو اس کے مالک خاندان پر ہیں۔",
+                "نبی ﷺ نے واضح فرمایا کہ ابورافع چونکہ ان کے غلام تھے، لہذا وہ انہی میں سے ہیں۔"
+              ],
+              "english": [
+                "According to Islamic law, the bond of 'Wala' makes a freed slave part of the master's clan.",
+                "The same Shariah rulings that apply to the master's family apply to the freed slave.",
+                "The Prophet (ﷺ) clarified that since Abu Rafi' was his slave, he is considered part of his family."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احکامات میں برابری",
+              "english": "Equality in Rulings"
+            },
+            "content": {
+              "urdu": [
+                "جو چیز بنو ہاشم کے لیے حرام ہے، وہ ان کے مولیٰ (غلاموں) کے لیے بھی حرام ہے۔",
+                "یہ اصول نسبی تعلق اور قانونی وابستگی دونوں کو یکساں اہمیت دیتا ہے۔",
+                "اس سے ثابت ہوتا ہے کہ آلِ رسول کے غلاموں کا مقام بھی امت میں بلند ہے۔"
+              ],
+              "english": [
+                "What is forbidden for Banu Hashim is also forbidden for their Mawla (freed slaves).",
+                "This principle gives equal weight to both blood lineage and legal affiliation.",
+                "It proves that the freed slaves of the Prophet's family also hold a high status."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "زکوٰۃ سے اجتناب کی حکمت",
+        "english": "Wisdom of Avoiding Zakat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طہارتِ خاندانِ نبوت",
+              "english": "Purity of the Prophetic Family"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ لوگوں کے مال کا میل ہے، جو گناہوں سے پاکی کے لیے نکالا جاتا ہے۔",
+                "اللہ نے نبی ﷺ کے خاندان کو اس میل کے لینے سے پاک اور بلند رکھا ہے۔",
+                "یہ پابندی آلِ رسول ﷺ کی عظمت اور پاکیزگی کی ایک علامت ہے۔"
+              ],
+              "english": [
+                "Zakat is the impurity of wealth, extracted to purify people from sins.",
+                "Allah has kept the family of the Prophet (ﷺ) pure and above receiving this filth.",
+                "This restriction is a symbol of the greatness and sanctity of the Prophet's Household."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عاملین کی اجرت کا مسئلہ",
+              "english": "Issue of Wages for Collectors"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ زکوٰۃ جمع کرنے والے کو اس مال سے اجرت مل سکتی ہے، مگر ہاشمی کے لیے نہیں۔",
+                "ہاشمی شخص اگر زکوٰۃ وصولی پر مامور ہو، تب بھی وہ اس میں سے حصہ نہیں لے سکتا۔",
+                "اس سے انتظامی معاملات میں بھی بنو ہاشم کی خودداری برقرار رکھی گئی۔"
+              ],
+              "english": [
+                "Although a Zakat collector can receive wages from it, a Hashimi cannot.",
+                "Even if a Hashimi is appointed to collect Zakat, they may not take a share of it.",
+                "This maintains the self-respect of Banu Hashim even in administrative roles."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تقویٰ اور احتیاط",
+        "english": "Piety and Precaution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شبہات سے بچنا",
+              "english": "Avoiding Doubts"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابورافع رضی اللہ عنہ نے لالچ کے بجائے شرعی حکم معلوم کرنے کو ترجیح دی۔",
+                "مومن کو چاہیے کہ جب کسی فائدے میں شک ہو تو پہلے علم حاصل کرے۔",
+                "بلا تحقیق مال قبول کرنا انسان کو حرام یا مشتبہ کاموں میں ڈال سکتا ہے۔"
+              ],
+              "english": [
+                "Abu Rafi' (RA) prioritized seeking Shariah rulings over personal greed.",
+                "A believer should seek knowledge first whenever there is a doubt about a benefit.",
+                "Accepting wealth without verification can lead one into forbidden or doubtful acts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اطاعتِ رسول ﷺ",
+              "english": "Obedience to the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے فیصلے پر سر تسلیم خم کرنا ہی ایمان کا اصل جوہر ہے۔",
+                "نبی ﷺ نے اپنے خاندان کے لیے سہولیات کے بجائے پابندیوں کا انتخاب فرمایا۔",
+                "یہ طرزِ عمل پوری امت کے لیے ایثار اور تقویٰ کا ایک بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "Submission to the Prophet's (ﷺ) decision is the essence of true faith.",
+                "The Prophet (ﷺ) chose restrictions over privileges for his own family.",
+                "This conduct is a supreme example of sacrifice and piety for the entire Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اہلِ علم سے رجوع",
+              "english": "Consulting People of Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی کام کو شروع کرنے سے پہلے اس کی شرعی حیثیت جاننا ضروری ہے۔",
+                "صحابی کا عمل سکھاتا ہے کہ معاشی معاملات میں دین کو مقدم رکھا جائے۔",
+                "صحیح رہنمائی ہی انسان کو دنیا اور آخرت کے نقصان سے بچاتی ہے۔"
+              ],
+              "english": [
+                "It is essential to know the Shariah status of any task before beginning it.",
+                "The Companion's action teaches to prioritize religion in economic dealings.",
+                "Correct guidance protects a person from loss in this world and the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سادات کا احترام اور کفالت",
+              "english": "Respecting and Supporting Sayyids"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ سادات پر زکوٰۃ حرام ہے، اس لیے امت پر ان کی امداد کا بوجھ زیادہ ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ ہدیہ اور تحفہ کے ذریعے سادات کی ضرورت پوری کریں۔",
+                "یہ ان کی نسبت کا احترام ہے جو ہر مسلمان کے ایمان کا حصہ ہے۔"
+              ],
+              "english": [
+                "Since Zakat is forbidden for Sayyids, the community bears a greater duty to help them.",
+                "Muslims should fulfill the needs of Sayyids through gifts and voluntary aid.",
+                "This is respect for their lineage, which is a vital part of every Muslim's faith."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

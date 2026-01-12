@@ -1,0 +1,276 @@
+{
+  "hadithId": 284,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["urn:1274"],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "Bulugh al-Maram",
+    "babId": 19
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (728). ورواية الترمذي (415) حسن صحيح. ورواية الخمسة: أبو داود (1269)، والنسائي (3/266)، والترمذي (427)، وابن ماجه (1160)، وأحمد (6/326) صحيحة.",
+    "urdu": "صحیح۔ اسے مسلم (728) نے روایت کیا ہے۔ ترمذی (415) کی روایت حسن صحیح ہے۔ اور پانچوں کی روایت: ابوداؤد (1269)، نسائی (3/266)، ترمذی (427)، ابن ماجہ (1160) اور احمد (6/326) صحیح ہے۔",
+    "english": "Sahih. Reported by Muslim (728). The narration of At-Tirmidhi (415) is Hasan Sahih. The narration of the Five: Abu Dawud (1269), An-Nasa'i (3/266), At-Tirmidhi (427), Ibn Majah (1160), and Ahmad (6/326) is Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "اثنتا عشرة",
+      "english": "Twelve",
+      "urdu": "بارہ"
+    },
+    {
+      "arabic": "بني",
+      "english": "Built",
+      "urdu": "تعمیر کیا گیا"
+    },
+    {
+      "arabic": "تطوعا",
+      "english": "Voluntarily",
+      "urdu": "نفل کے طور پر / خوشی سے"
+    },
+    {
+      "arabic": "حافظ",
+      "english": "Preserved / Guarded",
+      "urdu": "حفاظت کی / پابندی کی"
+    },
+    {
+      "arabic": "حرمه",
+      "english": "Forbade him",
+      "urdu": "اسے حرام کر دیا"
+    },
+    {
+      "arabic": "يوم وليلة",
+      "english": "Day and night",
+      "urdu": "دن اور رات"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث سنن مؤکدہ (12 رکعت) کی فضیلت بیان کرتی ہے کہ ان کے بدلے جنت میں محل ملتا ہے۔ نیز ظہر سے پہلے اور بعد 4-4 رکعت پڑھنے والے پر جہنم کی آگ حرام کر دی جاتی ہے۔",
+    "english": "This Hadith explains the virtue of the 12 Sunnah Mu'akkadah prayers, promising a palace in Paradise. Also, preserving 4 Rak'ahs before and 4 after Zuhr protects one from Hellfire."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (728)",
+      "english": "Reported by Muslim (728)"
+    },
+    {
+      "arabic": "رواه الترمذي (415)",
+      "english": "Reported by At-Tirmidhi (415)"
+    },
+    {
+      "arabic": "رواه أبو داود (1269)",
+      "english": "Reported by Abu Dawud (1269)"
+    },
+    {
+      "arabic": "رواه النسائي (1817)",
+      "english": "Reported by An-Nasa'i (1817)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (1160)",
+      "english": "Reported by Ibn Majah (1160)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم حبيبة رملة بنت أبي سفيان",
+        "english": "Umm Habibah Ramla bint Abi Sufyan"
+      },
+      "slug": "umm-habibah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=EXAMPLE_ID_12RAKAHS",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سنن مؤکدہ کی فضیلت",
+        "english": "Virtue of Sunnah Mu'akkadah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنت کا گھر",
+              "english": "House in Paradise"
+            },
+            "content": {
+              "urdu": [
+                "دن رات میں 12 رکعت سنتیں پڑھنے کا انعام جنت میں ایک محل ہے۔",
+                "یہ وعدہ روزانہ کی بنیاد پر ہے، یعنی جتنی پابندی اتنا انعام۔",
+                "مسلم کی روایت میں 'تطوعاً' کا لفظ بتاتا ہے کہ یہ فرض کے علاوہ ہیں۔"
+              ],
+              "english": [
+                "The reward for praying 12 Sunnah Rak'ahs daily is a palace in Paradise.",
+                "This promise is consistent; regular observance leads to greater rewards.",
+                "The word 'voluntarily' in Muslim confirms these are non-obligatory."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بارہ رکعتوں کی تفصیل",
+              "english": "Detail of the 12 Rak'ahs"
+            },
+            "content": {
+              "urdu": [
+                "ترمذی کی روایت نے ان 12 رکعتوں کا وقت متعین کر دیا۔",
+                "2 فجر سے پہلے، 4 ظہر سے پہلے، 2 ظہر کے بعد، 2 مغرب کے بعد، 2 عشاء کے بعد۔",
+                "یہی وہ سنن مؤکدہ ہیں جن کا نبی ﷺ ہمیشہ اہتمام فرماتے تھے۔"
+              ],
+              "english": [
+                "Tirmidhi's narration specifies the timing of these 12 Rak'ahs.",
+                "2 before Fajr, 4 before Zuhr, 2 after Zuhr, 2 after Maghrib, 2 after Isha.",
+                "These are the Sunnah Mu'akkadah that the Prophet (ﷺ) strictly observed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ظہر کی خصوصی فضیلت",
+        "english": "Special Virtue of Zuhr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جہنم سے آزادی",
+              "english": "Protection from Hellfire"
+            },
+            "content": {
+              "urdu": [
+                "دوسری روایت میں ظہر کے بعد بھی 4 رکعت پڑھنے کی فضیلت ہے۔",
+                "جو ظہر سے پہلے 4 اور بعد میں 4 پڑھے گا، اس پر آگ حرام ہوگی۔",
+                "اس کا مطلب ہے کہ مؤکدہ 2 رکعتوں کے ساتھ 2 مزید نفل ملا لیے جائیں۔"
+              ],
+              "english": [
+                "Another narration highlights the virtue of praying 4 Rak'ahs after Zuhr too.",
+                "Whoever prays 4 before and 4 after Zuhr, the Fire is forbidden for them.",
+                "This implies adding 2 voluntary Rak'ahs to the 2 Mu'akkadah ones."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عمل کی پابندی",
+              "english": "Consistency in Action"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'حافظ' (حفاظت کی) کا لفظ استعمال ہوا ہے۔",
+                "یعنی کبھی کبھار نہیں بلکہ ہمیشہ ان نمازوں کا اہتمام کرنا شرط ہے۔",
+                "اللہ تعالیٰ مستقل مزاجی کو پسند فرماتا ہے۔"
+              ],
+              "english": [
+                "The Hadith uses the word 'Hafiza' (preserved/guarded).",
+                "This means consistent observance is a condition, not just occasional practice.",
+                "Allah loves consistency in deeds."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی",
+        "english": "Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فرائض کا حصار",
+              "english": "Fortress for Obligatory Prayers"
+            },
+            "content": {
+              "urdu": [
+                "سنن و نوافل فرائض کے لیے قلعے کی حیثیت رکھتے ہیں۔",
+                "یہ انسان کو غفلت سے بچاتے ہیں اور نماز میں خشوع پیدا کرتے ہیں۔",
+                "قیامت کے دن یہ فرائض کی کمی کو پورا کریں گے۔"
+              ],
+              "english": [
+                "Sunnah and Nawafil act as a fortress for obligatory prayers.",
+                "They save a person from negligence and increase concentration.",
+                "On Judgment Day, they will compensate for deficiencies in obligatory prayers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آسان سودا",
+              "english": "An Easy Deal"
+            },
+            "content": {
+              "urdu": [
+                "روزانہ صرف چند منٹ کی اضافی عبادت سے جنت کا گھر مل رہا ہے۔",
+                "یہ اللہ تعالیٰ کا اپنے بندوں پر بہت بڑا فضل ہے۔",
+                "سمجھدار انسان اس نفع بخش سودے کو ہاتھ سے نہیں جانے دیتا۔"
+              ],
+              "english": [
+                "A house in Paradise is gained by just a few minutes of extra worship daily.",
+                "This is a massive favor from Allah upon His servants.",
+                "A wise person does not let this profitable deal slip away."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی پہلو",
+        "english": "Educational Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امہات المؤمنین کا کردار",
+              "english": "Role of Mothers of Believers"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ ام حبیبہؓ نے یہ حدیث بیان کر کے امت پر احسان کیا۔",
+                "انہوں نے خود بھی اس پر عمل کیا اور دوسروں کو بھی ترغیب دی۔",
+                "خواتین کو چاہیے کہ وہ بھی سنتوں کا اہتمام کریں۔"
+              ],
+              "english": [
+                "Umm Habibah (RA) favored the Ummah by narrating this Hadith.",
+                "She practiced it herself and encouraged others.",
+                "Women should also strictly observe these Sunnahs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفل کی اقسام",
+              "english": "Types of Voluntary Prayers"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے سنن مؤکدہ اور غیر مؤکدہ کا فرق واضح ہوتا ہے۔",
+                "12 رکعتیں مؤکدہ ہیں، جبکہ ظہر کے بعد اضافی 2 غیر مؤکدہ ہیں۔",
+                "دونوں کا اجر بہت بڑا ہے۔"
+              ],
+              "english": [
+                "This Hadith clarifies the difference between Sunnah Mu'akkadah and Ghair Mu'akkadah.",
+                "The 12 Rak'ahs are Mu'akkadah, while the extra 2 after Zuhr are non-Mu'akkadah.",
+                "Both carry immense reward."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

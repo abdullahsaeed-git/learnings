@@ -1,0 +1,259 @@
+{
+  "hadithId": 383,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-383"],
+    "kitabId": 2,
+    "inKitabBab": 13,
+    "arabicBook": "بلوغ المرام",
+    "babId": 23
+  },
+ 
+  "takhreej": {
+    "arabic": "منكر بهذا اللفظ.‏ رواه البزار (678 كشف) وإسناده ضعيف جداً لأن فيه جابر الجعفي وهو متروك، والحديث الصحيح عن ابن عمر في الصحيحين يخالف هذا اللفظ.",
+    "urdu": "یہ روایت اس لفظ کے ساتھ منکر اور ضعیف ہے۔ اسے بزار (678) نے روایت کیا ہے، اس کی سند میں جابر الجعفی ہے جو کہ متروک راوی ہے۔ صحیحین میں ابن عمر سے اس کے برعکس صحیح روایت موجود ہے۔",
+    "english": "Munkar (Rejected) with this wording. Reported by Al-Bazzar (678). Its chain is very weak because it includes Jabir al-Ju'fi, who is abandoned (Matruk). Authentic narrations from Ibn Umar in Bukhari and Muslim contradict this wording."
+  },
+  "importantWords": [
+    {
+      "arabic": "صَلَاةُ اَلْخَوْفِ",
+      "english": "Fear Prayer",
+      "urdu": "نماز خوف"
+    },
+    {
+      "arabic": "رَكْعَةٌ",
+      "english": "One Rak'a",
+      "urdu": "ایک رکعت"
+    },
+    {
+      "arabic": "أَيِّ وَجْهٍ",
+      "english": "Any way / Any direction",
+      "urdu": "جس طرح بھی / جس رخ بھی"
+    },
+    {
+      "arabic": "ضَعِيفٍ",
+      "english": "Weak",
+      "urdu": "کمزور / ضعیف"
+    },
+    {
+      "arabic": "إِسْنَادٍ",
+      "english": "Chain of narrators",
+      "urdu": "سند"
+    }
+  ],
+  "summary": {
+    "urdu": "اس روایت میں بیان کیا گیا ہے کہ خوف کی حالت میں نماز صرف ایک رکعت ہے، تاہم یہ روایت سند کے لحاظ سے ضعیف ہے۔",
+    "english": "This narration suggests that the Fear Prayer consists of only one rak'a regardless of the form, but the narration is weak in its chain."
+  },
+  "references": [
+    {
+      "arabic": "مسند البزار (678)",
+      "english": "Musnad al-Bazzar (678)"
+    },
+    {
+      "arabic": "مجمع الزوائد (2/239)",
+      "english": "Majma' al-Zawa'id (2/239)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=salat+al+khawf+rules+weak+hadith",
+  "grade": {
+    "arabic": "ضعيف جداً / منكر",
+    "english": "Very Weak / Rejected"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روایت کی علمی حیثیت",
+        "english": "Academic Status of the Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کی کمزوری",
+              "english": "Weakness of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "امام بزار نے خود اس روایت کی سند کو ضعیف قرار دیا ہے۔",
+                "اس کی سند میں جابر بن یزید الجعفی ہے جسے اکثر محدثین نے متروک کہا ہے۔",
+                "ضعیف روایت سے شرعی مسائل میں قطعی استدلال نہیں کیا جاتا۔"
+              ],
+              "english": [
+                "Imam Al-Bazzar himself declared the chain of this narration weak.",
+                "The chain contains Jabir bin Yazid al-Ju'fi, whom most scholars rejected.",
+                "Weak narrations are not used for definitive rulings in Islamic law."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحیح روایات سے تعارض",
+              "english": "Contradiction with Sahih Reports"
+            },
+            "content": {
+              "urdu": [
+                "یہ روایت ابن عمر رضی اللہ عنہ کی صحیح روایات کے خلاف ہے۔",
+                "صحیحین کی روایات میں نماز خوف کی رکعات کی تفصیل مختلف ہے۔",
+                "محدثین کے نزدیک 'منکر' وہ روایت ہے جو ثقہ راویوں کے خلاف ہو۔"
+              ],
+              "english": [
+                "This report contradicts authentic narrations from Ibn Umar.",
+                "Authentic reports in Bukhari/Muslim detail different rak'a counts.",
+                "Scholars define 'Munkar' as a weak report that opposes reliable ones."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نماز خوف میں رکعات",
+        "english": "Rak'as in Fear Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف فقہی آراء",
+              "english": "Various Juristic Opinions"
+            },
+            "content": {
+              "urdu": [
+                "بعض فقہاء کے نزدیک انتہائی خوف میں ایک رکعت جائز ہے۔",
+                "اکثر فقہاء کے نزدیک نماز اپنی اصل رکعات پر ہی رہتی ہے۔",
+                "صرف طریقہ کار میں تبدیلی آتی ہے تاکہ دشمن سے بچا جا سکے۔"
+              ],
+              "english": [
+                "Some jurists allow one rak'a during extreme levels of fear.",
+                "The majority of jurists maintain that the rak'a count remains standard.",
+                "Only the methodology changes to ensure safety from the enemy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفر اور حضر کا فرق",
+              "english": "Difference between Travel and Residence"
+            },
+            "content": {
+              "urdu": [
+                "سفر میں نماز پہلے ہی قصر (دو رکعت) ہوتی ہے۔",
+                "خوف کی حالت میں اسی قصر نماز کو بانٹ کر پڑھا جاتا ہے۔",
+                "حالتِ امن میں نماز کو اس کی مکمل حالت میں پڑھنا فرض ہے۔"
+              ],
+              "english": [
+                "In travel, prayer is already shortened to two rak'as (Qasr).",
+                "During fear, this shortened prayer is divided among groups.",
+                "In times of peace, performing the full prayer is obligatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شدید خوف کی کیفیت",
+        "english": "Conditions of Extreme Fear"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اشارے سے نماز",
+              "english": "Prayer by Gestures"
+            },
+            "content": {
+              "urdu": [
+                "اگر جنگ اتنی شدید ہو کہ رکوع و سجود ممکن نہ ہو تو اشارہ کافی ہے۔",
+                "اس حالت میں قبلہ رخ ہونا بھی ضروری نہیں رہتا۔",
+                "یہ دین اسلام کی طرف سے دی گئی ایک عظیم رخصت ہے۔"
+              ],
+              "english": [
+                "If combat is so intense that bowing/prostrating is impossible, gestures suffice.",
+                "In this state, facing the Qibla is no longer a requirement.",
+                "This is a great concession provided by the religion of Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کا تحفظ",
+              "english": "Preservation of Prayer"
+            },
+            "content": {
+              "urdu": [
+                "میدانِ جنگ میں بھی نماز کو چھوڑنے کا کوئی تصور نہیں ہے۔",
+                "یہ عمل مسلمان کے اللہ کے ساتھ مضبوط تعلق کو ظاہر کرتا ہے۔",
+                "دشمن کے سامنے بھی بندگی کا سر جھکانا مومن کا شیوہ ہے۔"
+              ],
+              "english": [
+                "There is no concept of abandoning prayer even on the battlefield.",
+                "This act demonstrates the believer's strong bond with Allah.",
+                "Bowing to Allah even before the enemy is the trait of a believer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اصولِ حدیث کا سبق",
+        "english": "Lesson in Hadith Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تحقیق کی اہمیت",
+              "english": "Importance of Verification"
+            },
+            "content": {
+              "urdu": [
+                "ہر منسوب بات کو رسول اللہ ﷺ کا قول تسلیم نہیں کرنا چاہیے۔",
+                "محدثین نے روایات کو جانچنے کے لیے سخت اصول وضع کیے ہیں۔",
+                "صحیح اور ضعیف کا فرق جاننا ہر طالب علم کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "Not every attributed statement should be accepted as the Prophet's word.",
+                "Hadith scholars established strict rules to verify narrations.",
+                "Distinguishing between Sahih and Da'if is essential for every student."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی استدلال",
+              "english": "Legal Deduction"
+            },
+            "content": {
+              "urdu": [
+                "فقہی مسائل میں ہمیشہ صحیح اور مستند احادیث کو ترجیح دیں۔",
+                "ضعیف حدیث صرف فضائل میں بعض شرائط کے ساتھ قبول ہوتی ہے۔",
+                "احکامِ شرعیہ کے لیے مضبوط اور صحیح بنیاد کا ہونا لازم ہے۔"
+              ],
+              "english": [
+                "Always prioritize authentic and reliable Hadiths in legal matters.",
+                "Weak Hadiths are only accepted in virtues under specific conditions.",
+                "A strong and authentic foundation is necessary for Sharia rulings."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

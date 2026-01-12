@@ -1,0 +1,266 @@
+{
+  "hadithId": 724,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/7/45"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام",
+    "babId": 46
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف مرفوعاً وصحيح مرسلاً. رواه الدارقطني (3/33)، والحاكم (2/51) مرفوعاً. ورواه مرسلاً أبو داود في المراسيل (187) وهو الصواب.",
+    "urdu": "یہ روایت مرفوعاً ضعیف ہے لیکن مرسل طور پر صحیح ہے۔ امام دارقطنی اور حاکم نے اسے مرفوع بیان کیا ہے، جبکہ امام ابوداؤد نے اسے مرسل روایت کیا ہے جو کہ زیادہ درست ہے۔",
+    "english": "Weak as a Marfu' (connected to the Prophet) narration but Sahih as a Mursal (missing the Sahabi) narration. Reported by ad-Daraqutni and al-Hakim."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَغْلَقُ",
+      "english": "Is not locked / closed",
+      "urdu": "بند نہیں کی جائے گی"
+    },
+    {
+      "arabic": "اَلرَّهْنُ",
+      "english": "The Pledge / Mortgage",
+      "urdu": "گروی شدہ چیز"
+    },
+    {
+      "arabic": "غُنْمُهُ",
+      "english": "Its benefit / gain",
+      "urdu": "اس کا فائدہ / منافع"
+    },
+    {
+      "arabic": "غُرْمُهُ",
+      "english": "Its liability / loss",
+      "urdu": "اس کا تاوان / نقصان"
+    },
+    {
+      "arabic": "رَهَنَهُ",
+      "english": "Pledged it",
+      "urdu": "اسے گروی رکھا"
+    },
+    {
+      "arabic": "صَاحِبِهِ",
+      "english": "Its owner",
+      "urdu": "اس کا مالک"
+    }
+  ],
+  "summary": {
+    "urdu": "حدیث کا خلاصہ یہ ہے کہ گروی رکھی ہوئی چیز کی ملکیت مالک ہی کی رہتی ہے۔ اس سے حاصل ہونے والا منافع مالک کا ہے اور اس کے اخراجات یا نقصان بھی مالک کے ذمے ہیں۔",
+    "english": "The Hadith summarizes that the ownership of a pledged item remains with the debtor. All benefits arising from it belong to the owner, and all maintenance costs or losses are his responsibility."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني (3/33)",
+      "english": "Reported by ad-Daraqutni (3/33)"
+    },
+    {
+      "arabic": "رواه الحاكم (2/51)",
+      "english": "Reported by al-Hakim (2/51)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2uXo1V7ksw",
+  "grade": {
+    "arabic": "حسن لغيره (مرسل صحيح)",
+    "english": "Hasan Lighairihi (Authentic Mursal)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ملکیت کا تحفظ",
+        "english": "Protection of Ownership"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گروی چیز کی ملکیت",
+              "english": "Ownership of Pledged Property"
+            },
+            "content": {
+              "urdu": [
+                "گروی رکھی ہوئی چیز قرض خواہ کی ملکیت نہیں بن جاتی۔",
+                "مالک کا حقِ ملکیت قرض کی ادائیگی تک برقرار رہتا ہے۔",
+                "قرض خواہ اسے اپنی مرضی سے فروخت یا ضائع نہیں کر سکتا۔"
+              ],
+              "english": [
+                "The pledged item does not become the property of the creditor.",
+                "The owner's right of ownership remains valid until the debt is paid.",
+                "The creditor cannot sell or dispose of it at his own will."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لا يغلق کا مفہوم",
+              "english": "Meaning of 'Not Locked'"
+            },
+            "content": {
+              "urdu": [
+                "اس کا مطلب ہے کہ وقت گزرنے پر چیز ضبط نہیں ہوگی۔",
+                "جاہلیت میں وقت پر قرض نہ دینے پر چیز ہتھیا لی جاتی تھی۔",
+                "اسلام نے اس ظالمانہ رسم کا خاتمہ کر کے انصاف قائم کیا۔"
+              ],
+              "english": [
+                "It means the item cannot be permanently confiscated if payment is late.",
+                "In pre-Islamic times, pledged items were seized if debts weren't paid on time.",
+                "Islam abolished this oppressive custom to establish financial justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "منافع اور اخراجات",
+        "english": "Benefits and Maintenance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فائدے کا مالک کون؟",
+              "english": "Who Owns the Benefits?"
+            },
+            "content": {
+              "urdu": [
+                "گروی چیز سے حاصل ہونے والا بچہ یا پھل مالک کا ہے۔",
+                "قرض خواہ اس کے منافع سے فائدہ اٹھانے کا حقدار نہیں۔",
+                "یہ اصول مالیاتی معاملات میں سود اور استحصال کو روکتا ہے۔"
+              ],
+              "english": [
+                "Any offspring or fruit produced by the pledged item belongs to the owner.",
+                "The creditor has no right to enjoy the profits of the pledged item.",
+                "This principle prevents usury and exploitation in financial dealings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخراجات کی ذمہ داری",
+              "english": "Responsibility for Costs"
+            },
+            "content": {
+              "urdu": [
+                "جانور کا چارہ یا مکان کی مرمت مالک کے ذمے ہے۔",
+                "اگر چیز قدرتی طور پر ہلاک ہو جائے تو نقصان مالک کا ہے۔",
+                "قرض خواہ صرف اس صورت میں ذمہ دار ہے اگر اس نے کوتاہی کی۔"
+              ],
+              "english": [
+                "Maintenance costs like animal feed or house repairs are the owner's duty.",
+                "If the item is destroyed naturally, the loss is borne by the owner.",
+                "The creditor is only liable if the damage resulted from his negligence."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی نظامِ عدل",
+        "english": "Islamic Judicial System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استحصال کا خاتمہ",
+              "english": "Ending Exploitation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام قرض دار کو مجبور پا کر اس کا مال چھیننے سے روکتا ہے۔",
+                "قرض کی وصولی کے لیے صرف جائز قانونی راستہ اختیار کیا جائے۔",
+                "یہ حدیث کمزور طبقات کے معاشی حقوق کا تحفظ فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "Islam prevents seizing property by exploiting a debtor's helplessness.",
+                "Only legitimate legal paths should be taken to recover a debt.",
+                "This Hadith provides economic protection for vulnerable classes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی اعتماد",
+              "english": "Mutual Trust"
+            },
+            "content": {
+              "urdu": [
+                "رہن کا مقصد صرف قرض کی واپسی کی یقین دہانی ہے۔",
+                "فریقین کے حقوق واضح ہونے سے معاشرتی جھگڑے ختم ہوتے ہیں۔",
+                "معاہدے کی شفافیت اسلامی معیشت کی بنیادی روح ہے۔"
+              ],
+              "english": [
+                "The sole purpose of a pledge is to guarantee debt repayment.",
+                "Clarifying the rights of both parties eliminates social disputes.",
+                "Transparency in contracts is the fundamental spirit of Islamic economics."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرسل روایت کی حجیت",
+              "english": "Authority of Mursal Narration"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ روایت مرسل ہے، مگر اس کا مفہوم متفق علیہ ہے۔",
+                "تمام فقہاء اس بات پر متفق ہیں کہ رہن مالک کا مال ہے۔",
+                "فقہ اسلامی میں اسے ایک مستند قاعدہ تسلیم کیا گیا ہے۔"
+              ],
+              "english": [
+                "Although this is a Mursal narration, its meaning is unanimously accepted.",
+                "All jurists agree that a pledged item remains the owner's property.",
+                "It is recognized as an authentic rule in Islamic jurisprudence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرض خواہ کا حق",
+              "english": "Right of the Creditor"
+            },
+            "content": {
+              "urdu": [
+                "قرض خواہ کا حق صرف یہ ہے کہ وہ چیز کو اپنے پاس محفوظ رکھے۔",
+                "اگر مالک قرض نہ دے سکے تو عدالت کے ذریعے فروخت کرایا جائے۔",
+                "فروخت کے بعد زائد رقم مالک کو واپس کی جائے گی۔"
+              ],
+              "english": [
+                "The creditor's only right is to keep the item as security.",
+                "If the owner cannot pay, the item should be sold via legal channels.",
+                "Any surplus amount after the sale must be returned to the owner."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

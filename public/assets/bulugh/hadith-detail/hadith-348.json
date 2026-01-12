@@ -1,0 +1,145 @@
+{
+  "hadithId": 348,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/208"],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "كتاب الصلاة - باب صلاة المسافر والمريض",
+    "babId": 21
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (706).",
+    "urdu": "صحیح۔ اسے امام مسلم نے اپنی صحیح (706) میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (706)."
+  },
+  "importantWords": [
+    {
+      "arabic": "جَمِيعًا",
+      "english": "Together / Combined",
+      "urdu": "اکٹھی / ملا کر"
+    },
+    {
+      "arabic": "غَزْوَةِ تَبُوكَ",
+      "english": "Expedition of Tabuk",
+      "urdu": "غزوہ تبوک"
+    },
+    {
+      "arabic": "يُحْرِجَ",
+      "english": "To put in hardship",
+      "urdu": "تنگی میں ڈالنا"
+    }
+  ],
+  "summary": {
+    "urdu": "سفر کے دوران دو نمازوں کو ایک وقت میں جمع کر کے پڑھنا (ظہر کے ساتھ عصر اور مغرب کے ساتھ عشاء) سنتِ نبوی سے ثابت ہے۔ یہ اللہ کی طرف سے مسافروں کے لیے ایک بڑی سہولت ہے۔",
+    "english": "Combining two prayers at one time (Zuhr with Asr and Maghrib with Isha) during travel is established from the Sunnah. This is a significant ease granted by Allah for travelers."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب صلاة المسافرين وقصرها، رقم 706",
+      "english": "Sahih Muslim, The Book of Prayer - Travelers, No. 706"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معاذ بن جبل",
+        "english": "Mu'adh bin Jabal"
+      },
+      "slug": "muadh-bin-jabal"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جمع بین الصلاتین کا مفہوم",
+        "english": "Meaning of Combining Prayers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمعِ تقدیم اور جمعِ تاخیر",
+              "english": "Jam' Taqdim and Jam' Takhir"
+            },
+            "content": {
+              "urdu": [
+                "سفر میں ظہر اور عصر کو ایک ساتھ، اور مغرب اور عشاء کو ایک ساتھ پڑھنا جائز ہے۔",
+                "اگر پہلے وقت میں دوسری نماز پڑھ لی جائے تو اسے 'جمعِ تقدیم' کہتے ہیں، اور اگر دوسری کے وقت میں پہلی پڑھی جائے تو اسے 'جمعِ تاخیر' کہتے ہیں۔",
+                "نبی ﷺ ضرورت کے مطابق دونوں طرح سے جمع فرماتے تھے تاکہ سفر میں آسانی ہو۔"
+              ],
+              "english": [
+                "During travel, it is permissible to combine Zuhr with Asr and Maghrib with Isha.",
+                "If the second prayer is offered in the time of the first, it is 'Jam' Taqdim'; if the first is offered in the time of the second, it is 'Jam' Takhir'.",
+                "The Prophet (ﷺ) practiced both depending on the need to facilitate travel."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جمع کرنے کی حکمت",
+        "english": "Wisdom Behind Combining"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امت سے تنگی دور کرنا",
+              "english": "Removing Hardship from the Ummah"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی دوسری روایت میں آتا ہے کہ آپ ﷺ نے ایسا اس لیے کیا تاکہ 'امت تنگی میں نہ پڑ جائے'۔",
+                "سفر میں بار بار رکنا، وضو کرنا اور سواری سے اترنا مشکل ہوتا ہے، اس لیے دو نمازوں کو ملا لینا رحمت ہے۔",
+                "یہ رخصت صرف ان نمازوں کے لیے ہے جن کا وقت ایک دوسرے کے قریب ہے (فجر کسی کے ساتھ جمع نہیں ہوتی)۔"
+              ],
+              "english": [
+                "In another narration of Muslim, it is mentioned that he did this so 'his Ummah would not be put in hardship'.",
+                "Stopping repeatedly, performing Wudu, and dismounting during travel is difficult, so combining is a mercy.",
+                "This concession applies only to prayers with adjacent times (Fajr cannot be combined)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی موقف",
+        "english": "Legal Perspectives"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ائمہ کے مذاہب",
+              "english": "Opinions of the Imams"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی، مالک اور احمد بن حنبل کے نزدیک سفر میں 'جمعِ حقیقی' (دو نمازیں ایک ہی وقت میں) جائز ہے۔",
+                "احناف کے نزدیک صرف عرفات اور مزدلفہ میں جمع کرنا جائز ہے، باقی جگہوں پر وہ 'جمعِ صوری' (ایک کو آخری وقت اور دوسری کو اول وقت میں پڑھنا) کے قائل ہیں۔",
+                "صحیح احادیث کے مطابق دورانِ سفر ضرورت پڑنے پر جمع کرنا سنتِ ثابتہ ہے۔"
+              ],
+              "english": [
+                "Imams Shafi'i, Malik, and Ahmad allow 'Jam' Haqiqi' (actual combining in one time) during travel.",
+                "The Hanafis only allow it in Arafat and Muzdalifah; elsewhere they suggest 'Jam' Suri' (praying the first at its end and the second at its start).",
+                "According to authentic Hadiths, combining when needed during travel is a confirmed Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

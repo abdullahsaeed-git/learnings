@@ -1,0 +1,264 @@
+{
+  "hadithId": 1020,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1170"],
+    "kitabId": 9,
+    "inKitabBab": 3,
+    "arabicBook": "بلوغ المرام",
+    "babId": 81
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (7192)‏، ومسلم (1669)‏ كلاهما من طريق يحيى بن سعيد عن بشير بن يسار عن سهل بن أبي حثمة.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (7192) و مسلم (1669) میں موجود ہے، جو کہ قسامہ کے باب میں اصل بنیاد مانی جاتی ہے۔",
+    "english": "Sahih (Authentic). Reported by al-Bukhari (7192) and Muslim (1669), both through the chain of Bashir bin Yasar from Sahl bin Abi Hathma."
+  },
+  "importantWords": [
+    {
+      "arabic": "كَبِّرْ",
+      "english": "Prioritize the elderly",
+      "urdu": "بڑے کو موقع دو"
+    },
+    {
+      "arabic": "يَدُوا",
+      "english": "Pay the blood-money",
+      "urdu": "دیت ادا کریں"
+    },
+    {
+      "arabic": "أَتَحْلِفُونَ",
+      "english": "Will you take an oath?",
+      "urdu": "کیا تم قسم کھاتے ہو؟"
+    },
+    {
+      "arabic": "قَسَامَة",
+      "english": "Collective swearing",
+      "urdu": "قسامہ / پچاس قسمیں"
+    },
+    {
+      "arabic": "وَدَاهُ",
+      "english": "Paid his Diyat",
+      "urdu": "اس کی دیت ادا کی"
+    },
+    {
+      "arabic": "نَاقَةٍ",
+      "english": "She-camel",
+      "urdu": "اونٹنی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث قانونِ قسامہ کی اصل ہے، جس میں یہ سکھایا گیا ہے کہ اگر قاتل معلوم نہ ہو مگر دشمنی والے مقام پر لاش ملے تو دیت اور قسموں کا کیا طریقہ کار ہوگا۔",
+    "english": "This Hadith is the fundamental basis for the law of Qasamah, outlining the procedure for oaths and Diyat when a body is found in a hostile area but the killer is unknown."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6769)",
+      "english": "Sahih al-Bukhari (6769)"
+    },
+    {
+      "arabic": "صحيح مسلم (1669)",
+      "english": "Sahih Muslim (1669)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سهل بن أبي حثمة",
+        "english": "Sahl bin Abi Hathma"
+      },
+      "slug": "sahl-bin-abi-hathma"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=NOn63lM9X28",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قسامہ کا شرعی تصور",
+        "english": "Concept of Qasamah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسامہ کی تعریف",
+              "english": "Definition of Qasamah"
+            },
+            "content": {
+              "urdu": [
+                "جب کسی ایسی جگہ لاش ملے جہاں دشمنی ہو اور قاتل کا علم نہ ہو تو وہاں پچاس قسمیں کھلائی جاتی ہیں۔",
+                "اس میں مقتول کے وارثوں کو موقع دیا جاتا ہے کہ وہ قسم کھا کر اپنا دعویٰ ثابت کریں۔",
+                "یہ قانون خون کو رائیگاں جانے سے بچانے کے لیے وضع کیا گیا ہے۔"
+              ],
+              "english": [
+                "When a body is found in a hostile area and the killer is unknown, fifty oaths are administered.",
+                "The victim's heirs are given the opportunity to establish their claim through these oaths.",
+                "This law is enacted to prevent human blood from being shed in vain without compensation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبوی ﷺ کا عدل و احسان",
+                "english": "Prophetic Justice and Excellence"
+            },
+            "content": {
+              "urdu": [
+                "جب مدعیوں نے قسم کھانے سے انکار کیا تو آپ ﷺ نے زبردستی فیصلہ نہیں تھوپا۔",
+                "آپ ﷺ نے یہودیوں کے انکار پر مسلمانوں کے جذبات کا بھی لحاظ رکھا۔",
+                "آخر میں فتنہ دبانے کے لیے آپ ﷺ نے بیت المال سے خود دیت ادا فرما دی۔"
+              ],
+              "english": [
+                "When the claimants refused to take oaths, the Prophet (ﷺ) did not force a verdict.",
+                "He respected the Muslims' refusal to accept the oaths of the non-Muslim party.",
+                "Ultimately, to quench the potential strife, he paid the Diyat from the public treasury."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ادب اور انتظامی اصول",
+        "english": "Etiquettes and Administrative Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کبّر کبّر کا مفہوم",
+              "english": "The Command to Defer to Elders"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ گفتگو کا آغاز بڑا کرے، یہ معاشرتی ادب کی تعلیم ہے۔",
+                "مجلس میں بڑوں کا احترام اور ان کی رائے کو مقدم رکھنا اسلامی تہذیب ہے۔",
+                "اس سے نظم و ضبط پیدا ہوتا ہے اور انتشار سے بچا جا سکتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) instructed the eldest to speak first, teaching social etiquette.",
+                "Respecting elders and prioritizing their views in a gathering is a core Islamic value.",
+                "This practice instills discipline and prevents chaos during discussions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ریاست کی ذمہ داری",
+              "english": "Responsibility of the State"
+            },
+            "content": {
+              "urdu": [
+                "اگر مقتول کا قاتل نہ ملے تو اس کے خون بہا کی ذمہ داری اسلامی ریاست پر آتی ہے۔",
+                "بیت المال کا ایک مقصد مظلوموں کی دادرسی اور سماجی امن کا قیام ہے۔",
+                "نبی ﷺ کا یہ عمل حکمرانوں کے لیے ایک بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "If a killer remains unknown, the responsibility for blood-money falls upon the Islamic state.",
+                "One purpose of the state treasury is to aid the oppressed and maintain social peace.",
+                "This action of the Prophet (ﷺ) serves as a perfect model for future rulers."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسموں کی اہمیت",
+              "english": "Significance of Oaths"
+            },
+            "content": {
+              "urdu": [
+                "قسم کھانا اللہ کو گواہ بنانا ہے، اس لیے صحابہ نے بغیر یقین کے قسم سے انکار کیا۔",
+                "یہ تقویٰ کی علامت ہے کہ مالی فائدے کے لیے اللہ کے نام کا غلط استعمال نہ کیا جائے۔",
+                "قسامہ میں قسم مدعی اور مدعا علیہ دونوں کی طرف سے ہو سکتی ہے۔"
+              ],
+              "english": [
+                "Taking an oath is making Allah a witness; hence, the Sahaba refused without certainty.",
+                "It is a sign of piety not to misuse Allah's name for financial gain.",
+                "In Qasamah, oaths can be administered to both the claimant and the defendant depending on the situation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خیبر کا پس منظر",
+              "english": "Context of Khaybar"
+            },
+            "content": {
+              "urdu": [
+                "خیبر یہودیوں کا مرکز تھا جہاں مسلمانوں کے ساتھ شدید مخاصمت تھی۔",
+                "ایسی جگہ قتل ہونے پر شک قوی ہوتا ہے، اسی لیے قسامہ کی نوبت آئی۔",
+                "یہ حدیث بین المذاہب تنازعات کے حل کا طریقہ بھی بتاتی ہے۔"
+              ],
+              "english": [
+                "Khaybar was a Jewish stronghold with intense hostility towards Muslims.",
+                "A killing in such a location creates strong suspicion, leading to the use of Qasamah.",
+                "This Hadith also demonstrates the methodology for resolving interfaith conflicts."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدل اور صلح",
+              "english": "Justice and Reconciliation"
+            },
+            "content": {
+              "urdu": [
+                "حاکم کو چاہیے کہ وہ فریقین کے درمیان صلح کی ہر ممکن کوشش کرے۔",
+                "حقوق العباد کی ادائیگی میں کوتاہی نہیں ہونی چاہیے چاہے ریاست کو بوجھ اٹھانا پڑے۔",
+                "انتقام کے بجائے امن کو ترجیح دینا ہی اسلامی روح ہے۔"
+              ],
+              "english": [
+                "A ruler must make every effort to facilitate reconciliation between parties.",
+                "There should be no negligence in fulfilling the rights of people, even if the state bears the cost.",
+                "Prioritizing peace over vengeance is the true essence of the Islamic spirit."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بڑوں کا ادب",
+              "english": "Respect for Seniority"
+            },
+            "content": {
+              "urdu": [
+                "اپنی گفتگو اور مجالس میں بزرگوں کو ترجیح دینا سنت ہے۔",
+                "جوانوں کو چاہیے کہ وہ بڑوں کی موجودگی میں ان کے ادب کا لحاظ رکھیں۔",
+                "برکت ہمیشہ بڑوں کے ساتھ رہنے میں ہے۔"
+              ],
+              "english": [
+                "It is a Sunnah to give priority to elders in conversations and gatherings.",
+                "Youth should maintain proper etiquette and deference in the presence of their seniors.",
+                "Blessings are always found in the company of the elderly."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

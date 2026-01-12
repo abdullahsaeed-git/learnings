@@ -1,0 +1,259 @@
+{
+  "hadithId": 565,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/565"],
+    "kitabId": 5,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 34
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف. رواه النسائي في الكبرى (2776)، وابن خزيمة (2167)، وأحمد (26750). وفي سنده عبد الله بن محمد بن عمر بن علي وهو ضعيف، ومولى لأم سلمة مجهول.",
+    "urdu": "ضعیف۔ اسے نسائی، ابن خزیمہ اور احمد نے روایت کیا ہے۔ اس کی سند میں عبداللہ بن محمد بن عمر بن علی ضعیف ہیں اور ام سلمہ کے ایک مولیٰ (غلام) مجہول ہیں، اس لیے البانی نے اسے ضعیف قرار دیا ہے۔",
+    "english": "Da'if (Weak). Reported by An-Nasa'i, Ibn Khuzaimah, and Ahmad. The chain contains Abdullah bin Muhammad who is weak, and an anonymous freed slave of Umm Salamah."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَكْثَرَ",
+      "english": "Most / Frequently",
+      "urdu": "اکثر / زیادہ"
+    },
+    {
+      "arabic": "السَّبْتِ",
+      "english": "Saturday",
+      "urdu": "ہفتہ"
+    },
+    {
+      "arabic": "الْأَحَدِ",
+      "english": "Sunday",
+      "urdu": "اتوار"
+    },
+    {
+      "arabic": "أُخَالِفَهُمْ",
+      "english": "Differ from them",
+      "urdu": "ان کی مخالفت کروں"
+    },
+    {
+      "arabic": "الْمُشْرِكِينَ",
+      "english": "The Polytheists",
+      "urdu": "مشرکین"
+    }
+  ],
+  "summary": {
+    "urdu": "اس روایت میں مشرکین کی مخالفت کی غرض سے ہفتہ اور اتوار کے روزے کی ترغیب دی گئی ہے، تاکہ ان کی عید کے دنوں کو عبادت سے ممتاز کیا جا سکے۔",
+    "english": "This narration encourages fasting on Saturdays and Sundays to differ from the polytheists and distinguish their festive days with worship."
+  },
+  "references": [
+    {
+      "arabic": "رواه النسائي (2776)",
+      "english": "Reported by An-Nasa'i (2776)"
+    },
+    {
+      "arabic": "رواه ابن خزيمة (2167)",
+      "english": "Reported by Ibn Khuzaimah (2167)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم سلمة هند بنت أبي أمية",
+        "english": "Umm Salamah Hind bint Abi Umayyah"
+      },
+      "slug": "umm-salamah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9_mK02-v6w",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مشرکین کی مخالفت کا اصول",
+        "english": "Principle of Differing from Polytheists"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مخالفت کی شرعی حیثیت",
+              "english": "Legal Status of Differing"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے کثرت سے مشرکین اور اہل کتاب کے شعار کی مخالفت کا حکم دیا۔",
+                "ہفتہ یہود کے لیے اور اتوار نصاریٰ کے لیے مقدس دن سمجھے جاتے تھے۔",
+                "ان دنوں میں روزہ رکھنا ان کی تعظیم کے برعکس اللہ کی بندگی کا اظہار ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) frequently commanded differing from the symbols of polytheists and People of the Book.",
+                "Saturday was sacred for Jews, and Sunday was sacred for Christians.",
+                "Fasting on these days expresses devotion to Allah rather than venerating their festivals."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت اور شناخت",
+              "english": "Worship and Identity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام مسلمانوں کو اپنی الگ پہچان اور تشخص برقرار رکھنے کی تعلیم دیتا ہے۔",
+                "دوسری قوموں کے تہواروں پر ان کی مشابہت اختیار کرنا ناپسندیدہ ہے۔",
+                "یہ روایت ضعیف ہونے کے باوجود 'مخالفتِ مشرکین' کے عمومی اصول کی تائید کرتی ہے۔"
+              ],
+              "english": [
+                "Islam teaches Muslims to maintain their distinct identity and characteristics.",
+                "Imitating other nations during their festivals is highly discouraged.",
+                "Despite being weak, this narration aligns with the general principle of differing from polytheists."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ہفتے کے روزے کا فقہی مسئلہ",
+        "english": "Juristic Issue of Saturday Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تنہا ہفتے کا روزہ",
+              "english": "Fasting Saturday Alone"
+            },
+            "content": {
+              "urdu": [
+                "ایک اور صحیح حدیث میں تنہا ہفتے کے دن روزہ رکھنے سے منع کیا گیا ہے۔",
+                "علماء کے نزدیک ممانعت اس وقت ہے جب اسے یہودی انداز میں مقدس مانا جائے۔",
+                "اگر اتوار کے ساتھ ملا کر رکھا جائے تو کراہت ختم ہو جاتی ہے۔"
+              ],
+              "english": [
+                "Another authentic Hadith forbids fasting on Saturday alone.",
+                "Scholars state prohibition applies if it's done to sanctify it in a Jewish manner.",
+                "The dislike is removed if it is joined with Sunday or Friday."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا عمل",
+              "english": "Practice of the Prophet ﷺ"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا اکثر ان دنوں میں روزہ رکھنا ان کی تعظیم کی نفی کرنا تھا۔",
+                "آپ ﷺ نے ان دنوں کو عید (خوشی) کے بجائے روزہ (عبادت) کے لیے چنا۔",
+                "یہ طرز عمل باطل معبودوں اور باطل نظریات کی نفی کا بہترین طریقہ ہے۔"
+              ],
+              "english": [
+                "The Prophet's frequent fasting on these days was to negate their veneration.",
+                "He chose fasting (worship) over celebration for these specific days.",
+                "This approach is an excellent way to negate false deities and ideologies."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی اسنادی حالت",
+        "english": "Critical State of the Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محدثین کی آراء",
+              "english": "Opinions of Scholars"
+            },
+            "content": {
+              "urdu": [
+                "امام ابن خزیمہ اور حاکم نے اسے صحیح کہا مگر متاخرین نے اس پر جرح کی ہے۔",
+                "علامہ البانی نے اس کی سند میں موجود راویوں کی جہالت کی بنا پر اسے ضعیف قرار دیا۔",
+                "ضعیف حدیث فضائل میں بیان کی جا سکتی ہے مگر احکام کے لیے مضبوط دلیل نہیں۔"
+              ],
+              "english": [
+                "Ibn Khuzaimah and Al-Hakim graded it Sahih, but later scholars criticized it.",
+                "Al-Albani graded it weak due to anonymous narrators in the chain.",
+                "Weak Hadiths can be mentioned for virtues but are not strong evidence for rulings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر روایات سے تضاد",
+              "english": "Conflict with Other Narrations"
+            },
+            "content": {
+              "urdu": [
+                "کچھ روایات میں پیر اور جمعرات کے روزے کو سب سے زیادہ اہمیت دی گئی ہے۔",
+                "اس روایت کے ضعیف ہونے کی ایک وجہ یہ بھی ہے کہ یہ مشہور مسنون روزوں کے خلاف لگتی ہے۔",
+                "تاہم، مخالفتِ مشرکین کا جذبہ بذاتِ خود ایک مستند قرآنی و نبوی اصول ہے۔"
+              ],
+              "english": [
+                "Some narrations give the highest importance to fasting on Mondays and Thursdays.",
+                "One reason for its weakness is that it seemingly conflicts with famous Sunnah fasts.",
+                "However, the spirit of differing from polytheists is a verified Quranic and Prophetic principle."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت",
+        "english": "Practical Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی غیرت",
+              "english": "Islamic Zeal"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو اپنے دین اور طریقوں پر فخر ہونا چاہیے۔",
+                "کفار کے طریقوں سے دوری اختیار کرنا روحانی ترقی کا ذریعہ ہے۔",
+                "روزہ رکھنا صرف بھوک پیاس نہیں بلکہ اللہ کی رضا کے لیے ایک خاموش احتجاج بھی ہو سکتا ہے۔"
+              ],
+              "english": [
+                "A Muslim should take pride in their religion and its distinct ways.",
+                "Distancing oneself from the ways of disbelievers facilitates spiritual growth.",
+                "Fasting is not just hunger; it can be a silent protest for the sake of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال اور علم",
+              "english": "Moderation and Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "عبادت کے معاملات میں ہمیشہ مستند احادیث کو ترجیح دینی چاہیے۔",
+                "اگر کوئی ہفتہ اور اتوار کا روزہ رکھنا چاہے تو اسے نفل کے طور پر رکھ سکتا ہے۔",
+                "دین میں غلو سے بچنے کے لیے سنت کے صحیح علم کی پیروی لازمی ہے۔"
+              ],
+              "english": [
+                "Authentic Hadiths should always be prioritized in matters of worship.",
+                "If one wishes to fast on Saturday and Sunday, they can do so as a voluntary act.",
+                "To avoid extremism in religion, following the correct knowledge of Sunnah is mandatory."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

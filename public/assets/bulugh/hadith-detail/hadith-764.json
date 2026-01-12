@@ -1,0 +1,259 @@
+{
+  "hadithId": 764,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/764"],
+    "kitabId": 7,
+    "inKitabBab": 13,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 54
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف جدا.‏ رواه ابن ماجه (2500) والبزار (2/261). قال الحافظ ابن حجر في التلخيص الحبير (3/56): إسناده ضعيف جداً لأن فيه عبد الله بن عمر العمري وهو ضعيف الحديث.",
+    "urdu": "بے حد ضعیف۔ اسے ابن ماجہ (2500) اور بزار نے روایت کیا ہے۔ حافظ ابن حجر نے تلخیص الحبیر میں اسے 'ضعیف جدا' قرار دیا ہے کیونکہ اس کی سند میں عبداللہ بن عمر العمری ضعیف راوی ہے۔",
+    "english": "Very Weak. Reported by Ibn Majah (2500) and al-Bazzar (2/261). Al-Hafiz Ibn Hajar mentioned in At-Talkhis al-Habir (3/56) that its chain is very weak due to the presence of Abdullah bin 'Umar al-'Umari."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلشُّفْعَةُ",
+      "english": "Pre-emption",
+      "urdu": "شفعہ (خریداری کا پہلا حق)"
+    },
+    {
+      "arabic": "حَلِّ",
+      "english": "Unfastening / Opening",
+      "urdu": "کھولنا"
+    },
+    {
+      "arabic": "اَلْعِقَالِ",
+      "english": "Camel's tether / fold",
+      "urdu": "اونٹ کے گھٹنے باندھنے والی رسی"
+    },
+    {
+      "arabic": "غَائِبٍ",
+      "english": "Absent one",
+      "urdu": "غیر حاضر / غائب"
+    },
+    {
+      "arabic": "زَادَ",
+      "english": "Added / Increased",
+      "urdu": "اضافہ کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں شفعہ کے حق کو ایک تمثیل کے ذریعے سمجھایا گیا ہے کہ یہ حق فوری مطالبے پر مبنی ہوتا ہے، اگرچہ اس کی سند علمی طور پر ضعیف ہے۔",
+    "english": "This Hadith compares the right of pre-emption to untying a rope, implying it must be exercised promptly, though the narration itself is weak."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن ماجه (2500)",
+      "english": "Reported by Ibn Majah (2500)"
+    },
+    {
+      "arabic": "رواه البزار (2/261)",
+      "english": "Reported by Al-Bazzar (2/261)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah bin Umar bin al-Khattab"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjI8_GfLpIs",
+  "grade": {
+    "arabic": "ضعيف جدا",
+    "english": "Very Weak (Da'if Jiddan)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شفعہ کے مطالبے میں عجلت",
+        "english": "Urgency in Claiming Shuf'a"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رسی کھولنے کی مثال کی حکمت",
+              "english": "Wisdom of the Rope Metaphor"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح اونٹ کی رسی کھلتے ہی وہ بھاگ جاتا ہے، ویسے ہی شفعہ کا حق تاخیر سے ختم ہو جاتا ہے۔",
+                "فقہاء کے نزدیک جب کسی کو فروخت کا علم ہو، اسے فوراً اپنے حق کا اظہار کرنا چاہیے۔",
+                "بلاوجہ تاخیر کرنے سے دوسرے خریدار اور بیچنے والے کا نقصان ہوتا ہے جو شریعت میں پسندیدہ نہیں۔"
+              ],
+              "english": [
+                "Just as a camel escapes the moment its rope is untied, the right of Shuf'a expires if not claimed.",
+                "Jurists state that once a person learns of the sale, they must declare their intent immediately.",
+                "Unnecessary delay harms the seller and the potential buyer, which is discouraged in Shariah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مطالبہ شفعہ کا وقت",
+              "english": "Timing for Claiming Pre-emption"
+            },
+            "content": {
+              "urdu": [
+                "شفعہ کا حق علم ہونے کے فوری بعد 'اسی مجلس' میں جتانا ضروری سمجھا جاتا ہے۔",
+                "اگر کوئی شخص علم ہونے کے باوجود خاموش رہے، تو اس کا حق ساقط ہو سکتا ہے۔",
+                "یہ اصول معاملات میں ابہام اور جائیداد کو معلق رکھنے سے بچانے کے لیے ہے۔"
+              ],
+              "english": [
+                "The right of Shuf'a is generally required to be claimed in the same sitting once it is known.",
+                "If a person remains silent after gaining knowledge of the sale, their right may be forfeited.",
+                "This principle prevents ambiguity in transactions and keeps property from being in a legal limbo."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غیر حاضر شخص کا حقِ شفعہ",
+        "english": "The Right of an Absent Person"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بزار کی زیادتی کی وضاحت",
+              "english": "Explanation of Al-Bazzar's Addition"
+            },
+            "content": {
+              "urdu": [
+                "بزار کی روایت کے مطابق جو شخص موقع پر موجود نہ ہو، اس کا شفعہ نہیں ہے۔",
+                "تاہم، یہ اضافہ سنداً ضعیف ہے اور دیگر صحیح احادیث کے خلاف ہے۔",
+                "صحیح موقف یہ ہے کہ غائب شخص کا حق اس کی واپسی اور علم ہونے تک باقی رہتا ہے۔"
+              ],
+              "english": [
+                "According to Al-Bazzar's narration, an absent person has no right of pre-emption.",
+                "However, this addition is weak in its chain and contradicts other authentic Hadiths.",
+                "The correct view is that an absent person's right remains until they return and learn of the sale."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علماء کا غائب کے متعلق فیصلہ",
+              "english": "Scholarly Ruling on the Absent"
+            },
+            "content": {
+              "urdu": [
+                "اگر شریک سفر پر ہو، تو اسے واپسی پر شفعہ کا مطالبہ کرنے کا مکمل حق حاصل ہے۔",
+                "صرف اس صورت میں حق ختم ہوگا اگر اسے علم ہو جائے اور وہ ایک خاص مدت تک خاموش رہے۔",
+                "یہ اصول عدل و انصاف پر مبنی ہے تاکہ کسی کی غیر موجودگی کا غلط فائدہ نہ اٹھایا جائے۔"
+              ],
+              "english": [
+                "If a partner is traveling, they retain the full right to claim Shuf'a upon their return.",
+                "The right only lapses if they are informed and remain silent for a prescribed period.",
+                "This principle is based on justice to ensure no one takes advantage of another's absence."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی اسنادی حیثیت",
+        "english": "Status of the Hadith's Chain"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضعیف راوی کا اثر",
+              "english": "Impact of the Weak Narrator"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کی سند میں عبداللہ بن عمر العمری ہیں جو کہ محدثین کے نزدیک ضعیف ہیں۔",
+                "اس لیے اس خاص الفاظ 'رسی کھولنے کی طرح' کو قطعی حجت نہیں مانا جاتا۔",
+                "مگر اس کا مفہوم (فوری مطالبہ) دیگر فقہی اصولوں سے ہم آہنگ ہے۔"
+              ],
+              "english": [
+                "The chain contains Abdullah bin 'Umar al-'Umari, who is considered weak by Hadith scholars.",
+                "Therefore, the specific wording 'like untying a rope' is not taken as a definitive proof.",
+                "However, its core meaning (prompt claim) aligns with broader legal principles."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر روایات سے موازنہ",
+              "english": "Comparison with Other Narrations"
+            },
+            "content": {
+              "urdu": [
+                "پچھلی احادیث میں غائب کے انتظار کا ذکر تھا جو اس ضعیف روایت کے خلاف ہے۔",
+                "قاعدہ یہ ہے کہ صحیح روایت کو ضعیف روایت پر مقدم رکھا جائے گا۔",
+                "چنانچہ غائب کا حقِ شفعہ برقرار رہتا ہے جیسا کہ صحیح روایات سے ثابت ہے۔"
+              ],
+              "english": [
+                "Previous Hadiths mentioned waiting for the absent, which contradicts this weak report.",
+                "The rule is that an authentic narration takes precedence over a weak one.",
+                "Thus, the right of pre-emption for the absent stands firm as proven by Sahih reports."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بروقت فیصلہ سازی",
+              "english": "Timely Decision Making"
+            },
+            "content": {
+              "urdu": [
+                "کاروباری معاملات میں لیت و لعل سے گریز کرنا چاہیے تاکہ دوسروں کا سرمایہ بلاوجہ نہ رکے۔",
+                "اگر آپ اپنا حقِ شفعہ استعمال کرنا چاہتے ہیں تو دیانتداری سے جلد مطلع کریں۔",
+                "غیر ضروری خاموشی سے بعد میں پیدا ہونے والے قانونی الجھاؤ سے بچیں۔"
+              ],
+              "english": [
+                "One should avoid procrastination in business to prevent blocking others' capital.",
+                "If you intend to use your right of Shuf'a, inform the parties involved honestly and quickly.",
+                "Avoid unnecessary silence to prevent future legal complications and disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق کی ادائیگی میں عدل",
+              "english": "Justice in Fulfilling Rights"
+            },
+            "content": {
+              "urdu": [
+                "کسی کی غیر موجودگی کو اس کے حقوق غصب کرنے کا ذریعہ نہ بنائیں۔",
+                "شریعت نے غائب کے حقوق کی حفاظت کے لیے واضح احکامات دیے ہیں۔",
+                "ہمیشہ مستند اور صحیح احادیث کی روشنی میں اپنے مالی معاملات طے کریں۔"
+              ],
+              "english": [
+                "Do not use someone's absence as an excuse to usurp their legitimate rights.",
+                "Shariah provides clear instructions to protect the interests of those who are away.",
+                "Always settle financial matters in the light of authentic and sound Prophetic traditions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

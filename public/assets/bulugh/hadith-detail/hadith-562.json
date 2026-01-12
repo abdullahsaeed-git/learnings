@@ -1,0 +1,260 @@
+{
+  "hadithId": 562,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/56"],
+    "kitabId": 5,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الصيام",
+    "babId": 34
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1985)، ومسلم (1144). واللفظ للبخاري، وهو صريح في النهي عن إفراد الجمعة بالصوم.",
+    "urdu": "صحیح۔ اسے امام بخاری (1985) اور امام مسلم (1144) نے روایت کیا ہے۔ یہ حدیث تنہا جمعہ کے دن کا روزہ رکھنے کی ممانعت میں صریح ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1985) and Muslim (1144). The wording is explicitly prohibiting singling out Friday for fasting."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَصُومَنَّ",
+      "english": "Should not fast",
+      "urdu": "ہرگز روزہ نہ رکھے"
+    },
+    {
+      "arabic": "أَحَدُكُمْ",
+      "english": "Any one of you",
+      "urdu": "تم میں سے کوئی"
+    },
+    {
+      "arabic": "اَلْجُمُعَةِ",
+      "english": "Friday",
+      "urdu": "جمعہ"
+    },
+    {
+      "arabic": "قَبْلَهُ",
+      "english": "Before it",
+      "urdu": "اس سے پہلے"
+    },
+    {
+      "arabic": "بَعْدَهُ",
+      "english": "After it",
+      "urdu": "اس کے بعد"
+    }
+  ],
+  "summary": {
+    "urdu": "جمعہ کے دن کو تنہا نفلی روزے کے لیے خاص کرنا منع ہے، البتہ اگر جمعرات یا ہفتہ کا روزہ ساتھ ملا لیا جائے تو جائز ہے۔",
+    "english": "It is forbidden to single out Friday for voluntary fasting unless one fasts a day before it or a day after it."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1985)",
+      "english": "Reported by Al-Bukhari (1985)"
+    },
+    {
+      "arabic": "رواه مسلم (1144)",
+      "english": "Reported by Muslim (1144)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=q6_yqM9e7x0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جمعہ کے روزے کی ممانعت کی وجہ",
+        "english": "Reason for the Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمعہ مسلمانوں کی عید ہے",
+              "english": "Friday is a Day of Eid"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کا دن ہفتہ وار عید کا دن ہے جس میں مسلمان اجتماع کرتے ہیں۔",
+                "عید کے دن کھانا پینا اور خوشی منانا بندگی کا حصہ ہے۔",
+                "اس دن کو عبادت کے لیے خاص کر کے باقی دنوں سے ممتاز کرنا منع ہے۔"
+              ],
+              "english": [
+                "Friday is a weekly day of celebration (Eid) for Muslims.",
+                "Eating, drinking, and rejoicing on Eid is a part of worship.",
+                "It is forbidden to single out this day for fasting as a distinction."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت میں نشاط و چستی",
+              "english": "Vigor in Worship"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کے دن ذکر، دعا اور نمازِ جمعہ جیسی اہم عبادات ہوتی ہیں۔",
+                "روزہ رکھنے سے جسمانی کمزوری ہو سکتی ہے جو ان کاموں میں رکاوٹ بنے۔",
+                "شریعت چاہتی ہے کہ مومن جمعہ کے افعال نشاط کے ساتھ ادا کرے۔"
+              ],
+              "english": [
+                "Friday involves major acts of worship like Dhikr and the Jumu'ah prayer.",
+                "Fasting may cause physical weakness, hindering these vital tasks.",
+                "Sharia intends for the believer to perform Friday duties with vigor."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استثنائی صورتیں",
+        "english": "Exceptional Circumstances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہلے یا بعد میں روزہ ملانا",
+              "english": "Joining a Day Before or After"
+            },
+            "content": {
+              "urdu": [
+                "اگر جمعرات یا ہفتہ کا روزہ ساتھ رکھا جائے تو جمعہ کا روزہ جائز ہے۔",
+                "اس سے جمعہ کی تخصیص (تنہا خاص کرنا) ختم ہو جاتی ہے۔",
+                "یہ طریقہ سنتِ نبوی کے مطابق ہے اور ممانعت کے حکم سے باہر ہے۔"
+              ],
+              "english": [
+                "Fasting Friday is allowed if Thursday or Saturday is joined with it.",
+                "This removes the 'Takhsis' (singling out) of Friday specifically.",
+                "This method aligns with the Sunnah and avoids the prohibition."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عادت کے مطابق روزہ",
+              "english": "Fasting According to Habit"
+            },
+            "content": {
+              "urdu": [
+                "اگر عرفہ یا عاشورہ کا دن جمعہ کو آ جائے تو روزہ رکھنا جائز ہے۔",
+                "ایسا شخص جمعہ کو نہیں بلکہ اس فضیلت والے دن کو قصد کرتا ہے۔",
+                "اسی طرح اگر کوئی ایک دن چھوڑ کر روزہ رکھتا ہو اور جمعہ آ جائے۔"
+              ],
+              "english": [
+                "Fasting is allowed if Arafah or Ashura falls on a Friday.",
+                "The person intends the virtuous day, not Friday itself.",
+                "Similarly, if one fasts alternate days and it coincides with Friday."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور باریکیاں",
+        "english": "Juristic Aspects and Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممانعت کی نوعیت",
+              "english": "Nature of Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک تنہا جمعہ کا روزہ مکروہِ تنزیہی ہے۔",
+                "بعض فقہاء اسے حرام کے قریب بھی سمجھتے ہیں اگر بلا وجہ ہو۔",
+                "فرض روزوں کی قضا جمعہ کے دن رکھنا بھی درست سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "Majority of scholars view singling out Friday as Makruh Tanzih.",
+                "Some jurists consider it close to Haram if done without reason.",
+                "Making up obligatory fasts on a Friday is generally considered valid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رات کی عبادت کی ممانعت",
+              "english": "Prohibition of Night Worship"
+
+            },
+            "content": {
+              "urdu": [
+                "دوسری روایات میں جمعہ کی رات کو قیام کے لیے خاص کرنے سے بھی منع کیا گیا۔",
+                "دین میں توازن اور اعتدال کو برقرار رکھنا مقصود ہے۔",
+                "کسی مخصوص دن میں اپنی طرف سے کوئی نئی بدعت ایجاد نہیں کرنی چاہیے۔"
+              ],
+              "english": [
+                "Other reports also forbid singling out Friday night for Qiyam.",
+                "The aim is to maintain balance and moderation in religion.",
+                "One should not innovate specific rituals for a particular day."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا معیار",
+              "english": "Standard of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نیکی وہی ہے جو اللہ اور اس کے رسول ﷺ کے بتائے ہوئے طریقے پر ہو۔",
+                "اپنی مرضی سے عبادت کے طریقے متعین کرنا گمراہی کا راستہ ہے۔",
+                "مومن کو ہر معاملے میں شرعی حدود کا پابند ہونا چاہیے۔"
+              ],
+              "english": [
+                "A good deed is only that which follows Allah and His Messenger (ﷺ).",
+                "Defining methods of worship by personal will leads to misguidance.",
+                "A believer must adhere to Sharia limits in every matter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جمعہ کے دن کی عظمت",
+              "english": "The Greatness of Friday"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کا دن دعاؤں کی قبولیت اور برکتوں کا دن ہے۔",
+                "اس دن کے حقوق میں غسل کرنا، خوشبو لگانا اور نماز میں جلدی جانا ہے۔",
+                "روزہ نہ رکھ کر ان سماجی اور روحانی فرائض پر توجہ مرکوز کرنی چاہیے۔"
+              ],
+              "english": [
+                "Friday is a day for acceptance of prayers and divine blessings.",
+                "Its rights include Ghusl, wearing perfume, and arriving early for prayer.",
+                "By not fasting, one should focus on these social and spiritual duties."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

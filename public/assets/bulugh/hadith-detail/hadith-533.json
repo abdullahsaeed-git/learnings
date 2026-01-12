@@ -1,0 +1,260 @@
+{
+  "hadithId": 533,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/533"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1154). والحديث دليل على جواز النية النهارية في صوم التطوع، وجواز فطره.",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (1154) نے اسے روایت کیا ہے۔ یہ حدیث نفلی روزے کی نیت دن میں کرنے اور اسے توڑنے کے جواز پر دلیل ہے۔",
+    "english": "Sahih. Reported by Muslim (1154). The Hadith is evidence for the permissibility of making the intention for voluntary fasts during the day and the permissibility of breaking them."
+  },
+  "importantWords": [
+    {
+      "arabic": "ذَاتَ يَوْمٍ",
+      "english": "One day",
+      "urdu": "ایک دن"
+    },
+    {
+      "arabic": "حَيْسٌ",
+      "english": "Hais (Sweet dish)",
+      "urdu": "حیس (حلوہ / مالیدہ)"
+    },
+    {
+      "arabic": "أَرِينِيهِ",
+      "english": "Show it to me",
+      "urdu": "مجھے وہ دکھاؤ"
+    },
+    {
+      "arabic": "أَصْبَحْتُ",
+      "english": "I began the morning",
+      "urdu": "میں نے صبح کی"
+    },
+    {
+      "arabic": "صَائِمًا",
+      "english": "Fasting",
+      "urdu": "روزہ دار"
+    },
+    {
+      "arabic": "فَأَكَلَ",
+      "english": "So he ate",
+      "urdu": "پس آپ ﷺ نے کھا لیا"
+    }
+  ],
+  "summary": {
+    "urdu": "نفلی روزے کی نیت صبح صادق کے بعد بھی کی جا سکتی ہے اگر کچھ کھایا پیا نہ ہو، اور نفلی روزہ بغیر کسی عذر کے بھی درمیان میں توڑنا جائز ہے۔",
+    "english": "The intention for voluntary fasts can be made after dawn if nothing has been consumed, and it is permissible to break a voluntary fast at any time."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1154)",
+      "english": "Sahih Muslim (1154)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نفلی روزے کی نیت",
+        "english": "Intention for Voluntary Fasts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دن میں نیت کا جواز",
+              "english": "Permissibility of Intent during the Day"
+            },
+            "content": {
+              "urdu": [
+                "فرض روزے کے برعکس نفلی روزے کی نیت دن کے کسی بھی حصے میں کی جا سکتی ہے۔",
+                "اس کی شرط یہ ہے کہ صبح صادق سے نیت کے وقت تک کچھ کھایا پیا نہ ہو۔",
+                "یہ اللہ کی طرف سے بندوں کے لیے آسانی ہے تاکہ وہ نفل نیکی کما سکیں۔"
+              ],
+              "english": [
+                "Unlike obligatory fasts, the intention for voluntary fasts can be made during the day.",
+                "The condition is that nothing must have been consumed since dawn until the intention.",
+                "This is a facilitation from Allah to allow servants to earn extra rewards easily."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفل اور فرض میں فرق",
+              "english": "Distinction Between Nafl and Fard"
+            },
+            "content": {
+              "urdu": [
+                "فرض روزے کے لیے رات سے ہی نیت کرنا لازمی اور ضروری شرط ہے۔",
+                "نفلی روزے میں یہ شرط نہیں، جیسا کہ نبی ﷺ کے عمل سے ثابت ہے۔",
+                "یہ فقہی فرق عبادات کے درجات اور ان کی نوعیت کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "For obligatory fasts, making the intention at night is a mandatory condition.",
+                "In voluntary fasts, this is not a requirement as proven by the Prophet's (ﷺ) action.",
+                "This juristic difference clarifies the various levels and natures of acts of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفلی روزہ توڑنا",
+        "english": "Breaking a Voluntary Fast"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزہ توڑنے کی گنجائش",
+              "english": "Allowance to Break the Fast"
+            },
+            "content": {
+              "urdu": [
+                "نفلی روزہ دار اپنی مرضی سے اپنا روزہ کسی بھی وقت ختم کر سکتا ہے۔",
+                "نبی ﷺ نے 'حیس' سامنے آنے پر روزہ توڑ کر اسے تناول فرما لیا تھا۔",
+                "اس پر کوئی گناہ یا کفارہ نہیں ہے، کیونکہ یہ ایک نفلی عمل ہے۔"
+              ],
+              "english": [
+                "A voluntary faster has the choice to break their fast at any time.",
+                "The Prophet (ﷺ) broke his fast to eat the 'Hais' when it was presented.",
+                "There is no sin or expiation (Kaffarah) for this, as it is a voluntary act."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قضا کا مسئلہ",
+              "english": "The Issue of Making it Up"
+            },
+            "content": {
+              "urdu": [
+                "نفلی روزہ توڑنے کی صورت میں اس کی قضا کرنا مستحب ہے مگر فرض نہیں۔",
+                "بعض فقہاء کے نزدیک قضا لازم ہے مگر راجح قول یہی ہے کہ یہ ضروری نہیں۔",
+                "نبی ﷺ کا طرزِ عمل امت کے لیے ایک وسعت اور آسانی کا پیغام ہے۔"
+              ],
+              "english": [
+                "Making up a broken voluntary fast is recommended but not obligatory.",
+                "Some jurists suggest making it up, but the stronger view is that it's optional.",
+                "The Prophet's (ﷺ) conduct conveys a message of latitude and ease for the Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "گھریلو زندگی اور سادگی",
+        "english": "Domestic Life and Simplicity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبوی سادگی اور فقر",
+              "english": "Prophetic Simplicity and Poverty"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے گھر میں کئی بار کھانے کے لیے کچھ میسر نہیں ہوتا تھا۔",
+                "آپ ﷺ نے اس صورتحال پر کبھی شکایت نہیں کی بلکہ اسے عبادت بنا لیا۔",
+                "یہ حدیث صبر اور قناعت کی اعلیٰ ترین مثال پیش کرتی ہے۔"
+              ],
+              "english": [
+                "Often, there was nothing available to eat in the Prophet's (ﷺ) household.",
+                "He never complained about this situation; instead, he turned it into worship.",
+                "This Hadith presents a supreme example of patience and contentment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحفے کی قبولیت",
+              "english": "Acceptance of Gifts"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام نبی ﷺ کے گھر محبت میں ہدیہ اور تحائف بھیجا کرتے تھے۔",
+                "تحفے کی قدر کرنا اور اسے خوشی سے قبول کرنا سنتِ نبوی ہے۔",
+                "حلال اور طیب رزق کے آنے پر اللہ کا شکر ادا کرنا چاہیے۔"
+              ],
+              "english": [
+                "The Companions used to send gifts to the Prophet's (ﷺ) home out of love.",
+                "Appreciating and happily accepting gifts is a Prophetic Sunnah.",
+                "One should thank Allah when lawful and pure provisions are provided."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیکی کے مواقع",
+              "english": "Opportunities for Good"
+            },
+            "content": {
+              "urdu": [
+                "اگر صبح ناشتہ نہ ملے تو اسے ضائع کرنے کے بجائے روزے کی نیت کر لیں۔",
+                "اس طرح ہماری مجبوری بھی اللہ کے ہاں نیکی میں بدل جائے گی۔",
+                "دینِ اسلام ہر حال میں اللہ کی طرف رجوع کرنے کا سبق دیتا ہے۔"
+              ],
+              "english": [
+                "If breakfast is unavailable, intend to fast instead of being frustrated.",
+                "In this way, our necessity can be transformed into a reward with Allah.",
+                "Islam teaches us to turn towards Allah in every situation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میزبانی اور مروت",
+              "english": "Hospitality and Courtesy"
+            },
+            "content": {
+              "urdu": [
+                "اگر نفلی روزہ ہو اور کوئی کھانے کی دعوت دے تو روزہ توڑنا بہتر ہے۔",
+                "میزبان کی دلجوئی اور اس کے ساتھ کھانا بھی ایک نیکی ہے۔",
+                "اسلام سماجی تعلقات اور مروت کو بہت اہمیت دیتا ہے۔"
+              ],
+              "english": [
+                "If you are fasting voluntarily and invited to eat, it is better to break it.",
+                "Pleasing the host and eating with them is also a virtuous deed.",
+                "Islam places great importance on social relations and courtesy."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

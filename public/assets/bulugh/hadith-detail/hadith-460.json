@@ -1,0 +1,259 @@
+{
+  "hadithId": 460,
+  "hadithNo": 36,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/36", "bukhari/1315", "muslim/944"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1315) ومسلم (944). وقد استنبط العلماء من قوله 'أسرعوا' استحباب الإسراع في المشي بالجنازة دون الرمل.",
+    "urdu": "صحیح۔ اسے امام بخاری (1315) اور امام مسلم (944) نے روایت کیا ہے۔ علماء نے اس سے جنازے کو تیزی سے لے جانے کا استحباب ثابت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1315) and Muslim (944). Scholars have derived from 'Hasten' the recommendation of walking quickly with the bier."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَسْرِعُوا",
+      "english": "Hasten / Be quick",
+      "urdu": "جلدی کرو"
+    },
+    {
+      "arabic": "صَالِحَةً",
+      "english": "Righteous / Good",
+      "urdu": "نیک / صالح"
+    },
+    {
+      "arabic": "تُقَدِّمُونَهَا",
+      "english": "You are sending it forward",
+      "urdu": "تم اسے آگے بھیج رہے ہو"
+    },
+    {
+      "arabic": "سِوَى ذَلِكَ",
+      "english": "Otherwise (bad)",
+      "urdu": "اس کے سوا (برا)"
+    },
+    {
+      "arabic": "رِقَابِكُمْ",
+      "english": "Your necks",
+      "urdu": "تمہاری گردنیں"
+    }
+  ],
+  "summary": {
+    "urdu": "میت کی تدفین اور جنازہ لے جانے میں جلدی کرنا سنت ہے تاکہ نیک روح جلد اپنے اجر کو پہنچے اور بری میت کا بوجھ کندھوں سے اترے۔",
+    "english": "It is Sunnah to hasten the funeral process so a righteous soul reaches its reward quickly and a sinful one is removed from the shoulders."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الجنائز، رقم 1315",
+      "english": "Sahih al-Bukhari, Book of Funerals, Hadith 1315"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 944",
+      "english": "Sahih Muslim, The Book of Funerals, Hadith 944"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fq4m8D0p4yU",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تدفین میں تعجیل کی حکمت",
+        "english": "Wisdom of Hastening Burial"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیک روح کا انعام",
+              "english": "Reward for the Righteous Soul"
+            },
+            "content": {
+              "urdu": [
+                "نیک آدمی کی روح تڑپ رہی ہوتی ہے کہ وہ جلد اللہ کے پاس پہنچ کر انعام پائے۔",
+                "اسے روک کر رکھنا اس کی راحت میں تاخیر کرنے کے مترادف ہے جو کہ ناپسندیدہ ہے۔",
+                "قبر مومن کے لیے جنت کے باغوں میں سے ایک باغ ہے جہاں وہ سکون پاتا ہے۔"
+              ],
+              "english": [
+                "The soul of a righteous person longs to reach Allah quickly to receive its reward.",
+                "Holding it back is equivalent to delaying its comfort, which is undesirable.",
+                "The grave is a garden of Paradise for a believer where they find true peace."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بوجھ سے نجات",
+              "english": "Relief from the Burden"
+            },
+            "content": {
+              "urdu": [
+                "اگر میت گناہگار ہے تو وہ ایک بوجھ ہے جسے جلد اتار دینا ہی بہتر ہے۔",
+                "ایسی میت کو اپنے پاس رکھنا یا تدفین میں دیر کرنا نحوست اور بوجھ کا باعث ہے۔",
+                "اسلام ہر کام میں، خاص طور پر جنازے میں، وقت کی پابندی اور سرعت کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "If the deceased is sinful, they are a burden that is better removed quickly.",
+                "Keeping such a body or delaying burial brings unnecessary burden and distress.",
+                "Islam teaches punctuality and speed in all matters, especially in funeral rites."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی و فقہی احکامات",
+        "english": "Sharia and Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنازہ لے جانے کی رفتار",
+              "english": "Speed of Carrying the Bier"
+            },
+            "content": {
+              "urdu": [
+                "جنازے کو قدم تیز کر کے لے جانا چاہیے مگر دوڑنا نہیں چاہیے کہ میت ہلنے لگے۔",
+                "فقہاء کے نزدیک اس سے مراد میت کی تیاری، غسل اور تدفین میں بھی جلدی کرنا ہے۔",
+                "لوگوں کے انتظار میں میت کو کئی کئی دن تک روکنا سنتِ نبوی کے خلاف ہے۔"
+              ],
+              "english": [
+                "The bier should be carried with quick steps but without running to avoid shaking the body.",
+                "Jurists interpret this as hastening the preparation, washing, and burial as well.",
+                "Holding the body for days waiting for people is contrary to the Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غیر ضروری تاخیر کی ممانعت",
+              "english": "Prohibition of Unnecessary Delay"
+            },
+            "content": {
+              "urdu": [
+                "اگر میت کی موت یقینی ہو جائے تو تجہیز و تکفین میں دیر کرنا مکروہ ہے۔",
+                "صرف اس صورت میں تاخیر جائز ہے جب موت کے بارے میں شک ہو یا کوئی قانونی ضرورت ہو۔",
+                "جنازے میں شرکت کے لیے دور دراز کے لوگوں کا انتظار کرنا شرعی طور پر مستحسن نہیں۔"
+              ],
+              "english": [
+                "If death is certain, it is disliked (Makruh) to delay the preparation and shrouding.",
+                "Delay is only permissible if there is doubt about death or a legal requirement.",
+                "Waiting for people from far away to join the funeral is not religiously encouraged."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور تربیتی پہلو",
+        "english": "Ethical and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آخرت کی فکر",
+              "english": "Concern for the Hereafter"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں یاد دلاتی ہے کہ مرنے کے بعد انسان کا اصلی ٹھکانہ اس کی قبر ہے۔",
+                "ہمیں اپنے اعمال کی فکر کرنی چاہیے تاکہ ہماری تدفین دوسروں کے لیے بوجھ نہ بنے۔",
+                "موت کا وقت متعین ہے، اس لیے نیک اعمال میں ہمیشہ جلدی کرنی چاہیے۔"
+              ],
+              "english": [
+                "This Hadith reminds us that after death, the true abode of a person is their grave.",
+                "We must worry about our deeds so that our burial does not become a burden for others.",
+                "The time of death is fixed, so one must always hasten toward righteous deeds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لواحقین کی تسلی",
+              "english": "Comforting the Family"
+            },
+            "content": {
+              "urdu": [
+                "تدفین میں جلدی کرنے سے میت کے گھر والوں کا صدمہ اور بوجھ ہلکا ہوتا ہے۔",
+                "میت کے پاس زیادہ دیر رہنے سے لواحقین کی بے صبری اور آہ و بکا کا خطرہ بڑھتا ہے۔",
+                "اسلامی معاشرت میں جنازے کے معاملات کو سہل اور تیز بنانا ہم سب کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "Hastening the burial lightens the grief and burden of the deceased's family.",
+                "Staying with the body too long increases the risk of impatience and wailing.",
+                "In Islamic society, it is our collective duty to make funeral matters simple and swift."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنازے میں شرکت کے آداب",
+              "english": "Etiquettes of Participating in a Funeral"
+            },
+            "content": {
+              "urdu": [
+                "جنازے کے ساتھ چلتے وقت خاموشی اور آخرت کی سوچ میں رہنا مسنون ہے۔",
+                "جنازے کو کندھا دینا اور تدفین تک ساتھ رہنا بڑے اجر و ثواب کا کام ہے۔",
+                "تیزی سے چلنے میں سنت کی پیروی کی نیت ہونی چاہیے تاکہ اجر حاصل ہو۔"
+              ],
+              "english": [
+                "It is Sunnah to maintain silence and reflect on the Hereafter while following a funeral.",
+                "Carrying the bier and staying until burial is an act of great reward.",
+                "The intention of walking quickly should be to follow the Sunnah to gain reward."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رسم و رواج کی اصلاح",
+              "english": "Reforming Customs"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں جنازوں میں ہونے والی بے جا رسومات اور تاخیر کی حوصلہ شکنی کرنی چاہیے۔",
+                "شریعت کے سادہ احکامات پر عمل کرنا ہی میت اور زندہ لوگوں کے لیے عافیت ہے۔",
+                "نبی ﷺ کی ہر ہدایت میں حکمت ہے، اس پر عمل کرنے میں ہی ہماری بھلائی ہے۔"
+              ],
+              "english": [
+                "We must discourage unnecessary rituals and delays often seen in funerals today.",
+                "Following the simple commands of Sharia is best for both the dead and the living.",
+                "There is wisdom in every instruction of the Prophet (ﷺ); our well-being lies in acting upon it."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

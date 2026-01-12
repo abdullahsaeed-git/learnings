@@ -1,0 +1,259 @@
+{
+  "hadithId": 1246,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/11"],
+    "kitabId": 16,
+    "inKitabBab": 1,
+    "arabicBook": "الجامع - باب الأدب",
+    "babId": 102
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (2026). وقد وردت أحاديث أخرى تدل على الجواز في حالات معينة، لكن النهي هنا للإرشاد والأفضلية.",
+    "urdu": "صحیح۔ اسے امام مسلم (2026) نے روایت کیا ہے۔ اگرچہ بعض دیگر روایات میں ضرورت کے وقت کھڑے ہو کر پینے کا ذکر ہے، مگر بہتر اور افضل طریقہ بیٹھ کر پینا ہی ہے۔",
+    "english": "Sahih. Reported by Muslim (2026). While some other narrations indicate permissibility under specific circumstances, the prohibition here is for guidance and to highlight the preferred method."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَشْرَبَنَّ",
+      "english": "Should not drink",
+      "urdu": "ہرگز نہ پئے"
+    },
+    {
+      "arabic": "أَحَدٌ",
+      "english": "Anyone",
+      "urdu": "کوئی ایک"
+    },
+    {
+      "arabic": "قَائِمًا",
+      "english": "Standing",
+      "urdu": "کھڑے ہو کر"
+    },
+    {
+      "arabic": "مِنْكُمْ",
+      "english": "From among you",
+      "urdu": "تم میں سے"
+    },
+    {
+      "arabic": "فَلْيَسْتَقِئْ",
+      "english": "Let him vomit",
+      "urdu": "پس اسے چاہیے کہ قے کر دے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں پانی پینے کے نبوی آداب میں سے ایک اہم ادب بیان کیا گیا ہے کہ پانی بیٹھ کر پینا چاہیے اور کھڑے ہو کر پینے سے گریز کرنا چاہیے۔",
+    "english": "This Hadith highlights a key Prophetic etiquette of drinking water: it should be consumed while sitting, and drinking while standing should be avoided."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الأشربة، رقم 2026",
+      "english": "Sahih Muslim, Book of Drinks, No. 2026"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب الأشربة، رقم 1880",
+      "english": "Sunan at-Tirmidhi, Book of Drinks, No. 1880"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqG0F8L_8Gk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کھڑے ہو کر پانی پینے کی ممانعت",
+        "english": "Prohibition of Drinking While Standing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبوی تعلیمات اور ادب",
+              "english": "Prophetic Teachings and Etiquette"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے مسلمانوں کو ہر کام کے بہترین آداب سکھائے ہیں جن میں پانی پینا بھی شامل ہے۔",
+                "کھڑے ہو کر پانی پینے سے منع فرمانا درحقیقت وقار اور سکون کے ساتھ کھانے پینے کی ترغیب ہے۔",
+                "بیٹھ کر پانی پینا سنتِ نبوی ہے اور اس میں عاجزی و انکساری کا پہلو بھی نمایاں ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught Muslims the best etiquettes for every action, including drinking water.",
+                "Forbidding drinking while standing encourages consuming food and drink with dignity and calm.",
+                "Drinking while sitting is a Sunnah and reflects an element of humility and poise."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طبی اور جسمانی فوائد",
+              "english": "Medical and Physical Benefits"
+            },
+            "content": {
+              "urdu": [
+                "جدید طبی تحقیق کے مطابق بیٹھ کر پانی پینا نظامِ ہضم اور گردوں کے لیے زیادہ مفید ہے۔",
+                "کھڑے ہو کر پانی پینے سے پانی براہِ راست معدے کی دیواروں سے ٹکراتا ہے جو نقصان دہ ہو سکتا ہے۔",
+                "اسلامی احکامات انسانی صحت کی حفاظت اور جسمانی توازن برقرار رکھنے میں معاون ثابت ہوتے ہیں۔"
+              ],
+              "english": [
+                "Modern medical research suggests drinking while sitting is better for digestion and kidneys.",
+                "Drinking while standing causes water to splash against the stomach wall, which can be harmful.",
+                "Islamic rulings consistently aid in protecting human health and maintaining bodily balance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور روایات میں تطبیق",
+        "english": "Juristic Aspects and Reconciliation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممانعت کی نوعیت",
+              "english": "Nature of the Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "اکثر علماء کے نزدیک کھڑے ہو کر پانی پینے کی ممانعت تنزیہی (ناپسندیدہ) ہے، حرام نہیں۔",
+                "اگر کوئی شخص ضرورت کے تحت کھڑے ہو کر پانی پی لے تو اس پر کوئی گناہ نہیں ہے۔",
+                "افضل طریقہ یہی ہے کہ سنت پر عمل کرتے ہوئے بیٹھ کر پانی پینے کو ترجیح دی جائے۔"
+              ],
+              "english": [
+                "Most scholars view the prohibition as 'Tanzihi' (disliked) rather than 'Haram' (strictly forbidden).",
+                "If a person drinks while standing out of necessity, there is no sin upon them.",
+                "The preferred method remains to sit while drinking, following the established Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جواز کی مثالیں",
+              "english": "Examples of Permissibility"
+            },
+            "content": {
+              "urdu": [
+                "بعض احادیث میں ذکر ہے کہ نبی ﷺ نے زمزم یا وضو کا بچا ہوا پانی کھڑے ہو کر پیا۔",
+                "فقہاء کے مطابق یہ عمل ظاہر کرتا ہے کہ خاص حالات یا جگہ کی تنگی میں ایسا کرنا جائز ہے۔",
+                "ممانعت ان حالات کے لیے ہے جہاں بیٹھنا ممکن ہو اور کوئی عذر موجود نہ ہو۔"
+              ],
+              "english": [
+                "Some Hadiths mention the Prophet (ﷺ) drank Zamzam or leftover Wudu water while standing.",
+                "Jurists state this shows permissibility in specific contexts or when space is restricted.",
+                "The prohibition applies when sitting is possible and no valid excuse exists to stand."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور معاشرتی سبق",
+        "english": "Moral and Social Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سکون اور وقار",
+              "english": "Tranquility and Dignity"
+            },
+            "content": {
+              "urdu": [
+                "جلد بازی میں پینا اضطراب کی علامت ہے جبکہ بیٹھ کر پینا اطمینان کی نشانی ہے۔",
+                "اسلام چاہتا ہے کہ مومن کی ہر حرکت میں وقار، ٹھہراؤ اور شائستگی نظر آئے۔",
+                "پانی پینے جیسے معمولی عمل میں بھی نظم و ضبط برقرار رکھنا تربیت کا حصہ ہے۔"
+              ],
+              "english": [
+                "Drinking in a hurry signifies anxiety, whereas sitting to drink reflects peace of mind.",
+                "Islam desires for every movement of a believer to show dignity, composure, and grace.",
+                "Maintaining discipline even in a simple act like drinking water is part of character building."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا جذبہ",
+              "english": "The Spirit of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "مومن کی پہچان یہ ہے کہ وہ چھوٹی سی چھوٹی سنت پر بھی محبت کے ساتھ عمل کرے۔",
+                "سنت پر عمل کرنا صرف ثواب کا ذریعہ نہیں بلکہ نبی ﷺ سے محبت کا اظہار بھی ہے۔",
+                "روزمرہ کی عادات کو سنت کے مطابق ڈھالنا زندگی کو عبادت بنا دیتا ہے۔"
+              ],
+              "english": [
+                "A believer is recognized by their loving adherence to even the smallest of Sunnahs.",
+                "Following the Sunnah is not just a source of reward but an expression of love for the Prophet (ﷺ).",
+                "Molding daily habits according to the Sunnah transforms one's entire life into worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلاصہ اور عملی نصیحت",
+        "english": "Summary and Practical Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پانی پینے کے دیگر آداب",
+              "english": "Other Etiquettes of Drinking"
+            },
+            "content": {
+              "urdu": [
+                "پانی ہمیشہ دائیں ہاتھ سے پینا چاہیے اور شروع کرنے سے پہلے بسم اللہ پڑھنی چاہیے۔",
+                "پانی کو تین سانسوں میں پینا مسنون ہے، برتن میں سانس لینے سے گریز کرنا چاہیے۔",
+                "بیٹھ کر پینا ان تمام آداب کی تکمیل کرتا ہے اور سنت کے نور کو بڑھاتا ہے۔"
+              ],
+              "english": [
+                "Water should always be drunk with the right hand, starting with Bismillah.",
+                "It is Sunnah to drink in three breaths and avoid exhaling into the vessel.",
+                "Sitting while drinking completes these etiquettes and enhances the light of the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں خود بھی ان آداب پر عمل کرنا چاہیے اور دوسروں کو بھی پیار سے سکھانا چاہیے۔",
+                "خاص طور پر بچوں کو بیٹھ کر پانی پینے کی عادت ڈالنا ان کی بہترین تربیت کا حصہ ہے۔",
+                "اسلامی اقدار کا فروغ ہمارے رویوں اور چھوٹی چھوٹی عادتوں سے ہی ممکن ہے۔"
+              ],
+              "english": [
+                "We must practice these etiquettes ourselves and teach them to others with kindness.",
+                "Instilling the habit of sitting while drinking in children is vital for their upbringing.",
+                "Promoting Islamic values is only possible through our behaviors and minor habits."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

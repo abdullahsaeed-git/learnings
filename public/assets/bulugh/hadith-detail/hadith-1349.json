@@ -1,0 +1,188 @@
+{
+  "hadithId": 1349,
+  "hadithNo": 18,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh:1528"
+    ],
+    "kitabId": 16,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الجامع",
+    "babId": 107
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (2739)، وأبو داود (1545)، والبخاري في الأدب المفرد (689).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام مسلم نے اپنی صحیح (2739) میں روایت کیا ہے۔ یہ ایک نہایت جامع اور عظیم دعا ہے جو زندگی کے تمام پہلوؤں کا احاطہ کرتی ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (2739), Abu Dawud (1545), and Al-Bukhari in Al-Adab al-Mufrad (689)."
+  },
+  "importantWords": [
+    {
+      "arabic": "زَوَالِ نِعْمَتِكَ",
+      "english": "Withdrawal of blessing",
+      "urdu": "نعمت کا ختم ہو جانا"
+    },
+    {
+      "arabic": "تَحَوُّلِ عَافِيَتِكَ",
+      "english": "Change of well-being",
+      "urdu": "عافیت کا بدل جانا (بیماری یا تنگی میں)"
+    },
+    {
+      "arabic": "فَجْأَةِ نِقْمَتِكَ",
+      "english": "Suddenness of wrath",
+      "urdu": "اچانک عذاب / پکڑ"
+    },
+    {
+      "arabic": "سَخَطِكَ",
+      "english": "Displeasure / Anger",
+      "urdu": "تیری ناراضگی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ایک جامع نبوی دعا پر مشتمل ہے جس میں اللہ کی دی ہوئی مادی و روحانی نعمتوں کے تحفظ اور اس کی ناراضگی و اچانک آنے والی مصیبتوں سے پناہ مانگی گئی ہے۔",
+    "english": "This Hadith contains a comprehensive Prophetic supplication seeking the preservation of divine blessings and well-being, and protection from sudden calamities and Allah's displeasure."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (2739)",
+      "english": "Sahih Muslim (2739)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah ibn Umar ibn al-Khattab"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نعمت اور عافیت کا تحفظ",
+        "english": "Preserving Blessings and Well-being"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زوالِ نعمت سے پناہ",
+              "english": "Seeking Refuge from Loss of Blessings"
+            },
+            "content": {
+              "urdu": [
+                "نعمت کا زوال یہ ہے کہ انسان کے پاس موجود خیر (ایمان، صحت، مال) اس سے چھین لی جائے۔",
+                "نعمتوں کو قائم رکھنے کا بہترین طریقہ ان پر اللہ کا شکر ادا کرنا ہے۔",
+                "بندے کو ہر وقت یہ ڈر ہونا چاہیے کہ کہیں اس کی نافرمانی کی وجہ سے اللہ اپنی نعمت واپس نہ لے لے۔"
+              ],
+              "english": [
+                "Withdrawal of blessings means losing existing goodness such as faith, health, or wealth.",
+                "The best way to preserve blessings is to express constant gratitude (Shukr) to Allah.",
+                "A servant should always be wary that disobedience might cause Allah to retract His favors."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحولِ عافیت کا مفہوم",
+              "english": "Meaning of Change in Protection"
+            },
+            "content": {
+              "urdu": [
+                "عافیت اللہ کی سب سے بڑی نعمت ہے جس کا مطلب بیماریوں اور فتنوں سے سلامتی ہے۔",
+                "اس کا بدل جانا یہ ہے کہ صحت بیماری میں اور سکون بے چینی میں بدل جائے۔",
+                "مومن ہمیشہ اللہ سے عافیت کا طلبگار رہتا ہے کیونکہ آزمائش برداشت کرنا مشکل ہوتا ہے۔"
+              ],
+              "english": [
+                "‘Afiyah (well-being) is Allah's greatest gift, meaning safety from diseases and trials.",
+                "A 'change' means health turning into sickness or peace turning into anxiety.",
+                "A believer always asks Allah for well-being because enduring trials is difficult."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی ناراضگی سے بچاؤ",
+        "english": "Protection from Allah's Wrath"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اچانک پکڑ سے ڈرنا",
+              "english": "Fearing Sudden Retribution"
+            },
+            "content": {
+              "urdu": [
+                "اچانک عذاب (فجأۃ نقمہ) وہ ہے جو بغیر کسی وارننگ یا توبہ کی مہلت ملے آ جائے۔",
+                "اس سے پناہ مانگنے کا مقصد یہ ہے کہ موت آئے تو توبہ کی حالت میں آئے۔",
+                "انسان کو کبھی بھی اللہ کی خفیہ تدبیر سے بے خوف نہیں ہونا چاہیے۔"
+              ],
+              "english": [
+                "Sudden wrath refers to punishment that arrives without warning or chance to repent.",
+                "The purpose of this prayer is to seek a death that occurs in a state of repentance.",
+                "One should never feel entirely secure from Allah's plan and retribution."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رضائے الٰہی کی جستجو",
+              "english": "Striving for Divine Pleasure"
+            },
+            "content": {
+              "urdu": [
+                "دعا کا آخری حصہ 'تمام ناراضگی' سے پناہ مانگنا ہے، چاہے وہ ظاہر ہو یا باطن۔",
+                "جس سے اللہ ناراض ہو جائے، اسے کائنات کی کوئی طاقت نفع نہیں پہنچا سکتی۔",
+                "اصل کامیابی اللہ کو راضی کرنا اور اس کے غصے سے بچنا ہے۔"
+              ],
+              "english": [
+                "The final part of the Du'a seeks refuge from 'all displeasure,' whether apparent or hidden.",
+                "No power in the universe can benefit a person with whom Allah is displeased.",
+                "True success lies in pleasing Allah and avoiding His anger."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعا کا التزام",
+              "english": "Adherence to the Supplication"
+            },
+            "content": {
+              "urdu": [
+                "اس جامع دعا کو اپنے روزمرہ کے اذکار کا حصہ بنائیں۔",
+                "نعمت ملنے پر مغرور ہونے کے بجائے اس کے چھن جانے سے ڈریں اور دعا کریں۔",
+                "اللہ کی بندگی اور اطاعت کے ذریعے عافیت کو قائم رکھنے کی کوشش کریں۔"
+              ],
+              "english": [
+                "Incorporate this comprehensive Du'a into your daily morning and evening prayers.",
+                "Instead of becoming arrogant when receiving a blessing, fear its loss and pray.",
+                "Strive to maintain your well-being through sincere worship and obedience to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "hadithId": 105,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["Muslim 330"],
+    "kitabId": 1,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 8
+  },
+
+  "takhreej": {
+    "arabic": " صحيح. رواه مسلم (330) ، وزاد: \"ثم تفيضين عليك الماء فتطهرين\". ",
+    "urdu": "صحیح (درست) حدیث۔ اسے مسلم (330) نے روایت کیا ہے، اور اس میں اضافہ ہے: 'پھر تم اپنے باقی جسم پر پانی بہا دو اور تم پاک ہو جاؤ گی۔' ",
+    "english": "Sahih (Authentic). Reported by Muslim (330), who added: 'Then you pour water over the rest of your body, and you will become purified.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "اِمْرَأَةٌ",
+      "english": "A woman",
+      "urdu": "عورت"
+    },
+    {
+      "arabic": "أَشُدُّ شَعْرَ رَأْسِي",
+      "english": "I braid my hair",
+      "urdu": "میں اپنے بال باندھتی ہوں"
+    },
+    {
+      "arabic": "أَفَأَنْقُضُهُ",
+      "english": "Should I undo it?",
+      "urdu": "کیا میں انہیں کھولوں؟"
+    },
+    {
+      "arabic": "لِغُسْلِ اَلْجَنَابَةِ",
+      "english": "For Ghusl from Janabah",
+      "urdu": "غسل جنابت کے لیے"
+    },
+    {
+      "arabic": "وَالْحَيْضَةِ",
+      "english": "And (Ghusl from) menstruation (Haidah)",
+      "urdu": "اور حیض سے (غسل)"
+    },
+    {
+      "arabic": "يَكْفِيكِ",
+      "english": "It is enough for you",
+      "urdu": "تیرے لیے کافی ہے"
+    },
+    {
+      "arabic": "تَحْثِي",
+      "english": "You pour (handfuls)",
+      "urdu": "تم بہا دو"
+    },
+    {
+      "arabic": "ثَلَاثَ حَثَيَاتٍ",
+      "english": "Three handfuls",
+      "urdu": "تین چلو"
+    },
+    {
+      "arabic": "تَفِيضِينَ",
+      "english": "You pour (over the body)",
+      "urdu": "تم بہاتی ہو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ عورت کے لیے غسلِ جنابت یا حیض کے لیے اپنے سر کی بندھی ہوئی مینڈھیاں کھولنا ضروری نہیں، بلکہ سر کی جڑوں تک پانی پہنچانے کے لیے صرف تین چلو پانی بہا دینا کافی ہے۔",
+    "english": "This Hadith clarifies that a woman does not need to undo her braids for Ghusl (ritual bath) from Janabah or Haidah (menstruation); rather, pouring three handfuls of water over the head is sufficient to ensure water reaches the scalp."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (330)",
+      "english": "Reported by Muslim (330)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم سلمة بنت أبي أمية",
+        "english": "Umm Salamah bint Abi Umayyah"
+      },
+      "slug": "umm-salamah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=hadith_ghusl_105",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غسل میں آسانی",
+        "english": "Facilitation in Ghusl"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بال کھولنے کی ضرورت نہیں",
+              "english": "No Need to Undo Braids"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم صلی اللہ علیہ وسلم نے واضح فرمایا کہ عورت کے لیے بندھے ہوئے بال کھولنا ضروری نہیں۔",
+                "یہ حکم اس لیے دیا گیا تاکہ ہر بار غسل کے لیے مشقت سے بچا جا سکے اور سہولت رہے۔",
+                "شرعی احکام میں اللہ تعالیٰ نے مسلمانوں کے لیے آسانیاں رکھی ہیں اور مشقت سے روکا ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) clearly stated that it is not necessary for a woman to undo her braided hair for the ritual bath.",
+                "This ruling was given to avoid difficulty and provide convenience, saving time and effort for women in their daily lives.",
+                "In Islamic rulings, Allah has placed ease for Muslims and has forbidden placing excessive burden upon them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی کی کفایت",
+              "english": "Sufficiency of Water"
+            },
+            "content": {
+              "urdu": [
+                "آپ صلی اللہ علیہ وسلم نے تین چلو پانی سر پر بہانے کو کافی قرار دیا ہے بشرطیکہ وہ جڑوں تک پہنچ جائے۔",
+                "تین چلو پانی ڈالنے سے یہ یقین ہو جاتا ہے کہ پانی بالوں کی جڑوں کو تر کر دے گا، جو کہ طہارت کے لیے ضروری ہے۔",
+                "باقی جسم پر پانی بہانا (افاضہ) کرنا بھی ضروری ہے، جیسا کہ امام مسلم کی اضافی روایت میں وضاحت ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) deemed pouring three handfuls of water over the head sufficient, provided it reaches the roots.",
+                "Pouring three handfuls ensures conviction that the water has moistened the entire scalp, which is necessary for purification.",
+                "Pouring water over the rest of the body (ifadah) is also mandatory, as clearly specified in the additional narration cited by Imam Muslim."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غسل جنابت اور حیض میں فرق",
+        "english": "Distinction in Ghusl for Janabah and Haidah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنوبی اور حیض کا غسل",
+              "english": "Ghusl for Janabah vs. Haid"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں ام سلمہ رضی اللہ عنہا نے دونوں طرح کے غسل کے متعلق سوال کیا، لیکن آپ صلی اللہ علیہ وسلم نے ایک ہی حکم دیا۔",
+                "جمہور فقہاء کے نزدیک بال نہ کھولنے کی اجازت غسل جنابت اور غسل حیض دونوں کے لیے یکساں ہے۔",
+                "یہ اس بات کی دلیل ہے کہ دونوں بڑے غسلوں کے لیے سر کے بالوں کے معاملے میں ایک ہی طریقہ کافی ہے۔"
+              ],
+              "english": [
+                "In the Hadith, Umm Salamah (RA) inquired about both types of Ghusl, but the Prophet (PBUH) gave a single ruling for both.",
+                "According to the majority of jurists, the permission not to undo the braids applies equally to Ghusl from Janabah and Ghusl from Haid (menstruation).",
+                "This serves as evidence that the same method is sufficient concerning the hair for both major ritual baths requiring full purification."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اختلاف رائے اور احتیاط",
+              "english": "Difference of Opinion and Caution"
+            },
+            "content": {
+              "urdu": [
+                "امام مالک رحمۃ اللہ علیہ کی رائے میں غسل حیض کے لیے بال کھولنا افضل ہے تاکہ بالوں میں مکمل پاکیزگی حاصل ہو۔",
+                "تاہم، حدیثِ ام سلمہ کی روشنی میں عدمِ کھولنا سنت سے ثابت ہے اور کافی مانا گیا ہے۔",
+                "احتیاط کا پہلو یہ ہے کہ پانی جڑوں تک پہنچے، خواہ بال بندھے ہوں یا کھلے ہوں۔"
+              ],
+              "english": [
+                "Imam Malik (RH) held the view that it is preferable to undo the hair for Ghusl from Haid to ensure complete purification of the entire hair.",
+                "Nevertheless, based on the explicit Hadith of Umm Salamah (RA), not undoing the braids is established by the Sunnah and is deemed sufficient.",
+                "The primary cautionary point is to ensure that the water reaches the scalp's roots, regardless of whether the hair is braided or unbraided."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مشقت سے دوری",
+              "english": "Avoiding Hardship"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں طہارت کو آسان بنایا گیا ہے تاکہ لوگ عبادات میں باقاعدہ اور آسانی سے شامل ہو سکیں۔",
+                "عورتوں کے لیے بار بار بال کھولنا اور بنانا ایک مشکل اور وقت طلب کام ہے۔",
+                "اس حکم میں شریعت کی وہ آسانی نظر آتی ہے جو اللہ نے اپنے بندوں کے لیے پسند فرمائی ہے۔"
+              ],
+              "english": [
+                "Purification in Islam is simplified so that people can regularly and easily engage in acts of worship.",
+                "Undoing and re-braiding hair repeatedly would constitute a significant hardship and be time-consuming for women.",
+                "This ruling demonstrates the ease of the Shariah that Allah prefers for His servants, avoiding unnecessary difficulty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استبراء کا اصول",
+              "english": "Principle of Istibra' (Thorough Cleansing)"
+            },
+            "content": {
+              "urdu": [
+                "بالوں کی جڑوں کو تر کرنا ہی استبراء (مکمل طہارت) کے لیے بنیادی شرط ہے۔",
+                "جب جڑوں تک پانی پہنچ جائے تو بالوں کے باقی حصے کو پاک کرنا لازم نہیں رہتا، خواہ وہ بندھے ہی ہوں۔",
+                "یہی اصول غسل کے فرائض کی ادائیگی کو یقینی بناتا ہے، جبکہ مشقت کو دور کر دیتا ہے۔"
+              ],
+              "english": [
+                "Moistening the roots of the hair is the fundamental requirement for Istibra' (thorough cleansing) of the head.",
+                "Once the water reaches the roots, purifying the rest of the hair strands is not mandatory, even if they remain braided.",
+                "This principle ensures the fulfillment of the obligatory parts of Ghusl while simultaneously removing undue hardship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طریقہ کار کی ترتیب",
+              "english": "Order of Procedure"
+            },
+            "content": {
+              "urdu": [
+                "عورتیں اس حدیث پر عمل کرتے ہوئے سر پر تین چلو پانی ڈال کر بالوں کی جڑوں کو ضرور تر کریں۔",
+                "اگر بال بہت گھنے ہوں تو جڑوں تک پانی پہنچانے کے لیے بالوں میں انگلیوں سے خلال کر لینا بہتر ہے۔",
+                "اس کے بعد باقی پورے جسم پر پانی بہا کر غسل کو مکمل کریں، جیسا کہ اضافی روایت میں آیا ہے۔"
+              ],
+              "english": [
+                "Women should act upon this Hadith by pouring three handfuls of water over the head and ensuring the hair roots are wet.",
+                "If the hair is very thick, it is better to run fingers through the hair roots to ensure the water penetrates the scalp.",
+                "Following this, the Ghusl is completed by pouring water over the entire body, as instructed in the supplementary narration."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کی اہمیت",
+              "english": "Importance of Intention (Niyyah)"
+            },
+            "content": {
+              "urdu": [
+                "غسل شروع کرنے سے پہلے طہارت کی نیت کرنا شرعی حکم کی تعمیل کے لیے ضروری ہے۔",
+                "یہ حدیث عمل کو آسان بناتی ہے، لیکن غسل کی نیت کے بغیر طہارت حاصل نہیں ہوگی۔",
+                "ہر مسلمان کو چاہیے کہ وہ آسانی کے ساتھ شرعی اصولوں کو پورا کرے اور نیت پر قائم رہے۔"
+              ],
+              "english": [
+                "Making the intention (Niyyah) for purification before starting the Ghusl is necessary to comply with the religious command.",
+                "While this Hadith simplifies the action, purification will not be achieved without the proper intention for Ghusl.",
+                "Every Muslim should strive to fulfill the legal requirements with ease while remaining firm on the intention."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

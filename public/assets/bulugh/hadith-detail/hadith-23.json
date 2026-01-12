@@ -1,0 +1,269 @@
+{
+  "hadithId": 23,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["1:23"],
+    "kitabId": 1,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 3
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه البخاري (2991) ، ومسلم (1940)  من طريق محمد بن سيرين، عن أنس به.  وزاد مسلم: \"من عمل الشيطان\".",
+    "urdu": "صحیح حدیث ہے۔ اسے بخاری (2991) اور مسلم (1940) نے محمد بن سرین کے طریق سے انس بن مالک رضی اللہ عنہ سے روایت کیا ہے۔ مسلم نے مزید کہا: \"یہ شیطان کا کام ہے\"۔",
+    "english": "Authentic. Reported by Al-Bukhari (2991) and Muslim (1940) through the chain of Muhammad ibn Sirin from Anas (RA). Muslim added: \"It is the work of Satan.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "خَيْبَر",
+      "english": "Khaybar (Battle/Place)",
+      "urdu": "غزوہ خیبر"
+    },
+    {
+      "arabic": "أَبَا طَلْحَةَ",
+      "english": "Abu Talha (Companion)",
+      "urdu": "ابوطلحہ"
+    },
+    {
+      "arabic": "يَنْهَيَانِكُمْ",
+      "english": "They both forbid you",
+      "urdu": "وہ دونوں تمہیں منع کرتے ہیں"
+    },
+    {
+      "arabic": "لُحُومِ اَلْحُمُرِ اَلْأَهلِيَّةِ",
+      "english": "Meat of domestic donkeys",
+      "urdu": "گھریلو گدھوں کا گوشت"
+    },
+    {
+      "arabic": "رِجْسٌ",
+      "english": "Impure/Unclean",
+      "urdu": "ناپاک"
+    },
+    {
+      "arabic": "نَادَى",
+      "english": "He announced/proclaimed",
+      "urdu": "اس نے اعلان کیا"
+    },
+    {
+      "arabic": "عَمَلِ اَلشَّيْطَان",
+      "english": "Work of Satan",
+      "urdu": "شیطان کا کام"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث غزوہ خیبر کے موقع پر نبی اکرم ﷺ کی طرف سے گھریلو گدھوں کے گوشت کو کھانے کی حرمت کا اعلان کرتی ہے اور اسے شرعی ناپاکی (رجس) قرار دیتی ہے۔",
+    "english": "This Hadith announces the prohibition of consuming the meat of domestic donkeys by the Prophet ﷺ during the Battle of Khaybar, declaring it to be ritually impure (Rijs)."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2991)",
+      "english": "Reported by Al-Bukhari (2991)"
+    },
+    {
+      "arabic": "رواه مسلم (1940)",
+      "english": "Reported by Muslim (1940)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 2301,
+      "name": {
+        "arabic": "أَنَسُ بْنُ مَالِكٍ",
+        "english": "Anas ibn Malik"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "گھریلو گدھوں کے گوشت کی حرمت",
+        "english": "Prohibition of Domestic Donkey Meat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قطعی ممانعت",
+              "english": "Absolute Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ کا یہ حکم اللہ اور اس کے رسول کی طرف سے ایک قطعی اور دائمی ممانعت ہے۔",
+                "یہ حکم اس وقت جاری ہوا جب مسلمان غزوہ خیبر کے دوران شدید بھوک میں اس گوشت کو کھا رہے تھے۔",
+                "یہ حرمت صرف گھریلو گدھوں کے لیے ہے، جب کہ جنگلی گدھے (حمر وحشیۃ) حلال ہیں۔"
+              ],
+              "english": [
+                "This command from the Prophet ﷺ is an absolute and permanent prohibition from Allah and His Messenger.",
+                "The ruling was issued when Muslims were consuming this meat out of severe hunger during the Battle of Khaybar.",
+                "This prohibition applies only to domestic donkeys, while wild donkeys (Humar Wahshiyyah) remain permissible."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رجس کا معنی",
+              "english": "Meaning of Rijs (Impurity)"
+            },
+            "content": {
+              "urdu": [
+                "گوشت کو 'رجس' (ناپاک) قرار دینے کا مطلب یہ ہے کہ اس کی حرمت نجاستِ حکمی پر مبنی ہے۔",
+                "رجس سے مراد شرعی نجاست ہے جو اسے کھانے سے منع کرتی ہے اور اس کے استعمال کو مکروہ بناتی ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ نجاست صرف مادی نہیں بلکہ شرعی بھی ہو سکتی ہے۔"
+              ],
+              "english": [
+                "Declaring the meat as 'Rijs' (impure) means its prohibition is based on ritual impurity.",
+                "Rijs refers to legal impurity that forbids its consumption and makes its use disliked.",
+                "This ruling proves that impurity can be legal/ritual, not just physical."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور حلال و حرام کے اصول",
+        "english": "Juristic and Halal/Haram Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرمت کی وجوہات",
+              "english": "Reasons for Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے حرمت کی وجوہات میں یہ شامل کیا ہے کہ گدھے عام طور پر بوجھ اٹھانے اور سواری کے کام آتے ہیں۔",
+                "اگر انہیں حلال کر دیا جاتا تو سواری کا ذریعہ ختم ہونے کا خطرہ تھا، جس سے مسلمانوں کو مشقت ہوتی۔",
+                "مسلم کی روایت میں اسے 'شیطان کا کام' کہنا حرمت کی ایک اضافی شدت کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Jurists noted that donkeys are generally used for carrying burdens and riding.",
+                "If they were made permissible, the means of transport might have been endangered, causing hardship for Muslims.",
+                "Calling it 'the work of Satan' (in Muslim's narration) indicates an added severity to the prohibition."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عام اعلان کی اہمیت",
+              "english": "Importance of Public Announcement"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ابوطلحہ کو بلند آواز سے اعلان کا حکم دیا تاکہ حکم سب تک پہنچ جائے اور کوئی لاعلم نہ رہے۔",
+                "یہ واقعہ سنت میں رہنمائی دیتا ہے کہ اہم شرعی احکام کو فوراً اور واضح طور پر مشتہر کرنا چاہیے۔",
+                "مسلمانوں نے اس حکم کے بعد تمام پکایا ہوا گوشت فوراً پھینک دیا، جو اطاعت کی اعلیٰ مثال ہے۔"
+              ],
+              "english": [
+                "The Prophet ﷺ commanded Abu Talha to announce loudly so that the ruling would reach everyone and no one would remain ignorant.",
+                "This incident guides us that important legal rulings should be publicized immediately and clearly.",
+                "The Muslims immediately disposed of all the cooked meat, showing the highest example of obedience."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تاریخی اور تقابلی پہلو",
+        "english": "Historical and Comparative Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غزوہ خیبر کا تناظر",
+              "english": "Context of the Battle of Khaybar"
+            },
+            "content": {
+              "urdu": [
+                "یہ واقعہ غزوہ خیبر میں پیش آیا جب مسلمان شدید بھوک کا شکار تھے اور جانور ذبح کر کے گوشت پکا رہے تھے۔",
+                "اس حال میں حرمت کا حکم سن کر گوشت کو پھینک دینا صحابہ کی اطاعتِ رسول ﷺ کی عظمت ظاہر کرتا ہے۔",
+                "مشکل حالات میں بھی شرعی حکم کو مقدم رکھنا ایمان کا تقاضا ہے۔"
+              ],
+              "english": [
+                "This incident occurred during the Battle of Khaybar when the Muslims were severely hungry and cooking the animals.",
+                "Hearing the prohibition and immediately discarding the meat shows the immense obedience of the Companions to the Prophet ﷺ.",
+                "Prioritizing the legal command even in difficult circumstances is a requirement of faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنگلی گدھے کا جواز",
+              "english": "Permissibility of Wild Donkey"
+            },
+            "content": {
+              "urdu": [
+                "یہ حرمت صرف 'اَلْحُمُرِ اَلْأَهلِيَّةِ' (گھریلو گدھوں) کے لیے مخصوص ہے، جنگلی گدھے کا گوشت حلال ہے۔",
+                "یہ فرق اس بات پر روشنی ڈالتا ہے کہ اسلام میں حلال و حرام کے اصول میں مخصوص حکمتیں موجود ہیں۔",
+                "جنگلی گدھے کو عربی میں 'حمار وحشی' کہتے ہیں اور وہ شکاری جانوروں میں شامل نہیں ہے۔"
+              ],
+              "english": [
+                "This prohibition is specific to 'domestic donkeys'; the meat of wild donkeys is permissible.",
+                "This distinction highlights that the principles of Halal and Haram in Islam contain specific wisdom.",
+                "The wild donkey is called 'Himar Wahshi' in Arabic and is not categorized among predatory animals."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مستقل عملی درس",
+        "english": "Permanent Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اطاعتِ رسول کی بنیاد",
+              "english": "Foundation of Obedience to the Messenger"
+            },
+            "content": {
+              "urdu": [
+                "اللہ اور اس کے رسول کے ہر حکم کو بغیر کسی تذبذب کے تسلیم کرنا ہی ایمان کی بنیاد ہے۔",
+                "نبی ﷺ کی ہر ہدایت (نہ صرف قرآن) شریعت کا مستقل حصہ اور واجب العمل ہے۔",
+                "اس حدیث کا متفق علیہ ہونا اس کے حکم کی قطعیت کی دلیل ہے۔"
+              ],
+              "english": [
+                "Unquestioning acceptance of every command from Allah and His Messenger is the foundation of faith.",
+                "Every instruction of the Prophet ﷺ (not just the Qur'an) is a permanent and obligatory part of Sharia.",
+                "The consensus on this Hadith proves the definitive nature of its ruling."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حلال رزق کی تلاش",
+              "english": "Seeking Halal Sustenance"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو اپنی خوراک میں ہمیشہ حلال اور پاکیزہ چیزوں کا انتخاب کرنا چاہیے۔",
+                "جس چیز کی حرمت واضح ہو جائے، بھوک یا کسی اور عذر کی وجہ سے اس سے رجوع نہیں کرنا چاہیے۔",
+                "حلال روزی اور پاکیزہ خوراک کی تلاش کرنا ایمان کا حصہ ہے۔"
+              ],
+              "english": [
+                "A Muslim must always choose Halal and pure foods for their sustenance.",
+                "Once a thing is clearly prohibited, it must not be reverted to, even due to hunger or any other excuse.",
+                "Seeking Halal sustenance and pure food is part of faith."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

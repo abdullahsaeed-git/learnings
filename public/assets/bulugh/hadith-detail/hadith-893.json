@@ -1,0 +1,259 @@
+{
+  "hadithId": 893,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/92"],
+    "kitabId": 8,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب النكاح",
+    "babId": 68
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5173)، ومسلم (1429). والحديث دليل على وجوب إجابة دعوة الوليمة.",
+    "urdu": "صحیح۔ اسے بخاری (5173) اور مسلم (1429) نے روایت کیا ہے۔ یہ حدیث ولیمہ کی دعوت قبول کرنے کے وجوب پر دلیل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5173) and Muslim (1429). The Hadith is evidence for the obligation of accepting a Walimah invitation."
+  },
+  "importantWords": [
+    {
+      "arabic": "دُعِيَ",
+      "english": "Invited",
+      "urdu": "دعوت دی گئی"
+    },
+    {
+      "arabic": "الْوَلِيمَةِ",
+      "english": "Wedding feast",
+      "urdu": "ولیمہ"
+    },
+    {
+      "arabic": "فَلْيَأْتِهَا",
+      "english": "He must attend it",
+      "urdu": "تو اسے آنا چاہیے"
+    },
+    {
+      "arabic": "فَلْيُجِبْ",
+      "english": "He should respond",
+      "urdu": "تو اسے قبول کرنا چاہیے"
+    },
+    {
+      "arabic": "عُرْسًا",
+      "english": "Wedding",
+      "urdu": "شادی"
+    }
+  ],
+  "summary": {
+    "urdu": "ولیمہ کی دعوت قبول کرنا سنتِ مؤکدہ بلکہ بعض فقہاء کے نزدیک واجب ہے، کیونکہ یہ مسلمانوں کے درمیان باہمی محبت اور خوشی کے اظہار کا ذریعہ ہے۔",
+    "english": "Accepting a Walimah invitation is a stressed Sunnah (and obligatory according to some jurists) as it fosters mutual love and shares joy among Muslims."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5173)",
+      "english": "Sahih al-Bukhari (5173)"
+    },
+    {
+      "arabic": "صحيح مسلم (1429)",
+      "english": "Sahih Muslim (1429)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI7lT3w0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ولیمہ کی دعوت کا شرعی حکم",
+        "english": "Legal Status of Walimah Invitation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قبولیت کا وجوب",
+              "english": "Obligation of Acceptance"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک ولیمہ کی پہلی دعوت قبول کرنا واجب ہے بشرطیکہ کوئی شرعی عذر نہ ہو۔",
+                "نبی کریم ﷺ کا حکم 'فلیأتھا' (وہ ضرور آئے) وجوب کے معنی میں لیا جاتا ہے۔",
+                "دعوت قبول نہ کرنا میزبان کی دل شکنی اور باہمی تعلقات میں دوری کا سبب بنتا ہے۔"
+              ],
+              "english": [
+                "According to the majority of jurists, accepting the first Walimah invitation is mandatory unless there is a valid Sharia excuse.",
+                "The Prophet's (ﷺ) command 'he should attend' is interpreted as an obligation.",
+                "Declining an invitation without reason can cause hurt feelings and weaken social bonds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر دعوتوں کا حکم",
+              "english": "Ruling on Other Invitations"
+            },
+            "content": {
+              "urdu": [
+                "شادی کے علاوہ دیگر جائز تقریبات (مثلاً عقیقہ یا ضیافت) کی دعوت قبول کرنا مستحب ہے۔",
+                "مسلم کی روایت 'عرسًا کان او نحوہ' سے معلوم ہوتا ہے کہ ہر نیک مقصد کے لیے بلائی گئی دعوت کی اہمیت ہے۔",
+                "مسلمانوں کی خوشیوں میں شریک ہونا بھائی چارے کا تقاضا ہے۔"
+              ],
+              "english": [
+                "Accepting invitations for other lawful events (like Aqiqah or general feasts) is highly recommended (Mustahabb).",
+                "Muslim's narration 'whether it be a wedding or something similar' highlights the importance of responding to all good intentions.",
+                "Participating in the joys of fellow Muslims is a requirement of brotherhood."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دعوت قبول کرنے کی شرائط",
+        "english": "Conditions for Accepting Invitations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "منکرات سے پاک محفل",
+              "english": "Environment Free from Forbidden Acts"
+            },
+            "content": {
+              "urdu": [
+                "اگر محفل میں خلافِ شرع امور (ناچ گانا، شراب، یا فحاشی) ہوں تو وہاں جانا جائز نہیں۔",
+                "اگر وہاں جانے سے ان منکرات کو روکا جا سکتا ہو تو اصلاح کی نیت سے جانا بہتر ہے۔",
+                "ایسی جگہ جہاں اللہ کی نافرمانی ہو رہی ہو، وہاں شریک ہونا گناہ میں تعاون کے مترادف ہے۔"
+              ],
+              "english": [
+                "It is not permissible to attend if the gathering involves un-Islamic acts (forbidden music, alcohol, or indecency).",
+                "If attending can stop these forbidden acts, one should go with the intention of reform.",
+                "Participating in a place where Allah is being disobeyed is akin to cooperating in sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عام اور خاص دعوت",
+              "english": "General vs Specific Invitations"
+            },
+            "content": {
+              "urdu": [
+                "وجوب اس وقت ہوتا ہے جب دعوت کسی مخصوص شخص کو دی گئی ہو۔",
+                "اگر اعلان عام ہو (جو آئے کھا لے) تو وہاں جانا واجب نہیں بلکہ اختیاری ہے۔",
+                "میزبان کی نیت صرف اللہ کی رضا اور سنت کی پیروی ہونی چاہیے، نہ کہ ریاکاری۔"
+              ],
+              "english": [
+                "The obligation arises when the invitation is directed specifically to an individual.",
+                "If the invitation is general (open for everyone), attendance is optional rather than mandatory.",
+                "The host's intention should be for Allah's sake and following the Sunnah, not for showing off."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روزہ دار کے لیے حکم",
+        "english": "Ruling for the One Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفل روزہ اور دعوت",
+              "english": "Voluntary Fasting and Invitations"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص نفل روزہ سے ہو تو وہ دعوت میں شریک ہو کر برکت کی دعا کر سکتا ہے۔",
+                "اگر کھانا نہ کھانے سے میزبان کو بہت زیادہ دکھ ہو تو روزہ توڑ کر کھانا کھانا بھی جائز ہے۔",
+                "فرض روزے کی حالت میں کھانا پینا جائز نہیں، صرف دعا پر اکتفا کیا جائے گا۔"
+              ],
+              "english": [
+                "If one is observing a voluntary fast, they should still attend and supplicate for blessings.",
+                "If not eating will greatly upset the host, it is permissible to break the voluntary fast and eat.",
+                "During an obligatory fast, one cannot eat but must still attend and offer prayers for the host."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کی اہمیت",
+              "english": "Importance of Supplication"
+            },
+            "content": {
+              "urdu": [
+                "دعوت میں شرکت کا ایک بڑا مقصد میزبان اور نئے جوڑے کے لیے خیر و برکت کی دعا کرنا ہے۔",
+                "آپ ﷺ نے سکھایا کہ ہم دسترخوان پر بیٹھ کر میزبان کے رزق اور مغفرت کی دعا کریں۔",
+                "یہ عمل مسلمانوں کے درمیان قلبی تعلق کو مضبوط بناتا ہے۔"
+              ],
+              "english": [
+                "A major purpose of attending is to pray for the well-being and blessings of the host and the couple.",
+                "The Prophet (ﷺ) taught us to pray for the host's sustenance and forgiveness while at the meal.",
+                "This practice strengthens the spiritual and emotional bond between Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سادگی اور تواضع",
+              "english": "Simplicity and Humility"
+            },
+            "content": {
+              "urdu": [
+                "دعوت قبول کرنا تواضع (عاجزی) کی علامت ہے، چاہے میزبان غریب ہی کیوں نہ ہو۔",
+                "اسلام میں امیری اور غریبی کی بنیاد پر دعوتوں کو رد کرنے کی مذمت کی گئی ہے۔",
+                "نبی کریم ﷺ غلاموں کی دعوت بھی قبول فرما لیتے تھے۔"
+              ],
+              "english": [
+                "Accepting an invitation is a sign of humility, even if the host is poor.",
+                "Islam condemns rejecting invitations based on social status or wealth.",
+                "The Prophet (ﷺ) used to accept invitations even from slaves."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ہم آہنگی",
+              "english": "Social Harmony"
+            },
+            "content": {
+              "urdu": [
+                "اجتماعی ضیافتیں معاشرے میں اتحاد اور یگانگت پیدا کرنے کا ذریعہ ہیں۔",
+                "اسلام انفرادی زندگی کے بجائے سماجی جڑاؤ پر زور دیتا ہے۔",
+                "سنت کے مطابق کی گئی تقریبات اللہ کی رحمت کا باعث بنتی ہیں۔"
+              ],
+              "english": [
+                "Collective feasts are a means to create unity and solidarity within society.",
+                "Islam emphasizes social connectivity over isolated individual living.",
+                "Events conducted according to the Sunnah attract the Mercy of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

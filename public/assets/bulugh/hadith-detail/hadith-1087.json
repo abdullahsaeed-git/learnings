@@ -1,0 +1,259 @@
+{
+  "hadithId": 1087,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/8"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه النسائي (4172)، وأبو داود (2479)، وأحمد (16715)، وصححه ابن حبان (4585). وأخرجه الدارمي أيضاً.",
+    "urdu": "صحیح۔ اسے نسائی (4172)، ابوداؤد (2479) اور احمد (16715) نے روایت کیا ہے۔ ابن حبان نے اسے صحیح قرار دیا ہے۔ اس حدیث کا سیاق یہ ہے کہ صحابہ کے ایک وفد نے ہجرت کے انقطاع کے بارے میں سوال کیا تھا۔",
+    "english": "Sahih. Reported by An-Nasa'i (4172), Abu Dawud (2479), and Ahmad (16715). It was authenticated by Ibn Hibban (4585). The context involves a delegation asking if Hijrah had ended after the conquest."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَنْقَطِعُ",
+      "english": "Will not cease",
+      "urdu": "ختم نہیں ہوگی"
+    },
+    {
+      "arabic": "الْهِجْرَةُ",
+      "english": "Migration",
+      "urdu": "ہجرت"
+    },
+    {
+      "arabic": "قُوتِلَ",
+      "english": "Is fought",
+      "urdu": "جنگ کی جائے"
+    },
+    {
+      "arabic": "الْعَدُوُّ",
+      "english": "The enemy",
+      "urdu": "دشمن"
+    },
+    {
+      "arabic": "مَا",
+      "english": "As long as",
+      "urdu": "جب تک"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ہجرت کے دائمی حکم کو واضح کیا گیا ہے کہ اگرچہ مکہ سے ہجرت ختم ہو گئی، لیکن جہاں کہیں دین کی خاطر نقل مکانی کی ضرورت ہو، وہ قیامت تک باقی ہے۔",
+    "english": "This Hadith clarifies the perpetual nature of migration; although migration specifically from Makkah ended, the general command to migrate for the sake of faith remains valid until the Last Day."
+  },
+  "references": [
+    {
+      "arabic": "رواه النسائي (4172)",
+      "english": "Narrated by An-Nasa'i (4172)"
+    },
+    {
+      "arabic": "رواه أبو داود (2479)",
+      "english": "Narrated by Abu Dawud (2479)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن السعدي",
+        "english": "Abdullah bin al-Sa'di"
+      },
+      "slug": "abdullah-bin-al-sadi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3Xn89gA",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ہجرت کا تسلسل",
+        "english": "The Continuity of Migration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہجرت اور جہاد کا تعلق",
+              "english": "Connection Between Hijrah and Jihad"
+            },
+            "content": {
+              "urdu": [
+                "ہجرت اور جہاد دونوں دین کی حفاظت کے لیے بنیادی ستون ہیں۔",
+                "جب تک حق اور باطل کی جنگ رہے گی، ہجرت کا حکم باقی رہے گا۔",
+                "یہ حدیث واضح کرتی ہے کہ ہجرت کا ثواب کسی خاص دور تک محدود نہیں۔"
+              ],
+              "english": [
+                "Migration and Jihad are both fundamental pillars for protecting the faith.",
+                "As long as the struggle between truth and falsehood exists, Hijrah remains valid.",
+                "This Hadith clarifies that the reward for migration is not limited to a specific era."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہجرت کی مختلف اقسام",
+              "english": "Various Types of Migration"
+            },
+            "content": {
+              "urdu": [
+                "ایک ہجرت مکانی ہے جو دارالکفر سے دارالاسلام کی طرف کی جاتی ہے۔",
+                "دوسری ہجرت معنوی ہے یعنی گناہوں کو چھوڑ کر نیکی کی طرف آنا۔",
+                "دین پر عمل کے لیے مشکلات والے علاقے سے نکلنا بھی ہجرت ہے۔"
+              ],
+              "english": [
+                "One type is physical migration from lands of disbelief to lands of Islam.",
+                "Another is spiritual migration, which is abandoning sins for the sake of righteousness.",
+                "Moving from a place of religious difficulty to practice faith freely is also Hijrah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مکہ سے ہجرت کا انقطاع",
+        "english": "Cessation of Migration from Makkah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لا ہجرۃ بعد الفتح کی تشریح",
+              "english": "Explanation of 'No Hijrah After Victory'"
+            },
+            "content": {
+              "urdu": [
+                "فتحِ مکہ کے بعد مکہ سے ہجرت فرض نہیں رہی کیونکہ وہ اسلامی شہر بن گیا۔",
+                "اس کا مطلب یہ نہیں کہ ہجرت کا پورا نظام ہی ختم ہو گیا ہے۔",
+                "دیگر علاقوں سے جہاں فتنہ ہو، ہجرت کا حکم تاقیامت برقرار رہے گا۔"
+              ],
+              "english": [
+                "After the conquest, migrating from Makkah was no longer obligatory as it became Islamic.",
+                "This does not imply that the entire system of migration has been abolished.",
+                "The command to migrate from other regions facing persecution remains until Judgment Day."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کے خدشات کا ازالہ",
+              "english": "Addressing the Companions' Concerns"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام کو فکر تھی کہ شاید اب وہ ہجرت کی فضیلت نہیں پا سکیں گے۔",
+                "نبی ﷺ نے ان کی تسلی فرمائی کہ ہجرت کے مواقع ختم نہیں ہوئے۔",
+                "دین کی خاطر کسی بھی قربانی کا اجر اللہ کے ہاں کبھی ضائع نہیں ہوتا۔"
+              ],
+              "english": [
+                "The Companions worried that they might lose the opportunity for Hijrah's virtues.",
+                "The Prophet (ﷺ) reassured them that opportunities for migration have not ended.",
+                "The reward for any sacrifice made for the sake of religion is never lost with Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دفاعِ اسلام کی ضرورت",
+        "english": "Necessity of Defending Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دشمن کی موجودگی",
+              "english": "Presence of the Enemy"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں دشمن سے جنگ کا ذکر ہجرت کی بقا کی علامت قرار دیا گیا ہے۔",
+                "جب تک اسلام کے مخالفین سرگرم ہیں، مسلمانوں کو ہجرت و جہاد کے لیے تیار رہنا چاہیے۔",
+                "یہ حکم مسلمانوں کو دفاعی لحاظ سے بیدار اور مستعد رکھنے کے لیے ہے۔"
+              ],
+              "english": [
+                "The mention of fighting the enemy is a sign of the survival of the Hijrah ruling.",
+                "As long as opponents of Islam are active, Muslims must be ready for Hijrah and Jihad.",
+                "This command is meant to keep Muslims defensive, alert, and prepared."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہجرت کا وسیع مفہوم",
+              "english": "Broad Concept of Hijrah"
+            },
+            "content": {
+              "urdu": [
+                "ہجرت صرف ایک جگہ سے دوسری جگہ جانا نہیں بلکہ ایک مقصد کا حصول ہے۔",
+                "کسی بھی برائی کے ماحول سے نیکی کے ماحول کی طرف منتقل ہونا ہجرت ہے۔",
+                "اسلامی معاشرے کی تشکیل کے لیے نقل مکانی کرنا ایک عظیم عبادت ہے۔"
+              ],
+              "english": [
+                "Hijrah is not just moving locations; it is the pursuit of a sacred objective.",
+                "Moving from an environment of evil to an environment of goodness is Hijrah.",
+                "Migrating to establish and strengthen an Islamic society is a great act of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "توبہ اور ہجرت",
+              "english": "Repentance and Migration"
+            },
+            "content": {
+              "urdu": [
+                "ایک اور روایت کے مطابق ہجرت تب تک ختم نہیں ہوگی جب تک توبہ کا دروازہ کھلا ہے۔",
+                "گناہوں کی زمین چھوڑنا اور نیکی کی طرف قدم بڑھانا ہی اصل ہجرت ہے۔",
+                "ہمیں ہر اس چیز سے ہجرت کرنی چاہیے جو اللہ کی نافرمانی کی طرف لے جائے۔"
+              ],
+              "english": [
+                "According to another report, Hijrah won't end until the door of repentance closes.",
+                "Leaving the land of sins and stepping toward righteousness is the true Hijrah.",
+                "We must migrate from everything that leads to the disobedience of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمان کی حفاظت",
+              "english": "Protection of Faith"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی جگہ ایمان پر قائم رہنا ناممکن ہو جائے تو وہاں سے ہجرت کرنا لازمی ہے۔",
+                "دنیاوی مفادات پر دین کی حفاظت کو ترجیح دینا ہی ایمان کا تقاضا ہے۔",
+                "اللہ کی زمین وسیع ہے اور وہ ہجرت کرنے والوں کے لیے راستے کھول دیتا ہے۔"
+              ],
+              "english": [
+                "If staying in a place makes practicing faith impossible, migrating becomes mandatory.",
+                "Prioritizing the protection of faith over worldly interests is a requirement of Imaan.",
+                "Allah's earth is vast, and He opens ways for those who migrate for His sake."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

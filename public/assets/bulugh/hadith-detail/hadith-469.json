@@ -1,0 +1,259 @@
+{
+  "hadithId": 469,
+  "hadithNo": 45,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف جدا. رواه الدارقطني (2/76) والبيهقي (4/54). في سنده ابن جريج وهو مدلس، وفيه رواة آخرون فيهم ضعف، لكن أصل حثو التراب ثلاثا ثبت من أحاديث أخرى صحيحة عن أبي هريرة وغيره.",
+    "urdu": "یہ روایت سنداً بہت ضعیف ہے۔ اسے دارقطنی (2/76) اور بیہقی (4/54) نے روایت کیا ہے۔ اس کی سند میں ابن جریج مدلس ہیں اور دیگر راویوں پر بھی کلام ہے۔ تاہم، قبر پر تین بار مٹی ڈالنے کا عمل دیگر صحیح احادیث (مثلاً ابوہریرہ کی روایت) سے ثابت ہے۔",
+    "english": "Very Weak. Reported by ad-Daraqutni (2/76) and al-Bayhaqi (4/54). Its chain contains Ibn Jurayj who is a Mudallis, and other weak narrators. However, the practice of throwing three handfuls of earth is established through other authentic Hadiths."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَثَى",
+      "english": "Threw handfuls",
+      "urdu": "مٹی ڈالی / لپ بھر کر پھینکا"
+    },
+    {
+      "arabic": "ثَلَاثَ",
+      "english": "Three",
+      "urdu": "تین"
+    },
+    {
+      "arabic": "حَثَيَاتٍ",
+      "english": "Handfuls of earth",
+      "urdu": "لپ / مٹھی بھر مٹی"
+    },
+    {
+      "arabic": "قَائِمٌ",
+      "english": "Standing",
+      "urdu": "کھڑے ہوئے"
+    },
+    {
+      "arabic": "الْقَبْرَ",
+      "english": "The Grave",
+      "urdu": "قبر"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تدفین کے بعد قبر پر اپنے ہاتھوں سے تین بار مٹی ڈالنے کے مسنون عمل کا ذکر ہے، جو کہ میت کے لیے دعا اور تدفین میں شرکت کا ایک طریقہ ہے۔",
+    "english": "This Hadith mentions the Sunnah act of throwing three handfuls of soil into the grave after burial, signifying participation in the burial process and preparation for the final rest."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني (2/76)",
+      "english": "Sunan ad-Daraqutni (2/76)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (1565)",
+      "english": "Sunan Ibn Majah (1565) - Supporting Evidence"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عامر بن ربيعة العنزي",
+        "english": "Amir bin Rabi'ah al-Anzi"
+      },
+      "slug": "amir-bin-rabiah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYJvB0_V_wM",
+  "grade": {
+    "arabic": "ضعيف جدا (لكن المعنى ثابت)",
+    "english": "Very Weak (But the meaning is established)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قبر پر مٹی ڈالنے کی سنت",
+        "english": "The Sunnah of Throwing Earth"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین بار مٹی ڈالنا",
+              "english": "Throwing Earth Three Times"
+            },
+            "content": {
+              "urdu": [
+                "تدفین کے وقت سرہانے کی طرف سے تین بار مٹی ڈالنا مستحب عمل ہے۔",
+                "یہ عمل میت کی آخری خدمت اور تدفین میں فعال شرکت کی علامت ہے۔",
+                "نبی کریم ﷺ نے خود اپنے مبارک ہاتھوں سے عثمان بن مظعون کی قبر پر مٹی ڈالی۔"
+              ],
+              "english": [
+                "It is recommended to throw earth three times from the head-side of the grave.",
+                "This act symbolizes the final service to the deceased and active participation.",
+                "The Prophet (ﷺ) personally threw earth over the grave of Uthman bin Maz'un."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کھڑے ہو کر مٹی ڈالنا",
+              "english": "Throwing While Standing"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'قائم' کے لفظ سے واضح ہے کہ یہ عمل کھڑے ہو کر کرنا سنت ہے۔",
+                "مٹی ڈالتے وقت عاجزی اور آخرت کی فکر دل میں ہونی چاہیے۔",
+                "اسلام نے تدفین کے ہر مرحلے میں سادگی اور وقار کو ملحوظ رکھا ہے۔"
+              ],
+              "english": [
+                "The word 'Qa'im' clarifies that this act is Sunnah to perform while standing.",
+                "Humility and reflection on the Hereafter should be in the heart at this time.",
+                "Islam maintains simplicity and dignity in every stage of the burial process."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عثمان بن مظعون کی فضیلت",
+        "english": "Virtue of Uthman bin Maz'un"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اولین مہاجر",
+              "english": "The Early Emigrant"
+            },
+            "content": {
+              "urdu": [
+                "عثمان بن مظعون رضی اللہ عنہ پہلے مہاجر تھے جن کا مدینہ میں انتقال ہوا۔",
+                "وہ نبی کریم ﷺ کے رضاعی بھائی اور انتہائی عبادت گزار صحابی تھے۔",
+                "نبی ﷺ نے ان کی وفات پر شدید غم کا اظہار کیا اور ان کی پیشانی کا بوسہ لیا۔"
+              ],
+              "english": [
+                "Uthman bin Maz'un was the first emigrant (Muhajir) to die in Madinah.",
+                "He was the foster brother of the Prophet (ﷺ) and a very devout companion.",
+                "The Prophet (ﷺ) expressed deep grief and kissed his forehead at his death."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بقیع کی پہلی قبر",
+              "english": "First Grave in Baqi'"
+            },
+            "content": {
+              "urdu": [
+                "انہیں جنت البقیع کے قبرستان میں سب سے پہلے دفن کیا گیا۔",
+                "نبی ﷺ نے ان کی قبر پر ایک پتھر بطورِ نشان رکھا تھا۔",
+                "ان کی قبر کی زیارت اور ان کے لیے دعا کرنا سنت سے ثابت ہے۔"
+              ],
+              "english": [
+                "He was the first to be buried in the Al-Baqi' cemetery.",
+                "The Prophet (ﷺ) placed a stone as a marker over his grave.",
+                "Visiting his grave and praying for him is established from the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور عملی نکات",
+        "english": "Juristic and Practical Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مٹی ڈالتے وقت اذکار",
+              "english": "Recitations While Throwing Earth"
+            },
+            "content": {
+              "urdu": [
+                "بعض روایات میں مٹی ڈالتے وقت قرآنی آیات پڑھنے کا ذکر ملتا ہے۔",
+                "پہلی بار 'منہا خلقناکم'، دوسری بار 'وفیہا نعیدکم' پڑھنا مستحسن ہے۔",
+                "تاہم، خاموشی سے صرف مٹی ڈالنا بھی سنت کے مطابق ہے۔"
+              ],
+              "english": [
+                "Some narrations mention reciting Quranic verses while throwing earth.",
+                "Reciting 'From it We created you' during the first handful is liked by some.",
+                "However, throwing earth in silence is also perfectly aligned with the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تدفین میں شرکت کا ثواب",
+              "english": "Reward for Participating in Burial"
+            },
+            "content": {
+              "urdu": [
+                "میت پر مٹی ڈالنا جنازے کے مکمل ثواب (دو قیراط) کے حصول کا ذریعہ ہے۔",
+                "یہ عمل میت کے لواحقین کے ساتھ ہمدردی کا عملی اظہار ہے۔",
+                "ہر مسلمان کو چاہیے کہ وہ جنازے اور تدفین میں بڑھ چڑھ کر حصہ لے۔"
+              ],
+              "english": [
+                "Throwing earth is a way to earn the full reward (two Qirats) of a funeral.",
+                "This act is a practical expression of sympathy for the bereaved family.",
+                "Every Muslim should actively participate in both Janazah and the burial."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور تعلیمی سبق",
+        "english": "Spiritual and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مٹی کی حقیقت",
+              "english": "The Reality of Dust"
+            },
+            "content": {
+              "urdu": [
+                "اپنے ہاتھ سے مٹی ڈالنا انسان کو اس کی اصل یاد دلاتا ہے۔",
+                "یہ منظر تکبر کو ختم کرتا ہے اور عاجزی پیدا کرتا ہے۔",
+                "ہمیں یاد رکھنا چاہیے کہ ایک دن ہم پر بھی اسی طرح مٹی ڈالی جائے گی۔"
+              ],
+              "english": [
+                "Throwing earth with one's own hands reminds man of his origin.",
+                "This scene eradicates pride and fosters true humility in the heart.",
+                "We must remember that one day earth will be thrown over us as well."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میت کے لیے آخری دعا",
+              "english": "Final Prayer for the Dead"
+            },
+            "content": {
+              "urdu": [
+                "تدفین کے بعد قبر کے پاس کھڑے ہو کر استغفار کرنا سنت ہے۔",
+                "نبی ﷺ نے حکم دیا کہ اپنے بھائی کی ثابت قدمی کے لیے دعا کرو۔",
+                "یہ وقت میت کے لیے سب سے زیادہ نازک اور دعاؤں کی ضرورت کا ہوتا ہے۔"
+              ],
+              "english": [
+                "Standing by the grave to seek forgiveness after burial is Sunnah.",
+                "The Prophet (ﷺ) ordered: 'Pray for the steadfastness of your brother.'",
+                "This is the most critical time for the deceased, requiring sincere prayers."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

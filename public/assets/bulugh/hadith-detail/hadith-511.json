@@ -1,0 +1,264 @@
+{
+  "hadithId": 511,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/511"],
+    "kitabId": 4,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 31
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1427)، ومسلم (1034). والحديث أصل في فضل التعفف واليد المعطية.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (1427) اور امام مسلم (1034) نے روایت کیا ہے۔ یہ روایت عفت اور سخاوت کے فضائل میں بنیادی اہمیت رکھتی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1427) and Muslim (1034). This Hadith is a foundation regarding the virtues of self-sufficiency and the giving hand."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْيَدُ اَلْعُلْيَا",
+      "english": "Upper hand (Giver)",
+      "urdu": "اوپر والا ہاتھ (دینے والا)"
+    },
+    {
+      "arabic": "اَلسُّفْلَى",
+      "english": "Lower hand (Receiver)",
+      "urdu": "نیچے والا ہاتھ (لینے والا)"
+    },
+    {
+      "arabic": "تَعُولُ",
+      "english": "Your dependents",
+      "urdu": "جن کی تم کفالت کرتے ہو"
+    },
+    {
+      "arabic": "ظَهْرِ غِنًى",
+      "english": "Surplus of wealth",
+      "urdu": "فراخی / ضرورت سے زائد"
+    },
+    {
+      "arabic": "يَسْتَعْفِفْ",
+      "english": "Refrains from asking",
+      "urdu": "سوال سے بچے / عفت چاہے"
+    },
+    {
+      "arabic": "يُغْنِهِ",
+      "english": "Make him rich/sufficient",
+      "urdu": "اسے غنی کر دے گا"
+    }
+  ],
+  "summary": {
+    "urdu": "اسلام دینے والے ہاتھ کو لینے والے پر فضیلت دیتا ہے اور تعلیم دیتا ہے کہ صدقہ میں اپنے اہل و عیال کو مقدم رکھیں اور دوسروں کے سامنے ہاتھ پھیلانے کے بجائے اللہ پر بھروسہ رکھیں۔",
+    "english": "Islam prioritizes the giving hand over the receiving one, teaches to provide for dependents first, and encourages self-reliance and trust in Allah over begging."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1427)",
+      "english": "Sahih al-Bukhari (1427)"
+    },
+    {
+      "arabic": "صحيح مسلم (1034)",
+      "english": "Sahih Muslim (1034)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حكيم بن حزام رضي الله عنه",
+        "english": "Hakim bin Hizam"
+      },
+      "slug": "hakim-bin-hizam"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دینے والے کی فضیلت",
+        "english": "Virtue of the Giver"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اوپر والا ہاتھ",
+              "english": "The Upper Hand"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے دینے والے ہاتھ کو لینے والے پر فضیلت دی ہے۔",
+                "یہ معاشرے میں محنت اور سخاوت کے کلچر کو فروغ دینے کی ترغیب ہے۔",
+                "مسلمان کو ہمیشہ اس کوشش میں رہنا چاہیے کہ وہ دوسروں کی مدد کرے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gave superiority to the giving hand over the taking one.",
+                "This encourages a culture of hard work and generosity within society.",
+                "A Muslim should always strive to be in a position to help others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کفالت کی ترجیحات",
+              "english": "Priorities in Provision"
+            },
+            "content": {
+              "urdu": [
+                "نیکی کی شروعات اپنے گھر اور اہل و عیال سے کرنی چاہیے۔",
+                "اپنے زیرِ کفالت لوگوں کا حق مار کر دوسروں کو دینا درست نہیں۔",
+                "گھر والوں پر خرچ کرنا بھی اللہ کے ہاں بہترین صدقہ شمار ہوتا ہے۔"
+              ],
+              "english": [
+                "Acts of kindness should begin with one's own family and home.",
+                "It is incorrect to give to others while neglecting your own dependents.",
+                "Spending on family members is considered a superior charity with Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بہترین صدقہ کا معیار",
+        "english": "Criteria for Best Charity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتدال اور توازن",
+              "english": "Moderation and Balance"
+            },
+            "content": {
+              "urdu": [
+                "بہترین صدقہ وہ ہے جو اپنی ضروریات پوری کرنے کے بعد بچا ہو۔",
+                "اسلام اس بات سے منع کرتا ہے کہ انسان سب دے کر خود محتاج ہو جائے۔",
+                "مالی معاملات میں توازن رکھنا شریعت کا ایک اہم ترین اصول ہے۔"
+              ],
+              "english": [
+                "The best charity is what remains after fulfilling personal needs.",
+                "Islam discourages giving everything away and becoming needy yourself.",
+                "Maintaining balance in financial matters is a key Shariah principle."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استغناء اور توکل",
+              "english": "Self-Sufficiency and Trust"
+            },
+            "content": {
+              "urdu": [
+                "اپنے مال میں قناعت کرنا انسان کو باوقار اور پرسکون بناتا ہے۔",
+                "اللہ ان لوگوں کی غیبی مدد کرتا ہے جو دوسروں سے مانگنا چھوڑ دیتے ہیں۔",
+                "حقیقی مالداری دل کا غنی ہونا ہے نہ کہ صرف مال کی کثرت۔"
+              ],
+              "english": [
+                "Being content with what one has makes a person dignified and peaceful.",
+                "Allah provides divine aid to those who stop asking others for help.",
+                "True wealth is the richness of the heart, not just abundance of money."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سوال کرنے کی ممانعت",
+        "english": "Prohibition of Begging"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عزتِ نفس کی حفاظت",
+              "english": "Protecting Self-Dignity"
+            },
+            "content": {
+              "urdu": [
+                "بلا ضرورت ہاتھ پھیلانا مومن کی شان اور وقار کے خلاف ہے۔",
+                "جو شخص صبر کرتا ہے، اللہ اسے پاکدامنی کی دولت عطا کرتا ہے۔",
+                "مانگنے کی عادت انسان کو ذہنی اور اخلاقی طور پر کمزور کر دیتی ہے۔"
+              ],
+              "english": [
+                "Begging without necessity is against a believer's honor and dignity.",
+                "Whoever practices patience, Allah grants them the treasure of chastity.",
+                "The habit of asking makes a person mentally and morally weak."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ پر بھروسہ",
+              "english": "Reliance on Allah"
+            },
+            "content": {
+              "urdu": [
+                "رزق کا وعدہ اللہ نے کیا ہے، لہٰذا صرف اسی کی طرف رجوع کرنا چاہیے۔",
+                "جو اللہ پر بھروسہ کرتا ہے، اللہ اس کے لیے کافی ہو جاتا ہے۔",
+                "محنت مزدوری کر کے کمانا مانگنے سے ہزار درجہ بہتر اور افضل ہے۔"
+              ],
+              "english": [
+                "Provision is promised by Allah, so we should turn only to Him.",
+                "Whoever puts their trust in Allah, He becomes sufficient for them.",
+                "Earning through hard work is far superior to asking others for help."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مالی منصوبہ بندی",
+              "english": "Financial Planning"
+            },
+            "content": {
+              "urdu": [
+                "حدیث ہمیں سکھاتی ہے کہ پہلے گھر کے اخراجات پورے کریں پھر صدقہ دیں۔",
+                "نظم و ضبط کے ساتھ خرچ کرنا معاشی خوشحالی کا باعث بنتا ہے۔",
+                "فضول خرچی سے بچ کر بچایا ہوا مال ہی دوسروں کے کام آسکتا ہے۔"
+              ],
+              "english": [
+                "The Hadith teaches to cover home expenses before giving charity.",
+                "Spending with discipline leads to economic prosperity and peace.",
+                "Avoiding extravagance allows wealth to be saved for helping others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محنت کی عظمت",
+              "english": "The Dignity of Labor"
+            },
+            "content": {
+              "urdu": [
+                "دینے والا ہاتھ بننے کے لیے حلال ذرائع سے کمانا ضروری ہے۔",
+                "اسلام ہاتھ پاؤں توڑ کر بیٹھنے کے بجائے جدوجہد کا حکم دیتا ہے۔",
+                "اپنے رزق کے لیے تگ و دو کرنا بھی ایک عظیم عبادت ہے۔"
+              ],
+              "english": [
+                "To be a 'giving hand,' one must earn through lawful means.",
+                "Islam commands struggle instead of sitting idle and helpless.",
+                "Striving for one's own sustenance is also a great act of worship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

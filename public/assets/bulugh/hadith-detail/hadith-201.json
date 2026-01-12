@@ -1,0 +1,259 @@
+{
+  "hadithId": 201,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["2", "6"],
+    "kitabId": 2,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 16
+  },
+  
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (3/434)، وأبو داود في كتاب الحدود، باب في إقامة الحدود في المساجد (4490). وقد حسنه الحافظ ابن حجر في \"التلخيص\" (4/78) حيث قال: \"لا بأس بإسناده\".",
+    "urdu": "حسن (درجہ)۔ اسے احمد (3/434) اور ابو داؤد نے کتاب الحدود، باب فی إقامة الحدود فی المساجد (4490) میں روایت کیا ہے۔ حافظ ابن حجر نے \"التلخیص\" (4/78) میں اس کی سند کو 'لا بأس بہ' (قابل قبول) قرار دے کر حسن کا درجہ دیا ہے۔",
+    "english": "Hasan (Good). Reported by Ahmad (3/434) and Abu Dawud in the Book of Prescribed Punishments, Chapter: Carrying out prescribed punishments in the mosques (4490). Hafiz Ibn Hajar graded its chain as 'La Ba's Bi Isnadih' (acceptable) in 'At-Talkhis' (4/78), thus elevating its status to Hasan."
+  },
+  "importantWords": [
+    {
+      "arabic": "لا تُقام",
+      "english": "Should not be carried out",
+      "urdu": "قائم نہ کی جائیں"
+    },
+    {
+      "arabic": "الحدود",
+      "english": "Hadd punishments/Penalties",
+      "urdu": "شرعی سزائیں/حدود"
+    },
+    {
+      "arabic": "المساجد",
+      "english": "The Mosques",
+      "urdu": "مسجدیں"
+    },
+    {
+      "arabic": "يستقاد",
+      "english": "Qisas/Retaliation is exacted",
+      "urdu": "قصاص لیا جائے"
+    },
+    {
+      "arabic": "بسند ضعيف",
+      "english": "With a weak chain",
+      "urdu": "ضعیف سند کے ساتھ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اس اصول کو واضح کرتی ہے کہ مساجد کو شرعی سزاؤں (حدود) اور قصاص جیسی سزاؤں کو نافذ کرنے کے لیے استعمال نہیں کیا جانا چاہیے۔ یہ پابندی مسجد کے تقدس، طہارت اور اس کے بنیادی مقصد (عبادت و سکون) کو برقرار رکھنے کے لیے ضروری ہے، کیونکہ سزاؤں کے نفاذ سے بے ادبی اور نجاست کا خطرہ ہوتا ہے۔",
+    "english": "This Hadith clarifies the principle that mosques should not be used for carrying out prescribed legal penalties (Hadd) or Qisas (retaliation). This restriction is necessary to maintain the mosque's sanctity, purity, and primary purpose (worship and peace), as the implementation of punishments carries the risk of disrespect and impurity."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد، مسند حكيم بن حزام (3/434)",
+      "english": "Musnad Ahmad, Narration of Hakim ibn Hizam (3/434)"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الحدود، باب إقامة الحدود في المساجد (4490)",
+      "english": "Sunan Abu Dawud, Book of Prescribed Punishments, Chapter: Carrying out prescribed punishments in the mosques (4490)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حكيم بن حزام",
+        "english": "Hakim ibn Hizam"
+      },
+      "slug": "hakim-ibn-hizam"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S8L_o_0aJkU",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Good (Hasan)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد کی حرمت اور سزاؤں کا نفاذ",
+        "english": "Sanctity of the Mosque and Implementation of Punishments"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدود اور قصاص کی ممانعت",
+              "english": "Prohibition of Hadd and Qisas"
+            },
+            "content": {
+              "urdu": [
+                "نبی صلی اللہ علیہ وسلم نے واضح طور پر مسجد کے اندر حدود اور قصاص کے نفاذ سے منع فرمایا۔",
+                "یہ ممانعت اس لیے ہے کہ سزاؤں کے نفاذ میں خون یا نجاست کے گرنے کا خطرہ ہوتا ہے۔",
+                "مسجدیں طہارت کی جگہ ہیں، اور ہر ایسی چیز سے پاک ہونی چاہییں جو انہیں ناپاک کرے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) explicitly prohibited the carrying out of Hadd and Qisas punishments inside the mosque.",
+                "This prohibition exists because implementing punishments risks shedding blood or spreading impurity.",
+                "Mosques are places of purity and must be safeguarded from anything that makes them impure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سزا اور عبادت کا فرق",
+              "english": "Distinction Between Punishment and Worship"
+            },
+            "content": {
+              "urdu": [
+                "سزاؤں کے نفاذ میں سخت کلامی، شور و غل اور جذباتی ہیجان ہوتا ہے جو عبادت کے سکون کے منافی ہے۔",
+                "مسجد کا بنیادی مقصد خشوع اور ذکرِ الٰہی کا ماحول فراہم کرنا ہے۔",
+                "لہذا، عدالتی امور جو سخت نوعیت کے ہوں، انہیں مسجد سے باہر انجام دینا چاہیے۔"
+              ],
+              "english": [
+                "Implementing punishments involves harsh speech, noise, and emotional turmoil, which contradict the tranquility of worship.",
+                "The primary purpose of the mosque is to provide an atmosphere of Khushu' and the remembrance of Allah.",
+                "Therefore, judicial matters of a severe nature should be executed outside the mosque."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور عدالتی حکمت",
+        "english": "Juristic and Judicial Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سزا کے نفاذ کا مقام",
+              "english": "The Place for Implementing Punishment"
+            },
+            "content": {
+              "urdu": [
+                "حدود کا نفاذ ایسی جگہ پر کیا جانا چاہیے جہاں عمومی طور پر لوگ موجود ہوں، تاکہ عبرت حاصل ہو۔",
+                "لیکن یہ جگہ مسجد نہیں ہو سکتی، بلکہ کوئی کھلا میدان یا عام جگہ ہونی چاہیے۔",
+                "اس سے عدالتی نظام میں شفافیت اور سزا کے مقصد کو حاصل کرنے میں مدد ملتی ہے۔"
+              ],
+              "english": [
+                "Hadd punishments should be carried out in a place where people are generally present, for deterrence.",
+                "However, this place cannot be the mosque; it should be an open area or a public square.",
+                "This ensures transparency in the judicial system and helps achieve the goal of the punishment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قیدی کو باندھنے سے فرق",
+              "english": "Distinction from Tying the Captive"
+            },
+            "content": {
+              "urdu": [
+                "گزشتہ حدیث میں قیدی کو مسجد میں باندھنے کا جواز اس لیے تھا کہ وہ نجس یا سزا یافتہ نہیں تھا۔",
+                "قیدی کو باندھنے کا مقصد دعوت اور تعلیم تھا، جبکہ حدود کا مقصد سزا اور عبرت ہے۔",
+                "یہ فرق مسجد کے استعمال کے جواز میں دینی اور اخلاقی مقصد کی اہمیت کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "The permissibility of tying a captive in the previous Hadith was because he was neither impure nor being punished.",
+                "The purpose of tying the captive was for Da'wah and education, while Hadd is for punishment and deterrence.",
+                "This distinction clarifies the importance of the religious and ethical purpose in justifying the use of the mosque."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کا اصول",
+        "english": "The Principle of Purity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نجاست سے پاکیزگی",
+              "english": "Freedom from Impurity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں مساجد کو نماز کی وجہ سے ہر قسم کی نجاست سے پاک رکھنا فرض ہے۔",
+                "قصاص اور حدود کے نفاذ کے نتیجے میں خون یا دیگر نجاستیں خارج ہو سکتی ہیں۔",
+                "لہذا، مسجد کو اس ناپاکی کے خطرے سے بچانے کے لیے یہ عمل باہر کیا جانا چاہیے۔"
+              ],
+              "english": [
+                "In Islam, it is obligatory to keep mosques free from all impurities due to the prayer.",
+                "The implementation of Qisas and Hadd may result in the discharge of blood or other impurities.",
+                "Therefore, to protect the mosque from the risk of this impurity, this action must be carried out outside."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احترام کا تقاضا",
+              "english": "Requirement of Respect"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کے گھر کا احترام یہ ہے کہ اس میں صرف خیر اور رحمت کے کام ہوں نہ کہ سختی اور بدلہ لینے کے۔",
+                "مسجدوں میں لوگوں کو خوفزدہ کرنے کے بجائے اللہ کی محبت اور خوفِ آخرت کی تعلیم دی جاتی ہے۔",
+                "شریعت کا مقصد مساجد کو امن، سکون اور اللہ کے ذکر کا مرکز بنانا ہے۔"
+              ],
+              "english": [
+                "The respect due to the House of Allah dictates that only acts of goodness and mercy should occur there, not harshness and retribution.",
+                "In mosques, people are taught the love of Allah and fear of the Hereafter, rather than being intimidated.",
+                "The aim of the Shari'ah is to make mosques centers of peace, tranquility, and the remembrance of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علمی درجہ بندی کی وضاحت",
+        "english": "Clarification of Scholarly Grading"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند میں اختلاف",
+              "english": "Difference in Chain Grading"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ بعض محدثین نے اس حدیث کی سند کو ضعیف کہا ہے، لیکن حافظ ابن حجر نے اسے 'حسن' قرار دیا۔",
+                "علمِ حدیث میں ایک حدیث ضعیف ہونے کے باوجود شواہد کی وجہ سے حسن یا صحیح ہو سکتی ہے۔",
+                "لہذا، فقہی اصول کے طور پر اس حکم پر عمل کیا جائے گا کہ سزائیں مسجد میں نافذ نہ ہوں۔"
+              ],
+              "english": [
+                "Although some hadith scholars deemed the chain of this hadith weak, Hafiz Ibn Hajar graded it as 'Hasan'.",
+                "In Hadith science, a single weak narration can be elevated to Hasan or Sahih due to supporting evidence (Shawāhid).",
+                "Therefore, this ruling is applied as a juristic principle that punishments should not be carried out in the mosque."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی ہدایت",
+              "english": "Practical Guidance"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کا عملی پیغام یہ ہے کہ عدالتی اور فوجداری معاملات مسجد کے باہر حل کیے جائیں۔",
+                "مسجد کا کردار ہمیشہ اصلاح، تعلیم، اور روحانیت کو فروغ دینے کا ہونا چاہیے۔",
+                "یہ مسلمانوں کو سکھاتا ہے کہ وہ مسجد اور دنیاوی جگہوں کے درمیان فرق کو واضح رکھیں۔"
+              ],
+              "english": [
+                "The practical message of this Hadith is that judicial and criminal matters should be settled outside the mosque.",
+                "The mosque's role should always be to promote reform, education, and spirituality.",
+                "It teaches Muslims to maintain a clear distinction between the mosque and secular spaces."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

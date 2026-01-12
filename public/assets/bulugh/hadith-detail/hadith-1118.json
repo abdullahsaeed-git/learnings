@@ -1,0 +1,259 @@
+{
+  "hadithId": 1118,
+  "hadithNo": 39,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/39"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1767) في كتاب الجهاد والسير، باب إخراج اليهود والنصارى من جزيرة العرب.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (1767) میں کتاب الجہاد والسیر کے تحت روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1767) in the Book of Jihad and Expeditions, Chapter: The Expulsion of Jews and Christians from the Arabian Peninsula."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَأَخْرِجَنَّ",
+      "english": "I will certainly expel",
+      "urdu": "میں ضرور نکال دوں گا"
+    },
+    {
+      "arabic": "جَزِيرَةِ اَلْعَرَبِ",
+      "english": "Arabian Peninsula",
+      "urdu": "عرب کا جزیرہ"
+    },
+    {
+      "arabic": "أَدَعَ",
+      "english": "Leave",
+      "urdu": "چھوڑوں"
+    },
+    {
+      "arabic": "إِلَّا مُسْلِماً",
+      "english": "Except Muslims",
+      "urdu": "سوائے مسلمانوں کے"
+    },
+    {
+      "arabic": "يَقُولُ",
+      "english": "He says/was saying",
+      "urdu": "وہ فرما رہے تھے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں رسول اللہ ﷺ کی اس وصیت کا ذکر ہے جس کے تحت جزیرہ العرب کو خالصتاً اسلام کا مرکز رکھنے کے لیے غیر مسلموں کی مستقل رہائش ختم کرنے کا حکم دیا گیا۔",
+    "english": "This Hadith records the Prophet's (ﷺ) directive to keep the Arabian Peninsula as a dedicated center for Islam by ending the permanent residence of non-Muslims there."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1767)",
+      "english": "Sahih Muslim (1767)"
+    },
+    {
+      "arabic": "سنن الترمذي (1607)",
+      "english": "Sunan at-Tirmidhi (1607)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جزیرہ العرب کی خصوصیت",
+        "english": "Uniqueness of the Arabian Peninsula"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلام کا مرکز",
+              "english": "The Heartland of Islam"
+            },
+            "content": {
+              "urdu": [
+                "جزیرہ العرب اسلام کا گہوارہ اور وحی کے نزول کی مقدس سرزمین ہے۔",
+                "اللہ تعالیٰ کی حکمت کا تقاضا تھا کہ اس خطے میں دو دین جمع نہ ہوں۔",
+                "اس سرزمین کو شرک اور کفر کے اثرات سے پاک رکھنا مقصود تھا۔"
+              ],
+              "english": [
+                "The Arabian Peninsula is the cradle of Islam and the sacred land of revelation.",
+                "Divine wisdom necessitated that two conflicting religions should not coexist in this specific region.",
+                "The primary goal was to keep this heartland free from the influences of polytheism and disbelief."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دینی وحدت",
+              "english": "Religious Unity"
+            },
+            "content": {
+              "urdu": [
+                "اس حکم کا مقصد عرب میں ایک مضبوط اسلامی ریاست اور معاشرہ قائم کرنا تھا۔",
+                "یہ حکم اس لیے تھا تاکہ مسلمانوں کی طاقت کا مرکز اندرونی فتنوں سے محفوظ رہے۔",
+                "دینِ حق کی مکمل اشاعت کے لیے اس خطے کا خالص ہونا ضروری تھا۔"
+              ],
+              "english": [
+                "The objective was to establish a unified and robust Islamic state and society in Arabia.",
+                "This directive ensured that the center of Muslim power remained safe from internal subversion.",
+                "Purity of this region was essential for the unimpeded global propagation of the True Faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حدود و قیود",
+        "english": "Jurisprudential Limits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مستقل رہائش بمقابلہ عارضی قیام",
+              "english": "Permanent vs Temporary Residence"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک اس ممانعت کا تعلق غیر مسلموں کی مستقل رہائش اور شہریت سے ہے۔",
+                "تجارت، سفارت یا عارضی ملازمت کے لیے غیر مسلموں کا آنا ممنوع نہیں ہے۔",
+                "سیدنا عمر رضی اللہ عنہ نے اس وصیت پر عمل کرتے ہوئے خیبر کے یہودیوں کو نکالا تھا۔"
+              ],
+              "english": [
+                "Jurists explain that this prohibition pertains to permanent residence and citizenship of non-Muslims.",
+                "Entry for trade, diplomacy, or temporary employment is not strictly forbidden under this law.",
+                "Following this directive, Umar (R.A) expelled the Jews of Khaibar during his caliphate."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جغرافیائی حدود",
+              "english": "Geographical Boundaries"
+            },
+            "content": {
+              "urdu": [
+                "علماء میں اس بات پر اختلاف ہے کہ جزیرہ العرب کی دقیق حدود کیا ہیں۔",
+                "اکثر کے نزدیک اس سے مراد حجاز (مکہ، مدینہ، یمامہ) اور اس کے گردونواح ہیں۔",
+                "حجاز کی سرزمین میں غیر مسلموں کی مستقل رہائش پر تمام ائمہ کا اتفاق ہے۔"
+              ],
+              "english": [
+                "Scholars have slightly different views regarding the exact boundaries of the Arabian Peninsula.",
+                "Most agree that it primarily refers to the Hijaz (Makkah, Madinah, Yamamah) and its surroundings.",
+                "There is a consensus among Imams that non-Muslims cannot reside permanently in the Hijaz."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیاسی اور دفاعی حکمت",
+        "english": "Political and Defensive Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اندرونی خطرات کا خاتمہ",
+              "english": "Eliminating Internal Threats"
+            },
+            "content": {
+              "urdu": [
+                "یہود و نصاریٰ اکثر مسلمانوں کے خلاف سازشوں اور جاسوسی میں ملوث رہتے تھے۔",
+                "ان کا مرکزِ اسلام سے اخراج ریاست کے دفاع کو مضبوط کرنے کے لیے تھا۔",
+                "کسی بھی ریاست کو اپنے اہم ترین علاقوں میں غیر معتبر عناصر کو ہٹانے کا حق حاصل ہے۔"
+              ],
+              "english": [
+                "Jews and Christians of that time were often involved in conspiracies and espionage against Muslims.",
+                "Their expulsion from the center of Islam was a move to bolster national defense and stability.",
+                "Any sovereign state has the right to secure its strategic heartland from unreliable elements."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خالص اسلامی تشخص",
+              "english": "Pure Islamic Identity"
+            },
+            "content": {
+              "urdu": [
+                "عرب کو کفر کے شعائر اور بت پرستی کی گندگی سے پاک رکھنا نبی ﷺ کی خواہش تھی۔",
+                "تاکہ حرمین شریفین کا تقدس اور اسلامی اقدار ہمیشہ کے لیے محفوظ رہ سکیں۔",
+                "یہ قدم مسلمانوں کی آنے والی نسلوں کے ایمان کی حفاظت کا ضامن بنا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) desired to keep Arabia free from the symbols of disbelief and paganism.",
+                "This was to ensure the sanctity of the Two Holy Mosques and Islamic values remained protected.",
+                "This step acted as a safeguard for the faith and identity of future Muslim generations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نتیجہ",
+        "english": "Practical Lesson and Conclusion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وصیتِ نبوی کی اہمیت",
+              "english": "Importance of Prophetic Will"
+            },
+            "content": {
+              "urdu": [
+                "رسول اللہ ﷺ نے وفات سے پہلے یہ اہم ترین وصیتیں فرمائی تھیں۔",
+                "سیدنا عمر نے اپنی خلافت میں اس وصیت کو پوری بصیرت کے ساتھ نافذ کیا۔",
+                "نبی کریم ﷺ کے احکامات کی پیروی ہی امت کی کامیابی کا واحد راستہ ہے۔"
+              ],
+              "english": [
+                "The Messenger of Allah (ﷺ) made this among his final and most significant wills.",
+                "Umar (R.A) executed this directive with full strategic foresight during his caliphate.",
+                "Adhering strictly to the Prophet's (ﷺ) commands is the only path to the Ummah's success."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمانی غیرت و حمیت",
+              "english": "Faith-based Honor and Zeal"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو اپنے مقدس مقامات کی حفاظت کے لیے ہمیشہ حساس رہنا چاہیے۔",
+                "دین کے معاملے میں کوئی ایسا سمجھوتہ نہیں کرنا چاہیے جو بنیادوں کو کمزور کرے۔",
+                "اللہ کی زمین پر اللہ کا حکم نافذ کرنا ہر مسلمان کی دلی تمنا ہونی چاہیے۔"
+              ],
+              "english": [
+                "A believer must always remain sensitive regarding the protection of their holy sites.",
+                "No compromises should be made in religious matters that might weaken the core foundations.",
+                "Enforcing Allah's command on His earth should be the sincere desire of every Muslim."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "hadithId": 624,
+  "hadithNo": 18,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/44"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (1950)، والنسائي (3016)، والترمذي (891)، وابن ماجه (3016)، وأحمد (4/15). وصححه الترمذي وابن خزيمة والحاكم، وهو أصل في أن الوقوف بعرفة هو الركن الأعظم.",
+    "urdu": "صحیح۔ اسے ابوداؤد، نسائی، ترمذی، ابن ماجہ اور احمد نے روایت کیا ہے۔ امام ترمذی اور ابن خزیمہ نے اسے صحیح قرار دیا ہے۔ یہ حدیث اس بات کی دلیل ہے کہ عرفات میں وقوف حج کا سب سے بڑا رکن ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (1950), an-Nasa'i, at-Tirmidhi (891), Ibn Majah, and Ahmad. Graded Sahih by at-Tirmidhi and Ibn Khuzaymah. It is a fundamental text proving that staying at 'Arafat is the core pillar of Hajj."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَدْفَعَ",
+      "english": "Depart / Leave",
+      "urdu": "کوچ کرنا / روانہ ہونا"
+    },
+    {
+      "arabic": "لَيْلاً أَوْ نَهَارًا",
+      "english": "By night or day",
+      "urdu": "رات یا دن (میں)"
+    },
+    {
+      "arabic": "تَمَّ حَجُّهُ",
+      "english": "His Hajj is complete",
+      "urdu": "اس کا حج پورا ہو گیا"
+    },
+    {
+      "arabic": "تَفَثَهُ",
+      "english": "Rites of purification (shaving/cleaning)",
+      "urdu": "میل کچیل دور کرنا"
+    }
+  ],
+  "summary": {
+    "urdu": "حج کی صحت کے لیے 9 ذوالحجہ کے زوال سے لے کر 10 ذوالحجہ کی فجر تک کسی بھی لمحے عرفات میں قیام کرنا لازمی ہے۔ اس کے بعد مزدلفہ میں فجر تک رکنا حج کی تکمیل کا حصہ ہے۔",
+    "english": "For a valid Hajj, one must stay at 'Arafat for any duration between the afternoon of the 9th and dawn of the 10th of Dhul-Hijjah. Completing the stay at Muzdalifah thereafter concludes the essential requirements."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (891)",
+      "english": "Sunan at-Tirmidhi (891)"
+    },
+    {
+      "arabic": "سنن أبي داود (1950)",
+      "english": "Sunan Abi Dawud (1950)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عروة بن مضرس",
+        "english": "Urwah bin Mudarris"
+      },
+      "slug": "urwah-bin-mudarris"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وقوفِ عرفات: حج کا رکنِ اعظم",
+        "english": "Standing at 'Arafat: The Greatest Pillar"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عرفات میں قیام کا وقت",
+              "english": "Timing of Stay at 'Arafat"
+            },
+            "content": {
+              "urdu": [
+                "حدیث سے واضح ہے کہ عرفات میں قیام کا وقت 9 ذوالحجہ کے دن سے لے کر 10 ذوالحجہ کی فجر تک ہے۔",
+                "اگر کوئی شخص دن میں نہ پہنچ سکے مگر 10 ذوالحجہ کی صبح صادق سے پہلے ایک لمحے کے لیے بھی عرفات کی حدود میں آ جائے، تو اس کا حج ہو جائے گا۔",
+                "جو شخص اس وقت میں عرفات نہ پہنچ سکا، اس کا حج فوت ہو گیا۔"
+              ],
+              "english": [
+                "The Hadith clarifies that the window for 'Arafat stay is from the 9th until the dawn of the 10th.",
+                "If a person misses the day but reaches 'Arafat for even a moment before the dawn of the 10th, their Hajj is valid.",
+                "Whoever fails to enter the boundaries of 'Arafat during this period has missed the Hajj."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مزدلفہ میں وقوف کا حکم",
+        "english": "Ruling on Muzdalifah Stay"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مزدلفہ کی نماز اور قیام",
+              "english": "Prayer and Stay at Muzdalifah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے مزدلفہ میں فجر کی نماز کے بعد طلوعِ آفتاب سے تھوڑی دیر پہلے تک قیام (وقوف) فرمایا۔",
+                "اکثر ائمہ کے نزدیک مزدلفہ میں رات گزارنا واجب ہے، اور اس حدیث سے اس کی اہمیت ثابت ہوتی ہے۔",
+                "مزدلفہ میں قیام عرفات کے قیام کی تکمیل اور منیٰ کی روانگی کی تیاری ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) stayed at Muzdalifah from after Fajr prayer until shortly before sunrise.",
+                "Most scholars consider staying the night at Muzdalifah obligatory (Wajib) based on this guidance.",
+                "The stay at Muzdalifah acts as a completion of the 'Arafat journey and preparation for Mina."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دین میں وسعت اور آسانی",
+        "english": "Expansiveness and Ease in Religion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسافروں کے لیے سہولت",
+              "english": "Facility for Travelers"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عروہ بن مضرس طی (طائف) سے طویل سفر کر کے پہنچے تھے اور پریشان تھے کہ شاید ان کا حج نہ ہو سکے کیونکہ وہ دیر سے پہنچے۔",
+                "نبی ﷺ نے انہیں خوشخبری سنائی کہ اگر عرفات کی بنیادی شرط پوری ہو گئی تو حج ہو گیا۔",
+                "یہ اسلام کی وہ آسانی ہے جو نیت کی سچائی اور کوشش کو اہمیت دیتی ہے۔"
+              ],
+              "english": [
+                "Urwah bin Mudarris had traveled a long distance and was worried his Hajj might be invalid due to his delay.",
+                "The Prophet (ﷺ) reassured him that as long as the primary condition of 'Arafat was met, the Hajj was valid.",
+                "This reflects Islam's ease, prioritizing sincere effort and essential requirements over rigid logistics."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حج کی روح: عاجزی اور پاکیزگی",
+              "english": "Spirit of Hajj: Humility and Purity"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'قضی تفثہ' سے مراد وہ صفائی ہے جو حاجی قربانی اور بال منڈوانے کے بعد کرتا ہے۔",
+                "یہ ظاہری میل کچیل کے ساتھ ساتھ گناہوں سے پاک ہونے کی علامت ہے۔",
+                "مومن کو چاہیے کہ وہ حج کے ان عظیم مقامات پر اپنی مغفرت کے لیے گریہ و زاری کرے۔"
+              ],
+              "english": [
+                "The phrase 'concluded his rites' (qada tafathahu) refers to the grooming done after sacrifice and shaving.",
+                "It symbolizes being cleansed of spiritual sins alongside physical grime.",
+                "A believer should utilize these sacred sites for intense supplication and seeking forgiveness."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

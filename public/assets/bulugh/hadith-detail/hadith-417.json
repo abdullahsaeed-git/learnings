@@ -1,0 +1,259 @@
+{
+  "hadithId": 417,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-417"],
+    "kitabId": 2,
+    "inKitabBab": 17,
+    "arabicBook": "بلوغ المرام",
+    "babId": 27
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (5829)‏، ومسلم (2069).‏ وهو دليل صريح في تحريم الحرير على الرجال إلا قدراً يسيراً في التطريز أو الترقيع.",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (5829) اور مسلم (2069) نے اسے روایت کیا ہے۔ یہ مردوں کے لیے ریشم کی ممانعت اور معمولی مقدار میں اس کی گنجائش پر مستند دلیل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5829) and Muslim (2069). It is a clear evidence for the prohibition of silk for men, except for a small amount used in embroidery or patching."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "لُبْسِ",
+      "english": "Wearing",
+      "urdu": "پہننا"
+    },
+    {
+      "arabic": "اَلْحَرِيرِ",
+      "english": "Silk",
+      "urdu": "ریشم"
+    },
+    {
+      "arabic": "مَوْضِعَ",
+      "english": "Space / Extent",
+      "urdu": "جگہ / مقدار"
+    },
+    {
+      "arabic": "إِصْبَعَيْنِ",
+      "english": "Two fingers",
+      "urdu": "دو انگلیاں"
+    }
+  ],
+  "summary": {
+    "urdu": "مردوں کے لیے خالص ریشمی لباس پہننا حرام ہے، البتہ چار انگلیوں کی مقدار تک پیوند کاری یا کڑھائی میں ریشم کا استعمال جائز ہے۔",
+    "english": "Wearing pure silk is forbidden for men, but a small amount (up to four fingers' width) for embroidery, borders, or patching is permitted."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5829)",
+      "english": "Sahih al-Bukhari (5829)"
+    },
+    {
+      "arabic": "صحيح مسلم (2069)",
+      "english": "Sahih Muslim (2069)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin Al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=ruling+on+silk+for+men+urdu",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Muttafaqun Alayh"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ریشم کی شرعی حیثیت",
+        "english": "Islamic Ruling on Silk"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردوں پر ریشم کی ممانعت",
+              "english": "Prohibition for Men"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے ریشم کو مردوں کے لیے حرام اور عورتوں کے لیے حلال قرار دیا ہے۔",
+                "یہ حکم مردوں کو عیش و عشرت اور تکبر جیسی عادات سے دور رکھنے کے لیے ہے۔",
+                "مسلمان مرد کو سادگی اور وقار والا لباس زیبِ تن کرنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) declared silk forbidden for men and permissible for women.",
+                "This ruling aims to distance men from arrogance and excessive luxury.",
+                "A Muslim man should wear clothing that reflects simplicity and dignity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معمولی مقدار کی اجازت",
+              "english": "Permission for Small Amounts"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے مطابق چار انگلیوں کی چوڑائی تک ریشم کے استعمال کی گنجائش ہے۔",
+                "یہ رعایت لباس کے کناروں، کڑھائی یا پیوند کاری کے لیے دی گئی ہے۔",
+                "اس سے معلوم ہوتا ہے کہ شریعت میں ضرورت کے وقت نرمی موجود ہے۔"
+              ],
+              "english": [
+                "The Hadith allows the use of silk up to the width of four fingers.",
+                "This concession is for clothing borders, embroidery, or necessary patching.",
+                "It demonstrates that Sharia provides flexibility for practical needs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و طبی ابحاث",
+        "english": "Juristic and Medical Context"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیماری میں ریشم کا استعمال",
+              "english": "Silk for Medical Reasons"
+            },
+            "content": {
+              "urdu": [
+                "دیگر روایات میں خارش جیسی بیماری کی صورت میں ریشم پہننے کی اجازت دی گئی ہے۔",
+                "عبدالرحمن بن عوف اور زبیر بن عوام رضی اللہ عنہما کو ایسی اجازت دی گئی تھی۔",
+                "یہ اصول فقہ کا قاعدہ ہے کہ ضرورتیں ممنوعات کو جائز کر دیتی ہیں۔"
+              ],
+              "english": [
+                "Other narrations permit wearing silk for medical conditions like skin irritation.",
+                "Abdur-Rahman bin Awf and Az-Zubair were specifically granted this permission.",
+                "This aligns with the legal maxim that necessities make prohibitions permissible."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ریشم کے ریشوں کا امتزاج",
+              "english": "Blended Fabrics"
+            },
+            "content": {
+              "urdu": [
+                "اگر کپڑے میں ریشم اور دیگر دھاگا ملا ہوا ہو تو ریشم کی مقدار دیکھی جائے گی۔",
+                "اگر ریشم غالب ہو تو وہ مردوں کے لیے پہننا جائز نہیں ہوگا۔",
+                "تقویٰ کا تقاضا یہی ہے کہ شک والی چیزوں سے مکمل پرہیز کیا جائے۔"
+              ],
+              "english": [
+                "In blended fabrics, the ratio of silk to other fibers is considered.",
+                "If silk is the dominant material, the garment is prohibited for men.",
+                "Piety requires avoiding doubtful matters to safeguard one's faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و تربیتی پہلو",
+        "english": "Moral and Training Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تکبر کا خاتمہ",
+              "english": "Eliminating Arrogance"
+            },
+            "content": {
+              "urdu": [
+                "ریشم پہننا قدیم زمانے سے شاہانہ اور متکبرانہ طرزِ زندگی کی پہچان رہا ہے۔",
+                "اسلام بندے کے دل میں عاجزی اور بندگی پیدا کرنا چاہتا ہے۔",
+                "لباس انسان کی شخصیت اور اندرونی کیفیت پر گہرا اثر ڈالتا ہے۔"
+              ],
+              "english": [
+                "Wearing silk has historically symbolized a royal and arrogant lifestyle.",
+                "Islam seeks to instill humility and servitude in the heart of a believer.",
+                "Clothing has a significant impact on a person's character and inner state."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مردانہ وقار کا تحفظ",
+              "english": "Preserving Masculine Dignity"
+            },
+            "content": {
+              "urdu": [
+                "ریشم کی نزاکت خواتین کے لیے زیادہ مناسب سمجھی گئی ہے۔",
+                "مردوں کے لیے ایسی اشیاء سے اجتناب ضروری ہے جو زنانہ مشابہت پیدا کریں۔",
+                "شریعت نے صنفی امتیاز اور مردانہ جفاکشی کو برقرار رکھنے کی تاکید کی ہے۔"
+              ],
+              "english": [
+                "The softness of silk is deemed more appropriate for women's nature.",
+                "Men must avoid items that create resemblance to feminine traits.",
+                "Sharia emphasizes maintaining gender distinctions and masculine resilience."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عمل کی ترغیب",
+        "english": "Motivation for Action"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حلال و حرام کی پہچان",
+              "english": "Identifying Halal and Haram"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو اپنے لباس اور خوراک میں اللہ کی حدود کا پتہ ہونا چاہیے۔",
+                "فیشن کے نام پر حرام اشیاء کا استعمال ایمان کے لیے نقصان دہ ہے۔",
+                "خریداری کرتے وقت کپڑے کے میٹریل کی تحقیق کرنا ایک اچھی عادت ہے۔"
+              ],
+              "english": [
+                "A Muslim must be aware of Allah's limits regarding food and clothing.",
+                "Adopting forbidden items in the name of fashion is harmful to one's faith.",
+                "It is a good habit to check the material of clothes before purchasing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت پر عمل کی برکت",
+              "english": "Blessings of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے بتائے ہوئے حدود میں رہنا ہی دنیا و آخرت کی کامیابی ہے۔",
+                "سنت کے چھوٹے چھوٹے احکام پر عمل کرنا بندگی کا حسن ہے۔",
+                "اللہ کی رضا کی خاطر اپنی پسند کو چھوڑنا ہی سچی محبتِ رسول ﷺ ہے۔"
+              ],
+              "english": [
+                "Success in both worlds lies in staying within the limits set by the Prophet (ﷺ).",
+                "Acting upon minor Sunnah commands enhances the beauty of devotion.",
+                "Sacrificing personal preferences for Allah's sake is true love for the Prophet (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

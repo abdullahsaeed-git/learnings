@@ -1,0 +1,264 @@
+{
+  "hadithId": 546,
+  "hadithNo": 20,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/40"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1114). واللفظ الثاني عند مسلم أيضاً، وتنبيه الحافظ على لفظ 'فشرب' في الرواية الثانية يشير إلى دقة النقل.",
+    "urdu": "صحیح۔ اسے امام مسلم نے اپنی صحیح (1114) میں روایت کیا ہے۔ یہ واقعہ سفر میں روزے کی رخصت اور نبی ﷺ کی اطاعت کی اہمیت کو واضح کرتا ہے۔",
+    "english": "Sahih. Reported by Muslim (1114). The second narration is also in Muslim, though the author notes a slight variation in the wording regarding the act of drinking in that specific version."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَامَ اَلْفَتْحِ",
+      "english": "Year of the Conquest",
+      "urdu": "فتح مکہ کا سال"
+    },
+    {
+      "arabic": "قَدَحٍ",
+      "english": "Cup / Drinking vessel",
+      "urdu": "پیالہ"
+    },
+    {
+      "arabic": "اَلْعُصَاةُ",
+      "english": "The disobedient ones",
+      "urdu": "نافرمان لوگ"
+    },
+    {
+      "arabic": "شَقَّ عَلَيْهِمُ",
+      "english": "It became difficult for them",
+      "urdu": "ان پر مشقت ہوئی"
+    },
+    {
+      "arabic": "رَخَّصَ",
+      "english": "Granted a concession",
+      "urdu": "رخصت دی"
+    },
+    {
+      "arabic": "كُرَاعَ الْغَمِيمِ",
+      "english": "Kura' al-Ghamim (Location)",
+      "urdu": "کراع الغمیم (مقام کا نام)"
+    }
+  ],
+  "summary": {
+    "urdu": "سفر میں مشقت کے وقت روزہ توڑنا سنت ہے اور نبی ﷺ کے واضح حکم کے بعد بھی روزہ رکھنا نافرمانی شمار ہوتا ہے۔",
+    "english": "Breaking the fast during a difficult journey is a Sunnah, and persisting in fasting after a clear command from the Prophet (ﷺ) is considered disobedience."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1114)",
+      "english": "Reported by Muslim (1114)"
+    },
+    {
+      "arabic": "صحيح البخاري (1944)",
+      "english": "Sahih Al-Bukhari (1944)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YqW9Uq_1o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سفر میں روزے کی رخصت",
+        "english": "Concession of Fasting in Travel"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حالتِ سفر میں آسانی",
+              "english": "Ease During Travel"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے مسافر کے لیے روزے کی رعایت دی ہے۔",
+                "اگر سفر میں مشقت ہو تو روزہ نہ رکھنا افضل ہے۔",
+                "نبی ﷺ نے خود روزہ افطار کر کے امت کو نمونہ دکھایا۔"
+              ],
+              "english": [
+                "Islam provides concessions for travelers regarding fasting.",
+                "It is better not to fast if the journey involves hardship.",
+                "The Prophet (ﷺ) himself broke his fast to set an example."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشقت اور روزہ",
+              "english": "Hardship and Fasting"
+            },
+            "content": {
+              "urdu": [
+                "جب صحابہ کو روزہ گراں گزرا تو آپ ﷺ نے مداخلت فرمائی۔",
+                "اللہ کی دی ہوئی رخصت سے فائدہ اٹھانا پسندیدہ عمل ہے۔",
+                "بلاوجہ جسم کو تنگی میں ڈالنا مقصودِ عبادت نہیں ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) intervened when fasting became hard for the companions.",
+                "Utilizing the concessions granted by Allah is a beloved act.",
+                "Putting the body through unnecessary hardship is not the goal of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اطاعتِ رسول کی اہمیت",
+        "english": "Importance of Obedience to the Prophet"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نافرمان کون ہیں؟",
+              "english": "Who are the Disobedient?"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے حکم کے باوجود روزہ رکھنے والوں کو نافرمان کہا گیا۔",
+                "عبادت میں اپنی مرضی کے بجائے اتباعِ سنت اصل ہے۔",
+                "تقویٰ کا معیار سنت کی پیروی ہے، نہ کہ اپنی مشقت۔"
+              ],
+              "english": [
+                "Those who fasted despite the Prophet's command were called disobedient.",
+                "Following the Sunnah is more important than personal preference in worship.",
+                "The standard of piety is following the Sunnah, not self-imposed hardship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عوامی رہنمائی",
+              "english": "Public Leadership"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے سب کے سامنے پانی پی کر ابہام دور فرمایا۔",
+                "قائد کو عملی طور پر رخصت پر عمل کر کے دکھانا چاہیے۔",
+                "یہ عمل صحابہ کے جذبات کی رعایت اور رہنمائی کے لیے تھا۔"
+              ],
+              "english": [
+                "He (ﷺ) drank water publicly to clear any confusion.",
+                "A leader should demonstrate the concession practically.",
+                "This act was meant to guide and accommodate the companions' state."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عصر کے بعد روزہ توڑنا",
+              "english": "Breaking Fast After Asr"
+            },
+            "content": {
+              "urdu": [
+                "مسافر دن کے کسی بھی حصے میں روزہ افطار کر سکتا ہے۔",
+                "حتیٰ کہ عصر کے بعد بھی ضرورت پڑنے پر روزہ توڑنا جائز ہے۔",
+                "یہ حدیث مسافر کے لیے مکمل شرعی آزادی کی دلیل ہے۔"
+              ],
+              "english": [
+                "A traveler can break their fast at any point during the day.",
+                "It is permissible even after Asr if the need arises during travel.",
+                "This Hadith proves the legal flexibility provided to the traveler."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزہ نہ رکھنے کی فضیلت",
+              "english": "Virtue of Not Fasting"
+            },
+            "content": {
+              "urdu": [
+                "کچھ حالات میں روزہ نہ رکھنا، روزہ رکھنے سے زیادہ ثواب کا باعث ہے۔",
+                "خاص طور پر جب روزہ رکھنے سے فرائض کی ادائیگی میں خلل پڑے۔",
+                "فتح مکہ جیسے اہم مشن میں جسمانی طاقت برقرار رکھنا ضروری تھا۔"
+              ],
+              "english": [
+                "In some situations, not fasting carries more reward than fasting.",
+                "Especially when fasting interferes with the fulfillment of other duties.",
+                "Maintaining strength was vital during a mission like the Conquest of Makkah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں اعتدال",
+              "english": "Moderation in Religion"
+            },
+            "content": {
+              "urdu": [
+                "دین اسلام میں غلو اور حد سے بڑھنا ناپسندیدہ ہے۔",
+                "ہمیں اللہ کی دی ہوئی رخصتوں کو خوشی سے قبول کرنا چاہیے۔",
+                "نبی ﷺ کی زندگی ہمارے لیے ہر معاملے میں توازن کی راہ ہے۔"
+              ],
+              "english": [
+                "Exaggeration and extremism are discouraged in Islam.",
+                "We should happily accept the concessions granted by Allah.",
+                "The Prophet's (ﷺ) life is a path of balance in every matter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موقع و محل کی اہمیت",
+              "english": "Context and Circumstances"
+            },
+            "content": {
+              "urdu": [
+                "عبادت کی نوعیت حالات کے بدلنے سے بدل سکتی ہے۔",
+                "سفر اور جنگ جیسے حالات میں رعایت الٰہی ایک عظیم تحفہ ہے۔",
+                "مسلمانوں کو ہر وقت اپنے قائد کی ہدایات کا تابع رہنا چاہیے۔"
+              ],
+              "english": [
+                "The nature of worship can change based on circumstances.",
+                "Divine concessions are a great gift during travel or struggle.",
+                "Muslims must remain submissive to the instructions of their leader."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "hadithId": 532,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/532"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح مرفوعاً. رواه أبو داود (2454)، والنسائي (2331)، والترمذي (730)، وابن ماجه (1700)، وأحمد (6/287)، وصححه ابن خزيمة (1933) وابن حبان (3583).",
+    "urdu": "یہ حدیث مرفوعاً صحیح ہے۔ اسے ابوداؤد (2454)، نسائی (2331)، ترمذی (730)، ابن ماجہ (1700) اور احمد نے روایت کیا ہے۔ ابن خزیمہ اور ابن حبان نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih as Marfu'. Reported by Abu Dawud (2454), An-Nasa'i (2331), At-Tirmidhi (730), Ibn Majah (1700), and Ahmad (6/287). Authenticated by Ibn Khuzaymah (1933) and Ibn Hibban (3583)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُبَيِّتِ",
+      "english": "Decide at night",
+      "urdu": "رات کو نیت کرنا / طے کرنا"
+    },
+    {
+      "arabic": "الصِّيَامَ",
+      "english": "Fasting",
+      "urdu": "روزہ"
+    },
+    {
+      "arabic": "قَبْلَ اَلْفَجْرِ",
+      "english": "Before Dawn",
+      "urdu": "فجر سے پہلے"
+    },
+    {
+      "arabic": "يَفْرِضْهُ",
+      "english": "Make it obligatory",
+      "urdu": "واجب کر لے / عزم کر لے"
+    },
+    {
+      "arabic": "فَلَا صِيَامَ",
+      "english": "There is no fast",
+      "urdu": "پس کوئی روزہ نہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "رمضان کے فرض روزوں کی قبولیت کے لیے ضروری ہے کہ ان کی نیت فجر (صبح صادق) سے پہلے رات ہی میں کر لی جائے، بغیر نیت کے روزہ شرعاً معتبر نہیں۔",
+    "english": "For obligatory fasts like Ramadan, it is essential to make the intention before dawn. A fast without a pre-dawn intention is not legally valid in Shariah."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2454)",
+      "english": "Sunan Abi Dawud (2454)"
+    },
+    {
+      "arabic": "سنن الترمذي (730)",
+      "english": "Sunan At-Tirmidhi (730)"
+    },
+    {
+      "arabic": "صحيح ابن حبان (3583)",
+      "english": "Sahih Ibn Hibban (3583)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حفصة بنت عمر بن الخطاب",
+        "english": "Hafsah bint Umar bin al-Khattab"
+      },
+      "slug": "hafsah-bint-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "صحيح مرفوعاً",
+    "english": "Sahih Marfu'"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روزے میں نیت کی اہمیت",
+        "english": "Importance of Intention in Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت ایک لازمی رکن",
+              "english": "Intention as an Essential Pillar"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں ہر عمل کا دارومدار نیت پر ہے اور روزہ بھی اس سے مستثنیٰ نہیں۔",
+                "بغیر نیت کے محض بھوکا پیاسا رہنا شرعی روزہ نہیں بلکہ فاقہ کہلاتا ہے۔",
+                "نیت کا مطلب دل کا پکا ارادہ ہے کہ میں اللہ کے لیے روزہ رکھ رہا ہوں۔"
+              ],
+              "english": [
+                "In Islam, every deed depends on intention, and fasting is no exception.",
+                "Merely staying hungry without intention is starvation, not a legal fast.",
+                "Intention means a firm resolve in the heart to fast for the sake of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فرض روزے کی شرط",
+              "english": "Condition for Obligatory Fast"
+            },
+            "content": {
+              "urdu": [
+                "رمضان کے فرض روزوں کے لیے نیت کا رات میں ہونا ضروری ہے۔",
+                "اگر کوئی صبح صادق کے بعد نیت کرے گا تو وہ فرض روزہ شمار نہیں ہوگا۔",
+                "یہ حکم اس بات کو یقینی بناتا ہے کہ عبادت کا آغاز مکمل شعور کے ساتھ ہو۔"
+              ],
+              "english": [
+                "For obligatory fasts of Ramadan, the intention must be made during the night.",
+                "If someone intends to fast only after dawn, it won't count as an obligatory fast.",
+                "This ruling ensures that the act of worship begins with full consciousness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفل اور فرض میں فرق",
+        "english": "Difference Between Nafl and Fard"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفلی روزے کی گنجائش",
+              "english": "Allowance for Voluntary Fasts"
+            },
+            "content": {
+              "urdu": [
+                "نفلی روزوں کی نیت زوالِ آفتاب (دوپہر) سے پہلے تک کی جا سکتی ہے۔",
+                "نبی ﷺ اکثر صبح اٹھ کر گھر میں کھانا نہ ہونے پر روزے کی نیت فرما لیتے۔",
+                "یہ نرمی صرف نفلی عبادات کے لیے ہے تاکہ نیکی کے مواقع زیادہ ملیں۔"
+              ],
+              "english": [
+                "Intention for voluntary fasts can be made until before zenith (midday).",
+                "The Prophet (ﷺ) often decided to fast in the morning if no food was available.",
+                "This flexibility is exclusive to Nafl acts to encourage more opportunities for good."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رات میں نیت کا مفہوم",
+              "english": "Meaning of Night-time Intention"
+            },
+            "content": {
+              "urdu": [
+                "رات میں نیت کا مطلب ہے کہ فجر سے پہلے کسی بھی وقت ارادہ کر لینا۔",
+                "سحری کے لیے اٹھنا خود ایک عملی نیت ہے جو روزے کے لیے کافی ہے۔",
+                "زبان سے الفاظ ادا کرنا شرط نہیں، دل کا عزم ہی اصل نیت ہے۔"
+              ],
+              "english": [
+                "Night intention means resolving to fast at any time before the break of dawn.",
+                "Waking up for Suhoor is itself a practical intention sufficient for the fast.",
+                "Verbalizing the intention is not a condition; the heart's resolve is what matters."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور ابہام",
+        "english": "Juristic Issues and Clarifications"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کے درجات",
+              "english": "Levels of the Narration"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے درمیان اس کے مرفوع اور موقوف ہونے میں علمی اختلاف رہا ہے۔",
+                "جمہور کے نزدیک یہ حدیث مرفوعاً ثابت ہے اور اسی پر عمل کیا جاتا ہے۔",
+                "احتیاط کا تقاضا یہی ہے کہ ہر فرض روزے کی نیت رات ہی میں کر لی جائے۔"
+              ],
+              "english": [
+                "There is scholarly disagreement on whether this is a Prophetic or Companion statement.",
+                "According to the majority, the Marfu' status is established and followed in practice.",
+                "Caution dictates that intention for every obligatory fast be made during the night."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بھول جانے کا حکم",
+              "english": "Ruling on Forgetting"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی رمضان میں نیت کرنا بھول جائے تو اسے سارا دن بھوکا رہنا ہوگا۔",
+                "ایسی صورت میں اس روزے کی قضا کرنا بعد میں لازم ہو جاتی ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ اپنی عبادات کے معاملات میں بیدار مغز رہیں۔"
+              ],
+              "english": [
+                "If someone forgets the intention during Ramadan, they must refrain from food all day.",
+                "In such a case, it is mandatory to make up (Qada) for that fast later.",
+                "Muslims should remain vigilant and mindful regarding their acts of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "منصوبہ بندی کی اہمیت",
+              "english": "Importance of Planning"
+            },
+            "content": {
+              "urdu": [
+                "عبادت کے لیے پیشگی تیاری اور ارادہ مومن کی سنجیدگی کو ظاہر کرتا ہے۔",
+                "رات کو سوتے وقت نیت کر لینا صبح کی برکات کے حصول کا ذریعہ ہے۔",
+                "نظم و ضبط کے ساتھ کی گئی عبادت اللہ کے ہاں زیادہ محبوب ہے۔"
+              ],
+              "english": [
+                "Prior preparation and resolve for worship reflect a believer's seriousness.",
+                "Making the intention before sleeping is a means to attain morning blessings.",
+                "Worship performed with discipline and order is more beloved to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دینی شعور کی بیداری",
+              "english": "Awakening Religious Consciousness"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں ہر نیکی شروع کرنے سے پہلے اپنی نیت کو خالص کر لینا چاہیے۔",
+                "نیت کی درستگی ہی عمل کو عادت سے نکال کر عبادت کے درجے پر لاتی ہے۔",
+                "دینی احکامات کی باریکیوں کو سمجھنا ہر مسلمان کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "We must purify our intentions before starting any righteous deed.",
+                "Correcting the intention elevates an act from a mere habit to worship.",
+                "It is the responsibility of every Muslim to understand the nuances of religious laws."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

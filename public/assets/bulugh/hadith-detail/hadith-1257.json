@@ -1,0 +1,187 @@
+{
+  "hadithId": 1257,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:4477", "https://sunnah.com/muslim:86"],
+    "kitabId": 16,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب البر والصلة",
+    "babId": 103
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (4477)، ومسلم (86).",
+    "urdu": "یہ حدیث صحیح اور متفق علیہ ہے۔ اسے امام بخاری اور امام مسلم دونوں نے روایت کیا ہے اور اس کے آخر میں قرآن کی آیت (سورہ الفرقان: 68) کا ذکر بھی آتا ہے جو ان گناہوں کی تصدیق کرتی ہے۔",
+    "english": "Sahih. Muttafaqun 'Alayh. Reported by Al-Bukhari (4477) and Muslim (86). The narration confirms the verses of Surah al-Furqan (68)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْظَمُ",
+      "english": "Greatest / Most Grave",
+      "urdu": "سب سے بڑا"
+    },
+    {
+      "arabic": "نِدًّا",
+      "english": "Partner / Rival / Equal",
+      "urdu": "شریک / برابر"
+    },
+    {
+      "arabic": "خَشْيَةَ",
+      "english": "Fear / Dread",
+      "urdu": "ڈر / خوف"
+    },
+    {
+      "arabic": "حَلِيلَةَ",
+      "english": "Wife / Lawful spouse",
+      "urdu": "بیوی / اہلیہ"
+    },
+    {
+      "arabic": "تُزَانِيَ",
+      "english": "Commit adultery",
+      "urdu": "زنا کرنا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تین کبیرہ ترین گناہوں کی نشاندہی کی گئی ہے: شرک، اپنی اولاد کا قتل (رزق کے ڈر سے)، اور پڑوسی کی بیوی سے بدکاری۔",
+    "english": "This Hadith identifies three of the most heinous sins: Polytheism (Shirk), infanticide due to economic fear, and adultery with a neighbor's spouse."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (4477)",
+      "english": "Reported by Al-Bukhari (4477)"
+    },
+    {
+      "arabic": "رواه مسلم (86)",
+      "english": "Reported by Muslim (86)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah bin Mas'ud"
+      },
+      "slug": "abdullah-bin-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "توحید اور شرک کی سنگینی",
+        "english": "Monotheism and the Gravity of Shirk"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خالق کے حق میں بددیانتی",
+              "english": "Betrayal of the Creator's Right"
+            },
+            "content": {
+              "urdu": [
+                "شرک سب سے بڑا گناہ ہے کیونکہ یہ اللہ کی ربوبیت اور الوہیت کا انکار ہے۔",
+                "اللہ نے انسان کو پیدا کیا، اسی لیے عبادت کا مستحق بھی وہی اکیلا ہے۔",
+                "خالق کو چھوڑ کر مخلوق کے آگے جھکنا عقل اور فطرت کے خلاف بدترین ظلم ہے۔"
+              ],
+              "english": [
+                "Shirk is the greatest sin as it denies Allah's Lordship and Divinity.",
+                "Since Allah created man, He alone is deserving of all worship.",
+                "Bowing to creation instead of the Creator is the worst injustice against nature."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اولاد کا قتل اور توکل کی کمی",
+        "english": "Infanticide and Lack of Trust in Allah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رزق کے خوف سے قتل",
+              "english": "Killing out of Fear of Provision"
+            },
+            "content": {
+              "urdu": [
+                "اولاد کو رزق کے ڈر سے قتل کرنا اللہ کی رازقیت پر شک کرنے کے مترادف ہے۔",
+                "یہ عمل فطری مامتا اور شفقت کے جذبے کو پامال کرنے کی انتہا ہے۔",
+                "اسلام نے واضح کیا ہے کہ ہر جان کا رزق اللہ کے ذمے ہے، اولاد بوجھ نہیں رحمت ہے۔"
+              ],
+              "english": [
+                "Killing children out of fear of poverty is equivalent to doubting Allah as the Provider.",
+                "This act represents the ultimate violation of natural parental compassion.",
+                "Islam clarifies that Allah guarantees the provision for every soul; children are a blessing, not a burden."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پڑوسی کے حقوق اور زنا",
+        "english": "Neighbor's Rights and Adultery"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امانت میں خیانت",
+              "english": "Breach of Trust"
+            },
+            "content": {
+              "urdu": [
+                "زنا بذاتِ خود بڑا گناہ ہے، لیکن پڑوسی کی بیوی سے کرنا اس کی سنگینی بڑھا دیتا ہے۔",
+                "پڑوسی آپ پر اعتماد کرتا ہے، اس کے گھر کی حرمت پامال کرنا بدترین خیانت ہے۔",
+                "اسلام میں پڑوسی کے جان و مال اور عزت کے تحفظ کی بہت زیادہ تاکید کی گئی ہے۔"
+              ],
+              "english": [
+                "Adultery is a major sin, but doing it with a neighbor's wife multiplies its gravity.",
+                "A neighbor trusts you; violating the sanctity of his home is the worst betrayal.",
+                "Islam places heavy emphasis on protecting the life, property, and honor of neighbors."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عقیدے اور اخلاق کی اصلاح",
+              "english": "Reforming Belief and Ethics"
+            },
+            "content": {
+              "urdu": [
+                "اپنے ایمان کو شرک کی ہر ملاوٹ سے پاک رکھیں اور صرف اللہ پر بھروسہ کریں۔",
+                "معاشی تنگی کے خوف سے گناہوں کی طرف مائل ہونے کے بجائے محنت اور دعا کا سہارا لیں۔",
+                "اپنے پڑوسیوں کے ساتھ بہترین سلوک کریں اور ان کی عزتوں کے محافظ بنیں۔"
+              ],
+              "english": [
+                "Keep your faith pure from any traces of Shirk and rely solely on Allah.",
+                "Instead of resorting to sin due to economic fear, utilize hard work and prayer.",
+                "Treat neighbors with excellence and become the guardians of their honor."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

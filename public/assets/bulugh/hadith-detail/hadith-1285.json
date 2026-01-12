@@ -1,0 +1,259 @@
+{
+  "hadithId": 1285,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:7150", "muslim:142"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الإمارة",
+    "babId": 105
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (7150)، ومسلم (142). واللفظ لمسلم، وفي رواية للبخاري: 'فلم يحطها بنصحه لم يرح رائحة الجنة'.",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (7150) اور امام مسلم (142) نے روایت کیا ہے۔ بخاری کی ایک روایت میں یہ الفاظ بھی ہیں کہ 'جس نے اپنی رعیت کی خیر خواہی کے ساتھ حفاظت نہ کی، وہ جنت کی خوشبو تک نہ پائے گا'۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (7150) and Muslim (142). The wording is from Muslim. A version in Bukhari states: '...and he does not protect them with his sincere advice, he will not even smell the fragrance of Paradise.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "يَسْتَرْعِيهِ",
+      "english": "Makes him in charge",
+      "urdu": "اسے نگران بنایا"
+    },
+    {
+      "arabic": "رَعِيَّةً",
+      "english": "Subjects / Flock",
+      "urdu": "رعیت / عوام"
+    },
+    {
+      "arabic": "غَاشٌّ",
+      "english": "Deceptive / Dishonest",
+      "urdu": "دھوکہ دینے والا / خائن"
+    },
+    {
+      "arabic": "حَرَّمَ",
+      "english": "Forbidden / Prohibited",
+      "urdu": "حرام کر دیا"
+    },
+    {
+      "arabic": "نَصِيحَة",
+      "english": "Sincere advice / Welfare",
+      "urdu": "خیر خواہی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث حکمرانوں اور ذمہ دار افراد کو خبردار کرتی ہے کہ عوامی معاملات میں خیانت اور نااہلی جنت سے محرومی کا سبب بن سکتی ہے۔",
+    "english": "This Hadith warns rulers and those in authority that dishonesty and lack of sincerity toward their subjects can lead to being barred from Paradise."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (7150)",
+      "english": "Sahih al-Bukhari (7150)"
+    },
+    {
+      "arabic": "صحيح مسلم (142)",
+      "english": "Sahih Muslim (142)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معقل بن يسار المزني",
+        "english": "Ma'qil bin Yasar al-Muzani"
+      },
+      "slug": "maqil-bin-yasar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S0T-X3_qQ8U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "امانتداری اور حکمرانی",
+        "english": "Trust and Governance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عہدہ ایک امانت ہے",
+              "english": "Office is a Trust"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں حکمرانی یا کوئی بھی ذمہ داری اللہ کی طرف سے ایک امانت ہے۔",
+                "حاکم کا فرض ہے کہ وہ عوام کے حقوق کی مکمل پاسداری کرے۔",
+                "عہدے کو ذاتی مفاد کے لیے استعمال کرنا خیانت کے زمرے میں آتا ہے۔"
+              ],
+              "english": [
+                "In Islam, leadership or any responsibility is a trust from Allah.",
+                "It is the ruler's duty to fully uphold the rights of the public.",
+                "Using a position for personal gain is considered a breach of trust."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خیر خواہی کا تقاضا",
+              "english": "The Requirement of Sincerity"
+            },
+            "content": {
+              "urdu": [
+                "رعیت کے ساتھ خیر خواہی کا مطلب ان کی فلاح و بہبود کے لیے کام کرنا ہے۔",
+                "انصاف قائم کرنا اور ظلم کو روکنا حکمران کی بنیادی ذمہ داری ہے۔",
+                "صرف اپنی کرسی بچانے کی فکر کرنا اور عوام کو نظر انداز کرنا 'غش' (دھوکہ) ہے۔"
+              ],
+              "english": [
+                "Sincerity toward subjects means working for their welfare and prosperity.",
+                "Establishing justice and preventing oppression is a ruler's core duty.",
+                "Caring only for power while ignoring the people is a form of deception."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خیانت کی سزا",
+        "english": "Punishment for Dishonesty"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنت سے محرومی",
+              "english": "Deprivation of Paradise"
+            },
+            "content": {
+              "urdu": [
+                "جو حکمران عوام کو دھوکہ دیتے ہوئے مرے گا، اس پر جنت حرام ہے۔",
+                "یہ وعید اس جرم کی سنگینی کو ظاہر کرتی ہے جو لاکھوں لوگوں سے جڑا ہے۔",
+                "اللہ تعالیٰ حقوق العباد میں خیانت کو ہرگز معاف نہیں فرماتا۔"
+              ],
+              "english": [
+                "A ruler who dies while deceiving his people will be barred from Paradise.",
+                "This warning highlights the gravity of a crime affecting millions of lives.",
+                "Allah does not overlook betrayals regarding the rights of His servants."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قیامت کی جوابدہی",
+              "english": "Accountability on Judgment Day"
+            },
+            "content": {
+              "urdu": [
+                "ہر نگران سے اس کے ماتحتوں کے بارے میں سوال کیا جائے گا۔",
+                "حاکم جتنا بڑا ہوگا، اس کا حساب بھی اتنا ہی سخت ہوگا۔",
+                "قیامت کے دن ظالم حکمران شدید تاریکیوں اور رسوائی میں ہوں گے۔"
+              ],
+              "english": [
+                "Every guardian will be questioned regarding those under his care.",
+                "The higher the position, the more rigorous the accountability will be.",
+                "On Judgment Day, oppressive rulers will face darkness and humiliation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ذمہ داری کا وسیع مفہوم",
+        "english": "Broad Scope of Responsibility"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہر شخص نگران ہے",
+              "english": "Everyone is a Guardian"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث صرف بادشاہوں کے لیے نہیں بلکہ ہر ذمہ دار شخص کے لیے ہے۔",
+                "باپ اپنے گھر کا، استاد اپنے شاگردوں کا اور افسر اپنے عملے کا نگران ہے۔",
+                "اپنے دائرہ اختیار میں انصاف نہ کرنا بھی اسی وعید میں شامل ہو سکتا ہے۔"
+              ],
+              "english": [
+                "This Hadith applies to every person in a position of authority.",
+                "A father, teacher, or manager is a guardian in their respective roles.",
+                "Failing to be just within one's jurisdiction falls under this warning."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دھوکہ دہی کی مختلف صورتیں",
+              "english": "Forms of Deception"
+            },
+            "content": {
+              "urdu": [
+                "نااہل لوگوں کو عہدے دینا بھی رعیت کے ساتھ ایک قسم کا دھوکہ ہے۔",
+                "عوامی مال کی چوری یا کرپشن کرنا بدترین درجے کی خیانت ہے۔",
+                "عوام کو سچی بات نہ بتانا اور جھوٹے وعدے کرنا بھی غش میں شامل ہے۔"
+              ],
+              "english": [
+                "Appointing incompetent people is a form of deception against the public.",
+                "Theft of public funds or corruption is the worst level of dishonesty.",
+                "Hiding the truth or making false promises also constitutes deception."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور اصلاح",
+        "english": "Practical Lesson and Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوفِ خدا",
+              "english": "Fear of Allah"
+            },
+            "content": {
+              "urdu": [
+                "ذمہ دار افراد کو ہر وقت اللہ کے سامنے جوابدہی کا ڈر ہونا چاہیے۔",
+                "اخلاص اور دیانتداری ہی دنیا و آخرت کی کامیابی کی ضمانت ہے۔",
+                "عہدہ ملنے پر تکبر کے بجائے عاجزی اور خدمت کا جذبہ اپنائیں۔"
+              ],
+              "english": [
+                "Responsible individuals must always fear accountability before Allah.",
+                "Sincerity and integrity are the only guarantees for total success.",
+                "Adopt humility and a spirit of service instead of pride when in power."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظام کی اصلاح",
+              "english": "Systemic Reform"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے میں میرٹ اور شفافیت کو فروغ دینا ضروری ہے۔",
+                "ظلم کے خلاف آواز اٹھانا اور عدل کا ساتھ دینا ہر مومن کا کام ہے۔",
+                "اگر خیانت ہو چکی ہو تو زندگی میں ہی تلافی اور توبہ کرنی چاہیے۔"
+              ],
+              "english": [
+                "It is essential to promote merit and transparency in society.",
+                "Opposing injustice and supporting equity is the duty of every believer.",
+                "If betrayal has occurred, one must seek restitution and repent while alive."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

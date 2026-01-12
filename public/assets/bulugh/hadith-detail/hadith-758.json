@@ -1,0 +1,274 @@
+{
+  "hadithId": 758,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/7/66"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام",
+    "babId": 53
+  },
+  
+  "takhreej": {
+    "arabic": "حديث صحيح.‏ رواه أبو داود (3074)، والترمذي (1378)، والنسائي (7/322)، وأحمد (4/222).‏ وصححه الألباني في إرواء الغليل.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (3074)، ترمذی (1378) اور نسائی نے روایت کیا ہے۔ علامہ البانی نے اسے ارواء الغلیل میں صحیح قرار دیا ہے۔",
+    "english": "A Sahih Hadith. Reported by Abu Dawud (3074), at-Tirmidhi (1378), an-Nasa'i, and Ahmad. Authenticated by Al-Albani in Irwa' al-Ghalil."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِخْتَصَمَا",
+      "english": "Brought a dispute",
+      "urdu": "جھگڑا لے کر آئے"
+    },
+    {
+      "arabic": "غَرَسَ",
+      "english": "Planted",
+      "urdu": "لگا دیے / بو دیے"
+    },
+    {
+      "arabic": "نَخْلًا",
+      "english": "Date-palms",
+      "urdu": "کھجور کے درخت"
+    },
+    {
+      "arabic": "عِرْقٍ",
+      "english": "Root / Vein",
+      "urdu": "رگ / جڑ"
+    },
+    {
+      "arabic": "ظَالِمٍ",
+      "english": "Unjust / Wrongdoer",
+      "urdu": "ظالم"
+    },
+    {
+      "arabic": "يُخْرِجَ",
+      "english": "To remove / pull out",
+      "urdu": "نکال دے / اکھاڑ لے"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص کسی دوسرے کی زمین پر ناجائز قبضہ کر کے اس میں درخت لگا لے، تو اسے وہ درخت اکھاڑنے ہوں گے اور اسے اس زمین پر کوئی حق حاصل نہیں ہوگا۔",
+    "english": "If a person unjustly plants trees on someone else's land, he must remove them, as an unjust act grants no legal right over the property."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (3074)",
+      "english": "Sunan Abu Dawud (3074)"
+    },
+    {
+      "arabic": "سنن الترمذي (1378)",
+      "english": "Sunan at-Tirmidhi (1378)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عروة بن الزبير",
+        "english": "Urwa bin az-Zubair"
+      },
+      "slug": "urwa-bin-az-zubair"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "سعيد بن زيد",
+        "english": "Said bin Zaid"
+      },
+      "slug": "said-bin-zaid"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9j_vM94nks",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "زمین کی ملکیت کا تحفظ",
+        "english": "Protection of Land Ownership"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناجائز قبضے کی ممانعت",
+              "english": "Prohibition of Unjust Seizure"
+            },
+            "content": {
+              "urdu": [
+                "کسی دوسرے کی زمین پر زبردستی قبضہ کرنا یا اس میں تصرف کرنا حرام ہے۔",
+                "اسلامی قانون مالک کے حقوق کو ہر قسم کی زیادتی سے تحفظ فراہم کرتا ہے۔",
+                "ظلم کی بنیاد پر کیا گیا کوئی بھی عمل قانونی حق پیدا نہیں کرتا۔"
+              ],
+              "english": [
+                "Forcibly seizing or utilizing someone else's land is strictly prohibited.",
+                "Islamic law provides protection for the owner's rights against any violation.",
+                "Any action based on injustice does not establish a legal right."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ظالم کی رگ کا مفہوم",
+              "english": "Meaning of 'Unjust Root'"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد وہ پودا یا درخت ہے جو غصب شدہ زمین میں لگایا گیا ہو۔",
+                "ایسا پودا لگانے والا زمین کی ملکیت کا دعویٰ نہیں کر سکتا۔",
+                "یہ قاعدہ ہر اس تصرف پر لاگو ہوتا ہے جو کسی دوسرے کے حق پر مبنی ہو۔"
+              ],
+              "english": [
+                "This refers to a plant or tree placed in a wrongfully occupied land.",
+                "The person planting it cannot claim ownership or rights over the land.",
+                "This maxim applies to any utilization based on trespassing others' rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدالتی فیصلے اور تلافی",
+        "english": "Judicial Decisions and Redress"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "درختوں کو اکھاڑنے کا حکم",
+              "english": "Order to Remove Trees"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے ظالم کو حکم دیا کہ وہ اپنے درخت زمین سے نکال دے۔",
+                "اس کا مقصد زمین کو اس کی اصل حالت میں مالک کے حوالے کرنا ہے۔",
+                "یہ سزا غاصب کے لیے عبرت ہے تاکہ لوگ دوسروں کی جائیداد پر نظر نہ رکھیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) ordered the wrongdoer to pull his trees out of the land.",
+                "The goal is to return the land to the owner in its original condition.",
+                "This serves as a deterrent to prevent people from eyeing others' property."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مالک کا مکمل اختیار",
+              "english": "Owner's Full Authority"
+            },
+            "content": {
+              "urdu": [
+                "زمین کا مالک اپنے مال میں تصرف کا مکمل اور پہلا حق رکھتا ہے۔",
+                "اگر غاصب درخت نہ نکالے تو مالک کو اسے ہٹانے کا حق حاصل ہے۔",
+                "اسلامی عدلیہ حق دار کو اس کا پورا حق دلانے کی ضامن ہے۔"
+              ],
+              "english": [
+                "The landowner has the primary and absolute right to utilize his property.",
+                "If the usurper refuses to remove trees, the owner has the right to clear them.",
+                "The Islamic judiciary ensures the rightful claimant gets their full due."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور قانونی اصول",
+        "english": "Juristic and Legal Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناجائز تصرف کا انجام",
+              "english": "Consequence of Unlawful Action"
+            },
+            "content": {
+              "urdu": [
+                "فقہ میں یہ ایک عظیم قاعدہ ہے کہ باطل پر مبنی چیز باطل ہی رہتی ہے۔",
+                "محض درخت لگانے یا عمارت بنانے سے زمین غاصب کی نہیں ہو جاتی۔",
+                "اس حدیث سے غصب اور زمین کے تنازعات کے سینکڑوں مسائل حل ہوتے ہیں۔"
+              ],
+              "english": [
+                "It is a major juristic rule that what is built on falsehood remains void.",
+                "Merely planting trees or constructing a building doesn't grant land ownership.",
+                "This Hadith resolves hundreds of issues regarding land disputes and seizure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خرچ اور تاوان",
+              "english": "Expenses and Compensation"
+            },
+            "content": {
+              "urdu": [
+                "غاصب کو زمین اکھاڑنے اور اسے درست کرنے کے اخراجات خود برداشت کرنے ہوں گے۔",
+                "اسے اس عمل میں ہونے والے نقصان کا کوئی معاوضہ نہیں دیا جائے گا۔",
+                "یہ اس کے ظلم کا براہِ راست دنیاوی نتیجہ ہے۔"
+              ],
+              "english": [
+                "The usurper must bear the costs of removing the trees and restoring the land.",
+                "He will not be compensated for any loss incurred during this process.",
+                "This is the direct worldly consequence of his act of injustice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور سماجی اصلاح",
+        "english": "Ethical and Social Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی امن کا قیام",
+              "english": "Establishing Social Peace"
+            },
+            "content": {
+              "urdu": [
+                "حقوق العباد کی پاسداری معاشرے میں لڑائی جھگڑوں کو ختم کرتی ہے۔",
+                "ظلم کی حوصلہ شکنی سے ہی ایک پرامن معاشرہ تشکیل پاتا ہے۔",
+                "اسلامی ریاست کی ذمہ داری ہے کہ وہ کمزوروں کے حقوق کا تحفظ کرے۔"
+              ],
+              "english": [
+                "Upholding the rights of people eliminates conflicts within the society.",
+                "A peaceful society is formed only when injustice is actively discouraged.",
+                "It is the duty of an Islamic state to protect the rights of the vulnerable."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آخرت کا خوف",
+              "english": "Fear of the Hereafter"
+            },
+            "content": {
+              "urdu": [
+                "ظلم کرنا دنیا میں رسوائی اور آخرت میں سخت عذاب کا باعث ہے۔",
+                "انسان کو چاہیے کہ وہ دوسروں کے حق پر نظر ڈالنے سے پہلے اللہ سے ڈرے۔",
+                "سچا مومن وہ ہے جس کے ہاتھ اور زبان سے دوسرے محفوظ رہیں۔"
+              ],
+              "english": [
+                "Committing injustice leads to disgrace in this world and torment in the next.",
+                "One must fear Allah before eyeing the property or rights of others.",
+                "A true believer is one from whose hand and tongue others are safe."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

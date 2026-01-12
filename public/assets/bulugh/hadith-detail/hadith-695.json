@@ -1,0 +1,259 @@
+{
+  "hadithId": 695,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:1598"],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1598)، وأخرجه البخاري (5962) من حديث أبي جحيفة في لعن آكل الربا وموكله.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام مسلم نے اپنی صحیح (1598) میں روایت کیا ہے۔ امام بخاری نے بھی ابوجحیفہ کی روایت سے اس کے ہم معنی الفاظ نقل کیے ہیں۔",
+    "english": "Sahih. Reported by Muslim (1598). Al-Bukhari (5962) reported a similar version from Abu Juhaifa regarding the curser on those who deal with usury."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَعَنَ",
+      "english": "Cursed",
+      "urdu": "لعنت فرمائی"
+    },
+    {
+      "arabic": "آكِلَ",
+      "english": "The one who eats / consumes",
+      "urdu": "کھانے والا (لینے والا)"
+    },
+    {
+      "arabic": "مُوكِلَهُ",
+      "english": "The one who feeds / pays",
+      "urdu": "کھلانے والا (دینے والا)"
+    },
+    {
+      "arabic": "الرِّبَا",
+      "english": "Usury / Interest",
+      "urdu": "سود"
+    },
+    {
+      "arabic": "هُمْ سَوَاءٌ",
+      "english": "They are equal",
+      "urdu": "وہ سب برابر ہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں سود کے معاملے میں ملوث تمام فریقین پر اللہ کی لعنت اور ان کے برابر کے گناہگار ہونے کا بیان ہے، چاہے وہ براہِ راست لین دین کریں یا اس میں تعاون کریں۔",
+    "english": "This Hadith declares that all parties involved in a usurious transaction—the taker, the giver, the scribe, and the witnesses—are equally cursed and share the same burden of sin."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1598)",
+      "english": "Reported by Muslim (1598)"
+    },
+    {
+      "arabic": "رواه البخاري (5962)",
+      "english": "Reported by Al-Bukhari (5962)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0O5vXJ4Xm4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سود کی حرمت اور وعید",
+        "english": "Prohibition and Warning of Usury"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لعنت کا شرعی مفہوم",
+              "english": "Sharia Meaning of Curse"
+            },
+            "content": {
+              "urdu": [
+                "لعنت کا مطلب اللہ تعالیٰ کی رحمت سے دوری اور محرومی ہے۔",
+                "سود ایک ایسا سنگین گناہ ہے جس پر قرآن نے اللہ اور اس کے رسول سے جنگ کی وعید سنائی ہے۔",
+                "نبی ﷺ کا لعنت فرمانا اس فعل کے انتہائی قبیح اور ناپسندیدہ ہونے کی دلیل ہے۔"
+              ],
+              "english": [
+                "A curse (La'nah) signifies being distanced and deprived of Allah's mercy.",
+                "Usury is a grave sin for which the Quran declares war from Allah and His Messenger.",
+                "The Prophet's curse indicates that this act is extremely repulsive and abhorrent."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گناہ میں برابری",
+              "english": "Equality in Sin"
+            },
+            "content": {
+              "urdu": [
+                "صرف سود لینے والا ہی نہیں، بلکہ اسے دینے والا بھی برابر کا مجرم ہے۔",
+                "اسلام گناہ کے ارتکاب کے ساتھ ساتھ گناہ میں تعاون کو بھی حرام قرار دیتا ہے۔",
+                "جو شخص مجبوری کے بغیر سود دیتا ہے، وہ اس باطل نظام کو تقویت دینے کا ذمہ دار ہے۔"
+              ],
+              "english": [
+                "Not just the taker, but the one who pays usury is also considered an equal criminal.",
+                "Islam prohibits not only the commission of sin but also assisting in it.",
+                "A person who pays interest without dire necessity is responsible for strengthening this void system."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سودی نظام میں تعاون کی ممانعت",
+        "english": "Prohibition of Assisting in Usury"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لکھنے والے اور گواہوں کا حکم",
+              "english": "Ruling on Scribes and Witnesses"
+            },
+            "content": {
+              "urdu": [
+                "سودی دستاویز لکھنے والا اور اس پر گواہی دینے والا بھی لعنت کا مستحق ہے۔",
+                "اگر یہ لوگ تعاون نہ کریں تو سودی نظام کا پھیلاؤ رک سکتا ہے۔",
+                "یہ حکم ثابت کرتا ہے کہ باطل کام میں کسی بھی قسم کی مدد کرنا ناجائز ہے۔"
+              ],
+              "english": [
+                "The scribe who records usurious documents and the witnesses are also subject to the curse.",
+                "If these individuals refuse to cooperate, the spread of usury could be halted.",
+                "This ruling proves that providing any form of help in falsehood is impermissible."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو چاہیے کہ وہ اپنی ملازمتوں اور کاروبار کو سودی ملاوٹ سے پاک رکھیں۔",
+                "ایسی جگہ کام کرنا جہاں صرف سودی معاملات تحریر ہوتے ہوں، گناہ میں معاونت ہے۔",
+                "پاکیزہ رزق کی تلاش ہر مسلمان پر فرض ہے تاکہ اس کی عبادات قبول ہوں۔"
+              ],
+              "english": [
+                "Muslims must keep their employment and businesses free from usurious contamination.",
+                "Working in a place solely dedicated to recording interest transactions is aiding in sin.",
+                "Seeking pure sustenance is obligatory for every Muslim so that their worship is accepted."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سود کے معاشی اور اخلاقی نقصانات",
+        "english": "Economic and Moral Damages of Usury"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ظلم اور استحصال",
+              "english": "Oppression and Exploitation"
+            },
+            "content": {
+              "urdu": [
+                "سود دولت کو چند ہاتھوں میں مرکوز کر دیتا ہے اور غریب کو مزید غریب بناتا ہے۔",
+                "یہ انسانی ہمدردی اور بغیر نفع کے قرض (قرضِ حسنہ) کے جذبے کو ختم کرتا ہے۔",
+                "سودی نظام کی بنیاد محنت کے بجائے دوسروں کی مجبوری سے فائدہ اٹھانے پر ہے۔"
+              ],
+              "english": [
+                "Usury concentrates wealth in a few hands and makes the poor even poorer.",
+                "It destroys the spirit of human sympathy and interest-free loans (Qard al-Hasan).",
+                "The usurious system is based on exploiting others' helplessness rather than productive labor."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "برکت کا خاتمہ",
+              "english": "Loss of Blessing"
+            },
+            "content": {
+              "urdu": [
+                "ظاہری طور پر سود سے مال بڑھتا نظر آتا ہے مگر حقیقت میں اللہ اسے مٹا دیتا ہے۔",
+                "سود خور کا مال سکونِ قلب اور روحانی برکت سے خالی ہوتا ہے۔",
+                "صدقات مال کو بڑھاتے ہیں جبکہ سود معاشرے میں بے برکتی اور نفرت پھیلاتا ہے۔"
+              ],
+              "english": [
+                "Outwardly usury seems to increase wealth, but in reality, Allah diminishes it.",
+                "The wealth of a usurer is devoid of peace of mind and spiritual blessings.",
+                "Charity increases wealth, while usury spreads lack of blessing and hatred in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں بچاؤ کی تدابیر",
+        "english": "Preventative Measures in Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی بینکاری اور متبادل",
+              "english": "Islamic Banking and Alternatives"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو روایتی سودی بینکوں کے بجائے اسلامی مالیاتی نظام کی طرف آنا چاہیے۔",
+                "تجارت کو حلال اور سود کو حرام سمجھنا ایمان کا لازمی حصہ ہے۔",
+                "حلال منافع پر قناعت کرنا کثیر حرام مال جمع کرنے سے کہیں بہتر ہے۔"
+              ],
+              "english": [
+                "Muslims should turn toward Islamic financial systems instead of traditional usurious banks.",
+                "Viewing trade as Halal and interest as Haram is an essential part of faith.",
+                "Being content with Halal profit is far better than accumulating vast amounts of Haram wealth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توبہ اور تلافی",
+              "english": "Repentance and Restitution"
+            },
+            "content": {
+              "urdu": [
+                "جو لوگ اس گناہ میں ملوث رہے ہیں، انہیں فوری توبہ کر کے اس سے نکلنا چاہیے۔",
+                "سودی رقم کو ثواب کی نیت کے بغیر غرباء میں تقسیم کر کے پیچھا چھڑانا ضروری ہے۔",
+                "اللہ توبہ کرنے والوں کو پسند کرتا ہے اور ان کے سابقہ گناہ معاف فرما دیتا ہے۔"
+              ],
+              "english": [
+                "Those involved in this sin must immediately repent and exit such transactions.",
+                "Interest money should be disposed of by giving it to the poor without seeking reward.",
+                "Allah loves those who repent and forgives their previous shortcomings."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

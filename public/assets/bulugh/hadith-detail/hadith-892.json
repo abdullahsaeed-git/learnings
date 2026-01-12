@@ -1,0 +1,267 @@
+{
+  "hadithId": 892,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/82"],
+    "kitabId": 8,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب النكاح",
+    "babId": 68
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (5155) ، ومسلم (1427). والحديث أصل في مشروعية الوليمة وتيسير المهر.",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (5155) اور امام مسلم (1427) نے روایت کیا ہے۔ یہ حدیث ولیمہ کی مشروعیت اور مہر میں آسانی کے لیے بنیادی دلیل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5155) and Muslim (1427). This Hadith is a primary evidence for the legality of Walima and facilitating Mahr."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَثَرَ صُفْرَةٍ",
+      "english": "Trace of yellow (perfume)",
+      "urdu": "زردی کا نشان / خوشبو کا اثر"
+    },
+    {
+      "arabic": "نَوَاةٍ",
+      "english": "Date stone (Weight unit)",
+      "urdu": "کھجور کی گٹھلی (ایک وزن)"
+    },
+    {
+      "arabic": "فَبَارَكَ اَللَّهُ لَكَ",
+      "english": "May Allah bless you",
+      "urdu": "اللہ تمہیں برکت دے"
+    },
+    {
+      "arabic": "أَوْلِمْ",
+      "english": "Give a Walima feast",
+      "urdu": "ولیمہ کرو"
+    },
+    {
+      "arabic": "بِشَاةٍ",
+      "english": "With a sheep",
+      "urdu": "ایک بکری کے ساتھ"
+    }
+  ],
+  "summary": {
+    "urdu": "نکاح کی خوشی میں مسنون دعا دینا، استطاعت کے مطابق مہر مقرر کرنا اور شادی کے بعد ولیمہ کی دعوت کرنا سنتِ مؤکدہ ہے۔",
+    "english": "It is a confirmed Sunnah to supplicate for blessings upon marriage, fix a dower according to means, and host a Walima feast after the marriage is consummated."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب النكاح، رقم الحديث ٥١٥٥",
+      "english": "Sahih Bukhari, Book of Marriage, Hadith No. 5155"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب النكاح، رقم الحديث ١٤٢٧",
+      "english": "Sahih Muslim, Book of Marriage, Hadith No. 1427"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الرحمن بن عوف",
+        "english": "Abdur Rahman bin Auf"
+      },
+      "slug": "abdur-rahman-bin-auf"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S-tS_V6X2Yw",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ولیمہ کی شرعی حیثیت اور اہمیت",
+        "english": "Shariah Status and Importance of Walima"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ولیمہ کا حکم",
+              "english": "Ruling on Walima"
+            },
+            "content": {
+              "urdu": [
+                "ولیمہ کرنا سنتِ مؤکدہ ہے اور یہ نکاح کے اعلان اور خوشی کے اظہار کا ایک اہم ذریعہ ہے۔",
+                "حدیث میں 'اولم' (ولیمہ کرو) کا لفظ حکم کے لیے ہے، جس سے اس کی اہمیت واضح ہوتی ہے۔",
+                "نبی کریم ﷺ نے اس عمل کو برکت کی دعا کے ساتھ جوڑا ہے، جو ازدواجی زندگی کی کامیابی کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "Walima is a confirmed Sunnah (Sunnah Mu'akkadah) and a means of announcing the marriage.",
+                "The word 'Awlim' (give a feast) in the Hadith indicates its high importance in Islamic tradition.",
+                "The Prophet (ﷺ) linked this act with a prayer for blessings, vital for a successful marital life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سادگی اور استطاعت",
+              "english": "Simplicity and Financial Capacity"
+            },
+            "content": {
+              "urdu": [
+                "ولیمہ میں فضول خرچی اور دکھاوے کے بجائے سادگی اختیار کرنا سنت ہے۔",
+                "'خواہ ایک بکری ہی ہو' کے الفاظ سے ثابت ہوتا ہے کہ ولیمہ شوہر کی مالی حیثیت کے مطابق ہونا چاہیے۔",
+                "اگر بکری کی طاقت نہ ہو تو کھجور، ستو یا سادہ کھانے سے بھی ولیمہ کی سنت پوری ہو جاتی ہے۔"
+              ],
+              "english": [
+                "Simplicity should be prioritized over extravagance and showing off in Walima ceremonies.",
+                "The phrase 'even with one sheep' proves Walima should be according to the husband's financial means.",
+                "If a sheep cannot be afforded, the Sunnah can be fulfilled with dates, barley, or any simple meal."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مہر اور ازدواجی آداب",
+        "english": "Mahr and Marital Etiquettes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مہر میں اعتدال",
+              "english": "Moderation in Mahr"
+            },
+            "content": {
+              "urdu": [
+                "عبدالرحمٰن بن عوف رضی اللہ عنہ نے ایک گٹھلی کے وزن کے برابر سونا مہر دیا جو کہ ایک معتدل مقدار تھی۔",
+                "اسلام مہر کو آسان بنانے کی ترغیب دیتا ہے تاکہ نکاح کی راہ میں مالی رکاوٹیں حائل نہ ہوں۔",
+                "مہر عورت کا حق ہے اور اسے خوش دلی سے ادا کرنا چاہیے۔"
+              ],
+              "english": [
+                "Abdur Rahman bin Auf (RA) gave gold equal to a date stone, which was a moderate amount.",
+                "Islam encourages making Mahr easy to ensure financial hurdles do not prevent marriage.",
+                "Mahr is the legal right of the woman and must be paid with a willing heart."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوشبو اور زینت",
+              "english": "Perfume and Adornment"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے عبدالرحمٰن بن عوف پر خوشبو کا اثر دیکھا تو ان کی خوشی میں شریک ہوئے۔",
+                "دولہا کے لیے شادی کے موقع پر جائز زینت اور خوشبو کا استعمال مستحب ہے۔",
+                "نبی ﷺ کا سوال 'ما ہذا' (یہ کیا ہے) تجسس کے لیے نہیں بلکہ شفقت اور رہنمائی کے لیے تھا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) saw the trace of perfume on Abdur Rahman and participated in his joy.",
+                "It is recommended (Mustahabb) for the groom to use permissible adornment and perfume on the wedding day.",
+                "The Prophet's question 'What is this?' was asked out of compassion and guidance, not mere curiosity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دعا اور سماجی برتاؤ",
+        "english": "Supplication and Social Conduct"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برکت کی دعا",
+              "english": "Praying for Blessings"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کی خبر ملنے پر 'بارک اللہ لک' (اللہ تمہیں برکت دے) کہنا مسنون عمل ہے۔",
+                "یہ دعا میاں بیوی کے درمیان الفت اور ان کی نسل میں خیر و برکت کا ذریعہ بنتی ہے۔",
+                "مسلمانوں کو ایک دوسرے کی خوشیوں میں مبارکباد اور دعاؤں کے ساتھ شریک ہونا چاہیے۔"
+              ],
+              "english": [
+                "Saying 'BarakAllah' (May Allah bless you) upon hearing of a marriage is a Sunnah practice.",
+                "This prayer acts as a catalyst for love between spouses and goodness in their future generations.",
+                "Muslims should join in each other's happiness with sincere congratulations and prayers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوشی کی اطلاع دینا",
+              "english": "Informing About Joyous Events"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ سادگی پسندیدہ ہے، مگر نکاح جیسے اہم معاملے سے بڑوں اور دوستوں کو آگاہ کرنا چاہیے۔",
+                "عبدالرحمٰن بن عوف نے خاموشی سے نکاح کیا مگر آثار سے نبی ﷺ کو علم ہو گیا۔",
+                "اعلانِ نکاح کا مقصد معاشرے میں حلال اور حرام کے درمیان فرق کو واضح کرنا ہے۔"
+              ],
+              "english": [
+                "While simplicity is preferred, elders and friends should be informed about major life events like Nikah.",
+                "Abdur Rahman married quietly, but the traces of perfume informed the Prophet (ﷺ) of the change.",
+                "The purpose of announcing a marriage is to distinguish between lawful and unlawful relations in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیر ضروری اخراجات سے بچاؤ",
+              "english": "Avoiding Unnecessary Expenses"
+            },
+            "content": {
+              "urdu": [
+                "ولیمہ کا مقصد سماجی حیثیت کا اظہار نہیں بلکہ اللہ کا شکر اور لوگوں کو کھلانا ہے۔",
+                "ایک بکری کا ذکر کم از کم حد کی طرف اشارہ ہے تاکہ کوئی اسے بوجھ نہ سمجھے۔",
+                "نکاح میں جتنا کم خرچ ہوگا، وہ اتنا ہی بابرکت ثابت ہوگا۔"
+              ],
+              "english": [
+                "The purpose of Walima is gratitude to Allah and feeding people, not a display of social status.",
+                "The mention of one sheep points to a minimum standard so that no one feels burdened.",
+                "The less expensive a marriage ceremony is, the more blessed it will be."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی خیر خواہی",
+              "english": "Mutual Goodwill"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے صحابی کے نکاح پر ناراضگی کے بجائے خوشی کا اظہار فرمایا اور مشورہ دیا۔",
+                "مشکل وقت میں دوسروں کے فیصلوں کی حمایت کرنا اور انہیں نیک مشورہ دینا اسلامی اخلاق ہے۔",
+                "دینِ اسلام خوشیوں کو بانٹنے اور غموں کو ہلکا کرنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Instead of expressing displeasure at the quiet marriage, the Prophet (ﷺ) showed joy and offered advice.",
+                "Supporting others' decisions and giving sincere advice is a core part of Islamic character.",
+                "Islam teaches sharing happiness and lightening the burdens of one another."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

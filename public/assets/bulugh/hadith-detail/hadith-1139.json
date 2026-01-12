@@ -1,0 +1,273 @@
+{
+  "hadithId": 1139,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["/abudawud/43/347"],
+    "kitabId": 12,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 92
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (1/332)، وأبو داود (5267)، وابن ماجه (3224)، وابن حبان (1078) من حديث ابن عباس.",
+    "urdu": "یہ حدیث صحیح ہے۔ امام احمد، ابوداؤد اور ابن ماجہ نے اسے روایت کیا ہے، جبکہ امام ابن حبان نے اس کی تصحیح کی ہے۔",
+    "english": "Sahih. Reported by Ahmad (1/332), Abu Dawud (5267), Ibn Majah (3224), and Ibn Hibban (1078) on the authority of Ibn 'Abbas."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade / Prohibited",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "قَتْلِ",
+      "english": "Killing",
+      "urdu": "قتل کرنا / مارنا"
+    },
+    {
+      "arabic": "اَلدَّوَابِّ",
+      "english": "Living creatures",
+      "urdu": "جاندار / جانور"
+    },
+    {
+      "arabic": "اَلنَّمْلَةُ",
+      "english": "Ant",
+      "urdu": "چیونٹی"
+    },
+    {
+      "arabic": "اَلنَّحْلَةُ",
+      "english": "Bee",
+      "urdu": "شہد کی مکھی"
+    },
+    {
+      "arabic": "الْهُدْهُدُ",
+      "english": "Hoopoe",
+      "urdu": "ہدہد"
+    },
+    {
+      "arabic": "الصُّرَدُ",
+      "english": "Shrike / Large Wood-Chat",
+      "urdu": "صرد / ممولا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں چار مخصوص جانداروں (چیونٹی، شہد کی مکھی، ہدہد اور صرد) کو بلاوجہ مارنے سے سختی سے منع کیا گیا ہے۔",
+    "english": "This Hadith strictly prohibits the unnecessary killing of four specific creatures: the ant, the bee, the hoopoe, and the shrike."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (1/332)",
+      "english": "Reported by Ahmad (1/332)"
+    },
+    {
+      "arabic": "رواه أبو داود (5267)",
+      "english": "Reported by Abu Dawud (5267)"
+    },
+    {
+      "arabic": "صحيح ابن حبان (1078)",
+      "english": "Sahih Ibn Hibban (1078)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0_uFz6Yf_R8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی تشریح",
+        "english": "Explanation of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممنوعہ جانداروں کی فہرست",
+              "english": "List of Prohibited Creatures"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے چیونٹی، شہد کی مکھی، ہدہد اور صرد کو مارنے سے منع فرمایا ہے۔",
+                "فقہاء کے نزدیک جن جانوروں کو مارنا منع ہے، ان کا کھانا بھی حرام ہے۔",
+                "یہ ممانعت ان جانداروں کی افادیت اور مخصوص صفات کی بنا پر ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) forbade killing the ant, bee, hoopoe, and shrike.",
+                "Jurists state that animals forbidden to kill are also forbidden to eat.",
+                "This prohibition is based on their benefits and specific characteristics."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شہد کی مکھی اور چیونٹی",
+              "english": "The Bee and the Ant"
+            },
+            "content": {
+              "urdu": [
+                "شہد کی مکھی شہد بنانے جیسا عظیم کام سرانجام دیتی ہے۔",
+                "چیونٹی کی تسبیح اور محنت قرآن و حدیث میں مذکور ہے۔",
+                "اگر یہ نقصان نہ پہنچائیں تو انہیں مارنا شرعاً گناہ ہے۔"
+              ],
+              "english": [
+                "The bee performs the great task of producing honey for humans.",
+                "The ant's glorification of Allah and hard work are cited in texts.",
+                "Unless they cause harm, killing them is considered a sin in Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پرندوں کی خصوصیت",
+        "english": "Uniqueness of the Birds"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہدہد کی اہمیت",
+              "english": "Importance of the Hoopoe"
+            },
+            "content": {
+              "urdu": [
+                "ہدہد حضرت سلیمان علیہ السلام کے قاصد کے طور پر مشہور ہے۔",
+                "یہ پرندہ توحید کی دعوت اور دانائی کی علامت سمجھا جاتا ہے۔",
+                "اس کی تاریخی اور مذہبی اہمیت کی بنا پر اسے تحفظ دیا گیا ہے۔"
+              ],
+              "english": [
+                "The hoopoe is famous as the messenger for Prophet Sulaiman (AS).",
+                "This bird is seen as a symbol of monotheism and intelligence.",
+                "It is protected due to its historical and religious significance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صرد (ممولا) کا ذکر",
+              "english": "Mention of the Shrike"
+            },
+            "content": {
+              "urdu": [
+                "صرد ایک ایسا پرندہ ہے جس کا گوشت بدبودار ہوتا ہے۔",
+                "اسے مارنے سے منع کرنے کا مقصد ماحولیاتی توازن برقرار رکھنا ہے۔",
+                "شریعت نے بلاوجہ کسی بھی جاندار کی جان لینے کو ناپسند کیا ہے۔"
+              ],
+              "english": [
+                "The shrike (Surad) is a bird known for having unpalatable meat.",
+                "Prohibiting its killing helps maintain the ecological balance.",
+                "Shariah dislikes taking the life of any creature without a valid reason."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اذیت دینے والے جانور",
+              "english": "Creatures that Cause Harm"
+            },
+            "content": {
+              "urdu": [
+                "اگر چیونٹی یا مکھی اذیت پہنچائے تو انہیں مارنا جائز ہو جاتا ہے۔",
+                "عام حالات میں ممانعت کا حکم برقرار رہتا ہے۔",
+                "نقصان دہ جانوروں (موذیات) کو مارنے کی اجازت دیگر احادیث میں ہے۔"
+              ],
+              "english": [
+                "If ants or bees cause actual harm, killing them becomes permissible.",
+                "In normal circumstances, the ruling of prohibition remains in effect.",
+                "Permission to kill harmful pests is established in other Hadiths."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حلال و حرام کا قاعدہ",
+              "english": "Rule of Halal and Haram"
+            },
+            "content": {
+              "urdu": [
+                "جن جانوروں کے قتل سے منع کیا گیا وہ سب حرام ہیں۔",
+                "یہ فقہی قاعدہ 'التحریم یتبع النهی عن القتل' کہلاتا ہے۔",
+                "اسلامی خوراک کے اصولوں میں یہ حدیث بنیادی حیثیت رکھتی ہے۔"
+              ],
+              "english": [
+                "Animals forbidden to be killed are categorized as Haram to eat.",
+                "This is a legal maxim: 'Prohibition follows the ban on killing.'",
+                "This Hadith is fundamental in the principles of Islamic dietary laws."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و ماحولیاتی سبق",
+        "english": "Ethical and Environmental Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مخلوق پر رحم",
+              "english": "Mercy Towards Creation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہمیں تمام مخلوقات کے ساتھ ہمدردی کا درس دیتا ہے۔",
+                "بلا ضرورت کسی چھوٹے کیڑے کو مارنا بھی سنگدلی ہے۔",
+                "اللہ کی ہر مخلوق کسی نہ کسی مقصد کے تحت پیدا کی گئی ہے۔"
+              ],
+              "english": [
+                "Islam teaches us to show compassion towards all living beings.",
+                "Killing even a small insect without need is a sign of cold-heartedness.",
+                "Every creature of Allah has been created for a specific purpose."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حیاتیاتی توازن",
+              "english": "Biological Balance"
+            },
+            "content": {
+              "urdu": [
+                "حیوانات کا تحفظ زمین کے قدرتی نظام کے لیے ضروری ہے۔",
+                "اسلامی تعلیمات ماحولیات کے تحفظ کا بہترین نمونہ ہیں۔",
+                "آپ ﷺ نے چودہ سو سال پہلے حیاتِ فطری کے تحفظ کا حکم دیا۔"
+              ],
+              "english": [
+                "Protecting animals is essential for the Earth's natural system.",
+                "Islamic teachings are a perfect model for environmental protection.",
+                "The Prophet (ﷺ) ordered the protection of wildlife 1400 years ago."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

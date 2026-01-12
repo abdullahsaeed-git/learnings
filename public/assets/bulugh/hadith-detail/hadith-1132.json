@@ -1,0 +1,254 @@
+{
+  "hadithId": 1132,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/53"],
+    "kitabId": 11,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الجهاد - باب السبق والنضال",
+    "babId": 91
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (2/474)، وأبو داود (2574)، والنسائي (6/226)، والترمذي (1700)، وابن حبان (4671). وقال الترمذي: حديث حسن.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابوداؤد، نسائی، ترمذی اور ابن حبان نے روایت کیا ہے۔ امام ترمذی نے اسے حسن قرار دیا ہے۔ اس حدیث میں 'سَبْق' سے مراد وہ انعام ہے جو مقابلے میں جیتنے والے کو دیا جاتا ہے۔",
+    "english": "Sahih. Reported by Ahmad (2/474), Abu Dawud (2574), An-Nasa'i (6/226), At-Tirmidhi (1700), and Ibn Hibban (4671). At-Tirmidhi called it a Hasan Hadith. 'Sabq' here refers to the prize or stake money given to the winner."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَبْقَ",
+      "english": "Prize / Reward for a race",
+      "urdu": "انعام / وہ مال جو بازی جیتنے والے کو ملے"
+    },
+    {
+      "arabic": "خُفِّ",
+      "english": "Camel (lit. camel's hoof)",
+      "urdu": "اونٹ کی دوڑ"
+    },
+    {
+      "arabic": "نَصْلٍ",
+      "english": "Arrow-head / Archery",
+      "urdu": "تیر اندازی"
+    },
+    {
+      "arabic": "حَافِرٍ",
+      "english": "Horse (lit. horse's hoof)",
+      "urdu": "گھوڑوں کی دوڑ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مفہوم یہ ہے کہ اسلام میں صرف ان کھیلوں پر انعام لینا یا لگانا جائز ہے جو دفاعی تیاری اور جہاد میں معاون ثابت ہوں، جیسے گھڑ سواری، اونٹوں کی دوڑ اور نشانہ بازی۔",
+    "english": "The Hadith signifies that in Islam, taking or offering prizes is permissible only for sports that assist in defense and military preparedness, such as horse and camel racing and archery."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2574)",
+      "english": "Sunan Abi Dawud (2574)"
+    },
+    {
+      "arabic": "سنن الترمذي (1700)",
+      "english": "Sunan at-Tirmidhi (1700)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "انعامی مقابلے اور شرعی حدود",
+        "english": "Prizes in Competitions and Shariah Limits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جائز مقابلوں کی شرائط",
+              "english": "Conditions for Permissible Prizes"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں صرف ان کھیلوں پر مال کی بازی لگانا جائز ہے جن کا تعلق دفاعی تربیت سے ہو۔",
+                "ایسے مقابلوں میں انعام یا تو حکومت کی طرف سے ہو، یا تماشائیوں کی طرف سے یا کسی ایک فریق کی طرف سے۔",
+                "اگر دونوں کھلاڑی پیسے لگائیں اور جیتنے والا سب لے جائے، تو یہ 'جوا' بن جاتا ہے جو کہ حرام ہے۔"
+              ],
+              "english": [
+                "In Islam, placing a stake is permissible only for sports related to military training.",
+                "Prizes in these cases can be provided by the state, spectators, or one of the participants.",
+                "If both players contribute money and the winner takes all, it becomes gambling, which is forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دفاعی تیاری کی اہمیت",
+              "english": "Importance of Defensive Readiness"
+            },
+            "content": {
+              "urdu": [
+                "گھوڑے، اونٹ اور تیر اندازی اس دور میں جنگی قوت کے بنیادی ستون تھے۔",
+                "انعامی ترغیب دینے کا مقصد مسلمانوں کو ہر وقت جہاد کے لیے تیار رکھنا ہے۔",
+                "جدید دور میں نشانہ بازی اور ٹینکوں یا جہازوں کی مشقیں بھی اسی حکم میں شامل سمجھی جا سکتی ہیں۔"
+              ],
+              "english": [
+                "Horses, camels, and archery were the primary pillars of military strength in that era.",
+                "Offering prizes aims to keep Muslims constantly prepared for defense.",
+                "In the modern era, target practice and drills with tanks or aircraft can fall under this ruling."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب اور تشریحات",
+        "english": "Juristic Opinions and Interpretations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اماموں کے موقف",
+              "english": "Positions of the Imams"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک ان تین کے علاوہ کسی کھیل پر مالی انعام لگانا (جوا کی صورت میں) جائز نہیں۔",
+                "کچھ فقہاء نے ان پر قیاس کرتے ہوئے علمِ دین کے مقابلوں میں بھی انعام کی اجازت دی ہے۔",
+                "نبی ﷺ نے ان تین کھیلوں کا تذکرہ اس لیے کیا کہ یہ امت کی اجتماعی بقا کے لیے ضروری تھے۔"
+              ],
+              "english": [
+                "According to the majority of jurists, placing monetary stakes on other sports is not allowed.",
+                "Some jurists permit prizes in religious knowledge competitions based on analogy with these three.",
+                "The Prophet (ﷺ) specifically mentioned these three because they were vital for the Ummah's survival."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محلل (تیسرا فریق) کا مسئلہ",
+              "english": "The Role of the 'Muhallil'"
+            },
+            "content": {
+              "urdu": [
+                "اگر دو فریق مقابلہ کریں، تو کچھ فقہاء تیسرے فریق (محلل) کی شمولیت کو ضروری قرار دیتے ہیں۔",
+                "محلل وہ ہوتا ہے جو پیسے نہ دے مگر جیتنے پر انعام پانے کا حقدار ہو۔",
+                "یہ طریقہ کار مقابلے کو جوئے (قمار) کی تعریف سے باہر نکالنے کے لیے تجویز کیا گیا ہے۔"
+              ],
+              "english": [
+                "If two parties compete with stakes, some jurists require a third party (Muhallil).",
+                "The Muhallil is someone who doesn't contribute money but can win the prize.",
+                "This method is proposed to ensure the competition does not fall under the definition of gambling."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دیگر کھیلوں کا حکم",
+        "english": "Ruling on Other Sports"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی صحت کے لیے کھیل",
+              "english": "Sports for Physical Health"
+            },
+            "content": {
+              "urdu": [
+                "دوڑ لگانا، کشتی لڑنا اور تیراکی کرنا بذاتِ خود مباح اور مستحسن کام ہیں۔",
+                "ایسے کھیلوں پر انعام لینا تب جائز ہے جب وہ کسی تیسرے فریق (حکومت یا سپانسر) کی طرف سے ہو۔",
+                "جن کھیلوں کا فائدہ نہ ہو بلکہ وقت کا ضیاع ہو، ان سے بچنا ہی بہتر ہے۔"
+              ],
+              "english": [
+                "Running, wrestling, and swimming are inherently permissible and recommended acts.",
+                "Prizes for these are allowed if provided by a third party (state or sponsor).",
+                "Sports that provide no benefit and are a mere waste of time should be avoided."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جوئے سے بچاؤ",
+              "english": "Prevention of Gambling"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر اس سرگرمی کو روکتا ہے جہاں مال کا حصول محنت کے بجائے اتفاق یا دوسروں کے نقصان پر مبنی ہو۔",
+                "جوئے کی ممانعت کا مقصد معاشرے میں معاشی استحصال کو ختم کرنا ہے۔",
+                "تفریح کا وہ طریقہ جو گناہ کا سبب بنے، شریعت میں ناپسندیدہ ہے۔"
+              ],
+              "english": [
+                "Islam prohibits activities where gaining wealth is based on chance or someone else's loss rather than work.",
+                "The ban on gambling aims to eradicate economic exploitation in society.",
+                "Forms of entertainment that lead to sin are disliked in Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بامقصد تفریح",
+              "english": "Purposeful Recreation"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو چاہیے کہ وہ ایسی سرگرمیوں میں حصہ لیں جو دین اور دنیا دونوں کے لیے مفید ہوں۔",
+                "اپنے بچوں کو تیراکی، شہسواری اور نشانہ بازی سکھانا سنت سے ثابت ہے۔",
+                "کھیلوں کو صرف وقت گزاری کا ذریعہ نہیں بلکہ تربیت کا موقع بنانا چاہیے۔"
+              ],
+              "english": [
+                "Muslims should participate in activities that are beneficial for both this life and the hereafter.",
+                "Teaching children swimming, riding, and archery is established from the Sunnah.",
+                "Sports should be viewed as an opportunity for training rather than just passing time."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حلال کمائی کا خیال",
+              "english": "Mindfulness of Halal Earnings"
+            },
+            "content": {
+              "urdu": [
+                "مقابلوں میں حصہ لیتے وقت یہ دیکھنا ضروری ہے کہ انعام کی رقم کہاں سے آ رہی ہے۔",
+                "حرام ذرائع سے حاصل کیا گیا مال انسان کی دعاؤں کی قبولیت میں رکاوٹ بنتا ہے۔",
+                "ہمیں اپنے تفریحی مشاغل کو بھی شریعت کے ترازو میں تولنا چاہیے۔"
+              ],
+              "english": [
+                "When participating in competitions, it is vital to know the source of the prize money.",
+                "Wealth gained through forbidden means hinders the acceptance of one's prayers.",
+                "We must weigh our hobbies and recreational choices on the scales of Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

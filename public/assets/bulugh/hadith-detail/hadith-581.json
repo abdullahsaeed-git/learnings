@@ -1,0 +1,259 @@
+{
+  "hadithId": 581,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/581"],
+    "kitabId": 6,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 36
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف. رواه الترمذي (931)، وأحمد (3/316)، وابن عدي في الكامل (4/1468). قال الترمذي: هذا حديث حسن صحيح، والراجح أنه موقوف على جابر. أما رواية ابن عدي 'الحج والعمرة فريضتان' ففي سندها متروك.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے ترمذی (931) اور احمد (3/316) نے روایت کیا ہے۔ امام ترمذی کے نزدیک اس کا جابر رضی اللہ عنہ پر موقوف ہونا (ان کا اپنا قول ہونا) زیادہ صحیح ہے۔ ابن عدی کی روایت 'حج اور عمرہ دونوں فرض ہیں' سند کے لحاظ سے انتہائی ضعیف ہے۔",
+    "english": "Weak. Reported by At-Tirmidhi (931) and Ahmad (3/316). At-Tirmidhi preferred the view that it is Mauquf (a statement of Jabir himself). The narration by Ibn 'Adi stating both are obligatory has a discarded (Matruk) narrator in its chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْرَابِيٌّ",
+      "english": "Desert Arab / Bedouin",
+      "urdu": "دیہاتی بدوی"
+    },
+    {
+      "arabic": "أَوَاجِبَةٌ",
+      "english": "Is it obligatory?",
+      "urdu": "کیا یہ واجب ہے؟"
+    },
+    {
+      "arabic": "خَيْرٌ لَكَ",
+      "english": "Better for you",
+      "urdu": "تمہارے لیے بہتر ہے"
+    },
+    {
+      "arabic": "الرَّاجِحُ",
+      "english": "The most correct view",
+      "urdu": "راجح / زیادہ صحیح"
+    },
+    {
+      "arabic": "فَرِيضَتَانِ",
+      "english": "Two obligations / Fard",
+      "urdu": "دو فرض"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کی بنیاد پر عمرہ کی فرضیت کے بارے میں فقہاء میں اختلاف ہے؛ بعض اسے سنتِ مؤکدہ قرار دیتے ہیں اور بعض اسے زندگی میں ایک بار واجب مانتے ہیں۔",
+    "english": "Based on this narration, jurists differ on whether Umrah is obligatory; some consider it a Sunnah Mu'akkadah, while others view it as an obligation once in a lifetime."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (931)",
+      "english": "Reported by At-Tirmidhi (931)"
+    },
+    {
+      "arabic": "رواه أحمد (3/316)",
+      "english": "Reported by Ahmad (3/316)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin 'Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0h9V6N-K3E0",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عمرہ کی شرعی حیثیت",
+        "english": "Legal Status of Umrah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت یا واجب؟",
+              "english": "Sunnah or Wajib?"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے معلوم ہوتا ہے کہ عمرہ حج کی طرح قطعی فرض نہیں ہے بلکہ ایک نفل یا سنتِ مؤکدہ ہے۔",
+                "احناف اور مالکیہ کے نزدیک عمرہ سنت ہے، واجب نہیں، کیونکہ اس میں 'لا' (نہیں) کا لفظ آیا ہے۔",
+                "نبی ﷺ نے اسے 'بہتر' قرار دیا جو اس کی فضیلت اور استحباب پر دلالت کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith suggests that Umrah is not an absolute obligation like Hajj, but rather voluntary or Sunnah Mu'akkadah.",
+                "Hanafis and Malikis hold that Umrah is Sunnah and not Wajib, based on the Prophet's (ﷺ) 'No' in this report.",
+                "The Prophet (ﷺ) described it as 'better,' indicating its high merit and recommended nature."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شوافع اور حنابلہ کا موقف",
+              "english": "View of Shafi'is and Hanbalis"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور امام احمد کے نزدیک زندگی میں ایک بار عمرہ کرنا واجب ہے۔",
+                "وہ قرآنی آیت 'واتموا الحج والعمرة لله' سے استدلال کرتے ہیں کہ دونوں کو مکمل کرنا ضروری ہے۔",
+                "ان کے نزدیک اس حدیث کی سند ضعیف ہے، اس لیے یہ وجوب کی نفی کے لیے کافی نہیں ہے۔"
+              ],
+              "english": [
+                "Imams Shafi'i and Ahmad believe that performing Umrah once in a lifetime is obligatory.",
+                "They derive evidence from the Quranic verse 'And complete the Hajj and 'Umrah for Allah' (2:196).",
+                "They consider the chain of this specific Hadith weak, hence insufficient to negate the obligation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی اسنادی حیثیت",
+        "english": "Scholarly Analysis of the Chain"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرفوع اور موقوف کا فرق",
+              "english": "Marfu' vs. Mauquf"
+            },
+            "content": {
+              "urdu": [
+                "حافظ ابن حجر نے واضح کیا کہ اس حدیث کا سیدنا جابر کا اپنا قول ہونا زیادہ راجح ہے۔",
+                "جب کوئی روایت 'موقوف' ہو تو وہ 'مرفوع' (نبی ﷺ کے قول) کے مقابلے میں کمزور سمجھی جاتی ہے۔",
+                "محدثین کے نزدیک اس کے مرفوع ہونے کی اسناد میں کلام پایا جاتا ہے۔"
+              ],
+              "english": [
+                "Ibn Hajar clarified that it is more likely this statement belongs to Jabir himself (Mauquf).",
+                "A 'Mauquf' report is generally considered less authoritative than a 'Marfu' (Prophetic) statement.",
+                "Hadith critics have noted defects in the chains that attribute these words directly to the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ضعیف روایات کا اثر",
+              "english": "Impact of Weak Narrations"
+            },
+            "content": {
+              "urdu": [
+                "ابن عدی کی وہ روایت جو وجوب بتاتی ہے، اس میں 'متروک' راوی ہونے کی وجہ سے وہ ناقابلِ اعتبار ہے۔",
+                "فقہی مسائل میں ضعیف روایات پر مکمل انحصار نہیں کیا جاتا بلکہ دیگر دلائل دیکھے جاتے ہیں۔",
+                "عمرہ کے وجوب یا عدمِ وجوب پر بحث اسی لیے طویل ہے کہ کوئی بھی صریح صحیح حدیث موجود نہیں۔"
+              ],
+              "english": [
+                "Ibn 'Adi's report suggesting obligation is unreliable due to the presence of a 'discarded' narrator.",
+                "In legal matters, weak narrations are not solely relied upon; rather, broader evidences are examined.",
+                "The debate on Umrah's obligation persists because there is no explicit Sahih Hadith settling the matter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عمرہ کی فضیلت",
+        "english": "Virtues of Umrah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیکی میں سبقت",
+              "english": "Excelling in Goodness"
+            },
+            "content": {
+              "urdu": [
+                "چاہے واجب ہو یا سنت، عمرہ ایک عظیم ترین نیکی ہے جو گناہوں کو مٹاتی ہے۔",
+                "نبی ﷺ کا فرمان 'تمہارے لیے بہتر ہے' ظاہر کرتا ہے کہ یہ خیرِ کثیر کا باعث ہے۔",
+                "بار بار عمرہ کرنا فقر و فاقہ کو اس طرح دور کرتا ہے جیسے بھٹی لوہے کا زنگ دور کرتی ہے۔"
+              ],
+              "english": [
+                "Whether obligatory or Sunnah, Umrah is a magnificent deed that erases sins.",
+                "The Prophet's (ﷺ) words 'it is better for you' signify that it brings immense goodness.",
+                "Performing frequent Umrahs removes poverty and sins just as a bellows removes dross from iron."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بدوی کی سادگی اور تعلیم",
+              "english": "The Bedouin's Simplicity"
+            },
+            "content": {
+              "urdu": [
+                "دیہاتی لوگ اکثر براہِ راست اور سادہ سوالات کرتے تھے تاکہ دین کی بنیاد سمجھ سکیں۔",
+                "نبی ﷺ نے ان کی نفسیات کے مطابق جواب دیا تاکہ وہ بوجھ محسوس نہ کریں۔",
+                "اسلام میں فرائض کی تعداد کم رکھی گئی ہے تاکہ عام انسان آسانی سے عمل کر سکے۔"
+              ],
+              "english": [
+                "Bedouins often asked direct, simple questions to understand the essentials of faith.",
+                "The Prophet (ﷺ) answered according to their temperament to ensure they didn't feel burdened.",
+                "Islam keeps the number of mandatory acts low to make practice manageable for common people."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فرائض اور نوافل میں فرق",
+              "english": "Difference Between Fard and Nafl"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو سب سے پہلے اپنے فرائض کی فکر کرنی چاہیے کیونکہ اصل پکڑ ان پر ہے۔",
+                "نوافل اور سنتیں درجات کی بلندی اور فرائض کی کمی پوری کرنے کے لیے ہیں۔",
+                "عمرہ جیسے اعمال سے اللہ کی محبت اور قرب حاصل ہوتا ہے۔"
+              ],
+              "english": [
+                "A Muslim should first worry about their obligatory duties as they are the basis of accountability.",
+                "Voluntary and Sunnah acts serve to elevate ranks and fill gaps in obligatory worship.",
+                "Acts like Umrah foster intense love and proximity to Allah the Almighty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاط کا راستہ",
+              "english": "Path of Precaution"
+            },
+            "content": {
+              "urdu": [
+                "اگر استطاعت ہو تو زندگی میں ایک بار عمرہ کر لینا چاہیے تاکہ اختلاف سے بچا جا سکے۔",
+                "احتیاط اس میں ہے کہ ان تمام اعمال کو بجا لایا جائے جن میں وجوب کا شبہ ہو۔",
+                "نیکی کا کوئی بھی موقع ہاتھ سے نہیں جانے دینا چاہیے کیونکہ موت کا وقت معلوم نہیں۔"
+              ],
+              "english": [
+                "If affordable, one should perform Umrah once in a lifetime to avoid scholarly disagreement.",
+                "Precaution dictates fulfilling deeds where there is a suspicion of them being mandatory.",
+                "No opportunity for goodness should be missed, as the time of death is unknown."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

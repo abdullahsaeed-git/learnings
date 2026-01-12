@@ -1,0 +1,172 @@
+{
+  "hadithId": 1323,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["tirmidhi:1931"],
+    "kitabId": 16,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الجامع",
+    "babId": 106
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه الترمذي (1931)، وأحمد (6/450)، والبخاري في الأدب المفرد (926). وصححه الألباني في صحيح الجامع (6262).",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام ترمذی نے روایت کیا اور امام البانی نے اسے صحیح الجامع (6262) میں صحیح قرار دیا ہے۔ مسند احمد میں اس کے شواہد موجود ہیں۔",
+    "english": "Hasan (Good). Reported by At-Tirmidhi (1931), Ahmad, and Al-Bukhari in Al-Adab al-Mufrad. Authenticated by Al-Albani in Sahih al-Jami' (6262)."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَدَّ",
+      "english": "Defended / Repelled",
+      "urdu": "دفاع کیا / لوٹایا"
+    },
+    {
+      "arabic": "عِرْضِ",
+      "english": "Honor / Reputation",
+      "urdu": "آبرو / عزت"
+    },
+    {
+      "arabic": "بِالْغَيْبِ",
+      "english": "In absence",
+      "urdu": "پیٹھ پیچھے / غیر موجودگی میں"
+    },
+    {
+      "arabic": "وَجْهِهِ",
+      "english": "His face",
+      "urdu": "اس کا چہرہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کسی مسلمان کی پیٹھ پیچھے اس کی عزت کا دفاع کرنے کی عظیم فضیلت بیان ہوئی ہے کہ ایسا کرنے والے کو جہنم کی آگ سے بچایا جائے گا۔",
+    "english": "This Hadith highlights the great reward for defending a Muslim's reputation in their absence, promising that Allah will protect the defender's face from the Fire."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (1931)",
+      "english": "Sunan at-Tirmidhi (1931)"
+    },
+    {
+      "arabic": "مسند أحمد (27583)",
+      "english": "Musnad Ahmad (27583)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو الدرداء الأنصاري",
+        "english": "Abu ad-Darda' al-Ansari"
+      },
+      "slug": "abu-ad-darda"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9NOnXh6g5U",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسلمان کی عزت کا تحفظ",
+        "english": "Safeguarding a Muslim's Honor"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدم موجودگی میں دفاع",
+              "english": "Defense in Absence"
+            },
+            "content": {
+              "urdu": [
+                "کسی کی غیر موجودگی میں اس کی عزت کا دفاع کرنا اخلاص اور سچی محبت کی نشانی ہے۔",
+                "اگر کسی محفل میں کسی مسلمان کی غیبت ہو رہی ہو تو خاموش رہنے کے بجائے اس کا دفاع کرنا واجب ہے۔",
+                "یہ عمل معاشرے میں باہمی اعتماد اور اتحاد کو مضبوط کرتا ہے۔"
+              ],
+              "english": [
+                "Defending someone's honor in their absence is a sign of sincerity and true love.",
+                "If a Muslim is being backbitten in a gathering, it is obligatory to defend them rather than remain silent.",
+                "This action strengthens mutual trust and unity within society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آبرو کی اہمیت",
+              "english": "Significance of Reputation"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کی عزت دوسرے مسلمان پر اس کے خون اور مال کی طرح حرام ہے۔",
+                "کسی کی آبرو پر حملہ کرنا درحقیقت پورے معاشرتی ڈھانچے کو نقصان پہنچانا ہے۔",
+                "عزت کا دفاع کرنا مظلوم کی مدد کرنے کے زمرے میں آتا ہے۔"
+              ],
+              "english": [
+                "A Muslim's honor is sacred to another Muslim, just like their blood and property.",
+                "Attacking someone's reputation is effectively damaging the entire social fabric.",
+                "Defending someone's honor falls under the category of helping the oppressed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجر اور بدلہ",
+        "english": "Reward and Recompense"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آگ سے نجات",
+              "english": "Salvation from the Fire"
+            },
+            "content": {
+              "urdu": [
+                "جیسا عمل ویسا بدلہ: جس نے دنیا میں کسی کے چہرے سے عیب کی دھول ہٹائی، اللہ اسے جہنم کی تپش سے بچائے گا۔",
+                "چہرے کا ذکر خاص طور پر اس لیے کیا گیا کیونکہ یہ انسان کا معزز ترین حصہ ہے۔",
+                "یہ خوشخبری ثابت کرتی ہے کہ حقوق العباد کی پاسداری اللہ کو بہت پسند ہے۔"
+              ],
+              "english": [
+                "Equal Recompense: One who clears the 'dust' of blame from another's face will be saved from the heat of Hell.",
+                "The face is specifically mentioned because it is the most honorable part of a human being.",
+                "This glad tiding proves that fulfilling the rights of fellow humans is highly beloved to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیبت کی محفلوں کا بائیکاٹ",
+              "english": "Boycotting Backbiting Sessions"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں ایسی محفلوں کا حصہ نہیں بننا چاہیے جہاں لوگوں کی عزت اچھالی جاتی ہو۔",
+                "اگر ہم دفاع نہیں کر سکتے تو کم از کم وہاں سے اٹھ جانا چاہیے۔",
+                "نبی ﷺ نے فرمایا کہ اپنے بھائی کی مدد کرو چاہے وہ ظالم ہو یا مظلوم؛ یہاں دفاع مظلوم کی مدد ہے۔"
+              ],
+              "english": [
+                "We must not be part of gatherings where people's reputations are tarnished.",
+                "If we cannot defend them, we should at least leave the place.",
+                "The Prophet (ﷺ) said to help your brother whether he is the oppressor or the oppressed; here, defense is helping the oppressed."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

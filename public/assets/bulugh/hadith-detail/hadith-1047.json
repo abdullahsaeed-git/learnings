@@ -1,0 +1,254 @@
+{
+  "hadithId": 1047,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/10/14"],
+    "kitabId": 10,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 84
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف مرفوعاً وصح موقوفاً. رواه ابن ماجه (2545)، والترمذي (1424)، والحاكم (4/384). وصح عن عمر بن الخطاب وعلي بن أبي طالب وابن مسعود موقوفاً عليهم.",
+    "urdu": "یہ روایت مرفوعاً (نبی ﷺ کے قول کے طور پر) ضعیف ہے، لیکن یہ اصول صحابہ کرام (عمر، علی، ابن مسعود رضی اللہ عنہم) سے موقوفاً صحیح سند کے ساتھ ثابت ہے اور امت میں مقبول ہے۔",
+    "english": "Weak as a Marfu' tradition (attributed to the Prophet), but authentically established as a statement of several Companions like 'Umar, 'Ali, and Ibn Mas'ud. The principle is widely accepted in Islamic jurisprudence."
+  },
+  "importantWords": [
+    {
+      "arabic": "ادْرَأُوا / اِدْفَعُوا",
+      "english": "Avert / Ward off",
+      "urdu": "دفع کرو / بچاؤ"
+    },
+    {
+      "arabic": "الْحُدُودَ",
+      "english": "Prescribed Penalties",
+      "urdu": "شرعی سزائیں"
+    },
+    {
+      "arabic": "مَدْفَعًا",
+      "english": "Way of escape / Way to avert",
+      "urdu": "دفع کرنے کی گنجائش"
+    },
+    {
+      "arabic": "بِالشُّبُهَاتِ",
+      "english": "By means of doubts / uncertainties",
+      "urdu": "شبہات کی وجہ سے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مفہوم یہ ہے کہ اسلامی عدالتوں کو چاہیے کہ جب تک کسی جرم کا ثبوت سو فیصد یقینی نہ ہو، سخت شرعی سزائیں (حدود) نافذ نہ کریں بلکہ شک کا فائدہ مجرم کو دیں۔",
+    "english": "This Hadith establishes the legal maxim that prescribed penalties (Hudud) should be averted if there is any ambiguity or doubt in the evidence, giving the benefit of the doubt to the accused."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (1424)",
+      "english": "Reported by At-Tirmidhi (1424)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (2545)",
+      "english": "Reported by Ibn Majah (2545)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6o9l6Kts",
+  "grade": {
+    "arabic": "ضعيف مرفوعاً، صحيح القاعدة",
+    "english": "Weak as Marfu', but an Established Legal Principle"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شک کا فائدہ (Benefit of Doubt)",
+        "english": "Benefit of Doubt"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدل و انصاف کی بنیاد",
+              "english": "Foundation of Justice"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی نظامِ عدل میں یہ ایک بنیادی اصول ہے کہ سزا صرف یقینی ثبوت پر دی جائے گی۔",
+                "اگر گواہی میں تضاد ہو یا جرم کے وقوع میں کوئی شک ہو، تو حد نافذ نہیں ہوگی۔",
+                "نبی کریم ﷺ نے فرمایا کہ امام (قاضی) کا معافی میں غلطی کرنا، سزا میں غلطی کرنے سے بہتر ہے۔"
+              ],
+              "english": [
+                "It is a core Islamic principle that punishment is only applied based on certain evidence.",
+                "If there is contradiction in testimony or doubt in the crime, the Had is waived.",
+                "The Prophet (ﷺ) noted that for a judge to err in forgiving is better than erring in punishing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حدود اور تعزیر میں فرق",
+              "english": "Difference between Hudud and Ta'zir"
+            },
+            "content": {
+              "urdu": [
+                "شبہہ کی صورت میں صرف 'حد' (مقررہ سخت سزا) ساقط ہوتی ہے۔",
+                "قاضی جرم کی نوعیت کے مطابق 'تعزیر' (کم سزا) اب بھی دے سکتا ہے۔",
+                "اس اصول کا مقصد بے گناہوں کو سنگین سزاؤں سے بچانا ہے۔"
+              ],
+              "english": [
+                "In case of doubt, only the 'Had' (fixed severe penalty) is dropped.",
+                "The judge may still apply 'Ta'zir' (discretionary punishment) based on the situation.",
+                "This principle aims to protect the innocent from irreversible severe penalties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شبہہ کی اقسام",
+        "english": "Types of Doubts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ثبوت میں شبہہ",
+              "english": "Doubt in Evidence"
+            },
+            "content": {
+              "urdu": [
+                "اگر گواہوں کی تعداد پوری نہ ہو یا ان کے بیانات میں اختلاف ہو تو یہ شبہہ ہے۔",
+                "اگر مجرم اپنے اعتراف سے رجوع (انکار) کر لے تو بھی حد ٹل جاتی ہے۔",
+                "اسلامی قانون گواہی کے معیار پر بہت سختی کرتا ہے۔"
+              ],
+              "english": [
+                "Insufficient number of witnesses or contradictory statements create doubt.",
+                "If the offender retracts their confession, the fixed penalty is averted.",
+                "Islamic law maintains very high standards for witness credibility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقیقتِ فعل میں شبہہ",
+              "english": "Doubt in the Act Itself"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی نے غلط فہمی میں کوئی فعل کیا (مثلاً نکاحِ فاسد میں زنا کا تصور)، تو اسے شبہہ مانا جائے گا۔",
+                "لا علمی یا زبردستی (اکراہ) کی صورت میں بھی حد نافذ نہیں ہوتی۔",
+                "نیت اور ارادے کا واضح ہونا سزا کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "Acts done under misunderstanding (e.g., an invalid marriage) are treated as doubtful.",
+                "Ignorance or coercion (Ikrah) also serves as a ground to avert the Had.",
+                "Clear criminal intent and will are necessary conditions for punishment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی نظامِ عدل کی رحمت",
+        "english": "Mercy in the Islamic Judicial System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ستر پوشی کی ترغیب",
+              "english": "Encouragement of Concealment"
+            },
+            "content": {
+              "urdu": [
+                "اسلام گناہوں کی تشہیر کے بجائے ان پر پردہ ڈالنے کی ترغیب دیتا ہے۔",
+                "لوگوں کو مشورہ دیا گیا ہے کہ وہ اپنے گناہوں کا اللہ سے توبہ کریں نہ کہ عدالت میں پیش ہوں۔",
+                "معاشرتی اصلاح کا پہلا قدم پردہ پوشی اور انفرادی توبہ ہے۔"
+              ],
+              "english": [
+                "Islam encourages concealing faults rather than publicizing them.",
+                "People are advised to repent to Allah privately instead of rushing to court.",
+                "Social reform begins with concealment of sins and individual repentance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مقصدِ سزا",
+              "english": "Purpose of Punishment"
+            },
+            "content": {
+              "urdu": [
+                "سزا کا مقصد صرف تکلیف پہنچانا نہیں بلکہ معاشرے سے برائی کو ختم کرنا ہے۔",
+                "جب جرم ثابت نہ ہو تو سزا دینا ظلم ہے جو کہ حرام ہے۔",
+                "عدل کی روح یہ ہے کہ کسی ایک بے گناہ کو بھی سزا نہ ملے۔"
+              ],
+              "english": [
+                "Punishment is meant for deterrence and societal reform, not mere infliction of pain.",
+                "Punishing without definitive proof is oppression, which is forbidden.",
+                "The spirit of justice is to ensure that not a single innocent person is punished."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تحقیق اور چھان بین",
+              "english": "Investigation and Verification"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں دوسروں پر الزام لگانے سے پہلے مکمل تحقیق کرنی چاہیے۔",
+                "سنی سنائی باتوں پر کسی کی عزت پامال کرنا شرعاً منع ہے۔",
+                "معاشرے میں حسنِ ظن رکھنا اسلامی اخلاق کا حصہ ہے۔"
+              ],
+              "english": [
+                "We must conduct thorough investigation before accusing others.",
+                "Ruining someone's reputation based on hearsay is forbidden by Shariah.",
+                "Maintaining a good opinion of others is part of Islamic ethics."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانون کا احترام",
+              "english": "Respect for Law"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول ججوں اور قانون نافذ کرنے والے اداروں کے لیے ایک مشعلِ راہ ہے۔",
+                "طاقت کا غلط استعمال روکنے کے لیے یہ شرعی قدغن ضروری ہے۔",
+                "انصاف کا تقاضا ہے کہ قانون اندھا نہ ہو بلکہ حقیقت پسند ہو۔"
+              ],
+              "english": [
+                "This principle serves as a guide for judges and law enforcement agencies.",
+                "Sharia restrictions are necessary to prevent the abuse of power.",
+                "Justice requires that the law be realistic and evidence-based, not blind."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "hadithId": 98,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 98 (related context)"],
+    "kitabId": 1,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الغسل",
+    "babId": 8
+  },
+
+  "takhreej": {
+    "arabic": " ضعيف.  رواه أبو داود (348) ، وابن خزيمة (256) ، والحديث عند أبي داود من فعله، وعند ابن خزيمة من قوله!!",
+    "urdu": "ضعیف (کمزور) روایت۔ اسے ابو داؤد (348) اور ابن خزیمہ (256) نے روایت کیا ہے۔ ابو داؤد میں یہ حدیث نبی ﷺ کے فعل کے طور پر ہے جبکہ ابن خزیمہ میں آپ ﷺ کے قول کے طور پر ہے (اس روایت کی صحت میں اضطراب ہے)۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (348) and Ibn Khuzaymah (256). The narration is contradictory: in Abu Dawud, it is reported as the Prophet's *action*, while in Ibn Khuzaymah, it is reported as his *saying* (indicating weakness/instability in the text)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَغْتَسِلُ",
+      "english": "He used to perform Ghusl",
+      "urdu": "غسل فرمایا کرتے تھے"
+    },
+    {
+      "arabic": "اَلْجَنَابَةِ",
+      "english": "Major ritual impurity (Janabah)",
+      "urdu": "جنابت"
+    },
+    {
+      "arabic": "اَلْجُمُعَةِ",
+      "english": "Friday",
+      "urdu": "جمعہ"
+    },
+    {
+      "arabic": "اَلْحِجَامَةِ",
+      "english": "Cupping (blood-letting)",
+      "urdu": "سینگی لگوانا"
+    },
+    {
+      "arabic": "اَلْمَيِّتِ",
+      "english": "The dead person",
+      "urdu": "میت"
+    },
+    {
+      "arabic": "غُسْلِ",
+      "english": "Washing/Bath",
+      "urdu": "غسل"
+    },
+    {
+      "arabic": "أَرْبَعٍ",
+      "english": "Four (things)",
+      "urdu": "چار"
+    },
+    {
+      "arabic": "ضعيف",
+      "english": "Weak",
+      "urdu": "ضعیف"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ روایت چار ایسے مواقع کا ذکر کرتی ہے جن پر نبی اکرم ﷺ غسل فرمایا کرتے تھے، جن میں سے جنابت کا غسل واجب ہے جبکہ باقی تین (جمعہ، حجامہ، میت کو غسل دینا) فقہی طور پر سنت یا مستحب ہیں۔",
+    "english": "This narration lists four occasions when the Prophet ﷺ performed Ghusl. Among them, Ghusl for Janabah is obligatory, while the others (Jumu'ah, Cupping, and washing the dead) are considered Sunnah or recommended (Mustahabb) from a juristic perspective."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (348)",
+      "english": "Reported by Abu Dawud (348)"
+    },
+    {
+      "arabic": "وصححه ابن خزيمة (256)",
+      "english": "Authenticated by Ibn Khuzaymah (256)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 9801,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "'A'ishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "ضعيف (مجموعہ کے طور پر)",
+    "english": "Weak (As a compilation)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غسل کے اسباب کا حکم شرعی",
+        "english": "Legal Ruling of the Causes for Ghusl"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غسلِ جنابت کا وجوب",
+              "english": "Obligation of Ghusl for Janabah"
+            },
+            "content": {
+              "urdu": [
+                "چار مذکورہ اسباب میں سے صرف 'جنابت' (جنسی ملاپ یا انزال) کی وجہ سے غسل کرنا **فرض** ہے۔",
+                "جنابت میں غسل نہ کرنے سے انسان ناپاک رہتا ہے اور اس کی کوئی بھی عبادت (نماز، طواف) قبول نہیں ہوتی۔",
+                "تمام فقہاء اور علماء کا اس بات پر اجماع ہے کہ جنابت کا غسل ہر مسلمان بالغ مرد و عورت پر فرض ہے۔"
+              ],
+              "english": [
+                "Out of the four mentioned causes, performing Ghusl due to **Janabah** (sexual intercourse or ejaculation) is **Fardh** (obligatory).",
+                "A person who neglects Ghusl for Janabah remains impure, and none of their acts of worship (Salah, Tawaf) are accepted.",
+                "There is a consensus among all jurists and scholars that Ghusl for Janabah is mandatory upon every adult Muslim, male or female."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باقی غسلوں کا درجہ",
+              "english": "Status of the Remaining Ghusls"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کا غسل متفقہ طور پر سنت مؤکدہ ہے، جبکہ سینگی اور میت کو غسل دینے کے بعد کا غسل **مستحب** ہے۔",
+                "یہ حدیث چونکہ ان تمام افعال کو ایک ہی درجہ میں رکھتی ہے، لہٰذا محدثین نے اس مجموعی روایت کو ضعیف قرار دیا ہے۔",
+                "صحیح روایات ان میں سے ہر ایک غسل کے حکم کو الگ الگ واضح کرتی ہیں، جن پر عمل کرنا بہتر ہے۔"
+              ],
+              "english": [
+                "Ghusl for Jumu'ah is agreed upon as Sunnah Mu'akkadah, while Ghusl after cupping and washing the dead are **Mustahabb** (recommended).",
+                "Because this Hadith places all these actions on the same level, scholars of Hadith have deemed this combined narration weak.",
+                "Authentic narrations clarify the ruling for each of these baths separately, which is the preferable practice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حجامہ اور میت کے غسل کی حکمت",
+        "english": "Wisdom of Ghusl for Cupping and Washing the Dead"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میت کو غسل دینے کے بعد",
+              "english": "After Washing the Dead"
+            },
+            "content": {
+              "urdu": [
+                "میت کو غسل دینے والے پر غسل کرنا **مستحب** ہے، تاکہ وہ میت کے جسم سے لگنے والی رطوبتوں سے پاک ہو جائے۔",
+                "اگرچہ میت بذات خود پاک ہوتی ہے، لیکن میت کے جسم سے خارج ہونے والی رطوبتیں ناپاک ہو سکتی ہیں۔",
+                "یہ غسل احتیاط اور صفائی کی اعلیٰ تعلیم کو ظاہر کرتا ہے، کیونکہ میت کا بدن چھونا اثر انداز ہو سکتا ہے۔"
+              ],
+              "english": [
+                "Ghusl is **recommended** for the person who has washed the dead, to cleanse any fluids that may have touched them.",
+                "Although the deceased body itself is not impure, the fluids that might be discharged from it can be ritually unclean.",
+                "This Ghusl demonstrates a high standard of caution and cleanliness, as touching the deceased body can have an effect."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حجامہ کے بعد غسل",
+              "english": "Ghusl After Cupping (Hijamah)"
+            },
+            "content": {
+              "urdu": [
+                "سینگی لگوانے (حجامہ) کے بعد غسل کرنے کا ذکر صرف اس روایت میں ہے، اور صحیح احادیث میں اس کا حکم ثابت نہیں۔",
+                "بعض علماء نے اس غسل کو جسمانی راحت اور خون نکلنے کی وجہ سے آنے والی کمزوری کو دور کرنے کے لیے **مستحب** کہا ہے۔",
+                "یہ حکم طہارت کی بجائے طبی اور جسمانی صفائی کے نقطہ نظر سے زیادہ اہمیت رکھتا ہے، تاکہ خون کے آثار بھی مٹ جائیں۔"
+              ],
+              "english": [
+                "Ghusl after cupping (Hijamah) is mentioned mainly in this weak narration, and its ruling is not established in authentic Hadiths.",
+                "Some scholars considered this bath **recommended** (Mustahabb) for physical comfort and to relieve the weakness felt after blood loss.",
+                "This ruling is more relevant from a medical and hygiene standpoint than ritual purity, ensuring all traces of blood are removed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غسل جمعہ کی فضیلت",
+        "english": "Virtue of Ghusl on Friday"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت مؤکدہ",
+              "english": "Emphasized Sunnah (Sunnah Mu'akkadah)"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کے روز غسل کرنا سنت مؤکدہ ہے، اور بعض علماء نے اسے واجب بھی قرار دیا ہے۔",
+                "نبی ﷺ نے فرمایا: \"جس نے جمعہ کے دن غسل کیا اور جلدی مسجد گیا، گویا اس نے اونٹ کی قربانی دی۔\"",
+                "یہ غسل زیادہ ثواب اور جسمانی صفائی کے لیے ہے، تاکہ نماز جمعہ کے اجتماع میں بدبو سے بچا جا سکے۔"
+              ],
+              "english": [
+                "Performing Ghusl on Friday is Sunnah Mu'akkadah (emphasized Sunnah), and some scholars considered it obligatory.",
+                "The Prophet ﷺ said: 'Whoever takes a bath on Friday and goes early to the mosque, it is as if he sacrificed a camel.'",
+                "This Ghusl is for maximizing reward and ensuring physical cleanliness, preventing foul odors in the Jumu'ah gathering."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مقصد صفائی",
+              "english": "Goal of Cleanliness"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کا غسل مسلمانوں کے ایک بڑے اجتماع کے پیش نظر صفائی اور خوشبو کی اہمیت کو اجاگر کرتا ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ اس دن غسل کے ساتھ بہترین لباس اور خوشبو کا استعمال بھی کریں۔",
+                "یہ حکم اس بات کی دلیل ہے کہ اسلام عبادات میں ظاہری اور باطنی دونوں طرح کی صفائی پر زور دیتا ہے۔"
+              ],
+              "english": [
+                "The Friday Ghusl highlights the importance of cleanliness and good scent in preparation for a large gathering of Muslims.",
+                "Muslims should combine this Ghusl with wearing the best clothes and applying perfume on this day.",
+                "This ruling proves that Islam emphasizes both external and internal purity in acts of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ضعف حدیث کا اثر",
+        "english": "Impact of the Hadith's Weakness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اختلاف روایت",
+              "english": "Contradiction in Narration"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت کے ضعیف ہونے کی ایک وجہ یہ ہے کہ یہ چاروں اسباب کو ایک ہی حدیث میں جمع کرتی ہے، حالانکہ ان کے احکام مختلف ہیں۔",
+                "ابن خزیمہ کا اس کو صحیح قرار دینا بعض محدثین کے نزدیک متنازعہ ہے کیونکہ حدیث کے الفاظ میں تضاد پایا جاتا ہے۔",
+                "اس لیے اس حدیث کو انفرادی طور پر نہیں بلکہ ان اسباب کے بارے میں موجود دیگر صحیح احادیث کے مجموعہ کے تحت سمجھنا چاہیے۔"
+              ],
+              "english": [
+                "One reason for the weakness of this Hadith is its compilation of four causes with different rulings into a single narration.",
+                "Ibn Khuzaymah's authentication is considered controversial by some scholars due to contradictions found within the Hadith wording.",
+                "Therefore, this Hadith should be understood not individually, but under the context of the authentic narrations covering each cause separately."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فضائل اعمال میں گنجائش",
+              "english": "Leniency in Virtuous Deeds"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث ضعیف ہے، لیکن چونکہ غسل کا عمل طہارت اور صفائی سے متعلق ہے، اس لیے ان مواقع پر غسل کرنا فضائل میں شامل ہے۔",
+                "جن امور کا ذکر اس میں ہوا، صحیح احادیث میں بھی ان میں سے کم از کم تین امور کا حکم یا فضیلت ثابت ہے۔",
+                "مسلمان کو چاہیے کہ وہ غسل جنابت کو فرض اور باقی امور میں سنت و مستحب کے طور پر عمل کریں۔"
+              ],
+              "english": [
+                "Although the Hadith is weak, since the act of Ghusl relates to purity and cleanliness, performing Ghusl on these occasions is counted as virtuous.",
+                "The authenticity or recommendation of at least three of these four practices is established in other authentic narrations.",
+                "A Muslim should consider Ghusl for Janabah mandatory (Fardh) and the others as Sunnah or recommended (Mustahabb) practices."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "hadithId": 1258,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/23"],
+    "kitabId": 16,
+    "inKitabBab": 2,
+    "arabicBook": "الجامع - باب البر والصلة",
+    "babId": 103
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5973)، ومسلم (90).",
+    "urdu": "صحیح۔ اسے امام بخاری (5973) اور امام مسلم (90) نے اپنی صحیحین میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5973) and Muslim (90)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْكَبَائِرِ",
+      "english": "Enormous Sins",
+      "urdu": "کبیرہ گناہ"
+    },
+    {
+      "arabic": "شَتْمُ",
+      "english": "Abusing / Cursing",
+      "urdu": "گالی دینا / برا بھلا کہنا"
+    },
+    {
+      "arabic": "يَسُبُّ",
+      "english": "Insults / Reviles",
+      "urdu": "سب و شتم کرنا"
+    }
+  ],
+  "summary": {
+    "urdu": "والدین کی شان میں گستاخی گناہِ کبیرہ ہے؛ چاہے وہ براہِ راست ہو یا دوسروں کے والدین کو گالی دے کر اپنے والدین کے لیے گالی کا سبب بننا ہو۔",
+    "english": "Insulting parents is a major sin, whether done directly or indirectly by provoking others to insult one's parents in retaliation."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأدب، باب لا يسب الرجل والديه، رقم 5973",
+      "english": "Sahih al-Bukhari, Book of Manners, No. 5973"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الإيمان، باب بيان كون الشرك وقتل النفس والزنا من الكبائر، رقم 90",
+      "english": "Sahih Muslim, Book of Faith, No. 90"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin 'Amr bin al-'As"
+      },
+      "slug": "abdullah-bin-amr-bin-al-as"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "والدین کے حقوق اور گالی کی سنگینی",
+        "english": "Rights of Parents and Gravity of Insulting Them"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کبیرہ گناہ کی تعریف",
+              "english": "Definition of a Major Sin"
+        },
+            "content": {
+              "urdu": [
+                "اسلام میں والدین کی نافرمانی اور ان کی بے ادبی کو 'عقوق' کہا جاتا ہے جو کہ شرک کے بعد بڑے گناہوں میں شمار ہوتا ہے۔",
+                "والدین کو گالی دینا اخلاقی پستی کی انتہا ہے جسے اللہ تعالیٰ سخت ناپسند فرماتا ہے۔",
+                "نبی کریم ﷺ نے اس حدیث کے ذریعے واضح کیا کہ والدین کی حرمت اتنی زیادہ ہے کہ ان کے لیے گالی کا سبب بننا بھی گناہِ عظیم ہے۔"
+              ],
+              "english": [
+                "In Islam, disobedience and disrespect to parents is termed 'Uquq', which is among the greatest sins after Shirk.",
+                "Abusing parents is the peak of moral bankruptcy and is severely disliked by Allah.",
+                "The Prophet (ﷺ) clarified that the sanctity of parents is so high that even being the cause of them being insulted is a major sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بالواسطہ گناہ (سبب بننا)",
+        "english": "Indirect Sin (Being the Cause)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمل کا ردِ عمل",
+              "english": "Action and Reaction"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں کسی گناہ کا سبب بننا خود اس گناہ کو کرنے کے برابر ہے۔",
+                "اگر کوئی شخص دوسروں کے والدین کو گالی دیتا ہے تو وہ جانتا ہے کہ بدلے میں اس کے اپنے والدین کو بھی گالی دی جائے گی۔",
+                "یہ طرزِ عمل اس بات کی دلیل ہے کہ انسان نے اپنے والدین کی عزت کا خود خیال نہیں رکھا۔"
+              ],
+              "english": [
+                "In Sharia, being the cause of a sin is akin to committing the sin itself.",
+                "If a person insults another's parents, he knows that his own parents will be insulted in retaliation.",
+                "This behavior proves that the person himself has failed to protect the honor of his own parents."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اخلاقیات اور زبان کی حفاظت",
+        "english": "Social Ethics and Guarding the Tongue"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بدزبانی کا سدِ باب",
+              "english": "Eradicating Foul Language"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث معاشرے میں گالی گلوچ کے کلچر کو ختم کرنے کی ترغیب دیتی ہے۔",
+                "ایک مسلمان کی زبان سے ہمیشہ خیر کے کلمات نکلنے چاہئیں، نہ کہ فحش اور گندی باتیں ہوئیں۔",
+                "زبان کی حفاظت ہی انسان کی عزت اور اس کے ایمان کی سلامتی کی ضامن ہے۔"
+              ],
+              "english": [
+                "This Hadith encourages the elimination of the culture of abuse and foul language in society.",
+                "A Muslim's tongue should always utter words of goodness, not obscenity or filth.",
+                "Guarding the tongue is the guarantor of a person's honor and the safety of their faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نتیجہ",
+        "english": "Practical Lesson and Conclusion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احتیاط اور ذمہ داری",
+              "english": "Caution and Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنی گفتگو میں اس قدر محتاط ہونا چاہیے کہ ہماری وجہ سے ہمارے خاندان اور والدین پر حرف نہ آئے۔",
+                "دوسروں کی عزت کرنا درحقیقت اپنی اور اپنے والدین کی عزت کرنا ہے۔",
+                "نبی کریم ﷺ کی یہ تعلیم ایک مہذب اور باوقار معاشرے کی بنیاد فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "We must be so cautious in our speech that no blame or insult falls upon our family or parents because of us.",
+                "Respecting others is, in reality, respecting oneself and one's own parents.",
+                "This teaching of the Prophet (ﷺ) provides the foundation for a civilized and dignified society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

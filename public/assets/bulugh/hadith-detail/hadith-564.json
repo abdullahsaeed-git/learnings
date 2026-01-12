@@ -1,0 +1,264 @@
+{
+  "hadithId": 564,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/58"],
+    "kitabId": 5,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الصيام",
+    "babId": 34
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (2421)، والترمذي (744)، وابن ماجه (1726)، وأحمد (6/368). قال الترمذي: حسن. وأعله بعضهم بالاضطراب أو النسخ لكن الراجح صحته مع حمل النهي على الإفراد.",
+    "urdu": "صحیح۔ اسے ابوداؤد (2421)، ترمذی (744) اور ابن ماجہ (1726) نے روایت کیا ہے۔ امام ترمذی نے اسے حسن کہا ہے۔ بعض نے اسے مضطرب یا منسوخ کہا ہے مگر راجح یہ ہے کہ یہ ثابت ہے اور ممانعت تنہا ہفتہ کا روزہ رکھنے کے بارے میں ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2421), At-Tirmidhi (744), and Ibn Majah (1726). At-Tirmidhi graded it Hasan. Some scholars claimed it is 'Mudtarib' or abrogated, but the correct view is its validity regarding singling out Saturday."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلسَّبْتِ",
+      "english": "Saturday",
+      "urdu": "ہفتہ"
+    },
+    {
+      "arabic": "اِفْتُرِضَ",
+      "english": "Obligated",
+      "urdu": "فرض کیا گیا"
+    },
+    {
+      "arabic": "لِحَاءَ",
+      "english": "Skin / Bark",
+      "urdu": "چھلکا"
+    },
+    {
+      "arabic": "عِنَبٍ",
+      "english": "Grape",
+      "urdu": "انگور"
+    },
+    {
+      "arabic": "عُودَ",
+      "english": "Stick / Twig",
+      "urdu": "تنکا / لکڑی"
+    },
+    {
+      "arabic": "فَلْيَمْضُغْهَا",
+      "english": "Let him chew it",
+      "urdu": "پس اسے چبا لے"
+    }
+  ],
+  "summary": {
+    "urdu": "ہفتہ کے دن کو تنہا نفلی روزے کے لیے خاص کرنا منع ہے تاکہ اہل کتاب کی مشابہت نہ ہو، البتہ فرض روزوں کے لیے کوئی ممانعت نہیں۔",
+    "english": "Singling out Saturday for voluntary fasting is prohibited to avoid imitating the People of the Book, though it is permissible for obligatory fasts."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2421)",
+      "english": "Reported by Abu Dawud (2421)"
+    },
+    {
+      "arabic": "رواه الترمذي (744)",
+      "english": "Reported by At-Tirmidhi (744)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "الصماء بنت بسر",
+        "english": "As-Samma' bint Busr"
+      },
+      "slug": "as-samma-bint-busr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-y5kMv738",
+  "grade": {
+    "arabic": "صحيح / حسن",
+    "english": "Sahih / Hasan"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ہفتہ کے روزے کی ممانعت کی حکمت",
+        "english": "Wisdom Behind the Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اہلِ کتاب کی مشابہت سے بچنا",
+              "english": "Avoiding Imitation of People of the Book"
+            },
+            "content": {
+              "urdu": [
+                "ہفتہ کا دن یہودیوں کے ہاں مقدس اور تعظیم والا دن ہے۔",
+                "اسلام مسلمانوں کو اپنی الگ پہچان برقرار رکھنے کی تعلیم دیتا ہے۔",
+                "اس دن کو خصوصی طور پر روزے کے لیے چننا ان کی مشابہت پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "Saturday is a sacred and venerated day for the Jewish community.",
+                "Islam teaches Muslims to maintain their distinct religious identity.",
+                "Singling out this day specifically for fasting creates an imitation of them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ممانعت کی نوعیت",
+              "english": "Nature of the Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "یہ ممانعت 'تنہا' ہفتہ کا روزہ رکھنے کے بارے میں ہے۔",
+                "اگر ہفتہ کے ساتھ جمعہ یا اتوار ملا لیا جائے تو ممانعت ختم ہو جاتی ہے۔",
+                "اکثر فقہاء اسے مکروہِ تنزیہی (ناپسندیدہ) قرار دیتے ہیں۔"
+              ],
+              "english": [
+                "This prohibition applies to fasting on Saturday 'exclusively'.",
+                "If Friday or Sunday is joined with it, the prohibition is lifted.",
+                "Most jurists classify this act as 'Makruh Tanzih' (disliked)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فرض اور نفلی روزوں میں فرق",
+        "english": "Difference Between Mandatory and Voluntary Fasts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فرض روزے کی استثناء",
+              "english": "Exception for Obligatory Fasts"
+            },
+            "content": {
+              "urdu": [
+                "رمضان کے روزے یا قضا روزے ہفتہ کے دن رکھنا بالکل جائز ہے۔",
+                "حدیث میں 'إلا فيما افترض' کے الفاظ اس کی واضح اجازت دیتے ہیں۔",
+                "فرض کی ادائیگی کسی بھی دن میں کرنا شریعت کا تقاضا ہے۔"
+              ],
+              "english": [
+                "Fasting on Saturday for Ramadan or missed fasts is perfectly valid.",
+                "The phrase 'except for what is obligatory' gives explicit permission.",
+                "Fulfilling obligations on any day is a requirement of Sharia."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تاکیدی ممانعت کا مفہوم",
+              "english": "Meaning of Emphasized Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "درخت کا تنکا چبانے کا ذکر ممانعت کی تاکید کے لیے ہے۔",
+                "اس کا مقصد یہ ظاہر کرنا ہے کہ روزہ نہ رکھنے کا اظہار کیا جائے۔",
+                "یہ مبالغہ اس دن کی تخصیص کو ختم کرنے کے لیے استعمال ہوا ہے۔"
+              ],
+              "english": [
+                "Mentioning chewing a twig is to emphasize the importance of not fasting.",
+                "The goal is to demonstrate that one is not observing a fast on that day.",
+                "This hyperbole is used to break the specific consecration of the day."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی فنی حیثیت اور محدثین کی آراء",
+        "english": "Technical Status and Scholarly Opinions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اضطراب اور نسخ کی بحث",
+              "english": "Discussion on Idtirab and Abrogation"
+            },
+            "content": {
+              "urdu": [
+                "امام ابن حجر نے اس حدیث کو مضطرب (سند میں الجھاؤ) قرار دیا ہے۔",
+                "امام ابوداؤد کے نزدیک یہ حکم دوسری احادیث سے منسوخ ہو چکا ہے۔",
+                "امام مالک نے اس کے متن میں موجود سختی کی وجہ سے اسے غیر معروف کہا۔"
+              ],
+              "english": [
+                "Ibn Hajar classified this Hadith as 'Mudtarib' due to chain inconsistencies.",
+                "Imam Abu Dawud viewed this ruling as abrogated by other narrations.",
+                "Imam Malik found the text's severity unfamiliar and contested its application."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تطبیق اور مفاہمت",
+              "english": "Reconciliation of Narrations"
+            },
+            "content": {
+              "urdu": [
+                "دیگر احادیث میں ہفتہ اور اتوار کے روزوں کی اجازت بھی ملتی ہے۔",
+                "محدثین کے نزدیک ممانعت صرف اس صورت میں ہے جب اسے 'عید' سمجھا جائے۔",
+                "اگر کوئی اتفاقاً روزہ رکھے (جیسے عرفہ) تو کوئی حرج نہیں۔"
+              ],
+              "english": [
+                "Other narrations permit fasting on Saturdays and Sundays together.",
+                "Scholars state prohibition only applies if it's treated as a Jewish 'holiday'.",
+                "There is no harm if fasting coincides with a virtuous day like Arafah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں بندگی کا سلیقہ",
+        "english": "Etiquette of Servitude in Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا توازن",
+              "english": "Balance in Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو عبادت میں غلو اور اپنی پسند سے بچنا چاہیے۔",
+                "شریعت نے جن دنوں کو خوشی یا کھانے کا قرار دیا ان کی پاسداری کریں۔",
+                "نبی ﷺ کے ہر چھوٹے بڑے حکم میں حکمت پوشیدہ ہے۔"
+              ],
+              "english": [
+                "A believer should avoid extremism and personal whims in worship.",
+                "Observe the boundaries for days designated for eating or joy.",
+                "Wisdom is hidden in every command, large or small, from the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غیر مسلموں سے انفرادیت",
+              "english": "Uniqueness from Non-Muslims"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کا طرزِ عمل ان کی اپنی شریعت کے مطابق ہونا چاہیے۔",
+                "دوسری قوموں کے مذہبی تہواروں اور مخصوص ایام کی تعظیم سے بچیں۔",
+                "یہ حدیث عقیدہ 'ولاء و براء' (دوستی و بیزاری) کی ایک عملی شاخ ہے۔"
+              ],
+              "english": [
+                "A Muslim's conduct should strictly follow their own Sharia.",
+                "Avoid venerating the religious festivals or specific days of other nations.",
+                "This Hadith is a practical branch of the concept of 'Al-Wala' wal-Bara'."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

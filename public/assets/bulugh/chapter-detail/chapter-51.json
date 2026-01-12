@@ -1,0 +1,26 @@
+{
+  "chapId": 51,
+  "bookId": 7,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 750,
+    "to": 750
+  },
+  "hadiths": [
+    {
+      "id": 750,
+      "name": {
+        "arabic": "عَنْ أَبِي ذَرٍّ رَضِيَ اَللَّهُ عَنْهُ قَالَ: قَالَ لِي رَسُولُ اَللَّهِ صلى الله عليه وسلم: { قُلِ اَلْحَقَّ, وَلَوْ كَانَ مُرًّا } صَحَّحَهُ اِبْنُ حِبَّانَ فِي حَدِيثٍ طَوِيلٍ",
+        "urdu": "سیدنا ابوذر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے مجھ سے فرمایا: ”حق بات کہو، خواہ وہ (کتنی ہی) کڑوی کیوں نہ ہو۔“ اسے ابن حبان نے ایک طویل حدیث کے ضمن میں صحیح قرار دیا ہے۔",
+        "english": "Narrated Abu Dharr (RA): Allah's Messenger (ﷺ) said to me: 'Speak the truth even if it is bitter.' [Graded Sahih by Ibn Hibban in a long Hadith]."
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "hadithId": 332,
+  "hadithNo": 19,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/192"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الصلاة - باب الإمامة",
+    "babId": 20
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (727)، ومسلم (658).",
+    "urdu": "صحیح۔ اسے امام بخاری (727) اور امام مسلم (658) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (727) and Muslim (658)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَتِيمٌ",
+      "english": "Orphan",
+      "urdu": "یتیم (نابالغ بچہ)"
+    },
+    {
+      "arabic": "خَلْفَهُ",
+      "english": "Behind him",
+      "urdu": "ان کے پیچھے"
+    },
+    {
+      "arabic": "أُمُّ سُلَيْمٍ",
+      "english": "Umm Sulaim",
+      "urdu": "سیدہ ام سلیم (سیدنا انس کی والدہ)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز میں صفوں کی ترتیب بیان کرتی ہے: اگر دو یا دو سے زیادہ مرد ہوں تو وہ امام کے پیچھے صف بنائیں گے، اور خواتین ہمیشہ مردوں کی صف کے پیچھے تنہا یا جماعت کے ساتھ کھڑی ہوں گی۔",
+    "english": "This Hadith explains the arrangement of rows in prayer: two or more males stand in a row behind the Imam, and women always stand behind the men's row, whether alone or in a group."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأذان، باب المرأة وحدها تكون صفاً، رقم 727",
+      "english": "Sahih al-Bukhari, Book of Adhan, No. 727"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مردوں کی صف بندی",
+        "english": "Formation of Men's Rows"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دو یا زیادہ مقتدی",
+              "english": "Two or More Followers"
+            },
+            "content": {
+              "urdu": [
+                "اگر امام کے ساتھ دو مقتدی ہوں، تو وہ امام کے پیچھے صف بنا کر کھڑے ہوں گے۔",
+                "اگر مقتدی صرف ایک ہو تو وہ امام کے دائیں جانب برابر میں کھڑا ہوتا ہے۔",
+                "اس حدیث میں یتیم (بچے) کو بالغ کے برابر صف میں کھڑا کیا گیا، جس سے معلوم ہوا کہ بچہ صف میں بالغ کے ساتھ کھڑا ہو سکتا ہے۔"
+              ],
+              "english": [
+                "If there are two followers with the Imam, they should form a row behind him.",
+                "If there is only one follower, he stands to the right of the Imam.",
+                "In this Hadith, the orphan (child) stood in the row with a matured person, showing that children can stand in rows with adults."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خواتین کی جگہ",
+        "english": "Position of Women"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردوں کے پیچھے صف",
+              "english": "Row Behind Men"
+            },
+            "content": {
+              "urdu": [
+                "عورت چاہے تنہا ہو، وہ مردوں کی صف میں شامل نہیں ہوگی بلکہ ان کے پیچھے کھڑی ہوگی۔",
+                "سیدہ ام سلیم رضی اللہ عنہا تنہا تھیں، پھر بھی انہوں نے الگ صف بنائی کیونکہ عورت کا مردوں کے ساتھ مل کر کھڑا ہونا جائز نہیں۔",
+                "یہ حکم پردے اور حیا کے اسلامی اصولوں پر مبنی ہے۔"
+              ],
+              "english": [
+                "A woman, even if alone, does not join the men's row but stands behind them.",
+                "Umm Sulaim (RA) was alone, yet she formed a separate row because it is not permissible for a woman to stand alongside men in prayer.",
+                "This ruling is based on Islamic principles of modesty and privacy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفل نماز باجماعت",
+        "english": "Voluntary Prayer in Congregation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گھروں میں جماعت",
+              "english": "Congregation at Home"
+            },
+            "content": {
+              "urdu": [
+                "یہ واقعہ ایک نفل نماز کا تھا جو نبی کریم ﷺ نے سیدنا انس کے گھر ان کی خوشی کے لیے پڑھائی تھی۔",
+                "اس سے ثابت ہوا کہ نفل نماز کبھی کبھار باجماعت ادا کی جا سکتی ہے۔",
+                "گھروں میں نماز پڑھانا اور برکت حاصل کرنا سنتِ نبوی ہے۔"
+              ],
+              "english": [
+                "This incident involved a voluntary (Nafl) prayer that the Prophet (ﷺ) led at Anas's house for their benefit.",
+                "It proves that voluntary prayers can occasionally be performed in congregation.",
+                "Leading prayer in homes to seek blessings is a Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

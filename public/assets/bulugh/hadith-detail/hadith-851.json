@@ -1,0 +1,259 @@
+{
+  "hadithId": 851,
+  "hadithNo": 28,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/28"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (1/224) رقم (1966). وأصله في الصحيحين من حديث ابن عمر في النهي عن الشغار.",
+    "urdu": "صحیح۔ اسے امام احمد نے اپنی مسند میں روایت کیا ہے۔ نکاحِ شغار کی ممانعت کی اصل بخاری و مسلم میں سیدنا ابن عمر کی روایت سے بھی ثابت ہے۔",
+    "english": "Sahih. Reported by Ahmad (1/224). The prohibition of Shighar is also firmly established in Al-Bukhari and Muslim through the Hadith of Ibn Umar."
+  },
+  "importantWords": [
+    {
+      "arabic": "جِلَالَ",
+      "english": "Looting / Plunder",
+      "urdu": "لوٹ مار / ڈکیتی"
+    },
+    {
+      "arabic": "شِغَارَ",
+      "english": "Exchange marriage",
+      "urdu": "نکاحِ شغار / وٹہ سٹہ"
+    },
+    {
+      "arabic": "لَا",
+      "english": "No / None",
+      "urdu": "نہیں ہے"
+    },
+    {
+      "arabic": "الإسلام",
+      "english": "Islam",
+      "urdu": "اسلام"
+    },
+    {
+      "arabic": "أَحَقَّ",
+      "english": "Most worthy",
+      "urdu": "زیادہ حقدار"
+    }
+  ],
+  "summary": {
+    "urdu": "اسلام میں لوٹ مار کرنا اور نکاحِ شغار (وٹہ سٹہ جس میں مہر نہ ہو) کرنا قطعی طور پر حرام اور ممنوع قرار دیا گیا ہے۔",
+    "english": "Islam strictly prohibits looting and Shighar (exchange marriage where daughters/sisters are traded without a proper dowry)."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد (1966)",
+      "english": "Musnad Ahmad (1966)"
+    },
+    {
+      "arabic": "صحيح البخاري (5112)",
+      "english": "Sahih al-Bukhari (5112)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R3L0f6LpB3M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نکاحِ شغار کی تعریف اور حکم",
+        "english": "Definition and Ruling of Shighar"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نکاحِ شغار کیا ہے؟",
+              "english": "What is Shighar?"
+            },
+            "content": {
+              "urdu": [
+                "نکاحِ شغار سے مراد یہ ہے کہ ایک شخص اپنی بیٹی یا بہن کا نکاح دوسرے سے اس شرط پر کرے کہ دوسرا بھی اپنی بیٹی یا بہن کا نکاح اس سے کر دے۔",
+                "اس قسم کے نکاح میں عموماً مہر مقرر نہیں کیا جاتا بلکہ ایک لڑکی کو دوسری کا مہر قرار دیا جاتا ہے۔",
+                "اسلام نے اس عمل کو جاہلیت کی رسم قرار دے کر باطل کر دیا ہے۔"
+              ],
+              "english": [
+                "Shighar refers to a marriage where two men exchange daughters or sisters for marriage with each other.",
+                "In this practice, no monetary dowry is typically set; instead, one female is considered the dowry for the other.",
+                "Islam invalidated this act, categorizing it as a custom from the days of ignorance (Jahiliyyah)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ممانعت کی وجہ",
+              "english": "Reason for Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "اس میں عورت کے بنیادی حق 'مہر' کو غصب کیا جاتا ہے جو کہ اس کی ملکیت ہے۔",
+                "عورت کو ایک مادی چیز کی طرح تبادلے کے لیے استعمال کرنا اس کی توہین ہے۔",
+                "وٹہ سٹہ کے اس نظام سے خاندانی جھگڑے ایک گھر سے دوسرے گھر تک منتقل ہوتے ہیں۔"
+              ],
+              "english": [
+                "It usurps the woman's fundamental right to 'Mahr' (dowry), which belongs solely to her.",
+                "Treating a woman as a commodity for exchange is an affront to her God-given dignity.",
+                "This exchange system causes family disputes to spread from one household to another rapidly."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی نظامِ نکاح کے فوائد",
+        "english": "Benefits of the Islamic Marriage System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مہر کی انفرادیت",
+              "english": "Individuality of Dowry"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون کے مطابق ہر نکاح کے لیے الگ اور مستقل مہر کا ہونا لازمی ہے۔",
+                "مہر عورت کا مالی تحفظ ہے جسے کوئی دوسرا (باپ یا بھائی) استعمال نہیں کر سکتا۔",
+                "شغار کی ممانعت سے عورت کے معاشی حقوق کا تحفظ یقینی بنایا گیا ہے۔"
+              ],
+              "english": [
+                "According to Islamic law, every marriage must have its own distinct and independent dowry.",
+                "Mahr is a financial security for the woman that no one else (father or brother) can seize.",
+                "The prohibition of Shighar ensures the economic rights of women are strictly protected."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آزادانہ انتخاب",
+              "english": "Free Choice"
+            },
+            "content": {
+              "urdu": [
+                "شغار میں لڑکیوں کو اپنی پسند کے بجائے خاندانی مجبوری کے تحت بیاہا جاتا ہے۔",
+                "اسلام ہر فرد کو رشتہ طے کرنے میں رضامندی اور آزادی فراہم کرتا ہے۔",
+                "تبادلے کا نکاح اکثر لڑکیوں پر نفسیاتی بوجھ اور دباؤ کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "In Shighar, girls are often married due to family pressure rather than personal choice.",
+                "Islam grants every individual the right to consent and freedom in choosing a spouse.",
+                "Exchange marriages often become a source of psychological burden and pressure on young women."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جلال (لوٹ مار) کی ممانعت",
+        "english": "Prohibition of Looting (Jilal)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امن و امان کا تحفظ",
+              "english": "Protection of Peace and Order"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک ایسا دین ہے جو جان و مال کے تحفظ کی ضمانت دیتا ہے۔",
+                "لوٹ مار اور ڈکیتی معاشرے میں خوف و ہراس اور عدم استحکام پیدا کرتی ہے۔",
+                "نبی کریم ﷺ نے ہر قسم کی غیر قانونی قبضے اور لوٹ کھسوٹ کو حرام قرار دیا ہے۔"
+              ],
+              "english": [
+                "Islam is a religion that guarantees the protection of life and property.",
+                "Looting and robbery create fear, panic, and instability within the social fabric.",
+                "The Prophet (ﷺ) declared all forms of illegal seizure and plunder strictly forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دوسروں کے مال کا احترام",
+              "english": "Respect for Others' Wealth"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کا مال دوسرے مسلمان پر ویسے ہی حرام ہے جیسے اس کا خون۔",
+                "کسی کی مجبوری کا فائدہ اٹھا کر اس کا مال لینا بھی جلال کے زمرے میں آ سکتا ہے۔",
+                "معاشرتی عدل و انصاف کے لیے حلال کمائی اور امانتداری بنیادی شرائط ہیں۔"
+              ],
+              "english": [
+                "A Muslim's property is as sacred and forbidden to another as their blood.",
+                "Taking someone's wealth by exploiting their helplessness can also fall under looting.",
+                "Lawful earning and trustworthiness are essential conditions for social justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی و عملی سبق",
+        "english": "Educational and Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رسوماتِ جاہلیت سے دوری",
+              "english": "Distancing from Ignorant Customs"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے معاشرے میں رائج 'وٹہ سٹہ' جیسی قبیح رسموں کا قلع قمع کرنا چاہیے۔",
+                "اگر تبادلے کے نکاح میں مہر مقرر ہو تو وہ 'شغار' نہیں کہلائے گا، مگر پھر بھی اس سے بچنا بہتر ہے۔",
+                "سنتِ نبوی ﷺ کے مطابق نکاح کو سادہ اور حقوق پر مبنی ہونا چاہیے۔"
+              ],
+              "english": [
+                "We must eradicate evil customs like 'Watta Satta' that prevail in our modern society.",
+                "If an exchange marriage has a set dowry, it is not technically 'Shighar', yet avoidance is better.",
+                "According to the Sunnah, marriage should be simple and focused on individual rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی تعلیمات کی عالمگیریت",
+              "english": "Universality of Islamic Teachings"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح کرتی ہے کہ اسلام انسانی حقوق اور سماجی نظم و ضبط کا علمبردار ہے۔",
+                "لوٹ مار اور غلط نکاح دونوں معاشرے کی اخلاقی جڑوں کو کھوکھلا کرتے ہیں۔",
+                "مومن وہ ہے جو اللہ کی حدود کے اندر رہ کر اپنی زندگی گزارتا ہے۔"
+              ],
+              "english": [
+                "This Hadith clarifies that Islam champions human rights and social discipline.",
+                "Looting and improper marriages both hollow out the moral roots of a community.",
+                "A true believer is one who lives their life strictly within the boundaries set by Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

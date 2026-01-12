@@ -1,0 +1,179 @@
+{
+  "hadithId": 1345,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": [
+      "tirmidhi:3386"
+    ],
+    "kitabId": 16,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الدعوات",
+    "babId": 107
+  },
+  
+  "takhreej": {
+    "arabic": "حديث حسن بمجموع طرقه. رواه الترمذي (3386) وأبو داود (1485) والحاكم (1/536). وبالرغم من ضعف حماد بن عيسى، إلا أن كثرة الشواهد تجبره إلى رتبة الحسن كما قال الحافظ ابن حجر.",
+    "urdu": "یہ حدیث اپنے مجموعی طرق کی بنا پر حسن ہے۔ اسے ترمذی (3386) اور ابوداؤد (1485) نے روایت کیا ہے۔ اگرچہ اس کے بعض راویوں پر کلام ہے، لیکن حافظ ابن حجر کے مطابق شواہد کی کثرت اسے حسن کے درجے تک پہنچا دیتی ہے۔",
+    "english": "Hasan due to collective chains. Reported by At-Tirmidhi (3386) and Abu Dawud (1485). While some narrators like Hammad bin Isa are weak, Ibn Hajar notes that the multiple supporting chains elevate it to the level of Hasan."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَدَّ يَدَيْهِ",
+      "english": "Raised his hands",
+      "urdu": "ہاتھ پھیلائے / اٹھائے"
+    },
+    {
+      "arabic": "يَمْسَحَ",
+      "english": "Wipe",
+      "urdu": "پھیرنا / مسح کرنا"
+    },
+    {
+      "arabic": "يَرُدَّهُمَا",
+      "english": "Lower them / Return them",
+      "urdu": "انہیں واپس لوٹانا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث دعا کے بعد چہرے پر ہاتھ پھیرنے کی سنت کو بیان کرتی ہے، جو اللہ کی رحمت کو اپنے وجود پر سمیٹنے کی ایک علامتی عکاسی ہے۔",
+    "english": "This Hadith describes the practice of wiping the face with the hands after supplication, symbolizing the receiving of Allah's blessings and mercy."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (3386)",
+      "english": "Sunan at-Tirmidhi (3386)"
+    },
+    {
+      "arabic": "سنن أبي داود (1485)",
+      "english": "Sunan Abu Dawud (1485)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar ibn al-Khattab"
+      },
+      "slug": "umar-ibn-al-khattab"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9NOnXh6g5U",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعا میں ہاتھ اٹھانے کا حکم",
+        "english": "Ruling on Raising Hands in Du'a"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہاتھ اٹھانے کی فضیلت",
+              "english": "Virtue of Raising Hands"
+            },
+            "content": {
+              "urdu": [
+                "دعا میں ہاتھ اٹھانا اللہ کے سامنے عاجزی اور فقر کا اظہار ہے۔",
+                "ایک اور حدیث کے مطابق اللہ کو شرم آتی ہے کہ اس کا بندہ ہاتھ اٹھائے اور وہ انہیں خالی لوٹا دے۔",
+                "یہ دعا کی قبولیت کے آداب میں سے ایک اہم ادب ہے۔"
+              ],
+              "english": [
+                "Raising hands in Du'a is an expression of humility and helplessness before Allah.",
+                "According to another Hadith, Allah is shy to see His servant raise hands and return them empty.",
+                "It is a significant etiquette among the manners of supplication."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "چہرے پر ہاتھ پھیرنے کی حکمت",
+        "english": "Wisdom Behind Wiping the Face"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رحمت کا حصول",
+              "english": "Receiving Mercy"
+            },
+            "content": {
+              "urdu": [
+                "دعا کے دوران ہاتھ اللہ کی رحمت اور فضل کے لیے پھیلائے جاتے ہیں۔",
+                "چہرے پر ہاتھ پھیرنا اس بات کی علامت ہے کہ جو خیر ان ہاتھوں میں آئی ہے اسے چہرے (جو انسانی وقار کی علامت ہے) پر سمیٹ لیا جائے۔",
+                "اکثر فقہاء نے اسے دعا کے بعد مستحب قرار دیا ہے۔"
+              ],
+              "english": [
+                "During Du'a, hands are spread out to catch Allah's mercy and grace.",
+                "Wiping the face symbolizes applying the blessings received in the hands to the face (the symbol of human dignity).",
+                "Most jurists consider it a recommended (Mustahabb) act after supplication."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اختلافی مسائل کی وضاحت",
+        "english": "Clarification on Differing Views"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کا درجہ",
+              "english": "Status of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ انفرادی طور پر اس عمل کی روایات ضعیف ہیں، لیکن مختلف طرق سے مروی ہونے کی وجہ سے حافظ ابن حجر نے اسے حسن قرار دیا ہے۔",
+                "امام مالک اور بعض دیگر ائمہ اس عمل کو ضروری نہیں سمجھتے تھے، لیکن عوامی دعاؤں میں یہ رائج ہے۔",
+                "نماز کے اندر (جیسے قنوت) میں چہرے پر ہاتھ پھیرنے کے بارے میں ائمہ کی مختلف آراء ہیں، اکثر کے نزدیک یہ صرف نماز کے باہر کی دعا کے لیے ہے۔"
+              ],
+              "english": [
+                "Although individual narrations of this act are weak, Ibn Hajar graded it Hasan due to multiple converging chains.",
+                "Imam Malik and some others did not consider it necessary, but it is common in general supplications.",
+                "Regarding wiping the face inside Salah (like after Qunut), opinions differ; most apply it only to Du'a outside formal prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آدابِ دعا کی پاسداری",
+              "english": "Adhering to Etiquettes of Du'a"
+            },
+            "content": {
+              "urdu": [
+                "دعا مانگتے وقت پورے یقین اور عاجزی کے ساتھ ہاتھ اٹھانے چاہئیں۔",
+                "دعا کے بعد چہرے پر ہاتھ پھیرنا اللہ کی عطا کردہ برکت کی امید رکھنے کا اظہار ہے۔",
+                "ہمیں دعا کے ان تمام چھوٹے چھوٹے آداب کا خیال رکھنا چاہیے جو نبی ﷺ سے ثابت ہیں۔"
+              ],
+              "english": [
+                "One should raise hands with full conviction and humility while supplicating.",
+                "Wiping the face after Du'a expresses the hope of receiving the blessings granted by Allah.",
+                "We should be mindful of all small etiquettes of Du'a established from the Prophet (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

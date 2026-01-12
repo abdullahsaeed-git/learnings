@@ -1,0 +1,259 @@
+{
+  "hadithId": 706,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/74"],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف. رواه أحمد (5/261)، وأبو داود (3541). وفي إسناده القاسم بن عبد الرحمن الشامي، وهو مختلف فيه، والحديث ضعفه الألباني وغيره، لكن معناه صحيح من حيث النهي عن أخذ العوض على الواجبات الأخلاقية.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے احمد (5/261) اور ابوداؤد (3541) نے روایت کیا ہے۔ اس کی سند میں قاسم بن عبد الرحمن شامی ہیں جن پر کلام ہے، اسی لیے علامہ البانی رحمہ اللہ نے اسے ضعیف قرار دیا ہے۔ تاہم اس کا مفہوم اخلاقی فرائض پر اجرت لینے کی ممانعت کے لحاظ سے درست ہے۔",
+    "english": "Da'if (Weak). Reported by Ahmad (5/261) and Abu Dawud (3541). The chain contains Al-Qasim bin 'Abdur-Rahman, who is disputed. Although Al-Albani and others graded it weak, its meaning holds weight regarding the prohibition of taking compensation for moral or obligatory favors."
+  },
+  "importantWords": [
+    {
+      "arabic": "شَفَعَ",
+      "english": "Interceded",
+      "urdu": "سفارش کی"
+    },
+    {
+      "arabic": "شَفَاعَةً",
+      "english": "Intercession / Recommendation",
+      "urdu": "سفارش یا سفارش کرنا"
+    },
+    {
+      "arabic": "هَدِيَّةً",
+      "english": "Gift",
+      "urdu": "تحفہ / ہدیہ"
+    },
+    {
+      "arabic": "أَتَى",
+      "english": "Committed / Came to",
+      "urdu": "وہ آگیا یا اس نے کیا"
+    },
+    {
+      "arabic": "عَظِيماً",
+      "english": "Great / Serious",
+      "urdu": "بہت بڑا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کسی مسلمان بھائی کی سفارش کرنے یا اس کا جائز حق دلانے کے بدلے ہدیہ یا تحفہ لینے کی مذمت کی گئی ہے، کیونکہ نیکی کے کام پر اجرت لینا ایک قسم کا پوشیدہ سود ہے۔",
+    "english": "This Hadith condemns accepting gifts or rewards for interceding on behalf of a fellow Muslim, as taking compensation for a moral obligation or neighborly favor is considered a form of hidden usury."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد بن حنبل",
+      "english": "Musnad Ahmad bin Hanbal"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو أمامة الباهلي",
+        "english": "Abu Umamah al-Bahili"
+      },
+      "slug": "abu-umamah-al-bahili"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0S1_WvX-oI",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سفارش پر ہدیہ لینے کی ممانعت",
+        "english": "Prohibition of Gifts for Intercession"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اخلاقی ذمہ داری",
+              "english": "Moral Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "کسی مظلوم کی مدد کرنا یا کسی کا جائز کام نکلوانا ایک مسلمان پر دوسرے مسلمان کا حق ہے۔",
+                "نیکی کے کاموں پر مادی مفاد کی توقع رکھنا اخلاص کو ختم کر دیتا ہے۔",
+                "سفارش صرف جائز کام کے لیے ہونی چاہیے، کسی کا حق مارنے کے لیے نہیں۔"
+              ],
+              "english": [
+                "Helping an oppressed person or facilitating a legitimate task is a right one Muslim owes another.",
+                "Expecting material gain for good deeds destroys the sincerity of the action.",
+                "Intercession must only be for rightful matters, not to infringe upon the rights of others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سود (ربا) سے مشابہت",
+              "english": "Resemblance to Usury (Riba)"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں اسے سود کا دروازہ اس لیے کہا گیا کہ یہ بغیر عوض (مال) کے مال حاصل کرنا ہے۔",
+                "جس طرح سود میں وقت کے بدلے مال لیا جاتا ہے، یہاں اثر و رسوخ کے بدلے مال لیا جا رہا ہے۔",
+                "ایسی کمائی معاشرے میں کرپشن اور ناانصافی کا باعث بنتی ہے۔"
+              ],
+              "english": [
+                "It is called a gate of Riba because it involves taking wealth without a legitimate counter-value of labor or trade.",
+                "Just as Riba involves charging for time, this involves charging for social influence.",
+                "Such earnings lead to corruption and systemic injustice within society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ہدیہ اور رشوت میں فرق",
+        "english": "Difference Between Gift and Bribe"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت اور وقت کا فرق",
+              "english": "Difference in Intent and Timing"
+            },
+            "content": {
+              "urdu": [
+                "عام ہدیہ وہ ہے جو بغیر کسی خاص غرض کے محبت بڑھانے کے لیے دیا جائے۔",
+                "اگر ہدیہ کسی خاص کام (سفارش) کے بدلے میں ہو تو وہ رشوت کے زمرے میں آ جاتا ہے۔",
+                "قرآن و سنت میں رشوت لینے اور دینے والے دونوں پر لعنت کی گئی ہے۔"
+              ],
+              "english": [
+                "A general gift is given to increase mutual love without a specific ulterior motive.",
+                "If a gift is conditional upon a specific favor (intercession), it enters the realm of bribery.",
+                "The Quran and Sunnah curse both the giver and the taker of bribes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اثر و رسوخ کا غلط استعمال",
+              "english": "Misuse of Influence"
+            },
+            "content": {
+              "urdu": [
+                "اپنے عہدے یا تعلقات کو پیسے کمانے کا ذریعہ بنانا شرعی طور پر ناپسندیدہ ہے۔",
+                "سفارش صرف اللہ کی رضا اور بھائی کی خیر خواہی کے لیے ہونی چاہیے۔",
+                "جب سفارش کے پیچھے لالچ آ جائے تو عدل و انصاف کے تقاضے پامال ہو جاتے ہیں۔"
+              ],
+              "english": [
+                "Using one's position or connections as a source of income is religiously disliked.",
+                "Intercession should be solely for Allah's pleasure and the well-being of a brother.",
+                "When greed motivates intercession, the requirements of justice are often violated."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اثرات",
+        "english": "Social Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کرپشن کا خاتمہ",
+              "english": "Eradication of Corruption"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک ایسے معاشرے کی بنیاد رکھتا ہے جہاں کام قابلیت کی بنیاد پر ہو، پیسے پر نہیں۔",
+                "سفارش پر تحفے لینا میرٹ کی پامالی اور اقرباء پروری کو جنم دیتا ہے۔",
+                "اس حکم کی پابندی سے معاشرے میں امانتداری اور دیانتداری کو فروغ ملتا ہے۔"
+              ],
+              "english": [
+                "Islam builds a society where work is based on merit, not on money or favors.",
+                "Taking gifts for intercession gives birth to nepotism and the destruction of meritocracy.",
+                "Adhering to this ruling promotes integrity and honesty within the community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعلقات کی پاکیزگی",
+              "english": "Purity of Relationships"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کے باہمی تعلقات خالصتاً للہیت پر مبنی ہونے چاہئیں۔",
+                "مادی مفادات رشتوں میں دراڑیں اور کدورتیں پیدا کرتے ہیں۔",
+                "خالص ہمدردی ہی وہ جذبہ ہے جو اسلامی بھائی چارے کو مضبوط کرتا ہے۔"
+              ],
+              "english": [
+                "Mutual relationships between Muslims should be based purely on sincerity for Allah's sake.",
+                "Material interests create cracks and resentment in relationships.",
+                "Pure sympathy is the emotion that strengthens Islamic brotherhood."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیکی میں اخلاص",
+              "english": "Sincerity in Good Deeds"
+            },
+            "content": {
+              "urdu": [
+                "جب بھی کسی کی مدد کریں تو اس سے کسی بدلے یا شکریہ کی تمنا نہ رکھیں۔",
+                "اپنا اجر صرف اللہ تعالیٰ سے مانگیں جو بہترین بدلہ دینے والا ہے۔",
+                "اخلاص ہی وہ صفت ہے جو عمل کو اللہ کی بارگاہ میں مقبول بناتی ہے۔"
+              ],
+              "english": [
+                "Whenever you help someone, do not wish for any reward or even thanks.",
+                "Seek your reward only from Allah, the Best of Givers.",
+                "Sincerity is the quality that makes an action acceptable in the presence of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشکوک مال سے بچنا",
+              "english": "Avoiding Doubtful Wealth"
+            },
+            "content": {
+              "urdu": [
+                "ایسا تحفہ جو کسی احسان کے نتیجے میں ملے، اس سے بچنا تقویٰ کا تقاضا ہے۔",
+                "رزقِ حلال کی فکر انسان کے ایمان اور دعاؤں کی قبولیت کے لیے ضروری ہے۔",
+                "اللہ تعالیٰ پاکیزہ ہے اور صرف پاکیزہ مال کو ہی پسند فرماتا ہے۔"
+              ],
+              "english": [
+                "Avoiding a gift received as a direct result of a favor is a requirement of piety.",
+                "Concern for Halal provision is essential for one's faith and the acceptance of prayers.",
+                "Allah is Pure and only accepts that which is pure."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 870,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/60"],
+    "kitabId": 8,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب النكاح",
+    "babId": 66
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (5079)، ومسلم (715). وفي رواية أخرى للبخاري (5244) النهي عن طرق الأهل ليلاً إذا طالت الغيبة لئلا يتخونهم أو يلتمس عثراتهم.",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (5079) اور امام مسلم (715) نے روایت کیا ہے۔ اس میں طویل سفر سے واپسی پر اچانک گھر پہنچنے کی ممانعت بیان ہوئی ہے۔",
+    "english": "Sahih. Reported by Bukhari (5079) and Muslim (715). Another Sahih narration in Bukhari (5244) prohibits arriving unexpectedly at night to avoid doubting the family or seeking their faults."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَمْهِلُوا",
+      "english": "Wait / Delay",
+      "urdu": "مہلت دو / انتظار کرو"
+    },
+    {
+      "arabic": "تَمْتَشِطَ",
+      "english": "To comb hair",
+      "urdu": "کنگھی کر لے"
+    },
+    {
+      "arabic": "الشَّعِثَةُ",
+      "english": "Disheveled / Unkempt woman",
+      "urdu": "پراگندہ بالوں والی"
+    },
+    {
+      "arabic": "تَسْتَحِدَّ",
+      "english": "To shave / Cleanse body hair",
+      "urdu": "زائد بال صاف کر لے"
+    },
+    {
+      "arabic": "الْمَغِيبَةُ",
+      "english": "One whose husband is absent",
+      "urdu": "وہ عورت جس کا شوہر غائب ہو"
+    },
+    {
+      "arabic": "لَا يَطْرُقْ",
+      "english": "Do not arrive suddenly",
+      "urdu": "اچانک نہ آئے / دستک نہ دے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں طویل سفر سے واپسی پر اچانک گھر پہنچنے کے بجائے اطلاع دے کر یا ایسے وقت میں آنے کی ہدایت کی گئی ہے کہ گھر والے استقبال کے لیے تیار ہو سکیں اور خوشگوار ماحول میسر آئے۔",
+    "english": "This Hadith instructs men returning from long journeys not to surprise their wives at night, but to allow them time to groom themselves and prepare for their arrival to maintain marital harmony."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب النكاح، رقم الحديث ٥٠٧٩",
+      "english": "Sahih Bukhari, Book of Marriage, Hadith No. 5079"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الإمارة، رقم الحديث ٧١٥",
+      "english": "Sahih Muslim, Book of Leadership, Hadith No. 715"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=x0U_W9mO5Qk",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سفر سے واپسی کے آداب",
+        "english": "Etiquettes of Returning from Travel"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اچانک پہنچنے کی ممانعت",
+              "english": "Prohibition of Sudden Arrival"
+            },
+            "content": {
+              "urdu": [
+                "طویل غیر حاضری کے بعد رات کے وقت اچانک گھر میں داخل ہونا سنت کے خلاف ہے۔",
+                "نبی کریم ﷺ نے اس عمل سے اس لیے روکا تاکہ بیوی کو شوہر کے استقبال کے لیے وقت مل سکے۔",
+                "اسلامی تعلیمات میں ہر اس کام سے بچنے کا حکم ہے جس سے گھریلو بدمزگی پیدا ہو۔"
+              ],
+              "english": [
+                "Arriving home unexpectedly at night after a long absence is contrary to the Sunnah.",
+                "The Prophet (ﷺ) prohibited this to allow the wife time to prepare for her husband's return.",
+                "Islamic teachings discourage any action that might cause domestic discomfort or embarrassment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیوی کو تیاری کا موقع دینا",
+              "english": "Allowing the Wife to Groom"
+            },
+            "content": {
+              "urdu": [
+                "شوہر کی غیر موجودگی میں اکثر خواتین اپنی زیب و زینت پر زیادہ توجہ نہیں دیتیں۔",
+                "اطلاع دے کر آنے سے بیوی کو بالوں کی درستی اور جسمانی صفائی کا موقع ملتا ہے۔",
+                "یہ عمل شوہر کی نظر میں بیوی کی وقعت بڑھانے اور باہمی الفت میں اضافے کا باعث ہے۔"
+              ],
+              "english": [
+                "Wives may not prioritize grooming or dressing up while their husbands are away.",
+                "Giving prior notice allows the wife to comb her hair and attend to personal hygiene.",
+                "This practice enhances the wife's appeal to her husband and fosters mutual affection."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "گھریلو اعتماد اور خوشحالی",
+        "english": "Domestic Trust and Prosperity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بدگمانی سے بچاؤ",
+              "english": "Avoiding Suspicion"
+            },
+            "content": {
+              "urdu": [
+                "اچانک چھاپہ مارنا یا جاسوسی کی نیت سے آنا اسلامی اخلاقیات کے منافی ہے۔",
+                "اس سے گھر والوں پر بے اعتمادی کا اظہار ہوتا ہے جو کہ تعلقات کو زہر آلود کر دیتا ہے۔",
+                "نبی ﷺ نے 'تخون' (خیانت تلاش کرنا) کے ارادے سے رات کو آنے سے سختی سے منع فرمایا۔"
+              ],
+              "english": [
+                "Surprising the family with the intent of spying or checking on them is against Islamic ethics.",
+                "It demonstrates a lack of trust, which can poison the marital relationship.",
+                "The Prophet (ﷺ) strictly forbade arriving at night to 'test' the family's faithfulness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوشگوار ماحول کی اہمیت",
+              "english": "Importance of a Pleasant Atmosphere"
+            },
+            "content": {
+              "urdu": [
+                "اسلام چاہتا ہے کہ جب شوہر گھر لوٹے تو اسے سکون اور صفائی ستھرائی والا ماحول ملے۔",
+                "پراگندہ حالت میں بیوی کو دیکھنا شوہر کی طبیعت پر ناگوار گزر سکتا ہے۔",
+                "شریعت نے مردوں کو اپنی خواتین کے جذبات اور نفسیات کا خیال رکھنے کی تلقین کی ہے۔"
+              ],
+              "english": [
+                "Islam desires that when a husband returns, he finds a peaceful and clean environment.",
+                "Seeing a wife in a disheveled state can negatively affect the husband's mood.",
+                "Shariah encourages men to be mindful of the feelings and psychology of their women."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اس کا اطلاق",
+        "english": "Modern Day Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مواصلاتی ذرائع کا استعمال",
+              "english": "Use of Communication Means"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں فون اور میسج کے ذریعے اطلاع دینا اس سنت پر عمل کرنے کا بہترین طریقہ ہے۔",
+                "اگر بیوی کو پہلے سے علم ہو کہ شوہر کب آ رہا ہے تو وہ ذہنی طور پر تیار رہتی ہے۔",
+                "یہ چھوٹی سی احتیاط بڑے خاندانی جھگڑوں اور بدمزگی کو روکنے میں معاون ثابت ہوتی ہے۔"
+              ],
+              "english": [
+                "In the modern era, using phones or messages to inform is the best way to act on this Sunnah.",
+                "If a wife knows exactly when her husband is arriving, she remains mentally prepared.",
+                "This small precaution helps in preventing major family disputes and unpleasantness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوش آمدید کے آداب",
+              "english": "Etiquettes of Welcoming"
+            },
+            "content": {
+              "urdu": [
+                "سفر سے واپسی پر گھر والوں کے لیے تحفہ لانا اور محبت کا اظہار کرنا مسنون ہے۔",
+                "بیوی کا اپنے شوہر کے لیے تیار ہونا اس کے حسنِ سلوک اور وفاداری کی علامت ہے۔",
+                "اسلامی معاشرت کی بنیاد باہمی احترام اور ایک دوسرے کی خوشی کا خیال رکھنے پر ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to bring gifts and express love to the family upon returning from a journey.",
+                "A wife preparing herself for her husband is a sign of her good conduct and loyalty.",
+                "Islamic social life is built on mutual respect and caring for each other's happiness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبی ﷺ کی بصیرت اور حکمت",
+        "english": "The Vision and Wisdom of the Prophet (ﷺ)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی فطرت کا لحاظ",
+              "english": "Consideration of Human Nature"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ظاہر کرتی ہے کہ نبی ﷺ انسانی نفسیات اور فطری کمزوریوں سے واقف تھے۔",
+                "آپ ﷺ نے باریک سے باریک مسئلے پر رہنمائی دے کر زندگی کو سہل بنا دیا۔",
+                "مردوں کو صبر اور حوصلے کی تعلیم دی گئی تاکہ وہ عجلت میں غلط فیصلے نہ کریں۔"
+              ],
+              "english": [
+                "This Hadith shows that the Prophet (ﷺ) was well aware of human psychology and natural flaws.",
+                "He simplified life by providing guidance even on the most minute personal matters.",
+                "Men are taught patience and restraint so they do not make hasty or wrong judgments."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاندان کا تقدس",
+              "english": "Sanctity of the Family"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی احکام کا بنیادی مقصد خاندانی نظام کو ٹوٹنے سے بچانا ہے۔",
+                "بیوی کی پردہ پوشی اور اس کی عزت نفس کا خیال رکھنا شوہر کا فرض ہے۔",
+                "جو شخص سنت کے ان آداب کو اپناتا ہے اس کا گھر امن کا گہوارہ بن جاتا ہے۔"
+              ],
+              "english": [
+                "The primary goal of Islamic rulings is to protect the family structure from collapse.",
+                "It is the husband's duty to protect his wife's privacy and respect her self-esteem.",
+                "Whoever adopts these Sunnah etiquettes makes his home a haven of peace."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

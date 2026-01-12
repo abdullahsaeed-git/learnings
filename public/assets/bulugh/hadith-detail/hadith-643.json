@@ -1,0 +1,254 @@
+{
+  "hadithId": 643,
+  "hadithNo": 37,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/643"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1755)، ومسلم (1328).",
+    "urdu": "صحیح۔ اسے امام بخاری (1755) اور امام مسلم (1328) نے روایت کیا ہے۔ یہ حدیث طوافِ وداع کے وجوب اور مخصوص حالات میں اس کے ساقط ہونے پر دلیل ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1755) and Muslim (1328). This Hadith establishes the obligation of the Farewell Tawaf and the conditions under which it is waived."
+  },
+  "importantWords": [
+    {
+      "arabic": "آخِرَ عَهْدِهِمْ",
+      "english": "Their last act/engagement",
+      "urdu": "ان کا آخری وقت / آخری کام"
+    },
+    {
+      "arabic": "خَفَّفَ",
+      "english": "Lightened / Conceded",
+      "urdu": "تخفیف کر دی / رخصت دے دی"
+    },
+    {
+      "arabic": "الْحَائِضِ",
+      "english": "Menstruating woman",
+      "urdu": "حیض والی عورت"
+    },
+    {
+      "arabic": "أُمِرَ",
+      "english": "Were commanded",
+      "urdu": "حکم دیا گیا"
+    }
+  ],
+  "summary": {
+    "urdu": "مکہ سے اپنے وطن واپسی سے پہلے طوافِ وداع کرنا واجب ہے، لیکن حائضہ عورت طواف کیے بغیر ہی واپس جا سکتی ہے اور اس پر کوئی فدیہ نہیں۔",
+    "english": "Performing the Farewell Tawaf (Tawaf al-Wada') is mandatory before departing from Makkah, except for menstruating women, who are exempted without penalty."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1755)",
+      "english": "Reported by Al-Bukhari (1755)"
+    },
+    {
+      "arabic": "رواه مسلم (1328)",
+      "english": "Reported by Muslim (1328)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طوافِ وداع کی اہمیت اور وجوب",
+        "english": "Significance and Obligation of Farewell Tawaf"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آخری ملاقات کا ادب",
+              "english": "Etiquette of the Final Encounter"
+            },
+            "content": {
+              "urdu": [
+                "طوافِ وداع مکہ سے رخصت ہونے والے مسافر کے لیے بیت اللہ سے الوداعی ملاقات کی طرح ہے۔",
+                "نبی ﷺ کا حکم 'أُمِرَ الناس' (لوگوں کو حکم دیا گیا) اس کے واجب ہونے کی صریح دلیل ہے۔",
+                "اس طواف کے بعد حاجی کو چاہیے کہ وہ بلا ضرورت مکہ میں قیام نہ کرے بلکہ فوراً سفر شروع کر دے۔"
+              ],
+              "english": [
+                "Tawaf al-Wada' serves as a final farewell to the House of Allah for the departing traveler.",
+                "The phrase 'the people were commanded' indicates that this act is mandatory (Wajib).",
+                "After this Tawaf, a pilgrim should not stay in Makkah unnecessarily but should commence their journey immediately."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طوافِ وداع کن پر واجب ہے؟",
+              "english": "Who is Obliged to Perform it?"
+            },
+            "content": {
+              "urdu": [
+                "یہ طواف ہر اس حاجی پر واجب ہے جو حدودِ حرم سے باہر کا رہنے والا (آفاقی) ہو۔",
+                "اہلِ مکہ پر یہ طواف واجب نہیں ہے کیونکہ وہ وہیں کے رہنے والے ہیں اور رخصت نہیں ہو رہے۔",
+                "عمرہ کرنے والوں کے لیے بھی طوافِ وداع واجب نہیں ہے، اگرچہ مستحب سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "This Tawaf is mandatory for every pilgrim coming from outside the boundaries of the Haram (Afāqi).",
+                "Residents of Makkah are not required to perform it as they are not departing the city.",
+                "It is not mandatory for those performing only Umrah, though it is considered recommended."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خواتین کے لیے خصوصی رعایت",
+        "english": "Special Concession for Women"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عذرِ شرعی اور تخفیف",
+              "english": "Legal Excuse and Mitigation"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی عورت طوافِ افاضہ (فرض طواف) کے بعد حائضہ ہو جائے، تو اس سے طوافِ وداع ساقط ہو جاتا ہے۔",
+                "ایسی عورت کو پاک ہونے کے لیے مکہ میں رکنا ضروری نہیں ہے، وہ اپنے قافلے کے ساتھ واپس جا سکتی ہے۔",
+                "یہ اللہ کی طرف سے خواتین پر خصوصی احسان اور شفقت ہے کہ ان کی فطری مجبوری کا لحاظ رکھا گیا۔"
+              ],
+              "english": [
+                "If a woman enters menses after performing Tawaf al-Ifadah, the Farewell Tawaf is waived for her.",
+                "She is not required to wait in Makkah until she becomes pure; she may depart with her caravan.",
+                "This is a specific grace from Allah toward women, acknowledging their natural physical constraints."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طوافِ افاضہ اور وداع میں فرق",
+              "english": "Difference between Ifadah and Wada' Tawaf"
+            },
+            "content": {
+              "urdu": [
+                "طوافِ افاضہ (زیارت) رکن ہے جو کسی صورت معاف نہیں، حائضہ کو اس کے لیے پاک ہونے تک رکنا پڑتا ہے۔",
+                "طوافِ وداع واجب ہے جو عذر کی بنا پر ساقط ہو سکتا ہے، جیسا کہ اس حدیث میں بیان ہوا۔",
+                "اگر کوئی تندرست حاجی طوافِ وداع چھوڑ دے تو اس پر بطورِ جرمانہ دم (قربانی) لازم آتی ہے۔"
+              ],
+              "english": [
+                "Tawaf al-Ifadah is a pillar (Rukn) that is never waived; a menstruating woman must wait until pure to perform it.",
+                "Tawaf al-Wada' is mandatory (Wajib) and can be dropped due to valid excuses as mentioned in this Hadith.",
+                "If a healthy pilgrim skips the Farewell Tawaf, they must offer a sacrifice (Damm) as a penalty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور انتظامی پہلو",
+        "english": "Juristic and Administrative Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پاک ہونے کی صورت میں حکم",
+              "english": "Ruling upon Becoming Pure"
+            },
+            "content": {
+              "urdu": [
+                "اگر مکہ سے نکلنے سے پہلے ہی عورت پاک ہو جائے، تو اس پر طوافِ وداع دوبارہ واجب ہو جائے گا۔",
+                "مکہ کی حدود سے نکل جانے کے بعد پاک ہونے پر واپس آنا ضروری نہیں ہے۔",
+                "دین کے احکام وقت اور حالات کے ساتھ مربوط ہوتے ہیں۔"
+              ],
+              "english": [
+                "If a woman becomes pure before departing Makkah, the Farewell Tawaf becomes mandatory for her again.",
+                "Once she has left the boundaries of Makkah, she is not required to return if she then becomes pure.",
+                "Religious rulings are linked to specific timings and situational contexts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رفعِ حرج کا قاعدہ",
+              "english": "Principle of Removing Hardship"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس مشہور فقہی قاعدے کی بنیاد ہے کہ 'تنگی آسانی کو لاتی ہے'۔",
+                "اسلام نے خواتین کو اس مشقت سے بچایا کہ وہ اکیلی مکہ میں رکیں یا پورا قافلہ ان کی وجہ سے رکا رہے۔",
+                "انسانی جان کی حفاظت اور سماجی ضرورتوں کو عبادات کے ظاہری ڈھانچے پر فوقیت دی گئی ہے۔"
+              ],
+              "english": [
+                "This Hadith supports the legal maxim: 'Hardship brings about ease.'",
+                "Islam protects women from the hardship of staying alone in Makkah or forcing the entire caravan to wait for them.",
+                "Human safety and social necessities are prioritized over the external forms of ritual worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاتمہ بالخیر کی دعا",
+              "english": "Praying for a Good End"
+            },
+            "content": {
+              "urdu": [
+                "طوافِ وداع کا حکم سکھاتا ہے کہ ہر نیکی کا اختتام بھی اللہ کی یاد اور اس کے گھر کی تعظیم پر ہونا چاہیے۔",
+                "سفرِ حج کی قبولیت کے لیے آخری لمحات میں دعا اور توبہ کی بہت اہمیت ہے۔",
+                "انسان کو چاہیے کہ وہ اپنی زندگی کے ہر کام کو بہترین طریقے سے مکمل کرے۔"
+              ],
+              "english": [
+                "The command for Farewell Tawaf teaches that the conclusion of every good deed should involve Allah's remembrance.",
+                "Supplication and repentance in the final moments of Hajj are vital for the acceptance of the pilgrimage.",
+                "A person should strive to complete every task in their life in the best possible manner."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خواتین کے حقوق اور رعایت",
+              "english": "Rights and Concessions for Women"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے خواتین کی مخصوص تکالیف کا لحاظ رکھ کر مردوں سے الگ حکم جاری فرمایا۔",
+                "اسلام نے چودہ سو سال پہلے ہی خواتین کی نفسیاتی اور جسمانی صحت کا خیال رکھا ہے۔",
+                "ہمیں بھی اپنے معاشرے میں خواتین کی مجبوریوں کا احترام کرنا چاہیے اور ان کے لیے آسانیاں پیدا کرنی چاہئیں۔"
+              ],
+              "english": [
+                "By issuing specific rulings for women, the Prophet (ﷺ) accounted for their unique physical challenges.",
+                "Islam addressed the psychological and physical well-being of women 1,400 years ago.",
+                "We too should respect the constraints of women in our society and strive to facilitate ease for them."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

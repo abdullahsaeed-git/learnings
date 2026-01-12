@@ -1,0 +1,259 @@
+{
+  "hadithId": 846,
+  "hadithNo": 23,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/23"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (1837) ، ومسلم (1410) . ورواية ميمونة عند مسلم (1411). والراجح رواية ميمونة لأنها أعرف بحال نفسها ولحديث عثمان: 'لا ينكح المحرم'.",
+    "urdu": "یہ روایت صحیح ہے اور بخاری و مسلم میں موجود ہے۔ تاہم سیدہ میمونہ رضی اللہ عنہا کی اپنی روایت کو ترجیح دی جاتی ہے کیونکہ وہ صاحبِ معاملہ تھیں اور خود زیادہ بہتر جانتی تھیں۔",
+    "english": "Sahih. Reported by Bukhari (1837) and Muslim (1410). Maimuna's own report is in Muslim (1411). Scholars prefer Maimuna's account as she was the bride herself."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَزَوَّجَ",
+      "english": "Married",
+      "urdu": "نکاح کیا"
+    },
+    {
+      "arabic": "مُحْرِمٌ",
+      "english": "In state of Ihram",
+      "urdu": "حالتِ احرام میں"
+    },
+    {
+      "arabic": "حَلَالٌ",
+      "english": "Out of Ihram / Lawful",
+      "urdu": "حلال / احرام کے بغیر"
+    },
+    {
+      "arabic": "نَفْسِهَا",
+      "english": "Herself",
+      "urdu": "وہ خود"
+    },
+    {
+      "arabic": "وَهَمَ",
+      "english": "Was mistaken",
+      "urdu": "وہم ہوا / غلط فہمی ہوئی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نبی ﷺ کے سیدہ میمونہ سے نکاح کی حالت پر اختلاف کا ذکر ہے، جس سے محرم کے نکاح کا فقہی مسئلہ واضح ہوتا ہے کہ احرام میں نکاح جائز نہیں۔",
+    "english": "This Hadith discusses the dispute regarding the Prophet's (ﷺ) state during his marriage to Maimuna, clarifying the legal ruling that marriage in Ihram is prohibited."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب جزاء الصيد، رقم الحديث ١٨٣٧",
+      "english": "Sahih Bukhari, Book of Penalty for Hunting, Hadith No. 1837"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب النكاح، رقم الحديث ١٤١١",
+      "english": "Sahih Muslim, Book of Marriage, Hadith No. 1411"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ميمونة بنت الحارث",
+        "english": "Maimuna bint al-Harith"
+      },
+      "slug": "maimuna-bint-al-harith"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqGjI2Y8HLo",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "محرم کے نکاح کا شرعی حکم",
+        "english": "Legal Ruling on Marriage in Ihram"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احرام میں نکاح کی ممانعت",
+              "english": "Prohibition of Marriage in Ihram"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک حالتِ احرام میں نکاح کرنا یا کروانا شرعاً ممنوع ہے۔",
+                "نبی ﷺ کا فرمان ہے کہ محرم نہ اپنا نکاح کرے اور نہ کسی دوسرے کا نکاح کروائے۔",
+                "احرام کی حالت میں انسان صرف اللہ کی عبادت کے لیے مخصوص ہو جاتا ہے۔"
+              ],
+              "english": [
+                "According to the majority of jurists, marrying while in Ihram is strictly prohibited.",
+                "The Prophet (ﷺ) stated that one in Ihram should neither marry nor perform marriage.",
+                "In the state of Ihram, a person is exclusively dedicated to the worship of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیدہ میمونہ کی روایت کی ترجیح",
+              "english": "Preference for Maimuna's Narration"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک سیدہ میمونہ کی بات زیادہ معتبر ہے کیونکہ وہ خود دلہن تھیں۔",
+                "سیدنا ابن عباس اس وقت کم عمر تھے، اس لیے ان سے سمجھنے میں وہم ہو سکتا ہے۔",
+                "صاحبِ معاملہ اپنی حالت کے بارے میں دوسروں سے زیادہ بہتر آگاہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Scholars consider Maimuna's account more reliable as she was the bride involved.",
+                "Ibn 'Abbas was young at the time, leading to a possible misunderstanding of the event.",
+                "The person directly involved in an event knows their own state better than observers."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روایات میں تضاد کا حل",
+        "english": "Resolving Conflict in Narrations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محدثین کا علمی تجزیہ",
+              "english": "Scholarly Analysis of Narrations"
+            },
+            "content": {
+              "urdu": [
+                "امام احمد اور دیگر ائمہ کے نزدیک ابن عباس رضی اللہ عنہما سے اس واقعے میں سہو ہوا۔",
+                "دیگر صحابہ جیسے ابو رافع رضی اللہ عنہ نے بھی میمونہ کی روایت کی تائید کی ہے۔",
+                "جب ایک صحیح حدیث سنتِ عامہ کے خلاف ہو تو اس کی تاویل کی جاتی ہے۔"
+              ],
+              "english": [
+                "Imam Ahmad and other scholars believe Ibn 'Abbas made a mistake in this specific detail.",
+                "Other companions like Abu Rafi' (RA) also supported Maimuna's account of the event.",
+                "When a Sahih report contradicts a general established Sunnah, it is carefully interpreted."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نکاح کی صحت کی شرط",
+              "english": "Conditions for a Valid Marriage"
+            },
+            "content": {
+              "urdu": [
+                "حالتِ حلال ہونا نکاح کی صحت کے لیے ایک لازمی شرط قرار دی گئی ہے۔",
+                "اگر کوئی محرم نکاح کر بھی لے تو وہ عقد شرعاً باطل اور کالعدم ہوگا۔",
+                "یہ حکم عمرہ اور حج دونوں طرح کے احرام پر یکساں طور پر لاگو ہوتا ہے۔"
+              ],
+              "english": [
+                "Being in a state of 'Halal' is an essential condition for the validity of marriage.",
+                "If a person in Ihram enters a marriage contract, it is legally void and invalid.",
+                "This ruling applies equally to the state of Ihram for both Umrah and Hajj."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف اور احتیاط",
+        "english": "Juristic Difference and Caution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فقہ حنفی کا موقف",
+              "english": "Perspective of Hanafi Jurisprudence"
+            },
+            "content": {
+              "urdu": [
+                "فقہ حنفی میں ابن عباس کی روایت کی بنیاد پر احرام میں نکاح کو جائز مانا گیا ہے۔",
+                "تاہم وہ بھی مباشرت کو احرام سے فارغ ہونے تک ممنوع قرار دیتے ہیں۔",
+                "احتیاط اسی میں ہے کہ احرام کی حالت میں نکاح کے عقد سے مکمل گریز کیا جائے۔"
+              ],
+              "english": [
+                "In Hanafi Fiqh, marriage in Ihram is permitted based on Ibn 'Abbas's narration.",
+                "However, they still strictly forbid cohabitation until the Ihram state is ended.",
+                "Precaution lies in avoiding the marriage contract entirely while in the state of Ihram."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علم الحدیث کی گہرائی",
+              "english": "Depth of Hadith Sciences"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ظاہر کرتی ہے کہ کبھی ثقہ راوی سے بھی واقعاتی غلطی ہو سکتی ہے۔",
+                "محدثین نے باریک بینی سے پرکھ کر میمونہ رضی اللہ عنہا کے موقف کو ترجیح دی۔",
+                "اسلامی احکام کی بنیاد مضبوط ترین اور واضح ترین دلائل پر رکھی گئی ہے۔"
+              ],
+              "english": [
+                "This Hadith shows that even a reliable narrator can sometimes make a factual error.",
+                "Hadith critics meticulously analyzed the context to favor Maimuna's correct position.",
+                "Islamic rulings are built upon the strongest and most clear pieces of evidence available."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تحقیق کی اہمیت",
+              "english": "Importance of Investigation"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی معاملے میں حتمی رائے قائم کرنے سے پہلے مکمل تحقیق کرنی چاہیے۔",
+                "صاحبِ معاملہ کی گواہی کو دوسروں کی رائے پر فوقیت دینا عدل و انصاف ہے۔",
+                "اختلافی مسائل میں جمہور اور پختہ دلائل کی پیروی کرنا ہی سلامتی کا راستہ ہے۔"
+              ],
+              "english": [
+                "Complete investigation is necessary before establishing a final opinion on any matter.",
+                "Prioritizing the testimony of the person directly involved is a requirement of justice.",
+                "Following the majority and solid evidence is the path of safety in disputed issues."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادات کا تقدس",
+              "english": "Sanctity of Acts of Worship"
+            },
+            "content": {
+              "urdu": [
+                "حج اور عمرہ جیسی عظیم عبادات کا خاص تقدس ہے جسے برقرار رکھنا چاہیے۔",
+                "دورانِ عبادت دنیاوی لذتوں اور تعلقات سے دوری اللہ کی قربت کا باعث ہے۔",
+                "شریعت کے حدود کی پاسداری ہی ایک مومن کا اصل امتحان اور کامیابی ہے۔"
+              ],
+              "english": [
+                "The great acts of Hajj and Umrah have a special sanctity that must be preserved.",
+                "Distancing from worldly pleasures during worship brings a person closer to Allah.",
+                "Upholding the boundaries of Shariah is the true test and success for a believer."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

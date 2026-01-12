@@ -1,0 +1,255 @@
+{
+  "hadithId": 1107,
+  "hadithNo": 28,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/28"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3139) في كتاب فرض الخمس، باب ما من النبي صلى الله عليه وسلم على الأسارى من غير أن يخمس.",
+    "urdu": "صحیح۔ اسے امام بخاری (3139) نے اپنی صحیح میں روایت کیا ہے۔ یہ حدیث نبی کریم ﷺ کے حسنِ اخلاق اور احسان مندی کی ایک عظیم مثال ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3139) in the Book of Obligation of Khums, Chapter on the Prophet's (ﷺ) favor upon the captives without taking the fifth."
+  },
+  "importantWords": [
+    {
+      "arabic": "أُسَارَى",
+      "english": "Prisoners / Captives",
+      "urdu": "قیدی"
+    },
+    {
+      "arabic": "حَيًّا",
+      "english": "Alive",
+      "urdu": "زندہ"
+    },
+    {
+      "arabic": "كَلَّمَنِي",
+      "english": "Spoke to me / Interceded",
+      "urdu": "مجھ سے بات کرتا (سفارش کرتا)"
+    },
+    {
+      "arabic": "النَّتْنَى",
+      "english": "Filthy / Stinking ones",
+      "urdu": "بدبودار / ناپاک لوگ"
+    },
+    {
+      "arabic": "لَتَرَكْتُهُمْ",
+      "english": "I would have left them",
+      "urdu": "البتہ میں انہیں چھوڑ دیتا"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ نے مطعم بن عدی کے اس احسان کا بدلہ چکانے کے لیے، جو اس نے طائف سے واپسی پر آپ ﷺ کو پناہ دے کر کیا تھا، یہ فرمایا کہ اس کی ایک سفارش پر تمام قیدی چھوڑ دیے جاتے۔",
+    "english": "The Prophet (ﷺ) expressed his gratitude toward Mut'im bin 'Adi for the protection he provided after the journey to Ta'if, stating that he would have freed all Badr captives upon his request."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (3139)",
+      "english": "Narrated by Al-Bukhari (3139)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جبير بن مطعم",
+        "english": "Jubair bin Mut'im"
+      },
+      "slug": "jubair-bin-mutim"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0O7zE73U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مطعم بن عدی کا احسان",
+        "english": "The Favor of Mut'im bin 'Adi"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طائف سے واپسی اور پناہ",
+              "english": "Return from Ta'if and Protection"
+            },
+            "content": {
+              "urdu": [
+                "جب نبی ﷺ طائف سے غمزدہ واپس لوٹے تو مطعم بن عدی نے آپ ﷺ کو اپنی پناہ میں لیا۔",
+                "وہ ایک مشرک تھا مگر اس نے اپنے بیٹوں سمیت تلواریں تان کر آپ ﷺ کی حفاظت کی۔",
+                "اس نے آپ ﷺ کو باحفاظت مکہ میں داخل کروایا اور مکہ کے سرداروں کو چیلنج کیا۔"
+              ],
+              "english": [
+                "When the Prophet (ﷺ) returned grieved from Ta'if, Mut'im bin 'Adi took him under protection.",
+                "Despite being a polytheist, he and his sons drew their swords to safeguard the Prophet (ﷺ).",
+                "He escorted the Prophet (ﷺ) safely into Makkah and challenged the leaders of the Quraysh."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وفاداری اور صلہ رحمی",
+              "english": "Loyalty and Reciprocity"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ اپنے محسنوں کو کبھی نہیں بھولتے تھے، چاہے وہ غیر مسلم ہی کیوں نہ ہوں۔",
+                "آپ ﷺ نے اس کے انتقال کے بعد بھی اس کی نیکی اور مروت کا اعتراف فرمایا۔",
+                "یہ اسلام کے اعلیٰ اخلاقی ضابطے کی عکاسی ہے کہ احسان کا بدلہ احسان سے دیا جائے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) never forgot his benefactors, even if they were non-Muslims.",
+                "He acknowledged Mut'im's kindness and chivalry even after his death.",
+                "This reflects Islam's high ethical code where a favor is returned with a favor."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قیدیوں کی رہائی کے احکام",
+        "english": "Rulings on Releasing Captives"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بغیر فدیہ رہائی",
+              "english": "Release Without Ransom"
+            },
+            "content": {
+              "urdu": [
+                "حاکمِ وقت کو اختیار ہے کہ وہ کسی مصلحت کی بنا پر قیدیوں کو مفت رہا کر دے۔",
+                "بدر کے قیدیوں سے فدیہ لیا گیا تھا مگر مطعم کی خاطر آپ ﷺ انہیں چھوڑ دیتے۔",
+                "یہ ثابت کرتا ہے کہ سیاسی اور اخلاقی مصلحت فدیے کے مال سے زیادہ وزنی ہو سکتی ہے۔"
+              ],
+              "english": [
+                "The ruler has the discretion to release captives for free based on certain interests.",
+                "While ransom was taken for Badr captives, the Prophet (ﷺ) would have waived it for Mut'im.",
+                "This proves that political and moral interests can outweigh financial gains from ransom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفارش کی قبولیت",
+              "english": "Acceptance of Intercession"
+            },
+            "content": {
+              "urdu": [
+                "معتبر اور خیر خواہ غیر مسلموں کی سفارش کو ریاست اہمیت دے سکتی ہے۔",
+                "آپ ﷺ کا یہ قول مطعم کے خاندان کے لیے ایک بہت بڑا اعزاز تھا۔",
+                "جنگی قیدیوں کے معاملے میں حاکم کو حالات کے مطابق لچک دکھانے کی اجازت ہے۔"
+              ],
+              "english": [
+                "The state can give weight to the intercession of reputable and well-wishing non-Muslims.",
+                "The Prophet's (ﷺ) statement was a profound honor for the family of Mut'im.",
+                "Regarding prisoners of war, the ruler is permitted to show flexibility according to context."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "لفظ 'نتنیٰ' کی تشریح",
+        "english": "Explanation of the term 'Natna'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کفر کی باطنی گندگی",
+              "english": "Inner Filth of Disbelief"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'نتنیٰ' (بدبودار) سے مراد یہاں ان کی باطنی ناپاکی اور کفر کی بدبو ہے۔",
+                "یہ ان کے شرک اور اسلام دشمنی کی سنگینی کو ظاہر کرنے کے لیے استعمال ہوا۔",
+                "مشرکین اپنے اعمال اور نظریات کی وجہ سے روحانی طور پر نجس قرار دیے گئے ہیں۔"
+              ],
+              "english": [
+                "The term 'Natna' (filthy/stinking) refers here to their inner impurity and disbelief.",
+                "It was used to emphasize the gravity of their polytheism and hostility to Islam.",
+                "Polytheists are considered spiritually impure due to their actions and ideologies."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحقیرِ کفر",
+              "english": "Belittling Disbelief"
+            },
+            "content": {
+              "urdu": [
+                "حق کے سامنے باطل کی حیثیت ایک مردار یا بدبودار چیز کی طرح ہے۔",
+                "اس لفظ کے استعمال سے مجاہدین کے حوصلے بلند اور کفر کی ہیبت کم کی گئی۔",
+                "تاہم، اس کے باوجود آپ ﷺ نے ان کے ساتھ عدل اور رحمت کا معاملہ رکھا۔"
+              ],
+              "english": [
+                "The status of falsehood before truth is like that of a carcass or something stinking.",
+                "Using this term boosted the warriors' morale and diminished the awe of disbelief.",
+                "However, despite this description, the Prophet (ﷺ) treated them with justice and mercy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور اخلاقی سبق",
+        "english": "Educational and Ethical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احسان شناسی",
+              "english": "Appreciation of Favors"
+            },
+            "content": {
+              "urdu": [
+                "ایک مومن کو ہمیشہ لوگوں کے احسانات کا معترف اور شکر گزار ہونا چاہیے۔",
+                "دین کی خدمت کرنے والے غیر مسلموں کی قدر کرنا سنتِ نبوی ﷺ ہے۔",
+                "کسی کی اچھائی کا بدلہ چکانے کا موقع ملے تو اس میں دیر نہیں کرنی چاہیے۔"
+              ],
+              "english": [
+                "A believer should always acknowledge and be grateful for the favors of others.",
+                "Valuing non-Muslims who assist the cause of faith is part of the Prophetic Sunnah.",
+                "If an opportunity arises to return a kindness, one should not delay it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی سفارت کاری",
+              "english": "Islamic Diplomacy"
+            },
+            "content": {
+              "urdu": [
+                "جنگ کے دوران بھی تعلقات اور سابقہ خدمات کو مدنظر رکھا جا سکتا ہے۔",
+                "حکمت اور اخلاق کے ذریعے دشمنوں کو بھی جیتا جا سکتا ہے۔",
+                "آپ ﷺ کا یہ اسلوب قیامت تک کے حکمرانوں کے لیے سیاسی رہنمائی ہے۔"
+              ],
+              "english": [
+                "Relationships and past services can be considered even during a state of war.",
+                "Even enemies can be won over through wisdom and excellent character.",
+                "This methodology of the Prophet (ﷺ) provides political guidance for rulers until the Last Day."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

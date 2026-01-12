@@ -1,0 +1,49 @@
+{
+    "bookId": 11,
+    "summary": {
+        "english": [], 
+        "urdu": []
+    },
+    "description": {
+        "urdu": " ",
+        "english" : " "
+    }, 
+    "hadithRange": {
+"from": 1080,
+"to": 1134
+    },
+    "chapters": [
+        {
+            "id": 89,
+            "chapNo": 1,
+            "name": {
+                "arabic": " (أحاديث في الجهاد)",
+                "english": " ",
+                "urdu": " (جہاد کے متعلق احادیث)"
+            }
+        },
+
+        
+        {
+            "id": 90,
+            "chapNo": 2,
+            "name": {
+                "arabic": " باب الجزية والهدنة",
+                "english": " ",
+                "urdu": " جزیہ اور صلح کا بیان"
+            }
+        },
+
+        {
+            "id": 91,
+            "chapNo": 3,
+            "name": {
+                "arabic": "باب السبق والرمي ",
+                "english": " ",
+                "urdu": "گھڑ دوڑ اور تیراندازی کا بیان "
+            }
+        }
+
+
+    ]
+}

@@ -1,0 +1,279 @@
+{
+  "hadithId": 28,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": [
+      "Book 1, Hadith 7 (Likely Bulugh al-Maram or similar collection)"
+    ],
+    "kitabId": 1,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 3
+  },
+
+  "takhreej": {
+    "arabic": "حسن.  رواه أبو داود (365)  وغيره.  \"تنبيه\" عزو الحافظ الحديث للترمذي إنما هو من باب الوهم وإن تبعه على ذلك غيره.  وأما تضعيفه لسند الحديث فلعلة غير قادحة. ",
+    "urdu": "حسن (درجہ)۔ اسے ابوداؤد (365) اور دیگر نے روایت کیا ہے۔ تنبیہ: حافظ ابن حجر کا اس حدیث کو ترمذی کی طرف منسوب کرنا غلط فہمی پر مبنی ہے، اگرچہ دوسرے بھی اس کی پیروی کرتے ہیں۔ جہاں تک اس کی سند کو ضعیف قرار دینے کا تعلق ہے، تو وہ ایسی وجہ کی بنیاد پر ہے جو اسے غیر مؤثر نہیں بناتی۔",
+    "english": "Hasan (Good). Narrated by Abu Dawud (365) and others. **Note:** The assignment of this Hadith to At-Tirmidhi by Al-Hafiz (Ibn Hajar) is based on an error, although others followed him. And the weakening of its chain (Isnad) is due to a minor defect that does not invalidate its overall meaning."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَوْلَةُ",
+      "english": "Khawlah (the questioner)",
+      "urdu": "خولہ"
+    },
+    {
+      "arabic": "لَمْ يَذْهَبْ",
+      "english": "Does not go away",
+      "urdu": "ختم نہ ہو"
+    },
+    {
+      "arabic": "اَلدَّمُ",
+      "english": "The blood",
+      "urdu": "خون"
+    },
+    {
+      "arabic": "يَكْفِيكِ",
+      "english": "Sufficient for you",
+      "urdu": "تیرے لیے کافی ہے"
+    },
+    {
+      "arabic": "اَلْمَاءُ",
+      "english": "Water",
+      "urdu": "پانی"
+    },
+    {
+      "arabic": "يَضُرُّكِ",
+      "english": "Will harm you",
+      "urdu": "ضرر رساں"
+    },
+    {
+      "arabic": "أَثَرُهُ",
+      "english": "Its trace/stain",
+      "urdu": "اس کا نشان"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ اگر حیض کے خون کو دھونے کی پوری کوشش کے باوجود اس کا رنگ یا نشان کپڑے پر باقی رہ جائے تو وہ کپڑا پاک ہی رہتا ہے، اور اس میں نماز ادا کرنا جائز ہے۔",
+    "english": "This Hadith clarifies that after making a full effort to wash away menstrual blood, if a mere trace or stain of the color remains on the garment, the garment is considered pure, and one may pray in it."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الطهارة، رقم 365",
+      "english": "Sunan Abi Dawud, The Book of Purification, Hadith 365"
+    },
+    {
+      "arabic": "جامع الترمذي، أبواب الطهارة، رقم 139 (حوالہ کے طور پر)",
+      "english": "Jami' At-Tirmidhi, The Book of Purification, Hadith 139 (For contextual reference)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abu Hurayrah (May Allah be pleased with him)"
+      },
+      "slug": "abu-hurayrah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "خَوْلَةُ رَضِيَ اَللَّهُ عَنْهَا",
+        "english": "Khawlah (May Allah be pleased with her)"
+      },
+      "slug": "khawlah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-7-blood-stain",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طہارت میں آسانی کا اصول",
+        "english": "The Principle of Ease in Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رنگ کے باقی رہنے کی معافی",
+              "english": "The Forgiveness of Residual Color"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اسلام کے بنیادی اصول، یعنی **دین میں آسانی (تخفیف)** کو بیان کرتی ہے، خاص طور پر خواتین کے طہارت کے مسائل میں۔",
+                "خون، خصوصاً حیض کا خون، کپڑوں پر گہرا رنگ چھوڑتا ہے جو بعض اوقات بار بار دھونے کے باوجود مکمل طور پر زائل نہیں ہوتا۔",
+                "نبی اکرم ﷺ نے واضح فرما دیا کہ اگر نجاست (خون) کا مادہ زائل ہو جائے لیکن صرف اس کا رنگ باقی رہے تو یہ کپڑا نماز کے لیے پاک سمجھا جائے گا۔"
+              ],
+              "english": [
+                "This Hadith illustrates a fundamental principle of Islam, which is **ease and concession (Takhfīf)**, particularly in matters of purity for women.",
+                "Blood, especially menstrual blood, leaves a deep color on fabric that sometimes cannot be completely removed despite repeated washing efforts.",
+                "The Prophet (ﷺ) explicitly stated that if the substance of the impurity is removed but only the color (trace) remains, the garment is deemed pure for prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عین نجاست اور اثر نجاست",
+              "english": "Substance vs. Trace of Impurity"
+            },
+            "content": {
+              "urdu": [
+                "فقہ اسلامی میں فرق کیا جاتا ہے **عین نجاست** (نجاست کا مادہ/جسم) اور **اثر نجاست** (رنگ یا بو) کے درمیان۔",
+                "اس حکم کا مطلب یہ ہے کہ جب تک نجاست کا **مادہ** کپڑے سے مکمل طور پر زائل ہو جائے، تب تک **اثر** (نشان) کی موجودگی مضر نہیں۔",
+                "یہ آسانی اس لیے دی گئی ہے کہ کپڑوں سے ہر قسم کے نشان کو زائل کرنا عموماً مشقت طلب یا ناممکن ہوتا ہے، اور اسلام مشقت کو دور کرتا ہے۔"
+              ],
+              "english": [
+                "Islamic jurisprudence distinguishes between the **substance of impurity (ʿayn al-najāsah)** and the **trace of impurity (athar al-najāsah)**, like color or smell.",
+                "This ruling implies that as long as the **substance** of the impurity is thoroughly removed from the garment, the presence of the **trace** (stain) is harmless.",
+                "This concession is granted because removing every trace of color is often difficult or impossible, and Islam seeks to remove unnecessary hardship (Mashaqqah)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نماز کی صحت پر اثر",
+        "english": "Effect on the Validity of Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کا صحیح ہونا",
+              "english": "Validity of the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ کے اس جواب کے بعد، فقہاء کا اجماع ہے کہ اگر خون کا نشان باقی رہ جائے تو بھی **اس کپڑے میں نماز صحیح ہے**۔",
+                "اس کا مطلب یہ ہے کہ کپڑے پر باقی ماندہ رنگ (جو زائل نہ ہو سکا ہو) نماز کی صحت کو متاثر نہیں کرتا اور وہ طہارت کے معیار پر پورا اترتا ہے۔",
+                "شرعی طور پر، ایک خاتون یا مرد جو کپڑوں کو پاک کرنے کی پوری کوشش کرتا ہے، وہ اللہ کے نزدیک ذمہ داری سے بری ہو جاتا ہے۔"
+              ],
+              "english": [
+                "Based on the Prophet's reply, there is a consensus among jurists that the **prayer performed in this garment is valid**, even if the bloodstain remains.",
+                "This means the residual color (which resisted washing) does not compromise the validity of the prayer and meets the requirements of ritual purity.",
+                "Legally, a woman or man who makes a sincere and full effort to purify the garment is absolved of responsibility in the sight of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دھونے میں مبالغہ آرائی سے گریز",
+              "english": "Avoiding Exaggeration in Washing"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں اس بات سے بھی منع کرتی ہے کہ ہم طہارت کے حصول میں حد سے زیادہ مبالغہ آرائی کریں یا وسوسوں کا شکار ہو جائیں۔",
+                "اگر پانی کا استعمال کافی ہو گیا ہے، تو مزید کوشش کرنا نہ صرف غیر ضروری ہے بلکہ دین کے احکامات کے منافی ہے۔",
+                "اسلام ہر کام میں اعتدال اور توازن برقرار رکھنے کی تعلیم دیتا ہے، خاص طور پر صفائی اور عبادات کے معاملات میں۔"
+              ],
+              "english": [
+                "This Hadith also cautions us against excessive exaggeration (Waswās) or going to extremes in achieving purity.",
+                "If sufficient water has been used to remove the impurity itself, further attempts to remove the color are unnecessary and against the spirit of the ruling.",
+                "Islam teaches us to maintain moderation and balance in all deeds, especially in matters of cleanliness and worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند اور درجہ بندی",
+        "english": "Chain of Narration and Grading"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کا صحیح درجہ",
+              "english": "The Authentic Grading of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ راوی کی جانب سے امام ترمذی کی طرف منسوب سند ضعیف ہے، مگر محدثین نے اس حدیث کو **حسن (درجہ)** قرار دیا ہے، جیسا کہ تخریج میں مذکور ہے۔",
+                "یہ درجہ اس لیے دیا گیا ہے کہ اس حدیث کے معنی و مفہوم کو دیگر **صحیح** احادیث (جیسے اسماء بنت ابی بکر والی حدیث) سے تقویت حاصل ہوتی ہے۔",
+                "محدثین اس اصول پر متفق ہیں کہ ضعیف حدیث بھی اگر دیگر صحیح شواہد کی تائید سے ملے تو وہ **حسن** کے درجے تک پہنچ جاتی ہے۔"
+              ],
+              "english": [
+                "Although the chain attributed to At-Tirmidhi is weak, the Hadith has been graded as **Hasan (Good)** by later scholars, as mentioned in the Takhreej.",
+                "This grade is assigned because the meaning and content of this Hadith are strongly corroborated by other **Sahih** narrations (like the Hadith of Asma bint Abi Bakr).",
+                "The principle among scholars is that a weak Hadith can be raised to the level of **Hasan** when supported by sufficient authentic corroborating evidence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "راوی اور سوال پوچھنے والی شخصیت",
+              "english": "The Narrator and the Questioner"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کے راوی سیدنا ابوہریرہ رضی اللہ عنہ ہیں، جو سب سے زیادہ احادیث روایت کرنے والے صحابی ہیں۔",
+                "سوال پوچھنے والی صحابیہ خولہ بنت حکیم یا خولہ بنت ثعلبہ رضی اللہ عنہما ہو سکتی ہیں، جو ایک اہم مسئلہ کا حل چاہتی تھیں۔",
+                "ان کا سوال اس بات کی گواہی ہے کہ خواتین نبی اکرم ﷺ سے براہ راست ذاتی اور حساس مسائل کے شرعی احکام دریافت کرنے میں ہچکچاہٹ محسوس نہیں کرتی تھیں۔"
+              ],
+              "english": [
+                "The ultimate narrator of this Hadith is Sayyiduna Abu Hurayrah (RA), the Companion who narrated the largest number of Ahadith.",
+                "The questioner, Khawlah (RA), who was one of the noble female Companions, sought clarification on a critical matter of ritual purity.",
+                "Her direct question affirms that women felt comfortable asking the Prophet (ﷺ) about personal and sensitive legal matters without hesitation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دیگر فقہی نکات",
+        "english": "Other Fiqh Implications"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حیض کے علاوہ خون کا حکم",
+              "english": "Ruling on Non-Menstrual Blood"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ سوال خاص طور پر حیض کے خون کے بارے میں تھا، فقہاء نے عام طور پر دیگر ناپاک خونوں کے لیے بھی یہی اصول لاگو کیا ہے۔",
+                "یعنی، اگر کسی کپڑے پر کوئی ناپاک خون لگا ہو اور اسے پوری کوشش کے ساتھ دھویا جائے، تو باقی ماندہ نشان نماز کی صحت میں رکاوٹ نہیں بنتا۔",
+                "یہ حکم طہارت کے دائرے کو وسیع کرتا ہے اور معمولی نوعیت کے ناپاک نشانات کے بارے میں غیر ضروری سختی کو ختم کرتا ہے۔"
+              ],
+              "english": [
+                "Although the question specifically concerned menstrual blood, jurists have generally applied this same principle to other types of impure blood as well.",
+                "That is, if any impure blood stains a garment and is thoroughly washed, the remaining trace does not prevent the prayer's validity.",
+                "This ruling broadens the scope of purity, eliminating unnecessary rigor regarding minor residual marks of impurity on clothing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی کی کفایت",
+              "english": "Sufficiency of Water Alone"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا یہ فرمان کہ **'یَکْفِیکِ اَلْمَاءُ'** (بس تیرا اس پر اچھی طرح پانی بہانا کافی ہے)، طہارت کے لیے پانی کی بنیادی اہمیت کو اجاگر کرتا ہے۔",
+                "اگرچہ صابن یا دیگر صفائی کے ایجنٹ استعمال کرنا بہتر ہے، لیکن اس حدیث کی رو سے بنیادی ناپاکی دور کرنے کے لیے صرف پاک پانی ہی کافی ہے۔",
+                "یہ بات اس دور کے حالات کو بھی مدنظر رکھتی ہے جب لوگوں کے پاس مہنگے صابن یا دیگر کیمیکل آسانی سے دستیاب نہیں تھے۔"
+              ],
+              "english": [
+                "The Prophet's statement, **'Yaqfīki al-Mā’u'** (It is sufficient for you to use water), highlights the fundamental importance of water for purification.",
+                "While using soap or other cleaning agents is better, according to this Hadith, pure water alone is sufficient to remove the core impurity.",
+                "This point is particularly relevant considering the circumstances of that era, where expensive soaps or chemicals were not readily available to the general population."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

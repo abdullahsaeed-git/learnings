@@ -1,0 +1,186 @@
+{
+  "hadithId": 327,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["muslim:673"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب المساجد ومواضع الصلاة",
+    "babId": 20
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (673)، وأبو داود (582)، والترمذي (235)، والنسائي (780)، وابن ماجه (1078).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (673) میں روایت کیا ہے۔ یہ امامت کے استحقاق اور معاشرتی آداب کے حوالے سے ایک بنیادی نص ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (673), Abu Dawud, At-Tirmidhi, An-Nasa'i, and Ibn Majah."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَقْرَؤُهُمْ",
+      "english": "Most knowledgeable of the Qur'an",
+      "urdu": "قرآن کا زیادہ علم رکھنے والا"
+    },
+    {
+      "arabic": "سُلْطَانِهِ",
+      "english": "His authority / domain",
+      "urdu": "اس کی قلمرو / دائرہ اختیار"
+    },
+    {
+      "arabic": "تَكْرِمَتِهِ",
+      "english": "Place of honor / cushion",
+      "urdu": "مخصوص نشست / عزت کی جگہ"
+    },
+    {
+      "arabic": "سِلْمًا",
+      "english": "Accepting Islam",
+      "urdu": "اسلام لانا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث امامت کے لیے ترجیحی بنیادوں (قرآن کا علم، سنت کا علم، ہجرت، عمر) کو واضح کرتی ہے اور دوسروں کے حقوق اور دائرہ اختیار کے احترام کا حکم دیتی ہے۔",
+    "english": "This Hadith clarifies the criteria for leadership in prayer (knowledge of Quran, Sunnah, Hijrah, and age) and emphasizes respecting others' authority and private spaces."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (673)",
+      "english": "Sahih Muslim (673)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah ibn Mas'ud"
+      },
+      "slug": "abdullah-ibn-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "امامت کے حقدار کون؟",
+        "english": "Who is Most Entitled to Lead?"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علمِ قرآن کو اولیت",
+              "english": "Priority of Quranic Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "امامت کے لیے پہلی شرط قرآن کا علم اور اسے بہتر طریقے سے پڑھنا ہے۔",
+                "یہ اس بات کی دلیل ہے کہ اسلام میں قیادت کی بنیاد موروثی نہیں بلکہ علمی کمال پر ہے۔",
+                "صرف حافظ ہونا کافی نہیں بلکہ نماز کے احکام کا علم ہونا بھی ضروری ہے۔"
+              ],
+              "english": [
+                "The first criterion for leading prayer is knowledge of the Quran and its proper recitation.",
+                "This indicates that leadership in Islam is based on merit and knowledge rather than inheritance.",
+                "Being a Hafiz alone isn't enough; knowing the rulings of prayer is also essential."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت اور دیگر ترجیحات",
+              "english": "Sunnah and Other Preferences"
+            },
+            "content": {
+              "urdu": [
+                "اگر قرات میں برابر ہوں تو سنتِ نبوی ﷺ کے بڑے عالم کو ترجیح دی جائے گی۔",
+                "اس کے بعد ہجرت میں سبقت اور پھر عمر یا تقویٰ کو بنیاد بنایا جائے گا۔",
+                "یہ درجات نظم و ضبط برقرار رکھنے اور بہترین شخص کو آگے لانے کے لیے ہیں۔"
+              ],
+              "english": [
+                "If equal in recitation, the one with more knowledge of the Prophetic Sunnah is preferred.",
+                "Following that, seniority in Hijrah (migration) and then age or piety are considered.",
+                "These ranks ensure order and ensure the most qualified individual leads."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اختیار اور رازداری کا احترام",
+        "english": "Respecting Authority and Privacy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صاحبِ خانہ کا حق",
+              "english": "Right of the House Owner"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی عالم کسی کے گھر یا دائرہ اختیار میں مہمان ہو، تو وہ صاحبِ خانہ کی اجازت کے بغیر امام نہیں بن سکتا۔",
+                "گھر کا مالک اپنی جگہ پر نماز پڑھانے کا سب سے زیادہ حقدار ہے، چاہے مہمان اس سے زیادہ عالم ہو۔",
+                "یہ اصول دوسروں کی انا اور سماجی حیثیت کے احترام کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "If a scholar is a guest in someone's home or domain, he cannot lead prayer without the owner's permission.",
+                "The host has the primary right to lead in his own place, even if the guest is more knowledgeable.",
+                "This principle teaches respect for others' dignity and social standing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گھریلو آداب",
+              "english": "Home Etiquettes"
+            },
+            "content": {
+              "urdu": [
+                "گھر میں کسی کی مخصوص نشست یا بستر پر بیٹھنا اس کی اجازت کے بغیر جائز نہیں۔",
+                "یہ رازداری (Privacy) کے اسلامی تصور کی عکاسی کرتا ہے۔",
+                "دوسروں کے آرام اور ان کی پسند و ناپسند کا خیال رکھنا ایمان کا حصہ ہے۔"
+              ],
+              "english": [
+                "It is not permissible to sit in someone's private seat or bed without their permission.",
+                "This reflects the Islamic concept of privacy.",
+                "Considering others' comfort and their preferences is part of faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علمی برتری اور تواضع",
+              "english": "Intellectual Superiority and Humility"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں چاہیے کہ دینی علم حاصل کریں تاکہ ہم خیر کی قیادت کے اہل بن سکیں۔",
+                "دوسروں کے گھروں میں جاتے وقت آدابِ مجلس کا سختی سے خیال رکھیں۔",
+                "کسی کے اختیارات میں مداخلت کرنے سے گریز کریں تاکہ معاشرتی جھگڑوں سے بچا جا سکے۔"
+              ],
+              "english": [
+                "We should strive for religious knowledge to be eligible for leading in goodness.",
+                "Strictly follow social etiquettes when visiting others' homes.",
+                "Avoid interfering in others' jurisdictions to prevent social conflicts."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

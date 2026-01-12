@@ -1,0 +1,259 @@
+{
+  "hadithId": 895,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/94"],
+    "kitabId": 8,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب النكاح",
+    "babId": 68
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1431). وقوله (فليصل) أي فليدعُ للمضيف بالبركة والخير.",
+    "urdu": "صحیح۔ اسے امام مسلم نے روایت کیا ہے۔ حدیث میں موجود لفظ 'فلیصل' کا مطلب 'دعا کرنا' ہے جیسا کہ دیگر روایات میں اس کی وضاحت موجود ہے۔",
+    "english": "Sahih. Reported by Muslim (1431). The word 'Falyusalli' (let him pray) is interpreted by scholars as 'supplicating' for the host's blessing and goodness."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَلْيُجِبْ",
+      "english": "He must accept",
+      "urdu": "تو اسے قبول کرنا چاہیے"
+    },
+    {
+      "arabic": "صَائِمًا",
+      "english": "Fasting",
+      "urdu": "روزے دار"
+    },
+    {
+      "arabic": "فَلْيُصَلِّ",
+      "english": "Let him pray (supplicate)",
+      "urdu": "تو اسے دعا کرنی چاہیے"
+    },
+    {
+      "arabic": "مُفْطِرًا",
+      "english": "Not fasting",
+      "urdu": "بغیر روزے کے"
+    },
+    {
+      "arabic": "فَلْيُطْعَمْ",
+      "english": "Let him eat",
+      "urdu": "تو اسے کھانا چاہیے"
+    }
+  ],
+  "summary": {
+    "urdu": "دعوت قبول کرنا سنت ہے؛ اگر روزہ ہو تو شرکت کر کے میزبان کے لیے دعا کریں، اور اگر روزہ نہ ہو تو کھانا کھائیں، تاہم کھانا زبردستی نہیں بلکہ اپنی مرضی پر منحصر ہے۔",
+    "english": "Accepting an invitation is a Sunnah; a fasting person should attend and pray for the host, while a non-fasting person should eat, though eating itself is optional based on one's desire."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1431)",
+      "english": "Sahih Muslim (1431)"
+    },
+    {
+      "arabic": "صحيح مسلم (1430)",
+      "english": "Sahih Muslim (1430)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R3L0f6LpB3M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روزے دار کے لیے دعوت کا حکم",
+        "english": "Ruling for the Fasting Guest"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرکت کی اہمیت",
+              "english": "Importance of Attendance"
+            },
+            "content": {
+              "urdu": [
+                "روزہ دار کے لیے بھی دعوت میں شریک ہونا مستحسن ہے تاکہ میزبان کی دلجوئی ہو۔",
+                "صرف روزے کی وجہ سے دعوت کو رد کر دینا باہمی تعلقات میں دوری پیدا کر سکتا ہے۔",
+                "محفل میں حاضری سے سماجی تعلقات مضبوط ہوتے ہیں اور بھائی چارہ بڑھتا ہے۔"
+              ],
+              "english": [
+                "It is recommended even for a fasting person to attend an invitation to please the host.",
+                "Declining solely because of fasting might cause social distance or hurt feelings.",
+                "Presence in such gatherings strengthens social ties and fosters brotherhood."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا بطورِ بدل",
+              "english": "Supplication as a Substitute"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'فلیصل' سے مراد نماز نہیں بلکہ برکت اور مغفرت کی دعا ہے۔",
+                "روزہ دار کو چاہیے کہ وہ دسترخوان پر بیٹھ کر میزبان کے رزق اور گھر میں خیر کی دعا کرے۔",
+                "میزبان کے لیے مہمان کی دعا بہت بڑی برکت اور اجر کا باعث ہوتی ہے۔"
+              ],
+              "english": [
+                "In the Hadith, 'Falyusalli' refers to offering prayers for blessings and forgiveness, not ritual prayer.",
+                "A fasting guest should sit at the table and pray for the host's sustenance and well-being.",
+                "A guest's supplication is a source of great blessing and reward for the host."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کھانا کھانے کا اختیار",
+        "english": "The Option to Eat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رضامندی اور پسند",
+              "english": "Consent and Preference"
+            },
+            "content": {
+              "urdu": [
+                "اگر مہمان کا روزہ نہ ہو تو اسے کھانا کھانا چاہیے تاکہ دعوت کا مقصد پورا ہو۔",
+                "تاہم، اگر بھوک نہ ہو یا طبیعت ٹھیک نہ ہو تو کھانا نہ کھانے کی گنجائش موجود ہے۔",
+                "نبی کریم ﷺ نے 'ان شاء طعم وان شاء ترک' فرما کر مہمان کو ذہنی سکون فراہم کیا۔"
+              ],
+              "english": [
+                "If not fasting, the guest should eat to fulfill the purpose of the invitation.",
+                "However, if one is not hungry or feels unwell, there is room to abstain from eating.",
+                "The Prophet's (ﷺ) phrase 'if he wishes he eats, if he wishes he leaves' provides mental ease for the guest."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزہ توڑنے کی گنجائش",
+              "english": "Permission to Break a Fast"
+            },
+            "content": {
+              "urdu": [
+                "اگر روزہ نفل ہو اور میزبان کے اصرار پر نہ کھانے سے اس کی دل شکنی کا اندیشہ ہو تو روزہ توڑنا جائز ہے۔",
+                "ایسی صورت میں بعد میں اس نفل روزے کی قضا کر لینا مستحب ہے۔",
+                "مومن کا دل خوش کرنا بعض اوقات نفلی عبادت سے زیادہ فضیلت رکھتا ہے۔"
+              ],
+              "english": [
+                "If it is a voluntary fast and not eating would deeply upset the host, it is permissible to break it.",
+                "In such a case, it is recommended to make up for that voluntary fast later.",
+                "Pleasing a believer's heart can sometimes hold more merit than a voluntary act of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "میزبان کے آداب",
+        "english": "Etiquette for the Host"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبردستی سے گریز",
+              "english": "Avoiding Coercion"
+            },
+            "content": {
+              "urdu": [
+                "میزبان کو چاہیے کہ مہمان پر کھانا کھانے کے لیے غیر ضروری دباؤ نہ ڈالے۔",
+                "مہمان کی مجبوری یا روزے کا احترام کرنا اسلامی اخلاقیات کا حصہ ہے۔",
+                "دعوت کا اصل مقصد کھانا نہیں بلکہ باہمی محبت اور الفت کا اظہار ہے۔"
+              ],
+              "english": [
+                "The host should not exert unnecessary pressure on the guest to eat.",
+                "Respecting the guest's constraints or fasting is part of Islamic ethics.",
+                "The true goal of an invitation is the expression of mutual love and affection, not just the meal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خندہ پیشانی سے استقبال",
+              "english": "Welcoming with a Smile"
+            },
+            "content": {
+              "urdu": [
+                "مہمان چاہے روزہ دار ہو یا نہ ہو، اس کا استقبال بہترین طریقے سے کرنا چاہیے۔",
+                "مہمان کی آمد سے گھر میں برکت آتی ہے اور گناہ جھڑتے ہیں۔",
+                "میزبان کا اخلاق ہی دعوت کی اصل روح ہوتا ہے۔"
+              ],
+              "english": [
+                "Whether the guest is fasting or not, they should be welcomed in the best possible manner.",
+                "The arrival of a guest brings blessings to the home and serves as an expiation for sins.",
+                "The host's conduct is the true essence of the invitation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی معاشرت کا حسن",
+              "english": "Beauty of Islamic Social Life"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر موقع پر اعتدال اور دوسروں کے احساسات کا خیال رکھنے کی تعلیم دیتا ہے۔",
+                "دعوتوں کا نظام مسلمانوں کے درمیان سماجی دیواروں کو گرانے میں مددگار ہوتا ہے۔",
+                "شریعت نے عبادت اور سماجی زندگی کے درمیان بہترین توازن قائم کیا ہے۔"
+              ],
+              "english": [
+                "Islam teaches moderation and consideration for others' feelings at every turn.",
+                "The system of invitations helps break down social barriers among Muslims.",
+                "Sharia establishes a perfect balance between worship and social life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کی طاقت",
+              "english": "The Power of Supplication"
+            },
+            "content": {
+              "urdu": [
+                "کھانے کے بدلے دعا دینا احسان کا بدلہ احسان سے دینے کا نبوی طریقہ ہے۔",
+                "ہمیں ہر چھوٹی بڑی نعمت پر دوسروں کے لیے خیر کی دعا کرنے کی عادت ڈالنی چاہیے۔",
+                "دعا کرنا ایک ایسی عبادت ہے جو کبھی رائیگاں نہیں جاتی۔"
+              ],
+              "english": [
+                "Offering prayers in exchange for food is the Prophetic way of returning kindness with kindness.",
+                "We should habituate ourselves to praying for others upon receiving any blessing, large or small.",
+                "Supplication is an act of worship that is never wasted."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

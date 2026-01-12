@@ -1,0 +1,62 @@
+{
+  "chapId": 25,
+  "bookId": 2,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 401,
+    "to": 405
+  },
+  "hadiths": [
+    {
+      "id": 401,
+      "name": {
+        "arabic": "عَنِ اَلْمُغِيرَةِ بْنِ شُعْبَةَ ‏- رضى الله عنه ‏- قَالَ: { اِنْكَسَفَتِ اَلشَّمْسُ عَلَى عَهْدِ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَوْمَ مَاتَ إِبْرَاهِيمُ, فَقَالَ اَلنَّاسُ: اِنْكَسَفَتِ اَلشَّمْسُ لِمَوْتِ إِبْرَاهِيمَ, فَقَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- \"إِنَّ اَلشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اَللَّهِ لَا يَنْكَسِفَانِ لِمَوْتِ أَحَدٍ وَلَا لِحَيَاتِهِ, فَإِذَا رَأَيْتُمُوهُمَا, فَادْعُوا اَللَّهَ وَصَلُّوا, حَتَّى تَنْكَشِفَ\" } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا مغیرہ بن شعبہ رضی اللہ عنہ سے مروی ہے کہ عہدرسالت مآب صلی اللہ علیہ وسلم میں جس دن ابراہیم کی وفات ہوئی اس دن سورج گرہن لگا۔ لوگوں نے کہا کہ سورج گرہن ابراہیم کی وفات کی وجہ سے لگا ہے، جس پر رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”شمس و قمر اللہ کی نشانیوں میں سے دو نشانیاں ہیں۔ ان کو گرہن کسی کی موت و حیات کی وجہ سے نہیں لگتا۔ چنانچہ جب تم ان دونوں (چاند اور سورج) کو اس حالت میں دیکھو تو اللہ تعالیٰ سے دعا کرو اور نماز پڑھو یہاں تک کہ سورج گرہن کھل جائے۔“",
+        "english": "Narrated Al-Mughira bin Shu'ba (RA): The sun eclipsed in the lifetime of Allah's Messenger (ﷺ) on the day when (his son) Ibrahim died. So the people said that the sun had eclipsed because of the death of Ibrahim. Allah's Messenger (ﷺ) said, 'The sun and the moon are two signs among the signs of Allah. They do not eclipse because of someone's death or life. So when you see them (eclipsed), supplicate Allah and pray until the eclipse is over.'"
+      }
+    },
+
+    {
+      "id": 402,
+      "name": {
+        "arabic": " وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا: { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏- جَهَرَ فِي صَلَاةِ اَلْكُسُوفِ بِقِرَاءَتِهِ, فَصَلَّى أَرْبَعَ رَكَعَاتٍ فِي رَكْعَتَيْنِ, وَأَرْبَعَ سَجَدَاتٍ } مُتَّفَقٌ عَلَيْهِ, وَهَذَا لَفْظُ مُسْلِمٍ وَفِي رِوَايَةٍ لَهُ: فَبَعَثَ مُنَادِيًا يُنَادِي: اَلصَّلَاةُ جَامِعَةٌ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے گرہن کی نماز میں قرآت بلند آواز سے کی اور دو رکعتوں میں چار رکوع اور چار سجدے کیے۔ (بخاری و مسلم) اور اس حدیث کے الفاظ مسلم کے ہیں۔ اور مسلم کی ایک روایت میں ہے کہ آپ صلی اللہ علیہ وسلم نے منادی کرنے والے کو بھیجا جو «الصلاة جامعة» کی منادی کرتا تھا۔",
+        "english": "Narrated 'Aishah (RA): The Prophet (PBUH) recited aloud in the eclipse prayer (Salat al-Kusuf). He prayed four bowings (Ruku') in two Rak'ahs and four prostrations (Sujud). Agreed upon, and this is the wording of Muslim. In another narration of Muslim: He sent a caller to announce: 'As-Salatu Jamiah' (The prayer is gathered/in congregation)."
+      }
+    },
+
+    {
+      "id": 403,
+      "name": {
+        "arabic": "وَعَنِ ابْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ : { اِنْخَسَفَتِ الشَّمْسُ عَلَى عَهْدِ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-فَصَلَّى, فَقَامَ قِيَامًا طَوِيلًا, نَحْوًا مِنْ قِرَاءَةِ سُورَةِ اَلْبَقَرَةِ, ثُمَّ رَكَعَ رُكُوعًا طَوِيلًا, ثُمَّ رَفَعَ فَقَامَ قِيَامًا طَوِيلًا وَهُوَ دُونَ اَلْقِيَامِ اَلْأَوَّلِ, ثُمَّ رَكَعَ رُكُوعًا طَوِيلًا, وَهُوَ دُونَ اَلرُّكُوعِ اَلْأَوَّلِ, ثُمَّ سَجَدَ, ثُمَّ قَامَ قِيَامًا طَوِيلاً, وَهُوَ دُونَ اَلْقِيَامِ اَلْأَوَّلِ, ثُمَّ رَكَعَ رُكُوعًا طَوِيلًا, وَهُوَ دُونَ اَلرُّكُوعِ اَلْأَوَّلِ, ثُمَّ رَفَعَ, فَقَامَ قِيَامًا طَوِيلًا, وَهُوَ دُونَ اَلْقِيَامِ اَلْأَوَّلِ, ثُمَّ رَكَعَ رُكُوعًا طَوِيلاً, وَهُوَ دُونَ اَلرُّكُوعِ اَلْأَوَّلِ, ثُمَّ سَجَدَ, ثُمَّ انْصَرَفَ وَقَدْ تَجَلَّتِ اَلشَّمْسُ.‏ فَخَطَبَ اَلنَّاسَ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم کے عہد مبارک میں سورج گرہن ہوا۔ آپ صلی اللہ علیہ وسلم نے نماز کسوف ادا فرمائی اس میں سورۃ البقرہ کی تلاوت کے برابر قیام کیا۔ پھر رکوع بھی بڑا لمبا کیا۔ پھر کھڑے ہوئے تو قیام بھی طویل کیا، مگر پہلے قیام سے کم۔ پھر لمبا رکوع کیا، مگر پہلے رکوع سے کم۔ پھر سجدہ ریز ہوئے۔ (اس کے بعد) پھر لمبا قیام کیا اور وہ پہلے قیام سے کچھ کم تھا پھر ایک لمبا رکوع کیا جو پہلے رکوع سے کچھ کم تھا۔ پھر اپنا سر مبارک رکوع سے اٹھایا اور ایک لمبا قیام کیا جو پہلے قیام سے کچھ کم تھا اس کے بعد پھر ایک اور لمبا رکوع کیا جو پہلے رکوع سے کچھ کم (لمبا) تھا، پھر اپنا سر مبارک (رکوع سے) اٹھایا۔ پھر سجدہ کیا پھر آخر کار سلام پھیر دیا تو (اس دوران) سورج روشن ہو چکا تھا۔ پھر آپ صلی اللہ علیہ وسلم نے لوگوں کو وعظ بھی کیا۔ (بخاری و مسلم)",
+        "english": "Narrated Ibn 'Abbas: The sun eclipsed during the lifetime of the Messenger of Allah (ﷺ) and he offered the eclipse prayer. He stood for a long period, nearly as long as it takes to recite Surah Al-Baqarah. Then he performed a long bowing. Then he stood up for a long period, but it was shorter than the first standing. Then he performed a long bowing, but it was shorter than the first. Then he prostrated. Then he stood up for a long period which was shorter than the first standing. Then he performed a long bowing which was shorter than the first. Then he stood up for a long period which was shorter than the first standing. Then he performed a long bowing which was shorter than the first. Then he prostrated and finished the prayer, and by then the sun had appeared. Then he addressed the people."
+      }
+    },
+
+    {
+      "id": 404,
+      "name": {
+        "arabic": " وَعَنِ ابْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { مَا هَبَّتْ رِيحٌ قَطُّ إِلَّا جَثَا اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-عَلَى رُكْبَتَيْهِ, وَقَالَ: \"اَللَّهُمَّ اجْعَلْهَا رَحْمَةً, وَلَا تَجْعَلَهَا عَذَابًا\" } رَوَاهُ اَلشَّافِعِيُّ وَالطَّبَرَانِيُّ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ جب ہوا تیز و تند چلتی تو نبی کریم صلی اللہ علیہ وسلم اپنے گھٹنوں کے بل بیٹھ کر یوں (بارگاہ الٰہی میں) عرض کرتے «‏‏‏‏اللهم اجعلها رحمة ولا تجعلها عذابا» ”اے اللہ! اس ہوا کو رحمت بنا، عذاب نہ بنا۔“ اسے شافعی اور طبرانی دونوں نے روایت کیا ہے۔",
+        "english": "Narrated Ibn 'Abbas (RA): Whenever the wind blew strongly, the Prophet (PBUH) would fall to his knees and say: 'O Allah, make it a mercy and do not make it a punishment.' Reported by Ash-Shafi'i and At-Tabarani."
+      }
+    },
+
+    {
+      "id": 405,
+      "name": {
+        "arabic": "وَعَنْهُ: { أَنَّهُ صَلَّى فِي زَلْزَلَةٍ سِتَّ رَكَعَاتٍ, وَأَرْبَعَ سَجَدَاتٍ, وَقَالَ: هَكَذَا صَلَاةُ اَلْآيَاتِ } رَوَاهُ اَلْبَيْهَقِيُّ وَذَكَرَ اَلشَّافِعِيُّ عَنْ عَلِيٍّ ‏- رضى الله عنه ‏- مِثْلَهُ دُونَ آخِرِهِ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما ہی سے یہ حدیث بھی مروی ہے کہ انہوں نے زلزلے کے موقع پر نماز چار سجدوں اور چھ رکوعوں سے پڑھی اور فرمایا کہ آیات الٰہی کی نماز اسی طرح پڑھی جاتی ہے۔ اسے بیہقی نے روایت کیا ہے اور شافعی نے سیدنا علی رضی اللہ عنہ کے واسطہ سے اسی طرح کی روایت ذکر کی ہے البتہ اس میں روایت کے آخری الفاظ نہیں ہیں۔",
+        "english": "Narrated Ibn 'Abbas (RA): He offered a prayer during an earthquake with six bowings and four prostrations, and said, 'This is how the prayer for (divine) signs is offered.' Reported by al-Baihaqi. Ash-Shafi'i mentioned something similar from 'Ali (RA) without the last part."
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 820,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/820"],
+    "kitabId": 7,
+    "inKitabBab": 21,
+    "arabicBook": "بلوغ المرام",
+    "babId": 62
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1388)، ومسلم (1004).",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (1388) اور مسلم (1004) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1388) and Muslim (1004)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اُفْتُلِتَتْ",
+      "english": "Died suddenly / Snatched away",
+      "urdu": "اچانک وفات پا گئی"
+    },
+    {
+      "arabic": "تَصَدَّقَتْ",
+      "english": "She would have given charity",
+      "urdu": "وہ صدقہ کرتیں"
+    },
+    {
+      "arabic": "أَجْرٌ",
+      "english": "Reward",
+      "urdu": "ثواب / اجر"
+    },
+    {
+      "arabic": "تَكَلَّمَتْ",
+      "english": "She had spoken",
+      "urdu": "وہ کلام کرتی"
+    },
+    {
+      "arabic": "أَفَلَهَا",
+      "english": "Is it for her?",
+      "urdu": "کیا اس کے لیے ہے؟"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ فوت شدہ والدین کی طرف سے صدقہ کرنا جائز ہے اور اس کا ثواب انہیں پہنچتا ہے، چاہے انہوں نے وصیت نہ بھی کی ہو۔",
+    "english": "This Hadith proves that giving charity on behalf of deceased parents is permissible and the reward reaches them, even if they did not leave a will."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1388)",
+      "english": "Sahih al-Bukhari (1388)"
+    },
+    {
+      "arabic": "صحيح مسلم (1004)",
+      "english": "Sahih Muslim (1004)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ایصالِ ثواب کی شرعی حیثیت",
+        "english": "Shariah Status of Sending Rewards"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردے کو صدقے کا اجر",
+              "english": "Reward of Charity for the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "علماء کا اس بات پر اتفاق ہے کہ صدقہ و خیرات کا ثواب میت کو پہنچتا ہے۔",
+                "یہ میت کے درجات کی بلندی اور گناہوں کی معافی کا ذریعہ بنتا ہے۔",
+                "حدیث میں والدین کے ساتھ حسنِ سلوک کی ایک صورت وفات کے بعد ان کی طرف سے خرچ کرنا ہے۔"
+              ],
+              "english": [
+                "Scholars agree that the reward of charity and good deeds reaches the deceased.",
+                "It serves as a means for elevating their ranks and the forgiveness of sins.",
+                "The Hadith highlights that spending on behalf of parents after death is a form of kindness to them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بغیر وصیت کے ایصالِ ثواب",
+              "english": "Sending Rewards Without a Will"
+            },
+            "content": {
+              "urdu": [
+                "میت کی طرف سے صدقہ کرنے کے لیے ان کی وصیت ہونا ضروری نہیں ہے۔",
+                "اولاد کی طرف سے کیا گیا نیک کام والدین کے لیے صدقہ جاریہ بنتا ہے۔",
+                "اسلامی تعلیمات کے مطابق اولاد کی نیکیاں بھی والدین کے نامہ اعمال میں شامل ہوتی ہیں۔"
+              ],
+              "english": [
+                "It is not necessary for the deceased to leave a will for charity to be given for them.",
+                "Good deeds performed by children act as a 'Sadaqah Jariyah' for their parents.",
+                "According to Islamic teachings, the righteous deeds of children are added to their parents' account."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "والدین کے حقوق اور صلہ رحمی",
+        "english": "Rights of Parents and Family Ties"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وفات کے بعد والدین کی خدمت",
+              "english": "Serving Parents After Death"
+            },
+            "content": {
+              "urdu": [
+                "والدین کا حق ان کی وفات کے بعد بھی اولاد کے ذمے باقی رہتا ہے۔",
+                "دعا، استغفار اور ان کی طرف سے خیرات کرنا ان کی بہترین خدمت ہے۔",
+                "یہ عمل اولاد کی وفاداری اور ان کے والدین سے محبت کی علامت ہے۔"
+              ],
+              "english": [
+                "The rights of parents remain obligatory upon the children even after their death.",
+                "Supplication, seeking forgiveness, and giving charity for them is the best service.",
+                "This act signifies the loyalty of the children and their love for their parents."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کی اہمیت",
+              "english": "Importance of Intention"
+            },
+            "content": {
+              "urdu": [
+                "اگر اولاد کو محسوس ہو کہ والدین نیکی کرنا چاہتے تھے، تو اس پر عمل کرنا چاہیے۔",
+                "نیک گمان رکھنا اور اس کے مطابق عمل کرنا مومن کا شیوہ ہے۔",
+                "اللہ تعالیٰ نیتوں کے اخلاص پر اجر عطا فرماتا ہے۔"
+              ],
+              "english": [
+                "If children feel their parents intended to do good, they should act upon it.",
+                "Having good assumptions and acting accordingly is the hallmark of a believer.",
+                "Allah Almighty grants rewards based on the sincerity of intentions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و معاشرتی حکمت",
+        "english": "Juristic and Social Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اچانک موت اور احتیاط",
+              "english": "Sudden Death and Precaution"
+            },
+            "content": {
+              "urdu": [
+                "اچانک موت انسان کو وصیت کا موقع نہیں دیتی، اس لیے ورثاء کو فکر کرنی چاہیے۔",
+                "اسلام نے ورثاء کو یہ اختیار دیا ہے کہ وہ میت کے نام پر نیکی کر سکیں۔",
+                "یہ نظام معاشرے میں خیر و برکت کو پھیلانے کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "Sudden death often leaves no time for a will, so heirs should take care of it.",
+                "Islam grants heirs the authority to perform good deeds in the name of the deceased.",
+                "This system leads to the spreading of goodness and blessings in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مالی عبادات کا نفع",
+              "english": "Benefits of Financial Worship"
+            },
+            "content": {
+              "urdu": [
+                "مالی صدقہ میت کے لیے قبر میں راحت کا سامان بنتا ہے۔",
+                "اسلام میں دوسروں کی طرف سے مالی عبادت کی ادائیگی کی گنجائش موجود ہے۔",
+                "یہ عمل غریبوں کی مدد اور معاشرے کی فلاح کا بھی ذریعہ ہے۔"
+              ],
+              "english": [
+                "Financial charity provides comfort for the deceased in the grave.",
+                "There is room in Islam for performing financial worship on behalf of others.",
+                "This act is also a means of helping the poor and promoting social welfare."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اپنے مرحومین کو یاد رکھیں",
+              "english": "Remember Your Deceased"
+            },
+            "content": {
+              "urdu": [
+                "اپنے فوت شدہ رشتہ داروں کو اپنی دعاؤں اور صدقات میں یاد رکھیں۔",
+                "چھوٹی سے چھوٹی نیکی بھی ان کے لیے بڑے اجر کا باعث ہو سکتی ہے۔",
+                "آج آپ دوسروں کے لیے کریں گے تو کل آپ کے لیے بھی کوئی کرنے والا ہو گا۔"
+              ],
+              "english": [
+                "Remember your deceased relatives in your supplications and charities.",
+                "Even the smallest good deed can result in a massive reward for them.",
+                "If you do for others today, someone will do the same for you tomorrow."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زندگی میں نیکی کی عادت",
+              "english": "Habit of Goodness in Life"
+            },
+            "content": {
+              "urdu": [
+                "موت کا کوئی بھروسہ نہیں، اس لیے اپنی زندگی میں ہی نیکی کے کام کریں۔",
+                "وصیت لکھنے کی عادت ڈالیں تاکہ حقوق واضح رہیں۔",
+                "نیکی کرنے میں کبھی تاخیر نہ کریں کیونکہ موقع ہاتھ سے نکل سکتا ہے۔"
+              ],
+              "english": [
+                "Death is unpredictable, so perform righteous deeds during your life.",
+                "Develop the habit of writing a will so that rights remain clear.",
+                "Never delay in doing good because the opportunity may slip away."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

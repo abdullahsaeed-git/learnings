@@ -1,0 +1,259 @@
+{
+  "hadithId": 1109,
+  "hadithNo": 30,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/30"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3134)، ومسلم (1749).",
+    "urdu": "صحیح۔ اسے امام بخاری (3134) اور امام مسلم (1749) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3134) and Muslim (1749)."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَرِيَّةٍ",
+      "english": "Expedition / Small Army",
+      "urdu": "سریہ (لشکر جس میں نبی ﷺ خود شریک نہ ہوں)"
+    },
+    {
+      "arabic": "نَجْدٍ",
+      "english": "Najd (Region)",
+      "urdu": "نجد (ایک علاقہ)"
+    },
+    {
+      "arabic": "سُهْمَانُهُمْ",
+      "english": "Their shares",
+      "urdu": "ان کے حصے"
+    },
+    {
+      "arabic": "نُفِّلُوا",
+      "english": "Given extra / Bonus",
+      "urdu": "انہیں زائد (نفل) دیا گیا"
+    },
+    {
+      "arabic": "بَعِيراً",
+      "english": "Camel",
+      "urdu": "اونٹ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں مالِ غنیمت کی تقسیم اور مجاہدین کی حوصلہ افزائی کے لیے اصل حصے سے زائد انعام (نفل) دینے کا ثبوت ملتا ہے۔",
+    "english": "This Hadith provides evidence for the distribution of war booty and the permissibility of granting extra bonuses (Nafal) to soldiers to boost morale."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (3134)",
+      "english": "Narrated by Al-Bukhari (3134)"
+    },
+    {
+      "arabic": "رواه مسلم (1749)",
+      "english": "Narrated by Muslim (1749)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0O7zE73U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مالِ غنیمت کی تقسیم",
+        "english": "Distribution of War Booty"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی حصہ (سہم)",
+              "english": "The Legal Share (Sahm)"
+            },
+            "content": {
+              "urdu": [
+                "مالِ غنیمت میں سے پانچواں حصہ (خمس) نکالنے کے بعد باقی لشکر میں تقسیم ہوتا ہے۔",
+                "اس حدیث میں ہر مجاہد کو بارہ بارہ اونٹ ملے جو ان کا شرعی استحقاق تھا۔",
+                "یہ تقسیم عدل و انصاف کی بنیاد پر تمام شرکاء کے درمیان برابر کی جاتی ہے۔"
+              ],
+              "english": [
+                "After deducting one-fifth (Khums), the rest of the booty is divided among the army.",
+                "In this Hadith, each soldier received twelve camels as their rightful legal share.",
+                "This distribution is conducted fairly and equally among all eligible participants."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انعام اور تنفیل کا تصور",
+              "english": "Concept of Nafal (Bonus)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اصل حصے کے علاوہ ایک ایک اونٹ زائد دیا جسے 'نفل' کہا جاتا ہے۔",
+                "یہ انعام خصوصی بہادری یا مشقت والے کام پر امیر کی طرف سے دیا جا سکتا ہے۔",
+                "تنفیل کا مقصد مجاہدین کی ہمت بڑھانا اور ان کی خدمات کا اعتراف کرنا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gave an extra camel beyond the basic share, known as 'Nafal'.",
+                "Such bonuses can be awarded by the commander for exceptional bravery or hardship.",
+                "The purpose of Nafal is to encourage the warriors and recognize their services."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عسکری نظم و ضبط",
+        "english": "Military Discipline"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امیر کی اطاعت اور اختیار",
+              "english": "Authority of the Commander"
+            },
+            "content": {
+              "urdu": [
+                "مال کی تقسیم اور انعام کا فیصلہ امیرِ لشکر کے اختیار میں ہوتا ہے۔",
+                "مجاہدین کو چاہیے کہ وہ تقسیم کے معاملے میں امیر کے فیصلے پر راضی رہیں۔",
+                "نظم و ضبط برقرار رکھنے کے لیے حاکم کا بااختیار ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "The decision regarding distribution and bonuses lies with the army commander.",
+                "Warriors should remain content with the leader's decision regarding the spoils.",
+                "An authorized leader is essential for maintaining order and discipline."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سریہ کی اہمیت",
+              "english": "Significance of Sariya"
+            },
+            "content": {
+              "urdu": [
+                "سریہ اس لشکر کو کہتے ہیں جس کے ساتھ نبی ﷺ خود تشریف نہ لے گئے ہوں۔",
+                "ایسے مہمات کا مقصد دفاعی نگرانی اور دشمن کی طاقت کو کمزور کرنا تھا۔",
+                "صحابہ کرام ہر چھوٹے بڑے لشکر میں جوش و خروش سے شرکت کرتے تھے۔"
+              ],
+              "english": [
+                "Sariya refers to an expedition where the Prophet (ﷺ) did not personally participate.",
+                "Such missions aimed at defensive surveillance and weakening the enemy's strength.",
+                "The Companions participated enthusiastically in expeditions of all sizes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمتیں",
+        "english": "Juristic Wisdoms"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خمس سے پہلے یا بعد؟",
+              "english": "Before or After Khums?"
+            },
+            "content": {
+              "urdu": [
+                "علماء میں بحث ہے کہ یہ زائد انعام خمس (پانچویں حصے) سے دیا گیا یا کل مال سے۔",
+                "اکثر فقہاء کے نزدیک یہ نفل خمس کے حصے سے دیا جاتا ہے تاکہ انصاف قائم رہے۔",
+                "یہ حدیث حکمران کو مالی معاملات میں صوابدیدی اختیارات استعمال کرنے کی راہ دکھاتی ہے۔"
+              ],
+              "english": [
+                "Scholars debate whether the bonus was given from the Khums or the total booty.",
+                "Most jurists believe it is given from the Khums portion to maintain fairness.",
+                "This Hadith shows the ruler's discretionary power in financial matters."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مجاہد کی معاشی کفالت",
+              "english": "Economic Support for Warriors"
+            },
+            "content": {
+              "urdu": [
+                "مالِ غنیمت کی تقسیم مجاہدین کی معاشی ضرورت کو پورا کرنے کا ایک ذریعہ تھی۔",
+                "اسلام نے دفاعِ وطن کے لیے خدمات دینے والوں کے حقوق کا مکمل تحفظ کیا ہے۔",
+                "انعام و اکرام سے سپاہیوں میں قربانی کا جذبہ مزید پروان چڑھتا ہے۔"
+              ],
+              "english": [
+                "Booty distribution served as a means to fulfill the economic needs of the soldiers.",
+                "Islam provides full protection for the rights of those serving in national defense.",
+                "Rewards and honors further nurture the spirit of sacrifice among troops."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خدمات کا اعتراف",
+              "english": "Recognition of Services"
+            },
+            "content": {
+              "urdu": [
+                "اچھی کارکردگی پر انعام دینا سنتِ نبوی ﷺ ہے جس سے معاشرے میں بہتری آتی ہے۔",
+                "کسی کی محنت کو نظر انداز کرنا بددلی پیدا کرنے کا باعث بنتا ہے۔",
+                "نبی ﷺ نے ہمیشہ صحابہ کی حوصلہ افزائی کے لیے عملی اقدامات فرمائے۔"
+              ],
+              "english": [
+                "Rewarding good performance is a Prophetic Sunnah that improves society.",
+                "Ignoring someone's hard work leads to discouragement and demotivation.",
+                "The Prophet (ﷺ) always took practical steps to encourage his Companions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیانت داری کی مثال",
+              "english": "Example of Integrity"
+            },
+            "content": {
+              "urdu": [
+                "مالِ غنیمت کا ایک ایک ذرہ باقاعدہ حساب کے تحت تقسیم کیا جاتا تھا۔",
+                "خیانت سے بچنا اور حق دار کو اس کا حق پہنچانا اسلامی معیشت کا اصول ہے۔",
+                "سیدنا ابن عمر کا یہ واقعہ بتاتا ہے کہ صحابہ حقوق کی ادائیگی میں کتنے محتا تھے۔"
+              ],
+              "english": [
+                "Every single bit of war booty was distributed under a formal accounting system.",
+                "Avoiding embezzlement and ensuring rights reach the deserving is an Islamic principle.",
+                "Ibn Umar's report shows how careful the Sahaba were regarding the fulfillment of rights."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "hadithId": 738,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/7/106"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب البيوع",
+    "babId": 49
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2287)، ومسلم (1564). وأخرجه أحمد (2/463) بلفظ: «فليحتل». والحديث أصل في باب الحوالة والمطل.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (2287) اور امام مسلم (1564) نے روایت کیا ہے۔ یہ روایت قرض کی ادائیگی میں ٹال مٹول (مطل) کی ممانعت اور قرض کی منتقلی (حوالہ) کے شرعی جواز میں اصل بنیاد ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2287) and Muslim (1564). The version 'Falyah-tal' is in Musnad Ahmad. This Hadith is the primary evidence for the legal concept of Hawalah (debt transfer) and the prohibition of debt procrastination."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَطْلُ",
+      "english": "Delay / Procrastination",
+      "urdu": "ٹال مٹول کرنا"
+    },
+    {
+      "arabic": "الْغَنِيِّ",
+      "english": "Rich / One with means",
+      "urdu": "مالدار یا صاحبِ ثروت"
+    },
+    {
+      "arabic": "أُتْبِعُ",
+      "english": "Is referred / Followed",
+      "urdu": "حوالہ دیا جائے"
+    },
+    {
+      "arabic": "مَلِيٍّ",
+      "english": "Wealthy / Solvent person",
+      "urdu": "مالدار آدمی"
+    },
+    {
+      "arabic": "فَلْيَحْتَلْ",
+      "english": "Accept the transfer",
+      "urdu": "وہ حوالہ قبول کر لے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ادائیگی کی قدرت رکھنے کے باوجود قرض لٹکانے کو 'ظلم' قرار دیا گیا ہے اور 'حوالہ' (قرض کسی اور پر منتقل کرنے) کو قبول کرنے کی ترغیب دی گئی ہے تاکہ مالی لین دین میں آسانی پیدا ہو۔",
+    "english": "This Hadith classifies delaying debt repayment by a solvent person as 'injustice' and encourages accepting 'Hawalah' (transfer of debt to another solvent party) to facilitate financial settlements."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الحوالات",
+      "english": "Sahih al-Bukhari, Book of Debt Transfers"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب المساقاة",
+      "english": "Sahih Muslim, Book of Musaqah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0p7U_pG_2Q",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ٹال مٹول کی مذمت",
+        "english": "Condemnation of Procrastination"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مطل (تاخیر) کی تعریف",
+              "english": "Definition of Matl (Delay)"
+            },
+            "content": {
+              "urdu": [
+                "اگر مقروض کے پاس مال ہو اور ادائیگی کا وقت آ چکا ہو، تو دیر کرنا گناہ ہے۔",
+                "نبی ﷺ نے اسے 'ظلم' قرار دیا ہے کیونکہ یہ ناحق کسی کا حق روکنا ہے۔",
+                "ظلم کا بدلہ دنیا میں رسوائی اور آخرت میں سخت عذاب کی صورت میں ملتا ہے۔"
+              ],
+              "english": [
+                "If the debtor has the means and the due date has arrived, delaying is a sin.",
+                "The Prophet (ﷺ) called it 'injustice' because it is withholding a rightful due.",
+                "Injustice is rewarded with disgrace in this world and punishment in the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مالدار کی ذمہ داری",
+              "english": "Responsibility of the Solvent"
+            },
+            "content": {
+              "urdu": [
+                "صاحبِ ثروت پر واجب ہے کہ وہ قرض خواہ کو پریشان نہ کرے۔",
+                "قرض کی ادائیگی میں جلدی کرنا ایمان کی علامت اور برکت کا باعث ہے۔",
+                "ٹال مٹول کرنے والے کی ساکھ متاثر ہوتی ہے اور اس کے خلاف قانونی کارروائی ہو سکتی ہے۔"
+              ],
+              "english": [
+                "A person with means is obligated not to cause distress to the creditor.",
+                "Prompt repayment of debt is a sign of faith and a cause for blessings.",
+                "Procrastination damages one's reputation and may lead to legal consequences."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حوالہ (Hawalah) کے احکام",
+        "english": "Rulings on Debt Transfer (Hawalah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرض کی منتقلی",
+              "english": "Transfer of Debt"
+            },
+            "content": {
+              "urdu": [
+                "حوالہ کا مطلب یہ ہے کہ مقروض کہے: 'میرا قرض فلاں مالدار شخص سے لے لو'۔",
+                "اگر وہ تیسرا شخص واقعی مالدار اور امانتدار ہو، تو قرض خواہ کو اسے قبول کرنا چاہیے۔",
+                "یہ طریقہ مالی نظام میں روانی پیدا کرتا ہے اور قرضوں کے بوجھ کو تقسیم کرتا ہے۔"
+              ],
+              "english": [
+                "Hawalah means the debtor says: 'Collect my debt from so-and-so (a solvent person).'",
+                "If that third party is indeed solvent and reliable, the creditor should accept.",
+                "This method creates liquidity in the financial system and distributes the burden of debt."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی رخصت اور حکم",
+              "english": "Sharia Concession and Command"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کا لفظ 'فلیتبع' (چاہیے کہ قبول کرے) وجوب یا تاکید کے لیے ہے۔",
+                "اگر تیسرا فریق (جس پر حوالہ دیا گیا) غریب ہو، تو قرض خواہ انکار کر سکتا ہے۔",
+                "حوالہ قبول کرنے سے پہلے فریقین کی باہمی رضا مندی ضروری ہے۔"
+              ],
+              "english": [
+                "The word 'Falyatba' indicates a strong recommendation or obligation to comply.",
+                "If the third party (the transferee) is insolvent, the creditor has the right to refuse.",
+                "Mutual consent is necessary before the transfer of debt becomes legally binding."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی و معاشرتی حکمت",
+        "english": "Economic and Social Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی تعاون",
+              "english": "Mutual Cooperation"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معیشت میں قرض کو بوجھ کے بجائے ہمدردی کا ذریعہ بنایا گیا ہے۔",
+                "حوالہ کا نظام لوگوں کے درمیان مالی تنازعات کو کم کرنے میں مددگار ثابت ہوتا ہے۔",
+                "اس سے معاشرے میں ایک دوسرے پر اعتماد کی فضا قائم ہوتی ہے۔"
+              ],
+              "english": [
+                "In the Islamic economy, debt is treated as a means of sympathy rather than a burden.",
+                "The Hawalah system helps minimize financial disputes between individuals.",
+                "It fosters an atmosphere of mutual trust within the community."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وعدے کی پاسداری",
+              "english": "Fulfilling Promises"
+            },
+            "content": {
+              "urdu": [
+                "ایک سچا مسلمان کبھی مالی معاملات میں بددیانتی نہیں کرتا۔",
+                "اگر گنجائش ہو تو وقت سے پہلے قرض ادا کر کے دوسروں کا بھلا کریں۔",
+                "معاملات کی صفائی آخرت کے مواخذے سے بچاتی ہے۔"
+              ],
+              "english": [
+                "A true Muslim never practices dishonesty in financial matters.",
+                "If capacity exists, benefit others by repaying debts ahead of time.",
+                "Clarity and integrity in dealings protect one from accountability in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

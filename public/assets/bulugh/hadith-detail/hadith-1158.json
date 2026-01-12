@@ -1,0 +1,213 @@
+{
+  "hadithId": 1158,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/12/24"],
+    "kitabId": 12,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأطعمة - باب الصيد والذبائح",
+    "babId": 93
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أحمد (3/39)، وابن حبان (1077)، وأبو داود (2827)، والترمذي (1476)، وابن ماجه (3199). وله شواهد من حديث ابن عمر وجابر وأبي هريرة تقويه.",
+    "urdu": "یہ حدیث اپنے شواہد کے ساتھ صحیح ہے۔ اسے امام احمد، ابن حبان، ابوداؤد، ترمذی اور ابن ماجہ نے روایت کیا ہے۔ اس کے کئی شواہد دیگر صحابہ سے بھی مروی ہیں جو اسے تقویت دیتے ہیں۔",
+    "english": "Sahih due to corroborating evidences. Reported by Ahmad (3/39), Ibn Hibban (1077), Abu Dawud (2827), At-Tirmidhi (1476), and Ibn Majah (3199). Supporting narrations from Ibn Umar, Jabir, and Abu Hurairah strengthen its authenticity."
+  },
+  "importantWords": [
+    {
+      "arabic": "ذَكَاةُ",
+      "english": "Slaughtering / Legal purification",
+      "urdu": "ذبح کرنا / شرعی طریقہ"
+    },
+    {
+      "arabic": "اَلْجَنِينِ",
+      "english": "Fetus / Unborn offspring",
+      "urdu": "جنین / پیٹ کا بچہ"
+    },
+    {
+      "arabic": "أُمِّهِ",
+      "english": "Its mother",
+      "urdu": "اس کی ماں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مطلب یہ ہے کہ اگر کسی حلال جانور (مثلاً بکری یا گائے) کو ذبح کیا جائے اور اس کے پیٹ سے مرا ہوا بچہ نکلے، تو وہ بچہ حلال ہوگا اور اسے دوبارہ ذبح کرنے کی ضرورت نہیں، کیونکہ ماں کا ذبیحہ اس کے لیے بھی کافی ہے۔",
+    "english": "This Hadith clarifies that if a permissible animal (like a goat or cow) is slaughtered and a dead fetus is found inside, the fetus is Halal to eat. The slaughtering of the mother is considered sufficient for the fetus as well."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2827)",
+      "english": "Sunan Abi Dawud (2827)"
+    },
+    {
+      "arabic": "سنن الترمذي (1476)",
+      "english": "Sunan at-Tirmidhi (1476)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-said-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنین (پیٹ کے بچے) کا شرعی حکم",
+        "english": "Shariah Ruling on the Fetus"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حلت کی صورت",
+              "english": "Case of Permissibility"
+            },
+            "content": {
+              "urdu": [
+                "اگر جانور کو ذبح کرنے کے بعد اس کے پیٹ سے بچہ مردہ نکلے تو وہ حلال ہے۔",
+                "اس صورت میں جنین کو ماں کا ایک عضو (حصہ) تصور کیا جاتا ہے۔",
+                "ماں کے ذبح ہونے سے بچے کا خون بھی اس کی رگوں کے ذریعے نکل جاتا ہے، اس لیے وہ مردار نہیں کہلاتا۔"
+              ],
+              "english": [
+                "If the fetus is found dead after the mother is slaughtered, it is Halal to consume.",
+                "In this case, the fetus is legally considered a part (limb) of the mother.",
+                "Slaughtering the mother causes the blood to drain from the fetus through the connected vessels, hence it is not 'carrion'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اگر بچہ زندہ نکلے",
+              "english": "If the Fetus is Found Alive"
+            },
+            "content": {
+              "urdu": [
+                "اگر بچہ پیٹ سے زندہ نکلے تو اسے مستقل طور پر ذبح کرنا ضروری ہے۔",
+                "زندہ نکلنے کی صورت میں اس پر 'ذکاۃِ ام' (ماں کا ذبیحہ) لاگو نہیں ہوگا کیونکہ وہ اب ایک الگ جاندار ہے۔",
+                "فقہاء کا اتفاق ہے کہ زندہ نکلنے والے جنین کو بغیر ذبح کیے کھانا حرام ہے۔"
+              ],
+              "english": [
+                "If the fetus is extracted alive, it must be slaughtered independently to be Halal.",
+                "In this scenario, the mother's slaughter is no longer sufficient as it is now a separate living entity.",
+                "Jurists agree that consuming a fetus that was born alive without slaughtering it is Haram."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب کی آراء",
+        "english": "Opinions of Juristic Schools"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمہور کا موقف",
+              "english": "Majority Position"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی، امام احمد اور امام مالک کے نزدیک اس حدیث کی بنا پر جنین حلال ہے۔",
+                "شرط یہ ہے کہ اس کی خلقت (بناوٹ) مکمل ہو چکی ہو اور اس پر بال وغیرہ آ چکے ہوں۔",
+                "یہ موقف نصِ صریح (واضح حدیث) پر مبنی ہے۔"
+              ],
+              "english": [
+                "According to Imams Shafi'i, Ahmad, and Malik, the fetus is Halal based on this Hadith.",
+                "The condition is that it must be fully formed with features like hair visible.",
+                "This position is based on the explicit text (Nass) of the Hadith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احناف کا موقف",
+              "english": "Hanafi Viewpoint"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ کے نزدیک پیٹ سے نکلنے والا بچہ صرف اسی صورت میں حلال ہے جب اسے مستقل ذبح کیا جائے۔",
+                "اگر وہ مردہ نکلے تو ان کے نزدیک وہ مردار ہے اور اسے نہیں کھایا جائے گا۔",
+                "تاہم صاحبین (امام ابویوسف و محمد) نے جمہور کی موافقت کی ہے اور فتویٰ اسی پر ہے۔"
+              ],
+              "english": [
+                "Imam Abu Hanifa held that the fetus is only Halal if it is slaughtered independently.",
+                "If found dead, he considered it 'Maitah' (carrion) and disallowed its consumption.",
+                "However, his top students (Abu Yusuf and Muhammad) followed the majority view, which is the adopted fatwa."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور سائنسی پہلو",
+        "english": "Medical and Scientific Perspective"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خون کا انخلاء",
+              "english": "Blood Drainage"
+            },
+            "content": {
+              "urdu": [
+                "سائنسی طور پر جنین کا دورانِ خون ماں کے ساتھ جڑا ہوتا ہے۔",
+                "ماں کی شہ رگ کٹنے سے خون کا دباؤ کم ہوتا ہے اور جنین کا خون بھی خارج ہو جاتا ہے۔",
+                "یہ عمل گوشت کو جراثیم سے پاک اور صحت بخش بناتا ہے۔"
+              ],
+              "english": [
+                "Scientifically, the fetal circulation is interconnected with the mother's system.",
+                "Severing the mother's jugular veins drops the blood pressure, causing the fetal blood to drain out.",
+                "This process ensures the meat remains free of harmful pathogens and remains healthy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے حلال و حرام کے احکامات میں بندوں کے لیے سہولت رکھی ہے۔",
+                "کسی حلال چیز کو بلاوجہ ضائع کرنا یا اپنے اوپر حرام کرنا پسندیدہ نہیں ہے۔",
+                "شرعی احکامات فطرت کے عین مطابق ہیں جو انسانی ضرورتوں کو پورا کرتے ہیں۔"
+              ],
+              "english": [
+                "Allah has provided ease for His servants regarding dietary laws.",
+                "Wasting Halal food or unnecessarily forbidding it upon oneself is discouraged.",
+                "Shariah rulings align with human nature and fulfill practical needs."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

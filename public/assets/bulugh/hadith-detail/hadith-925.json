@@ -1,0 +1,259 @@
+{
+  "hadithId": 925,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1061"],
+    "kitabId": 8,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الطلاق",
+    "babId": 71
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده . رواه ابن ماجه (2048) ، والحاكم (2/204) . والحديث له طرق وشواهد كثيرة تقويه ، منها حديث عمرو بن شعيب عن أبيه عن جده عند الترمذي ، مما يجعله صحيحاً لغيره.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے ابن ماجہ (2048) اور حاکم (2/204) نے روایت کیا ہے۔ اگرچہ انفرادی سندوں میں علت (کمزوری) ہے، لیکن عمرو بن شعیب اور دیگر صحابہ سے مروی روایات اسے تقویت دے کر 'صحیح لغیرہ' کے درجے تک پہنچاتی ہیں۔",
+    "english": "Sahih due to supporting evidences. Reported by Ibn Majah (2048) and Al-Hakim (2/204). While individual chains may have technical defects (Illa), multiple supporting routes from other Companions like Amr bin Shu'aib elevate it to the level of Sahih Lighairihi."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا طَلَاقَ",
+      "english": "No divorce",
+      "urdu": "کوئی طلاق نہیں"
+    },
+    {
+      "arabic": "بَعْدَ نِكَاحٍ",
+      "english": "After marriage",
+      "urdu": "نکاح کے بعد"
+    },
+    {
+      "arabic": "لَا عِتْقَ",
+      "english": "No freeing (of slaves)",
+      "urdu": "کوئی آزادی نہیں"
+    },
+    {
+      "arabic": "مِلْكٍ",
+      "english": "Ownership / Possession",
+      "urdu": "ملکیت"
+    },
+    {
+      "arabic": "مَعْلُولٌ",
+      "english": "Defective (in Hadith science)",
+      "urdu": "کمزور / جس میں علت ہو"
+    }
+  ],
+  "summary": {
+    "urdu": "طلاق صرف اسی صورت میں واقع ہو سکتی ہے جب پہلے نکاح کا رشتہ موجود ہو؛ نکاح سے پہلے دی گئی طلاق شرعی طور پر کالعدم ہے۔",
+    "english": "Divorce can only take effect if a valid marriage already exists; any pronouncement of divorce before marriage is legally void in Shariah."
+  },
+  "references": [
+    {
+      "arabic": "سنن ابن ماجه (2048)",
+      "english": "Sunan Ibn Majah (2048)"
+    },
+    {
+      "arabic": "المستدرك للحاكم (2/204)",
+      "english": "Al-Mustadrak al-Hakim (2/204)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kq6fR_wz4",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طلاق اور نکاح کا تعلق",
+        "english": "Connection Between Divorce and Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طلاق کی بنیاد",
+              "english": "The Basis of Divorce"
+            },
+            "content": {
+              "urdu": [
+                "طلاق اصل میں نکاح کے رشتے کو ختم کرنے کا نام ہے، لہذا رشتے کا ہونا لازمی ہے۔",
+                "اگر کسی شخص نے ابھی نکاح ہی نہیں کیا اور وہ طلاق کے الفاظ کہے تو وہ لغو ہیں۔",
+                "شریعت میں کسی ایسی چیز کو ختم نہیں کیا جا سکتا جو ابھی وجود ہی نہ رکھتی ہو۔"
+              ],
+              "english": [
+                "Divorce is essentially the termination of a marriage bond, so the bond must exist first.",
+                "If a person has not yet married and utters words of divorce, they are considered nonsensical.",
+                "In Shariah, one cannot terminate something that does not yet exist."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نکاح سے پہلے طلاق کی صورت",
+              "english": "Divorce Before Marriage"
+            },
+            "content": {
+              "urdu": [
+                "بعض لوگ کہتے ہیں کہ 'اگر میں فلاں سے نکاح کروں تو اسے طلاق'، یہ معتبر نہیں ہے۔",
+                "نبی کریم ﷺ کے اس فرمان نے ایسی تمام جاہلانہ رسومات اور لغو باتوں کا خاتمہ کر دیا۔",
+                "جب تک عورت کسی مرد کے نکاح میں نہ آئے، مرد کو اس پر طلاق کا کوئی حق حاصل نہیں۔"
+              ],
+              "english": [
+                "Some say 'If I marry so-and-so, she is divorced'; this is not legally binding.",
+                "The Prophet's (ﷺ) statement abolished all such ignorant customs and vain talk.",
+                "Until a woman enters a man's marriage, he has no legal right of divorce over her."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ملکیت اور آزادی کا اصول",
+        "english": "Principle of Ownership and Freedom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ملکیت کی شرط",
+              "english": "Condition of Ownership"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح نکاح کے بغیر طلاق نہیں، اسی طرح اپنی ملکیت کے بغیر کسی کو آزاد نہیں کیا جا سکتا۔",
+                "کوئی شخص کسی دوسرے کے غلام کو اپنی طرف سے آزاد کرنے کا اختیار نہیں رکھتا۔",
+                "یہ اصول مالی اور سماجی معاملات میں حقوق اور ملکیت کی حدود کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "Just as there is no divorce without marriage, no one can be freed without ownership.",
+                "A person does not have the authority to free someone else's slave as their own act.",
+                "This principle clarifies the limits of rights and ownership in financial and social matters."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی ضابطہ",
+              "english": "Shariah Regulation"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون کے مطابق تصرف (استعمال کا حق) ہمیشہ ملکیت کے تابع ہوتا ہے۔",
+                "کسی چیز پر حقِ دعویٰ جتانے کے لیے پہلے اس کا قانونی مالک ہونا ضروری ہے۔",
+                "یہ حدیث عدل و انصاف اور نظم و ضبط کے اسلامی نظام کی عکاسی کرتی ہے۔"
+              ],
+              "english": [
+                "According to Islamic law, disposal of rights is always subject to ownership.",
+                "To claim a right over something, one must first be its legal owner.",
+                "This Hadith reflects the Islamic system of justice, order, and discipline."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف فقہی مذاہب",
+              "english": "Different Juristic Schools"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء بشمول شوافع اور حنابلہ اسی حدیث پر عمل کرتے ہوئے نکاح سے پہلے طلاق کو باطل مانتے ہیں۔",
+                "احناف کے نزدیک اگر طلاق کو نکاح کے ساتھ معلق کیا جائے تو وہ نکاح کے بعد واقع ہو جاتی ہے۔",
+                "تاہم، حدیث کے صریح الفاظ جمہور کے موقف کی تائید کرتے ہیں کہ ایسی طلاق واقع نہیں ہوتی۔"
+              ],
+              "english": [
+                "The majority of scholars, including Shafi'is and Hanbalis, consider pre-marriage divorce void.",
+                "Hanafis argue that if divorce is made conditional upon marriage, it occurs after marriage.",
+                "However, the explicit words of the Hadith support the majority view that it does not take effect."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علتِ حدیث کی وضاحت",
+              "english": "Clarifying the Hadith Defect"
+            },
+            "content": {
+              "urdu": [
+                "متن میں مذکور 'معلول' کا مطلب ہے کہ اس کی سند میں کوئی پوشیدہ فنی خامی ہے۔",
+                "مگر جب ایک ہی بات مختلف صحابہ سے مروی ہو تو وہ فنی خامی دور ہو جاتی ہے۔",
+                "اسی لیے محدثین نے اسے مجموعی طور پر 'صحیح' یا 'حسن' قرار دیا ہے۔"
+              ],
+              "english": [
+                "The term 'Ma'lul' in the text means there is a hidden technical flaw in its chain.",
+                "However, when the same message is reported by various Companions, the flaw is mitigated.",
+                "This is why Hadith scholars have collectively graded it as Sahih or Hasan."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی سنجیدگی",
+              "english": "Seriousness of Speech"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں الفاظ کی بڑی اہمیت ہے، اس لیے انسان کو سوچ سمجھ کر بولنا چاہیے۔",
+                "لغو اور فضول باتوں سے پرہیز کرنا چاہیے جن کا شرعی طور پر کوئی وجود نہ ہو۔",
+                "اپنی حدود سے باہر نکل کر کسی پر حق جتانا اخلاقی اور شرعی طور پر غلط ہے۔"
+              ],
+              "english": [
+                "Words hold great weight in Shariah, so one must speak thoughtfully and carefully.",
+                "One should avoid vain and useless talk that has no legal standing in religion.",
+                "Claiming rights over others outside of one's jurisdiction is morally and legally wrong."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نکاح کی عظمت",
+              "english": "Sanctity of Marriage"
+            },
+            "content": {
+              "urdu": [
+                "نکاح ایک مقدس معاہدہ ہے جس کے بعد ہی میاں بیوی کے حقوق و فرائض شروع ہوتے ہیں۔",
+                "نکاح سے پہلے طلاق کی باتیں کرنا اس رشتے کی توہین اور ناپختگی کی علامت ہے۔",
+                "اسلامی معاشرے میں ہر کام اس کے صحیح وقت اور شرائط کے ساتھ ہونا چاہیے۔"
+              ],
+              "english": [
+                "Marriage is a sacred contract; rights and duties only begin after it is solemnized.",
+                "Talking about divorce before marriage is an insult to the bond and a sign of immaturity.",
+                "In an Islamic society, every action must occur at its proper time and under correct conditions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

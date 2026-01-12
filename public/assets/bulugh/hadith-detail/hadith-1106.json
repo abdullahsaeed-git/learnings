@@ -1,0 +1,259 @@
+{
+  "hadithId": 1106,
+  "hadithNo": 27,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/27"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "حسن بشواهده. رواه أبو داود (3067) من طريق محمد بن إسحاق، عن عمار بن صخر بن العيلة، عن أبيه صخر، به. والحديث له شواهد في الصحيحين وغيرهما تعضد معناه.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر حسن ہے۔ اسے امام ابوداؤد نے روایت کیا ہے (3067)۔ اگرچہ اس کی سند میں کچھ کلام ہے، لیکن بخاری اور مسلم کی صحیح احادیث اس کے معنی کی تائید کرتی ہیں۔",
+    "english": "Hasan through corroborating reports. Reported by Abu Dawud (3067). While its specific chain has some discussion, its meaning is supported by several authentic narrations in Bukhari and Muslim."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَسْلَمُوا",
+      "english": "Embraced Islam",
+      "urdu": "اسلام لائے"
+    },
+    {
+      "arabic": "أَحْرَزُوا",
+      "english": "Secured / Protected",
+      "urdu": "محفوظ کر لیے"
+    },
+    {
+      "arabic": "دِمَاءَهُمْ",
+      "english": "Their lives / blood",
+      "urdu": "ان کے خون"
+    },
+    {
+      "arabic": "أَمْوَالَهُمْ",
+      "english": "Their properties",
+      "urdu": "ان کے اموال"
+    },
+    {
+      "arabic": "الْقَوْمَ",
+      "english": "The people / tribe",
+      "urdu": "قوم"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مفہوم یہ ہے کہ اسلام قبول کرنے سے انسان کی جان اور مال کو شرعی تحفظ حاصل ہو جاتا ہے اور اسلامی ریاست ان کی حفاظت کی ذمہ دار بن جاتی ہے۔",
+    "english": "This Hadith clarifies that embracing Islam grants an individual full legal protection of their life and property within the Islamic state."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (3067)",
+      "english": "Sunan Abi Dawud (3067)"
+    },
+    {
+      "arabic": "سنن النسائي (3966)",
+      "english": "Sunan an-Nasa'i (3966)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "صخر بن العيلة",
+        "english": "Sakhr bin al-'Aila"
+      },
+      "slug": "sakhr-bin-al-aila"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اسلام اور جان و مال کا تحفظ",
+        "english": "Islam and the Protection of Life and Property"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بنیادی انسانی حقوق",
+              "english": "Fundamental Human Rights"
+            },
+            "content": {
+              "urdu": [
+                "اسلام قبول کرنے کے بعد کسی شخص پر حملہ کرنا یا اس کا مال چھیننا قطعاً حرام ہے۔",
+                "ایمان لانے والا شخص اسلامی معاشرے کا ایک معزز اور محفوظ رکن بن جاتا ہے۔",
+                "یہ حکم جنگ اور امن دونوں حالتوں میں مسلمانوں کے حقوق کا ضامن ہے۔"
+              ],
+              "english": [
+                "After embracing Islam, attacking an individual or seizing their property is strictly forbidden.",
+                "A person who enters the faith becomes a respected and protected member of the Islamic society.",
+                "This ruling guarantees the rights of Muslims in both times of war and peace."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ریاست کی ذمہ داری",
+              "english": "Responsibility of the State"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی ریاست کا یہ اولین فریضہ ہے کہ وہ ہر مسلمان کی جان و مال کا تحفظ کرے۔",
+                "قانون کی نظر میں نو مسلم اور قدیم مسلمان کے حقوق میں کوئی فرق نہیں ہوتا۔",
+                "شریعت نے جان اور مال کی حرمت کو بیت اللہ کی حرمت سے تشبیہ دی ہے۔"
+              ],
+              "english": [
+                "It is the primary duty of the Islamic state to protect the life and wealth of every Muslim.",
+                "In the eyes of the law, there is no difference between a new convert and a long-time Muslim.",
+                "Shariah likens the sanctity of life and property to the sanctity of the Holy Kaaba."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جنگی احکام میں رعایت",
+        "english": "Concessions in War Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میدانِ جنگ میں کلمہ پڑھنا",
+              "english": "Reciting Kalimah in Battle"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی دشمن میدانِ جنگ میں کلمہ پڑھ لے تو اس پر ہاتھ روکنا واجب ہو جاتا ہے۔",
+                "ہمیں لوگوں کے دلوں کا حال معلوم کرنے کے بجائے ان کے ظاہری اقرار پر فیصلہ کرنا چاہیے۔",
+                "نبی ﷺ نے اس شخص پر سختی کی جس نے کلمہ پڑھنے والے دشمن کو قتل کیا تھا۔"
+              ],
+              "english": [
+                "If an enemy recites the Kalimah on the battlefield, it becomes mandatory to stop the attack.",
+                "We must judge based on outward confession rather than trying to discern hidden intentions.",
+                "The Prophet (ﷺ) strictly rebuked those who killed an enemy after he proclaimed faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مالِ غنیمت سے استثناء",
+              "english": "Exclusion from War Booty"
+            },
+            "content": {
+              "urdu": [
+                "جو قوم حملہ ہونے سے پہلے اسلام لے آئے، ان کا مال غنیمت نہیں بنایا جا سکتا۔",
+                "وہ اپنی جائیدادوں اور اموال کے بدستور مالک رہتے ہیں اور ان پر کوئی دباؤ نہیں ہوتا۔",
+                "اسلام زبردستی مال چھیننے کا نہیں بلکہ دلوں کو جیتنے کا دین ہے۔"
+              ],
+              "english": [
+                "A people who embrace Islam before an attack cannot have their property taken as spoils.",
+                "They remain the owners of their estates and wealth without any external pressure.",
+                "Islam is a religion of winning hearts, not of forcefully seizing material wealth."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایمانی تقاضے",
+        "english": "Requirements of Faith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اخوت اور بھائی چارہ",
+              "english": "Brotherhood and Solidarity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں داخل ہونے کے بعد تمام مسلمان آپس میں بھائی بھائی بن جاتے ہیں۔",
+                "ایک بھائی کا دوسرے بھائی کے خون اور مال پر ناحق ہاتھ ڈالنا ایمان کے خلاف ہے۔",
+                "اسلامی معاشرہ باہمی اعتماد اور سلامتی کی بنیاد پر قائم ہوتا ہے۔"
+              ],
+              "english": [
+                "Upon entering Islam, all Muslims become brothers to one another in faith.",
+                "Violating a brother's life or property unjustly is contrary to the essence of belief.",
+                "Islamic society is built upon the foundations of mutual trust and collective security."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آخرت کی جوابدہی",
+              "english": "Accountability in the Hereafter"
+            },
+            "content": {
+              "urdu": [
+                "کسی مسلمان کی جان و مال کو نقصان پہنچانے والا اللہ کے ہاں مجرم ٹھہرے گا۔",
+                "دنیاوی قانون سے بچنے والا اللہ کی پکڑ سے کبھی نہیں بچ سکتا۔",
+                "حقوق العباد کی ادائیگی ایمان کا ایک لازمی اور حساس حصہ ہے۔"
+              ],
+              "english": [
+                "Anyone who harms the life or property of a Muslim will be a criminal before Allah.",
+                "One who escapes worldly law can never evade the ultimate grip of Allah's justice.",
+                "Fulfilling the rights of fellow beings is a mandatory and sensitive part of faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دوسروں کے مال کا احترام",
+              "english": "Respect for Others' Property"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں دوسروں کی چھوٹی سے چھوٹی چیز کو بھی ان کی اجازت کے بغیر نہیں لینا چاہیے۔",
+                "امانت میں خیانت کرنا نفاق کی نشانیوں میں سے ایک بڑی نشانی ہے۔",
+                "اپنے لین دین میں ہمیشہ دیانت داری اور شفافیت برقرار رکھنی چاہیے۔"
+              ],
+              "english": [
+                "We should not take even the smallest thing from others without their explicit permission.",
+                "Breaching a trust is one of the major signs of hypocrisy in a person's character.",
+                "One must always maintain honesty and transparency in all financial dealings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امن پسندی کا فروغ",
+              "english": "Promoting Peacefulness"
+            },
+            "content": {
+              "urdu": [
+                "حقیقی مسلمان وہ ہے جس کی زبان اور ہاتھ سے دوسرے مسلمان محفوظ رہیں۔",
+                "معاشرے میں امن و امان قائم کرنا ہر فرد کی مذہبی اور اخلاقی ذمہ داری ہے۔",
+                "ہمیں تشدد کے بجائے بات چیت اور مفاہمت کے راستے کو اپنانا چاہیے۔"
+              ],
+              "english": [
+                "A true Muslim is one from whose tongue and hand other Muslims remain safe.",
+                "Establishing peace and order in society is a religious and moral duty for everyone.",
+                "We should adopt the path of dialogue and reconciliation rather than resorting to violence."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

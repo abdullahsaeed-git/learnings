@@ -1,0 +1,284 @@
+{
+  "hadithId": 78,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:142", "muslim:375"],
+    "kitabId": 1,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب آداب الخلاء",
+    "babId": 7
+  },
+
+  "takhreej": {
+    "arabic": " صحيح. رواه البخاري (142) ، ومسلم (375) ، وأبو داود (4) ، والترمذي (5) ، والنسائي (10) ، وابن ماجه (296) ، أحمد (3/99 و 101 و 282)",
+    "urdu": "یہ حدیث **صحیح** ہے۔ اسے بخاری (142)، مسلم (375)، ابوداؤد (4)، ترمذی (5)، نسائی (10)، ابن ماجہ (296) اور احمد (3/99، 101، 282) نے روایت کیا ہے۔ یہ اسلام کی متفقہ احادیث میں سے ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (142), Muslim (375), Abu Dawud (4), At-Tirmidhi (5), An-Nasa'i (10), Ibn Majah (296), and Ahmad (3/99, 101, and 282). It is one of the most firmly established Ahadith in Islamic jurisprudence."
+  },
+  "importantWords": [
+    {
+      "arabic": "دَخَلَ",
+      "english": "He entered",
+      "urdu": "داخل ہوئے"
+    },
+    {
+      "arabic": "اَلْخَلَاءَ",
+      "english": "The toilet/lavatory",
+      "urdu": "بیت الخلاء / قضائے حاجت کی جگہ"
+    },
+    {
+      "arabic": "أَعُوذُ بِكَ",
+      "english": "I seek refuge in You",
+      "urdu": "میں آپ کی پناہ پکڑتا ہوں"
+    },
+    {
+      "arabic": "اَلْخُبُثِ",
+      "english": "Male evil spirits",
+      "urdu": "خبیث جن (نر)"
+    },
+    {
+      "arabic": "الْخَبَائِثِ",
+      "english": "Female evil spirits",
+      "urdu": "خبیث جنیاں (مادہ)"
+    },
+    {
+      "arabic": "اَللَّهُمَّ",
+      "english": "O Allah",
+      "urdu": "اے اللہ"
+    },
+    {
+      "arabic": "دُعَاء",
+      "english": "Supplication / Prayer",
+      "urdu": "دعا"
+    },
+    {
+      "arabic": "اَلسَّبْعَة",
+      "english": "The Seven (Imams of Hadith)",
+      "urdu": "ساتوں (ائمہ)"
+    },
+    {
+      "arabic": "اَلْجِنّ",
+      "english": "Jinn / Spirits",
+      "urdu": "جن"
+    },
+    {
+      "arabic": "وَقَايَة",
+      "english": "Protection",
+      "urdu": "حفاظت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث قضائے حاجت کے لیے بیت الخلاء میں داخل ہونے سے پہلے کی سنت دعا بیان کرتی ہے، جس میں اللہ تعالیٰ سے خبیث جنات اور جنیوں کے شر سے پناہ مانگی جاتی ہے۔",
+    "english": "This Hadith transmits the Sunnah supplication to be recited before entering the lavatory, seeking refuge in Allah from the harm of both male and female evil spirits (Jinn)."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (142)",
+      "english": "Reported by Al-Bukhari (No. 142)"
+    },
+    {
+      "arabic": "رواه مسلم (375)",
+      "english": "Reported by Muslim (No. 375)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَنَسِ بْنِ مَالِكٍ  - رضى الله عنه",
+        "english": "Anas ibn Malik (May Allah be pleased with him)"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih Muttafaq Alayh (Agreed upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعا کا مفہوم اور فضیلت",
+        "english": "Meaning and Virtue of the Supplication"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "الخبث والخبائث سے پناہ",
+              "english": "Seeking Refuge from Al-Khubuth wal-Khaba'ith"
+            },
+            "content": {
+              "urdu": [
+                "اس دعا میں 'الخبث' سے مراد **نر جنات** اور 'الخبائث' سے مراد **مادہ جنات** (جنیوں) ہیں۔",
+                "یہ جگہیں (بیت الخلاء) عام طور پر شیطانوں اور جنات کی آماجگاہ سمجھی جاتی ہیں، جہاں وہ نقصان پہنچا سکتے ہیں۔",
+                "یہ دعا پڑھنے سے انسان جنوں کی نظروں سے اوجھل ہو جاتا ہے اور ان کے شر سے محفوظ رہتا ہے، جیسا کہ دیگر روایات میں ہے۔"
+              ],
+              "english": [
+                "'Al-Khubuth' in the supplication refers to the **male evil spirits (Jinn)**, and 'al-Khaba'ith' refers to the **female evil spirits**.",
+                "These places (lavatories) are traditionally considered haunts for devils and Jinn, where they are prone to cause harm.",
+                "Reciting this Dua renders a person invisible to the Jinn and protects them from their evil, as mentioned in other narrations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کا وقت اور مقام",
+              "english": "Time and Place for the Supplication"
+            },
+            "content": {
+              "urdu": [
+                "یہ دعا **بیت الخلاء میں داخل ہونے سے عین پہلے** باہر پڑھی جانی چاہیے، نہ کہ اندر داخل ہونے کے بعد۔",
+                "چونکہ بیت الخلاء میں اللہ کا ذکر کرنا مکروہ ہے، اس لیے سنت یہ ہے کہ دعا باہر پڑھی جائے اور بائیں پاؤں سے داخل ہوں۔",
+                "یہ عمل روحانی حفاظت اور جسمانی طہارت کی ضرورت کو یکجا کرتا ہے جو شریعت کا تقاضا ہے۔"
+              ],
+              "english": [
+                "This Dua must be recited **outside, immediately before entering the lavatory**, not after stepping inside.",
+                "Since reciting the remembrance of Allah inside the washroom is disliked (Makruh), the Sunnah is to recite the Dua outside and enter with the left foot.",
+                "This practice combines the need for spiritual protection with the required physical etiquette of purity commanded by Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کے آداب اور حکمت",
+        "english": "Etiquette and Wisdom of Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استنجاء کے آداب",
+              "english": "Etiquette of Istinja (Cleaning)"
+            },
+            "content": {
+              "urdu": [
+                "بیت الخلاء میں داخل ہونے کی دعا کے بعد یہ ضروری ہے کہ قضائے حاجت کے دوران مکمل پردہ کیا جائے اور قبلہ کو پیٹھ نہ کی جائے۔",
+                "نجاست سے کامل صفائی (استنجاء) کے لیے پانی یا طہارت کے پتھر/ٹشو پیپر کا استعمال واجب ہے، جو طہارت کا حصہ ہے۔ ",
+                "یہ تمام آداب نجاست سے پاکیزگی اور مقام کی حرمت کو برقرار رکھنے کے لیے ضروری ہیں۔"
+              ],
+              "english": [
+                "After reciting the entry Dua, it is essential to observe complete privacy and not face or turn the back towards the Qibla while relieving oneself.",
+                "Thorough cleaning from impurity (Istinja) using water or stones/tissue paper is mandatory, forming a crucial part of purity. ",
+                "All these etiquettes are necessary to ensure cleanliness from impurities and to maintain the sanctity of the act of purification."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حفاظت کی حکمت",
+              "english": "Wisdom of Protection"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے جن مقامات پر ستر کھولنے یا نجاست کے قریب جانے کا حکم دیا ہے، وہاں حفاظت کے لیے دعا سکھائی ہے۔",
+                "چونکہ بیت الخلاء میں مسلمان جسمانی طور پر بے پردہ ہوتا ہے، لہٰذا یہ دعا جنات کے دیکھنے اور نقصان پہنچانے سے روکتی ہے۔",
+                "یہ دعا انسان کو اللہ کے ساتھ تعلق کی یاد دلاتی ہے کہ ہر ضرورت میں صرف اسی کی پناہ مطلوب ہے۔"
+              ],
+              "english": [
+                "Shariah prescribes a specific Dua for protection in places where one must expose the private parts or be near impurities.",
+                "Because a Muslim is physically exposed in the lavatory, this Dua shields them from the sight and harm of the Jinn.",
+                "This supplication serves as a reminder of the connection with Allah, emphasizing that refuge is sought only from Him in every circumstance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مقام اور توثیق",
+        "english": "Status and Authentication of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سبعہ کی روایت",
+              "english": "Narration by the Seven Imams"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کو **السبعۃ** (سات ائمہ) نے روایت کیا ہے، جس میں بخاری اور مسلم بھی شامل ہیں، جو اس کی سب سے بڑی دلیل ہے۔",
+                "کسی حدیث کا صحیحین (بخاری و مسلم) میں ہونا اس کے **صحیح متفق علیہ** ہونے کی یقینی دلیل ہے۔",
+                "یہ حدیث طہارت اور بیت الخلاء کے آداب کے باب میں فقہاء کے درمیان سب سے زیادہ مستند اور متفقہ اصول ہے۔"
+              ],
+              "english": [
+                "This Hadith being narrated by **Al-Sab'ah** (the Seven Imams), including Al-Bukhari and Muslim, is the strongest proof of its authenticity.",
+                "A Hadith found in the Two Sahihs (Bukhari and Muslim) is definitive proof of its **Sahih Muttafaq Alayh** (agreed-upon authentic) status.",
+                "This principle forms the most established and agreed-upon ruling among jurists regarding the etiquette of the lavatory and purification."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عام لوگوں کے لیے حکم",
+              "english": "Ruling for the General Public"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ یہ دعا طہارت کے باب کا ایک بنیادی جزو ہے، لہٰذا ہر مسلمان پر اس کی پابندی سنت ہے۔",
+                "یہ دعا حفظ کرنے اور اس پر عمل کرنے کی ترغیب دی گئی ہے تاکہ اسلامی زندگی کے آداب مکمل ہوں۔",
+                "دعا بھول جانے پر کوئی گناہ نہیں، لیکن یاد ہونے کے باوجود جان بوجھ کر چھوڑنا سنت سے روگردانی ہے۔"
+              ],
+              "english": [
+                "As this supplication is a fundamental part of the chapter on purification, every Muslim is encouraged to adhere to it as a Sunnah.",
+                "Muslims are urged to memorize this Dua and act upon it to complete the etiquettes of their daily Islamic life.",
+                "There is no sin for forgetting the Dua, but intentionally omitting it when known is a disregard for the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور عملی رہنمائی",
+        "english": "Spiritual and Practical Guidance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہر جگہ خدا کی پناہ",
+              "english": "Seeking Allah's Refuge Everywhere"
+            },
+            "content": {
+              "urdu": [
+                "یہ سنت بتاتی ہے کہ مؤمن کو ہر حال میں اللہ کی پناہ میں رہنا چاہیے، یہاں تک کہ نجی لمحات میں بھی۔",
+                "انسان کو کبھی بھی خود کو اکیلا یا بے یار و مددگار نہیں سمجھنا چاہیے کیونکہ اللہ کی حفاظت ہر جگہ موجود ہے۔",
+                "ذکر اور دعا کو عادت بنانا اللہ کی رضا اور مدد کو حاصل کرنے کا سب سے مؤثر طریقہ ہے۔"
+              ],
+              "english": [
+                "This Sunnah teaches that a believer must remain under Allah's protection in every state, even during private moments.",
+                "One should never consider themselves alone or defenseless, as Allah's protection is available everywhere.",
+                "Making Dhikr and Dua a habit is the most effective means of gaining Allah's pleasure and assistance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاقی پاکیزگی کا درس",
+              "english": "Lesson in Moral Purity"
+            },
+            "content": {
+              "urdu": [
+                "الخبث والخبائث کا ایک اور مفہوم گندے افعال اور خبیث اخلاق سے پناہ مانگنا بھی ہو سکتا ہے۔",
+                "بیت الخلاء نجاست کی جگہ ہے، اور دعا گندگی (حسی اور معنوی) دونوں سے پاکیزگی کی تعلیم دیتی ہے۔",
+                "یوں یہ دعا صرف جسمانی تحفظ نہیں، بلکہ برے خیالات اور اخلاقی پستی سے بھی پناہ کا ذریعہ بنتی ہے۔"
+              ],
+              "english": [
+                "Another interpretation of Al-Khubuth wal-Khaba'ith is seeking refuge from vile deeds and evil morals.",
+                "The lavatory is a place of filth, and the Dua teaches purification from both physical and spiritual dirt.",
+                "Thus, the supplication becomes a means of seeking refuge not only from physical harm but also from wicked thoughts and moral degradation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

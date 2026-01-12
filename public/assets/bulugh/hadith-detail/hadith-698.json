@@ -1,0 +1,260 @@
+{
+  "hadithId": 698,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/66"],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1587) في كتاب المساقاة، باب الصرف وبيع الذهب بالورق نقداً.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام مسلم نے اپنی صحیح (1587) میں 'کتاب المساقاۃ' کے تحت روایت کیا ہے۔ یہ روایت سود کی تعریف اور اقسام کے لیے بنیادی ستون ہے۔",
+    "english": "Sahih. Reported by Muslim (1587) in the Book of Musaqah, Chapter: Currency Exchange and Selling Gold for Silver."
+  },
+  "importantWords": [
+    {
+      "arabic": "مِثْلًا بِمِثْلٍ",
+      "english": "Like for like",
+      "urdu": "برابر برابر"
+    },
+    {
+      "arabic": "سَوَاءً بِسَوَاءٍ",
+      "english": "Equal for equal",
+      "urdu": "یکساں طور پر"
+    },
+    {
+      "arabic": "يَدًا بِيَدٍ",
+      "english": "Hand to hand",
+      "urdu": "نقد بہ نقد (موقع پر قبضہ)"
+    },
+    {
+      "arabic": "الْبُرُّ",
+      "english": "Wheat",
+      "urdu": "گندم"
+    },
+    {
+      "arabic": "الشَّعِيرُ",
+      "english": "Barley",
+      "urdu": "جو"
+    },
+    {
+      "arabic": "الأَصْنَافُ",
+      "english": "Categories / Classes",
+      "urdu": "اقسام یا اجناس"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں چھ اشیاء (سونا، چاندی، گندم، جو، کھجور، نمک) کے تبادلے کے شرعی اصول بیان ہوئے ہیں تاکہ ربا (سود) سے بچا جا سکے، جس میں برابری اور نقد ادائیگی لازمی ہے۔",
+    "english": "This Hadith outlines the Sharia rules for exchanging six commodities (gold, silver, wheat, barley, dates, salt) to avoid Riba, emphasizing equality in quantity and immediate delivery."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب المساقاة",
+      "english": "Sahih Muslim, Book of Musaqah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبادة بن الصامت",
+        "english": "Ubada bin as-Samit"
+      },
+      "slug": "ubada-bin-as-samit"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0p7U_pG_2Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ربوی اشیاء کے تبادلے کا قانون",
+        "english": "Law of Exchanging Ribawi Items"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہم جنس اشیاء کا تبادلہ",
+              "english": "Exchange of Same Commodities"
+            },
+            "content": {
+              "urdu": [
+                "اگر ایک ہی جنس (جیسے سونا سونے سے) کا تبادلہ ہو تو وزن برابر ہونا واجب ہے۔",
+                "کمی بیشی کی صورت میں یہ 'ربا الفضل' کہلائے گا جو کہ حرام ہے۔",
+                "چاہے ایک طرف سونا پرانا ہو اور دوسری طرف نیا، برابری شرط رہے گی۔"
+              ],
+              "english": [
+                "If exchanging same commodities (e.g., gold for gold), quantities must be equal.",
+                "Any excess on either side is considered 'Riba al-Fadl', which is forbidden.",
+                "Equality remains a condition regardless of the quality (old vs. new) of the items."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نقد ادائیگی کی اہمیت",
+              "english": "Importance of Spot Payment"
+            },
+            "content": {
+              "urdu": [
+                "تبادلے میں 'یداً بید' یعنی ہاتھوں ہاتھ لین دین ہونا ضروری ہے۔",
+                "ادائیگی میں تاخیر کی صورت میں یہ 'ربا النسیئہ' بن جاتا ہے۔",
+                "دونوں فریقوں کو مجلس ختم ہونے سے پہلے اپنے اپنے مال پر قبضہ کر لینا چاہیے۔"
+              ],
+              "english": [
+                "Transactions must be 'hand to hand', meaning immediate physical exchange.",
+                "Any delay in delivery of either side leads to 'Riba al-Nasi'ah'.",
+                "Both parties must take possession of their respective items before separating."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مختلف اجناس کا تبادلہ",
+        "english": "Exchange of Different Categories"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقدار میں آزادی",
+              "english": "Freedom in Quantity"
+            },
+            "content": {
+              "urdu": [
+                "اگر اجناس مختلف ہوں (مثلاً گندم کے بدلے جو) تو مقدار برابر ہونا ضروری نہیں۔",
+                "ایک فریق زیادہ اور دوسرا کم مقدار میں تبادلہ کر سکتا ہے۔",
+                "یہ رعایت انسانی ضرورتوں اور اجناس کی مختلف قیمتوں کے پیشِ نظر دی گئی ہے۔"
+              ],
+              "english": [
+                "If commodities differ (e.g., wheat for barley), equality in quantity is not required.",
+                "One party may give more and the other less according to mutual agreement.",
+                "This concession accounts for the varying market values of different goods."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نقد کی شرط برقرار ہے",
+              "english": "Condition of Spot Trade Remains"
+            },
+            "content": {
+              "urdu": [
+                "اجناس بدلنے کے باوجود 'نقد' (یداً بید) کی شرط ختم نہیں ہوتی۔",
+                "اگر مختلف ربوی اشیاء کا تبادلہ ہو تو قبضہ اسی وقت ہونا لازمی ہے۔",
+                "اس اصول سے مالیاتی نظام میں غیر یقینی صورتحال کا خاتمہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Even when types differ, the 'hand-to-hand' requirement must be fulfilled.",
+                "Spot delivery is mandatory when exchanging different items within Ribawi classes.",
+                "This principle eliminates uncertainty and instability in the financial system."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی وسعت اور اطلاق",
+        "english": "Juristic Scope and Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سود کی علت (وجہ)",
+              "english": "The Cause (Illah) of Riba"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک ان چھ اشیاء کے علاوہ دیگر ناپ تول والی اشیاء بھی اس میں شامل ہیں۔",
+                "سونا چاندی 'ثمن' (کرنسی) ہونے کی وجہ سے ربوی ہیں۔",
+                "دیگر چار اشیاء خوراک اور ذخیرہ کیے جانے کے قابل ہونے کی وجہ سے اس زمرے میں آتی ہیں۔"
+              ],
+              "english": [
+                "Scholars extend these rules to other measurable commodities beyond the specific six.",
+                "Gold and silver are Ribawi items because they serve as 'Thaman' (currency).",
+                "The other four items fall into this category as they are staple foods and storable."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جدید کرنسی کا حکم",
+              "english": "Ruling on Modern Currency"
+            },
+            "content": {
+              "urdu": [
+                "کاغذی کرنسی (روپے، ڈالر) سونا اور چاندی کے قائم مقام سمجھی جاتی ہے۔",
+                "ایک ہی ملک کی کرنسی کا تبادلہ (مثلاً 1000 کے بدلے 1000) برابر ہونا ضروری ہے۔",
+                "مختلف ممالک کی کرنسی (ڈالر کے بدلے روپے) میں کمی بیشی جائز ہے مگر نقد ہونا شرط ہے۔"
+              ],
+              "english": [
+                "Paper currencies (Rupees, Dollars) are treated like gold and silver in Sharia.",
+                "Exchanging same currency notes must be in equal amounts (e.g., small for large).",
+                "Exchange of different currencies is allowed at varying rates but must be on the spot."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی و اخلاقی حکمت",
+        "english": "Economic and Moral Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استحصال کا خاتمہ",
+              "english": "Ending Exploitation"
+            },
+            "content": {
+              "urdu": [
+                "برابری کی شرط غریبوں کو امیروں کے معاشی استحصال سے بچاتی ہے۔",
+                "سود کے ذریعے دولت کا ارتکاز چند ہاتھوں میں ہونے سے روکا گیا ہے۔",
+                "اسلامی نظامِ تجارت سماجی عدل و انصاف کی بنیاد فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "The condition of equality prevents the wealthy from exploiting the needy.",
+                "Riba rules prevent the concentration of wealth in a few hands.",
+                "The Islamic trade system provides a foundation for social justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شفافیت اور برکت",
+              "english": "Transparency and Blessing"
+            },
+            "content": {
+              "urdu": [
+                "واضح اور نقد سودوں سے فریقین کے درمیان اعتماد پیدا ہوتا ہے۔",
+                "سود سے پاک تجارت میں اللہ تعالیٰ کی طرف سے برکت نازل ہوتی ہے۔",
+                "مسلمان کو چاہیے کہ وہ رزقِ حلال کے لیے شرعی باریکیوں کا علم حاصل کرے۔"
+              ],
+              "english": [
+                "Clear and spot transactions build trust between the parties involved.",
+                "Allah bestows blessings upon trade that is free from usurious elements.",
+                "A Muslim must seek knowledge of Sharia nuances to ensure Halal provision."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

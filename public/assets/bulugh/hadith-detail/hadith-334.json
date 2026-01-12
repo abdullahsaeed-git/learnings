@@ -1,0 +1,150 @@
+{
+  "hadithId": 334,
+  "hadithNo": 21,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/194"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الصلاة - باب الإمامة",
+    "babId": 20
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أحمد (4/228)، وأبو داود (682)، والترمذي (230). وحديث علي بن شيبان (الذي ذكره الحافظ باسم طلق وهماً) رواه ابن ماجه (1003) وابن حبان (2202). أما زيادة الطبراني ففي سندها ضعف.",
+    "urdu": "صحیح۔ وابصہ کی حدیث کو امام احمد، ابوداؤد اور ترمذی نے روایت کیا ہے۔ علی بن شیبان (جنہیں حافظ ابن حجر نے طلق لکھ دیا) کی حدیث ابن ماجہ اور ابن حبان میں ہے۔ طبرانی والی زیادتی کی سند میں کلام ہے۔",
+    "english": "Sahih. The Hadith of Wabisah is in Ahmad, Abu Dawud, and At-Tirmidhi. The narration of Ali bin Shaiban (mistakenly attributed to Talq by the author) is in Ibn Majah and Ibn Hibban. The addition in Tabarani has some weakness in its chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَلْفَ اَلصَّفِّ",
+      "english": "Behind the row",
+      "urdu": "صف کے پیچھے"
+    },
+    {
+      "arabic": "يُعِيدَ",
+      "english": "Repeat",
+      "urdu": "دہرائے / لوٹائے"
+    },
+    {
+      "arabic": "لِمُنْفَرِدٍ",
+      "english": "For one who is alone",
+      "urdu": "تنہا / اکیلے کے لیے"
+    },
+    {
+      "arabic": "اِجْتَرَرْتَ",
+      "english": "Pulled / Drew",
+      "urdu": "تو نے کھینچ لیا"
+    }
+  ],
+  "summary": {
+    "urdu": "باجماعت نماز میں صف کے پیچھے تنہا کھڑا ہونا ممنوع ہے۔ اگر کوئی شخص صف کے پیچھے اکیلا نماز پڑھے تو اسے نماز دہرانے کا حکم دیا گیا ہے تاکہ صفوں کے نظم و ضبط اور اتحاد کو برقرار رکھا جا سکے۔",
+    "english": "Standing alone behind a row in congregational prayer is prohibited. If someone prays alone behind the row, they are commanded to repeat the prayer to maintain the discipline and unity of the rows."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الصلاة، رقم 682",
+      "english": "Sunan Abi Dawud, Book of Prayer, No. 682"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "وابصة بن معبد الأسدي",
+        "english": "Wabisah bin Ma'bad al-Asadi"
+      },
+      "slug": "wabisah-bin-ma-bad"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صف کے پیچھے تنہا کھڑے ہونے کا حکم",
+        "english": "Ruling on Standing Alone Behind a Row"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کی صحت",
+              "english": "Validity of Prayer"
+            },
+            "content": {
+              "urdu": [
+                "امام احمد اور اسحاق بن راہویہ کے نزدیک صف کے پیچھے تنہا نماز پڑھنے سے نماز باطل ہو جاتی ہے اور اسے دہرانا واجب ہے۔",
+                "جمہور فقہاء (احناف، مالکیہ، شافعیہ) کے نزدیک نماز ہو جائے گی لیکن ایسا کرنا مکروہ ہے، وہ ان احادیث کو ترغیب اور کمالِ نماز پر محمول کرتے ہیں۔",
+                "صحیح موقف یہی معلوم ہوتا ہے کہ بلا ضرورت تنہا کھڑا ہونا منع ہے، تاہم اگر صف مکمل ہو اور جگہ نہ ملے تو بعض علماء اجازت دیتے ہیں۔"
+              ],
+              "english": [
+                "According to Imams Ahmad and Ishaq bin Rahwayh, praying alone behind the row invalidates the prayer, and repeating it is obligatory.",
+                "The majority (Hanafi, Maliki, Shafi'i) hold that the prayer is valid but disliked, interpreting these narrations as referring to the lack of perfection in prayer.",
+                "The strongest view is that it is prohibited without necessity; however, some scholars allow it if the row is full and there is no space."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی حل: صف میں شامل ہونا",
+        "english": "Practical Solution: Joining the Row"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کھینچنے کا مسئلہ",
+              "english": "The Issue of Pulling Someone Back"
+            },
+            "content": {
+              "urdu": [
+                "طبرانی کی روایت میں کسی کو پیچھے کھینچنے کا ذکر ہے تاکہ تنہائی ختم ہو، مگر اس روایت کی سند کمزور ہے۔",
+                "بہت سے فقہاء اسے ناپسند کرتے ہیں کیونکہ اس سے پہلی صف میں خلا پیدا ہوتا ہے اور دوسرے نمازی کی توجہ بٹتی ہے۔",
+                "افضل یہی ہے کہ صف میں جگہ تلاش کی جائے یا کسی کے آنے کا انتظار کیا جائے تاکہ نئی صف شروع ہو۔"
+              ],
+              "english": [
+                "The narration in Tabarani mentions pulling someone back to avoid being alone, but its chain is weak.",
+                "Many jurists dislike this as it creates a gap in the front row and distracts the person being pulled.",
+                "It is better to find space in the row or wait for someone else to join to start a new row."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی تعلیمات میں نظم و ضبط",
+        "english": "Discipline in Islamic Teachings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتحاد اور یگانگت",
+              "english": "Unity and Uniformity"
+            },
+            "content": {
+              "urdu": [
+                "صفوں کو سیدھا کرنا اور مل کر کھڑا ہونا باجماعت نماز کی روح ہے۔",
+                "تنہا کھڑا ہونا ظاہری طور پر جماعت سے علیحدگی کو ظاہر کرتا ہے جسے اسلام پسند نہیں کرتا۔",
+                "یہ حکم مسلمانوں کو ایک دوسرے کے قریب لانے اور نظم و ضبط سکھانے کا ایک ذریعہ ہے۔"
+              ],
+              "english": [
+                "Straightening rows and standing together is the soul of congregational prayer.",
+                "Standing alone outwardly shows separation from the congregation, which Islam discourages.",
+                "This ruling is a means to bring Muslims closer and teach communal discipline."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "hadithId": 1059,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/10/86"],
+    "kitabId": 10,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الحدود",
+    "babId": 86
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. أخرجه أبو داود (4380)، والنسائي (4874)، وأحمد (26639)، والحاكم (4/382) من حديث أبي أمية المخزومي ورجاله ثقات.",
+    "urdu": "صحیح۔ اسے ابو داؤد (4380)، نسائی (4874)، احمد (26639) نے ابوامیہ مخرومی سے روایت کیا ہے اور حاکم (4/382) نے ابوہریرہ رضی اللہ عنہ سے روایت کیا، اس کے راوی ثقہ ہیں۔",
+    "english": "Sahih. Recorded by Abu Dawud (4380), An-Nasa'i (4874), Ahmad (26639), and Al-Hakim (4/382) from the Hadith of Abu Umayyah al-Makhzumi; its narrators are reliable (Thiqat)."
+  },
+  "importantWords": [
+    {
+      "arabic": "بِلِصٍّ",
+      "english": "A thief",
+      "urdu": "ایک چور"
+    },
+    {
+      "arabic": "اعْتَرَفَ",
+      "english": "Confessed",
+      "urdu": "اعتراف کیا"
+    },
+    {
+      "arabic": "مَتَاعٌ",
+      "english": "Property/Goods",
+      "urdu": "سامان"
+    },
+    {
+      "arabic": "مَا إِخَالَكَ",
+      "english": "I do not think",
+      "urdu": "میں نہیں خیال کرتا"
+    },
+    {
+      "arabic": "فَقُطِعَ",
+      "english": "Was cut off",
+      "urdu": "کاٹ دیا گیا"
+    },
+    {
+      "arabic": "تُبْ إِلَيْهِ",
+      "english": "Repent to Him",
+      "urdu": "اس کی طرف توبہ کرو"
+    },
+    {
+      "arabic": "احْسِمُوهُ",
+      "english": "Cauterize it",
+      "urdu": "اسے داغو (تاکہ خون رکے)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں چور کے اعتراف پر حد کے نفاذ، مجرم کو توبہ کی تلقین اور توبہ کے بعد اس کی اصلاح کے لیے دعا کرنے کا ذکر ہے۔",
+    "english": "This Hadith discusses the enforcement of the legal penalty (Hadd) upon confession, encouraging the offender to repent, and praying for their forgiveness."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (4380)",
+      "english": "Narrated by Abu Dawud (4380)"
+    },
+    {
+      "arabic": "رواه النسائي (4874)",
+      "english": "Narrated by An-Nasa'i (4874)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو أمية المخزومي",
+        "english": "Abu Umayyah al-Makhzumi"
+      },
+      "slug": "abu-umayyah-al-makhzumi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2u76YfI8X4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اعتراف اور حد کا نفاذ",
+        "english": "Confession and Legal Penalty"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اقرار کی اہمیت",
+              "english": "Importance of Confession"
+            },
+            "content": {
+              "urdu": [
+                "اگر مجرم خود اپنے گناہ کا اعتراف کر لے تو شرعی حد نافذ کی جاتی ہے۔",
+                "اس صورت میں کسی بیرونی گواہی یا برآمدگی کی ضرورت باقی نہیں رہتی۔",
+                "اعتراف جرم عدالتی فیصلے کے لیے ایک مضبوط اور قطعی بنیاد فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "If a criminal confesses to their crime, the Sharia penalty is implemented.",
+                "In this case, there is no further need for external witnesses or recovery.",
+                "Confession provides a strong and definitive basis for judicial rulings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حاکم کی نرمی اور تلقین",
+              "english": "Ruler's Lenience and Instruction"
+            },
+            "content": {
+              "urdu": [
+                "رسول اللہ ﷺ نے چور کو موقع دیا کہ شاید وہ اپنے اقرار سے رجوع کر لے۔",
+                "حاکم کو چاہیے کہ وہ شبہ کی صورت میں حد کو ٹالنے کی کوشش کرے۔",
+                "بار بار پوچھنا اس لیے تھا کہ مجرم اپنے فیصلے پر پوری طرح قائم ہو۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gave the thief a chance to retract his confession.",
+                "The ruler should try to avert penalties in cases of doubt or uncertainty.",
+                "The repeated questioning was to ensure the criminal was firm in his statement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سزا کے بعد توبہ و اصلاح",
+        "english": "Repentance After Punishment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "توبہ کی دعوت",
+              "english": "Invitation to Repent"
+            },
+            "content": {
+              "urdu": [
+                "سزا پانے کے بعد بھی انسان کے لیے توبہ کا دروازہ کھلا رہتا ہے۔",
+                "آپ ﷺ نے سزا کے فوراً بعد اسے اللہ سے بخشش مانگنے کا حکم دیا۔",
+                "سزا کا مقصد گناہ کی صفائی اور انسان کی آخرت کی اصلاح ہے۔"
+              ],
+              "english": [
+                "The door of repentance remains open even after receiving punishment.",
+                "The Prophet (ﷺ) ordered him to seek forgiveness immediately after the penalty.",
+                "The purpose of punishment is purification and rectifying one's hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شفقت اور دعا",
+              "english": "Compassion and Supplication"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے اس کے لیے تین مرتبہ توبہ کی قبولیت کی دعا فرمائی۔",
+                "سزا دینے کا مطلب یہ نہیں کہ مجرم سے نفرت کی جائے یا اسے دھتکارا جائے۔",
+                "اسلام مجرم کی سزا کے ساتھ ساتھ اس کی روحانی اصلاح کا بھی خواہاں ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) prayed three times for the acceptance of his repentance.",
+                "Executing a penalty does not mean hating or rejecting the offender forever.",
+                "Islam seeks spiritual reform alongside the implementation of legal justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور طبی احکامات",
+        "english": "Juristic and Medical Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زخم کو داغنا (الحسم)",
+              "english": "Cauterization of the Wound"
+            },
+            "content": {
+              "urdu": [
+                "ہاتھ کاٹنے کے بعد زخم کو داغنا ضروری ہے تاکہ خون بہنا رک جائے۔",
+                "یہ مجرم کی جان بچانے کے لیے ایک حفاظتی اور طبی اقدام ہے۔",
+                "اسلامی حدود میں انسانی جان کی حفاظت کو اولین ترجیح دی جاتی ہے۔"
+              ],
+              "english": [
+                "Cauterizing the wound after amputation is necessary to stop the bleeding.",
+                "This is a protective and medical step taken to save the offender's life.",
+                "In Islamic penalties, preserving human life is given the highest priority."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مال کی برآمدگی",
+              "english": "Recovery of Goods"
+            },
+            "content": {
+              "urdu": [
+                "اگر چور اقرار کر لے تو مال کی موجودگی حد کے لیے شرط نہیں رہتی۔",
+                "صرف اعتراف ہی سزا کے نفاذ کے لیے کافی سمجھا جائے گا۔",
+                "یہ اصول عدالتی نظام میں اقرارِ جرم کی اہمیت کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "If the thief confesses, the recovery of stolen goods is not a condition for the penalty.",
+                "Confession alone is considered sufficient for implementing the legal sentence.",
+                "This principle highlights the significance of confession in the judicial system."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گناہ سے بیزاری",
+              "english": "Loathing the Sin"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو چاہیے کہ وہ گناہ کے بعد اپنے ضمیر کی پکار پر توبہ کرے۔",
+                "چور کا بار بار اقرار کرنا اس کی سچی توبہ اور گناہ سے بیزاری کی علامت ہے۔",
+                "سچا مومن سزا کو گناہ سے پاک ہونے کا ذریعہ سمجھتا ہے۔"
+              ],
+              "english": [
+                "A Muslim should repent following their conscience after committing a sin.",
+                "The thief's repeated confession signified sincere repentance and loathing of the sin.",
+                "A true believer views the penalty as a means of purification from sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی اصلاح",
+              "english": "Social Reform"
+            },
+            "content": {
+              "urdu": [
+                "حدود کا قیام معاشرے میں امن و امان کی ضمانت فراہم کرتا ہے۔",
+                "جب سزا ملتی ہے تو دوسروں کے لیے عبرت اور گناہ گار کے لیے معافی ہوتی ہے۔",
+                "اسلامی نظام عدل خوف اور رحمت کا ایک متوازن امتزاج ہے۔"
+              ],
+              "english": [
+                "Establishing penalties ensures peace and security within the society.",
+                "A penalty serves as a deterrent for others and atonement for the sinner.",
+                "The Islamic justice system is a balanced blend of fear and mercy."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

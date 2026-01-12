@@ -1,0 +1,276 @@
+{
+  "hadithId": 286,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:1183",
+      "https://sunnah.com/muslim:836",
+      "https://sunnah.com/ibnhibban:1588"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "صحیح البخاری / صحیح مسلم",
+    "babId": 19
+  },
+  "name": {
+    "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ مُغَفَّلٍ الْمُزَنِيِّ ‏- رضى الله عنه ‏- عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ : { صَلُّوا قَبْلَ اَلْمَغْرِبِ , صَلُّوا قَبْلَ اَلْمَغْرِبِ \" ثُمَّ قَالَ فِي اَلثَّالِثَةِ : \" لِمَنْ شَاءَ \" كَرَاهِيَةَ أَنْ يَتَّخِذَهَا اَلنَّاسُ سُنَّةً } رَوَاهُ اَلْبُخَارِيُّ .‏ وَفِي رِوَايَةِ اِبْنِ حِبَّانَ : { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-صَلَّى قَبْلَ اَلْمَغْرِبِ رَكْعَتَيْنِ } وَلِمُسْلِمٍ عَنْ أَنَسٍ قَالَ : { كُنَّا نُصَلِّي رَكْعَتَيْنِ بَعْدَ غُرُوبِ اَلشَّمْسِ , فَكَانَ ‏- صلى الله عليه وسلم ‏-يَرَانَا , فَلَمْ يَأْمُرْنَا وَلَمْ يَنْهَانَا }",
+    "urdu": "سیدنا عبداللہ بن مغفل مزنی رضی اللہ عنہ سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا: ”مغرب سے پہلے نماز پڑھو، مغرب سے پہلے نماز پڑھو۔“ پھر تیسری مرتبہ فرمایا: ”(یہ حکم اس کے لئے ہے) جو چاہے،“ اس اندیشے سے کہ لوگ اسے (لازمی) سنت نہ بنا لیں۔ (بخاری)۔ ابن حبان کی روایت میں ہے کہ نبی ﷺ نے مغرب سے پہلے دو رکعتیں پڑھیں۔ اور مسلم میں سیدنا انس رضی اللہ عنہ سے روایت ہے کہ ہم غروب آفتاب کے بعد دو رکعتیں پڑھتے تھے، نبی ﷺ ہمیں دیکھتے تھے تو نہ حکم دیتے تھے اور نہ منع فرماتے تھے۔",
+    "english": "Narrated Abdullah bin Mughaffal Al-Muzani (RA): The Prophet (ﷺ) said: \"Pray before Maghrib, pray before Maghrib,\" then he said on the third time, \"For whoever wishes,\" out of dislike that people might take it as a Sunnah (obligatory practice). (Al-Bukhari). In a narration by Ibn Hibban: \"The Prophet (ﷺ) prayed two Rak'ahs before Maghrib.\" And in Muslim from Anas (RA): \"We used to pray two Rak'ahs after sunset, and the Prophet (ﷺ) would see us; he neither commanded us nor forbade us.\""
+  },
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البخاري ( 1183 )‏ .‏ وفي رواية ( 7368 )‏ : \" خشية \" بدل \" كراهية \" .‏ صحيح ، رواه ابن حبان ( 1588 )‏ .‏ صحيح ، رواه مسلم ( 836 )‏ .",
+    "urdu": "صحیح۔ اسے بخاری (1183) نے روایت کیا ہے۔ ایک اور روایت (7368) میں 'کراہیہ' کی جگہ 'خشیہ' (خوف) کا لفظ ہے۔ ابن حبان (1588) اور مسلم (836) نے بھی اسے صحیح سند سے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1183). In narration (7368), the word 'Khashyah' (fear) is used instead of 'Karahiyah'. Also reported by Ibn Hibban (1588) and Muslim (836)."
+  },
+  "importantWords": [
+    {
+      "arabic": "صَلُّوا",
+      "english": "Pray",
+      "urdu": "نماز پڑھو"
+    },
+    {
+      "arabic": "قَبْلَ اَلْمَغْرِبِ",
+      "english": "Before Maghrib",
+      "urdu": "مغرب سے پہلے"
+    },
+    {
+      "arabic": "لِمَنْ شَاءَ",
+      "english": "For whoever wishes",
+      "urdu": "جو چاہے اس کے لیے"
+    },
+    {
+      "arabic": "كَرَاهِيَةَ",
+      "english": "Disliking",
+      "urdu": "ناپسند کرتے ہوئے"
+    },
+    {
+      "arabic": "يَتَّخِذَهَا",
+      "english": "Take it / Adopt it",
+      "urdu": "وہ اسے بنا لیں"
+    },
+    {
+      "arabic": "سُنَّةً",
+      "english": "Sunnah (Strict practice)",
+      "urdu": "سنت (لازمی طریقہ)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث مغرب کی اذان اور فرض نماز کے درمیان دو رکعت نفل پڑھنے کی ترغیب دیتی ہے، لیکن نبی ﷺ نے 'جو چاہے' کہہ کر اسے اختیاری رکھا تاکہ لوگ اسے فرض یا سنت مؤکدہ نہ سمجھ لیں۔",
+    "english": "This Hadith encourages praying two voluntary Rak'ahs between the Maghrib Adhan and the Fard prayer, but the Prophet (ﷺ) made it optional by saying \"for whoever wishes\" so people would not consider it obligatory."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1183)",
+      "english": "Reported by Al-Bukhari (1183)"
+    },
+    {
+      "arabic": "رواه مسلم (836)",
+      "english": "Reported by Muslim (836)"
+    },
+    {
+      "arabic": "رواه ابن حبان (1588)",
+      "english": "Reported by Ibn Hibban (1588)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَبْدِ اَللَّهِ بْنِ مُغَفَّلٍ الْمُزَنِيِّ",
+        "english": "Abdullah bin Mughaffal Al-Muzani"
+      },
+      "slug": "abdullah-bin-mughaffal-al-muzani"
+    }
+  ],
+  "ytLink": "https://youtu.be/uR3V72z404I?si=Wp3lM18t-ZqD_m20",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مغرب سے پہلے دو رکعت",
+              "english": "Two Rak'ahs before Maghrib"
+            },
+            "content": {
+              "urdu": [
+                "اذان مغرب اور اقامت کے درمیان دو رکعت پڑھنا مستحب ہے۔",
+                "نبی ﷺ نے تین بار حکم دیا، پھر اختیار دے دیا۔",
+                "یہ نماز سنت مؤکدہ نہیں، بلکہ نفل ہے۔"
+              ],
+              "english": [
+                "Praying two Rak'ahs between Maghrib Adhan and Iqamah is Mustahabb.",
+                "The Prophet (ﷺ) commanded it thrice, then gave a choice.",
+                "This prayer is not Sunnah Muakkadah, but voluntary (Nafl)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کا عمل",
+              "english": "Practice of Companions"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام اذان ہوتے ہی ستونوں کی طرف لپکتے تھے۔",
+                "وہ ان دو رکعتوں کا اتنا اہتمام کرتے کہ اجنبی سمجھتا فرض ہو چکی ہے۔",
+                "نبی ﷺ انہیں دیکھ کر خاموش رہتے، جو اجازت (تقریر) کی دلیل ہے۔"
+              ],
+              "english": [
+                "The Companions used to rush to the pillars upon Adhan.",
+                "They observed these two Rak'ahs so diligently that a stranger would think Fard had started.",
+                "The Prophet (ﷺ) remained silent seeing them, which implies permission (Taqreer)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت مؤکدہ اور غیر مؤکدہ",
+              "english": "Muakkadah & Ghair Muakkadah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے 'لمن شاء' کہہ کر اسے لازم ہونے سے بچا لیا۔",
+                "دین میں غلو سے بچنا ضروری ہے، نفل کو فرض کا درجہ نہ دیں۔",
+                "یہ فرق امت پر شفقت اور آسانی کے لیے رکھا گیا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) prevented it from being mandatory by saying 'for whoever wishes'.",
+                "Avoiding exaggeration in religion is necessary; do not elevate Nafl to Fard.",
+                "This distinction is for mercy and ease upon the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مغرب کی تعجیل",
+              "english": "Hastening Maghrib"
+            },
+            "content": {
+              "urdu": [
+                "مغرب کی نماز میں جلدی کرنا سنت ہے۔",
+                "یہ دو رکعتیں بہت ہلکی اور مختصر ہونی چاہئیں۔",
+                "طویل نفل پڑھ کر فرض میں تاخیر کرنا سنت کے خلاف ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to hasten the Maghrib prayer.",
+                "These two Rak'ahs should be very light and brief.",
+                "Delaying the Fard by praying long voluntary prayers is against the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت کا استعمال",
+              "english": "Utilizing Time"
+            },
+            "content": {
+              "urdu": [
+                "اذان اور اقامت کے درمیان دعا قبول ہوتی ہے۔",
+                "خالی بیٹھنے کے بجائے دو رکعت پڑھنا افضل ہے۔",
+                "اگر جماعت کھڑی ہو جائے تو نفل چھوڑ دیں۔"
+              ],
+              "english": [
+                "Supplication is accepted between Adhan and Iqamah.",
+                "It is better to pray two Rak'ahs than sitting idle.",
+                "If the congregation starts, leave the voluntary prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رواداری اور گنجائش",
+              "english": "Tolerance and Scope"
+            },
+            "content": {
+              "urdu": [
+                "جو پڑھے اسے ثواب ہے، جو نہ پڑھے اس پر ملامت نہیں۔",
+                "مساجد میں اس مسئلے پر جھگڑا نہیں کرنا چاہیے۔",
+                "ہر شخص کو اپنی ہمت اور رغبت کے مطابق عمل کا اختیار ہے۔"
+              ],
+              "english": [
+                "There is reward for one who prays, and no blame on one who doesn't.",
+                "One should not quarrel in mosques over this issue.",
+                "Everyone has the choice to act according to their capacity and desire."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا منہج تربیت",
+              "english": "Prophet's Method of Tarbiyah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ حکم دینے کے بعد رخصت (استثناء) بھی بیان کرتے تھے۔",
+                "تاکہ امت مشقت میں نہ پڑ جائے اور دین آسان رہے۔",
+                "یہ اصول فقہاء کے لیے قانون سازی میں رہنما ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) would mention the concession (exception) after the command.",
+                "So that the Ummah does not fall into hardship and religion remains easy.",
+                "This principle guides jurists in legislation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقریری سنت",
+              "english": "Tacit Approval (Sunnah)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا صحابہ کو دیکھ کر خاموش رہنا 'سنت تقریری' ہے۔",
+                "یہ حدیث کی ایک اہم قسم ہے جو جواز کی دلیل ہوتی ہے۔",
+                "صحابہ کا عمل نبی ﷺ کی موجودگی میں حجت ہے۔"
+              ],
+              "english": [
+                "The Prophet's silence upon seeing Companions act is 'Sunnah Taqreeri'.",
+                "This is an important type of Hadith serving as proof of permissibility.",
+                "The action of Companions in the Prophet's presence is an authority."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "hadithId": 101,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 101"],
+    "kitabId": 1,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الغسل",
+    "babId": 8
+  },
+
+  "takhreej": {
+    "arabic": " حسن.  رواه أبو داود (354) ، والترمذي (497) ، والنسائي (3/94) ، وأحمد (51 و 15 و 22) ، وقال الترمذي: \"حديث حسن\".  قلت: وعزو الحافظ الحديث للخمسة وهم منه رحمه الله إذ الحديث ليس عند ابن ماجه، عن سمرة، وإنما عنده عن أنس.  انظر \"الجمعة وفضلها\" لأبي بكر المروزي (31 بتحقيقي)  والحافظ نفسه عزاه في \"الفتح\" لأصحاب السنن الثلاثة.",
+    "urdu": "حسن (درجہ کی) روایت۔ اسے ابو داؤد (354)، ترمذی (497)، نسائی (3/94)، اور احمد (51، 15، اور 22) نے روایت کیا ہے، اور ترمذی نے کہا: \"حدیث حسن ہے\"۔ \"تنبیہ\": حافظ (ابن حجر) نے اسے پانچوں کی طرف منسوب کرنے میں غلطی کی ہے، کیونکہ یہ حدیث ابن ماجہ کے پاس سمرہ سے نہیں بلکہ انس سے مروی ہے۔",
+    "english": "Hasan (Good) narration. Reported by Abu Dawud (354), At-Tirmidhi (497), An-Nasa'i (3/94), and Ahmad (51, 15, and 22). At-Tirmidhi said: 'The Hadith is Hasan.' 'Note': The Hafiz (Ibn Hajar) erred in attributing the Hadith to the Five, as it is not found in Ibn Majah from Samurah but from Anas. (This discrepancy confirms the narration's status as authentic/Hasan)."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَوَضَّأَ",
+      "english": "He performed Wudu' (ablution)",
+      "urdu": "وضو کیا"
+    },
+    {
+      "arabic": "فَبِهَا وَنِعْمَتْ",
+      "english": "That is fine/well/sufficient",
+      "urdu": "اچھا اور بہتر کیا"
+    },
+    {
+      "arabic": "اِغْتَسَلَ",
+      "english": "He performed Ghusl (bath)",
+      "urdu": "غسل کیا"
+    },
+    {
+      "arabic": "أَفْضَلُ",
+      "english": "Superior/more virtuous",
+      "urdu": "افضل ہے"
+    },
+    {
+      "arabic": "غُسْلُ اَلْجُمُعَةِ",
+      "english": "Friday Ghusl",
+      "urdu": "جمعہ کا غسل"
+    },
+    {
+      "arabic": "اَلْمُقْتَضَى",
+      "english": "The requirement/necessity",
+      "urdu": "تقاضا"
+    },
+    {
+      "arabic": "نَاسِخ",
+      "english": "Abrogating (ruling)",
+      "urdu": "ناسخ"
+    },
+    {
+      "arabic": "سُنَّة",
+      "english": "Sunnah (Prophetic tradition)",
+      "urdu": "سنت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث جمعہ کے غسل سے متعلق شرعی حکم کی وضاحت کرتی ہے کہ نماز جمعہ کے لیے صرف وضو کر لینا کافی ہے، لیکن غسل کرنا زیادہ افضل اور بہتر ہے، جس سے غسل کا وجوب سنت کی طرف پھر جاتا ہے۔",
+    "english": "This Hadith clarifies the legal ruling regarding Friday Ghusl: performing Wudu' alone is sufficient for the Jumu'ah prayer, but performing Ghusl is more virtuous, thereby shifting the ruling of Ghusl from obligation (Wajib) to emphasized Sunnah."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (354)",
+      "english": "Reported by Abu Dawud (354)"
+    },
+    {
+      "arabic": "رواه الترمذي (497)",
+      "english": "Reported by At-Tirmidhi (497)"
+    },
+    {
+      "arabic": "رواه النسائي (3/94)",
+      "english": "Reported by An-Nasa'i (3/94)"
+    },
+    {
+      "arabic": "رواه أحمد (51 و 15 و 22)",
+      "english": "Reported by Ahmad (51, 15, and 22)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 10101,
+      "name": {
+        "arabic": "سمرة بن جندب",
+        "english": "Samurah ibn Jundub"
+      },
+      "slug": "samurah-ibn-jundub"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Good (Hasan)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جمعہ کے غسل کا حکم",
+        "english": "The Ruling of Friday Ghusl"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وجوب سے استحباب کی طرف",
+              "english": "From Obligation to Recommendation"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح طور پر جمعہ کے غسل کے حکم کو **واجب** سے **سنت مؤکدہ** کی طرف منتقل کرتی ہے (جیسا کہ حدیث 100 میں ذکر ہے)۔",
+                "نبی اکرم ﷺ نے وضو کو کافی قرار دیا لیکن غسل کو افضل کہا، جو اس بات کی دلیل ہے کہ غسل فرض نہیں ہے۔",
+                "جمہور فقہاء اسی حدیث کی بنیاد پر غسل جمعہ کو سنت یا مستحب قرار دیتے ہیں، جسے چھوڑنے پر گناہ نہیں ہے۔"
+              ],
+              "english": [
+                "This Hadith clearly shifts the ruling of Friday Ghusl from **obligatory** to **emphasized Sunnah** (in contrast to Hadith 100).",
+                "The Prophet ﷺ declared Wudu' sufficient but termed Ghusl superior, which proves that Ghusl is not a compulsory act (Fardh).",
+                "The majority of jurists rely on this Hadith to classify Friday Ghusl as Sunnah or Recommended (Mustahabb), meaning there is no sin in omitting it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناسخ اور منسوخ کا اصول",
+              "english": "The Principle of Abrogating and Abrogated"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس اصول کی وضاحت کرتی ہے کہ ایک حکم کو دوسرے سے نرم کیا جا سکتا ہے (منسوخ کیا جا سکتا ہے)۔",
+                "یہ حدیث (وضو بھی کافی ہے) پچھلی حدیث (غسل واجب ہے) کی ناسخ (Abrogating) سمجھی جاتی ہے، جو آسانی لاتی ہے۔",
+                "اگرچہ پہلے حکم میں شدت تھی، لیکن بعد میں مسلمانوں کے لیے تخفیف (Easing) اختیار کی گئی۔"
+              ],
+              "english": [
+                "This Hadith illustrates the principle that one ruling can be softened (abrogated) by another later one in Islamic law.",
+                "This Hadith (Wudu' is sufficient) is considered the abrogating (Nasikh) ruling to the previous one (Ghusl is obligatory), bringing ease.",
+                "Although the first command was strict, ease (Takhfif) was later granted to the Muslims in this matter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فضیلت اور ترغیب",
+        "english": "Virtue and Encouragement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غسل کی افضلیت",
+              "english": "Superiority of Ghusl"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ نے غسل کو وضو پر افضل قرار دیا، جس سے یہ عمل زیادہ اجر و ثواب کا باعث بنتا ہے۔",
+                "غسل سے جسمانی صفائی مکمل ہوتی ہے، جو نماز جمعہ کے اجتماع کے آداب میں سب سے بہترین ہے۔",
+                "مسلمان کو چاہیے کہ وہ آسانی کی صورت میں ہمیشہ فضیلت اور افضلیت والے عمل کو اختیار کرے۔"
+              ],
+              "english": [
+                "The Prophet ﷺ deemed Ghusl superior to Wudu', making it the action that yields greater reward and virtue.",
+                "Ghusl ensures complete physical cleanliness, which is the finest etiquette for the Jumu'ah congregational prayer.",
+                "A Muslim should always choose the action that offers superior virtue when ease allows for it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سماجی صحت",
+              "english": "Social Health"
+            },
+            "content": {
+              "urdu": [
+                "غسل کرنا سنت ہے، اور یہ حکم صحت اور خوشبو کے ساتھ معاشرتی ذمہ داری کی طرف بھی اشارہ کرتا ہے۔",
+                "جب سارے لوگ غسل کر کے مسجد آئیں گے تو یہ ایک دوسرے کے لیے خوشگوار ماحول پیدا کرنے کا ذریعہ بنے گا۔",
+                "اگر کوئی شخص بیمار ہو یا پانی کی شدید کمی ہو تو وہ صرف وضو پر اکتفا کر سکتا ہے، جس کی اجازت حدیث میں ہے۔"
+              ],
+              "english": [
+                "Ghusl is Sunnah, and this ruling points towards social responsibility related to health and good scent.",
+                "When all people come to the mosque after performing Ghusl, it contributes to creating a pleasant environment for everyone.",
+                "If a person is sick or there is a severe shortage of water, they may suffice with Wudu' alone, as permitted by the Hadith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور علمی نقطہ نظر",
+        "english": "Educational and Academic Perspective"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کا حسن درجہ",
+              "english": "Hasan Grade of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "امام ترمذی کا اس حدیث کو 'حسن' قرار دینا اس بات کی دلیل ہے کہ یہ حدیث قابل عمل اور قوی ہے۔",
+                "یہ حدیث مختلف محدثین جیسے ابو داؤد، نسائی، اور احمد کی روایات میں موجود ہے، جو اس کی صحت کو مزید تقویت دیتی ہے۔",
+                "یہ حدیث اس بات کا معیار ہے کہ جمعہ کے لیے مسلمانوں کا کم از کم معیار وضو اور زیادہ سے زیادہ غسل ہونا چاہیے۔"
+              ],
+              "english": [
+                "Imam At-Tirmidhi's grading of this Hadith as 'Hasan' (Good) proves that it is actionable and strong in its context.",
+                "The Hadith is found in the narrations of various scholars like Abu Dawud, An-Nasa'i, and Ahmad, further strengthening its authenticity.",
+                "This Hadith establishes the standard for Muslims on Friday: Wudu' as the minimum and Ghusl as the maximum effort."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اختلاف رائے کی گنجائش",
+              "english": "Room for Difference of Opinion"
+            },
+            "content": {
+              "urdu": [
+                "غسل جمعہ کے وجوب اور استحباب پر فقہاء میں اختلاف رائے کی بنیاد یہی دو طرح کی صحیح احادیث ہیں۔",
+                "یہ اختلاف اس بات کی نشاندہی کرتا ہے کہ اسلامی شریعت میں کسی بھی مسئلہ پر حتمی رائے قائم کرنے سے پہلے تمام نصوص کو دیکھا جاتا ہے۔",
+                "مسلمانوں کو ایسے اختلافی معاملات میں نرمی اختیار کرنی چاہیے اور افضل عمل کو ترجیح دینی چاہیے۔"
+              ],
+              "english": [
+                "The difference of opinion among jurists regarding the obligation or recommendation of Friday Ghusl is based on these two types of authentic Hadiths.",
+                "This difference indicates that Islamic jurisprudence considers all texts before establishing a definitive ruling on any issue.",
+                "Muslims should adopt flexibility in such differing matters and prioritize the more virtuous action (Ghusl)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "آداب جمعہ کا حصہ",
+        "english": "Part of Jumu'ah Etiquette"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باقاعدہ طہارت",
+              "english": "Regular Purification"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کا غسل نماز جمعہ کے آداب کا حصہ ہے، جس میں خوشبو لگانا، اچھے کپڑے پہننا اور مسواک کرنا بھی شامل ہے۔",
+                "اس دن طہارت کا خاص اہتمام کرنا اس دن کی برکات اور فضیلت کو بڑھاتا ہے۔",
+                "اگرچہ غسل سنت ہے، لیکن اس کی اہمیت ایک واجب کی سی ہے جس میں کوتاہی نہیں کرنی چاہیے۔"
+              ],
+              "english": [
+                "The Friday Ghusl is part of the Jumu'ah prayer etiquette, which also includes applying perfume, wearing good clothes, and using the Miswak.",
+                "Taking special care of purity on this day increases its blessings and virtues.",
+                "Although Ghusl is Sunnah, its importance is almost equivalent to an obligation, and one should not be negligent in it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "افضلیت کا انتخاب",
+              "english": "Choosing Superiority"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں واضح ہے کہ اگر دونوں (وضو اور غسل) کا موقع ہو تو **غسل افضل** ہے، لہٰذا اسی کو ترجیح دینی چاہیے۔",
+                "غسل کرنے والے کو وضو کرنے والے سے زیادہ ثواب ملتا ہے اور وہ زیادہ کامل طہارت کے ساتھ عبادت کرتا ہے۔",
+                "مسلمان کا طرز عمل ہر حال میں نبی اکرم ﷺ کی سنت اور افضلیت پر عمل کرنا ہونا چاہیے۔"
+              ],
+              "english": [
+                "The Hadith clearly states that if both options (Wudu' and Ghusl) are available, **Ghusl is superior**, so it should be prioritized.",
+                "The one who performs Ghusl receives a greater reward than the one who performs Wudu' and worships with more complete purity.",
+                "A Muslim's conduct should always be based on following the Prophet's Sunnah and choosing the more virtuous option."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

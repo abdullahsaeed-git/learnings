@@ -1,0 +1,259 @@
+{
+  "hadithId": 688,
+  "hadithNo": 41,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/41"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+ 
+  "takhreej": {
+    "arabic": "رواه أحمد (3676)، والبيهقي (5/339). والحديث معلول بالرفع، والصحيح أنه موقوف على ابن مسعود كما ذكر الإمام أحمد والبخاري والبيهقي.",
+    "urdu": "اسے امام احمد (3676) اور بیہقی نے روایت کیا ہے۔ اس روایت کو مرفوعاً (نبی ﷺ کی طرف منسوب) بیان کرنے میں ضعف ہے، جبکہ ائمہ حدیث کے نزدیک یہ سیدنا ابن مسعود کا موقوف قول ہے۔",
+    "english": "Reported by Ahmad (3676) and Al-Bayhaqi. The attribution to the Prophet (Marfu') is weak; the correct view according to Imam Ahmad and Al-Bukhari is that it is a Mauquf statement of Ibn Mas'ud."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَشْتَرُوا",
+      "english": "Buy / Purchase",
+      "urdu": "تم خریدو"
+    },
+    {
+      "arabic": "السَّمَكَ",
+      "english": "Fish",
+      "urdu": "مچھلی"
+    },
+    {
+      "arabic": "الْمَاءِ",
+      "english": "Water",
+      "urdu": "پانی"
+    },
+    {
+      "arabic": "غَرَرٌ",
+      "english": "Uncertainty / Risk",
+      "urdu": "دھوکا یا غیر یقینی"
+    },
+    {
+      "arabic": "وَقْفُهُ",
+      "english": "Mauquf (Companion's statement)",
+      "urdu": "موقوف (صحابی کا قول)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایسی چیزوں کی خرید و فروخت سے منع کیا گیا ہے جو خریدار کے قبضے میں نہ آ سکیں یا جن کا حصول غیر یقینی ہو، جیسے دریا میں تیرتی مچھلی۔",
+    "english": "This Hadith prohibits purchasing items that cannot be delivered or whose acquisition is uncertain, such as fish still swimming in open water."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد بن حنبل",
+      "english": "Musnad Ahmad bin Hanbal"
+    },
+    {
+      "arabic": "سنن البيهقي الكبرى",
+      "english": "Sunan al-Bayhaqi al-Kubra"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah ibn Mas'ud"
+      },
+      "slug": "abdullah-ibn-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0S1_WvX-oI",
+  "grade": {
+    "arabic": "ضعيف مرفوعاً / صحيح موقوفاً",
+    "english": "Da'if Marfu / Sahih Mauquf"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیعِ غرر کی وضاحت",
+        "english": "Explanation of Gharar Sale"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیر یقینی سودا",
+              "english": "Uncertain Transaction"
+            },
+            "content": {
+              "urdu": [
+                "پانی میں مچھلی کی بیع اس لیے منع ہے کہ اسے پکڑنا یقینی نہیں ہوتا۔",
+                "ایسا سودا جس میں مبیع (فروخت شدہ چیز) نامعلوم ہو، باطل کہلاتا ہے۔",
+                "اسلام ہر اس معاملے کو روکتا ہے جس میں خریدار کا مال ضائع ہونے کا ڈر ہو۔"
+              ],
+              "english": [
+                "Selling fish in water is forbidden because its capture is not guaranteed.",
+                "Any transaction where the subject matter is unknown is considered void.",
+                "Islam prohibits dealings where there is a risk of the buyer losing money."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قبضہ کی اہمیت",
+              "english": "Importance of Possession"
+            },
+            "content": {
+              "urdu": [
+                "تجارت کے جائز ہونے کے لیے ضروری ہے کہ چیز بیچنے والے کے قبضے میں ہو۔",
+                "اگر چیز قابو میں نہ ہو تو وہ صریح دھوکا اور جوئے کے مشابہ ہے۔",
+                "شریعت نے حقوق کے تحفظ کے لیے قبضے کی شرط کو لازمی قرار دیا ہے۔"
+              ],
+              "english": [
+                "For a sale to be valid, the item must be in the seller's possession.",
+                "If an item is beyond control, it amounts to deception and resembles gambling.",
+                "Sharia mandates possession to ensure the protection of financial rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی استثناء اور حدود",
+        "english": "Juristic Exceptions and Limits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بند تالاب کی مچھلی",
+              "english": "Fish in Closed Ponds"
+            },
+            "content": {
+              "urdu": [
+                "اگر مچھلی چھوٹے تالاب میں ہو جہاں اسے پکڑنا آسان ہو تو بیع جائز ہے۔",
+                "ممانعت ان کھلے مقامات کی ہے جہاں مچھلی بھاگ جانے کا اختیار رکھتی ہو۔",
+                "فقہاء نے آسانی اور دشواری کے فرق کو اس حکم کی بنیاد بنایا ہے۔"
+              ],
+              "english": [
+                "If fish are in a small pond where capture is easy, the sale is valid.",
+                "Prohibition applies to open waters where the fish can escape freely.",
+                "Jurists base the ruling on the ease or difficulty of delivering the item."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر مشابہ مثالیں",
+              "english": "Other Similar Examples"
+            },
+            "content": {
+              "urdu": [
+                "ہوا میں اڑتے پرندے یا بھاگے ہوئے جانور کی بیع بھی اسی زمرے میں آتی ہے۔",
+                "ہر وہ شے جس کی سپلائی (Delivery) ناممکن ہو، اس کی قیمت لینا حرام ہے۔",
+                "یہ اصول مالیاتی تنازعات کو جڑ سے ختم کرنے کے لیے وضع کیا گیا ہے۔"
+              ],
+              "english": [
+                "Selling birds in the air or runaway animals falls under this category.",
+                "Taking payment for an undeliverable item is strictly prohibited.",
+                "This principle is designed to uproot financial disputes at their source."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی شفافیت",
+        "english": "Economic Transparency"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دھوکہ دہی کا سدِ باب",
+              "english": "Preventing Fraud"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معیشت کی بنیاد شفافیت اور واضح شرائط پر قائم ہے۔",
+                "غرر (Uncertainty) ختم کرنے سے مارکیٹ میں استحکام پیدا ہوتا ہے۔",
+                "خریدار کو اس کا پورا حق ملنا ہی اسلامی تجارت کی روح ہے۔"
+              ],
+              "english": [
+                "The Islamic economy is built on transparency and clear terms.",
+                "Removing Gharar (uncertainty) generates stability in the market.",
+                "Ensuring the buyer receives their due is the soul of Islamic trade."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف",
+              "english": "Justice and Equity"
+            },
+            "content": {
+              "urdu": [
+                "اس حکم سے بیچنے والے کی زیادتی اور خریدار کی مجبوری کا خاتمہ ہوتا ہے۔",
+                "کسی کا مال باطل طریقے سے کھانا اللہ کی ناراضگی کا باعث ہے۔",
+                "اسلامی معاشرے میں مال کی حفاظت جان کی حفاظت جیسی محترم ہے۔"
+              ],
+              "english": [
+                "This ruling ends seller aggression and protects the vulnerable buyer.",
+                "Consuming wealth through false means invites Allah's wrath.",
+                "Protecting property in an Islamic society is as sacred as protecting life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آن لائن اور جدید تجارت",
+              "english": "Online and Modern Trade"
+            },
+            "content": {
+              "urdu": [
+                "آن لائن خریداری میں چیز کی تصویر اور اوصاف کا واضح ہونا ضروری ہے۔",
+                "بغیر دیکھے یا بغیر کسی ضمانت کے رقم ادا کرنا غرر میں شامل ہو سکتا ہے۔",
+                "جدید دور کے تاجروں کو اس بنیادی اصول کو ہر سودے میں یاد رکھنا چاہیے۔"
+              ],
+              "english": [
+                "In online shopping, item images and descriptions must be clear.",
+                "Paying without guarantees or clear descriptions can fall under Gharar.",
+                "Modern traders must remember this fundamental rule in every deal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی طلب",
+              "english": "Pursuit of Halal Provision"
+            },
+            "content": {
+              "urdu": [
+                "صرف اس مال میں برکت ہے جو سچائی اور حق کے ساتھ کمایا گیا ہو۔",
+                "مشکوک سودوں سے بچنا ایمان کی سلامتی کا بہترین راستہ ہے۔",
+                "اللہ تعالیٰ دیانتدار تاجروں کو وہاں سے رزق دیتا ہے جہاں سے گمان نہ ہو۔"
+              ],
+              "english": [
+                "Blessing lies only in wealth earned through truth and righteousness.",
+                "Avoiding doubtful deals is the best path to safeguard one's faith.",
+                "Allah provides for honest merchants from sources they cannot imagine."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

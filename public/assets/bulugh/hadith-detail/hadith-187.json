@@ -1,0 +1,177 @@
+{
+  "hadithId": 187,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["1:6:1"],
+    "kitabId": 2,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب آداب المشي إلى الصلاة",
+    "babId": 15
+  },
+  
+  "takhreej": {
+    "arabic": " صحيح .‏ رواه البخاري (1219و 1220)‏ ، ومسلم (545)‏ .‏ قلت : وفسره الحافظ بهذا التفسير ونص عليه منعا للالتباس بغيره إذ حكى بعضهم تفاسير أخرى لهذا اللفظ .‏ صحيح موقوفا .‏ رواه البخاري (3458)‏ من طريق مسروق ، عن عائشة ‏- رضي الله عنها‏- كانت تكره أن يجعل المصلي يده في خاصرته ، وتقول : إن اليهود تفعله .‏",
+    "urdu": "صحیح۔ اسے بخاری (1219، 1220) اور مسلم (545) نے روایت کیا ہے۔ میں (حافظ ابن حجر) کہتا ہوں: اور حافظ ابن حجر نے اس کی تفسیر اسی طرح کی ہے تاکہ دوسرے تفاسیر سے التباس نہ ہو، کیونکہ بعض نے اس لفظ کی دوسری تفاسیر بھی بیان کی ہیں۔ صحیح موقوفاً (صحابی کا قول)۔ اسے بخاری (3458) نے مسروق کے طریق سے عائشہؓ سے روایت کیا ہے کہ وہ نماز میں اپنے کولہے پر ہاتھ رکھنے کو ناپسند کرتی تھیں اور فرماتی تھیں کہ یہ یہودیوں کا عمل ہے۔",
+    "english": "Authentic (Ṣaḥīḥ). Reported by Al-Bukhārī (1219, 1220) and Muslim (545). I (Al-Ḥāfiẓ) say: Al-Ḥāfiẓ (Ibn Ḥajar) interpreted it this way and emphasized it to prevent confusion with other interpretations, as some scholars mentioned different meanings for this term. Authentic as Mauqūf. Reported by Al-Bukhārī (3458) from Masrūq, from 'Ā'ishah (RA), who disliked the worshipper placing his hand on his hip and would say: 'Indeed, the Jews do this.'",
+    "english_alternative": ""
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى رَسُولُ اَللَّهِ",
+      "english": "The Messenger of Allah forbade",
+      "urdu": "رسول اللہ نے منع فرمایا"
+    },
+    {
+      "arabic": "يُصَلِّيَ اَلرَّجُلُ",
+      "english": "A man from praying",
+      "urdu": "آدمی کو نماز پڑھنے سے"
+    },
+    {
+      "arabic": "مُخْتَصِرًا",
+      "english": "Muḵhtaṣiran (hands on the hips)",
+      "urdu": "مختصراً (کولہوں پر ہاتھ رکھ کر)"
+    },
+    {
+      "arabic": "خَاصِرَتِهِ",
+      "english": "His hip/flank",
+      "urdu": "اس کے کولہے/پہلو"
+    },
+    {
+      "arabic": "فِعْلُ اَلْيَهُودِ",
+      "english": "The action of the Jews",
+      "urdu": "یہودیوں کا عمل"
+    },
+    {
+      "arabic": "مَكْرُوه",
+      "english": "Disliked (Makrūh)",
+      "urdu": "مکروہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز کے آداب کو بیان کرتی ہے اور نماز میں اپنے کولہوں (پہلووں) پر ہاتھ رکھ کر کھڑے ہونے سے منع کرتی ہے۔ اس عمل کو «اختصار» کہا جاتا ہے اور اس کی ممانعت اس لیے ہے کہ یہ یہودیوں کے نماز پڑھنے کا طریقہ تھا۔ یہ عمل نماز کے خشوع اور وقار کے خلاف ہے۔",
+    "english": "This Hadith clarifies the manners of prayer and prohibits standing with one's hands placed on the hips (Al-Ikhtiṣār). This action is forbidden because it was the practice of the Jews during their worship. Such a posture is considered contrary to the reverence and dignity required in prayer.",
+    "english_alternative": ""
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1219)",
+      "english": "Reported by Al-Bukhārī (1219)"
+    },
+    {
+      "arabic": "رواه مسلم (545)",
+      "english": "Reported by Muslim (545)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abū Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز میں اختصار کی ممانعت",
+        "english": "Prohibition of Al-Ikhtiṣār in Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اختصار کی تعریف",
+              "english": "Definition of Al-Ikhtiṣār"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'مختصراً' سے مراد یہ ہے کہ نمازی نماز کے دوران اپنے ہاتھ کو اپنے کولہے (خاصرہ) پر رکھے۔",
+                "یہ حالت تکبر، بے پرواہی یا غم کی حالت میں کھڑے ہونے کی عادت کو ظاہر کرتی ہے، جو اللہ کے حضور ادب کے خلاف ہے۔",
+                "یہ عمل نماز کے اندر ممانعت کا ایک درجہ ہے، جو نماز کو باطل تو نہیں کرتا، مگر مکروہ تحریمی ہے۔"
+              ],
+              "english": [
+                "'Muḵhtaṣiran' in the Hadith means the worshipper places his hand on his hip (Khāṣirah) during the prayer.",
+                "This posture often signifies arrogance, indifference, or a mournful stance, which is against the proper reverence before Allah.",
+                "This is a level of prohibition (Makrūh Taḥrīmī) in prayer, which does not nullify it but is strongly disliked."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "یہودیوں سے مشابہت",
+              "english": "Resemblance to the Jews"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہؓ کی روایت واضح کرتی ہے کہ اس عمل کی ممانعت کی وجہ یہ ہے کہ یہ یہودیوں کی عبادت کا طریقہ ہے۔",
+                "نبی اکرم ﷺ نے ہمیں ان قوموں کی مشابہت سے منع فرمایا جو دین میں گمراہ ہو گئیں یا بدعتیں اختیار کیں۔",
+                "مسلمان کو ہر وہ عمل ترک کرنا چاہیے جو دین میں دوسرے مذاہب کی مشابہت رکھتا ہو۔"
+              ],
+              "english": [
+                "'Ā'ishah's narration clarifies that the reason for this prohibition is that it resembles the worship posture of the Jews.",
+                "The Prophet (ﷺ) forbade us from imitating nations that went astray or adopted innovations in their religion.",
+                "A Muslim should abandon any action that resembles other religions in matters of faith and worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور تربیتی سبق",
+        "english": "Ethical and Training Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خشوع اور وقار",
+              "english": "Reverence and Dignity"
+            },
+            "content": {
+              "urdu": [
+                "نماز اللہ کے سامنے کھڑے ہونے کا لمحہ ہے، اس لیے ہر ممکن طریقے سے ادب اور وقار کا اظہار ہونا چاہیے۔",
+                "دونوں ہاتھ کولہے پر رکھنا ایک سست یا غیر مناسب انداز کو ظاہر کرتا ہے، جو نماز کے تقدس کے خلاف ہے۔",
+                "نماز میں ہاتھوں کو باندھنا یا سائیڈ پر لٹکانا سنت ہے، لیکن کولہے پر رکھنا ممانعت میں شامل ہے۔"
+              ],
+              "english": [
+                "Prayer is a moment of standing before Allah, so every effort should be made to express respect and dignity.",
+                "Placing both hands on the hips suggests a lazy or inappropriate stance, contrary to the sanctity of prayer.",
+                "Folding the hands or letting them hang by the sides are Sunnah methods, but placing them on the hips is prohibited."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی کی اہمیت",
+              "english": "Importance of Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے حکم کو اس کے اصل مفہوم میں لینا اور مشابہت سے بچنا ہی صحیح اتباع ہے۔",
+                "سیدہ عائشہؓ کا قول اس ممانعت کی حکمت کو واضح کرتا ہے، جس سے معلوم ہوتا ہے کہ نماز میں غیر مسنون عمل بھی مکروہ ہے۔",
+                "مسلمان کو چاہیے کہ وہ اپنی عبادات میں ہر اس عمل سے بچے جو سنت کے خلاف ہو یا کسی بدعت سے مشابہت رکھتا ہو۔"
+              ],
+              "english": [
+                "True adherence means taking the Prophet's (ﷺ) command in its original sense and avoiding imitation.",
+                "'Ā'ishah's statement clarifies the wisdom of the prohibition, showing that even non-Sunnah actions in prayer are disliked.",
+                "A Muslim should avoid any action in worship that contradicts the Sunnah or resembles an innovation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

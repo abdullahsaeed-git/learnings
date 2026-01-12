@@ -1,0 +1,259 @@
+{
+  "hadithId": 1074,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/10/24"],
+    "kitabId": 10,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحدود",
+    "babId": 87
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1984)، وأبو داود (3873)، والترمذي (2045)، وأحمد (18884).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (1984) میں روایت کیا ہے۔ دیگر کتبِ حدیث جیسے ابوداؤد اور ترمذی میں بھی یہ معتبر سند کے ساتھ موجود ہے۔",
+    "english": "Sahih. Reported by Muslim (1982/1984), Abu Dawud (3873), At-Tirmidhi (2045), and Ahmad (18884)."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْخَمْرِ",
+      "english": "Wine/Alcohol",
+      "urdu": "شراب"
+    },
+    {
+      "arabic": "يَصْنَعُهَا",
+      "english": "Manufactures/Makes it",
+      "urdu": "اسے بناتا ہے"
+    },
+    {
+      "arabic": "لِلدَّوَاءِ",
+      "english": "For medicine",
+      "urdu": "دوا کے لیے"
+    },
+    {
+      "arabic": "دَاءٌ",
+      "english": "Disease/Ailment",
+      "urdu": "بیماری"
+    },
+    {
+      "arabic": "لَيْسَتْ",
+      "english": "Is not",
+      "urdu": "نہیں ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں یہ واضح کیا گیا ہے کہ شراب میں کوئی شفاء نہیں ہے، لہذا اسے بطور دوا استعمال کرنا یا بنانا شرعاً حرام ہے۔",
+    "english": "This Hadith clarifies that wine contains no healing properties; therefore, manufacturing or using it for medicinal purposes is prohibited."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1984)",
+      "english": "Sahih Muslim (1984)"
+    },
+    {
+      "arabic": "سنن أبي داود (3873)",
+      "english": "Sunan Abi Dawud (3873)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "طارق بن سويد",
+        "english": "Tariq bin Suwaid"
+      },
+      "slug": "tariq-bin-suwaid"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شراب بطور دوا",
+        "english": "Wine as Medicine"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرمت کا عمومی حکم",
+              "english": "General Ruling of Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "جب اللہ نے کسی چیز کو حرام کیا ہے تو اس میں شفاء نہیں رکھی۔",
+                "صحابہ کرام نے دوا کے عذر پر بھی شراب کی اجازت چاہی مگر آپ ﷺ نے انکار فرمایا۔",
+                "یہ حکم ظاہر کرتا ہے کہ حرام اشیاء سے علاج کرنا ممنوع ہے۔"
+              ],
+              "english": [
+                "When Allah prohibits something, He does not place healing within it.",
+                "The companions sought permission for wine as medicine, but the Prophet (ﷺ) refused.",
+                "This ruling demonstrates that seeking cures through forbidden substances is prohibited."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیماری اور شراب",
+              "english": "Alcohol as a Disease"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے شراب کو دوا کے بجائے 'داء' یعنی بیماری قرار دیا۔",
+                "یہ جسمانی، دماغی اور اخلاقی طور پر انسان کو بیمار کر دیتی ہے۔",
+                "جدید میڈیکل سائنس بھی شراب کے اعضاء پر مضر اثرات کی تصدیق کرتی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) categorized wine as an 'ailment' rather than a cure.",
+                "It causes physical, mental, and moral degradation in a human being.",
+                "Modern medical science confirms the destructive effects of alcohol on vital organs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی نقطہ نظر",
+        "english": "Jurisprudential Perspective"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرام سے علاج",
+              "english": "Treatment with Haram"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک شراب کا پینا بطور دوا بھی ناجائز ہے۔",
+                "صرف شدید اضطراری حالت میں جہاں جان جانے کا خطرہ ہو، استثناء ہو سکتا ہے۔",
+                "شراب کے متبادل حلال ادویات کی موجودگی میں اس کا کوئی جواز نہیں رہتا۔"
+              ],
+              "english": [
+                "The majority of jurists hold that drinking wine as medicine is impermissible.",
+                "An exception may only exist in extreme life-threatening emergencies.",
+                "There is no justification for it when Halal medicinal alternatives are available."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت اور دوا",
+              "english": "Purity and Medicine"
+            },
+            "content": {
+              "urdu": [
+                "شراب نجس (ناپاک) ہے اور ناپاک چیز سے علاج کرنا ناپسندیدہ ہے۔",
+                "اسلام پاکیزگی پر زور دیتا ہے، چاہے وہ غذا ہو یا علاج۔",
+                "مومن کو اپنے جسم میں صرف پاک اور حلال اشیاء ہی داخل کرنی چاہئیں۔"
+              ],
+              "english": [
+                "Wine is impure (Najis), and seeking a cure with impurity is discouraged.",
+                "Islam emphasizes purity, whether in food, drink, or medical treatment.",
+                "A believer should only ingest what is pure and lawful into their body."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی نقصانات",
+        "english": "Medical Harms"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دماغی اور جسمانی اثرات",
+              "english": "Mental and Physical Effects"
+            },
+            "content": {
+              "urdu": [
+                "شراب جگر، گردوں اور دل کی بیماریوں کا بنیادی سبب بنتی ہے۔",
+                "یہ اعصابی نظام کو کمزور کرتی ہے جس سے فیصلے کی قوت ختم ہو جاتی ہے۔",
+                "رسول اللہ ﷺ کی بات سچ ثابت ہوئی کہ یہ دوا نہیں بلکہ خود بیماری ہے۔"
+              ],
+              "english": [
+                "Alcohol is a primary cause of liver, kidney, and heart diseases.",
+                "It weakens the nervous system, leading to a loss of judgment and control.",
+                "The Prophet's (ﷺ) words were proven true: it is an ailment, not a cure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عادت اور لت",
+              "english": "Addiction and Dependency"
+            },
+            "content": {
+              "urdu": [
+                "دوا کا مقصد صحت دینا ہے، جبکہ شراب انسان کو اپنا عادی بنا لیتی ہے۔",
+                "نشے کی لت انسان کو معاشی اور سماجی طور پر تباہ کر دیتی ہے۔",
+                "اسلام نے اس فتنے کے دروازے کو جڑ سے ہی بند کر دیا ہے۔"
+              ],
+              "english": [
+                "Medicine aims to restore health, whereas alcohol creates harmful dependency.",
+                "Addiction leads to total economic and social ruin for the individual.",
+                "Islam closed the door to this trial by forbidding it entirely from the start."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایمانی سبق",
+        "english": "Lessons of Faith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ پر توکل",
+              "english": "Reliance on Allah"
+            },
+            "content": {
+              "urdu": [
+                "بیماری اور شفاء اللہ کے ہاتھ میں ہے، اس لیے حرام سے شفاء نہ مانگیں۔",
+                "اللہ کے احکام پر عمل کرنے میں ہی حقیقی برکت اور تندرستی ہے۔",
+                "مومن ہر حال میں شریعت کے حدود کی پاسداری کرتا ہے۔"
+              ],
+              "english": [
+                "Sickness and healing are in Allah's hands; do not seek health through sin.",
+                "True blessings and wellness lie in adhering to Allah's divine commands.",
+                "A believer upholds the limits of Shariah under all circumstances."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمِ نبوی کی حقانیت",
+              "english": "Truth of Prophetic Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے چودہ سو سال پہلے وہ حقیقت بتائی جو آج سائنس بتاتی ہے۔",
+                "آپ ﷺ کی ہر بات وحی پر مبنی اور انسانیت کے لیے رحمت ہے۔",
+                "اسوہِ حسنہ پر عمل پیرا ہونا ہی دنیا و آخرت کی کامیابی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) stated truths 1400 years ago that science confirms today.",
+                "His every word is based on revelation and is a mercy for all of humanity.",
+                "Following his noble example is the path to success in both worlds."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

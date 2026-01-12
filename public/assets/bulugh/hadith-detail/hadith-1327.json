@@ -1,0 +1,215 @@
+{
+  "hadithId": 1327,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": [
+      "tirmidhi:2004"
+    ],
+    "kitabId": 16,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الجامع",
+    "babId": 106
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه الترمذي (2004)، وابن ماجه (4246)، وأحمد (2/291)، والحاكم (4/324). قال الترمذي: 'حديث صحيح غريب'، وحسنه الألباني في صحيح الترمذي.",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام ترمذی (2004)، ابن ماجہ (4246) اور امام حاکم نے روایت کیا ہے۔ امام ترمذی نے اسے صحیح غریب کہا ہے، جبکہ محققین کے نزدیک یہ حدیث حسن کے درجے پر ہے۔",
+    "english": "Hasan (Good). Reported by At-Tirmidhi (2004), Ibn Majah (4246), and Al-Hakim (4/324). At-Tirmidhi classified it as 'Sahih Gharib,' and Al-Albani graded it Hasan."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَكْثَرُ",
+      "english": "Most / Greatest",
+      "urdu": "سب سے زیادہ"
+    },
+    {
+      "arabic": "تَقْوَى اللهِ",
+      "english": "Fear of Allah / Piety",
+      "urdu": "اللہ کا ڈر / تقویٰ"
+    },
+    {
+      "arabic": "حُسْنُ اَلْخُلُقِ",
+      "english": "Good Character",
+      "urdu": "اچھا اخلاق / حسنِ اخلاق"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث جنت کے حصول کے دو بنیادی ستون بیان کرتی ہے: اللہ کے ساتھ تعلق کی درستی (تقویٰ) اور بندوں کے ساتھ تعلق کی درستی (حسنِ اخلاق)۔",
+    "english": "This Hadith identifies the two primary factors for entering Paradise: a sound relationship with Allah (Taqwa) and a righteous relationship with people (Good Character)."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (2004)",
+      "english": "Sunan at-Tirmidhi (2004)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (4246)",
+      "english": "Sunan Ibn Majah (4246)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تقویٰ: خالق کے ساتھ تعلق",
+        "english": "Taqwa: Relationship with the Creator"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تقویٰ کی حقیقت",
+              "english": "The Reality of Taqwa"
+            },
+            "content": {
+              "urdu": [
+                "تقویٰ کا مطلب اللہ کے حکموں کی پیروی کرنا اور اس کی نافرمانی سے بچنا ہے۔",
+                "یہ دل کی وہ کیفیت ہے جو انسان کو تنہائی میں بھی گناہ سے روکتی ہے۔",
+                "تقویٰ تمام عبادات کی روح اور اللہ کے ہاں عزت کا معیار ہے۔"
+              ],
+              "english": [
+                "Taqwa means following Allah's commands and avoiding His disobedience.",
+                "It is a state of the heart that restrains a person from sin even in private.",
+                "Taqwa is the soul of all worship and the standard of honor in the sight of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقویٰ کا ثمر",
+              "english": "The Fruit of Taqwa"
+            },
+            "content": {
+              "urdu": [
+                "متقی شخص کے لیے اللہ تعالیٰ دنیا و آخرت میں آسانیاں پیدا کر دیتا ہے۔",
+                "جنت کی نعمتیں خاص طور پر متقین کے لیے تیار کی گئی ہیں۔",
+                "تقویٰ انسان کو عارضی لذتوں پر ابدی کامیابی کو ترجیح دینے کا حوصلہ دیتا ہے۔"
+              ],
+              "english": [
+                "Allah creates ease in both worlds for a person who possesses Taqwa.",
+                "The blessings of Paradise are specifically prepared for the God-conscious.",
+                "Taqwa encourages a person to prioritize eternal success over temporary pleasures."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حسنِ اخلاق: مخلوق کے ساتھ تعلق",
+        "english": "Good Character: Relationship with Creation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اخلاق کی اہمیت",
+              "english": "Significance of Character"
+            },
+            "content": {
+              "urdu": [
+                "حسنِ اخلاق میں نرم گفتاری، کشادہ پیشانی اور دوسروں کی خیر خواہی شامل ہے۔",
+                "قیامت کے دن میزان میں سب سے وزنی عمل 'حسنِ اخلاق' ہی ہوگا۔",
+                "کامل مومن وہ ہے جس کے اخلاق سب سے اچھے ہوں۔"
+              ],
+              "english": [
+                "Good character includes gentle speech, a cheerful face, and well-wishing for others.",
+                "On the Day of Judgment, the heaviest deed on the scale will be good character.",
+                "The most perfect of believers is the one best in character."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاق اور معاشرت",
+              "english": "Character and Society"
+            },
+            "content": {
+              "urdu": [
+                "اچھے اخلاق والا شخص لوگوں کے دلوں میں گھر کر لیتا ہے اور امن پھیلاتا ہے۔",
+                "اپنے غصے پر قابو پانا اور معاف کر دینا حسنِ اخلاق کی معراج ہے۔",
+                "نبی ﷺ کی بعثت کا ایک بڑا مقصد مکارمِ اخلاق کی تکمیل تھا۔"
+              ],
+              "english": [
+                "A person with good character earns a place in people's hearts and spreads peace.",
+                "Controlling anger and forgiving others is the pinnacle of good manners.",
+                "A major purpose of the Prophet's (ﷺ) mission was the perfection of character."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جہنم میں لے جانے والے اسباب",
+        "english": "Causes of Entering Hellfire"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان اور شرمگاہ کی حفاظت",
+              "english": "Guarding the Tongue and Private Parts"
+            },
+            "content": {
+              "urdu": [
+                "اسی حدیث کے مکمل متن کے مطابق اکثر لوگ زبان اور شرمگاہ کے غلط استعمال سے جہنم جائیں گے۔",
+                "زبان کی بے احتیاطی (جھوٹ، غیبت) نیک اعمال کو برباد کر دیتی ہے۔",
+                "شرمگاہ کی حفاظت ایمان اور حیا کا لازمی تقاضا ہے۔"
+              ],
+              "english": [
+                "According to the full text, most people enter Hell due to the misuse of the tongue and private parts.",
+                "Carelessness with the tongue (lying, backbiting) ruins good deeds.",
+                "Guarding the private parts is an essential requirement of faith and modesty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "توازن کی ضرورت",
+              "english": "Need for Balance"
+            },
+            "content": {
+              "urdu": [
+                "صرف عبادات (حقوق اللہ) کافی نہیں، بندوں کے حقوق اور اخلاق بھی ضروری ہیں۔",
+                "سچا مسلمان وہ ہے جو اللہ سے بھی ڈرے اور لوگوں سے بھی نرمی کرے۔",
+                "روزمرہ زندگی میں صبر اور شکر کو اپنا شعار بنائیں۔"
+              ],
+              "english": [
+                "Worship (rights of Allah) alone is not enough; human rights and ethics are vital.",
+                "A true Muslim is one who fears Allah and shows kindness to people.",
+                "Make patience and gratitude your habit in daily life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

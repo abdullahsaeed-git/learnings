@@ -1,0 +1,259 @@
+{
+  "hadithId": 1099,
+  "hadithNo": 20,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/20"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (22737)، والنسائي (3862)، وابن حبان (4855)، والبيهقي (9/101). وصححه الألباني في صحيح الجامع.",
+    "urdu": "حسن۔ اسے امام احمد (22737)، نسائی (3862) اور ابن حبان (4855) نے روایت کیا ہے۔ علامہ البانی نے اسے صحیح الجامع میں حسن قرار دیا ہے۔",
+    "english": "Hasan. Reported by Ahmad (22737), An-Nasa'i (3862), and Ibn Hibban (4855). Al-Albani graded it Hasan in Sahih al-Jami'."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَغُلُّوا",
+      "english": "Do not embezzle",
+      "urdu": "خیانت نہ کرو"
+    },
+    {
+      "arabic": "الْغُلُولَ",
+      "english": "Embezzlement (from booty)",
+      "urdu": "مال غنیمت میں چوری"
+    },
+    {
+      "arabic": "نَارٌ",
+      "english": "Fire / Hell-fire",
+      "urdu": "آگ / جہنم"
+    },
+    {
+      "arabic": "عَارٌ",
+      "english": "Disgrace / Shame",
+      "urdu": "بدنامی / شرمندگی"
+    },
+    {
+      "arabic": "أَصْحَابِهِ",
+      "english": "Its practitioners",
+      "urdu": "اس کے مرتکب / والے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں مالِ غنیمت میں تقسیم سے پہلے کی جانے والی خیانت (غلول) کی سخت ممانعت کی گئی ہے اور اسے دنیا میں ذلت اور آخرت میں آگ کا سبب قرار دیا گیا ہے۔",
+    "english": "This Hadith strictly prohibits misappropriating war booty before distribution (Ghulul), warning that it leads to worldly disgrace and the punishment of Hellfire in the Hereafter."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (22737)",
+      "english": "Narrated by Ahmad (22737)"
+    },
+    {
+      "arabic": "رواه النسائي (3862)",
+      "english": "Narrated by An-Nasa'i (3862)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبادة بن الصامت",
+        "english": "Ubadah bin as-Samit"
+      },
+      "slug": "ubadah-bin-as-samit"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3Xn89gA",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غلول کی تعریف اور سنگینی",
+        "english": "Definition and Severity of Ghulul"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غلول کا شرعی مفہوم",
+              "english": "Sharia Meaning of Ghulul"
+            },
+            "content": {
+              "urdu": [
+                "غلول سے مراد وہ خیانت ہے جو مالِ غنیمت کی باقاعدہ تقسیم سے پہلے کی جائے۔",
+                "اسے عام چوری سے زیادہ سنگین جرم مانا گیا ہے کیونکہ یہ پوری قوم کا حق ہے۔",
+                "ایسا کرنے والا شخص مجاہد ہونے کے باوجود اللہ کی ناراضگی مول لیتا ہے۔"
+              ],
+              "english": [
+                "Ghulul refers to embezzling war booty before its formal distribution by the leader.",
+                "It is considered more serious than ordinary theft because it violates the rights of the whole nation.",
+                "Even a warrior committing this act incurs the wrath of Allah despite his participation in Jihad."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دنیاوی ذلت و عار",
+              "english": "Worldly Disgrace"
+            },
+            "content": {
+              "urdu": [
+                "خیانت کرنے والا شخص معاشرے میں اپنی ساکھ اور عزت کھو دیتا ہے۔",
+                "جب کسی کی خیانت ظاہر ہوتی ہے تو وہ اپنوں اور غیروں میں ذلیل ہو جاتا ہے۔",
+                "اسلامی تاریخ میں خیانت کرنے والوں کو سخت سماجی بائیکاٹ کا سامنا کرنا پڑا۔"
+              ],
+              "english": [
+                "A person who commits embezzlement loses their reputation and honor in society.",
+                "When a betrayal of trust is revealed, the person is humiliated among friends and foes.",
+                "In Islamic history, those guilty of Ghulul faced severe social boycotts and public shame."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخروی انجام اور تلافی",
+        "english": "The Hereafter and Compensation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جہنم کی آگ کا عذاب",
+              "english": "Punishment of Hellfire"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں صراحت ہے کہ خیانت کیا ہوا مال آخرت میں آگ بن کر چمٹے گا۔",
+                "خائن شخص قیامت کے دن اپنی چوری کی ہوئی چیز اٹھا کر میدانِ حشر میں لائے گا۔",
+                "یہ منظر اس کی ابدی رسوائی اور شدید جسمانی عذاب کا نقطہ آغاز ہوگا۔"
+              ],
+              "english": [
+                "The Hadith explicitly states that embezzled property will turn into fire in the Hereafter.",
+                "The traitor will be forced to carry the misappropriated item on the Day of Resurrection.",
+                "This scene will mark the beginning of his eternal disgrace and severe physical torment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حرام مال کے اثرات",
+              "english": "Impact of Ill-gotten Wealth"
+            },
+            "content": {
+              "urdu": [
+                "حرام مال انسان کی دعاؤں کی قبولیت میں سب سے بڑی رکاوٹ ہے۔",
+                "خیانت کے مال سے کیا گیا صدقہ اور عبادت اللہ کے ہاں قبول نہیں ہوتی۔",
+                "یہ مال انسان کے ایمان کو دیمک کی طرح چاٹ کر برباد کر دیتا ہے۔"
+              ],
+              "english": [
+                "Ill-gotten wealth is the biggest barrier to the acceptance of one's supplications.",
+                "Charity and worship performed with embezzled money are not accepted by Allah.",
+                "Such wealth erodes a person's faith like termites, leading to spiritual ruin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امانت داری کی اہمیت",
+        "english": "Importance of Trustworthiness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مومن کی پہچان",
+              "english": "The Identity of a Believer"
+            },
+            "content": {
+              "urdu": [
+                "سچا مومن وہی ہے جس کی زبان اور ہاتھ سے لوگوں کے حقوق محفوظ رہیں۔",
+                "امانت داری ایمان کا لازمی جز ہے اور اس کے بغیر ایمان نامکمل ہے۔",
+                "نبی ﷺ نے امانت کی ادائیگی کو اسلام کے بنیادی اخلاقیات میں رکھا ہے۔"
+              ],
+              "english": [
+                "A true believer is one from whose tongue and hand the rights of others are safe.",
+                "Trustworthiness is an essential component of faith; without it, faith is incomplete.",
+                "The Prophet (ﷺ) placed the fulfillment of trusts among the core ethics of Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی اموال کی حفاظت",
+              "english": "Safeguarding Public Assets"
+            },
+            "content": {
+              "urdu": [
+                "ریاستی اور عوامی اموال کی حفاظت کرنا انفرادی مال سے زیادہ ضروری ہے۔",
+                "سرکاری خزانہ (بیت المال) امت کی اجتماعی امانت ہے جس کا حساب کڑا ہے۔",
+                "جو لوگ پبلک فنڈز میں خورد برد کرتے ہیں، وہ اس حدیث کی وعید میں شامل ہیں۔"
+              ],
+              "english": [
+                "Safeguarding state and public assets is more critical than protecting individual property.",
+                "The public treasury (Bait-ul-Mal) is a collective trust for which the account is strict.",
+                "Those who misappropriate public funds are included in the warning of this Hadith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصیحت",
+        "english": "Practical Lessons and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی طلب",
+              "english": "Seeking Lawful Sustenance"
+            },
+            "content": {
+              "urdu": [
+                "تھوڑا حلال مال زیادہ حرام مال سے بدرجہا بہتر اور بابرکت ہے۔",
+                "مسلمان کو چاہیے کہ وہ اپنی ضروریات کے لیے ہمیشہ جائز ذرائع تلاش کرے۔",
+                "لالچ انسان کو خیانت کی طرف اکساتا ہے، جس کا انجام پچھتاوے کے سوا کچھ نہیں۔"
+              ],
+              "english": [
+                "A small amount of Halal wealth is far better and more blessed than abundant Haram.",
+                "A Muslim should always seek permissible means to fulfill their needs.",
+                "Greed incites humans toward betrayal, which results in nothing but regret."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظام کی اصلاح",
+              "english": "Systemic Reform"
+            },
+            "content": {
+              "urdu": [
+                "ادارے کے سربراہ کو چاہیے کہ وہ مال کی تقسیم کا شفاف نظام بنائے۔",
+                "خیانت کے چور راستوں کو بند کرنا اسلامی انتظامیہ کی اولین ذمہ داری ہے۔",
+                "تقویٰ کی بنیاد پر کیا گیا انتظام ہی معاشرے کو برائیوں سے بچاتا ہے۔"
+              ],
+              "english": [
+                "The head of an institution must create a transparent system for asset distribution.",
+                "Blocking the loopholes of embezzlement is the primary duty of an Islamic administration.",
+                "Management based on piety is what protects the society from corruption."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "hadithId": 910,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/910", "abudawud:2135", "muslim:1474"],
+    "kitabId": 8,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب النكاح",
+    "babId": 69
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (6/107)، وأبو داود (2135)، والحاكم (2/186) وصححه. والحديث الثاني رواه مسلم (1474)، والبخاري (5268).",
+    "urdu": "یہ روایت صحیح ہے۔ اسے امام احمد اور ابو داؤد (2135) نے روایت کیا اور حاکم نے اسے صحیح قرار دیا۔ مسلم (1474) اور بخاری (5268) میں بھی اس کا دوسرا حصہ موجود ہے۔",
+    "english": "Sahih. Reported by Ahmad and Abu Dawud (2135); Al-Hakim graded it Sahih. The second part is reported by Muslim (1474) and Al-Bukhari (5268)."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْقَسْمِ",
+      "english": "Division / Distribution",
+      "urdu": "تقسیم (باریوں کی)"
+    },
+    {
+      "arabic": "يَطُوفُ",
+      "english": "Goes around / Visits",
+      "urdu": "چکر لگانا / سب کے پاس جانا"
+    },
+    {
+      "arabic": "يَدْنُو",
+      "english": "Comes near",
+      "urdu": "قریب ہونا"
+    },
+    {
+      "arabic": "مَسِيسٍ",
+      "english": "Sexual intercourse",
+      "urdu": "چھونا (جماع)"
+    },
+    {
+      "arabic": "يَبِيتَ",
+      "english": "Spends the night",
+      "urdu": "رات گزارنا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث تعدد ازواج کی صورت میں شوہر کے عدل اور روزانہ کی بنیاد پر تمام بیویوں کی خبر گیری کرنے کے حسنِ معاشرت کو بیان کرتی ہے۔",
+    "english": "This Hadith illustrates the Prophet's (ﷺ) exemplary justice and his habit of daily checking on all his wives while maintaining their respective nights."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2135)",
+      "english": "Reported by Abu Dawud (2135)"
+    },
+    {
+      "arabic": "رواه مسلم (1474)",
+      "english": "Reported by Muslim (1474)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عروة بن الزبير",
+        "english": "Urwa ibn al-Zubayr"
+      },
+      "slug": "urwa-ibn-al-zubayr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2uU_lA6O-o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نبوی طرزِ معاشرت اور عدل",
+        "english": "Prophetic Social Conduct and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تقسیمِ اوقات میں برابری",
+              "english": "Equality in Time Division"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ تمام ازواج کے درمیان رات گزارنے میں مکمل برابری فرماتے تھے۔",
+                "آپ ﷺ نے کبھی کسی ایک زوجہ کو دوسری پر بلاوجہ فوقیت نہیں دی۔",
+                "یہ عمل امت کے لیے عدل و انصاف کا ایک روشن نمونہ ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) maintained absolute equality in spending nights among his wives.",
+                "He never preferred one wife over another in the allocation of his stay.",
+                "This serves as a brilliant example of justice and fairness for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزانہ کی خبر گیری",
+              "english": "Daily Check-ups"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ کا معمول تھا کہ روزانہ عصر کے بعد تمام ازواج کے گھر تشریف لے جاتے۔",
+                "اس ملاقات کا مقصد سب کی خیریت معلوم کرنا اور تعلقات کو مضبوط کرنا تھا۔",
+                "یہ مختصر ملاقات محبت بڑھانے اور مسائل حل کرنے کا ذریعہ بنتی تھی۔"
+              ],
+              "english": [
+                "It was his habit to visit all his wives daily after the Asr prayer.",
+                "The purpose of these visits was to check on their well-being and strengthen ties.",
+                "These brief meetings fostered love and provided a way to resolve issues."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدودِ باری اور حقوق",
+        "english": "Boundaries of Turns and Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قربت اور جماع میں فرق",
+              "english": "Difference between Closeness and Intercourse"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ سب بیویوں سے شفقت فرماتے مگر جماع صرف اسی کے ہاں فرماتے جس کی باری ہوتی۔",
+                "اس سے معلوم ہوتا ہے کہ باری کے دن دوسری بیویوں سے ملنا جائز ہے۔",
+                "اصل باری کا تعلق رات گزارنے اور مخصوص ازدواجی تعلق سے ہے۔"
+              ],
+              "english": [
+                "He showed affection to all, but reserved intimacy for the one whose turn it was.",
+                "This proves it is permissible to visit co-wives on someone else's day.",
+                "The essence of the 'turn' relates to spending the night and marital intimacy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رات گزارنے کا وجوب",
+              "english": "Obligation of Spending the Night"
+            },
+            "content": {
+              "urdu": [
+                "تمام بیویوں کے پاس تشریف لے جانے کے بعد آپ ﷺ صاحبِ باری کے ہاں لوٹ جاتے۔",
+                "رات کا قیام اسی زوجہ کے پاس ہوتا جس کا شرعی حق مقرر تھا۔",
+                "یہ نظم و ضبط گھریلو زندگی میں کسی قسم کی شکایت پیدا نہیں ہونے دیتا تھا۔"
+              ],
+              "english": [
+                "After visiting everyone, the Prophet (ﷺ) would return to the wife whose turn it was.",
+                "The night stay was strictly reserved for the one who held the legal right.",
+                "This discipline ensured no grievances arose within the household life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "گھریلو نظم و ضبط",
+        "english": "Household Discipline"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی خوش اخلاقی",
+              "english": "Social Good Conduct"
+            },
+            "content": {
+              "urdu": [
+                "ایک سے زائد بیویوں کی صورت میں شوہر کا ہر ایک سے ملنا ضروری ہے۔",
+                "صرف باری والی بیوی تک محدود رہنا دوسروں میں احساسِ محرومی پیدا کر سکتا ہے۔",
+                "نبی ﷺ کا طریقہ تمام ازواج کو اہمیت اور عزت دینے کا تھا۔"
+              ],
+              "english": [
+                "In polygyny, it is important for the husband to interact with each wife.",
+                "Restricting oneself only to the one on turn can make others feel neglected.",
+                "The Prophet's (ﷺ) method was to give importance and honor to all his wives."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی پابندی",
+              "english": "Punctuality and Routine"
+            },
+            "content": {
+              "urdu": [
+                "عصر کے بعد کا وقت آپ ﷺ نے گھریلو ملاقاتوں کے لیے مخصوص کر رکھا تھا۔",
+                "مقررہ وقت پر ملاقات سے بیویوں کو شوہر کا انتظار اور ذہنی سکون رہتا تھا۔",
+                "نظم و ضبط والی زندگی گھر میں برکت اور اتفاق پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "The time after Asr was specifically designated for family visitations.",
+                "Scheduled visits gave the wives something to look forward to and mental peace.",
+                "A disciplined life fosters blessing and harmony within the home."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی و تعلیمی اسباق",
+        "english": "Training and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اہلِ خانہ کے لیے وقت نکالنا",
+              "english": "Dedication of Time to Family"
+            },
+            "content": {
+              "urdu": [
+                "دنیا بھر کی ذمہ داریوں کے باوجود آپ ﷺ گھر والوں کو وقت دیتے۔",
+                "مومن کو چاہیے کہ وہ اپنی مصروفیات میں سے گھر کے لیے وقت نکالے۔",
+                "بہترین انسان وہی ہے جو اپنے گھر والوں کے لیے بہترین ہو۔"
+              ],
+              "english": [
+                "Despite global responsibilities, the Prophet (ﷺ) always made time for family.",
+                "A believer should carve out time for the household amidst busy schedules.",
+                "The best person is the one who is best to his family members."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناانصافی کا سدِ باب",
+              "english": "Preventing Injustice"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مردوں کو اپنی پسندیدہ بیوی کی طرف زیادہ جھکاؤ سے روکتی ہے۔",
+                "ظاہری حقوق میں برابری ایمان کا تقاضا اور اللہ کا حکم ہے۔",
+                "حقوق کی ادائیگی میں ذرا سی غفلت بھی آخرت میں پکڑ کا باعث بن سکتی ہے۔"
+              ],
+              "english": [
+                "This Hadith restrains men from leaning too much toward a favorite wife.",
+                "Equality in outward rights is a demand of faith and a command of Allah.",
+                "Slight negligence in fulfilling rights can lead to accountability in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

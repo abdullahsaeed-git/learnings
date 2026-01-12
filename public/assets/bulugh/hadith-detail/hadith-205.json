@@ -1,0 +1,259 @@
+{
+  "hadithId": 205,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["2", "6"],
+    "kitabId": 2,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 16
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواه البخاري في كتاب الصلاة، باب حك البزاق بالرجل من المسجد (415)، ومسلم في كتاب المساجد ومواضع الصلاة، باب النهي عن البصاق في المسجد (552). ولفظ مسلم فيه زيادة 'التفل' (بصاق).",
+    "urdu": "صحیح متفق علیہ۔ اسے بخاری نے کتاب الصلاة، باب حك البزاق بالرجل من المسجد (415) میں روایت کیا ہے، اور مسلم نے کتاب المساجد ومواضع الصلاة، باب النهی عن البصاق فی المسجد (552) میں روایت کیا ہے۔ اور مسلم کی ایک روایت میں لفظ 'التفل' (بصاق) کا بھی ذکر ہے۔",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh). Reported by Al-Bukhari in the Book of Prayer, Chapter: Scraping the spittle with the foot from the mosque (415), and by Muslim in the Book of Mosques and Places of Prayer, Chapter: Prohibition of spitting in the mosque (552). Muslim's narration includes the word 'Tafal' (spittle)."
+  },
+  "importantWords": [
+    {
+      "arabic": "البزاق",
+      "english": "Spittle/Expectorating",
+      "urdu": "تھوک/بلغم"
+    },
+    {
+      "arabic": "خطيئة",
+      "english": "A sin/A mistake",
+      "urdu": "گناہ"
+    },
+    {
+      "arabic": "كفارتها",
+      "english": "Its expiation/atonement",
+      "urdu": "اس کا کفارہ"
+    },
+    {
+      "arabic": "دفنها",
+      "english": "Burying it/Covering it",
+      "urdu": "اسے دفن کرنا"
+    },
+    {
+      "arabic": "المسجد",
+      "english": "The Mosque",
+      "urdu": "مسجد"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث مسجد کی طہارت اور تقدس کو بیان کرتی ہے، اور یہ واضح کرتی ہے کہ مسجد میں تھوکنا ایک سنگین غلطی اور گناہ ہے، کیونکہ مسجدیں اللہ کا گھر ہیں۔ اس گناہ کا کفارہ یہ ہے کہ اگر کسی سے یہ غلطی ہو جائے تو وہ فوراً تھوک کو مٹی میں دفن کر دے یا کسی طریقے سے اس جگہ کو صاف کر کے نجاست کو دور کرے۔",
+    "english": "This Hadith emphasizes the purity and sanctity of the mosque, clarifying that spitting inside it is a serious error and a sin, as mosques are the Houses of Allah. The expiation for this sin is that if one commits this mistake, they must immediately bury the spittle in the ground or clean the area to remove the impurity."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الصلاة، باب حك البزاق بالرجل من المسجد (415)",
+      "english": "Sahih Al-Bukhari, Book of Prayer, Chapter: Scraping the spittle with the foot from the mosque (415)"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب المساجد ومواضع الصلاة، باب النهي عن البصاق في المسجد (552)",
+      "english": "Sahih Muslim, Book of Mosques and Places of Prayer, Chapter: Prohibition of spitting in the mosque (552)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas ibn Malik"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9oD6QfL-tM",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد کی طہارت اور حرمت",
+        "english": "Purity and Sanctity of the Mosque"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد میں تھوکنا گناہ کیوں؟",
+              "english": "Why is Spitting in the Mosque a Sin?"
+            },
+            "content": {
+              "urdu": [
+                "مسجدیں اللہ کی عبادت کی جگہ اور زمین پر سب سے پاکیزہ مقامات ہیں۔",
+                "مسجد میں تھوکنے سے نجاست اور گندگی پھیلتی ہے جو نمازیوں کے سکون کے خلاف ہے۔",
+                "یہ عمل مسجد کے تقدس کی پامالی اور اللہ کے گھر کی بے ادبی کے مترادف ہے۔"
+              ],
+              "english": [
+                "Mosques are places of worship for Allah and the purest places on earth.",
+                "Spitting in the mosque spreads filth and impurity, which violates the peace of the worshippers.",
+                "This act is tantamount to violating the mosque's sanctity and disrespecting the House of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کفارہ کا مقصد",
+              "english": "Purpose of Expiation (Kaffarah)"
+            },
+            "content": {
+              "urdu": [
+                "کفارہ (دفن کرنا) اس بات کی دلیل ہے کہ گناہ کے بعد فوراً اس کی اصلاح کرنا ضروری ہے۔",
+                "یہ حکم اس وقت کے لیے تھا جب مساجد کی زمین کچی ہوتی تھی؛ دفن کرنے سے طہارت ہو جاتی تھی۔",
+                "آج کے زمانے میں قالین یا پکے فرش والی مساجد میں تھوک کو فوراً صاف کرنا یا کپڑے سے اٹھا کر باہر پھینکنا کفارہ ہے۔"
+              ],
+              "english": [
+                "The expiation (burying it) proves the necessity of immediately rectifying the sin after committing it.",
+                "This command was for times when mosque floors were unpaved; burying ensured purity.",
+                "In modern carpeted or paved mosques, expiation means immediately wiping it up or removing the spittle with a cloth and disposing of it outside."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صفائی کی فضیلت اور طریقے",
+        "english": "Virtue of Cleaning and Methods"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تھوکنے کی اجازت کی حدود",
+              "english": "Limits of Permissible Spitting"
+            },
+            "content": {
+              "urdu": [
+                "پہلے کی حدیث میں نماز کے دوران صرف بائیں طرف یا پاؤں کے نیچے تھوکنے کی اجازت تھی، بشرطیکہ فوراً دفن کر دیا جائے۔",
+                "یہ اجازت صرف شدید مجبوری اور مسجد کی طہارت کو یقینی بنانے کی شرط سے مشروط تھی۔",
+                "آج کل رومال یا ٹشو پیپر کا استعمال بہترین طریقہ ہے تاکہ مسجد میں کوئی نجاست نہ پھیلے۔"
+              ],
+              "english": [
+                "The previous Hadith permitted spitting only to the left or under the foot during prayer, provided it was immediately buried.",
+                "This permission was conditional on dire necessity and ensuring the mosque's purity.",
+                "Today, using a handkerchief or tissue paper is the best way to prevent any impurity from spreading in the mosque."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صفائی کرنے کا اجر",
+              "english": "Reward for Cleaning"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص کسی گندگی یا تھوک کو مسجد سے دور کرے، اس کے لیے بہت بڑا ثواب ہے۔",
+                "نبی صلی اللہ علیہ وسلم نے مسجد کی صفائی کو جہاد اور اعلیٰ درجے کے اعمال میں شمار کیا۔",
+                "یہ حکم مسلمانوں کو اپنی عبادت گاہوں کی مستقل دیکھ بھال کی ذمہ داری سکھاتا ہے۔"
+              ],
+              "english": [
+                "There is a great reward for anyone who removes any filth or spittle from the mosque.",
+                "The Prophet (PBUH) considered cleaning the mosque among the highest acts of virtue, like Jihad.",
+                "This command teaches Muslims the responsibility of continuous maintenance of their places of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Application in Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنگین گناہ کا احساس",
+              "english": "Realization of the Serious Sin"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں تھوکنا اگرچہ معمولی لگے، لیکن نبی صلی اللہ علیہ وسلم کی وعید اسے گناہ قرار دیتی ہے۔",
+                "یہ حکم ہمیں سکھاتا ہے کہ عبادات میں ذرا سی بے احتیاطی بھی اللہ کے ہاں ناپسندیدہ ہے۔",
+                "ہر مومن کو مسجد میں داخل ہوتے ہی اپنے آداب اور اخلاقیات پر پوری توجہ دینی چاہیے۔"
+              ],
+              "english": [
+                "Although spitting in the mosque may seem minor, the Prophet's warning declares it a sin.",
+                "This ruling teaches us that even slight carelessness in worship is disliked by Allah.",
+                "Every believer must pay full attention to their manners and ethics immediately upon entering the mosque."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کا عام اصول",
+              "english": "General Principle of Purity"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول مسجدوں کی طہارت کے لیے ایک مستقل اور سخت معیار قائم کرتا ہے۔",
+                "اگرچہ انسانی تھوک نجس نہیں، لیکن اسے گندگی اور کراہت کی وجہ سے پاک رکھنا ضروری ہے۔",
+                "کفارہ کا بیان گناہ کی نوعیت کو کم نہیں کرتا، بلکہ اس کی اصلاح کی فوری ذمہ داری عائد کرتا ہے۔"
+              ],
+              "english": [
+                "This principle establishes a constant and strict standard for the purity of mosques.",
+                "Although human spittle is not ritually impure (Najis), it must be cleaned due to its filthiness and offensiveness.",
+                "The mention of expiation does not diminish the nature of the sin but imposes an immediate responsibility for correction."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور روحانی پہلو",
+        "english": "Ethical and Spiritual Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ادب اور حیاء",
+              "english": "Manners and Modesty (Haya')"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں تھوکنے سے ممانعت حسنِ اخلاق اور حیاء کا تقاضا ہے۔",
+                "یہ عمل دوسروں کے لیے پریشانی اور کراہت کا باعث بنتا ہے، لہٰذا اس سے اجتناب ضروری ہے۔",
+                "اسلام ہر اس عمل کو ناپسند کرتا ہے جو عام اخلاقیات کے خلاف ہو۔"
+              ],
+              "english": [
+                "The prohibition against spitting in the mosque is a requirement of good manners and modesty (Haya').",
+                "This act causes annoyance and offense to others, so avoiding it is necessary.",
+                "Islam dislikes every action that goes against general ethics and decency."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گناہ کی اصلاح",
+              "english": "Correction of Sin"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح کرتی ہے کہ اگر غلطی ہو جائے تو فوراً اس کا ازالہ کرنا اور توبہ کرنا چاہیے (کفارہ)۔",
+                "عملی اصلاح (تھوک کو دفن کرنا) گناہ کے احساس کو مضبوط کرتا ہے اور آئندہ احتیاط کا درس دیتا ہے۔",
+                "ایمان والے کو چاہیے کہ وہ مسجد کو اس طرح صاف رکھے جیسے وہ اپنے گھر کو رکھتا ہے۔"
+              ],
+              "english": [
+                "This Hadith clarifies that if a mistake occurs, one must immediately rectify it and seek repentance (Kaffarah).",
+                "Practical correction (burying the spittle) strengthens the awareness of the sin and teaches caution in the future.",
+                "A believer should keep the mosque clean, just as they would keep their own house clean."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

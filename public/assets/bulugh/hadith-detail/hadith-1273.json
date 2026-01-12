@@ -1,0 +1,259 @@
+{
+  "hadithId": 1273,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["tirmidhi:2317", "bulugh:1473"],
+    "kitabId": 16,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الجامع",
+    "babId": 104
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه الترمذي (2317)، وابن ماجه (3976). قال الترمذي: 'حسن غريب'. وصححه الألباني في صحيح الجامع (5911).",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام ترمذی (2317) اور ابن ماجہ (3976) نے روایت کیا ہے۔ امام ترمذی نے اسے حسن غریب کہا ہے، اور علامہ البانی نے اسے صحیح الجامع میں صحیح قرار دیا ہے۔",
+    "english": "Hasan (Good). Reported by At-Tirmidhi (2317) and Ibn Majah (3976). At-Tirmidhi classified it as 'Hasan Gharib,' and Al-Albani graded it Sahih in Sahih al-Jami (5911)."
+  },
+  "importantWords": [
+    {
+      "arabic": "حُسْنِ",
+      "english": "Excellence / Beauty",
+      "urdu": "خوبصورتی / عمدگی"
+    },
+    {
+      "arabic": "إِسْلَامِ",
+      "english": "Submission / Islam",
+      "urdu": "اسلام / تابعداری"
+    },
+    {
+      "arabic": "الْمَرْءِ",
+      "english": "A person / man",
+      "urdu": "آدمی / انسان"
+    },
+    {
+      "arabic": "تَرْكُهُ",
+      "english": "Leaving / Abandoning",
+      "urdu": "چھوڑ دینا / ترک کرنا"
+    },
+    {
+      "arabic": "مَا لَا يَعْنِيهِ",
+      "english": "That which does not concern him",
+      "urdu": "جو اس کے لیے بے فائدہ ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اخلاقیات کا ایک جامع اصول بیان کرتی ہے کہ ایک سچے مسلمان کی نشانی یہ ہے کہ وہ فضول باتوں اور لایعنی کاموں سے بچتا ہے۔",
+    "english": "This Hadith establishes a fundamental principle of ethics: a true Muslim focuses on what is beneficial and avoids trivial or irrelevant matters."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (2317)",
+      "english": "Sunan al-Tirmidhi (2317)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (3976)",
+      "english": "Sunan Ibn Majah (3976)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R0E6_U4v9s8",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا عمومی مفہوم",
+        "english": "General Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلام کی تکمیل",
+              "english": "Perfection of Faith"
+            },
+            "content": {
+              "urdu": [
+                "اعلیٰ درجے کا مسلمان وہ ہے جو اپنی زندگی کو قیمتی بناتا ہے۔",
+                "ایمان کی پختگی لایعنی کاموں سے دوری میں پوشیدہ ہے۔",
+                "یہ اصول انسان کے اخلاق اور کردار کو نکھارتا ہے۔"
+              ],
+              "english": [
+                "A high-ranking Muslim is one who makes their life valuable.",
+                "Strength of faith is hidden in avoiding irrelevant tasks.",
+                "This principle refines a person's character and conduct."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لایعنی کی تعریف",
+              "english": "Definition of Irrelevant"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد وہ کام ہیں جن کا نہ دنیا میں فائدہ ہے نہ آخرت میں۔",
+                "دوسروں کے ذاتی معاملات میں مداخلت کرنا لایعنی کام ہے۔",
+                "وقت کا ضیاع اسلام کی روح کے خلاف ہے۔"
+              ],
+              "english": [
+                "It refers to matters with no benefit in this world or the hereafter.",
+                "Interfering in others' private affairs is considered irrelevant.",
+                "Wasting time goes against the fundamental spirit of Islam."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیت اور اخلاق",
+        "english": "Training and Ethics"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت",
+              "english": "Guarding the Tongue"
+            },
+            "content": {
+              "urdu": [
+                "فضول گفتگو سے بچنا حسنِ اسلام کی بڑی علامت ہے۔",
+                "زیادہ تر گناہ فضول باتوں اور غیبت کی وجہ سے ہوتے ہیں۔",
+                "خاموشی میں حکمت ہے جب تک بات ضروری نہ ہو۔"
+              ],
+              "english": [
+                "Avoiding vain talk is a major sign of excellent Islam.",
+                "Most sins occur due to idle chatter and backbiting.",
+                "There is wisdom in silence unless speech is necessary."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توجہ کا مرکز",
+              "english": "Focus and Priorities"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو اپنی اصلاح پر توجہ دینی چاہیے۔",
+                "دوسروں کے عیب تلاش کرنا لایعنی عمل ہے۔",
+                "مقصدِ حیات اللہ کی رضا کا حصول ہونا چاہیے۔"
+              ],
+              "english": [
+                "A Muslim should focus primarily on self-improvement.",
+                "Searching for others' faults is a prohibited irrelevant act.",
+                "The purpose of life should be seeking the pleasure of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی اثرات",
+        "english": "Social Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی امن",
+              "english": "Societal Peace"
+            },
+            "content": {
+              "urdu": [
+                "اگر ہر شخص اپنے کام سے کام رکھے تو جھگڑے ختم ہو جائیں۔",
+                "تجسس اور جاسوسی معاشرے میں نفرت پھیلاتی ہے۔",
+                "دوسروں کی رازداری کا احترام کرنا اسلامی تعلیم ہے۔"
+              ],
+              "english": [
+                "If everyone minds their business, conflicts would vanish.",
+                "Curiosity and spying spread hatred within society.",
+                "Respecting others' privacy is a core Islamic teaching."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعمیری سرگرمیاں",
+              "english": "Constructive Activities"
+            },
+            "content": {
+              "urdu": [
+                "لایعنی کام چھوڑنے سے تعمیری کاموں کے لیے وقت ملتا ہے۔",
+                "علم اور عمل میں مشغولیت ہی اصل کامیابی ہے۔",
+                "معاشرے کی بہتری کے لیے مثبت کردار ادا کرنا ضروری ہے۔"
+              ],
+              "english": [
+                "Avoiding trivialities provides time for constructive work.",
+                "Occupying oneself in knowledge and action is true success.",
+                "Playing a positive role is vital for societal improvement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت کی قدر",
+              "english": "Value of Time"
+            },
+            "content": {
+              "urdu": [
+                "وقت اللہ کی نعمت ہے اسے فضول کاموں میں ضائع نہ کریں۔",
+                "اپنی ترجیحات کا روزانہ جائزہ لینا چاہیے۔",
+                "کامیاب انسان وہی ہے جو اپنے وقت کا صحیح استعمال کرے۔"
+              ],
+              "english": [
+                "Time is a blessing from Allah; do not waste it on trifles.",
+                "One should review their priorities on a daily basis.",
+                "A successful person is one who uses their time correctly."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمانی کیفیت",
+              "english": "State of Faith"
+            },
+            "content": {
+              "urdu": [
+                "لایعنی چیزوں کو چھوڑنا قلب کی صفائی کا باعث ہے۔",
+                "اس سے انسان کے ایمان میں مٹھاس پیدا ہوتی ہے۔",
+                "یہ تقویٰ حاصل کرنے کا ایک آسان راستہ ہے۔"
+              ],
+              "english": [
+                "Leaving irrelevant things leads to purification of the heart.",
+                "This practice brings sweetness to a person's faith.",
+                "It is a straightforward path to achieving Taqwa (piety)."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

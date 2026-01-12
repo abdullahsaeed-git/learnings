@@ -1,0 +1,236 @@
+{
+  "hadithId": 1315,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:6094", "muslim:2563"],
+    "kitabId": 16,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الجامع",
+    "babId": 106
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (6064)‏، ومسلم (2563).‏",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری اور امام مسلم دونوں نے اپنی اپنی صحیح میں روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6064) and Muslim (2563)."
+  },
+  "importantWords": [
+    {
+      "arabic": "إِيَّاكُمْ",
+      "english": "Beware / Avoid",
+      "urdu": "تم بچو / پرہیز کرو"
+    },
+    {
+      "arabic": "الظَّنَّ",
+      "english": "Suspicion / Conjecture",
+      "urdu": "بدگمانی / وہم"
+    },
+    {
+      "arabic": "أَكْذَبُ",
+      "english": "Falsest / Worst lie",
+      "urdu": "سب سے بڑا جھوٹ"
+    },
+    {
+      "arabic": "الْحَدِيثِ",
+      "english": "Speech / Tales",
+      "urdu": "بات / گفتگو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ہمیں دوسروں کے بارے میں بغیر کسی ثبوت کے منفی سوچ رکھنے سے منع کرتی ہے اور اسے بدترین جھوٹ قرار دیتی ہے۔",
+    "english": "This Hadith warns against holding baseless negative assumptions about others, labeling such suspicion as the falsest form of speech."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6064)",
+      "english": "Sahih al-Bukhari (6064)"
+    },
+    {
+      "arabic": "صحيح مسلم (2563)",
+      "english": "Sahih Muslim (2563)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9NOnXh6g5U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بدگمانی کی حقیقت",
+        "english": "The Nature of Suspicion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بلا دلیل الزام",
+              "english": "Baseless Accusation"
+            },
+            "content": {
+              "urdu": [
+                "بدگمانی سے مراد وہ وہم یا خیال ہے جس کی کوئی ٹھوس بنیاد نہ ہو۔",
+                "یہ دل کا وہ جھوٹ ہے جو انسان کو گناہوں کی طرف لے جاتا ہے۔",
+                "اسلام میں حسنِ ظن (اچھا گمان) رکھنا ایمان کا حصہ ہے۔"
+              ],
+              "english": [
+                "Suspicion refers to thoughts or doubts that have no solid evidence.",
+                "It is a 'lie of the heart' that leads a person toward further sins.",
+                "In Islam, maintaining good expectations (Husn al-Zann) is part of faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سب سے بڑا جھوٹ کیوں؟",
+              "english": "Why the Worst Lie?"
+            },
+            "content": {
+              "urdu": [
+                "عام جھوٹ زبان سے ہوتا ہے، جبکہ بدگمانی دل سے شروع ہوتی ہے۔",
+                "انسان گمان کو حقیقت سمجھ کر اس پر عمل کرنے لگتا ہے جو سراسر ناانصافی ہے۔",
+                "بدگمانی سے انسان دوسروں کے عیب تلاش کرنے کے فتنہ میں مبتلا ہو جاتا ہے۔"
+              ],
+              "english": [
+                "A regular lie is verbal, while suspicion originates in the heart.",
+                "A person begins acting upon suspicion as if it were a fact, which is unjust.",
+                "Suspicion leads to the trial of spying and searching for others' faults."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اثرات",
+        "english": "Societal Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تعلقات میں دوری",
+              "english": "Distance in Relationships"
+            },
+            "content": {
+              "urdu": [
+                "بدگمانی دوستوں اور رشتہ داروں کے درمیان دیوار کھڑی کر دیتی ہے۔",
+                "اس سے باہمی اعتماد ختم ہو جاتا ہے اور معاشرے میں بے چینی پھیلتی ہے۔",
+                "زیادہ تر جھگڑوں کی بنیاد غلط فہمیاں اور بدگمانیاں ہی ہوتی ہیں۔"
+              ],
+              "english": [
+                "Suspicion builds walls between friends and relatives.",
+                "It destroys mutual trust and causes restlessness in society.",
+                "Most conflicts are rooted in misunderstandings and negative assumptions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جاسوسی اور غیبت کا راستہ",
+              "english": "Path to Spying and Backbiting"
+            },
+            "content": {
+              "urdu": [
+                "بدگمانی انسان کو دوسروں کی جاسوسی (تجسس) پر اکساتی ہے۔",
+                "جب دل میں برا خیال آتا ہے تو انسان اسے زبان پر غیبت کی صورت میں لاتا ہے۔",
+                "اسلامی معاشرے کی بنیاد 'سلامتی' پر ہے، نہ کہ شک و شبہ پر۔"
+              ],
+              "english": [
+                "Suspicion incites individuals to spy (Tajassus) on others.",
+                "When a negative thought enters the heart, it often leads to backbiting.",
+                "An Islamic society is built on peace and safety, not on doubt and suspicion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی حل اور علاج",
+        "english": "Islamic Solution and Remedy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حسنِ ظن کی فضیلت",
+              "english": "Virtue of Good Expectations"
+            },
+            "content": {
+              "urdu": [
+                "قرآن پاک میں کثرتِ ظن سے بچنے کا حکم دیا گیا ہے (سورة الحجرات)۔",
+                "دوسروں کی باتوں کی بہتر تاویل کرنا تقویٰ کی علامت ہے۔",
+                "کسی مشکوک بات پر وضاحت مانگ لینا خاموش بدگمانی سے بہتر ہے۔"
+              ],
+              "english": [
+                "The Quran commands avoiding excessive suspicion (Surah al-Hujurat).",
+                "Interpreting others' words in the best possible way is a sign of piety.",
+                "Seeking clarification for something doubtful is better than silent suspicion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وسوسوں کا علاج",
+              "english": "Curing Whispers"
+            },
+            "content": {
+              "urdu": [
+                "جب دل میں کسی کے بارے میں برا خیال آئے تو 'استغفار' کرنا چاہیے۔",
+                "شیطانی وسوسوں کو دل میں جگہ دینے کے بجائے ان کو جھٹک دینا چاہیے۔",
+                "دوسروں کے عیب چھپانا اللہ کو بہت پسند ہے۔"
+              ],
+              "english": [
+                "Recite 'Istighfar' when a negative thought about someone enters the heart.",
+                "Wipe away satanic whispers instead of allowing them to reside in the heart.",
+                "Allah loves those who cover the faults of others."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خود احتسابی",
+              "english": "Self-Accountability"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں دوسروں پر تنقید سے پہلے اپنی کوتاہیوں پر نظر رکھنی چاہیے۔",
+                "معاشرے میں امن کے لیے ایک دوسرے کا خیر خواہ بننا ضروری ہے۔",
+                "زبان اور دل کی پاکیزگی ہی جنت کا راستہ ہے۔"
+              ],
+              "english": [
+                "We should look at our own flaws before criticizing others.",
+                "Being well-wishers for one another is essential for social peace.",
+                "Purity of the heart and tongue is the path to Paradise."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

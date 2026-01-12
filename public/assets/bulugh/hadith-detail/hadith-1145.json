@@ -1,0 +1,264 @@
+{
+  "hadithId": 1145,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/11"],
+    "kitabId": 12,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 92
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (7358)، ومسلم (1947). وأصله أن خالد بن الوليد أكل منه والنبى صلى الله عليه وسلم ينظر إليه ولم ينكر عليه.",
+    "urdu": "یہ روایت صحیح ہے اور بخاری و مسلم دونوں میں موجود ہے۔ اس کا پس منظر یہ ہے کہ خالد بن ولید رضی اللہ عنہ نے اسے کھایا اور آپ ﷺ نے منع نہیں فرمایا۔",
+    "english": "Sahih. Reported by Al-Bukhari (7358) and Muslim (1947). The context is that Khalid bin Al-Walid ate it in the presence of the Prophet (ﷺ), who did not object."
+  },
+  "importantWords": [
+    {
+      "arabic": "أُكِلَ",
+      "english": "Was eaten",
+      "urdu": "کھایا گیا"
+    },
+    {
+      "arabic": "اَلضَّبُّ",
+      "english": "Spiny-tailed lizard",
+      "urdu": "سانڈا / گوہ"
+    },
+    {
+      "arabic": "مَائِدَةِ",
+      "english": "Table / Spread",
+      "urdu": "دسترخوان"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْهِ",
+      "english": "Agreed upon",
+      "urdu": "متفق علیہ"
+    },
+    {
+      "arabic": "تَرَكَ",
+      "english": "Left / Avoided",
+      "urdu": "چھوڑ دیا"
+    },
+    {
+      "arabic": "تَقَذُّراً",
+      "english": "Dislike / Distaste",
+      "urdu": "طبیعی ناپسندیدگی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ضب (سانڈے) کے حلال ہونے کی دلیل ہے کیونکہ یہ رسول اللہ ﷺ کے دسترخوان پر کھایا گیا، اگرچہ آپ ﷺ نے خود اپنی طبیعت کی وجہ سے اسے نہیں کھایا۔",
+    "english": "This Hadith proves that the Dabb (lizard) is Halal to eat because it was consumed at the Prophet's (ﷺ) table with his tacit approval."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (7358)",
+      "english": "Sahih al-Bukhari (7358)"
+    },
+    {
+      "arabic": "صحيح مسلم (1947)",
+      "english": "Sahih Muslim (1947)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YF8W8mDkY",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور حلالیت",
+        "english": "Jurisprudence and Permissibility"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضب کا شرعی حکم",
+              "english": "Legal Ruling on Dabb"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک دسترخوانِ نبوی پر کسی چیز کا کھایا جانا اس کے حلال ہونے کی مہر ہے۔",
+                "اگر یہ حرام ہوتا تو آپ ﷺ اپنے دسترخوان پر اس کی اجازت کبھی نہ دیتے۔",
+                "اس سے ثابت ہوا کہ ریگستانی چھپکلی (ضب) کا گوشت کھانا جائز ہے۔"
+              ],
+              "english": [
+                "According to jurists, an item eaten at the Prophet's table confirms its permissibility.",
+                "If it were forbidden (Haram), the Prophet (ﷺ) would never have allowed it at his table.",
+                "This proves that the meat of the Dabb (desert lizard) is permissible to consume."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقریری حدیث کی اہمیت",
+              "english": "Importance of Tacit Approval"
+            },
+            "content": {
+              "urdu": [
+                "جس کام پر آپ ﷺ خاموش رہیں یا سامنے ہونے دیں، اسے 'حدیثِ تقریری' کہتے ہیں۔",
+                "یہ سنت کی ایک اہم قسم ہے جو جواز فراہم کرتی ہے۔",
+                "صحابہ کرام کا آپ ﷺ کی موجودگی میں کھانا اس کے طیب ہونے کی دلیل ہے۔"
+              ],
+              "english": [
+                "An action the Prophet (ﷺ) remained silent about or allowed in his presence is 'Sunnah Taqririyyah'.",
+                "This is a vital type of Sunnah that establishes the legality of an action.",
+                "The Companions eating it in his presence serves as proof of its purity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبعی ناپسندیدگی بمقابلہ شرعی حرمت",
+        "english": "Natural Dislike vs Legal Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آپ ﷺ کا نہ کھانا",
+              "english": "Why the Prophet (ﷺ) Did Not Eat"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے اسے حرام ہونے کی وجہ سے نہیں بلکہ اپنی طبیعت کی وجہ سے نہیں کھایا۔",
+                "آپ ﷺ نے فرمایا کہ یہ میرے علاقے (نجد) میں نہیں ہوتا، اس لیے مجھے رغبت نہیں۔",
+                "اس سے معلوم ہوا کہ کسی حلال چیز کو نہ کھانا اس کے حرام ہونے کی دلیل نہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not refrain from it due to prohibition, but due to personal taste.",
+                "He stated that it was not found in his land (Najd), so he found it unappetizing.",
+                "This shows that avoiding a Halal item personally does not make it Haram for others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی رغبت کا اختیار",
+              "english": "Option of Personal Preference"
+            },
+            "content": {
+              "urdu": [
+                "اسلام انسان کو حلال اشیاء میں اپنی پسند کے مطابق انتخاب کا حق دیتا ہے۔",
+                "کسی چیز سے کراہت محسوس کرنا ایک انسانی جبلت ہے، شرعی حکم نہیں۔",
+                "آپ ﷺ نے صحابہ کو کھانے سے روک کر ان پر تنگی نہیں فرمائی۔"
+              ],
+              "english": [
+                "Islam grants humans the right to choose among Halal items based on preference.",
+                "Feeling a natural distaste for something is a human instinct, not a legal ruling.",
+                "The Prophet (ﷺ) did not restrict the Companions, ensuring ease in religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی و ثقافتی پہلو",
+        "english": "Socio-Cultural Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علاقائی خوراک",
+              "english": "Regional Diets"
+            },
+            "content": {
+              "urdu": [
+                "مختلف علاقوں کے لوگوں کی خوراک ان کے ماحول کے مطابق ہوتی ہے۔",
+                "اہلِ نجد کے ہاں ضب ایک عام غذا تھی جسے وہ رغبت سے کھاتے تھے۔",
+                "شریعت نے مقامی طیب روایات اور خوراک کا احترام کیا ہے۔"
+              ],
+              "english": [
+                "The diets of different people often depend on their local environment.",
+                "For the people of Najd, Dabb was a common and desired food source.",
+                "Shariah respects local traditions and wholesome regional diets."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کی اتباع",
+              "english": "Following the Companions"
+            },
+            "content": {
+              "urdu": [
+                "حضرت خالد بن ولید رضی اللہ عنہ نے آپ ﷺ سے پوچھ کر اطمینان کیا۔",
+                "صحابہ ہر معاملے میں آپ ﷺ سے رہنمائی لینے کے حریص تھے۔",
+                "اس سے واضح ہوتا ہے کہ صحابہ کے اعمال سنتِ نبوی کے تابع تھے۔"
+              ],
+              "english": [
+                "Khalid bin Al-Walid (RA) sought clarification from the Prophet (ﷺ) first.",
+                "The Companions were eager to seek guidance in every matter of life.",
+                "This highlights that the actions of the Companions were governed by the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی سبق",
+        "english": "Ethical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کھانے کے آداب",
+              "english": "Etiquettes of Eating"
+            },
+            "content": {
+              "urdu": [
+                "اگر دسترخوان پر کوئی چیز پسند نہ ہو تو خاموشی سے چھوڑ دینا سنت ہے۔",
+                "کھانے میں عیب نکالنا یا اسے برا بھلا کہنا آپ ﷺ کا طریقہ نہیں تھا۔",
+                "دسترخوان پر دوسروں کی پسند کا احترام کرنا اخلاقِ نبوی ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to silently leave an item at the table if it is not to your liking.",
+                "Finding faults in food or criticizing it was never the way of the Prophet (ﷺ).",
+                "Respecting the preferences of others at the table is part of Prophetic character."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح کرتی ہے کہ دین میں بلاوجہ کی سختی پسندیدہ نہیں ہے۔",
+                "جو چیز اللہ نے حلال کی، اسے اپنی طرف سے حرام نہیں کرنا چاہیے۔",
+                "شریعت نے انسانی ضروریات اور سہولیات کا ہمیشہ خیال رکھا ہے۔"
+              ],
+              "english": [
+                "This Hadith clarifies that unnecessary hardship in religion is not preferred.",
+                "One should not declare Haram what Allah has made Halal.",
+                "Shariah has always considered human needs and convenience."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

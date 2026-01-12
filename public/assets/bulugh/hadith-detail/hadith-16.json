@@ -1,0 +1,250 @@
+{
+  "hadithId": 16,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:366"],
+    "kitabId": 1,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 2
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (366). ورواه النسائي (773)، والترمذي (1728)، وابن ماجه (3609) عن ابن عباس أيضًا، وهو صحيح كسابقه. تنبيه: وهم الحافظ في قوله: 'وعند الأربعة' لأن أبا داود لم يروه بهذا اللفظ.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام مسلم (366) نے روایت کیا ہے۔ اور نسائی (773)، ترمذی (1728) اور ابن ماجہ (3609) نے بھی ابن عباس رضی اللہ عنہما سے روایت کیا ہے۔ الحافظ نے 'وعند الأربعة' کہنے میں غلطی کی کیونکہ ابوداؤد نے یہ الفاظ نقل نہیں کیے۔",
+    "english": "Authentic. Reported by Muslim (366). Also narrated by an-Nasa'i (773), at-Tirmidhi (1728), and Ibn Majah (3609) from Ibn Abbas. Note: Al-Hafiz erred in saying 'the Four Sunan' because Abu Dawud did not narrate this wording."
+  },
+
+  "importantWords": [
+    {
+      "arabic": "الإهاب",
+      "english": "raw hide; untanned skin",
+      "urdu": "کچا چمڑا؛ بغیر دباغت کے جلد"
+    },
+    {
+      "arabic": "دُبِغَ",
+      "english": "to be tanned; to be purified through processing",
+      "urdu": "دباغت دینا؛ چمڑے کو صاف و قابل استعمال بنانا"
+    }
+  ],
+
+  "summary": {
+    "urdu": "اس حدیث میں کچے چمڑے کے احکام بیان کیے گئے ہیں کہ دباغت دینے کے بعد وہ پاک ہو جاتا ہے اور استعمال کے قابل بن جاتا ہے۔ دباغت نجاست کو دور کرنے کا ذریعہ ہے۔",
+    "english": "This hadith explains that raw hides become pure after tanning. Tanning removes impurity and makes the skin permissible for use."
+  },
+
+  "references": [
+    {
+      "arabic": "رواه مسلم (366) والنسائي (773) والترمذي (1728) وابن ماجه (3609)",
+      "english": "Reported by Muslim (366), an-Nasa'i (773), at-Tirmidhi (1728), and Ibn Majah (3609)"
+    }
+  ],
+
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+
+  "ytLink": "https://youtu.be/example-hadith16",
+
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دباغت کے بعد چمڑے کی طہارت",
+        "english": "Purification of Hides After Tanning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نجاست کا زائل ہونا",
+              "english": "Removal of Impurity"
+            },
+            "content": {
+              "urdu": [
+                "چمڑے میں دباغت اس کی نجاست کو دور کر دیتی ہے۔",
+                "کچا چمڑا اصل میں ناپاک ہوتا ہے، دباغت اسے پاک کر دیتی ہے۔",
+                "دباغت کے بعد چمڑا نماز اور استعمال کی چیزوں کے لیے جائز ہے۔"
+              ],
+              "english": [
+                "Tanning removes the impurity from raw hides.",
+                "Untanned skin is originally impure, and tanning purifies it.",
+                "After tanning, the hide is permissible for use, including in prayer-related items."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہر قسم کا چمڑا",
+              "english": "All Types of Hides"
+            },
+            "content": {
+              "urdu": [
+                "سنن اربعہ کی روایت بتاتی ہے کہ ’جس قسم کا بھی چمڑا ہو‘ دباغت اسے پاک کرتی ہے۔",
+                "یہ حکم عام ہے اور اکثر جانداروں کے چمڑے پر لاگو ہوتا ہے۔",
+                "اہل علم کے نزدیک مردار جانور کا چمڑا بھی دباغت سے پاک ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The narration in the Four Sunan indicates that 'any hide' becomes pure after tanning.",
+                "The ruling is general and applies to most animals.",
+                "Scholars state that even the hide of a dead animal becomes pure after tanning."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "اسلام میں صفائی کا تصور",
+        "english": "The Concept of Cleanliness in Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پاکیزگی کی اہمیت",
+              "english": "Importance of Purity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں پاکیزگی ایمان کا حصہ ہے۔",
+                "اشیاء کو پاک طریقے سے استعمال کرنا عبادت کا حصہ ہے۔",
+                "چمڑے کی دباغت پاکیزگی کی شریعت میں مقرر کردہ شکل ہے۔"
+              ],
+              "english": [
+                "Purity is considered a part of faith in Islam.",
+                "Using things in a pure state is part of worship.",
+                "Tanning is a legislated method of purification in Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناپاک اشیاء کا حکم",
+              "english": "Ruling on Impure Objects"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نجاست کے استعمال کی اجازت نہیں دیتا۔",
+                "چمڑے کی نجاست دباغت کے ذریعے ختم کر دی جاتی ہے۔",
+                "یہ طریقہ نجاست والے مواد کو پاک کرنے کی مثال ہے۔"
+              ],
+              "english": [
+                "Islam does not allow the use of impure objects.",
+                "The impurity of the hide is removed through tanning.",
+                "This demonstrates that impurity can be purified through proper methods."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور اختلافات",
+        "english": "Fiqh Issues and Scholarly Opinions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کون سا چمڑا پاک ہوتا ہے؟",
+              "english": "Which Hides Become Pure?"
+            },
+            "content": {
+              "urdu": [
+                "اکثر علماء کے نزدیک ہر جانور کا چمڑا دباغت سے پاک ہو جاتا ہے۔",
+                "کچھ فقہاء نے کتے اور خنزیر کے چمڑے کو مستثنیٰ قرار دیا ہے۔",
+                "جمہور کے نزدیک حدیث کا عموم ہر چمڑے کو شامل ہے۔"
+              ],
+              "english": [
+                "Most scholars say every hide becomes pure through tanning.",
+                "Some jurists exclude the hides of dogs and pigs.",
+                "The majority hold that the wording of the hadith includes all hides."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دباغت کے شرعی فوائد",
+              "english": "Shar‘i Benefits of Tanning"
+            },
+            "content": {
+              "urdu": [
+                "چمڑا برباد ہونے سے بچ جاتا ہے۔",
+                "مردار جانور کی کھال بھی مفید بن جاتی ہے۔",
+                "یہ شریعت کی آسانی اور رحمت کی مثال ہے۔"
+              ],
+              "english": [
+                "Tanning prevents valuable hides from going to waste.",
+                "Even the hide of a dead animal becomes usable.",
+                "This shows Islam’s practicality and mercy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور عملی فائدے",
+        "english": "Social and Practical Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استعمال کی وسعت",
+              "english": "Wide Utility"
+            },
+            "content": {
+              "urdu": [
+                "دباغت شدہ چمڑا کئی روزمرہ اشیاء میں استعمال ہوتا ہے۔",
+                "اسلام نے اسے جائز قرار دے کر لوگوں کو سہولت دی۔",
+                "جیسے مشکیزے، بیگ، جوتے وغیرہ۔"
+              ],
+              "english": [
+                "Tanned leather is used in many daily items.",
+                "Islam permitted it to facilitate people.",
+                "Such as water-bags, shoes, and bags."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صفائی کا عملی تصور",
+              "english": "Practical Application of Cleanliness"
+            },
+            "content": {
+              "urdu": [
+                "چمڑے کی طہارت عملی صفائی کی مثال ہے۔",
+                "اسلام نجاست کو ختم کر کے چیزوں کو فائدہ مند بناتا ہے۔",
+                "یہ ماحول کے تحفظ کی بھی علامت ہے۔"
+              ],
+              "english": [
+                "Purifying leather reflects Islam’s practical approach to cleanliness.",
+                "Islam removes impurity and makes materials beneficial.",
+                "It also reflects environmental preservation by avoiding waste."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

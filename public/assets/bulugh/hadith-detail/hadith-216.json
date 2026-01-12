@@ -1,0 +1,276 @@
+{
+  "hadithId": 216,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["2", "7"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب صفة الصلاة",
+    "babId": 17
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواية ابن عمر عند البخاري في كتاب الأذان، باب رفع اليدين في التكبيرة الأولى مع الافتتاح (735)، ومسلم في كتاب الصلاة، باب استحباب رفع اليدين حذو المنكبين مع تكبيرة الإحرام (390). ورواية أبي حميد الساعدي عند أبي داود (730) وهي صحيحة، ورواية مالك بن الحويرث عند مسلم (391) وهي صحيحة أيضاً.",
+    "urdu": "صحیح متفق علیہ۔ ابن عمر کی روایت بخاری میں کتاب الأذان، باب رفع الیدین فی التکبیرة الأولیٰ مع الافتتاح (735) اور مسلم میں کتاب الصلاة، باب استحباب رفع الیدین حذو المنکبین مع تکبیرة الإحرام (390) میں ہے۔ ابو حمید ساعدی کی روایت ابو داؤد (730) میں ہے اور یہ صحیح ہے، اور مالک بن حویرث کی روایت مسلم (391) میں ہے اور یہ بھی صحیح ہے۔",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh). Ibn 'Umar's narration is in Al-Bukhari, Book of Adhan (735) and Muslim, Book of Prayer (390). Abu Humayd As-Sa'idi's narration is in Abu Dawud (730) and is authentic. Malik ibn Al-Huwayrith's narration is in Muslim (391) and is also authentic."
+  },
+  "importantWords": [
+    {
+      "arabic": "يرفع يديه",
+      "english": "He would raise his hands",
+      "urdu": "اپنے دونوں ہاتھ اٹھاتے"
+    },
+    {
+      "arabic": "حَذْوَ مَنْكِبَيْهِ",
+      "english": "Parallel to his shoulders",
+      "urdu": "کندھوں کے مقابل"
+    },
+    {
+      "arabic": "افْتَتَحَ الصَّلَاةَ",
+      "english": "He started the prayer",
+      "urdu": "نماز کا آغاز کیا"
+    },
+    {
+      "arabic": "لِلرُّكُوعِ",
+      "english": "For the bowing (Ruku')",
+      "urdu": "رکوع کے لیے"
+    },
+    {
+      "arabic": "رَفَعَ رَأْسَهُ مِنْ الرُّكُوعِ",
+      "english": "He raised his head from Ruku'",
+      "urdu": "رکوع سے سر اٹھایا"
+    },
+    {
+      "arabic": "فُرُوعَ أُذُنَيْهِ",
+      "english": "The tips/tops of his ears",
+      "urdu": "کانوں کے نرم حصوں کے مقابل"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز میں رفع الیدین (ہاتھ اٹھانے) کے مسنون مقامات اور طریقوں کو واضح کرتی ہے۔ یہ عمل تکبیر تحریمہ، رکوع میں جاتے وقت، اور رکوع سے سر اٹھاتے وقت سنت ہے۔ ہاتھوں کو کندھوں کے برابر تک اٹھانا یا بعض روایات کے مطابق کانوں کے نرم حصوں تک اٹھانا، دونوں ہی سنت سے ثابت ہیں۔",
+    "english": "This Hadith clarifies the Sunnah positions and methods for Raf' Al-Yadayn (raising the hands) in prayer. This action is Sunnah at the Takbirat Al-Ihram (opening), when going into Ruku', and when rising from Ruku'. Both methods—raising the hands parallel to the shoulders or parallel to the tops of the ears—are authentically proven from the Sunnah."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأذان، باب رفع اليدين في التكبيرة الأولى مع الافتتاح (735)",
+      "english": "Sahih Al-Bukhari, Book of Adhan, Chapter: Raising the hands with the first Takbir (735)"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الصلاة، باب استحباب رفع اليدين حذو المنكبين مع تكبيرة الإحرام (390)",
+      "english": "Sahih Muslim, Book of Prayer, Chapter: Recommendation of raising the hands parallel to the shoulders with Takbirat Al-Ihram (390)"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الصلاة، باب رفع اليدين في الصلاة (730)",
+      "english": "Sunan Abu Dawud, Book of Prayer, Chapter: Raising the hands in prayer (730)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "مالك بن الحويرث",
+        "english": "Malik ibn Al-Huwayrith"
+      },
+      "slug": "malik-ibn-al-huwayrith"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2E-R6kUeB0",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رفع الیدین کے مقامات",
+        "english": "Positions for Raf' Al-Yadayn (Raising Hands)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین مسنون مقامات",
+              "english": "Three Sunnah Positions"
+            },
+            "content": {
+              "urdu": [
+                "ابن عمرؓ کی متفق علیہ روایت کے مطابق، نبی صلی اللہ علیہ وسلم تین جگہوں پر رفع الیدین کرتے تھے: آغازِ نماز۔",
+                "دوسرا، رکوع میں جانے سے پہلے اور تیسرا، رکوع سے اٹھنے کے بعد۔",
+                "بعض روایات میں قعدہ اولیٰ سے اٹھنے کے بعد بھی رفع الیدین کا ذکر ہے، جو بھی سنت سے ثابت ہے۔"
+              ],
+              "english": [
+                "According to the agreed-upon narration of Ibn 'Umar (RA), the Prophet (PBUH) performed Raf' Al-Yadayn at three places: the beginning of the prayer.",
+                "Second, before going into Ruku', and third, after rising from Ruku'.",
+                "Some narrations also mention raising hands after rising from the first Tashahhud, which is also proven by the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رفع الیدین کی حکمت",
+              "english": "Wisdom Behind Raf' Al-Yadayn"
+            },
+            "content": {
+              "urdu": [
+                "یہ عمل اللہ کی بڑائی اور عظمت کا اعتراف ہے، جو نماز میں خشوع اور حضورِ قلب کو بڑھاتا ہے۔",
+                "یہ جسمانی طور پر نماز میں داخل ہونے، جھکنے، اور اٹھنے کے لیے تیار ہونے کا ایک ذریعہ ہے۔",
+                "یہ نماز کے اہم ارکان کو دیگر ارکان سے ممتاز کرنے کا ایک ظاہری نشان بھی ہے۔"
+              ],
+              "english": [
+                "This action is an acknowledgment of Allah's greatness and majesty, which enhances concentration (Khushu') and presence of heart.",
+                "It serves as a physical means of preparing to enter, bow, and stand up straight in the prayer.",
+                "It is also an external sign distinguishing the major pillars of prayer from other actions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ہاتھ اٹھانے کا طریقہ",
+        "english": "Method of Raising the Hands"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کندھوں کے مقابل",
+              "english": "Level with the Shoulders"
+            },
+            "content": {
+              "urdu": [
+                "اکثر اور قوی روایات کے مطابق رفع الیدین کا مسنون طریقہ ہاتھوں کو کندھوں کے بالکل برابر اٹھانا ہے۔",
+                "ابن عمرؓ اور ابو حمیدؓ کی روایات اسی طریقے کو بیان کرتی ہیں اور اس پر صحابہ کا عمل زیادہ رہا۔",
+                "ہتھیلیوں کو قبلہ رُخ رکھنا اور انگلیوں کو معمول کے مطابق کھلا رکھنا بھی سنت ہے۔"
+              ],
+              "english": [
+                "According to the majority of strong narrations, the Sunnah method of Raf' Al-Yadayn is to raise the hands exactly parallel to the shoulders.",
+                "The narrations of Ibn 'Umar (RA) and Abu Humayd (RA) describe this method, which was widely practiced by the Companions.",
+                "It is also Sunnah to keep the palms facing the Qiblah and the fingers naturally open."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کانوں کے مقابل",
+              "english": "Level with the Ears"
+            },
+            "content": {
+              "urdu": [
+                "مالک بن حویرث کی روایت کے مطابق، نبی صلی اللہ علیہ وسلم اپنے ہاتھ کانوں کے نرم حصوں (فروع اذنيه) تک اٹھاتے تھے۔",
+                "یہ طریقہ بھی سنت سے ثابت ہے اور مختلف فقہی مکاتب فکر اسے اختیار کرتے ہیں۔",
+                "ان دونوں طریقوں میں کوئی تضاد نہیں، بلکہ یہ نماز کی مسنون ہیئت میں ایک تنوع کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "According to Malik ibn Al-Huwayrith's narration, the Prophet (PBUH) would raise his hands level with the tips of his ears (furū'a udhunayh).",
+                "This method is also proven from the Sunnah, and various schools of jurisprudence adopt it.",
+                "There is no contradiction between these two methods; rather, it indicates diversity in the Sunnah posture of the prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اصول اور فقہی رہنمائی",
+        "english": "Practical Principles and Juristic Guidance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رفع الیدین کا حکم",
+              "english": "Ruling on Raf' Al-Yadayn"
+            },
+            "content": {
+              "urdu": [
+                "چاروں ائمہ فقہ (ابوحنیفہؒ، مالکؒ، شافعیؒ، احمدؒ) اس بات پر متفق ہیں کہ رفع الیدین نماز کو باطل نہیں کرتا۔",
+                "جمہور علماء کے نزدیک رفع الیدین کرنا سنتِ مؤکدہ ہے، جبکہ بعض اسے مستحب یا سنت قرار دیتے ہیں۔",
+                "اس مسئلے میں اختلاف رائے کے باوجود، کسی کو دوسرے پر طعن و تشنیع نہیں کرنی چاہیے کیونکہ دونوں مسنون ہیں۔"
+              ],
+              "english": [
+                "The four Imams of Fiqh (Abu Hanifah, Malik, Shafi'i, Ahmad) agree that Raf' Al-Yadayn does not invalidate the prayer.",
+                "The majority of scholars consider it a Sunnah Mu'akkadah (emphasized Sunnah), while others classify it as Mustahabb (recommended) or Sunnah.",
+                "Despite the difference of opinion, no one should criticize another, as both methods are proven from the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تکبیر اور رفع الیدین کا وقت",
+              "english": "Timing of Takbir and Raf' Al-Yadayn"
+            },
+            "content": {
+              "urdu": [
+                "ابو حمید کی روایت میں 'ثم یکبر' (پھر تکبیر کہو) سے یہ ظاہر ہوتا ہے کہ رفع الیدین پہلے اور تکبیر بعد میں ہو۔",
+                "دیگر روایات سے یہ بھی ثابت ہے کہ رفع الیدین اور تکبیر ایک ساتھ شروع اور ختم ہوں۔",
+                "دونوں طریقے مسنون ہیں اور کسی ایک پر عمل کرنے میں وسعت ہے۔"
+              ],
+              "english": [
+                "Abu Humayd's narration, 'Thumma Yukabbiru' (then he says Takbir), suggests that Raf' Al-Yadayn precedes the Takbir.",
+                "Other narrations also confirm that Raf' Al-Yadayn and Takbir should begin and end simultaneously.",
+                "Both methods are Sunnah, providing ease and scope in practicing either one."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور تربیتی پہلو",
+        "english": "Spiritual and Educational Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت پر عمل کی ترغیب",
+              "english": "Encouragement to Act Upon the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "رفع الیدین نماز کی ایک ایسی ہیئت ہے جو نبی صلی اللہ علیہ وسلم سے کثرت سے ثابت ہے۔",
+                "اس پر عمل کرنے سے نمازی کو نبی صلی اللہ علیہ وسلم کی کامل اتباع کا ثواب ملتا ہے۔",
+                "نمازی کو چاہیے کہ وہ اپنی نماز کی ہر ہیئت کو مسنون طریقے کے مطابق ڈھالے۔"
+              ],
+              "english": [
+                "Raf' Al-Yadayn is a posture of prayer proven frequently from the Prophet (PBUH).",
+                "Adherence to it brings the reward of complete emulation of the Prophet (PBUH).",
+                "The worshipper should strive to align every posture of their prayer with the Sunnah method."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسلمانوں میں اتحاد",
+              "english": "Unity Among Muslims"
+            },
+            "content": {
+              "urdu": [
+                "فقہی اختلافات کے باوجود مسلمانوں کو آپس میں اتحاد اور رواداری کو برقرار رکھنا چاہیے۔",
+                "جس نے نبی صلی اللہ علیہ وسلم سے ثابت شدہ کسی بھی طریقے پر عمل کیا، اس نے سنت پر عمل کیا۔",
+                "تفرقہ بازی سے بچ کر، سب کو یہ جاننا چاہیے کہ نماز کا اصل مقصد اللہ کی رضا اور خشوع ہے۔"
+              ],
+              "english": [
+                "Despite juristic differences, Muslims should maintain unity and tolerance among themselves.",
+                "Whoever acts upon any method proven from the Prophet (PBUH) has acted upon the Sunnah.",
+                "Avoiding sectarianism, everyone should recognize that the true purpose of prayer is the pleasure of Allah and Khushu'."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

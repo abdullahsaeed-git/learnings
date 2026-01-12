@@ -1,0 +1,213 @@
+{
+  "hadithId": 40,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 12 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب فضل الوضوء وعلامة الأمة",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه البخاري (136) ، ومسلم (246)  (35)  وقوله: \"فمن استطاع …\" مدرج من كلام أبي هريرة.  والله أعلم. ",
+    "urdu": "صحیح (درجہ)۔ اسے بخاری (136) اور مسلم (246) (35) نے روایت کیا ہے۔ اور یہ قول کہ \"جو شخص اس چمک کو بڑھا سکتا ہے...\" یہ ابوہریرہ رضی اللہ عنہ کے اپنے کلام میں شامل ہے (مدرج)۔ واللہ اعلم۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bukhari (136) and Muslim (246). The phrase 'So, whoever among you is able...' is an inserted comment (Mudraj) from the statement of Abu Hurayrah (RA), and Allah knows best."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَوْمَ اَلْقِيَامَةِ",
+      "english": "The Day of Resurrection",
+      "urdu": "قیامت کا روز"
+    },
+    {
+      "arabic": "غُرًّا",
+      "english": "Bright/white faces",
+      "urdu": "چمکتے ہوئے چہرے"
+    },
+    {
+      "arabic": "مُحَجَّلِينَ",
+      "english": "Bright/white limbs",
+      "urdu": "چمکتے ہوئے ہاتھ پاؤں"
+    },
+    {
+      "arabic": "أَثَرِ اَلْوُضُوءِ",
+      "english": "Traces of Wudu",
+      "urdu": "وضو کے اثرات"
+    },
+    {
+      "arabic": "يُطِيلَ غُرَّتَهُ",
+      "english": "Extend his brightness",
+      "urdu": "چمک کو زیادہ بڑھا سکتا ہو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ قیامت کے دن وضو کے اعضاء کی چمک اور روشنی امت محمدیہ کی پہچان ہو گی، اور مسلمانوں کو ترغیب دی گئی ہے کہ وہ وضو میں پانی کی حد کو بڑھا کر اس چمک اور نور میں اضافہ کریں۔",
+    "english": "This Hadith states that on the Day of Resurrection, the limbs of the Muslim Ummah will shine brightly due to the effects of Wudu, and it encourages believers to extend the washed area beyond the obligatory boundaries to increase this spiritual light."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الوضوء، رقم 136",
+      "english": "Sahih Al-Bukhari, The Book of Ablution, Hadith 136"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الطهارة، رقم 246",
+      "english": "Sahih Muslim, The Book of Purification, Hadith 246"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abu Hurayrah (May Allah be pleased with him)"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-18-ghurran-muhajjalin",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Agreed Upon (by Bukhari and Muslim)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قیامت کی نشانی",
+        "english": "The Sign on the Day of Judgment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غُرّاً مُحَجَّلِينَ کا مفہوم",
+              "english": "The Meaning of Ghurr and Muhajjalīn"
+            },
+            "content": {
+              "urdu": [
+                "**غُرّ** سے مراد وہ سفید نشان ہے جو گھوڑے کے ماتھے پر ہوتا ہے، یہاں اس کا مطلب ہے قیامت کے دن وضو کے اعضاء کا چمکتا ہوا چہرہ۔",
+                "**مُحَجَّلِينَ** سے مراد وہ سفید نشان ہے جو گھوڑے کے ہاتھ پاؤں پر ٹخنوں سے اوپر تک ہوتا ہے، یہاں اس کا مطلب ہے وضو کے ہاتھوں اور پاؤں کی چمک۔",
+                "یہ چمک اور نور امتِ محمدیہ کی ایک خاص پہچان ہو گی، جو انہیں دیگر امتوں سے ممتاز کرے گی اور نبی ﷺ اپنی امت کو اسی نور سے پہچانیں گے۔"
+              ],
+              "english": [
+                "**Ghurr** literally refers to the white blaze on a horse's forehead; here, it signifies the brightly shining faces of the Muslims on the Day of Resurrection due to Wudu.",
+                "**Muhajjalīn** refers to the white mark extending above the ankles and knees of a horse; here, it signifies the luminous hands and feet of the believers.",
+                "This radiance will be a unique distinguishing mark of the Ummah of Muhammad (ﷺ), by which the Prophet (ﷺ) will recognize his followers among the nations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضو کی اہمیت",
+              "english": "The Importance of Wudu"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح طور پر بیان کرتی ہے کہ طہارت اور نماز کی بنیاد **وضو** ہے، اور یہ عمل صرف دنیوی نہیں بلکہ اخروی اثرات بھی رکھتا ہے۔",
+                "وضو کے ذریعے مسلمان کو جو ظاہری پاکیزگی حاصل ہوتی ہے، اللہ تعالیٰ اسے قیامت کے دن روحانی نور اور چمک میں تبدیل کر دیں گے۔",
+                "یہ اس بات کی دلیل ہے کہ اسلام میں صفائی اور طہارت کا مقام محض رسم و رواج نہیں بلکہ ایک اہم عبادت ہے۔"
+              ],
+              "english": [
+                "This Hadith clearly states that **Wudu** is fundamental to purity and prayer, an act that carries spiritual effects far beyond this world.",
+                "The physical cleanliness achieved through Wudu is transformed by Allah into a spiritual light and radiance for the believer on the Day of Judgment.",
+                "This serves as evidence that cleanliness and purification in Islam hold a status beyond mere custom; they are profound acts of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "چمک بڑھانے کا طریقہ (تطویل الغرہ)",
+        "english": "Method to Increase Radiance (Taṭwīl al-Ghurrah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چمک کو بڑھانا",
+              "english": "Extending the Brightness"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں ابو ہریرہؓ کا قول ہے: 'جو شخص اس چمک اور روشنی کو زیادہ بڑھا سکتا ہو اسے ضرور بڑھانی چاہیئے۔' اسے **تطویل الغرہ و التحجیل** کہتے ہیں۔",
+                "اس کا مطلب یہ ہے کہ وضو کرتے وقت ہاتھ اور پاؤں کو دھونے کی فرض حد (کہنیوں اور ٹخنوں) سے **آگے تک** دھویا جائے، تاکہ نور کا دائرہ وسیع ہو جائے۔",
+                "اس حکم کی پیروی ایک **مستحب** عمل ہے، جو زیادہ اجر کا ذریعہ ہے، تاکہ نور اور چمک زیادہ دور سے دیکھی جا سکے۔"
+              ],
+              "english": [
+                "Abu Hurayrah's statement, 'whoever among you is able to extend the brightness of his parts, let him do so,' is called **Taṭwīl al-Ghurrah wa at-Taḥjīl**.",
+                "This means that during Wudu, one should wash the arms and legs **beyond** the obligatory limits (elbows and ankles) to expand the area of spiritual light.",
+                "Following this command is a **recommended (Mustaḥabb)** act, a source of extra reward, ensuring the light and radiance are visible from a greater distance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تطویل الغرہ کی فقہی حیثیت",
+              "english": "Fiqh Status of Taṭwīl al-Ghurrah"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک، وضو کے اعضاء کو ان کی فرض حدود سے آگے تک دھونا **سنت** یا **مستحب** ہے، نہ کہ فرض۔",
+                "یہ صرف وضو کے اعضاء پر ہی ہوتا ہے، اور اس کا اطلاق سر کے مسح پر نہیں ہوتا کیونکہ سر کو دھویا نہیں جاتا بلکہ مسح کیا جاتا ہے۔",
+                "اس عمل سے نہ صرف چمک بڑھتی ہے بلکہ وضو کے دوران خشک رہ جانے والی چھوٹی سی جگہ کے بارے میں شکوک بھی ختم ہو جاتے ہیں۔"
+              ],
+              "english": [
+                "Washing the Wudu limbs beyond their obligatory limits is considered a **Sunnah** or **Mustaḥabb** (recommended) act by jurists, not an obligation.",
+                "This applies only to the washed limbs (face, hands, and feet) and not to the head wipe, as the head is wiped, not washed.",
+                "Performing this act not only increases the radiance but also removes any doubts about leaving a small part of the obligatory area unwashed during Wudu."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی کا ادراج اور روایت",
+        "english": "Narrator's Insertion and Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابوہریرہؓ کا ادراج (مدرج)",
+              "english": "The Insertion (Mudraj) by Abu Hurayrah (RA)"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے ماہرین کے نزدیک، جملہ 'فمن استطاع...' (جو شخص اس چمک کو بڑھا سکتا ہو) نبی ﷺ کا نہیں بلکہ سیدنا ابوہریرہ رضی اللہ عنہ کا قول ہے (ادراج)۔",
+                "سیدنا ابوہریرہؓ نے یہ بات حدیث سنانے کے بعد اپنے اجتہاد سے کہی، جو وضو کی فضیلت اور اجر میں اضافہ کرنے کی ترغیب پر مبنی تھی۔",
+                "یہ ادراج (راوی کا کلام) اس بات کو ظاہر کرتا ہے کہ صحابہ کرام بھی نیکی کے مواقع تلاش کرنے اور اس پر عمل کرنے کے لیے کس قدر حریص تھے۔"
+              ],
+              "english": [
+                "According to Hadith scholars, the phrase 'Faman istaṭāʿa...' (whoever is able to extend...) is not a direct statement of the Prophet (ﷺ) but an added commentary (Idrāj) by Abu Hurayrah (RA).",
+                "Abu Hurayrah (RA) added this based on his own legal judgment (Ijtihād), motivated by the desire to encourage others to maximize the reward and virtue of Wudu.",
+                "This insertion demonstrates the Companions' eagerness to seek out opportunities for greater reward and to encourage the best possible religious practice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امت محمدیہ کی پہچان",
+              "english": "The Identification of the Ummah"
+            },
+            "content": {
+              "urdu": [
+                "قیامت کے دن یہ چمک اس بات کی علامت ہو گی کہ یہ لوگ نبی اکرم ﷺ کی امت میں سے ہیں، جنہوں نے خاص طور پر وضو کا اہتمام کیا۔",
+                "یہ امتیاز اس بات کی دلیل ہے کہ وضو صرف پاکیزگی کا ذریعہ نہیں بلکہ ایک **سند** ہے جو روزِ محشر نجات دہندہ ہو گی۔",
+                "یہ حدیث ایک بہت بڑی خوشخبری ہے، جو مسلمانوں کو وضو کو صرف فرض کے طور پر نہیں بلکہ شوق اور محبت سے ادا کرنے کی ترغیب دیتی ہے۔"
+              ],
+              "english": [
+                "The radiance on the Day of Judgment will be a distinguishing feature indicating that these individuals belong to the Ummah of the Prophet (ﷺ), who meticulously performed Wudu.",
+                "This distinction proves that Wudu is not just a means of purification but a **spiritual certificate** that will aid in salvation on the Day of Gathering.",
+                "This Hadith is a great piece of good news (Bushrā), motivating Muslims to perform Wudu not just as an obligation but with enthusiasm and deep devotion."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

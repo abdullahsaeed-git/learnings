@@ -1,0 +1,255 @@
+{
+  "hadithId": 1129,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/59"],
+    "kitabId": 11,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 90
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3166) في كتاب الجزية، باب إثم من قتل معاهداً بغير جرم، وأخرجه النسائي (4750) وابن ماجه (2686) وأحمد (2/186).",
+    "urdu": "صحیح۔ اسے امام بخاری نے اپنی صحیح (3166) میں روایت کیا ہے۔ یہ حدیث غیر مسلموں کے حقوق اور ان کی جان کی حفاظت کی اہمیت پر دلالت کرتی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3166). It is also recorded in An-Nasa'i, Ibn Majah, and Ahmad."
+  },
+  "importantWords": [
+    {
+      "arabic": "مُعَاهِداً",
+      "english": "Pledgee / One under contract",
+      "urdu": "عہدی (جس سے معاہدہ ہو)"
+    },
+    {
+      "arabic": "لَمْ يَرَحْ",
+      "english": "Will not smell",
+      "urdu": "نہیں پائے گا (بو بھی)"
+    },
+    {
+      "arabic": "رَائِحَةَ",
+      "english": "Fragrance / Odor",
+      "urdu": "خوشبو"
+    },
+    {
+      "arabic": "مَسِيرَةِ",
+      "english": "Distance / Journey",
+      "urdu": "مسافت / سفر"
+    },
+    {
+      "arabic": "أَرْبَعِينَ عَامّاً",
+      "english": "Forty years",
+      "urdu": "چالیس سال"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کسی ایسے غیر مسلم کو قتل کرنے پر سخت وعید سنائی گئی ہے جس کے پاس مسلمانوں کی طرف سے پناہ یا معاہدہ ہو، اسے جنت کی خوشبو سے بھی محروم کر دیا جائے گا۔",
+    "english": "This Hadith issues a stern warning against killing a non-Muslim who is under an agreement of protection; such an act bars the perpetrator even from smelling the scent of Paradise."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (3166)",
+      "english": "Narrated by Al-Bukhari (3166)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin Amr bin al-As"
+      },
+      "slug": "abdullah-bin-amr-bin-al-as"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3Xn89gA",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "معاہد (عہدی) کی تعریف اور اقسام",
+        "english": "Definition and Types of Mu'ahid"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لفظ 'معاہد' کی مراد",
+              "english": "Who is a Mu'ahid?"
+            },
+            "content": {
+              "urdu": [
+                "معاہد وہ غیر مسلم ہے جس کا اسلامی ریاست کے ساتھ امن کا معاہدہ ہو۔",
+                "اس میں 'ذمی' (ٹیکس دینے والے شہری) اور 'مستامن' (عارضی پناہ لینے والے) شامل ہیں۔",
+                "ایسے افراد کی جان، مال اور عزت کی حفاظت کرنا مسلمانوں پر فرض ہے۔"
+              ],
+              "english": [
+                "A Mu'ahid is a non-Muslim who has a peace treaty with the Islamic state.",
+                "This category includes Dhimmi citizens and Musta'min (temporary visitors/envoys).",
+                "Protecting their lives, property, and honor is an obligatory duty for Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلام میں جان کی حرمت",
+              "english": "Sanctity of Life in Islam"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں ناحق قتل کو پوری انسانیت کا قتل قرار دیا گیا ہے۔",
+                "معاہدہ کرنے کے بعد کسی کو نقصان پہنچانا بدترین دھوکہ دہی ہے۔",
+                "مومن وہی ہے جس کے ہاتھ اور زبان سے تمام لوگ (مسلم و غیر مسلم) محفوظ رہیں۔"
+              ],
+              "english": [
+                "Islam equates unjust killing to the killing of all humanity.",
+                "Harming someone after establishing a treaty is a grave form of betrayal.",
+                "A true believer is one from whose hands and tongue everyone is safe."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "وعید کی سنگینی",
+        "english": "The Severity of the Warning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنت کی خوشبو سے محرومی",
+              "english": "Deprivation of Paradise's Scent"
+            },
+            "content": {
+              "urdu": [
+                "خوشبو نہ پانے کا مطلب یہ ہے کہ ایسا شخص جنت سے بہت دور رکھا جائے گا۔",
+                "اگر جنت کی بو 40 سال کی دوری سے آتی ہے، تو وہ شخص اس سے بھی زیادہ فاصلے پر ہوگا۔",
+                "یہ وعید اس گناہ کی ہولناکی کو ظاہر کرنے کے لیے کافی ہے۔"
+              ],
+              "english": [
+                "Not smelling the scent means the person will be kept far away from Paradise.",
+                "If the scent reaches 40 years' distance, the perpetrator will be even further away.",
+                "This warning serves to emphasize the horrifying nature of this sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عہد شکنی کا انجام",
+              "english": "The Fate of the Traitor"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی ریاست کا وقار اس کے وعدوں کی پاسداری میں ہے۔",
+                "جو شخص ریاست کے دیے ہوئے عہد کو توڑتا ہے وہ دین کی توہین کرتا ہے۔",
+                "ایسا شخص قیامت کے دن رسوا ہوگا اور اسے اللہ کی پناہ حاصل نہیں ہوگی۔"
+              ],
+              "english": [
+                "The dignity of the Islamic state lies in honoring its promises.",
+                "One who violates a state-granted pledge insults the religion itself.",
+                "Such a person will be disgraced on the Day of Judgment and lack Allah's protection."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی بین الاقوامی قوانین",
+        "english": "Islamic International Laws"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفارتی تحفظ",
+              "english": "Diplomatic Protection"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث آج کے دور میں ویزا اور سفارتی پاسپورٹ کی شرعی بنیاد فراہم کرتی ہے۔",
+                "جب کوئی غیر مسلم ویزا لے کر آتا ہے، تو وہ 'مستامن' (امن پانے والا) بن جاتا ہے۔",
+                "اس پر حملہ کرنا یا اسے ہراساں کرنا اسلامی تعلیمات کے سراسر خلاف ہے۔"
+              ],
+              "english": [
+                "This Hadith provides the Sharia basis for modern visas and diplomatic passports.",
+                "When a non-Muslim enters with a visa, they become a 'Musta'min' (granted safety).",
+                "Attacking or harassing such individuals is completely against Islamic teachings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انصاف میں برابری",
+              "english": "Equality in Justice"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی مسلمان کسی معاہد کو قتل کرے تو اسے سزا دینا حاکم پر فرض ہے۔",
+                "حضرت علی رضی اللہ عنہ نے ایک مسلمان کو معاہد کے قتل کے بدلے قصاص میں قتل کرنے کا حکم دیا تھا۔",
+                "قانون کی نظر میں انسانی جان کی قیمت برابر ہے، چاہے مذہب مختلف ہو۔"
+              ],
+              "english": [
+                "If a Muslim kills a Mu'ahid, it is the ruler's duty to punish them.",
+                "Ali (RA) once ordered the execution of a Muslim in retaliation for killing a Mu'ahid.",
+                "In the eyes of the law, the value of human life is equal regardless of religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وفائے عہد کا شعار",
+              "english": "Practicing Fulfillment of Pledges"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کی سچی پہچان ان کا قول و فعل کی سچائی ہے۔",
+                "ہمیں اپنے تمام معاہدوں میں دیانت داری کا مظاہرہ کرنا چاہیے۔",
+                "دھوکہ دہی اور غداری ایمان کے منافی صفات ہیں۔"
+              ],
+              "english": [
+                "The true identity of Muslims is the truthfulness of their word and deed.",
+                "We must demonstrate integrity in all our contracts and agreements.",
+                "Deception and betrayal are traits contradictory to faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلام کا پرامن چہرہ",
+              "english": "The Peaceful Face of Islam"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ثابت کرتی ہے کہ اسلام دہشت گردی اور انتہا پسندی کا مخالف ہے۔",
+                "غیر مسلموں کے ساتھ امن و امان سے رہنا سنتِ نبوی ﷺ ہے۔",
+                "حقوق العباد کی حساسیت سے ہی ایک بہتر معاشرہ تشکیل پا سکتا ہے۔"
+              ],
+              "english": [
+                "This Hadith proves that Islam opposes terrorism and extremism.",
+                "Living in peace with non-Muslims is part of the Prophetic Sunnah.",
+                "A better society can only be built through sensitivity to human rights."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

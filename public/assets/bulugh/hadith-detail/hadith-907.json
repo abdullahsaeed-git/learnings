@@ -1,0 +1,259 @@
+{
+  "hadithId": 907,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1043"],
+    "kitabId": 8,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب النكاح",
+    "babId": 69
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري ( 5214 ) ، ومسلم ( 1461) من طريق أبي قلابة ، عن أنس . وزاد البخاري : قال أبو قلابة : ولو شئت لقلت : إن أنسا رفعه إلى النبي صلى الله عليه وسلم .",
+    "urdu": "صحیح۔ اسے بخاری (5214) اور مسلم (1461) نے روایت کیا ہے۔ ابوقلابہ فرماتے ہیں کہ اگر میں چاہوں تو کہہ سکتا ہوں کہ حضرت انس رضی اللہ عنہ نے اسے براہ راست نبی کریم ﷺ سے ہی بیان کیا ہے کیونکہ 'من السنۃ' کہنا حدیثِ مرفوع کے حکم میں ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5214) and Muslim (1461). Abu Qilabah noted that when a Sahabi says 'It is from the Sunnah,' it takes the ruling of a Marfu' Hadith (directly from the Prophet ﷺ)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلسُّنَّةِ",
+      "english": "The Way/Sunnah",
+      "urdu": "طریقہ / سنت"
+    },
+    {
+      "arabic": "اَلْبِكْرَ",
+      "english": "The Virgin",
+      "urdu": "کنواری لڑکی"
+    },
+    {
+      "arabic": "اَلثَّيِّبِ",
+      "english": "Previously Married",
+      "urdu": "بیوہ یا مطلقہ"
+    },
+    {
+      "arabic": "أَقَامَ",
+      "english": "Stayed",
+      "urdu": "قیام کیا / ٹھہرا"
+    },
+    {
+      "arabic": "قَسَمَ",
+      "english": "Divide/Distribute",
+      "urdu": "تقسیم کی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نئی شادی کی صورت میں بیوی کے پاس قیام کا شرعی ضابطہ بیان کیا گیا ہے: کنواری کے لیے سات دن اور پہلے سے شادی شدہ کے لیے تین دن کا ابتدائی قیام سنت ہے۔",
+    "english": "This Hadith establishes the Sunnah for initial stay with a new wife: seven days if she is a virgin and three days if she was previously married, before resuming equal turns."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5214)",
+      "english": "Sahih al-Bukhari (5214)"
+    },
+    {
+      "arabic": "صحيح مسلم (1461)",
+      "english": "Sahih Muslim (1461)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2fF_vW0BTo",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نئی بیوی کے حقوق",
+        "english": "Rights of the New Wife"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابتدائی قیام کی حکمت",
+              "english": "Wisdom of Initial Stay"
+            },
+            "content": {
+              "urdu": [
+                "نئی دلہن کے پاس ابتدائی چند دن گزارنا اس کی وحشت دور کرنے اور مانوس کرنے کے لیے ہے۔",
+                "یہ وقت میاں بیوی کے درمیان الفت اور محبت کی بنیاد رکھنے کے لیے نہایت اہم ہے۔",
+                "شریعت نے اس خصوصی قیام کو دوسری بیویوں کی حق تلفی شمار نہیں کیا۔"
+              ],
+              "english": [
+                "Spending the initial days with a new bride helps ease her transition and builds comfort.",
+                "This period is crucial for establishing the foundation of love between the spouses.",
+                "Shariah does not consider this specific initial stay as an act of injustice to other wives."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کنواری اور بیوہ کا فرق",
+              "english": "Virgin vs Matron Difference"
+            },
+            "content": {
+              "urdu": [
+                "کنواری لڑکی کے لیے حیا اور نئے ماحول کی وجہ سے سات دن کا عرصہ مقرر کیا گیا ہے۔",
+                "پہلے سے شادی شدہ خاتون (ثیب) کے لیے تین دن کافی سمجھے گئے ہیں کیونکہ وہ تجربہ کار ہوتی ہے۔",
+                "یہ فرق انسانی نفسیات اور سماجی ضرورتوں کے عین مطابق رکھا گیا ہے۔"
+              ],
+              "english": [
+                "A seven-day period is set for a virgin due to her shyness and the new environment.",
+                "Three days are considered sufficient for a matron as she is more experienced in marriage.",
+                "This distinction aligns perfectly with human psychology and social requirements."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدل اور باری کی تقسیم",
+        "english": "Justice and Distribution of Turns"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سات یا تین دن کے بعد باری",
+              "english": "Turns After Initial Stay"
+            },
+            "content": {
+              "urdu": [
+                "مقررہ دنوں کے بعد شوہر پر لازم ہے کہ وہ تمام بیویوں کے درمیان برابر باری مقرر کرے۔",
+                "ابتدائی قیام کے دنوں کو باریوں کے حساب میں شمار نہیں کیا جائے گا۔",
+                "یہ قاعدہ ازدواجی زندگی میں توازن برقرار رکھنے کے لیے وضع کیا گیا ہے۔"
+              ],
+              "english": [
+                "After the prescribed days, the husband must establish equal turns among all wives.",
+                "The initial stay days are not deducted or counted against the subsequent turns.",
+                "This rule is designed to maintain balance and fairness in marital life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل کا اسلامی تصور",
+              "english": "Islamic Concept of Justice"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر بیوی کے جذبات اور حقوق کی پاسداری کا حکم دیتا ہے۔",
+                "نئی بیوی کو وقت دینا پرانی بیویوں کے ساتھ ناانصافی نہیں بلکہ اس کا شرعی حق ہے۔",
+                "یہ نظام گھریلو جھگڑوں کے سدباب اور سکون کا ضامن ہے۔"
+              ],
+              "english": [
+                "Islam commands the protection of every wife's feelings and rights.",
+                "Giving time to the new wife is her Shariah right, not an act of bias against others.",
+                "This system guarantees the prevention of domestic disputes and ensures peace."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور وسعت",
+        "english": "Juristic Aspects and Scope"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اختیار اور انتخاب",
+              "english": "Option and Choice"
+            },
+            "content": {
+              "urdu": [
+                "اگر ثیب (شوہر دیدہ) چاہے تو وہ سات دن بھی مانگ سکتی ہے مگر پھر باری بھی سات دن ہوگی۔",
+                "نبی ﷺ نے ام سلمہ رضی اللہ عنہا کو اختیار دیا تھا کہ وہ تین دن یا سات دن کا انتخاب کریں۔",
+                "یہ لچک میاں بیوی کے درمیان باہمی رضامندی کی اہمیت کو واضح کرتی ہے۔"
+              ],
+              "english": [
+                "If a matron wishes, she can request seven days, but then turns will be shared accordingly.",
+                "The Prophet (ﷺ) gave Umm Salama the choice between three days or seven days.",
+                "This flexibility highlights the importance of mutual consent between spouses."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "من السنۃ کا مفہوم",
+              "english": "Meaning of 'From the Sunnah'"
+            },
+            "content": {
+              "urdu": [
+                "جب صحابی 'من السنۃ' کہتا ہے تو اس کا مطلب نبی کریم ﷺ کا حکم اور عمل ہوتا ہے۔",
+                "یہ کلمات شرعی حکم کے وجوب یا تاکید کی طرف اشارہ کرتے ہیں۔",
+                "حضرت انس رضی اللہ عنہ نے اس کے ذریعے امت کو ایک مستقل قانون سکھایا ہے۔"
+              ],
+              "english": [
+                "When a Companion says 'from the Sunnah', it refers to the Prophet's command/action.",
+                "These words indicate the legal necessity or emphasis of a Shariah ruling.",
+                "Through this, Anas (RA) taught a permanent legislative principle to the Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی فوائد",
+        "english": "Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوشگوار ازدواجی تعلقات",
+              "english": "Pleasant Marital Relations"
+            },
+            "content": {
+              "urdu": [
+                "ابتدائی ایام میں شوہر کی توجہ بیوی کو تحفظ کا احساس دلاتی ہے۔",
+                "اس سے شوہر اور بیوی کے درمیان مضبوط جذباتی تعلق قائم ہوتا ہے۔",
+                "اسلامی تعلیمات کا مقصد خاندان کی جڑوں کو مضبوط بنانا ہے۔"
+              ],
+              "english": [
+                "The husband's attention during the first days provides a sense of security to the wife.",
+                "This establishes a strong emotional bond between the husband and wife.",
+                "The objective of Islamic teachings is to strengthen the roots of the family unit."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق کی ادائیگی میں نظم",
+              "english": "Order in Fulfilling Rights"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ظاہر کرتی ہے کہ اسلام ہر معاملے میں نظم و ضبط اور قانون پسندی سکھاتا ہے۔",
+                "باریوں کا تعین عورتوں کی نفسیاتی تسکین اور معاشرتی وقار کا باعث ہے۔",
+                "نظم و ضبط کی پابندی سے گھر کا ماحول خوشگوار اور پرسکون رہتا ہے۔"
+              ],
+              "english": [
+                "This Hadith shows that Islam teaches discipline and lawfulness in every matter.",
+                "The turn system leads to psychological satisfaction and social dignity for women.",
+                "Adhering to discipline keeps the home environment pleasant and peaceful."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

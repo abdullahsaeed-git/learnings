@@ -1,0 +1,269 @@
+{
+  "hadithId": 453,
+  "hadithNo": 29,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:957",
+      "https://sunnah.com/abudawud:3197",
+      "https://sunnah.com/tirmidhi:1023",
+      "https://sunnah.com/nasai:1982",
+      "https://sunnah.com/ibnmajah:1505"
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (957)، وأبو داود (3197)، والترمذي (1023)، والنسائي (4/72)، وابن ماجه (1505). والحديث حجة في جواز زيادة التكبير في الجنازة إلى خمس.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام مسلم (957)، ابوداؤد (3197)، ترمذی (1023)، نسائی اور ابن ماجہ نے روایت کیا ہے۔ یہ حدیث جنازہ میں پانچ تکبیرات کہنے کے جواز پر دلیل ہے۔",
+    "english": "Sahih. Reported by Muslim (957), Abu Dawud (3197), At-Tirmidhi (1023), An-Nasa'i (4/72), and Ibn Majah (1505). It serves as evidence for the permissibility of reciting five Takbirs in the funeral prayer."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُكَبِّرُ",
+      "english": "Says Takbir",
+      "urdu": "تکبیر کہتے تھے"
+    },
+    {
+      "arabic": "جَنَائِزِنَا",
+      "english": "Our funerals",
+      "urdu": "ہمارے جنازے"
+    },
+    {
+      "arabic": "أَرْبَعًا",
+      "english": "Four",
+      "urdu": "چار"
+    },
+    {
+      "arabic": "خَمْسًا",
+      "english": "Five",
+      "urdu": "پانی"
+    },
+    {
+      "arabic": "فَسَأَلْتُهُ",
+      "english": "I asked him",
+      "urdu": "میں نے ان سے پوچھا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ نمازِ جنازہ میں اصل سنت چار تکبیرات ہیں، لیکن کبھی کبھار پانچ تکبیرات کہنا بھی نبی کریم ﷺ سے ثابت اور جائز ہے۔",
+    "english": "This Hadith confirms that while four Takbirs are the standard practice for Janazah, saying five Takbirs is also established from the Prophet (ﷺ) and is permissible."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (957)",
+      "english": "Sahih Muslim (957)"
+    },
+    {
+      "arabic": "سنن الترمذي (1023)",
+      "english": "Sunan at-Tirmidhi (1023)"
+    },
+    {
+      "arabic": "سنن أبي داود (3197)",
+      "english": "Sunan Abu Dawud (3197)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "زيد بن أرقم الأنصاري",
+        "english": "Zaid bin Arqam al-Ansari"
+      },
+      "slug": "zaid-bin-arqam"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=v0_6W7M2wks",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تکبیراتِ جنازہ کی تعداد",
+        "english": "Number of Takbirs in Janazah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چار تکبیرات کی مشروعیت",
+              "english": "Legitimacy of Four Takbirs"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ جنازہ میں چار تکبیرات کہنا سنتِ مؤکدہ اور جمہور کا عمل ہے۔",
+                "نبی کریم ﷺ نے اکثر جنازوں میں چار تکبیرات ہی کہی ہیں۔",
+                "صحابہ کرام نے اسی طریقے کو عام طور پر اختیار کیا اور آگے پہنچایا۔"
+              ],
+              "english": [
+                "Saying four Takbirs in Janazah is the stressed Sunnah and the practice of the majority.",
+                "The Prophet (ﷺ) recited four Takbirs in the vast majority of funeral prayers.",
+                "The Companions generally adopted and transmitted this specific method."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانچ تکبیرات کا جواز",
+              "english": "Permissibility of Five Takbirs"
+            },
+            "content": {
+              "urdu": [
+                "کچھ روایات میں نبی ﷺ سے پانچ تکبیرات کہنا بھی ثابت ہے۔",
+                "زید بن ارقم رضی اللہ عنہ نے سنت کو زندہ کرنے کے لیے ایسا کیا۔",
+                "اس سے معلوم ہوتا ہے کہ تکبیرات کی تعداد میں معمولی اضافہ جائز ہے۔"
+              ],
+              "english": [
+                "Narrations confirm the Prophet (ﷺ) occasionally recited five Takbirs.",
+                "Zaid bin Arqam (RA) practiced this to revive and demonstrate this Sunnah.",
+                "This indicates that a slight increase in the number of Takbirs is valid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف اور ترجیح",
+        "english": "Juristic Differences and Preference"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ائمہ کی آراء",
+              "english": "Opinions of the Imams"
+            },
+            "content": {
+              "urdu": [
+                "چاروں ائمہ کرام کے نزدیک چار تکبیرات پر ہی اتفاق پایا جاتا ہے۔",
+                "تاہم بعض اہل علم پانچ تکبیرات کو بھی فضیلت کے لیے جائز مانتے ہیں۔",
+                "مستند قول یہی ہے کہ چار تکبیرات ہی نماز کا لازمی حصہ ہیں۔"
+              ],
+              "english": [
+                "The four Imams agree that four Takbirs is the standard required practice.",
+                "However, some scholars allow five Takbirs based on specific authentic narrations.",
+                "The established view is that four Takbirs constitute the essential part of the prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کے تنوع کی حکمت",
+              "english": "Wisdom in Diversity of Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "عبادات میں تنوع سنت کے مختلف پہلوؤں کو اجاگر کرنے کے لیے ہے۔",
+                "اس سے امت کے لیے وسعت اور آسانی کا پہلو نکلتا ہے۔",
+                "مختلف روایات پر عمل کرنا سنتِ نبوی کے تمام پہلوؤں کو زندہ رکھتا ہے۔"
+              ],
+              "english": [
+                "Diversity in acts of worship highlights various aspects of the Sunnah.",
+                "This provides a sense of flexibility and ease for the Muslim Ummah.",
+                "Practicing different authentic narrations keeps all aspects of Prophetic tradition alive."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحابہ کا طرزِ عمل",
+        "english": "The Methodology of the Companions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا جذبہ",
+              "english": "Spirit of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام ہر اس عمل کو اپناتے تھے جو انہوں نے نبی ﷺ سے دیکھا۔",
+                "زید بن ارقم رضی اللہ عنہ کا عمل ان کی گہری تحقیق پر مبنی تھا۔",
+                "وہ لوگوں کو تعلیم دینے کے لیے کبھی کبھی کم مشہور سنت پر عمل کرتے۔"
+              ],
+              "english": [
+                "The Companions practiced every act they observed from the Prophet (ﷺ).",
+                "Zaid bin Arqam's (RA) action was based on deep personal knowledge of the Sunnah.",
+                "They would occasionally practice less common Sunnahs to teach the people."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استفسار اور وضاحت",
+              "english": "Inquiry and Clarification"
+            },
+            "content": {
+              "urdu": [
+                "تابعین صحابہ کرام سے ہر عمل کی دلیل دریافت کیا کرتے تھے۔",
+                "عبدالرحمن بن ابی لیلیٰ کا سوال کرنا علمی پیاس کی علامت ہے۔",
+                "صحابہ کرام بغیر کسی ہچکچاہٹ کے دلیل کے ساتھ جواب دیتے تھے۔"
+              ],
+              "english": [
+                "The Successors (Tabi'un) would ask for evidence behind the Companions' actions.",
+                "Abdur-Rahman bin Abi Laila's inquiry signifies intellectual curiosity and seeking truth.",
+                "The Companions answered questions with evidence without any hesitation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نمازِ جنازہ کی اہمیت",
+              "english": "Importance of Janazah Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ جنازہ میت کے لیے دعا اور مغفرت کا بہترین ذریعہ ہے۔",
+                "اس میں خشوع و خضوع اور سنت کی رعایت رکھنا ضروری ہے۔",
+                "میت کے لیے زیادہ سے زیادہ اخلاص کے ساتھ دعا کرنی چاہیے۔"
+              ],
+              "english": [
+                "The Janazah prayer is a powerful means of supplication for the deceased.",
+                "Maintaining focus and adhering to the Sunnah is essential during the prayer.",
+                "One should pray for the deceased with the utmost sincerity and heart."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علم کی طلب",
+              "english": "Seeking Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "مذہبی معاملات میں دلیل اور ثبوت کا ہونا لازمی ہے۔",
+                "بغیر تحقیق کے کسی نئے عمل کو رد نہیں کرنا چاہیے۔",
+                "اہلِ علم سے رجوع کرنا دین کو سمجھنے کا صحیح راستہ ہے۔"
+              ],
+              "english": [
+                "It is essential to have evidence and proof in religious matters.",
+                "One should not reject an unfamiliar practice without proper investigation.",
+                "Consulting people of knowledge is the correct path to understanding religion."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

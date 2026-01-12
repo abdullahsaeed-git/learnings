@@ -1,0 +1,272 @@
+{
+  "hadithId": 63,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 2 (Chapter 6)"],
+    "kitabId": 1,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب حكم الاستحاضة",
+    "babId": 6
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه البخاري (328) ، ومسلم (333) .  1/332/فتح )  .  إذ قال: \"وفي حديث حماد بن زيد زيادة حرف تركنا ذكره\".  قلت: ومثل ذلك قال النسائي، ولكن لم يتفرد حماد بهذه الزيادة، كما بينته في \"الأصل\",",
+    "urdu": "صحیح (درجہ)۔ اسے بخاری (328) اور مسلم (333) نے روایت کیا ہے۔ (فتح الباری 1/332) میں ہے کہ مسلم نے اشارہ کیا: 'اور حماد بن زید کی حدیث میں ایک اضافی حرف تھا جسے ہم نے چھوڑ دیا'۔ یہ اضافہ (ہر نماز کے لیے وضو) بخاری میں موجود ہے۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bukhari (328) and Muslim (333). Muslim indicated: 'And in the Hadith of Hammād ibn Zayd, there is an addition of a phrase which we omitted.' This addition (performing Wudu for every prayer) is found in Bukhari."
+  },
+  "importantWords": [
+    {
+      "arabic": "أُسْتَحَاضُ",
+      "english": "Suffers from Istihāḍah",
+      "urdu": "استخاضہ کے خون میں مبتلا رہتی ہوں"
+    },
+    {
+      "arabic": "عِرْقٌ",
+      "english": "A vein",
+      "urdu": "ایک رگ"
+    },
+    {
+      "arabic": "لَيْسَ بِحَيْضٍ",
+      "english": "It is not menstruation",
+      "urdu": "حیض کا خون نہیں"
+    },
+    {
+      "arabic": "أَقْبَلَتْ حَيْضَتُكِ",
+      "english": "Your menstrual period approaches",
+      "urdu": "ایام حیض شروع ہوں"
+    },
+    {
+      "arabic": "فَاغْسِلِي عَنْكِ اَلدَّمَ",
+      "english": "Wash away the blood from yourself",
+      "urdu": "خون دھو کر غسل کرو"
+    },
+    {
+      "arabic": "تَوَضَّئِي لِكُلِّ صَلَاةٍ",
+      "english": "Perform Wudu for every prayer",
+      "urdu": "ہر نماز کے لیے وضو کرو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث استخاضہ (غیر حیض کا خون) میں مبتلا عورت کے لیے بنیادی شرعی احکام بیان کرتی ہے: استخاضہ حیض کے حکم میں نہیں، لہٰذا نماز چھوڑنا جائز نہیں؛ البتہ حیض کے دنوں میں نماز چھوڑ دی جائے، اور حیض کے بعد غسل کیا جائے، اور پھر **ہر نماز کے لیے نیا وضو** کیا جائے۔",
+    "english": "This Hadith sets out the fundamental legal rulings for a woman with Istihāḍah: the bleeding is not menstruation, so prayer is obligatory except during her normal menstrual cycle. Crucially, after the menses end, she must perform Ghusl once, and then **perform a fresh Wudu for every single prayer.**"
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الوضوء، رقم 328",
+      "english": "Sahih Al-Bukhari, The Book of Ablution, Hadith 328"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الحيض، رقم 333",
+      "english": "Sahih Muslim, The Book of Menstruation, Hadith 333"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَائِشَةُ بِنْتُ أَبِي بَكْرٍ رَضِيَ اَللَّهُ عَنْهَا",
+        "english": "Aisha bint Abi Bakr (May Allah be pleased with her)"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "فَاطِمَةُ بِنْتُ أَبِي حُبَيْشٍ رَضِيَ اَللَّهُ عَنْهَا",
+        "english": "Fāṭimah bint Abī Ḥubaysh (May Allah be pleased with her)"
+      },
+      "slug": "fatimah-bint-abi-hubaish"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-41-istihada-ruling",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "استحاضہ کا حکم اور تعریف",
+        "english": "The Ruling and Definition of Istihāḍah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حیض اور استحاضہ میں فرق",
+              "english": "Distinction Between Menses and Istihāḍah"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ نے واضح فرمایا کہ استخاضہ کا خون (جو رحم کی رگ سے ہوتا ہے) حیض کا خون نہیں ہے، لہٰذا اس حالت میں نماز چھوڑنا جائز نہیں۔",
+                "حیض کے خون کی پہچان اس کے رنگ (گہرا سیاہ مائل)، بو (ناگوار) اور گاڑھا پن سے کی جاتی ہے، جبکہ استخاضہ کا خون رگ پھٹنے کی وجہ سے پتلا ہوتا ہے۔",
+                "اس تفریق کے ذریعے عورت کو حکم دیا گیا کہ وہ اپنے عام ایام حیض کی مدت میں عبادت چھوڑ دے اور باقی ایام میں نماز اور روزہ رکھے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) clarified that *Istihāḍah* blood (from a vein) is not menstrual blood, so abandoning prayer in this state is not permitted.",
+                "Menstrual blood is identified by its color (dark, inclined to black), unpleasant odor, and thickness, whereas *Istihāḍah* blood is generally thin due to a ruptured vein.",
+                "Through this distinction, the woman was commanded to abstain from worship only during her normal menstrual period and perform prayer and fasting in the remaining days."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استحاضہ میں نماز کا حکم",
+              "english": "The Ruling on Prayer During Istihāḍah"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ استخاضہ کا خون حیض کے حکم میں نہیں آتا، اس لیے اس میں مبتلا عورت پر نماز، روزہ اور دیگر عبادات فرض رہتی ہیں اور انہیں چھوڑنا جائز نہیں۔",
+                "استحاضہ کی عورت کا حکم ایسے شخص کا ہے جسے مسلسل پیشاب یا ریح خارج ہونے کی بیماری ہو، یعنی یہ **دائمی حدث** ہے۔",
+                "نبی ﷺ نے خاتون کو خون دھونے اور نماز پڑھنے کا حکم دیا، جس سے یہ ثابت ہوتا ہے کہ خون کے باوجود نماز پڑھنا ضروری ہے۔"
+              ],
+              "english": [
+                "Since *Istihāḍah* blood is not ruled as menstruation, prayer, fasting, and other acts of worship remain obligatory for the affected woman and cannot be abandoned.",
+                "The woman with *Istihāḍah* is legally treated like a person suffering from continuous discharge of urine or wind, meaning it is a **permanent minor impurity**.",
+                "The Prophet's (ﷺ) command to wash the blood and pray proves that prayer is essential despite the continuous flow of blood."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غسل اور وضو کا طریقہ",
+        "english": "The Method of Ghusl and Wudu"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حیض کے بعد غسل",
+              "english": "Ghusl After Menses"
+            },
+            "content": {
+              "urdu": [
+                "جب حیض کی مدت پوری ہو جائے ('إِذَا أَدْبَرَتْ') تو عورت کو **ایک بار غسل کرنا** فرض ہے ('فَاغْسِلِي عَنْكِ اَلدَّمَ') تاکہ وہ طہارتِ اکبر حاصل کرے۔",
+                "اس غسل کے بعد، استحاضہ کا خون جاری رہنے کے باوجود، وہ طہارت کی حالت میں شمار ہو گی اور اس پر نماز پڑھنا فرض ہے۔",
+                "اس کا مطلب یہ ہے کہ حیض کے دوران وہ نجاستِ حکمی میں تھی، لیکن غسل کے بعد وہ نجاستِ حقیقی (جسے خون دھو کر زائل کیا جاتا ہے) کی حالت میں ہے۔"
+              ],
+              "english": [
+                "When the menstrual period ends, the woman is obligated to perform a **single Ghusl** ('wash away the blood') to attain major ritual purity.",
+                "After this Ghusl, despite the continued flow of *Istihāḍah* blood, she is considered in a state of purity and prayer becomes mandatory for her.",
+                "This means that during menses, she was in a state of major legal impurity, but after Ghusl, she is in a state of minor impurity (which can be dealt with by washing the blood)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہر نماز کے لیے وضو",
+              "english": "Wudu for Every Prayer"
+            },
+            "content": {
+              "urdu": [
+                "بخاری کی روایت میں اضافی حکم ہے کہ **\"ثُمَّ تَوَضَّئِي لِكُلِّ صَلَاةٍ\"** (پھر ہر نماز کے لیے وضو کرو)، جو استحاضہ کے لیے بنیادی اصول ہے۔",
+                "چونکہ خون مسلسل جاری ہے (دائمی حدث)، یہ عورت پر لازم ہے کہ وہ ہر فرض نماز کے وقت وضو کرے اور اسی وضو سے اس وقت کے اندر جتنی چاہے نمازیں پڑھے۔",
+                "یہ وضو دوسرے لوگوں کی طرح نہیں ٹوٹتا جب تک کہ نماز کا وقت ختم نہ ہو جائے، اور یہ خون کے جاری رہنے کے باوجود وضو کو برقرار رکھتا ہے۔"
+              ],
+              "english": [
+                "The additional instruction in Al-Bukhari's narration is **'Then perform Wudu for every prayer,'** which is the fundamental rule for *Istihāḍah*.",
+                "Since the bleeding is continuous (a permanent minor impurity), the woman must perform Wudu at the time of each obligatory prayer and may pray as many voluntary prayers as she wishes within that prayer's time.",
+                "This Wudu does not break until the time for the prayer expires, despite the continuous flow of blood."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "محدثین کے درمیان فرق",
+        "english": "Distinction Among Hadith Scholars"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بخاری اور مسلم کا اختلاف",
+              "english": "Bukhari and Muslim's Difference"
+            },
+            "content": {
+              "urdu": [
+                "بخاری کی روایت میں **ہر نماز کے لیے وضو** کا جملہ موجود ہے، جبکہ امام مسلم نے اس لفظ کو جان بوجھ کر چھوڑا ہے، جس کی وجہ راوی (حماد بن زید) پر کلام ہے۔",
+                "تاہم، محدثین اور فقہاء کی اکثریت نے اس اضافے کو **صحیح** قرار دیا ہے اور یہ استحاضہ کا معمول بہا فقہی حکم ہے۔",
+                "امام مسلم کا عمداً اس لفظ کو حذف کرنا ان کے اپنے اصولِ صحت پر مبنی تھا، لیکن یہ اس حکم کے صحیح ہونے میں کوئی شک نہیں پیدا کرتا۔"
+              ],
+              "english": [
+                "The phrase **'perform Wudu for every prayer'** is present in Al-Bukhari's narration, while Imām Muslim deliberately omitted it, based on a critique of a narrator (Ḥammād ibn Zayd).",
+                "Nevertheless, the majority of Hadith scholars and jurists have deemed this addition **authentic**, and it represents the established legal ruling for *Istihāḍah*.",
+                "Imām Muslim's intentional omission was based on his own strict authenticity criteria, but it does not cast doubt on the correctness of the ruling."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہر نماز کے لیے وضو کی فرضیت",
+              "english": "Obligation of Wudu for Each Prayer"
+            },
+            "content": {
+              "urdu": [
+                "ہر نماز کے لیے وضو کا حکم اس بات کی دلیل ہے کہ استحاضہ کا خون اگرچہ حدثِ اکبر نہیں، مگر حدثِ اصغر کا مستقل سبب ہے جو ہر نماز کے لیے طہارت کو نیا کرتا ہے۔",
+                "وضو کی یہ تجدید صرف نماز کے وقت کی طہارت کے لیے ہے، یعنی ایک وقت کے وضو سے دوسرے وقت کی نماز نہیں پڑھی جا سکتی۔",
+                "اس کے ساتھ ہی، عورت کو ہر وضو سے پہلے خون کے بہاؤ کو روکنے کے لیے مناسب تدابیر (لنگوٹ وغیرہ) اختیار کرنا بھی ضروری ہے۔"
+              ],
+              "english": [
+                "The command for Wudu before every prayer proves that *Istihāḍah* blood, though not major impurity, is a constant source of minor impurity that necessitates renewing purity for every prayer.",
+                "This renewal of Wudu is specific to the prayer time, meaning the Wudu for one prayer cannot be used for the next prayer's time.",
+                "Furthermore, the woman is obligated to take adequate measures (like wearing a linen pad or binding) before every Wudu to contain the blood flow."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اثرات",
+        "english": "Implications for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خواتین کے لیے آسانی",
+              "english": "Ease for Women"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث خواتین کے لیے ایک بڑی آسانی ہے، کیونکہ انہیں بیماری کی حالت میں بھی عبادت سے محروم نہیں رکھا گیا، بلکہ انہیں عبادت جاری رکھنے کا حکم دیا گیا ہے۔",
+                "فاطمہ بنت ابی حبیشؓ کا یہ سوال اور نبی ﷺ کا جواب اس بات کی دلیل ہے کہ اسلام خواتین کے ذاتی اور حساس مسائل پر بھی مکمل رہنمائی فراہم کرتا ہے۔",
+                "اس کے ذریعے عورت اس حالت میں بھی نماز، روزہ، اور تلاوتِ قرآن جیسے اہم اعمال ادا کر سکتی ہے، جس میں ثواب کی زیادتی ہے۔"
+              ],
+              "english": [
+                "This Hadith is a great facilitation for women, as they are not deprived of worship due to illness but are commanded to continue their devotion.",
+                "Fāṭimah bint Abī Ḥubaysh's question and the Prophet's (ﷺ) answer prove that Islam provides complete guidance on women's private and sensitive issues.",
+                "Through this ruling, a woman can perform major acts like prayer, fasting, and Qur'an recitation even in this state, maximizing her spiritual reward."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صفائی کی تلقین",
+              "english": "Instruction for Cleanliness"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ کا یہ حکم کہ 'خون دھو کر نماز پڑھو' اس بات کی بھی ترغیب دیتا ہے کہ عبادت سے قبل ظاہری گندگی اور ناپاکی کو دور کرنا ضروری ہے۔",
+                "استحاضہ کی عورت کے لیے وضو سے پہلے خون کی جگہ کو دھونا (اگر ممکن ہو) اور لنگوٹ باندھنا سنت ہے تاکہ کپڑے ناپاک نہ ہوں۔",
+                "یہ اس بات کی تعلیم ہے کہ طہارت اور نفاست اسلامی زندگی کا بنیادی جزو ہیں۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) command to 'wash away the blood and then pray' encourages removing apparent filth and impurity before starting worship.",
+                "It is Sunnah for the woman with *Istihāḍah* to wash the area of the bleeding (if possible) and bind it to prevent the clothes from becoming impure.",
+                "This practice teaches that purity and neatness are fundamental components of an Islamic life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

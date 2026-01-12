@@ -1,0 +1,255 @@
+{
+  "hadithId": 18,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/abudawud:4126"],
+    "kitabId": 1,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 2
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (4126) والنسائي (774-175)، وله ما يشهد له.",
+    "urdu": "صحیح۔ اسے ابو داود (4126) اور نسائی نے روایت کیا ہے، اور اس کے کئی شواہد بھی موجود ہیں۔",
+    "english": "Authentic. Narrated by Abu Dawood (4126) and An-Nasa’i (774–175), with supporting evidence."
+  },
+
+  "importantWords": [
+    {
+      "arabic": "إهاب",
+      "english": "Skin or hide of an animal",
+      "urdu": "جانور کی کھال"
+    },
+    {
+      "arabic": "الْقَرَظُ",
+      "english": "Acacia bark used for tanning",
+      "urdu": "کیکر کی چھال"
+    },
+    {
+      "arabic": "يُطَهِّرُهَا",
+      "english": "Purifies it",
+      "urdu": "اسے پاک کر دیتا ہے"
+    }
+  ],
+
+  "summary": {
+    "urdu": "اس حدیث میں بتایا گیا ہے کہ مردہ جانور کی کھال کو پانی اور کیکر کی چھال سے پاک کر کے استعمال کیا جا سکتا ہے۔",
+    "english": "The hadith teaches that the hide of a dead animal becomes permissible to use once purified through tanning with water and acacia bark."
+  },
+
+  "references": [
+    {
+      "arabic": "رواه أبو داود (4126) والنسائي.",
+      "english": "Narrated by Abu Dawood (4126) and An-Nasa’i."
+    }
+  ],
+
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ميمونة بنت الحارث رضي الله عنها",
+        "english": "Maimuna bint Al-Harith (RA)"
+      },
+      "slug": "maimuna-bint-al-harith"
+    }
+  ],
+
+  "ytLink": "https://youtu.be/example-hadith-18",
+
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کھال کے استعمال کا حکم",
+        "english": "Ruling on Using Animal Hide"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردہ جانور کی کھال کا حکم",
+              "english": "Ruling of Dead Animal Skin"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے معلوم ہوتا ہے کہ مردہ جانور کی کھال کا استعمال جائز ہے۔",
+                "بشرطِ تذکیہ نہیں، بلکہ دباغت (tanning) کافی ہے۔",
+                "یہ رخصت امت پر آسانی کے لیے ہے۔"
+              ],
+              "english": [
+                "This hadith clarifies that the hide of a dead animal can be used after tanning.",
+                "Slaughtering is not required for the skin; tanning is enough.",
+                "This is a facilitation for the ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دباغت کی اہمیت",
+              "english": "Importance of Tanning"
+            },
+            "content": {
+              "urdu": [
+                "دباغت نجاست کو دور کر دیتی ہے۔",
+                "پانی اور کیکر کی چھال کا استعمال رسول اللہ ﷺ نے سکھایا۔",
+                "یہ ایک شرعی طریقہ ہے جو پاکی کا سبب بنتا ہے۔"
+              ],
+              "english": [
+                "Tanning removes impurity.",
+                "The Prophet ﷺ specified water and acacia bark.",
+                "This is a shar‘i method that results in purification."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل",
+        "english": "Fiqh Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تمام ائمہ کا اصولی اتفاق",
+              "english": "General Agreement of Scholars"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء دباغت کے بعد کھال کے پاک ہونے کے قائل ہیں۔",
+                "امام شافعی، مالک اور احمد کے نزدیک دباغت کے بعد کھال پاک ہے۔",
+                "امام ابو حنیفہ کے نزدیک بھی دباغت سے ظاہری نجاست ختم ہو جاتی ہے۔"
+              ],
+              "english": [
+                "Most scholars agree that tanning purifies the hide.",
+                "Imam Shafi‘i, Malik, and Ahmad consider the tanned hide pure.",
+                "Imam Abu Hanifa also considers tanning sufficient to remove impurity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "درست استعمال",
+              "english": "Permissible Use"
+            },
+            "content": {
+              "urdu": [
+                "کھال سے بنے برتن استعمال ہو سکتے ہیں۔",
+                "کھال کا فرش یا کپڑا بنانا بھی جائز ہے۔",
+                "لیکن کھانے پینے میں احتیاط زیادہ مستحب ہے۔"
+              ],
+              "english": [
+                "Containers made from tanned hide are permissible.",
+                "It is allowed to use the hide as a mat or cloth.",
+                "However, extra caution is recommended for food-related use."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "فوائد و حکمتیں",
+        "english": "Benefits and Wisdoms"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضیاع سے بچنے کی تعلیم",
+              "english": "Teaching Against Waste"
+            },
+            "content": {
+              "urdu": [
+                "اسلام چیزوں کو ضائع کرنے سے روکتا ہے۔",
+                "مردہ جانور کی کھال بھی فائدہ مند بن سکتی ہے۔",
+                "یہ معاشی آسانی بھی ہے۔"
+              ],
+              "english": [
+                "Islam discourages wastefulness.",
+                "Even a dead animal's skin can be beneficial.",
+                "This also brings economic ease."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صفائی کی اہمیت",
+              "english": "Importance of Purification"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ظاہری اور باطنی پاکیزگی کا دین ہے۔",
+                "کھال کی صفائی کا طریقہ عملی مثال ہے۔",
+                "یہ سکھاتا ہے کہ نجس چیزوں کو بھی مفید بنایا جا سکتا ہے۔"
+              ],
+              "english": [
+                "Islam emphasizes both inner and outer cleanliness.",
+                "This hadith provides a practical method of purification.",
+                "It teaches how even impure things can be made valuable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "sectionTitle": {
+        "urdu": "عملی رہنمائی",
+        "english": "Practical Guidance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت پر عمل",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "کھال کو دھو کر اور دباغت دے کر استعمال کرنا سنت ہے۔",
+                "آج بھی چرمی اشیاء اسی اصول پر بنائی جاتی ہیں۔",
+                "یہ ماحول دوست طریقہ بھی ہے۔"
+              ],
+              "english": [
+                "Using the hide after cleaning and tanning is Sunnah.",
+                "Modern leather production also follows this principle.",
+                "It is an environmentally friendly practice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیکھنے کا درس",
+              "english": "Lesson for the Believers"
+            },
+            "content": {
+              "urdu": [
+                "بے فائدہ نظر آنے والی چیز بھی قیمتی ہو سکتی ہے۔",
+                "مسلمان کو حکمت کے ساتھ چیزوں کا استعمال کرنا چاہیے۔",
+                "دین ہمیشہ آسانی کی طرف رہنمائی کرتا ہے۔"
+              ],
+              "english": [
+                "Things that seem worthless can hold value.",
+                "A believer should use resources wisely.",
+                "Islam always guides toward ease."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 244,
+  "hadithNo": 35,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/35"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "بلوغ المرام",
+    "babId": 17
+  },
+  
+  "takhreej": {
+    "arabic": "أصل الحديث صحيح. رواه أبو داود (1425)، والنسائي (1745)، والترمذي (464)، وابن ماجه (1178)، وأحمد (1718). زيادة 'ولا يعز من عاديت' صحيحة. أما زيادة الصلاة على النبي في آخره وزيادة ابن عباس في الصبح ففيهما ضعف وانقطاع.",
+    "urdu": "اصل حدیث صحیح ہے جسے ابو داؤد، نسائی، ترمذی، ابن ماجہ اور احمد نے روایت کیا ہے۔ 'ولا يعز من عاديت' کا اضافہ بھی صحیح ہے۔ تاہم آخر میں درود شریف کا اضافہ اور ابن عباس سے فجر کی قنوت والی روایت کی سند منقطع اور ضعیف ہے۔",
+    "english": "The core Hadith is Sahih, reported by Abu Dawud, An-Nasa'i, At-Tirmidhi, Ibn Majah, and Ahmad. The addition 'nor is he honored whom You take as an enemy' is Sahih. However, the addition of blessings upon the Prophet and the narration regarding Fajr Qunut are weak."
+  },
+  "importantWords": [
+    {
+      "arabic": "اهْدِنِي",
+      "english": "Guide me",
+      "urdu": "مجھے ہدایت دے"
+    },
+    {
+      "arabic": "عَافِنِي",
+      "english": "Grant me health",
+      "urdu": "مجھے عافیت دے"
+    },
+    {
+      "arabic": "تَوَلَّنِي",
+      "english": "Take me in charge",
+      "urdu": "مجھے اپنا دوست بنا لے"
+    },
+    {
+      "arabic": "بَارِكْ لِي",
+      "english": "Bless for me",
+      "urdu": "میرے لیے برکت فرما"
+    },
+    {
+      "arabic": "تَقْضِي",
+      "english": "You decree",
+      "urdu": "تو ہی فیصلہ کرتا ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں وتر کی نماز میں مانگی جانے والی مشہور دعائے قنوت کے الفاظ اور اس کی فضیلت کا بیان ہے، جو رسول اللہ ﷺ نے اپنے نواسے کو سکھائے۔",
+    "english": "This Hadith mentions the famous words of Qunut taught by the Prophet (PBUH) to his grandson Al-Hasan for the Witr prayer."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (1425)",
+      "english": "Sunan Abu Dawud (1425)"
+    },
+    {
+      "arabic": "جامع الترمذي (464)",
+      "english": "Jami' at-Tirmidhi (464)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "الحسن بن علي بن أبي طالب",
+        "english": "Al-Hasan bin 'Ali bin Abi Talib"
+      },
+      "slug": "al-hasan-bin-ali"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=Dua+e+Qunut+Hasan+bin+Ali+Explanation",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعائے قنوت کے جامع کلمات",
+        "english": "Comprehensive Words of Qunut"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہدایت اور عافیت کی طلب",
+              "english": "Seeking Guidance and Well-being"
+            },
+            "content": {
+              "urdu": [
+                "اس دعا کا آغاز ہدایت کی طلب سے کیا گیا ہے جو کہ سب سے بڑی نعمت ہے۔",
+                "دوسرا اہم سوال عافیت کا ہے جو دنیا و آخرت کی تمام بھلائیوں کو سمیٹے ہوئے ہے۔",
+                "نبی ﷺ نے ان کلمات کو انتہائی جامعیت کے ساتھ منتخب فرمایا ہے۔"
+              ],
+              "english": [
+                "The supplication begins with a request for guidance, the greatest blessing of all.",
+                "The second request is for well-being, covering all goodness in this world and the hereafter.",
+                "The Prophet (PBUH) chose these words with extreme comprehensiveness and wisdom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "برکت اور تحفظ",
+              "english": "Blessing and Protection"
+            },
+            "content": {
+              "urdu": [
+                "دعا میں اللہ سے دی گئی نعمتوں میں برکت کی درخواست کی گئی ہے۔",
+                "انسان کو ان تمام برائیوں سے پناہ مانگنی چاہیے جو اس کی تقدیر میں لکھی گئی ہیں۔",
+                "اللہ کی پناہ حاصل کرنا ہی ہر شر سے بچنے کا واحد ذریعہ ہے۔"
+              ],
+              "english": [
+                "The prayer asks Allah for blessings (Barakah) in whatever He has bestowed.",
+                "Man should seek refuge from the evil of what has been decreed in his fate.",
+                "Seeking Allah's protection is the only way to be safe from every harm."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی عظمت کا اقرار",
+        "english": "Acknowledging Allah's Greatness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فیصلہ کن اختیار",
+              "english": "Decisive Authority"
+            },
+            "content": {
+              "urdu": [
+                "دعا کے الفاظ 'تو ہی فیصلہ کرتا ہے' اللہ کی حاکمیتِ اعلیٰ کا اعتراف ہیں۔",
+                "کوئی بھی ہستی اللہ کے فیصلے کو چیلنج یا تبدیل نہیں کر سکتی۔",
+                "یہ عقیدہ بندے کے دل میں اللہ کا خوف اور توکل پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "The words 'You decree' acknowledge the supreme sovereignty of Allah.",
+                "No entity can challenge or change the decree and judgment of Allah.",
+                "This belief creates a sense of awe and trust in Allah within the heart."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عزت اور ذلت کا مالک",
+              "english": "Master of Honor and Humiliation"
+            },
+            "content": {
+              "urdu": [
+                "جسے اللہ اپنا دوست بنا لے، اسے دنیا کی کوئی طاقت ذلیل نہیں کر سکتی۔",
+                "حقیقی عزت اللہ کی اطاعت اور اس سے وفاداری میں پوشیدہ ہے۔",
+                "اللہ کی نافرمانی کرنے والا کبھی حقیقی معنوں میں معزز نہیں ہو سکتا۔"
+              ],
+              "english": [
+                "Whomever Allah befriends, no power in the world can humiliate them.",
+                "True honor lies in the obedience and loyalty towards Allah Almighty.",
+                "One who disobeys Allah can never be truly honored in the real sense."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و علمی نکات",
+        "english": "Juristic and Scholarly Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وتر میں قنوت کا حکم",
+              "english": "Ruling of Qunut in Witr"
+            },
+            "content": {
+              "urdu": [
+                "وتر میں دعائے قنوت پڑھنا سنتِ نبوی ﷺ سے ثابت شدہ عمل ہے۔",
+                "امام شافعی کے نزدیک یہ وتر کے دوسرے نصف میں ہے، جبکہ حنفیہ کے نزدیک دائمی ہے۔",
+                "حسن بن علی کو یہ سکھانا اس کی اہمیت کو مزید اجاگر کرتا ہے۔"
+              ],
+              "english": [
+                "Reciting Qunut in Witr is an action established by the Prophetic Sunnah.",
+                "Imam Shafi'i views it for the second half of Ramadan, while Hanafis consider it permanent.",
+                "Teaching this to Al-Hasan highlights its significance for the entire Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "درود شریف کا اضافہ",
+              "english": "Addition of Salutations"
+            },
+            "content": {
+              "urdu": [
+                "دعا کے آخر میں نبی ﷺ پر درود پڑھنا قبولیت کا بہترین ذریعہ ہے۔",
+                "اگرچہ نسائی کی مخصوص روایت میں ضعف ہے، لیکن درود پڑھنا عام دلائل سے ثابت ہے۔",
+                "ہر دعا کے اول و آخر درود پڑھنا مستحب اور برکت کا باعث ہے۔"
+              ],
+              "english": [
+                "Sending blessings on the Prophet (PBUH) after a prayer helps in its acceptance.",
+                "Though the specific narration in An-Nasa'i is weak, the general practice is valid.",
+                "Reciting Salawat at the start and end of any Dua is recommended and blessed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتِ اولاد کا سبق",
+        "english": "Lesson on Upbringing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچوں کو دعائیں سکھانا",
+              "english": "Teaching Children Supplications"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اپنے نواسے کو بچپن ہی سے مسنون دعائیں سکھائیں۔",
+                "والدین کو چاہیے کہ وہ اپنی اولاد کی روحانی تربیت پر خصوصی توجہ دیں۔",
+                "بچپن میں سیکھی گئی دعائیں انسان کے ایمان کی بنیاد بنتی ہیں۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) taught Masnoon prayers to his grandson from childhood.",
+                "Parents should focus specifically on the spiritual upbringing of their offspring.",
+                "Supplications learned in childhood form the foundation of a person's faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی اتباعِ سنت",
+              "english": "Practical Following of Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سنتِ نبوی کو سیکھنا اور پھر اسے عملی طور پر اپنانا کامیابی کی کنجی ہے۔",
+                "یہ حدیث اہل بیت کی فضیلت اور ان کی علم دوستی پر بھی دلالت کرتی ہے۔",
+                "ہمیں بھی اپنی زندگیوں میں ان جامع مسنون دعاؤں کو جگہ دینی چاہیے۔"
+              ],
+              "english": [
+                "Learning the Sunnah and then adopting it practically is the key to success.",
+                "This Hadith indicates the virtue and love for knowledge within the Ahl al-Bayt.",
+                "We should also incorporate these comprehensive Masnoon prayers into our lives."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

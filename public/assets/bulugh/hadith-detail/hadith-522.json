@@ -1,0 +1,264 @@
+{
+  "hadithId": 522,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/522"],
+    "kitabId": 4,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 32
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1044)، وأبو داود (1640)، والنسائي (5/96-97)، وابن خزيمة (2361)، وابن حبان (3275).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (1044) میں روایت کیا ہے۔ یہ گداگری کی حدود متعین کرنے والی بنیادی حدیث ہے۔",
+    "english": "Sahih. Reported by Muslim (1044), Abu Dawud (1640), An-Nasa'i (5/96), Ibn Khuzaymah (2361), and Ibn Hibban (3275)."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَمَالَةً",
+      "english": "Guaranty/Financial burden",
+      "urdu": "مالی بوجھ / تاوان"
+    },
+    {
+      "arabic": "جَائِحَةٌ",
+      "english": "Calamity/Disaster",
+      "urdu": "ناگہانی آفت"
+    },
+    {
+      "arabic": "قِوَامًا",
+      "english": "Subsistence/Basic needs",
+      "urdu": "گزر اوقات / سہارا"
+    },
+    {
+      "arabic": "ذَوِي الْحِجَى",
+      "english": "Men of wisdom/Intellect",
+      "urdu": "صاحبِ عقل لوگ"
+    },
+    {
+      "arabic": "فَاقَةٌ",
+      "english": "Extreme poverty/Hunger",
+      "urdu": "فاقہ کشی"
+    },
+    {
+      "arabic": "سُحْتٌ",
+      "english": "Forbidden/Illicit gain",
+      "urdu": "حرام مال"
+    }
+  ],
+  "summary": {
+    "urdu": "اسلام میں بھیک مانگنا صرف تین صورتوں میں جائز ہے: قرض یا صلح کا بوجھ اٹھانے والا، ناگہانی آفت کا شکار، اور وہ غریب جس کے فاقے کی تصدیق معتبر لوگ کریں۔ اس کے علاوہ سب حرام ہے۔",
+    "english": "Begging in Islam is strictly limited to three cases: settling a communal debt, recovery from a total financial disaster, and verified extreme poverty. Beyond these, it is considered consuming forbidden property."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1044)",
+      "english": "Sahih Muslim (1044)"
+    },
+    {
+      "arabic": "سنن أبي داود (1640)",
+      "english": "Sunan Abi Dawud (1640)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "قبيصة بن مخارق الهلالي",
+        "english": "Qabisah bin Mukhariq al-Hilali"
+      },
+      "slug": "qabisah-bin-mukhariq"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0kI47xXyU-8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سوال کی اجازت کی پہلی صورت",
+        "english": "First Case of Permissible Begging"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجتماعی بوجھ اور صلح",
+              "english": "Communal Burden and Reconciliation"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص دو گروہوں میں صلح کرانے کے لیے مالی ضمانت اٹھائے تو وہ سوال کر سکتا ہے۔",
+                "یہ اجازت اس لیے ہے تاکہ معاشرے میں امن قائم کرنے والوں کی حوصلہ افزائی ہو۔",
+                "جیسے ہی مطلوبہ رقم پوری ہو جائے، اسے مانگنے سے فوراً رک جانا چاہیے۔"
+              ],
+              "english": [
+                "If someone takes a financial burden to reconcile between two parties, they may ask for help.",
+                "This permission is granted to encourage those who work for peace in society.",
+                "As soon as the required amount is collected, they must immediately stop asking."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت اور حد",
+              "english": "Intention and Limit"
+            },
+            "content": {
+              "urdu": [
+                "اس صورت میں سوال اپنی ذات کے لیے نہیں بلکہ اجتماعی خیر کے لیے ہوتا ہے۔",
+                "ایسا شخص مالدار ہونے کے باوجود زکوٰۃ یا صدقہ سے مدد لے سکتا ہے۔",
+                "رقم کے حصول کے بعد ایک روپیہ بھی زائد مانگنا اس کے لیے جائز نہیں۔"
+              ],
+              "english": [
+                "In this case, begging is not for personal gain but for the collective good.",
+                "Such a person can take Zakat or charity even if they are personally wealthy.",
+                "Asking for even a single penny more after reaching the goal is not permissible."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ناگہانی آفات اور فاقہ کشی",
+        "english": "Calamities and Starvation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مالی تباہی کا شکار",
+              "english": "Victim of Financial Disaster"
+            },
+            "content": {
+              "urdu": [
+                "وہ شخص جس کا کاروبار یا مال کسی آفت (آگ، سیلاب) میں تباہ ہو جائے، سوال کر سکتا ہے۔",
+                "اجازت صرف اس حد تک ہے کہ وہ دوبارہ اپنے پاؤں پر کھڑا ہو سکے۔",
+                "اسلام مصیبت زدہ لوگوں کو معاشرے کے رحم و کرم پر تنہا نہیں چھوڑتا۔"
+              ],
+              "english": [
+                "A person whose assets are destroyed by a calamity (fire, flood) is allowed to ask.",
+                "The permission is only until they secure a basic means of subsistence.",
+                "Islam does not leave victims of disaster alone to suffer without communal support."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فاقہ کشی کی تصدیق",
+              "english": "Verification of Poverty"
+            },
+            "content": {
+              "urdu": [
+                "شدید غریب شخص کے لیے تین معتبر گواہوں کی گواہی ضروری قرار دی گئی ہے۔",
+                "یہ شرط پیشہ ور بھکاریوں اور جھوٹ بولنے والوں کے سدباب کے لیے ہے۔",
+                "صرف اتنی رقم مانگنا جائز ہے جس سے بھوک مٹ سکے اور زندگی محفوظ رہے۔"
+              ],
+              "english": [
+                "A starving person must have their condition verified by three reliable witnesses.",
+                "This condition is set to prevent professional beggars and liars from exploiting charity.",
+                "It is only permissible to ask for enough to ward off hunger and sustain life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حرام کمائی اور وعید",
+        "english": "Forbidden Gains and Warning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سحت کا مفہوم",
+              "english": "Concept of Suht"
+            },
+            "content": {
+              "urdu": [
+                "ان تین صورتوں کے علاوہ مانگا گیا ہر مال 'سحت' یعنی انتہائی قبیح حرام ہے۔",
+                "ایسا مال کھانے والا اپنے پیٹ میں جہنم کے انگارے بھر رہا ہوتا ہے۔",
+                "یہ گناہ معاشرے میں برکت کو ختم کر دیتا ہے اور دعاؤں کی قبولیت روک دیتا ہے۔"
+              ],
+              "english": [
+                "Any money begged outside these three cases is 'Suht', meaning strictly forbidden.",
+                "The consumer of such wealth is filling their stomach with the embers of Hell.",
+                "This sin erases blessings from society and prevents the acceptance of prayers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پیشہ ورانہ گداگری",
+              "english": "Professional Beggary"
+            },
+            "content": {
+              "urdu": [
+                "حدیث سے ثابت ہے کہ بھیک مانگنا کوئی پیشہ نہیں بلکہ ایک ناپسندیدہ مجبوری ہے۔",
+                "لوگوں کے مال پر نظر رکھنا مومن کی شان اور غیرت کے خلاف ہے۔",
+                "اسلام ہاتھ پاؤں سلامت ہونے پر محنت مزدوری کا حکم دیتا ہے۔"
+              ],
+              "english": [
+                "The Hadith proves that begging is an undesirable necessity, not a profession.",
+                "Eyeing the wealth of others is contrary to a believer's honor and dignity.",
+                "Islam commands manual labor for those whose limbs are healthy and functional."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اصلاح",
+        "english": "Social Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گواہی اور ذمہ داری",
+              "english": "Witnessing and Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے کے 'صاحبِ عقل' لوگوں پر ذمہ داری ہے کہ وہ حقداروں کی پہچان کریں۔",
+                "جھوٹی گواہی دے کر کسی کو سوال کا لائسنس دینا بھی بہت بڑا گناہ ہے۔",
+                "تحقیق کے بعد مدد کرنا ہی مال کے صحیح استعمال کی ضمانت ہے۔"
+              ],
+              "english": [
+                "Wise members of society bear the responsibility to identify the truly deserving.",
+                "Giving a false testimony to allow someone to beg is a grave sin.",
+                "Helping only after verification ensures the correct utilization of wealth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استغناء کی ترغیب",
+              "english": "Encouragement of Contentment"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ان حدود کے ذریعے لوگوں میں خودداری کا جذبہ پیدا کیا۔",
+                "مومن کو چاہیے کہ وہ سوال سے بچے تاکہ اس کا وقار قائم رہے۔",
+                "اللہ ان کی مدد کرتا ہے جو لوگوں سے بے نیازی اختیار کرتے ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) instilled self-respect through these legal boundaries.",
+                "A believer should avoid asking to maintain their dignity and status.",
+                "Allah helps those who seek self-sufficiency and avoid depending on people."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

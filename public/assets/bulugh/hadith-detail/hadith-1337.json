@@ -1,0 +1,175 @@
+{
+  "hadithId": 1337,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bukhari:6405",
+      "muslim:2691"
+    ],
+    "kitabId": 16,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الجامع",
+    "babId": 107
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6405)، ومسلم (2691). وفي رواية لهما زيادة: 'في يوم' (أي في خلال اليوم سواء متصلة أو متفرقة).",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (6405) اور امام مسلم (2691) نے روایت کیا ہے۔ بخاری اور مسلم کی دیگر روایات میں 'فی یوم' (ایک دن میں) کے الفاظ کی وضاحت بھی موجود ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6405) and Muslim (2691). Some versions include the phrase 'in a day,' meaning these can be said at once or throughout the day."
+  },
+  "importantWords": [
+    {
+      "arabic": "سُبْحَانَ اَللَّهِ",
+      "english": "Glory be to Allah",
+      "urdu": "اللہ پاک ہے"
+    },
+    {
+      "arabic": "بِحَمْدِهِ",
+      "english": "With His praise",
+      "urdu": "اس کی تعریف کے ساتھ"
+    },
+    {
+      "arabic": "حُطَّتْ",
+      "english": "Wiped away / Removed",
+      "urdu": "گرا دی جاتی ہیں / مٹا دی جاتی ہیں"
+    },
+    {
+      "arabic": "زَبَدِ اَلْبَحْرِ",
+      "english": "Foam of the sea",
+      "urdu": "سمندر کی جھاگ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایک مختصر مگر جامع ذکر 'سبحان اللہ وبحمدہ' کی فضیلت بیان کی گئی ہے کہ اسے روزانہ سو بار پڑھنے سے اللہ تعالیٰ کثیر گناہوں کو معاف فرما دیتا ہے۔",
+    "english": "This Hadith highlights the virtue of the brief yet powerful Dhikr 'Subhan Allah wa bihamdihi,' stating that reciting it 100 times a day leads to the forgiveness of abundant sins."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6405)",
+      "english": "Sahih al-Bukhari (6405)"
+    },
+    {
+      "arabic": "صحيح مسلم (2691)",
+      "english": "Sahih Muslim (2691)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ذکر کی فضیلت اور اہمیت",
+        "english": "Virtue and Importance of Dhikr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی تسبیح و حمد",
+              "english": "Tasbih and Hamd of Allah"
+            },
+            "content": {
+              "urdu": [
+                "اس ذکر میں دو عظیم باتیں جمع ہیں: 'تسبیح' یعنی اللہ کو ہر عیب سے پاک قرار دینا، اور 'حمد' یعنی تمام خوبیوں کا اللہ کے لیے ہونا۔",
+                "یہ کلمات اللہ کو بہت محبوب ہیں اور میزان میں بہت وزنی ہوں گے۔",
+                "یہ کلمات مختصر ہونے کے باوجود ثواب کے لحاظ سے بہت وسیع ہیں۔"
+              ],
+              "english": [
+                "This Dhikr combines two great concepts: 'Tasbih' (declaring Allah free from all defects) and 'Hamd' (attributing all perfection to Allah).",
+                "These words are beloved to Allah and will be heavy on the scale of good deeds.",
+                "Despite being brief, these words carry immense spiritual rewards."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گناہوں کی معافی",
+              "english": "Forgiveness of Sins"
+            },
+            "content": {
+              "urdu": [
+                "سمندر کی جھاگ کی مثال گناہوں کی کثرت کو ظاہر کرنے کے لیے دی گئی ہے۔",
+                "محدثین کے مطابق اس سے مراد 'صغیرہ گناہ' (چھوٹے گناہ) ہیں، کیونکہ کبیرہ گناہوں کے لیے توبہ شرط ہے۔",
+                "یہ ذکر اللہ کی رحمت کو متوجہ کرنے کا ایک آسان ترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "The metaphor of 'sea foam' is used to illustrate the vastness and abundance of sins.",
+                "Scholars clarify that this typically refers to 'minor sins,' as major sins require sincere repentance (Tawbah).",
+                "This Dhikr is one of the easiest ways to seek Allah's vast mercy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعداد اور وقت کی وضاحت",
+        "english": "Explanation of Count and Time"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سو مرتبہ کی حد",
+              "english": "The Limit of 100 Times"
+            },
+            "content": {
+              "urdu": [
+                "اس فضیلت کے حصول کے لیے دن بھر میں سو مرتبہ یہ کلمات پڑھنا مسنون ہے۔",
+                "یہ سو مرتبہ ایک ساتھ بھی پڑھے جا سکتے ہیں اور متفرق اوقات (مثلاً صبح و شام) میں بھی۔",
+                "اگر کوئی سو سے زیادہ پڑھے گا تو اسے اس سے بھی زیادہ اجر ملے گا۔"
+              ],
+              "english": [
+                "To attain this specific reward, it is Sunnah to recite these words 100 times throughout the day.",
+                "They can be said all at once or spread out across different times (e.g., morning and evening).",
+                "Whoever says more than this will receive an even greater reward."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزمرہ کا معمول",
+              "english": "Daily Routine"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں چاہیے کہ اسے اپنے صبح و شام کے اذکار کا مستقل حصہ بنا لیں۔",
+                "فارغ اوقات، سفر کے دوران یا کام کاج کرتے ہوئے بھی یہ تسبیح پڑھی جا سکتی ہے۔",
+                "یہ ذکر دل کو سکون پہنچاتا ہے اور انسان کو اللہ کی یاد سے جوڑے رکھتا ہے۔"
+              ],
+              "english": [
+                "We should make this a permanent part of our morning and evening supplications.",
+                "This Tasbih can be recited during free time, while traveling, or even while working.",
+                "This remembrance brings peace to the heart and keeps the individual connected to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

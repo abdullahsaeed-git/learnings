@@ -1,0 +1,259 @@
+{
+  "hadithId": 423,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-423"],
+    "kitabId": 2,
+    "inKitabBab": 17,
+    "arabicBook": "بلوغ المرام",
+    "babId": 27
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (2077)‏، وفي رواية أخرى له قال: «إن هذه من ثياب الكفار فلا تلبسها»، وزاد في رواية أخرى: «قلت: أغسلهما؟ قال: بل أحرقهما».",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم نے اسے روایت کیا ہے (2077)۔ اس کے دیگر الفاظ میں یہ بھی ہے کہ 'یہ کافروں کے کپڑے ہیں انہیں نہ پہنو' اور یہ بھی کہ 'انہیں جلا دو'۔",
+    "english": "Sahih. Reported by Muslim (2077). In another version, he said, 'These are the clothes of the disbelievers, so do not wear them.' He also told him to burn them rather than wash them."
+  },
+  "importantWords": [
+    {
+      "arabic": "مُعَصْفَرَيْنِ",
+      "english": "Dyed with saffron / Safflower",
+      "urdu": "کسم سے رنگے ہوئے (زرد/سرخ)"
+    },
+    {
+      "arabic": "ثَوْبَيْنِ",
+      "english": "Two garments",
+      "urdu": "دو کپڑے"
+    },
+    {
+      "arabic": "أَمَرَتْكَ",
+      "english": "Commanded you",
+      "urdu": "تجھے حکم دیا"
+    },
+    {
+      "arabic": "رَأَى",
+      "english": "He saw",
+      "urdu": "دیکھا"
+    },
+    {
+      "arabic": "أُمُّكَ",
+      "english": "Your mother",
+      "urdu": "تمہاری ماں"
+    }
+  ],
+  "summary": {
+    "urdu": "مردوں کے لیے کسم (سفراور) سے رنگے ہوئے شوخ رنگ کے کپڑے پہننا ممنوع ہے کیونکہ یہ عورتوں یا غیر مسلموں کی مشابہت کے زمرے میں آتا ہے۔",
+    "english": "It is prohibited for men to wear garments dyed with safflower (Mu'asfar), as these are considered characteristic of women or disbelievers."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (2077)",
+      "english": "Sahih Muslim (2077)"
+    },
+    {
+      "arabic": "سنن النسائي (5316)",
+      "english": "Sunan An-Nasa'i (5316)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin Amr bin al-Aas"
+      },
+      "slug": "abdullah-ibn-amr-ibn-al-aas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=wearing+saffron+color+men+hadith+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "لباس میں صنفی امتیاز",
+        "english": "Gender Distinction in Clothing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ماں کے حکم کا تذکرہ",
+              "english": "Mention of the Mother's Command"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا یہ پوچھنا کہ کیا ماں نے حکم دیا، ایک لطیف تنبیہ تھی۔",
+                "اس کا مطلب تھا کہ ایسے شوخ رنگ عورتوں کے لیے مخصوص ہیں۔",
+                "مردوں کو ایسے لباس سے بچنا چاہیے جو زنانہ پن ظاہر کریں۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) question about his mother was a subtle reprimand.",
+                "It implied that such bright, dyed colors are specific to women.",
+                "Men should avoid clothing that manifests feminine characteristics."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مردانہ وقار کی اہمیت",
+              "english": "Importance of Masculine Dignity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام مردوں کو سنجیدہ اور باوقار لباس پہننے کی ترغیب دیتا ہے۔",
+                "انتہائی شوخ رنگ مرد کی جفاکشی اور رعب کے منافی سمجھے گئے۔",
+                "لباس کے ذریعے مرد و عورت کی تمیز باقی رکھنا شرعی تقاضا ہے۔"
+              ],
+              "english": [
+                "Islam encourages men to wear dignified and serious clothing.",
+                "Extremely bright colors are seen as contrary to masculine resilience.",
+                "Maintaining distinction between genders via dress is a Sharia requirement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مُعَصْفر کا شرعی حکم",
+        "english": "Legal Ruling on Mu'asfar"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کسم سے رنگے کپڑے",
+              "english": "Clothes Dyed with Safflower"
+            },
+            "content": {
+              "urdu": [
+                "معصفر سے مراد وہ کپڑا ہے جسے کسم کے پودے سے زرد یا سرخ رنگا جائے۔",
+                "نبی ﷺ نے صراحت کے ساتھ مردوں کو اس سے منع فرمایا ہے۔",
+                "علماء کے نزدیک یہ ممانعت تحریمی ہے یعنی یہ پہننا گناہ ہے۔"
+              ],
+              "english": [
+                "Mu'asfar refers to cloth dyed yellow or red with safflower plants.",
+                "The Prophet (ﷺ) explicitly forbade men from wearing such dyed clothes.",
+                "Scholars consider this prohibition as 'Tahrimi' (strictly forbidden)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غیر مسلموں کی مشابہت",
+              "english": "Imitation of Disbelievers"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی دیگر روایات میں اسے کفار کا لباس قرار دیا گیا ہے۔",
+                "مسلمانوں کو اپنی ظاہری وضع قطع میں غیروں سے ممتاز رہنا چاہیے۔",
+                "کسی قوم کی مشابہت اختیار کرنا ان کے نقشِ قدم پر چلنے کے مترادف ہے۔"
+              ],
+              "english": [
+                "Other reports in Muslim label this as the dress of disbelievers.",
+                "Muslims should remain distinct from others in their outward appearance.",
+                "Imitating a nation's specific customs is like following their footsteps."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی انداز اور سختی",
+        "english": "Training Style and Severity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کپڑے جلانے کا حکم",
+              "english": "Command to Burn the Clothes"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے انہیں دھونے کے بجائے جلانے کا حکم دے کر شدت ظاہر کی۔",
+                "اس سختی کا مقصد اس گناہ کی برائی کو دل میں بٹھانا تھا۔",
+                "تربیت میں کبھی کبھی سخت رویہ برائی کے خاتمے کے لیے ضروری ہوتا ہے۔"
+              ],
+              "english": [
+                "He (ﷺ) showed severity by ordering them to be burned, not washed.",
+                "The aim was to instill the gravity of this disliked act in the heart.",
+                "Occasional strictness in training is necessary to eradicate evils."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کی فوری اطاعت",
+              "english": "Immediate Obedience of Sahaba"
+            },
+            "content": {
+              "urdu": [
+                "حضرت عبداللہ بن عمرو نے بغیر کسی حجت کے حکم کی تعمیل کی۔",
+                "سچی محبت کا تقاضا یہی ہے کہ محبوب کی ناپسندی پر چیز چھوڑ دی جائے۔",
+                "صحابہ کرام کا یہی جذبہ ہمیں دین کی صحیح روح سمجھاتا ہے۔"
+              ],
+              "english": [
+                "Abdullah bin Amr complied with the command without any argument.",
+                "True love dictates leaving what the beloved finds displeasing.",
+                "The Sahaba's spirit teaches us the true essence of the religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور اور اطلاق",
+        "english": "Modern Era and Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فیشن اور حدودِ شرعیہ",
+              "english": "Fashion and Sharia Limits"
+            },
+            "content": {
+              "urdu": [
+                "آج کل مردوں کے لباس میں شوخ رنگوں کا رواج بڑھ رہا ہے۔",
+                "مسلمانوں کو فیشن کے نام پر سنت کی حدود پامال نہیں کرنی چاہئیں۔",
+                "لباس ایسا ہو جو مردانہ وقار اور اسلامی تشخص کو برقرار رکھے۔"
+              ],
+              "english": [
+                "Bright colors are becoming trendy in men's modern fashion today.",
+                "Muslims should not violate Sunnah limits for the sake of fashion.",
+                "Clothing should preserve masculine dignity and Islamic identity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "والدین کی تربیت",
+              "english": "Parental Upbringing"
+            },
+            "content": {
+              "urdu": [
+                "بچوں کے لباس کے انتخاب میں والدین کا کردار بہت اہم ہے۔",
+                "بچپن ہی سے لڑکوں کو مردانہ اور لڑکیوں کو زنانہ لباس کا عادی بنائیں۔",
+                "نبی ﷺ کی تنبیہ والدین کے لیے بھی ایک سبق ہے کہ وہ کیا سکھاتے ہیں۔"
+              ],
+              "english": [
+                "Parental roles are crucial in choosing clothes for children.",
+                "Boys should be habituated to masculine and girls to feminine dress.",
+                "The Prophet's (ﷺ) warning is a lesson for parents on what they teach."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 1088,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/9"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2541)، ومسلم (1730). بنو المصطلق حي من خزاعة. قوله 'غارون' أي غافلون لم يتأهبوا للقتال.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (2541) اور امام مسلم (1730) نے روایت کیا ہے۔ بنو مصطلق قبیلہ خزاعہ کی ایک شاخ تھی۔ 'غارون' کا مطلب ہے کہ وہ حملے سے بالکل بے خبر تھے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2541) and Muslim (1730). Banu al-Mustaliq was a tribe from Khuza'ah. The term 'Gharun' means they were heedless and unprepared for battle."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَغَارَ",
+      "english": "Attacked/Raid",
+      "urdu": "حملہ کیا / شب خون مارا"
+    },
+    {
+      "arabic": "غَارُّونَ",
+      "english": "Unaware/Heedless",
+      "urdu": "بے خبر / غافل"
+    },
+    {
+      "arabic": "مُقَاتِلَتَهُمْ",
+      "english": "Their warriors",
+      "urdu": "ان کے لڑنے والے مرد"
+    },
+    {
+      "arabic": "سَبَى",
+      "english": "Captured",
+      "urdu": "قیدی بنا لیا"
+    },
+    {
+      "arabic": "ذَرَارِيَّهُمْ",
+      "english": "Their offspring/women",
+      "urdu": "ان کی نسل / بال بچے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ اگر کسی قوم تک اسلام کی دعوت پہنچ چکی ہو اور وہ سرکشی پر تلے ہوں، تو ان پر اچانک حملہ کرنا جائز ہے اور اس کے لیے دوبارہ دعوت دینا ضروری نہیں۔",
+    "english": "This Hadith establishes that a surprise attack is permissible against a people who have already received the message of Islam but remain in hostility, without the need for a fresh invitation."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2541)",
+      "english": "Sahih al-Bukhari (2541)"
+    },
+    {
+      "arabic": "صحيح مسلم (1730)",
+      "english": "Sahih Muslim (1730)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنگی حکمتِ عملی",
+        "english": "Military Strategy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اچانک حملے کا جواز",
+              "english": "Permissibility of Surprise Attacks"
+            },
+            "content": {
+              "urdu": [
+                "دشمن پر اچانک حملہ کرنا جنگی حکمتِ عملی کا حصہ ہے تاکہ جانی نقصان کم ہو۔",
+                "اگر کسی قوم تک اسلام کی دعوت پہنچ چکی ہو تو دوبارہ دعوت دینا واجب نہیں رہتا۔",
+                "رسول اللہ ﷺ نے بنو مصطلق کی شرارتوں کا سدِباب کرنے کے لیے یہ قدم اٹھایا۔"
+              ],
+              "english": [
+                "Launching a surprise attack is a valid strategy to minimize casualties during war.",
+                "If the message of Islam has already reached a people, re-inviting them is not mandatory.",
+                "The Prophet (ﷺ) took this step to preemptively curb the hostilities of Banu al-Mustaliq."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غفلت کا فائدہ اٹھانا",
+              "english": "Capitalizing on Heedlessness"
+            },
+            "content": {
+              "urdu": [
+                "جنگ میں دشمن کی غفلت سے فائدہ اٹھانا ایک مستند نبوی طریقہ کار رہا ہے۔",
+                "اس کا مقصد فتنہ و فساد کو جلد ختم کرنا اور دشمن کی قوت کو توڑنا ہوتا ہے۔",
+                "بنو مصطلق مسلمانوں پر حملے کی تیاری کر رہے تھے، اس لیے ان پر پیش قدمی کی گئی۔"
+              ],
+              "english": [
+                "Utilizing the enemy's lack of preparedness is an authentic Prophetic military tactic.",
+                "The objective is to swiftly end mischief and break the enemy's strength.",
+                "Banu al-Mustaliq were preparing to attack Muslims, hence the proactive strike."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دعوت اور قتال کا تعلق",
+        "english": "Link between Da'wah and Combat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعوت کی شرط",
+              "english": "The Condition of Invitation"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی جنگ کا مقصد خونریزی نہیں بلکہ اللہ کے دین کی سربلندی اور امن کا قیام ہے۔",
+                "جس قوم کو اسلام کا پیغام نہ پہنچا ہو، ان پر دعوت دیے بغیر حملہ کرنا منع ہے۔",
+                "بنو مصطلق پہلے سے اسلام سے واقف تھے، اس لیے انہیں دوبارہ مہلت نہیں دی گئی۔"
+              ],
+              "english": [
+                "The goal of Islamic warfare is not bloodshed but the supremacy of faith and peace.",
+                "Attacking a people who have not received the message of Islam is strictly forbidden.",
+                "Banu al-Mustaliq were already aware of Islam, so they were not granted a new respite."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف کی وضاحت",
+              "english": "Clarifying Juristic Differences"
+            },
+            "content": {
+              "urdu": [
+                "کچھ فقہاء ہر حال میں حملے سے پہلے دعوت دینے کو مستحب قرار دیتے ہیں۔",
+                "امام مالک اور شافعی کے نزدیک جن تک دعوت پہنچ چکی ہو، ان پر شب خون جائز ہے۔",
+                "یہ حدیث واضح کرتی ہے کہ جنگی ضرورت کے تحت دعوت کی تکرار ضروری نہیں۔"
+              ],
+              "english": [
+                "Some jurists consider re-inviting the enemy before an attack as highly recommended.",
+                "Imams Malik and Shafi'i hold that surprise raids are allowed against those already invited.",
+                "This Hadith clarifies that repeating the invitation is not necessary under military need."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انسانی حقوق اور جنگی قیدی",
+        "english": "Human Rights and Captives"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقاتلین اور غیر مقاتلین میں فرق",
+              "english": "Warrior vs Non-Combatant"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں صرف ان مردوں کو قتل کیا جاتا ہے جو ہتھیار اٹھانے کے قابل ہوں۔",
+                "عورتوں، بچوں اور بوڑھوں کو قتل کرنے سے سختی سے منع فرمایا گیا ہے۔",
+                "بنو مصطلق کے واقعے میں بھی صرف لڑنے والے مردوں کو ہی نشانہ بنایا گیا۔"
+              ],
+              "english": [
+                "In Islam, only those men capable of carrying arms and fighting are targeted.",
+                "Killing women, children, and the elderly is strictly forbidden in Islamic law.",
+                "In the case of Banu al-Mustaliq, only the active combatants were neutralized."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قیدیوں کے ساتھ حسنِ سلوک",
+              "english": "Treatment of Captives"
+            },
+            "content": {
+              "urdu": [
+                "جنگی قیدیوں کو غلام بنانا اس دور کا رواج تھا، لیکن اسلام نے انہیں حقوق دیے۔",
+                "اسی غزوے کے نتیجے میں سیدہ جویریہ رضی اللہ عنہا سے آپ ﷺ نے نکاح فرمایا۔",
+                "آپ ﷺ کے نکاح کی برکت سے بنو مصطلق کے تمام قیدیوں کو رہا کر دیا گیا۔"
+              ],
+              "english": [
+                "Capturing prisoners of war was the norm then, but Islam granted them dignity.",
+                "As a result of this battle, the Prophet (ﷺ) married Sayyidah Juwayriyah (R.A).",
+                "Due to the blessing of this marriage, all captives of Banu al-Mustaliq were set free."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایمانی اور دعوتی اسباق",
+        "english": "Faith and Preaching Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فتنہ و فساد کا خاتمہ",
+              "english": "Eradicating Mischief"
+            },
+            "content": {
+              "urdu": [
+                "امن کے قیام کے لیے شرپسند عناصر کی سرکوبی ضروری ہوتی ہے۔",
+                "رسول اللہ ﷺ کی بصیرت نے مسلمانوں کو ایک بڑے خطرے سے پہلے ہی بچا لیا۔",
+                "اسلامی ریاست کا دفاع حاکمِ وقت کی اولین ذمہ داریوں میں شامل ہے۔"
+              ],
+              "english": [
+                "Suppressing mischievous elements is vital for maintaining public peace.",
+                "The foresight of the Prophet (ﷺ) saved Muslims from a looming threat.",
+                "Defending the Islamic state is among the primary duties of the ruler."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق و باطل کا معرکہ",
+              "english": "Battle of Truth and Falsehood"
+            },
+            "content": {
+              "urdu": [
+                "یہ غزوہ ثابت کرتا ہے کہ حق کی قوت باطل کو اس کی غفلت میں پکڑ سکتی ہے۔",
+                "بنو مصطلق کی عبرت ناک شکست سے دوسرے قبائل پر مسلمانوں کی دھاک بیٹھ گئی۔",
+                "اللہ تعالیٰ اپنے مخلص بندوں کو دشمنوں کے ناپاک عزائم پر فتح عطا فرماتا ہے۔"
+              ],
+              "english": [
+                "This expedition proves that the power of truth can seize falsehood in its heedlessness.",
+                "The crushing defeat of Banu al-Mustaliq deterred other tribes from attacking Muslims.",
+                "Allah grants His sincere servants victory over the evil designs of the enemies."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

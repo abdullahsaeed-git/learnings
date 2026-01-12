@@ -1,0 +1,254 @@
+{
+  "hadithId": 1042,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1042"],
+    "kitabId": 10,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 84
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (1701)‏. وأصل قصة اليهوديين في البخاري (6841)، ومسلم (1699).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم نے اسے اپنی صحیح میں (1701) پر روایت کیا ہے۔ یہودیوں کے رجم کا تفصیلی واقعہ بخاری اور مسلم میں موجود ہے جس میں تورات کے حکم کا ذکر ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (1701). The detailed account of the two Jews is found in al-Bukhari (6841) and Muslim (1699)."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَجَمَ",
+      "english": "Stoned to death",
+      "urdu": "سنگسار کیا"
+    },
+    {
+      "arabic": "أَسْلَمَ",
+      "english": "Tribe of Aslam",
+      "urdu": "قبیلہ اسلم"
+    },
+    {
+      "arabic": "اَلْيَهُودِ",
+      "english": "The Jews",
+      "urdu": "یہودی"
+    },
+    {
+      "arabic": "اِمْرَأَةً",
+      "english": "A woman",
+      "urdu": "ایک عورت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ثابت کرتی ہے کہ سزائے رجم شادی شدہ زانی کے لیے اسلام کا مستقل قانون ہے، اور یہ قانون غیر مسلموں (ذمیوں) پر بھی ان کے اپنے الہامی قوانین کے مطابق نافذ کیا جا سکتا ہے۔",
+    "english": "This Hadith establishes that stoning (Rajm) is a permanent Shariah penalty for married adulterers and indicates that such laws can be applied to non-Muslim subjects (Dhimmis) based on their own revealed scriptures."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1701)",
+      "english": "Sahih Muslim (1701)"
+    },
+    {
+      "arabic": "صحيح البخاري (6841)",
+      "english": "Sahih al-Bukhari (6841)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سنتِ رجم کا تسلسل",
+        "english": "The Continuity of Stoning as a Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیدنا ماعز کا واقعہ",
+              "english": "Incident of Ma'iz (RA)"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں اسلمی شخص سے مراد سیدنا ماعز بن مالک ہیں جنہوں نے خود اعترافِ جرم کیا تھا۔",
+                "یہ واقعہ رجم کے شرعی ثبوت کے لیے ایک بنیادی ستون ہے کیونکہ یہ پختہ اعتراف پر مبنی تھا۔",
+                "نبی ﷺ نے ان کے لیے دعائے مغفرت فرمائی جس سے معلوم ہوا کہ حد گناہوں کا کفارہ ہے۔"
+              ],
+              "english": [
+                "The 'man from Aslam' refers to Ma'iz bin Malik, who voluntarily confessed to the crime.",
+                "This incident is a pillar of evidence for stoning as it was based on a solid confession.",
+                "The Prophet (ﷺ) prayed for his forgiveness, showing that legal penalties act as expiation for sins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و برابری",
+              "english": "Justice and Equality"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون میں سزا نافذ کرنے میں کسی قبیلے یا خاندانی پس منظر کا لحاظ نہیں رکھا جاتا۔",
+                "قانون کی نظر میں صحابی اور عام شہری سب برابر ہیں۔",
+                "حدود کا نفاذ معاشرے کو اخلاقی انارکی سے بچانے کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "Islamic law does not favor tribal or family background when implementing penalties.",
+                "In the eyes of the law, a companion and a common citizen are equal.",
+                "The enforcement of Hudud is essential to protect society from moral anarchy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غیر مسلموں پر حدود کا نفاذ",
+        "english": "Implementing Penalties on Non-Muslims"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "یہودی مرد و عورت کا قصہ",
+              "english": "Story of the Jewish Pair"
+            },
+            "content": {
+              "urdu": [
+                "یہودیوں نے اپنے زانیوں کو بچانے کے لیے تورات کے حکم کو چھپانے کی کوشش کی تھی۔",
+                "نبی ﷺ نے تورات منگوا کر ان پر ثابت کیا کہ ان کے دین میں بھی شادی شدہ کے لیے رجم ہی سزا ہے۔",
+                "آپ ﷺ نے ان پر ان کی اپنی کتاب کے مطابق فیصلہ فرما کر عدل کی مثال قائم کی۔"
+              ],
+              "english": [
+                "The Jews tried to hide the command of the Torah to protect their adulterers.",
+                "The Prophet (ﷺ) summoned the Torah and proved that their religion also mandated stoning for the married.",
+                "By judging them according to their own book, he established a precedent of absolute justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی موقف",
+              "english": "Juristic Standpoint"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء کے نزدیک اگر ذمی (غیر مسلم شہری) اپنا مقدمہ اسلامی عدالت لائیں تو ان پر اسلامی قانون نافذ ہوگا۔",
+                "رجم کی سزا الہامی مذاہب میں ایک مشترکہ اخلاقی ضابطہ رہا ہے۔",
+                "غیر مسلموں کے حقوق کے تحفظ کے ساتھ ان سے اخلاقی نظم کی پابندی بھی مطلوب ہے۔"
+              ],
+              "english": [
+                "Most jurists hold that if Dhimmis bring their case to an Islamic court, Islamic law applies.",
+                "Stoning has been a common moral code among revealed religions.",
+                "While non-Muslim rights are protected, they are also expected to adhere to the social moral order."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی پاکیزگی اور عبرت",
+        "english": "Social Purity and Deterrence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عفت کی حفاظت",
+              "english": "Protection of Chastity"
+            },
+            "content": {
+              "urdu": [
+                "زنا صرف ایک فرد کا گناہ نہیں بلکہ خاندانی نظام کی جڑیں کھوکھلی کرنے والا فعل ہے۔",
+                "سخت سزا کا مقصد برائی کو پھیلنے سے پہلے ہی جڑ سے ختم کرنا ہے۔",
+                "اسلام پاکیزہ معاشرے کی بنیاد نکاح پر رکھتا ہے، بدکاری پر نہیں۔"
+              ],
+              "english": [
+                "Adultery is not just an individual sin but an act that hollows out the family system.",
+                "The purpose of the severe penalty is to uproot evil before it spreads.",
+                "Islam bases a pure society on marriage, not on fornication."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سزا کا طریقہ کار",
+              "english": "Methodology of Punishment"
+            },
+            "content": {
+              "urdu": [
+                "رجم سرِ عام کیا جاتا ہے تاکہ دوسروں کے لیے عبرت کا سامان ہو۔",
+                "اسلامی حدود کا مقصد بدلہ لینا نہیں بلکہ انسانیت کی فلاح اور تحفظ ہے۔",
+                "جب سزا یقینی ہو تو معاشرے میں امن اور سکون کا دور دورہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Stoning is performed publicly to serve as a deterrent to others.",
+                "The goal of Islamic Hudud is not revenge but the welfare and protection of humanity.",
+                "When punishment is certain, peace and tranquility prevail in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حق پر قائم رہنا",
+              "english": "Standing by the Truth"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے یہودیوں کے دباؤ یا ان کی ہیرا پھیری کے باوجود حق فیصلہ دیا۔",
+                "مومن کو چاہیے کہ وہ ہر حال میں سچ کا ساتھ دے اور دینی احکام میں لچک نہ دکھائے۔",
+                "اللہ کی حدود کو اپنی مرضی سے بدلنا گمراہی کا راستہ ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) delivered the truthful verdict despite Jewish pressure or manipulation.",
+                "A believer must stand by the truth in all circumstances and not compromise on religious mandates.",
+                "Changing Allah's limits according to one's own desires is a path to misguidance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پردہ پوشی اور توبہ",
+              "english": "Concealment and Repentance"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ حدود موجود ہیں، مگر اسلام گناہوں کو چھپانے اور سچی توبہ کی ترغیب دیتا ہے۔",
+                "ماعز بن مالک کا واقعہ ہمیں سکھاتا ہے کہ توبہ کا دروازہ ہر وقت کھلا ہے۔",
+                "گناہ ہو جانے پر اللہ سے معافی مانگنا اور اپنی اصلاح کرنا بہترین عمل ہے۔"
+              ],
+              "english": [
+                "While penalties exist, Islam encourages concealing sins and seeking sincere repentance.",
+                "The story of Ma'iz teaches us that the door of repentance is always open.",
+                "Seeking Allah's forgiveness and reforming oneself after a sin is the best course of action."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

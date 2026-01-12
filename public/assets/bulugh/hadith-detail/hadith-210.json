@@ -1,0 +1,276 @@
+{
+  "hadithId": 210,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["2", "7"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب صفة الصلاة",
+    "babId": 17
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواه البخاري في كتاب الأذان، باب وجوب القراءة للإمام والمأموم في الصلوات كلها (757)، ومسلم في كتاب الصلاة، باب وجوب قراءة الفاتحة في كل ركعة (397). هذا الحديث مشہور بحديث 'المسيء صلاته' (جس شخص نے نماز کو خراب کیا)۔",
+    "urdu": "صحیح متفق علیہ۔ اسے بخاری نے کتاب الأذان، باب وجوب القراءة للإمام والمأموم فی الصلوات کلھا (757) میں اور مسلم نے کتاب الصلاة، باب وجوب قراءة الفاتحة فی کل رکعة (397) میں روایت کیا ہے۔ یہ حدیث 'المسيء صلاته' (نماز خراب کرنے والے شخص) کی حدیث کے نام سے مشہور ہے۔",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh). Reported by Al-Bukhari in the Book of Adhan, Chapter: Obligation of recitation for the Imam and the follower in all prayers (757), and by Muslim in the Book of Prayer, Chapter: Obligation of reciting Al-Fatihah in every Rak'ah (397). This Hadith is famously known as the Hadith of 'Al-Musī' Salātahu' (the one who prayed badly)."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَأَسْبِغِ الْوُضُوءَ",
+      "english": "Perform Wudu' thoroughly",
+      "urdu": "وضو اچھی طرح کرو"
+    },
+    {
+      "arabic": "اِسْتَقْبِلِ الْقِبْلَةَ",
+      "english": "Face the Qiblah",
+      "urdu": "قبلہ کی طرف منہ کرو"
+    },
+    {
+      "arabic": "فَكَبِّرْ",
+      "english": "Say the Takbir (Allahu Akbar)",
+      "urdu": "پھر تکبیر کہو"
+    },
+    {
+      "arabic": "مَا تَيَسَّرَ",
+      "english": "Whatever is easy/available",
+      "urdu": "جتنا آسانی سے ہو"
+    },
+    {
+      "arabic": "حَتَّى تَطْمَئِنَّ",
+      "english": "Until you are in peaceful composure (Tuma'ninah)",
+      "urdu": "یہاں تک کہ اطمینان حاصل ہو"
+    },
+    {
+      "arabic": "فَأَقِمْ صُلْبَكَ",
+      "english": "Make your back straight",
+      "urdu": "اپنی کمر کو سیدھا کرو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز کا مکمل طریقہ بیان کرتی ہے، جس کا آغاز اچھی طرح وضو کرنے اور قبلہ رُخ ہونے سے ہوتا ہے۔ یہ حدیث واضح کرتی ہے کہ نماز میں تمام ارکان (رکوع، سجدہ، قومہ، جلسہ) کے دوران 'اطمینان' (Tuma'ninah) کے ساتھ ٹھہرنا فرض ہے، اور اطمینان کے بغیر پڑھی گئی نماز نامکمل یا باطل ہے، اسی لیے یہ شخص 'نماز خراب کرنے والا' (المسيء صلاته) کہلایا۔",
+    "english": "This Hadith describes the complete method of prayer, starting with performing Wudu' thoroughly and facing the Qiblah. It clearly establishes that 'Tuma'ninah' (peaceful composure/stillness) during all major pillars (Ruku', Sujud, Qawmah, Jalsah) is an obligatory requirement of the prayer. A prayer performed without Tuma'ninah is considered incomplete or invalid, hence the person was called 'Al-Musī' Salātahu' (the one who prayed badly)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأذان، باب وجوب القراءة للإمام والمأموم (757)",
+      "english": "Sahih Al-Bukhari, Book of Adhan, Chapter: Obligation of recitation for the Imam and the follower (757)"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الصلاة، باب وجوب قراءة الفاتحة في كل ركعة (397)",
+      "english": "Sahih Muslim, Book of Prayer, Chapter: Obligation of reciting Al-Fatihah in every Rak'ah (397)"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الصلاة، باب صلاة من لا يقيم صلبه في الركوع والسجود (856)",
+      "english": "Sunan Abu Dawud, Book of Prayer, Chapter: The prayer of one who does not keep his back straight in bowing and prostrating (856)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "رفاعة بن رافع",
+        "english": "Rifa'ah ibn Rafi'"
+      },
+      "slug": "rifaah-ibn-rafi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2E-R6kUeB0",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Authentic, Agreed upon (Sahih Muttafaq 'Alayh)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز کے ارکان اور اطمینان",
+        "english": "Pillars of Prayer and Tuma'ninah (Composure)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اطمینان (تعدیلِ ارکان) کی فرضیت",
+              "english": "Obligation of Tuma'ninah (Composure)"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'حتیٰ تطمئن' (یہاں تک کہ اطمینان ہو جائے) کا لفظ یہ ثابت کرتا ہے کہ اطمینان فرض ہے۔",
+                "رکوع، سجدہ، رکوع سے اٹھنا (قومہ) اور دونوں سجدوں کے درمیان بیٹھنا (جلسہ) میں ٹھہرنا ضروری ہے۔",
+                "اطمینان کا مطلب ہے کہ ہر رکن میں جسم پر سکون ہو اور تمام ہڈیاں اپنی جگہ پر واپس آ جائیں۔"
+              ],
+              "english": [
+                "The phrase 'Hattā taṭma'inna' (until you are in composure) proves that Tuma'ninah is an obligation (Fard).",
+                "It is mandatory to pause in Ruku', Sujud, rising from Ruku' (Qawmah), and sitting between the two Sujud (Jalsah).",
+                "Tuma'ninah means the body is still and all bones return to their proper place during every pillar."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز خراب کرنے والے کا قصہ",
+              "english": "The Story of the One Who Prayed Badly"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ایک ایسے شخص کے جواب میں بیان ہوئی جو نماز میں جلد بازی کر رہا تھا اور اطمینان سے نہیں پڑھ رہا تھا۔",
+                "نبی صلی اللہ علیہ وسلم نے اس شخص کو تین بار نماز دہرانے کا حکم دیا اور اسے فرمایا: 'تم نے نماز نہیں پڑھی۔'",
+                "اس سے معلوم ہوتا ہے کہ اطمینان کے بغیر پڑھی گئی نماز بالکل ادا نہیں ہوتی اور اسے باطل سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "This Hadith was narrated in response to a man who was rushing in his prayer and not observing composure.",
+                "The Prophet (PBUH) commanded the man to repeat his prayer three times and told him: 'You have not prayed.'",
+                "This indicates that a prayer performed without Tuma'ninah is considered invalid and has not been truly performed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نماز کے واجبات اور سنتیں",
+        "english": "Obligations (Wajib) and Sunnahs of Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابتدائی فرائض اور واجبات",
+              "english": "Initial Obligations and Wajib"
+            },
+            "content": {
+              "urdu": [
+                "نماز سے پہلے وضو کو 'اسباغ' (پوری طرح) کرنا فرض ہے اور یہ نماز کی تکمیل کے لیے ضروری ہے۔",
+                "قبلہ کی طرف رُخ کرنا، تکبیر تحریمہ کہنا، اور فرض نماز میں سورۃ فاتحہ پڑھنا بھی فرائض میں شامل ہیں۔",
+                "قرآن کی تلاوت (جو آسانی سے یاد ہو) سے مراد سورۃ فاتحہ اور کچھ مزید آیات ہیں۔"
+              ],
+              "english": [
+                "Performing Wudu' with 'Isbagh' (thoroughly) before prayer is obligatory and necessary for its completion.",
+                "Facing the Qiblah, saying the opening Takbir (Takbirat Al-Ihram), and reciting Al-Fatihah in obligatory prayers are also pillars.",
+                "Reciting what is easy of the Qur'an refers to Al-Fatihah plus some additional verses."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اذکار کے احکام",
+              "english": "Rulings on Dhikr (Remembrance)"
+            },
+            "content": {
+              "urdu": [
+                "رفاعہ بن رافع کی روایت میں مذکور ہے کہ اگر کسی کو قرآن یاد نہ ہو تو وہ اللہ کی حمد، تکبیر اور تہلیل کرے۔",
+                "یہ حکم اس بات کو ظاہر کرتا ہے کہ نماز میں ذکر اور تسبیح پڑھنا بھی بنیادی اہمیت رکھتا ہے۔",
+                "اس سے یہ اصول اخذ کیا گیا ہے کہ رکوع اور سجدے میں تسبیح کہنا واجب یا سنتِ مؤکدہ ہے۔"
+              ],
+              "english": [
+                "Rifa'ah ibn Rafi''s narration states that if one does not know the Qur'an, they should praise Allah, say Takbir, and Tahlil (La Ilaha Illallah).",
+                "This command shows that reciting Dhikr and Tasbih in prayer is also fundamentally important.",
+                "It is inferred from this that reciting Tasbih during Ruku' and Sujud is Wajib (obligatory) or Sunnah Mu'akkadah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طمانیت کی عملی صورت",
+        "english": "Practical Form of Tuma'ninah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قومہ اور جلسہ میں اطمینان",
+              "english": "Composure in Qawmah and Jalsah"
+            },
+            "content": {
+              "urdu": [
+                "رکوع سے اٹھنے کے بعد (قومہ) کمر کو اتنا سیدھا کرنا کہ ہڈیاں اپنی جگہ واپس آ جائیں، لازمی ہے۔",
+                "اسی طرح دونوں سجدوں کے درمیان بیٹھنے (جلسہ) میں بھی مکمل ٹھہراؤ ضروری ہے۔",
+                "اطمینان کو عموماً ایک بار سبحان اللہ کہنے کے وقت کے برابر سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "After rising from Ruku' (Qawmah), straightening the back until the bones return to their proper place is essential.",
+                "Similarly, complete stillness is required when sitting between the two prostrations (Jalsah).",
+                "Tuma'ninah is generally understood to be the time it takes to say 'Subhān Allāh' once."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کی ہر رکعت میں اطلاق",
+              "english": "Application in Every Rak'ah"
+            },
+            "content": {
+              "urdu": [
+                "نبی صلی اللہ علیہ وسلم نے فرمایا کہ یہ تمام کام (اطمینان سے ارکان ادا کرنا) پوری نماز میں کیا کرو۔",
+                "یہ اس بات کو واضح کرتا ہے کہ اطمینان کا حکم صرف پہلی رکعت کے لیے نہیں بلکہ ہر رکعت کے لیے ہے۔",
+                "اس حکم پر عمل دراصل نماز کے روحانی اور جسمانی فوائد کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) commanded that all these actions (performing pillars with Tuma'ninah) must be done throughout the entire prayer.",
+                "This clarifies that the requirement of Tuma'ninah is not only for the first Rak'ah but for every single one.",
+                "Adhering to this command ensures the spiritual and physical benefits of the prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خشوع اور آداب کا درس",
+        "english": "Lesson in Khushu' and Etiquette"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جلد بازی کی مذمت",
+              "english": "Condemnation of Hastiness"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث نماز میں ہر قسم کی جلد بازی اور لاپرواہی کی مذمت کرتی ہے، جو اکثر لوگوں میں پائی جاتی ہے۔",
+                "اطمینان اور سکون کے ساتھ نماز پڑھنا ہی اللہ کے حضور صحیح معنوں میں حاضر ہونے کا طریقہ ہے۔",
+                "نماز کی مکمل ادائیگی کے لیے ظاہری اور باطنی دونوں طرح کی تیاری ضروری ہے۔"
+              ],
+              "english": [
+                "This Hadith condemns all forms of hastiness and carelessness in prayer, which is common among many people.",
+                "Praying with Tuma'ninah and peacefulness is the only way to truly be present before Allah.",
+                "Both outward and inner preparation are essential for the complete performance of prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی سبق",
+              "english": "Practical Lesson"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی شخص کو شک ہو کہ اس نے اطمینان سے نماز ادا نہیں کی، تو اسے نماز دہرانی چاہیے۔",
+                "نماز میں خشوع کی بنیاد ارکان میں سکون اور دل کی یکسوئی پر ہے۔",
+                "اس حدیث پر عمل کرنے سے ہی ہماری نمازیں اللہ کے ہاں قابل قبول اور بابرکت بن سکتی ہیں۔"
+              ],
+              "english": [
+                "If a person suspects that they did not perform the prayer with Tuma'ninah, they should repeat it.",
+                "The foundation of Khushu' in prayer lies in physical stillness and the heart's concentration.",
+                "Only by acting upon this Hadith can our prayers become acceptable and blessed in the sight of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

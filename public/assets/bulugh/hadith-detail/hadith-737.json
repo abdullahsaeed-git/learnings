@@ -1,0 +1,256 @@
+{
+  "hadithId": 737,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": [
+      ""
+    ],
+    "kitabId": 7,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب البيوع",
+    "babId": 48
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه ابن حبان (1166)، وأحمد (5/425). وللحديث شواهد كثيرة تقويه، منها قوله صلى الله عليه وسلم في خطبة حجة الوداع: \"لا يحل مال امرئ مسلم إلا بطيب نفس منه\".",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابن حبان (1166) نے روایت کیا ہے۔ اگرچہ حافظ ابن حجر نے اسے حاکم کی طرف بھی منسوب کیا ہے مگر وہ دستیاب نسخوں میں نہیں ملی، تاہم اس کے کئی شواہد موجود ہیں جو اسے صحیح ثابت کرتے ہیں، جیسے حجۃ الوداع کا خطبہ۔",
+    "english": "Sahih. Reported by Ibn Hibban (1166) and Ahmad (5/425). There are many supporting narrations for this, including the Prophet's (PBUH) address during the Farewell Pilgrimage."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَحِلُّ",
+      "english": "Not lawful",
+      "urdu": "حلال نہیں"
+    },
+    {
+      "arabic": "عَصَا",
+      "english": "Staff / Stick",
+      "urdu": "لاٹھی / عصا"
+    },
+    {
+      "arabic": "طِيبِ نَفْسٍ",
+      "english": "Goodwill / Consent",
+      "urdu": "دلی خوشی / رضامندی"
+    },
+    {
+      "arabic": "أَخِيهِ",
+      "english": "His brother",
+      "urdu": "اس کا بھائی (مسلمان)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں دوسروں کی ملکیت کے احترام کا حکم دیا گیا ہے اور واضح کیا گیا ہے کہ کسی کی چھوٹی سے چھوٹی چیز بھی اس کی مرضی کے بغیر لینا حرام ہے۔",
+    "english": "This Hadith emphasizes the sanctity of private property, declaring it forbidden to take even the smallest item belonging to another without their genuine consent."
+  },
+  "references": [
+    {
+      "arabic": "صحيح ابن حبان (1166)",
+      "english": "Sahih Ibn Hibban (1166)"
+    },
+    {
+      "arabic": "مسند أحمد (23605)",
+      "english": "Musnad Ahmad (23605)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو حميد الساعدي",
+        "english": "Abu Humaid as-Sa'idi"
+      },
+      "slug": "abu-humaid-as-saidi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ملکیت کا احترام",
+        "english": "Respect for Ownership"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقِ ملکیت کی اہمیت",
+              "english": "Sanctity of Property"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے ہر انسان کے مال اور جائیداد کو تحفظ فراہم کیا ہے۔",
+                "کسی کی چیز پر زبردستی یا دھوکے سے قبضہ کرنا سنگین گناہ ہے۔",
+                "حدیث میں 'عصا' (لاٹھی) کا ذکر اس لیے کیا گیا کہ یہ ایک معمولی چیز سمجھی جاتی ہے، تاکہ واضح ہو کہ معمولی چیز بھی بغیر اجازت لینا منع ہے۔"
+              ],
+              "english": [
+                "Islam provides complete protection to every individual's wealth and property.",
+                "Usurping someone's belongings through force or deception is a grave sin.",
+                "A 'staff' is mentioned to illustrate that even items of low value cannot be taken without permission."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دلی رضامندی کی شرط",
+              "english": "Condition of Heartfelt Consent"
+            },
+            "content": {
+              "urdu": [
+                "صرف ظاہری اجازت کافی نہیں بلکہ مالک کی دلی خوشی (طیبِ نفس) ہونا ضروری ہے۔",
+                "اگر کوئی شرم و حیا کی وجہ سے یا دباؤ میں آ کر چیز دے دے، تو اسے لینا تقویٰ کے خلاف ہے۔",
+                "لین دین میں فریقین کا دلی طور پر مطمئن ہونا برکت کی بنیاد ہے۔"
+              ],
+              "english": [
+                "Mere outward permission is insufficient; the owner's genuine willingness is required.",
+                "Taking something given only out of shyness or social pressure is contrary to piety.",
+                "Mutual heartfelt satisfaction is the foundation of blessing in transactions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور اخلاقی پہلو",
+        "english": "Social and Ethical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اخوتِ اسلامی کا تقاضا",
+              "english": "Requirements of Islamic Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'اخ' (بھائی) کا لفظ استعمال کر کے ہمدردی اور احترام کا سبق دیا گیا ہے۔",
+                "بھائی چارے کا مطلب یہ نہیں کہ دوسروں کی چیزوں کو اپنا سمجھ کر بغیر پوچھے استعمال کیا جائے۔",
+                "حقوق العباد میں احتیاط ایمان کی پختگی کی علامت ہے۔"
+              ],
+              "english": [
+                "The use of the word 'brother' invokes a sense of empathy and mutual respect.",
+                "Brotherhood does not grant the right to use others' property without their knowledge.",
+                "Precaution in the rights of others is a sign of strong faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مذاق میں چیز چھپانا",
+              "english": "Hiding Items in Jest"
+            },
+            "content": {
+              "urdu": [
+                "دوسری روایات میں مذاق میں بھی کسی کا سامان چھپانے سے منع کیا گیا ہے۔",
+                "ایسا مذاق جو دوسرے کی پریشانی کا باعث بنے، اسلامی اخلاقیات کے منافی ہے۔",
+                "دوسروں کے جذبات اور املاک کا ہر حال میں خیال رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Other narrations specifically forbid hiding a friend's belongings even as a joke.",
+                "Any jest that causes distress to another is contrary to Islamic ethics.",
+                "Respect for others' feelings and property must be maintained at all times."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی ضوابط",
+        "english": "Juristic Regulations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غصب کی ممانعت",
+              "english": "Prohibition of Ghasb (Usurpation)"
+            },
+            "content": {
+              "urdu": [
+                "کسی کی زمین یا مال پر ناحق قبضہ کرنا 'غصب' کہلاتا ہے جو حرامِ قطعی ہے۔",
+                "ایسے مال سے دی گئی خیرات یا کی گئی عبادت (جیسے غصب شدہ زمین پر نماز) مشکوک ہو جاتی ہے۔",
+                "مالِ حرام سے جسم کی پرورش جہنم کی آگ کا راستہ ہموار کرتی ہے۔"
+              ],
+              "english": [
+                "Unlawfully occupying someone's land or wealth is termed 'Ghasb', which is strictly prohibited.",
+                "Charity or worship performed with usurped assets (like praying on stolen land) is compromised.",
+                "Nourishing the body with forbidden wealth paves the way to Hellfire."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجازت کے بغیر استعمال",
+              "english": "Use Without Permission"
+            },
+            "content": {
+              "urdu": [
+                "کسی کی کتاب، قلم یا موبائل بھی بغیر پوچھے لینا اس حدیث کی رو سے ناجائز ہے۔",
+                "اگر عرفِ عام میں اجازت معلوم ہو (جیسے دسترخوان پر پانی پینا) تو وہاں گنجائش ہے۔",
+                "اصولی طور پر اصل مالک کی صریح یا اشارتاً اجازت ضروری ہے۔"
+              ],
+              "english": [
+                "Taking a book, pen, or mobile phone without asking is impermissible according to this Hadith.",
+                "Exceptions exist where permission is culturally implied (e.g., drinking offered water).",
+                "Principally, explicit or clearly implied consent from the owner is necessary."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچوں کی تربیت",
+              "english": "Training Children"
+            },
+            "content": {
+              "urdu": [
+                "والدین کو چاہیے کہ وہ بچوں کو شروع سے دوسروں کی چیزوں کے احترام کا درس دیں۔",
+                "بغیر اجازت کسی کا کھلونا یا پنسل لینا 'چوری' کی چھوٹی شکل ہے جس سے روکنا ضروری ہے۔",
+                "امانتداری کا جذبہ بچپن سے ہی پروان چڑھانا چاہیے۔"
+              ],
+              "english": [
+                "Parents should teach children to respect the belongings of others from an early age.",
+                "Taking a toy or pencil without asking is a minor form of theft that must be discouraged.",
+                "The spirit of trustworthiness should be nurtured from childhood."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خلاصہ کلام",
+              "english": "Conclusion"
+            },
+            "content": {
+              "urdu": [
+                "معاشرتی امن اور باہمی اعتماد کے لیے دوسروں کے حقوق کی پاسداری لازمی ہے۔",
+                "اللہ ہمیں دوسروں کے مال اور عزت کا احترام کرنے والا بنائے۔",
+                "رزقِ حلال کی بنیاد ہی دوسروں کے حقوق کی ادائیگی پر ہے۔"
+              ],
+              "english": [
+                "Observing the rights of others is essential for social peace and mutual trust.",
+                "May Allah make us among those who respect the wealth and honor of others.",
+                "The foundation of Halal provision lies in fulfilling the rights of others."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

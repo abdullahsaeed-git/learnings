@@ -1,0 +1,259 @@
+{
+  "hadithId": 1221,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:2518", "https://sunnah.com/muslim:84"],
+    "kitabId": 15,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب العتق",
+    "babId": 100
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (2518)، ومسلم (84).",
+    "urdu": "یہ ایک صحیح اور متفق علیہ روایت ہے جسے امام بخاری اور امام مسلم دونوں نے نقل کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2518) and Muslim (84) with identical core meanings."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَفْضَلُ",
+      "english": "The best/Superior",
+      "urdu": "سب سے بہتر"
+    },
+    {
+      "arabic": "إِيمَانٌ",
+      "english": "Faith",
+      "urdu": "ایمان"
+    },
+    {
+      "arabic": "جِهَادٌ",
+      "english": "Striving/Jihad",
+      "urdu": "کوشش یا جہاد"
+    },
+    {
+      "arabic": "الرِّقَابِ",
+      "english": "Slaves/Necks",
+      "urdu": "غلام یا گردنیں"
+    },
+    {
+      "arabic": "أَنْفَسُهَا",
+      "english": "Most precious",
+      "urdu": "زیادہ محبوب و نفیس"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایمان اور جہاد کی فضیلت کے ساتھ ساتھ یہ بتایا گیا ہے کہ اللہ کی راہ میں قیمتی اور محبوب ترین چیز قربان کرنا ہی سب سے زیادہ اجر کا باعث ہے۔",
+    "english": "This Hadition highlights the superiority of faith and Jihad, emphasizing that sacrificing the most valuable and beloved assets for Allah brings the greatest reward."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (2518)",
+      "english": "Reported by Al-Bukhari (2518)"
+    },
+    {
+      "arabic": "رواه مسلم (84)",
+      "english": "Reported by Muslim (84)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو ذر الغفاري",
+        "english": "Abu Dharr al-Ghifari"
+      },
+      "slug": "abu-dharr-al-ghifari"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A8vNisF6mks",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اعمال کی ترجیحات",
+        "english": "Priorities of Deeds"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایمان اور جہاد کی برتری",
+              "english": "Superiority of Faith and Jihad"
+            },
+            "content": {
+              "urdu": [
+                "ایمان تمام اعمال کی جڑ اور بنیاد ہے جس کے بغیر کچھ قبول نہیں۔",
+                "جہاد ایمان کے تحفظ اور غلبہ اسلام کے لیے بلند ترین عمل ہے۔",
+                "یہ دونوں اعمال بندے کو اللہ کے قریب ترین کر دیتے ہیں۔"
+              ],
+              "english": [
+                "Faith is the foundation of all deeds; without it, nothing is accepted.",
+                "Jihad is the supreme struggle to protect and uphold the faith.",
+                "Both these actions bring a servant closest to Allah's pleasure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیکی میں کمال کا معیار",
+              "english": "Standard of Perfection in Piety"
+            },
+            "content": {
+              "urdu": [
+                "صرف نیکی کرنا کافی نہیں بلکہ بہترین نیکی کی تلاش ہونی چاہیے۔",
+                "صحابی کا سوال ان کی علمی پختگی اور جذبہ عمل کو ظاہر کرتا ہے۔",
+                "اسلام ہمیں اعلیٰ ترین اہداف مقرر کرنے کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "Doing good is not enough; one should strive for the best possible good.",
+                "The companion's question reflects deep insight and a passion for excellence.",
+                "Islam encourages us to set the highest spiritual and moral goals."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صدقے کی عظمت",
+        "english": "Greatness of Charity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیمتی چیز کا ایثار",
+              "english": "Sacrificing Valuable Assets"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی راہ میں وہ چیز دیں جو آپ کو خود بہت پسند ہو۔",
+                "قیمتی غلام کی آزادی زیادہ اخلاص اور بڑی مالی قربانی کی علامت ہے۔",
+                "قرآن کے مطابق تم نیکی کو نہیں پہنچ سکتے جب تک پسندیدہ چیز خرچ نہ کرو۔"
+              ],
+              "english": [
+                "Give in the way of Allah what you personally cherish and value.",
+                "Freeing a costly slave signifies greater sincerity and financial sacrifice.",
+                "The Quran states that piety is not reached until you spend what you love."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت اور خلوص",
+              "english": "Intention and Sincerity"
+            },
+            "content": {
+              "urdu": [
+                "عمل کا اجر اس میں موجود اخلاص اور ایثار کے مطابق ملتا ہے۔",
+                "مالک کا محبوب ترین غلام آزاد کرنا نفس کی پاکیزگی کا ثبوت ہے۔",
+                "اللہ تعالیٰ بندے کی ظاہری چیز سے زیادہ دل کی تڑپ دیکھتا ہے۔"
+              ],
+              "english": [
+                "Reward is proportional to the sincerity and sacrifice within the deed.",
+                "Freeing a beloved slave proves the purification of one's soul from greed.",
+                "Allah looks at the devotion of the heart more than the physical act."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انسانیت کی خدمت",
+        "english": "Serving Humanity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تعاون اور خیر خواہی",
+              "english": "Cooperation and Well-wishing"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے اگلے حصے میں دوسروں کی مدد کا ذکر بطور صدقہ ہے۔",
+                "اگر مالی قدرت نہ ہو تو کسی ہنر مند کی مدد کرنا بھی نیکی ہے۔",
+                "اسلامی معاشرہ باہمی تعاون اور بھائی چارے کی بنیاد پر قائم ہے۔"
+              ],
+              "english": [
+                "The extended narration mentions helping others as a form of charity.",
+                "If one lacks wealth, assisting a skilled or unskilled person is also piety.",
+                "Islamic society is built on the foundations of mutual help and brotherhood."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نقصان سے بچانا",
+              "english": "Preventing Harm"
+            },
+            "content": {
+              "urdu": [
+                "لوگوں کو اپنے شر سے محفوظ رکھنا بھی اپنے اوپر صدقہ ہے۔",
+                "اگر آپ نیکی نہیں کر سکتے تو کم از کم برائی سے باز رہیں۔",
+                "یہ اصول معاشرتی امن کو برقرار رکھنے کے لیے نہایت اہم ہے۔"
+              ],
+              "english": [
+                "Protecting people from your own harm is a charity for yourself.",
+                "If you cannot perform a good deed, at least refrain from evil.",
+                "This principle is crucial for maintaining social harmony and peace."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باعزم زندگی",
+              "english": "A Purposeful Life"
+            },
+            "content": {
+              "urdu": [
+                "ایک مومن کو ہمیشہ بڑے اجر والے کاموں کی تلاش رہنی چاہیے۔",
+                "ایمان کو مضبوط کریں اور دین کی سربلندی کے لیے جدوجہد کریں۔",
+                "وقت اور مال کو ضائع کرنے کے بجائے بہترین جگہوں پر صرف کریں۔"
+              ],
+              "english": [
+                "A believer should always seek deeds that carry the greatest rewards.",
+                "Strengthen your faith and strive for the elevation of the religion.",
+                "Instead of wasting time and wealth, invest them in the best causes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایثار کا جذبہ",
+              "english": "Spirit of Sacrifice"
+            },
+            "content": {
+              "urdu": [
+                "اپنی ضرورتوں پر دوسروں کی ضرورتوں کو ترجیح دینا سیکھیں۔",
+                "اللہ کے لیے بہترین چیز قربان کرنے کی عادت ڈالیں۔",
+                "یہی وہ راستہ ہے جو انسان کو تقویٰ کے اعلیٰ مقام تک لے جاتا ہے۔"
+              ],
+              "english": [
+                "Learn to prioritize the needs of others over your own requirements.",
+                "Cultivate the habit of sacrificing your best belongings for Allah's sake.",
+                "This is the path that leads an individual to the highest level of piety."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

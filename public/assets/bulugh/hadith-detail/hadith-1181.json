@@ -1,0 +1,267 @@
+{
+  "hadithId": 1181,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/13/11"],
+    "kitabId": 13,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأيمان والنذور",
+    "babId": 96
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1645). والزيادات المذكورة رواها الترمذي (1528) وأبو داود (3322). وحديث عائشة في البخاري (6700)، وحديث عمران في مسلم (1641).",
+    "urdu": "یہ حدیث صحیح ہے۔ اصل روایت مسلم میں ہے، جبکہ تفصیلی اضافے ابوداؤد اور ترمذی میں ہیں۔ گناہ کی نذر سے متعلق احادیث بخاری اور مسلم دونوں میں موجود ہیں۔",
+    "english": "Sahih. Reported by Muslim (1645). Additional details are in At-Tirmidhi (1528) and Abu Dawud (3322). The prohibition of fulfilling sinful vows is in Al-Bukhari (6700) and Muslim (1641)."
+  },
+  "importantWords": [
+    {
+      "arabic": "كَفَّارَةُ",
+      "english": "Expiation / Penalty",
+      "urdu": "کفارہ / جرمانہ"
+    },
+    {
+      "arabic": "لَمْ يُسَمِّ",
+      "english": "Did not specify / name",
+      "urdu": "جس کا نام نہ لیا / غیر متعین"
+    },
+    {
+      "arabic": "مَعْصِيَةٍ",
+      "english": "Sin / Disobedience",
+      "urdu": "گناہ / نافرمانی"
+    },
+    {
+      "arabic": "لَا يُطِيقُهُ",
+      "english": "Unable to bear / fulfill",
+      "urdu": "جس کی طاقت نہیں رکھتا"
+    },
+    {
+      "arabic": "لَا وَفَاءَ",
+      "english": "No fulfillment",
+      "urdu": "پورا کرنا جائز نہیں"
+    }
+  ],
+  "summary": {
+    "urdu": "ایسی نذر جو مبہم ہو، گناہ پر مبنی ہو یا انسان کی طاقت سے باہر ہو، اسے پورا نہیں کیا جائے گا بلکہ اس کا کفارہ قسم توڑنے کے کفارے کے برابر ہوگا۔",
+    "english": "Vows that are vague, sinful, or impossible to fulfill must not be carried out; instead, they require the same expiation as a broken oath."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1645)",
+      "english": "Sahih Muslim (1645)"
+    },
+    {
+      "arabic": "صحيح البخاري (6700)",
+      "english": "Sahih al-Bukhari (6700)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عقبة بن عامر الجهني",
+        "english": "Uqbah bin 'Amir al-Juhani"
+      },
+      "slug": "uqbah-bin-amir"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=f-w5oTndxR8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نذر اور اس کا کفارہ",
+        "english": "Nadhr and Its Expiation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کفارہِ یمین کی وضاحت",
+              "english": "Details of Expiation"
+            },
+            "content": {
+              "urdu": [
+                "قسم کا کفارہ دس مسکینوں کو کھانا کھلانا، لباس دینا یا ایک غلام آزاد کرنا ہے۔",
+                "اگر ان میں سے کسی کی استطاعت نہ ہو تو تین دن کے روزے رکھنا لازم ہے۔",
+                "نذر جب کسی وجہ سے پوری نہ ہو سکے تو یہی کفارہ لاگو ہوتا ہے۔"
+              ],
+              "english": [
+                "The expiation for an oath is feeding ten needy people, clothing them, or freeing a slave.",
+                "If unable to afford these, one must fast for three consecutive days.",
+                "The same expiation applies when a vow cannot be fulfilled for valid reasons."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مبہم نذر کا حکم",
+              "english": "Ruling on Vague Vows"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی کہے کہ 'میں اللہ کے لیے نذر مانتا ہوں' مگر عمل متعین نہ کرے، تو یہ مبہم نذر ہے۔",
+                "ایسی صورت میں نذر پوری کرنے کی کوئی متعین شکل نہیں، لہذا کفارہ دینا ہوگا۔",
+                "نذر مانتے وقت واضح الفاظ اور نیت کا ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "If someone says 'I vow for Allah' without specifying an action, it is a vague vow.",
+                "Since there is no specific action to perform, expiation is mandatory.",
+                "Clear wording and intention are essential when making a vow."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نافرمانی اور گناہ کی نذر",
+        "english": "Vows of Disobedience and Sin"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گناہ کی ممانعت",
+              "english": "Prohibition of Sin"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی نافرمانی کے کاموں میں نذر ماننا خود ایک گناہ ہے۔",
+                "ایسی نذر کو پورا کرنا حرام ہے کیونکہ خالق کی نافرمانی میں مخلوق کی اطاعت نہیں۔",
+                "سیدہ عائشہ کی روایت کے مطابق ایسی نذر کو توڑ کر کفارہ دینا لازم ہے۔"
+              ],
+              "english": [
+                "Making a vow to commit a sin is itself a sinful act.",
+                "Fulfilling such a vow is prohibited, as there is no obedience to creation in disobeying the Creator.",
+                "According to Aisha's narration, one must break such a vow and pay the expiation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی حدود",
+              "english": "Legal Boundaries"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نیکی اور تقویٰ کے کاموں میں نذر کو تسلیم کرتا ہے۔",
+                "ایسی نذر جو دوسروں کے حقوق غصب کرے (مثلاً صدقہ نہ کرنے کی قسم) باطل ہے۔",
+                "عبادت کی نیت میں اللہ کی رضا کا ہونا لازمی شرط ہے۔"
+              ],
+              "english": [
+                "Islam only recognizes vows related to acts of righteousness and piety.",
+                "A vow that violates others' rights (e.g., vowing not to give charity) is void.",
+                "The intention for Allah's pleasure is a prerequisite for any valid worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انسانی طاقت سے باہر نذر",
+        "english": "Vows Beyond Human Capacity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناممکن کام کی نذر",
+              "english": "Vowing the Impossible"
+            },
+            "content": {
+              "urdu": [
+                "ایسا عمل جو انسان کی جسمانی یا مالی استطاعت سے باہر ہو، اس کی نذر درست نہیں۔",
+                "اللہ تعالیٰ کسی جان پر اس کی وسعت سے زیادہ بوجھ نہیں ڈالتا۔",
+                "ایسی نذر کو ختم کر کے کفارہ ادا کرنا شرعی حل ہے۔"
+              ],
+              "english": [
+                "A vow involving actions beyond one's physical or financial capacity is invalid.",
+                "Allah does not burden a soul more than it can bear.",
+                "Ending such a vow and paying expiation is the legal solution."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تربیتی پہلو",
+              "english": "Educational Aspect"
+            },
+            "content": {
+              "urdu": [
+                "نذر ماننے میں جلد بازی اور جذباتیت سے بچنا چاہیے۔",
+                "انسان کو اپنی حدود اور کمزوریوں کا ادراک ہونا چاہیے۔",
+                "نبی ﷺ کی تعلیمات ہمیں زندگی میں اعتدال اور توازن سکھاتی ہیں۔"
+              ],
+              "english": [
+                "One should avoid haste and emotionalism when making vows.",
+                "A person must be aware of their own limitations and weaknesses.",
+                "Prophetic teachings instruct us in moderation and balance in life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلاصہ اور عمل",
+        "english": "Summary and Action"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نذر پوری کرنے کی اہمیت",
+              "english": "Importance of Fulfilling Vows"
+            },
+            "content": {
+              "urdu": [
+                "نیکی کی جائز نذر پوری کرنا فرض ہے اور یہ ایمانداری کی علامت ہے۔",
+                "نذر کو ٹالنا یا نظر انداز کرنا اللہ کے ساتھ کیے گئے عہد کی خلاف ورزی ہے۔",
+                "مومن وہی ہے جو اپنے وعدوں اور نذروں کو پورا کرے۔"
+              ],
+              "english": [
+                "Fulfilling a valid and righteous vow is obligatory and a sign of integrity.",
+                "Delaying or ignoring a vow is a breach of the covenant made with Allah.",
+                "A true believer is one who stands by his promises and vows."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہر الجھن میں رسول اللہ ﷺ کے بتائے ہوئے احکام کی طرف رجوع کریں۔",
+                "کفارہِ یمین کی ادائیگی سے انسان گناہ کے بوجھ سے آزاد ہو جاتا ہے۔",
+                "دینِ اسلام تنگی کے بجائے سہولت اور تلافی کا راستہ فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "Refer to the Prophet's (ﷺ) commands in every confusion.",
+                "Paying the expiation frees a person from the burden of sin.",
+                "Islam provides a path of ease and compensation rather than hardship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

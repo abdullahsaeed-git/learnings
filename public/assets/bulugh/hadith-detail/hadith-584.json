@@ -1,0 +1,267 @@
+{
+  "hadithId": 584,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/6/6"],
+    "kitabId": 6,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الحج",
+    "babId": 36
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1513)، ومسلم (1334). والحديث دليل على جواز الحج عن العاجز.",
+    "urdu": "صحیح۔ اسے امام بخاری (1513) اور امام مسلم (1334) نے روایت کیا ہے۔ یہ حدیث معذور شخص کی طرف سے حجِ بدل کے جواز پر بنیادی دلیل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1513) and Muslim (1334). This Hadith is a foundational proof for the permissibility of Hajj by proxy for the disabled."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَدِيفَ",
+      "english": "Riding behind",
+      "urdu": "پیچھے سوار"
+    },
+    {
+      "arabic": "يَصْرِفُ",
+      "english": "Turning away",
+      "urdu": "پھیر رہے تھے"
+    },
+    {
+      "arabic": "شَيْخًا كَبِيرًا",
+      "english": "Very old man",
+      "urdu": "بہت بوڑھا آدمی"
+    },
+    {
+      "arabic": "لَا يَثْبُتُ",
+      "english": "Cannot remain steady",
+      "urdu": "قرار نہیں پا سکتا / بیٹھ نہیں سکتا"
+    },
+    {
+      "arabic": "أَفَأَحُجُّ عَنْهُ",
+      "english": "May I perform Hajj for him",
+      "urdu": "کیا میں اس کی طرف سے حج کروں"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص بڑھاپے یا بیماری کی وجہ سے حج کا سفر کرنے کی طاقت نہ رکھتا ہو تو اس کی طرف سے اس کا ولی یا کوئی دوسرا شخص حج کر سکتا ہے۔",
+    "english": "Hajj by proxy is permissible for an elderly or ill person who is physically unable to perform the journey themselves."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1513)",
+      "english": "Sahih al-Bukhari (1513)"
+    },
+    {
+      "arabic": "صحيح مسلم (1334)",
+      "english": "Sahih Muslim (1334)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "الفضل بن العباس",
+        "english": "Al-Fadl bin Al-Abbas"
+      },
+      "slug": "al-fadl-bin-al-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=7M7oD8n7WbI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حجِ بدل کا جواز",
+        "english": "Permissibility of Hajj by Proxy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معذور کی طرف سے ادائیگی",
+              "english": "Performance for the Disabled"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص جسمانی طور پر حج کے قابل نہ ہو، وہ کسی دوسرے کو اپنی طرف سے بھیج سکتا ہے۔",
+                "اس کے لیے شرط یہ ہے کہ وہ شخص خود پہلے اپنا حج کر چکا ہو۔",
+                "یہ اسلام کی سہولت ہے کہ مالی استطاعت کے باوجود جسمانی کمزوری رکاوٹ نہ بنے۔"
+              ],
+              "english": [
+                "A person physically unable to perform Hajj can send someone else on their behalf.",
+                "The condition is that the proxy must have performed their own Hajj first.",
+                "This reflects Islam's flexibility where wealth exists but physical strength is lacking."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بڑھاپا اور دائمی بیماری",
+              "english": "Old Age and Chronic Illness"
+            },
+            "content": {
+              "urdu": [
+                "ایسا بڑھاپا جس میں سواری پر بیٹھنا ممکن نہ ہو، عذرِ شرعی ہے۔",
+                "اسی طرح وہ دائمی بیماری جس سے شفایابی کی امید نہ ہو، اس میں بھی یہی حکم ہے۔",
+                "عورت اپنے باپ یا قریبی رشتہ دار کی طرف سے حج کر سکتی ہے۔"
+              ],
+              "english": [
+                "Old age that prevents one from sitting on a mount is a valid legal excuse.",
+                "Chronic illnesses with no hope of recovery fall under the same ruling.",
+                "A woman is permitted to perform Hajj on behalf of her father or relatives."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حیا اور معاشرتی آداب",
+        "english": "Modesty and Social Etiquettes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نگاہوں کی حفاظت",
+              "english": "Guarding the Gaze"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے سیدنا فضل کا چہرہ دوسری طرف پھیر کر نگاہ کی حفاظت کی تعلیم دی۔",
+                "غیر محرم مرد اور عورت کو ایک دوسرے کو گھورنے سے بچنا چاہیے۔",
+                "برائی کو ہاتھ سے روکنا (اگر قدرت ہو) منصبِ نبوت اور قیادت کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught to guard the gaze by turning Al-Fadl's face away.",
+                "Non-mahram men and women must avoid staring at one another.",
+                "Preventing wrong with one's hand (if able) is a duty of leadership and piety."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "برائی کو روکنے کا نبوی طریقہ",
+              "english": "The Prophetic Way of Curbing Evil"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فضل رضی اللہ عنہ کو ڈانٹنے کے بجائے نرمی سے ان کا رخ بدل دیا۔",
+                "اصلاح کے عمل میں حکمت اور نرمی زیادہ موثر ثابت ہوتی ہے۔",
+                "یہ اسلوب ہمیں سکھاتا ہے کہ فتنے کے وقت خاموشی سے راستہ بدل لینا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gently turned Al-Fadl's head instead of scolding him harshly.",
+                "Wisdom and kindness are more effective in the process of correction.",
+                "This approach teaches us to silently steer away from potential temptation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور ابحاث",
+        "english": "Juristic Issues and Discussions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اولاد کا والدین کی طرف سے حج",
+              "english": "Children Performing Hajj for Parents"
+            },
+            "content": {
+              "urdu": [
+                "اولاد کا اپنے والدین کی طرف سے حج کرنا بہترین نیکی اور صلہ رحمی ہے۔",
+                "اس سے والدین کا فرض ساقط ہو جاتا ہے اور اولاد کو بھی اجر ملتا ہے۔",
+                "شریعت نے خاندانی تعلقات کو عبادات کے ذریعے مزید مضبوط کیا ہے۔"
+              ],
+              "english": [
+                "Children performing Hajj for parents is a supreme act of kindness and bond.",
+                "This discharges the parent's obligation and rewards the child as well.",
+                "Sharia strengthens family ties through these shared acts of worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حجۃ الوداع کی اہمیت",
+              "english": "Significance of the Farewell Hajj"
+            },
+            "content": {
+              "urdu": [
+                "یہ واقعہ حجۃ الوداع کا ہے جہاں دین کے آخری اور اہم احکام مکمل ہوئے۔",
+                "نبی ﷺ نے اس موقع پر ہزاروں صحابہ کو حج کے طریقے اور مسائل سکھائے۔",
+                "اس وقت دیے گئے فتاویٰ پوری امت کے لیے قیامت تک کے لیے حجت ہیں۔"
+              ],
+              "english": [
+                "This occurred during the Farewell Hajj, where final Sharia laws were completed.",
+                "The Prophet (ﷺ) taught thousands of companions Hajj rituals and rulings.",
+                "The fatwas given during this time are binding proofs for the Ummah forever."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق اور نصیحت",
+        "english": "Educational Lessons and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علم حاصل کرنے کا شوق",
+              "english": "Passion for Seeking Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "اس خاتون نے بھیڑ اور سفر کے باوجود اپنے باپ کے لیے مسئلہ پوچھا۔",
+                "مسلمان عورتوں کو دین کے مسائل سیکھنے میں شرم محسوس نہیں کرنی چاہیے۔",
+                "والدین کی فکر کرنا اور ان کی بندگی میں مدد کرنا مومن کا شیوہ ہے۔"
+              ],
+              "english": [
+                "The woman sought a solution for her father despite the crowd and journey.",
+                "Muslim women should not feel shy in seeking knowledge of the religion.",
+                "Caring for parents and assisting their worship is the mark of a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "اگر انسان خود نہیں کر سکتا تو اللہ نے متبادل راستہ فراہم کر دیا ہے۔",
+                "اللہ نیتوں کو دیکھتا ہے اور بندوں پر بوجھ نہیں ڈالتا۔",
+                "حجِ بدل کا تصور اللہ کی رحمت اور دین کی ہمہ گیری کی دلیل ہے۔"
+              ],
+              "english": [
+                "Allah provided an alternative path if an individual cannot act personally.",
+                "Allah looks at intentions and does not place undue burdens on servants.",
+                "The concept of Hajj by proxy proves Allah's mercy and the reach of Islam."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "hadithId": 831,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/8"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه مسلم (1424 ) ، وزاد : فإن في أعين الأنصار شيئا .",
+    "urdu": "صحیح۔ اسے امام مسلم نے روایت کیا ہے (1424) اور اس میں یہ اضافہ بھی ہے کہ 'انصار کی آنکھوں میں کچھ (نیلاہٹ یا خاص کیفیت) ہوتی ہے'۔",
+    "english": "Sahih. Reported by Muslim (1424). He added: \"For there is something in the eyes of the Ansar.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "تَزَوَّجَ",
+      "english": "Proposed to marry",
+      "urdu": "نکاح کا ارادہ کیا"
+    },
+    {
+      "arabic": "أَنَظَرْتَ",
+      "english": "Did you look",
+      "urdu": "کیا تم نے دیکھا"
+    },
+    {
+      "arabic": "إِلَيْهَا",
+      "english": "At her",
+      "urdu": "اس کی طرف"
+    },
+    {
+      "arabic": "اِذْهَبْ",
+      "english": "Go",
+      "urdu": "جاؤ"
+    },
+    {
+      "arabic": "فَانْظُرْ",
+      "english": "So look",
+      "urdu": "پس دیکھ لو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نکاح سے قبل منگیتر کو دیکھنے کی اجازت اور اہمیت کو واضح کرتی ہے تاکہ بعد میں کسی ناپسندیدگی کا اندیشہ نہ رہے۔",
+    "english": "This Hadith clarifies the permissibility and importance of looking at one's prospective spouse before marriage to ensure compatibility and prevent future dislike."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1424)",
+      "english": "Sahih Muslim (1424)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI7lT3w0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نکاح سے قبل دیکھنے کی حکمت",
+        "english": "Wisdom of Looking Before Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی الفت کا ذریعہ",
+              "english": "Means of Mutual Affection"
+            },
+            "content": {
+              "urdu": [
+                "نکاح سے قبل ایک دوسرے کو دیکھنا میاں بیوی کے درمیان محبت پیدا کرنے کا باعث بنتا ہے۔",
+                "دیکھنے سے دل مطمئن ہو جاتا ہے اور شک و شبہات دور ہو جاتے ہیں۔",
+                "سنت نبوی کے مطابق یہ عمل ازدواجی زندگی کی بنیاد مضبوط کرتا ہے۔"
+              ],
+              "english": [
+                "Seeing each other before marriage serves as a means to foster love between spouses.",
+                "Looking provides peace of mind and removes doubts regarding appearance.",
+                "Following this Sunnah strengthens the foundation of a stable married life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بعد کی ناخوشگواری سے بچاؤ",
+              "english": "Prevention of Future Regret"
+            },
+            "content": {
+              "urdu": [
+                "بغیر دیکھے نکاح کرنے سے بعد میں ناپسندیدگی اور طلاق کا خطرہ بڑھ جاتا ہے۔",
+                "اسلامی شریعت نے انسانی فطرت کو مدنظر رکھتے ہوئے یہ رعایت دی ہے۔",
+                "یہ حکم مرد اور عورت دونوں کی جذباتی تسکین کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "Marrying without seeing increases the risk of dislike and eventual divorce.",
+                "Islamic Sharia provides this concession while considering human nature.",
+                "This command is vital for the emotional satisfaction of both parties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی حدود و قیود",
+        "english": "Legal Limits and Boundaries"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت کی درستگی",
+              "english": "Righteousness of Intention"
+            },
+            "content": {
+              "urdu": [
+                "دیکھنے کی اجازت صرف اس صورت میں ہے جب نکاح کا پختہ ارادہ ہو۔",
+                "محض تفریح یا تجسس کے لیے اجنبی عورت کو دیکھنا جائز نہیں ہے۔",
+                "نیت کا نیک ہونا اس شرعی رخصت کے استعمال کی بنیادی شرط ہے۔"
+              ],
+              "english": [
+                "The permission to look is only granted when there is a firm intention to marry.",
+                "Looking at a non-mahram woman for entertainment or curiosity remains prohibited.",
+                "Having a sincere intention is the primary condition for using this legal concession."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیکھنے کی مقدار",
+              "english": "Extent of Looking"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے مطابق صرف چہرہ اور ہاتھ دیکھنے کی اجازت ہے تاکہ کشش کا اندازہ ہو۔",
+                "اس دوران خلوت (تنہائی) سے بچنا لازمی ہے، کسی محرم کا موجود ہونا ضروری ہے۔",
+                "یہ عمل عفت اور حیا کے دائرے میں رہ کر سرانجام دینا چاہیے۔"
+              ],
+              "english": [
+                "According to jurists, only the face and hands may be seen to gauge attraction.",
+                "Avoiding seclusion (Khalwa) is mandatory; a Mahram must be present during this.",
+                "This action must be carried out within the bounds of modesty and chastity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی فوائد",
+        "english": "Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتماد کی فضا",
+              "english": "Atmosphere of Trust"
+            },
+            "content": {
+              "urdu": [
+                "یہ سنت خاندانوں کے درمیان شفافیت اور اعتماد کو فروغ دیتی ہے۔",
+                "اس سے دھوکہ دہی یا حقائق چھپانے کے امکانات ختم ہو جاتے ہیں۔",
+                "والدین کو چاہیے کہ وہ اپنے بچوں کو اس مسنون عمل کی سہولت فراہم کریں۔"
+              ],
+              "english": [
+                "This Sunnah promotes transparency and trust between families.",
+                "It eliminates the possibility of deception or hiding physical attributes.",
+                "Parents should facilitate their children in performing this prophetic practice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انصاری صحابہ کی مثال",
+              "english": "Example of Ansar Sahaba"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم صلی اللہ علیہ وسلم نے خاص طور پر انصار کے بارے میں دیکھنے کی تاکید فرمائی۔",
+                "مختلف قبائل اور علاقوں کی ظاہری خصوصیات الگ ہو سکتی ہیں۔",
+                "اس سے ثابت ہوتا ہے کہ کسی خاص صفت کو دیکھنا عیب نہیں بلکہ ضرورت ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) specifically emphasized looking when proposing to the Ansar.",
+                "Physical characteristics can vary across different tribes and regions.",
+                "This proves that wanting to see a specific trait is a necessity, not a flaw."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقیقت پسندی",
+              "english": "Realism in Marriage"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک حقیقت پسند دین ہے جو انسانی ضروریات کا خیال رکھتا ہے۔",
+                "صرف مثالی باتوں پر رشتہ کرنا کافی نہیں، ظاہری پسندیدگی بھی اہم ہے۔",
+                "آپ صلی اللہ علیہ وسلم کا حکم 'جاؤ اور دیکھ لو' عملی رہنمائی فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "Islam is a realistic religion that caters to fundamental human needs.",
+                "Marrying based on ideals alone isn't enough; physical preference matters too.",
+                "The command 'Go and look' provides direct practical guidance for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلط رسم و رواج کا خاتمہ",
+              "english": "Ending Wrong Traditions"
+            },
+            "content": {
+              "urdu": [
+                "بعض معاشروں میں دیکھنا برا سمجھا جاتا ہے، جو کہ سنت کے خلاف ہے۔",
+                "ہمیں فرسودہ روایات کے بجائے فرمانِ رسول صلی اللہ علیہ وسلم کو اپنانا چاہیے۔",
+                "سنت پر عمل کرنے میں ہی دونوں جہانوں کی خیر اور بھلائی پوشیدہ ہے۔"
+              ],
+              "english": [
+                "In some societies, looking is considered taboo, which contradicts the Sunnah.",
+                "We must adopt the Prophet's (ﷺ) command over outdated cultural traditions.",
+                "The goodness of both worlds is hidden in strictly following the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

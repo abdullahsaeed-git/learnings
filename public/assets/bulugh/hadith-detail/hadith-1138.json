@@ -1,0 +1,254 @@
+{
+  "hadithId": 1138,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/12/4"],
+    "kitabId": 12,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 92
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2572)، ومسلم (1953). والقصة أنهم أنفروا أرنباً بمر الظهران فسعوا خلفها حتى أخذوها.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (2572) اور امام مسلم (1953) نے روایت کیا ہے۔ اس کا پس منظر یہ ہے کہ مقام 'مر الظهران' میں ایک خرگوش نکلا، صحابہ اس کے پیچھے دوڑے اور اسے پکڑ لیا، پھر اسے ذبح کر کے اس کا گوشت رسول اللہ ﷺ کو پیش کیا۔",
+    "english": "Sahih. Reported by al-Bukhari (2572) and Muslim (1953). The full story mentions that they startled a rabbit at Marr az-Zahran, chased it until they caught it, and then presented its meat to the Prophet (ﷺ)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْأَرْنَبِ",
+      "english": "The Rabbit",
+      "urdu": "خرگوش"
+    },
+    {
+      "arabic": "ذَبَحَهَا",
+      "english": "Slaughtered it",
+      "urdu": "اسے ذبح کیا"
+    },
+    {
+      "arabic": "بِوَرِكِهَا",
+      "english": "Its haunch / thigh",
+      "urdu": "اس کی ران"
+    },
+    {
+      "arabic": "فَقَبِلَهُ",
+      "english": "He accepted it",
+      "urdu": "پس آپ ﷺ نے اسے قبول کر لیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ خرگوش کا گوشت حلال ہے اور اس کا کھانا شرعاً جائز ہے کیونکہ رسول اللہ ﷺ نے اسے نہ صرف قبول فرمایا بلکہ ایک روایت کے مطابق تناول بھی فرمایا۔",
+    "english": "This Hadith establishes that rabbit meat is Halal and permissible to eat, as the Prophet (ﷺ) accepted it as a gift and, according to other narrations, ate from it."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5489)",
+      "english": "Sahih al-Bukhari (5489)"
+    },
+    {
+      "arabic": "صحيح مسلم (1953)",
+      "english": "Sahih Muslim (1953)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خرگوش کی حلت کا ثبوت",
+        "english": "Proof of the Permissibility of Rabbit"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی جواز",
+              "english": "Shariah Permissibility"
+            },
+            "content": {
+              "urdu": [
+                "خرگوش ان جانوروں میں شامل ہے جنہیں اسلام نے حلال قرار دیا ہے۔",
+                "نبی کریم ﷺ کا کسی ہدیہ کو قبول کرنا اس کے پاکیزہ اور حلال ہونے کی علامت ہے۔",
+                "اگر یہ حرام ہوتا تو آپ ﷺ اسے ہرگز قبول نہ فرماتے اور صحابہ کو بھی منع کر دیتے۔"
+              ],
+              "english": [
+                "The rabbit is among the animals that Islam has declared Halal.",
+                "The Prophet's (ﷺ) acceptance of a gift indicates that the item is pure and lawful.",
+                "Had it been forbidden, he would have rejected it and prohibited the Sahaba from eating it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اتفاق",
+              "english": "Juristic Consensus"
+            },
+            "content": {
+              "urdu": [
+                "ائمہ اربعہ (امام ابوحنیفہ، مالک، شافعی اور احمد) کے نزدیک خرگوش حلال ہے۔",
+                "صرف چند اہل علم نے اس کی بعض جسمانی خصوصیات کی وجہ سے کراہت کا اظہار کیا ہے، مگر جمہور کا قول حلت پر ہے۔",
+                "حدیثِ نبوی اس معاملے میں واضح اور قطعی دلیل فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "The four Imams (Abu Hanifa, Malik, Shafi'i, and Ahmad) all consider rabbit to be Halal.",
+                "Only a very few scholars expressed dislike based on its specific biological traits, but the majority ruling is permissibility.",
+                "The Prophetic Hadith provide clear and definitive evidence in this matter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شکار کے احکام",
+        "english": "Rulings on Hunting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حالتِ احرام اور شکار",
+              "english": "Iharam and Hunting"
+            },
+            "content": {
+              "urdu": [
+                "خرگوش کا شکار کرنا حلال ہے بشرطیکہ شکاری احرام کی حالت میں نہ ہو۔",
+                "اگر یہ واقعہ سفرِ عمرہ یا حج کے دوران پیش آیا تھا، تو صحابہ اس وقت احرام سے باہر تھے۔",
+                "احرام کی حالت میں خشکی کا شکار کرنا قرآن کی رو سے ممنوع ہے۔"
+              ],
+              "english": [
+                "Hunting a rabbit is permissible provided the hunter is not in the state of Ihram.",
+                "In this incident, the Sahaba were not in Ihram at the time they caught the animal.",
+                "Hunting land animals while in the state of Ihram is strictly forbidden according to the Quran."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذبح کی شرط",
+              "english": "Condition of Slaughter"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی حلال جانور کا گوشت کھانے کے لیے اسے شرعی طریقے سے ذبح کرنا ضروری ہے۔",
+                "اس قصہ میں ذکر ہے کہ ابوطلحہ رضی اللہ عنہ نے اسے ذبح کیا، پھر گوشت پیش کیا۔",
+                "اسلام نے حلال غذا کے حصول کے لیے ذبیحہ کے سخت ضابطے مقرر کیے ہیں۔"
+              ],
+              "english": [
+                "To consume the meat of any permissible animal, it must be slaughtered according to Shariah.",
+                "In this story, it is mentioned that Abu Talha (R.A) slaughtered it before presenting the meat.",
+                "Islam has set strict regulations for slaughtering to ensure the consumption of pure food."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سنتِ نبوی اور ہدیہ",
+        "english": "Prophetic Sunnah and Gifts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہدیہ قبول کرنا",
+              "english": "Accepting Gifts"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ ہدیہ قبول فرماتے تھے اور اس کا بدلہ بھی دیا کرتے تھے۔",
+                "صحابی کا آپ ﷺ کے لیے شکار کا بہترین حصہ (ران) بھیجنا ان کی محبت کی دلیل ہے۔",
+                "ہدیہ دینے سے آپسی تعلقات اور محبت میں اضافہ ہوتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) used to accept gifts and would often reciprocate with something better.",
+                "The Companion sending the best part (the haunch) to the Prophet (ﷺ) proves their deep love.",
+                "Giving gifts is a Sunnah that increases mutual affection and strengthens relationships."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوش طبعی اور تفریح",
+              "english": "Cheerfulness and Recreation"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام کا خرگوش کے پیچھے دوڑنا ان کی جسمانی چستی اور جائز تفریح کو ظاہر کرتا ہے۔",
+                "دینِ اسلام میں جائز حدود کے اندر تفریح اور کھیل کود کی ممانعت نہیں ہے۔",
+                "نبی ﷺ نے ان کی اس سرگرمی پر اعتراض نہیں فرمایا بلکہ ان کے شکار کو سراہا۔"
+              ],
+              "english": [
+                "The Sahaba chasing the rabbit highlights their physical agility and engagement in permissible recreation.",
+                "Islam does not forbid entertainment and sports as long as they stay within lawful boundaries.",
+                "The Prophet (ﷺ) did not object to their activity but rather appreciated the outcome of their hunt."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی تلاش",
+              "english": "Seeking Halal Provision"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں صرف وہی اشیاء استعمال کرنی چاہئیں جن کے حلال ہونے کا ثبوت موجود ہو۔",
+                "اللہ نے ہمارے لیے بہت سی پاکیزہ چیزیں حلال کی ہیں، ان سے فائدہ اٹھانا چاہیے۔",
+                "سنتِ نبوی کی روشنی میں اپنی خوراک کا انتخاب کرنا بہترین راستہ ہے۔"
+              ],
+              "english": [
+                "We should only consume items for which there is proof of being Halal.",
+                "Allah has made many pure things permissible for us, and we should benefit from them.",
+                "Choosing one's diet in the light of the Prophet's (ﷺ) Sunnah is the best path."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہلِ علم سے رہنمائی",
+              "english": "Guidance from Scholars"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ نے شکار کے بعد آپ ﷺ کو گوشت پیش کر کے اس کی حلت پر مہر لگوائی۔",
+                "مشکوک یا نئے معاملات میں ہمیشہ مستند اہل علم سے رجوع کرنا چاہیے۔",
+                "دین کے معاملے میں خود ساختہ نظریات کے بجائے اتباعِ سنت کو مقدم رکھنا چاہیے۔"
+              ],
+              "english": [
+                "By presenting the meat to the Prophet (ﷺ), the Sahaba confirmed its permissibility.",
+                "In doubtful or new matters, one should always consult authentic scholars.",
+                "Following the Sunnah should take precedence over self-made opinions in religious matters."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 1289,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:3118"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب فرض الخمس",
+    "babId": 105
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3118)، والترمذي (2374)، وأحمد (27113). ومعنى يتخوضون: يتصرفون في المال العام بالباطل.",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (3118) نے اسے روایت کیا ہے۔ 'یتخوضون' کا مطلب ہے کہ وہ لوگ جو عوامی یا سرکاری مال (بیت المال) میں اپنی مرضی سے غلط طریقے سے تصرف کرتے ہیں۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (3118), At-Tirmidhi (2374), and Ahmad (27113). The term 'Yatakhawwadun' refers to those who manage public funds according to their whims and in an unlawful manner."
+  },
+  "importantWords": [
+    {
+      "arabic": "رِجَالاً",
+      "english": "Men / People",
+      "urdu": "کچھ لوگ / مرد"
+    },
+    {
+      "arabic": "يتخوَّضون",
+      "english": "Deal unjustly / Meddle",
+      "urdu": "ناحق تصرف کرتے ہیں / دخل اندازی"
+    },
+    {
+      "arabic": "مَالِ اَللَّهِ",
+      "english": "Allah's Property (Public Funds)",
+      "urdu": "اللہ کا مال / عوامی مال"
+    },
+    {
+      "arabic": "بِغَيْرِ حَقٍّ",
+      "english": "Unjustly / Without right",
+      "urdu": "بغیر کسی حق کے / ناحق"
+    },
+    {
+      "arabic": "النَّارُ",
+      "english": "The Fire (Hell)",
+      "urdu": "آگ / جہنم"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث عوامی مال اور سرکاری خزانے میں کرپشن، خیانت اور ناجائز تصرف کرنے والوں کے لیے جہنم کی سخت وعید بیان کرتی ہے۔",
+    "english": "This Hadith issues a stern warning of Hellfire for those who engage in corruption, betrayal, or unlawful use of public and state funds."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (3118)",
+      "english": "Sahih al-Bukhari (3118)"
+    },
+    {
+      "arabic": "جامع الترمذي (2374)",
+      "english": "Jami' at-Tirmidhi (2374)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "خولة بنت ثامر الأنصارية",
+        "english": "Khawlah bint Thamir al-Ansariyah"
+      },
+      "slug": "khawlah-bint-thamir"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S0T-X3_qQ8U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مالِ خدا کی حقیقت",
+        "english": "The Concept of Allah's Wealth"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عوامی مال کی تعریف",
+              "english": "Definition of Public Funds"
+            },
+            "content": {
+              "urdu": [
+                "مالِ خدا سے مراد وہ مال ہے جو پوری امت کی مشترکہ ملکیت ہو۔",
+                "اس میں زکوۃ، صدقات، ٹیکس اور قدرتی وسائل کی آمدنی شامل ہے۔",
+                "اسے اللہ کا مال اس لیے کہا گیا تاکہ اس کی تقدیس واضح ہو۔"
+              ],
+              "english": [
+                "Allah's wealth refers to property that is collectively owned by the Ummah.",
+                "This includes Zakat, charities, taxes, and revenue from natural resources.",
+                "It is attributed to Allah to emphasize its sacred and protected nature."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تصرف کی شرعی حدود",
+              "english": "Legal Limits of Usage"
+            },
+            "content": {
+              "urdu": [
+                "عوامی مال کو صرف ان جگہوں پر خرچ کیا جا سکتا ہے جہاں شریعت اجازت دے۔",
+                "اپنی مرضی سے عوامی مال بانٹنا یا ذاتی عیاشی پر لگانا حرام ہے۔",
+                "حکمران اور افسران اس مال کے مالک نہیں بلکہ صرف امانت دار ہیں۔"
+              ],
+              "english": [
+                "Public funds can only be spent in ways permitted by Sharia law.",
+                "Distributing public funds at will or using them for luxury is forbidden.",
+                "Rulers and officials are not owners of this wealth but merely trustees."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ناحق دخل اندازی کے نتائج",
+        "english": "Consequences of Unjust Dealing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خیانت اور کرپشن",
+              "english": "Betrayal and Corruption"
+            },
+            "content": {
+              "urdu": [
+                "مالِ عام میں تھوڑی سی بھی خیانت جہنم کا راستہ دکھاتی ہے۔",
+                "ناحق دخل اندازی سے مراد رشوت خوری اور اقرباء پروری بھی ہے۔",
+                "جو مال چوری کیا جاتا ہے وہ قیامت کے دن بوجھ بن کر آئے گا۔"
+              ],
+              "english": [
+                "Even the slightest betrayal of public funds leads toward the Hellfire.",
+                "Unjust dealing includes bribery, nepotism, and misappropriation of funds.",
+                "Property stolen from public funds will appear as a burden on Judgment Day."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جہنم کی وعید",
+              "english": "Warning of Hellfire"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے واضح فرمایا کہ ایسے لوگوں کا ٹھکانہ صرف آگ ہے۔",
+                "عوامی مال میں خیانت حقوق العباد کی بدترین شکل ہے۔",
+                "اس گناہ کی تلافی بہت مشکل ہے کیونکہ اس میں پوری قوم مدعی ہوتی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) explicitly stated that Hell is the destination for such people.",
+                "Betrayal of public wealth is the most severe violation of human rights.",
+                "Restitution for this sin is difficult as the entire nation is the claimant."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حکمرانوں کی ذمہ داری",
+        "english": "Responsibility of Authorities"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احتیاط اور تقویٰ",
+              "english": "Caution and Piety"
+            },
+            "content": {
+              "urdu": [
+                "خلفائے راشدین بیت المال کا ایک پیسہ خرچ کرنے میں کانپتے تھے۔",
+                "عہدہ داروں کو اس مال کو اپنی ضرورت سے زیادہ چھونا بھی نہیں چاہیے۔",
+                "شفافیت اور دیانتداری اسلامی نظامِ معیشت کی بنیاد ہے۔"
+              ],
+              "english": [
+                "The Rightly Guided Caliphs trembled before spending a single penny from the treasury.",
+                "Officials should not touch these funds beyond what is strictly necessary.",
+                "Transparency and integrity are the pillars of the Islamic economic system."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظام کی نگرانی",
+              "english": "Supervision of the System"
+            },
+            "content": {
+              "urdu": [
+                "ریاست کا فرض ہے کہ وہ مالِ عام کی حفاظت کا سخت نظام بنائے۔",
+                "کرپشن کرنے والوں کو کڑی سزا دینا سنتِ نبوی ہے۔",
+                "عوام کو سہولیات فراہم کرنا ہی اس مال کا اصل مصرف ہے۔"
+              ],
+              "english": [
+                "The state is obligated to establish a strict system to protect public wealth.",
+                "Punishing those involved in corruption is a practice of the Prophet (ﷺ).",
+                "Providing facilities to the public is the true intended use of these funds."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انفرادی سبق",
+        "english": "Individual Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی طلب",
+              "english": "Seeking Halal Sustenance"
+            },
+            "content": {
+              "urdu": [
+                "حرام مال چاہے وہ سرکاری ہو، انسان کی دعا کو رد کر دیتا ہے۔",
+                "ہمیں ہر اس مال سے بچنا چاہیے جس پر ہمارا شرعی حق نہ ہو۔",
+                "قناعت پسندی انسان کو کرپشن اور لالچ سے محفوظ رکھتی ہے۔"
+              ],
+              "english": [
+                "Haram wealth, even from state sources, causes prayers to be rejected.",
+                "We must avoid any property to which we have no legal religious right.",
+                "Contentment protects an individual from corruption and greed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توبہ اور واپسی",
+              "english": "Repentance and Restitution"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی نے عوامی مال لیا ہے تو اسے فوراً واپس کرنا چاہیے۔",
+                "صرف زبان سے توبہ کافی نہیں بلکہ مال کی واپسی شرط ہے۔",
+                "آخرت کی رسوائی سے بچنے کے لیے دنیا میں ہی حساب صاف کریں۔"
+              ],
+              "english": [
+                "If someone has taken public wealth, they must return it immediately.",
+                "Verbal repentance is insufficient; returning the funds is a condition.",
+                "Settle accounts in this world to avoid humiliation in the hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

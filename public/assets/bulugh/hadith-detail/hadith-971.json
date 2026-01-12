@@ -1,0 +1,259 @@
+{
+  "hadithId": 971,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/971"],
+    "kitabId": 8,
+    "inKitabBab": 13,
+    "arabicBook": "بلوغ المرام",
+    "babId": 76
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح موقوفا.‏ والمرفوع رواه الدارقطني (4740)‏، وابن عدي في الكامل (7562)‏، ورجح الموقوف البيهقي وابن عبد الهادي.",
+    "urdu": "یہ روایت موقوفاً صحیح ہے۔ دارقطنی (4740) اور ابن عدی (7562) نے اسے روایت کیا ہے۔ امام دارقطنی، بیہقی اور ابن عدی نے اسے صحابی کا قول (موقوف) ہونے کو ترجیح دی ہے۔",
+    "english": "Sahih as a Mawquf narration. Reported by ad-Daraqutni (4740) and Ibn 'Adi in Al-Kamil (7562). Scholarly consensus including Al-Bayhaqi and Ibn Abdul Hadi favors the Mawquf version over the Marfu'."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَضَاعَ",
+      "english": "Suckling / Breastfeeding",
+      "urdu": "دودھ پلانا"
+    },
+    {
+      "arabic": "الْحَوْلَيْنِ",
+      "english": "Two years",
+      "urdu": "دو سال"
+    },
+    {
+      "arabic": "مَرْفُوعًا",
+      "english": "Attributed to Prophet",
+      "urdu": "مرفوع (نبی تک)"
+    },
+    {
+      "arabic": "مَوْقُوفًا",
+      "english": "Attributed to Companion",
+      "urdu": "موقوف (صحابی تک)"
+    },
+    {
+      "arabic": "رَجَّحَا",
+      "english": "They preferred",
+      "urdu": "ان دونوں نے ترجیح دی"
+    }
+  ],
+  "summary": {
+    "urdu": "شرعی رضاعت جس سے حرمت ثابت ہوتی ہے، وہ صرف بچے کی ابتدائی دو سال کی عمر کے اندر دودھ پینے سے معتبر ہوتی ہے۔",
+    "english": "Legal breastfeeding that establishes kinship (Mahram status) is only valid if it occurs during the first two years of a child's age."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني (4740)",
+      "english": "Reported by Ad-Daraqutni (4740)"
+    },
+    {
+      "arabic": "رواه ابن عدي في الكامل (7562)",
+      "english": "Reported by Ibn 'Adi in Al-Kamil (7562)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Xz2k2eY9K5Q",
+  "grade": {
+    "arabic": "صحيح موقوفاً",
+    "english": "Sahih Mawquf (Authentic statement of Companion)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رضاعت کی مدت",
+        "english": "Duration of Breastfeeding"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دو سال کی حد",
+              "english": "The Two-Year Limit"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی شریعت میں رضاعت کی معتبر مدت پیدائش سے دو سال تک ہے۔",
+                "اس عمر کے بعد دودھ پینے سے محرمیت کے احکامات ثابت نہیں ہوتے۔",
+                "یہ حکم قرآن مجید کی سورہ بقرہ کی روشنی میں دیا گیا ہے۔"
+              ],
+              "english": [
+                "In Islamic Law, the valid duration for breastfeeding is two years from birth.",
+                "Suckling after this age does not establish mahram (kinship) relations.",
+                "This ruling is derived in alignment with Surah Al-Baqarah's verses."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچے کی نشوونما",
+              "english": "Child Development"
+            },
+            "content": {
+              "urdu": [
+                "دو سال وہ وقت ہے جب دودھ بچے کی ہڈیوں اور گوشت کا حصہ بنتا ہے۔",
+                "اس مدت کے بعد بچہ عام غذاؤں پر منتقل ہونا شروع کر دیتا ہے۔",
+                "اسی لیے شریعت نے اس فطری مدت کو حرمت کے لیے بنیاد بنایا ہے۔"
+              ],
+              "english": [
+                "Two years is the period when milk builds the child's bones and flesh.",
+                "After this duration, the child begins transitioning to solid foods.",
+                "Hence, Sharia sets this natural period as the basis for kinship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرمت کا ثبوت",
+              "english": "Establishment of Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "رضاعت سے وہی رشتے حرام ہوتے ہیں جو نسب سے حرام ہوتے ہیں۔",
+                "مگر یہ تبھی ہوگا جب دودھ دو سال کی عمر کے اندر پیا گیا ہو۔",
+                "جمہور فقہاء کے نزدیک بڑی عمر کی رضاعت کا اعتبار نہیں ہے۔"
+              ],
+              "english": [
+                "Breastfeeding creates the same marriage prohibitions as blood relations.",
+                "However, this only applies if suckling occurs within the two-year window.",
+                "The majority of jurists do not recognize adult breastfeeding for kinship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موقوف روایت کی حجیت",
+              "english": "Authority of Mawquf Narration"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ ابن عباس کا قول ہے، مگر یہ شرعی حکم کے درجے میں ہے۔",
+                "صحابہ کرام کے ایسے اقوال جو عقل سے نہیں بتائے جا سکتے، وہ مرفوع حکمی ہیں۔",
+                "محدثین نے اس کی سند کو ابن عباس تک بالکل صحیح قرار دیا ہے۔"
+              ],
+              "english": [
+                "While this is a saying of Ibn Abbas, it carries legal weight.",
+                "Statements of companions on legal limits take the status of Prophetic guidance.",
+                "Hadith scholars have graded the chain to Ibn Abbas as perfectly authentic."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علمی نکات",
+        "english": "Academic Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرفوع اور موقوف کا فرق",
+              "english": "Marfu vs Mawquf Difference"
+            },
+            "content": {
+              "urdu": [
+                "مرفوع وہ حدیث ہے جو براہ راست نبی کریم ﷺ سے منسوب ہو۔",
+                "موقوف وہ بات ہے جو صحابی کے اپنے قول کے طور پر مروی ہو۔",
+                "اس روایت میں صحابی کا قول زیادہ صحیح سند سے ثابت ہے۔"
+              ],
+              "english": [
+                "Marfu refers to a Hadith directly attributed to the Prophet (PBUH).",
+                "Mawquf refers to a statement attributed to a Companion of the Prophet.",
+                "In this case, the Companion's statement is more authentically proven."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ائمہ حدیث کی تحقیق",
+              "english": "Research of Hadith Imams"
+            },
+            "content": {
+              "urdu": [
+                "امام دارقطنی اور ابن عدی نے سندوں کا باریک بینی سے جائزہ لیا۔",
+                "انہوں نے واضح کیا کہ راویوں نے اسے بیان کرنے میں غلطی کی تھی۔",
+                "صحیح بات یہی ہے کہ یہ ابن عباس کا اپنا فتویٰ ہے۔"
+              ],
+              "english": [
+                "Imams ad-Daraqutni and Ibn Adi scrutinized the chains of narration.",
+                "They clarified that some narrators erred in attributing it to the Prophet.",
+                "The accurate conclusion is that it is the legal verdict of Ibn Abbas."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی مسائل کا حل",
+              "english": "Solving Family Matters"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کے معاملات میں رضاعت کی عمر کی تصدیق بہت ضروری ہے۔",
+                "اگر کسی نے دو سال کے بعد دودھ پیا ہو تو وہ بھائی بہن نہیں بنتے۔",
+                "اس سے معاشرے میں رشتوں کی الجھنیں ختم کرنے میں مدد ملتی ہے۔"
+              ],
+              "english": [
+                "Confirming the age of breastfeeding is vital in marriage matters.",
+                "If suckling occurred after two years, it does not create kinship.",
+                "This helps in resolving confusion regarding social relationships."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ماؤں کے لیے رہنمائی",
+              "english": "Guidance for Mothers"
+            },
+            "content": {
+              "urdu": [
+                "ماؤں کو چاہیے کہ وہ دودھ پلانے کا ریکارڈ یا وقت یاد رکھیں۔",
+                "بچوں کو دو سال مکمل ہونے پر دودھ چھڑوا دینا سنت کے قریب ہے۔",
+                "یہ حکم بچوں کی صحت اور شرعی حدود دونوں کا ضامن ہے۔"
+              ],
+              "english": [
+                "Mothers should keep a record of the timing of breastfeeding.",
+                "Weaning the child after two years is closer to the Sunnah.",
+                "This ruling ensures both child health and adherence to Sharia."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

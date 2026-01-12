@@ -1,0 +1,264 @@
+{
+  "hadithId": 527,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/527"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1914)، ومسلم (1082). واللفظ لمسلم، وهو نهي للتحريم أو التنزيه لتمييز الفرض عن النفل.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (1914) اور امام مسلم (1082) نے روایت کیا ہے۔ الفاظ مسلم کے ہیں۔ اس میں نفل اور فرض کے درمیان فرق کو برقرار رکھنے کا حکم ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1914) and Muslim (1082). The wording is that of Muslim. It aims to distinguish between voluntary and obligatory fasts."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَقَدَّمُوا",
+      "english": "Do not precede",
+      "urdu": "پہل نہ کرو / آگے نہ بڑھو"
+    },
+    {
+      "arabic": "رَمَضَانَ",
+      "english": "Ramadan",
+      "urdu": "رمضان"
+    },
+    {
+      "arabic": "بِصَوْمِ",
+      "english": "With fasting",
+      "urdu": "روزے کے ساتھ"
+    },
+    {
+      "arabic": "يَوْمَيْنِ",
+      "english": "Two days",
+      "urdu": "دو دن"
+    },
+    {
+      "arabic": "إِلَّا",
+      "english": "Except",
+      "urdu": "سوائے / مگر"
+    },
+    {
+      "arabic": "فَلْيَصُمْهُ",
+      "english": "Let him fast it",
+      "urdu": "پس وہ اسے رکھ لے"
+    }
+  ],
+  "summary": {
+    "urdu": "رمضان کی آمد سے ایک یا دو دن پہلے محض احتیاط کے طور پر روزہ رکھنا منع ہے، البتہ اگر کسی کا مستقل معمول (جیسے پیر کا روزہ) اس دن پڑ جائے تو وہ رکھ سکتا ہے۔",
+    "english": "It is forbidden to fast a day or two just before Ramadan out of precaution; however, regular habitual fasts (like Mondays) coinciding with these days are permitted."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1914)",
+      "english": "Sahih al-Bukhari (1914)"
+    },
+    {
+      "arabic": "صحيح مسلم (1082)",
+      "english": "Sahih Muslim (1082)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0i4lX87SjS4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ممانعت کی حکمت",
+        "english": "The Wisdom Behind Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فرض اور نفل میں فرق",
+              "english": "Distinction Between Fard and Nafl"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے نفل اور فرض عبادت کے درمیان واضح حد بندی کا حکم دیا ہے۔",
+                "رمضان سے قبل روزہ رکھنا فرض اور نفل کو خلط ملط کرنے کا باعث بن سکتا ہے۔",
+                "یہ حکم مسلمانوں کو ذہنی طور پر صرف رمضان کے لیے تیار رکھنے کے لیے ہے۔"
+              ],
+              "english": [
+                "Shariah commands a clear distinction between voluntary and obligatory acts.",
+                "Fasting just before Ramadan could blur the line between Nafl and Fard.",
+                "This ruling prepares Muslims mentally specifically for the month of Ramadan."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلو اور تکلف سے بچاؤ",
+              "english": "Avoiding Extremism and Affectation"
+            },
+            "content": {
+              "urdu": [
+                "احتیاط کے نام پر دین میں اپنی طرف سے اضافہ کرنا غلو کہلاتا ہے۔",
+                "یہود و نصاریٰ نے اپنی عبادتوں میں اسی طرح کے تکلفات سے بگاڑ پیدا کیا۔",
+                "اسلام سادگی اور سنت کی پیروی کا نام ہے، نہ کہ محض اپنی سوچ کا۔"
+              ],
+              "english": [
+                "Adding to religion in the name of precaution is considered extremism (Ghulu).",
+                "Previous nations like Jews and Christians corrupted their faith with such affectations.",
+                "Islam is about simplicity and following the Sunnah, not personal innovations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجازت کی صورتیں",
+        "english": "Cases of Permission"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مستقل معمول کا روزہ",
+              "english": "Regular Habitual Fasts"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص پیر یا جمعرات کے روزے رکھنے کا عادی ہو تو وہ رکھ سکتا ہے۔",
+                "اس صورت میں نیت رمضان کے استقبال کی نہیں بلکہ اپنے معمول کی ہوتی ہے۔",
+                "حدیث کا یہ استثناء ثابت کرتا ہے کہ اصل ممانعت نیت اور ارادے پر ہے۔"
+              ],
+              "english": [
+                "If someone regularly fasts on Mondays or Thursdays, they are allowed to continue.",
+                "In this case, the intention is not to anticipate Ramadan but to follow a habit.",
+                "This exception proves that the prohibition is based on the specific intention."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قضا اور نذر کے روزے",
+              "english": "Makeup and Vowed Fasts"
+            },
+            "content": {
+              "urdu": [
+                "پچھلے رمضان کے قضا روزے ان دنوں میں رکھنا نہ صرف جائز بلکہ ضروری ہے۔",
+                "اسی طرح اگر کسی نے ان دنوں میں روزے کی منت مانی ہو تو وہ رکھے۔",
+                "ممانعت صرف ان نفلی روزوں کی ہے جو خاص رمضان کے لیے رکھے جائیں۔"
+              ],
+              "english": [
+                "Observing makeup fasts from the previous Ramadan is allowed and necessary.",
+                "Similarly, if someone vowed (Nadhr) to fast on those days, they must do so.",
+                "The prohibition only applies to voluntary fasts intended to 'welcome' Ramadan."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شک کا دن",
+              "english": "The Day of Doubt"
+            },
+            "content": {
+              "urdu": [
+                "ماہِ شعبان کی تیس تاریخ کو 'یوم الشک' کہا جاتا ہے جب چاند مشکوک ہو۔",
+                "اس دن محض اس ڈر سے روزہ رکھنا کہ شاید رمضان ہو، گناہ کا باعث ہے۔",
+                "ہمیں چاند کی رویت (دیکھنے) پر ہی اپنے روزوں کا آغاز کرنا چاہیے۔"
+              ],
+              "english": [
+                "The 30th of Sha'ban is called the 'Day of Doubt' when the moon is uncertain.",
+                "Fasting on this day just out of fear that it might be Ramadan is sinful.",
+                "We must start our fasts based on the actual sighting of the new moon."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شعبان کے روزے",
+              "english": "Fasting in Sha'ban"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ شعبان کے مہینے میں کثرت سے روزے رکھا کرتے تھے۔",
+                "مگر آخری ایک یا دو دن میں آپ ﷺ نے خاص طور پر رکنے کا حکم دیا۔",
+                "یہ حکم نفل عبادات میں اعتدال اور فرض کی عظمت کو نمایاں کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) used to fast frequently during the month of Sha'ban.",
+                "However, he specifically ordered to stop in the last one or two days.",
+                "This ruling highlights moderation in Nafl and the grandeur of the Fard."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت",
+        "english": "Practical Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رمضان کی تیاری",
+              "english": "Preparing for Ramadan"
+            },
+            "content": {
+              "urdu": [
+                "رمضان سے قبل ان آخری دنوں کو آرام اور توانائی جمع کرنے کے لیے رکھیں۔",
+                "تاکہ جب رمضان شروع ہو تو انسان بھرپور جذبے کے ساتھ روزے رکھ سکے۔",
+                "دین ہماری جسمانی اور نفسیاتی صحت کا مکمل خیال رکھنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Use these last days before Ramadan for rest and gathering energy.",
+                "This ensures that when Ramadan begins, one can fast with full vigor.",
+                "Religion teaches us to take complete care of our physical and psychological health."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا جذبہ",
+              "english": "The Spirit of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نیکی وہی ہے جو اللہ اور اس کے رسول ﷺ کے بتائے ہوئے طریقے پر ہو۔",
+                "اپنی مرضی سے زیادہ عبادت کرنا بعض اوقات نیکی کے بجائے بوجھ بنتا ہے۔",
+                "سنت پر عمل کرنا ہی رضائے الٰہی کے حصول کا واحد اور مستند راستہ ہے۔"
+              ],
+              "english": [
+                "True goodness lies only in the path prescribed by Allah and His Messenger (ﷺ).",
+                "Worshipping beyond limits by choice can sometimes become a burden rather than a reward.",
+                "Following the Sunnah is the only authentic way to attain Allah's pleasure."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "hadithId": 718,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/7/39"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 4,
+    "arabicBook": "بلوغ المرام",
+    "babId": 45
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (2379)، ومسلم (1543). وزاد البخاري ومسلم في رواية أخرى: 'ومن ابتاع عبداً وله مال، فماله للذي باعه إلا أن يشترط المبتاع'.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (2379) اور مسلم (1543) میں مروی ہے۔ بخاری و مسلم کی دیگر روایات میں یہ اضافہ بھی ہے کہ جس نے ایسا غلام خریدا جس کے پاس مال تھا، تو وہ مال بیچنے والے کا ہو گا سوائے یہ کہ خریدار شرط کر لے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2379) and Muslim (1543). Another version in Bukhari and Muslim adds: 'And whoever buys a slave who has property, his property belongs to the seller unless the buyer stipulates otherwise.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "اِبْتَاعَ",
+      "english": "Bought / Purchased",
+      "urdu": "خریدا"
+    },
+    {
+      "arabic": "نَخْلًا",
+      "english": "Date-palm trees",
+      "urdu": "کھجور کے درخت"
+    },
+    {
+      "arabic": "تُؤَبَّرَ",
+      "english": "Pollinated / Fecundated",
+      "urdu": "پیوند کاری کی گئی"
+    },
+    {
+      "arabic": "الْبَائِعِ",
+      "english": "The Seller",
+      "urdu": "بیچنے والا"
+    },
+    {
+      "arabic": "الْمُبْتَاعُ",
+      "english": "The Buyer",
+      "urdu": "خریدار"
+    },
+    {
+      "arabic": "يَشْتَرِطَ",
+      "english": "Makes a condition",
+      "urdu": "شرط کر لے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا خلاصہ یہ ہے کہ اگر کھجور کے درختوں کی پیوند کاری ہو چکی ہو تو موجودہ پھل بیچنے والے کا حق ہے، جب تک خریدار اسے لینے کی شرط نہ لگا دے۔",
+    "english": "The summary of this Hadith is that if date-palms are sold after pollination, the current fruit belongs to the seller unless the buyer specifically stipulates its inclusion in the sale."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2379)",
+      "english": "Sahih al-Bukhari (2379)"
+    },
+    {
+      "arabic": "صحيح مسلم (1543)",
+      "english": "Sahih Muslim (1543)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah bin Umar bin Al-Khattab"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FmS3m6qS0YQ",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ملکیت کی منتقلی کے اصول",
+        "english": "Principles of Ownership Transfer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پیوند کاری کی اہمیت",
+              "english": "Significance of Pollination"
+            },
+            "content": {
+              "urdu": [
+                "پیوند کاری (تعبیر) وہ مرحلہ ہے جب پھل کی نشوونما باقاعدہ شروع ہو جاتی ہے۔",
+                "اگر اس عمل کے بعد درخت فروخت ہوں تو پھل درخت کا لازمی حصہ نہیں سمجھا جاتا۔",
+                "یہ اصول خریدار اور بیچنے والے کے درمیان نزاع کو ختم کرنے کے لیے واضح کیا گیا ہے۔"
+              ],
+              "english": [
+                "Pollination (Ta'bir) is the stage when the fruit's development officially begins.",
+                "If trees are sold after this process, the fruit is not considered an inherent part of the tree sale.",
+                "This principle is established to eliminate potential disputes between the buyer and seller."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیچنے والے کا حق",
+              "english": "Rights of the Seller"
+            },
+            "content": {
+              "urdu": [
+                "جس شخص نے محنت کر کے پیوند کاری کی، وہ اس فصل کا اصل حقدار ہے۔",
+                "درخت کی فروخت سے اس پر موجود تیار ہونے والا پھل خود بخود منتقل نہیں ہوتا۔",
+                "یہ حکم اس صورت میں ہے جب فریقین کے درمیان کوئی خاص تحریری معاہدہ نہ ہو۔"
+              ],
+              "english": [
+                "The person who worked on the pollination is the rightful owner of that crop.",
+                "Selling the tree does not automatically transfer the fruit growing upon it.",
+                "This ruling applies in the absence of a specific written agreement between the parties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرائطِ بیع کی اہمیت",
+        "english": "Importance of Contract Stipulations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خریدار کی شرط",
+              "english": "Condition set by the Buyer"
+            },
+            "content": {
+              "urdu": [
+                "اگر خریدار سودا کرتے وقت پھل شامل کرنے کی شرط لگا دے تو وہ اس کا مالک بن جائے گا۔",
+                "اسلام میں معاہدے کی شرائط کو اصل اہمیت حاصل ہے۔",
+                "شرط لگانے کی صورت میں قیمت میں اضافے یا کمی کا فیصلہ باہمی رضامندی سے ہوگا۔"
+              ],
+              "english": [
+                "If the buyer stipulates the inclusion of the fruit during the deal, he becomes its owner.",
+                "Contractual conditions hold primary importance in Islamic commercial law.",
+                "If such a condition is made, the price adjustment is decided through mutual consent."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضاحت کی ضرورت",
+              "english": "Need for Clarity"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث تجارت میں ہر پہلو کو واضح رکھنے کی تعلیم دیتی ہے۔",
+                "مبہم سودے بازی سے بچنا چاہیے تاکہ بعد میں تلخی پیدا نہ ہو۔",
+                "مسلمانوں کو اپنے لین دین میں دیانتداری اور صفائی کا مظاہرہ کرنا چاہیے۔"
+              ],
+              "english": [
+                "This Hadith teaches the importance of clarity in every aspect of trade.",
+                "Ambiguous dealings should be avoided to prevent future bitterness.",
+                "Muslims must demonstrate honesty and transparency in their transactions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دیگر اموال پر قیاس",
+        "english": "Analogy with Other Assets"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غلام اور اس کا مال",
+              "english": "Slaves and their Property"
+            },
+            "content": {
+              "urdu": [
+                "اسی طرح اگر کوئی غلام بیچا جائے تو اس کا مال بیچنے والے کا ہی رہے گا۔",
+                "جب تک کہ خریدار اس مال کو بھی اپنی ملکیت میں لینے کی شرط نہ کرے۔",
+                "یہ مثال ثابت کرتی ہے کہ اصل چیز کی فروخت سے اس کے متعلقہ فوائد منتقل نہیں ہوتے۔"
+              ],
+              "english": [
+                "Similarly, if a slave is sold, his property remains with the seller.",
+                "Unless the buyer stipulates that the property is also included in the purchase.",
+                "This example proves that selling the root asset doesn't automatically transfer associated benefits."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عام زرعی اجناس",
+              "english": "General Agricultural Produce"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے اس اصول کو دیگر پھلدار درختوں اور فصلوں پر بھی لاگو کیا ہے۔",
+                "ہر وہ فائدہ جو ظاہر ہو چکا ہو، وہ پرانے مالک کا حق سمجھا جائے گا۔",
+                "یہ اسلامی معیشت کا ایک مستحکم اور منصفانہ قاعدہ ہے۔"
+              ],
+              "english": [
+                "Jurists have applied this principle to other fruit trees and seasonal crops.",
+                "Any benefit that has already manifested is considered the right of the previous owner.",
+                "This is a stable and just rule within Islamic economics."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و تعلیمی اسباق",
+        "english": "Juristic and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا قیام",
+              "english": "Establishing Justice"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون کسی کی محنت کو ضائع ہونے سے بچاتا ہے۔",
+                "بیچنے والے کی پیوند کاری کی محنت کا ثمر اسے ملنا چاہیے۔",
+                "حقوق کی یہ تقسیم معاشرے میں توازن قائم رکھتی ہے۔"
+              ],
+              "english": [
+                "Islamic law prevents anyone's hard work from being wasted or exploited.",
+                "The fruit of the seller's labor in pollination should rightly belong to him.",
+                "This distribution of rights maintains balance within the society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاہدوں کی پاسداری",
+              "english": "Adherence to Contracts"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان اپنی طے کردہ شرائط کے پابند ہوتے ہیں۔",
+                "اگر کوئی شرط لگائی گئی ہے تو اسے پورا کرنا شرعی فریضہ ہے۔",
+                "یہ حدیث تجارتی اخلاقیات کو بلند کرنے کا بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "Muslims are bound by the conditions they have agreed upon.",
+                "Fulfilling a stipulated condition is a religious obligation in Sharia.",
+                "This Hadith is an excellent means to elevate commercial ethics."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

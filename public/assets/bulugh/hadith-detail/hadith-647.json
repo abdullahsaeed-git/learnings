@@ -1,0 +1,254 @@
+{
+  "hadithId": 647,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/647"],
+    "kitabId": 6,
+    "inKitabBab": 6,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 41
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (1862)، والنسائي (2860)، والترمذي (940)، وابن ماجه (3077)، وأحمد (15732).‏ وقال الترمذي: حديث حسن صحيح. وزاد أبو داود في رواية: «أو مرض».",
+    "urdu": "صحیح۔ اسے ابوداؤد (1862)، نسائی (2860)، ترمذی (940)، ابن ماجہ (3077) اور احمد (15732) نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح کہا ہے۔ ابوداؤد کی ایک روایت میں بیماری کا بھی ذکر ہے۔",
+    "english": "Sahih (Authentic). Reported by Abu Dawud (1862), An-Nasa'i (2860), At-Tirmidhi (940), Ibn Majah (3077), and Ahmad (15732). At-Tirmidhi graded it Hasan Sahih. A version in Abu Dawud adds \"or falls ill.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "كُسِرَ",
+      "english": "Suffered a fracture",
+      "urdu": "ہڈی ٹوٹ گئی"
+    },
+    {
+      "arabic": "عُرِجَ",
+      "english": "Became lame/injured",
+      "urdu": "لنگڑا ہو گیا / زخمی ہو گیا"
+    },
+    {
+      "arabic": "فَقَدْ حَلَّ",
+      "english": "He has exited Ihram",
+      "urdu": "پس وہ حلال ہو گیا"
+    },
+    {
+      "arabic": "مِنْ قَابِلٍ",
+      "english": "In the following year",
+      "urdu": "آئندہ سال / اگلے سال"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص احرام کی حالت میں حادثے یا بیماری کا شکار ہو کر سفر جاری نہ رکھ سکے، تو وہ قربانی کر کے احرام کھول سکتا ہے، لیکن اس حج کی قضا اگلے سال واجب ہوگی۔",
+    "english": "If a person in Ihram cannot continue due to an accident or illness, they may exit Ihram (by sacrificing), but they are required to make up (Qada) the Hajj the following year."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (940)",
+      "english": "Reported by At-Tirmidhi (940)"
+    },
+    {
+      "arabic": "رواه أبو داود (1862)",
+      "english": "Reported by Abu Dawud (1862)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "الحجاج بن عمرو الأنصاري",
+        "english": "Al-Hajjaj bin 'Amr al-Ansari"
+      },
+      "slug": "al-hajjaj-bin-amr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیماری یا حادثے کی وجہ سے احصار",
+        "english": "Prevention due to Illness or Accident"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احصارِ مرض کا حکم",
+              "english": "Ruling on Prevention by Illness"
+            },
+            "content": {
+              "urdu": [
+                "صرف دشمن کا روکنا ہی احصار نہیں، بلکہ حادثہ یا شدید بیماری بھی احصار کی قسمیں ہیں۔",
+                "اگر کوئی حاجی راستے میں زخمی ہو جائے اور چلنے کے قابل نہ رہے، تو اسے زبردستی سفر پر مجبور نہیں کیا جائے گا۔",
+                "ایسی صورت میں وہ قربانی دے کر اپنا احرام کھول سکتا ہے تاکہ علاج معالجہ کر سکے۔"
+              ],
+              "english": [
+                "Prevention (Ihsar) is not limited to enemies; accidents or severe illness also count as valid preventions.",
+                "If a pilgrim is injured and cannot walk, they are not forced to continue the journey under duress.",
+                "In such cases, they may exit Ihram after offering a sacrifice to facilitate medical treatment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قضا کا وجوب",
+              "english": "Obligation of Makeup (Qada)"
+            },
+            "content": {
+              "urdu": [
+                "احرام کھولنے کا مطلب یہ نہیں کہ حج معاف ہو گیا، بلکہ اس کی قضا اگلے سال لازم ہے۔",
+                "نبی ﷺ نے واضح فرمایا کہ 'اس پر اگلے سال حج ہے'۔",
+                "یہ اس صورت میں ہے جب وہ حج فرض ہو یا اس نے نذر مانی ہو، نفلی حج میں اختلاف ہے۔"
+              ],
+              "english": [
+                "Exiting Ihram does not mean the Hajj is waived; a makeup (Qada) is required the following year.",
+                "The Prophet (ﷺ) explicitly stated: \"...and he must perform Hajj the following year.\"",
+                "This applies if it was an obligatory Hajj or a vowed Hajj; views differ on voluntary Hajj."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات اور شرائط",
+        "english": "Juristic Details and Conditions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احرام کھولتے وقت قربانی",
+              "english": "Sacrifice when Exiting Ihram"
+            },
+            "content": {
+              "urdu": [
+                "قرآن و سنت کی روشنی میں محصور شخص کو ایک بکری ذبح کرنی چاہیے (البقرہ: 196)۔",
+                "قربانی کے بعد سر منڈوانا یا بال کٹوانا ضروری ہے تاکہ تحلل مکمل ہو جائے۔",
+                "اگر کسی نے احرام کے وقت 'اشترط' (شرط) لگائی تھی، تو اسے قربانی کی ضرورت نہیں پڑے گی۔"
+              ],
+              "english": [
+                "Based on the Quran and Sunnah, a prevented person should sacrifice a sheep (2:196).",
+                "Shaving or cutting the hair is necessary after the sacrifice to complete the exit from Ihram.",
+                "If the pilgrim made a 'Stipulation' (Ishtirat) during Ihram, the sacrifice is not required."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ابن عباس اور ابوہریرہ کی گواہی",
+              "english": "Testimony of Ibn Abbas and Abu Hurairah"
+            },
+            "content": {
+              "urdu": [
+                "عکرمہ رحمہ اللہ نے دو جلیل القدر صحابہ سے اس حدیث کی تصدیق کی تاکہ علم میں پختگی آئے۔",
+                "اس سے ثابت ہوتا ہے کہ کسی مسئلے میں شک ہو تو اکابر علماء سے رجوع کرنا چاہیے۔",
+                "صحابہ کرام کے نزدیک حجاج بن عمرو کی یہ روایت بالکل مستند اور قابلِ عمل تھی۔"
+              ],
+              "english": [
+                "Ikrimah (RA) verified this Hadith with two great Sahaba to ensure the accuracy of the knowledge.",
+                "This teaches that if there is doubt regarding a ruling, one should consult senior scholars.",
+                "According to the Sahaba, this narration from Hajjaj bin 'Amr was authentic and actionable."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلام کا نظامِ سہولت",
+        "english": "Islam's System of Facilitation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی جان کی قدروقیمت",
+              "english": "Value of Human Life"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے عبادت پر انسانی صحت اور جان کو مقدم رکھا ہے۔",
+                "مشقت میں مبتلا شخص کو تنگی سے نکالنا شریعت کا حسن ہے۔",
+                "احرام کی پابندیوں کو ختم کرنے کا راستہ دے کر اللہ نے بندوں پر آسانی فرمائی ہے۔"
+              ],
+              "english": [
+                "Islam prioritizes human health and life over the completion of rituals under duress.",
+                "Removing a person from hardship is a beautiful aspect of Sharia.",
+                "By providing a way to exit Ihram, Allah has granted ease to His servants."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عزم اور استقامت",
+              "english": "Determination and Persistence"
+            },
+            "content": {
+              "urdu": [
+                "اگلے سال حج کا حکم دینا یہ سکھاتا ہے کہ نیکی کا ارادہ ادھورا نہیں چھوڑنا چاہیے۔",
+                "رکاوٹیں عارضی ہوتی ہیں، مومن کو دوبارہ کوشش کے لیے تیار رہنا چاہیے۔",
+                "اللہ تعالی کوشش کرنے والوں کی قدر فرماتا ہے اور انہیں اجر سے نوازتا ہے۔"
+              ],
+              "english": [
+                "The command to perform Hajj the next year teaches that the intention for good should not be abandoned.",
+                "Obstacles are temporary; a believer should be ready to try again.",
+                "Allah values those who strive and rewards them for their efforts."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حادثات میں صبر",
+              "english": "Patience in Accidents"
+            },
+            "content": {
+              "urdu": [
+                "سفرِ حج کے دوران پیش آنے والے حادثات اللہ کی تقدیر کا حصہ ہیں۔",
+                "مایوس ہونے کے بجائے شرعی رخصتوں سے فائدہ اٹھانا چاہیے۔",
+                "مومن کا ہر حال میں اللہ پر توکل ہونا چاہیے، چاہے وہ عبادت ادھوری رہ جائے۔"
+              ],
+              "english": [
+                "Accidents during the Hajj journey are part of Allah's decree.",
+                "Instead of despairing, one should benefit from the legal concessions.",
+                "A believer must trust in Allah in all situations, even if a ritual remains incomplete."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحقیق اور علم",
+              "english": "Investigation and Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "دین کے مسائل میں تحقیق کرنا اور مستند ذرائع سے پوچھنا ضروری ہے۔",
+                "سنی سنائی باتوں کے بجائے حدیث اور ائمہ کے اقوال پر عمل کرنا چاہیے۔",
+                "صحیح علم ہی انسان کو غلطیوں اور پریشانیوں سے بچاتا ہے۔"
+              ],
+              "english": [
+                "Investigating religious matters and asking authentic sources is essential.",
+                "One should follow Hadith and the sayings of Imams rather than hearsay.",
+                "Correct knowledge protects a person from errors and anxieties."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

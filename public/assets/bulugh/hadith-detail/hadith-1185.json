@@ -1,0 +1,254 @@
+{
+  "hadithId": 1185,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/13/15"],
+    "kitabId": 13,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأيمان والنذور",
+    "babId": 96
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (3/363)، وأبو داود (3305)، والحاكم (4/304). وصححه الحاكم على شرط مسلم ووافقه الذهبي.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابوداؤد اور حاکم نے روایت کیا ہے۔ امام حاکم نے اسے مسلم کی شرط پر صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (3/363), Abu Dawud (3305), and Al-Hakim (4/304). Al-Hakim graded it Sahih according to the criteria of Muslim, and Adh-Dhahabi agreed."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَوْمَ اَلْفَتْحِ",
+      "english": "Day of Conquest",
+      "urdu": "فتح مکہ کا دن"
+    },
+    {
+      "arabic": "بَيْتِ اَلْمَقْدِسِ",
+      "english": "Jerusalem",
+      "urdu": "بیت المقدس"
+    },
+    {
+      "arabic": "هَا هُنَا",
+      "english": "Right here",
+      "urdu": "اسی جگہ (مکہ)"
+    },
+    {
+      "arabic": "شَأْنُكَ إِذًا",
+      "english": "It is up to you",
+      "urdu": "تب تمہاری مرضی"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص کسی بابرکت جگہ پر عبادت کی نذر مانے، تو اس سے زیادہ افضل جگہ پر وہ عبادت ادا کرنے سے نذر پوری ہو جاتی ہے۔ مکہ مکرمہ بیت المقدس سے افضل ہے۔",
+    "english": "If someone vows to perform an act of worship in a blessed place, fulfilling it in a superior place suffices. Makkah is superior to Jerusalem."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (3305)",
+      "english": "Sunan Abi Dawud (3305)"
+    },
+    {
+      "arabic": "مسند أحمد (14925)",
+      "english": "Musnad Ahmad (14925)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=f-w5oTndxR8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مقامات کی فضیلت اور نذر",
+        "english": "Virtue of Places and Vows"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "افضل جگہ کا انتخاب",
+              "english": "Choosing a Superior Place"
+            },
+            "content": {
+              "urdu": [
+                "مسجد حرام (مکہ) میں ایک نماز کا ثواب بیت المقدس سے کہیں زیادہ ہے۔",
+                "نبی ﷺ نے اس شخص کو بتایا کہ بیت المقدس جانے کی تکلیف اٹھانے کے بجائے مکہ میں نماز پڑھنا بہتر ہے۔",
+                "قاعدہ یہ ہے کہ کم درجے والی جگہ کی نذر اعلیٰ درجے والی جگہ پر پوری کی جا سکتی ہے۔"
+              ],
+              "english": [
+                "The reward for prayer in Al-Masjid al-Haram (Makkah) is far greater than in Jerusalem.",
+                "The Prophet (ﷺ) advised the man that praying in Makkah was better than traveling to Jerusalem.",
+                "The rule is that a vow for a lesser place can be fulfilled in a superior place."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نذر کی لچک",
+              "english": "Flexibility of Vows"
+            },
+            "content": {
+              "urdu": [
+                "عبادات کی نذر میں نیت اللہ کی رضا ہونی چاہیے، محض جگہ کی قید اصل مقصد نہیں ہوتی۔",
+                "اگر نذر کسی ایسی جگہ کی ہو جو شرعی فضیلت نہیں رکھتی، تو وہ کہیں بھی پوری کی جا سکتی ہے۔",
+                "شریعت مسلمانوں کے لیے آسانی چاہتی ہے، بلاوجہ مشقت نہیں۔"
+              ],
+              "english": [
+                "In vows of worship, the intention must be Allah's pleasure, not just the specific location.",
+                "If a vow specifies a place with no religious virtue, it can be fulfilled anywhere.",
+                "Shariah seeks ease for Muslims, not unnecessary hardship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تین مقدس مساجد کا درجہ",
+        "english": "Rank of the Three Holy Mosques"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "درجات کا فرق",
+              "english": "Difference in Ranks"
+            },
+            "content": {
+              "urdu": [
+                "سب سے افضل مسجد حرام ہے، پھر مسجد نبوی، اور پھر مسجد اقصیٰ (بیت المقدس)۔",
+                "اگر نذر مسجد نبوی کی ہو تو وہ مکہ میں پوری ہو سکتی ہے مگر بیت المقدس میں نہیں۔",
+                "اگر نذر مسجد حرام کی ہو تو وہ صرف وہیں پوری کرنا لازم ہے۔"
+              ],
+              "english": [
+                "The most superior is Al-Masjid al-Haram, then the Prophet's Mosque, then Al-Aqsa.",
+                "A vow for the Prophet's Mosque can be fulfilled in Makkah, but not in Jerusalem.",
+                "A vow for Al-Masjid al-Haram must be fulfilled specifically there."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفر کی ضرورت",
+              "english": "Requirement of Travel"
+            },
+            "content": {
+              "urdu": [
+                "صرف ان تین مساجد کے لیے عبادت کی نیت سے سفر کرنا جائز ہے۔",
+                "اگر نذر ان تین کے علاوہ کسی مسجد کی ہو تو گھر کے پاس والی مسجد میں نماز پڑھنا کافی ہے۔",
+                "نبی ﷺ کی ہدایت امت کو لایعنی تکلفات سے بچاتی ہے۔"
+              ],
+              "english": [
+                "Traveling specifically for worship is only permissible to these three mosques.",
+                "If a vow specifies any other mosque, praying in a local mosque is sufficient.",
+                "The Prophet's (ﷺ) guidance protects the Ummah from pointless formalities."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فتویٰ اور سائل کا اصرار",
+        "english": "The Fatwa and the Enquirer's Persistence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معلم کا صبر",
+              "english": "The Teacher's Patience"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ایک ہی بات دو بار دہرائی تاکہ سائل کو اطمینان ہو جائے۔",
+                "تیسری بار 'تمہاری مرضی' کہنا اس بات کی دلیل ہے کہ اب اس پر کوئی گناہ نہیں۔",
+                "مفتی کو چاہیے کہ وہ سائل کی ذہنی کیفیت کو مدنظر رکھ کر جواب دے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) repeated the advice twice to reassure the enquirer.",
+                "Saying 'it is up to you' the third time shows that doing so is no longer a sin.",
+                "A Mufti should answer while considering the mental state of the enquirer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نذر پوری کرنے کی اہمیت",
+              "english": "Importance of Fulfilling Vows"
+            },
+            "content": {
+              "urdu": [
+                "نذر ماننا ناپسندیدہ ہے (پچھلی حدیث کے مطابق) مگر اسے پورا کرنا فرض ہے۔",
+                "جائز نذر کو ٹالنا یا نظر انداز کرنا گناہ ہے۔",
+                "اللہ تعالیٰ نذر پوری کرنے والوں کی قرآن میں تعریف فرماتا ہے۔"
+              ],
+              "english": [
+                "Taking a vow is disliked (as per previous Hadith), but fulfilling it is obligatory.",
+                "Ignoring or delaying a valid vow is a sin.",
+                "Allah Almighty praises those who fulfill their vows in the Quran."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلاصہ اور عمل",
+        "english": "Summary and Action"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں نذر کے معاملات میں جذباتی ہونے کے بجائے شرعی احکام دیکھنے چاہئیں۔",
+                "نبی ﷺ کی نصیحت ماننے میں ہی زیادہ خیر اور برکت ہے۔",
+                "عبادت میں معیار اور جگہ کی فضیلت کا علم ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "We should look at Shariah rulings rather than being emotional about vows.",
+                "There is more goodness and blessing in following the Prophet's (ﷺ) advice.",
+                "Knowledge of the quality of worship and the virtue of places is essential."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "اسلام بندے کو غیر ضروری مالی یا جسمانی بوجھ میں نہیں ڈالتا۔",
+                "اگر ایک کام آسان طریقے سے اللہ کی رضا کے مطابق ہو سکتا ہے، تو وہی بہتر ہے۔",
+                "نذر کے فقہی مسائل جاننا ہر مسلمان کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "Islam does not impose unnecessary financial or physical burdens.",
+                "If a task can be done easily according to Allah's pleasure, that is better.",
+                "Knowing the juristic issues of vows is necessary for every Muslim."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

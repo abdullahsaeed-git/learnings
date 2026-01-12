@@ -1,0 +1,259 @@
+{
+  "hadithId": 784,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/784"],
+    "kitabId": 7,
+    "inKitabBab": 16,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 57
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (5/364)، وأبو داود (3477)، وابن ماجه (2472). ورجاله ثقات. وصححه الألباني في صحيح الجامع (2961).",
+    "urdu": "صحیح۔ اسے امام احمد (5/364) اور ابوداؤد (3477) نے روایت کیا ہے۔ اس کے راوی ثقہ ہیں اور علامہ البانی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (5/364), Abu Dawud (3477), and Ibn Majah (2472). Its narrators are reliable, and Al-Albani graded it Sahih in Sahih al-Jami' (2961)."
+  },
+  "importantWords": [
+    {
+      "arabic": "شُرَكَاءُ",
+      "english": "Partners / Shareholders",
+      "urdu": "حصہ دار / شریک"
+    },
+    {
+      "arabic": "اَلْكَلَأِ",
+      "english": "Pasture / Grass",
+      "urdu": "چراہ گاہ / گھاس"
+    },
+    {
+      "arabic": "الْمَاءِ",
+      "english": "Water",
+      "urdu": "پانی"
+    },
+    {
+      "arabic": "النَّارِ",
+      "english": "Fire",
+      "urdu": "آگ"
+    },
+    {
+      "arabic": "غَزَوْتُ",
+      "english": "I participated in a battle",
+      "urdu": "میں نے غزوہ کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں اسلام کے معاشی اور سماجی انصاف کے ایک اہم اصول کا بیان ہے، جس کے مطابق پانی، چراگاہ اور آگ جیسے قدرتی وسائل پر کسی فرد کی اجارہ داری نہیں ہو سکتی بلکہ یہ سب انسانوں کا مشترکہ حق ہیں۔",
+    "english": "This Hadith highlights a fundamental principle of Islamic social and economic justice, stating that natural resources like water, pasture, and fire are common property and cannot be monopolized by individuals."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (23082)",
+      "english": "Reported by Ahmad (23082)"
+    },
+    {
+      "arabic": "رواه أبو داود (3477)",
+      "english": "Reported by Abu Dawud (3477)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "رجل من الصحابة",
+        "english": "A man from the Sahaba"
+      },
+      "slug": "unnamed-companion"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjI8_GfLpIs",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مشترکہ عوامی وسائل",
+        "english": "Common Public Resources"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین چیزوں کی شراکت",
+              "english": "Partnership in Three Essentials"
+            },
+            "content": {
+              "urdu": [
+                "پانی، چراگاہ اور آگ زندگی کی وہ بنیادی ضرورتیں ہیں جن پر بقا کا انحصار ہے۔",
+                "اسلام ان قدرتی وسائل کو عوامی ملکیت قرار دیتا ہے تاکہ کوئی غریب ان سے محروم نہ رہے۔",
+                "یہ اصول جاگیردارانہ نظام اور وسائل کی اندھی اجارہ داری کا خاتمہ کرتا ہے۔"
+              ],
+              "english": [
+                "Water, pasture, and fire are essential necessities for life and human survival.",
+                "Islam declares these natural resources as public property to prevent the poor from being deprived.",
+                "This principle eliminates feudalism and the blind monopoly over essential resources."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی اور چراگاہ کا مفہوم",
+              "english": "Meaning of Water and Pasture"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد وہ پانی ہے جو سمندروں، نہروں اور قدرتی چشموں میں بہتا ہو۔",
+                "چراگاہ سے مراد وہ زمین ہے جو کسی کی نجی ملکیت نہ ہو اور وہاں قدرتی گھاس اگتی ہو۔",
+                "کسی کو یہ حق نہیں کہ وہ ان جگہوں پر باڑ لگا کر دوسروں کے مویشیوں کو روکے۔"
+              ],
+              "english": [
+                "This refers to water flowing in seas, rivers, and natural springs.",
+                "Pasture refers to land that is not private property where natural grass grows.",
+                "No one has the right to fence these areas and prevent others' livestock from grazing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "آگ اور نمک کے احکام",
+        "english": "Rulings on Fire and Salt"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آگ سے مراد اور حکمت",
+              "english": "Meaning and Wisdom of Fire"
+            },
+            "content": {
+              "urdu": [
+                "آگ سے مراد ایندھن (لکڑی) یا روشنی اور گرمائش حاصل کرنے کے مشترکہ ذرائع ہیں۔",
+                "ایک قول یہ بھی ہے کہ اس سے مراد وہ آگ ہے جو پتھروں یا چقماق سے حاصل کی جاتی تھی۔",
+                "اسلام باہمی تعاون کی ترغیب دیتا ہے کہ لوگ اپنی ضرورت سے زائد ایندھن دوسروں کو دیں۔"
+              ],
+              "english": [
+                "Fire refers to fuel (wood) or common sources used for light and heating.",
+                "Another view suggests it refers to fire obtained from stones or flints in ancient times.",
+                "Islam encourages mutual cooperation, urging people to share surplus fuel with others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نمک کا اضافہ",
+              "english": "The Addition of Salt"
+            },
+            "content": {
+              "urdu": [
+                "بعض دیگر روایات میں 'نمک' کا ذکر بھی آیا ہے جو کہ ایک اہم معدنیات ہے۔",
+                "معدنیات جو زمین سے قدرتی طور پر نکلیں، وہ بھی عوامی ملکیت کا حصہ ہیں۔",
+                "ریاست کی ذمہ داری ہے کہ وہ ان وسائل کی منصفانہ تقسیم کو یقینی بنائے۔"
+              ],
+              "english": [
+                "Some other narrations include 'salt,' which is a vital mineral.",
+                "Minerals naturally extracted from the earth are also part of public ownership.",
+                "It is the state's responsibility to ensure the fair distribution of these resources."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نجی ملکیت اور مستثنیات",
+        "english": "Private Ownership and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذاتی ملکیت کا احترام",
+              "english": "Respecting Private Property"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی نے اپنے گھر میں کنواں کھودا ہو تو وہ اس کا مالک ہے، مگر ضرورت سے زائد پانی دینا مستحب ہے۔",
+                "اسی طرح اگر کسی نے لکڑیاں جمع کی ہوں تو وہ اس کی ذاتی ملکیت بن جاتی ہیں۔",
+                "ممانعت ان وسائل کی ہے جو اللہ نے زمین میں عمومی طور پر سب کے لیے پیدا کیے ہیں۔"
+              ],
+              "english": [
+                "If someone digs a well in their own home, they own it, though sharing surplus water is recommended.",
+                "Similarly, if someone gathers wood, it becomes their private property.",
+                "The prohibition applies to resources created by Allah generally for everyone on earth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فروخت کی ممانعت",
+              "english": "Prohibition of Sale"
+            },
+            "content": {
+              "urdu": [
+                "عوامی پانی اور قدرتی چراگاہوں کو فروخت کرنا شرعی طور پر جائز نہیں ہے۔",
+                "ایسا کرنا عوامی حق غصب کرنے کے مترادف ہے جس سے معاشرتی توازن بگڑتا ہے۔",
+                "تجارت صرف ان چیزوں کی ہونی چاہیے جو نجی محنت اور سرمائے سے تیار کی گئی ہوں۔"
+              ],
+              "english": [
+                "Selling public water and natural pastures is Islamically impermissible.",
+                "Doing so is equivalent to usurping public rights, which disrupts social balance.",
+                "Trade should only involve items produced through private labor and capital."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور معاشی اثرات",
+        "english": "Social and Economic Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی ہم آہنگی",
+              "english": "Social Harmony"
+            },
+            "content": {
+              "urdu": [
+                "وسائل کی عوامی دستیابی غریب اور امیر کے درمیان خلیج کو کم کرتی ہے۔",
+                "لوگوں میں ایثار اور ایک دوسرے کی مدد کا جذبہ پیدا ہوتا ہے۔",
+                "اسلامی ریاست کا معاشی ڈھانچہ عوامی فلاح و بہبود پر استوار ہے۔"
+              ],
+              "english": [
+                "Universal access to resources narrows the gap between the rich and the poor.",
+                "It fosters a spirit of selflessness and mutual assistance among people.",
+                "The economic structure of an Islamic state is built on public welfare."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی زندگی میں اطلاق",
+              "english": "Practical Life Lessons"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں چاہیے کہ عوامی سہولیات (جیسے پارکس، ندی نالے) کی حفاظت کریں اور انہیں آلودہ نہ کریں۔",
+                "ضرورت مندوں کو پانی اور ایندھن جیسی بنیادی چیزوں میں منع نہ کریں۔",
+                "قدرتی وسائل کا بے جا اسراف اللہ کی ناشکری ہے۔"
+              ],
+              "english": [
+                "We must protect public utilities (like parks, rivers) and not pollute them.",
+                "Do not withhold basic necessities like water and fuel from the needy.",
+                "Excessive waste of natural resources is a form of ingratitude towards Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

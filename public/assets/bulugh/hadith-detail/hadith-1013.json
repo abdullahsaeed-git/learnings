@@ -1,0 +1,268 @@
+{
+  "hadithId": 1013,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/21"],
+    "kitabId": 9,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 80
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6895)، وأبو داود (4559)، والترمذي (1391) وقال: حسن صحيح غريب، وابن حبان (5980).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری، ابوداؤد، ترمذی اور ابن حبان نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح غریب قرار دیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6895), Abu Dawud (4559), At-Tirmidhi (1391) who graded it Hasan Sahih Gharib, and Ibn Hibban (5980)."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَوَاءٌ",
+      "english": "Equal",
+      "urdu": "برابر / یکساں"
+    },
+    {
+      "arabic": "الْخُنْصَرَ",
+      "english": "Little finger",
+      "urdu": "چھنگلی (سب سے چھوٹی انگلی)"
+    },
+    {
+      "arabic": "الْإِبْهَامَ",
+      "english": "Thumb",
+      "urdu": "انگوٹھا"
+    },
+    {
+      "arabic": "الثَّنِيَّةُ",
+      "english": "Incisor",
+      "urdu": "سامنے کا دانت"
+    },
+    {
+      "arabic": "الضِّرْسُ",
+      "english": "Molar",
+      "urdu": "داڑھ"
+    },
+    {
+      "arabic": "عَشَرَةٌ",
+      "english": "Ten",
+      "urdu": "دس"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں یہ شرعی اصول بیان کیا گیا ہے کہ انسانی اعضاء (انگلیوں اور دانتوں) کی دیت میں ان کی ظاہری جسامت یا افادیت کے فرق کو ملحوظ نہیں رکھا جائے گا بلکہ سب کی دیت برابر ہوگی۔",
+    "english": "This Hadith establishes the Sharia principle that blood money for fingers and teeth is equal regardless of their size or specific function."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6895)",
+      "english": "Reported by Al-Bukhari (6895)"
+    },
+    {
+      "arabic": "رواه أبو داود (4559)",
+      "english": "Reported by Abu Dawud (4559)"
+    },
+    {
+      "arabic": "رواه الترمذي (1391)",
+      "english": "Reported by At-Tirmidhi (1391)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6o9l6Kts",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دیت میں برابری کا اصول",
+        "english": "Principle of Equality in Diyyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انگلیوں کی دیت",
+              "english": "Diyyah for Fingers"
+            },
+            "content": {
+              "urdu": [
+                "انسانی ہاتھ اور پاؤں کی تمام انگلیاں دیت میں برابر قرار دی گئی ہیں۔",
+                "انگوٹھے کی اہمیت زیادہ ہونے کے باوجود اس کی دیت چھنگلی کے برابر ہے۔",
+                "ہر انگلی کے ضائع ہونے پر دس اونٹ بطور دیت ادا کرنا لازم ہوں گے۔"
+              ],
+              "english": [
+                "All fingers of the hands and toes of the feet are equal in blood money.",
+                "Despite the thumb's greater utility, its Diyyah is equal to the pinky.",
+                "Ten camels must be paid as Diyyah for the loss of any single finger."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دانتوں کی دیت",
+              "english": "Diyyah for Teeth"
+            },
+            "content": {
+              "urdu": [
+                "سامنے کے دانت (ثنیہ) اور داڑھ کی دیت میں کوئی فرق نہیں ہے۔",
+                "ہر دانت کے بدلے پانچ اونٹ دیت مقرر کی گئی ہے۔",
+                "شریعت نے ظاہری خوبصورتی یا کام کے فرق کو یہاں اہمیت نہیں دی۔"
+              ],
+              "english": [
+                "There is no difference between incisors and molars regarding Diyyah.",
+                "Five camels are fixed as the blood money for the loss of any tooth.",
+                "Sharia does not differentiate here based on aesthetic or functional value."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت اور عدل",
+        "english": "Juristic Wisdom and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نزاع کا خاتمہ",
+              "english": "Elimination of Disputes"
+            },
+            "content": {
+              "urdu": [
+                "برابری کا اصول لوگوں کے درمیان مالی تنازعات کو ختم کرتا ہے۔",
+                "اگر افادیت پر دیت ہوتی تو ہر زخم پر طویل بحث و تکرار ہوتی۔",
+                "واضح شرعی حد مقرر ہونے سے انصاف کی فراہمی آسان ہو جاتی ہے۔"
+              ],
+              "english": [
+                "The principle of equality eliminates financial disputes among people.",
+                "Valuing based on utility would lead to endless legal arguments.",
+                "Fixed Sharia limits make the administration of justice much easier."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانی وقار کی یکسانیت",
+              "english": "Uniformity of Human Dignity"
+            },
+            "content": {
+              "urdu": [
+                "انسان کا ہر عضو اپنی جگہ محترم اور قیمتی تخلیق ہے۔",
+                "دیت دراصل نقصان کی تلافی ہے نہ کہ عضو کی اصل قیمت۔",
+                "یہ قانون انسانی جان اور جسم کی مجموعی حرمت کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Every human organ is a respected and precious creation of Allah.",
+                "Diyyah is compensation for loss, not the actual price of the organ.",
+                "This law reflects the collective sanctity of the human body and life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اطلاق",
+        "english": "Practical Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مالی ہرجانے کا تعین",
+              "english": "Determining Financial Penalties"
+            },
+            "content": {
+              "urdu": [
+                "موجودہ دور میں اونٹوں کی قیمت کے مطابق رقم کا تعین کیا جائے گا۔",
+                "عدالتیں اسی نبوی اصول کی بنیاد پر دیت کے فیصلے صادر کرتی ہیں۔",
+                "جان بوجھ کر یا غلطی سے پہنچائے گئے نقصان میں دیت واجب ہوتی ہے۔"
+              ],
+              "english": [
+                "In modern times, value is determined based on the price of camels.",
+                "Courts issue Diyyah rulings based on this specific Prophetic principle.",
+                "Diyyah is due whether the injury was intentional or accidental."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی توازن",
+              "english": "Social Balance"
+            },
+            "content": {
+              "urdu": [
+                "یہ قوانین معاشرے میں کمزوروں کے حقوق کا تحفظ کرتے ہیں۔",
+                "طاقتور کو معلوم ہوتا ہے کہ اسے ہر نقصان کا حساب دینا ہوگا۔",
+                "اسلامی سزاؤں کا مقصد انتقام کے بجائے معاشرتی اصلاح ہے۔"
+              ],
+              "english": [
+                "These laws protect the rights of the vulnerable within society.",
+                "The powerful are aware they must account for any harm caused.",
+                "Islamic penalties aim for social reform rather than mere revenge."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شریعت کی پابندی",
+              "english": "Adherence to Sharia"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو چاہیے کہ وہ اللہ کے مقرر کردہ حدود پر راضی رہے۔",
+                "عقل کے بجائے وحی کے فیصلے کو مقدم جاننا ہی ایمان ہے۔",
+                "نبی کریم ﷺ کی رہنمائی ہر دور کے لیے مکمل اور کافی ہے۔"
+              ],
+              "english": [
+                "A believer should be content with the limits set by Allah.",
+                "Faith involves prioritizing Revelation over limited human intellect.",
+                "The Prophet's (ﷺ) guidance is perfect and sufficient for all eras."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دوسروں کی تکلیف کا احساس",
+              "english": "Empathy for Others' Pain"
+            },
+            "content": {
+              "urdu": [
+                "کسی کو معمولی زخم پہنچانا بھی آخرت میں جوابدہی کا باعث ہے۔",
+                "ہمیں ایک دوسرے کے جسمانی تحفظ کا خیال رکھنا چاہیے۔",
+                "حقوق العباد کی ادائیگی میں کوتاہی ایمان کے لیے خطرناک ہے۔"
+              ],
+              "english": [
+                "Causing even a minor injury leads to accountability in the Hereafter.",
+                "We must be mindful of the physical safety of one another.",
+                "Negligence in fulfilling human rights is dangerous for one's faith."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 542,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/36"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "رواه الدارقطني (2/182) وقال: كلهم ثقات. والحديث له شواهد تؤيد معنى الرخصة.",
+    "urdu": "اسے دارقطنی نے روایت کیا ہے، اس کے تمام راوی ثقہ ہیں۔ اگرچہ بعض محدثین نے اس پر کلام کیا ہے، لیکن دیگر روایات اس رخصت کی تائید کرتی ہیں۔",
+    "english": "Reported by Ad-Daraqutni (2/182) who stated all its narrators are reliable. Although some scholars disputed it, other narrations support the permission for cupping."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْحِجَامَةُ",
+      "english": "Cupping",
+      "urdu": "سینگی لگوانا"
+    },
+    {
+      "arabic": "كُرِهَتِ",
+      "english": "Was disliked",
+      "urdu": "ناپسند کیا گیا"
+    },
+    {
+      "arabic": "أَفْطَرَ",
+      "english": "Broke the fast",
+      "urdu": "افطار کر لیا / روزہ توڑ دیا"
+    },
+    {
+      "arabic": "رَخَّصَ",
+      "english": "Granted concession",
+      "urdu": "رخصت دی / اجازت دی"
+    },
+    {
+      "arabic": "بَعْدُ",
+      "english": "Afterwards",
+      "urdu": "بعد میں"
+    }
+  ],
+  "summary": {
+    "urdu": "ابتداء میں روزے کے دوران حجامہ کروانا منع تھا لیکن بعد میں نبی کریم ﷺ نے اس کی رخصت عطا فرما دی، بشرطیکہ اس سے روزہ دار کو کمزوری نہ ہو جائے۔",
+    "english": "Initially, cupping was discouraged during fasting, but later the Prophet (ﷺ) permitted it, provided it does not cause excessive weakness to the fasting person."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني (25)",
+      "english": "Reported by Ad-Daraqutni (25)"
+    },
+    {
+      "arabic": "سنن النسائي الكبرى (3119)",
+      "english": "Sunan al-Nasai al-Kubra (3119)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Xh07q_BvDFA",
+  "grade": {
+    "arabic": "قوي (عند الدارقطني)",
+    "english": "Strong (According to Ad-Daraqutni)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حجامہ اور روزے کا ابتدائی حکم",
+        "english": "Initial Ruling on Cupping and Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممانعت کی وجہ",
+              "english": "Reason for Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "شروع میں حجامہ کو روزہ توڑنے والا عمل قرار دیا گیا تھا۔",
+                "اس کی ایک بڑی وجہ روزہ دار کے جسم میں پیدا ہونے والی کمزوری تھی۔",
+                "نبی ﷺ نے ان دونوں (لگانے والے اور لگوانے والے) کا روزہ ٹوٹنے کا ذکر فرمایا تھا۔"
+              ],
+              "english": [
+                "Initially, cupping was considered an act that nullifies the fast.",
+                "A major reason was the physical weakness it could cause the fasting person.",
+                "The Prophet (ﷺ) mentioned that both the cupper and the cupped had broken their fast."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیدنا جعفر کا واقعہ",
+              "english": "The Incident of Ja'far (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا جعفر بن ابی طالب نے روزے میں حجامہ کروایا تو انہیں ٹوکا گیا۔",
+                "اس وقت شریعت کے احکامات تدریجی طور پر مکمل ہو رہے تھے۔",
+                "یہ واقعہ روزے کے احکام میں ناسخ و منسوخ کی بحث کا حصہ ہے۔"
+              ],
+              "english": [
+                "Ja'far bin Abi Talib was corrected when he underwent cupping while fasting.",
+                "At that time, Sharia rulings were being completed in stages.",
+                "This incident is part of the discussion on abrogation in fasting laws."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حکم میں تبدیلی اور رخصت",
+        "english": "Change in Ruling and Concession"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رخصت کا ثبوت",
+              "english": "Evidence of Concession"
+            },
+            "content": {
+              "urdu": [
+                "بعد میں نبی کریم ﷺ نے روزہ دار کے لیے حجامہ کی اجازت دے دی۔",
+                "رخصت کا مطلب ہے کہ اب یہ عمل روزے کو باطل نہیں کرتا۔",
+                "سیدنا انس رضی اللہ عنہ خود روزے میں حجامہ کروا کر اس پر عمل کرتے تھے۔"
+              ],
+              "english": [
+                "Later, the Prophet (ﷺ) granted permission for cupping while fasting.",
+                "This concession means the act no longer invalidates the fast.",
+                "Anas (RA) himself would practice this by getting cupped while fasting."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جمہور فقہاء کی رائے",
+              "english": "Opinion of Majority Jurists"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء کے نزدیک حجامہ سے روزہ نہیں ٹوٹتا۔",
+                "اگر خون نکلنے سے نقاہت کا ڈر ہو تو یہ مکروہ ہو سکتا ہے۔",
+                "اگر انسان جسمانی طور پر مضبوط ہو تو حجامہ کروانا بالکل جائز ہے۔"
+              ],
+              "english": [
+                "Most jurists hold that cupping does not break the fast.",
+                "It may be disliked (Makruh) only if it leads to severe weakness.",
+                "If a person is physically strong, cupping is perfectly permissible."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور شرعی حکمت",
+        "english": "Medical and Sharia Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی توانائی کا تحفظ",
+              "english": "Preserving Physical Energy"
+            },
+            "content": {
+              "urdu": [
+                "اسلام روزہ دار کی صحت اور توانائی کو برقرار رکھنا چاہتا ہے۔",
+                "حجامہ میں خون نکلنے سے بلڈ پریشر کم ہونے کا خطرہ ہوتا ہے۔",
+                "شریعت نے حالات کے مطابق حکم میں نرمی پیدا کی ہے۔"
+              ],
+              "english": [
+                "Islam aims to maintain the health and energy of the fasting person.",
+                "Loss of blood during cupping carries a risk of lowering blood pressure.",
+                "Sharia has introduced flexibility in the ruling based on circumstances."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملِ انس بن مالِک",
+              "english": "Practice of Anas bin Malik"
+            },
+            "content": {
+              "urdu": [
+                "صحابیِ رسول کا عمل اس بات کی دلیل ہے کہ ممانعت منسوخ ہو چکی تھی۔",
+                "انس رضی اللہ عنہ خادمِ رسول تھے اور احکامات کو خوب جانتے تھے۔",
+                "ان کا عمل امت کے لیے ایک عملی نمونہ فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "The practice of the Companion proves the prohibition was abrogated.",
+                "Anas (RA) was the servant of the Prophet and knew the laws well.",
+                "His actions provide a practical example for the Ummah to follow."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید طبی مسائل اور روزہ",
+        "english": "Modern Medical Issues and Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خون کا عطیہ دینا",
+              "english": "Donating Blood"
+            },
+            "content": {
+              "urdu": [
+                "جدید دور میں خون دینے کا حکم بھی حجامہ پر قیاس کیا جاتا ہے۔",
+                "اگر جان بچانے کے لیے خون دینا پڑے تو روزہ نہیں ٹوٹتا۔",
+                "ضرورت کے وقت خون کا ٹیسٹ کروانا بھی روزے میں جائز ہے۔"
+              ],
+              "english": [
+                "Rulings on modern blood donation are deduced from cupping.",
+                "Donating blood to save a life does not invalidate the fast.",
+                "Giving blood samples for testing is also permissible while fasting."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاط کا پہلو",
+              "english": "The Aspect of Caution"
+            },
+            "content": {
+              "urdu": [
+                "روزے کی حالت میں ایسے کاموں سے بچنا بہتر ہے جو سخت کمزوری لائیں۔",
+                "اگر ممکن ہو تو حجامہ افطار کے بعد کروانا زیادہ افضل ہے۔",
+                "شریعت نے تنگی کے بجائے آسانی پیدا کرنے کی تعلیم دی ہے۔"
+              ],
+              "english": [
+                "It is better to avoid tasks that cause extreme weakness during fasts.",
+                "If possible, it is preferable to undergo cupping after Iftar.",
+                "Sharia teaches to create ease rather than unnecessary hardship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

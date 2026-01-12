@@ -1,0 +1,264 @@
+{
+  "hadithId": 1030,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1180"],
+    "kitabId": 9,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام",
+    "babId": 83
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أحمد (4/295)، وأبو داود (3569)، والنسائي (4/27)، وابن ماجه (2332)، وابن حبان (1152) والدارقطني والحاكم، وصححه الألباني في صحيح أبي داود.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابوداؤد، نسائی، ابن ماجہ اور ابن حبان نے روایت کیا ہے۔ اس کی سند میں وصل اور ارسال کا اختلاف ہے مگر یہ ثابت ہے۔",
+    "english": "Sahih (Authentic). Reported by Ahmad (4/295), Abu Dawud (3569), An-Nasa'i (4/27), Ibn Majah (2332), and Ibn Hibban (1152). Al-Albani graded it Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَضَى",
+      "english": "Judged / Decreed",
+      "urdu": "فیصلہ فرمایا"
+    },
+    {
+      "arabic": "حِفْظَ",
+      "english": "Protection / Guarding",
+      "urdu": "حفاظت کرنا"
+    },
+    {
+      "arabic": "اَلْحَوَائِطِ",
+      "english": "Gardens / Orchards",
+      "urdu": "باغات / دیواروں والے کھیت"
+    },
+    {
+      "arabic": "اَلْمَاشِيَةِ",
+      "english": "Livestock / Cattle",
+      "urdu": "مویشی / جانور"
+    },
+    {
+      "arabic": "أَصَابَتْ",
+      "english": "Inflicted / Caused damage",
+      "urdu": "پہنچایا / نقصان کیا"
+    },
+    {
+      "arabic": "تَاوَان",
+      "english": "Liability / Indemnity",
+      "urdu": "ضمان / ہرجانہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث مال کے نقصان کی ذمہ داری کے اصول بیان کرتی ہے؛ دن میں کھیتی کی حفاظت مالک کی ذمہ داری ہے، جبکہ رات کو جانوروں کو باندھ کر رکھنا مالکِ مویشی پر واجب ہے۔",
+    "english": "This Hadith establishes the liability for property damage; crop owners must guard during the day, while livestock owners must secure animals at night."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (3569)",
+      "english": "Sunan Abu Dawud (3569)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (2332)",
+      "english": "Sunan Ibn Majah (2332)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "البراء بن عازب",
+        "english": "Al-Bara' bin 'Azib"
+      },
+      "slug": "al-bara-bin-azib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYJv5_qKsqw",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نقصان کی ذمہ داری کا تعین",
+        "english": "Determining Liability for Damage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دن کے وقت کا حکم",
+              "english": "Ruling During Daytime"
+            },
+            "content": {
+              "urdu": [
+                "دن کے وقت باغات اور کھیتوں کی حفاظت کی ذمہ داری ان کے مالکان پر ڈالی گئی ہے۔",
+                "اگر دن میں کوئی جانور کھیت میں گھس کر نقصان کرے تو مالکِ مویشی پر تاوان نہیں ہوتا۔",
+                "اس کی وجہ یہ ہے کہ دن میں جانور چرنے کے لیے آزاد چھوڑے جاتے ہیں اور کسان کو بیدار رہنا چاہیے۔"
+              ],
+              "english": [
+                "During the day, the responsibility to guard crops and gardens lies with the owners.",
+                "If livestock enters a field and causes damage by day, the animal owner is generally not liable.",
+                "This is because animals graze freely in daylight, and farmers are expected to be vigilant."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رات کے وقت کی ذمہ داری",
+              "english": "Responsibility at Night"
+            },
+            "content": {
+              "urdu": [
+                "رات کو جانوروں کو باڑوں میں بند کرنا یا باندھ کر رکھنا مالکانِ مویشی کا فرض ہے۔",
+                "اگر رات کو جانور چھوٹ کر کسی کی فصل اجاڑ دیں تو اس کا ہرجانہ مالکِ مویشی دے گا۔",
+                "یہ حکم لاپرواہی کی روک تھام اور باہمی حقوق کے تحفظ کے لیے دیا گیا ہے۔"
+              ],
+              "english": [
+                "At night, livestock owners are obligated to secure their animals in pens or tie them.",
+                "If animals escape at night and destroy crops, the owner must pay for the damage.",
+                "This ruling prevents negligence and protects the mutual rights of the community."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت اور عدل",
+        "english": "Juristic Wisdom and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "توازن اور انصاف",
+              "english": "Balance and Fairness"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون معاشرے کے دونوں طبقات (کسان اور چرواہے) کے درمیان توازن قائم کرتا ہے۔",
+                "نقصان کا بوجھ صرف ایک فریق پر ڈالنے کے بجائے وقت کی تقسیم سے عدل کیا گیا۔",
+                "یہ اصول سماجی جھگڑوں کو ختم کرنے اور قانونی شفافیت لانے کے لیے بہترین ہے۔"
+              ],
+              "english": [
+                "Islamic law establishes a balance between farmers and livestock owners.",
+                "Instead of burdening one party, justice is served through time-based division.",
+                "This principle is excellent for resolving social disputes and ensuring legal clarity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ضمان (تاوان) کے اصول",
+              "english": "Principles of Indemnity"
+            },
+            "content": {
+              "urdu": [
+                "ہرجانے کی رقم نقصان کی اصل قیمت کے برابر ہونی چاہیے، اس سے زیادہ نہیں۔",
+                "اگر مالکِ مویشی نے حفاظت میں کوتاہی نہ کی ہو تو بعض صورتوں میں استثنا مل سکتا ہے۔",
+                "فقہاء نے اس حدیث سے 'تاوانِ مال' کے سینکڑوں جزوی مسائل حل کیے ہیں۔"
+              ],
+              "english": [
+                "The indemnity amount should equal the actual value of the damage, no more.",
+                "If the livestock owner was not negligent, exceptions may apply in specific cases.",
+                "Jurists have derived hundreds of sub-rulings regarding property liability from this Hadith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اخلاقیات",
+        "english": "Social Ethics"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق العباد کی اہمیت",
+              "english": "Importance of People's Rights"
+            },
+            "content": {
+              "urdu": [
+                "کسی دوسرے کے مال کو اپنے جانوروں کے ذریعے نقصان پہنچانا بھی گناہ ہے۔",
+                "مسلمان وہی ہے جس کی زبان، ہاتھ اور مال سے دوسرے محفوظ رہیں۔",
+                "اپنے مال کی حفاظت کے ساتھ دوسروں کے نقصان سے بچنا ایمانی تقاضا ہے۔"
+              ],
+              "english": [
+                "Damaging another's property through one's livestock is a sinful act.",
+                "A true Muslim is one from whose tongue, hand, and property others are safe.",
+                "Protecting one's assets while avoiding harm to others is a requirement of faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی ہمدردی",
+              "english": "Mutual Sympathy"
+            },
+            "content": {
+              "urdu": [
+                "دیہی معاشرت میں کسان اور مالدار ایک دوسرے پر انحصار کرتے ہیں۔",
+                "ایسے قوانین باہمی ہم آہنگی اور بھائی چارے کو برقرار رکھنے میں مدد دیتے ہیں۔",
+                "نقصان ہونے کی صورت میں کشیدگی کے بجائے شرعی فیصلے پر راضی ہونا چاہیے۔"
+              ],
+              "english": [
+                "In rural societies, farmers and livestock owners depend on each other.",
+                "Such laws help maintain social harmony and brotherhood.",
+                "In case of loss, parties should accept the Shariah verdict instead of escalating tension."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذمہ داری کا احساس",
+              "english": "Sense of Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "اپنی ملکیت (گاڑی، جانور یا مشینری) سے دوسروں کو بچانا آپ کی ذمہ داری ہے۔",
+                "غفلت اور لاپرواہی کی وجہ سے ہونے والا نقصان شرعاً معاف نہیں ہے۔",
+                "دین اسلام صرف عبادات نہیں بلکہ لین دین اور سماجی حقوق کا نام بھی ہے۔"
+              ],
+              "english": [
+                "Protecting others from harm caused by your property (car, pet, machinery) is your duty.",
+                "Damage caused due to negligence or carelessness is not excused in Shariah.",
+                "Islam is not just about rituals; it encompasses transactions and social rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدالتی رجوع",
+              "english": "Seeking Judicial Redress"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام اپنے مالی تنازعات کے حل کے لیے نبی ﷺ کی طرف رجوع کرتے تھے۔",
+                "جھگڑوں کو خود حل کرنے کے بجائے قانون اور عدل کے ماہرین سے مشورہ کرنا چاہیے۔",
+                "حق دار کو اس کا حق دلانا اسلامی ریاست کا بنیادی فریضہ ہے۔"
+              ],
+              "english": [
+                "The Sahaba referred their financial disputes to the Prophet (ﷺ) for resolution.",
+                "Instead of taking the law into one's own hands, experts in law and justice should be consulted.",
+                "Granting the rightful person their due is the primary duty of an Islamic state."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

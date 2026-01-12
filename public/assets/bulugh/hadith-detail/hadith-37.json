@@ -1,0 +1,259 @@
+{
+  "hadithId": 37,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 9 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب تخليل اللحية",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه الترمذي (31) ، وابن خزيمة (1 /78 -79)  وقال الترمذي: حسن صحيح.  قلت: يعني بشواهده، فله شواهد عن أكثر من عشرة من الصحابة رضي الله عنهم، وقد ذكرت ذلك مفصلا في \"الأصل\". ",
+    "urdu": "صحیح (درجہ)۔ اسے ترمذی (31)، اور ابن خزیمہ (1/78-79) نے روایت کیا ہے۔ اور امام ترمذی نے اسے **حسن صحیح** کہا ہے۔ راوی کا کہنا ہے: یعنی اپنے شواہد کی وجہ سے، کیونکہ اس کے دس سے زائد صحابہ کرام سے شواہد موجود ہیں۔",
+    "english": "Sahih (Authentic). Narrated by At-Tirmidhi (31) and Ibn Khuzaymah (1/78-79). At-Tirmidhi graded it **Hasan Sahih** (Good and Authentic). It is strengthened by corroborating reports from more than ten different Companions (may Allah be pleased with them)."
+  },
+  "importantWords": [
+    {
+      "arabic": "عُثْمَانَ",
+      "english": "Uthman (ibn Affan)",
+      "urdu": "عثمان"
+    },
+    {
+      "arabic": "يُخَلِّلُ",
+      "english": "Used to interlace/comb (with fingers)",
+      "urdu": "خلال کیا کرتے تھے"
+    },
+    {
+      "arabic": "لِحْيَتَهُ",
+      "english": "His beard",
+      "urdu": "اپنی داڑھی"
+    },
+    {
+      "arabic": "فِي اَلْوُضُوءِ",
+      "english": "During Wudu/Ablution",
+      "urdu": "وضو کرتے ہوئے"
+    },
+    {
+      "arabic": "اَلنَّبِيَّ",
+      "english": "The Prophet",
+      "urdu": "نبی کریم"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وضو کی ایک اہم سنت کو بیان کرتی ہے، جس میں رسول اللہ صلی اللہ علیہ وسلم داڑھی دھونے کے دوران پانی سے بھیگے ہوئے ہاتھوں کی انگلیوں سے اپنی داڑھی کا خلال کیا کرتے تھے تاکہ پانی جڑوں تک پہنچ جائے اور طہارت مکمل ہو۔",
+    "english": "This Hadith details an important Sunnah practice in Wudu, where the Prophet (ﷺ) would pass his wet fingers through his beard while washing his face, ensuring that water penetrated the hair and reached the skin underneath, completing the purification."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي، أبواب الطهارة، رقم 31",
+      "english": "Jami' At-Tirmidhi, The Book of Purification, Hadith 31"
+    },
+    {
+      "arabic": "صحيح ابن خزيمة، رقم 1/78-79",
+      "english": "Sahih Ibn Khuzaymah, Hadith 1/78-79"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Uthman ibn Affan (May Allah be pleased with him)"
+      },
+      "slug": "uthman-ibn-affan"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-15-beard-interlacing",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "داڑھی کے خلال کا طریقہ اور حکم",
+        "english": "Method and Ruling of Interlacing the Beard"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خلال کی کیفیت",
+              "english": "The Manner of Interlacing (Takhlīl)"
+            },
+            "content": {
+              "urdu": [
+                "داڑھی کا خلال کرنا سنتِ نبوی ہے اور یہ عمل چہرے کو دھوتے وقت کیا جاتا ہے، جس کا مقصد پانی کو داڑھی کی گہرائی تک پہنچانا ہے۔",
+                "مسنون طریقہ یہ ہے کہ چہرہ دھونے کے بعد، دونوں ہاتھوں میں پانی لے کر یا تر ہاتھوں سے انگلیوں کو داڑھی کے نچلے حصے سے (یعنی ٹھوڑی کی طرف سے) داخل کیا جائے۔",
+                "یہ خلال اس بات کو یقینی بناتا ہے کہ داڑھی کے گھنے بالوں کے اندر جلد (بشرہ) تک پانی پہنچ جائے اور وضو کامل ہو۔"
+              ],
+              "english": [
+                "Interlacing the beard (Takhlīl) is a Prophetic Sunnah performed while washing the face, intended to ensure water penetrates the beard's depth.",
+                "The Sunnah method is to take water in the hands or use wet fingers and push them through the beard from the underside (from the chin upwards).",
+                "This action guarantees that water reaches the skin beneath the dense hair (basharah), thus making the ritual ablution complete."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف",
+              "english": "Fiqh Disagreement on Obligation"
+            },
+            "content": {
+              "urdu": [
+                "تمام فقہاء اس بات پر متفق ہیں کہ داڑھی کا خلال کرنا **سنت** ہے، لیکن داڑھی کی جلد تک پانی پہنچانے کے حکم میں اختلاف ہے۔",
+                "جمہور علماء کے نزدیک، اگر داڑھی گھنی ہو تو اس کے ظاہری حصے کو دھونا فرض ہے، جبکہ اندرونی جلد تک پانی پہنچانا سنت ہے۔",
+                "اگر داڑھی ہلکی ہو (جس سے جلد نظر آتی ہو) تو اس کی جلد تک پانی پہنچانا **فرض** ہے تاکہ چہرہ دھونے کا فرض پورا ہو سکے۔"
+              ],
+              "english": [
+                "All jurists agree that Takhlīl al-liḥyah (interlacing the beard) is a **Sunnah**, though they differ on the necessity of reaching the skin underneath.",
+                "The majority hold that if the beard is dense, washing the surface hair is obligatory, while penetrating to the inner skin is a Sunnah.",
+                "If the beard is thin (allowing the skin to be visible), washing the skin underneath is **obligatory (Fard)** to fulfill the requirement of washing the face."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "داڑھی کے حقوق",
+        "english": "The Rights of the Beard"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احترام اور تکمیل",
+              "english": "Reverence and Perfection"
+            },
+            "content": {
+              "urdu": [
+                "داڑھی کا خلال نبی اکرم ﷺ کی سنت اور ایک عظیم اسلامی شعار (Symbol) ہے، لہذا وضو میں اس کے حقوق کو ادا کرنا ضروری ہے۔",
+                "خلال کرنے کا عمل اس بات کی دلیل ہے کہ اسلام ظاہری حسن کے ساتھ ساتھ باطنی صفائی اور ہر عمل میں **کمال (Ahsan)** چاہتا ہے۔",
+                "جو شخص اس سنت کو اختیار کرتا ہے وہ نہ صرف وضو میں کمال حاصل کرتا ہے بلکہ نبی ﷺ کی ایک محبوب سنت کو زندہ کرتا ہے۔"
+              ],
+              "english": [
+                "Interlacing the beard is a Sunnah of the Prophet (ﷺ) and a great Islamic symbol, hence its right must be fulfilled during Wudu.",
+                "The act of Takhlīl signifies that Islam desires **perfection (Aḥsan)** in every deed, combining outer appearance with inner cleanliness.",
+                "One who adopts this Sunnah not only achieves perfection in their Wudu but also revives a beloved practice of the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غسلِ جنابت میں حکم",
+              "english": "The Ruling in Ghusl (Major Ablution)"
+            },
+            "content": {
+              "urdu": [
+                "وضو کے برعکس، غسلِ جنابت (بڑے غسل) میں داڑھی کے گھنے ہونے کے باوجود پانی کو داڑھی کی **جڑوں تک پہنچانا فرض** ہے تاکہ طہارت کامل ہو۔",
+                "غسل میں خلال کرنا اس فرض کو پورا کرنے کا ذریعہ بنتا ہے، کیونکہ پورے جسم کو دھونا لازم ہے، جس میں داڑھی کے نیچے کی جلد بھی شامل ہے۔",
+                "یہ فرق اس بات کی نشاندہی کرتا ہے کہ شرعی احکام میں وضو اور غسل کی طہارت کے درجات اور ان کے تقاضے مختلف ہیں۔"
+              ],
+              "english": [
+                "Unlike Wudu, in Ghusl Janābah (major ritual bath), it is **obligatory (Fard)** to ensure water reaches the roots of the beard, even if it is dense.",
+                "Performing Takhlīl in Ghusl helps fulfill this obligation, as the entire body must be washed, including the skin beneath the beard.",
+                "This distinction shows that the required standards and obligations for purity differ between minor (Wudu) and major (Ghusl) ritual ablutions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند اور دیگر شواہد",
+        "english": "Chain of Narration and Corroborating Reports"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کی قوت",
+              "english": "The Strength of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کو امام ترمذی اور ابن خزیمہ نے صحیح قرار دیا، اور اسے متعدد صحابہ کرام سے روایت کیا گیا ہے، جس سے اس کی قوت بہت بڑھ جاتی ہے۔",
+                "جب کسی حدیث کے کئی شواہد مل جائیں تو وہ حدیث **حسن صحیح** کے درجے تک پہنچ جاتی ہے، جو شرعی حکم کے لیے قابلِ قبول ہے۔",
+                "سیدنا عثمان رضی اللہ عنہ نے اس عمل کو بیان کر کے اس بات کو یقینی بنایا کہ نبی ﷺ کا وضو کا طریقہ مکمل طور پر امت تک پہنچے۔"
+              ],
+              "english": [
+                "The Hadith was authenticated by Imām At-Tirmidhi and Ibn Khuzaymah, and its strength is significantly increased by being narrated from multiple Companions.",
+                "When a single Hadith is supported by many corroborating reports, it is elevated to the rank of **Ḥasan Ṣaḥīḥ**, making it definitively acceptable for legal rulings.",
+                "Uthman (RA) narrated this act, ensuring that the complete and perfect method of the Prophet's Wudu was meticulously passed down to the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "داڑھی کے خلال کا وقت",
+              "english": "The Timing of Beard Interlacing"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک داڑھی کا خلال چہرہ دھونے کے دوران یا چہرے کو تیسری بار دھونے کے بعد بھی کیا جا سکتا ہے تاکہ پانی کو جڑوں تک پہنچایا جا سکے۔",
+                "اس سنت پر عمل کرنے کا بہترین وقت چہرہ دھونے کے عمل کے فوراً بعد ہے، جب ہاتھ پہلے سے ہی گیلے ہوں اور وضو کی ترتیب نہ ٹوٹے۔",
+                "اس سنت کی ادائیگی اس بات کا اظہار ہے کہ مسلمان فرائض کے ساتھ ساتھ مستحب اعمال کو بھی نہیں چھوڑتے تاکہ وہ اجرِ عظیم سے محروم نہ ہوں۔"
+              ],
+              "english": [
+                "Jurists agree that Takhlīl can be performed while washing the face or immediately after the third wash, facilitating water penetration to the roots.",
+                "The optimal time to perform this Sunnah is immediately after washing the face, while the hands are already wet, maintaining the sequence of Wudu.",
+                "Performing this Sunnah is a sign that a Muslim does not neglect recommended acts alongside obligations, ensuring they receive the full reward."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "داڑھی سے متعلق عمومی احکام",
+        "english": "General Rulings Regarding the Beard"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طہارت کا فلسفہ",
+              "english": "The Philosophy of Purity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں طہارت صرف فرائض کی ادائیگی سے متعلق نہیں، بلکہ یہ کمالِ ایمان اور اللہ کے سامنے بہترین حالت میں حاضر ہونے کا ذریعہ ہے۔",
+                "داڑھی کا خلال اس بات کی نشاندہی کرتا ہے کہ صفائی کا معیار صرف ظاہر تک محدود نہیں بلکہ اس میں تمام اعضاء کی اندرونی صفائی بھی شامل ہے۔",
+                "یہ سنت مردوں کو ان کے لباس اور ظاہری وضع قطع کو اللہ کی رضا کے مطابق بہتر بنانے کی ترغیب دیتی ہے۔"
+              ],
+              "english": [
+                "Purity in Islam is not merely about fulfilling obligations but is a means of perfecting faith and presenting oneself optimally before Allah.",
+                "Interlacing the beard demonstrates that the standard of cleanliness is not limited to the surface but includes the thorough cleansing of all parts of the limbs.",
+                "This Sunnah encourages men to maintain their physical appearance and attire in a manner pleasing to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی کا اجر",
+              "english": "Reward for Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ کی ہر سنت پر عمل کرنے سے نیکیوں میں اضافہ ہوتا ہے اور روز قیامت شفاعت کا ذریعہ بن سکتا ہے۔",
+                "داڑھی کا خلال ایک آسان عمل ہے جو وضو کے دوران اضافی مشقت کے بغیر بڑی نیکی کا سبب بنتا ہے۔",
+                "یہ مسلمانوں کو یہ یاد دلاتا ہے کہ نبی ﷺ کی سنت زندگی کے ہر چھوٹے سے چھوٹے پہلو میں بھی رہنمائی فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "Following every Sunnah of the Prophet (ﷺ) increases good deeds and can potentially lead to intercession (Shafa'ah) on the Day of Judgment.",
+                "Interlacing the beard is a simple act that yields great reward during Wudu without imposing significant extra effort or hardship.",
+                "It reminds Muslims that the Prophet's Sunnah provides guidance in every minute detail of daily life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

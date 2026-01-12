@@ -1,0 +1,260 @@
+{
+  "hadithId": 50,
+  "hadithNo": 22,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 22 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب وجوب استيعاب أعضاء الوضوء بالماء",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه أبو داود (173) .  ووهم الحافظ  -رحمه الله - في عزوه للنسائي، إذا لم يروه لا في \"الكبرى\" ولا في \"الصغرى\" والله أعلم. ",
+    "urdu": "صحیح (درجہ)۔ اسے ابوداؤد (173) نے روایت کیا ہے۔ حافظ ابن حجر رحمہ اللہ کو اس حدیث کو نسائی کی طرف منسوب کرنے میں وہم ہوا ہے، کیونکہ نسائی نے اسے اپنی سنن میں روایت نہیں کیا۔ واللہ اعلم۔",
+    "english": "Sahih (Authentic). Narrated by Abu Dawud (173). (Note: Al-Hafiz [Ibn Hajar] erred in attributing it to An-Nasā’ī, as he did not narrate it.)"
+  },
+  "importantWords": [
+    {
+      "arabic": "قَدَمِهِ",
+      "english": "His foot",
+      "urdu": "پاؤں"
+    },
+    {
+      "arabic": "مِثْلُ اَلظُّفْرِ",
+      "english": "Size of a fingernail",
+      "urdu": "ناخن برابر جگہ"
+    },
+    {
+      "arabic": "لَمْ يُصِبْهُ اَلْمَاءُ",
+      "english": "Water had not reached it",
+      "urdu": "پانی نہ پہنچا"
+    },
+    {
+      "arabic": "اِرْجِعْ",
+      "english": "Go back",
+      "urdu": "واپس جاؤ"
+    },
+    {
+      "arabic": "فَأَحْسِنْ",
+      "english": "And perform perfectly",
+      "urdu": "اچھی طرح عمدہ طریق سے کرو"
+    },
+    {
+      "arabic": "وُضُوءَكَ",
+      "english": "Your Wudu",
+      "urdu": "اپنا وضو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وضو میں **استیعاب (ہر حصے تک پانی پہنچانے کے وجوب)** کا حکم دیتی ہے، جس کے مطابق اگر وضو کے کسی فرض عضو کی ناخن برابر جگہ بھی خشک رہ جائے تو وضو باطل ہو جاتا ہے اور اسے دہرانے کا حکم دیا گیا ہے۔",
+    "english": "This Hadith establishes the **obligation of encompassing all parts** of the Wudu limbs (Istī'āb). If even an area as small as a fingernail remains dry on an obligatory limb, the Wudu is invalid, and the person must repeat it perfectly."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الطهارة، رقم 173",
+      "english": "Sunan Abī Dāwūd, The Book of Purification, Hadith 173"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَنَسُ بْنُ مَالِكٍ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Anas ibn Mālik (May Allah be pleased with him)"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-28-perfect-wudu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "استیعاب کا وجوب",
+        "english": "Obligation of Comprehensive Washing (Istī'āb)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناخن برابر جگہ خشک رہنے کا حکم",
+              "english": "Ruling on Dry Spot the Size of a Fingernail"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث وضو کے ارکان کو دھونے میں **استیعاب (پانی کا مکمل احاطہ)** کی فرضیت پر سب سے قوی دلیل ہے، خواہ خشک جگہ کتنی ہی چھوٹی کیوں نہ ہو۔",
+                "نبی اکرم ﷺ نے ناخن برابر جگہ خشک رہنے پر بھی وضو کو باطل قرار دیا اور اس شخص کو دوبارہ وضو کرنے کا **حکم** دیا ('اِرْجِعْ')۔",
+                "یہ حکم اس بات کی دلیل ہے کہ وضو کے فرض اعضاء کا ذرہ برابر بھی خشک حصہ رہ جائے تو طہارت مکمل نہیں ہوتی اور نماز صحیح نہیں ہو گی۔"
+              ],
+              "english": [
+                "This Hadith is the strongest proof for the obligation of **Istī'āb** (complete coverage of water) on the Wudu limbs, no matter how small the dry spot is.",
+                "The Prophet (ﷺ) declared the Wudu invalid when a spot the size of a fingernail remained dry and **commanded** the man to repeat it ('Irji'').",
+                "This proves that if even a tiny part of the obligatory Wudu limbs remains dry, the purification is incomplete and the prayer will not be valid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضو کو دوبارہ کرنے کا حکم",
+              "english": "The Command to Repeat Wudu"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا یہ فرمانا کہ 'واپس جاؤ اور اچھی طرح وضو کرو' (فَأَحْسِنْ وُضُوءَكَ) اس بات کی دلیل ہے کہ وہ پہلا وضو ناکافی تھا اور اسے **دوبارہ** کرنا ضروری ہے۔",
+                "اگرچہ یہ جگہ صرف پاؤں میں تھی، لیکن آپ ﷺ نے صرف اس جگہ کو دھونے کا نہیں بلکہ پورے وضو کو دوبارہ کرنے کا حکم دیا، جو احتیاط کو ظاہر کرتا ہے۔",
+                "اس سے فقہاء نے یہ اصول اخذ کیا کہ اگر وضو میں کسی رکن کا کوئی حصہ چھوٹ جائے تو اسے نئے وضو کے ذریعے ہی مکمل کرنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet's command to 'Go back and perform your Wudu perfectly' (Fa'aḥsin Wuḍū'ak) indicates that the first Wudu was insufficient and must be **repeated**.",
+                "Although the spot was only on the foot, he commanded repeating the entire Wudu, which highlights the necessity of caution.",
+                "Jurists derived the principle from this that if a part of an obligatory act in Wudu is missed, it must be perfected through a fresh Wudu."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "احسان الوضوء (وضو میں کمال)",
+        "english": "Iḥsān al-Wudu (Perfection in Ablution)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احسان وضو کی تعریف",
+              "english": "Definition of Perfecting Wudu"
+            },
+            "content": {
+              "urdu": [
+                "**احسان الوضوء** کا مطلب ہے وضو کو نبی ﷺ کے طریقے کے مطابق، سنتوں کی رعایت کے ساتھ، اور اچھی طرح مکمل کرنا، تاکہ کوئی کمی نہ رہے۔",
+                "یہ صرف ظاہری دھونا نہیں بلکہ باطنی خلوص اور ہر عضو کو اس کا حق دینا بھی شامل ہے، جس سے اس شخص کے لیے گناہوں کی معافی کا وعدہ ہے۔",
+                "رسول اللہ ﷺ کا یہ حکم اس بات کی تعلیم دیتا ہے کہ مسلمان کو اپنی عبادات کو ہمیشہ کامل اور عمدہ ترین صورت میں ادا کرنا چاہیے۔"
+              ],
+              "english": [
+                "**Iḥsān al-Wudu** means performing Wudu perfectly according to the Prophet's (ﷺ) method, observing all Sunnahs, so that no deficiency remains.",
+                "It involves not just outward washing but also inner sincerity and giving every limb its due right, which promises forgiveness of sins for the practitioner.",
+                "The Messenger of Allah's command teaches that a Muslim must always perform his acts of worship in the most perfect and excellent manner."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت میں احتیاط کا معیار",
+              "english": "The Standard of Precaution in Purity"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی دلیل ہے کہ طہارت کے معاملات میں معمولی سی غفلت بھی عبادت کے باطل ہونے کا سبب بن سکتی ہے، اس لیے ہمیشہ احتیاط برتنی چاہیے۔",
+                "پاؤں کے ٹخنے، کہنیاں، انگلیوں کے درمیان کی جگہ (خلال) اور داڑھی کا خلال کرنا سب اسی احتیاط (احسان الوضوء) کے تحت آتے ہیں۔",
+                "اس لیے وضو کرنے والے کو چاہیے کہ وہ ہر عضو کو اچھی طرح رگڑ کر دھوئے تاکہ یہ یقین ہو جائے کہ پانی ہر جگہ تک پہنچ چکا ہے۔"
+              ],
+              "english": [
+                "This Hadith proves that even minor negligence in purity can invalidate an act of worship, hence utmost precaution must always be exercised.",
+                "Washing ankles, elbows, fingers (Khilāl), and beard are all included under this precaution (Iḥsān al-Wudu).",
+                "Therefore, the one performing Wudu must rub (Dalk) every limb thoroughly to ensure that water has reached every spot."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قیامت کی وعید",
+        "english": "Warning for the Day of Resurrection"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نارِ جہنم کا خوف",
+              "english": "Fear of the Hellfire"
+            },
+            "content": {
+              "urdu": [
+                "دوسری صحیح احادیث میں نبی ﷺ نے وضو میں خشک رہ جانے والی جگہوں کے بارے میں **جہنم کی آگ** کا انتباہ دیا ہے (وائلٌ لِلأَعْقَابِ مِنَ اَلنَّارِ-ٹخنوں کے لیے آگ کی ہلاکت ہے)۔",
+                "یہ وعید اس بات کی دلیل ہے کہ وضو کو ناقص طریقے سے کرنے کا نتیجہ صرف نامکمل وضو نہیں بلکہ سخت عذاب ہو سکتا ہے۔",
+                "اس لیے مسلمان کو چاہیے کہ وہ وضو کو ایک ذمہ داری کے طور پر انجام دے اور پانی کو ہر عضو تک پہنچانے میں کسی قسم کی کوتاہی نہ کرے۔"
+              ],
+              "english": [
+                "Other authentic Ahadith include the Prophet's (ﷺ) warning of **Hellfire** for dry spots during Wudu (Wailun lil-a'qāb min an-nār—Woe to the heels from the Fire).",
+                "This threat proves that performing Wudu improperly can result in severe punishment, not just an incomplete Wudu.",
+                "Therefore, a Muslim must perform Wudu as an obligation and avoid any negligence in ensuring water reaches every limb."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علم کی اشاعت کا مقام",
+              "english": "The Status of Knowledge Propagation"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا انس بن مالک رضی اللہ عنہ کا یہ مشاہدہ اور روایت اس بات کی دلیل ہے کہ صحابہ کرام نے نبی ﷺ کے ارشادات اور افعال کو کتنی اہمیت دی اور اسے محفوظ کیا۔",
+                "انہوں نے یہ مسئلہ صرف زبانی نہیں بتایا بلکہ نبی ﷺ کے حکم کو نقل کیا، جو اس مسئلے کی شرعی حیثیت کو مضبوط کرتا ہے۔",
+                "یہ روایت طہارت کے باب میں ایک بنیادی اصول ہے جس سے تمام امت کو رہنمائی حاصل ہوتی ہے۔"
+              ],
+              "english": [
+                "The observation and narration by Sayyiduna Anas ibn Mālik (RA) is evidence of how much importance the Companions gave to the Prophet's sayings and actions, and how they preserved it.",
+                "He narrated not just the verbal instruction but the Prophet's (ﷺ) direct command, which strengthens the legal status of this issue.",
+                "This narration is a fundamental principle in the chapter of purification, from which the entire Ummah derives guidance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحت حدیث کی اہمیت",
+        "english": "Importance of Hadith Authenticity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحیح سند سے استدلال",
+              "english": "Deriving Ruling from Sahih Chain"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کی سند کو محدثین نے **صحیح** قرار دیا ہے، اس لیے اس میں بیان کیا گیا حکم (یعنی ناخن برابر جگہ بھی خشک نہ رہنا) شرعی طور پر ایک قطعی دلیل ہے۔",
+                "کوئی بھی مسلمان اگر وضو کے فرض اعضاء کا کوئی بھی حصہ خشک چھوڑتا ہے، خواہ وہ کتنا ہی چھوٹا ہو، تو اس کا وضو باطل ہو جائے گا۔",
+                "لہٰذا، اس صحیح حدیث پر عمل کرنا اور اس کے مطابق وضو کرنا ہر مسلمان کے لیے واجب ہے۔"
+              ],
+              "english": [
+                "The chain of this Hadith is declared **Sahih (Authentic)** by the scholars, making the ruling mentioned in it (that no spot the size of a fingernail remains dry) a definitive legal proof.",
+                "If any Muslim leaves any part of the obligatory Wudu limbs dry, no matter how small, their Wudu will be invalid.",
+                "Therefore, acting upon this authentic Hadith and performing Wudu accordingly is obligatory for every Muslim."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تیمم اور مسح سے فرق",
+              "english": "Distinction from Tayammum and Mas'h"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم طہارت کے ان اعضاء کے لیے ہے جنہیں دھونا فرض ہے، جبکہ مسح (جیسے سر پر) کے لیے یہ شرط ضروری نہیں کہ بالوں کی ہر جڑ تک پانی پہنچے۔",
+                "یہ اس بات کو بھی واضح کرتا ہے کہ تیمم اور وضو کے احکام میں بنیادی فرق ہے؛ تیمم میں صرف ہاتھ اور چہرے پر مسح کافی ہے، جبکہ وضو میں دھونا فرض ہے۔",
+                "مختصر طور پر، وضو کا مقصد پانی کو جلد کے ہر حصے پر بہانا ہے، اور اس میں معمولی سی کمی بھی نامنظور ہے۔"
+              ],
+              "english": [
+                "This ruling applies to the limbs that must be washed (Ghasl), but for *Mas'h* (wiping, like on the head), it is not required that water reach every root of the hair.",
+                "It also clarifies the fundamental difference between the rulings of Tayammum and Wudu; in Tayammum, wiping the hands and face is sufficient, whereas in Wudu, washing is obligatory.",
+                "In short, the purpose of Wudu is to flow water over every part of the skin, and even a slight deficiency in this is unacceptable."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

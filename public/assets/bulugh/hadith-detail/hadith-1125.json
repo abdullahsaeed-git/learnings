@@ -1,0 +1,254 @@
+{
+  "hadithId": 1125,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/55"],
+    "kitabId": 11,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 90
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (3038)، والنسائي (2453)، والترمذي (623) وقال: حديث حسن، وابن حبان (794)، والحاكم (1/398) وصححه ووافقه الذهبي. المعافري: نسبة إلى معافر، وهي قبيلة من اليمن، ينسب إليها هذا النوع من الثياب.",
+    "urdu": "صحیح۔ اسے ابو داؤد (3038)، نسائی (2453) اور ترمذی (623) نے روایت کیا ہے۔ ابن حبان اور حاکم نے اسے صحیح قرار دیا ہے۔ معافری یمن کے ایک علاقے یا قبیلے کا نام ہے جس کی طرف یہ کپڑا منسوب ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (3038), An-Nasa'i (2453), and At-Tirmidhi (623) who graded it Hasan. It was also authenticated by Ibn Hibban (794) and Al-Hakim (1/398). Ma'afiri refers to a type of cloth from a specific tribe or region in Yemen."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَالِمٍ",
+      "english": "One who has reached puberty",
+      "urdu": "بالغ (احتلام والا)"
+    },
+    {
+      "arabic": "دِينَاراً",
+      "english": "Dinar (Gold coin)",
+      "urdu": "دینار (سونے کا سکہ)"
+    },
+    {
+      "arabic": "عَدْلَهُ",
+      "english": "Its equivalent",
+      "urdu": "اس کے برابر / مساوی"
+    },
+    {
+      "arabic": "مُعَافِرِيًّا",
+      "english": "Ma'afiri cloth",
+      "urdu": "معافری کپڑا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں جزیہ کی مقدار (ایک دینار سالانہ) اور اسے نقدی کے بجائے مال (جیسے کپڑا) کی صورت میں ادا کرنے کے جواز کا بیان ہے۔",
+    "english": "This Hadith specifies the amount of Jizyah (one Dinar annually) and permits its payment in kind (such as cloth) instead of cash."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (3038)",
+      "english": "Narrated by Abu Dawud (3038)"
+    },
+    {
+      "arabic": "رواه الترمذي (623)",
+      "english": "Narrated by At-Tirmidhi (623)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معاذ بن جبل",
+        "english": "Mu'adh bin Jabal"
+      },
+      "slug": "muadh-bin-jabal"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYmX7G6f48A",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جزیہ کی مقدار اور ادائیگی",
+        "english": "Amount and Payment of Jizyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایک دینار کی تحدید",
+              "english": "Fixing One Dinar"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے یمن کے ذمیوں پر سالانہ ایک دینار جزیہ مقرر فرمایا تھا۔",
+                "یہ رقم اس دور کے لحاظ سے انتہائی معمولی تھی، جو اسلام کی نرمی کو ظاہر کرتی ہے۔",
+                "بعد میں سیدنا عمر نے معاشی حالات کے مطابق اس میں اضافہ کیا تھا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) fixed one Dinar annually as Jizyah for the Dhimmis of Yemen.",
+                "This amount was very nominal for that era, reflecting the leniency of Islam.",
+                "Later, Umar (RA) adjusted the amount based on the economic conditions of the people."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنس کی صورت میں ادائیگی",
+              "english": "Payment in Kind"
+            },
+            "content": {
+              "urdu": [
+                "حدیث سے ثابت ہے کہ جزیہ صرف نقد رقم کی صورت میں دینا لازمی نہیں ہے۔",
+                "اگر کسی کے پاس نقد نہ ہو تو وہ کپڑا یا دیگر تجارتی مال دے سکتا ہے۔",
+                "معافری کپڑا یمن کی خاص پیداوار تھی، اس لیے اسے قبول کرنے کا حکم دیا گیا۔"
+              ],
+              "english": [
+                "The Hadith proves that Jizyah does not have to be paid exclusively in cash.",
+                "If someone lacks cash, they can provide cloth or other trade goods of equal value.",
+                "Ma'afiri cloth was a specific product of Yemen, hence the instruction to accept it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جزیہ کن پر واجب ہے؟",
+        "english": "Who is Liable for Jizyah?"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صرف بالغ مرد",
+              "english": "Only Adult Males"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'حالم' سے مراد وہ شخص ہے جو بلوغت کی عمر کو پہنچ چکا ہو۔",
+                "بچوں، عورتوں اور بوڑھوں پر جزیہ واجب نہیں ہے کیونکہ وہ برسرِ پیکار نہیں ہوتے۔",
+                "یہ قانون ظاہر کرتا ہے کہ جزیہ ان سے لیا جاتا ہے جو عسکری دفاع کے قابل ہوں۔"
+              ],
+              "english": [
+                "The term 'Halim' refers to a person who has reached the age of puberty.",
+                "Children, women, and the elderly are exempt from Jizyah as they are not combatants.",
+                "This law indicates that Jizyah is collected from those capable of military defense."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذمیوں کے حقوق",
+              "english": "Rights of Dhimmis"
+            },
+            "content": {
+              "urdu": [
+                "جزیہ لینے کا مطلب یہ ہے کہ اب ان کی حفاظت اسلامی ریاست کی ذمہ داری ہے۔",
+                "مسلمانوں پر ان کے جان و مال کا دفاع کرنا شرعاً فرض ہو جاتا ہے۔",
+                "ان کے مذہبی معاملات میں مداخلت کرنا اسلامی تعلیمات کے خلاف ہے۔"
+              ],
+              "english": [
+                "Collecting Jizyah means their protection is now the responsibility of the Islamic state.",
+                "It becomes a Sharia duty for Muslims to defend their lives and properties.",
+                "Interfering in their religious affairs is contrary to Islamic teachings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور انتظامی حکمت",
+        "english": "Juristic and Administrative Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لوگوں کے لیے آسانی",
+              "english": "Ease for the People"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی ٹیکس نظام میں لوگوں کی سہولت کا پورا خیال رکھا گیا ہے۔",
+                "جس علاقے میں جو چیز عام ہو، اسے بطور ٹیکس قبول کرنا انتظامی لچک ہے۔",
+                "معاذ بن جبل کو یہ ہدایت دینا یمن کے معاشی حالات کے عین مطابق تھا۔"
+              ],
+              "english": [
+                "The Islamic tax system fully considers the convenience of the people.",
+                "Accepting locally available goods as tax demonstrates administrative flexibility.",
+                "Instructing Mu'adh in this manner was perfectly suited to Yemen's economic situation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیت المال کی تنظیم",
+              "english": "Organization of the Treasury"
+            },
+            "content": {
+              "urdu": [
+                "وصول شدہ مال کو بیت المال میں جمع کر کے عوامی فلاح پر خرچ کیا جاتا تھا۔",
+                "نبی ﷺ نے مالی معاملات میں امانت اور دیانت کے اعلیٰ معیار قائم کیے۔",
+                "حاکم کو چاہیے کہ وہ مال کی وصولی میں سختی اور ظلم سے پرہیز کرے۔"
+              ],
+              "english": [
+                "Collected funds were deposited in the treasury and spent on public welfare.",
+                "The Prophet (ﷺ) established high standards of integrity in financial matters.",
+                "A ruler must avoid harshness and oppression during the collection of taxes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاملات میں لچک",
+              "english": "Flexibility in Transactions"
+            },
+            "content": {
+              "urdu": [
+                "لین دین میں فریقین کی سہولت کو مدنظر رکھنا سنتِ نبوی ﷺ ہے۔",
+                "قرض یا واجبات کی ادائیگی میں اگر دوسری چیز دی جائے تو اسے قبول کرنا نیکی ہے۔",
+                "سختی کے بجائے نرمی اختیار کرنا معاشرتی تعلقات کو مضبوط کرتا ہے۔"
+              ],
+              "english": [
+                "Considering the convenience of both parties in transactions is a Prophetic Sunnah.",
+                "Accepting an alternative item of equal value for debts is a virtuous act.",
+                "Choosing leniency over harshness strengthens social relationships."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل اور انصاف",
+              "english": "Justice and Fairness"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر طبقے کے ساتھ انصاف کرنے کا حکم دیتا ہے، چاہے وہ غیر مسلم ہی ہوں۔",
+                "غیر مسلم شہریوں کے حقوق کا تحفظ اسلامی معاشرے کا خاصہ ہے۔",
+                "حقیقی دینداری وہی ہے جو انسان کو حقوق العباد کی ادائیگی پر ابھارے۔"
+              ],
+              "english": [
+                "Islam commands justice for all groups, even if they are non-Muslims.",
+                "Protecting the rights of non-Muslim citizens is a hallmark of an Islamic society.",
+                "True religiosity is that which encourages a person to fulfill the rights of others."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "hadithId": 613,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/613"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1602)، ومسلم (1264).",
+    "urdu": "صحیح۔ اسے بخاری (1602) اور مسلم (1264) نے روایت کیا ہے۔ یہ واقعہ عمرۃ القضاء (7 ہجری) کا ہے جب مسلمانوں نے مکہ میں داخل ہو کر عمرہ ادا کیا تھا۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1602) and Muslim (1264). This occurred during the Umrah of Dhu al-Qi'dah (7 AH) when the Muslims entered Makkah for the makeup Umrah."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَرْمُلُوا",
+      "english": "To Trot (Ramal)",
+      "urdu": "رمل کرنا / چھوٹے قدموں سے تیز چلنا"
+    },
+    {
+      "arabic": "أَشْوَاطٍ",
+      "english": "Circuits / Rounds",
+      "urdu": "چکر / پھیرے"
+    },
+    {
+      "arabic": "الرُّكْنَيْنِ",
+      "english": "The Two Corners",
+      "urdu": "دو کونے (رکن یمانی اور حجر اسود)"
+    },
+    {
+      "arabic": "تَطَوُّعٌ",
+      "english": "Voluntary",
+      "urdu": "نفل"
+    }
+  ],
+  "summary": {
+    "urdu": "طوافِ قدوم یا عمرہ کے طواف کے پہلے تین چکروں میں رمل (تیز چال) کرنا سنت ہے، سوائے رکن یمانی اور حجر اسود کے درمیانی حصے کے جہاں عام چال چلنی چاہیے۔",
+    "english": "It is Sunnah to perform Ramal (trotting) in the first three circuits of Tawaf al-Qudum or Umrah, except for the area between the Yemeni Corner and the Black Stone, where one should walk normally."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1602)",
+      "english": "Reported by Al-Bukhari (1602)"
+    },
+    {
+      "arabic": "رواه مسلم (1264)",
+      "english": "Reported by Muslim (1264)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYI7H7_nO6o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رمل کی تعریف اور شرعی حیثیت",
+        "english": "Definition and Legal Status of Ramal"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رمل کا مطلب",
+              "english": "Meaning of Ramal"
+            },
+            "content": {
+              "urdu": [
+                "رمل سے مراد چھوٹے چھوٹے قدموں کے ساتھ کندھے ہلا کر وقار کے ساتھ تیز چلنا ہے۔",
+                "یہ صرف طواف کے پہلے تین چکروں میں کیا جاتا ہے۔",
+                "یہ سنت صرف مردوں کے لیے ہے، خواتین کے لیے رمل نہیں ہے۔"
+              ],
+              "english": [
+                "Ramal means walking quickly with short steps and moving the shoulders with dignity.",
+                "It is performed only during the first three circuits of the Tawaf.",
+                "This Sunnah is exclusive to men; women do not perform Ramal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رمل کا پس منظر",
+              "english": "Background of Ramal"
+            },
+            "content": {
+              "urdu": [
+                "مکہ کے مشرکین نے افواہ اڑائی تھی کہ مدینہ کے بخار نے مسلمانوں کو کمزور کر دیا ہے۔",
+                "نبی ﷺ نے مسلمانوں کو رمل کا حکم دیا تاکہ کفار پر مسلمانوں کی جسمانی قوت اور رعب ظاہر ہو۔",
+                "اگرچہ اب وہ وجہ باقی نہیں رہی، لیکن اتباعِ سنت میں یہ عمل آج بھی جاری ہے۔"
+              ],
+              "english": [
+                "The polytheists of Makkah rumored that the fever of Madinah had weakened the Muslims.",
+                "The Prophet (ﷺ) ordered Ramal to demonstrate the physical strength and vigor of the Muslims to the disbelievers.",
+                "Although the original cause no longer exists, the practice remains as an adherence to the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رمل کا طریقہ اور حدود",
+        "english": "Method and Limits of Ramal"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دونوں رکنوں کے درمیان استثناء",
+              "english": "Exception Between the Two Corners"
+            },
+            "content": {
+              "urdu": [
+                "رکن یمانی اور حجر اسود کے درمیانی حصے میں رمل نہیں کیا جاتا بلکہ معمول کی چال چلی جاتی ہے۔",
+                "اس کی وجہ یہ تھی کہ اس حصے میں مشرکین مسلمانوں کو نہیں دیکھ پا رہے تھے، اس لیے وہاں رمل کی ضرورت نہیں تھی۔",
+                "سنت کی پیروی میں آج بھی اسی طرح عمل کیا جاتا ہے۔"
+              ],
+              "english": [
+                "Ramal is not performed between the Yemeni Corner and the Black Stone; instead, one walks normally.",
+                "This was because the polytheists could not see the Muslims in this particular section, so there was no need to show off strength.",
+                "In following the Sunnah, the same practice is observed today."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رمل کن طوافوں میں ہے؟",
+              "english": "Which Tawafs Include Ramal?"
+            },
+            "content": {
+              "urdu": [
+                "رمل صرف اس طواف میں ہوتا ہے جس کے بعد سعی کی جائے۔",
+                "یہ طوافِ قدوم (حج مفرد و قران میں) اور عمرہ کے طواف میں مسنون ہے۔",
+                "نفل طواف یا طوافِ وداع میں رمل نہیں کیا جاتا۔"
+              ],
+              "english": [
+                "Ramal is only observed in the Tawaf that is followed by Sa'i.",
+                "It is Sunnah in Tawaf al-Qudum (for Hajj) and the Tawaf of Umrah.",
+                "Voluntary Tawaf or Tawaf al-Wada' (Farewell Tawaf) does not include Ramal."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اگر پہلے چکر میں رمل بھول جائے",
+              "english": "If Ramal is Forgotten in Early Rounds"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی پہلے تین چکروں میں رمل کرنا بھول جائے تو وہ آخری چار چکروں میں اس کی قضا نہیں کرے گا۔",
+                "کیونکہ سنت کی جگہ گزر چکی ہے، اور آخری چکروں میں رمل کرنا خلافِ سنت ہے۔",
+                "عبادات میں ترتیب اور نبوی طریقہ کار کی پابندی لازم ہے۔"
+              ],
+              "english": [
+                "If someone forgets to perform Ramal in the first three rounds, they should not make it up in the last four.",
+                "This is because the specific place for the Sunnah has passed, and trotting in the final rounds contradicts the Sunnah.",
+                "Adherence to sequence and the Prophetic method is essential in worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہجوم کی صورت میں رمل",
+              "english": "Ramal in Crowded Conditions"
+            },
+            "content": {
+              "urdu": [
+                "اگر ہجوم کی وجہ سے رمل کرنا ممکن نہ ہو تو انسان معمول کے مطابق طواف جاری رکھے۔",
+                "دوسروں کو دھکا دے کر یا اذیت پہنچا کر سنت پوری کرنا جائز نہیں ہے۔",
+                "اللہ نیتوں کو جانتا ہے اور وہ عذر کی صورت میں اجر عطا فرماتا ہے۔"
+              ],
+              "english": [
+                "If it is impossible to trot due to crowding, one should continue the Tawaf normally.",
+                "It is not permissible to fulfill a Sunnah by pushing or harming others.",
+                "Allah knows the intentions and rewards based on effort and valid excuses."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی وقار کا اظہار",
+              "english": "Expressing Islamic Dignity"
+            },
+            "content": {
+              "urdu": [
+                "رمل مسلمانوں کی ہمت اور طاقت کے اظہار کا ذریعہ تھا تاکہ باطل مرعوب ہو۔",
+                "مومن کو کمزوری اور سستی کے بجائے چاق و چوبند نظر آنا چاہیے۔",
+                "جسمانی صحت اور توانائی بھی ایک نعمت ہے جسے اللہ کی بندگی میں استعمال کرنا چاہیے۔"
+              ],
+              "english": [
+                "Ramal was a means to display the courage and strength of Muslims to intimidate falsehood.",
+                "A believer should appear energetic and alert rather than weak or lazy.",
+                "Physical health and energy are blessings that should be utilized in the service of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اطاعتِ رسول ﷺ کا جذبہ",
+              "english": "Spirit of Obedience to the Messenger ﷺ"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ نے اپنی تھکاوٹ کے باوجود حکمِ نبوی پر رمل کر کے دکھایا۔",
+                "آج بھی مسلمان بغیر کسی دشمن کے سامنے ہوئے رمل کرتے ہیں، جو صرف اللہ کے رسول ﷺ کی محبت میں ہے۔",
+                "حقیقی کامیابی سنت کے پیچھے چلنے میں ہے، چاہے اس کی ظاہری وجہ ہمیں معلوم ہو یا نہ ہو۔"
+              ],
+              "english": [
+                "The Companions performed Ramal despite their exhaustion simply because of the Prophetic command.",
+                "Even today, Muslims trot without a visible enemy present, solely out of love for the Messenger (ﷺ).",
+                "True success lies in following the Sunnah, whether or not the apparent reason behind it is known to us."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

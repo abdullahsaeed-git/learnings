@@ -1,0 +1,259 @@
+{
+  "hadithId": 884,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/74"],
+    "kitabId": 8,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب النكاح",
+    "babId": 67
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف . رواه أحمد (2/182)، وأبو داود (2129)، والنسائي (6/120)، وابن ماجه (1955). وعلته عنعنة ابن جريج، فهو مدلس ولم يصرح بالسماع.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے احمد، ابوداؤد، نسائی اور ابن ماجہ نے روایت کیا ہے۔ اس کی سند میں ابن جریج مدلس ہیں اور انہوں نے سماع کی تصریح نہیں کی (عنعنہ سے روایت کیا ہے)۔",
+    "english": "Weak. Reported by Ahmad (2/182), Abu Dawud (2129), An-Nasa'i (6/120), and Ibn Majah (1955). The defect is the 'An'anah of Ibn Jurayj, who was a Mudallis and did not explicitly state he heard it directly."
+  },
+  "importantWords": [
+    {
+      "arabic": "حِبَاءٍ",
+      "english": "Gift / Present",
+      "urdu": "عطیہ / تحفہ"
+    },
+    {
+      "arabic": "عِدَةٍ",
+      "english": "Promise",
+      "urdu": "وعدہ"
+    },
+    {
+      "arabic": "عِصْمَةِ اَلنِّكَاحِ",
+      "english": "Marriage bond / Contract",
+      "urdu": "نکاح کا عقد / بندھن"
+    },
+    {
+      "arabic": "أَحَقُّ",
+      "english": "Most deserving",
+      "urdu": "زیادہ حقدار / مستحق"
+    },
+    {
+      "arabic": "أُكْرِمَ",
+      "english": "Honored / Gifted",
+      "urdu": "اکرام کیا گیا / نوازا گیا"
+    }
+  ],
+  "summary": {
+    "urdu": "نکاح سے پہلے مہر کے علاوہ جو بھی تحفہ یا وعدہ کیا جائے وہ عورت کی ملکیت ہے، جبکہ نکاح کے بعد دیے گئے تحائف اس کے ہوں گے جسے دیے گئے (مثلاً ولی کو)۔ نیز بیٹی یا بہن کا رشتہ دینا باعثِ عزت ہے۔",
+    "english": "Any gifts or promises made as part of the marriage arrangement before the contract belong to the bride. Gifts given after the contract belong to the recipient. Providing a daughter or sister in marriage is a noble act."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب النكاح، رقم الحديث ٢١٢٩",
+      "english": "Sunan Abi Dawud, Book of Marriage, Hadith No. 2129"
+    },
+    {
+      "arabic": "سنن النسائي، كتاب النكاح، رقم الحديث ٣٣٤٧",
+      "english": "Sunan An-Nasa'i, Book of Marriage, Hadith No. 3347"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعيب",
+        "english": "Amr bin Shu'aib"
+      },
+      "slug": "amr-bin-shuaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S-tS_V6X2Yw",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نکاح سے پہلے کے تحائف اور مہر",
+        "english": "Gifts and Dower Before Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عورت کی ملکیت",
+              "english": "The Woman's Ownership"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کے معاہدے سے پہلے شوہر جو کچھ بھی مہر یا تحفے کے طور پر دینے کا وعدہ کرے، وہ خالصتاً عورت کا حق ہے۔",
+                "والدین یا ولی کے لیے جائز نہیں کہ وہ مہر کی رقم میں سے اپنی ذات کے لیے کچھ لیں۔",
+                "اسلام نے مہر کو عورت کا مالی تحفظ قرار دیا ہے تاکہ وہ معاشی طور پر خود مختار رہ سکے۔"
+              ],
+              "english": [
+                "Anything promised as Mahr or gifts before the marriage bond belongs exclusively to the woman.",
+                "It is not permissible for parents or guardians to take portions of the dower for themselves.",
+                "Islam establishes Mahr as financial security for the woman to ensure her economic independence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نکاح کے بعد کے تحائف",
+              "english": "Gifts After the Contract"
+            },
+            "content": {
+              "urdu": [
+                "اگر نکاح مکمل ہونے کے بعد داماد اپنے سسر یا سالے کو کوئی تحفہ دے تو وہ ان کی ملکیت ہوگا۔",
+                "اس میں شرط یہ ہے کہ یہ تحفہ مہر کا حصہ نہ ہو اور نہ ہی نکاح کی شرط کے طور پر مانگا گیا ہو۔",
+                "باہمی خوش دلی سے دیے گئے تحائف رشتوں میں محبت بڑھانے کا ذریعہ بنتے ہیں۔"
+              ],
+              "english": [
+                "If the son-in-law gives a gift to his father-in-law or brother-in-law after the contract, it belongs to them.",
+                "The condition is that this gift must not be part of the Mahr or demanded as a prerequisite for marriage.",
+                "Gifts given out of mutual goodwill serve as a means to increase love between relatives."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رشتہ داری اور تکریم",
+        "english": "Kinship and Honoring"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیٹی اور بہن کا رشتہ",
+              "english": "The Link of Daughter and Sister"
+            },
+            "content": {
+              "urdu": [
+                "کسی کو اپنی بیٹی یا بہن کا رشتہ دینا اس پر بہت بڑا احسان اور اس کی عزت افزائی ہے۔",
+                "مرد کو چاہیے کہ وہ اس اکرام کی قدر کرے اور اپنی بیوی کے ساتھ حسنِ سلوک کرے۔",
+                "رشتہ داروں کے درمیان تحائف کا لین دین معاشرتی تعلقات کو مستحکم کرتا ہے۔"
+              ],
+              "english": [
+                "Giving one's daughter or sister in marriage is a great favor and an act of honoring the suitor.",
+                "The husband should value this honor and treat his wife with excellent conduct.",
+                "The exchange of gifts between relatives strengthens social and familial bonds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رشوت اور مطالبے کی نفی",
+              "english": "Negating Bribery and Demands"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کے لیے ولی کا کوئی مالی مطالبہ کرنا یا 'رقم لینا' شرعاً ناپسندیدہ اور ممنوع ہے۔",
+                "ایسے مطالبات بیٹیوں کو 'بیچنے' کے مترادف ہیں جو کہ جاہلیت کی رسم ہے۔",
+                "اسلام نے نکاح کو ایک مبارک عبادت بنایا ہے، اسے کاروبار نہیں بنانا چاہیے۔"
+              ],
+              "english": [
+                "For a guardian to demand money or specific financial gain for a marriage is discouraged and forbidden.",
+                "Such demands are akin to 'selling' daughters, which is a pre-Islamic custom of ignorance.",
+                "Islam treats marriage as a blessed act of worship; it should not be turned into a business."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں اور روایت کا ضعف",
+        "english": "Juristic Nuances and Narration Weakness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کا حال",
+              "english": "Status of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک اس روایت کی سند کمزور ہے، اس لیے اسے حتمی شرعی دلیل نہیں بنایا جا سکتا۔",
+                "تاہم، اس کا پہلا حصہ (مہر عورت کا ہے) دیگر صحیح آیات اور احادیث سے ثابت ہے۔",
+                "علماء مہر کے مسائل میں زیادہ مستند روایات کی طرف رجوع کرنے کی تلقین کرتے ہیں۔"
+              ],
+              "english": [
+                "Scholars consider this specific chain weak, so it cannot be a definitive primary legal source.",
+                "However, the first part (Mahr belongs to the woman) is proven by other Sahih verses and Hadiths.",
+                "Scholars advise referring to more authentic narrations regarding specific dower disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی عدل",
+              "english": "Social Justice"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ایک ایسے نظام کی طرف اشارہ کرتی ہے جہاں مالی حقوق واضح ہوں۔",
+                "نزاع اور جھگڑے سے بچنے کے لیے ضروری ہے کہ تحائف کی نوعیت پہلے سے واضح ہو۔",
+                "اسلامی معاشرت میں شفافیت اور دیانت داری بنیادی اہمیت رکھتی ہے۔"
+              ],
+              "english": [
+                "This Hadith points towards a system where financial rights are clearly defined.",
+                "To avoid disputes, it is necessary to clarify the nature and recipient of gifts beforehand.",
+                "Transparency and integrity hold fundamental importance in Islamic social conduct."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق کی ادائیگی",
+              "english": "Fulfillment of Rights"
+            },
+            "content": {
+              "urdu": [
+                "مردوں کو چاہیے کہ وہ عورتوں کے مہر اور تحائف میں کبھی خیانت نہ کریں۔",
+                "شادی کے موقع پر ہونے والے لین دین میں شرعی حدود کا خیال رکھنا برکت کا باعث ہے۔",
+                "کسی کی مجبوری سے فائدہ اٹھا کر مالی فوائد حاصل کرنا مومن کا شیوہ نہیں ہے۔"
+              ],
+              "english": [
+                "Men must never be dishonest regarding the dowers and gifts meant for women.",
+                "Observing Sharia limits in transactions during marriage brings divine blessing.",
+                "Taking financial advantage of someone's necessity is not the way of a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاندانوں میں محبت",
+              "english": "Love Within Families"
+            },
+            "content": {
+              "urdu": [
+                "اکرام اور تحفہ دینا سنت ہے، لیکن اسے بوجھ یا شرط نہیں بنانا چاہیے۔",
+                "نبی ﷺ نے رشتوں کو جوڑنے اور ان کے احترام کی ہمیشہ تاکید فرمائی ہے۔",
+                "نیک نیتی سے کیا گیا رشتہ دونوں خاندانوں کے لیے فلاح کا ذریعہ بنتا ہے۔"
+              ],
+              "english": [
+                "Honoring and gifting is a Sunnah, but it should not be made a burden or a precondition.",
+                "The Prophet (ﷺ) always emphasized uniting relatives and respecting family ties.",
+                "A relationship formed with sincere intentions becomes a source of success for both families."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

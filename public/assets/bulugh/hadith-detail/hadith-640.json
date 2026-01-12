@@ -1,0 +1,151 @@
+{
+  "hadithId": 640,
+  "hadithNo": 34,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/60"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف. رواه أبو داود (2001)، والنسائي في الكبرى (2/460)، وابن ماجه (3060)، والحاكم (1/475). وفي سنده ابن جريج وهو مدلس وقد عنعنه، ومع ذلك فإن معناه صحيح وثابت من أحاديث أخرى.",
+    "urdu": "ضعیف۔ اسے ابوداؤد، نسائی، ابن ماجہ اور حاکم نے روایت کیا ہے۔ اس کی سند میں ابن جریج مدلس ہیں اور انہوں نے سماع کی صراحت نہیں کی، تاہم اس کا مفہوم دیگر صحیح احادیث سے ثابت ہے کہ طوافِ افاضہ میں رمل نہیں ہے۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (2001), an-Nasa'i, Ibn Majah, and al-Hakim. Its chain contains Ibn Jurayj, who is a Mudallis and narrated with 'An (without clarifying hearing). Nevertheless, the meaning is correct and established via other authentic reports."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَم يَرْمُلْ",
+      "english": "Did not perform Ramal",
+      "urdu": "رمل نہیں کیا"
+    },
+    {
+      "arabic": "أَفَاضَ",
+      "english": "Ifadah (Return/Proceed)",
+      "urdu": "افاضہ کیا / لوٹے"
+    },
+    {
+      "arabic": "اَلسَّبْعِ",
+      "english": "Seven (circuits)",
+      "urdu": "سات چکر"
+    }
+  ],
+  "summary": {
+    "urdu": "رمل (کندھے ہلا کر تیز چلنا) صرف پہلے طواف (طوافِ قدوم یا طوافِ عمرہ) کے پہلے تین چکروں میں مسنون ہے، طوافِ افاضہ یا کسی بھی دوسرے طواف میں رمل نہیں کیا جاتا۔",
+    "english": "Ramal (brisk walking) is Sunnah only in the first three circuits of the initial Tawaf (Tawaf al-Qudum or Umrah). It is not performed during Tawaf al-Ifadah or any subsequent Tawaf."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2001)",
+      "english": "Sunan Abi Dawud (2001)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (3060)",
+      "english": "Sunan Ibn Majah (3060)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "ضَعِيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طوافِ افاضہ اور رمل کا حکم",
+        "english": "Ruling on Tawaf al-Ifadah and Ramal"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رمل کس طواف میں مسنون ہے؟",
+              "english": "Which Tawaf includes Ramal?"
+            },
+            "content": {
+              "urdu": [
+                "رمل (تیز چال) صرف اس طواف میں ہے جس کے بعد سعی کی جاتی ہے اور وہ پہلا طواف ہوتا ہے۔",
+                "نبی ﷺ نے حجۃ الوداع میں صرف طوافِ قدوم میں رمل فرمایا تھا۔",
+                "طوافِ افاضہ (جو 10 ذوالحجہ کو ہوتا ہے) میں رمل نہیں ہے کیونکہ حاجی اس وقت احرام کی ایک پابندی (خوشبو وغیرہ) سے نکل چکا ہوتا ہے اور یہ پہلا طواف نہیں ہوتا۔"
+              ],
+              "english": [
+                "Ramal (brisk walking) is only recommended in the Tawaf that is followed by Sa'y, usually the initial Tawaf.",
+                "The Prophet (ﷺ) performed Ramal only during Tawaf al-Qudum during his Farewell Hajj.",
+                "Tawaf al-Ifadah (performed on the 10th of Dhul-Hijjah) does not include Ramal as the pilgrim has already partially exited Ihram and it is not the first Tawaf."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں اور حکمت",
+        "english": "Juristic Nuances and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رمل کی تاریخی حیثیت",
+              "english": "Historical Significance of Ramal"
+            },
+            "content": {
+              "urdu": [
+                "رمل کا آغاز عمرۃ القضاء کے موقع پر ہوا تھا تاکہ مشرکینِ مکہ کو مسلمانوں کی جسمانی قوت دکھائی جا سکے۔",
+                "اگرچہ اب وہ وجہ (مشرکین کا طعنہ) ختم ہو چکی ہے، لیکن نبی ﷺ کی اتباع میں یہ سنت قیامت تک کے لیے باقی رکھی گئی ہے۔",
+                "طوافِ افاضہ میں رمل نہ کرنا اس بات کی علامت ہے کہ اب وہ 'اظہارِ قوت' والا مرحلہ گزر چکا ہے۔"
+              ],
+              "english": [
+                "Ramal began during the Umrah of Qada' to show the physical strength of Muslims to the polytheists of Makkah.",
+                "Although that original reason no longer exists, the practice is preserved as a Sunnah until the Day of Judgment in imitation of the Prophet (ﷺ).",
+                "The absence of Ramal in Tawaf al-Ifadah signifies that the 'display of strength' phase has passed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اتباعِ سنت اور نظم و ضبط",
+        "english": "Following Sunnah and Discipline"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتدال کی تعلیم",
+              "english": "Teaching Moderation"
+            },
+            "content": {
+              "urdu": [
+                "دین میں ہر عمل کا ایک خاص وقت اور طریقہ مقرر ہے۔",
+                "بغیر کسی شرعی دلیل کے کسی بھی طواف میں اپنی طرف سے رمل یا اضطباع کرنا درست نہیں ہے۔",
+                "طوافِ افاضہ میں عام چال چلنا حاجی کے وقار اور بندگی کے احساس کو دوبالا کرتا ہے۔"
+              ],
+              "english": [
+                "Every act in religion has a designated time and method.",
+                "It is incorrect to self-initiate Ramal or Idtiba' in any Tawaf without Sharia evidence.",
+                "Walking normally during Tawaf al-Ifadah enhances the pilgrim's dignity and sense of servitude."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 1094,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/11/15"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3014)، ومسلم (1744). وفي لفظ لمسلم: 'فنهى رسول الله صلى الله عليه وسلم عن قتل النساء والصبيان'.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (3014) اور امام مسلم (1744) نے روایت کیا ہے۔ مسلم کی ایک روایت میں صراحت ہے کہ آپ ﷺ نے عورتوں اور بچوں کو قتل کرنے سے منع فرمایا۔",
+    "english": "Sahih. Reported by Al-Bukhari (3014) and Muslim (1744). In another version by Muslim, it is explicitly stated: 'The Messenger of Allah (ﷺ) forbade the killing of women and children.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "مَقْتُولَةً",
+      "english": "Killed/Slain",
+      "urdu": "قتل کی ہوئی"
+    },
+    {
+      "arabic": "مَغَازِيهِ",
+      "english": "Expeditions",
+      "urdu": "غزوات/جنگی مہمات"
+    },
+    {
+      "arabic": "فَأَنْكَرَ",
+      "english": "Disapproved/Objected",
+      "urdu": "انکار کیا/ناپسند کیا"
+    },
+    {
+      "arabic": "النِّسَاءِ",
+      "english": "Women",
+      "urdu": "عورتیں"
+    },
+    {
+      "arabic": "الصِّبْيَانِ",
+      "english": "Children",
+      "urdu": "بچے"
+    },
+    {
+      "arabic": "فَنَهَى",
+      "english": "Forbade",
+      "urdu": "پس منع فرما دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اسلامی نظامِ جنگ میں معصوموں کی حفاظت فرض ہے؛ عورتوں اور بچوں کو قتل کرنا حرام ہے کیونکہ وہ براہِ راست جنگ میں شریک نہیں ہوتے۔",
+    "english": "Protecting innocents is obligatory in Islamic warfare; killing women and children is forbidden as they are not active combatants."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (3014)",
+      "english": "Sahih al-Bukhari (3014)"
+    },
+    {
+      "arabic": "صحيح مسلم (1744)",
+      "english": "Sahih Muslim (1744)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی جنگی اخلاقیات",
+        "english": "Islamic War Ethics"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معصوم جانوں کی حرمت",
+              "english": "Sanctity of Innocent Lives"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے جنگ کو صرف مفسدین اور مقاتلین تک محدود رکھا ہے تاکہ فتنہ ختم ہو۔",
+                "عورتوں اور بچوں کا قتل شریعتِ اسلامیہ میں ایک سنگین جرم اور گناہِ کبیرہ ہے۔",
+                "نبی کریم ﷺ نے اس عمل پر شدید نکیر فرما کر ایک ابدی اصول قائم کر دیا۔"
+              ],
+              "english": [
+                "Islam limits warfare to combatants only to eliminate mischief and restore peace.",
+                "The killing of women and children is a grave crime and a major sin in Shariah.",
+                "The Prophet (ﷺ) established an eternal principle by strictly condemning this act."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غیر مقاتلین کا تحفظ",
+              "english": "Protection of Non-Combatants"
+            },
+            "content": {
+              "urdu": [
+                "عورتیں اور بچے عام طور پر جنگی قوت نہیں ہوتے، اس لیے انہیں استثناء حاصل ہے۔",
+                "اسلامی ریاست کا فرض ہے کہ وہ جنگ کے دوران شہریوں کے حقوق کا تحفظ کرے۔",
+                "یہ قانون ثابت کرتا ہے کہ اسلام دہشت گردی اور وحشیانہ قتل و غارت کا مخالف ہے۔"
+              ],
+              "english": [
+                "Women and children are generally not combatants and thus granted immunity.",
+                "It is the duty of the Islamic state to protect civilian rights during conflicts.",
+                "This law proves that Islam stands firmly against terrorism and barbaric slaughter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام اور حدود",
+        "english": "Juristic Rulings and Limits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممانعت کی وجوہات",
+              "english": "Reasons for Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "عورتیں اور بچے کسی بھی معاشرے کا کمزور طبقہ ہیں جن پر رحم کرنا لازم ہے۔",
+                "ان کا قتل دشمن کی افرادی قوت کم کرنے کے بجائے انسانیت کی تذلیل ہے۔",
+                "فقہاء کے نزدیک صرف اس صورت میں گنجائش ہے جب وہ خود مسلح ہو کر حملہ کریں۔"
+              ],
+              "english": [
+                "Women and children represent the vulnerable sector of society deserving mercy.",
+                "Killing them is a humiliation of humanity rather than weakening the enemy.",
+                "Jurists allow targeting them only if they themselves pick up arms to attack."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آپ ﷺ کا اسوہِ حسنہ",
+              "english": "The Prophetic Example"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے جنگ کے تپتے ہوئے میدان میں بھی اخلاقی اقدار کو پامال نہیں ہونے دیا۔",
+                "مفتوحہ علاقوں میں بوڑھوں اور مذہبی پیشواؤں کو بھی امان دینے کا حکم دیا گیا ہے۔",
+                "یہ تعلیمات موجودہ دور کے بین الاقوامی جنگی قوانین سے کہیں زیادہ جامع ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) never let moral values perish, even on the scorching battlefield.",
+                "Instructions were also given to spare the elderly and religious leaders in conquests.",
+                "These teachings are far more comprehensive than modern international war laws."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انسانی حقوق کا علمبردار",
+        "english": "Champion of Human Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رحمت للعالمین کا پیغام",
+              "english": "Message of Mercy to the Worlds"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث آپ ﷺ کی صفت 'رحمت للعالمین' کی ایک روشن دلیل اور مظہر ہے۔",
+                "اسلام دشمن کے بچوں کو بھی وہی تحفظ دیتا ہے جو اپنے بچوں کو حاصل ہوتا ہے۔",
+                "جنگ میں بھی عدل و انصاف کا دامن ہاتھ سے نہ چھوڑنا مومن کا کمال ہے۔"
+              ],
+              "english": [
+                "This Hadith is a clear manifestation of the Prophet's attribute as a Mercy to Worlds.",
+                "Islam grants the same protection to the enemy's children as it does to its own.",
+                "Not abandoning justice even during war is the hallmark of a true believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی استحکام",
+              "english": "Social Stability"
+            },
+            "content": {
+              "urdu": [
+                "غیر مقاتلین کو محفوظ رکھ کر جنگ کے بعد صلح اور تعمیرِ نو آسان ہو جاتی ہے۔",
+                "نفرتوں کو ختم کرنے کے لیے بے گناہ انسانی خون سے ہاتھ رنگنے سے بچنا ضروری ہے۔",
+                "اسلامی فتوحات تاریخ میں اپنی شرافت اور بلند اخلاقی کی وجہ سے مشہور ہیں۔"
+              ],
+              "english": [
+                "By keeping non-combatants safe, post-war reconciliation and rebuilding become easier.",
+                "To end hatred, it is essential to avoid staining hands with innocent human blood.",
+                "Islamic conquests are historically renowned for their nobility and high morality."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نتیجہ",
+        "english": "Practical Lesson and Conclusion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی اہمیت",
+              "english": "Importance of Discipline"
+            },
+            "content": {
+              "urdu": [
+                "ایک سپاہی کو اپنے جذبات کے بجائے اللہ کے حکم اور قیادت کی پیروی کرنی چاہیے۔",
+                "جنگی جنون میں بھی ہوش و حواس قائم رکھنا اور شرعی حدود کا لحاظ رکھنا ضروری ہے۔",
+                "بغیر نظم و ضبط کے کوئی بھی فوج مجاہدین کا گروہ نہیں کہلا سکتی۔"
+              ],
+              "english": [
+                "A soldier must follow Allah's command and leadership rather than their emotions.",
+                "Maintaining sanity and respecting Shariah limits during war frenzy is vital.",
+                "Without discipline, no army can truly be called a group of Mujahideen."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلام کی حقانیت",
+              "english": "The Truth of Islam"
+            },
+            "content": {
+              "urdu": [
+                "یہ تعلیمات ثابت کرتی ہیں کہ اسلام تلوار کے زور پر نہیں بلکہ کردار سے پھیلا۔",
+                "انسانیت کی فلاح صرف اللہ کے بتائے ہوئے راستوں پر چلنے میں ہی پوشیدہ ہے۔",
+                "ہمیں چاہیے کہ ہم اسلام کے ان روشن پہلوؤں کو پوری دنیا کے سامنے پیش کریں۔"
+              ],
+              "english": [
+                "These teachings prove that Islam spread through character, not by the sword.",
+                "The welfare of humanity lies solely in following the paths shown by Allah.",
+                "We must present these brilliant aspects of Islam to the entire world."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

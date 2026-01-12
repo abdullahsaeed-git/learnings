@@ -1,0 +1,259 @@
+{
+  "hadithId": 434,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/10", "bukhari/1265", "muslim/1206"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1265) ، ومسلم (1206) ، وزاد مسلم: 'ولا تخمروا رأسه ولا وجهه فإنه يبعث يوم القيامة ملبياً'.",
+    "urdu": "صحیح۔ اسے بخاری (1265) اور مسلم (1206) نے روایت کیا ہے۔ مکمل روایت میں یہ بھی ہے کہ اس کا سر اور چہرہ نہ ڈھانپو کیونکہ وہ قیامت کے دن تلبیہ پکارتا ہوا اٹھے گا۔",
+    "english": "Sahih. Reported by Al-Bukhari (1265) and Muslim (1206). The full narration mentions not to cover his head or face as he will be resurrected reciting Talbiyah."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَقَطَ",
+      "english": "Fell",
+      "urdu": "گر گیا"
+    },
+    {
+      "arabic": "رَاحِلَتِهِ",
+      "english": "His mount",
+      "urdu": "اس کی سواری"
+    },
+    {
+      "arabic": "اغْسِلُوهُ",
+      "english": "Wash him",
+      "urdu": "اسے غسل دو"
+    },
+    {
+      "arabic": "سِدْرٍ",
+      "english": "Lote-tree leaves",
+      "urdu": "بیری کے پتے"
+    },
+    {
+      "arabic": "كَفِّنُوهُ",
+      "english": "Shroud him",
+      "urdu": "اسے کفن دو"
+    }
+  ],
+  "summary": {
+    "urdu": "حالتِ احرام میں وفات پانے والے شخص کو بیری کے پانی سے غسل دیا جائے گا اور اس کے احرام کے کپڑوں ہی میں کفن دیا جائے گا۔",
+    "english": "A person who dies in Ihram should be washed with Sidr water and shrouded in his two Ihram garments without covering his head."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الجنائز، رقم 1265",
+      "english": "Sahih al-Bukhari, Book of Funerals, Hadith 1265"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الحج، رقم 1206",
+      "english": "Sahih Muslim, The Book of Hajj, Hadith 1206"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0U6VqQ6W_oM",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Muttafaqun Alayh)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حالتِ احرام میں وفات کا حکم",
+        "english": "Ruling on Dying in Ihram"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احرام کے کپڑوں میں کفن",
+              "english": "Shrouding in Ihram Garments"
+            },
+            "content": {
+              "urdu": [
+                "محرم شخص کو نئے کفن کے بجائے اس کے احرام کے دو کپڑوں میں ہی دفن کیا جائے گا۔",
+                "یہ اس بات کی دلیل ہے کہ اس کی عبادت کا اثر وفات کے بعد بھی باقی رہتا ہے۔",
+                "اس سے میت کے مال کی بچت اور سنتِ نبوی ﷺ کی اتباع مقصود ہے۔"
+              ],
+              "english": [
+                "The Muhrim (pilgrim) is shrouded in his two Ihram garments instead of new shroud cloths.",
+                "This indicates that the traces of his worship remain even after his death.",
+                "It aims to preserve the deceased's wealth and follow the Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوشبو اور سر ڈھانپنے کی ممانعت",
+              "english": "Prohibition of Perfume and Covering Head"
+            },
+            "content": {
+              "urdu": [
+                "محرم میت کو خوشبو نہیں لگائی جائے گی کیونکہ وہ ابھی بھی احرام کی حالت میں ہے۔",
+                "مرد محرم کا سر اور چہرہ کھلا رکھا جائے گا تاکہ احرام کی پابندی برقرار رہے۔",
+                "یہ احکامات اس بات کو واضح کرتے ہیں کہ موت احرام کے حکم کو ختم نہیں کرتی۔"
+              ],
+              "english": [
+                "A deceased Muhrim is not to be perfumed because he is still in a state of Ihram.",
+                "The head and face of a male Muhrim remain uncovered to maintain the Ihram state.",
+                "These rulings clarify that death does not terminate the regulations of Ihram."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غسل کے مسنون طریقے",
+        "english": "Sunnah Methods of Washing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیری کے پتوں کا استعمال",
+              "english": "Using Lote-tree Leaves (Sidr)"
+            },
+            "content": {
+              "urdu": [
+                "بیری کے پتے پانی میں ابال کر غسل دینا صفائی کے لیے بہترین اور مسنون ہے۔",
+                "بیری کے پتوں میں قدرتی جھاگ ہوتی ہے جو جسم کو اچھی طرح صاف کرتی ہے۔",
+                "یہ عمل میت کی تکریم اور اسے بہترین حالت میں رخصت کرنے کی علامت ہے۔"
+              ],
+              "english": [
+                "Using water boiled with Sidr leaves for washing is excellent for cleanliness and a Sunnah.",
+                "Sidr leaves contain natural foam that helps in thoroughly cleaning the body.",
+                "This act signifies the honoring of the deceased and sending them off in the best state."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی اور صفائی کی اہمیت",
+              "english": "Importance of Water and Cleanliness"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں میت کی ظاہری نظافت کا بہت زیادہ خیال رکھا گیا ہے۔",
+                "غسل دینے سے میت کی نجاست دور ہو جاتی ہے اور وہ نمازِ جنازہ کے قابل بنتا ہے۔",
+                "پانی اور بیری کا استعمال میت کے جسم کو ترو تازہ رکھنے میں بھی مددگار ہوتا ہے۔"
+              ],
+              "english": [
+                "Islam places great emphasis on the external physical cleanliness of the deceased.",
+                "Washing removes impurities and prepares the deceased for the funeral prayer.",
+                "Using water and Sidr also helps in maintaining the freshness of the deceased's body."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عظمتِ عبادت اور قیامت",
+        "english": "Greatness of Worship and Resurrection"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیامت کے دن تلبیہ",
+              "english": "Talbiyah on the Day of Judgment"
+            },
+            "content": {
+              "urdu": [
+                "محرم شخص قیامت کے دن اپنی قبر سے 'لبیک' پکارتا ہوا اٹھے گا۔",
+                "یہ اس حاجی یا عمرہ کرنے والے کے لیے ایک بہت بڑی بشارت اور فضیلت ہے۔",
+                "انسان جس حال میں فوت ہوتا ہے، اسی حال میں اٹھایا جائے گا۔"
+              ],
+              "english": [
+                "The Muhrim will emerge from the grave on Resurrection Day reciting 'Labbayk'.",
+                "This is a great glad tiding and virtue for the pilgrim who dies in Ihram.",
+                "A person will be resurrected in the state in which they passed away."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیک خاتمے کی اہمیت",
+              "english": "Importance of a Good End"
+            },
+            "content": {
+              "urdu": [
+                "عبادت کے دوران موت آنا اللہ تعالیٰ کی رضا اور قبولیت کی علامت ہے۔",
+                "یہ حدیث ہمیں نیک کاموں میں مصروف رہنے کی ترغیب دیتی ہے۔",
+                "خوش نصیب ہیں وہ لوگ جن کی زندگی کا اختتام اللہ کے گھر کے سفر میں ہو۔"
+              ],
+              "english": [
+                "Dying during an act of worship is a sign of Allah's pleasure and acceptance.",
+                "This Hadith encourages us to remain consistently engaged in righteous deeds.",
+                "Blessed are those whose life ends during the journey to the House of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرد اور عورت کا فرق",
+              "english": "Difference Between Men and Women"
+            },
+            "content": {
+              "urdu": [
+                "مرد محرم کا سر کھلا رہتا ہے جبکہ عورت کا پردہ برقرار رکھا جاتا ہے۔",
+                "یہ حکم اس خاص واقعے کی روشنی میں مردوں کے لیے مخصوص مانا جاتا ہے۔",
+                "فقہاء کے نزدیک عورت کے لیے اس کے عام کفن کے احکامات لاگو ہوں گے۔"
+              ],
+              "english": [
+                "The head of a male Muhrim remains uncovered, while a woman's modesty is maintained.",
+                "This specific ruling is considered applicable to men based on this incident.",
+                "According to jurists, general shrouding rules apply to women even if in Ihram."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنتِ نبوی کی عالمگیریت",
+              "english": "Universality of the Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے ہر طرح کی موت کے لیے الگ اور واضح رہنمائی فرمائی ہے۔",
+                "یہ حدیث اسلامی قانونِ جنازہ کی وسعت اور جامعیت کو بیان کرتی ہے۔",
+                "صحابہ کرام نے ان احکامات کو بعینہ ہم تک پہنچا کر عظیم علمی خدمت کی۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) provided distinct and clear guidance for various types of death.",
+                "This Hadith illustrates the breadth and comprehensiveness of Islamic funeral law.",
+                "The Sahaba performed a great scholarly service by conveying these rulings precisely."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

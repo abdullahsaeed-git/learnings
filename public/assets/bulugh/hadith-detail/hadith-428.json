@@ -1,0 +1,267 @@
+{
+  "hadithId": 428,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/4", "muslim/916", "nasai/1820"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (916) و (917)، وأبو داود (3117)، والترمذي (976)، والنسائي (4/5)، وابن ماجه (1444) و (1445).",
+    "urdu": "صحیح۔ اسے امام مسلم (916) نے ابو سعید خدری سے اور (917) میں ابوہریرہ سے روایت کیا، اور سنن اربعہ نے بھی اسے مختلف اسناد سے بیان کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (916, 917), Abu Dawud (3117), At-Tirmidhi (976), An-Nasa'i (4/5), and Ibn Majah (1444, 1445)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَقِّنُوا",
+      "english": "Exhort / Prompt",
+      "urdu": "تلقین کرو / یاد دلاؤ"
+    },
+    {
+      "arabic": "مَوْتَاكُمْ",
+      "english": "Your dying ones",
+      "urdu": "اپنے مرنے والوں (قریب المرگ)"
+    },
+    {
+      "arabic": "لَا إِلَهَ إِلَّا اَللَّهُ",
+      "english": "None has the right to be worshipped but Allah",
+      "urdu": "اللہ کے سوا کوئی معبود نہیں"
+    },
+    {
+      "arabic": "آخر كلامه",
+      "english": "His last words",
+      "urdu": "اس کی آخری گفتگو"
+    },
+    {
+      "arabic": "دخل الجنة",
+      "english": "Entered Paradise",
+      "urdu": "جنت میں داخل ہوا"
+    }
+  ],
+  "summary": {
+    "urdu": "قریب المرگ شخص کو کلمہ طیبہ کی تلقین کرنا سنت ہے تاکہ اس کا آخری کلام توحید پر مبنی ہو اور وہ جنت کا مستحق بنے۔",
+    "english": "It is Sunnah to encourage those on their deathbed to recite the Shahada so that their final words testify to the Oneness of Allah."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 916",
+      "english": "Sahih Muslim, The Book of Prayer - Funerals, Hadith 916"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الجنائز، رقم 3117",
+      "english": "Sunan Abi Dawud, Book of Funerals, Hadith 3117"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-said-al-khudri"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fq4m8D0p4yU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تلقین کا مفہوم اور طریقہ",
+        "english": "Meaning and Method of Talqeen"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تلقین سے کیا مراد ہے؟",
+              "english": "What is Talqeen?"
+            },
+            "content": {
+              "urdu": [
+                "تلقین کا مطلب یہ ہے کہ قریب المرگ شخص کے پاس بیٹھ کر نرمی سے کلمہ پڑھا جائے۔",
+                "اس کا مقصد یہ ہے کہ اسے کلمہ یاد آ جائے اور وہ خود اسے زبان سے ادا کر لے۔",
+                "یہ حکم اس شخص کے لیے ہے جس کی روح نکلنے کا وقت قریب آ چکا ہو۔"
+              ],
+              "english": [
+                "Talqeen means sitting beside the dying person and softly reciting the Shahada.",
+                "The purpose is to remind them of the words so they may recite it themselves.",
+                "This ruling specifically applies to someone whose soul is about to depart."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تلقین کا صحیح طریقہ",
+              "english": "The Proper Way to Prompt"
+            },
+            "content": {
+              "urdu": [
+                "مریض پر بار بار کلمہ پڑھنے کا دباؤ نہ ڈالا جائے تاکہ وہ اکتاہٹ کا شکار نہ ہو۔",
+                "بس اس کے سامنے کلمہ دہرایا جائے تاکہ وہ اسے سن کر خود پڑھ لے۔",
+                "اگر وہ ایک بار پڑھ لے تو پھر خاموش ہو جائیں جب تک وہ کوئی دوسری بات نہ کرے۔"
+              ],
+              "english": [
+                "One should not repeatedly pressure the patient to recite it to avoid causing distress.",
+                "Simply repeat the words in their presence so they hear and recite it naturally.",
+                "Once they have said it, stay silent unless they speak of something else."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاتمہ بالخیر کی اہمیت",
+        "english": "The Importance of a Good End"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آخری کلام کی فضیلت",
+              "english": "Virtue of the Final Words"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے مطابق جس کا آخری کلام 'لا الہ الا اللہ' ہوگا وہ جنت میں داخل ہوگا۔",
+                "یہ کلمہ کفر اور شرک سے برات اور ایمان پر خاتمے کی سب سے بڑی علامت ہے۔",
+                "نزع کے وقت شیطان انسان کو بہکانے کی کوشش کرتا ہے، یہ کلمہ اس کا توڑ ہے۔"
+              ],
+              "english": [
+                "According to Hadith, whoever's last words are the Shahada will enter Paradise.",
+                "This testimony is the greatest sign of freedom from Shirk and an end on Iman.",
+                "At the time of death, Satan tries to mislead; this Kalima is a shield against him."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توحید پر ثابت قدمی",
+              "english": "Steadfastness on Tawheed"
+            },
+            "content": {
+              "urdu": [
+                "زندگی بھر جس عقیدے پر انسان رہتا ہے، وہی نزع کے وقت زبان پر آتا ہے۔",
+                "تلقین کرنے کا حکم اس لیے ہے تاکہ مومن توحید کی گواہی دیتے ہوئے دنیا سے رخصت ہو۔",
+                "اللہ تعالیٰ مومنوں کو قولِ ثابت (کلمہ طیبہ) کے ذریعے دنیا اور آخرت میں ثابت قدم رکھتا ہے۔"
+              ],
+              "english": [
+                "The belief a person holds throughout life usually manifests at the time of death.",
+                "Talqeen is commanded so the believer leaves the world testifying to Monotheism.",
+                "Allah keeps believers firm through the 'Firm Word' in this life and the next."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تیمارداروں کی ذمہ داری",
+        "english": "Responsibility of the Caregivers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مریض کے پاس موجودگی",
+              "english": "Presence with the Patient"
+            },
+            "content": {
+              "urdu": [
+                "قریبی رشتہ داروں اور نیک لوگوں کو نزع کے وقت مریض کے پاس ہونا چاہیے۔",
+                "اس وقت صرف خیر کی باتیں کرنی چاہئیں کیونکہ فرشتے ان باتوں پر آمین کہتے ہیں۔",
+                "مریض کو اللہ کی رحمت سے پرامید کرنا چاہیے تاکہ وہ اللہ سے اچھی امید لے کر جائے۔"
+              ],
+              "english": [
+                "Close relatives and righteous people should be present at the time of death.",
+                "Only good things should be spoken, as angels say 'Ameen' to what is said.",
+                "The patient should be made hopeful of Allah's mercy before they depart."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعائے مغفرت",
+              "english": "Praying for Forgiveness"
+            },
+            "content": {
+              "urdu": [
+                "نزع کے وقت اور وفات کے فوراً بعد مریض کے لیے استغفار کرنا سنت ہے۔",
+                "اس نازک گھڑی میں مریض کو تسلی دینا اور اسے کلمے کی طرف متوجہ کرنا بڑا ثواب ہے۔",
+                "یہ عمل میت کے حق میں بہترین ہمدردی اور اسلامی بھائی چارے کا تقاضا ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to seek forgiveness for the patient during and after their passing.",
+                "Comforting the patient and guiding them to the Kalima is a great reward.",
+                "This act is the ultimate form of compassion and Islamic brotherhood for the deceased."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و عملی فوائد",
+        "english": "Juristic and Practical Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلمان کی پہچان",
+              "english": "Identification of a Muslim"
+            },
+            "content": {
+              "urdu": [
+                "تلقین صرف ان کو کی جاتی ہے جن کے ایمان کی گواہی موجود ہو۔",
+                "اگر کوئی کافر بسترِ مرگ پر اسلام قبول کرنا چاہے تو اسے کلمہ پڑھانا واجب ہے۔",
+                "یہ حدیث اس بات کی دلیل ہے کہ اسلام آخری سانس تک ہدایت کی فکر سکھاتا ہے۔"
+              ],
+              "english": [
+                "Talqeen is specifically for those whose faith is established and known.",
+                "If a non-believer wishes to accept Islam on their deathbed, prompting is obligatory.",
+                "This Hadith proves that Islam teaches concern for guidance until the very last breath."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موت کی یاد دہانی",
+              "english": "Remembrance of Death"
+            },
+            "content": {
+              "urdu": [
+                "تلقین کرنے والوں کے لیے بھی اس میں سبق ہے کہ انہیں ایک دن اس مقام پر آنا ہے۔",
+                "یہ عمل انسان کو اپنی آخرت کی تیاری اور ایمان کی حفاظت کی طرف متوجہ کرتا ہے۔",
+                "اسلامی معاشرت میں یہ عمل باہمی تعلقات کی مضبوطی اور دینی خیر خواہی کی علامت ہے۔"
+              ],
+              "english": [
+                "Talqeen serves as a lesson for the prompters that they too will reach this stage.",
+                "This practice directs one toward preparing for the Hereafter and guarding faith.",
+                "In Islamic society, this act signifies strong mutual bonds and religious sincerity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

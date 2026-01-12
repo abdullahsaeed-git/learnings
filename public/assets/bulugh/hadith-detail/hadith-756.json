@@ -1,0 +1,266 @@
+{
+  "hadithId": 756,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/7/64"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام",
+    "babId": 53
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (5225) والترمذي (1359) واللفظ له، وهو أصل في ضمان المتلفات بالمثل.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (5225) اور ترمذی (1359) نے روایت کیا ہے۔ یہ ضائع شدہ اشیاء کے بدلے ویسی ہی چیز دینے کے وجوب کی اصل ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5225) and At-Tirmidhi (1359). It is a foundational text regarding the liability to replace damaged goods with their likes."
+  },
+  "importantWords": [
+    {
+      "arabic": "بِقَصْعَةٍ",
+      "english": "With a bowl",
+      "urdu": "پیالے کے ساتھ"
+    },
+    {
+      "arabic": "فَكَسَرَتِ",
+      "english": "She broke it",
+      "urdu": "اس نے توڑ دیا"
+    },
+    {
+      "arabic": "فَضَمَّهَا",
+      "english": "He gathered it",
+      "urdu": "آپ نے اسے اکٹھا کیا"
+    },
+    {
+      "arabic": "حَبَسَ",
+      "english": "He kept / retained",
+      "urdu": "روک لیا / رکھ لیا"
+    },
+    {
+      "arabic": "إِنَاءٌ",
+      "english": "Vessel / Container",
+      "urdu": "برتن"
+    },
+    {
+      "arabic": "ضَمَان",
+      "english": "Liability / Compensation",
+      "urdu": "ضمانت / تاوان"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بتاتی ہے کہ اگر کسی کا مال ضائع ہو جائے تو اس کا بدل (ویسی ہی چیز) دینا واجب ہے، اور اس میں گھریلو معاملات میں حکمتِ عملی کا سبق ہے۔",
+    "english": "This Hadith teaches that damaged property must be replaced with something similar, and it provides a lesson in handling domestic disputes with wisdom and justice."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2481)",
+      "english": "Sahih al-Bukhari (2481)"
+    },
+    {
+      "arabic": "سنن الترمذي (1359)",
+      "english": "Sunan at-Tirmidhi (1359)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=X7n9pYwVf7Y",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکامات: تاوان کا وجوب",
+        "english": "Juristic Rulings: Liability for Damages"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برتن کے بدلے برتن",
+              "english": "Vessel for a Vessel"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص کسی دوسرے کا برتن توڑ دے تو اسے ویسا ہی برتن دینا ہوگا۔",
+                "نبی کریم ﷺ نے عدل قائم کرتے ہوئے ٹوٹے ہوئے کے بدلے صحیح پیالہ واپس بھیجا۔",
+                "یہ اصول 'ضمان المثلیات' (ہم مثل اشیاء کا تاوان) کی بنیاد ہے۔"
+              ],
+              "english": [
+                "If someone breaks another's vessel, they must replace it with a similar one.",
+                "The Prophet (ﷺ) established justice by sending a sound bowl in place of the broken one.",
+                "This principle forms the basis for 'Liability of Fungibles' in Islamic law."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کھانے کا بدلہ کھانا",
+              "english": "Food for Food"
+            },
+            "content": {
+              "urdu": [
+                "اگر کھانا ضائع ہو جائے تو اسی معیار کا کھانا فراہم کرنا لازم ہے۔",
+                "سزا یا جرمانہ صرف نقصان کے برابر ہونا چاہیے، اس سے زیادہ نہیں۔",
+                "یہ حدیث لین دین میں دیانت اور حق دار کو اس کا حق دینے کی تاکید کرتی ہے۔"
+              ],
+              "english": [
+                "If food is wasted or destroyed, food of the same quality must be provided.",
+                "The compensation must be equal to the damage caused, not exceeding it.",
+                "This Hadith emphasizes integrity in dealings and giving the rightful owner their due."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبوی حکمتِ عملی اور گھریلو زندگی",
+        "english": "Prophetic Wisdom and Domestic Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیرتِ نسواں کا احترام",
+              "english": "Respecting Feminine Sensitivity"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے حضرت عائشہ رضی اللہ عنہا کی غیرت کو انسانی فطرت سمجھ کر معاف فرمایا۔",
+                "آپ ﷺ نے غصہ کرنے کے بجائے معاملہ فہمی سے کام لیا اور کھانا اکٹھا کیا۔",
+                "گھریلو جھگڑوں میں نرمی اور درگزر کرنا سنتِ نبوی ﷺ ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) overlooked 'Aisha's (RA) jealousy, recognizing it as human nature.",
+                "Instead of getting angry, he acted with understanding and gathered the spilled food.",
+                "Gentleness and forgiveness in domestic disputes are central to the Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موقع کی نزاکت",
+              "english": "Handling Delicate Situations"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے مہمانوں یا خادم کے سامنے سخت ردعمل دے کر بات کو نہیں بڑھایا۔",
+                "فوری طور پر نقصان کا ازالہ کر کے فریقین کے درمیان صلح برقرار رکھی۔",
+                "ایک اچھے سربراہِ خانہ کو جذبات کے بجائے عقل سے فیصلے کرنے چاہئیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not escalate the situation by reacting harshly before guests or the servant.",
+                "He maintained peace between the parties by immediately compensating for the loss.",
+                "A good head of household should make decisions based on reason rather than emotion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مالی حقوق کا تحفظ",
+        "english": "Protection of Financial Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیر ارادی نقصان کا تاوان",
+              "english": "Liability for Accidental Damage"
+            },
+            "content": {
+              "urdu": [
+                "چاہے نقصان غصے میں ہو یا غلطی سے، مالک کا حق متاثر نہیں ہونا چاہیے۔",
+                "حقوق العباد میں نیت کے بجائے عملی نقصان کو دیکھا جاتا ہے۔",
+                "ٹوٹا ہوا برتن توڑنے والے کے پاس رہے گا اور صحیح مالک کو ملے گا۔"
+              ],
+              "english": [
+                "Whether damage is caused in anger or by mistake, the owner's right must not be affected.",
+                "In the rights of people, the focus is on the actual damage rather than just intent.",
+                "The broken vessel remains with the one who broke it, and the sound one goes to the owner."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی عدل",
+              "english": "Social Justice"
+            },
+            "content": {
+              "urdu": [
+                "کسی کی چیز ضائع کرنے پر خاموش رہنا یا اسے معمولی سمجھنا درست نہیں۔",
+                "اسلامی معاشرے میں ہر فرد کے مال کی حرمت متعین ہے۔",
+                "یہ حدیث معاشرے میں ذمہ داری کا احساس پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "It is not right to remain silent or trivialize the destruction of someone's property.",
+                "In an Islamic society, the sanctity of every individual's wealth is established.",
+                "This Hadith fosters a sense of accountability within the community."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "درگزر اور اصلاح",
+              "english": "Forgiveness and Rectification"
+            },
+            "content": {
+              "urdu": [
+                "غلطی پر سرزنش کے بجائے عملی طور پر اس کی اصلاح کرنا بہتر طریقہ ہے۔",
+                "نبی کریم ﷺ نے خود کھانا جمع کر کے عاجزی کی مثال قائم کی۔",
+                "دوسروں کی نفسیات کو سمجھنا کامیاب سماجی زندگی کی بنیاد ہے۔"
+              ],
+              "english": [
+                "Rectifying an error practically is better than merely rebuking the person.",
+                "The Prophet (ﷺ) set an example of humility by gathering the food himself.",
+                "Understanding the psychology of others is the basis of a successful social life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق گوئی اور سچائی",
+              "english": "Truthfulness and Integrity"
+            },
+            "content": {
+              "urdu": [
+                "احادیث میں حضرت عائشہ رضی اللہ عنہا کا نام لینا سچائی کی دلیل ہے۔",
+                "صحابہ کرام نے دین کے احکام کی خاطر کسی کا نام چھپانے کی کوشش نہیں کی۔",
+                "یہ واقعہ ہمیں سکھاتا ہے کہ بڑے لوگ بھی جذبات کا شکار ہو سکتے ہیں۔"
+              ],
+              "english": [
+                "Naming 'Aisha (RA) in the Hadith is a testament to the narrators' truthfulness.",
+                "The Companions did not hide names when it came to clarifying religious rulings.",
+                "This incident teaches us that even great individuals can be affected by human emotions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

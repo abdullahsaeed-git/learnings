@@ -1,0 +1,264 @@
+{
+  "hadithId": 41,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 13 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب التيمن في الطهور",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه البخاري (168) ، ومسلم (268)  (67)  من طريق مسروق، عن عائشة، به . ",
+    "urdu": "صحیح (درجہ)۔ اسے بخاری (168) اور مسلم (268) (67) نے مسروق کی سند سے، عائشہ رضی اللہ عنہا کے ذریعے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bukhari (168) and Muslim (268) (67), through the chain of Masrūq, from Ā'isha (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُعْجِبُهُ",
+      "english": "He liked/preferred",
+      "urdu": "پسند فرماتے تھے"
+    },
+    {
+      "arabic": "اَلتَّيَمُّنُ",
+      "english": "Starting with the right side",
+      "urdu": "دائیں جانب"
+    },
+    {
+      "arabic": "تَنَعُّلِهِ",
+      "english": "Putting on his shoes",
+      "urdu": "جوتا پہننے"
+    },
+    {
+      "arabic": "تَرَجُّلِهِ",
+      "english": "Combing his hair",
+      "urdu": "بالوں میں کنگھی کرنے"
+    },
+    {
+      "arabic": "طُهُورِهِ",
+      "english": "His purification/Wudu",
+      "urdu": "وضو کرنے"
+    },
+    {
+      "arabic": "شَأْنِهِ كُلِّهِ",
+      "english": "All his affairs",
+      "urdu": "ہر کام"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نبی اکرم صلی اللہ علیہ وسلم کی ایک عمومی سنت کو بیان کرتی ہے کہ آپ صلی اللہ علیہ وسلم زندگی کے نیک، صاف ستھرے اور اعزاز والے تمام کاموں میں دائیں ہاتھ یا دائیں جانب سے آغاز کو پسند فرماتے تھے۔",
+    "english": "This Hadith describes a general Sunnah of the Prophet (ﷺ): he preferred to use or start with the right side in all affairs that involved honor, cleanliness, or dignity, such as Wudu, wearing shoes, and combing hair."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الوضوء، رقم 168",
+      "english": "Sahih Al-Bukhari, The Book of Ablution, Hadith 168"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الطهارة، رقم 268",
+      "english": "Sahih Muslim, The Book of Purification, Hadith 268"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَائِشَةُ بِنْتُ أَبِي بَكْرٍ رَضِيَ اَللَّهُ عَنْهَا",
+        "english": "Aisha bint Abi Bakr (May Allah be pleased with her)"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-19-tayamum-right",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Agreed Upon (by Bukhari and Muslim)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تیمن (دائیں جانب سے آغاز) کا اصول",
+        "english": "The Principle of Tayamum (Starting with the Right)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعزاز اور احترام کے افعال",
+              "english": "Acts of Honor and Respect"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ایک عمومی شرعی اصول کو بیان کرتی ہے: **تیمن** (دائیں جانب سے آغاز) کا استحباب ان تمام اعمال میں ہے جن میں عزت، احترام اور نفاست شامل ہو۔",
+                "وضو، جوتا پہننا، کنگھی کرنا، مسجد میں داخل ہونا، یا کھانے پینے کے لیے دائیں ہاتھ کا استعمال کرنا اسی اصول کے تحت آتا ہے۔",
+                "نبی اکرم ﷺ کی زندگی کا یہ انداز اس بات کی دلیل ہے کہ اسلام زندگی کے چھوٹے چھوٹے معمولات میں بھی حسن اور ترتیب کو اہمیت دیتا ہے۔"
+              ],
+              "english": [
+                "This Hadith establishes a general legal principle: the preference of **Tayamum** (starting on the right) for all actions that involve honor, respect, and elegance.",
+                "This principle covers Wudu, putting on shoes, combing hair, entering the mosque, and using the right hand for eating and drinking.",
+                "This aspect of the Prophet's life proves that Islam gives importance to beauty and orderliness even in the smallest details of daily routine."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضو میں تیمن",
+              "english": "Tayamum in Wudu"
+            },
+            "content": {
+              "urdu": [
+                "وضو میں تیمن کا مطلب ہے کہ ہاتھوں اور پاؤں کو دھوتے وقت پہلے دایاں عضو دھویا جائے، اس کے بعد بایاں عضو دھویا جائے۔",
+                "وضو کے اعضاء (ہاتھ اور پاؤں) کو دائیں سے شروع کرنا **سنتِ مؤکدہ** ہے اور اس کی خلاف ورزی سے وضو باطل نہیں ہوتا، لیکن اجر میں کمی آتی ہے۔",
+                "یہ سنت اس بات کی علامت ہے کہ دایاں ہاتھ وضو میں بائیں ہاتھ سے پہلے اعزاز پاتا ہے کیونکہ یہ اچھے کاموں کے لیے استعمال ہوتا ہے۔"
+              ],
+              "english": [
+                "In Wudu, Tayamum means washing the right limb (hand or foot) first, followed by the corresponding left limb.",
+                "Starting with the right limbs in Wudu is an **emphasized Sunnah (Sunnah Mu'akkadah)**; its omission does not invalidate Wudu but reduces the reward.",
+                "This Sunnah signifies that the right limb is honored before the left because it is generally used for noble and clean tasks."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بائیں جانب کا استعمال",
+        "english": "Using the Left Side"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کم تر اور بائیں ہاتھ کے افعال",
+              "english": "Actions of Lesser Importance and the Left Hand"
+            },
+            "content": {
+              "urdu": [
+                "اس عمومی اصول کا دوسرا پہلو یہ ہے کہ جو افعال عزت یا نفاست والے نہیں ہیں، ان میں بائیں ہاتھ یا بائیں جانب کو استعمال کیا جاتا ہے۔",
+                "مثال کے طور پر، استنجاء (نجاست سے صفائی)، ناک صاف کرنا، مسجد سے باہر نکلنا، یا جوتا اتارنا بائیں جانب سے کیا جاتا ہے۔",
+                "یہ تفریق اسلام کے نظامِ زندگی میں صاف ستھرے افعال اور کمتر افعال میں ایک منظم امتیاز قائم کرتی ہے۔"
+              ],
+              "english": [
+                "The corollary to this principle is that actions that are not honorable or refined are performed using the left hand or starting with the left side.",
+                "Examples include Istinjā’ (cleaning after relieving oneself), blowing the nose, leaving the mosque, or taking off one's shoes, all performed with the left.",
+                "This differentiation establishes an organized distinction in the Islamic way of life between actions of honor and those of lesser significance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عام معاملات میں تیمن",
+              "english": "Tayamum in General Affairs"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہؓ کا یہ کہنا کہ 'وفی شأنہ کلہ' (اور اس کے ہر کام میں) سے مراد زندگی کے وہ تمام کام ہیں جن میں کوئی خاص حکم نہ دیا گیا ہو، اور وہ عزت کے لائق ہوں۔",
+                "جیسے کنگھی کرنا، لباس پہننا، اور ناخن کاٹنا، ان تمام کاموں میں نبی ﷺ دائیں جانب سے شروع کرنے کو پسند فرماتے تھے۔",
+                "اس سنت پر عمل کرنے سے مسلمان کی زندگی منظم، پرکشش اور روحانی طور پر بااجر بن جاتی ہے۔"
+              ],
+              "english": [
+                "Aisha's statement, 'and in all his affairs,' refers to all aspects of life where there is no specific ruling and the action is deemed honorable.",
+                "Examples include combing the hair, putting on clothes, and clipping nails; in all these, the Prophet (ﷺ) preferred starting with the right.",
+                "Adhering to this Sunnah makes a Muslim's life orderly, elegant, and spiritually rewarding."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی اور حدیث کی سند",
+        "english": "The Narrator and Hadith Authority"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیدہ عائشہؓ کا خصوصی مشاہدہ",
+              "english": "Aisha's Unique Observation"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رضی اللہ عنہا کا یہ بیان اس لیے خصوصی اہمیت رکھتا ہے کہ انہوں نے نبی اکرم ﷺ کی زندگی کے ذاتی اور روزمرہ کے معمولات کا گہرائی سے مشاہدہ کیا۔",
+                "یہ روایت اس بات کا ثبوت ہے کہ گھر کے اندر کے احوال اور ذاتی سنتیں بھی دین کا حصہ ہیں جنہیں امت تک پہنچایا گیا۔",
+                "آپ کا بیان اس بات کی دلیل ہے کہ سنت پر عمل کرنے میں وہ چھوٹے چھوٹے معاملات بھی شامل ہیں جنہیں عام لوگ اہمیت نہیں دیتے۔"
+              ],
+              "english": [
+                "This statement from Sayyidah Aisha (RA) carries special weight because she observed the Prophet's personal and private daily routines intimately.",
+                "Her narration proves that even domestic habits and personal Sunnahs are part of the religion and were meant to be conveyed to the Ummah.",
+                "Her account emphasizes that adherence to the Sunnah includes even those seemingly small practices that people commonly overlook."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "متفق علیہ حکم کی قطعیت",
+              "english": "Definitiveness of the Agreed Upon Ruling"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ یہ حدیث بخاری اور مسلم دونوں میں موجود ہے، لہٰذا دائیں جانب سے آغاز (تیمن) کا اصول ایک **متفق علیہ** سنت ہے۔",
+                "اس حکم کی قطعیت مسلمانوں کے لیے اس بات کو یقینی بناتی ہے کہ وہ بلا خوف و شبہ اس سنت پر عمل کر سکتے ہیں، اور یہ عمل اجر کا باعث ہے۔",
+                "تیمن کا یہ اصول فقہ کے وسیع میدان میں ایک **بنیادی قاعدہ** کے طور پر استعمال ہوتا ہے جس سے دیگر عبادات اور معاملات کے احکام مستنبط ہوتے ہیں۔"
+              ],
+              "english": [
+                "Since this Hadith is found in both Al-Bukhari and Muslim, the principle of starting with the right (Tayamum) is an **Agreed Upon** Sunnah.",
+                "The definitiveness of this ruling assures Muslims that they can practice this Sunnah without doubt, and the act is certainly rewarding.",
+                "This principle of Tayamum is widely used as a **fundamental rule** in jurisprudence, from which rulings for many other acts of worship and daily life are derived."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور نفسیاتی فائدے",
+        "english": "Moral and Psychological Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اچھائی کا شعور",
+              "english": "Consciousness of Goodness"
+            },
+            "content": {
+              "urdu": [
+                "ہر اچھے کام کا آغاز دائیں جانب سے کرنا ایک مسلمان کے اندر نیکی اور اچھائی کا **شعور** پیدا کرتا ہے۔",
+                "یہ عمل بائیں ہاتھ کو کم تر سمجھنے کے بجائے اسے صرف ان کاموں کے لیے مختص کرتا ہے جو صفائی یا نجاست سے متعلق ہوں۔",
+                "یہ انسان کی روزمرہ زندگی کو نفاست، ترتیب اور روحانیت سے بھر دیتا ہے، جس سے ذہنی سکون حاصل ہوتا ہے۔"
+              ],
+              "english": [
+                "Starting every good action with the right side instills a **consciousness** of goodness and positive intent in the Muslim believer.",
+                "This practice allocates the left hand to tasks related to cleaning or impurities, without diminishing its status entirely.",
+                "It imbues a person's daily life with elegance, order, and spirituality, which contributes to inner peace and tranquility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عمومی سنت پر عمل کا اجر",
+              "english": "Reward for Following General Sunnahs"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ کی ہر سنت پر عمل کرنا ایک مومن کے لیے باعث اجر ہے، خواہ وہ سنت کسی چھوٹے سے عمل سے متعلق ہو۔",
+                "یہ سنتیں مسلمانوں کے طرزِ زندگی کو غیرمسلموں سے ممتاز کرتی ہیں اور انہیں نبی ﷺ کے کردار کے قریب لاتی ہیں۔",
+                "اس پر عمل کرنے سے محبتِ رسول ﷺ کا اظہار ہوتا ہے اور نیکیوں کے میزان میں مسلسل اضافہ ہوتا رہتا ہے۔"
+              ],
+              "english": [
+                "Adhering to every Sunnah of the Prophet (ﷺ) is a source of reward for a believer, even when the Sunnah relates to a seemingly minor action.",
+                "These practices distinguish the Muslim lifestyle from non-Muslims and bring them closer to the noble character of the Prophet (ﷺ).",
+                "Practicing this Sunnah demonstrates love for the Prophet (ﷺ) and ensures a continuous accumulation of good deeds on the scale."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

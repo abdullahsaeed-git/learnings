@@ -1,0 +1,264 @@
+{
+  "hadithId": 1162,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/39"],
+    "kitabId": 12,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الأضحية",
+    "babId": 94
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5562)، ومسلم (1960). واللفظ لمسلم، وهو صريح في أن الذبح لا يجزئ قبل الصلاة.",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام بخاری (5562) اور امام مسلم (1960) نے روایت کیا ہے۔ یہ روایت اس بات پر واضح نص ہے کہ نماز عید سے قبل ذبح کرنا قربانی شمار نہیں ہوتا۔",
+    "english": "Sahih. Reported by Al-Bukhari (5562) and Muslim (1960). The wording is from Muslim, clearly stating that slaughtering before the Eid prayer is invalid as a sacrifice."
+  },
+  "importantWords": [
+    {
+      "arabic": "شَهِدْتُ",
+      "english": "I attended",
+      "urdu": "میں حاضر تھا"
+    },
+    {
+      "arabic": "قَضَى",
+      "english": "Finished / Completed",
+      "urdu": "مکمل کی"
+    },
+    {
+      "arabic": "غَنَمٍ",
+      "english": "Sheep",
+      "urdu": "بکری"
+    },
+    {
+      "arabic": "قَبْلَ اَلصَّلَاةِ",
+      "english": "Before the prayer",
+      "urdu": "نماز سے پہلے"
+    },
+    {
+      "arabic": "مَكَانَهَا",
+      "english": "In its place",
+      "urdu": "اس کی جگہ"
+    },
+    {
+      "arabic": "اسْمِ اَللَّهِ",
+      "english": "Name of Allah",
+      "urdu": "اللہ کا نام"
+    }
+  ],
+  "summary": {
+    "urdu": "قربانی کا وقت عید کی نماز کے بعد شروع ہوتا ہے؛ اگر کوئی پہلے ذبح کر لے تو اسے دوبارہ قربانی کرنی پڑے گی۔",
+    "english": "The time for sacrifice begins after the Eid prayer; slaughtering before the prayer renders the sacrifice invalid and it must be repeated."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5562)",
+      "english": "Sahih al-Bukhari (5562)"
+    },
+    {
+      "arabic": "صحيح مسلم (1960)",
+      "english": "Sahih Muslim (1960)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جندب بن عبد الله بن سفيان البجلي",
+        "english": "Jundub bin Abdullah bin Sufyan al-Bajali"
+      },
+      "slug": "jundub-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kY67mH2q0S8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قربانی کے وقت کا تعین",
+        "english": "Determining the Time of Sacrifice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز سے پہلے ذبح کا حکم",
+              "english": "Slaughtering Before Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ عید سے پہلے ذبح کیا گیا جانور عام گوشت شمار ہوتا ہے، قربانی نہیں۔",
+                "نبی ﷺ نے واضح فرمایا کہ ایسی صورت میں دوسری بکری ذبح کرنا لازم ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ قربانی ایک وقت کے ساتھ مشروط عبادت ہے۔"
+              ],
+              "english": [
+                "An animal slaughtered before the Eid prayer is considered ordinary meat, not a sacrifice.",
+                "The Prophet (ﷺ) clarified that in such cases, another sheep must be slaughtered.",
+                "This ruling proves that sacrifice is an act of worship bound by a specific time."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحیح وقت کی ابتدا",
+              "english": "Beginning of the Correct Time"
+            },
+            "content": {
+              "urdu": [
+                "قربانی کے وقت کا آغاز امام کے نماز سے فارغ ہونے کے بعد ہوتا ہے۔",
+                "شہری علاقوں میں جہاں عید کی نماز ہوتی ہے، وہاں نماز سے پہلے ذبح جائز نہیں۔",
+                "دیہاتی علاقوں میں جہاں عید کی نماز نہیں ہوتی، وہاں صبح صادق کے بعد ذبح کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "The time for sacrifice begins after the Imam completes the Eid prayer.",
+                "In urban areas where Eid prayer is held, slaughtering before it is not permitted.",
+                "In rural areas without Eid prayer, slaughtering can begin after dawn."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قربانی کی شرائط و آداب",
+        "english": "Conditions and Manners of Sacrifice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کے نام سے ذبح کرنا",
+              "english": "Slaughtering in Allah's Name"
+            },
+            "content": {
+              "urdu": [
+                "ذبح کرتے وقت 'بسم اللہ' پڑھنا شرط ہے جیسا کہ حدیث کے آخر میں حکم دیا گیا۔",
+                "قربانی اللہ کی رضا کے لیے ایک مالی اور بدنی عبادت ہے۔",
+                "تسمیہ کے بغیر ذبح کیا گیا جانور شرعی طور پر حلال نہیں رہتا۔"
+              ],
+              "english": [
+                "Mentioning the name of Allah is a condition, as commanded at the end of the Hadith.",
+                "Sacrifice is both a financial and physical act of worship for Allah's sake.",
+                "Animals slaughtered without Tasmiah (Bismillah) are not legally Halal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قضا اور تلافی",
+              "english": "Compensation and Redress"
+            },
+            "content": {
+              "urdu": [
+                "غلطی سے پہلے ذبح کرنے والے کو دوبارہ خرچ کر کے قربانی کرنی ہوگی۔",
+                "یہ حکم ظاہر کرتا ہے کہ عبادات میں طریقے اور ضابطے کی کتنی اہمیت ہے۔",
+                "پہلے ذبح کیے گئے جانور کا گوشت ضائع نہیں ہوتا بلکہ صدقہ یا استعمال کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "One who slaughters early by mistake must spend again to offer a valid sacrifice.",
+                "This command shows the extreme importance of procedure and rules in worship.",
+                "The meat of the animal slaughtered early is not wasted; it can be eaten or given away."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی بصیرت",
+        "english": "Juristic Insight"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت اور عمل کا تعلق",
+              "english": "Link Between Intention and Action"
+            },
+            "content": {
+              "urdu": [
+                "صرف نیت کافی نہیں بلکہ عمل کا سنت کے مطابق ہونا بھی ضروری ہے۔",
+                "قربانی کا گوشت کھانا مقصد نہیں بلکہ حکمِ الہی کی تعمیل اصل مقصود ہے۔",
+                "صحابہ کرام کو اس عملی نمونے سے وقت کی اہمیت سکھائی گئی۔"
+              ],
+              "english": [
+                "Intention alone is not enough; the action must also conform to the Sunnah.",
+                "The primary goal is not eating meat but obeying the divine command.",
+                "The Companions were taught the importance of timing through this practical example."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کی ضرورت",
+              "english": "Need for Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "عبادات میں اپنی مرضی کے بجائے رسول اللہ ﷺ کے طریقے کی پیروی واجب ہے۔",
+                "وقت سے پہلے نیکی کرنے کی کوشش بھی بعض اوقات قبولیت سے محروم کر دیتی ہے۔",
+                "دین کے معاملات میں نظم و ضبط اور اطاعت کا سبق ملتا ہے۔"
+              ],
+              "english": [
+                "In worship, following the Prophet's (ﷺ) method is mandatory over personal will.",
+                "Attempting to do good before its appointed time can lead to lack of acceptance.",
+                "It teaches a lesson of discipline and obedience in religious matters."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی و معاشرتی پہلو",
+        "english": "Educational and Social Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعمال کی درستگی",
+              "english": "Rectification of Actions"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی سے عبادت میں غلطی ہو جائے تو فوراً اس کی اصلاح کرنی چاہیے۔",
+                "نبی ﷺ نے صحابی کو ڈانٹنے کے بجائے درست طریقہ بتا کر تلافی کا حکم دیا۔",
+                "یہ اسلوبِ تعلیم امت کے لیے رہنمائی کا بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "If one makes a mistake in worship, they should rectify it immediately.",
+                "The Prophet (ﷺ) instructed compensation rather than merely scolding the Companion.",
+                "This teaching style is an excellent model of guidance for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعیت کا احترام",
+              "english": "Respect for the Community"
+            },
+            "content": {
+              "urdu": [
+                "عید کا دن مسلمانوں کی اجتماعیت اور اتحاد کا دن ہے۔",
+                "نماز سے پہلے انفرادی طور پر قربانی کرنا اس اجتماعیت کی روح کے خلاف ہے۔",
+                "قربانی کا نماز کے ساتھ جڑا ہونا مسلمانوں کے ڈسپلن کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Eid is a day of collectivity and unity for all Muslims.",
+                "Sacrificing individually before the prayer goes against the spirit of the gathering.",
+                "Linking the sacrifice to the prayer demonstrates the discipline of Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

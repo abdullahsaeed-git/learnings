@@ -1,0 +1,264 @@
+{
+  "hadithId": 539,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/33"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1927)، ومسلم (1106). والزيادة عند مسلم في صحيحه بنفس الرقم.",
+    "urdu": "صحیح۔ اسے امام بخاری (1927) اور امام مسلم (1106) نے روایت کیا ہے۔ رمضان کا اضافہ بھی صحیح مسلم کی روایت میں موجود ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1927) and Muslim (1106). The addition regarding Ramadan is also in Sahih Muslim."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُقَبِّلُ",
+      "english": "Kisses",
+      "urdu": "بوسہ لینا"
+    },
+    {
+      "arabic": "يُبَاشِرُ",
+      "english": "Embraces / Skin contact",
+      "urdu": "معانقہ کرنا / چھونا"
+    },
+    {
+      "arabic": "صَائِمٌ",
+      "english": "Fasting",
+      "urdu": "روزہ دار"
+    },
+    {
+      "arabic": "أَمْلَكُكُمْ",
+      "english": "Most in control",
+      "urdu": "سب سے زیادہ قابو رکھنے والا"
+    },
+    {
+      "arabic": "إِرْبِهِ",
+      "english": "Desire / Need",
+      "urdu": "خواہش / ضرورت"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْهِ",
+      "english": "Agreed upon",
+      "urdu": "متفق علیہ"
+    }
+  ],
+  "summary": {
+    "urdu": "روزے کی حالت میں بیوی کا بوسہ لینا یا اسے چھونا جائز ہے بشرطیکہ انسان کو اپنے جذبات پر مکمل قابو ہو اور وہ جماع کے خطرے میں نہ پڑے۔",
+    "english": "Kissing and embracing one's spouse while fasting is permissible provided the individual can maintain self-control and avoid sexual intercourse."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1927)",
+      "english": "Reported by Al-Bukhari (1927)"
+    },
+    {
+      "arabic": "رواه مسلم (1106)",
+      "english": "Reported by Muslim (1106)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_Y4Xq7q938",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شرعی حکم اور رخصت",
+        "english": "Sharia Ruling and Permission"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بوسہ و کنار کی اجازت",
+              "english": "Permission for Kissing"
+            },
+            "content": {
+              "urdu": [
+                "روزے کی حالت میں بیوی سے پیار اور بوسہ لینا جائز ہے۔",
+                "یہ حکم نفل اور فرض (رمضان) دونوں روزوں کے لیے یکساں ہے۔",
+                "اسلام فطری جذبات کی حدود کے اندر رہ کر رعایت دیتا ہے۔"
+              ],
+              "english": [
+                "It is permissible to show affection and kiss one's wife while fasting.",
+                "This rule applies to both voluntary and obligatory (Ramadan) fasts.",
+                "Islam provides concessions for natural human emotions within limits."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مباشرت سے مراد",
+              "english": "Meaning of Mubasharah"
+            },
+            "content": {
+              "urdu": [
+                "یہاں مباشرت سے مراد صرف چھونا، معانقہ یا ساتھ لیٹنا ہے۔",
+                "اس سے مراد جنسی تعلق (جماع) ہرگز نہیں ہے جو روزہ توڑ دیتا ہے۔",
+                "میاں بیوی کے درمیان جسمانی قربت کے جائز پہلو واضح کیے گئے ہیں۔"
+              ],
+              "english": [
+                "Here, 'Mubasharah' refers to skin contact, hugging, or lying together.",
+                "It absolutely does not mean sexual intercourse, which invalidates the fast.",
+                "It clarifies the permissible physical proximity between spouses."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تقویٰ اور احتیاط",
+        "english": "Piety and Precaution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفس پر قابو کی شرط",
+              "english": "Condition of Self-Control"
+            },
+            "content": {
+              "urdu": [
+                "یہ اجازت ان لوگوں کے لیے ہے جو اپنے جذبات پر قابو رکھتے ہوں۔",
+                "جسے اندیشہ ہو کہ وہ حد سے بڑھ جائے گا، اسے اجتناب کرنا چاہیے۔",
+                "نبی کریم صلی اللہ علیہ وسلم کا عمل نمونہ اور معیار ہے۔"
+              ],
+              "english": [
+                "This permission is for those who can control their physical desires.",
+                "Those who fear falling into the prohibited must avoid such acts.",
+                "The Prophet's (ﷺ) action serves as a model and a standard."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جذبات کی نگرانی",
+              "english": "Monitoring Desires"
+            },
+            "content": {
+              "urdu": [
+                "روزہ دار کو اپنی نفسانی خواہشات کی نگرانی کرنی چاہیے۔",
+                "سیدہ عائشہ نے واضح کیا کہ آپ ﷺ کا ضبط سب سے زیادہ تھا۔",
+                "روزے کا مقصد ہی نفس کو نظم و ضبط کا پابند بنانا ہے۔"
+              ],
+              "english": [
+                "A fasting person must be vigilant over their carnal desires.",
+                "Aishah (RA) highlighted that the Prophet (ﷺ) had the best self-restraint.",
+                "The purpose of fasting is to discipline the soul and desires."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور مسائل",
+        "english": "Juristic Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزہ ٹوٹنے کا معیار",
+              "english": "Criteria for Breaking Fast"
+            },
+            "content": {
+              "urdu": [
+                "محض بوسہ لینے سے روزہ نہیں ٹوٹتا جب تک انزال نہ ہو۔",
+                "اگر جذبات مغلوب ہو جائیں تو روزے کی قضا اور کفارہ لازم آ سکتا ہے۔",
+                "فقہاء کے نزدیک نوجوانوں کے لیے احتیاط بہتر قرار دی گئی ہے۔"
+              ],
+              "english": [
+                "A simple kiss does not break the fast unless ejaculation occurs.",
+                "If desires overwhelm and lead to intercourse, Qaza and Kaffarah apply.",
+                "Jurists recommend caution for the youth to safeguard their fasts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رمضان کی خصوصیت",
+              "english": "Specifics of Ramadan"
+            },
+            "content": {
+              "urdu": [
+                "رمضان کے روزے میں بھی یہ رخصت موجود ہے جیسا کہ روایت میں ہے۔",
+                "اسلامی تعلیمات میں میاں بیوی کے تعلقات میں توازن موجود ہے۔",
+                "یہ حدیث اس غلط فہمی کو دور کرتی ہے کہ چھونے سے روزہ ٹوٹ جاتا ہے۔"
+              ],
+              "english": [
+                "This concession exists even in Ramadan, as noted in the narration.",
+                "Islamic teachings maintain a balance in spousal relationships.",
+                "This Hadith removes the misconception that mere touching breaks the fast."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبوی گھرانے کی تعلیم",
+              "english": "Teachings from the Prophet's Home"
+            },
+            "content": {
+              "urdu": [
+                "امہات المومنین نے گھریلو زندگی کے اہم مسائل امت تک پہنچائے۔",
+                "دین کے ہر پہلو میں رہنمائی فراہم کرنا ان کی بڑی خدمت ہے۔",
+                "سیدہ عائشہ کی روایت علمی باریکیوں کی عکاسی کرتی ہے۔"
+              ],
+              "english": [
+                "The Mothers of the Believers conveyed private matters to the Ummah.",
+                "Providing guidance in every aspect of life is their great service.",
+                "Aishah's (RA) narration reflects profound scholarly precision."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال کی راہ",
+              "english": "The Path of Moderation"
+            },
+            "content": {
+              "urdu": [
+                "دین اسلام سختی اور حد سے زیادہ نرمی کے درمیان اعتدال ہے۔",
+                "روزہ صرف بھوکا رہنے کا نام نہیں بلکہ نفس کو قابو کرنے کا نام ہے۔",
+                "شریعت کے حدود میں رہتے ہوئے جائز محبت کا اظہار درست ہے۔"
+              ],
+              "english": [
+                "Islam is a path of moderation between hardship and laxity.",
+                "Fasting is not just staying hungry but controlling the soul.",
+                "Expressing lawful love within Sharia limits is perfectly correct."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 830,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/7"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (3/334)، وأبو داود (2082)، والحاكم (2/165). وله شاهد من حديث المغيرة بن شعبة عند الترمذي (1087) والنسائي (3235)، ومن حديث محمد بن مسلمة عند ابن ماجه (1864) وابن حبان (4042).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد اور ابو داؤد نے روایت کیا ہے۔ اس کی تائید مغیرہ بن شعبہ کی روایت سے ہوتی ہے جو ترمذی اور نسائی میں ہے، اور محمد بن مسلمہ کی روایت سے جو ابن ماجہ اور ابن حبان میں ہے۔",
+    "english": "Sahih. Reported by Ahmad (3/334), Abu Dawud (2082), and Al-Hakim (2/165). It has supporting narrations (Shawahid) from Al-Mughira in At-Tirmidhi and An-Nasa'i, and from Muhammad bin Maslamah in Ibn Majah and Ibn Hibban."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَطَبَ",
+      "english": "Proposed marriage",
+      "urdu": "پیغام نکاح دیا"
+    },
+    {
+      "arabic": "اِسْتَطَاعَ",
+      "english": "Was able to",
+      "urdu": "استطاعت رکھی / ممکن ہوا"
+    },
+    {
+      "arabic": "يَنْظُرَ",
+      "english": "To look",
+      "urdu": "دیکھے"
+    },
+    {
+      "arabic": "يَدْعُوهُ",
+      "english": "Invites him / Induces him",
+      "urdu": "اسے مائل کرے / اسے بلائے"
+    },
+    {
+      "arabic": "ثِقَاتٌ",
+      "english": "Trustworthy narrators",
+      "urdu": "قابلِ بھروسہ راوی"
+    }
+  ],
+  "summary": {
+    "urdu": "نکاح کا ارادہ کرنے والے مرد کے لیے شرعی حدود میں رہتے ہوئے لڑکی کو دیکھنا جائز بلکہ مستحسن ہے تاکہ بعد میں پشیمانی نہ ہو اور رشتہ مضبوط ہو۔",
+    "english": "It is permissible and recommended for a man intending marriage to look at the woman he proposes to, ensuring compatibility and future marital harmony."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب النكاح، رقم الحديث ٢٠٨٢",
+      "english": "Sunan Abi Dawud, Book of Marriage, Hadith No. 2082"
+    },
+    {
+      "arabic": "مسند أحمد، رقم الحديث ١٤٢٤٧",
+      "english": "Musnad Ahmad, Hadith No. 14247"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S4-Yy1nQY8k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نکاح سے پہلے دیکھنے کی شرعی حیثیت",
+        "english": "Shari'ah Status of Looking Before Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیکھنے کا حکم اور مقصد",
+              "english": "Command and Purpose of Looking"
+            },
+            "content": {
+              "urdu": [
+                "پیغامِ نکاح بھیجنے کے بعد لڑکی کو دیکھنا جائز ہے تاکہ رغبت پیدا ہو۔",
+                "اس کا مقصد یہ ہے کہ نکاح کے بعد میاں بیوی کے درمیان الفت پیدا ہو۔",
+                "نبی ﷺ نے اسے 'زیادہ مناسب' قرار دیا ہے تاکہ باہمی موافقت پیدا ہو۔"
+              ],
+              "english": [
+                "Looking at the woman after proposing is permissible to develop an inclination.",
+                "The purpose is to foster affection and love between spouses after marriage.",
+                "The Prophet (ﷺ) described it as 'more appropriate' for establishing mutual compatibility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیکھنے کی شرعی حدود",
+              "english": "Shari'ah Limits for Looking"
+            },
+            "content": {
+              "urdu": [
+                "صرف چہرہ اور ہاتھ دیکھنا جائز ہے کیونکہ یہ خوبصورتی اور صحت کی علامت ہیں۔",
+                "یہ دیکھنا صرف اس صورت میں جائز ہے جب نکاح کا ارادہ پکا ہو۔",
+                "بغیر ارادے کے یا محض تفریح کے لیے دیکھنا شرعاً ممنوع اور گناہ ہے۔"
+              ],
+              "english": [
+                "Only looking at the face and hands is generally permitted as they indicate beauty and health.",
+                "This is only allowed when there is a serious and firm intention to marry.",
+                "Looking without intention or for mere amusement is forbidden and sinful in Shari'ah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پائیدار رشتے کی بنیاد",
+        "english": "Foundation of a Lasting Relationship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی اطمینان کی اہمیت",
+              "english": "Importance of Mutual Satisfaction"
+            },
+            "content": {
+              "urdu": [
+                "شادی ایک طویل سفر ہے جس میں باہمی کشش اور اطمینان بنیادی اہمیت رکھتے ہیں۔",
+                "دیکھ لینے سے دل کے وسوسے دور ہوتے ہیں اور فیصلے میں آسانی ہوتی ہے۔",
+                "اسلام نے انسانی فطرت کے پیشِ نظر اس عمل کی اجازت دی ہے۔"
+              ],
+              "english": [
+                "Marriage is a long journey where mutual attraction and satisfaction are fundamental.",
+                "Looking helps remove doubts and makes the decision-making process easier.",
+                "Islam permits this act in consideration of human nature and psychological needs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پشیمانی سے بچاؤ",
+              "english": "Prevention of Regret"
+            },
+            "content": {
+              "urdu": [
+                "بغیر دیکھے شادی کرنے سے اکثر بعد میں ناپسندیدگی اور طلاق کی نوبت آتی ہے۔",
+                "اس سنت پر عمل کرنے سے مستقبل کی تلخیوں کا سدِ باب ہوتا ہے۔",
+                "یہ عمل نکاح کے بندھن کو مضبوط اور پائیدار بنانے میں مددگار ہے۔"
+              ],
+              "english": [
+                "Marrying without looking often leads to later dislike or even divorce.",
+                "Following this Sunnah helps prevent future bitterness and marital discord.",
+                "This practice helps in making the bond of marriage strong and enduring."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحابہ کرام کا عمل",
+        "english": "Practice of the Companions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیدنا جابر رضی اللہ عنہ کا واقعہ",
+              "english": "Incident of Jabir bin Abdullah (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا جابر نے اس حدیث پر عمل کرتے ہوئے چھپ کر اپنی منگیتر کو دیکھا تھا۔",
+                "صحابہ کرام اس معاملے میں نبی ﷺ کے حکم کو اولیت دیتے تھے۔",
+                "ان کا عمل ظاہر کرتا ہے کہ یہ رخصت صرف کتابی نہیں بلکہ عملی بھی ہے۔"
+              ],
+              "english": [
+                "Jabir (RA) acted upon this Hadith by observing his fiancée from a concealed place.",
+                "The Companions prioritized the Prophet's (ﷺ) instructions in these matters.",
+                "Their practice shows that this concession is practical and not just theoretical."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حیا اور شریعت کا توازن",
+              "english": "Balance Between Modesty and Shari'ah"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ نے حیا کے باوجود ضرورت کے وقت شرعی رخصت سے فائدہ اٹھایا۔",
+                "اسلام حیا کا درس دیتا ہے لیکن ضروری معاملات میں سہولت بھی فراہم کرتا ہے۔",
+                "یہ توازن ہی دینِ اسلام کی خوبصورتی اور کمال کی دلیل ہے۔"
+              ],
+              "english": [
+                "Despite their modesty, the Companions utilized Shari'ah concessions when necessary.",
+                "Islam teaches modesty but also provides ease in essential life matters.",
+                "This balance is a testament to the beauty and perfection of the religion of Islam."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اصلاح اور حکمت",
+        "english": "Social Reform and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانوں کا استحکام",
+              "english": "Stability of Families"
+            },
+            "content": {
+              "urdu": [
+                "جب میاں بیوی ایک دوسرے کو پسند کرتے ہوں تو خاندانی نظام مستحکم ہوتا ہے۔",
+                "یہ عمل معاشرے میں طلاق کی شرح کو کم کرنے میں معاون ثابت ہو سکتا ہے۔",
+                "نکاح کے معاملے میں شفافیت میاں بیوی کے اعتماد میں اضافہ کرتی ہے۔"
+              ],
+              "english": [
+                "When spouses like each other, the entire family system remains stable.",
+                "This practice can assist in reducing the divorce rate within society.",
+                "Transparency in marriage matters increases trust between the husband and wife."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "والدین کی ذمہ داری",
+              "english": "Responsibility of Parents"
+            },
+            "content": {
+              "urdu": [
+                "والدین کو چاہیے کہ وہ بچوں کے نکاح میں شرعی رخصت کا لحاظ رکھیں۔",
+                "سختی یا غیر ضروری پردہ داری سے بچنا چاہیے جو سنت کے خلاف ہو۔",
+                "بچوں کی رائے اور پسند کو شرعی حدود میں اہمیت دینا والدین کا فرض ہے۔"
+              ],
+              "english": [
+                "Parents should respect Shari'ah concessions regarding their children's marriage.",
+                "Harshness or unnecessary concealment that contradicts the Sunnah should be avoided.",
+                "Valuing children's opinions within Shari'ah limits is a duty of the parents."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

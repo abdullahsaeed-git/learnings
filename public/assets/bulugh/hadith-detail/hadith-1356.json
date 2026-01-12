@@ -1,0 +1,178 @@
+{
+  "hadithId": 1356,
+  "hadithNo": 25,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/124"],
+    "kitabId": 16,
+    "inKitabBab": 6,
+    "arabicBook": "الجامع - باب الذكر والدعاء",
+    "babId": 107
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح لغيره. رواه النسائي في السنن الكبرى (7818)، والحاكم (1/510). وحديث أبي هريرة رواه الترمذي (3599) وابن ماجه (3833)، وحسنه الألباني في صحيح الجامع (1277).",
+    "urdu": "یہ حدیث حسن درجے کی ہے۔ اسے امام نسائی، حاکم، ترمذی اور ابن ماجہ نے مختلف اسناد سے روایت کیا ہے۔ علامہ البانی نے اسے 'صحیح الجامع' میں صحیح قرار دیا ہے۔",
+    "english": "Sahih lighairihi. Reported by An-Nasa'i in al-Kubra (7818), Al-Hakim (1/510). The version by Abu Hurairah is in At-Tirmidhi (3599) and Ibn Majah (3833). Al-Albani graded it Hasan/Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "انْفَعْنِي",
+      "english": "Benefit me",
+      "urdu": "مجھے نفع دے"
+    },
+    {
+      "arabic": "يَنْفَعُنِي",
+      "english": "Profits/Benefits me",
+      "urdu": "مجھے فائدہ دے"
+    },
+    {
+      "arabic": "زِدْنِي عِلْمًا",
+      "english": "Increase me in knowledge",
+      "urdu": "میرے علم میں اضافہ فرما"
+    },
+    {
+      "arabic": "أَهْلِ اَلنَّارِ",
+      "english": "People of the Fire",
+      "urdu": "جہنمی لوگ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نافع علم کی طلب، علم پر عمل کی توفیق اور ہر حال میں اللہ کے شکر کی ترغیب دی گئی ہے، تاکہ انسان دنیا و آخرت کی رسوائی سے بچ سکے۔",
+    "english": "This Hadith emphasizes seeking beneficial knowledge, the ability to act upon it, and remaining grateful to Allah in all states to avoid the Fire of Hell."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي، كتاب الدعوات، رقم 3599",
+      "english": "Sunan at-Tirmidhi, Book of Supplications, No. 3599"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نافع علم کی حقیقت",
+        "english": "The Reality of Beneficial Knowledge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علم سے نفع حاصل کرنا",
+              "english": "Benefiting from Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "محض معلومات جمع کرنا علم نہیں، بلکہ وہ علم نافع ہے جو انسان کے عمل اور کردار میں تبدیلی لائے۔",
+                "نبی ﷺ کی یہ دعا سکھاتی ہے کہ علم حاصل کرنے کے بعد اس پر عمل کی توفیق مانگنا انتہائی ضروری ہے۔",
+                "وہ علم جو اللہ سے دور کر دے یا تکبر پیدا کرے، وہ وبال ہے، نافع علم نہیں۔"
+              ],
+              "english": [
+                "Collecting information is not true knowledge; beneficial knowledge is that which transforms one's actions and character.",
+                "The Prophet's (ﷺ) prayer teaches that seeking the ability to act upon knowledge is essential.",
+                "Knowledge that distances one from Allah or breeds pride is a burden, not a benefit."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علم میں اضافے کی دعا",
+        "english": "Prayer for Increase in Knowledge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرآنی حکم کی پیروی",
+              "english": "Following the Quranic Command"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے قرآن میں نبی ﷺ کو صرف علم میں اضافے کی دعا سکھائی: 'رَبِّ زِدْنِي عِلْمًا'۔",
+                "علم ایک ایسا سمندر ہے جس کی کوئی انتہا نہیں، اس لیے مومن کو کبھی بھی علم سے سیر نہیں ہونا چاہیے۔",
+                "علم میں اضافے کا مطلب فہم و ادراک اور بصیرت میں اضافہ بھی ہے۔"
+              ],
+              "english": [
+                "Allah only commanded the Prophet (ﷺ) to pray for an increase in one thing: 'My Lord, increase me in knowledge.'",
+                "Knowledge is an endless ocean; a believer should never feel satisfied with what they know.",
+                "Increase in knowledge also implies an increase in understanding and spiritual insight."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ہر حال میں شکر اور پناہ",
+        "english": "Gratitude in All States and Seeking Refuge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رضائے الہی پر اطمینان",
+              "english": "Satisfaction with Allah's Will"
+            },
+            "content": {
+              "urdu": [
+                "'الحمدللہ علی کل حال' کا مطلب ہے کہ مومن خوشی ہو یا غمی، ہر حال میں اپنے رب کا شکر گزار رہتا ہے۔",
+                "علم کی نعمت کا شکر یہ ہے کہ اسے دوسروں تک پہنچایا جائے اور اس کے مطابق زندگی گزاری جائے۔",
+                "آخر میں جہنم سے پناہ مانگنا اس بات کی یاد دہانی ہے کہ علم کا اصل مقصد نجاتِ آخرت ہے۔"
+              ],
+              "english": [
+                "'Praise be to Allah in all circumstances' signifies that a believer remains grateful in both joy and sorrow.",
+                "Gratitude for the blessing of knowledge means sharing it and living according to it.",
+                "Seeking refuge from Hellfire at the end reminds us that the ultimate goal of knowledge is salvation in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیکھنے کا جذبہ",
+              "english": "The Passion for Learning"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں ہر روز کچھ نیا اور مفید سیکھنے کی کوشش کرنی چاہیے جو ہمیں اللہ کے قریب کرے۔",
+                "دعا اور کوشش دونوں لازم و ملزوم ہیں؛ دعا کے ساتھ مطالعہ اور صحبتِ صالحین بھی ضروری ہے۔",
+                "اپنے علم کو دنیاوی مفاد کے بجائے رضائے الہی کے لیے وقف کرنا چاہیے۔"
+              ],
+              "english": [
+                "We should strive to learn something new and useful every day that brings us closer to Allah.",
+                "Supplication and effort go hand in hand; along with Dua, studying and keeping good company are vital.",
+                "Knowledge should be dedicated to Allah's pleasure rather than mere worldly gain."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

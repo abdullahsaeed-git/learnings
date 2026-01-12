@@ -1,0 +1,264 @@
+{
+  "hadithId": 1001,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/9"],
+    "kitabId": 9,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 79
+  },
+  
+  "takhreej": {
+    "arabic": " حسن.‏ رواه أحمد (2/217)‏، والدارقطني (3 /88)‏. وله شواهد تقويه منها حديث جابر عند الدارقطني وصححه الألباني في إرواء الغليل (2230).",
+    "urdu": "یہ حدیث حسن ہے۔ اسے احمد اور دارقطنی نے روایت کیا ہے۔ اگرچہ اسے مرسل کہا گیا ہے مگر اس کے کئی شواہد ہیں جن سے یہ تقویت پاتی ہے، خاص طور پر ارواء الغلیل میں علامہ البانی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Hasan. Reported by Ahmad (2/217) and Ad-Daraqutni (3/88). Although it was criticized for being Mursal, it has supporting evidences that strengthen it, and Al-Albani graded it Sahih in Irwa' al-Ghalil (2230)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَقِدْنِي",
+      "english": "Grant me retaliation",
+      "urdu": "مجھے قصاص دلائیے"
+    },
+    {
+      "arabic": "تَبْرَأَ",
+      "english": "Be healed",
+      "urdu": "مندمل ہو جائے / ٹھیک ہو جائے"
+    },
+    {
+      "arabic": "عَرِجْتُ",
+      "english": "I became lame",
+      "urdu": "میں لنگڑا ہو گیا"
+    },
+    {
+      "arabic": "بَطَلَ",
+      "english": "Void / Cancelled",
+      "urdu": "باطل / ختم ہو گیا"
+    },
+    {
+      "arabic": "قَرْنٍ",
+      "english": "Horn",
+      "urdu": "سینگ"
+    },
+    {
+      "arabic": "يُقْتَصَّ",
+      "english": "Retaliation be taken",
+      "urdu": "قصاص لیا جائے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے یہ اصول ثابت ہوتا ہے کہ زخموں کا قصاص اس وقت تک نہیں لینا چاہیے جب تک زخم پوری طرح ٹھیک نہ ہو جائے، تاکہ یہ معلوم ہو سکے کہ زخم کا حتمی نتیجہ کیا نکلتا ہے۔",
+    "english": "This Hadith establishes the principle that retaliation for wounds should not be executed until the injury is fully healed, to determine the final extent of the damage."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (6698)",
+      "english": "Reported by Ahmad (6698)"
+    },
+    {
+      "arabic": "رواه الدارقطني (3/88)",
+      "english": "Reported by Ad-Daraqutni (3/88)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعيب",
+        "english": "Amr bin Shu'aib"
+      },
+      "slug": "amr-bin-shuaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6o9l6Kts",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "زخموں کے قصاص کا وقت",
+        "english": "Timing of Retaliation for Wounds"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شفایابی تک انتظار کی حکمت",
+              "english": "Wisdom in Waiting for Healing"
+            },
+            "content": {
+              "urdu": [
+                "قصاص لینے سے پہلے زخم کے مکمل ٹھیک ہونے کا انتظار کرنا واجب ہے۔",
+                "زخم بڑھ کر معذوری یا موت کی صورت بھی اختیار کر سکتا ہے۔",
+                "صحت یابی سے پہلے قصاص لینے میں ناانصافی کا خدشہ رہتا ہے۔"
+              ],
+              "english": [
+                "Waiting for a wound to heal before retaliation is mandatory.",
+                "An injury may worsen, leading to permanent disability or death.",
+                "Retaliating before full recovery risks unintentional injustice or error."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جلد بازی کا نقصان",
+              "english": "Consequences of Haste"
+            },
+            "content": {
+              "urdu": [
+                "زخمی شخص نے جلد بازی کی اور زخم ٹھیک ہونے سے پہلے قصاص لیا۔",
+                "بعد میں لنگڑا ہونے پر اسے مزید کوئی معاوضہ یا قصاص نہیں ملا۔",
+                "نبوی فیصلے کے مطابق جلد بازی نے اس کا اضافی حق ضائع کر دیا۔"
+              ],
+              "english": [
+                "The injured person rushed and took revenge before the wound healed.",
+                "When he later became lame, he was denied further compensation.",
+                "According to the Prophetic ruling, haste caused him to lose his extra right."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اطاعتِ رسول ﷺ کی اہمیت",
+        "english": "Importance of Obedience to the Prophet (ﷺ)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکمِ نبوی کی خلاف ورزی",
+              "english": "Violating Prophetic Instructions"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے اسے واضح طور پر انتظار کا حکم دیا تھا۔",
+                "اس کی معذوری اس کی اپنی نافرمانی اور جلد بازی کا نتیجہ بنی۔",
+                "رسول اللہ ﷺ کی بات ماننے میں ہی دنیا و آخرت کی خیر ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) explicitly commanded him to wait for healing.",
+                "His disability resulted from his own disobedience and impatience.",
+                "Obedience to the Prophet (ﷺ) ensures goodness in both worlds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق کا ساقط ہونا",
+              "english": "Forfeiture of Rights"
+            },
+            "content": {
+              "urdu": [
+                "نافرمانی کی وجہ سے اس کا مزید مطالبہ شرعی طور پر باطل قرار پایا۔",
+                "یہ اس بات کی دلیل ہے کہ قانون کے خلاف عمل نقصان دہ ہے۔",
+                "اسلامی نظامِ عدل میں طریقہ کار کی پیروی کرنا لازمی ہے۔"
+              ],
+              "english": [
+                "Due to disobedience, his further claim was legally declared void.",
+                "This proves that acting against the law leads to personal loss.",
+                "Following legal procedures is mandatory in the Islamic justice system."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قصاص کے شرعی اصول",
+        "english": "Shariah Principles of Retaliation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برابری کا تحفظ",
+              "english": "Ensuring Exact Equality"
+            },
+            "content": {
+              "urdu": [
+                "قصاص کا مقصد برابری کی بنیاد پر بدلہ لینا ہوتا ہے۔",
+                "ٹھیک ہونے سے پہلے یہ طے نہیں ہو سکتا کہ بدلہ برابر ہے یا نہیں۔",
+                "اسلامی قانون ظلم کو روکنے اور عدل قائم کرنے کے لیے ہے۔"
+              ],
+              "english": [
+                "The purpose of retaliation is revenge based on exact equality.",
+                "Before healing, it is impossible to determine if the revenge is equal.",
+                "Islamic law exists to prevent oppression and establish true justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق العباد میں توازن",
+              "english": "Balance in Human Rights"
+            },
+            "content": {
+              "urdu": [
+                "شریعت ظالم کو سزا اور مظلوم کو اس کا پورا حق دیتی ہے۔",
+                "اگر قصاص کے بعد زخم بگڑ جائے تو مظلوم کا حق ضائع ہو سکتا ہے۔",
+                "زخم کے حتمی انجام تک پہنچنے سے انصاف کے تقاضے پورے ہوتے ہیں۔"
+              ],
+              "english": [
+                "Shariah punishes the oppressor and gives the victim their full right.",
+                "If a wound worsens after Qisas, the victim's right might be lost.",
+                "Waiting for the final outcome of a wound fulfills the requirements of justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی و تربیتی سبق",
+        "english": "Practical and Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صبر اور حکمت",
+              "english": "Patience and Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "جذبات میں آکر لیے گئے فیصلے اکثر پشیمانی کا باعث بنتے ہیں۔",
+                "عدل و انصاف کے معاملات میں ٹھنڈے دماغ سے کام لینا چاہیے۔",
+                "بڑوں اور اہل علم کی نصیحت پر عمل کرنا ہمیشہ فائدہ مند ہے۔"
+              ],
+              "english": [
+                "Decisions made in the heat of emotion often lead to regret.",
+                "Matters of justice and retaliation require a calm and patient mind.",
+                "Following the advice of elders and scholars is always beneficial."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانونی آگاہی",
+              "english": "Legal Awareness"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو قصاص اور دیت کے بنیادی قوانین معلوم ہونے چاہئیں۔",
+                "قانون ہاتھ میں لینے کے بجائے حکام اور عدالت سے رجوع کریں۔",
+                "شرعی حدود کی پابندی ہی معاشرے میں امن کی ضمانت ہے۔"
+              ],
+              "english": [
+                "Every Muslim should know the basic laws of Qisas and Diyyah.",
+                "One should approach authorities instead of taking law into own hands.",
+                "Observing Shariah boundaries is the guarantee of peace in society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

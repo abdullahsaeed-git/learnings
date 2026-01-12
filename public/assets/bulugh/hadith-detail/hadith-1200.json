@@ -1,0 +1,259 @@
+{
+  "hadithId": 1200,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/14/13"],
+    "kitabId": 14,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب القضاء",
+    "babId": 97
+  },
+  
+  "takhreej": {
+    "arabic": " ضعيف. رواه أبو داود (3588)، والحاكم (4/94). وفي سنده مصعب بن ثابت، وهو لين الحديث كما قال الحافظ في التقريب، ولكن المعنى صحيح ومستقر في قواعد القضاء.",
+    "urdu": "ضعیف۔ اسے ابو داؤد (3588) اور حاکم (4/94) نے روایت کیا ہے۔ اس کی سند میں مصعب بن ثابت ہیں جو ضعیف ہیں، تاہم عدالتی آداب کے لحاظ سے اس کا مفہوم درست ہے۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (3588) and Al-Hakim (4/94). Its chain contains Mus'ab bin Thabit, who is considered weak in memory, though the judicial principle is widely accepted."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَضَى",
+      "english": "Decreed / Decided",
+      "urdu": "فیصلہ کیا / حکم دیا"
+    },
+    {
+      "arabic": "اَلْخَصْمَيْنِ",
+      "english": "The two litigants / disputants",
+      "urdu": "دو فریق / جھگڑا کرنے والے"
+    },
+    {
+      "arabic": "يَقْعُدَانِ",
+      "english": "They both sit",
+      "urdu": "وہ دونوں بیٹھیں"
+    },
+    {
+      "arabic": "بَيْنَ يَدَيِ",
+      "english": "In front of / Before",
+      "urdu": "کے سامنے / روبرو"
+    },
+    {
+      "arabic": "اَلْحَاكِمِ",
+      "english": "The Judge / Governor",
+      "urdu": "حاکم یا قاضی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث عدالتی کارروائی کے ایک اہم ادب کو بیان کرتی ہے کہ مدعی اور مدعا علیہ دونوں کو قاضی کے سامنے برابر بیٹھ کر اپنا مقدمہ پیش کرنا چاہیے تاکہ عدل واضح ہو۔",
+    "english": "This Hadith highlights a fundamental judicial etiquette: both the plaintiff and the defendant must sit before the judge together to ensure a transparent and fair hearing."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الأقضية، باب كيف يستقبل الحاكم الخصوم، رقم 3588",
+      "english": "Sunan Abi Dawud, Book of Judicial Decisions, No. 3588"
+    },
+    {
+      "arabic": "المستدرك على الصحيحين للحاكم، كتاب الأحكام، رقم 7054",
+      "english": "Al-Mustadrak al-Hakim, Book of Judgments, No. 7054"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن الزبير",
+        "english": "Abdullah bin al-Zubair"
+      },
+      "slug": "abdullah-bin-al-zubair"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عدالتی آداب اور برابری",
+        "english": "Judicial Etiquette and Equality"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فریقین کا روبرو ہونا",
+              "english": "Litigants Facing the Judge"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی نظام عدل میں دونوں فریقین کا قاضی کے سامنے موجود ہونا ضروری ہے۔",
+                "آمنے سامنے بیٹھنے سے حقائق کے واضح ہونے اور جرح کرنے میں آسانی ہوتی ہے۔",
+                "یہ طریقہ کار فیصلے کی شفافیت کو یقینی بنانے کے لیے بہترین ضابطہ ہے۔"
+              ],
+              "english": [
+                "In the Islamic judicial system, it is essential for both parties to be present before the judge.",
+                "Sitting face-to-face makes it easier to clarify facts and conduct cross-examinations.",
+                "This procedure is the best regulation to ensure the transparency of the verdict."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مساوات کی اہمیت",
+              "english": "Importance of Equality"
+            },
+            "content": {
+              "urdu": [
+                "قاضی پر لازم ہے کہ وہ دونوں فریقوں کو بیٹھنے میں برابری کی جگہ دے۔",
+                "کسی ایک کو بلند مقام پر بٹھانا اور دوسرے کو نیچے بٹھانا عدل کے خلاف ہے۔",
+                "ظاہری مساوات سے ہی فریقین کے دل میں انصاف کا اطمینان پیدا ہوتا ہے۔"
+              ],
+              "english": [
+                "The judge is obligated to provide equal seating for both parties in the court.",
+                "Seating one at a high position and the other lower is contrary to the spirit of justice.",
+                "Apparent equality creates a sense of confidence in justice in the hearts of the litigants."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قاضی کی ذمہ داریاں",
+        "english": "Responsibilities of the Judge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جانبداری سے بچاؤ",
+              "english": "Avoiding Partiality"
+            },
+            "content": {
+              "urdu": [
+                "قاضی کو اپنی گفتگو اور توجہ میں بھی دونوں کے ساتھ برابری کرنی چاہیے۔",
+                "صرف ایک فریق کی بات سن کر ذہن بنا لینا عدل کے تقاضوں کے منافی ہے۔",
+                "دونوں کو برابر موقع فراہم کرنا تاکہ وہ اپنا دفاع اور موقف پیش کر سکیں۔"
+              ],
+              "english": [
+                "The judge must maintain equality between both in his speech and attention.",
+                "Forming an opinion by listening to only one party is against the requirements of justice.",
+                "Providing an equal opportunity to both is necessary so they can present their defense and stance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدالتی رعب اور وقار",
+              "english": "Judicial Awe and Dignity"
+            },
+            "content": {
+              "urdu": [
+                "فریقین کا قاضی کے سامنے بیٹھنا عدالت کے وقار کو ظاہر کرتا ہے۔",
+                "اس نظم و ضبط سے فریقین بے ہودہ گفتگو اور جھگڑے سے پرہیز کرتے ہیں۔",
+                "عدالتی ماحول جتنا پروقار ہوگا، فیصلہ اتنا ہی بااثر اور معتبر ہوگا۔"
+              ],
+              "english": [
+                "Litigants sitting before the judge demonstrates the dignity of the court.",
+                "This discipline prevents the parties from engaging in irrelevant talk or quarreling.",
+                "The more dignified the court environment, the more effective and credible the verdict."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیٹھنے کی کیفیت",
+              "english": "The Manner of Sitting"
+            },
+            "content": {
+              "urdu": [
+                "علماء کے نزدیک 'قعد' (بیٹھنا) سے مراد باقاعدہ حاضری اور توجہ ہے۔",
+                "اگر ایک فریق کھڑا رہے اور دوسرا بیٹھے، تو یہ برابری کے اصول کی خلاف ورزی ہے۔",
+                "قاضی کو چاہیے کہ وہ اس نظم و ضبط کو ہر صورت برقرار رکھے۔"
+              ],
+              "english": [
+                "According to scholars, 'sitting' implies formal presence and attentiveness.",
+                "If one party remains standing while the other sits, it violates the principle of equality.",
+                "The judge must maintain this discipline under all circumstances."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غائبانہ فیصلے سے احتراز",
+              "english": "Avoiding Ex-parte Decisions"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی دلیل ہے کہ اصل فیصلہ فریقین کی موجودگی میں ہونا چاہیے۔",
+                "غائبانہ فیصلے میں ظلم کا اندیشہ زیادہ ہوتا ہے اس لیے اسے ناپسند کیا گیا ہے۔",
+                "جب تک مجبوری نہ ہو، دونوں کا عدالت میں آنا شرعی تقاضا ہے۔"
+              ],
+              "english": [
+                "This Hadith serves as evidence that the primary verdict should be in the presence of both parties.",
+                "Ex-parte decisions carry a higher risk of injustice and are therefore discouraged.",
+                "Unless there is an absolute necessity, the presence of both in court is a Sharia requirement."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی اثرات",
+        "english": "Social Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعتماد کی بحالی",
+              "english": "Restoration of Trust"
+            },
+            "content": {
+              "urdu": [
+                "جب عوام دیکھتے ہیں کہ عدالت میں سب برابر ہیں، تو ان کا عدلیہ پر اعتماد بڑھتا ہے۔",
+                "حتیٰ کہ خلیفہ وقت بھی اگر مدعی ہو تو اسے عام شہری کے برابر بیٹھنا پڑتا ہے۔",
+                "یہی وہ نظام ہے جس نے اسلام کو پوری دنیا میں عدل کا علمبردار بنایا۔"
+              ],
+              "english": [
+                "When people see that everyone is equal in court, their trust in the judiciary increases.",
+                "Even the Caliph of the time, if he is a plaintiff, must sit equal to an ordinary citizen.",
+                "This is the very system that made Islam the champion of justice worldwide."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انصاف کی فراہمی",
+              "english": "Provision of Justice"
+            },
+            "content": {
+              "urdu": [
+                "برابر بیٹھ کر بات کرنے سے سچائی کے سامنے آنے کے امکانات بڑھ جاتے ہیں۔",
+                "کمزور فریق کو یہ حوصلہ ملتا ہے کہ وہ بڑے کے سامنے اپنا حق مانگ سکے۔",
+                "اسلامی عدلیہ کا یہ خاصہ ہے کہ یہاں کسی کی سماجی حیثیت انصاف پر اثر انداز نہیں ہوتی۔"
+              ],
+              "english": [
+                "Discussing the case while sitting equally increases the chances of the truth emerging.",
+                "It gives the weaker party the courage to demand their rights from the powerful.",
+                "It is a hallmark of Islamic judiciary that social status does not influence justice here."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

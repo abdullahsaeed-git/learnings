@@ -1,0 +1,264 @@
+{
+  "hadithId": 807,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/807"],
+    "kitabId": 7,
+    "inKitabBab": 20,
+    "arabicBook": "بلوغ المرام",
+    "babId": 61
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (6736). وأصله أن أبا موسى الأشعري أخطأ في الفتوى فأصلحها ابن مسعود بسنة النبي ﷺ.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری نے روایت کیا ہے۔ اس کا پس منظر یہ ہے کہ ابوموسیٰ اشعریؓ نے پہلے الگ فتویٰ دیا تھا، پھر ابن مسعودؓ نے نبی ﷺ کے فیصلے سے ان کی اصلاح فرمائی۔",
+    "english": "Sahih. Reported by Al-Bukhari (6736). The context is that Abu Musa Al-Ash'ari initially gave a different ruling, which Ibn Mas'ud corrected using the Prophet's (ﷺ) sunnah."
+  },
+  "importantWords": [
+    {
+      "arabic": "بِنْتِ اِبْنٍ",
+      "english": "Son's daughter (Granddaughter)",
+      "urdu": "پوتی"
+    },
+    {
+      "arabic": "النِّصْفَ",
+      "english": "One half (1/2)",
+      "urdu": "آدھا حصہ"
+    },
+    {
+      "arabic": "السُّدُسَ",
+      "english": "One sixth (1/6)",
+      "urdu": "چھٹا حصہ"
+    },
+    {
+      "arabic": "تَكْمِلَةَ",
+      "english": "Completion / To make up",
+      "urdu": "پورا کرنا / تکمیل"
+    },
+    {
+      "arabic": "الثُّلُثَيْنِ",
+      "english": "Two-thirds (2/3)",
+      "urdu": "دو تہائی"
+    },
+    {
+      "arabic": "مَا بَقِيَ",
+      "english": "What remains (Remainder)",
+      "urdu": "جو باقی بچ جائے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیٹی، پوتی اور بہن کے درمیان وراثت کی تقسیم کا شرعی تناسب واضح کرتی ہے کہ بیٹی کو نصف، پوتی کو چھٹا حصہ اور بچا ہوا مال بہن کو بطور عصبہ ملے گا۔",
+    "english": "This Hadith clarifies the legal proportions of inheritance between a daughter, granddaughter, and sister: 1/2 for the daughter, 1/6 for the granddaughter, and the remainder for the sister as an agnate."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6736)",
+      "english": "Sahih al-Bukhari (6736)"
+    },
+    {
+      "arabic": "سنن أبي داود (2890)",
+      "english": "Sunan Abu Dawud (2890)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah bin Mas'ud"
+      },
+      "slug": "abdullah-bin-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیٹی اور پوتی کے حصے کی تقسیم",
+        "english": "Distribution for Daughter and Granddaughter"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیٹی کا مقررہ حصہ",
+              "english": "The Fixed Share of the Daughter"
+            },
+            "content": {
+              "urdu": [
+                "اگر میت کی صرف ایک ہی بیٹی ہو تو قرآن کے مطابق اسے نصف (1/2) مال ملتا ہے۔",
+                "یہ حصہ بیٹی کا بنیادی حق ہے جو اللہ تعالیٰ نے خود مقرر فرمایا ہے۔",
+                "اس صورت میں بیٹی 'اصحاب الفروض' میں شمار ہوتی ہے۔"
+              ],
+              "english": [
+                "If the deceased has only one daughter, she receives half (1/2) of the estate according to the Quran.",
+                "This share is a fundamental right of the daughter explicitly decreed by Allah.",
+                "In this scenario, the daughter is classified among 'Ashab al-Furud' (fixed share-holders)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پوتی کا حصہ اور 'تکملہ ثلثین'",
+              "english": "Granddaughter's Share and 'Completion of 2/3'"
+            },
+            "content": {
+              "urdu": [
+                "بیٹیوں کا مجموعی حصہ دو تہائی (2/3) سے زیادہ نہیں ہو سکتا۔",
+                "نصف (1/2) بیٹی کو دینے کے بعد پوتی کو چھٹا حصہ (1/6) دیا جاتا ہے تاکہ 2/3 مکمل ہو جائے۔",
+                "یہ قاعدہ اس وقت لاگو ہوتا ہے جب میت کا بیٹا نہ ہو جو پوتی کو محروم کر سکے۔"
+              ],
+              "english": [
+                "The total share for daughters (including granddaughters) cannot exceed two-thirds (2/3).",
+                "After the daughter takes 1/2, the granddaughter gets 1/6 to complete the 2/3 limit.",
+                "This rule applies when there is no son of the deceased to exclude the granddaughter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بہن کا بطور عصبہ حق",
+        "english": "The Sister's Right as an Agnate"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہن بیٹیوں کے ساتھ 'عصبہ مع الغیر'",
+              "english": "Sister as 'Asabah ma'al Ghair'"
+            },
+            "content": {
+              "urdu": [
+                "فقہی قاعدہ ہے کہ 'بہنوں کو بیٹیوں کے ساتھ عصبہ بنا دو'۔",
+                "بیٹی اور پوتی کو ان کا مقررہ حصہ دینے کے بعد جو بچتا ہے وہ بہن کا ہوتا ہے۔",
+                "اس صورت میں بہن کو کوئی مقررہ حصہ نہیں بلکہ بچا ہوا سارا مال ملتا ہے۔"
+              ],
+              "english": [
+                "There is a juristic rule: 'Make sisters agnates along with daughters.'",
+                "After giving the daughter and granddaughter their fixed shares, the remainder goes to the sister.",
+                "In this case, the sister receives the entire residue rather than a fixed fractional share."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بہن کی ترجیح دیگر رشتہ داروں پر",
+              "english": "Priority of the Sister Over Other Relatives"
+            },
+            "content": {
+              "urdu": [
+                "اس فیصلے سے ثابت ہوا کہ بہن چچا یا بھتیجے سے مقدم ہے۔",
+                "جب تک بہن موجود ہے، مال خاندان کے دور کے مردوں کی طرف منتقل نہیں ہوگا۔",
+                "یہ نظام قریبی خونی رشتوں کے معاشی تحفظ کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "This decree proves that the sister takes precedence over paternal uncles or nephews.",
+                "As long as a sister exists, the wealth will not move to more distant male relatives.",
+                "This system ensures the financial protection of the closest blood relatives."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علم و فقہ کی اہمیت",
+        "english": "Importance of Knowledge and Jurisprudence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کی پیروی میں ہدایت",
+              "english": "Guidance in Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ابن مسعودؓ نے رائے کے بجائے نبی ﷺ کے فیصلے کو حرفِ آخر قرار دیا۔",
+                "انہوں نے واضح کیا کہ سنت سے ہٹ کر فتویٰ دینا گمراہی کا راستہ ہے۔",
+                "اجتہاد صرف وہیں جائز ہے جہاں قرآن و سنت کی صریح نص موجود نہ ہو۔"
+              ],
+              "english": [
+                "Ibn Mas'ud (RA) regarded the Prophet's (ﷺ) decree as final instead of personal opinion.",
+                "He clarified that giving fatwa in contradiction to the Sunnah is a path to misguidance.",
+                "Ijtihad (independent reasoning) is only valid where no clear text from Quran or Sunnah exists."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کرام کا علمی تواضع",
+              "english": "Intellectual Humility of the Sahaba"
+            },
+            "content": {
+              "urdu": [
+                "ابوموسیٰ اشعریؓ نے اپنی غلطی تسلیم کی اور ابن مسعودؓ کی علمی برتری کا اعتراف کیا۔",
+                "انہوں نے لوگوں کو ہدایت کی کہ جب تک ابن مسعودؓ موجود ہیں ان سے سوال کیا جائے۔",
+                "یہ رویہ ہمیں علم کے حصول میں تواضع اور حق کو قبول کرنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Abu Musa Al-Ash'ari (RA) accepted his error and acknowledged the superior knowledge of Ibn Mas'ud.",
+                "He instructed people to consult Ibn Mas'ud as long as he was among them.",
+                "This attitude teaches us humility in seeking knowledge and the courage to accept the truth."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "وراثت میں خواتین کے حقوق",
+        "english": "Women's Rights in Inheritance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی قانون میں خواتین کا مقام",
+              "english": "Status of Women in Islamic Law"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث دورِ جاہلیت کے اس رواج کا خاتمہ کرتی ہے جہاں عورتیں محروم تھیں۔",
+                "اسلام نے بیٹی، پوتی اور بہن سب کے لیے حصے مقرر کر کے انہیں معاشی بااختیار بنایا۔",
+                "خواتین کے حصے اللہ کی طرف سے فرض ہیں جن میں کمی بیشی کا اختیار کسی کو نہیں۔"
+              ],
+              "english": [
+                "This Hadith abolishes the pre-Islamic custom where women were deprived of inheritance.",
+                "Islam economically empowered the daughter, granddaughter, and sister by fixing their shares.",
+                "Women's shares are divine obligations that no one has the authority to alter or reduce."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وراثت کی تقسیم میں دیانت",
+              "english": "Integrity in Distributing Inheritance"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کو شرعی حصوں کے مطابق بانٹنا ایمان کا حصہ اور فرض عمل ہے۔",
+                "بہنوں یا بیٹیوں کو ان کے حصوں سے محروم کرنا اللہ کے ساتھ کھلی جنگ ہے۔",
+                "معاشرے میں انصاف کی بنیاد وراثت کی صحیح تقسیم سے ہی ممکن ہے۔"
+              ],
+              "english": [
+                "Distributing inheritance according to Shariah shares is a duty and a part of faith.",
+                "Depriving sisters or daughters of their rightful shares is an act of defiance against Allah.",
+                "Justice in society is only possible through the correct distribution of inheritance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

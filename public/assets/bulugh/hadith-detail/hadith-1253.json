@@ -1,0 +1,254 @@
+{
+  "hadithId": 1253,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:5984", "https://sunnah.com/muslim:2556"],
+    "kitabId": 16,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب البر والصلة",
+    "babId": 103
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (5984)‏، ومسلم (2556).",
+    "urdu": "یہ حدیث صحیح اور متفق علیہ ہے۔ امام بخاری اور امام مسلم دونوں نے اسے روایت کیا ہے۔",
+    "english": "Sahih. Muttafaqun 'Alayh. Reported by Al-Bukhari (5984) and Muslim (2556)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَدْخُلُ",
+      "english": "Will not enter",
+      "urdu": "داخل نہیں ہوگا"
+    },
+    {
+      "arabic": "قَاطِعٌ",
+      "english": "One who severs",
+      "urdu": "کاٹنے والا (تعلق توڑنے والا)"
+    },
+    {
+      "arabic": "رَحِمٍ",
+      "english": "Kinship / Womb",
+      "urdu": "رشتہ داری"
+    },
+    {
+      "arabic": "الْجَنَّةَ",
+      "english": "Paradise",
+      "urdu": "جنت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں رشتہ داروں سے تعلق توڑنے کی سخت مذمت کی گئی ہے اور اسے جنت سے محرومی کا سبب قرار دیا گیا ہے۔",
+    "english": "This Hadith strictly condemns severing ties with relatives, identifying it as a reason for being barred from entering Paradise."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (5984)",
+      "english": "Reported by Al-Bukhari (5984)"
+    },
+    {
+      "arabic": "رواه مسلم (2556)",
+      "english": "Reported by Muslim (2556)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جبير بن مطعم",
+        "english": "Jubair bin Mut'im"
+      },
+      "slug": "jubair-bin-mutim"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صلہ رحمی کی اہمیت",
+        "english": "Importance of Maintaining Ties"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رحم کا مقام",
+              "english": "Status of the Womb"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'رحم' اللہ کے نام 'رحمن' سے نکلا ہے، جو اس کی عظمت کو ظاہر کرتا ہے۔",
+                "رشتہ داری جوڑنا اللہ کی رحمت کے حصول کا ذریعہ ہے۔",
+                "اسلام نے والدین کے بعد قریبی رشتہ داروں کے حقوق کو سب سے مقدم رکھا ہے۔"
+              ],
+              "english": [
+                "The word 'Rahm' (womb/kinship) is derived from Allah's name 'Rahman'.",
+                "Maintaining ties is a means of attaining Allah's mercy.",
+                "Islam prioritizes the rights of kin immediately after parents."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمان کا تقاضا",
+              "english": "Requirement of Faith"
+            },
+            "content": {
+              "urdu": [
+                "رشتہ داروں سے اچھا سلوک کرنا ایمان کی نشانیوں میں سے ہے۔",
+                "جو اللہ اور یومِ آخرت پر یقین رکھتا ہے، اسے صلہ رحمی کرنی چاہیے۔",
+                "تعلقات توڑنا درحقیقت معاشرتی بگاڑ اور روحانی تنزلی کی علامت ہے۔"
+              ],
+              "english": [
+                "Treating relatives well is a fundamental sign of faith.",
+                "Whoever believes in Allah and the Last Day must maintain kinship ties.",
+                "Breaking ties is a symptom of social corruption and spiritual decline."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قطع رحمی کے نقصانات",
+        "english": "Consequences of Severing Ties"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنت سے محرومی",
+              "english": "Deprivation of Paradise"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'داخل نہیں ہوگا' سے مراد یہ ہے کہ وہ ابتدائی طور پر یا سزا کے بغیر نہیں جائے گا۔",
+                "قطع رحمی گناہِ کبیرہ ہے جس پر سخت وعید آئی ہے۔",
+                "یہ گناہ انسان کی دیگر نیکیوں کے ثواب کو بھی خطرے میں ڈال دیتا ہے۔"
+              ],
+              "english": [
+                "'Will not enter' implies they won't enter initially or without punishment.",
+                "Severing ties is a major sin with severe spiritual warnings.",
+                "This sin can jeopardize the rewards of other good deeds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دنیا میں سزا",
+              "english": "Punishment in this World"
+            },
+            "content": {
+              "urdu": [
+                "قطع رحمی کی سزا اکثر دنیا میں بھی جلدی مل جاتی ہے۔",
+                "اس سے رزق میں بے برکتی اور عمر میں کمی واقع ہوتی ہے۔",
+                "تعلقات توڑنے والا شخص معاشرے میں اکیلا اور بے سکون ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The punishment for severing ties often manifests early in this world.",
+                "It causes a lack of blessing in provision and shortens life (metaphorically).",
+                "The one who breaks ties becomes isolated and restless in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حقیقی صلہ رحمی",
+        "english": "True Maintenance of Ties"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بدلے کا نام نہیں",
+              "english": "Not Based on Reciprocity"
+            },
+            "content": {
+              "urdu": [
+                "حقیقی صلہ رحمی یہ نہیں کہ جو آپ سے ملے آپ اس سے ملیں۔",
+                "کمال تو یہ ہے کہ جو آپ سے تعلق توڑے آپ اس سے جوڑیں۔",
+                "مومن برائی کا بدلہ احسان سے دے کر اپنے مرتبے کو بلند کرتا ہے۔"
+              ],
+              "english": [
+                "True kinship isn't just returning visits or favors.",
+                "Excellence is connecting with the relative who cuts you off.",
+                "A believer raises their status by responding to evil with kindness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وسعتِ رزق کا نسخہ",
+              "english": "Prescription for Wealth"
+            },
+            "content": {
+              "urdu": [
+                "صلہ رحمی کرنے والے کے رزق اور عمر میں اللہ اضافہ فرما دیتا ہے۔",
+                "یہ ایک آزمودہ روحانی عمل ہے جو زندگی میں سکون لاتا ہے۔",
+                "اللہ اس کے تعلق کو اپنے ساتھ جوڑ لیتا ہے جو رشتوں کو جوڑتا ہے۔"
+              ],
+              "english": [
+                "Allah increases the provision and lifespan of the one who upholds ties.",
+                "It is a proven spiritual practice that brings peace to life.",
+                "Allah connects Himself with those who connect with their kin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اصلاحی اقدامات",
+        "english": "Practical Reformative Steps"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہل کرنا",
+              "english": "Taking Initiative"
+            },
+            "content": {
+              "urdu": [
+                "اختلافات کو بھلا کر صلح میں پہل کرنا سنتِ نبوی ہے۔",
+                "انا اور ضد کو رشتوں کے درمیان دیوار نہ بننے دیں۔",
+                "معمولی تحائف کا تبادلہ بھی دلوں کی کدورت دور کرنے میں مددگار ہے۔"
+              ],
+              "english": [
+                "Initiating reconciliation by forgetting differences is a Sunnah.",
+                "Do not let ego and stubbornness become a wall between relationships.",
+                "Exchanging small gifts helps in removing heart's rancor."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاموش دعا",
+              "english": "Silent Prayer"
+            },
+            "content": {
+              "urdu": [
+                "اگر براہِ راست رابطہ مشکل ہو تو ان کے لیے خیر کی دعا کریں۔",
+                "رشتہ داروں کی کامیابی پر خوش ہونا حسد کو ختم کرتا ہے۔",
+                "ان کے مشکل وقت میں تعاون کرنا اخلاق کا اعلیٰ نمونہ ہے۔"
+              ],
+              "english": [
+                "If direct contact is difficult, pray for their well-being.",
+                "Being happy for relatives' success eliminates envy.",
+                "Assisting them in their difficult times is the pinnacle of character."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

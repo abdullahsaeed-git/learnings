@@ -1,0 +1,261 @@
+{
+  "hadithId": 1275,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["tirmidhi:2499", "ibnmajah:4251"],
+    "kitabId": 16,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الزهد",
+    "babId": 104
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه الترمذي (2499)، وابن ماجه (4251)، والدارمي (2727)، والحاكم (4/244). وصححه الحاكم ووافقه الذهبي، وحسنه الألباني في صحيح الجامع (4515).",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام ترمذی (2499) اور ابن ماجہ (4251) نے روایت کیا ہے۔ امام حاکم نے اسے صحیح کہا اور علامہ البانی نے اسے صحیح الجامع میں حسن قرار دیا ہے۔",
+    "english": "Hasan (Good). Reported by At-Tirmidhi (2499), Ibn Majah (4251), and Al-Hakim (4/244). Al-Hakim graded it Sahih, and Al-Albani classified it as Hasan in Sahih al-Jami (4515)."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَنِي آدَمَ",
+      "english": "Children of Adam",
+      "urdu": "اولادِ آدم / انسان"
+    },
+    {
+      "arabic": "خَطَّاءٌ",
+      "english": "Constant sinner",
+      "urdu": "بہت خطا کرنے والا"
+    },
+    {
+      "arabic": "خَيْرُ",
+      "english": "Best / Superior",
+      "urdu": "بہترین / بہتر"
+    },
+    {
+      "arabic": "التَّوَّابُونَ",
+      "english": "Those who often repent",
+      "urdu": "توبہ کرنے والے"
+    },
+    {
+      "arabic": "سَنَدُهُ",
+      "english": "Its chain of narration",
+      "urdu": "اس کی سند"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث انسانی فطرت میں موجود کمزوری اور گناہ کے امکان کا اعتراف کرتی ہے اور اللہ کی رحمت سے مایوس ہونے کے بجائے توبہ کی ترغیب دیتی ہے۔",
+    "english": "This Hadith acknowledges human fallibility and the potential for sin, encouraging believers to seek repentance rather than despairing of Allah's mercy."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (2499)",
+      "english": "Sunan at-Tirmidhi (2499)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (4251)",
+      "english": "Sunan Ibn Majah (4251)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك الأنصاري",
+        "english": "Anas bin Malik al-Ansari"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=yWcW2T-qV9M",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "انسانی فطرت اور گناہ",
+        "english": "Human Nature and Sin"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خطا کا امکان",
+              "english": "Possibility of Error"
+            },
+            "content": {
+              "urdu": [
+                "انسان فطرتی طور پر کمزور ہے اور اس سے غلطی ہو سکتی ہے۔",
+                "لفظ 'خطاء' مبالغے کا صیغہ ہے جو بار بار غلطی کی طرف اشارہ کرتا ہے۔",
+                "گناہ ہو جانا انسان کو اللہ کی رحمت سے دور نہیں کرتا۔"
+              ],
+              "english": [
+                "Man is inherently weak and prone to making mistakes.",
+                "The word 'Khatta' implies one who frequently commits errors.",
+                "Committing a sin does not permanently exile one from mercy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عصمت صرف انبیاء کے لیے",
+              "english": "Infallibility of Prophets"
+            },
+            "content": {
+              "urdu": [
+                "گناہوں سے پاک ہونا صرف انبیاء علیہم السلام کی صفت ہے۔",
+                "عام انسان کتنا ہی نیک ہو، وہ گناہ سے مکمل پاک نہیں ہو سکتا۔",
+                "اپنی کمزوری کا اعتراف ہی بندگی کی اصل بنیاد ہے۔"
+              ],
+              "english": [
+                "Infallibility and being sinless is a trait exclusive to Prophets.",
+                "No matter how pious, a common human cannot be entirely sinless.",
+                "Acknowledging one's weakness is the foundation of servanthood."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "توبہ کی فضیلت",
+        "english": "Virtue of Repentance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہترین خطاکار",
+              "english": "The Best of Sinners"
+            },
+            "content": {
+              "urdu": [
+                "بہترین انسان وہ ہے جو گناہ کے بعد فوراً توبہ کرے۔",
+                "توبہ گناہوں کے زنگ کو دل سے صاف کر دیتی ہے۔",
+                "اللہ کو اپنے بندے کا گڑگڑا کر معافی مانگنا بہت پسند ہے۔"
+              ],
+              "english": [
+                "The best person is one who repents immediately after a sin.",
+                "Repentance cleanses the rust of sins from the human heart.",
+                "Allah loves when His servant humbly seeks His forgiveness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توبہ میں جلدی",
+              "english": "Haste in Repentance"
+            },
+            "content": {
+              "urdu": [
+                "گناہ پر اصرار کرنا ہلاکت اور بربادی کا راستہ ہے۔",
+                "سچی توبہ گناہ کو ایسے مٹا دیتی ہے جیسے وہ تھا ہی نہیں۔",
+                "موت سے پہلے توبہ کا دروازہ ہر وقت کھلا رہتا ہے۔"
+              ],
+              "english": [
+                "Persisting in sin is a path toward spiritual destruction.",
+                "Sincere repentance erases sin as if it never existed before.",
+                "The door of repentance remains open until the moment of death."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امید اور خوف",
+        "english": "Hope and Fear"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مایوسی کا خاتمہ",
+              "english": "Ending Despair"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث گناہگاروں کے لیے اللہ کی رحمت کی ایک امید ہے۔",
+                "شیطان انسان کو مایوس کر کے مزید گناہوں میں دھکیلتا ہے۔",
+                "اللہ کی رحمت اس کے غصے پر ہمیشہ غالب رہتی ہے۔"
+              ],
+              "english": [
+                "This Hadith provides hope for sinners through Allah's mercy.",
+                "Satan uses despair to push humans into further disobedience.",
+                "Allah's mercy always prevails over His divine anger."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اصلاح کا جذبہ",
+              "english": "Spirit of Reform"
+            },
+            "content": {
+              "urdu": [
+                "توبہ کا مقصد صرف زبان سے معافی مانگنا نہیں بلکہ اصلاح ہے۔",
+                "سچی توبہ انسان کو مستقبل میں گناہوں سے بچنے کی ہمت دیتی ہے۔",
+                "گناہ کو چھوٹا سمجھنا خود ایک بڑا گناہ بن جاتا ہے۔"
+              ],
+              "english": [
+                "Repentance is not just verbal; its aim is actual self-reform.",
+                "True repentance grants the strength to avoid future sins.",
+                "Viewing a sin as insignificant is in itself a major sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت",
+        "english": "Practical Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استغفار کی عادت",
+              "english": "Habit of Seeking Forgiveness"
+            },
+            "content": {
+              "urdu": [
+                "روزانہ کی بنیاد پر استغفار کرنا سنتِ نبوی ہے۔",
+                "ذکر و اذکار کے ذریعے دل کی پاکیزگی حاصل کرنی چاہیے۔",
+                "ہر نماز کے بعد معافی مانگنا روحانی ترقی کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Seeking daily forgiveness is a Sunnah of the Prophet (ﷺ).",
+                "One should achieve heart purity through constant Dhikr.",
+                "Asking for mercy after every prayer aids spiritual growth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دوسروں کے لیے نرمی",
+              "english": "Leniency for Others"
+            },
+            "content": {
+              "urdu": [
+                "جب ہم خود خطا کار ہیں تو دوسروں کو معاف کرنا سیکھیں۔",
+                "لوگوں کی غلطیوں پر پردہ ڈالنا ایک عظیم اخلاق ہے۔",
+                "معاشرے میں نفرت کے بجائے اصلاح کا رویہ اپنانا چاہیے۔",
+                "دوسروں کی توبہ کو قبول کرنا اور انہیں موقع دینا ضروری ہے۔"
+              ],
+              "english": [
+                "Since we are sinners ourselves, we must learn to forgive others.",
+                "Covering the faults of others is a sign of great character.",
+                "Adopt an attitude of reform rather than social hatred.",
+                "It is vital to accept others' repentance and give them a chance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

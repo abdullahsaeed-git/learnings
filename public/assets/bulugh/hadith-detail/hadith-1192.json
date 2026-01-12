@@ -1,0 +1,259 @@
+{
+  "hadithId": 1192,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/14/5"],
+    "kitabId": 14,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب القضاء",
+    "babId": 97
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (7158)، ومسلم (1717) عن عبد الرحمن بن أبي بكرة عن أبيه.",
+    "urdu": "صحیح۔ اسے بخاری (7158) اور مسلم (1717) نے روایت کیا ہے، جس میں غصے کی حالت میں فیصلے سے منع کیا گیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (7158) and Muslim (1717) on the authority of Abu Bakra (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَحْكُمُ",
+      "english": "Should not judge",
+      "urdu": "فیصلہ نہ کرے"
+    },
+    {
+      "arabic": "اِثْنَيْنِ",
+      "english": "Two persons",
+      "urdu": "دو افراد"
+    },
+    {
+      "arabic": "غَضْبَانُ",
+      "english": "Angry",
+      "urdu": "غصے میں"
+    },
+    {
+      "arabic": "قَاضٍ",
+      "english": "Judge",
+      "urdu": "قاضی"
+    },
+    {
+      "arabic": "يَقْضِي",
+      "english": "Decides / Decrees",
+      "urdu": "فیصلہ سناتا ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں قاضی یا حاکم کو ہدایت دی گئی ہے کہ وہ غصے کی حالت میں فیصلہ نہ کرے کیونکہ غصہ عقل اور انصاف کے توازن کو بگاڑ دیتا ہے۔",
+    "english": "This Hadith prohibits a judge or anyone in authority from passing a verdict while angry, as anger impairs judgment and prevents justice."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأحكام، رقم 7158",
+      "english": "Sahih al-Bukhari, Book of Judgments, No. 7158"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الأقضية، رقم 1717",
+      "english": "Sahih Muslim, Book of Judicial Decisions, No. 1717"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو بكرة الثقفي",
+        "english": "Abu Bakra al-Thaqafi"
+      },
+      "slug": "abu-bakra-al-thaqafi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غصے میں فیصلے کی ممانعت",
+        "english": "Prohibition of Judging in Anger"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عقل اور انصاف کا توازن",
+              "english": "Balance of Intellect and Justice"
+            },
+            "content": {
+              "urdu": [
+                "شدید غصہ انسان کی سوچنے سمجھنے کی صلاحیت کو بری طرح متاثر کرتا ہے۔",
+                "غصے کی حالت میں انسان جذباتی ہو کر حقائق کو نظر انداز کر سکتا ہے۔",
+                "اسلامی نظامِ عدل میں فیصلہ جذبات کی بجائے خالص دلیل اور انصاف پر مبنی ہونا چاہیے۔"
+              ],
+              "english": [
+                "Intense anger severely impairs a person's ability to think clearly and rationally.",
+                "In a state of anger, a person may act emotionally and ignore crucial facts.",
+                "In the Islamic judicial system, decisions must be based on evidence and justice, not emotions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ظلم سے بچاؤ کی تدبیر",
+              "english": "A Measure to Prevent Injustice"
+            },
+            "content": {
+              "urdu": [
+                "غصے میں کیا گیا فیصلہ اکثر کسی ایک فریق کے ساتھ زیادتی کا باعث بنتا ہے۔",
+                "نبی کریم ﷺ نے قاضی کو اس لیے روکا تاکہ کسی کا حق مارا نہ جائے۔",
+                "یہ حکم قاضی کی اپنی اصلاح اور معاشرتی انصاف کی بقا کے لیے اہم ہے۔"
+              ],
+              "english": [
+                "A judgment passed in anger often results in injustice toward one of the parties.",
+                "The Prophet (ﷺ) prohibited this to ensure that no one's rights are violated.",
+                "This command is vital for the judge's self-rectification and the survival of social justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دیگر کیفیات کا حکم",
+        "english": "Rulings on Other Similar States"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بھوک اور تھکاوٹ کا اثر",
+              "english": "Effect of Hunger and Fatigue"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک شدید بھوک، پیاس یا تھکاوٹ بھی غصے کے حکم میں شامل ہیں۔",
+                "ہر وہ کیفیت جو ذہنی یکسوئی کو ختم کر دے، اس میں فیصلہ کرنا ناپسندیدہ ہے۔",
+                "قاضی کو چاہیے کہ وہ پرسکون ماحول اور مکمل ذہنی آمادگی کے ساتھ کام کرے۔"
+              ],
+              "english": [
+                "According to jurists, extreme hunger, thirst, or fatigue fall under the same ruling as anger.",
+                "Any state that disrupts mental focus makes passing a judgment undesirable (Makruh).",
+                "A judge should work in a calm environment with complete mental readiness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیماری اور پریشانی",
+              "english": "Illness and Distress"
+            },
+            "content": {
+              "urdu": [
+                "شدید بیماری یا گھریلو پریشانی کی حالت میں بھی عدالت نہیں لگانی چاہیے۔",
+                "ذہنی انتشار کی حالت میں صحیح نتیجے تک پہنچنا مشکل ہو جاتا ہے۔",
+                "اسلام جج کی جسمانی اور ذہنی صحت کو عدالتی کارروائی کے لیے لازمی قرار دیتا ہے۔"
+              ],
+              "english": [
+                "Court proceedings should not be held during severe illness or personal distress.",
+                "It becomes difficult to reach a correct conclusion in a state of mental turmoil.",
+                "Islam considers a judge's physical and mental well-being essential for judicial action."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فیصلے کی شرعی حیثیت",
+        "english": "Legal Status of the Verdict"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کیا غصے میں دیا گیا فیصلہ نافذ ہوگا؟",
+              "english": "Will a Verdict Given in Anger Be Valid?"
+            },
+            "content": {
+              "urdu": [
+                "اگر قاضی نے غصے میں فیصلہ دیا اور وہ حق کے مطابق ہے، تو اکثر علماء کے نزدیک نافذ ہو جائے گا۔",
+                "تاہم قاضی اس ممانعت کی خلاف ورزی کرنے کی وجہ سے گناہ گار ہوگا۔",
+                "اگر فیصلہ حق کے خلاف ہوا تو اسے فوری طور پر کالعدم قرار دیا جانا چاہیے۔"
+              ],
+              "english": [
+                "If a judge decides in anger and it aligns with the truth, most scholars say it is valid.",
+                "However, the judge will be considered sinful for violating this prophetic prohibition.",
+                "If the verdict contradicts the truth, it must be overturned immediately."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاطی تدابیر",
+              "english": "Precautionary Measures"
+            },
+            "content": {
+              "urdu": [
+                "قاضی کو چاہیے کہ وہ غصہ آنے کی صورت میں کارروائی معطل کر دے۔",
+                "معاشرے میں ججوں کے لیے ایسے اوقات مقرر ہوں جن میں وہ تازہ دم رہیں۔",
+                "فریقین کے تلخ رویے پر صبر کرنا ایک مثالی قاضی کی نشانی ہے۔"
+              ],
+              "english": [
+                "A judge should suspend proceedings if they feel themselves becoming angry.",
+                "Society should set judicial hours that ensure judges remain refreshed and alert.",
+                "Patience toward the bitter behavior of litigants is the mark of an exemplary judge."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گھریلو اور سماجی فیصلے",
+              "english": "Domestic and Social Decisions"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول صرف عدالت تک محدود نہیں بلکہ والدین اور سربراہانِ خاندان کے لیے بھی ہے۔",
+                "بچوں کو سزا دینے یا کسی خاندانی تنازع کا حل غصے میں نہیں نکالنا چاہیے۔",
+                "غصے میں کی گئی بات یا فیصلہ اکثر بعد میں شرمندگی کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "This principle is not limited to courts; it applies to parents and family heads too.",
+                "Disciplining children or resolving family disputes should not happen in anger.",
+                "Words spoken or decisions made in anger often lead to regret later on."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غصے پر قابو پانے کی اہمیت",
+              "english": "Importance of Controlling Anger"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے غصہ پی جانے والوں کو جنت کی خوشخبری دی ہے۔",
+                "اسلامی معاشرے کی بنیاد برداشت اور حلم (بردباری) پر رکھی گئی ہے۔",
+                "جذباتی فیصلوں سے بچ کر ہی ہم ایک پرامن اور منصفانہ معاشرہ بنا سکتے ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gave glad tidings of Paradise to those who restrain their anger.",
+                "The foundation of Islamic society is built on tolerance and forbearance.",
+                "Only by avoiding emotional decisions can we build a peaceful and just society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "hadithId": 317,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:653"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "صحيح مسلم",
+    "babId": 20
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (653)‏.‏",
+    "urdu": "صحیح۔ اسے مسلم (653) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (653)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْمَى",
+      "english": "Blind man",
+      "urdu": "نابینا شخص"
+    },
+    {
+      "arabic": "قَائِدٌ",
+      "english": "Guide / Leader",
+      "urdu": "رہنما / ہاتھ پکڑ کر لے جانے والا"
+    },
+    {
+      "arabic": "فَرَخَّصَ لَهُ",
+      "english": "He granted him concession",
+      "urdu": "اسے رخصت دے دی"
+    },
+    {
+      "arabic": "اَلنِّدَاءَ",
+      "english": "The Call (Adhan)",
+      "urdu": "پکار / اذان"
+    },
+    {
+      "arabic": "فَأَجِبْ",
+      "english": "Then answer / Respond",
+      "urdu": "پس جواب دو (حاضر ہو جاؤ)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث باجماعت نماز کی فرضیت کی سب سے مضبوط دلیل ہے۔ اگر ایک نابینا شخص کو، جس کے پاس رہنما نہیں اور راستہ بھی خطرناک ہے، مسجد آنے سے رخصت نہیں ملی تو بینا اور تندرست شخص کے لیے عذر کی کیا گنجائش ہے؟",
+    "english": "This Hadith is the strongest evidence for the obligation of congregational prayer. If a blind man with no guide and a dangerous path was not granted exemption, there is no excuse for a healthy person with sight."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (653)",
+      "english": "Reported by Muslim (653)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا پس منظر",
+        "english": "Background of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نابینا صحابی",
+              "english": "The Blind Companion"
+            },
+            "content": {
+              "urdu": [
+                "یہ نابینا صحابی سیدنا عبداللہ بن ام مکتوم رضی اللہ عنہ تھے۔",
+                "مدینہ میں درندوں اور کیڑے مکوڑوں کا خطرہ بھی تھا اور وہ مسجد سے دور بھی تھے۔",
+                "ان تمام اعذار کے باوجود نبی ﷺ نے انہیں جماعت میں آنے کا حکم دیا۔"
+              ],
+              "english": [
+                "This blind companion was Abdullah bin Umm Maktum (RA).",
+                "There was a danger of wild animals and insects in Madinah, and he lived far from the mosque.",
+                "Despite all these excuses, the Prophet (ﷺ) ordered him to attend the congregation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رخصت کی منسوخی",
+              "english": "Revocation of Concession"
+            },
+            "content": {
+              "urdu": [
+                "پہلے نبی ﷺ نے ان کے عذر کو قبول کر لیا تھا۔",
+                "پھر اللہ کی طرف سے وحی یا اجتہاد کی بنا پر حکم تبدیل ہوا اور انہیں واپس بلایا۔",
+                "اس سے معلوم ہوا کہ اذان سن لینے کے بعد مسجد آنا لازم ہو جاتا ہے۔"
+              ],
+              "english": [
+                "Initially, the Prophet (ﷺ) accepted his excuse.",
+                "Then, either through revelation or Ijtihad, the ruling changed, and he was called back.",
+                "This shows that after hearing the Adhan, coming to the mosque becomes mandatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی استدلال",
+        "english": "Juristic Deduction"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جماعت کا حکم",
+              "english": "Ruling on Jama'ah"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی دلیل ہے کہ جماعت 'فرض عین' یا کم از کم 'واجب' ہے۔",
+                "اگر جماعت سنت ہوتی تو نابینا کے لیے مشقت اٹھا کر آنا ضروری نہ ہوتا۔",
+                "شافعیہ کے نزدیک عذر والوں کے لیے جماعت چھوڑنا جائز ہے، لیکن یہ عزیمت کا مقام ہے۔"
+              ],
+              "english": [
+                "This Hadith proves that Jama'ah is 'Fard Ayn' or at least 'Wajib'.",
+                "If Jama'ah were merely Sunnah, it wouldn't be necessary for a blind man to bear hardship.",
+                "According to Shafi'is, valid excuses permit missing Jama'ah, but attending is a matter of high resolve (Azimah)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اذان کا سننا",
+              "english": "Hearing the Adhan"
+            },
+            "content": {
+              "urdu": [
+                "حکم کا مدار 'اذان سننے' پر رکھا گیا ہے۔",
+                "اس سے مراد لاؤڈ اسپیکر کے بغیر، طبعی آواز کا پہنچنا ہے۔",
+                "جو شخص اتنے فاصلے پر ہو کہ عام حالات میں اذان کی آواز پہنچتی ہو، اس پر مسجد آنا لازم ہے۔"
+              ],
+              "english": [
+                "The ruling depends on 'hearing the Adhan'.",
+                "This refers to the natural voice reaching without loudspeakers.",
+                "Anyone within a distance where the voice naturally reaches must attend the mosque."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہانے بازی کا خاتمہ",
+              "english": "End of Excuses"
+            },
+            "content": {
+              "urdu": [
+                "ہم تھوڑی سی تھکاوٹ، کام یا نیند کا بہانہ بنا کر جماعت چھوڑ دیتے ہیں۔",
+                "اس نابینا صحابی کا عمل ہمارے لیے حجت ہے۔",
+                "اللہ کے بلاوے (حی علی الصلاۃ) پر 'لبیک' کہنا ہر مسلمان کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "We skip congregation with small excuses like tiredness, work, or sleep.",
+                "The action of this blind companion is a proof against us.",
+                "Responding 'Labbayk' to Allah's call (Hayya 'alas-Salah) is every Muslim's duty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استقامت",
+              "english": "Steadfastness"
+            },
+            "content": {
+              "urdu": [
+                "ابن ام مکتوم رضی اللہ عنہ بعد میں مسجد کے مستقل نمازی اور مؤذن بنے۔",
+                "مشکلات کے باوجود دین پر جمے رہنا اللہ کے قرب کا ذریعہ ہے۔",
+                "آج ہمارے پاس گاڑیاں اور راستے ہموار ہیں، پھر بھی مسجدیں خالی ہیں۔"
+              ],
+              "english": [
+                "Ibn Umm Maktum (RA) later became a regular worshiper and Mu'adhin of the mosque.",
+                "Remaining steadfast despite difficulties is a means to closeness to Allah.",
+                "Today we have cars and smooth roads, yet mosques are empty."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "hadithId": 790,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/790"],
+    "kitabId": 7,
+    "inKitabBab": 18,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 59
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه أحمد (2/78) ، وأبو داود (3539) ، والنسائي (6/268) ، والترمذي (2132) ، وابن ماجه (2377) ، وابن حبان (5101) ، والحاكم (2/46). وقال الترمذي : \"هذا حديث حسن صحيح\".",
+    "urdu": "صحیح۔ اسے امام احمد، ابوداؤد، نسائی، ترمذی، ابن ماجہ، ابن حبان اور حاکم نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad, Abu Dawud, An-Nasa'i, At-Tirmidhi, Ibn Majah, Ibn Hibban, and Al-Hakim. At-Tirmidhi graded it Hasan Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَحِلُّ",
+      "english": "Not lawful",
+      "urdu": "حلال نہیں"
+    },
+    {
+      "arabic": "اَلْعَطِيَّةَ",
+      "english": "The gift / donation",
+      "urdu": "عطیہ / تحفہ"
+    },
+    {
+      "arabic": "يَرْجِعَ",
+      "english": "Takes back / revokes",
+      "urdu": "واپس لے / رجوع کرے"
+    },
+    {
+      "arabic": "إِلَّا اَلْوَالِدُ",
+      "english": "Except the father",
+      "urdu": "سوائے والد کے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں عام حالات میں ہبہ (تحفہ) واپس لینے کی حرمت بیان کی گئی ہے، تاہم باپ کو اپنی اولاد کے معاملے میں یہ استثنا حاصل ہے کہ وہ اصلاح یا عدل کی خاطر دیا ہوا تحفہ واپس لے سکتا ہے۔",
+    "english": "This Hadith highlights the prohibition of revoking a gift in general circumstances, while exempting the father, who may take back a gift given to his child for purposes of reform or maintaining justice."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (2132)",
+      "english": "Reported by At-Tirmidhi (2132)"
+    },
+    {
+      "arabic": "رواه أبو داود (3539)",
+      "english": "Reported by Abu Dawud (3539)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjI8_GfLpIs",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ہبہ سے رجوع کی ممانعت",
+        "english": "Prohibition of Revoking a Gift"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصولی ممانعت",
+              "english": "General Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "کسی کو تحفہ دے کر واپس مانگنا اخلاقی پستی اور کم ظرفی کی علامت ہے۔",
+                "نبی کریم ﷺ نے اسے 'حلال نہیں' کہہ کر اس کی شرعی حرمت واضح فرما دی۔",
+                "یہ حکم اس وقت ہے جب موہوب لہ (جسے تحفہ دیا گیا) اس پر قبضہ کر چکا ہو۔"
+              ],
+              "english": [
+                "Requesting the return of a gift is a sign of moral degradation and pettiness.",
+                "The Prophet (ﷺ) clarified its Shariah prohibition by stating it is 'not lawful'.",
+                "This ruling applies once the recipient has taken possession of the gift."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی اثرات",
+              "english": "Social Impact"
+            },
+            "content": {
+              "urdu": [
+                "تحفہ واپس لینے سے دلوں میں کدورت، دشمنی اور نفرت پیدا ہوتی ہے۔",
+                "اسلامی معاشرت میں سخاوت اور بھروسے کی فضا قائم کرنا مقصود ہے۔",
+                "تحفہ دینے کا مقصد ہی محبت بڑھانا ہوتا ہے، واپسی اس مقصد کو تباہ کر دیتی ہے۔"
+              ],
+              "english": [
+                "Revoking a gift causes resentment, enmity, and hatred in hearts.",
+                "Islamic social teachings aim to establish an atmosphere of generosity and trust.",
+                "The purpose of gifting is to increase love; taking it back destroys this objective."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "والد کے لیے استثنا کی حکمت",
+        "english": "Wisdom Behind the Father's Exception"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اولاد کی تربیت اور اصلاح",
+              "english": "Discipline and Reform of Children"
+            },
+            "content": {
+              "urdu": [
+                "والد کو یہ حق اس لیے دیا گیا تاکہ وہ اولاد کی بہتر تربیت کر سکے۔",
+                "اگر اولاد مال کا غلط استعمال کرے یا نافرمانی کرے، تو باپ اسے واپس لے کر تنبیہ کر سکتا ہے۔",
+                "والد کی ملکیت اور اولاد کی ملکیت کے درمیان ایک خاص رشتہ ہے (تم اور تمہارا مال تمہارے باپ کا ہے)۔"
+              ],
+              "english": [
+                "The father is granted this right to ensure the better upbringing of his children.",
+                "If a child misuses the wealth or becomes disobedient, the father can revoke the gift as a warning.",
+                "There is a unique legal relationship between the property of a father and his child."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا قیام",
+              "english": "Establishing Justice"
+            },
+            "content": {
+              "urdu": [
+                "اگر والد نے کسی ایک بچے کو زیادہ دے کر دوسرے کے ساتھ ناانصافی کی ہو، تو وہ اسے واپس لے سکتا ہے۔",
+                "یہ استثنا اولاد کے درمیان برابری (عدل) کو دوبارہ قائم کرنے کے لیے ایک ذریعہ ہے۔",
+                "اس سے خاندان کے اندرونی تنازعات کو ختم کرنے میں مدد ملتی ہے۔"
+              ],
+              "english": [
+                "If a father favored one child and caused injustice to others, he can take it back.",
+                "This exception is a means to restore equality (Adl) among offspring.",
+                "It helps in resolving internal family conflicts regarding property."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات",
+        "english": "Juristic Details"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کون رجوع کر سکتا ہے؟",
+              "english": "Who Can Revoke?"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'والد' کا ذکر ہے، جس میں ماں بھی شامل سمجھی جاتی ہے۔",
+                "والدین کے علاوہ دادا، دادی یا دیگر رشتہ داروں کو یہ حق حاصل نہیں ہے۔",
+                "امام شافعی اور امام احمد کے نزدیک صرف والدین ہی اپنے دیے ہوئے ہبہ سے رجوع کر سکتے ہیں۔"
+              ],
+              "english": [
+                "The Hadith mentions the 'father', but it is generally understood to include the mother.",
+                "Grandparents or other relatives do not possess this specific right to revoke.",
+                "According to Shafi'i and Ahmad, only parents can take back a gift given to their children."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رجوع کی حدود",
+              "english": "Limits of Revocation"
+            },
+            "content": {
+              "urdu": [
+                "اگر اولاد نے وہ چیز آگے بیچ دی ہو یا اس میں بڑی تبدیلی کر دی ہو، تو واپسی مشکل ہو جاتی ہے۔",
+                "رجوع کا حق اس وقت تک ہے جب تک وہ چیز اپنی اصل حالت میں اولاد کے پاس موجود ہو۔",
+                "مقصد انتقام نہیں بلکہ صرف اصلاح اور عدل ہونا چاہیے۔"
+              ],
+              "english": [
+                "If the child has sold the item or significantly altered it, revocation becomes difficult.",
+                "The right to revoke exists as long as the item remains in its original state with the child.",
+                "The intent should not be revenge, but reform and justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عالی ظرفی کا مظاہرہ",
+              "english": "Practicing Magnanimity"
+            },
+            "content": {
+              "urdu": [
+                "ایک بار جو چیز کسی کو دے دی، اسے بھول جانا ہی جوانمردی ہے۔",
+                "اللہ کی رضا کے لیے کیے گئے عمل میں کبھی پچھتاوا نہیں ہونا چاہیے۔",
+                "معاملات میں صفائی اور پختگی ایمان کا حصہ ہے۔"
+              ],
+              "english": [
+                "Once something is given away, forgetting it is a sign of noble character.",
+                "There should never be regret in an action performed for the sake of Allah.",
+                "Clarity and firmness in dealings are part of one's faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اولاد کی معاشی نگرانی",
+              "english": "Economic Supervision of Offspring"
+            },
+            "content": {
+              "urdu": [
+                "والدین کو چاہیے کہ اولاد کو مال دیتے وقت ان کے رویے اور ضرورت کا جائزہ لیں۔",
+                "محبت میں اندھا ہو کر ایسی آزادی نہ دیں جو ان کی اخلاقی بگاڑ کا سبب بنے۔",
+                "دیے ہوئے مال پر نظر رکھنا تاکہ وہ گناہ میں استعمال نہ ہو، والدین کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "Parents should evaluate the behavior and needs of children when giving them wealth.",
+                "Do not grant such freedom out of blind love that leads to moral corruption.",
+                "Monitoring gifted wealth to ensure it isn't used for sin is a parental responsibility."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

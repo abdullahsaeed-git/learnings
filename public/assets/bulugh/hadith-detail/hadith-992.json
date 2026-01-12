@@ -1,0 +1,259 @@
+{
+  "hadithId": 992,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1142"],
+    "kitabId": 8,
+    "inKitabBab": 15,
+    "arabicBook": "بلوغ المرام",
+    "babId": 78
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3482)، ومسلم (2242).",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری و مسلم دونوں میں موجود ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (3482) and Muslim (2242)."
+  },
+  "importantWords": [
+    {
+      "arabic": "عُذِّبَتْ",
+      "english": "Was punished",
+      "urdu": "عذاب دیا گیا"
+    },
+    {
+      "arabic": "هِرَّةٍ",
+      "english": "Cat",
+      "urdu": "بلی"
+    },
+    {
+      "arabic": "سَجَنَتْهَا",
+      "english": "Imprisoned her",
+      "urdu": "اسے قید کیا"
+    },
+    {
+      "arabic": "حَبَسَتْهَا",
+      "english": "Detained her",
+      "urdu": "اسے روک رکھا"
+    },
+    {
+      "arabic": "خَشَاشِ",
+      "english": "Insects / Creatures",
+      "urdu": "کیڑے مکوڑے / زمین کے جانور"
+    }
+  ],
+  "summary": {
+    "urdu": "بے زبان جانوروں پر ظلم کرنا اور انہیں بھوکا پیاسا مارنا ایک سنگین گناہ ہے جو انسان کو جہنم میں لے جا سکتا ہے۔",
+    "english": "Cruelty to speechless animals and letting them die of hunger or thirst is a grave sin that can lead to Hellfire."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (3482)",
+      "english": "Sahih al-Bukhari (3482)"
+    },
+    {
+      "arabic": "صحيح مسلم (2242)",
+      "english": "Sahih Muslim (2242)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جانوروں کے حقوق",
+        "english": "Animal Rights in Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی تعلیمات اور رحم دلی",
+              "english": "Islamic Teachings and Mercy"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں صرف انسانوں ہی نہیں بلکہ جانوروں پر بھی رحم کا حکم دیا گیا ہے۔",
+                "کسی بے زبان جانور کو بلاوجہ تکلیف دینا اللہ کی ناراضگی کا باعث ہے۔",
+                "نبی ﷺ نے جانوروں کے چہرے پر مارنے اور انہیں بھوکا رکھنے سے منع فرمایا۔"
+              ],
+              "english": [
+                "Islam commands mercy not only towards humans but also towards animals.",
+                "Causing unnecessary pain to a speechless animal invites the wrath of Allah.",
+                "The Prophet ﷺ prohibited striking animals on the face or keeping them hungry."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قید کرنے کی ذمہ داری",
+              "english": "Responsibility of Imprisonment"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی جانور کو پالا جائے یا قید کیا جائے تو اس کی خوراک کا ذمہ مالک پر ہے۔",
+                "عورت کا گناہ یہ تھا کہ اس نے بلی کو قید کیا مگر اس کی ضرورت پوری نہ کی۔",
+                "جانور کو اس کے فطری ماحول سے محروم کرنا اور پھر کھانا نہ دینا سنگدلی ہے۔"
+              ],
+              "english": [
+                "If an animal is kept or caged, the owner is responsible for its nutrition.",
+                "The woman's sin was imprisoning the cat without fulfilling its basic needs.",
+                "Depriving an animal of its natural environment and failing to feed it is cruelty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "گناہ کی سنگینی",
+        "english": "Severity of the Sin"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ظلم کا انجام جہنم",
+              "english": "Oppression Leads to Hell"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح کرتی ہے کہ ایک 'چھوٹے' سمجھے جانے والے عمل سے جہنم واجب ہو سکتی ہے۔",
+                "عبادات کے ساتھ ساتھ اخلاقیات اور مخلوقِ خدا کے حقوق کی اہمیت بہت زیادہ ہے۔",
+                "ظلم چاہے انسان پر ہو یا جانور پر، اللہ کے ہاں اس کا حساب لیا جائے گا۔"
+              ],
+              "english": [
+                "This Hadith clarifies that a 'minor' act of cruelty can lead to Hellfire.",
+                "Alongside worship, ethics and the rights of creatures carry immense weight.",
+                "Whether oppression is against a human or an animal, Allah will take account."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی پکڑ سے ڈرنا",
+              "english": "Fearing Allah's Retribution"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو کبھی بھی اللہ کی مخلوق پر اپنی طاقت کا ناجائز استعمال نہیں کرنا چاہیے۔",
+                "بے بس مخلوق کی بددعا یا ان کی حالتِ زار اللہ کی رحمت سے دوری کا سبب بنتی ہے۔",
+                "توبہ اور اصلاح کے بغیر ایسے سنگین گناہ معاف نہیں ہوتے۔"
+              ],
+              "english": [
+                "One should never misuse their power over Allah's creatures.",
+                "The plight or silent cry of a helpless creature causes distance from Allah's mercy.",
+                "Grave sins like these are not forgiven without sincere repentance and reform."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و اخلاقی اسباق",
+        "english": "Juristic and Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جانور پالنے کے شرائط",
+              "english": "Conditions for Keeping Pets"
+            },
+            "content": {
+              "urdu": [
+                "جانور پالنا جائز ہے بشرطیکہ ان کے آرام اور خوراک کا مکمل خیال رکھا جائے۔",
+                "اگر کوئی حق ادا نہیں کر سکتا تو اسے جانور آزاد کر دینے چاہییں۔",
+                "فقہاء نے جانوروں کے نفقہ (خرچے) کو مالک پر واجب قرار دیا ہے۔"
+              ],
+              "english": [
+                "Keeping pets is permissible provided their comfort and food are fully managed.",
+                "If one cannot fulfill their rights, they must set the animals free.",
+                "Jurists have declared the maintenance of animals obligatory upon the owner."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خدا ترسی کا مفہوم",
+              "english": "The Meaning of God-Fearingness"
+            },
+            "content": {
+              "urdu": [
+                "سچا مومن وہ ہے جس کے ہاتھ اور زبان سے تمام مخلوق محفوظ رہے۔",
+                "نیکی صرف نماز روزے کا نام نہیں بلکہ مخلوق کے ساتھ حسنِ سلوک بھی ہے۔",
+                "اللہ رحیم ہے اور وہ اپنے بندوں سے بھی رحم دلی کا تقاضا کرتا ہے۔"
+              ],
+              "english": [
+                "A true believer is one from whose hand and tongue all creatures are safe.",
+                "Righteousness isn't just prayer; it's kindness to all creation as well.",
+                "Allah is Merciful and expects His servants to show mercy to others."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی پیغام",
+        "english": "Social Message"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچوں کی تربیت",
+              "english": "Training of Children"
+            },
+            "content": {
+              "urdu": [
+                "بچوں کو بچپن ہی سے جانوروں کے ساتھ نرمی برتنے کی تعلیم دینی چاہیے۔",
+                "جانوروں کو پتھر مارنا یا قید کرنا اخلاقی پستی کی علامت ہے۔",
+                "پرندوں اور جانوروں کے لیے پانی اور دانے کا انتظام کرنا صدقہ ہے۔"
+              ],
+              "english": [
+                "Children should be taught from childhood to be gentle with animals.",
+                "Throwing stones at or caging animals is a sign of moral decline.",
+                "Providing water and grain for birds and animals is an act of charity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانیت کا تقاضا",
+              "english": "Demands of Humanity"
+            },
+            "content": {
+              "urdu": [
+                "ایک کتے کو پانی پلانے پر بخشش اور بلی کو مارنے پر عذاب، یہ توازن ہے۔",
+                "ہمارے اعمال کا اثر کائنات کی ہر چیز پر پڑتا ہے۔",
+                "اسلامی معاشرہ رحم اور ہمدردی کی بنیاد پر پروان چڑھتا ہے۔"
+              ],
+              "english": [
+                "Forgiveness for watering a dog and punishment for killing a cat shows balance.",
+                "Our actions have an impact on everything in the universe.",
+                "An Islamic society thrives on the foundations of mercy and compassion."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

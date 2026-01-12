@@ -1,0 +1,256 @@
+{
+  "hadithId": 715,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:2194"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب البيوع",
+    "babId": 45
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2194)، ومسلم (1555).",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (2194) و مسلم (1555) کی متفقہ روایت ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (2194) and Muslim (1555)."
+  },
+  "importantWords": [
+    {
+      "arabic": "الثِّمَارِ",
+      "english": "Fruits",
+      "urdu": "پھل"
+    },
+    {
+      "arabic": "تُزْهَى",
+      "english": "Matured / Ripened",
+      "urdu": "رنگ بدلیں / پک جائیں"
+    },
+    {
+      "arabic": "تَحْمَارُّ",
+      "english": "Turn red",
+      "urdu": "سرخ ہو جانا"
+    },
+    {
+      "arabic": "تَصْفَارُّ",
+      "english": "Turn yellow",
+      "urdu": "زرد ہو جانا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں پھلوں کی ایسی فروخت سے منع کیا گیا ہے جو ان کے پکنے اور آفات سے محفوظ ہونے سے پہلے کی جائے، تاکہ خریدار کا مال ضائع نہ ہو اور جھگڑے پیدا نہ ہوں۔",
+    "english": "This Hadith prohibits selling fruits before they show signs of ripeness and become safe from common blights, preventing financial loss to the buyer and potential disputes."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2194)",
+      "english": "Sahih al-Bukhari (2194)"
+    },
+    {
+      "arabic": "صحيح مسلم (1555)",
+      "english": "Sahih Muslim (1555)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0O5vXJ4Xm4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پھلوں کی بیع کا شرعی اصول",
+        "english": "Sharia Principles of Selling Fruit"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پختگی کی علامت (بدُوِ صلاح)",
+              "english": "Signs of Ripening"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں درخت پر لگے پھلوں کو اس وقت تک نہیں بیچا جا سکتا جب تک ان کے پکنے کا آغاز نہ ہو جائے۔",
+                "کھجور کے معاملے میں اس کی علامت رنگ کا بدلنا (سرخ یا زرد ہونا) ہے۔",
+                "دیگر پھلوں میں ان کا میٹھا ہو جانا یا کھانے کے قابل ہونا پختگی کی علامت مانا جاتا ہے۔"
+              ],
+              "english": [
+                "Sharia forbids selling fruits on trees until the ripening process has clearly begun.",
+                "In the case of dates, this is indicated by a change in color to red or yellow.",
+                "For other fruits, signs include becoming sweet or fit for consumption."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ممانعت کی حکمت",
+              "english": "Wisdom Behind the Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "کچے پھلوں میں بیماری لگنے یا قدرتی آفات کی وجہ سے ضائع ہونے کا خطرہ زیادہ ہوتا ہے۔",
+                "اگر پھل پکنے سے پہلے بیچ دیا جائے اور پھر وہ ضائع ہو جائے، تو خریدار کا مال مفت میں چلا جاتا ہے۔",
+                "اسلامی معیشت میں 'غرر' (ایسا رسک جس میں دھوکے کا پہلو ہو) کو ختم کرنا مقصود ہے۔"
+              ],
+              "english": [
+                "Unripe fruits are highly susceptible to pests or natural disasters that can destroy the crop.",
+                "If sold prematurely and subsequently destroyed, the buyer loses his wealth without receiving a commodity.",
+                "Islamic economics aims to eliminate 'Gharar' (uncertainty and excessive risk)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی انصاف اور تنازعات کا خاتمہ",
+        "english": "Economic Justice and Dispute Resolution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی دشمنی سے بچاؤ",
+              "english": "Preventing Mutual Enmity"
+            },
+            "content": {
+              "urdu": [
+                "کچے پھلوں کی بیع اکثر کسانوں اور بیوپاریوں کے درمیان جھگڑوں کا باعث بنتی تھی۔",
+                "جب مال ضائع ہوتا تو خریدار اپنی رقم واپس مانگتا، جس سے سماجی تعلقات خراب ہوتے تھے۔",
+                "نبی ﷺ نے ان جھگڑوں کی جڑ ہی کاٹ دی تاکہ معاشرہ پرامن رہے۔"
+              ],
+              "english": [
+                "Selling unripe fruit was a common cause of disputes between farmers and merchants.",
+                "When crops failed, buyers would demand refunds, leading to broken social ties.",
+                "The Prophet (PBUH) uprooted the cause of these disputes to maintain social harmony."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حلال رزق کی حفاظت",
+              "english": "Protecting Halal Provision"
+            },
+            "content": {
+              "urdu": [
+                "اگر اللہ تعالیٰ فصل کو روک لے تو تم کس چیز کے بدلے اپنے بھائی کا مال حلال سمجھو گے؟",
+                "یہ اصول تاجروں کو ذمہ دار بناتا ہے کہ وہ صرف اسی چیز کا معاوضہ لیں جو خریدار کو ملنا یقینی ہو۔",
+                "تجارت کی بنیاد 'حق' پر ہونی چاہیے نہ کہ محض 'قسمت آزمائی' پر۔"
+              ],
+              "english": [
+                "If Allah prevents the fruit from ripening, on what basis can one justify taking a brother's money?",
+                "This principle makes traders responsible, ensuring they only charge for deliverable goods.",
+                "Trade must be founded on 'rights' rather than mere 'speculation'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات",
+        "english": "Juristic Details"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایک درخت کی پختگی کافی ہے؟",
+              "english": "Is One Tree Enough?"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء کے نزدیک اگر باغ کے کچھ درختوں پر پھل پکنا شروع ہو جائیں تو پورے باغ کا سودا جائز ہے۔",
+                "شرط یہ ہے کہ پختگی کے آثار واضح ہو چکے ہوں جن سے فصل کے سلامت رہنے کا اندازہ ہو سکے۔",
+                "یہ رعایت کاشتکاروں کی سہولت کے لیے دی گئی ہے۔"
+              ],
+              "english": [
+                "Most jurists agree that if some trees in an orchard show signs of ripening, the whole orchard may be sold.",
+                "The condition is that signs must be clear enough to estimate the safety of the harvest.",
+                "This concession is provided for the convenience of farmers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پھل توڑ کر بیچنا",
+              "english": "Selling Harvested Fruit"
+            },
+            "content": {
+              "urdu": [
+                "اگر کچے پھل کسی خاص ضرورت (مثلاً چٹنی وغیرہ) کے لیے توڑ کر بیچے جائیں تو وہ جائز ہیں۔",
+                "ممانعت ان پھلوں کی ہے جو درخت پر چھوڑ دیے جائیں تاکہ وہ بعد میں پکیں۔",
+                "اسلام ہر اس عمل کی حوصلہ افزائی کرتا ہے جس میں نفع و نقصان بالکل واضح ہو۔"
+              ],
+              "english": [
+                "If unripe fruits are harvested and sold for a specific need (e.g., pickles), it is permissible.",
+                "The prohibition applies to fruits left on the tree with the intent of future ripening.",
+                "Islam encourages any practice where profit and loss parameters are crystal clear."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شفافیت کو مقدم رکھنا",
+              "english": "Prioritizing Transparency"
+            },
+            "content": {
+              "urdu": [
+                "تجارت میں جلد بازی کے بجائے صبر اور حقیقت پسندی سے کام لینا چاہیے۔",
+                "خریدار کو اس کے مال کا صحیح بدل دینا بیچنے والے کی اخلاقی اور مذہبی ذمہ داری ہے۔",
+                "برکت ہمیشہ سنت کی پیروی اور دیانتدارانہ لین دین میں ہوتی ہے۔"
+              ],
+              "english": [
+                "One should act with patience and realism in trade rather than haste.",
+                "Providing the buyer with true value for his money is the seller's moral and religious duty.",
+                "Blessing always resides in following the Sunnah and conducting honest transactions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خلاصہ کلام",
+              "english": "Conclusion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ثابت کرتی ہے کہ اسلام صرف عبادات کا نام نہیں بلکہ یہ بازاروں کے لیے بھی مکمل ضابطہ اخلاق رکھتا ہے۔",
+                "معاشی خوشحالی کے لیے شرعی قوانین کی پاسداری لازم ہے۔",
+                "تاجر کو چاہیے کہ وہ اپنے نفع کے ساتھ ساتھ دوسرے کے نفع کا بھی خیال رکھے۔"
+              ],
+              "english": [
+                "This Hadith proves Islam is not just about worship but provides a complete code of ethics for the marketplace.",
+                "Adhering to Sharia laws is essential for economic prosperity.",
+                "A merchant should care for the benefit of others just as he cares for his own profit."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

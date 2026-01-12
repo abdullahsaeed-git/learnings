@@ -1,0 +1,266 @@
+{
+  "hadithId": 291,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:990",
+      "https://sunnah.com/muslim:749"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "صحیح البخاری / صحیح مسلم",
+    "babId": 19
+  },
+  "name": {
+    "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ صَلَاةُ اَللَّيْلِ مَثْنَى مَثْنَى , فَإِذَا خَشِيَ أَحَدُكُمْ اَلصُّبْحِ صَلَّى رَكْعَةً وَاحِدَةً , تُوتِرُ لَهُ مَا قَدْ صَلَّى } مُتَّفَقٌ عَلَيْهِ .‏ وَلِلْخَمْسَةِ ‏- وَصَحَّحَهُ اِبْنِ حِبَّانَ ‏- : { صَلَاةُ اَللَّيْلِ وَالنَّهَارِ مَثْنَى مَثْنَى\" } وَقَالَ النَّسَائِيُّ : \"هَذَا خَطَأٌ\" .",
+    "urdu": "سیدنا عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”رات کی نماز دو دو رکعت ہے، اور جب تم میں سے کسی کو صبح (طلوع) ہونے کا خدشہ ہو تو ایک رکعت پڑھ لے، یہ اس کی پڑھی ہوئی نماز کو وتر (طاق) بنا دے گی۔“ (متفق علیہ)۔ اور پانچوں (سنن) میں ہے—اور ابن حبان نے اسے صحیح قرار دیا ہے—: ”رات اور دن کی نماز دو دو رکعت ہے۔“ اور نسائی نے کہا: ”یہ (دن کا اضافہ) غلطی ہے۔“",
+    "english": "Narrated Ibn Umar (RA): The Messenger of Allah (ﷺ) said: \"The night prayer is offered as two Rak'ahs followed by two Rak'ahs (and so on), and if one of you fears the approach of dawn, he should pray one Rak'ah and it will make all the prayer he has prayed, Witr (odd number).\" (Agreed Upon). And reported by the Five - and authenticated by Ibn Hibban -: \"The prayer of the night and the day is two by two.\" But An-Nasa'i said: \"This (addition of 'day') is an error.\""
+  },
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواه البخاري (990) ومسلم (749). ورواية \"صلاة الليل والنهار\" رواها أهل السنن وصححها ابن حبان (2442) لكن ضعف زيادة \"والنهار\" النسائي وكذا البخاري في التاريخ.",
+    "urdu": "صحیح، متفق علیہ۔ اسے بخاری (990) اور مسلم (749) نے روایت کیا ہے۔ \"رات اور دن\" والی روایت اصحاب سنن نے بیان کی ہے اور ابن حبان (2442) نے اسے صحیح کہا ہے، لیکن نسائی اور بخاری نے \"دن\" کے الفاظ کو ضعیف یا وہم قرار دیا ہے۔",
+    "english": "Sahih (Agreed Upon). Reported by Al-Bukhari (990) and Muslim (749). The narration \"Night and Day\" was reported by the authors of Sunan and authenticated by Ibn Hibban (2442), but An-Nasa'i and Al-Bukhari considered the addition \"and Day\" to be weak or an error."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَثْنَى مَثْنَى",
+      "english": "Two by two",
+      "urdu": "دو دو کر کے"
+    },
+    {
+      "arabic": "خَشِيَ",
+      "english": "Feared",
+      "urdu": "ڈر ہو / اندیشہ ہو"
+    },
+    {
+      "arabic": "اَلصُّبْحِ",
+      "english": "Dawn / Morning",
+      "urdu": "صبح / فجر"
+    },
+    {
+      "arabic": "تُوتِرُ",
+      "english": "Makes it Witr (Odd)",
+      "urdu": "وتر بنا دے"
+    },
+    {
+      "arabic": "خَطَأٌ",
+      "english": "Error / Mistake",
+      "urdu": "غلطی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث قیام اللیل کا طریقہ بتاتی ہے کہ نوافل دو دو رکعت کر کے پڑھے جائیں اور آخر میں ایک رکعت پڑھ کر اسے وتر بنا لیا جائے۔ دن کی نماز کے بارے میں اختلاف ہے۔",
+    "english": "This Hadith explains the method of Night Prayer (Qiyam al-Layl), stating it should be performed in sets of two Rak'ahs, concluding with a single Rak'ah to make it Witr. There is a difference of opinion regarding the day prayer."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (990)",
+      "english": "Reported by Al-Bukhari (990)"
+    },
+    {
+      "arabic": "رواه مسلم (749)",
+      "english": "Reported by Muslim (749)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد اللہ بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Muttafaq Alaih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مثنیٰ مثنیٰ کا مطلب",
+              "english": "Meaning of Mathna Mathna"
+            },
+            "content": {
+              "urdu": [
+                "رات کی نماز دو دو رکعت کر کے پڑھنی چاہیے۔",
+                "ہر دو رکعت کے بعد تشہد بیٹھیں اور سلام پھیریں۔",
+                "یہ طریقہ نبی ﷺ کی سنت اور سہولت پر مبنی ہے۔"
+              ],
+              "english": [
+                "Night prayers should be offered in sets of two Rak'ahs.",
+                "Sit for Tashahhud and perform Taslim after every two Rak'ahs.",
+                "This method is based on the Sunnah and ease provided by the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وتر کا وقت اور طریقہ",
+              "english": "Time and Method of Witr"
+            },
+            "content": {
+              "urdu": [
+                "وتر رات کی آخری نماز ہونی چاہیے۔",
+                "اگر فجر کا وقت قریب آ جائے تو ایک رکعت پڑھ لیں۔",
+                "یہ ایک رکعت پچھلی تمام جفت نمازوں کو طاق (وتر) بنا دیتی ہے۔"
+              ],
+              "english": [
+                "Witr should be the last prayer of the night.",
+                "If Fajr time approaches, pray one single Rak'ah.",
+                "This single Rak'ah makes all previous even-numbered prayers odd (Witr)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف",
+        "english": "Juristic Disagreement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایک رکعت وتر",
+              "english": "One Rak'ah Witr"
+            },
+            "content": {
+              "urdu": [
+                "جمہور (شافعی، مالکی، حنبلی) کے نزدیک ایک رکعت وتر جائز ہے۔",
+                "احناف کے نزدیک وتر تین رکعت ایک سلام کے ساتھ (یا دو سلام) ہے۔",
+                "حدیث کے الفاظ 'ایک رکعت' جمہور کے موقف کی تائید کرتے ہیں۔"
+              ],
+              "english": [
+                "According to the majority (Shafi'i, Maliki, Hanbali), one Rak'ah Witr is valid.",
+                "For Hanafis, Witr is three Rak'ahs with one Taslim (or two).",
+                "The words 'one Rak'ah' in the Hadith support the majority view."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دن کی نماز",
+              "english": "Prayer of the Day"
+            },
+            "content": {
+              "urdu": [
+                "روایت میں 'والنھار' (اور دن) کے الفاظ پر اختلاف ہے۔",
+                "بعض نے اسے صحیح کہا، یعنی دن کے نفل بھی دو دو کر کے پڑھیں۔",
+                "احناف کے نزدیک دن میں چار رکعت اکٹھی پڑھنا بھی افضل ہے۔"
+              ],
+              "english": [
+                "There is disagreement on the words 'Wan-Nahar' (and the day).",
+                "Some authenticated it, meaning day voluntary prayers are also 2 by 2.",
+                "For Hanafis, praying 4 Rak'ahs together during the day is also preferred."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیام اللیل کی عادت",
+              "english": "Habit of Qiyam al-Layl"
+            },
+            "content": {
+              "urdu": [
+                "رات کی نماز اللہ کے قرب کا بہترین ذریعہ ہے۔",
+                "اگر زیادہ نہ ہو سکے تو کم از کم دو رکعت اور وتر پڑھ لیں۔",
+                "فجر سے پہلے اٹھنا مومن کی صفت ہے۔"
+              ],
+              "english": [
+                "Night prayer is the best means of closeness to Allah.",
+                "If not much, pray at least two Rak'ahs and Witr.",
+                "Waking up before Fajr is a trait of a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی نگہبانی",
+              "english": "Watching the Time"
+            },
+            "content": {
+              "urdu": [
+                "عبادت کے دوران وقت کا خیال رکھنا ضروری ہے۔",
+                "صبح صادق ہوتے ہی رات کی نماز کا وقت ختم ہو جاتا ہے۔",
+                "اس لیے سحری اور نماز دونوں میں توازن رکھیں۔"
+              ],
+              "english": [
+                "It is necessary to keep track of time during worship.",
+                "As soon as dawn breaks, the time for night prayer ends.",
+                "Therefore, maintain a balance between Suhoor and prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محدثین کی تحقیق",
+              "english": "Research of Muhaddithin"
+            },
+            "content": {
+              "urdu": [
+                "امام نسائی کا قول 'یہ خطا ہے' محدثین کی باریک بینی ظاہر کرتا ہے۔",
+                "وہ متن میں ایک لفظ کی زیادتی کو بھی پرکھتے تھے۔",
+                "دین ہم تک انتہائی محفوظ اور چھان پھٹک کر پہنچا ہے۔"
+              ],
+              "english": [
+                "Imam Nasa'i's statement 'This is an error' shows the scrutiny of Muhaddithin.",
+                "They examined even the addition of a single word in the text.",
+                "The religion has reached us in a highly preserved and verified form."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وتر کا مفہوم",
+              "english": "Concept of Witr"
+            },
+            "content": {
+              "urdu": [
+                "وتر کا مطلب 'طاق' (Odd number) ہے۔",
+                "اللہ ایک ہے اور وتر (طاق) کو پسند کرتا ہے۔",
+                "نماز کا اختتام طاق عدد پر کرنا اللہ کی وحدانیت کا اقرار ہے۔"
+              ],
+              "english": [
+                "Witr means 'Odd number'.",
+                "Allah is One and He loves the Witr (Odd).",
+                "Ending the prayer on an odd number is an affirmation of Allah's Oneness."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

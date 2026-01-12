@@ -1,0 +1,291 @@
+{
+  "hadithId": 108,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["Abu Dawud 248", "Tirmidhi 106", "Ahmad 654"],
+    "kitabId": 1,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 8
+  },
+
+  "takhreej": {
+    "arabic": "منكر. رواه أبو داود (248) ، والترمذي (106) . ضعيف. رواه أحمد (654) . ",
+    "urdu": "منکر (قابلِ انکار) روایت۔ اسے ابوداؤد (248) اور ترمذی (106) نے روایت کیا ہے۔ احمد (654) کی روایت بھی ضعیف ہے۔",
+    "english": "Munkar (Rejected/Highly Weak). Reported by Abu Dawud (248) and At-Tirmidhi (106). The narration reported by Ahmad (654) is also Da'if (Weak)."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَحْتَ",
+      "english": "Underneath",
+      "urdu": "نیچے/تہہ میں"
+    },
+    {
+      "arabic": "شَعْرَةٍ",
+      "english": "A single hair",
+      "urdu": "ایک بال"
+    },
+    {
+      "arabic": "جَنَابَةً",
+      "english": "Major impurity (Janabah)",
+      "urdu": "جنابت"
+    },
+    {
+      "arabic": "فَاغْسِلُوا",
+      "english": "So wash",
+      "urdu": "پس تم دھوؤ"
+    },
+    {
+      "arabic": "اَلشَّعْرَ",
+      "english": "The hair",
+      "urdu": "بالوں کو"
+    },
+    {
+      "arabic": "أَنْقُوا",
+      "english": "Cleanse/Purify thoroughly",
+      "urdu": "اچھی طرح صاف کرو"
+    },
+    {
+      "arabic": "اَلْبَشَرَ",
+      "english": "The skin",
+      "urdu": "جسم/جلد"
+    },
+    {
+      "arabic": "وَضَعَّفَاه",
+      "english": "Both declared it weak",
+      "urdu": "دونوں نے ضعیف قرار دیا"
+    },
+    {
+      "arabic": "مَجْهُول",
+      "english": "Unknown (Narrator)",
+      "urdu": "مجہول (راوی)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث غسل جنابت کے دوران بالوں کی جڑوں اور پورے جسم کی جلد کو اچھی طرح دھونے کی تاکید کرتی ہے، حالانکہ سند کے لحاظ سے یہ روایت کمزور ہے۔",
+    "english": "This Hadith emphasizes the importance of washing the hair roots and cleansing the entire skin thoroughly during Ghusl from Janabah, despite the narration itself being weak in authenticity."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (248)",
+      "english": "Reported by Abu Dawud (248)"
+    },
+    {
+      "arabic": "رواه الترمذي (106)",
+      "english": "Reported by At-Tirmidhi (106)"
+    },
+    {
+      "arabic": "رواه أحمد (654)",
+      "english": "Reported by Ahmad (654)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "Aishah bint Abi Bakr As-Siddiq"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=hadith_ghusl_108",
+  "grade": {
+    "arabic": "منكر",
+    "english": "Munkar (Rejected)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طہارت میں مبالغہ کی ترغیب",
+        "english": "Encouragement for Thorough Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جلد اور بال دھونے کی تاکید",
+              "english": "Emphasis on Washing Skin and Hair"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات پر زور دیتی ہے کہ غسل جنابت میں جسم کے ہر حصے کو اچھی طرح دھونا چاہیے۔",
+                "لفظ 'انقوا البشر' (جلد کو اچھی طرح صاف کرو) اس بات کا تقاضا کرتا ہے کہ غسل میں مل کر نہایا جائے۔",
+                "اگرچہ یہ روایت ضعیف ہے، لیکن یہ حکم دیگر صحیح احادیث کے مطابق ہے۔"
+              ],
+              "english": [
+                "This Hadith stresses the importance of thoroughly washing every part of the body during Ghusl from Janabah.",
+                "The phrase 'Anqu al-Bashar' (cleanse the skin thoroughly) implies the necessity of rubbing the body while bathing.",
+                "Although the narration is weak, this underlying injunction is consistent with principles derived from authentic Ahadith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنابت کا اثر",
+              "english": "The Effect of Janabah"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کا مفہوم ہے کہ جنابت کا اثر جسم اور بال کی جڑوں تک سرایت کر جاتا ہے جسے دور کرنا ضروری ہے۔",
+                "یہ حکم مردوں کے لیے زیادہ اہم ہے کیونکہ انہیں اپنے گھنے بالوں میں پانی پہنچانا ہوتا ہے۔",
+                "عورتوں کے لیے بال کھولنا ضروری نہیں، لیکن جڑوں تک پانی پہنچانا ضروری ہے۔"
+              ],
+              "english": [
+                "The intended meaning is that the state of Janabah affects the entire body, including the roots of the hair, which must be purified.",
+                "This directive is particularly significant for men, who must ensure water reaches the scalp beneath their thick hair.",
+                "For women, while undoing braids is not necessary, ensuring water reaches the hair roots and scalp is still a requirement for valid Ghusl."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غسل کے فرائض کی وضاحت",
+        "english": "Clarification of Ghusl Obligations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غسل کے فرائض",
+              "english": "The Obligatory Acts of Ghusl"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کا مفہوم غسل کے دو بنیادی فرائض کی تائید کرتا ہے: پورے جسم پر پانی بہانا اور منہ اور ناک میں پانی ڈالنا۔",
+                "فقہاء نے اس 'صفائی کی تاکید' کو غسل کی صحت کے لیے لازم قرار دیا ہے کہ کوئی جگہ خشک نہ رہے۔",
+                "یہی وجہ ہے کہ غسل میں جلد کو دھونا اور سر کے بالوں کی جڑوں تک پانی پہنچانا فرض ہے۔"
+              ],
+              "english": [
+                "The meaning of this Hadith supports the two primary obligations of Ghusl: pouring water over the entire body and rinsing the mouth and nose.",
+                "Jurists consider this 'emphasis on cleansing' essential for the validity of Ghusl, ensuring no part of the skin remains dry.",
+                "This is why washing the skin and ensuring water penetrates to the roots of the hair are deemed obligatory actions in Ghusl."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف",
+              "english": "Juristic Disagreement"
+            },
+            "content": {
+              "urdu": [
+                "بعض فقہاء، مثلاً حنفیہ، بالوں میں پانی پہنچانے کے لیے بالوں میں انگلیوں سے خلال کرنے کو ضروری سمجھتے ہیں۔",
+                "یہ حکم اس ضعیف حدیث کے مفہوم کو تقویت دیتا ہے تاکہ بال کے ہر حصے کو پاکیزگی حاصل ہو۔",
+                "تاہم، صحیح احادیث کی روشنی میں صرف پورے جسم پر پانی بہا دینا ہی کافی ہے، جس میں سر بھی شامل ہے۔"
+              ],
+              "english": [
+                "Some jurists, such as the Hanafis, consider it necessary to run wet fingers through the hair (Khilal) to ensure water reaches the scalp.",
+                "This ruling reinforces the meaning of this weak Hadith, emphasizing purification for every part of the hair.",
+                "However, in light of authentic Ahadith, simply pouring water over the entire body, including the head, is generally considered sufficient."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روایت کا ضعف",
+        "english": "The Weakness of the Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضعف کی وجوہات",
+              "english": "Reasons for Weakness"
+            },
+            "content": {
+              "urdu": [
+                "ترمذی اور ابوداؤد نے خود اس روایت کو ضعیف قرار دیا ہے اور مسند احمد کی روایت میں بھی راوی مجہول ہے۔",
+                "'منکر' درجہ حدیث کا مطلب ہے کہ یہ روایت سند میں قابلِ اعتبار نہیں ہے اور دوسری صحیح احادیث کے خلاف ہے۔",
+                "اس لیے اس حدیث کو مستقل حکم کے لیے بنیاد بنانا درست نہیں بلکہ اسے صرف احتیاط کے طور پر لیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "At-Tirmidhi and Abu Dawud themselves declared this specific narration weak, and the chain in Musnad Ahmad contains an unknown narrator.",
+                "The grade 'Munkar' signifies that the narration is unreliable in its chain and potentially contradicts more authentic Ahadith.",
+                "Therefore, it is inappropriate to use this Hadith as the sole basis for a legal ruling, though its content can serve as a measure of precaution."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحیح احکام سے رہنمائی",
+              "english": "Guidance from Authentic Rulings"
+            },
+            "content": {
+              "urdu": [
+                "صحیح اور مضبوط احادیث، جیسے کہ عائشہ اور میمونہ رضی اللہ عنہما کی روایات، غسل کا صحیح طریقہ بتاتی ہیں۔",
+                "ان صحیح احادیث میں 'ہر بال کے نیچے جنابت' جیسے الفاظ استعمال نہیں ہوئے ہیں۔",
+                "مسلمانوں کو ضعیف روایات کے بجائے صحیح اور متفق علیہ احکام پر عمل کرنا چاہیے۔"
+              ],
+              "english": [
+                "Authentic and strong Ahadith, such as the narrations of 'Aishah and Maymunah (RA), provide the correct method for Ghusl.",
+                "These authentic narrations do not use wording like 'Janabah under every hair,' focusing instead on washing the body and roots of hair.",
+                "Muslims should prioritize acting upon authentic and agreed-upon rulings rather than relying on weak narrations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "احتیاط اور عملی تعلیم",
+        "english": "Precaution and Practical Teaching"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مبالغہ کی حدود",
+              "english": "Limits of Thoroughness"
+            },
+            "content": {
+              "urdu": [
+                "غسل میں صفائی کا خیال رکھنا ضروری ہے، لیکن حد سے زیادہ مبالغہ کرنا بدعت یا وسوسے کا سبب بن سکتا ہے۔",
+                "احتیاط کے طور پر، غسل کے دوران ہاتھوں سے پورے جسم کو ملنا اور پانی کو جڑوں تک پہنچانا مناسب ہے۔",
+                "نبی اکرم صلی اللہ علیہ وسلم نے اپنے عمل سے ہمیشہ اعتدال اور میانہ روی کی تعلیم دی ہے۔"
+              ],
+              "english": [
+                "Maintaining cleanliness during Ghusl is important, but excessive exaggeration can lead to Bid'ah (innovation) or obsessive doubts.",
+                "As a matter of precaution, it is appropriate to rub the entire body with the hands and ensure water reaches the roots during the bath.",
+                "The Prophet (PBUH) consistently taught moderation and balance through his personal actions and practice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پاکیزگی کا تصور",
+              "english": "The Concept of Purification"
+            },
+            "content": {
+              "urdu": [
+                "جنابت کا ازالہ صرف پانی سے پورے جسم کو دھونے سے ہو جاتا ہے، یہ کسی ظاہری نجاست کی طرح نہیں۔",
+                "پانی کا گزرنا ہی کافی ہے، جس کی تصدیق خواتین کے لیے بال نہ کھولنے کی اجازت سے ہوتی ہے۔",
+                "یہ امر واضح کرتا ہے کہ طہارت کا اصل مقصد جسم سے ناپاکی کو دور کر کے عبادت کے لیے تیار ہونا ہے۔"
+              ],
+              "english": [
+                "Janabah is removed simply by washing the entire body with water; it is not treated like a physical impurity (Najasa) that needs rigorous scrubbing.",
+                "The flow of water over the body is sufficient, a point confirmed by the permission granted to women not to undo their braids.",
+                "This clarifies that the primary goal of purification is to remove the state of major impurity to prepare for acts of worship."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

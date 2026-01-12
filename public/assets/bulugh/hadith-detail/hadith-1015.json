@@ -1,0 +1,264 @@
+{
+  "hadithId": 1015,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/23"],
+    "kitabId": 9,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام",
+    "babId": 80
+  },
+
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (6703)، وأبو داود (4566)، والنسائي (4855)، والترمذي (1390)، وابن ماجه (2655)، وابن الجارود (785)، وصححه ابن خزيمة.",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام احمد، ابوداؤد، نسائی، ترمذی اور ابن ماجہ نے روایت کیا ہے، اور ابن خزیمہ نے اسے صحیح قرار دیا ہے۔",
+    "english": "Hasan (Good). Reported by Ahmad (6703), Abu Dawud (4566), An-Nasa'i (4855), At-Tirmidhi (1390), and Ibn Majah (2655). Ibn Khuzaimah and Ibn al-Jarud authenticated it."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْمَوَاضِحِ",
+      "english": "Bone-exposing wounds",
+      "urdu": "وہ زخم جس میں ہڈی نظر آئے"
+    },
+    {
+      "arabic": "خَمْسٌ",
+      "english": "Five",
+      "urdu": "پانچ"
+    },
+    {
+      "arabic": "اَلْإِبِلِ",
+      "english": "Camels",
+      "urdu": "اونٹ"
+    },
+    {
+      "arabic": "الْأَصَابِعُ",
+      "english": "Fingers",
+      "urdu": "انگلیاں"
+    },
+    {
+      "arabic": "سَوَاءٌ",
+      "english": "Equal",
+      "urdu": "برابر"
+    },
+    {
+      "arabic": "عَشْرٌ",
+      "english": "Ten",
+      "urdu": "دس"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں دو اہم شرعی مالی جرمانوں (دیت) کا ذکر ہے: وہ زخم جس میں ہڈی نظر آنے لگے اس کی دیت 5 اونٹ ہے، اور ہاتھ یا پاؤں کی ہر انگلی کی دیت برابر یعنی 10 اونٹ ہے۔",
+    "english": "This Hadith specifies the compensation (Diyyah) for two cases: a wound exposing the bone requires 5 camels, and each finger or toe carries an equal compensation of 10 camels."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (6703)",
+      "english": "Reported by Ahmad (6703)"
+    },
+    {
+      "arabic": "رواه الترمذي (1390)",
+      "english": "Reported by At-Tirmidhi (1390)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعيب",
+        "english": "Amr bin Shu'aib"
+      },
+      "slug": "amr-bin-shuaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=X-oA8_Yv2nQ",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "موضحہ زخم کی دیت",
+        "english": "Compensation for Mudihah Wound"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زخم کی شرعی درجہ بندی",
+              "english": "Legal Classification of Wounds"
+            },
+            "content": {
+              "urdu": [
+                "موضحہ وہ زخم ہے جو گوشت کو کاٹ کر ہڈی کو بالکل واضح کر دے۔",
+                "ایسے زخم کی دیت شریعت نے 5 اونٹ مقرر کی ہے جو کہ مقررہ حد ہے۔",
+                "یہ جرمانہ اس لیے ہے تاکہ جسمانی نقصان کی مالی تلافی کی جا سکے۔"
+              ],
+              "english": [
+                "Mudihah is a wound that cuts through the flesh and exposes the bone.",
+                "Sharia has fixed the compensation for this specific wound at 5 camels.",
+                "This penalty serves as a financial redress for physical injury caused."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا قیام",
+              "english": "Establishing Justice"
+            },
+            "content": {
+              "urdu": [
+                "زخموں کی دیت مقرر کرنے سے لوگوں کے درمیان لڑائی جھگڑا ختم ہوتا ہے۔",
+                "واضح قانون کی موجودگی میں کوئی بھی اپنی مرضی کا جرمانہ وصول نہیں کر سکتا۔",
+                "اسلامی نظامِ عدل میں ہر چھوٹے بڑے نقصان کی تلافی کا حل موجود ہے۔"
+              ],
+              "english": [
+                "Fixing Diyyah for wounds prevents ongoing disputes and blood feuds.",
+                "With a clear law, no one can demand an arbitrary amount for injuries.",
+                "The Islamic justice system provides solutions for every degree of harm."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انگلیوں کی دیت میں برابری",
+        "english": "Equality in Compensation for Fingers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "افادیت پر برابری کو ترجیح",
+              "english": "Equality over Functional Utility"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ انگوٹھا چھنگلی سے زیادہ کام دیتا ہے، مگر دیت میں دونوں برابر ہیں۔",
+                "شریعت نے ہر انگلی کی قیمت 10 اونٹ مقرر کر کے مساوات قائم کی۔",
+                "یہ اصول انسانی وقار کی برابری اور قانون کی سادگی کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Though the thumb is more functional than the pinky, their Diyyah is equal.",
+                "Sharia established equality by fixing 10 camels for every single finger.",
+                "This principle reflects human dignity and the simplicity of the law."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تنازعات کا حل",
+              "english": "Resolution of Conflicts"
+            },
+            "content": {
+              "urdu": [
+                "اگر انگلیوں کی دیت الگ ہوتی تو ہر بار ان کی قیمت پر بحث ہوتی۔",
+                "برابری کا اصول فیصلے کرنے میں آسانی اور شفافیت پیدا کرتا ہے۔",
+                "اسلامی ریاست میں ہر شہری کے اعضاء کو یکساں تحفظ حاصل ہے۔"
+              ],
+              "english": [
+                "If fingers had different values, it would lead to constant litigation.",
+                "The principle of equality ensures ease and transparency in legal rulings.",
+                "In an Islamic state, every citizen's limbs receive equal legal protection."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مالی ہرجانے کی حکمت",
+        "english": "Wisdom Behind Financial Redress"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انتقام کے جذبے کی ٹھنڈک",
+              "english": "Soothing the Desire for Revenge"
+            },
+            "content": {
+              "urdu": [
+                "دیت کی ادائیگی سے مظلوم کے دل سے بدلے کی آگ کم ہوتی ہے۔",
+                "یہ مالی جرمانہ مجرم کے لیے تنبیہ اور مالی بوجھ بنتا ہے۔",
+                "اسلامی سزاؤں کا مقصد معاشرتی امن اور ہم آہنگی کو برقرار رکھنا ہے۔"
+              ],
+              "english": [
+                "Payment of Diyyah cools the victim's desire for physical revenge.",
+                "This financial penalty serves as a warning and burden for the offender.",
+                "Islamic penalties aim to maintain social peace and harmony."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق العباد کی اہمیت",
+              "english": "Importance of Human Rights"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کے ہاں حقوق العباد کی ادائیگی انتہائی ضروری اور حساس معاملہ ہے۔",
+                "کسی کا جسمانی نقصان کر کے اس کی تلافی نہ کرنا گناہِ عظیم ہے۔",
+                "دیت کا نظام اس بات کی ضمانت ہے کہ کوئی کسی کا حق نہیں مار سکتا۔"
+              ],
+              "english": [
+                "Fulfilling the rights of others is a sensitive and critical matter in Islam.",
+                "Causing physical harm without providing compensation is a major sin.",
+                "The Diyyah system guarantees that no one's rights can be usurped."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی و تربیتی سبق",
+        "english": "Practical and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی جسم کا احترام",
+              "english": "Respect for the Human Body"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں دوسروں کے جسمانی تحفظ اور سلامتی کا خیال رکھنا چاہیے۔",
+                "ہمارے ہاتھ یا زبان سے کسی کو تکلیف پہنچنا ایمان کے منافی ہے۔",
+                "کسی کو معمولی زخم لگانا بھی آخرت میں جوابدہی کا باعث بن سکتا ہے۔"
+              ],
+              "english": [
+                "We must be mindful of the physical safety and integrity of others.",
+                "Causing harm through our hands or tongue contradicts perfect faith.",
+                "Inflicting even a minor wound can lead to accountability in the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شریعت کی اتباع",
+              "english": "Following the Sharia"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو چاہیے کہ وہ اپنے فیصلے قرآن و سنت کے مطابق کریں۔",
+                "دیت کے احکامات پر عمل کرنا معاشرتی انصاف کی علامت ہے۔",
+                "صحابہ کرام نے ان قوانین پر عمل کر کے ایک پرامن معاشرہ قائم کیا۔"
+              ],
+              "english": [
+                "Muslims should base their legal decisions on the Quran and Sunnah.",
+                "Adhering to Diyyah rulings is a sign of social justice and order.",
+                "The Sahabah established a peaceful society by implementing these laws."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

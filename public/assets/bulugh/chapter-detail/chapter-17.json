@@ -1,0 +1,485 @@
+{
+  "chapId": 17,
+  "bookId": 2,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 210,
+    "to": 261
+  },
+  "hadiths": [
+    {
+      "id": 210,
+      "name": {
+        "arabic": "عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏- قَالَ : { إِذَا قُمْتُ إِلَى اَلصَّلَاةِ فَأَسْبِغِ اَلْوُضُوءَ , ثُمَّ اِسْتَقْبِلِ اَلْقِبْلَةَ , فَكَبِّرْ , ثُمَّ اِقْرَأْ مَا تَيَسَّرَ مَعَكَ مِنْ اَلْقُرْآنِ , ثُمَّ اِرْكَعْ حَتَّى تَطْمَئِنَّ رَاكِعًا , ثُمَّ اِرْفَعْ حَتَّى تَعْتَدِلَ قَائِمًا , ثُمَّ اُسْجُدْ حَتَّى تَطْمَئِنَّ سَاجِدًا , ثُمَّ اِرْفَعْ حَتَّى تَطْمَئِنَّ جَالِسًا , ثُمَّ اُسْجُدْ حَتَّى تَطْمَئِنَّ سَاجِدًا , ثُمَّ اِفْعَلْ ذَلِكَ فِي صَلَاتِكَ كُلِّهَا } أَخْرَجَهُ اَلسَّبْعَةُ , وَاللَّفْظُ لِلْبُخَارِيِّ",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”جب تم نماز ادا کرنے کیلئے کھڑا ہونے کا ارادہ کرو تو پہلے وضو اچھی طرح کر لو پھر قبلہ رو ہو کر تکبیر «الله اكبر» کہو۔ پھر قرآن کا جتنا حصہ تمہیں یاد ہو اس میں سے جتنا آسانی سے پڑھ سکتے ہو، پڑھو۔ پھر رکوع کرو اور پوری طرح اطمینان سے رکوع کرو۔ پھر سیدھا کھڑے (ہو جاؤ) اور پورے اطمینان سے کھڑے رہو، پھر سجدہ کرو اور پورے اطمینان کے ساتھ سجدہ کرو پھر سجدہ سے اٹھ کر پورے اطمینان سے بیٹھ جاؤ پھر دوسرا سجدہ کرو اور پورے اطمینان سے کرو۔ پس پھر باقی ساری نماز میں اسی طرح (اطمینان سے ارکان نماز ادا کرو)۔“ اسے بخاری، مسلم، ابوداؤد، ترمذی، نسائی، ابن ماجہ اور امام احمد نے روایت کیا ہے اور یہ الفاظ امام بخاری کے ہیں۔",
+        "english": "Narrated from Abu Hurayrah (may Allah be pleased with him) that the Prophet (peace and blessings be upon him) said: \"When you stand for prayer, perform Wudu' thoroughly, then face the Qiblah and say the Takbir (Allahu Akbar). Then recite whatever is easy for you of the Qur'an. Then bow (Ruku') until you are in peaceful composure (Tuma'ninah) in bowing. Then stand up until you are straight and in peaceful composure in standing. Then prostrate (Sujud) until you are in peaceful composure in prostrating. Then sit up until you are in peaceful composure in sitting. Then prostrate until you are in peaceful composure in prostrating. Then do that throughout your entire prayer.\" Reported by the Seven (major Hadith narrators), and the wording is that of Al-Bukhari."
+      }
+    },
+
+    {
+      "id": 211,
+      "name": {
+        "arabic": "وَعَنْ أَبِي حُمَيْدٍ اَلسَّاعِدِيِّ ‏- رضى الله عنه ‏- قَالَ : { رَأَيْتُ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏- إِذَا كَبَّرَ جَعَلَ يَدَيْهِ حَذْوَ مَنْكِبَيْهِ , وَإِذَا رَكَعَ أَمْكَنَ يَدَيْهِ مِنْ رُكْبَتَيْهِ , ثُمَّ هَصَرَ ظَهْرِهِ , فَإِذَا رَفَعَ رَأْسَهُ اِسْتَوَى حَتَّى يَعُودَ كُلُّ فَقَارٍ مَكَانَهُ , فَإِذَا سَجَدَ وَضَعَ يَدَيْهِ غَيْرَ مُفْتَرِشٍ وَلَا قَابِضِهِمَا , وَاسْتَقْبَلَ بِأَطْرَافِ أَصَابِعِ رِجْلَيْهِ اَلْقِبْلَةَ , وَإِذَا جَلَسَ فِي اَلرَّكْعَتَيْنِ جَلَسَ عَلَى رِجْلِهِ اَلْيُسْرَى وَنَصَبَ اَلْيُمْنَى , وَإِذَا جَلَسَ فِي اَلرَّكْعَةِ اَلْأَخِيرَةِ قَدَّمَ رِجْلَهُ اَلْيُسْرَى وَنَصَبَ اَلْأُخْرَى , وَقَعَدَ عَلَى مَقْعَدَتِهِ } أَخْرَجَهُ اَلْبُخَارِيُّ",
+        "urdu": "سیدنا ابوحمید ساعدی رضی اللہ عنہ روایت کرتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا کہ آپ جب تکبیر (اولیٰ) کہتے تو اپنے دونوں ہاتھ کندھوں کے برابر تک اٹھاتے تھے اور جب رکوع کرتے تو اپنے دونوں ہاتھوں سے اپنے گھٹنوں کو مضبوطی سے پکڑ لیتے تھے اور اپنی پشت مبارک (سیدھی کر کے) جھکا لیتے پھر جب اپنا سر رکوع سے اوپر اٹھاتے تو اس طرح سیدھے کھڑے ہوتے کہ ہر جوڑ اپنی اپنی جگہ پر پہنچ جاتا (اس کے بعد) پھر جب سجدہ فرماتے تو اپنے دونوں ہاتھ (زمین) پر اس طرح رکھتے کہ نہ زیادہ سمٹے ہوئے ہوتے اور نہ زمین پر بچھے ہوئے ہوتے۔ حالت سجدہ میں دونوں پاؤں کی انگلیاں قبلہ رُخ ہوتیں۔ جب آپ صلی اللہ علیہ وسلم دو رکعت پڑھ کر قعدہ کرتے تو بایاں پاؤں زمین پر بچھا لیتے اور دایاں پاؤں کھڑا رکھتے اور جب آخری قعدہ کرتے تو بایاں پاؤں (دائیں ران کے نیچے سے) آگے بڑھا دیتے اور دایاں کھڑا رکھتے اور سرین پر بیٹھ جاتے۔ (بخاری) ",
+        "english": "Narrated from Abu Humayd As-Sa'idi (may Allah be pleased with him): \"I saw the Prophet (peace and blessings be upon him) that when he said the Takbīr, he would raise his hands parallel to his shoulders. When he bowed (Rukū'), he would firmly place his hands on his knees and flatten his back. When he raised his head (from Rukū'), he would straighten up until every vertebra returned to its place. When he prostrated (Sujud), he would place his hands down without spreading them or keeping them close to his sides, and he would direct the tips of his toes towards the Qiblah. When he sat in the first two Rak'ah (for Tashahhud), he would sit on his left foot and keep his right foot upright. And when he sat in the last Rak'ah (for the final Tashahhud), he would bring his left foot forward (under his right thigh), keep the other (right foot) upright, and sit on his hip (buttock).\" Reported by Al-Bukhari."
+      }
+    },
+
+    {
+      "id": 212,
+      "name": {
+        "arabic": "وَعَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ ‏- رضى الله عنه ‏- عَنْ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏- { أَنَّهُ كَانَ إِذَا قَامَ إِلَى اَلصَّلَاةِ قَالَ : \"وَجَّهْتُ وَجْهِي لِلَّذِي فَطَّرَ اَلسَّمَوَاتِ\" .‏ .‏ .‏ إِلَى قَوْلِهِ : \"مِنْ اَلْمُسْلِمِينَ , اَللَّهُمَّ أَنْتَ اَلْمَلِكُ لَا إِلَهَ إِلَّا أَنْتَ , أَنْتَ رَبِّي وَأَنَا عَبْدُكَ .‏ .‏ .‏\" إِلَى آخِرِهِ .‏ رَوَاهُ مُسْلِمٌ وَفِي رِوَايَةٍ لَهُ : أَنَّ ذَلِكَ فِي صَلَاةِ اَللَّيْلِ.‏",
+        "urdu": "سیدنا علی رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم جب نماز کیلئے کھڑے ہوتے تو پہلے یہ دعا (دعاء الاستفتاح) پڑھتے کہ «وجهت وجهي للذي فطر السموات والأرض حنيفاً وما أنا من المشركين، إن صلاتي ونسكي ومحياي ومماتي لله رب العالمين، لا شريك له، وبذلك أمرت وأنا من المسلمين، اللهم أنت الملك لا إله إلا أنت، أنت ربي وأنا عبدك...» (آخر تک) اور مسلم ہی کی ایک روایت میں ہے کہ آپ صلی اللہ علیہ وسلم یہ رات کی نماز (تہجد) میں پڑھا کرتے تھے۔ ",
+        "english": "Narrated from 'Ali ibn Abi Talib (may Allah be pleased with him) that the Messenger of Allah (peace and blessings be upon him), when he stood for prayer, would say: \"I have turned my face to Him Who originated the heavens and the earth, being an upright one (Ḥanīfan), and I am not of the polytheists. Indeed, my prayer, my sacrifice, my living, and my dying are for Allah, the Lord of the worlds, Who has no partner. With this I am commanded, and I am among the Muslims. O Allah, You are the King; there is no god but You. You are my Lord and I am Your servant...\" (to the end of the invocation). Reported by Muslim. And in one of his narrations: He would say that in the night prayer (Salāt Al-Layl)."
+      }
+    },
+
+    {
+      "id": 213,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- إِذَا كَبَّرَ لِلصَّلَاةِ سَكَتَ هُنَيَّةً , قَبْلِ أَنْ يَقْرَأَ , فَسَأَلْتُهُ , فَقَالَ : \"أَقُولُ : اَللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ اَلْمَشْرِقِ وَالْمَغْرِبِ , اَللَّهُمَّ نقِّنِي مِنْ خَطَايَايَ كَمَا يُنَقَّى اَلثَّوْبُ اَلْأَبْيَضُ مِنْ اَلدَّنَسِ , اَللَّهُمَّ اِغْسِلْنِي مِنْ خَطَايَايَ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ\" } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": " سیدنا ابوہریرہ رضی اللہ عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کا معمول تھا کہ تکبیر تحریمہ کے بعد تھوڑا سا وقفہ فرماتے پھر قرآت شروع کرتے (ایک روز) میں نے عرض کیا یا رسول اللہ! وقفہ کے دوران آپ کیا پڑھتے ہیں؟ فرمایا! «اللهم باعد بيني وبين خطاياي كما باعدت بين المشرق والمغرب اللهم نقني من خطاياي كما ينقى الثوب الأبيض من الدنس اللهم اغسلني من خطاياي بالماء والثلج والبرد» ” اے اللہ! میرے اور میرے گناہوں کے مابین اتنا فاصلہ اور دوری فرما دے کہ جتنا مشرق و مغرب کے درمیان فاصلہ ہے۔ اے اللہ! مجھے گناہوں اور خطاؤں سے اس طرح صاف فرما دے کہ جس طرح سفید کپڑا میل کچیل سے صاف کیا جاتا ہے۔ اے اللہ! میرے گناہوں کو پانی، برف اور اولوں سے دھو ڈال۔“ (بخاری و مسلم)  ",
+        "english": "Narrated from Abu Hurayrah (may Allah be pleased with him) who said: The Messenger of Allah (peace and blessings be upon him), when he said the Takbīr for prayer, would remain silent for a short while (Hunayyah) before reciting. I asked him, and he said: \"I say: 'Allāhumma bā'id baynī wa bayna khaṭāyāya kamā bā'adta bayna-l-mashriqi wal-maghrib. Allāhumma naqqinī min khaṭāyāya kamā yunaqqa al-thawbu al-abyadhu min al-danas. Allāhumma aghsilnī min khaṭāyāya bil-mā’i wath-thalji wal-barad.' (O Allah, separate me from my sins as You have separated the East and the West. O Allah, cleanse me of my sins as a white garment is cleansed of dirt. O Allah, wash away my sins with water, snow, and hail.)\" Agreed upon (Al-Bukhari and Muslim)."
+      }
+    },
+
+    {
+      "id": 214,
+      "name": {
+        "arabic": "وَعَنْ عُمَرَ ‏- رضى الله عنه ‏- أَنَّهُ كَانَ يَقُولُ : { سُبْحَانَكَ اَللَّهُمَّ وَبِحَمْدِكَ , تَبَارَكَ اِسْمُكَ , وَتَعَالَى جَدُّكَ , وَلَا إِلَهُ غَيْرُكَ } رَوَاهُ مُسْلِمٌ بِسَنَدٍ مُنْقَطِعٍ , وَاَلدَّارَقُطْنِيُّ مَوْصُولاً وَهُوَ مَوْقُوفٌ وَنَحْوُهُ عَنْ أَبِي سَعِيدٍ مَرْفُوعًا عِنْدَ اَلْخَمْسَةِ وَفِيهِ : وَكَانَ يَقُولُ بَعْدَ اَلتَّكْبِيرِ : { أَعُوذُ بِاَللَّهِ اَلسَّمِيعِ اَلْعَلِيمِ مِنَ اَلشَّيْطَانِ اَلرَّجِيمِ , مِنْ هَمْزِهِ , وَنَفْخِهِ , وَنَفْثِهِ }",
+        "urdu": "سیدنا عمر رضی اللہ عنہ سے روایت ہے کہ آپ (نماز کے آغاز میں) «سبحانك اللهم وبحمدك وتبارك اسمك وتعالى جدك ولا إله غيرك» پڑھتے تھے: ” اے اللہ تو پاک ہے اور سب تعریفیں تیرے ہی لئے ہیں۔ بابرکت ہے تیرا نام اور بلند ہے تیری شان اور تیرے سوا کوئی معبود نہیں۔“ اسے مسلم نے منقطع اور دارقطنی نے موصول روایت کیا ہے اور یہ موقوف ہے۔ احمد، ابوداؤد، نسائی، ابن ماجہ اور ترمذی (پانچوں) نے سیدنا ابوسعید خدری رضی اللہ عنہ کے حوالہ سے اسی طرح مرفوعاً روایت کیا ہے اور اس میں یہ بھی ذکر ہے کہ آپ صلی اللہ علیہ وسلم تکبیر تحریمہ کے بعد تعوذ یعنی «أعوذ بالله السميع العليم من الشيطان الرجيم من همزه ونفخه ونفثه» پڑھتے تھے۔ ”میں اللہ سمیع و علیم کی شیطان مردود سے پناہ لیتا ہوں اس کے وسوسوں سے، اس کے پھونکنے (کبر و نخوت) سے اور اس کے جادو (شعر) سے۔“ ",
+        "english": "Narrated from 'Umar (may Allah be pleased with him) that he used to say (at the beginning of the prayer): \"Subḥānak Allāhumma wa bi-ḥamdika, wa tabāraka-smuka, wa ta'ālā jadduka, wa lā ilāha ghayruk.\" (Glory be to You, O Allah, and with Your praise; blessed is Your Name, exalted is Your majesty, and there is no god besides You.) Reported by Muslim with a disconnected chain (Munqaṭi') and by Ad-Dāraquṭnī with a connected chain, but it is Maukūf (saying of a Companion). The same content is Marfū' (attributed to the Prophet) from Abu Sa'id (RA) by the Five (Ahmad, Abu Dawud, An-Nasa'i, Ibn Majah, and At-Tirmidhi). And in it (the narration from Abu Sa'id): He would say after the Takbīr: \"A'ūdhu billāhi-s-samī'i-l-'alīmi mina-sh-shayṭāni-r-rajīm, min hamzihi, wa nafkhīhi, wa nafthīhi.\" (I seek refuge with Allah, the All-Hearing, the All-Knowing, from the outcast Satan, from his madness/evil suggestions, his pride/blowing, and his poetry/spitting)."
+      }
+    },
+
+    {
+      "id": 215,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- يَسْتَفْتِحُ اَلصَّلَاةَ بِالتَّكْبِيرِ , وَالْقِرَاءَةَ : بِـ (اَلْحَمْدُ لِلَّهِ رَبِّ اَلْعَالَمِينَ )‏ وَكَانَ إِذَا رَكَعَ لَمْ يُشْخِصْ رَأْسَهُ , وَلَمْ يُصَوِّبْهُ , وَلَكِنْ بَيْنَ ذَلِكَ .‏ وَكَانَ إِذَا رَفَعَ مِنْ اَلرُّكُوعِ لَمْ يَسْجُدْ حَتَّى يَسْتَوِيَ قَائِمًا .‏ وَإِذَا رَفَعَ مِنْ اَلسُّجُودِ لَمْ يَسْجُدْ حَتَّى يَسْتَوِيَ جَالِسًا .‏ وَكَانَ يَقُولُ فِي كُلِّ رَكْعَتَيْنِ اَلتَّحِيَّةَ .‏ وَكَانَ يَفْرِشُ رِجْلَهُ اَلْيُسْرَى وَيَنْصِبُ اَلْيُمْنَى .‏ وَكَانَ يَنْهَى عَنْ عُقْبَةِ اَلشَّيْطَانِ , وَيَنْهَى أَنْ يَفْتَرِشَ اَلرَّجُلُ زِرَاعَيْهِ اِفْتِرَاشَ اَلسَّبُعِ .‏ وَكَانَ يُخْتَمُ اَلصَّلَاةَ بِالتَّسْلِيمِ } أَخْرَجَهُ مُسْلِمٌ , وَلَهُ عِلَّةٌ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا روایت کرتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نماز کا آغاز «الله اكبر» سے کیا کرتے تھے اور قرأت «الحمد لله رب العالمين» (سورۃ فاتحہ) سے شروع کرتے۔ اور جب رکوع کرتے تو اپنا سر مبارک نہ اونچا کرتے اور نہ نیچا کرتے بلکہ اس کے درمیان کی حالت میں رکھتے اور جب رکوع سے سر اٹھاتے تو اس وقت تک سجدہ میں نہ جاتے جب تک کہ بالکل سیدھے کھڑے نہ ہو جاتے اور جب سجدہ سے سر اٹھاتے تو دوسرا سجدہ اس وقت تک نہ کرتے جب تک کہ ٹھیک آرام سے بیٹھ نہ جاتے اور ہر دو رکعت کے بعد تشہد پڑھتے اور اپنے بائیں پاؤں کو زمین پر بچھا لیتے اور دائیں کو قائم رکھتے (کھڑا رکھتے)۔ شیطان کی چوکڑی سے منع فرماتے تھے اور درندوں کی طرح بازو آگے نکال کر بچھانے سے بھی منع فرماتے تھے اور نماز کو سلام کے ساتھ ختم کرتے تھے۔ (مسلم) ",
+        "english": "Narrated from 'Aishah (may Allah be pleased with her) who said: The Messenger of Allah (peace and blessings be upon him) would begin the prayer with the Takbīr (Allahu Akbar), and the recitation with 'Al-Hamdu Lillahi Rabbil 'Alamīn' (Surah Al-Fatihah). When he bowed (Rukū'), he would neither raise his head nor lower it, but keep it in between. When he raised his head from bowing, he would not prostrate until he had stood up straight. When he raised his head from prostration, he would not prostrate again until he had sat up straight in composure. He used to say the Tashahhud in every two Rak'ah. He would spread out his left foot and keep his right foot upright. He used to forbid 'Uqbat Ash-Shayṭān (the squat of Satan) and forbid a man from spreading out his forearms like a beast of prey. He would conclude the prayer with the Taslīm (salutation). Reported by Muslim."
+      }
+    },
+
+    {
+      "id": 216,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏- كَانَ يَرْفَعُ يَدَيْهِ حَذْوَ مَنْكِبَيْهِ إِذَا اِفْتَتَحَ اَلصَّلَاةَ , وَإِذَا كَبَّرَ لِلرُّكُوعِ , وَإِذَا رَفَعَ رَأْسَهُ مِنْ اَلرُّكُوعِ } مُتَّفَقٌ عَلَيْهِ وَفِي حَدِيثِ أَبِي حُمَيْدٍ , عِنْدَ أَبِي دَاوُدَ : { يَرْفَعُ يَدَيْهِ حَتَّى يُحَاذِيَ بِهِمَا مَنْكِبَيْهِ, ثُمَّ يُكَبِّرَ } وَلِمُسْلِمٍ عَنْ مَالِكِ بْنِ الْحُوَيْرِثِ ‏- رضى الله عنه ‏- نَحْوُ حَدِيثِ اِبْنِ عُمَرَ , وَلَكِنْ قَالَ : { حَتَّى يُحَاذِيَ بِهِمَا فُرُوعَ أُذُنَيْهِ }",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نماز کا آغاز فرماتے تو اپنے دونوں ہاتھ کندھوں کے مقابل تک اٹھاتے اور جب رکوع کے لئے «الله اكبر» کہتے تو بھی اور جب رکوع سے سر اٹھاتے تب بھی اپنے دونوں ہاتھ کندھوں کے مقابل تک اٹھاتے۔ (رفع یدین کرتے) (بخاری ومسلم)۔ اور ابوداؤد میں ابوحمید سے مروی حدیث میں ہے کہ اپنے دونوں ہاتھوں کو کندھوں کے برابر اٹھاتے پھر «الله اكبر» (تکبیر) کہتے۔ اور مسلم میں مالک بن حویرث رضی اللہ عنہ سے مروی حدیث میں بھی اسی طرح منقول ہے، جس طرح ابن عمر رضی اللہ عنہما کی روایت میں ہے لیکن اس میں ” کندھوں کے مقابل “ کی جگہ اپنے کانوں کے نرم حصوں کے مقابل تک اٹھاتے مذکور ہے۔ ",
+        "english": "Narrated from Ibn 'Umar (may Allah be pleased with them both): The Prophet (peace and blessings be upon him) would raise his hands parallel to his shoulders when he started the prayer, when he said the Takbīr for bowing (Rukū'), and when he raised his head from bowing. Agreed upon (Al-Bukhari and Muslim). In the Hadith of Abu Humayd, reported by Abu Dawud: \"He would raise his hands until they were level with his shoulders, then say the Takbīr.\" And in Muslim, from Malik ibn Al-Huwayrith (RA), a similar Hadith to that of Ibn 'Umar, but he said: \"Until they were level with the tops (or tips) of his ears.\""
+      }
+    },
+
+    {
+      "id": 217,
+      "name": {
+        "arabic": "وَعَنْ وَائِلِ بْنِ حُجْرٍ ‏- رضى الله عنه ‏- قَالَ : { صَلَّيْتُ مَعَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏- فَوَضَعَ يَدَهُ اَلْيُمْنَى عَلَى يَدِهِ اَلْيُسْرَى عَلَى صَدْرِهِ } أَخْرَجَهُ اِبْنُ خُزَيْمَةَ",
+        "urdu": "سیدنا وائل بن حجر رضی اللہ عنہ روایت کرتے ہیں کہ میں نے نبی کریم صلی اللہ علیہ وسلم کے ساتھ نماز ادا کی تو آپ صلی اللہ علیہ وسلم نے اپنا دایاں ہاتھ اپنے بائیں ہاتھ پر رکھ کر سینے پر باندھ لیا۔ (ابن خزیمہ)",
+        "english": "Narrated from Wā'il ibn Ḥujr (may Allah be pleased with him) who said: \"I prayed with the Prophet (peace and blessings be upon him), and he placed his right hand over his left hand on his chest.\" Reported by Ibn Khuzaymah."
+      }
+    },
+
+    {
+      "id": 218,
+      "name": {
+        "arabic": "وَعَنْ عُبَادَةَ بْنِ اَلصَّامِتِ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- { لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِأُمِّ اَلْقُرْآنِ } مُتَّفَقٌ عَلَيْهِ وَفِي رِوَايَةٍ , لِابْنِ حِبَّانَ وَاَلدَّارَقُطْنِيِّ : { لَا تَجْزِي صَلَاةٌ لَا يُقْرَأُ فِيهَا بِفَاتِحَةِ اَلْكِتَابِ } وَفِي أُخْرَى , لِأَحْمَدَ وَأَبِي دَاوُدَ , وَاَلتِّرْمِذِيِّ , وَابْنِ حِبَّانَ : { لَعَلَّكُمْ تَقْرَءُونَ خَلْفَ إِمَامِكُمْ ? \" قُلْنَا : نِعْمَ .‏ قَالَ : \"لَا تَفْعَلُوا إِلَّا بِفَاتِحَةِ اَلْكِتَابِ , فَإِنَّهُ لَا صَلَاةِ لِمَنْ لَمْ يَقْرَأْ بِهَا }",
+        "urdu": "سیدنا عبادہ بن صامت رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ارشاد فرمایا ” جس نے (نماز میں) «أم القرآن» (سورۃ فاتحہ) نہ پڑھی اس کی کوئی نماز نہیں۔“ (بخاری و مسلم) ابن حبان اور دارقطنی میں روایت ہے کہ ” جس نماز میں سورۃ فاتحہ نہ پڑھی گئی ہو وہ نماز کافی نہیں ہوتی۔“ احمد، ابوداؤد، ترمذی، ابن حبان کی ایک دوسری روایت میں ہے کہ ” شاید تم لوگ امام کے پیچھے کچھ پڑھتے ہو؟ ہم نے عرض کیا: جی ہاں (پڑھتے ہیں)۔ فرمایا: ایسا نہ کیا کرو بجز سورۃ فاتحہ کے۔ اس لئے کہ جس نے اسے نہ پڑھا اس کی (تو) نماز ہی نہیں۔“ ",
+        "english": "Narrated from 'Ubādah ibn Al-Ṣāmit (may Allah be pleased with him): The Messenger of Allah (peace and blessings be upon him) said: \"There is no prayer for one who does not recite UMM AL-QUR'ĀN (Al-Fātiḥah).\" Agreed upon (Al-Bukhari and Muslim). And in a narration by Ibn Hibbān and Ad-Dāraquṭnī: \"A prayer is not sufficient (Lā Tajzī) in which Al-Fātiḥah of the Book is not recited.\" And in another narration by Ahmad, Abu Dawud, At-Tirmidhi, and Ibn Hibbān: \"Perhaps you recite behind your Imām?\" We said: \"Yes.\" He said: \"Do not do that, except with Al-Fātiḥah of the Book, for there is no prayer for one who does not recite it.\""
+      }
+    },
+
+    {
+      "id": 219,
+      "name": {
+        "arabic": "وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏- وَأَبَا بَكْرٍ وَعُمَرَ كَانُوا يَفْتَتِحُونَ اَلصَّلَاةَ بِـ (اَلْحَمْدُ لِلَّهِ رَبِّ اَلْعَالَمِينَ )‏ } مُتَّفَقٌ عَلَيْهِ زَادَ مُسْلِمٌ: { لَا يَذْكُرُونَ : (بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ )‏ فِي أَوَّلِ قِرَاءَةٍ وَلَا فِي آخِرِهَا } .‏ وَفِي رِوَايَةٍ لِأَحْمَدَ , وَالنَّسَائِيِّ وَابْنِ خُزَيْمَةَ : { لَا يَجْهَرُونَ بِـسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ } وَفِي أُخْرَى لِابْنِ خُزَيْمَةَ : { كَانُوا يُسِرُّونَ } وَعَلَى هَذَا يُحْمَلُ اَلنَّفْيُ فِي رِوَايَةِ مُسْلِمٍ , خِلَافًا لِمَنْ أَعَلَّهَا.",
+        "urdu": "حضرت انس رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم، ابوبکر اور عمر رضی اللہ عنہما سب نماز کا آغاز «الحمد لله رب العالمين» (سورۃ فاتحہ) سے کرتے تھے۔ (بخاری و مسلم) مسلم نے اتنا اضافہ بھی نقل کیا ہے کہ وہ قرآت کے شروع اور آخر دونوں موقعوں پر «بسم الله الرحمن الرحيم» نہیں پڑھتے تھے۔ مسند احمد، نسائی اور ابن خزیمہ کی ایک روایت میں ہے کہ وہ «بسم الله الرحمن الرحيم» کو جہری طور پر (اونچی آواز) پر نہیں پڑھتے تھے۔ نیز ابن خزیمہ کی ایک دوسری روایت میں ہے کہ وہ «بسم الله» آہستہ پڑھتے تھے اور اسی پر مسلم کی نفی کو محمول کیا جائے گا بخلاف ان لوگوں کے جنہوں نے اسے معلول کہا ہے۔ ",
+        "english": "Narrated from Anas (may Allah be pleased with him): The Prophet (peace and blessings be upon him), Abu Bakr, and 'Umar would all begin the prayer's recitation with 'Al-Hamdu Lillahi Rabbil 'Alamīn' (Surah Al-Fātiḥah). Agreed upon (Al-Bukhari and Muslim). Muslim added: \"They did not mention 'Bismi Allāhi Al-Raḥmāni Al-Raḥīm' at the beginning of the recitation nor at its end.\" In a narration by Ahmad, An-Nasa’i, and Ibn Khuzaymah: \"They would not recite 'Bismi Allāhi Al-Raḥmāni Al-Raḥīm' aloud (Jahran).\" And in another by Ibn Khuzaymah: \"They used to recite it silently (Yusirrūn).\" The negation in the Muslim narration is thus interpreted (by some scholars) to mean the negation of loud recitation, contrary to those who declared the narration flawed."
+      }
+    },
+
+    {
+      "id": 220,
+      "name": {
+        "arabic": "وَعَنْ نُعَيْمٍ اَلْمُجَمِّرِ ‏- رضى الله عنه ‏- قَالَ : { صَلَّيْتُ وَرَاءَ أَبِي هُرَيْرَةَ فَقَرَأَ : (بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ)‏ .‏ ثُمَّ قَرَأَ بِأُمِّ اَلْقُرْآنِ , حَتَّى إِذَا بَلَغَ : (وَلَا اَلضَّالِّينَ)‏ , قَالَ : \"آمِينَ\" وَيَقُولُ كُلَّمَا سَجَدَ , وَإِذَا قَامَ مِنْ اَلْجُلُوسِ : اَللَّهُ أَكْبَرُ .‏ ثُمَّ يَقُولُ إِذَا سَلَّمَ : وَاَلَّذِي نَفْسِي بِيَدِهِ إِنِّي لَأَشْبَهُكُمْ صَلَاةً بِرَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-} رَوَاهُ النَّسَائِيُّ وَابْنُ خُزَيْمَةَ",
+        "urdu": " سیدنا نعیم المجمر رضی اللہ عنہ سے مروی ہے کہ میں نے سیدنا ابوہریرہ رضی اللہ عنہ کی امامت میں نماز پڑھی تو انہوں نے پہلے «بسم الله الرحمن الرحيم» تلاوت فرمائی پھر بعدازاں «أم القرآن» (سورۃ فاتحہ) پڑھی تاآنکہ آپ «ولا الضالين» پر پہنچ گئے اور «آمين» کہی۔ راوی کا بیان ہے کہ جب سجدہ کیا اور جب بیٹھنے کے بعد کھڑے ہوئے تو «الله اكبر» کہتے۔ پھر سلام پھیر کر فرمایا مجھے قسم ہے اس ذات کی جس کے قبضہ قدرت میں میری جان ہے! یقیناً میں تم سے نماز کی ادائیگی میں رسول اللہ صلی اللہ علیہ وسلم کے بہت مشابہ ہوں۔ (نسائی، ابن خزیمہ) ",
+        "english": "Narrated from Nu'aym Al-Mujammir (may Allah be pleased with him) who said: \"I prayed behind Abu Hurayrah (may Allah be pleased with him), and he recited 'Bismi Allāhi Ar-Raḥmāni Ar-Raḥīm' aloud. Then he recited Umm Al-Qur'ān (Al-Fātiḥah) until he reached 'Wa lāḍ-ḍāllīn' (and) he said: 'Āmīn.' He would also say 'Allāhu Akbar' every time he prostrated and whenever he rose from the sitting position. Then, when he said the Salām, he said: 'By Him in Whose Hand is my soul, I am the one among you whose prayer most resembles the prayer of the Messenger of Allah (peace and blessings be upon him).'\" Reported by An-Nasa’i and Ibn Khuzaymah."
+      }
+    },
+
+    {
+      "id": 221,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- { إِذَا قَرَأْتُمْ اَلْفَاتِحَةِ فَاقْرَءُوا : ( بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ )‏ , فَإِنَّهَا إِحْدَى آيَاتِهَا } رَوَاهُ اَلدَّارَقُطْنِيُّ , وَصَوَّبَ وَقْفَهُ",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ ہی سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” جب تم سورۃ فاتحہ پڑھو تو «بسم الله الرحمن الرحيم» بھی ساتھ ہی پڑھا کرو، اس لئے کہ وہ بھی سورۃ فاتحہ کی ایک آیت ہی ہے۔ “ دارقطنی نے اس کا موقوف (صحابی کا قول) ہونا درست قرار دیا ہے۔ ",
+        "english": "Narrated from Abu Hurayrah (may Allah be pleased with him): The Messenger of Allah (peace and blessings be upon him) said: \"When you recite Al-Fātiḥah, then recite 'Bismi Allāhi Ar-Raḥmāni Ar-Raḥīm', for it is one of its verses.\" Reported by Ad-Dāraquṭnī, who upheld that it is Maukūf (a saying of the Companion)."
+      }
+    },
+
+    {
+      "id": 222,
+      "name": {
+        "arabic": "وَعَنْهُ قَالَ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- إِذَا فَرَغَ مِنْ قِرَاءَةِ أُمِّ اَلْقُرْآنِ رَفَعَ صَوْتَهُ وَقَالَ : \"آمِينَ\".‏ } رَوَاهُ اَلدَّارَقُطْنِيُّ وَحَسَّنَهُ , وَالْحَاكِمُ وَصَحَّحَهُ .‏ وَلِأَبِي دَاوُدَ وَاَلتِّرْمِذِيِّ مِنْ حَدِيثِ وَائِلِ بْنِ حُجْرٍ نَحْوُهُ.‏",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم جب «ام القرآن» (سورۃ فاتحہ) کی قرأت سے فارغ ہوتے تو آمین بلند آواز سے کہتے۔ اسے دارقطنی نے روایت کیا ہے اور اسے حسن کہا ہے اور حاکم نے اسے صحیح قرار دیا ہے۔ نیز ابوداؤد اور ترمذی میں وائل بن حجر رضی اللہ عنہ کی روایت بھی اسی طرح ہے (کہ وہ آمین بلند آواز سے کہتے تھے۔)",
+        "english": "Narrated from Abu Hurayrah (may Allah be pleased with him) who said: The Messenger of Allah (peace and blessings be upon him), when he finished reciting Umm Al-Qur'ān (Al-Fātiḥah), would raise his voice and say: \"Āmīn.\" Reported by Ad-Dāraquṭnī who graded it Ḥasan (Good), and Al-Ḥākim who graded it Ṣaḥīḥ (Authentic). A similar narration is reported by Abu Dawud and At-Tirmidhi from the Hadith of Wā'il ibn Ḥujr."
+      }
+    },
+
+    {
+      "id": 223,
+      "name": {
+        "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ أَبِي أَوْفَى ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : { جَاءَ رَجُلٌ إِلَى اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏- فَقَالَ : إِنِّي لَا أَسْتَطِيعُ أَنْ آخُذَ مِنْ اَلْقُرْآنِ شَيْئًا , فَعَلِّمْنِي مَا يُجْزِئُنِي مِنْهُ .‏ قَالَ : \"سُبْحَانَ اَللَّهِ , وَالْحَمْدُ لِلَّهِ , وَلَا إِلَهَ إِلَّا اَللَّهُ وَاَللَّهُ أَكْبَرُ , وَلَا حَوْلٌ وَلَا قُوَّةً إِلَّا بِاَللَّهِ اَلْعَلِيِّ اَلْعَظِيمِ .‏ .‏ .‏\" اَلْحَدِيثَ .‏ رَوَاهُ أَحْمَدُ , وَأَبُو دَاوُدَ , وَالنَّسَائِيُّ , وَصَحَّحَهُ اِبْنُ حِبَّانَ , وَاَلدَّارَقُطْنِيُّ, وَالْحَاكِمُ .‏",
+        "urdu": "سیدنا عبداللہ بن ابی اوفی رضی اللہ عنہما سے روایت ہے کہ ایک آدمی نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کیا کہ میں قرآن میں سے کچھ بھی یاد نہیں رکھ سکتا۔ لہذا مجھے کوئی ایسی چیز سکھا دیں جو (میری نماز کے لئے) اس کی جگہ کافی ہو جائے۔ فرمایا ” «سبحان الله والحمد لله ولا إله إلا الله والله أكبر ولا حول ولا قوة إلا بالله العلي العظيم» پڑھ لیا کرو۔“ (اس کے بعد مزید دعا سکھائی) اس روایت کو احمد، ابوداؤد اور نسائی نے روایت کیا ہے۔ ابن حبان، دارقطنی اور حاکم نے اسے صحیح قرار دیا ہے۔ ",
+        "english": "Narrated from 'Abdullāh ibn Abī Awfā (may Allah be pleased with them both) who said: A man came to the Prophet (peace and blessings be upon him) and said: \"I cannot memorize anything from the Qur'an, so teach me something that will suffice me (for my prayer).\" He said: \"Say: 'Subḥāna Allāhi, wal-ḥamdu Lillāhi, wa lā ilāha illā Allāhu, wa Allāhu akbar, wa lā ḥawla wa lā quwwata illā billāhī al-'alīyyi al-'aẓīm.' (Glory be to Allah, and all praise is for Allah, and there is no god but Allah, and Allah is the Greatest, and there is no power and no strength except with Allah, the Most High, the Most Mighty.)\" (The complete Hadith continues). Reported by Ahmad, Abu Dawud, and An-Nasa’i, and graded Sahih by Ibn Hibbān, Ad-Dāraquṭnī, and Al-Ḥākim."
+      }
+    },
+
+    {
+      "id": 224,
+      "name": {
+        "arabic": "وَعَنْ أَبِي قَتَادَةَ ‏- رضى الله عنه ‏- قَالَ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- يُصَلِّي بِنَا , فَيَقْرَأُ فِي اَلظُّهْرِ وَالْعَصْرِ ‏- فِي اَلرَّكْعَتَيْنِ اَلْأُولَيَيْنِ ‏- بِفَاتِحَةِ اَلْكِتَابِ وَسُورَتَيْنِ , وَيُسْمِعُنَا اَلْآيَةَ أَحْيَانًا , وَيُطَوِّلُ اَلرَّكْعَةَ اَلْأُولَى , وَيَقْرَأُ فِي اَلْأُخْرَيَيْنِ بِفَاتِحَةِ اَلْكِتَابِ.‏ } مُتَّفَقٌ عَلَيْهِ .‏",
+        "urdu": "سیدنا ابو قتادہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم ہمیں نماز پڑھاتے تھے تو ظہر اور عصر کی پہلی دو رکعتوں میں سورۃ فاتحہ اور دو (مزید) سورتیں پڑھتے تھے اور کبھی ہمیں کوئی آیت سنا بھی دیتے تھے۔ پہلی رکعت بھی لمبی کرتے تھے اور آخری دونوں رکعتوں میں صرف «فاتحة الكتاب» (سورۃ فاتحہ) پڑھتے تھے۔ (بخاری و مسلم) ",
+        "english": "Narrated from Abū Qatādah (may Allah be pleased with him) who said: The Messenger of Allah (peace and blessings be upon him) used to lead us in prayer, and he would recite in the first two Rak'ah of the Zuhr (Noon) and 'Asr (Afternoon) prayers Al-Fātiḥah of the Book and two (additional) Surahs. He would sometimes make us hear a verse. He would lengthen the first Rak'ah, and in the last two Rak'ah, he would only recite Al-Fātiḥah of the Book. Agreed upon (Al-Bukhari and Muslim)."
+      }
+    },
+
+    {
+      "id": 225,
+      "name": {
+        "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ : { كُنَّا نَحْزُرُ قِيَامَ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏- فِي اَلظُّهْرِ وَالْعَصْرِ , فَحَزَرْنَا قِيَامَهُ فِي اَلرَّكْعَتَيْنِ اَلْأُولَيَيْنِ مِنْ اَلظُّهْرِ قَدْرَ : (الم تَنْزِيلُ)‏ اَلسَّجْدَةِ .‏ وَفِي اَلْأُخْرَيَيْنِ قَدْرَ اَلنِّصْفِ مِنْ ذَلِكَ .‏ وَفِي اَلْأُولَيَيْنِ مِنْ اَلْعَصْرِ عَلَى قَدْرِ اَلْأُخْرَيَيْنِ مِنْ اَلظُّهْرِ , وَالْأُخْرَيَيْنِ مِنْ اَلْعَصْرِ عَلَى قَدْرِ اَلنِّصْفِ مِنْ ذَلِكَ } رَوَاهُ مُسْلِمٌ .",
+        "urdu": "سیدنا ابوسعید خدری رضی اللہ عنہ روایت کرتے ہیں کہ ہم ظہر اور عصر میں نبی کریم صلی اللہ علیہ وسلم کے قیام کا اندازہ لگایا کرتے تھے (کہ آپ دونوں رکعتوں میں کتنا قیام فرماتے تھے)۔ ہم نے اندازہ لگایا کہ آپ صلی اللہ علیہ وسلم ظہر کی پہلی دونوں رکعتوں میں سورۃ «الم تنزيل» (السجدة) کی تلاوت کے برابر قیام فرماتے تھے اور آخری دونوں رکعتوں میں پہلی دونوں سے نصف کے برابر۔ اور عصر کی پہلی دونوں رکعتوں میں ظہر کی آخری دونوں رکعتوں کے برابر اور عصر کی آخری دونوں میں عصر کی پہلی دو رکعتوں سے نصف کے برابر قیام فرماتے تھے۔ (مسلم) ",
+        "english": "Narrated from Abū Sa'īd Al-Khudrī (may Allah be pleased with him) who said: \"We used to estimate the standing (Qiyām) of the Messenger of Allah (peace and blessings be upon him) in the Zuhr (Noon) and 'Asr (Afternoon) prayers. We estimated his standing in the first two Rak'ah of Zuhr to be approximately the length of reciting 'Alif Lām Mīm Tanzīl' (Surah As-Sajdah). And in the last two Rak'ah, about half of that. And in the first two Rak'ah of 'Asr, the length of the last two Rak'ah of Zuhr, and in the last two Rak'ah of 'Asr, about half of that.\" Reported by Muslim."
+      }
+    },
+
+    {
+      "id": 226,
+      "name": {
+        "arabic": "وَعَنْ سُلَيْمَانَ بْنِ يَسَارٍ ‏- رضى الله عنه ‏- قَالَ : { كَانَ فُلَانٍ يُطِيلُ اَلْأُولَيَيْنِ مِنْ اَلظُّهْرِ, وَيُخَفِّفُ اَلْعَصْرَ, وَيَقْرَأُ فِي اَلْمَغْرِبِ بِقِصَارِ اَلْمُفَصَّلِ وَفِي اَلْعِشَاءِ بِوَسَطِهِ وَفِي اَلصُّبْحِ بِطُولِهِ .‏ فَقَالَ أَبُو هُرَيْرَةَ : \"مَا صَلَّيْتُ وَرَاءَ أَحَدٍ أَشْبَهَ صَلَاةِ بِرَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏- مِنْ هَذَا\" } .‏ أَخْرَجَهُ النَّسَائِيُّ بِإِسْنَادٍ صَحِيحٍ",
+        "urdu": " سیدنا سلیمان بن یسار رحمہ اللہ نے بیان کیا کہ فلاں صاحب (جن کا نام ذکر نہیں کیا گیا) ظہر کی پہلی دو رکعتیں لمبی کرتے ہیں (ان میں قرأت لمبی کرتے ہیں) اور نماز عصر میں تخفیف کرتے ہیں اور نماز مغرب میں قصار مفصل (چھوٹی سورتیں)، عشاء میں اوساط مفصل (درمیانی سورتیں) اور صبح کی نماز میں طوال مفصل (لمبی سورتیں) پڑھتے ہیں۔ تو ابوہریرہ رضی اللہ عنہ نے کہا: 'میں نے کسی کی امامت میں اس سے زیادہ نبی کریم صلی اللہ علیہ وسلم کی نماز سے مشابہ نماز نہیں پڑھی۔' نسائی نے اسے صحیح سند سے روایت کیا ہے۔ ",
+        "english": "Narrated from Sulaymān ibn Yasār (may Allah have mercy on him) who said: 'So-and-so (a person whose name was omitted) used to lengthen the first two Rak'ah of Zuhr, and shorten the 'Asr prayer. He would recite the short Surahs of Al-Mufaṣṣal in Maghrib, the medium ones in 'Ishā', and the long ones in the Fajr (Dawn) prayer.' Thereupon, Abu Hurayrah (may Allah be pleased with him) said: 'I have not prayed behind anyone whose prayer resembles the prayer of the Messenger of Allah (peace and blessings be upon him) more than this man.' Reported by An-Nasa’i with an authentic chain."
+      }
+    },
+
+    {
+      "id": 227,
+      "name": {
+        "arabic": "وَعَنْ جُبَيْرِ بْنِ مُطْعِمٍ ‏- رضى الله عنه ‏- قَالَ : { سَمِعْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏- يَقْرَأُ فِي اَلْمَغْرِبِ بِالطُّورِ } مُتَّفَقٌ عَلَيْهِ .",
+        "urdu": " سیدنا جبیر بن مطعم رضی اللہ عنہ روایت کرتے ہیں کہ میں نے نبی کریم صلی اللہ علیہ وسلم کو نماز مغرب میں سورۃ «الطور» پڑھتے سنا ہے۔ (بخاری و مسلم) ",
+        "english": "Narrated from Jubayr ibn Muṭ'im (may Allah be pleased with him) who said: \"I heard the Messenger of Allah (peace and blessings be upon him) reciting Surah At-Ṭūr in the Maghrib (Sunset) prayer.\" Agreed upon (Al-Bukhari and Muslim)."
+      }
+    },
+
+    {
+      "id": 228,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَقْرَأُ فِي صَلَاةِ اَلْفَجْرِ يَوْمَ اَلْجُمْعَةِ : (الم تَنْزِيلُ )‏ اَلسَّجْدَةَ , و (هَلْ أَتَى عَلَى اَلْإِنْسَانِ)‏ } مُتَّفَقٌ عَلَيْهِ وَلِلطَّبَرَانِيِّ مِنْ حَدِيثِ اِبْنِ مَسْعُودٍ : { يُدِيمُ ذَلِكَ }",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جمعہ کے روز نماز فجر کی پہلی رکعت میں «الم تنزيل السجدة» اور دوسری میں «هل أتى على الإنسان» (سورۃ «دهر») پڑھا کرتے تھے۔ (بخاری و مسلم) اور طبرانی میں ابن مسعود سے مروی روایت میں ہے کہ ایسا آپ صلی اللہ علیہ وسلم ہمیشہ کرتے تھے۔",
+        "english": "Narrated Abu Hurairah (May Allah be pleased with him): The Messenger of Allah (ﷺ) used to recite in the Fajr prayer on Friday: *'Alif, Lam, Mim. The Revelation (Surah As-Sajdah)* in the first Rak'ah, and *'Has there not come upon man (Surah Al-Insan / Ad-Dahr)* in the second. (Agreed upon: Al-Bukhari and Muslim). And according to At-Tabarani from the Hadith of Ibn Mas'ud: 'He used to continue doing that.'"
+      }
+    },
+
+    {
+      "id": 229,
+      "name": {
+        "arabic": "وَعَنْ حُذَيْفَةَ ‏- رضى الله عنه ‏- قَالَ : { صَلَّيْتُ مَعَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-فَمَا مَرَّتْ بِهِ آيَةُ رَحْمَةٍ إِلَّا وَقَفَ عِنْدَهَا يَسْأَلُ, وَلَا آيَةُ عَذَابٍ إِلَّا تَعَوَّذَ مِنْهَا } أَخْرَجَهُ اَلْخَمْسَةُ , وَحَسَّنَهُ اَلتِّرْمِذِيُّ",
+        "urdu": "سیدنا حذیفہ رضی اللہ عنہ روایت کرتے ہیں کہ میں نے نبی کریم صلی اللہ علیہ وسلم کے ساتھ نماز پڑھی۔ جب ایسی آیت گذرتی جس میں رحمت الٰہی کا ذکر ہوتا تو آپ صلی اللہ علیہ وسلم وہاں وقفہ فرما کر رحمت طلب فرماتے اور جب آیت عذاب گزرتی تو وہاں ذرا وقفہ فرما کر اس سے پناہ مانگتے۔ اسے احمد، ابوداؤد، ترمذی، نسائی اور ابن ماجہ پانچوں نے روایت کیا ہے اور ترمذی نے حسن قرار دیا ہے۔",
+        "english": "Narrated Hudhaifah (May Allah be pleased with him): I prayed with the Prophet (ﷺ) and whenever he came to a verse that mentioned the Mercy of Allah, he would pause and ask for it, and whenever he came to a verse that mentioned the Punishment (of Allah), he would pause and seek refuge from it. (Reported by the Five, and At-Tirmidhi classed it as Hasan)."
+      }
+    },
+
+    {
+      "id": 230,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أَلَا وَإِنِّي نُهِيتُ أَنْ أَقْرَأَ اَلْقُرْآنَ رَاكِعًا أَوْ سَاجِدًا , فَأَمَّا اَلرُّكُوعُ فَعَظِّمُوا فِيهِ اَلرَّبَّ , وَأَمَّا اَلسُّجُودُ فَاجْتَهِدُوا فِي اَلدُّعَاءِ , فَقَمِنٌ أَنْ يُسْتَجَابَ لَكُمْ } رَوَاهُ مُسْلِمٌ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” لوگو سن لو کہ مجھے رکوع اور سجدہ میں قرآن پڑھنے سے منع کیا گیا ہے۔ لہذا رکوع میں اپنے مالک و پروردگار کی عظمت بیان کرو اور سجدہ میں دعا مانگنے کی کوشش کرو۔ یہ اس لائق ہے کہ تمہاری دعا قبول کر لی جائے۔“ (مسلم)",
+        "english": "Narrated Ibn Abbas (May Allah be pleased with them both): The Messenger of Allah (ﷺ) said: \"Behold! I have been forbidden to recite the Qur'an while bowing (Ruku') or prostrating (Sujud). So, as for the bowing, glorify the Lord therein, and as for the prostration, strive hard in supplication, for it is worthy that your prayer should be answered.\""
+      }
+    },
+
+    {
+      "id": 231,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَقُولُ: فِي رُكُوعِهِ وَسُجُودِهِ : \"سُبْحَانَكَ اَللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ , اَللَّهُمَّ اِغْفِرْ لِي\" } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم رکوع و سجود میں «سبحانك اللهم ربنا وبحمدك اللهم اغفرلي» ” تو پاک ہے اے اللہ! اے ہمارے پروردگار! اپنی حمد و ثنا کے ساتھ۔ اے اللہ! مجھے بخش دے۔“ پڑھا کرتے۔ (بخاری و مسلم)",
+        "english": "Narrated 'Aisha (May Allah be pleased with her): The Messenger of Allah (ﷺ) used to say in his bowing (Ruku') and prostrations (Sujud): \"Subhanaka Allahumma Rabbana wa bihamdika, Allahummagh-firli.\" (Glory be to You, O Allah, our Lord, and with Your praise, O Allah, forgive me.) (Agreed upon: Al-Bukhari and Muslim)."
+      }
+    },
+
+    {
+      "id": 232,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏-‏-رَضِيَ اَللَّهُ عَنْهُ‏-‏- قَالَ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-إِذَا قَامَ إِلَى اَلصَّلَاةِ يُكَبِّرُ حِينَ يَقُومُ , ثُمَّ يُكَبِّرُ حِينَ يَرْكَعُ , ثُمَّ يَقُولُ : \"سَمِعَ اَللَّهُ لِمَنْ حَمِدَهُ\" حِينَ يَرْفَعُ صُلْبَهُ مِنْ اَلرُّكُوعِ , ثُمَّ يَقُولُ وَهُوَ قَائِمٌ : \"رَبَّنَا وَلَكَ اَلْحَمْدُ\" ثُمَّ يُكَبِّرُ حِينَ يَهْوِي سَاجِدًا , ثُمَّ يُكَبِّرُ حِينَ يَرْفَعُ رَأْسَهُ, ثُمَّ يُكَبِّرُ حِينَ يَسْجُدُ ثُمَّ يُكَبِّرُ حِينَ يَرْفَعُ , ثُمَّ يَفْعَلُ ذَلِكَ فِي اَلصَّلَاةِ كُلِّهَا , وَيُكَبِّرُ حِينَ يَقُومُ مِنْ اِثْنَتَيْنِ بَعْدَ اَلْجُلُوسِ } مُتَّفَقٌ عَلَيْهِ .",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم جب نماز کیلئے کھڑے ہوتے تو «الله اكبر» کہتے۔ پھر جب رکوع کیلئے جاتے تو اس وقت «الله اكبر» کہتے۔ پھر رکوع سے اٹھتے وقت «سمع الله لمن حمده» کہتے ہوئے کھڑے ہو جاتے اور پھر جب رکوع سے سیدھے کھڑے ہو جاتے تو «ربنا ولك الحمد» کہتے۔ پھر سجدے میں جاتے وقت تکبیر «الله اكبر» کہہ کر سجدے کیلئے جھکتے پھر سجدے سے اٹھتے ہوئے «الله اكبر» کہتے پھر سجدے میں جاتے تو «الله اكبر» کہتے پھر سجدے سے سر اٹھاتے ہوئے «الله اكبر» کہتے پھر ساری نماز اسی طرح کرتے جاتے تھے۔ پھر جب دوسری رکعت کی (تکمیل) کے بعد تشہد پڑھ کر اٹھتے تو بھی «الله اكبر» کہتے۔ (بخاری و مسلم)",
+        "english": "Narrated Abu Hurairah (May Allah be pleased with him): When the Messenger of Allah (ﷺ) stood up for prayer, he would say *'Allahu Akbar'* (Allah is the greatest) when standing, then say *'Allahu Akbar'* when bowing (Ruku'). Then he would say, *'Sami Allahu liman hamidah'* (Allah hears those who praise Him) when raising his back from the Ruku', and then, while standing straight, he would say, *'Rabbana wa lakal-hamd'* (Our Lord, and to You is the praise). Then he would say *'Allahu Akbar'* when descending for prostration (Sujud), then *'Allahu Akbar'* when raising his head (from the first Sujud), then *'Allahu Akbar'* when prostrating (for the second Sujud), then *'Allahu Akbar'* when raising his head (from the second Sujud). He would do this throughout the entire prayer, and he would say *'Allahu Akbar'* when standing up from the sitting after two Rak'ahs (for the third Rak'ah)."
+      }
+    },
+
+    {
+      "id": 233,
+      "name": {
+        "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏-‏-رَضِيَ اَللَّهُ عَنْهُ‏-‏- قَالَ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-إِذَا رَفَعَ رَأْسَهُ مِنْ اَلرُّكُوعِ قَالَ : \"اَللَّهُمَّ رَبَّنَا لَكَ اَلْحَمْدُ مِلْءَ اَلسَّمَوَاتِ وَمِلْءَ اَلْأَرْضِ , وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ , أَهْلَ اَلثَّنَاءِ وَالْمَجْدِ , أَحَقُّ مَا قَالَ اَلْعَبْدُ ‏- وَكُلُّنَا لَكَ عَبْدٌ ‏- اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ , وَلَا مُعْطِيَ لِمَا مَنَعْتَ , وَلَا يَنْفَعُ ذَا اَلْجَدِّ مِنْكَ اَلْجَدُّ\" } رَوَاهُ مُسْلِمٌ .‏",
+        "urdu": "سیدنا ابوسعید خدری رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم جب رکوع سے اپنا سر اوپر اٹھاتے تو «اللهم ربنا لك الحمد ملء السموات والأرض وملء ما شئت من شيء بعد أهل الثناء والمجد أحق ما قال العبد وكلنا لك عبد اللهم لا مانع لما أعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد» کہتے تھے۔ (یعنی) اے اللہ! ہمارے آقا و پروردگار تعریف صرف تیرے ہی لئے ہے اتنی تعریف جس سے آسمان و زمین بھر جائے اور اس کے بعد ہر وہ چیز بھر جائے جسے تو چاہے۔ اے بزرگی اور تعریف کے مالک! تو اس کا زیادہ مستحق ہے جو کچھ بندہ کہے اور سبھی تیرے بندے ہیں۔ اے اللہ! جو کچھ تو عطا فرمائے اسے کوئی روکنے والا نہیں اور جسے تو ہی نہ دے اسے کوئی عطا کرنے والا نہیں اور کسی کو اس کی بزرگی اور بخت آپ (عذاب) کے مقابلے میں کوئی فائدہ نہیں دے سکتا۔ (مسلم)",
+        "english": "Narrated Abu Sa'id Al-Khudri (May Allah be pleased with him): When the Messenger of Allah (ﷺ) raised his head from bowing (Ruku'), he would say: \"Allahumma Rabbana lakal-hamd, mil'a samawati wa mil'al-ardi, wa mil'a ma shi'ta min shai'in ba'd. Ahlath-thana'i wal-majd, Ahaqqu ma qalal-'abdu - wa kulluna laka 'abdun - Allahumma la mani'a lima a'tayta, wa la mu'tiya lima mana'ta, wa la yanfa'u dhal-jaddi minkal-jaddu.\" (O Allah, our Lord, to You is the praise, filling the heavens, filling the earth, and filling whatever else You wish, O You who are worthy of all praise and glory! The most deserving thing a servant can say—and all of us are Your servants—O Allah, there is none to withhold what You give, and none to give what You withhold, and the fortune of the fortunate will not benefit him against You.) Reported by Muslim."
+      }
+    },
+
+    {
+      "id": 234,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ أُمِرْتُ أَنْ أَسْجُدَ عَلَى سَبْعَةِ أَعْظُمٍ : عَلَى اَلْجَبْهَةِ ‏- وَأَشَارَ بِيَدِهِ إِلَى أَنْفِهِ ‏- وَالْيَدَيْنِ , وَالرُّكْبَتَيْنِ , وَأَطْرَافِ اَلْقَدَمَيْنِ } مُتَّفَقٌ عَلَيْهِ .‏",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” مجھے سات ہڈیوں (اعضاء) پر سجدہ کرنے کا حکم دیا گیا ہے۔“ اپنے دست مبارک سے اشارہ کر کے فرمایا ” پیشانی و ناک پر اور دونوں ہاتھوں اور دونوں گھٹنوں اور دونوں قدموں پر۔“ (بخاری و مسلم)",
+        "english": "Narrated Ibn Abbas (May Allah be pleased with them both): The Messenger of Allah (ﷺ) said: \"I have been commanded to prostrate on seven bones (limbs): on the forehead – and he pointed with his hand to his nose – the two hands, the two knees, and the ends (toes) of the two feet.\" (Agreed upon: Al-Bukhari and Muslim)."
+      }
+    },
+
+    {
+      "id": 235,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ بُحَيْنَةَ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ إِذَا صَلَّى فَرَّجَ بَيْنَ يَدَيْهِ , حَتَّى يَبْدُوَ بَيَاضُ إِبِطَيْهِ } مُتَّفَقٌ عَلَيْهِ .‏",
+        "urdu": "سیدنا ابن بحینہ رضی اللہ عنہ سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم جب نماز ادا فرماتے اور سجدہ کرتے تو اس حالت میں اپنے دونوں بازو اپنے پہلووں سے الگ رکھتے تھے، یہاں تک کہ آپ صلی اللہ علیہ وسلم کی بغلوں کی سفیدی نظر آنے لگتی تھی۔ (بخاری و مسلم)",
+        "english": "Narrated Ibn Buhainah (May Allah be pleased with him): When the Prophet (ﷺ) prayed, he would spread his arms apart (during prostration) so much that the whiteness of his armpits became visible."
+      }
+    },
+
+    {
+      "id": 236,
+      "name": {
+        "arabic": "وَعَنْ اَلْبَرَاءِ بْنِ عَازِبٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا سَجَدْتَ فَضَعْ كَفَّيْكَ , وَارْفَعْ مِرْفَقَيْكَ } رَوَاهُ مُسْلِمٌ .",
+        "urdu": "سیدنا براء بن عازب رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” جب تو سجدہ کرے تو (اس وقت) اپنی ہتھیلیوں کو زمین پر ٹکا دے اور اپنی دونوں کہنیوں کو اوپر اٹھا لے۔“ (مسلم)",
+        "english": "Narrated Al-Bara' ibn 'Azib (May Allah be pleased with him): The Messenger of Allah (ﷺ) said: \"When you prostrate, place your palms (firmly) and raise your elbows.\" Reported by Muslim."
+      }
+    },
+
+    {
+      "id": 237,
+      "name": {
+        "arabic": "وَعَنْ وَائِلِ بْنِ حُجْرٍ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ إِذَا رَكَعَ فَرَّجَ بَيْنَ أَصَابِعِهِ , وَإِذَا سَجَدَ ضَمَّ أَصَابِعَهُ } رَوَاهُ اَلْحَاكِمُ .",
+        "urdu": "سیدنا وائل بن حجر رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم جب رکوع میں ہوتے تو اپنی (ہاتھوں کی) انگلیاں کھلی رکھتے اور جب سجدے میں ہوتے تو اپنی (ہاتھوں کی) انگلیاں باہم ملا لیا کرتے تھے۔ (مستدرک حاکم)",
+        "english": "Narrated Wa'il ibn Hujr (May Allah be pleased with him): When the Prophet (ﷺ) bowed (in Ruku'), he would spread his fingers apart, and when he prostrated (in Sujud), he would keep his fingers close together."
+      }
+    },
+
+    {
+      "id": 238,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ ‏-رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ : { رَأَيْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يُصَلِّي مُتَرَبِّعًا } رَوَاهُ النَّسَائِيُّ , وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ .‏",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا روایت کرتی ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو چار زانووں پر بیٹھ کر نماز ادا فرماتے دیکھا ہے۔ نسائی نے اسے روایت کیا ہے اور ابن خزیمہ نے اسے صحیح قرار دیا ہے۔",
+        "english": "Narrated 'Aisha (May Allah be pleased with her): I saw the Messenger of Allah (ﷺ) praying while sitting cross-legged (Mutarabbi'an)."
+      }
+    },
+
+    {
+      "id": 239,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ يَقُولُ بَيْنَ اَلسَّجْدَتَيْنِ : { اَللَّهُمَّ اِغْفِرْ لِي , وَارْحَمْنِي , وَاهْدِنِي , وَعَافِنِي , وَارْزُقْنِي } رَوَاهُ اَلْأَرْبَعَةُ إِلَّا النَّسَائِيُّ , وَاللَّفْظُ لِأَبِي دَاوُدَ , وَصَحَّحَهُ اَلْحَاكِمُ .‏",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم دونوں سجدوں کے درمیان یہ دعا پڑھتے تھے «اللهم اغفرلي وارحمني واهدني وعافني وارزقني» یا اللہ! میری پردہ پوشی فرما دے (مجھے بخش دے) مجھ پر رحم فرما۔ مجھے راہ ہدایت پر چلا (اور گامزن رکھ) مجھ سے درگزر فرما (معاف کر دے) مجھے رزق (حلال) عطا فرما۔ اسے نسائی کے علاوہ چاروں نے روایت کیا ہے۔ یہ الفاظ ابوداؤد کے ہیں۔ حاکم نے اس کو صحیح قرار دیا ہے۔",
+        "english": "Narrated Ibn Abbas (May Allah be pleased with them both): The Prophet (ﷺ) used to say between the two prostrations: \"Allahummagh-firli, warhamni, wahdini, wa 'aafini, warzuqni.\" (O Allah, forgive me, have mercy on me, guide me, grant me well-being, and provide for me.) Reported by the Four (except An-Nasa'i), the wording is that of Abu Dawud, and Al-Hakim graded it as authentic."
+      }
+    },
+
+    {
+      "id": 240,
+      "name": {
+        "arabic": "وَعَنْ مَالِكِ بْنِ الْحُوَيْرِثِ ‏- رضى الله عنه ‏- { أَنَّهُ رَأَى اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-يُصَلِّي , فَإِذَا كَانَ فِي وِتْرٍ مِنْ صَلَاتِهِ لَمْ يَنْهَضْ حَتَّى يَسْتَوِيَ قَاعِدًا } رَوَاهُ اَلْبُخَارِيُّ .‏",
+        "urdu": "سیدنا مالک بن حویرث رضی اللہ عنہ سے مروی ہے کہ انہوں نے نبی کریم صلی اللہ علیہ وسلم کو نماز ادا فرماتے دیکھا، جب آپ صلی اللہ علیہ وسلم اپنی نماز کی وتر (رکعت) پڑھتے تو (پہلے تھوڑا) بیٹھتے پھر سیدھا کھڑے ہو جاتے۔ (بخاری)",
+        "english": "Narrated Malik ibn Al-Huwairith (May Allah be pleased with him): He saw the Prophet (ﷺ) praying, and when he was in the odd (Witr) unit of his prayer (i.e., after the first or third Rak'ah in a multiple-Rak'ah prayer), he would not stand up until he had straightened up and sat down (for a brief period)."
+      }
+    },
+
+    {
+      "id": 241,
+      "name": {
+        "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ ‏- رضى الله عنه ‏- { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَنَتَ شَهْرًا بَعْدَ اَلرُّكُوعِ , يَدْعُو عَلَى أَحْيَاءٍ مِنْ أَحْيَاءِ اَلْعَرَبِ , ثُمَّ تَرَكَهُ } مُتَّفَقٌ عَلَيْهِ .‏ وَلِأَحْمَدَ وَاَلدَّارَقُطْنِيِّ نَحْوُهُ مِنْ وَجْهٍ آخَرَ , وَزَادَ : { فَأَمَّا فِي اَلصُّبْحِ فَلَمْ يَزَلْ يَقْنُتُ حَتَّى فَارَقَ اَلدُّنْيَا } ",
+        "urdu": "سیدنا انس بن مالک رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے پورا مہینہ رکوع کے بعد دعائے قنوت پڑھی، پھر اسے چھوڑ دیا۔ (بخاری و مسلم) احمد اور دارقطنی وغیرہ نے ایک اور طریق سے اسے روایت کیا ہے، اس میں اتنا اضافہ ہے کہ صبح کی نماز میں دعائے قنوت تا دم زیست ہمیشہ پڑھتے رہے۔ ",
+        "english": "Narrated Anas bin Malik (RA): Allah's Messenger (peace be upon him) performed Qunut for a month after the Ruku' (bowing), invoking curse upon some of the Arab tribes, then he stopped doing it. [Agreed upon]. Ahmad and Ad-Daraqutni have a similar narration from another chain, with the addition: 'As for the Fajr prayer, he continued to perform Qunut until he left this world.'"
+      }
+    },
+
+    {
+      "id": 242,
+      "name": {
+        "arabic": "وَعَنْهُ أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-{ كَانَ لَا يَقْنُتُ إِلَّا إِذَا دَعَا لِقَوْمٍ , أَوْ دَعَا عَلَى قَوْمٍ } صَحَّحَهُ اِبْنُ خُزَيْمَةَ . ",
+        "urdu": "سیدنا انس رضی اللہ عنہ ہی سے یہ روایت بھی مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم جب کسی قوم کے حق میں یا کسی کے لیے بد دعا فرماتے تو اس صورت میں قنوت پڑھتے ورنہ نہیں پڑھتے تھے۔ اس کو ابن خزیمہ نے صحیح قرار دیا ہے۔",
+        "english": "Narrated Anas (RA): The Prophet (peace be upon him) did not use to perform Qunut unless he was supplicating for a people or supplicating against a people. [Ibn Khuzaimah graded it Sahih]."
+      }
+    },
+
+    {
+      "id": 243,
+      "name": {
+        "arabic": "وَعَنْ سَعْدِ بْنِ طَارِقِ الْأَشْجَعِيِّ ‏- رضى الله عنه ‏- قَالَ : { قُلْتُ لِأَبِي : يَا أَبَتِ ! إِنَّكَ قَدْ صَلَّيْتُ خَلْفَ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-وَأَبِي بَكْرٍ , وَعُمَرُ , وَعُثْمَانُ , وَعَلَيَّ , أَفَكَانُوا يَقْنُتُونَ فِي اَلْفَجْرِ ? قَالَ : أَيْ بُنَيَّ , مُحْدَثٌ } رَوَاهُ اَلْخَمْسَةُ , إِلَّا أَبَا دَاوُدَ .‏",
+        "urdu": "سیدنا سعد بن طارق اشجعی رحمہ اللہ سے مروی ہے (کہتے ہیں کہ) ” میں نے اپنے والد سے استفسار کیا کہ ابا جان! آپ نے رسول اللہ صلی اللہ علیہ وسلم ، سیدنا ابوبکر، سیدنا عمر، سیدنا عثمان اور سیدنا علی رضی اللہ عنہم کے پیچھے نماز پڑھی ہے۔ کیا یہ سب نماز فجر میں قنوت پڑھا کرتے تھے؟ انھوں نے جواب دیا کہ بیٹا! یہ نئی بات ہے۔“ اس کو ابوداؤد کے سوا پانچوں نے روایت کیا ہے۔",
+        "english": "Sa'd bin Tariq al-Ashja'i (RAA) narrated: I said to my father, 'O my father! You have prayed behind the Messenger of Allah (ﷺ), and behind Abu Bakr, 'Umar, 'Uthman, and 'Ali (RAA). Did they use to recite the Qunut in the Fajr prayer?' He replied, 'O my son! It is an innovation (Muhdath).'"
+      }
+    },
+
+    {
+      "id": 244,
+      "name": {
+        "arabic": "وَعَنْ اَلْحَسَنِ بْنِ عَلِيٍّ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- ; قَالَ : { عَلَّمَنِي رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-كَلِمَاتٍ أَقُولُهُنَّ فِي قُنُوتِ اَلْوِتْرِ : \" اَللَّهُمَّ اِهْدِنِي فِيمَنْ هَدَيْتَ , وَعَافِنِي فِيمَنْ عَافَيْتَ , وَتَوَلَّنِي فِيمَنْ تَوَلَّيتَ , وَبَارِكْ لِي فِيمَا أَعْطَيْتَ , وَقِنِي شَرَّ مَا قَضَيْتَ , فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ , إِنَّهُ لَا يَذلُّ مَنْ وَالَيْتَ , تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ \" } رَوَاهُ اَلْخَمْسَةُ .‏ وَزَادَ اَلطَّبَرَانِيُّ وَالْبَيْهَقِيُّ : { وَلَا يَعِزُّ مَنْ عَادَيْتَ } .‏ زَادَ النَّسَائِيُّ مِنْ وَجْهٍ آخَرَ فِي آخِرِهِ : { وَصَلَّى اَللَّهُ عَلَى اَلنَّبِيِّ } وَلِلْبَيْهَقِيِّ عَنْ اِبْنِ عَبَّاسٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يُعَلِّمُنَا دُعَاءً نَدْعُو بِهِ فِي اَلْقُنُوتِ مِنْ صَلَاةِ اَلصُّبْحِ } وَفِي سَنَدِهِ ضَعْفٌ .‏",
+        "urdu": "سیدنا حسن بن علی رضی اللہ عنہما نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھے چند کلمات ایسے سکھائے ہیں جنہیں میں وتروں میں (دعائے قنوت کے طور پر) پڑھتا ہوں: «اللهم اهدني فیمن هديت...» (اے اللہ! مجھے ہدایت دے کر ان لوگوں کے زمرے میں شامل فرما جنھیں تو نے ہدایت دی ہے...) اسے پانچوں نے روایت کیا ہے۔ طبرانی اور بیہقی نے 'جس سے تو دشمنی کرے وہ معزز نہیں ہو سکتا' کا اضافہ کیا ہے۔ نسائی نے آخر میں نبی ﷺ پر درود کا اضافہ کیا ہے، اور بیہقی میں ابن عباس سے مروی فجر کی قنوت والی روایت کی سند ضعیف ہے۔",
+        "english": "Narrated Al-Hasan bin 'Ali (RA): Allah's Messenger (PBUH) taught me some words to say in the Qunut of the Witr prayer: 'O Allah, guide me among those You have guided, grant me health among those You have granted health, take me into Your charge among those You have taken into Your charge...' [Reported by the Five]. At-Tabarani and Al-Bayhaqi added: 'And he whom You take as an enemy shall not be honored.' An-Nasa'i added through another chain: 'And may Allah send blessings upon the Prophet.' Al-Bayhaqi also reported from Ibn 'Abbas about Qunut in Fajr, but its chain is weak."
+      }
+    },
+
+    {
+      "id": 245,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا سَجَدَ أَحَدُكُمْ فَلَا يَبْرُكْ كَمَا يَبْرُكُ اَلْبَعِيرُ , وَلْيَضَعْ يَدَيْهِ قَبْلَ رُكْبَتَيْهِ } أَخْرَجَهُ اَلثَّلَاثَةُ .‏ وَهُوَ أَقْوَى مِنْ حَدِيثِ وَائِلٍ : { رَأَيْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-إِذَا سَجَدَ وَضَعَ رُكْبَتَيْهِ قَبْلَ يَدَيْهِ } أَخْرَجَهُ اَلْأَرْبَعَةُ .‏ فَإِنْ لِلْأَوَّلِ شَاهِدًا مِنْ حَدِيثِ : اِبْنِ عُمَرَ ‏- رضى الله عنه ‏- صَحَّحَهُ اِبْنُ خُزَيْمَةَ , وَذَكَرَهُ اَلْبُخَارِيُّ مُعَلَّقًا مَوْقُوفًا .‏",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” تم میں سے جب کوئی سجدہ کرے تو اونٹ کی طرح نہ بیٹھے اور گھٹنوں سے پہلے اپنے ہاتھ زمین پر رکھے۔“ (نسائی، ترمذی اور ابن ماجہ) اور یہ حدیث وائل بن حجر رضی اللہ عنہ کے حوالہ سے مروی اس حدیث سے قوی تر ہے جس میں ہے کہ میں نے نبی کریم صلی اللہ علیہ وسلم کو سجدہ میں جاتے دیکھا ہے کہ آپ صلی اللہ علیہ وسلم اپنے گھٹنے ہاتھوں سے پہلے زمین پر رکھتے تھے۔ اس کو چاروں یعنی ابوداؤد، ترمذی، نسائی اور ابن ماجہ نے روایت کیا ہے۔ پہلی حدیث کا شاہد ابن عمر رضی اللہ عنہما کی حدیث ہے۔ ابن خزیمہ نے اسے صحیح قرار دیا ہے اور بخاری نے اسے تعلیقا موقوف بیان کیا ہے۔",
+        "english": "Narrated Abu Hurairah (RAA): The Messenger of Allah (ﷺ) said: 'When one of you prostrates, he should not kneel like a camel, but should place his hands before his knees.' Reported by the Three (An-Nasa'i, At-Tirmidhi, and Abu Dawud). This is stronger than the Hadith of Wa’il (RAA) which states: 'I saw the Messenger of Allah (ﷺ) place his knees before his hands when he prostrated.' Reported by the Four. The first Hadith is supported by a narration from Ibn 'Umar (RAA) graded Sahih by Ibn Khuzaymah, and Al-Bukhari mentioned it in a Mu'allaq and Mawquf form."
+      }
+    },
+
+    {
+      "id": 246,
+      "name": {
+        "arabic": " وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-كَانَ إِذَا قَعَدَ لِلتَّشَهُّدِ وَضَعَ يَدَهُ اَلْيُسْرَى عَلَى رُكْبَتِهِ اَلْيُسْرَى , وَالْيُمْنَى عَلَى اَلْيُمْنَى , وَعَقَدَ ثَلَاثَةً وَخَمْسِينَ , وَأَشَارَ بِإِصْبَعِهِ اَلسَّبَّابَةِ } رَوَاهُ مُسْلِمٌ وَفِي رِوَايَةٍ لَهُ : { وَقَبَضَ أَصَابِعَهُ كُلَّهَا , وَأَشَارَ بِاَلَّتِي تَلِي اَلْإِبْهَامَ }",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم جب تشہد کے لیے بیٹھتے تو اپنا بایاں ہاتھ اپنے بائیں گھٹنے پر اور دایاں ہاتھ اپنے دائیں گھٹنے پر رکھتے اور ترپن (53) کی گرہ بناتے اور اپنی انگشتِ شہادت سے اشارہ فرماتے۔ (مسلم) اور مسلم ہی کی ایک روایت میں ہے کہ آپ ﷺ اپنی تمام انگلیاں بند کر لیتے اور انگوٹھے کے ساتھ والی انگلی سے اشارہ فرماتے۔",
+        "english": "Narrated Ibn 'Umar (RA): When Allah's Messenger (PBUH) sat for Tashahhud, he placed his left hand on his left knee and his right hand on his right knee. He formed the number fifty-three with his fingers and pointed with his index finger. [Reported by Muslim]. In another version by Muslim: 'He closed all his fingers and pointed with the finger adjacent to the thumb.'"
+      }
+    },
+
+    {
+      "id": 247,
+      "name": {
+        "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- قَالَ : { اِلْتَفَتَ إِلَيْنَا رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-فَقَالَ : \" إِذَا صَلَّى أَحَدُكُمْ فَلْيَقُلْ : اَلتَّحِيَّاتُ لِلَّهِ , وَالصَّلَوَاتُ , وَالطَّيِّبَاتُ , اَلسَّلَامُ عَلَيْكَ أَيُّهَا اَلنَّبِيُّ وَرَحْمَةَ اَللَّهِ وَبَرَكَاتُهُ , اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اَللَّهِ اَلصَّالِحِينَ , أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اَللَّهُ , وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ , ثُمَّ لِيَتَخَيَّرْ مِنْ اَلدُّعَاءِ أَعْجَبُهُ إِلَيْهِ , فَيَدْعُو } مُتَّفَقٌ عَلَيْهِ , وَاللَّفْظُ لِلْبُخَارِيِّ وَلِلنَّسَائِيِّ : { كُنَّا نَقُولُ قَبْلِ أَنْ يُفْرَضَ عَلَيْنَا اَلتَّشَهُّدُ } وَلِأَحْمَدَ : { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-عَلَّمَهُ اَلتَّشَهُّد , وَأَمَرَهُ اَنْ يُعَلِّمَهُ اَلنَّاسَ } .‏ وَلِمُسْلِمٍ : عَنْ اِبْنِ اَبَّاسٍ ‏- رضى الله عنه ‏- قَالَ : { كَانَ رَسُولُ اَللَّهِ يُعَلِّمُنَا اَلتَّشَهُّدَ: \" اَلتَّحِيَّاتُ اَلْمُبَارَكَاتُ اَلصَّلَوَاتُ لِلَّهِ .‏.‏.‏ } إِلَى آخِرِهِ . ",
+        "urdu": "سیدنا عبداللہ بن مسعود رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ہماری طرف توجہ فرمائی اور ارشاد فرمایا کہ ” جب تم میں سے کوئی نماز پڑھے تو تشہد میں یوں کہے۔ «التحيات لله والصلوات والطيبات السلام عليك أيها النبي ورحمة الله وبركاته السلام علينا وعلى عباد الله الصالحين أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله» تمام سلامیاں اللہ ہی کیلئے ہیں اور نمازیں پاکیزیاں بھی (زبانی، بدنی اور مالی عبادتیں صرف اللہ کے لئے ہیں) اے نبی! سلام ہو آپ پر اور اللہ کی رحمت اور اس کی برکتیں ہوں۔ سلام ہو ہم پر اور اللہ کے صالح بندوں پر۔ میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی لائق عبادت (معبود) نہیں اور اس کی بھی گواہی دیتا ہوں کہ محمد ( صلی اللہ علیہ وسلم ) اللہ کے بندے اور اس کے رسول ہیں۔ پھر اسے دعا کا انتخاب کرنا چاہیئے کہ جو اسے سب سے اچھی لگے وہ مانگے۔“ (بخاری و مسلم) متن حدیث کے الفاظ بخاری کے ہیں اور نسائی میں ہے کے ہم تشہد فرض ہونے سے پہلے کہا کرتے تھے اور احمد میں ہے کہ نبی کریم صلی اللہ علیہ وسلم نے ان کو تشہد سکھایا اور حکم دیا کہ لوگوں کو اسے سکھاؤ اور مسلم میں ابن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم ہمیں تشہد سکھاتے تھے (وہ اس طرح تھا) «التحيات المباركات الصلوات الطيبات لله» إلى آخره۔",
+        "english": "Narrated Abdullah bin Mas'ud (RAA): The Messenger of Allah (ﷺ) turned towards us and said, 'When one of you prays, he should say (during the sitting): All compliments, prayers, and pure words are due to Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is His servant and Messenger. Then he may choose whatever supplication he likes and supplicate.' Agreed upon; the version belongs to Al-Bukhari. An-Nasa'i added: 'We used to say this before the Tashahhud was made obligatory upon us.' Ahmad added: 'The Prophet (ﷺ) taught him the Tashahhud and ordered him to teach it to the people.' Muslim reported from Ibn Abbas (RAA) that the Messenger of Allah (ﷺ) used to teach us the Tashahhud: 'All blessed compliments, prayers, and pure words are due to Allah...'"
+      }
+    },
+
+    {
+      "id": 248,
+      "name": {
+        "arabic": " وَعَنْ فَضَالَةَ بْنِ عُبَيْدٍ ‏- رضى الله عنه ‏- قَالَ : { سَمِعَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-رِجْلاً يَدْعُو فِي صَلَاتِهِ , لَمْ يَحْمَدِ اَللَّهَ , وَلَمْ يُصَلِّ عَلَى اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-فَقَالَ : \" عَجِلَ هَذَا \" ثُمَّ دَعَاهُ , فَقَالَ : \" إِذَا صَلَّى أَحَدُكُمْ فَلْيَبْدَأْ بِتَحْمِيدِ رَبِّهِ وَالثَّنَاءِ عَلَيْهِ , ثُمَّ يُصَلِّي عَلَى اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-ثُمَّ يَدْعُو بِمَا شَاءَ } رَوَاهُ أَحْمَدُ , وَالثَّلَاثَةُ , وَصَحَّحَهُ اَلتِّرْمِذِيُّ , وَابْنُ حِبَّانَ , وَالْحَاكِمُ .‏",
+        "urdu": "سیدنا فضالہ بن عبید رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک آدمی کو اپنی نماز میں دعا کرتے سنا۔ نہ تو اس نے اللہ کی حمد کی اور نہ نبی کریم صلی اللہ علیہ وسلم پر درود بھیجا۔ آپ صلی اللہ علیہ وسلم نے فرمایا ”اس نے جلدی کی“ پھر آپ صلی اللہ علیہ وسلم نے اسے اپنے پاس بلایا اور سمجھایا کہ ”تم میں سے کوئی جب دعا مانگنے لگے تو پہلے اسے اپنے رب کی حمد و ثنا کرنی چاہیئے پھر نبی کریم صلی اللہ علیہ وسلم پر درود بھیجنا چاہیئے پھر اس کے بعد جو چاہے دعا مانگے۔“",
+        "english": "Narrated Fadalah bin 'Ubaid (RA): Allah's Messenger (PBUH) heard a man supplicating in his prayer without glorifying Allah and without invoking blessings upon the Prophet (PBUH). He said: 'This man has been hasty.' Then he called him and said: 'When any one of you supplicates, let him begin by praising his Lord and glorifying Him, then let him invoke blessings upon the Prophet (PBUH), and then let him supplicate for whatever he wishes.'"
+      }
+    },
+
+    {
+      "id": 249,
+      "name": {
+        "arabic": " وَعَنْ أَبِي مَسْعُودٍ اَلْأَنْصَارِيِّ ‏- رضى الله عنه ‏- قَالَ : { قَالَ بَشِيرُ بْنُ سَعْدٍ: يَا رَسُولَ اَللَّهِ ! أَمَرَنَا اَللَّهُ أَنْ نُصَلِّيَ عَلَيْكَ , فَكَيْفَ نُصَلِّي عَلَيْكَ ? فَسَكَتَ , ثُمَّ قَالَ : \" قُولُوا : اَللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ , وَعَلَى آلِ مُحَمَّدٍ , كَمَا صَلَّيْتَ عَلَى آلِ إِبْرَاهِيمَ , وَبَارِكْ عَلَى مُحَمَّدٍ , وَعَلَى آلِ مُحَمَّدٍ , كَمَا بَارَكْتَ عَلَى آلِ إِبْرَاهِيمَ فِي اَلْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ .‏ وَالسَّلَامُ كَمَا عَلَّمْتُكُمْ } رَوَاهُ مُسْلِمٌ وَزَادَ اِبْنُ خُزَيْمَةَ فِيهِ : { فَكَيْفَ نُصَلِّي عَلَيْكَ , إِذَا نَحْنُ صَلَّيْنَا عَلَيْكَ فِي صَلَاتِنَا } .‏",
+        "urdu": "سیدنا ابومسعود انصاری رضی اللہ عنہ روایت کرتے ہیں کہ بشیر بن سعد رضی اللہ عنہ نے عرض کیا یا رسول اللہ! اللہ تعالیٰ نے ہمیں آپ صلی اللہ علیہ وسلم پر درود بھیجنے کا حکم ارشاد فرمایا ہے لہذا ہم کس طرح آپ پر درود بھیجیں؟ تھوڑے سے توقف کے بعد فرمایا ”اس طرح کہا کرو: اللّٰھُمَّ صَلِّ عَلٰی مُحَمَّدٍ وَّعَلٰی اٰلِ مُحَمَّدٍ کَمَا صَلَّیْتَ عَلٰی اٰلِ اِبْرَاھِیْمَ وَبَارِکْ عَلٰی مُحَمَّدٍ وَّعَلٰی اٰلِ مُحَمَّدٍ کَمَا بَارَکْتَ عَلٰی اٰلِ اِبْرَاھِیْمَ فِی الْعَالَمِیْنَ اِنَّکَ حَمِیْدٌ مَّجِیْدٌ۔ اے اللہ! محمد (صلی اللہ علیہ وسلم) اور آل محمد پر رحمت نازل فرما جس طرح تو نے آلِ ابراہیم پر رحمت نازل فرمائی اور برکت نازل فرما محمد اور آل محمد پر جس طرح تو نے آلِ ابراہیم پر برکت نازل فرمائی دونوں جہانوں میں۔ یقیناً تو ستودہ صفات اور بزرگ ہے، اور رہا سلام تو اس کا علم تمہیں سکھلا دیا گیا ہے۔“ (مسلم) اور ابن خزیمہ نے یہ اضافہ کیا کہ ہم جب نماز میں ہوں تو درود کس طرح پڑھیں۔",
+        "english": "Narrated Abu Mas'ud al-Ansari (RA): Bashir bin Sa'd asked, 'O Messenger of Allah! Allah has commanded us to invoke blessings upon you, so how should we do it?' He remained silent for a while and then said: 'Say: O Allah, bless Muhammad and the family of Muhammad as You blessed the family of Abraham, and grant favors to Muhammad and the family of Muhammad as You granted favors to the family of Abraham in the worlds; surely You are Praiseworthy and Glorious. And the greeting (Salam) is as you have already learned.' [Reported by Muslim]. Ibn Khuzaimah added: 'How should we bless you when we pray in our Salah?'"
+      }
+    },
+
+    {
+      "id": 250,
+      "name": {
+        "arabic": " وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا تَشَهَّدَ أَحَدُكُمْ فَلْيَسْتَعِذْ بِاَللَّهِ مِنْ أَرْبَعٍ , يَقُولُ : اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ , وَمِنْ عَذَابِ اَلْقَبْرِ , وَمِنْ فِتْنَةِ اَلْمَحْيَا وَالْمَمَاتِ , وَمِنْ شَرِّ فِتْنَةِ اَلْمَسِيحِ اَلدَّجَّالِ } مُتَّفَقٌ عَلَيْهِ . وَفِي رِوَايَةٍ لِمُسْلِمٍ : { إِذَا فَرَغَ أَحَدُكُمْ مِنْ اَلتَّشَهُّدِ اَلْأَخِيرِ } ",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”جب تم میں سے کوئی تشہد پڑھ چکے تو چار چیزوں سے اللہ کی پناہ طلب کرے۔“ اللّٰھُمَّ اِنِّیْ اَعُوْذُبِکَ مِنْ عَذَابِ جَھَنَّمَ وَمِنْ عَذَابِ الْقَبْرِ وَمِنْ فِتْنَةِ الْمَحْیَا وَالْمَمَاتِ وَمِنْ شَرِّ فِتْنَةِ الْمَسِیْحِ الدَّجَّالِ۔ ”اے اللہ! میں تجھ سے عذابِ جہنم، عذابِ قبر، زندگی اور موت کے فتنے، اور مسیح دجال کے فتنے کے شر سے پناہ مانگتا ہوں۔“ (بخاری و مسلم) اور مسلم کی ایک روایت میں ہے: ”جب تم میں سے کوئی آخری تشہد سے فارغ ہو تو ان چار چیزوں سے اللہ کی پناہ مانگے۔“",
+        "english": "Narrated Abu Hurairah (RA): Allah's Messenger (PBUH) said: 'When one of you finishes the Tashahhud, he should seek refuge with Allah from four things, saying: O Allah, I seek refuge with You from the punishment of Hell, from the punishment of the grave, from the trials of life and death, and from the evil of the trial of Al-Masih ad-Dajjal.' [Agreed upon]. In a narration by Muslim: 'When one of you finishes the final Tashahhud.'"
+      }
+    },
+
+    {
+      "id": 251,
+      "name": {
+        "arabic": " وَعَنْ أَبِي بَكْرٍ اَلصِّدِّيقِ ‏- رضى الله عنه ‏- { أَنَّهُ قَالَ لِرَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-عَلِّمْنِي دُعَاءً أَدْعُو بِهِ فِي صَلَاتِي .‏ قَالَ قُلْ : \" اَللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا , وَلَا يَغْفِرُ اَلذُّنُوبَ إِلَّا أَنْتَ , فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ , وَارْحَمْنِي , إِنَّكَ أَنْتَ اَلْغَفُورُ اَلرَّحِيمُ } مُتَّفَقٌ عَلَيْهِ .",
+        "urdu": "سیدنا ابوبکر صدیق رضی اللہ عنہ سے مروی ہے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں عرض کی کہ مجھے ایسی دعا سکھائیں جسے میں اپنی نماز میں پڑھا کروں۔ آپ صلی اللہ علیہ وسلم نے فرمایا ” یہ دعا پڑھا کرو «اللهم إني ظلمت نفسي ظلما كثيرا ولا يغفر الذنوب إلا أنت فاغفر لي مغفرة من عندك وارحمني إنك أنت الغفور الرحيم» اے پروردگار! میں نے اپنی جان پر بہت ہی ظلم کیا ہے۔ تیرے سوا کوئی گناہوں کو بخشنے والا نہیں۔ لہذا تو مجھے اپنی جناب سے معاف فرما دے اور مجھ پر رحم فرما۔ بیشک تو ہی بخشنے والا اور ہمیشہ رحم فرمانے والا ہے۔“ ",
+        "english": "Narrated Abu Bakr as-Siddiq (RA): I said to Allah's Messenger (PBUH), 'Teach me a supplication which I should say in my prayer.' He said, 'Say: O Allah, I have wronged myself greatly and nobody forgives sins except You. So, grant me forgiveness from Your presence and have mercy on me. Indeed, You are the Oft-Forgiving, Most Merciful.'"
+      }
+    },
+
+    {
+      "id": 252,
+      "name": {
+        "arabic": "وَعَنْ وَائِلِ بْنِ حُجْرٍ ‏- رضى الله عنه ‏- قَالَ : { صَلَّيْتُ مَعَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-فَكَانَ يُسَلِّمُ عَنْ يَمِينِهِ : \" اَلسَّلَام عَلَيْكُمْ وَرَحْمَةُ اَللَّهِ وَبَرَكَاتُهُ \" وَعَنْ شِمَالِهِ : \" اَلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اَللَّهِ وَبَرَكَاتُهُ } رَوَاهُ أَبُو دَاوُدَ بِسَنَدٍ صَحِيحٍ . ",
+        "urdu": "سیدنا وائل بن حجر رضی اللہ عنہ روایت کرتے ہیں کہ میں نے نبی کریم صلی اللہ علیہ وسلم کے ساتھ نماز پڑھی آپ صلی اللہ علیہ وسلم نے دائیں جانب سلام پھیرتے ہوئے کہا «السلام عليكم ورحمة الله وبركاته» اور اسی طرح بائیں طرف سلام پھیرتے ہوئے کہا «السلام عليكم ورحمة الله وبركاته»۔ ابوداؤد نے اسے صحیح سند سے روایت کیا ہے۔",
+        "english": "Narrated Wa'il bin Hujr (RA): I prayed with the Prophet (PBUH) and he used to say Salam to his right: 'As-Salamu 'Alaikum wa Rahmatullahi wa Barakatuhu' and to his left: 'As-Salamu 'Alaikum wa Rahmatullahi wa Barakatuhu'. [Reported by Abu Dawud with a Sahih chain]."
+      }
+    },
+
+    {
+      "id": 253,
+      "name": {
+        "arabic": " وَعَنْ اَلْمُغِيرَةِ بْنِ شُعْبَةٍ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-{ كَانَ يَقُولُ فِي دُبُرِ كُلِّ صَلَاةِ مَكْتُوبَةٍ : \" لَا إِلَهَ إِلَّا اَللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ , لَهُ اَلْمُلْكُ , وَلَهُ اَلْحَمْدُ , وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ , اَللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ , وَلَا مُعْطِيَ لِمَا مَنَعْتَ , وَلَا يَنْفَعُ ذَا اَلْجَدِّ مِنْكَ اَلْجَدُّ } مُتَّفَقٌ عَلَيْهِ .‏",
+        "urdu": "سیدنا مغیرہ بن شعبہ رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم ہر فرض کے اختتام پر یہ دعا پڑھا کرتے تھے «لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير اللهم لا مانع لما أعطيت ولا معطي لما منعت ولا ينفع ذا الجد منك الجد» ” اللہ کے سوا کوئی معبود نہیں، اس کا کوئی شریک و ساجھی نہیں۔ فرمانروائی اسی کی ہے اور حمد و ثنا اسی کے لئے ہے اور وہ ہر چیز پر قدرت رکھنے والا ہے۔ اے اللہ! جو کچھ تو عطا فرمائے اسے کوئی روکنے والا نہیں اور جو کچھ تو روک لے اسے عطا کرنے والا کوئی نہیں اور کسی صاحب نصیبہ کو تیرے عذاب سے اس کا نصیبہ (مال و جاہ) نفع نہیں دے سکتا۔“",
+        "english": "Narrated Al-Mughirah bin Shu'bah (RA): The Prophet (PBUH) used to say after every compulsory prayer: 'There is no god but Allah Alone, Who has no partner. To Him belongs the kingdom, and to Him belongs the praise, and He has power over all things. O Allah, no one can withhold what You give, and no one can give what You withhold, and the fortune of a man of means is of no avail against You.'"
+      }
+    },
+
+    {
+      "id": 254,
+      "name": {
+        "arabic": "وَعَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ ‏- رضى الله عنه ‏- قَالَ : { إِنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-كَانَ يَتَعَوَّذُ بِهِنَّ دُبُرَ اَلصَّلَاةِ : \" اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ اَلْبُخْلِ وَأَعُوذُ بِكَ مِنْ اَلْجُبْنِ , وَأَعُوذُ بِكَ مِنْ أَنْ أُرَدَّ إِلَى أَرْذَلِ اَلْعُمُرِ , وَأَعُوذُ بِكَ مِنْ فِتْنَةِ اَلدُّنْيَا , وَأَعُوذُ بِكَ مِنْ عَذَابِ اَلْقَبْرِ } رَوَاهُ اَلْبُخَارِيُّ .‏",
+        "urdu": "سیدنا سعد بن ابی وقاص رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم ہر نماز کے آخر میں یہ تعوذ پڑھا کرتے تھے «اللهم إني أعوذ بك من البخل وأعوذ بك من الجبن وأعوذ بك من أن أرد إلى أرذل العمر وأعوذ بك من فتنة الدنيا وأعوذ بك من عذاب القبر» ” اے اللہ! میں تیری پناہ لیتا ہوں بخل سے اور بزدلی سے اور تیری پناہ لیتا ہوں اس سے کہ میں رذیل ترین عمر کی طرف لوٹایا جاؤں اور میں دنیا کے فتنہ اور عذاب قبر سے تیری پناہ لیتا ہوں۔“ (بخاری)",
+        "english": "Narrated Sa'd bin Abi Waqqas (RA): Allah's Messenger (PBUH) used to seek refuge with Allah at the end of the prayer with these words: 'O Allah, I seek refuge with You from miserliness, and I seek refuge with You from cowardice, and I seek refuge with You from being sent back to the miserable state of old age, and I seek refuge with You from the trials of this world, and I seek refuge with You from the punishment of the grave.'"
+      }
+    },
+
+    {
+      "id": 255,
+      "name": {
+        "arabic": "وَعَنْ ثَوْبَانَ ‏- رضى الله عنه ‏- قَالَ : { كَانَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-إِذَا اِنْصَرَفَ مِنْ صَلَاتِهِ اِسْتَغْفَرَ اَللَّهَ ثَلَاثًا , وَقَالَ : \" اَللَّهُمَّ أَنْتَ اَلسَّلَامُ وَمِنْكَ اَلسَّلَامُ .‏ تَبَارَكْتَ يَا ذَا اَلْجَلَالِ وَالْإِكْرَامِ } رَوَاهُ مُسْلِمٌ .‏",
+        "urdu": "سیدنا ثوبان رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم جب اپنی نماز سے فارغ ہوتے (سلام پھیرتے) تو تین مرتبہ «استغفر الله» کہتے اور پھر یہ دعا پڑھتے: «اللهم أنت السلام ومنك السلام تباركت يا ذا الجلال والإكرام» ”اے اللہ! تو ہی سلامتی والا ہے اور سلامتی تیری ہی طرف سے ہے، اے بزرگی اور عزت والے! تو بابرکت ہے۔“",
+        "english": "Narrated Thawban (RA): When Allah's Messenger (PBUH) finished his prayer, he would ask for Allah's forgiveness three times and say: 'O Allah, You are As-Salam (Peace), and from You comes peace. Blessed are You, O Possessor of Majesty and Honor.'"
+      }
+    },
+
+    {
+      "id": 256,
+      "name": {
+        "arabic": " وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- عَنْ رَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ : { مَنْ سَبَّحَ اَللَّهَ دُبُرَ كُلِّ صَلَاةٍ ثَلَاثًا وَثَلَاثِينَ , وَحَمِدَ اَللَّهِ ثَلَاثًا وَثَلَاثِينَ , وَكَبَّرَ اَللَّهُ ثَلَاثًا وَثَلَاثِينَ , فَتِلْكَ تِسْعٌ وَتِسْعُونَ , وَقَالَ تَمَامَ اَلْمِائَةِ : لَا إِلَهَ إِلَّا اَللَّهَ وَحْدَهُ لَا شَرِيكَ لَهُ , لَهُ اَلْمُلْكُ , وَلَهُ اَلْحَمْدُ , وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ , غُفِرَتْ لَهُ خَطَايَاهُ , وَإِنْ كَانَتْ مِثْلَ زَبَدِ اَلْبَحْرِ } رَوَاهُ مُسْلِمٌ .‏ وَفِي رِوَايَةٍ أُخْرَى : أَنَّ اَلتَّكْبِيرَ أَرْبَعٌ وَثَلَاثُونَ].‏ ",
+        "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس شخص نے ہر نماز کے بعد 33 مرتبہ سبحان اللہ، 33 مرتبہ الحمد للہ اور 33 مرتبہ اللہ اکبر کہا، تو یہ کل 99 کلمات ہوئے، اور سو پورا کرنے کے لیے 'لا الہ الا اللہ وحدہ لا شریک لہ، لہ الملک ولہ الحمد، وھو علیٰ کل شیء قدیر' کہا، تو اس کے گناہ معاف کر دیے جاتے ہیں چاہے وہ سمندر کی جھاگ کے برابر ہی کیوں نہ ہوں۔“ (مسلم)۔ ایک اور روایت میں ہے کہ تکبیر (اللہ اکبر) 34 مرتبہ کہے۔",
+        "english": "Narrated Abu Hurairah (RA): Allah's Messenger (PBUH) said: 'He who recites after every prayer: Subhan-Allah (Glory be to Allah) thirty-three times; Al-hamdu lillah (Praise be to Allah) thirty-three times; Allahu Akbar (Allah is Most Great) thirty-three times; and completes the hundred with: La ilaha illallahu wahdahu la sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shai'in qadir (There is no god but Allah Alone, Who has no partner; to Him belongs the kingdom and to Him belongs the praise, and He has power over all things) his sins will be forgiven even if they are as abundant as the foam of the sea.' [Reported by Muslim]. In another narration: Takbir (Allahu Akbar) is thirty-four times."
+      }
+    },
+
+    {
+      "id": 257,
+      "name": {
+        "arabic": "وَعَنْ مُعَاذِ بْنِ جَبَلٍ ‏- رضى الله عنه ‏- { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-قَالَ لَهُ : \" أُوصِيكَ يَا مُعَاذُ : لَا تَدَعَنَّ دُبُرَ كُلِّ صَلَاةٍ أَنْ تَقُولُ : اَللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ } رَوَاهُ أَحْمَدُ , وَأَبُو دَاوُدَ , وَالنَّسَائِيُّ بِسَنَدٍ قَوِيٍّ . ",
+        "urdu": "سیدنا معاذ بن جبل رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھے فرمایا ” اے معاذ! میں تمہیں وصیت کرتا ہوں ہر نماز کے اختتام کے بعد ان کلمات کو کبھی فراموش نہ کرنا «اللهم أعني على ذكرك وشكرك وحسن عبادتك» اے اللہ! میری مدد فرما کہ میں تیرا ذکر کروں، تیرا شکر ادا کر سکوں اور عمدہ و بہتر طریقے سے تیری عبادت کر سکوں۔“ اسے احمد، ابوداؤد اور نسائی نے قوی سند کے ساتھ روایت کیا ہے۔ ",
+        "english": "Narrated Mu'adh bin Jabal (RA): Allah's Messenger (PBUH) said to him, 'I advise you, O Mu'adh, do not fail to say after every prayer: O Allah, help me in remembering You, thanking You, and worshipping You in the best manner.' [Reported by Ahmad, Abu Dawud and an-Nasa'i with a strong chain]."
+      }
+    },
+
+    {
+      "id": 258,
+      "name": {
+        "arabic": " وَعَنْ أَبِي أُمَامَةَ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ قَرَأَ آيَةَ اَلْكُرْسِيِّ دُبُرَ كُلِّ صَلَاةٍ مَكْتُوبَةٍ لَمْ يَمْنَعْهُ مِنْ دُخُولِ اَلْجَنَّةِ إِلَّا اَلْمَوْتُ } رَوَاهُ النَّسَائِيُّ , وَصَحَّحَهُ اِبْنُ حِبَّانَ .‏ وَزَادَ فِيهِ اَلطَّبَرَانِيُّ : { وَقُلْ هُوَ اَللَّه أَحَدٌ } ",
+        "urdu": "سیدنا ابوامامہ رضی اللہ عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس شخص نے ہر فرض نماز کے بعد آیت الکرسی پڑھی، اس کو جنت میں داخل ہونے سے موت کے سوا اور کوئی چیز روکنے والی نہیں۔“ اسے نسائی نے روایت کیا ہے اور ابن حبان نے صحیح قرار دیا ہے، نیز طبرانی نے اس میں یہ اضافہ کیا ہے کہ ”سورہ اخلاص (قل ھو اللہ احد) بھی پڑھے۔“",
+        "english": "Narrated Abu Umamah (RA): Allah's Messenger (PBUH) said: 'Whoever recites Ayat al-Kursi after every prescribed (obligatory) prayer, nothing will prevent him from entering Paradise except death.' [Reported by an-Nasa'i and graded Sahih by Ibn Hibban]. At-Tabarani added: 'And Surah al-Ikhlas (Say: He is Allah, the One).'"
+      }
+    },
+
+    {
+      "id": 259,
+      "name": {
+        "arabic": "وَعَنْ مَالِكِ بْنِ الْحُوَيْرِثِ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ صَلُّوا كَمَا رَأَيْتُمُونِي أُصَلِّي } رَوَاهُ اَلْبُخَارِيُّ .",
+        "urdu": "سیدنا مالک بن حویرث رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”نماز اسی طرح پڑھو جس طرح تم نے مجھے پڑھتے دیکھا ہے۔“ (بخاری)",
+        "english": "Narrated Malik bin Al-Huwayrith (RA): Allah's Messenger (ﷺ) said, \"Pray as you have seen me praying.\""
+      }
+    },
+
+    {
+      "id": 260,
+      "name": {
+        "arabic": "وَعَنْ عِمْرَانَ بْنِ حُصَيْنٍ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- قَالَ : { قَالَ لِيَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-\" صَلِّ قَائِمًا , فَإِنْ لَمْ تَسْتَطِعْ فَقَاعِدًا , فَإِنْ لَمْ تَسْتَطِعْ فَعَلَى جَنْبٍ } رَوَاهُ اَلْبُخَارِيُّ .",
+        "urdu": "سیدنا عمران بن حصین رضی اللہ عنہما روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”نماز کھڑے ہو کر پڑھو، اگر کھڑے ہو کر نہیں پڑھ سکتے تو بیٹھ کر پڑھو اور اگر بیٹھ کر بھی پڑھنے کی استطاعت نہیں تو پہلو کے بل لیٹ کر پڑھو۔“ (بخاری)",
+        "english": "Narrated 'Imran bin Husain (RA): The Prophet (ﷺ) said to me, \"Pray while standing; and if you cannot, then while sitting; and if you cannot, then while lying on your side.\""
+      }
+    },
+
+    {
+      "id": 261,
+      "name": {
+        "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ لِمَرِيضٍ ‏- صَلَّى عَلَى وِسَادَةٍ , فَرَمَى بِهَا ‏- وَقَالَ : ' صَلِّ عَلَى اَلْأَرْضِ إِنْ اِسْتَطَعْتَ , وَإِلَّا فَأَوْمِئْ إِيمَاءً , وَاجْعَلْ سُجُودَكَ أَخْفَضَ مِنْ رُكُوعِكَ } رَوَاهُ اَلْبَيْهَقِيُّ بِسَنَدٍ قَوِيٍّ وَلَكِنْ صَحَّحَ أَبُو حَاتِمٍ وَقْفَهُ",
+        "urdu": "سیدنا جابر رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے ایک مریض سے فرمایا جس نے (سجدہ کرنے کے لیے) تکیہ پر نماز پڑھی، تو آپ ﷺ نے تکیہ پھینک دیا اور فرمایا: ”اگر استطاعت رکھتے ہو تو زمین پر نماز پڑھو، ورنہ اشارے سے پڑھو، اور اپنے سجدے کو رکوع سے زیادہ پست (نیچا) رکھو۔“ (اسے بیہقی نے قوی سند کے ساتھ روایت کیا ہے، لیکن ابوحاتم نے اس کا موقوف ہونا صحیح قرار دیا ہے)",
+        "english": "Narrated Jabir (RA): The Prophet (ﷺ) said to a sick person who prayed on a cushion (for prostration)—he threw it away and said: \"Pray on the ground if you are able; otherwise, make gestures (with your head), and make your prostration lower than your bowing.\""
+      }
+    }
+  ]
+}

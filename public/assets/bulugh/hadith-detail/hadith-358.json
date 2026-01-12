@@ -1,0 +1,270 @@
+{
+  "hadithId": 358,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/2/413"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام - كتاب الصلاة",
+    "babId": 22
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه النسائي (1/274)، وابن ماجه (1123)، والدارقطني (2/12) واللفظ له، وصححه الألباني في إرواء الغليل (622).",
+    "urdu": "یہ روایت اپنے شواہد کی بنا پر صحیح ہے۔ اسے نسائی (558)، ابن ماجہ (1123) اور دارقطنی (1596) نے روایت کیا ہے، علامہ البانی نے اسے ارواء الغلیل میں صحیح قرار دیا ہے۔",
+    "english": "Sahih due to supporting evidences. Reported by an-Nasa'i (1/274), Ibn Majah (1123), and ad-Daraqutni (2/12). Al-Albani graded it Sahih in Irwa' al-Ghalil (622)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَدْرَكَ",
+      "english": "Caught / Reached",
+      "urdu": "پالیا / پا لیا"
+    },
+    {
+      "arabic": "رَكْعَةً",
+      "english": "One Rak'ah",
+      "urdu": "ایک رکعت"
+    },
+    {
+      "arabic": "الْجُمُعَةِ",
+      "english": "Friday Prayer",
+      "urdu": "نماز جمعہ"
+    },
+    {
+      "arabic": "فَلْيُضِفْ",
+      "english": "Let him add",
+      "urdu": "پس وہ ملا لے / اضافہ کرے"
+    },
+    {
+      "arabic": "أُخْرَى",
+      "english": "Another one",
+      "urdu": "دوسری"
+    },
+    {
+      "arabic": "تَمَّتْ",
+      "english": "Completed",
+      "urdu": "مکمل ہوگئی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا خلاصہ یہ ہے کہ اگر کوئی شخص جماعت میں کم از کم ایک رکعت پا لیتا ہے تو اس کی وہ نماز (بشمول جمعہ) صحیح ہو جاتی ہے، بشرطیکہ وہ بقیہ رکعتیں مکمل کر لے۔",
+    "english": "The summary of this Hadith is that catching at least one Rak'ah with the congregation validates the prayer (including Jumu'ah), provided the person completes the remaining part."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي (558)",
+      "english": "Sunan an-Nasa'i (558)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (1123)",
+      "english": "Sunan Ibn Majah (1123)"
+    },
+    {
+      "arabic": "سنن الدارقطني (1596)",
+      "english": "Sunan ad-Daraqutni (1596)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر رضي الله عنهما",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_S5O5n8Kts",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi (Authentic due to others)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز کی ادراک کا معیار",
+        "english": "Criterion for Catching the Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایک رکعت کی اہمیت",
+              "english": "Importance of One Rak'ah"
+            },
+            "content": {
+              "urdu": [
+                "جماعت کی فضیلت اور نماز کا وقت پانے کے لیے ایک رکعت پانا ضروری ہے۔",
+                "اگر ایک رکعت پا لی جائے تو وہ شخص جماعت کا ثواب پانے والا کہلاتا ہے۔",
+                "اس اصول کا اطلاق تمام پانچ وقت کی نمازوں اور جمعہ پر یکساں ہوتا ہے۔"
+              ],
+              "english": [
+                "Catching one Rak'ah is essential to be considered as having caught the congregation.",
+                "If a person catches one Rak'ah, they are credited with having performed the prayer in time.",
+                "This rule applies consistently across all five daily prayers and the Friday prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رکوع میں ملنے کا حکم",
+              "english": "Ruling on Joining during Ruku"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک امام کے ساتھ رکوع میں مل جانے سے رکعت مل جاتی ہے۔",
+                "اگر امام رکوع سے اٹھ چکا ہو تو وہ رکعت شمار نہیں کی جائے گی۔",
+                "نمازی کو چاہیے کہ وہ اطمینان کے ساتھ جماعت میں شامل ہو کر بقیہ نماز پوری کرے۔"
+              ],
+              "english": [
+                "According to the majority of scholars, catching the Ruku with the Imam counts as catching the Rak'ah.",
+                "If the Imam has already risen from Ruku, that Rak'ah is not counted for the latecomer.",
+                "The worshipper should join the congregation calmly and complete the remaining portions later."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نماز جمعہ کے مخصوص احکام",
+        "english": "Specific Rulings for Jumu'ah Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمعہ پانے کی شرط",
+              "english": "Condition for Catching Jumu'ah"
+            },
+            "content": {
+              "urdu": [
+                "جمعہ کی نماز کو پانے کے لیے کم از کم ایک رکعت امام کے ساتھ پانا لازمی ہے۔",
+                "اگر کوئی دوسری رکعت کے رکوع کے بعد شامل ہو تو اسے جمعہ نہیں ملے گا۔",
+                "ایسی صورت میں اس شخص کو جمعہ کے بجائے ظہر کی چار رکعتیں ادا کرنی ہوں گی۔"
+              ],
+              "english": [
+                "To catch the Friday prayer, one must catch at least one full Rak'ah with the Imam.",
+                "If someone joins after the Ruku of the second Rak'ah, they have missed the Jumu'ah.",
+                "In such a case, the person must intend and perform four Rak'ahs of Dhuhr instead."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تشہد میں ملنے کا حکم",
+              "english": "Joining during Tashahhud"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص صرف تشہد میں امام کے ساتھ ملتا ہے تو اسے جمعہ کا ثواب نہیں ملتا۔",
+                "اسے امام کے سلام پھیرنے کے بعد ظہر کی چار رکعتیں مکمل کرنی ہوں گی۔",
+                "تاہم جماعت میں شامل ہونے کا عمومی ثواب اسے ان شاء اللہ ضرور حاصل ہوگا۔"
+              ],
+              "english": [
+                "If a person joins the Imam only during the Tashahhud, they do not catch the Jumu'ah prayer.",
+                "They must stand up after the Imam's Taslim and complete four Rak'ahs of Dhuhr.",
+                "However, the general reward for joining the congregation will still be attained, Insha'Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و علمی نکات",
+        "english": "Juristic and Scholarly Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کی اسنادی حیثیت",
+              "english": "Authenticity of the Narration"
+            },
+            "content": {
+              "urdu": [
+                "امام ابو حاتم نے اس روایت کے مرسل ہونے کو ترجیح دی ہے جو کہ ایک فنی بحث ہے۔",
+                "لیکن دیگر صحیح احادیث اور شواہد اس کے معنی و مفہوم کی تائید کرتے ہیں۔",
+                "محدثین کے نزدیک یہ حدیث عمل کے لیے حجت اور مستند سمجھی جاتی ہے۔"
+              ],
+              "english": [
+                "Imam Abu Hatim preferred the view that it is Mursal, which is a technical grading.",
+                "However, other authentic narrations and witnesses support its core meaning and context.",
+                "The scholars of Hadith consider this narration a valid proof for practical implementation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کی تکمیل کا طریقہ",
+              "english": "Method of Completing the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "امام کے سلام پھیرنے کے بعد مسبوق (پیچھے رہ جانے والا) کھڑا ہو کر بقیہ نماز پڑھے۔",
+                "جو حصہ امام کے ساتھ پایا وہ نماز کا ابتدائی حصہ تصور کیا جاتا ہے۔",
+                "بقیہ نماز میں قراءت اور ترتیب کا وہی خیال رکھا جائے گا جو انفرادی نماز میں ہوتا ہے۔"
+              ],
+              "english": [
+                "After the Imam performs the Taslim, the latecomer stands up to finish the missed part.",
+                "The portion caught with the Imam is generally considered the beginning of his prayer.",
+                "The remaining prayer should follow the same sequence of recitation and pillars as required."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Life Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت کی پابندی اور فکر",
+              "english": "Focus on Punctuality"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو چاہیے کہ وہ ہمیشہ پہلی تکبیر کے ساتھ جماعت میں شامل ہونے کی کوشش کرے۔",
+                "جان بوجھ کر تاخیر کرنا سنت نبوی اور جماعت کی برکات سے محرومی کا باعث ہے۔",
+                "اگر کبھی مجبوری میں تاخیر ہو جائے تو کم از کم ایک رکعت پانے کی فکر کرنی چاہیے۔"
+              ],
+              "english": [
+                "A Muslim should always strive to join the congregation with the first Takbir.",
+                "Delaying prayer intentionally leads to missing the Sunnah and the blessings of the group.",
+                "If delayed due to a valid excuse, one must try to catch at least one Rak'ah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں آسانی کا پہلو",
+              "english": "Aspect of Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اسلام کے دینِ فطرت اور آسانی ہونے کی ایک خوبصورت مثال ہے۔",
+                "ایک رکعت مل جانے پر پوری نماز کے صحیح ہونے کا حکم بندوں کے لیے سہولت ہے۔",
+                "اللہ تعالیٰ کی رحمت وسیع ہے جو تھوڑے عمل پر بھی پورا ثواب عطا فرماتا ہے۔"
+              ],
+              "english": [
+                "This Hadith is a beautiful example of ease and flexibility within the religion of Islam.",
+                "Validating the entire prayer by catching one Rak'ah provides great facility for worshippers.",
+                "Allah's mercy is vast, granting full rewards even for those who catch a portion of the act."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "hadithId": 364,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/2/418"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام - كتاب الصلاة",
+    "babId": 22
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (931)‏، ومسلم (875).",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری (931) اور امام مسلم (875) نے اپنی صحیح میں روایت کیا ہے۔",
+    "english": "Authentic. Reported by al-Bukhari (931) and Muslim (875)."
+  },
+  "importantWords": [
+    {
+      "arabic": "دَخَلَ",
+      "english": "Entered",
+      "urdu": "داخل ہوا"
+    },
+    {
+      "arabic": "يَخْطُبُ",
+      "english": "Delivering sermon",
+      "urdu": "خطبہ دے رہے تھے"
+    },
+    {
+      "arabic": "صَلَّيْتَ",
+      "english": "Have you prayed",
+      "urdu": "کیا تم نے نماز پڑھی"
+    },
+    {
+      "arabic": "قُمْ",
+      "english": "Stand up",
+      "urdu": "اٹھو"
+    },
+    {
+      "arabic": "رَكْعَتَيْنِ",
+      "english": "Two Rak'ahs",
+      "urdu": "دو رکعتیں"
+    }
+  ],
+  "summary": {
+    "urdu": "خطبہ جمعہ کے دوران مسجد میں آنے والے کے لیے تحیۃ المسجد کی دو مختصر رکعتیں پڑھنا ضروری ہے، چاہے امام خطبہ دے رہا ہو۔",
+    "english": "It is required for a person entering the mosque during the Friday sermon to pray two light Rak'ahs of Tahiyyat al-Masjid, even if the Imam is speaking."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (931)",
+      "english": "Sahih al-Bukhari (931)"
+    },
+    {
+      "arabic": "صحيح مسلم (875)",
+      "english": "Sahih Muslim (875)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله رضي الله عنه",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_S5O5n8Kts",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تحیۃ المسجد کی اہمیت",
+        "english": "Importance of Tahiyyat al-Masjid"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد کا حق",
+              "english": "The Right of the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں داخل ہونے پر دو رکعت پڑھنا مسجد کا حق اور سنت ہے۔",
+                "نبی کریم صلی اللہ علیہ وسلم نے خطبہ روک کر اس کی تاکید فرمائی۔",
+                "یہ نماز اللہ کے گھر کی تعظیم اور احترام کی علامت ہے۔"
+              ],
+              "english": [
+                "Praying two Rak'ahs upon entering is a right of the mosque and a Sunnah.",
+                "The Prophet (ﷺ) interrupted his sermon to emphasize its performance.",
+                "This prayer is a sign of respect and veneration for the house of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خطبہ کے دوران نماز کا حکم",
+              "english": "Ruling on Prayer during Khutbah"
+            },
+            "content": {
+              "urdu": [
+                "خطبہ کے دوران بھی تحیۃ المسجد پڑھنا شرعاً جائز اور مطلوب ہے۔",
+                "اگرچہ خطبہ سننا واجب ہے، مگر یہ مخصوص سنت اس سے مستثنیٰ ہے۔",
+                "یہ عمل دین میں سنتِ نبوی کی اہمیت کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "It is legally permissible and required to pray Tahiyyat al-Masjid during the sermon.",
+                "While listening to the Khutbah is obligatory, this specific Sunnah is an exception.",
+                "This action highlights the immense importance of the Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نماز میں اختصار کا حکم",
+        "english": "Instruction for Brevity in Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہلکی رکعتیں پڑھنا",
+              "english": "Praying Light Rak'ahs"
+            },
+            "content": {
+              "urdu": [
+                "دیگر روایات میں ان دو رکعتوں کو مختصر پڑھنے کا حکم دیا گیا ہے۔",
+                "مقصد یہ ہے کہ جلد از جلد امام کا خطبہ سننے کی طرف لوٹا جائے۔",
+                "عبادات میں توازن قائم رکھنا اسلامی تعلیمات کا بنیادی حصہ ہے۔"
+              ],
+              "english": [
+                "Other narrations instruct to perform these two Rak'ahs briefly.",
+                "The goal is to return to listening to the Imam as soon as possible.",
+                "Maintaining balance in worship is a fundamental part of Islamic teachings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی اہمیت",
+              "english": "Value of Time"
+            },
+            "content": {
+              "urdu": [
+                "خطبہ کا وقت قیمتی ہے، اسے ضائع ہونے سے بچانا ضروری ہے۔",
+                "مختصر نماز کے ذریعے سنت کی ادائیگی اور فرض کی سماعت دونوں ممکن ہیں۔",
+                "اسلام ہر کام کو اس کے صحیح وقت اور مقام پر کرنے کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "The sermon time is precious; it is necessary to avoid wasting it.",
+                "Short prayer allows for Sunnah fulfillment and listening to the obligatory sermon.",
+                "Islam encourages doing every act at its proper time and appropriate place."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امام اور مقتدی کا تعلق",
+        "english": "Relationship Between Imam and Follower"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام کی توجہ اور نگرانی",
+              "english": "Imam's Attention and Supervision"
+            },
+            "content": {
+              "urdu": [
+                "امام کو چاہیے کہ وہ اپنے مقتدیوں کی حالت پر نظر رکھے۔",
+                "نبی کریم نے آنے والے شخص سے اس کی نماز کے بارے میں دریافت کیا۔",
+                "یہ امام کی تعلیمی اور تربیتی ذمہ داری کی ایک بہترین مثال ہے۔"
+              ],
+              "english": [
+                "The Imam should keep an eye on the condition of his congregation.",
+                "The Prophet (ﷺ) personally asked the newcomer about his prayer.",
+                "This is an excellent example of the Imam's educational and supervisory duty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دورانِ خطبہ گفتگو",
+              "english": "Speaking during the Sermon"
+            },
+            "content": {
+              "urdu": [
+                "ضرورت پڑنے پر امام مقتدی سے اور مقتدی امام سے بات کر سکتا ہے۔",
+                "ایسی گفتگو جو اصلاح اور تعلیم کے لیے ہو، وہ لغو میں شمار نہیں ہوتی۔",
+                "یہ حدیث واضح کرتی ہے کہ کلام کی ممانعت عام فضول باتوں کے لیے ہے۔"
+              ],
+              "english": [
+                "The Imam can speak to a follower, and vice versa, if there is a need.",
+                "Speech intended for correction and teaching is not considered idle talk.",
+                "This Hadith clarifies that the prohibition of speech is for general idle talk."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی و تربیتی اسباق",
+        "english": "Practical and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جہالت کا خاتمہ",
+              "english": "Eradication of Ignorance"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی سنت سے ناواقف ہو تو اسے نرمی سے سکھانا چاہیے۔",
+                "نبی کریم نے اس شخص کو اٹھا کر نماز پڑھنے کا حکم دے کر سکھایا۔",
+                "تعلیم و تربیت کا یہ انداز معاشرے میں شعور پیدا کرنے کا سبب بنتا ہے۔"
+              ],
+              "english": [
+                "If someone is unaware of a Sunnah, they should be taught gently.",
+                "The Prophet (ﷺ) taught by asking the man to stand and pray.",
+                "This style of education leads to raising awareness within the community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اطاعتِ رسول کی اہمیت",
+              "english": "Importance of Obeying the Messenger"
+            },
+            "content": {
+              "urdu": [
+                "آپ صلی اللہ علیہ وسلم کے حکم پر فوراً عمل کرنا ایمان کا لازمی جزو ہے۔",
+                "اس شخص نے اپنی حالت بتائی اور حکم ملتے ہی نماز شروع کر دی۔",
+                "ہر معاملے میں سنت کو ترجیح دینا ہی کامیابی کی ضمانت ہے۔"
+              ],
+              "english": [
+                "Immediate compliance with the Prophet's (ﷺ) command is essential for faith.",
+                "The man stated his condition and began praying as soon as ordered.",
+                "Prioritizing the Sunnah in every matter is the guarantee of true success."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

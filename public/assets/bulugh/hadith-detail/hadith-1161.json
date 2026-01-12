@@ -1,0 +1,264 @@
+{
+  "hadithId": 1161,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/38"],
+    "kitabId": 12,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الأضحية",
+    "babId": 94
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (8256)، وابن ماجه (3123)، والحاكم (4/231). صححه الحاكم ووافقه الذهبي، ورجح آخرون كابن حجر وقفه على أبي هريرة.",
+    "urdu": "یہ حدیث حسن درجے کی ہے۔ اسے امام احمد، ابن ماجہ اور حاکم نے روایت کیا ہے۔ بعض ائمہ نے اسے مرفوع (نبی ﷺ کا قول) جبکہ دیگر نے موقوف (صحابی کا قول) مانا ہے۔",
+    "english": "Hasan. Reported by Ahmad (8256), Ibn Majah (3123), and Al-Hakim (4/231). Graded Sahih by Al-Hakim, though several scholars like Ibn Hajar noted it is often transmitted as Mauquf."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَعَةٌ",
+      "english": "Affluence / Means",
+      "urdu": "وسعت / گنجائش"
+    },
+    {
+      "arabic": "يُضَحِّ",
+      "english": "Sacrifice",
+      "urdu": "قربانی کرے"
+    },
+    {
+      "arabic": "لَا يَقْرَبَنَّ",
+      "english": "Must not approach",
+      "urdu": "ہرگز قریب نہ آئے"
+    },
+    {
+      "arabic": "مُصَلَّانَا",
+      "english": "Our prayer place",
+      "urdu": "ہماری عید گاہ"
+    },
+    {
+      "arabic": "رَجَّحَ",
+      "english": "Preferred",
+      "urdu": "ترجیح دی"
+    },
+    {
+      "arabic": "وَقْفَهُ",
+      "english": "Its being Mauquf",
+      "urdu": "اس کا موقوف ہونا"
+    }
+  ],
+  "summary": {
+    "urdu": "استطاعت کے باوجود قربانی نہ کرنا سخت ناپسندیدہ ہے اور ایسی سنگدلی پر نبی ﷺ نے عید گاہ آنے سے روک کر تنبیہ فرمائی ہے۔",
+    "english": "Refraining from sacrifice despite having the financial means is strictly discouraged, serving as a stern warning against spiritual negligence."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد (8256)",
+      "english": "Musnad Ahmad (8256)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (3123)",
+      "english": "Sunan Ibn Majah (3123)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Q-vF1o7fI",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قربانی کی اہمیت اور وجوب",
+        "english": "Importance and Obligation of Sacrifice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صاحبِ استطاعت پر حکم",
+              "english": "Ruling on the Capable"
+            },
+            "content": {
+              "urdu": [
+                "جس مسلمان کے پاس قربانی کے ایام میں ضرورت سے زائد رقم ہو، اسے قربانی کرنی چاہیے۔",
+                "فقہ حنفی میں اس حدیث کی بنیاد پر قربانی کو صاحبِ نصاب پر واجب قرار دیا گیا ہے۔",
+                "قربانی نہ کرنا شعائرِ اسلام کی توہین اور اللہ کی نعمت کی ناشکری ہے۔"
+              ],
+              "english": [
+                "A Muslim who possesses surplus wealth during the days of Eid must offer a sacrifice.",
+                "In Hanafi jurisprudence, this Hadith is used to establish sacrifice as Wajib (obligatory).",
+                "Neglecting sacrifice is seen as disrespecting Islamic rituals and ungratefulness for blessings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عید گاہ سے دوری کی وعید",
+              "english": "Warning of Exclusion from Eidgah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے قربانی نہ کرنے والوں کو عید گاہ آنے سے روک کر اپنی ناراضگی کا اظہار فرمایا۔",
+                "یہ حکم دراصل ایک تربیتی تنبیہ ہے تاکہ لوگ اس اہم عبادت میں سستی نہ کریں۔",
+                "جو شخص اللہ کے لیے خون نہیں بہا سکتا، وہ مسلمانوں کی خوشیوں میں شامل ہونے کا حق کھو دیتا ہے۔"
+              ],
+              "english": [
+                "By barring them from the Eidgah, the Prophet (ﷺ) expressed severe displeasure.",
+                "This command serves as a disciplinary warning to ensure people do not ignore this worship.",
+                "One who refuses to sacrifice for Allah risks losing the spiritual essence of Muslim celebrations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی فنی حیثیت",
+        "english": "Technical Status of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرفوع اور موقوف کا فرق",
+              "english": "Marfu' vs Mauquf Transmissions"
+            },
+            "content": {
+              "urdu": [
+                "بعض محدثین اسے سیدنا ابوہریرہ کا اپنا قول (موقوف) قرار دیتے ہیں۔",
+                "لیکن چونکہ عید گاہ سے روکنا ایک شرعی وعید ہے، اس کا ماخذ نبی ﷺ ہی ہو سکتے ہیں۔",
+                "مرفوع ہونے کی صورت میں یہ حکم براہِ راست رسول اللہ ﷺ کی طرف منسوب ہے۔"
+              ],
+              "english": [
+                "Some scholars view this as Abu Hurairah's personal statement (Mauquf).",
+                "However, since excluding someone from Eidgah is a legal penalty, its source must be the Prophet (ﷺ).",
+                "If taken as Marfu', the ruling is directly attributed to the Messenger of Allah (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استدلال کی بنیاد",
+              "english": "Basis of Deduction"
+            },
+            "content": {
+              "urdu": [
+                "ائمہ نے اس حدیث سے قربانی کی تاکیدِ شدید پر استدلال کیا ہے۔",
+                "اگر قربانی محض نفل ہوتی تو اس کے چھوڑنے پر اتنی سخت وعید نہ آتی۔",
+                "یہ حدیث قربانی کو محض رسم نہیں بلکہ ایک لازمی فریضہ ثابت کرتی ہے۔"
+              ],
+              "english": [
+                "Imams have used this Hadith to argue for the heavy emphasis on sacrifice.",
+                "If it were merely optional, such a stern warning for its omission would not exist.",
+                "This narration proves that sacrifice is an essential duty, not just a tradition."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی و اخلاقی پہلو",
+        "english": "Social and Ethical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بخل کی مذمت",
+              "english": "Condemnation of Stinginess"
+            },
+            "content": {
+              "urdu": [
+                "مال و دولت ہونے کے باوجود اللہ کی راہ میں خرچ نہ کرنا بخل کی بدترین قسم ہے۔",
+                "قربانی کے ذریعے غریبوں تک گوشت پہنچانا معاشرتی ہمدردی کا ذریعہ ہے۔",
+                "یہ حدیث مال داروں کو ان کی سماجی اور مذہبی ذمہ داریوں کی طرف متوجہ کرتی ہے۔"
+              ],
+              "english": [
+                "Refusing to spend in Allah's way despite having wealth is the worst form of stinginess.",
+                "Distributing meat through sacrifice is a vital means of social compassion.",
+                "This Hadith alerts the wealthy to their social and religious responsibilities."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعیت کا احترام",
+              "english": "Respecting Collectivity"
+            },
+            "content": {
+              "urdu": [
+                "عید کا اجتماع مسلمانوں کی شان و شوکت اور اتحاد کا مظہر ہے۔",
+                "احکامِ الہی سے روگردانی کرنے والا اس اتحاد کی روح کو مجروح کرتا ہے۔",
+                "عبادت اور جشن کے درمیان تعلق کو برقرار رکھنا ضروری ہے۔"
+              ],
+              "english": [
+                "The Eid gathering is a manifestation of Muslim glory and unity.",
+                "One who turns away from divine commands harms the spirit of this unity.",
+                "It is necessary to maintain the link between worship and celebration."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلاصہ اور عمل",
+        "english": "Summary and Action"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت کی درستی",
+              "english": "Rectifying Intention"
+            },
+            "content": {
+              "urdu": [
+                "قربانی صرف گوشت کھانے کے لیے نہیں بلکہ اللہ کی رضا کے لیے ہونی چاہیے۔",
+                "وسعت ہونے پر قرض لے کر یا تنگی میں بھی قربانی کرنا برکت کا باعث ہے۔",
+                "دکھاوے کے بجائے عاجزی اور تقویٰ کے ساتھ قربانی پیش کرنی چاہیے۔"
+              ],
+              "english": [
+                "Sacrifice should be purely for Allah's sake, not just for consuming meat.",
+                "If one has the means, sacrificing even under constraint brings immense blessing.",
+                "Sacrifice must be offered with humility and piety rather than for show."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اطاعتِ رسول ﷺ",
+              "english": "Obedience to the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "رسول اللہ ﷺ کی ناراضگی سے بچنا ہر مومن کا اولین مقصد ہونا چاہیے۔",
+                "آپ ﷺ کے احکامات پر سرِ تسلیم خم کرنا ہی ایمان کی معراج ہے۔",
+                "قربانی کے ایام میں اللہ کے ذکر اور شکر گزاری میں وقت گزارنا چاہیے۔"
+              ],
+              "english": [
+                "Avoiding the displeasure of the Prophet (ﷺ) should be every believer's goal.",
+                "Submitting to his commands is the pinnacle of true faith.",
+                "During the days of sacrifice, time should be spent in Allah's remembrance and gratitude."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

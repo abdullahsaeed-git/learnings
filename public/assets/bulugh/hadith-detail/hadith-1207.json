@@ -1,0 +1,259 @@
+{
+  "hadithId": 1207,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh:1207"],
+    "kitabId": 14,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأقضية",
+    "babId": 98
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف جدا. أخرجه ابن عدي في الكامل (6/2213) والحاكم (4/95) وصححه فأخطأ، لأن في إسناده محمد بن الحارث وهو منكر الحديث.",
+    "urdu": "یہ روایت سخت ضعیف ہے۔ اسے ابن عدی اور حاکم نے روایت کیا ہے۔ امام حاکم نے اسے صحیح کہا ہے مگر علامہ ابن حجر کے مطابق یہ ان کی غلطی ہے کیونکہ اس کی سند کے راوی محمد بن الحارث منکر الحدیث ہیں۔",
+    "english": "Very Weak. Reported by Ibn 'Adi in Al-Kamil and Al-Hakim in Al-Mustadrak. Al-Hakim graded it Sahih, but this was an error as the chain contains Muhammad bin al-Harith, who is a rejected narrator."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَرَى",
+      "english": "You see",
+      "urdu": "تم دیکھتے ہو"
+    },
+    {
+      "arabic": "الشَّمْسَ",
+      "english": "The Sun",
+      "urdu": "سورج"
+    },
+    {
+      "arabic": "مِثْلِهَا",
+      "english": "Like it",
+      "urdu": "اس جیسی"
+    },
+    {
+      "arabic": "فَاشْهَدْ",
+      "english": "Then testify",
+      "urdu": "پس گواہی دو"
+    },
+    {
+      "arabic": "دَعْ",
+      "english": "Leave it",
+      "urdu": "چھوڑ دو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث گواہی کے معاملے میں انتہائی احتیاط اور یقینی علم کی ضرورت پر زور دیتی ہے، یعنی گواہی سورج کی طرح واضح ہونی چاہیے۔",
+    "english": "This Hadith emphasizes the necessity of absolute certainty in testimony; evidence must be as clear as the sun before one testifies."
+  },
+  "references": [
+    {
+      "arabic": "أخرجه ابن عدي في الكامل (6/2213)",
+      "english": "Reported by Ibn 'Adi in Al-Kamil (6/2213)"
+    },
+    {
+      "arabic": "أخرجه الحاكم في المستدرك (4/95)",
+      "english": "Reported by Al-Hakim in Al-Mustadrak (4/95)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9K8Z2o3T4Y",
+  "grade": {
+    "arabic": "ضعيف جدا",
+    "english": "Very Weak"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "یقین اور گواہی",
+        "english": "Certainty and Testimony"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سورج کی مثال کی اہمیت",
+              "english": "Significance of the Sun Parable"
+            },
+            "content": {
+              "urdu": [
+                "سورج کی مثال اس لیے دی گئی کیونکہ اس کے وجود میں کوئی شک نہیں ہوتا۔",
+                "گواہی صرف اس وقت جائز ہے جب انسان کو اس کا سو فیصد علم ہو۔",
+                "شک یا گمان کی بنیاد پر گواہی دینا شرعاً سخت منع ہے۔"
+              ],
+              "english": [
+                "The sun is used as an example because its presence is undeniable.",
+                "Testifying is only permissible when the witness has 100% certainty.",
+                "Testifying based on suspicion or guesswork is strictly prohibited."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل کا قیام",
+              "english": "Establishing Justice"
+            },
+            "content": {
+              "urdu": [
+                "غیر یقینی گواہی سے کسی بے گناہ کو سزا مل سکتی ہے۔",
+                "اسلامی نظام عدل ٹھوس شواہد اور یقینی مشاہدے پر مبنی ہے۔",
+                "اگر گواہی میں ذرہ برابر بھی شک ہو تو اسے چھوڑ دینا بہتر ہے۔"
+              ],
+              "english": [
+                "Uncertain testimony can lead to the punishment of an innocent person.",
+                "The Islamic judicial system is built on solid evidence and observation.",
+                "If there is even a shred of doubt in a testimony, it is better to avoid it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "گواہی کی شرائط",
+        "english": "Conditions of Testimony"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "براہ راست مشاہدہ",
+              "english": "Direct Observation"
+            },
+            "content": {
+              "urdu": [
+                "گواہ کے لیے ضروری ہے کہ اس نے وہ واقعہ خود دیکھا یا سنا ہو۔",
+                "سنی سنائی باتوں پر گواہی دینا گناہِ کبیرہ کے زمرے میں آتا ہے۔",
+                "گواہ کو اپنے حواسِ خمسہ پر مکمل بھروسہ ہونا چاہیے۔"
+              ],
+              "english": [
+                "A witness must have personally seen or heard the event in question.",
+                "Testifying based on hearsay falls under the category of major sins.",
+                "The witness must rely entirely on their own sensory perception."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیانت اور سچائی",
+              "english": "Integrity and Truthfulness"
+            },
+            "content": {
+              "urdu": [
+                "گواہ کو سچائی کا دامن کسی بھی حال میں نہیں چھوڑنا چاہیے۔",
+                "کسی دباؤ یا لالچ میں آ کر گواہی میں تبدیلی کرنا حرام ہے۔",
+                "سچی گواہی دینا اللہ کے نزدیک بہترین اعمال میں سے ہے۔"
+              ],
+              "english": [
+                "A witness must not abandon the truth under any circumstances.",
+                "Changing testimony due to pressure or greed is strictly forbidden.",
+                "Giving truthful testimony is among the best deeds in the sight of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و علمی باریکیاں",
+        "english": "Juristic and Scholarly Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کی اسنادی حیثیت",
+              "english": "Status of the Chain of Narration"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ الفاظ ضعیف سند سے مروِی ہیں، مگر ان کا مفہوم درست ہے۔",
+                "فقہاء نے اس حدیث کے معنی کو تمام ابوابِ شہادت میں قبول کیا ہے۔",
+                "یہ اصول عدالتی نظام کو جھوٹی شہادتوں سے پاک رکھتا ہے۔"
+              ],
+              "english": [
+                "Although these words have a weak chain, their meaning is correct.",
+                "Jurists have accepted the essence of this Hadith in all laws of evidence.",
+                "This principle keeps the judicial system clean from false testimonies."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شک کا فائدہ",
+              "english": "Benefit of the Doubt"
+            },
+            "content": {
+              "urdu": [
+                "جہاں گواہی میں ابہام ہو، وہاں حد یا سزا ساقط ہو سکتی ہے۔",
+                "اسلامی قانون شبہات کی بنیاد پر سزائیں دینے سے روکتا ہے۔",
+                "یہ اصول انسانی حقوق کی حفاظت کی بہترین مثال ہے۔"
+              ],
+              "english": [
+                "Where testimony is ambiguous, prescribed punishments may be dropped.",
+                "Islamic law prevents imposing penalties based on uncertainties.",
+                "This principle is a prime example of the protection of human rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزمرہ کی بات چیت میں احتیاط",
+              "english": "Caution in Daily Speech"
+            },
+            "content": {
+              "urdu": [
+                "بغیر تحقیق کے کسی پر کوئی الزام یا بات نہیں کرنی چاہیے۔",
+                "ہماری زبان سے نکلا ہوا ہر لفظ آخرت میں جوابدہی کا حامل ہے۔",
+                "تصدیق کے بغیر خبریں پھیلانا معاشرے میں فتنہ پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "One should not accuse others or speak without thorough verification.",
+                "Every word uttered by our tongue carries accountability in the Hereafter.",
+                "Spreading news without confirmation causes fitna in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کردار کی پختگی",
+              "english": "Strength of Character"
+            },
+            "content": {
+              "urdu": [
+                "ایک سچا مسلمان صرف اسی بات کی گواہی دیتا ہے جو وہ جانتا ہے۔",
+                "سچائی پر قائم رہنا ہی مومن کی اصل پہچان اور وقار ہے۔",
+                "معاشرتی اصلاح کے لیے ہر فرد کا سچا ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "A true Muslim only testifies to that which they truly know.",
+                "Staying firm on the truth is the actual identity and dignity of a believer.",
+                "Individual truthfulness is essential for overall social reform."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

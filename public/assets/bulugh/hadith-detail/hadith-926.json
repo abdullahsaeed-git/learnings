@@ -1,0 +1,267 @@
+{
+  "hadithId": 926,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/926", "abudawud/2190", "tirmidhi/1181"],
+    "kitabId": 8,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الطلاق",
+    "babId": 71
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (2190)، والترمذي (1181)، وابن ماجه (2047). وقال الترمذي: حديث حسن صحيح. وصححه الألباني في صحيح الجامع (7555).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (2190)، ترمذی (1181) اور ابن ماجہ (2047) نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح کہا ہے اور علامہ البانی نے بھی اس کی تصحیح کی ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2190), At-Tirmidhi (1181), and Ibn Majah (2047). At-Tirmidhi graded it Hasan Sahih, and Al-Albani authenticated it in Sahih al-Jami' (7555)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا نَذْرَ",
+      "english": "No vow",
+      "urdu": "کوئی نذر نہیں"
+    },
+    {
+      "arabic": "يَمْلِكُ",
+      "english": "Possess / Own",
+      "urdu": "مالک ہونا"
+    },
+    {
+      "arabic": "عِتْقِ",
+      "english": "Manumission / Freeing",
+      "urdu": "آزاد کرنا"
+    },
+    {
+      "arabic": "طَلَاقَ",
+      "english": "Divorce",
+      "urdu": "طلاق"
+    },
+    {
+      "arabic": "أَصَحُّ",
+      "english": "Most authentic",
+      "urdu": "سب سے زیادہ صحیح"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا خلاصہ یہ ہے کہ شرعی تصرفات (نذر، آزادی، طلاق) صرف اسی صورت میں معتبر ہوتے ہیں جب انسان ان کا مالک یا باقاعدہ اختیار رکھتا ہو۔",
+    "english": "The summary of this Hadith is that Shariah-based disposals (vows, freeing, divorce) are only valid if the person possesses ownership or legal authority over them."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (1181)",
+      "english": "Reported by At-Tirmidhi (1181)"
+    },
+    {
+      "arabic": "رواه أبو داود (2190)",
+      "english": "Reported by Abu Dawud (2190)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعيب",
+        "english": "Amr bin Shu'aib"
+      },
+      "slug": "amr-bin-shuaib"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin Amr bin al-As"
+      },
+      "slug": "abdullah-bin-amr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S0uA_mH_v9o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شرعی تصرفات کی بنیاد",
+        "english": "Foundations of Shariah Actions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ملکیت کی شرط",
+              "english": "Condition of Ownership"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں کوئی بھی مالی یا قانونی وعدہ تبھی معتبر ہے جب وہ چیز آپ کی ملکیت میں ہو۔",
+                "دوسرے کی ملکیت والی چیز پر نذر ماننا یا اسے آزاد کرنا شرعی طور پر لغو ہے۔",
+                "یہ اصول مالیاتی لین دین اور حقوق کی ادائیگی میں نظم و ضبط پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "In Islam, any financial or legal promise is valid only if the item is in your possession.",
+                "Making a vow or freeing something owned by someone else is legally void in Shariah.",
+                "This principle creates discipline in financial transactions and fulfillment of rights."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اختیار اور ذمہ داری",
+              "english": "Authority and Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "انسان صرف اسی بات کا جوابدہ ہے جس کا اللہ نے اسے اختیار دیا ہے۔",
+                "غیر متعلقہ معاملات میں زبان چلانا شرعی اثرات مرتب نہیں کرتا۔",
+                "یہ حدیث واضح کرتی ہے کہ زبانی دعووں کے پیچھے قانونی حق کا ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "A person is only accountable for what Allah has given them authority over.",
+                "Speaking on unrelated matters does not produce any legal Shariah effects.",
+                "This Hadith clarifies that verbal claims must be backed by legal right."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نکاح سے قبل طلاق کا حکم",
+        "english": "Ruling on Divorce Before Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجنبیہ کو طلاق",
+              "english": "Divorce to a Stranger"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص کسی ایسی عورت کو طلاق دے جو اس کے نکاح میں نہیں، تو وہ واقع نہیں ہوگی۔",
+                "نکاح سے پہلے دی گئی طلاق کی کوئی شرعی اور قانونی حیثیت نہیں ہے۔",
+                "طلاق کا حق صرف اسی وقت حاصل ہوتا ہے جب نکاح کا بندھن قائم ہو جائے۔"
+              ],
+              "english": [
+                "If someone divorces a woman who is not in his marriage, it will not take effect.",
+                "Divorce pronounced before marriage has no Shariah or legal standing.",
+                "The right to divorce is only obtained once the bond of marriage is established."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعلیقِ طلاق کا مسئلہ",
+              "english": "The Issue of Conditional Divorce"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی کہے 'اگر میں فلان سے نکاح کروں تو اسے طلاق'، تو اس میں اختلاف ہے۔",
+                "جمہور کے نزدیک ایسی طلاق بھی واقع نہیں ہوتی کیونکہ نکاح کے وقت وہ مالک نہ تھا۔",
+                "یہ حدیث اس موقف کی تائید کرتی ہے کہ ملکیت سے پہلے طلاق لغو ہے۔"
+              ],
+              "english": [
+                "There is scholarly disagreement if one says 'If I marry her, she is divorced.'",
+                "The majority state it doesn't take effect as he didn't possess the right at that time.",
+                "This Hadith supports the view that divorce before ownership is void."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نذر اور آزادی کے احکام",
+        "english": "Rulings on Vows and Manumission"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نذر کی حدود",
+              "english": "Limits of Vows"
+            },
+            "content": {
+              "urdu": [
+                "نذر صرف اپنی ملکیتی اشیاء یا بدنی عبادات میں مانی جا سکتی ہے۔",
+                "دوسرے کے مال سے صدقہ کرنے کی نذر پوری کرنا واجب نہیں ہے۔",
+                "یہ حکم لوگوں کے مال کو غیر ضروری دعووں سے محفوظ رکھتا ہے۔"
+              ],
+              "english": [
+                "Vows can only be made regarding one's own property or physical worship.",
+                "It is not obligatory to fulfill a vow to give charity from someone else's wealth.",
+                "This ruling protects people's wealth from unnecessary and invalid claims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلام کی آزادی",
+              "english": "Freeing of Slaves"
+            },
+            "content": {
+              "urdu": [
+                "انسان صرف اپنے غلام کو آزاد کر سکتا ہے، کسی دوسرے کے نہیں۔",
+                "اگر کوئی کہے 'میں فلان کا غلام آزاد کرتا ہوں'، تو اس کا کوئی اثر نہیں ہوگا۔",
+                "قانون کی نظر میں ملکیت ہی تصرف کی اصل بنیاد ہے۔"
+              ],
+              "english": [
+                "A person can only free their own slave, not someone else's.",
+                "If someone says 'I free so-and-so's slave,' it will have no legal effect.",
+                "In the eyes of the law, ownership is the primary basis for any disposal."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور اخلاقی سبق",
+        "english": "Social and Moral Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذمہ داری کا احساس",
+              "english": "Sense of Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں سکھاتی ہے کہ صرف اپنے دائرہ اختیار میں بات کرنی چاہیے۔",
+                "دوسروں کے حقوق اور ملکیت میں مداخلت کرنا اخلاقی طور پر بھی غلط ہے۔",
+                "سچا مومن وہی ہے جو لغو اور بے معنی باتوں سے پرہیز کرے۔"
+              ],
+              "english": [
+                "This Hadith teaches us to speak only within our own sphere of authority.",
+                "Interfering in the rights and properties of others is also morally wrong.",
+                "A true believer is one who avoids vain and meaningless speech."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی قانون کی پختگی",
+              "english": "Soundness of Islamic Law"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قوانین منطقی اور عدل و انصاف پر مبنی ہیں۔",
+                "ملکیت کو بنیاد بنا کر شریعت نے بہت سے سماجی جھگڑوں کو ختم کر دیا ہے۔",
+                "نبوی تعلیمات انسانی معاشرے کے ہر پہلو میں توازن پیدا کرتی ہیں۔"
+              ],
+              "english": [
+                "Islamic laws are logical and based on absolute justice and equity.",
+                "By using ownership as a base, Shariah has eliminated many social disputes.",
+                "Prophetic teachings create balance in every aspect of human society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

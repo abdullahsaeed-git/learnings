@@ -1,0 +1,261 @@
+{
+  "hadithId": 739,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh:739"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب البيوع",
+    "babId": 49
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (14522) واللفظ له، وأبو داود (3343)، والنسائي (4/65)، وابن حبان (3064)، والحاكم (2/27). وصححه الألباني في أحكام الجنائز.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابوداؤد، اور نسائی نے روایت کیا ہے۔ امام ابن حبان اور حاکم نے اسے صحیح قرار دیا ہے۔ یہ روایت قرض کی سنگینی اور 'حوالہ' (ذمہ داری کی منتقلی) کے جواز پر مبنی ہے۔",
+    "english": "Sahih. Reported by Ahmad (14522), Abu Dawud (3343), An-Nasa'i (4/65), Ibn Hibban, and Al-Hakim. Authenticated by Al-Albani."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَنَّطْنَاهُ",
+      "english": "Perfumed him",
+      "urdu": "خوشبو لگائی"
+    },
+    {
+      "arabic": "فَانْصَرَفَ",
+      "english": "He went away / turned back",
+      "urdu": "پس وہ پلٹ گئے"
+    },
+    {
+      "arabic": "فَتَحَمَّلَهُمَا",
+      "english": "He bore/undertook them",
+      "urdu": "اس نے ذمہ داری اٹھا لی"
+    },
+    {
+      "arabic": "الْغَرِيمُ",
+      "english": "The Creditor",
+      "urdu": "قرض خواہ"
+    },
+    {
+      "arabic": "بَرِئَ",
+      "english": "Cleared / Exonerated",
+      "urdu": "بری الذمہ ہو گیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے معلوم ہوتا ہے کہ قرض کی ادائیگی کتنی اہم ہے کہ نبی ﷺ نے مقروض کا جنازہ پڑھانے سے انکار کر دیا جب تک کہ کسی نے اس کی ادائیگی کی ضمانت نہیں دے دی۔",
+    "english": "This Hadith demonstrates the gravity of debt in Islam, as the Prophet (PBUH) initially declined to lead the funeral prayer of a debtor until someone guaranteed the repayment."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (3343)",
+      "english": "Sunan Abi Dawud (3343)"
+    },
+    {
+      "arabic": "مسند أحمد (14522)",
+      "english": "Musnad Ahmad (14522)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قرض کی سنگینی اور نمازِ جنازہ",
+        "english": "Gravity of Debt and Funeral Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا طرزِ عمل",
+              "english": "The Prophet's Action"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا مقروض کا جنازہ نہ پڑھانا اس گناہ کی ہلاکت خیزی کو واضح کرنے کے لیے تھا۔",
+                "یہ صحابہ کرام کے لیے ایک عملی سبق تھا کہ وہ قرض لینے میں احتیاط برتیں اور وقت پر ادا کریں۔",
+                "قرض ایک ایسا معاملہ ہے جو حقوق العباد سے تعلق رکھتا ہے، جسے اللہ بغیر ادائیگی کے معاف نہیں فرماتا۔"
+              ],
+              "english": [
+                "The Prophet's refusal to lead the prayer was to demonstrate the severe consequences of dying with unpaid debts.",
+                "It was a practical lesson for the Sahaba to be cautious of borrowing and prompt in repayment.",
+                "Debt relates to the rights of people (Huquq al-Ibad), which Allah does not forgive unless settled."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شہادت اور قرض",
+              "english": "Martyrdom and Debt"
+            },
+            "content": {
+              "urdu": [
+                "ایک اور حدیث میں آتا ہے کہ شہید کے تمام گناہ معاف کر دیے جاتے ہیں سوائے 'قرض' کے۔",
+                "یہ بات ظاہر کرتی ہے کہ مالی معاملات میں دیانتداری عبادات سے بھی زیادہ حساس معاملہ ہے۔",
+                "مسلمان کو چاہیے کہ مرنے سے پہلے اپنے تمام معاشی بوجھ ختم کر لے۔"
+              ],
+              "english": [
+                "Another Hadith states that a martyr's sins are forgiven except for debt.",
+                "This indicates that financial integrity is as sensitive as spiritual worship.",
+                "A Muslim should strive to settle all economic burdens before death."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ضمانت اور ذمہ داری کی منتقلی (حوالہ)",
+        "english": "Guarantee and Transfer of Liability"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ادائیگی کی ضمانت",
+              "english": "Guarantee of Repayment"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی دوسرا شخص میت کے قرض کی ذمہ داری اٹھا لے تو شرعی طور پر میت بری الذمہ ہو جاتی ہے۔",
+                "نبی ﷺ نے ابوقتادہ رضی اللہ عنہ سے پختہ عہد لیا کہ اب یہ قرض واقعی تمہارے ذمے ہو گیا۔",
+                "ضمانت دینے والے پر لازم ہے کہ وہ اپنے وعدے کو پورا کرے، ورنہ میت کی روح معلق رہے گی۔"
+              ],
+              "english": [
+                "If another person assumes the deceased's debt, the deceased is legally cleared of the burden.",
+                "The Prophet (PBUH) took a firm commitment from Abu Qatadah that the debt was now his responsibility.",
+                "The guarantor must fulfill the promise, otherwise, the deceased's soul remains suspended."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایثار اور ہمدردی",
+              "english": "Altruism and Compassion"
+            },
+            "content": {
+              "urdu": [
+                "حضرت ابوقتادہ کا عمل ایثار کی عظیم مثال ہے کہ انہوں نے اپنے بھائی کو عذاب سے بچانے کے لیے مال خرچ کیا۔",
+                "اسلامی معاشرے میں ایک دوسرے کی معاشی مدد کرنا ایمان کا تقاضا ہے۔",
+                "میت کے ورثاء یا دوستوں کو چاہیے کہ سب سے پہلے اس کے ذمے حقوق ادا کریں۔"
+              ],
+              "english": [
+                "Abu Qatadah's act is a grand example of altruism, spending wealth to save a brother from punishment.",
+                "Supporting each other financially is a requirement of faith in an Islamic society.",
+                "Heirs or friends should prioritize settling the deceased's liabilities immediately."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قرض کے آداب اور تربیت",
+        "english": "Etiquettes of Borrowing and Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرض سے بچنے کی دعا",
+              "english": "Supplication Against Debt"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ اکثر دعا مانگتے تھے: 'اے اللہ میں گناہ اور قرض کے بوجھ سے تیری پناہ مانگتا ہوں'۔",
+                "بلا ضرورت قرض لینا انسان کو جھوٹ اور وعدہ خلافی پر مجبور کر دیتا ہے۔",
+                "سادگی اختیار کرنا قرض کے بوجھ سے بچنے کا بہترین طریقہ ہے۔"
+              ],
+              "english": [
+                "The Prophet often prayed: 'O Allah, I seek refuge in You from sin and heavy debt.'",
+                "Borrowing without necessity forces a person into lying and breaking promises.",
+                "Adopting simplicity is the best way to avoid the trap of debt."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ادائیگی میں جلدی",
+              "english": "Haste in Repayment"
+            },
+            "content": {
+              "urdu": [
+                "جیسے ہی میت کا مال سامنے آئے، سب سے پہلے تدفین کے اخراجات اور پھر قرض ادا کرنا چاہیے۔",
+                "وراثت کی تقسیم قرض کی ادائیگی کے بعد ہی شروع ہوتی ہے۔",
+                "اگر میت کے پاس مال نہ ہو تو ریاست (بیت المال) یا صاحبِ حیثیت لوگوں کو آگے آنا چاہیے۔"
+              ],
+              "english": [
+                "Once the deceased's estate is assessed, funeral expenses and debts must be paid first.",
+                "Inheritance distribution only begins after all debts have been cleared.",
+                "If the deceased is destitute, the state or wealthy individuals should intervene."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلاصہ کلام",
+        "english": "Conclusion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی رحمت",
+              "english": "The Prophet's Mercy"
+            },
+            "content": {
+              "urdu": [
+                "بعد میں جب فتوحات ہوئیں اور بیت المال میں مال آیا، تو آپ ﷺ خود غریبوں کے قرض ادا فرماتے تھے۔",
+                "آپ ﷺ نے فرمایا: 'جس نے قرض چھوڑا وہ میرے ذمہ ہے'۔",
+                "یہ حدیث ہمیں معاشرے میں عدل اور رحم دلی کا توازن سکھاتی ہے۔"
+              ],
+              "english": [
+                "Later, when wealth increased in the treasury, the Prophet (PBUH) paid off the debts of the poor himself.",
+                "He said: 'Whoever leaves a debt, its repayment is my responsibility.'",
+                "This Hadith teaches the balance between justice and mercy in a community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی نصیحت",
+              "english": "Practical Advice"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں چاہیے کہ اپنی زندگی میں ہی اپنے تمام مالی معاملات صاف رکھیں۔",
+                "دوسروں کی مالی ضمانت دیتے وقت پوری ذمہ داری کا احساس ہونا چاہیے۔",
+                "اللہ ہمیں قرض کی ذلت اور رسوائی سے محفوظ رکھے۔"
+              ],
+              "english": [
+                "We should keep our financial affairs transparent and settled during our lifetime.",
+                "One must realize the gravity of responsibility when acting as a guarantor for others.",
+                "May Allah protect us from the disgrace of debt."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

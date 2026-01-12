@@ -1,0 +1,259 @@
+{
+  "hadithId": 394,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-394"],
+    "kitabId": 2,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 24
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (956)‏، ومسلم (889).‏ والحديث دليل على أن السنة البدء بالصلاة قبل الخطبة في العيدين، وهو خلاف صلاة الجمعة.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (956) و مسلم (889) میں موجود ہے۔ اس میں واضح دلیل ہے کہ عیدین میں سنت طریقہ یہ ہے کہ خطبے سے پہلے نماز ادا کی جائے۔",
+    "english": "Sahih. Reported by Al-Bukhari (956) and Muslim (889). The Hadith provides clear evidence that the Sunnah for Eids is to perform the prayer before the sermon, unlike Jumu'ah."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْمُصَلَّى",
+      "english": "Prayer ground (Musalla)",
+      "urdu": "عید گاہ"
+    },
+    {
+      "arabic": "يَبْدَأُ",
+      "english": "Begins",
+      "urdu": "شروع فرماتے"
+    },
+    {
+      "arabic": "يَنْصَرِفُ",
+      "english": "Turns / Departs",
+      "urdu": "رخ پھیرتے / فارغ ہوتے"
+    },
+    {
+      "arabic": "يَعِظُهُمْ",
+      "english": "Preaches to them",
+      "urdu": "نصیحت کرتے ان کو"
+    },
+    {
+      "arabic": "صُفُوفِهِمْ",
+      "english": "Their rows",
+      "urdu": "ان کی صفیں"
+    }
+  ],
+  "summary": {
+    "urdu": "عید کی نماز عید گاہ میں ادا کرنا اور خطبے سے پہلے نماز شروع کرنا رسول اللہ ﷺ کا مستقل طریقہ تھا۔",
+    "english": "It was the consistent practice of the Prophet (ﷺ) to offer Eid prayers in the Musalla and start with the prayer before the sermon."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (956)",
+      "english": "Sahih al-Bukhari (956)"
+    },
+    {
+      "arabic": "صحيح مسلم (889)",
+      "english": "Sahih Muslim (889)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=eid+prayer+method+sunnah+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عید گاہ کی فضیلت",
+        "english": "Excellence of the Musalla"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عید گاہ میں نماز",
+              "english": "Prayer in the Open Field"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ ہمیشہ عید کی نماز آبادی سے باہر کھلے میدان میں ادا فرماتے تھے۔",
+                "مسجد نبوی جیسی مبارک جگہ چھوڑ کر عید گاہ جانا اس کی اہمیت ظاہر کرتا ہے۔",
+                "کھلے میدان میں نماز مسلمانوں کی شوکت اور کثرت کے اظہار کا بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) always offered Eid prayers in an open field outside the town.",
+                "Going to the Musalla despite having Masjid Nabawi shows its distinct importance.",
+                "Praying in an open area is the best way to display the strength of Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعیت کا فروغ",
+              "english": "Promoting Unity"
+            },
+            "content": {
+              "urdu": [
+                "عید گاہ میں پورے شہر کے مسلمانوں کا ایک جگہ جمع ہونا اسلامی اخوت کی علامت ہے۔",
+                "یہ اجتماع مسلمانوں کے درمیان باہمی تعارف اور ہمدردی کو بڑھاتا ہے۔",
+                "اسلامی معاشرت میں عیدین کے اجتماعات کو مرکزی حیثیت حاصل ہے۔"
+              ],
+              "english": [
+                "The gathering of all city Muslims in one place is a symbol of Islamic brotherhood.",
+                "This assembly increases mutual acquaintance and sympathy among Muslims.",
+                "Eid gatherings hold a central position in Islamic social life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خطبہ اور وعظ کا سلیقہ",
+        "english": "Etiquette of the Sermon"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کے بعد خطبہ",
+              "english": "Sermon After Prayer"
+            },
+            "content": {
+              "urdu": [
+                "عید کا خطبہ نماز کے بعد دینا سنتِ مؤکدہ ہے تاکہ عبادت مقدم رہے۔",
+                "لوگوں کو خطبہ سننے کے لیے بیٹھنا چاہیے لیکن یہ فرض نہیں ہے۔",
+                "خطبے کی جگہ اور ترتیب میں تبدیلی کرنا سنت کی مخالفت شمار ہوتی ہے۔"
+              ],
+              "english": [
+                "Delivering the Eid sermon after the prayer is a stressed Sunnah for priority.",
+                "People should stay to listen to the sermon, though it is not strictly obligatory.",
+                "Changing the sequence or place of the sermon is considered against the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "براہ راست خطاب",
+              "english": "Direct Address"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ لوگوں کی طرف رخ کر کے کھڑے ہوتے اور براہ راست نصیحت فرماتے۔",
+                "آپ ﷺ کا اندازِ بیان انتہائی پر اثر اور دل نشین ہوتا تھا۔",
+                "خطیب کو چاہیے کہ وہ لوگوں کے سامنے کھڑا ہو کر ان کی اصلاح کرے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) would stand facing the people and advise them directly.",
+                "His style of speech was extremely influential and heart-touching.",
+                "The preacher should stand before the people to guide and reform them."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امر بالمعروف و نہی عن المنکر",
+        "english": "Enjoining Good and Forbidding Evil"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیکی کا حکم دینا",
+              "english": "Commanding Good Deeds"
+            },
+            "content": {
+              "urdu": [
+                "عید کا موقع صرف خوشی کا نہیں بلکہ اصلاحِ اعمال کا بھی ہوتا ہے۔",
+                "نبی ﷺ خطبے میں نیکیوں کی ترغیب اور ضروری احکام جاری فرماتے تھے۔",
+                "وعظ و نصیحت مسلمانوں کے ایمان کو تازگی فراہم کرنے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Eid is not just for celebration but also for the reform of actions.",
+                "The Prophet (ﷺ) used the sermon to encourage good and issue commands.",
+                "Preaching and advice serve as a means to refresh the faith of Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صفوں میں نظم و ضبط",
+              "english": "Discipline in the Rows"
+            },
+            "content": {
+              "urdu": [
+                "لوگ اپنی صفوں میں بیٹھ کر سکون کے ساتھ خطبہ سماعت کرتے تھے۔",
+                "نماز کے بعد فوری بھاگنے کے بجائے خاموشی سے نصیحت سننا ادب ہے۔",
+                "یہ عمل مسلمانوں کے نظم و ضبط اور قائد کی اطاعت کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "The people would sit in their rows and listen to the sermon peacefully.",
+                "Listening to advice silently after prayer is a mark of religious etiquette.",
+                "This act reflects the discipline of Muslims and obedience to the leader."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور تربیتی سبق",
+        "english": "Educational and Training Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کی پاسداری",
+              "english": "Upholding the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام سنت میں معمولی تبدیلی کو بھی سخت ناپسند کرتے تھے۔",
+                "حضرت ابوسعید خدری کا مروان کو روکنا غیرتِ ایمانی کی مثال ہے۔",
+                "ہمیں چاہیے کہ ہر عبادت کو اس کے اصل مسنون طریقے پر ادا کریں۔"
+              ],
+              "english": [
+                "The Companions strongly disliked even minor changes in the Sunnah.",
+                "Abu Sa'id's act of stopping Marwan is an example of religious zeal.",
+                "We must strive to perform every act of worship in its original Sunnah way."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موقع کی مناسبت سے رہنمائی",
+              "english": "Guidance Based on Occasion"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ خطبے میں عید کی مناسبت سے صدقہ و خیرات کی تلقین فرماتے۔",
+                "وقت کے تقاضوں کے مطابق عوام کی رہنمائی کرنا علماء کی ذمہ داری ہے۔",
+                "خوشی کے تہواروں کو بندگی اور دعوت کا ذریعہ بنانا چاہیے زندگی کا مقصد ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) would emphasize charity in the sermon relevant to the day.",
+                "It is the responsibility of scholars to guide the public according to current needs.",
+                "Joyful festivals should be turned into means of worship and Da'wah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

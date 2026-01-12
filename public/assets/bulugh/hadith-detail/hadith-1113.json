@@ -1,0 +1,259 @@
+{
+  "hadithId": 1113,
+  "hadithNo": 34,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/11/34"],
+    "kitabId": 11,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجهاد",
+    "babId": 89
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (3135)، ومسلم (1750) في كتاب الجهاد والسير، باب الأنفال.",
+    "urdu": "صحیح۔ اسے امام بخاری (3135) اور امام مسلم (1750) نے روایت کیا ہے۔ یہ حدیث نفل (اضافی انعام) کے جواز پر دلالت کرتی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (3134, 3135) and Muslim (1750) in the Book of Jihad and Expeditions."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُنَفِّلُ",
+      "english": "Grants extra bonus",
+      "urdu": "اضافی انعام دینا"
+    },
+    {
+      "arabic": "السَّرَايَا",
+      "english": "Detachments / Expeditions",
+      "urdu": "سرایا (چھوٹے فوجی دستے)"
+    },
+    {
+      "arabic": "خَاصَّةً",
+      "english": "Specifically / Particularly",
+      "urdu": "خاص طور پر"
+    },
+    {
+      "arabic": "سِوَى",
+      "english": "Besides / Aside from",
+      "urdu": "علاوہ / سوا"
+    },
+    {
+      "arabic": "قَسْمِ",
+      "english": "Division / Portion",
+      "urdu": "تقسیم / حصہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں بیان کیا گیا ہے کہ رسول اللہ ﷺ عسکری مصلحت کے تحت بعض دستوں کو ان کی خاص محنت یا مہم کی نوعیت کی وجہ سے عام تقسیم سے ہٹ کر اضافی انعام عطا فرماتے تھے۔",
+    "english": "The Hadith states that the Prophet (ﷺ) would grant special bonuses to specific military detachments based on the nature of their mission, separate from the general distribution of booty."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (3135)",
+      "english": "Narrated by Al-Bukhari (3135)"
+    },
+    {
+      "arabic": "رواه مسلم (1750)",
+      "english": "Narrated by Muslim (1750)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0O7zE73U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نفل اور اضافی انعام کی حقیقت",
+        "english": "The Reality of Nafal and Extra Bonuses"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفل کا شرعی مفہوم",
+              "english": "Sharia Meaning of Nafal"
+            },
+            "content": {
+              "urdu": [
+                "نفل سے مراد وہ مال ہے جو مجاہدین کو ان کے مقررہ حصے سے زائد دیا جائے۔",
+                "یہ انعام عام طور پر مالِ غنیمت کے پانچویں حصے (خمس) سے دیا جاتا ہے۔",
+                "اس کا مقصد مجاہدین کی غیر معمولی خدمات کا اعتراف اور حوصلہ افزائی کرنا ہے۔"
+              ],
+              "english": [
+                "Nafal refers to the portion of booty given to warriors beyond their fixed share.",
+                "This bonus is typically granted from the state's one-fifth (Khums) portion.",
+                "It aims to recognize exceptional services and boost the morale of the soldiers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سرایا کے لیے خصوصی رعایت",
+              "english": "Special Concessions for Detachments"
+            },
+            "content": {
+              "urdu": [
+                "سرایا (چھوٹی مہمات) اکثر زیادہ خطرناک اور مشکل کام سر انجام دیتی تھیں۔",
+                "آپ ﷺ ان مہمات پر جانے والوں کو ان کی مشقت کے بدلے زائد مال دیتے۔",
+                "یہ عمل عسکری قیادت کی جانب سے سپاہیوں کی قدر دانی کی بہترین مثال ہے۔"
+              ],
+              "english": [
+                "Saraya (expeditions) often performed more dangerous and difficult tasks.",
+                "The Prophet (ﷺ) rewarded those on these missions with extra for their hardship.",
+                "This act is a prime example of military leadership appreciating its soldiers."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عسکری مصلحت اور انتظام",
+        "english": "Military Pragmatism and Management"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امیر کا صوابدیدی اختیار",
+              "english": "Discretionary Power of the Leader"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی ریاست کے سربراہ کو اختیار ہے کہ وہ غنیمت کی تقسیم میں مصلحت دیکھے۔",
+                "اگر کوئی گروہ خاص کارنامہ انجام دے تو اسے نوازنا عدل کے خلاف نہیں ہے۔",
+                "یہ اصول آج کے دور میں فوجی اعزازات اور مراعات کی بنیاد فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "The head of an Islamic state has the authority to assess interests in distribution.",
+                "Rewarding a group for a specific feat is not contrary to the principles of justice.",
+                "This principle forms the basis for modern military awards and incentives."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عام لشکر کے حق کا تحفظ",
+              "english": "Protecting the Rights of the General Army"
+            },
+            "content": {
+              "urdu": [
+                "اضافی انعام دینے سے عام لشکر کے شرعی حصوں میں کمی نہیں کی جاتی تھی۔",
+                "بنیادی تقسیم سب کے لیے برابر ہوتی تھی تاکہ کسی میں احساسِ محرومی نہ ہو۔",
+                "نبی ﷺ نے انعام اور بنیادی حق کے درمیان ایک بہترین توازن قائم فرمایا۔"
+              ],
+              "english": [
+                "Granting extra bonuses did not reduce the legal shares of the general army.",
+                "The basic distribution remained equal to prevent any sense of deprivation.",
+                "The Prophet (ﷺ) established a perfect balance between rewards and basic rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور ابعاد",
+        "english": "Juristic Aspects and Dimensions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تنفیل کا وقت",
+              "english": "Timing of Granting Bonuses"
+            },
+            "content": {
+              "urdu": [
+                "بعض اوقات انعام کا اعلان جنگ سے پہلے حوصلہ بڑھانے کے لیے کیا جاتا تھا۔",
+                "بعض اوقات یہ انعام جنگ کے بعد غیر معمولی بہادری پر دیا جاتا تھا۔",
+                "اسلامی فقہ میں حالات کے مطابق دونوں صورتیں جائز قرار دی گئی ہیں۔"
+              ],
+              "english": [
+                "Sometimes bonuses were announced before the battle to boost bravery.",
+                "In other instances, rewards were given after the battle for exceptional courage.",
+                "In Islamic jurisprudence, both scenarios are permissible depending on context."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خمس کے حصے سے ادائیگی",
+              "english": "Payment from the Khums Portion"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک یہ نفل حکومت کے اپنے پانچویں حصے سے ہوتا ہے۔",
+                "اس طرح مجاہدین کا اپنا چار بٹا پانچ حصہ تقسیم کے لیے محفوظ رہتا ہے۔",
+                "یہ مالیاتی انتظام شفافیت اور حق داروں کے حق کی حفاظت کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "Most scholars agree that this bonus comes from the government's one-fifth share.",
+                "Thus, the remaining four-fifths for the warriors remains intact for distribution.",
+                "This financial management ensures transparency and protects the rights of claimants."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کارکردگی کی بنیاد پر جزا",
+              "english": "Reward Based on Performance"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے کے ہر شعبے میں اچھی کارکردگی پر انعام کا نظام ہونا چاہیے۔",
+                "انصاف کا مطلب صرف برابری نہیں بلکہ اہلیت کی بنیاد پر نوازنا بھی ہے۔",
+                "اسلامی تعلیمات انسان کو محنت اور مہارت حاصل کرنے پر ابھارتی ہیں۔"
+              ],
+              "english": [
+                "A reward system based on performance should exist in every sector of society.",
+                "Justice means not just equality but also rewarding based on merit and skill.",
+                "Islamic teachings encourage humans to strive for excellence and mastery."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکمران کی شفقت",
+              "english": "The Compassion of the Ruler"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ اپنے ساتھیوں کی ضروریات اور ان کی جان فشانی سے باخبر رہتے تھے۔",
+                "ایک کامیاب لیڈر وہی ہے جو اپنے ماتحتوں کی خوشحالی کا فکر مند ہو۔",
+                "محبت اور اعترافِ خدمت کے ذریعے ٹیم کی کارکردگی کو بڑھایا جا سکتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) remained aware of the needs and dedication of his companions.",
+                "A successful leader is one who is concerned about the prosperity of subordinates.",
+                "Performance can be enhanced through love and the recognition of services."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

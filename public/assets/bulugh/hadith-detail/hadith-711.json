@@ -1,0 +1,251 @@
+{
+  "hadithId": 711,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh:711"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف بهذا اللفظ. رواه إسحاق بن راهويه والبزار، والدارقطني (3/71)، والحاكم (2/57). وفي سنده موسى بن عبيدة الزبيدي وهو ضعيف، ولكن الإجماع قائم على منع بيع الدين بالدين.",
+    "urdu": "اس کی سند ضعیف ہے کیونکہ اس میں موسیٰ بن عبیدہ زبیدی تنہا راوی ہے جو کہ ضعیف ہے۔ تاہم، علماء کا اس بات پر اجماع ہے کہ ادھار کے بدلے ادھار کی بیع جائز نہیں ہے۔",
+    "english": "Weak chain. Reported by Ishaq, Al-Bazzar, Ad-Daraqutni, and Al-Hakim. Its chain contains Musa bin 'Ubaidah, who is weak. However, there is a scholarly consensus (Ijma') on the prohibition of selling debt for debt."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْكَالِئِ",
+      "english": "Delayed / Debt",
+      "urdu": "ادھار / موخر"
+    },
+    {
+      "arabic": "الدَّيْنِ",
+      "english": "Debt",
+      "urdu": "قرض"
+    },
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں 'بیع الدین بالدین' کی ممانعت ہے، یعنی ایسا سودا جس میں نہ تو ابھی قیمت دی جائے اور نہ ہی سامان وصول کیا جائے، بلکہ دونوں چیزیں مستقبل کے ذمے چھوڑ دی جائیں۔",
+    "english": "This Hadith prohibits 'Bay' al-Dayn bi al-Dayn', which is a transaction where both the price and the commodity are deferred to a future date, creating a contract of 'debt for debt'."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني (3/71)",
+      "english": "Sunan al-Daraqutni (3/71)"
+    },
+    {
+      "arabic": "نيل الأوطار للشوكاني",
+      "english": "Nayl al-Awtar by Al-Shawkani"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0O5vXJ4Xm4",
+  "grade": {
+    "arabic": "ضعيف (لكن معناه مجمع عليه)",
+    "english": "Da'if (But its meaning is agreed upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیع کالی بالکالی کی حقیقت",
+        "english": "The Reality of Kali bi al-Kali"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ادھار کے بدلے ادھار",
+              "english": "Debt for Debt"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد ایسا سودا ہے جس میں بائع اور مشتری دونوں اپنی ذمہ داریاں مستقبل پر ٹال دیں۔",
+                "مثلاً: زید کہے کہ میں تجھے ایک ماہ بعد گندم دوں گا اور تم مجھے دو ماہ بعد قیمت ادا کرنا۔",
+                "ایسے سودے میں مجلسِ بیع میں کسی بھی چیز پر قبضہ نہیں ہوتا، اس لیے یہ منع ہے۔"
+              ],
+              "english": [
+                "This refers to a deal where both the seller and the buyer defer their obligations to a future date.",
+                "Example: A says, 'I will give you wheat in a month,' and B says, 'I will pay you in two months.'",
+                "Since nothing is exchanged or possessed during the session, it is prohibited."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجماعِ امت",
+              "english": "Scholarly Consensus"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ اس حدیث کی سند ضعیف ہے، مگر تمام فقہاء کا اس کے مفہوم پر اتفاق ہے۔",
+                "امام احمد بن حنبلؒ کے مطابق لوگ اس بات پر متفق ہیں کہ قرض کے بدلے قرض بیچنا جائز نہیں۔",
+                "یہ ممانعت بیع غرر (دھوکے والے سودے) کی ہی ایک شکل ہے۔"
+              ],
+              "english": [
+                "Although the chain is weak, all jurists agree on the meaning and application of this ruling.",
+                "Imam Ahmad bin Hanbal stated that there is consensus that selling debt for debt is impermissible.",
+                "This prohibition is essentially a form of preventing 'Gharar' (uncertainty)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ممانعت کی وجوہات",
+        "english": "Reasons for Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سٹہ بازی کا سدِ باب",
+              "english": "Prevention of Speculation"
+            },
+            "content": {
+              "urdu": [
+                "ایسے سودے صرف کاغذوں کی حد تک ہوتے ہیں اور بازار میں سٹہ بازی (Speculation) کو جنم دیتے ہیں۔",
+                "اس سے حقیقی معیشت کے بجائے خیالی معیشت پروان چڑھتی ہے جو معاشرے کے لیے مضر ہے۔",
+                "شریعت مادی تبادلے اور حقیقی تجارت کو پسند کرتی ہے۔"
+              ],
+              "english": [
+                "Such deals exist only on paper and give rise to speculation in the market.",
+                "This promotes a fictitious economy rather than a productive one, harming society.",
+                "Sharia favors tangible exchanges and real, productive trade."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نزاع اور جھگڑے کا اندیشہ",
+              "english": "Risk of Dispute"
+            },
+            "content": {
+              "urdu": [
+                "جب دونوں طرف سے ادائیگی مستقبل پر ہو، تو حالات بدلنے پر جھگڑے کا امکان بہت زیادہ ہوتا ہے۔",
+                "ہو سکتا ہے مقررہ وقت پر ایک فریق مکر جائے یا سامان مہیا نہ کر سکے۔",
+                "اسلامی تجارت کا مقصد فریقین کے درمیان شفافیت اور اطمینان پیدا کرنا ہے۔"
+              ],
+              "english": [
+                "When both sides defer payment, the likelihood of dispute is very high if circumstances change.",
+                "One party might default or fail to provide the goods at the appointed time.",
+                "Islamic trade aims to foster transparency and peace of mind between parties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بیعِ سلم اور استثناء",
+        "english": "Salam Sale and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیعِ سلم کی اجازت",
+              "english": "Permissibility of Salam Sale"
+            },
+            "content": {
+              "urdu": [
+                "بیعِ سلم میں قیمت نقد دی جاتی ہے اور سامان ادھار ہوتا ہے، اس لیے یہ جائز ہے۔",
+                "کالی بالکالی میں دونوں چیزیں ادھار ہوتی ہیں، یہی بنیادی فرق ہے۔",
+                "شریعت میں سہولت کے لیے ایک طرف سے ادھار کی گنجائش رکھی گئی ہے، مگر دونوں طرف سے نہیں۔"
+              ],
+              "english": [
+                "In a 'Salam' sale, the price is paid upfront while the goods are deferred; this is permissible.",
+                "The key difference is that in 'Kali bi al-Kali', both sides of the deal are deferred.",
+                "Sharia allows deferment on one side for convenience, but not on both simultaneously."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرض کی واپسی میں تاخیر",
+              "english": "Delaying Debt Repayment"
+            },
+            "content": {
+              "urdu": [
+                "قرض کے بدلے قرض کی ایک صورت یہ ہے کہ مقروض کہے کہ میں ابھی نہیں دے سکتا، اس کے بدلے میرا ایک دوسرا قرض تم لے لو۔",
+                "یہ صورتیں سود (ربا الجاہلیہ) کی طرف لے جاتی ہیں جہاں وقت کے بدلے رقم بڑھائی جاتی ہے۔",
+                "اسلام قرضوں کے بوجھ کو بڑھانے کے بجائے انہیں سہولت سے ختم کرنے کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "One form of debt for debt is when a debtor offers another debt owed to him instead of paying.",
+                "These practices often lead to 'Riba al-Jahiliyyah', where debt increases over time.",
+                "Islam encourages settling debts conveniently rather than compounding financial burdens."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اطلاق",
+        "english": "Application in the Modern Era"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ڈیریویٹیوز اور فیوچر ٹریڈنگ",
+              "english": "Derivatives and Future Trading"
+            },
+            "content": {
+              "urdu": [
+                "موجودہ دور کی فیوچر ٹریڈنگ (Future Trading) کی اکثر صورتیں اسی ممانعت کے تحت آتی ہیں۔",
+                "بغیر قبضے کے صرف نفع نقصان کے فرق کا سودا کرنا شرعاً باطل ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ اپنی سرمایہ کاری کو ان غیر شرعی طریقوں سے پاک رکھیں۔"
+              ],
+              "english": [
+                "Many forms of modern Future Trading fall under this specific prohibition.",
+                "Trading only the price difference without any physical exchange is legally void in Sharia.",
+                "Muslims must purify their investments from these non-compliant methods."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی اہمیت",
+              "english": "Importance of Halal Earnings"
+            },
+            "content": {
+              "urdu": [
+                "تجارت کو کھیل اور سٹہ بننے سے روکنا ہی اسلامی معیشت کا امتیاز ہے۔",
+                "برکت ہمیشہ اس مال میں ہوتی ہے جو واضح اور شفاف طریقے سے کمایا گیا ہو۔",
+                "ایمان کا تقاضا ہے کہ ہم اپنے مالی معاملات میں اجماعِ امت اور سنتِ نبوی کا لحاظ رکھیں۔"
+              ],
+              "english": [
+                "Preventing trade from becoming a game or gamble is the hallmark of Islamic economics.",
+                "Blessing always resides in wealth earned through clear and transparent means.",
+                "Faith requires us to respect scholarly consensus and the Sunnah in financial matters."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

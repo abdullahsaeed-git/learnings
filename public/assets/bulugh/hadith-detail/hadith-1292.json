@@ -1,0 +1,266 @@
+{
+  "hadithId": 1292,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": [
+      "muslim:2564"
+    ],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الجامع",
+    "babId": 105
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (2564)، وأحمد (7713)، والبيهقي في الكبرى (6/92).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (2564) میں روایت کیا ہے۔ یہ ایک جامع حدیث ہے جو اسلامی معاشرت کے بنیادی آداب پر مشتمل ہے۔",
+    "english": "Sahih (Authentic). Reported by Muslim (2564), Ahmad (7713), and Al-Baihaqi in Al-Kubra (6/92). It is a comprehensive Hadith covering the foundations of Islamic social conduct."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَنَاجَشُوا",
+      "english": "Outbidding to deceive",
+      "urdu": "قیمت بڑھانے کے لیے بولی دینا"
+    },
+    {
+      "arabic": "تَدَابَرُوا",
+      "english": "Turning backs / Deserting",
+      "urdu": "بے رخی اختیار کرنا"
+    },
+    {
+      "arabic": "يَخْذُلُهُ",
+      "english": "Fails him / Deserts him",
+      "urdu": "اسے بے یار و مددگار چھوڑے"
+    },
+    {
+      "arabic": "يَحْقِرُهُ",
+      "english": "Despise him",
+      "urdu": "اسے حقیر سمجھے"
+    },
+    {
+      "arabic": "عِرْضُهُ",
+      "english": "His honor",
+      "urdu": "اس کی آبرو / عزت"
+    },
+    {
+      "arabic": "إِخْوَانًا",
+      "english": "Brothers",
+      "urdu": "بھائی بھائی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اسلامی اخوت کا منشور ہے، جس میں حسد، نفرت اور حقارت سے منع کرتے ہوئے ہر مسلمان کی جان، مال اور عزت کو دوسرے پر حرام قرار دیا گیا ہے۔",
+    "english": "This Hadith is a manifesto of Islamic brotherhood, forbidding envy and hatred while declaring a Muslim's blood, property, and honor as sacred."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (2564)",
+      "english": "Sahih Muslim (2564)"
+    },
+    {
+      "arabic": "مسند أحمد (7713)",
+      "english": "Musnad Ahmad (7713)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI_hYf40",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی اخوت اور سماجی حقوق",
+        "english": "Islamic Brotherhood and Social Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی تعلقات کی بنیاد",
+              "english": "Basis of Mutual Relationships"
+            },
+            "content": {
+              "urdu": [
+                "تمام مسلمانوں کو اللہ کے بندے اور آپس میں بھائی بھائی بن کر رہنا چاہیے۔",
+                "رنگ و نسل کے بجائے ایمان کو تعلق کی بنیاد بنانا ضروری ہے۔",
+                "بھائی چارے کا تقاضا ہے کہ دکھ سکھ میں ایک دوسرے کا ساتھ دیا جائے۔"
+              ],
+              "english": [
+                "All Muslims should live as servants of Allah and as brothers to one another.",
+                "It is essential to base relationships on faith rather than race or lineage.",
+                "Brotherhood requires supporting each other in times of joy and sorrow."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تین بنیادی حرمتیں",
+              "english": "Three Fundamental Sanctities"
+            },
+            "content": {
+              "urdu": [
+                "کسی مسلمان کا خون بہانا یا اسے جسمانی اذیت دینا قطعی حرام ہے۔",
+                "کسی کے مال پر ناجائز قبضہ کرنا یا مالی نقصان پہنچانا ممنوع ہے۔",
+                "دوسرے مسلمان کی عزت اچھالنا یا اس کی آبرو ریزی کرنا سنگین گناہ ہے۔"
+              ],
+              "english": [
+                "Shedding a Muslim's blood or causing physical pain is strictly forbidden.",
+                "Usurping someone's property or causing financial loss is prohibited.",
+                "Tarnishing another Muslim's honor or dignity is a grave sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تجارتی اور نفسیاتی بگاڑ کا تدارک",
+        "english": "Combating Commercial and Psychological Evils"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیانتدارانہ تجارت",
+              "english": "Honest Trading"
+            },
+            "content": {
+              "urdu": [
+                "قیمت بڑھانے کے لیے مصنوعی بولی لگانا (نجش) دھوکہ دہی ہے۔",
+                "دوسرے کے سودے پر سودا کرنا باہمی دشمنی کا باعث بنتا ہے۔",
+                "تجارت میں شفافیت اور دوسرے کی خیر خواہی ایمان کا حصہ ہے۔"
+              ],
+              "english": [
+                "Artificial outbidding to inflate prices (Najsh) is a form of deception.",
+                "Undercutting another person's trade deal leads to mutual animosity.",
+                "Transparency and seeking the welfare of others in trade is part of faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفرت اور بے رخی کا خاتمہ",
+              "english": "Eliminating Hatred and Desertion"
+            },
+            "content": {
+              "urdu": [
+                "بغض اور کینہ دلوں میں دوری اور معاشرتی انتشار پیدا کرتا ہے۔",
+                "قطع تعلقی اور بے رخی اختیار کرنا اسلامی روح کے منافی ہے۔",
+                "اختلافات کے باوجود سلام و کلام جاری رکھنا بھائی چارے کی علامت ہے۔"
+              ],
+              "english": [
+                "Malice and spite create distance in hearts and social chaos.",
+                "Severing ties and turning away from each other contradicts the Islamic spirit.",
+                "Maintaining greetings and speech despite differences is a sign of brotherhood."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تقویٰ اور دلی کیفیت",
+        "english": "Piety and the State of the Heart"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تقویٰ کا مسکن",
+              "english": "The Abode of Piety"
+            },
+            "content": {
+              "urdu": [
+                "تقویٰ کا تعلق محض ظاہری لباس یا شکل سے نہیں بلکہ دل سے ہے۔",
+                "آپ ﷺ نے سینہ کی طرف اشارہ کر کے واضح کیا کہ نیت کی پاکیزگی اصل ہے۔",
+                "اللہ بندے کے دل اور نیت کو دیکھتا ہے، اس کے ظاہری ڈھانچے کو نہیں۔"
+              ],
+              "english": [
+                "Piety is not merely about outward appearance but resides in the heart.",
+                "The Prophet (ﷺ) pointed to his chest to clarify that purity of intention is key.",
+                "Allah looks at the heart and intentions of a servant, not their physical form."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحقیر کی ممانعت",
+              "english": "Prohibition of Despising Others"
+            },
+            "content": {
+              "urdu": [
+                "کسی مسلمان کو اس کی غربت یا کمزوری کی وجہ سے حقیر سمجھنا بڑا گناہ ہے۔",
+                "تکبر انسان کو دوسرے بھائی کی تذلیل پر اکساتا ہے جو کہ ہلاکت ہے۔",
+                "ہر مومن اللہ کے ہاں قیمتی ہے، اسے چھوٹا سمجھنا اپنی نیکیوں کو برباد کرنا ہے۔"
+              ],
+              "english": [
+                "Despising a Muslim due to their poverty or weakness is a major sin.",
+                "Pride incites a person to humiliate their brother, which leads to destruction.",
+                "Every believer is precious to Allah; belittling them ruins one's own virtues."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مدد اور تعاون",
+              "english": "Support and Cooperation"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو مشکل وقت میں تنہا چھوڑنا اخوت کے خلاف ہے۔",
+                "ظلم کے خلاف کھڑے ہونا اور مظلوم کا ہاتھ پکڑنا شرعی فریضہ ہے۔",
+                "معاشرتی بہبود کے لیے ایک دوسرے کا مددگار بننا ضروری ہے۔"
+              ],
+              "english": [
+                "Leaving a Muslim alone in difficult times contradicts brotherhood.",
+                "Standing against injustice and aiding the oppressed is a religious duty.",
+                "It is necessary to be each other's helpers for social well-being."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاقی محاسبہ",
+              "english": "Moral Accountability"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں ہر وقت اپنے دل کو حسد اور نفرت کے زہر سے پاک رکھنا چاہیے۔",
+                "معاشرے میں امن کے لیے ایک دوسرے کے حقوق کا احترام لازم ہے۔",
+                "جنت کی راہ کا پہلا قدم دوسرے مسلمان کی خیر خواہی اور سلامتی ہے۔"
+              ],
+              "english": [
+                "We must constantly keep our hearts clean from the poison of envy and hate.",
+                "Respecting each other's rights is mandatory for peace in society.",
+                "The first step on the path to Paradise is the safety and welfare of fellow Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

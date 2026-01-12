@@ -1,0 +1,272 @@
+{
+  "hadithId": 1064,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/10/14"],
+    "kitabId": 10,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحدود",
+    "babId": 87
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (6773)‏، ومسلم (1706)‏ واللفظ لمسلم.‏ ورواية علي رضي الله عنه أخرجها مسلم (1707) في قصة الوليد بن عقبة.",
+    "urdu": "یہ روایت صحیح ہے۔ اسے امام بخاری (6773) اور امام مسلم (1706) نے روایت کیا ہے، الفاظ مسلم کے ہیں۔ علی رضی اللہ عنہ والی روایت بھی صحیح مسلم (1707) میں موجود ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (6773) and Muslim (1706); the wording is from Muslim. The narration of 'Ali (R.A) is also in Sahih Muslim (1707)."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَمْرَ",
+      "english": "Wine/Intoxicant",
+      "urdu": "شراب"
+    },
+    {
+      "arabic": "جَلَدَ",
+      "english": "Lashed/Flogged",
+      "urdu": "کوڑے لگائے"
+    },
+    {
+      "arabic": "جَرِيدَتَيْنِ",
+      "english": "Two palm stalks",
+      "urdu": "کھجور کی دو شاخیں"
+    },
+    {
+      "arabic": "اسْتَشَارَ",
+      "english": "Consulted",
+      "urdu": "مشورہ کیا"
+    },
+    {
+      "arabic": "أَخَفَّ",
+      "english": "Lightest",
+      "urdu": "سب سے ہلکی"
+    },
+    {
+      "arabic": "سُنَّةٌ",
+      "english": "Prophetic Way/Tradition",
+      "urdu": "طریقہ/سنت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں شراب نوشی کی حد بیان کی گئی ہے، جس کی مقدار عہدِ نبوی میں چالیس تھی اور عہدِ فاروقی میں صحابہ کے مشورے سے اسی مقرر کی گئی۔",
+    "english": "This Hadith details the legal punishment for drinking wine, which was forty lashes during the Prophet's (ﷺ) time and increased to eighty by 'Umar (R.A) after consultation."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6773)",
+      "english": "Sahih al-Bukhari (6773)"
+    },
+    {
+      "arabic": "صحيح مسلم (1706)",
+      "english": "Sahih Muslim (1706)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "شراب نوشی کی حد",
+        "english": "Punishment for Alcohol Consumption"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سزا کی مقدار کا تعین",
+              "english": "Determining the Quantity"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کے دور میں شراب نوشی پر چالیس کوڑے یا اس کے لگ بھگ مارا جاتا تھا۔",
+                "سیدنا ابوبکر صدیق رضی اللہ عنہ نے بھی اسی مقدار کو برقرار رکھا۔",
+                "یہ سزا معاشرے میں برائی کے پھیلاؤ کو روکنے کے لیے ایک عبرت ناک عمل تھا۔"
+              ],
+              "english": [
+                "During the Prophet's (ﷺ) era, the punishment for drinking was approximately forty lashes.",
+                "Abu Bakr (R.A) maintained this specific quantity during his caliphate.",
+                "This punishment served as a deterrent to prevent the spread of vice in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیدنا عمر کا اجتہاد",
+              "english": "Ijtihad of Umar (R.A)"
+            },
+            "content": {
+              "urdu": [
+                "جب شراب نوشی عام ہونے لگی تو سیدنا عمر رضی اللہ عنہ نے سزا بڑھانے کا مشورہ کیا۔",
+                "سیدنا عبدالرحمن بن عوف نے قذف کی حد (80 کوڑے) پر قیاس کرنے کی تجویز دی۔",
+                "صحابہ کے اتفاقِ رائے سے اس حد کو بڑھا کر اسی کوڑے کر دیا گیا۔"
+              ],
+              "english": [
+                "When drinking became more common, Umar (R.A) consulted companions on increasing the penalty.",
+                "Abdur-Rahman bin 'Auf suggested eighty lashes, drawing an analogy with the punishment for slander.",
+                "The limit was increased to eighty based on the consensus of the companions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Jurisprudential Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سزا کا ثبوت",
+              "english": "Evidence for Punishment"
+            },
+            "content": {
+              "urdu": [
+                "شراب نوشی کا ثبوت گواہی یا ملزم کے اعتراف سے ہوتا ہے۔",
+                "اس حدیث سے معلوم ہوتا ہے کہ قے کرنا بھی شراب پینے کی ایک علامت مانی جا سکتی ہے۔",
+                "سیدنا عثمان نے قے کو پینے کی دلیل قرار دیا کیونکہ پینے کے بغیر قے ممکن نہیں۔"
+              ],
+              "english": [
+                "Evidence for drinking is established through testimony or the suspect's confession.",
+                "The Hadith indicates that vomiting can be considered a sign of prior consumption.",
+                "Uthman (R.A) reasoned that vomiting wine implies it was necessarily ingested beforehand."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خلفائے راشدین کی سنت",
+              "english": "Sunnah of Rightly Guided Caliphs"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی رضی اللہ عنہ نے چالیس اور اسی دونوں کو سنت قرار دیا۔",
+                "خلفائے راشدین کے فیصلے بھی شریعت میں حجت اور سنت کا درجہ رکھتے ہیں۔",
+                "حاکمِ وقت ضرورت کے مطابق چالیس یا اسی میں سے کسی ایک کا انتخاب کر سکتا ہے۔"
+              ],
+              "english": [
+                "Ali (R.A) regarded both forty and eighty lashes as valid traditions (Sunnah).",
+                "Decisions of the Rightly Guided Caliphs carry authoritative weight in Islamic Law.",
+                "The ruler may choose between forty or eighty lashes based on the prevailing necessity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مشاورت کی اہمیت",
+        "english": "Importance of Consultation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شورائیت کا نظام",
+              "english": "System of Shura"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر کا مشورہ کرنا ثابت کرتا ہے کہ اہم معاملات میں اہل علم سے رائے لینی چاہیے۔",
+                "اسلامی حکومت میں مشاورت کو بنیادی ستون کی حیثیت حاصل ہے۔",
+                "مشورے سے کیے گئے فیصلے معاشرے میں بہتر قبولیت حاصل کرتے ہیں۔"
+              ],
+              "english": [
+                "Umar’s (R.A) consultation proves that experts should be consulted in critical matters.",
+                "Consultation (Shura) is a fundamental pillar of an Islamic governing system.",
+                "Decisions made through mutual consultation gain better acceptance in the community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکمتِ عملی کی تبدیلی",
+              "english": "Change in Strategy"
+            },
+            "content": {
+              "urdu": [
+                "جرم کی نوعیت اور کثرت کو دیکھ کر سزا کی سختی میں تبدیلی کی جا سکتی ہے۔",
+                "مقصد جرم کا خاتمہ اور معاشرے کی اصلاح ہونا چاہیے۔",
+                "صحابہ کرام نے حالات کے تقاضوں کو مدنظر رکھتے ہوئے اجتہاد کیا۔"
+              ],
+              "english": [
+                "The severity of a penalty can be adjusted based on the frequency and nature of the crime.",
+                "The primary goal is the eradication of crime and the reformation of society.",
+                "The companions performed Ijtihad while considering the requirements of their circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نشہ آور اشیاء سے پرہیز",
+              "english": "Avoiding Intoxicants"
+            },
+            "content": {
+              "urdu": [
+                "شراب تمام برائیوں کی جڑ ہے، اس لیے اسلام میں اسے حرام قرار دیا گیا۔",
+                "ایمان والے کو چاہیے کہ وہ اپنی عقل اور ہوش و حواس کی حفاظت کرے۔",
+                "سخت سزائیں اس لیے ہیں تاکہ معاشرہ نشے کی لعنت سے پاک رہے۔"
+              ],
+              "english": [
+                "Alcohol is the root of all evils, which is why it is strictly forbidden in Islam.",
+                "A believer must safeguard their intellect and mental faculties from harm.",
+                "Severe punishments exist to ensure the society remains free from the curse of addiction."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا قیام",
+              "english": "Establishing Justice"
+            },
+            "content": {
+              "urdu": [
+                "قانون کا اطلاق ہر ایک پر برابر ہونا چاہیے، چاہے وہ کتنا ہی بااثر کیوں نہ ہو۔",
+                "ولید بن عقبہ کے قصے سے ثابت ہوتا ہے کہ صحابہ نے انصاف میں رعایت نہیں کی۔",
+                "حقیقی اسلامی معاشرہ وہی ہے جہاں حق اور سچ کی گواہی پر فیصلہ ہو۔"
+              ],
+              "english": [
+                "The law must be applied equally to everyone, regardless of their social influence.",
+                "The story of Al-Walid bin 'Uqbah shows that companions did not compromise on justice.",
+                "A true Islamic society is one where decisions are based on truth and honest testimony."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

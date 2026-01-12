@@ -1,0 +1,259 @@
+{
+  "hadithId": 60,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 8 (Chapter 5)"],
+    "kitabId": 1,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب رخصة المسح وتوقيته",
+    "babId": 5
+  },
+
+  "takhreej": {
+    "arabic": " حسن.  رواه الدارقطني (194) ، وابن خزيمة (192) ، وهو وإن كان ضعيف السند، إلا أن له شواهد ذكرتها \"بالأصل\" ومن أجل ذلك حسنة البخاري، كما نقل عنه الترمذي في \"العلل\". ",
+    "urdu": "حسن (درجہ)۔ اسے دارقطنی (194) اور ابن خزیمہ (192) نے روایت کیا ہے۔ اگرچہ اس کی سند ضعیف ہے، لیکن اس کے شواہد موجود ہیں، اور اسی وجہ سے امام بخاری نے اسے حسن کہا ہے، جیسا کہ ترمذی نے 'العلل' میں نقل کیا ہے۔",
+    "english": "Ḥasan (Good). Narrated by Ad-Dāraquṭnī (194) and Ibn Khuzaymah (192). Although its chain is weak, it is supported by external reports (Shawāhid), which led Imam Al-Bukhari to grade it as Ḥasan, as noted by At-Tirmidhī."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَخَّصَ",
+      "english": "He granted a concession",
+      "urdu": "رخصت فرمائی ہے"
+    },
+    {
+      "arabic": "لِلْمُسَافِرِ",
+      "english": "For the traveler",
+      "urdu": "مسافر کے لیے"
+    },
+    {
+      "arabic": "وَلِلْمُقِيمِ",
+      "english": "And for the resident",
+      "urdu": "اور مقیم کیلئے"
+    },
+    {
+      "arabic": "إِذَا تَطَهَّرَ",
+      "english": "If he purifies himself",
+      "urdu": "جب باوضو ہو کر"
+    },
+    {
+      "arabic": "فَلَبِسَ خُفَّيْهِ",
+      "english": "And puts on his Khuffayn",
+      "urdu": "موزے پہنے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث موزوں پر مسح کی مدت (مسافر کے لیے تین دن رات اور مقیم کے لیے ایک دن رات) اور بنیادی شرط (پاکیزگی کی حالت میں پہننا) کو واضح کرتی ہے، اور یہ اس شرعی آسانی کی ایک مضبوط تائید ہے۔",
+    "english": "This Hadith confirms the duration for wiping over the Khuffayn (three days/nights for the traveler and one day/night for the resident) and the fundamental condition (putting them on while in a state of purity), strongly supporting this legal concession."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني، كتاب الطهارة، رقم 194",
+      "english": "Sunan Ad-Dāraquṭnī, The Book of Purification, Hadith 194"
+    },
+    {
+      "arabic": "صحيح ابن خزيمة، رقم 192",
+      "english": "Sahih Ibn Khuzaymah, Hadith 192"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي بَكْرَةَ نُفَيْعِ بْنِ اَلْحَارِثِ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abū Bakrah Nufayʿ ibn al-Ḥārith (May Allah be pleased with him)"
+      },
+      "slug": "abu-bakrah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-38-abu-bakrah-wiping",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Ḥasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسح کی مدت اور شرائط",
+        "english": "Duration and Conditions for Wiping"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "توقیت کی تصدیق",
+              "english": "Confirmation of Time Limit"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث مسح علی الخفین کے حکم کی توقیت (مدت کا تعین) کو دیگر صحیح روایات کی تائید کے ساتھ مزید یقینی بناتی ہے۔",
+                "مسافر کے لیے **تین دن راتیں** اور مقیم کے لیے **ایک دن رات** کی مدت کا تعین کرنا اللہ کی طرف سے امت پر ایک اہم آسانی (رخصت) ہے۔",
+                "مسح کی مدت کا آغاز پہلی مرتبہ وضو ٹوٹنے کے وقت سے ہوتا ہے، اور اس مدت کے دوران موزے اتارنا یا جنابت لاحق ہونا مسح کو باطل کر دیتا ہے۔"
+              ],
+              "english": [
+                "This Hadith further confirms the time limit for wiping over the Khuffayn with the support of other authentic narrations.",
+                "The determination of **three days and nights** for the traveler and **one day and night** for the resident is a significant concession (*Rukhṣah*) from Allah to the Ummah.",
+                "The wiping period starts from the first Wudu-breaking event, and removing the socks or incurring Janābah during this time invalidates the wiping."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پہننے کی شرط",
+              "english": "The Condition of Donning"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں واضح طور پر بیان کیا گیا ہے کہ مسح کی اجازت صرف اس صورت میں ہے جب موزے طہارت کی حالت میں پہنے گئے ہوں (**إِذَا تَطَهَّرَ فَلَبِسَ خُفَّيْهِ**)।",
+                "یہ شرط ہر مسح کرنے والے پر لازم ہے اور یہ اصول مسح کے جواز پر اجماع کی بنیاد ہے۔",
+                "اگر وضو کے بغیر موزے پہنے جائیں تو ان پر مسح کرنا جائز نہیں ہوگا اور پاؤں کو دھونا لازم رہے گا۔"
+              ],
+              "english": [
+                "The Hadith clearly states that wiping is only permitted if the socks are worn in a state of purity (*ṭahārah*).",
+                "This condition is mandatory for everyone who wishes to wipe and is the foundation for the consensus on the permissibility of Mas'h.",
+                "If the socks are worn without Wudu, wiping over them is not permissible, and washing the feet will remain obligatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رخصت کا مفہوم اور ثبوت",
+        "english": "Meaning and Proof of Concession"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رخصت کی اہمیت",
+              "english": "Significance of the Concession"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ کا لفظ **\"رَخَّصَ\"** (رخصت عطا فرمائی) استعمال کرنا اس بات کا ثبوت ہے کہ موزوں پر مسح کرنا ایک آسانی ہے اور اصل حکم پاؤں کو دھونا ہے۔",
+                "یہ رخصت اس بات کی دلیل ہے کہ اسلام دینِ فطرت ہے اور اپنے ماننے والوں کو مشقت میں نہیں ڈالتا۔",
+                "مسلمان کو چاہیے کہ وہ اس رخصت پر عمل کرے اور اس کے مقرر کردہ حدود سے تجاوز نہ کرے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) use of the word **'rakhkhṣa'** (granted a concession) proves that wiping over the socks is a facilitation, and the original command is to wash the feet.",
+                "This concession is evidence that Islam is the religion of innate nature and does not impose hardship on its followers.",
+                "A Muslim should act upon this concession and not exceed its prescribed limits."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حسن سند کا درجہ",
+              "english": "The Grade of Ḥasan Chain"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کو دارقطنی نے روایت کیا اور ابن خزیمہ نے صحیح قرار دیا، اور امام بخاری نے بھی اسے شواہد کی بنا پر **حسن** کہا، جو اس کی قوت کو یقینی بناتا ہے۔",
+                "اگرچہ انفرادی سند میں ضعف ہو، لیکن جب مختلف طریقوں سے ایک ہی مضمون کی روایتیں آئیں (شواہد) تو وہ مل کر حدیث کو حسن کا درجہ دے دیتی ہیں۔",
+                "یہ حکم اس بات کی دلیل ہے کہ محدثین نے اس اہم شرعی مسئلہ کو ثابت کرنے کے لیے ہر ممکن کوشش کی۔"
+              ],
+              "english": [
+                "Ad-Dāraquṭnī narrated this Hadith, Ibn Khuzaymah authenticated it as Sahih, and Imām Al-Bukhari also deemed it **Ḥasan** due to its supporting reports (*Shawāhid*), confirming its strength.",
+                "Even if a single chain is weak, multiple supporting narrations on the same subject elevate the Hadith to the grade of Ḥasan.",
+                "This ruling proves that Hadith scholars made every possible effort to authenticate this significant legal issue."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اثرات",
+        "english": "Impact on Daily Practice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دینی آسانی",
+              "english": "Religious Ease"
+            },
+            "content": {
+              "urdu": [
+                "مسح علی الخفین کی رخصت مسلمانوں کے لیے روزمرہ کی زندگی، خاص طور پر سردی کے موسم یا طویل سفر میں، طہارت کو آسان بناتی ہے۔",
+                "یہ رخصت مومن کو دن میں پانچ بار وضو کے لیے پاؤں اتارنے کی مشقت سے بچا کر عبادت کے تسلسل کو برقرار رکھنے میں مدد دیتی ہے۔",
+                "یہ عمل اس بات کی تعلیم دیتا ہے کہ دین کا مقصد انسانوں کی فلاح ہے نہ کہ انہیں مشکل میں ڈالنا۔"
+              ],
+              "english": [
+                "The concession of wiping over the Khuffayn facilitates purity for Muslims in daily life, especially during cold seasons or long travel.",
+                "This ease helps the believer maintain the continuity of worship by relieving the hardship of removing socks for Wudu five times a day.",
+                "This practice teaches that the purpose of the religion is the well-being of people, not to impose difficulty on them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت اور ثواب",
+              "english": "Sunnah and Reward"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص اس رخصت پر نبی ﷺ کی سنت کی پیروی کی نیت سے عمل کرتا ہے، وہ پاؤں دھونے کے برابر اجر کا مستحق ٹھہرتا ہے۔",
+                "اس حدیث میں مسافر اور مقیم کے لیے مدت کا تعین کر کے کسی بھی قسم کے غلو (افراط و تفریط) سے بچنے کی تعلیم دی گئی ہے۔",
+                "مسلمان کو چاہیے کہ وہ اس رخصت کو خوش دلی سے قبول کرے اور اسے اللہ کی نعمت سمجھے۔"
+              ],
+              "english": [
+                "The one who acts upon this concession with the intention of following the Prophet's Sunnah is entitled to the same reward as washing the feet.",
+                "The determination of the time limit for travelers and residents in this Hadith teaches avoidance of any kind of extremism (Ghulū) in practice.",
+                "A Muslim should accept this concession willingly and consider it a great blessing from Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی اور علم کی ترسیل",
+        "english": "Narrator and Transmission of Knowledge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابوبکرہؓ کی روایت",
+              "english": "The Narration of Abū Bakrah (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوبکرہ رضی اللہ عنہ ان عظیم صحابہ میں سے ہیں جنہوں نے مختلف احکامِ نبوی کو امت تک پہنچایا اور ان کی روایت بہت معتبر ہے۔",
+                "ان کی روایت میں مسافر اور مقیم دونوں کا فرق واضح طور پر بیان کیا گیا ہے، جو مسئلہ کی جامعیت کو ظاہر کرتا ہے۔",
+                "اس روایت کے ذریعے یہ مسئلہ تمام مسلمانوں کے لیے ایک حتمی شرعی اصول کی حیثیت رکھتا ہے۔"
+              ],
+              "english": [
+                "Sayyiduna Abū Bakrah (RA) is one of the great Companions who transmitted various Prophetic rulings, and his narration is highly regarded.",
+                "His narration explicitly states the distinction between the traveler and the resident, which demonstrates the comprehensiveness of the ruling.",
+                "Through this narration, the issue is established as a conclusive legal principle for all Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مدت کا صحیح حساب",
+              "english": "Correct Calculation of Duration"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو چاہیے کہ وہ مسح کی مدت کا حساب پہلی بار وضو ٹوٹنے کے وقت سے رکھے اور اس میں دن رات کی مکمل پابندی کرے۔",
+                "مدت کے دوران اگر کوئی شخص موزے اتار دے تو اس کا مسح باطل ہو جاتا ہے اور اسے وضو کی تجدید کے لیے پاؤں دھونے ہوں گے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ اسلام ہر کام میں نظم اور وقت کی پابندی کو اہمیت دیتا ہے۔"
+              ],
+              "english": [
+                "A Muslim must calculate the wiping duration from the moment the Wudu breaks for the first time and strictly adhere to the days and nights set.",
+                "If a person removes their socks during the period, their Mas'h is invalidated, and they must wash their feet to renew their Wudu.",
+                "This ruling proves that Islam attaches importance to order and adherence to time limits in every matter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "hadithId": 456,
+  "hadithNo": 32,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "",
+    "babId": 28
+  },
+  "name": {
+    "arabic": " وَعَنْ طَلْحَةَ بْنِ عَبْدِ اَللَّهِ بْنِ عَوْفٍ قَالَ: { صَلَّيْتُ خَلَفَ ابْنِ عَبَّاسٍ عَلَى جَنَازَةٍ, فَقَرَأَ فَاتِحَةَ الكْتِابِ فَقَالَ: "لِتَعْلَمُوا أَنَّهَا سُنَّةٌ" } رَوَاهُ اَلْبُخَارِيُّ",
+    "urdu": "سیدنا طلحہ بن عبداللہ بن عوف رحمہ اللہ سے مروی ہے کہ میں نے ابن عباس رضی اللہ عنہما کے پیچھے نماز جنازہ پڑھی۔ انہوں نے اس میں سورۃ «فاتحه» پڑھی اور فرمایا (میں نے اس لئے سورۃ «فاتحه» پڑھی ہے) تاکہ تمہیں معلوم ہو جائے کہ یہ سنت ہے۔ (بخاری) ",
+    "english": " "
+  },
+  "takhreej": {
+    "arabic": " صحيح.  رواه البخاري (1335) . ",
+    "urdu": " ",
+    "english": " "
+  },
+  "importantWords": [
+    {
+      "arabic": " ",
+      "english": " ",
+      "urdu": " "
+    }
+  ],
+  "summary": {
+    "urdu": " ",
+    "english": " "
+  },
+  "references": [
+    {
+      "arabic": " ",
+      "english": " "
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": " ",
+        "english": " "
+      },
+      "slug": " "
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": " ",
+    "english": " "
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

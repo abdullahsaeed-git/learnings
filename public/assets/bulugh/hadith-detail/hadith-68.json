@@ -1,0 +1,263 @@
+{
+  "hadithId": 68,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 7 (Chapter 6)"],
+    "kitabId": 1,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الأمر بالوضوء من مس الذكر",
+    "babId": 6
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه أبو داود (181) ، والنسائي (100) ، والترمذي (82) ، وابن ماجه (479) ، وأحمد (6 /406) ، وابن حبان (212 موارد) .  وقد أعل هذا الحديث بما لا يقدح، كما هو مبين \"بالأصل\". ",
+    "urdu": "صحیح (درجہ)۔ اسے ابوداؤد (181)، نسائی (100)، ترمذی (82)، ابن ماجہ (479)، احمد (6/406)، اور ابن حبان (212 موارد) نے روایت کیا ہے۔ اس حدیث میں جو علت بیان کی گئی ہے وہ اس کی صحت کو متاثر نہیں کرتی۔",
+    "english": "Sahih (Authentic). Narrated by Abū Dāwūd (181), An-Nasā’ī (100), At-Tirmidhī (82), Ibn Mājah (479), Ahmad (6/406), and Ibn Ḥibbān (212 Mawārid). The minor flaws cited against this Hadith do not diminish its overall authenticity."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَنْ مَسَّ",
+      "english": "Whoever touches",
+      "urdu": "جس نے ہاتھ لگایا"
+    },
+    {
+      "arabic": "ذَكَرَهُ",
+      "english": "His private part",
+      "urdu": "اپنی شرمگاہ"
+    },
+    {
+      "arabic": "فَلْيَتَوَضَّأْ",
+      "english": "Must perform Wudu",
+      "urdu": "اسے وضو کرنا چاہیئے"
+    },
+    {
+      "arabic": "أَصَحُّ شَيْءٍ",
+      "english": "The soundest thing",
+      "urdu": "صحیح ترین"
+    },
+    {
+      "arabic": "الْخَمْسَةُ",
+      "english": "The Five Imāms",
+      "urdu": "پانچوں ائمہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث شرمگاہ کو چھونے سے وضو ٹوٹنے کے مسئلے میں **قطعی اور ناسخ** حکم ہے، جس کے مطابق جو شخص بھی اپنے ہاتھ کی ہتھیلی سے اپنی شرمگاہ کو چھوئے گا، اس پر نماز سے پہلے دوبارہ وضو کرنا فرض ہو گا۔",
+    "english": "This Hadith provides the **definitive and abrogating** ruling on touching the private part: whoever touches their private part with the palm of their hand must repeat Wudu before praying, as this action invalidates the minor ritual purity."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الطهارة، رقم 181",
+      "english": "Sunan Abī Dāwūd, The Book of Purification, Hadith 181"
+    },
+    {
+      "arabic": "جامع الترمذي، كتاب الطهارة، رقم 82",
+      "english": "Jami' At-Tirmidhī, The Book of Purification, Hadith 82"
+    },
+    {
+      "arabic": "صحيح ابن حبان، رقم 212",
+      "english": "Sahih Ibn Ḥibbān, Hadith 212"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "بُسْرَةَ بِنْتِ صَفْوَانَ رَضِيَ اَللَّهُ عَنْهَا",
+        "english": "Busrah bint Ṣafwān (May Allah be pleased with her)"
+      },
+      "slug": "busrah-bint-safwan"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-46-wudu-after-touching-private-part",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حکمِ وجوب اور ناسخ کی حیثیت",
+        "english": "Ruling of Obligation and Status as Abrogator"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وضو کا فرض ہونا",
+              "english": "Wudu is Obligatory"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ کا فرمان 'فَلْيَتَوَضَّأْ' (تو اسے وضو کرنا چاہیے) **صیغۂ امر** ہے، جو اس عمل کے **فرض** یا **واجب** ہونے پر دلالت کرتا ہے، اور وضو کے بغیر نماز باطل ہو گی۔",
+                "یہ حکم اس بات کی دلیل ہے کہ شرمگاہ کو چھونا ایک ایسا حدث ہے جو وضو کو توڑ دیتا ہے، اور اسے رفع کرنا ضروری ہے۔",
+                "یہ حکم اس عمومی سنت پر مقدم ہے کہ 'وہ تو تیرے جسم کا ایک ٹکڑا ہے'، کیونکہ یہ حکم اس کے **بعد** آیا اور اسے **منسوخ** کر دیا۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) command 'فَلْيَتَوَضَّأْ' ('must perform Wudu') is an **imperative form**, denoting that this action is **Farḍ (obligatory)** or Wājib, and prayer is invalid without it.",
+                "This ruling proves that touching the private part is a type of *Hadath* (ritual impurity) that invalidates Wudu, and must be purified.",
+                "This command takes precedence over the general saying, 'it is only a piece of flesh from you,' because this ruling came **later** and **abrogated** the previous one."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام بخاری کی تصدیق",
+              "english": "Al-Bukhari's Authentication"
+            },
+            "content": {
+              "urdu": [
+                "امام بخاری کا یہ کہنا کہ **'یہ اس باب میں صحیح ترین حدیث ہے'**، اس حکم کی قطعیت اور اہمیت کو ظاہر کرتا ہے۔",
+                "یہ جملہ محدثین کے نزدیک اعلیٰ ترین درجے کی صحت کو ظاہر کرتا ہے، اور اس پر عمل کرنا تمام فقہی مسالک میں سب سے زیادہ احتیاط اور یقین پیدا کرتا ہے۔",
+                "مسلمان کو چاہیے کہ وہ اس حدیث کو ایک حتمی شرعی حکم سمجھے اور اس کے خلاف موجود کسی بھی روایت پر توجہ نہ دے۔"
+              ],
+              "english": [
+                "Imam Al-Bukhari's statement that **'It is the soundest thing in this chapter'** demonstrates the definitiveness and high importance of this ruling.",
+                "This phrase, to Hadith scholars, signifies the highest degree of authenticity, and acting upon it brings the most caution and certainty across all schools of jurisprudence.",
+                "A Muslim should consider this Hadith as a final Sharia ruling and should not heed any other narration that contradicts it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات اور اطلاق",
+        "english": "Fiqh Details and Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چھونے کی کیفیت",
+              "english": "Manner of Touching"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک وضو صرف اس صورت میں ٹوٹتا ہے جب شرمگاہ کو ہاتھ کی **اندرونی ہتھیلی** یا **انگلیوں کے پیٹ** سے چھوا جائے۔",
+                "اگر شرمگاہ کو کپڑے کے اوپر سے، یا ہاتھ کے پشت سے، یا جسم کے کسی دوسرے حصے (جیسے بازو) سے چھوا جائے، تو وضو نہیں ٹوٹے گا۔",
+                "یہ حکم اس بات پر بھی لاگو ہوتا ہے کہ اگر کوئی شخص بھول کر یا غیر ارادی طور پر بھی شرمگاہ کو چھو لے، تو بھی وضو ٹوٹ جاتا ہے۔"
+              ],
+              "english": [
+                "According to the majority of jurists, Wudu is only broken when the private part is touched with the **inner palm** or the **inner pads of the fingers**.",
+                "However, if the private part is touched over clothing, with the back of the hand, or with any other part of the body (like the arm), Wudu is not broken.",
+                "This ruling also applies if a person touches the private part accidentally or unintentionally; Wudu is still invalidated and must be renewed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مرد و عورت کا حکم",
+              "english": "Ruling for Men and Women"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم مردوں کے لیے شرمگاہ کو چھونے اور عورتوں کے لیے اپنی شرمگاہ کو چھونے پر **دونوں** پر لاگو ہوتا ہے، کیونکہ حدیث میں حکم عمومی ہے۔",
+                "عورت کے لیے یہ حکم اس کی اگلی اور پچھلی شرمگاہ دونوں پر لاگو ہوتا ہے، جس سے اس کی طہارت کے لیے احتیاط لازم ہو جاتی ہے۔",
+                "یہ حدیث طہارت کے معاملات میں شرعی احکام کی اہمیت اور تفریق کو واضح کرتی ہے۔"
+              ],
+              "english": [
+                "This ruling applies to **both** men touching their private part and women touching their private part, as the command in the Hadith is general (Mālik, Shafi'i, Ahmad).",
+                "For women, this ruling applies to both the anterior and posterior private parts, necessitating caution for maintaining her purity.",
+                "This Hadith clarifies the significance of religious commands and the need for precision in matters of purification."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حکمت اور روحانی پہلو",
+        "english": "Wisdom and Spiritual Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احترام اور تعبد",
+              "english": "Respect and Devotional Worship"
+            },
+            "content": {
+              "urdu": [
+                "شرمگاہ کو چھونے سے وضو کا ٹوٹ جانا ایک **تعبدی** حکم ہے، جس کی حکمت مکمل طور پر معلوم نہ ہو، لیکن اس پر عمل کرنا عبادت ہے۔",
+                "اس حکم کی ایک ممکنہ حکمت یہ بھی ہے کہ اس جگہ کے چھونے سے شہوت کو تحریک ملتی ہے، جس سے طہارتِ حکمی متاثر ہوتی ہے۔",
+                "یہ حکم مسلمان کو اس بات کی ترغیب دیتا ہے کہ وہ اللہ کے سامنے نماز کے لیے کھڑے ہونے سے پہلے طہارت میں ہر قسم کی احتیاط برتے۔"
+              ],
+              "english": [
+                "The command to perform Wudu after touching the private part is an act of **devotional worship (Taa'bbudi)**, whose full wisdom may not be known, but obeying it is an act of worship.",
+                "A possible wisdom is that touching this area can stimulate desire, which compromises the subtle ritual purity (Tāharah Ḥukmīyah).",
+                "This ruling encourages the Muslim to exercise all caution in purification before standing for prayer before Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسلمانوں کی آسانی",
+              "english": "Ease for Muslims"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا طلقؓ کی حدیث اگرچہ آسانی کو ظاہر کرتی تھی، لیکن بسرہؓ کی حدیث میں طہارت کو مکمل کرنے کے لیے زیادہ احتیاط کو ترجیح دی گئی۔",
+                "یہ اس بات کی دلیل ہے کہ اسلام میں اصل اصول طہارت اور احتیاط ہے، اور رخصت صرف مشقت کی صورت میں دی جاتی ہے۔",
+                "یہ حکم مسلمانوں کو اس بات کی تعلیم دیتا ہے کہ وہ وضو کو ایک سنجیدہ عبادت سمجھیں اور اس کے تمام تقاضوں کو پورا کریں۔"
+              ],
+              "english": [
+                "Although Ṭalq's Hadith indicated ease, Busrah's Hadith ultimately gave preference to greater caution in completing the purification.",
+                "This proves that the fundamental principle in Islam is purity and caution, and dispensation (Rukhsah) is only granted in situations of genuine hardship.",
+                "This Hadith teaches Muslims to regard Wudu as a serious act of worship and to fulfill all its necessary requirements."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی اور علم کی ترسیل",
+        "english": "Narrator and Transmission of Knowledge"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بسرہ بنت صفوانؓ کا مقام",
+              "english": "The Status of Busrah bint Ṣafwān (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ بسرہ بنت صفوان رضی اللہ عنہا کا شمار ان خواتین صحابیات میں ہوتا ہے جن سے اہم فقہی مسائل روایت ہوئے ہیں اور ان کی روایت کو اعلیٰ درجہ حاصل ہے۔",
+                "ان کی روایت میں نبی ﷺ کا واضح اور قطعی حکم بیان ہوا ہے، جو اس مسئلے میں کسی شک کی گنجائش نہیں چھوڑتا۔",
+                "خواتین کے ذریعے ایسے اہم فقہی احکام کا بیان ہونا، اسلام میں خواتین کے علمی مقام کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Busrah bint Ṣafwān (RA) is counted among the female Companions from whom important Fiqh rulings were narrated, and her narration is highly regarded.",
+                "Her narration conveys the clear and definitive command of the Prophet (ﷺ), leaving no room for doubt in this matter.",
+                "The transmission of such crucial legal rulings by women demonstrates the high academic and legal status of women in early Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حدیث کا قبول",
+              "english": "Acceptance of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "تمام پانچ کتبِ سنن (ابوداؤد، ترمذی، نسائی، ابن ماجہ، اور احمد) میں اس کا روایت ہونا اس کے عمومی قبول اور تائید کو ظاہر کرتا ہے۔",
+                "ابن حبان اور ترمذی کا اسے صحیح قرار دینا اور بخاری کا 'اصح شیئ' کہنا اس کے حکم کو شک سے بالاتر کر دیتا ہے۔",
+                "مسلمان کو چاہیے کہ وہ اس حدیث پر عمل کرے اور اپنی طہارت کو یقینی بنائے۔"
+              ],
+              "english": [
+                "The narration of this Hadith in all five Sunan books (Abu Dawud, Tirmidhi, Nasa'i, Ibn Majah, and Ahmad) indicates its universal acceptance and support.",
+                "Its authentication by Ibn Ḥibbān and At-Tirmidhī, and Al-Bukhari's designation of it as 'the soundest thing,' places its ruling beyond any doubt.",
+                "A Muslim must act upon this Hadith and ensure the certainty of their state of purification."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

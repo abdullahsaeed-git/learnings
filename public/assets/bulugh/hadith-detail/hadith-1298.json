@@ -1,0 +1,259 @@
+{
+  "hadithId": 1298,
+  "hadithNo": 22,
+  "hadithReferences": {
+    "sunnah.com": ["tirmidhi:2002", "bulugh:1498"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الجامع",
+    "babId": 105
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه الترمذي (2002)، وأحمد (6/448)، والبخاري في الأدب المفرد (312). وقال الترمذي: 'حسن صحيح'. وأوله: 'ما شيء أثقل في ميزان المؤمن من خلق حسن'.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام ترمذی (2002) اور احمد نے روایت کیا ہے۔ اس کا پہلا حصہ یہ ہے کہ 'مومن کے ترازو میں حسنِ اخلاق سے زیادہ وزنی کوئی چیز نہیں ہوگی'۔ علامہ البانی نے بھی اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih (Authentic). Reported by At-Tirmidhi (2002) and Ahmad. At-Tirmidhi graded it Hasan Sahih. The full version begins with: 'Nothing is heavier on the scale of a believer than good character.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "يُبْغِضُ",
+      "english": "Hates / Detests",
+      "urdu": "ناپسند کرتا ہے / بغض رکھتا ہے"
+    },
+    {
+      "arabic": "الْفَاحِشَ",
+      "english": "Obscene / Abusive",
+      "urdu": "بدزبان / بے حیا"
+    },
+    {
+      "arabic": "الْبَذِيءَ",
+      "english": "Foul-mouthed",
+      "urdu": "فحش گو / گندی بات کرنے والا"
+    },
+    {
+      "arabic": "مِيزَان",
+      "english": "Scale / Balance",
+      "urdu": "ترازو"
+    },
+    {
+      "arabic": "خُلُق",
+      "english": "Character / Manners",
+      "urdu": "اخلاق"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں اللہ تعالیٰ کی ناراضگی ان لوگوں کے لیے بیان کی گئی ہے جو اپنی زبان سے گندی اور بیہودہ باتیں کرتے ہیں۔ یہ زبان کی پاکیزگی اور حیا کی اہمیت کو واضح کرتی ہے۔",
+    "english": "This Hadith expresses Allah's dislike for those who use foul and indecent language, emphasizing the importance of purity of speech and modesty in character."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (2002)",
+      "english": "Sunan at-Tirmidhi (2002)"
+    },
+    {
+      "arabic": "الأدب المفرد للبخاري (312)",
+      "english": "Al-Adab al-Mufrad (312)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو الدرداء الأنصاري",
+        "english": "Abu ad-Darda' al-Ansari"
+      },
+      "slug": "abu-ad-darda"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=7XG0n6h-Ksc",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "زبان کی حفاظت اور ایمان",
+        "english": "Guarding the Tongue and Faith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فحش گوئی کی مذمت",
+              "english": "Condemnation of Obscenity"
+            },
+            "content": {
+              "urdu": [
+                "فحش گوئی سے مراد بیہودہ باتیں، گالیاں اور ننگی گفتگو کرنا ہے۔",
+                "اللہ تعالیٰ حیا کو پسند کرتا ہے اور بیہودگی سے سخت نفرت فرماتا ہے۔",
+                "زبان کی گندگی درحقیقت دل کی گندگی اور ایمان کی کمزوری کا پتہ دیتی ہے۔"
+              ],
+              "english": [
+                "Obscenity includes using foul language, insults, and vulgar talk.",
+                "Allah loves modesty (Haya) and intensely detests indecency and vulgarity.",
+                "Impurities of speech reflect an impure heart and a lack of spiritual maturity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مومن کا وقار",
+              "english": "Dignity of a Believer"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ مومن طعنہ دینے والا اور لعنت کرنے والا نہیں ہوتا۔",
+                "اعلیٰ اخلاق کا تقاضا ہے کہ انسان کی زبان ہر قسم کے شر سے پاک ہو۔",
+                "سچا مسلمان وہی ہے جس کی زبان سے دوسرے لوگ محفوظ رہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) stated that a believer does not taunt or curse others.",
+                "Excellent character requires that a person's speech be free from all evil.",
+                "A true Muslim is one from whose tongue other people are completely safe."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی ناپسندیدگی کا سبب",
+        "english": "Reasons for Allah's Dislike"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حیا اور ایمان",
+              "english": "Modesty and Faith"
+            },
+            "content": {
+              "urdu": [
+                "حیا ایمان کا ایک بڑا شعبہ ہے اور فحش گوئی حیا کے خلاف ہے۔",
+                "جو شخص حیا کا دامن چھوڑ دیتا ہے، وہ اللہ کی نظر سے گر جاتا ہے۔",
+                "بدزبانی معاشرے میں اخلاقی بگاڑ اور بے حیائی پھیلانے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Modesty is a major branch of faith, and foul speech contradicts it.",
+                "Whoever abandons modesty falls from the grace and sight of Allah.",
+                "Abusive language is a tool that spreads moral decay and indecency in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میزان میں وزن",
+              "english": "Weight on the Scales"
+            },
+            "content": {
+              "urdu": [
+                "قیامت کے دن اچھے اخلاق ہی سب سے زیادہ وزنی ثابت ہوں گے۔",
+                "بدزبانی اور بدخوئی نیکیوں کے وزن کو کم کر دینے والے افعال ہیں۔",
+                "اللہ کی محبت پانے کے لیے گفتگو میں شائستگی اختیار کرنا لازمی ہے۔"
+              ],
+              "english": [
+                "On the Day of Judgment, good character will be the heaviest on the scale.",
+                "Vulgarity and foul manners are acts that diminish the weight of good deeds.",
+                "To gain Allah's love, one must adopt politeness and decency in conversation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اثرات",
+        "english": "Social Implications"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تعلقات میں دراڑ",
+              "english": "Rifts in Relationships"
+            },
+            "content": {
+              "urdu": [
+                "بدزبانی خاندانوں اور دوستوں میں دشمنی اور دوری پیدا کرتی ہے۔",
+                "لوگ بدزبان شخص سے اس کے شر کے ڈر سے کنارہ کشی اختیار کرتے ہیں۔",
+                "محفل کا وقار صرف مہذب اور بااخلاق گفتگو سے ہی قائم رہتا ہے۔"
+              ],
+              "english": [
+                "Bad language breeds enmity and distances among families and friends.",
+                "People often avoid a foul-mouthed person due to fear of their evil speech.",
+                "The dignity of any gathering is maintained through civilized conversation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اصلاحِ معاشرہ",
+              "english": "Social Reformation"
+            },
+            "content": {
+              "urdu": [
+                "اگر زبان پاک ہو جائے تو آدھے سے زیادہ جھگڑے خود ہی ختم ہو جائیں۔",
+                "اسلامی معاشرے کی پہچان 'سلامتی' اور 'پاکیزہ کلام' ہونی چاہیے۔",
+                "نوجوان نسل کو زبان کے درست استعمال کی تربیت دینا وقت کی ضرورت ہے۔"
+              ],
+              "english": [
+                "If speech becomes pure, more than half of social conflicts will vanish.",
+                "The hallmark of an Islamic society should be safety and wholesome speech.",
+                "Training the youth in the proper use of language is a contemporary necessity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور سبق",
+        "english": "Practical Training and Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاموشی کی فضیلت",
+              "english": "Excellence of Silence"
+            },
+            "content": {
+              "urdu": [
+                "اگر اچھی بات نہیں کہہ سکتے تو خاموش رہنا ہی نجات کا راستہ ہے۔",
+                "غصے کے وقت اپنی زبان کو لگام دینا ہی اصل پہلوانی اور بہادری ہے۔",
+                "بولنے سے پہلے یہ سوچیں کہ کیا یہ لفظ اللہ کی رضا کا باعث ہے؟"
+              ],
+              "english": [
+                "If you cannot say something good, then remaining silent is the way to safety.",
+                "Restraining the tongue during anger is true strength and bravery.",
+                "Before speaking, reflect if the words will earn the pleasure of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توبہ اور دعا",
+              "english": "Repentance and Supplication"
+            },
+            "content": {
+              "urdu": [
+                "اپنی سابقہ بدزبانیوں پر اللہ سے معافی مانگیں اور تلافی کریں۔",
+                "اللہ سے حسنِ اخلاق اور زبان کی پاکیزگی کی مسلسل دعا مانگیں۔",
+                "نبی ﷺ کے اسوہ حسنہ کو اپنی گفتگو کا عملی نمونہ بنائیں۔"
+              ],
+              "english": [
+                "Seek Allah's forgiveness for past foul speech and make amends if possible.",
+                "Constantly pray to Allah for good character and purity of speech.",
+                "Adhere to the Prophet's (ﷺ) example as a practical model for conversation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

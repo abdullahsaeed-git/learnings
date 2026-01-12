@@ -1,0 +1,205 @@
+{
+  "hadithId": 1266,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/31"],
+    "kitabId": 16,
+    "inKitabBab": 3,
+    "arabicBook": "الجامع - باب الزهد والورع",
+    "babId": 104
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (52)‏، ومسلم (1599).",
+    "urdu": "صحیح۔ اسے امام بخاری (52) اور امام مسلم (1599) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (52) and Muslim (1599)."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَيِّنٌ",
+      "english": "Clear / Manifest",
+      "urdu": "واضح / عیاں"
+    },
+    {
+      "arabic": "مُشْتَبِهَاتٌ",
+      "english": "Doubtful / Ambiguous",
+      "urdu": "مشتبہ چیزیں / شک والی باتیں"
+    },
+    {
+      "arabic": "اِسْتَبْرَأَ",
+      "english": "Cleared / Safeguarded",
+      "urdu": "بچا لیا / بری کر لیا"
+    },
+    {
+      "arabic": "حِمَى",
+      "english": "Sanctuary / Private pasture",
+      "urdu": "محفوظ چراگاہ / ممنوعہ علاقہ"
+    },
+    {
+      "arabic": "مُضْغَةً",
+      "english": "Morsel of flesh",
+      "urdu": "گوشت کا ٹکڑا / لوتھڑا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث دین کے بنیادی قواعد میں سے ایک ہے، جس میں حلال و حرام کی وضاحت، مشتبہات سے بچنے کی تاکید اور انسانی اعمال میں دل کی مرکزیت کو بیان کیا گیا ہے۔",
+    "english": "This Hadith is a fundamental principle of Islam, explaining the clarity of Halal and Haram, the danger of doubtful matters, and the central role of the heart in spiritual health."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الإيمان، رقم 52",
+      "english": "Sahih al-Bukhari, Book of Faith, No. 52"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب المساقاة، رقم 1599",
+      "english": "Sahih Muslim, Book of Sharecropping, No. 1599"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "النعمان بن بشير الأنصاري",
+        "english": "An-Nu'man bin Bashir Al-Ansari"
+      },
+      "slug": "an-numan-bin-bashir"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حلال، حرام اور مشتبہات کی تقسیم",
+        "english": "Classification of Halal, Haram, and Doubtful"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "واضح احکامات",
+              "english": "Clear Rulings"
+            },
+            "content": {
+              "urdu": [
+                "دین میں بنیادی حلال چیزیں (جیسے پاکیزہ رزق) اور بنیادی حرام چیزیں (جیسے جھوٹ، سود، زنا) بالکل واضح ہیں۔",
+                "ایک عام مسلمان بھی ان کے بنیادی احکامات سے واقف ہوتا ہے۔",
+                "ان معاملات میں کسی قسم کا ابہام نہیں پایا جاتا۔"
+              ],
+              "english": [
+                "Fundamental Halal things (like pure food) and fundamental Haram things (like lying, usury, adultery) are entirely clear.",
+                "Even an ordinary Muslim is aware of these basic rulings.",
+                "There is no ambiguity in these primary matters."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشتبہات سے اجتناب",
+              "english": "Avoiding Doubtful Matters"
+            },
+            "content": {
+              "urdu": [
+                "کچھ مسائل ایسے ہوتے ہیں جن کا حکم ہر ایک پر واضح نہیں ہوتا، انہیں 'مشتبہات' کہتے ہیں۔",
+                "نبی ﷺ نے فرمایا کہ ان سے بچنا دین اور عزت کی حفاظت کے لیے ضروری ہے۔",
+                "علماء ان مشتبہات کو دلیل کی بنیاد پر حلال یا حرام کے زمرے میں لاتے ہیں۔"
+              ],
+              "english": [
+                "Some issues have rulings that are not clear to everyone; these are called 'doubtful matters'.",
+                "The Prophet (ﷺ) stated that avoiding them is necessary to safeguard one's religion and honor.",
+                "Scholars categorize these doubtful matters into Halal or Haram based on evidence."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تقویٰ اور حدود اللہ کی حفاظت",
+        "english": "Piety and Safeguarding Allah's Boundaries"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چراگاہ کی مثال",
+              "english": "The Example of the Pasture"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ایک خوبصورت مثال دی کہ جو ممنوعہ چراگاہ کے قریب چرائے گا، وہ اس کے اندر داخل ہو سکتا ہے۔",
+                "گناہوں کے قریب جانے والا شخص جلد ہی حرام میں مبتلا ہو جاتا ہے۔",
+                "سچا تقویٰ یہ ہے کہ انسان گناہ کے خیال اور اس کے قریب لے جانے والے راستوں سے بھی بچے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gave a beautiful analogy: one who grazes near a forbidden pasture is likely to enter it.",
+                "A person who lingers near sins will soon fall into Haram.",
+                "True piety lies in avoiding even the thought of sin and the paths that lead to it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دل کی مرکزیت اور اصلاح",
+        "english": "Centrality and Reformation of the Heart"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دل: انسانی اعمال کا انجن",
+              "english": "The Heart: Engine of Human Actions"
+    },
+            "content": {
+              "urdu": [
+                "جسم کے تمام اعضاء دل کے تابع ہیں، اگر نیت اور ارادہ (دل) درست ہو تو عمل بھی درست ہوگا۔",
+                "دل کی بیماری سے مراد حسد، کینہ، تکبر اور شک ہے جو انسان کو گمراہ کرتے ہیں۔",
+                "باطن کی صفائی ہی ظاہر کی پاکیزگی کا پیش خیمہ ہے۔"
+              ],
+              "english": [
+                "All body parts follow the heart; if the intention and will (the heart) are correct, actions will be too.",
+                "Sickness of the heart refers to envy, malice, pride, and doubt that lead a person astray.",
+                "The purification of the inner self is the precursor to outward purity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اسباق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عزت اور دین کی حفاظت",
+              "english": "Safeguarding Honor and Religion"
+            },
+            "content": {
+              "urdu": [
+                "مشکوک کاموں سے بچنے والا لوگوں کی تنقید اور اللہ کی ناراضگی دونوں سے محفوظ رہتا ہے۔",
+                "ہمیں اپنے معاملات (تجارت، سماجی زندگی) میں شبہات سے دور رہنا چاہیے۔",
+                "دل کی اصلاح کے لیے ذکر اللہ اور حلال رزق کا اہتمام کرنا چاہیے۔"
+              ],
+              "english": [
+                "Whoever avoids suspicious acts remains safe from both public criticism and Allah's displeasure.",
+                "We must stay away from doubts in our dealings (trade, social life).",
+                "To reform the heart, one should arrange for the remembrance of Allah and Halal sustenance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

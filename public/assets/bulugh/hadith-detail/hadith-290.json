@@ -1,0 +1,268 @@
+{
+  "hadithId": 290,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/abudawud:1261",
+      "https://sunnah.com/tirmidhi:420",
+      "https://sunnah.com/ahmad:2/415"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "سنن أبي داود / جامع الترمذي",
+    "babId": 19
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه أحمد ( 2 / 415 )‏ ، وأبو داود ( 1261 )‏ ، والترمذي ( 420 )‏ .‏ وقال الترمذي : حديث حسن صحيح غريب من هذا الوجه .",
+    "urdu": "صحیح۔ اسے احمد (2 / 415)، ابوداؤد (1261) اور ترمذی (420) نے روایت کیا ہے۔ امام ترمذی نے فرمایا: یہ حدیث اس سند سے حسن صحیح غریب ہے۔",
+    "english": "Sahih (Authentic). Reported by Ahmad (2/415), Abu Dawud (1261), and At-Tirmidhi (420). At-Tirmidhi said: This Hadith is Hasan Sahih Gharib from this chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "إِذَا صَلَّى",
+      "english": "When he prays",
+      "urdu": "جب وہ نماز پڑھ لے"
+    },
+    {
+      "arabic": "رَكْعَتَيْنِ",
+      "english": "Two Rak'ahs",
+      "urdu": "دو رکعتیں"
+    },
+    {
+      "arabic": "قَبْلَ",
+      "english": "Before",
+      "urdu": "پہلے"
+    },
+    {
+      "arabic": "فَلْيَضْطَجِعْ",
+      "english": "Let him lie down",
+      "urdu": "پس اسے چاہیے کہ لیٹ جائے"
+    },
+    {
+      "arabic": "جَنْبِهِ",
+      "english": "His side",
+      "urdu": "اس کا پہلو"
+    },
+    {
+      "arabic": "اَلْأَيْمَنِ",
+      "english": "Right",
+      "urdu": "دایاں"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث فجر کی سنتوں کے بعد دائیں کروٹ پر لیٹنے کا حکم دیتی ہے، جو کہ سنت نبوی ہے اور فرض نماز کے لیے جسمانی و ذہنی تیاری کا ذریعہ ہے۔",
+    "english": "This Hadith commands lying down on the right side after the Sunnahs of Fajr, which is a Prophetic Sunnah and a means of physical and mental preparation for the obligatory prayer."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1261)",
+      "english": "Reported by Abu Dawud (1261)"
+    },
+    {
+      "arabic": "رواه الترمذي (420)",
+      "english": "Reported by At-Tirmidhi (420)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://youtu.be/Bi0R7vF3G58?si=JqX8xK2qL9vWzY4_",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لیٹنے کا حکم",
+              "english": "Command to Lie Down"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث فجر کی سنتوں کے بعد لیٹنے کا حکم دیتی ہے۔",
+                "یہ عمل دائیں کروٹ پر ہونا چاہیے۔",
+                "یہ نبی ﷺ کی قولی اور فعلی دونوں طرح کی سنت ہے۔"
+              ],
+              "english": [
+                "This Hadith commands lying down after the Sunnahs of Fajr.",
+                "This action should be on the right side.",
+                "It is both a verbal and practical Sunnah of the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت اور کیفیت",
+              "english": "Time and Manner"
+            },
+            "content": {
+              "urdu": [
+                "یہ عمل فجر کی دو سنتوں کے بعد اور فرض نماز سے پہلے کیا جاتا ہے۔",
+                "یہ مختصر وقت کے لیے استراحت (آرام) ہے۔",
+                "دائیں کروٹ لیٹنا سنت کے مطابق اور صحت کے لیے بہتر ہے۔"
+              ],
+              "english": [
+                "This action is performed after the two Sunnahs of Fajr and before the Fard prayer.",
+                "It is a rest for a short duration.",
+                "Lying on the right side is according to Sunnah and better for health."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت",
+        "english": "Juristic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وجوب یا استحباب",
+              "english": "Obligation or Recommendation"
+            },
+            "content": {
+              "urdu": [
+                "ظاہر الفاظ سے یہ حکم واجب لگتا ہے (امر کا صیغہ ہے)۔",
+                "لیکن جمہور علماء اسے مستحب سمجھتے ہیں کیونکہ نبی ﷺ نے کبھی اسے چھوڑا بھی ہے۔",
+                "یہ حکم تاکید اور فضیلت بیان کرنے کے لیے ہے۔"
+              ],
+              "english": [
+                "The apparent wording suggests obligation (imperative form).",
+                "But the majority of scholars consider it recommended (Mustahabb) because the Prophet (ﷺ) sometimes omitted it.",
+                "This command is to emphasize its virtue."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نمازوں میں فصل",
+              "english": "Separation b/w Prayers"
+            },
+            "content": {
+              "urdu": [
+                "اس کا مقصد نفل اور فرض میں عملی فرق کرنا ہے۔",
+                "تاکہ دونوں نمازیں آپس میں مل نہ جائیں۔",
+                "یہ وقفہ عبادت میں تازگی اور یکسوئی لاتا ہے۔"
+              ],
+              "english": [
+                "The purpose is to practically distinguish between voluntary and obligatory prayers.",
+                "So that the two prayers do not merge.",
+                "This break brings freshness and concentration to worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی فائدہ",
+              "english": "Physical Benefit"
+            },
+            "content": {
+              "urdu": [
+                "دائیں کروٹ لیٹنا دل اور جسم کے لیے مفید ہے۔",
+                "یہ رات کے قیام کی تھکاوٹ دور کرتا ہے۔",
+                "انسان فرض نماز کے لیے ہشاش بشاش ہو جاتا ہے۔"
+              ],
+              "english": [
+                "Lying on the right side is beneficial for the heart and body.",
+                "It removes the fatigue of night prayers (Qiyam).",
+                "A person becomes fresh for the obligatory prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گھر میں سنت پر عمل",
+              "english": "Practicing Sunnah at Home"
+            },
+            "content": {
+              "urdu": [
+                "اگر سنتیں گھر میں پڑھیں تو وہیں لیٹ جائیں۔",
+                "مسجد میں جگہ تنگ ہو تو دوسروں کو تکلیف نہ دیں۔",
+                "سنت پر عمل کرتے وقت دوسروں کی سہولت کا خیال رکھیں۔"
+              ],
+              "english": [
+                "If Sunnahs are prayed at home, lie down there.",
+                "If space is tight in the mosque, do not inconvenience others.",
+                "Consider the convenience of others while practicing the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباع رسول ﷺ",
+              "english": "Obedience to Prophet"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام ہر حکم پر عمل کرنے کی کوشش کرتے تھے۔",
+                "الفاظ 'فلیضطجع' (پس چاہیے کہ لیٹ جائے) کی تعمیل ضروری ہے۔",
+                "محبت کا تقاضا ہے کہ محبوب کی ہر ادا اپنائی جائے۔"
+              ],
+              "english": [
+                "The Companions tried to act upon every command.",
+                "Compliance with the words 'let him lie down' is important.",
+                "Love demands adopting every manner of the Beloved."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انتظار کا طریقہ",
+              "english": "Method of Waiting"
+            },
+            "content": {
+              "urdu": [
+                "یہ عمل جماعت کے انتظار کا ایک بہترین طریقہ ہے۔",
+                "ذکر اور دعا میں مشغول رہ کر انتظار کریں۔",
+                "یہ وقت قبولیت دعا کا بھی ہوتا ہے۔"
+              ],
+              "english": [
+                "This act is an excellent way to wait for the congregation.",
+                "Wait while engaging in Dhikr and Dua.",
+                "This is also a time for acceptance of supplications."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

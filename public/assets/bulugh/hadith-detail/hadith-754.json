@@ -1,0 +1,270 @@
+{
+  "hadithId": 754,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/11/4"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 11,
+    "arabicBook": "بلوغ المرام",
+    "babId": 52
+  },
+  "name": {
+    "arabic": "وَعَنْ صَفْوَانَ بْنِ أُمَيَّةَ; { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-اِسْتَعَارَ مِنْهُ دُرُوعاً يَوْمَ حُنَيْنٍ.‏ فَقَالَ: أَغَصْبٌ يَا مُحَمَّدُ? قَالَ: بَلْ عَارِيَةٌ مَضْمُونَةٌ } رَوَاهُ أَبُو دَاوُدَ, وَالنَّسَائِيُّ, وَصَحَّحَهُ اَلْحَاكِمُ",
+    "urdu": "سیدنا صفوان بن امیہ رضی اللہ عنہ سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے جنگ حنین کے موقع پر ان سے کچھ زرہیں عاریتاً لیں۔ انہوں نے کہا: اے محمد (صلی اللہ علیہ وسلم)! کیا آپ زبردستی غصب کر رہے ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ”نہیں! بلکہ ضمانت کے ساتھ عاریتاً (ادھار) لے رہا ہوں۔“",
+    "english": "Narrated Safwan bin Umayyah (RA): On the day of the battle of Hunayn, the Prophet (ﷺ) borrowed some coats of mail from him. He asked: 'Are you taking them by force (usurpation), O Muhammad?' He (ﷺ) replied: 'No, rather it is a guaranteed loan (borrowed for use with a guarantee of return or compensation).'"
+  },
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أحمد ( 3 / 401 )‏، وأبو داود ( 3562 )‏، والنسائي في الكبرى ( 3 / 410 ) والحاكم (2/47)، وهو صحيح بطرقه وشواهده.‏",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابوداؤد اور نسائی نے روایت کیا ہے اور حاکم نے اسے صحیح قرار دیا ہے۔ اس کے کئی دیگر شواہد بھی موجود ہیں۔",
+    "english": "Sahih. Reported by Ahmad (3/401), Abu Dawud (3562), and An-Nasa'i in Al-Kubra (3/410). Al-Hakim graded it Sahih, and it has multiple supporting routes."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِسْتَعَارَ",
+      "english": "Borrowed / Asked for a loan",
+      "urdu": "عاریتاً طلب کیں / ادھار مانگا"
+    },
+    {
+      "arabic": "دُرُوعاً",
+      "english": "Armor / Coats of mail",
+      "urdu": "زرہیں"
+    },
+    {
+      "arabic": "غَصْبٌ",
+      "english": "Usurpation / Forceful taking",
+      "urdu": "غصب / زبردستی چھیننا"
+    },
+    {
+      "arabic": "مَضْمُونَةٌ",
+      "english": "Guaranteed / Insured",
+      "urdu": "ضمانت والی / تاوان کے ساتھ"
+    },
+    {
+      "arabic": "يَوْمَ حُنَيْنٍ",
+      "english": "The Day of Hunayn",
+      "urdu": "حنین کا دن (جنگ کا موقع)"
+    },
+    {
+      "arabic": "شَاهِدًا",
+      "english": "Supporting evidence",
+      "urdu": "گواہی / شہادت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ عاریت (ادھار لی گئی چیز) اگر ضمانت کی شرط پر لی جائے تو اس کی واپسی یا نقصان کی صورت میں بدل دینا لازم ہے۔",
+    "english": "This Hadith establishes that borrowed items taken with a guarantee must be returned, or compensation must be paid if they are lost or damaged."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (3562)",
+      "english": "Sunan Abu Dawud (3562)"
+    },
+    {
+      "arabic": "سنن النسائي (4633)",
+      "english": "Sunan an-Nasa'i (4633)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "صفوان بن أمية القرشي",
+        "english": "Safwan bin Umayyah Al-Qurashi"
+      },
+      "slug": "safwan-bin-umayyah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FmS3m6qS0YQ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عدل اور باہمی رضا مندی",
+        "english": "Justice and Mutual Consent"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غصب کی ممانعت",
+              "english": "Prohibition of Usurpation"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے حاکم ہونے کے باوجود زبردستی مال لینے سے انکار فرمایا۔",
+                "کسی کا مال اس کی خوشنودی کے بغیر لینا غصب کہلاتا ہے جو حرام ہے۔",
+                "اسلام میں نجی ملکیت کا احترام ریاست کے سربراہ پر بھی لازم ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) refused to take property by force despite being the ruler.",
+                "Taking someone's property without their pleasure is 'Ghasb' (usurpation), which is haram.",
+                "In Islam, respect for private property is mandatory even for the head of state."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاہدے کی وضاحت",
+              "english": "Clarification of the Contract"
+            },
+            "content": {
+              "urdu": [
+                "صفوان بن امیہ نے اس وقت تک اسلام قبول نہیں کیا تھا مگر آپ نے عدل قائم رکھا۔",
+                "معاہدے کے آغاز میں ہی یہ واضح کر دیا کہ یہ 'ضمانت والی عاریت' ہے۔",
+                "وضاحت سے فریقین کے درمیان شکوک و شبہات ختم ہو جاتے ہیں۔"
+              ],
+              "english": [
+                "Safwan bin Umayyah had not yet accepted Islam, but the Prophet (ﷺ) maintained justice.",
+                "He clarified at the start of the agreement that it was a 'guaranteed loan'.",
+                "Providing clarity eliminates doubts and potential conflicts between parties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عاریتِ مضمونہ کے احکام",
+        "english": "Rulings on Guaranteed Loans"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضمانت اور تاوان",
+              "english": "Guarantee and Compensation"
+            },
+            "content": {
+              "urdu": [
+                "اگر عاریت پر لی گئی چیز ضائع ہو جائے تو اس کا بدل دینا ضروری ہے۔",
+                "نبی کریم ﷺ نے ان زرہوں کی واپسی یا قیمت کی ضمانت دی تھی۔",
+                "یہ حکم قرض لینے والے کو زیادہ ذمہ دار بناتا ہے۔"
+              ],
+              "english": [
+                "If a borrowed item is lost, providing a replacement or compensation is necessary.",
+                "The Prophet (ﷺ) guaranteed either the return of the armor or its value.",
+                "This ruling makes the borrower more accountable for the items they take."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استعمال کی اجازت",
+              "english": "Permission for Use"
+            },
+            "content": {
+              "urdu": [
+                "عاریت کا مقصد کسی چیز سے نفع اٹھانا اور پھر اسے واپس کرنا ہے۔",
+                "جنگی حالات میں عسکری سازوسامان ادھار لینا سنت سے ثابت ہے۔",
+                "مالک کی اجازت سے چیز کا استعمال برکت اور خیر کا باعث ہے۔"
+              ],
+              "english": [
+                "The purpose of Aariyah is to benefit from an item and then return it.",
+                "Borrowing military equipment during war is established by the Sunnah.",
+                "Using an item with the owner's permission brings blessings and goodness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبوی اخلاق اور دعوت",
+        "english": "Prophetic Ethics and Dawah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیر مسلموں سے لین دین",
+              "english": "Dealing with Non-Muslims"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے غیر مسلموں کے ساتھ بھی تجارتی اور مالی معاملات کیے۔",
+                "اسلامی ریاست میں غیر مسلموں کے حقوق کا تحفظ شرعی ذمہ داری ہے۔",
+                "آپ کے اعلیٰ اخلاق نے ہی صفوان بن امیہ کے دل میں اسلام کی محبت پیدا کی۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) conducted commercial and financial dealings even with non-Muslims.",
+                "Protecting the property rights of non-Muslims is a Sharia responsibility in an Islamic state.",
+                "His high moral standards were what eventually led Safwan to embrace Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سچائی اور دیانت",
+              "english": "Truthfulness and Integrity"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے کبھی بھی اپنے منصب کا غلط استعمال نہیں کیا۔",
+                "حقوق العباد کی ادائیگی میں آپ ﷺ نے ہمیشہ بہترین مثال قائم فرمائی۔",
+                "دیانت داری سے کیے گئے لین دین معاشرے میں امن کا سبب بنتے ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) never misused his position of authority.",
+                "He always set the best example in fulfilling the rights of fellow human beings.",
+                "Transactions conducted with integrity lead to peace and harmony in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و تعلیمی اسباق",
+        "english": "Juristic and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تاوان کا وجوب",
+              "english": "Obligation of Repayment"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک عاریت مضمونہ میں ہلاکت کی صورت میں تاوان واجب ہے۔",
+                "یہ حدیث اس فقہی قاعدے کی سب سے بڑی دلیل سمجھی جاتی ہے۔",
+                "مالی معاملات میں شرائط کا طے کرنا شریعت کا پسندیدہ عمل ہے۔"
+              ],
+              "english": [
+                "According to jurists, compensation is mandatory if a guaranteed loan is destroyed.",
+                "This Hadith is considered the primary evidence for this juristic rule.",
+                "Setting conditions in financial transactions is a preferred action in Sharia."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی مفاد اور انفرادی حق",
+              "english": "Public Interest vs Individual Rights"
+            },
+            "content": {
+              "urdu": [
+                "جنگ جیسی بڑی ضرورت میں بھی فرد کا حق غصب نہیں کیا جا سکتا۔",
+                "ریاست کو چاہیے کہ وہ عوامی تعاون کو قانونی اور اخلاقی بنیادوں پر استوار کرے۔",
+                "حقدار کو اس کا حق دینا ہی اسلام کا نظامِ عدل ہے۔"
+              ],
+              "english": [
+                "Even in major necessities like war, an individual's rights cannot be violated.",
+                "The state should build public cooperation on legal and moral foundations.",
+                "Granting the rightful person their due is the essence of Islam's justice system."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

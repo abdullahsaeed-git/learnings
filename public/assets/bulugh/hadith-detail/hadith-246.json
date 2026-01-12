@@ -1,0 +1,259 @@
+{
+  "hadithId": 246,
+  "hadithNo": 37,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/37"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "بلوغ المرام",
+    "babId": 17
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه مسلم (580)، وأبو داود (987)، والنسائي (1264)، وابن ماجه (913)، وأحمد (2/117).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (580) نے اسے روایت کیا ہے۔ اس کے علاوہ ابو داؤد، نسائی اور ابن ماجہ میں بھی اس کے شواہد موجود ہیں۔",
+    "english": "Sahih. Reported by Muslim (580), Abu Dawud (987), An-Nasa'i (1264), Ibn Majah (913), and Ahmad (2/117)."
+  },
+  "importantWords": [
+    {
+      "arabic": "التَّشَهُّدِ",
+      "english": "Testimony/Tashahhud",
+      "urdu": "تشہد / التحیات"
+    },
+    {
+      "arabic": "رُكْبَتِهِ",
+      "english": "His knee",
+      "urdu": "اس کا گھٹنا"
+    },
+    {
+      "arabic": "عَقَدَ",
+      "english": "Formed/Knotted",
+      "urdu": "گرہ لگائی / عدد بنایا"
+    },
+    {
+      "arabic": "السَّبَّابَةِ",
+      "english": "Index finger",
+      "urdu": "شہادت کی انگلی"
+    },
+    {
+      "arabic": "الإِبْهَامَ",
+      "english": "The thumb",
+      "urdu": "انگوٹھا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تشہد میں بیٹھنے کی کیفیت اور ہاتھوں کی پوزیشن بیان کی گئی ہے، خصوصاً دائیں ہاتھ کی انگلیوں سے عدد بنانے اور اشارہ کرنے کا طریقہ۔",
+    "english": "This Hadith describes the posture for Tashahhud and the hand positioning, specifically the method of forming a numerical sign and pointing with the index finger."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (580)",
+      "english": "Sahih Muslim (580)"
+    },
+    {
+      "arabic": "سنن النسائي (1264)",
+      "english": "Sunan an-Nasa'i (1264)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=Tashahhud+me+ungli+uthane+ka+tarika+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تشہد میں ہاتھوں کی ترتیب",
+        "english": "Placement of Hands in Tashahhud"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہاتھوں کا مقام",
+              "english": "Position of the Hands"
+            },
+            "content": {
+              "urdu": [
+                "تشہد میں بیٹھتے وقت بائیں ہاتھ کو بائیں گھٹنے اور دائیں کو دائیں گھٹنے پر رکھنا سنت ہے۔",
+                "ہاتھوں کو گھٹنوں پر اس طرح پھیلایا جائے کہ انگلیاں قبلہ رخ ہوں۔",
+                "یہ پوزیشن نماز میں عاجزی اور وقار کو ظاہر کرتی ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to place the left hand on the left knee and the right on the right knee during Tashahhud.",
+                "Hands should be spread on the knees with fingers facing the Qibla.",
+                "This posture reflects humility and dignity during the prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بائیں ہاتھ کی کیفیت",
+              "english": "Condition of the Left Hand"
+            },
+            "content": {
+              "urdu": [
+                "بایاں ہاتھ گھٹنے پر کھلا رکھا جائے گا اور اس سے کوئی اشارہ نہیں ہوگا۔",
+                "بائیں ہاتھ کی انگلیاں جڑی ہوئی اور گھٹنے کے سرے پر ہونی چاہئیں۔",
+                "یہ دائیں ہاتھ کے عمل کے برعکس بالکل ساکن رہتا ہے۔"
+              ],
+              "english": [
+                "The left hand remains open on the knee without any pointing movement.",
+                "The fingers of the left hand should be joined and reach the end of the knee.",
+                "It remains completely still, in contrast to the actions of the right hand."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اشارہ شہادت اور عدد 53",
+        "english": "Pointing and the Number 53"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ترپن (53) کا عدد بنانا",
+              "english": "Forming the Number 53"
+            },
+            "content": {
+              "urdu": [
+                "عربوں کے حساب کے قدیم طریقے میں انگوٹھے کو درمیانی انگلی کی جڑ میں رکھنے سے 53 بنتا ہے۔",
+                "نبی ﷺ اپنی انگلیوں کو اس خاص ہیئت میں بند فرماتے تھے۔",
+                "یہ طریقہ کار انگشت شہادت کو نمایاں کرنے کے لیے اپنایا جاتا ہے۔"
+              ],
+              "english": [
+                "In the ancient Arab counting method, placing the thumb at the base of the middle finger forms 53.",
+                "The Prophet (PBUH) would close his fingers in this specific configuration.",
+                "This method is adopted to make the index finger prominent for pointing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انگشتِ شہادت سے اشارہ",
+              "english": "Pointing with the Index Finger"
+            },
+            "content": {
+              "urdu": [
+                "شہادت کی انگلی کو توحید کے اقرار کے طور پر اٹھایا جاتا ہے۔",
+                "یہ عمل شیطان پر لوہے کے کوڑے سے بھی زیادہ بھاری ہے جیسا کہ روایات میں ہے۔",
+                "اشارے کے دوران نظر انگلی کے سرے پر ہونی چاہیے۔"
+              ],
+              "english": [
+                "The index finger is raised as an affirmation of the Oneness of Allah (Tawhid).",
+                "This act is heavier on Satan than an iron whip, as mentioned in traditions.",
+                "During the pointing, the gaze should be directed at the tip of the finger."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلافات اور وضاحت",
+        "english": "Juristic Differences and Clarification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انگلیوں کو مکمل بند کرنا",
+              "english": "Closing All Fingers"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی دوسری روایت کے مطابق تمام انگلیاں بند کر کے صرف ایک سے اشارہ کیا جاتا ہے۔",
+                "یہ طریقہ بھی مسنون ہے اور مختلف اوقات میں آپ ﷺ سے ثابت ہے۔",
+                "اس میں انگوٹھے اور درمیانی انگلی کا حلقہ بنانا بھی شامل ہے۔"
+              ],
+              "english": [
+                "According to Muslim's second report, all fingers are closed except for the pointing one.",
+                "This method is also Sunnah and is proven from the Prophet (PBUH) at different times.",
+                "This includes forming a circle with the thumb and the middle finger."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اشارہ کب کریں؟",
+              "english": "When to Point?"
+            },
+            "content": {
+              "urdu": [
+                "بعض فقہاء 'اشہد ان لا الہ' پر انگلی اٹھانے اور 'الا اللہ' پر گرانے کے قائل ہیں۔",
+                "دیگر کے نزدیک پورے تشہد اور دعا کے دوران اشارہ برقرار رکھا جاتا ہے۔",
+                "حدیث کے عمومی الفاظ سے معلوم ہوتا ہے کہ یہ عمل پورے تشہد کے لیے ہے۔"
+              ],
+              "english": [
+                "Some jurists suggest raising the finger at 'La ilaha' and lowering it at 'illa Allah'.",
+                "Others maintain the pointing throughout the entire Tashahhud and supplication.",
+                "General words of the Hadith suggest the action is for the duration of the Tashahhud."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نماز میں توجہ اور خشوع",
+        "english": "Focus and Khushu in Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی اعضاء کی عبادت",
+              "english": "Worship of Body Parts"
+            },
+            "content": {
+              "urdu": [
+                "نماز میں ہر عضو کی اپنی عبادت ہے اور تشہد میں انگلی کا اشارہ بھی عبادت ہے۔",
+                "یہ عمل اس بات کی یاد دہانی ہے کہ اللہ اکیلا اور وحدہ لا شریک ہے۔",
+                "جسمانی حرکات کے ساتھ دل کا حاضر ہونا بھی ضروری ہے۔"
+              ],
+              "english": [
+                "Every part of the body has its worship in prayer, and pointing the finger is one such act.",
+                "This act serves as a reminder that Allah is One and has no partners.",
+                "Along with physical movements, the presence of the heart is also essential."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی اہمیت",
+              "english": "Significance of Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "رسول اللہ ﷺ کے ہر چھوٹے سے چھوٹے عمل میں بھی حکمت اور برکت ہے۔",
+                "ان تفصیلات پر عمل کرنا اتباعِ سنت کی پختگی کی علامت ہے۔",
+                "صحابہ کرام نے ان باریک بینیوں کو اسی لیے محفوظ کیا تاکہ ہم بھی ویسے نماز پڑھیں۔"
+              ],
+              "english": [
+                "There is wisdom and blessing in every single minor action of the Messenger (PBUH).",
+                "Following these details is a sign of firmness in adhering to the Sunnah.",
+                "The Companions preserved these intricacies so that we may pray exactly like him."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

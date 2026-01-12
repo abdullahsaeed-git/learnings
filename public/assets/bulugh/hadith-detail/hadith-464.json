@@ -1,0 +1,259 @@
+{
+  "hadithId": 464,
+  "hadithNo": 40,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/41", "bukhari/1310", "muslim/959"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1310)، ومسلم (959). قوله 'حتى توضع' أي: توضع عن أعناق الرجال بالأرض قبل الدفن.",
+    "urdu": "صحیح۔ اسے امام بخاری (1310) اور امام مسلم (959) نے روایت کیا ہے۔ یہاں 'رکھے جانے' سے مراد کندھوں سے اتار کر زمین پر رکھنا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1310) and Muslim (959). The phrase 'until it is placed' means until the bier is lowered from the men's shoulders to the ground."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَأَيْتُمُ",
+      "english": "You see",
+      "urdu": "تم دیکھو"
+    },
+    {
+      "arabic": "فَقُومُوا",
+      "english": "Stand up",
+      "urdu": "تو کھڑے ہو جاؤ"
+    },
+    {
+      "arabic": "تَبِعَهَا",
+      "english": "Followed/Accompanied it",
+      "urdu": "اس کے پیچھے چلا"
+    },
+    {
+      "arabic": "تُوضَعَ",
+      "english": "Is placed down",
+      "urdu": "رکھ دیا جائے"
+    },
+    {
+      "arabic": "فَلَا يَجْلِسْ",
+      "english": "Should not sit",
+      "urdu": "پس نہ بیٹھے"
+    }
+  ],
+  "summary": {
+    "urdu": "جنازے کی تعظیم میں کھڑے ہونا اور اس کے ہمراہ ہونے کی صورت میں زمین پر رکھے جانے تک نہ بیٹھنا سنتِ نبوی ہے۔",
+    "english": "It is Sunnah to stand out of respect for a funeral procession and to remain standing until the bier is lowered if one is accompanying it."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الجنائز، رقم 1310",
+      "english": "Sahih al-Bukhari, Book of Funerals, Hadith 1310"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 959",
+      "english": "Sahih Muslim, The Book of Funerals, Hadith 959"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-sa-id-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fq4m8D0p4yU",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنازے کی تعظیم اور کھڑے ہونا",
+        "english": "Honoring the Funeral and Standing Up"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنازے کو دیکھ کر قیام کرنا",
+              "english": "Standing Upon Seeing the Procession"
+            },
+            "content": {
+              "urdu": [
+                "جب جنازہ قریب سے گزرے تو اس کی ہیبت اور موت کی یاد دہانی کے طور پر کھڑے ہونا مستحب ہے۔",
+                "یہ قیام میت کی شخصیت کے لیے نہیں بلکہ موت کی حقیقت اور فرشتوں کی تعظیم کے لیے ہے۔",
+                "صحابہ کرام اس سنت پر سختی سے عمل کرتے تھے تاکہ دلوں میں آخرت کا خوف پیدا ہو۔"
+              ],
+              "english": [
+                "It is recommended to stand when a funeral passes by as a sign of awe and a reminder of death.",
+                "This standing is not for the individual deceased but for the reality of death and honoring the angels.",
+                "The Companions strictly followed this Sunnah to instill the fear of the Hereafter in their hearts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موت سے عبرت حاصل کرنا",
+              "english": "Taking Heed from Death"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے فرمایا کہ موت ایک گھبراہٹ والی چیز ہے، اس لیے جنازہ دیکھ کر ساکت ہو جانا چاہیے۔",
+                "کھڑے ہونے کا مقصد دنیاوی مشاغل سے تھوڑی دیر کٹ کر اللہ کی طرف متوجہ ہونا ہے۔",
+                "یہ عمل انسان کو اپنی باری آنے اور قبر کی زندگی کے بارے میں سوچنے پر مجبور کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) mentioned that death is a terrifying event, so one should pause upon seeing a funeral.",
+                "The purpose of standing is to momentarily disconnect from worldly affairs and turn toward Allah.",
+                "This act compels a person to think about their own turn and the life in the grave."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جنازے کے شرکاء کے لیے آداب",
+        "english": "Etiquettes for the Participants"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنازہ رکھنے تک نہ بیٹھنا",
+              "english": "Not Sitting Until the Bier is Placed"
+            },
+            "content": {
+              "urdu": [
+                "جو لوگ جنازے کے ساتھ چل رہے ہوں، انہیں قبرستان پہنچ کر تب تک نہیں بیٹھنا چاہیے جب تک چارپائی زمین پر نہ رکھ دی جائے۔",
+                "یہ حکم اس لیے ہے تاکہ میت کے احترام میں کوئی کمی نہ آئے اور لوگ مستعد رہیں۔",
+                "جنازے کے زمین پر رکھنے سے پہلے بیٹھنا سنت کے خلاف اور خلافِ مروت عمل ہے۔"
+              ],
+              "english": [
+                "Those walking with the funeral should not sit down at the cemetery until the bier is lowered to the ground.",
+                "This command ensures that respect for the deceased is maintained and people remain attentive.",
+                "Sitting before the bier is placed is contrary to the Sunnah and lacks proper decorum."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی اہمیت",
+              "english": "Importance of Discipline"
+            },
+            "content": {
+              "urdu": [
+                "اسلام جنازے جیسے سنجیدہ موقع پر بھی مکمل ڈسپلن اور وقار برقرار رکھنے کی تعلیم دیتا ہے۔",
+                "لوگوں کا مل کر کھڑا رہنا ایک اجتماعی وحدت اور میت کے لیے ہمدردی کا اظہار ہے۔",
+                "یہ پابندی انسان کو صبر اور تحمل کی تربیت بھی فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "Islam teaches the maintenance of complete discipline and dignity even during serious occasions like funerals.",
+                "People standing together represents collective unity and an expression of sympathy for the deceased.",
+                "This restriction also provides training in patience and endurance for the participants."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور نسخ کا بحث",
+        "english": "Juristic Aspect and Abrogation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کیا یہ حکم اب بھی باقی ہے؟",
+              "english": "Is This Ruling Still Applicable?"
+            },
+            "content": {
+              "urdu": [
+                "بعض فقہاء کے نزدیک بعد میں آپ ﷺ کا جنازہ دیکھ کر بیٹھے رہنا اس قیام کے حکم کے منسوخ ہونے کی دلیل ہے۔",
+                "تاہم، امام نووی اور دیگر محققین کے نزدیک یہ قیام اب بھی مستحب (پسندیدہ) عمل ہے۔",
+                "اگر کوئی شخص کھڑا ہو جائے تو یہ افضل ہے، اور اگر بیٹھا رہے تو اس میں گناہ نہیں ہے۔"
+              ],
+              "english": [
+                "Some jurists believe that the Prophet (ﷺ) later sitting while seeing a funeral indicates the abrogation of the standing.",
+                "However, according to Imam Nawawi and other researchers, standing remains a recommended (Mustahabb) act.",
+                "If someone stands up, it is better, and if they remain seated, there is no sin upon them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مختلف حالات میں حکم",
+              "english": "Ruling in Different Situations"
+            },
+            "content": {
+              "urdu": [
+                "اگر جنازہ غیر مسلم کا ہو تب بھی انسانیت کی موت کی حرمت کے لیے کھڑے ہونے کی اجازت ہے۔",
+                "آپ ﷺ ایک یہودی کے جنازے پر بھی کھڑے ہوئے اور فرمایا کہ 'کیا یہ ایک جان نہیں ہے؟'۔",
+                "یہ عمل اسلام کی عالمگیر انسانی ہمدردی اور وسعتِ ظرفی کا منہ بولتا ثبوت ہے۔"
+              ],
+              "english": [
+                "Even if the funeral is for a non-Muslim, standing is permitted out of respect for the sanctity of a human life ending.",
+                "The Prophet (ﷺ) stood for a Jewish funeral and said, 'Is it not a human soul?'",
+                "This act is a clear testimony to Islam's universal human compassion and magnanimity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جذبات پر قابو اور وقار",
+              "english": "Emotional Control and Dignity"
+            },
+            "content": {
+              "urdu": [
+                "جنازے کے وقت ہنسی مذاق یا دنیاوی گفتگو سے مکمل پرہیز کرنا چاہیے تاکہ ماحول کی سنجیدگی برقرار رہے۔",
+                "قیام کی سنت پر عمل کرنا دوسروں کو بھی خاموشی اور غور و فکر کی طرف متوجہ کرتا ہے۔",
+                "مومن کا ہر عمل، یہاں تک کہ اس کا خاموش قیام بھی، اللہ کی یاد کا ذریعہ ہونا چاہیے۔"
+              ],
+              "english": [
+                "One should completely avoid laughter or worldly talk during a funeral to maintain the seriousness of the environment.",
+                "Acting on the Sunnah of standing draws others' attention toward silence and reflection.",
+                "Every action of a believer, even their silent standing, should be a means of remembering Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنتِ نبوی کی ترویج",
+              "english": "Promoting the Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "آج کل جنازوں میں نظم و ضبط کی کمی دیکھی جاتی ہے، ہمیں ان مسنون آداب کو دوبارہ زندہ کرنا چاہیے۔",
+                "علماء کو چاہیے کہ وہ جنازے سے پہلے یا بعد میں ان فقہی باریکیوں سے عوام کو آگاہ کریں۔",
+                "سنت پر عمل کرنا ہی میت کے لیے برکت اور لواحقین کے لیے سکون کا باعث ہے۔"
+              ],
+              "english": [
+                "Nowadays, a lack of discipline is seen in funerals; we must revive these Sunnah etiquettes.",
+                "Scholars should educate the public about these juristic nuances before or after the funeral.",
+                "Following the Sunnah brings blessings for the deceased and peace for the bereaved family."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

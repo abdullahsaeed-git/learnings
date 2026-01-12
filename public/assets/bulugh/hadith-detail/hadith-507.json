@@ -1,0 +1,268 @@
+{
+  "hadithId": 507,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/507"],
+    "kitabId": 4,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 30
+  },
+  
+  "takhreej": {
+    "arabic": "حسن. رواه أبو داود (1609)، وابن ماجه (1827)، والحاكم (1/409) وصححه، ووافقه الذهبي. والحديث له شواهد تقويه.",
+    "urdu": "یہ حدیث حسن درجے کی ہے۔ اسے ابوداؤد (1609)، ابن ماجہ (1827) اور حاکم (1/409) نے روایت کیا اور حاکم نے اسے صحیح قرار دیا ہے۔",
+    "english": "Hasan (good). Reported by Abu Dawud (1609), Ibn Majah (1827), and Al-Hakim (1/409) who graded it Sahih, and Adh-Dhahabi agreed with him."
+  },
+  "importantWords": [
+    {
+      "arabic": "طُهْرَةً",
+      "english": "Purification",
+      "urdu": "پاکیزگی"
+    },
+    {
+      "arabic": "اللَّغْوِ",
+      "english": "Idle talk",
+      "urdu": "لغو / فضول بات"
+    },
+    {
+      "arabic": "الرَّفَثِ",
+      "english": "Obscene language",
+      "urdu": "فحش گوئی"
+    },
+    {
+      "arabic": "طُعْمَةً",
+      "english": "Food / Meal",
+      "urdu": "کھانا / خوراک"
+    },
+    {
+      "arabic": "مَقْبُولَةٌ",
+      "english": "Accepted",
+      "urdu": "قبول شدہ"
+    },
+    {
+      "arabic": "صَدَقَةٌ",
+      "english": "General Charity",
+      "urdu": "عام صدقہ"
+    }
+  ],
+  "summary": {
+    "urdu": "صدقہ فطر کے دو بڑے مقاصد ہیں: ایک روزہ دار کے روزے کی پاکیزگی اور دوسرا غریبوں کے کھانے کا بندوبست۔ اس کی قبولیت کے لیے اسے عید کی نماز سے پہلے ادا کرنا لازمی ہے۔",
+    "english": "Zakat-ul-Fitr serves two purposes: purifying the fast from minor sins and feeding the poor. It must be paid before the Eid prayer to count as the obligatory Fitrana."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (1609)",
+      "english": "Sunan Abi Dawud (1609)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (1827)",
+      "english": "Sunan Ibn Majah (1827)"
+    },
+    {
+      "arabic": "المستدرك للحاكم (1/409)",
+      "english": "Al-Mustadrak al-Hakim (1/409)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس رضي الله عنهما",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6VfX_7Kk",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روزے کی صفائی",
+        "english": "Purification of the Fast"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی کوتاہیوں کا ازالہ",
+              "english": "Redressing Human Shortcomings"
+            },
+            "content": {
+              "urdu": [
+                "روزے کے دوران انسان سے غیر ارادی طور پر لغو باتیں ہو جاتی ہیں۔",
+                "صدقہ فطر ان چھوٹی موٹی غلطیوں کو دھو کر روزہ پاک کر دیتا ہے۔",
+                "یہ اللہ کی رحمت ہے کہ اس نے عبادت کی تکمیل کے لیے یہ ذریعہ بنایا۔"
+              ],
+              "english": [
+                "During fasting, humans often unintentionally engage in idle talk.",
+                "Zakat-ul-Fitr purifies the fast by washing away these minor sins.",
+                "It is Allah's mercy that He provided a means to perfect our worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاقی تربیت",
+              "english": "Moral Training"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں زبان کی حفاظت کی اہمیت یاد دلاتی ہے۔",
+                "صدقہ دینے سے انسان میں عاجزی اور بندگی کا احساس پیدا ہوتا ہے۔",
+                "یہ عبادت کو ظاہری اور باطنی نجاستوں سے صاف کرنے کا نام ہے۔"
+              ],
+              "english": [
+                "This Hadith reminds us of the importance of guarding the tongue.",
+                "Giving charity develops humility and a sense of servitude in a person.",
+                "It is about cleansing worship from both apparent and hidden impurities."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی ہمدردی",
+        "english": "Social Compassion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مساکین کے لیے خوراک",
+              "english": "Providing Food for the Needy"
+            },
+            "content": {
+              "urdu": [
+                "اسلام چاہتا ہے کہ عید کی خوشی میں کوئی بھی بھوکا نہ رہے۔",
+                "صدقہ فطر براہ راست غریبوں کی خوراک کی ضرورت کو پورا کرتا ہے۔",
+                "یہ مسلمانوں کے درمیان باہمی ہمدردی اور بھائی چارے کی علامت ہے۔"
+              ],
+              "english": [
+                "Islam ensures that no one remains hungry during the joy of Eid.",
+                "Zakat-ul-Fitr directly addresses the food requirements of the poor.",
+                "It is a symbol of mutual sympathy and brotherhood among Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوشیوں کی تقسیم",
+              "english": "Distribution of Happiness"
+            },
+            "content": {
+              "urdu": [
+                "عید کے دن غریبوں کو سوال کرنے کی ذلت سے بچانا مقصد ہے۔",
+                "جب امیر غریب کی مدد کرتا ہے تو معاشرے میں برکت آتی ہے۔",
+                "یہ عمل عید کے پیغامِ مسرت کو عام کرنے کا بہترین طریقہ ہے۔"
+              ],
+              "english": [
+                "The aim is to save the poor from the humiliation of begging on Eid.",
+                "When the wealthy help the needy, it brings blessings to society.",
+                "This act is the best way to spread the joyous message of Eid."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ادائیگی کا وقت",
+        "english": "Timing of Payment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نمازِ عید سے پہلے وجوب",
+              "english": "Obligation Before Eid Prayer"
+            },
+            "content": {
+              "urdu": [
+                "اس کی اصل فضیلت نمازِ عید سے پہلے ادا کرنے میں ہی ہے۔",
+                "نماز سے پہلے ادائیگی اسے 'زکوٰۃِ مقبول' کا درجہ دیتی ہے۔",
+                "تاخیر کرنے سے اس کا اصل ثواب اور درجہ بدل جاتا ہے۔"
+              ],
+              "english": [
+                "Its true virtue lies in paying it before the Eid prayer.",
+                "Payment before the prayer earns it the status of 'Accepted Zakat'.",
+                "Delaying it changes its primary reward and spiritual grade."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بعد میں ادائیگی کی حیثیت",
+              "english": "Status of Late Payment"
+            },
+            "content": {
+              "urdu": [
+                "نماز کے بعد ادا کیا گیا فطرانہ محض ایک عام صدقہ کہلاتا ہے۔",
+                "عمداً تاخیر کرنا سنت کی مخالفت اور گناہ کا باعث بن سکتا ہے۔",
+                "اگر بھول جائے تو یاد آنے پر فوراً ادا کر دینا چاہیے تاکہ حقدار تک پہنچے۔"
+              ],
+              "english": [
+                "Fitrana paid after the prayer is considered just a regular charity.",
+                "Deliberate delay can lead to sin and contradicts the Sunnah.",
+                "If forgotten, it should be paid as soon as remembered to reach the needy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قبولیت کی شرط",
+              "english": "Condition for Acceptance"
+            },
+            "content": {
+              "urdu": [
+                "عبادت کی قبولیت کے لیے نیت اور وقت کی پابندی ضروری ہے۔",
+                "صدقہ فطر صرف ان لوگوں کو دیں جو واقعی اس کے مستحق ہیں۔",
+                "شرعی اصولوں کے مطابق دی گئی زکوٰۃ ہی اللہ کے ہاں معتبر ہے۔"
+              ],
+              "english": [
+                "Intention and punctuality are vital for the acceptance of worship.",
+                "Give Zakat-ul-Fitr only to those who are truly deserving.",
+                "Only Zakat given according to Shariah principles is valid with Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انتظامی سہولت",
+              "english": "Administrative Convenience"
+            },
+            "content": {
+              "urdu": [
+                "عید سے ایک دو دن پہلے دینا جائز ہے تاکہ غریب تیاری کر سکے۔",
+                "مساجد یا تنظیموں کے ذریعے بھی اسے جمع کرایا جا سکتا ہے۔",
+                "بنیادی مقصد عید کی صبح تک غریب کے گھر غلہ پہنچانا ہے۔"
+              ],
+              "english": [
+                "Paying 1-2 days early is permissible so the poor can prepare.",
+                "It can also be collected through mosques or organizations.",
+                "The core goal is to deliver food to the poor by Eid morning."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "hadithId": 295,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/ibnhibban:2546"],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "صحيح ابن حبان",
+    "babId": 19
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف بهذا اللفظ .‏ رواه ابن حبان ( 2409 )‏ .‏ وأصل القصة في \" الصحيحين \" من حديث عائشة في قيام رمضان ، وليس فيه ذكر الوتر بخصوصه ، وإنما فيه : \" أن يفرض عليكم \" .‏ يعني : قيام الليل في جماعة ، أو قيام الليل مطلقاً .‏",
+    "urdu": "اس لفظ (وتر) کے ساتھ یہ روایت ضعیف ہے۔ اسے ابن حبان (2409) نے روایت کیا ہے۔ اس واقعے کی اصل صحیحین میں سیدہ عائشہ رضی اللہ عنہا سے قیام رمضان (تراویح) کے بارے میں مروی ہے، لیکن اس میں خاص طور پر \"وتر\" کا ذکر نہیں ہے، بلکہ یہ الفاظ ہیں: \"کہ کہیں تم پر فرض نہ کر دیا جائے\" (یعنی قیام اللیل)۔",
+    "english": "Weak with this specific wording (\"Witr\"). Reported by Ibn Hibban (2409). The origin of the story is in Sahih Al-Bukhari and Muslim from 'Aishah regarding Qiyam Ramadan, which does not specifically mention Witr, but rather says: \"lest it be made obligatory upon you\" (referring to Night Prayer/Taraweeh)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَامَ",
+      "english": "He stood (prayed)",
+      "urdu": "قیام کیا / نماز پڑھی"
+    },
+    {
+      "arabic": "اِنْتَظَرُوهُ",
+      "english": "They waited for him",
+      "urdu": "انہوں نے انتظار کیا"
+    },
+    {
+      "arabic": "اَلْقَابِلَةِ",
+      "english": "The next night",
+      "urdu": "آنے والی رات / اگلی رات"
+    },
+    {
+      "arabic": "خَشِيتُ",
+      "english": "I feared",
+      "urdu": "میں ڈرا / مجھے اندیشہ ہوا"
+    },
+    {
+      "arabic": "يُكْتَبَ",
+      "english": "Prescribed / Obligated",
+      "urdu": "فرض کر دیا جائے / لکھ دیا جائے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ نبی ﷺ نے امت پر شفقت کرتے ہوئے باجماعت رات کی نماز (وتر یا تراویح) کو ترک کر دیا تاکہ یہ ان پر فرض نہ ہو جائے، تاہم وتر کا خاص ذکر اس روایت میں کمزور ہے۔",
+    "english": "This Hadith illustrates the Prophet's (ﷺ) compassion for his Ummah, as he ceased congregational night prayer (Witr or Taraweeh) fearing it might become obligatory. However, the specific mention of 'Witr' is considered weak in this narration."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن حبان (2409)",
+      "english": "Reported by Ibn Hibban (2409)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جَابِرٍ بن عبد اللہ",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://youtu.be/VTyO74t-Jlg?si=KVJtP8R7Tyh6yvQ_",
+  "grade": {
+    "arabic": "ضعيف بهذا اللفظ",
+    "english": "Weak (in this wording)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا پس منظر",
+        "english": "Background of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیام رمضان",
+              "english": "Qiyam of Ramadan"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے رمضان میں چند راتیں صحابہ کے ساتھ جماعت کروائی۔",
+                "صحابہ کا شوق دیکھ کر مجمع بڑھتا گیا اور مسجد بھر گئی۔",
+                "یہ عمل بعد میں 'تراویح' کے نام سے مشہور ہوا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) led the congregation for a few nights in Ramadan.",
+                "Seeing the zeal of Companions, the crowd grew and filled the mosque.",
+                "This practice later became known as 'Taraweeh'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہر نہ آنے کی وجہ",
+              "english": "Reason for not coming out"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ سستی یا بے رغبتی کی وجہ سے نہیں رکے۔",
+                "رکنے کی وجہ صرف امت پر شفقت اور ڈر تھا۔",
+                "کہیں اللہ تعالیٰ اس عمل کو امت پر فرض نہ قرار دے دے۔"
+              ],
+              "english": [
+                "He (ﷺ) did not stop due to laziness or lack of desire.",
+                "The reason was solely compassion and fear for the Ummah.",
+                "Lest Allah might make this act obligatory upon the Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تحقیق",
+        "english": "Juristic Research"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وتر یا قیام اللیل؟",
+              "english": "Witr or Qiyam al-Layl?"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت میں 'وتر' کا لفظ ہے جو محدثین کے نزدیک ضعیف ہے۔",
+                "صحیح احادیث میں مطلق 'نماز' یا 'قیام' کا ذکر ہے۔",
+                "اس لیے صحیح بات یہ ہے کہ خوف پوری نماز تراویح کے فرض ہونے کا تھا۔"
+              ],
+              "english": [
+                "This narration mentions 'Witr', which scholars consider weak.",
+                "Authentic Hadiths mention 'Prayer' or 'Qiyam' in general.",
+                "Therefore, the correct view is the fear was regarding Taraweeh becoming Fard."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانون سازی کا دور",
+              "english": "Era of Legislation"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے زمانے میں وحی کا سلسلہ جاری تھا۔",
+                "اس وقت عمل کی مداومت اسے فرضیت کے درجے تک پہنچا سکتی تھی۔",
+                "آپ ﷺ کی وفات کے بعد یہ خدشہ ختم ہو گیا، اس لیے عمر فاروق رضی اللہ عنہ نے اسے دوبارہ جاری کیا۔"
+              ],
+              "english": [
+                "Revelation was ongoing during the Prophet's (ﷺ) time.",
+                "Consistency in action could elevate it to the rank of obligation.",
+                "After his death, this fear ended, so Umar (RA) reinstated it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امت پر شفقت",
+              "english": "Compassion for Ummah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ ہمیشہ امت کے لیے آسانی کا پہلو اختیار کرتے۔",
+                "ہمیں بھی دین کے معاملات میں لوگوں پر تنگی نہیں کرنی چاہیے۔",
+                "لیڈر کو اپنی رعایا کی استطاعت کا خیال رکھنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) always chose ease for the Ummah.",
+                "We should also not overburden people in religious matters.",
+                "A leader must consider the capacity of his followers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی حفاظت",
+              "english": "Preserving Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "جماعت ترک کرنے کے باوجود گھر میں یہ عمل جاری رہا۔",
+                "رمضان میں قیام کرنا (تراویح) سنتِ مؤکدہ ہے۔",
+                "اسے سستی کی وجہ سے نہیں چھوڑنا چاہیے۔"
+              ],
+              "english": [
+                "Despite stopping congregation, the practice continued at home.",
+                "Standing in Ramadan (Taraweeh) is Sunnah Muakkadah.",
+                "It should not be abandoned due to laziness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایات کا تقابل",
+              "english": "Comparison of Narrations"
+            },
+            "content": {
+              "urdu": [
+                "طالب علم کو دیکھنا چاہیے کہ کون سے الفاظ زیادہ مستند ہیں۔",
+                "صحیح بخاری کی روایت اس روایت سے زیادہ راجح ہے۔",
+                "وتر کے وجوب پر اس ضعیف روایت سے استدلال نہیں کیا جا سکتا۔"
+              ],
+              "english": [
+                "A student should see which wording is more authentic.",
+                "The narration of Sahih Bukhari is weightier than this one.",
+                "One cannot argue for the obligation of Witr using this weak narration."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نسخ کا تصور",
+              "english": "Concept of Abrogation"
+            },
+            "content": {
+              "urdu": [
+                "فرضیت کا ڈر صرف وحی کے زمانے تک محدود تھا۔",
+                "اب کوئی نئی چیز فرض نہیں ہو سکتی۔",
+                "دین مکمل ہو چکا ہے اور شریعت کے احکام طے پا چکے ہیں۔"
+              ],
+              "english": [
+                "The fear of obligation was limited to the era of revelation.",
+                "Now, nothing new can become Fard.",
+                "Religion is complete, and Shariah rulings are established."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "hadithId": 240,
+  "hadithNo": 31,
+  "hadithReferences": {
+    "sunnah.com": ["Sahih al-Bukhari 823"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 17
+  },
+  "name": {
+    "arabic": "وَعَنْ مَالِكِ بْنِ الْحُوَيْرِثِ ‏- رضى الله عنه ‏- { أَنَّهُ رَأَى اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-يُصَلِّي , فَإِذَا كَانَ فِي وِتْرٍ مِنْ صَلَاتِهِ لَمْ يَنْهَضْ حَتَّى يَسْتَوِيَ قَاعِدًا } رَوَاهُ اَلْبُخَارِيُّ .‏",
+    "urdu": "سیدنا مالک بن حویرث رضی اللہ عنہ سے مروی ہے کہ انہوں نے نبی کریم صلی اللہ علیہ وسلم کو نماز ادا فرماتے دیکھا، جب آپ صلی اللہ علیہ وسلم اپنی نماز کی وتر (رکعت) پڑھتے تو (پہلے تھوڑا) بیٹھتے پھر سیدھا کھڑے ہو جاتے۔ (بخاری)",
+    "english": "Narrated Malik ibn Al-Huwairith (May Allah be pleased with him): He saw the Prophet (ﷺ) praying, and when he was in the odd (Witr) unit of his prayer (i.e., after the first or third Rak'ah in a multiple-Rak'ah prayer), he would not stand up until he had straightened up and sat down (for a brief period)."
+  },
+  "takhreej": {
+    "arabic": "صحيح .‏ رواه البخاري (823)‏. هذه القعدة هي المعروفة عند الفقهاء بـ \"جلسة الاستراحة\".‏ قال الحافظ ابن حجر في \"الفتح\" (2/302): \"وفي الحديث مشروعية جلسة الاستراحة، وأخذ بها الشافعي وطائفة من أهل الحديث، وعن أحمد روايتان، وذكر الخلال أن أحمد رجع إلى القول بها\".‏",
+    "urdu": "صحیح روایت۔ اسے بخاری (823) نے روایت کیا ہے۔ یہ بیٹھک فقہاء کے ہاں \"جلسہ استراحت\" (Jalsat al-Istiraha) کے نام سے معروف ہے۔ حافظ ابن حجرؒ نے فرمایا: اس حدیث میں جلسہ استراحت کی مشروعیت ہے، جسے امام شافعیؒ اور محدثین کی ایک جماعت نے اختیار کیا ہے۔ امام احمدؒ سے دو روایات ہیں، اور خلال نے ذکر کیا کہ احمدؒ نے اس پر عمل کے قول کی طرف رجوع کر لیا تھا۔",
+    "english": "Authentic (Sahih). Reported by Al-Bukhari (823). This sitting is known among jurists as 'Jalsat al-Istiraha' (The Sitting for Rest). Hafiz Ibn Hajar said: 'This Hadith establishes the validity of Jalsat al-Istiraha, which Al-Shafi'i and a group of Hadith scholars adopted. There are two narrations from Ahmad, and Al-Khallal mentioned that Ahmad reverted to affirming this practice.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "وِتْرٍ",
+      "english": "Odd (Rak'ah)",
+      "urdu": "طاق رکعت"
+    },
+    {
+      "arabic": "يَنْهَضْ",
+      "english": "He stood up/arose",
+      "urdu": "وہ کھڑے ہوتے"
+    },
+    {
+      "arabic": "يَسْتَوِيَ قَاعِدًا",
+      "english": "He sat straight",
+      "urdu": "وہ سیدھا بیٹھ جاتے"
+    },
+    {
+      "arabic": "جَلْسَةِ اَلِاسْتِرَاحَةِ",
+      "english": "Sitting for rest",
+      "urdu": "جلسہ استراحت"
+    },
+    {
+      "arabic": "اَلْبُخَارِيُّ",
+      "english": "Al-Bukhari (Imam)",
+      "urdu": "امام بخاری"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز میں 'جلسہ استراحت' کی مشروعیت کو ثابت کرتی ہے۔ یہ وہ مختصر وقفہ ہے جو نبی اکرم ﷺ نماز کی طاق رکعت (پہلی اور تیسری) کے سجدے سے اٹھنے کے بعد کھڑے ہونے سے قبل، تھوڑی دیر سیدھا بیٹھ کر لیتے تھے۔ یہ عمل نماز میں وقار اور آسانی پیدا کرنے کے لیے ہے۔",
+    "english": "This Hadith establishes the legitimacy of the 'Jalsat al-Istiraha' (Sitting for Rest). This is a brief pause the Prophet (ﷺ) would take after the prostration of the odd-numbered units (first and third Rak'ah) where he would sit up straight momentarily before rising to stand. This practice aims to maintain dignity and ease in the prayer."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (823)",
+      "english": "Reported by Al-Bukhari (823)"
+    },
+    {
+      "arabic": "صحيح البخاري",
+      "english": "Sahih al-Bukhari"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "مالك بن الحويرث",
+        "english": "Malik ibn Al-Huwairith"
+      },
+      "slug": "malik-ibn-al-huwairith"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0f-l8tP8oQ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جلسہ استراحت کی مشروعیت",
+        "english": "Legitimacy of Jalsat al-Istiraha"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تعریف اور وقت",
+              "english": "Definition and Timing"
+            },
+            "content": {
+              "urdu": [
+                "جلسہ استراحت سجدہ ثانی سے اٹھنے کے بعد اگلی رکعت کے لیے کھڑے ہونے سے پہلے ایک مختصر بیٹھک ہے۔",
+                "یہ صرف طاق رکعتوں (پہلی اور تیسری) کے بعد ہوتی ہے اور اس میں کوئی مخصوص ذکر نہیں ہے۔",
+                "اس کا مقصد تھوڑا آرام کرنا ہے، لہٰذا اس کا دورانیہ بہت مختصر، صرف چند لمحات کا ہوتا ہے۔"
+              ],
+              "english": [
+                "Jalsat al-Istiraha is a brief sitting after the second prostration before rising for the next Rak'ah.",
+                "It occurs only after the odd-numbered units (first and third) and involves no specific prescribed remembrance.",
+                "Its purpose is to provide a brief rest, so its duration is very short, lasting only a few moments."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف",
+              "english": "Juristic Disagreement"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور اہل حدیث کی اکثریت اس جلسے کو سنت سمجھتے ہیں، چاہے نمازی ضعیف ہو یا قوی۔",
+                "امام ابوحنیفہ اور امام مالک کے نزدیک یہ سنت نہیں، بلکہ یہ کمزوری کی وجہ سے آپ ﷺ کا عارضی عمل تھا۔",
+                "امام احمدؒ سے دو روایات ہیں، اور قوی قول یہ ہے کہ اس کا التزام کرنا سنت ہے۔"
+              ],
+              "english": [
+                "Imam Shafi'i and the majority of the Hadith scholars consider this sitting a Sunnah, regardless of the worshipper's physical condition.",
+                "Imam Abu Hanifah and Imam Malik did not consider it Sunnah, believing it was a temporary act due to the Prophet's (ﷺ) age or weakness.",
+                "Imam Ahmad has two narrations, with the stronger view being that adhering to it is Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی فوائد",
+        "english": "Educational Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اطمینان اور آسانی",
+              "english": "Composure and Ease"
+            },
+            "content": {
+              "urdu": [
+                "یہ جلسہ نمازی کے لیے جسم کو پرسکون حالت میں لا کر اگلی رکعت کی تیاری میں مدد دیتا ہے۔",
+                "خاص طور پر کمزور، بوڑھے اور بھاری جسم والے لوگوں کے لیے یہ سنت بڑی آسانی کا ذریعہ ہے۔",
+                "اس پر عمل کرنے سے نماز میں عجلت ختم ہوتی ہے اور ہر رکن میں اطمینان حاصل ہوتا ہے۔"
+              ],
+              "english": [
+                "This sitting helps the worshipper prepare for the next Rak'ah by bringing the body to a state of composure.",
+                "This Sunnah is a great source of ease, especially for the weak, the elderly, and those with heavy builds.",
+                "Observing this practice removes haste from the prayer and ensures tranquility in every pillar."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقار کی حفاظت",
+              "english": "Preserving Dignity"
+            },
+            "content": {
+              "urdu": [
+                "سجدے کے بعد ایک دم کھڑے ہونے کے بجائے، بیٹھ کر اٹھنا نماز کے وقار کو برقرار رکھتا ہے۔",
+                "سیدھا بیٹھنے کے بعد اٹھنے سے جسمانی توازن آسانی سے قائم ہوتا ہے اور حرکت میں خوبصورتی آتی ہے۔",
+                "یہ عمل سکھاتا ہے کہ نماز میں جسم کی ہر حرکت باوقار اور سنت کے مطابق ہونی چاہیے۔"
+              ],
+              "english": [
+                "Instead of abruptly standing after prostration, sitting first maintains the dignity of the prayer.",
+                "Rising after sitting straight ensures physical balance is easily maintained and adds grace to the movement.",
+                "This action teaches that every physical movement in prayer must be dignified and consistent with the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جلسہ استراحت کا طریقہ",
+        "english": "Manner of Jalsat al-Istiraha"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیٹھنے کی کیفیت",
+              "english": "The Sitting Posture"
+            },
+            "content": {
+              "urdu": [
+                "یہ بیٹھک جلسہ بین السجدتین (دو سجدوں کے درمیان کی بیٹھک) کی طرح افتراش کی حالت میں ہوتی ہے۔",
+                "یعنی بائیں پاؤں کو بچھا کر اس پر بیٹھا جاتا ہے اور دائیں پاؤں کو کھڑا رکھا جاتا ہے۔",
+                "یہ جلسہ اس میں دیگر اذکار یا تشہد کو شامل کیے بغیر ایک فوری اور خاموش وقفہ ہے۔"
+              ],
+              "english": [
+                "This sitting is done in the posture of Iftirash, similar to the sitting between the two prostrations.",
+                "This means sitting upon the left foot while keeping the right foot upright with its toes pointed forward.",
+                "This sitting is a momentary, silent pause without reciting other remembrances or the Tashahhud."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جلسے سے کھڑے ہونا",
+              "english": "Rising from the Sitting"
+            },
+            "content": {
+              "urdu": [
+                "جب نمازی جلسہ استراحت سے کھڑا ہوتا ہے تو اسے ہاتھوں سے زمین پر ٹیک لگا کر اٹھنا چاہیے۔",
+                "یہ عمل آپ ﷺ سے ثابت ہے اور کھڑے ہونے کے دوران جسمانی مشقت کو کم کرتا ہے۔",
+                "یہ حالت قیام کی طرف لوٹنے کے لیے ایک باوقار اور منظم انداز فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "When the worshipper rises from Jalsat al-Istiraha, they should push off the ground with their hands for support.",
+                "This action is established from the Prophet (ﷺ) and minimizes physical strain while rising to stand.",
+                "This posture provides a dignified and controlled way of returning to the standing (Qiyam) position."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حنفی اور مالکی فقہ پر تبصرہ",
+        "english": "Commentary on Hanafi and Maliki Jurisprudence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجتہاد اور سنت",
+              "english": "Ijtihad and Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "حنفی اور مالکی فقہاء کی طرف سے جلسہ استراحت کو ترک کرنا، سنت پر اجتہاد کا نتیجہ ہے۔",
+                "ان کا ماننا ہے کہ چونکہ یہ نماز کے ارکان یا واجبات میں شامل نہیں، اس لیے اسے ترک کیا جا سکتا ہے۔",
+                "لیکن چونکہ یہ صحیح حدیث سے ثابت ہے، لہٰذا اس پر عمل کرنا سنت نبوی کی مکمل اتباع ہے۔"
+              ],
+              "english": [
+                "The omission of Jalsat al-Istiraha by Hanafi and Maliki jurists is a result of Ijtihad (independent reasoning) regarding the Sunnah.",
+                "They hold that since it is not among the mandatory pillars or obligations of prayer, it can be omitted.",
+                "However, since it is established through authentic Hadith, acting upon it represents complete adherence to the Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مذاہب کے اصول",
+              "english": "Principles of the Schools of Thought"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح ابن حجرؒ نے ذکر کیا، امام احمدؒ نے بھی اس پر عمل کے قول کی طرف رجوع کیا تھا۔",
+                "یہ اس بات کی دلیل ہے کہ اہل علم صحیح حدیث ملنے کے بعد اپنے سابقہ قول سے رجوع کرتے تھے۔",
+                "مومن کو ہمیشہ مسنون عمل کو فقہی اقوال پر ترجیح دینی چاہیے، اگرچہ یہ سنت غیر مؤکدہ ہو۔"
+              ],
+              "english": [
+                "As mentioned by Ibn Hajar, even Imam Ahmad (RA) ultimately reverted to the opinion of practicing it.",
+                "This confirms that scholars would retract their previous opinions upon finding a sound Hadith supporting an action.",
+                "The believer should always prioritize the established Sunnah over juristic opinions, even if it is a non-confirmed Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

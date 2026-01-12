@@ -1,0 +1,259 @@
+{
+  "hadithId": 541,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/541"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 33
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (2369)، والنسائي في الكبرى (3144)، وابن ماجه (1681)، وأحمد (5/283)، وصححه أحمد والنسائي وابن حبان.",
+    "urdu": "صحیح۔ اسے ابوداؤد (2369)، نسائی (3144)، ابن ماجہ (1681) اور احمد نے روایت کیا ہے۔ امام احمد، نسائی اور ابن حبان نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Abu Dawud (2369), An-Nasa'i in Al-Kubra (3144), Ibn Majah (1681), and Ahmad. Graded Sahih by Ahmad, An-Nasa'i, and Ibn Hibban."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَحْتَجِمُ",
+      "english": "Having cupping done",
+      "urdu": "پچھنے لگوانا / حجامہ"
+    },
+    {
+      "arabic": "أَفْطَرَ",
+      "english": "Broke the fast",
+      "urdu": "روزہ افطار کیا / توڑ دیا"
+    },
+    {
+      "arabic": "الْحَاجِمُ",
+      "english": "The cupper",
+      "urdu": "حجامہ کرنے والا"
+    },
+    {
+      "arabic": "الْمَحْجُومُ",
+      "english": "The one getting cupped",
+      "urdu": "جس کا حجامہ کیا جائے"
+    },
+    {
+      "arabic": "الْبَقِيعِ",
+      "english": "Al-Baqi (Graveyard in Medina)",
+      "urdu": "مدینہ کا قبرستان بقیع"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کی بنیاد پر بعض فقہاء کا موقف ہے کہ روزے میں پچھنے (حجامہ) لگوانے سے روزہ ٹوٹ جاتا ہے، اگرچہ جمہور کے نزدیک یہ حکم منسوخ یا رخصت ہے۔",
+    "english": "Based on this Hadith, some jurists hold that cupping (Hijama) breaks the fast, though the majority view is that this ruling was later abrogated or serves as a caution."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2369)",
+      "english": "Reported by Abu Dawud (2369)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (1681)",
+      "english": "Reported by Ibn Majah (1681)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "شداد بن أوس",
+        "english": "Shaddad bin Aus"
+      },
+      "slug": "shaddad-bin-aus"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A8f98h-SAnM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حجامہ اور روزے کا حکم",
+        "english": "Ruling on Cupping and Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کا ظاہری مفہوم",
+              "english": "Apparent Meaning of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے معلوم ہوتا ہے کہ حجامہ کرنے والے اور کروانے والے دونوں کا روزہ ٹوٹ جاتا ہے۔",
+                "امام احمد بن حنبل اور اسحاق بن راہویہ اسی حدیث کی بنیاد پر روزہ ٹوٹنے کے قائل ہیں۔",
+                "حجامہ کرنے والے کا روزہ اس لیے ٹوٹتا ہے کہ خون چوستے وقت اس کے حلق میں خون جانے کا خطرہ ہوتا ہے۔"
+              ],
+              "english": [
+                "The Hadith suggests that cupping invalidates the fast for both the cupper and the patient.",
+                "Imam Ahmad and Ishaq bin Rahwayh support this view based on the literal text of this Hadith.",
+                "The cupper's fast is affected because of the risk of swallowing blood while suctioning."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جمہور علماء کا موقف",
+              "english": "The Majority View"
+            },
+            "content": {
+              "urdu": [
+                "اکثر علماء (احناف، شوافع، مالکیہ) کے نزدیک حجامہ سے روزہ نہیں ٹوٹتا۔",
+                "وہ اس حدیث کو یا تو منسوخ مانتے ہیں یا اس سے مراد روزے کی کمزوری لیتے ہیں۔",
+                "حضرت ابن عباس کی روایت کے مطابق نبی ﷺ نے روزے میں حجامہ کروایا تھا۔"
+              ],
+              "english": [
+                "The majority of scholars (Hanafi, Shafi'i, Maliki) believe cupping does not break the fast.",
+                "They view this Hadith as either abrogated or referring to the weakening of the fast.",
+                "Ibn Abbas reported that the Prophet ﷺ himself underwent cupping while fasting."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حکم کی حکمت",
+        "english": "Wisdom Behind the Ruling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی کمزوری کا خطرہ",
+              "english": "Risk of Physical Weakness"
+            },
+            "content": {
+              "urdu": [
+                "حجامہ سے جسم سے خون نکلتا ہے جس سے روزہ دار کو شدید نقاہت ہو سکتی ہے۔",
+                "اگر خون نکلنے سے روزہ دار اتنا کمزور ہو جائے کہ روزہ پورا نہ کر سکے تو حجامہ منع ہے۔",
+                "اسلامی احکام میں انسانی صحت اور عبادات کی آسانی کا خیال رکھا گیا ہے۔"
+              ],
+              "english": [
+                "Cupping involves drawing blood, which can cause severe physical weakness for the fasting person.",
+                "If blood loss leads to inability to complete the fast, then cupping is prohibited.",
+                "Islamic rulings prioritize human health and the ease of performing acts of worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاط کا پہلو",
+              "english": "Aspect of Precaution"
+            },
+            "content": {
+              "urdu": [
+                "روزہ دار کو مشکوک اور کمزوری پیدا کرنے والے کاموں سے بچنا چاہیے۔",
+                "حجامہ کروانے والے کو افطار تک انتظار کرنا زیادہ بہتر اور محفوظ راستہ ہے۔",
+                "اختلاف سے بچنے کے لیے رمضان میں رات کے وقت حجامہ کروانا مستحب ہے۔"
+              ],
+              "english": [
+                "A fasting person should avoid doubtful acts and those that induce exhaustion.",
+                "Waiting until Iftar to have cupping done is a safer and more recommended path.",
+                "To avoid scholarly disagreement, it is preferable to perform cupping at night in Ramadan."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تطبیق",
+        "english": "Juristic Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خون نکالنے کے دیگر ذرائع",
+              "english": "Other Forms of Drawing Blood"
+            },
+            "content": {
+              "urdu": [
+                "جدید دور میں خون کے ٹیسٹ کے لیے خون نکالنے پر بھی یہی بحث لاگو ہوتی ہے۔",
+                "طبی ضرورت کے لیے تھوڑا خون نکالنے سے روزہ نہیں ٹوٹتا۔",
+                "بڑی مقدار میں خون کا عطیہ دینا اگر کمزوری کا باعث ہو تو مکروہ ہے۔"
+              ],
+              "english": [
+                "Modern blood tests for medical diagnosis fall under a similar discussion.",
+                "Drawing a small amount of blood for medical needs does not invalidate the fast.",
+                "Donating large amounts of blood is disliked if it results in debilitating weakness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حجامہ کرنے والے کا حکم",
+              "english": "Ruling for the Cupper"
+            },
+            "content": {
+              "urdu": [
+                "پرانے زمانے میں منہ سے خون کھینچا جاتا تھا اس لیے کرنے والے کا روزہ خطرے میں تھا۔",
+                "آج کل مشین کے ذریعے حجامہ ہوتا ہے اس لیے کرنے والے کا روزہ نہیں ٹوٹتا۔",
+                "فقہاء کے نزدیک حکم کا دارومدار اسباب اور خطرات پر ہوتا ہے۔"
+              ],
+              "english": [
+                "Historically, blood was sucked by mouth, putting the cupper's fast at risk.",
+                "Modern cupping uses mechanical suction, so the cupper's fast is not invalidated.",
+                "Jurists state that rulings depend on the underlying causes and potential risks."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت",
+        "english": "Practical Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عبادت کی ترجیح",
+              "english": "Priority of Worship"
+            },
+            "content": {
+              "urdu": [
+                "روزے کے دوران ہر اس کام سے بچنا چاہیے جو عبادت میں خلل ڈالے۔",
+                "ایک مومن کو اپنے روزے کی حفاظت کے لیے غیر ضروری طبی طریقہ کار سے بچنا چاہیے۔",
+                "اللہ کی رضا کے لیے جسمانی راحت پر عبادت کو فوقیت دینی چاہیے۔"
+              ],
+              "english": [
+                "One should avoid any activity during fasting that interrupts the act of worship.",
+                "A believer must protect their fast by avoiding unnecessary medical procedures.",
+                "One should prioritize worship over physical comfort for the sake of Allah's pleasure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علماء سے رجوع",
+              "english": "Consulting Scholars"
+            },
+            "content": {
+              "urdu": [
+                "ایسے اختلافی مسائل میں اپنے مقامی مفتی یا مستند عالم سے مشورہ کریں۔",
+                "حدیث کے صحیح فہم کے لیے ائمہ اربعہ کی تشریحات کو دیکھنا ضروری ہے۔",
+                "دین میں سختی کے بجائے اعتدال اور علم کی پیروی کرنی چاہیے۔"
+              ],
+              "english": [
+                "Consult local Muftis or authentic scholars regarding such controversial issues.",
+                "It is essential to look at the interpretations of the four Imams for correct understanding.",
+                "Follow moderation and knowledge in religion rather than individual rigor."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

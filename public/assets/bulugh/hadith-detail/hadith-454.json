@@ -1,0 +1,267 @@
+{
+  "hadithId": 454,
+  "hadithNo": 30,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/30", "bukhari/4004"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه سعيد بن منصور، وأصله في البخاري (4004) بلفظ: أن علياً رضي الله عنه كبر على سهل بن حنيف، فقال: إنه شهد بدراً. وصححه ابن حزم في المحلى (5/126).",
+    "urdu": "صحیح۔ اسے سعید بن منصور نے روایت کیا اور اس کی اصل صحیح بخاری (4004) میں موجود ہے جہاں ذکر ہے کہ سیدنا علی نے سہل بن حنیف پر تکبیر کہی اور ان کے بدری ہونے کا ذکر کیا۔ ابن حزم نے اسے المحلی میں صحیح قرار دیا۔",
+    "english": "Sahih. Reported by Sa'id bin Mansur, and its origin is in Al-Bukhari (4004) stating that 'Ali (RA) said Takbir over Sahl bin Hunaif and mentioned his presence at Badr. Ibn Hazm authenticated it in Al-Muhalla (5/126)."
+  },
+  "importantWords": [
+    {
+      "arabic": "كَبَّرَ",
+      "english": "Said Takbir",
+      "urdu": "تکبیر کہی"
+    },
+    {
+      "arabic": "سِتًّا",
+      "english": "Six times",
+      "urdu": "چھ مرتبہ"
+    },
+    {
+      "arabic": "بَدْرِيٌّ",
+      "english": "Participant of Badr",
+      "urdu": "بدری (غزوہ بدر کے شریک)"
+    },
+    {
+      "arabic": "أَصْلُهُ",
+      "english": "Its origin",
+      "urdu": "اس کی اصل"
+    },
+    {
+      "arabic": "شَهِدَ",
+      "english": "Witnessed / Participated",
+      "urdu": "حاضر ہوئے / شریک ہوئے"
+    }
+  ],
+  "summary": {
+    "urdu": "سیدنا علی رضی اللہ عنہ نے سہل بن حنیف رضی اللہ عنہ کی فضیلت کی بنا پر ان کے جنازے میں چھ تکبیریں کہیں، جو جنازے کی تکبیرات میں تنوع اور بدری صحابہ کے مقام کو ظاہر کرتا ہے۔",
+    "english": "Ali (RA) performed six Takbirs for the funeral of Sahl bin Hunaif to honor his status as a Badr participant, showing variation in Takbir numbers and the high rank of the people of Badr."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب المغازي، رقم 4004",
+      "english": "Sahih al-Bukhari, Book of Military Expeditions, Hadith 4004"
+    },
+    {
+      "arabic": "سنن سعيد بن منصور",
+      "english": "Sunan Sa'id bin Mansur"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "سهل بن حنيف",
+        "english": "Sahl bin Hunaif"
+      },
+      "slug": "sahl-bin-hunaif"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_S6pXf2T8E",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تکبیراتِ جنازہ کی تعداد",
+        "english": "Number of Takbirs in Funeral Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تکبیرات میں تنوع",
+              "english": "Diversity in Takbirs"
+            },
+            "content": {
+              "urdu": [
+                "عام طور پر نمازِ جنازہ میں چار تکبیریں کہی جاتی ہیں جو کہ سنتِ متواترہ اور جمہور کا عمل ہے۔",
+                "تاہم، بعض صحابہ سے چار سے زائد (پانچ، چھ، سات یا نو تک) تکبیرات بھی ثابت ہیں۔",
+                "سیدنا علی کا یہ عمل ظاہر کرتا ہے کہ خاص فضیلت والے افراد کے لیے تکبیرات بڑھائی جا سکتی ہیں۔"
+              ],
+              "english": [
+                "Usually, four Takbirs are said in the funeral prayer, which is the standard Sunnah and majority practice.",
+                "However, some Companions reported more than four Takbirs (five, six, seven, or up to nine).",
+                "Ali's action shows that for individuals with special virtues, the number of Takbirs can be increased."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہلِ علم کی رائے",
+              "english": "Opinion of Scholars"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء کے نزدیک اب چار تکبیرات پر اجماع ہو چکا ہے تاکہ انتشار پیدا نہ ہو۔",
+                "اگر امام چار سے زائد تکبیریں کہے تو مقتدیوں کو اس کی پیروی کرنی چاہیے کیونکہ یہ سنت سے ثابت ہے۔",
+                "تکبیرات کی تعداد میں یہ فرق مختلف اوقات میں نبی ﷺ کے عمل کی پیروی میں تھا۔"
+              ],
+              "english": [
+                "Most jurists agree that four Takbirs is now the consensus to avoid confusion among the masses.",
+                "If the Imam says more than four, the followers should follow him as it is established from the Sunnah.",
+                "This difference in the number of Takbirs was in following the Prophet's (ﷺ) actions at different times."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بدری صحابہ کا مقام",
+        "english": "The Status of the People of Badr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنگِ بدر کی فضیلت",
+              "english": "Virtue of the Battle of Badr"
+            },
+            "content": {
+              "urdu": [
+                "غزوہ بدر میں شریک ہونے والے صحابہ کرام کو تمام صحابہ میں ممتاز مقام حاصل ہے۔",
+                "اللہ تعالیٰ نے اہل بدر کے بارے میں فرمایا کہ 'تم جو چاہو کرو، میں نے تمہیں بخش دیا ہے'۔",
+                "سیدنا علی نے چھ تکبیریں کہہ کر سہل بن حنیف کی اسی خاص فضیلت کو اجاگر فرمایا۔"
+              ],
+              "english": [
+                "Companions who participated in the Battle of Badr hold a distinguished rank among all Sahaba.",
+                "Allah said about the people of Badr, 'Do what you wish, for I have forgiven you.'",
+                "By saying six Takbirs, Ali (RA) highlighted this specific virtue of Sahl bin Hunaif."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کی باہمی تکریم",
+              "english": "Mutual Honoring Among Companions"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام ایک دوسرے کے فضائل اور درجات کا مکمل ادراک رکھتے اور احترام کرتے تھے۔",
+                "سیدنا علی کا یہ عمل میت کی عزت افزائی اور لوگوں کو ان کے مقام سے آگاہ کرنے کے لیے تھا۔",
+                "دین میں سبقت لے جانے والوں کی قدر کرنا اسلامی معاشرت کا ایک اہم جزو ہے۔"
+              ],
+              "english": [
+                "The Companions fully recognized and respected each other's virtues and ranks.",
+                "Ali's action was intended to honor the deceased and inform the people of his high status.",
+                "Valuing those who excelled in religious matters is a vital part of Islamic social conduct."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جنازہ اور دعا",
+        "english": "Funeral and Supplication"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تکبیرات کا مقصد",
+              "english": "Purpose of the Takbirs"
+            },
+            "content": {
+              "urdu": [
+                "جنازے کی ہر تکبیر کے بعد مخصوص دعائیں یا اذکار پڑھے جاتے ہیں جو میت کے لیے شفاعت ہیں۔",
+                "تکبیرات میں اضافے کا مطلب میت کے لیے دعا اور ذکرِ الہی کے دورانیے میں اضافہ ہے۔",
+                "یہ میت کے لیے اللہ کی رحمت کو متوجہ کرنے کا ایک ذریعہ ہے۔"
+              ],
+              "english": [
+                "After each Takbir in the funeral, specific prayers or adhkar are recited as intercession for the dead.",
+                "An increase in Takbirs means an extension in the duration of prayer and remembrance of Allah for the deceased.",
+                "This serves as a means of seeking and attracting Allah's mercy for the departed soul."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی عبادت کا وقار",
+              "english": "Dignity of Collective Worship"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ جنازہ مسلمانوں کی باہمی ہمدردی اور میت کے لیے آخری خیر خواہی کا مظہر ہے۔",
+                "سہل بن حنیف جیسے جلیل القدر صحابی کا جنازہ سیدنا علی جیسے امام نے پڑھایا جو کہ بڑی سعادت ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ جنازے کے تمام آداب کو سنت کے مطابق بجا لائیں۔"
+              ],
+              "english": [
+                "The funeral prayer is a manifestation of mutual sympathy among Muslims and final goodwill for the dead.",
+                "Having the funeral of a great Sahabi like Sahl led by an Imam like Ali (RA) is a great blessing.",
+                "Muslims should fulfill all the etiquettes of the funeral according to the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و تربیتی سبق",
+        "english": "Juristic and Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ صحابہ کی پیروی",
+              "english": "Following the Practice of the Sahaba"
+            },
+            "content": {
+              "urdu": [
+                "خلفائے راشدین کے اعمال بھی سنت کا حصہ ہیں اور ان سے رہنمائی حاصل کی جاتی ہے۔",
+                "اگرچہ آج کل چار تکبیرات عام ہیں، مگر زائد تکبیرات کے ثبوت کو بھی تسلیم کرنا چاہیے۔",
+                "یہ حدیث ہمیں علمی وسعت اور صحابہ کے مختلف اجتہادات کو سمجھنے کا موقع دیتی ہے۔"
+              ],
+              "english": [
+                "The actions of the Rightly Guided Caliphs are also part of the Sunnah and provide guidance.",
+                "While four Takbirs are common today, the evidence for additional Takbirs must also be acknowledged.",
+                "This Hadith offers us intellectual depth and an opportunity to understand the various Ijtihads of the Sahaba."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیکی کا اعتراف",
+              "english": "Recognition of Virtue"
+            },
+            "content": {
+              "urdu": [
+                "دنیا سے رخصت ہونے والوں کے اچھے کاموں کا ذکر کرنا اور ان کی عزت کرنا مستحسن ہے۔",
+                "سیدنا علی نے 'انہ بدری' کہہ کر لوگوں کو یاد دلایا کہ نیکی کبھی ضائع نہیں ہوتی۔",
+                "یہ عمل آنے والی نسلوں کے لیے نیک اعمال میں مسابقت کی ترغیب فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "It is commendable to mention the good deeds and honor those departing from this world.",
+                "By saying 'He was a Badri', Ali (RA) reminded people that righteousness is never lost.",
+                "This act encourages future generations to compete in performing good deeds."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

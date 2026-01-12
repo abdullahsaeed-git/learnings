@@ -1,0 +1,259 @@
+{
+  "hadithId": 1243,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh:1243"],
+    "kitabId": 16,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجامع",
+    "babId": 102
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن بشواهده. رواه أحمد (1/131)، وأبو داود (5210)، والبيهقي (9/49) من طريق سعيد بن خالد الخزاعي عن طلحة بن عبد الله بن كريز عن علي.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر حسن ہے۔ اسے احمد (1/131)، ابوداؤد (5210) اور بیہقی (9/49) نے روایت کیا ہے۔",
+    "english": "Hasan due to supporting evidences. Reported by Ahmad (1/131), Abu Dawud (5210), and al-Bayhaqi (9/49)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُجْزِئُ",
+      "english": "It is sufficient",
+      "urdu": "کافی ہے"
+    },
+    {
+      "arabic": "الْجَمَاعَةِ",
+      "english": "The group",
+      "urdu": "جماعت / گروہ"
+    },
+    {
+      "arabic": "مَرُّوا",
+      "english": "They pass by",
+      "urdu": "وہ گزریں"
+    },
+    {
+      "arabic": "يُسَلِّمَ",
+      "english": "Greets / Gives Salam",
+      "urdu": "سلام کرے"
+    },
+    {
+      "arabic": "يَرُدَّ",
+      "english": "Returns / Responds",
+      "urdu": "جواب دے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث سلام کرنے اور اس کا جواب دینے کے اجتماعی آداب بیان کرتی ہے کہ جماعت کی طرف سے ایک فرد کی نمائندگی سب کے لیے کافی ہے۔",
+    "english": "This Hadith explains the social etiquette of greetings for groups, stating that one person's initiative or response represents the entire group."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (1/131)",
+      "english": "Reported by Ahmad (1/131)"
+    },
+    {
+      "arabic": "رواه أبو داود (5210)",
+      "english": "Reported by Abu Dawud (5210)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سلام کے سماجی آداب",
+        "english": "Social Etiquette of Greeting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جماعت کی نمائندگی",
+              "english": "Representation of the Group"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں سلام کرنا سنتِ مؤکدہ ہے اور جواب دینا واجب ہے۔",
+                "اگر پوری جماعت گزر رہی ہو تو سب کا سلام کرنا ضروری نہیں۔",
+                "ایک فرد کا سلام پوری جماعت کی طرف سے کافی تصور ہوتا ہے۔"
+              ],
+              "english": [
+                "In Islam, initiating Salam is a stressed Sunnah and replying is mandatory.",
+                "If an entire group is passing, it is not necessary for everyone to speak.",
+                "One individual's greeting is considered sufficient on behalf of the entire group."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جواب میں کفایت",
+              "english": "Sufficiency in Response"
+            },
+            "content": {
+              "urdu": [
+                "اسی طرح اگر بیٹھی ہوئی جماعت کو سلام کیا جائے تو ایک کا جواب کافی ہے۔",
+                "یہ 'فرضِ کفایہ' کے حکم میں ہے کہ ایک نے ادا کیا تو سب بری الذمہ ہوئے۔",
+                "اگر کوئی بھی جواب نہ دے تو پوری جماعت گناہگار ٹھہرتی ہے۔"
+              ],
+              "english": [
+                "Similarly, if a sitting group is greeted, one person's reply is enough.",
+                "This falls under 'Fard al-Kifayah'; if one performs it, others are excused.",
+                "If no one from the group responds, then the entire group is held sinful."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی حکمت اور سہولت",
+        "english": "Sharia Wisdom and Ease"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے سماجی معاملات میں نظم و ضبط اور آسانی فراہم کی ہے۔",
+                "اگر سب ایک ساتھ بولیں تو شور اور ابہام پیدا ہونے کا خدشہ ہوتا ہے۔",
+                "ایک کا بولنا مروت اور اسلامی تہذیب کا بہترین اظہار ہے۔"
+              ],
+              "english": [
+                "Sharia provides discipline and ease in social interactions and dealings.",
+                "If everyone speaks at once, it could lead to noise and confusion.",
+                "One person speaking reflects grace and the best of Islamic culture."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی محبت کا فروغ",
+              "english": "Promoting Mutual Love"
+            },
+            "content": {
+              "urdu": [
+                "سلام کا مقصد مسلمانوں کے درمیان محبت اور سلامتی پھیلانا ہے۔",
+                "یہ چھوٹے بڑے اور امیر غریب کے درمیان فرق کو ختم کرتا ہے۔",
+                "جماعت کی طرف سے ایک کا سلام کرنا باہمی اتفاق کی علامت ہے۔"
+              ],
+              "english": [
+                "The purpose of Salam is to spread love and peace among Muslims.",
+                "It eliminates barriers between the young, old, rich, and poor.",
+                "A greeting from one on behalf of a group symbolizes collective unity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل و ابحاث",
+        "english": "Juristic Issues and Discussions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "افضل عمل کیا ہے؟",
+              "english": "What is the Best Practice?"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ ایک کا جواب کافی ہے، مگر سب کا جواب دینا افضل ہے۔",
+                "زیادہ لوگوں کا جواب دینا ثواب میں اضافے کا باعث بنتا ہے۔",
+                "علماء کے نزدیک جواب دیتے وقت آواز کو واضح رکھنا ضروری ہے۔"
+              ],
+              "english": [
+                "Although one reply is enough, it is superior if everyone responds.",
+                "Multiple people responding leads to an increase in divine rewards.",
+                "Scholars state that the response should be made in a clear voice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سلام کے دیگر اصول",
+              "english": "Other Rules of Salam"
+            },
+            "content": {
+              "urdu": [
+                "سواری والا پیدل چلنے والے کو اور چھوٹا بڑے کو سلام کرے۔",
+                "گزرنے والا بیٹھے ہوئے افراد کو سلام کرنے میں پہل کرے۔",
+                "یہ اصول معاشرتی ترتیب اور احترام کو برقرار رکھنے کے لیے ہیں۔"
+              ],
+              "english": [
+                "The rider should greet the walker, and the younger the elder.",
+                "The person passing by should initiate greeting to those sitting.",
+                "These rules are designed to maintain social order and mutual respect."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شائستگی اختیار کرنا",
+              "english": "Adopting Politeness"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو ہر جگہ سلام کی سنت کو عام کرنا چاہیے۔",
+                "سلام صرف جان پہچان والوں تک محدود نہیں رکھنا چاہیے۔",
+                "یہ عمل تکبر کو ختم کرتا ہے اور عاجزی پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "Muslims should generalize the Sunnah of Salam in all places.",
+                "Salam should not be restricted only to those whom one knows.",
+                "This practice eradicates pride and cultivates genuine humility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی ذمہ داری",
+              "english": "Collective Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے میں ہر فرد دوسرے کی نمائندگی کرنے کا احساس رکھے۔",
+                "نیکی کے کاموں میں پہل کرنا مومن کا خاصہ ہونا چاہیے۔",
+                "باہمی تعلقات میں نرمی اور خیر خواہی کو فروغ دینا ضروری ہے۔"
+              ],
+              "english": [
+                "Every individual in society should feel a sense of representing others.",
+                "Taking initiative in good deeds should be a trait of a believer.",
+                "Promoting kindness and well-wishing in mutual relations is essential."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

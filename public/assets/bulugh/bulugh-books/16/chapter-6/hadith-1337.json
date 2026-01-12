@@ -1,0 +1,176 @@
+{
+  "hadithId": 1337,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 16,
+    "inKitabBab": 6,
+    "arabicBook": "",
+    "babId": 107
+  },
+  "name": {
+    "arabic": " وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ قَالَ: سُبْحَانَ اَللَّهِ وَبِحَمْدِهِ مِائَةَ مَرَّةٍ حُطَّتْ خَطَايَاهُ, وَإِنْ كَانَتْ مِثْلَ زَبَدِ اَلْبَحْرِ } مُتَّفَقٌ عَلَيْهِ .‏ ",
+    "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” جس کسی نے سو مرتبہ یہ کہا «سبحان الله وبحمده» پاک ہے اللہ اپنی تعریفوں کے ساتھ۔ اس کی خطائیں محو کر دی جاتی ہیں۔ خواہ وہ سمندر کی جھاگ کے مساوی ہی کیوں نہ ہوں۔“ (بخاری و مسلم)  ",
+    "english": " "
+  },
+  "takhreej": {
+    "arabic": "  صحيح.‏ رواه البخاري (6405)‏، وهو قطعة من حديث عند مسلم (2691)‏، وعندهما تقييد ذلك بقوله ‏-صلى الله عليه وسلم‏-:" في يوم".‏",
+    "urdu": " ",
+    "english": " "
+  },
+  "importantWords": [
+    {
+      "arabic": " ",
+      "english": " ",
+      "urdu": " "
+    }
+  ],
+  "summary": {
+    "urdu": " ",
+    "english": " "
+  },
+  "references": [
+    {
+      "arabic": " ",
+      "english": " "
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": " ",
+        "english": " "
+      },
+      "slug": " "
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": " ",
+    "english": " "
+  },
+
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "",
+        "english": ""
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          },
+          {
+            "title": {
+              "urdu": " ",
+              "english": ""
+            },
+            "content": {
+              "urdu": ["", "", ""],
+              "english": ["", "", ""]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "hadithId": 206,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["2", "6"],
+    "kitabId": 2,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 16
+  },
+  "name": {
+    "arabic": "وَعَنْهُ قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- { لَا تَقُومُ اَلسَّاعَةُ حَتَّى يَتَبَاهَى اَلنَّاسُ فِي اَلْمَسَاجِدِ } أَخْرَجَهُ اَلْخَمْسَةُ إِلَّا اَلتِّرْمِذِيُّ , وَصَحَّحَهُ اِبْنُ خُزَيْمَة .",
+    "urdu": " سیدنا انس رضی اللہ عنہ ہی نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”قیامت اس وقت تک قائم نہ ہو گی جب تک کہ لوگ مسجدوں (کی تعمیر و آرائش) میں ایک دوسرے پر فخر نہ کرنے لگیں۔“ اسے پانچوں (احمد، ابوداؤد، نسائی، ابن ماجہ) نے روایت کیا ہے بجز ترمذی کے۔ ابن خزیمہ نے اسے صحیح قرار دیا ہے۔",
+    "english": "Narrated from Anas (may Allah be pleased with him) that the Messenger of Allah (peace and blessings be upon him) said: \"The Hour will not be established until the people boast to one another about (the construction/decoration of) the mosques.\" Reported by the five (Ahmad, Abu Dawud, An-Nasa’i, and Ibn Majah, excluding At-Tirmidhi), and Ibn Khuzaymah graded it Sahih (Authentic)."
+  },
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود في كتاب الصلاة، باب في بناء المساجد (449)، والنسائي في المجتبى، كتاب المساجد (701)، وابن ماجه في كتاب المساجد (739)، وأحمد في المسند (3/134)، وصححه ابن خزيمة (1323).",
+    "urdu": "صحیح۔ اسے ابو داؤد نے کتاب الصلاة، باب فی بناء المساجد (449)، نسائی نے المجتبیٰ، کتاب المساجد (701)، ابن ماجہ نے کتاب المساجد (739)، اور احمد نے مسند (3/134) میں روایت کیا ہے۔ اور ابن خزیمہ نے اسے صحیح قرار دیا ہے۔",
+    "english": "Authentic (Sahih). Reported by Abu Dawud in the Book of Prayer, Chapter: Building the mosques (449), An-Nasa’i in Al-Mujtaba, Book of Mosques (701), Ibn Majah in the Book of Mosques (739), and Ahmad in the Musnad (3/134). Graded Sahih by Ibn Khuzaymah (1323)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لا تقوم الساعة",
+      "english": "The Hour will not be established",
+      "urdu": "قیامت قائم نہیں ہوگی"
+    },
+    {
+      "arabic": "يتباهى",
+      "english": "Boast/Vye in pride",
+      "urdu": "فخر کرنے لگیں گے"
+    },
+    {
+      "arabic": "في المساجد",
+      "english": "Concerning the mosques",
+      "urdu": "مسجدوں کی وجہ سے/میں"
+    },
+    {
+      "arabic": "بناء",
+      "english": "Construction/Building",
+      "urdu": "تعمیر"
+    },
+    {
+      "arabic": "الناس",
+      "english": "The people",
+      "urdu": "لوگ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث قیامت کی ایک علامت اور امت مسلمہ میں آنے والی ایک مذموم تبدیلی کو بیان کرتی ہے، وہ یہ کہ لوگ مسجدوں کی ظاہری تعمیر، آرائش اور تزئین میں حد سے بڑھ کر فخر و مقابلہ کریں گے۔ اس عمل میں ریاکاری اور سادگی سے انحراف ہے، جبکہ مسجد کا بنیادی مقصد روحانیت اور خشوع کی جگہ ہونا ہے۔",
+    "english": "This Hadith describes one of the signs of the Hour and a reprehensible deviation within the Muslim Ummah: people will excessively boast and compete in the outward construction, ornamentation, and decoration of mosques. This act involves ostentation (Riya') and deviation from simplicity, whereas the mosque's primary purpose is to be a place of spirituality and concentration (Khushu')."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الصلاة، باب في بناء المساجد (449)",
+      "english": "Sunan Abu Dawud, Book of Prayer, Chapter: Building the mosques (449)"
+    },
+    {
+      "arabic": "صحيح ابن خزيمة، كتاب الإمامة في الصلاة، باب التباهي في بناء المساجد (1323)",
+      "english": "Sahih Ibn Khuzaymah, Book of Imamat in Prayer, Chapter: Boasting about the construction of mosques (1323)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas ibn Malik"
+      },
+      "slug": "anas-ibn-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S8L_o_0aJkU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قیامت کی نشانی اور دینی زوال",
+        "english": "Sign of the Hour and Religious Decline"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجدوں میں فخر کرنا",
+              "english": "Boasting about Mosques"
+            },
+            "content": {
+              "urdu": [
+                "نبی صلی اللہ علیہ وسلم نے مسجدوں کی زینت اور ان کی تعمیر میں فخر کرنے کو قیامت کی علامت قرار دیا۔",
+                "یہ فخر اس بات کی علامت ہے کہ لوگوں کی توجہ روحانیت سے ہٹ کر ظاہری شان و شوکت کی طرف ہو گئی ہے۔",
+                "مسجدوں کو سادہ ہونا چاہیے تاکہ دل کی یکسوئی اور روحانیت برقرار رہ سکے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) designated excessive boasting over mosque decoration and construction as a sign of the Hour.",
+                "This boasting indicates that people's focus has shifted from spirituality to outward pomp and show.",
+                "Mosques should be simple to ensure concentration and spirituality are maintained."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سادگی سے انحراف",
+              "english": "Deviation from Simplicity"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم صلی اللہ علیہ وسلم اور صحابہ کرام کی مسجدیں انتہائی سادہ تھیں، جن میں تکلف کا شائبہ نہ تھا۔",
+                "مسجد کو خوبصورت بنانے کا مطلب یہ ہے کہ مقصود عبادت کے بجائے دنیاوی شہرت اور مقابلہ بازی ہو۔",
+                "یہ حدیث اس بات کی پیش گوئی ہے کہ مسلمان ایک فتنہ میں پڑ جائیں گے جہاں مقصدِ عبادت بدل جائے گا۔"
+              ],
+              "english": [
+                "The mosques of the Prophet (PBUH) and his Companions were extremely simple, devoid of any extravagance.",
+                "Making the mosque excessively beautiful implies that the goal is worldly fame and competition rather than worship.",
+                "This Hadith prophesies that Muslims will fall into a temptation where the purpose of worship is corrupted."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی حکمت",
+        "english": "Juristic and Educational Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مذموم آرائش",
+              "english": "Reprehensible Ornamentation"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک مسجدوں کی وہ آرائش مکروہ ہے جو نمازیوں کی توجہ کو بھٹکائے یا ضرورت سے زیادہ ہو۔",
+                "مساجد کو بنیادی سہولیات اور ضروری صفائی کے ساتھ ہی تعمیر کرنا سنت کے مطابق ہے۔",
+                "پتھروں اور سونے چاندی کی غیر ضروری زیب و زینت میں مال ضائع ہوتا ہے، جو حرام ہے۔"
+              ],
+              "english": [
+                "Jurists consider ornamentation of mosques that distracts worshippers or is excessive as Makruh (disliked).",
+                "Building mosques with basic necessities and cleanliness is in line with the Sunnah.",
+                "Wasting wealth on unnecessary decoration with stones, gold, and silver is a form of waste, which is prohibited."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسجد کا داخلی سکون",
+              "english": "Internal Tranquility of the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "مسجد کی ظاہری زیبائش سے دھیان ہٹتا ہے اور خشوع کی حالت قائم نہیں رہ پاتی۔",
+                "یہ حکم اس بات کی طرف اشارہ ہے کہ مسجد کی روح اس کی سادگی اور روحانیت میں ہے۔",
+                "مسلمانوں کو چاہیے کہ تعمیر کی عمدگی سے زیادہ اس میں ہونے والی عبادت کی قبولیت پر توجہ دیں۔"
+              ],
+              "english": [
+                "Outward mosque decoration diverts attention, making it difficult to maintain a state of Khushu'.",
+                "This ruling suggests that the soul of the mosque lies in its simplicity and spirituality.",
+                "Muslims should focus more on the acceptance of the worship performed inside than the excellence of its construction."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں عبرت",
+        "english": "Lesson in Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مالی ترجیحات",
+              "english": "Financial Priorities"
+            },
+            "content": {
+              "urdu": [
+                "مسجدوں پر غیر ضروری طور پر کثیر مال خرچ کرنا جبکہ اطراف میں غریب اور نادار موجود ہوں، غلط ترجیح ہے۔",
+                "صدقہ و خیرات اور فلاحی کاموں پر پیسہ خرچ کرنا زیب و زینت پر خرچ کرنے سے کہیں زیادہ افضل ہے۔",
+                "مسجد کی خدمت، تعمیر کی شان و شوکت سے نہیں بلکہ اس کے روحانی اور سماجی اثر سے ہے۔"
+              ],
+              "english": [
+                "Spending lavishly on mosques while the poor and needy exist nearby is a misplaced priority.",
+                "Spending money on charity and welfare projects is far superior to spending it on ornamentation.",
+                "The true service to the mosque is derived from its spiritual and social impact, not its construction's grandeur."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی روشنی میں تعمیر",
+              "english": "Construction in Light of the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "مسجد نبوی کی سادگی کو تعمیر مساجد میں ہمیشہ معیار اور نمونہ بنانا چاہیے۔",
+                "مضبوط اور پائیدار تعمیر جس میں نمازی کو سکون اور طہارت حاصل ہو، وہ شرعی تقاضا ہے۔",
+                "تعمیر میں مقابلہ بازی اور فخر کا جذبہ دین میں ریاکاری اور بدعت کا دروازہ کھولتا ہے۔"
+              ],
+              "english": [
+                "The simplicity of the Prophet's Mosque should always be the standard and model for mosque construction.",
+                "Durable construction that provides comfort and purity to the worshipper is the religious requirement.",
+                "The spirit of competition and boasting in construction opens the door to Riya' (show-off) and innovation (Bid'ah) in religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور باطنی سبق",
+        "english": "Spiritual and Inner Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قلبی توجه",
+              "english": "Focus of the Heart"
+            },
+            "content": {
+              "urdu": [
+                "مسجد میں اصل زینت دیواروں کی نہیں بلکہ نمازیوں کے قلوب کی ہونی چاہیے۔",
+                "ظاہری تبخیر میں مشغولیت باطنی خشوع سے دوری کی نشاندہی کرتی ہے۔",
+                "قیامت کی نشانی کا یہ ذکر ہمیں اپنے اعمال کا محاسبہ کرنے کی تلقین کرتا ہے۔"
+              ],
+              "english": [
+                "The true adornment of the mosque should be in the hearts of the worshippers, not the walls.",
+                "Preoccupation with outward splendor indicates distance from inner Khushu'.",
+                "This mention of a sign of the Hour is an admonition for us to review and evaluate our actions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت کا اخلاص",
+              "english": "Sincerity in Worship"
+            },
+            "content": {
+              "urdu": [
+                "مسجد کی تعمیر بھی صرف اللہ کی رضا اور عبادت کے لیے ہونی چاہیے، نہ کہ نام و نمود کے لیے۔",
+                "جب لوگوں کا مقصد فخر ہو جائے تو عبادت میں اخلاص کم ہو جاتا ہے اور کام دنیاوی بن جاتا ہے۔",
+                "سادگی میں ہی دین کی قوت اور سچائی پوشیدہ ہے۔"
+              ],
+              "english": [
+                "The construction of the mosque must also be purely for the sake of Allah and worship, not for fame or show.",
+                "When people's goal becomes boasting, sincerity in worship decreases, and the deed becomes worldly.",
+                "The strength and truth of the religion lie in simplicity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

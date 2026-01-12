@@ -1,0 +1,268 @@
+{
+  "hadithId": 26,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 5"],
+    "kitabId": 1,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 3
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه أبو داود (376) ، والنسائي (158) ، والحاكم (166)  بسند حسن، عن أبي السمح، قال: كنت أخدم النبي صلى الله عليه وسلم، فكان إذا أراد أن يغتسل، قال: \"ولني قفاك\" فأوليه قفاي، فأستره به، فأتي بحسن أو حسين رضي الله عنهما، فبال على صدره، فجئت أغسله، فقال صلى الله عليه وسلم فذكر الحديث.  ومع حسن إسناده إلا أني صححته لورود شواهد أخرى كثيرة له، ذكرتها \"بالأصل\". ",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (376)، نسائی (158)، اور حاکم (166) نے حسن سند کے ساتھ روایت کیا ہے۔ ابوالسمح رضی اللہ عنہ نے فرمایا کہ میں نبی اکرم صلی اللہ علیہ وسلم کی خدمت کرتا تھا، پس جب آپ غسل کرنا چاہتے تو فرماتے: 'میری طرف اپنی پیٹھ کر دو' تو میں اپنی پیٹھ کر دیتا اور آپ کو پردہ فراہم کرتا۔ ایک بار حسن یا حسین رضی اللہ عنہما لائے گئے اور انہوں نے آپ کے سینے پر پیشاب کر دیا، تو میں اسے دھونے آیا۔ آپ صلی اللہ علیہ وسلم نے فرمایا اور پھر حدیث کا ذکر کیا۔ اگرچہ اس کی سند حسن ہے، میں نے اسے دیگر بہت سی شواہد کی بناء پر صحیح قرار دیا ہے۔",
+    "english": "The Hadith is Sahih (Authentic). Narrated by Abu Dawud (376), An-Nasa'i (158), and Al-Hakim (166) with a Hasan (good) chain of narration. Abu As-Samh (may Allah be pleased with him) said: 'I used to serve the Prophet (ﷺ). Once Hasan or Husayn (may Allah be pleased with them both) was brought and he urinated on the Prophet's chest. I came to wash it, but the Prophet (ﷺ) said (the Hadith).' Despite its Hasan chain, it is authenticated due to many other corroborating reports."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُغْسَلُ",
+      "english": "Must be washed",
+      "urdu": "دھویا جائے گا"
+    },
+    {
+      "arabic": "بَوْلِ",
+      "english": "Urine",
+      "urdu": "پیشاب"
+    },
+    {
+      "arabic": "اَلْجَارِيَةِ",
+      "english": "Baby girl",
+      "urdu": "لڑکی"
+    },
+    {
+      "arabic": "يُرَشُّ",
+      "english": "Sprinkled",
+      "urdu": "چھینٹے مارے جائیں گے"
+    },
+    {
+      "arabic": "اَلْغُلَامِ",
+      "english": "Baby boy",
+      "urdu": "لڑکا"
+    },
+    {
+      "arabic": "أَبِي اَلسَّمْحِ",
+      "english": "Abu As-Samh",
+      "urdu": "ابوالسمح"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث شیر خوار بچوں کے پیشاب کو پاک کرنے کا طریقہ بیان کرتی ہے، جہاں بچی کے پیشاب کے لیے دھونا ضروری ہے اور بچے کے پیشاب کے لیے صرف چھینٹا مارنا کافی ہے۔",
+    "english": "This Hadith clarifies the ruling on purifying clothing from the urine of infants who are only nourished by milk, distinguishing between the method for a baby boy and a baby girl."
+  },
+  "references": [
+    {
+      "arabic": "أبو داود، كتاب الطهارة، رقم 376",
+      "english": "Sunan Abi Dawud, The Book of Purification, Hadith 376"
+    },
+    {
+      "arabic": "النسائي، كتاب الطهارة، رقم 158",
+      "english": "Sunan An-Nasa'i, The Book of Purification, Hadith 158"
+    },
+    {
+      "arabic": "الحاكم في المستدرك، رقم 166",
+      "english": "Al-Mustadrak by Al-Hakim, Hadith 166"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي اَلسَّمْحِ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abu As-Samh (May Allah be pleased with him)"
+      },
+      "slug": "abu-as-samh"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-5-purification",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کا اصول اور فرق",
+        "english": "The Principle of Purification and Distinction"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچے اور بچی کے پیشاب میں فرق",
+              "english": "Difference in Boy and Girl Urine Purification"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث طہارت کے حوالے سے ایک مخصوص شرعی حکم بیان کرتی ہے، جس میں شیر خوار لڑکے اور لڑکی کے پیشاب میں فرق ہے۔",
+                "لڑکی کے پیشاب کو ناپاک سمجھا جاتا ہے اور اس سے پاکی حاصل کرنے کے لیے کپڑے کو **دھونا (غسل کرنا)** ضروری قرار دیا گیا ہے۔",
+                "جبکہ لڑکے کے پیشاب کے لیے صرف پانی کا **چھڑکاؤ (رش)** کرنا ہی کفایت کرتا ہے، بشرطیکہ بچہ ابھی ٹھوس غذا نہ کھاتا ہو۔"
+              ],
+              "english": [
+                "This Hadith lays down a specific legal ruling regarding purification, distinguishing between the urine of a suckling baby boy and a baby girl.",
+                "The urine of a baby girl is considered more substantial in impurity, necessitating the garment to be **washed (Ghusl)** for purification.",
+                "In contrast, for a baby boy's urine, it is sufficient to **sprinkle (Rash)** water over the affected area, provided the infant is still solely milk-fed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تفریق کی حکمت",
+              "english": "The Wisdom Behind the Distinction"
+            },
+            "content": {
+              "urdu": [
+                "علماء نے اس تفریق کی کئی حکمتیں بیان کی ہیں، جن میں سے ایک لڑکوں کا زیادہ اٹھایا جانا اور ان کے پیشاب کا بہاؤ زیادہ پھیلاؤ والا ہونا ہے۔",
+                "ایک رائے کے مطابق لڑکے کے پیشاب میں پانی کی مقدار زیادہ اور کثافت کم ہوتی ہے، جبکہ لڑکی کے پیشاب میں کثافت زیادہ سمجھی جاتی ہے۔",
+                "بہرحال، یہ ایک شرعی آسانی (تخفیف) ہے جو نبی اکرم ﷺ کی طرف سے خاص طور پر شیر خوار بچوں کے پیشاب کے لیے مقرر کی گئی ہے۔"
+              ],
+              "english": [
+                "Scholars have offered several explanations for this distinction, one being that baby boys were traditionally carried and held more frequently.",
+                "Another view suggests that a baby boy's urine disperses more widely, while a baby girl's urine is considered to be more concentrated in its place of discharge.",
+                "Ultimately, this represents a unique legal concession (Takhfīf) from the Prophet (ﷺ), specifically for the urine of infants who have not yet started eating solid food."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ناپاکی کی نوعیت اور شرط",
+        "english": "Nature of Impurity and Condition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکم کے اطلاق کی شرط",
+              "english": "Condition for the Ruling's Application"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم صرف اس وقت لاگو ہوتا ہے جب بچے یا بچی کا انحصار مکمل طور پر ماں کے دودھ یا دوسرے دودھ پر ہو اور انہوں نے ٹھوس غذا کھانا شروع نہ کیا ہو۔",
+                "جیسے ہی بچے یا بچی نے کھانا پینا شروع کر دیا، تو ان کا پیشاب دوسرے لوگوں کے پیشاب کی طرح ہو جاتا ہے، اور اسے **دھونا** ضروری ہو جاتا ہے۔",
+                "اس آسانی کی وجہ یہ ہے کہ دودھ پینے والے بچے کثرت سے پیشاب کرتے ہیں اور ان کے کپڑے بار بار دھونے میں مشقت ہوتی ہے۔"
+              ],
+              "english": [
+                "This ruling applies strictly only when the infant is solely nourished by milk and has not yet started to consume solid foods or other meals.",
+                "Once the baby starts eating regular food, their urine is treated like the urine of any other person, and **washing** becomes mandatory.",
+                "The concession is granted due to the frequent urination of infants and the difficulty (Mashaqqah) involved in constantly washing their clothes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی دلیل اور اجماع",
+              "english": "Legal Proof and Consensus"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی مضبوط شرعی دلیل ہے کہ لڑکے کے پیشاب کی ناپاکی لڑکی کے پیشاب سے ہلکی نوعیت کی ہے۔",
+                "فقہاء کے درمیان اس بات پر اتفاق ہے کہ طہارت کے لیے پانی کا استعمال ہی ضروری ہے، لیکن طریقے میں فرق کی اجازت دی گئی ہے۔",
+                "یہ حکم مسلمانوں کو طہارت کے مسائل میں آسانی فراہم کرتا ہے اور اس میں کسی بھی قسم کی سختی سے بچنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "This Hadith serves as a strong legal evidence (Dalīl) that the impurity of a baby boy's urine is considered lighter than that of a baby girl's.",
+                "There is a consensus among jurists that the use of water is necessary for purification, but the difference in method is a confirmed concession.",
+                "This ruling provides ease (Yusr) to Muslims in matters of purity, teaching them to avoid unnecessary hardship (Usr) in daily religious practice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی طریقہ کار اور فقہی مسائل",
+        "english": "Practical Procedure and Fiqh Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چھینٹا مارنے کا عملی طریقہ",
+              "english": "Practical Method of Sprinkling"
+            },
+            "content": {
+              "urdu": [
+                "لڑکے کے پیشاب پر 'چھینٹا مارنے' کا مطلب یہ ہے کہ کپڑے پر اتنا پانی ڈالا جائے کہ پانی پورے پیشاب کی جگہ پر بہہ جائے اور اس کا اثر مٹا دے۔",
+                "اس کے لیے کپڑے کو ملنے، نچوڑنے یا بہت زیادہ پانی استعمال کرنے کی ضرورت نہیں ہوتی، صرف پانی کا بہاؤ کافی ہے۔",
+                "اس طریقے سے پانی کا استعمال کم ہوتا ہے اور روزمرہ کے لباس کو پاک کرنے میں وقت کی بچت ہوتی ہے، جو نبی ﷺ کی سنت سے ثابت ہے۔"
+              ],
+              "english": [
+                "The practical meaning of 'sprinkling' for a baby boy's urine is to pour water over the spot until the water covers the affected area and suppresses the visible effect.",
+                "It does not require rubbing, wringing out the garment, or using excessive amounts of water; simple pouring or flowing water is sufficient.",
+                "This method saves water and time in purifying garments of daily use, a practical instruction established by the Sunnah of the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کی حدود",
+              "english": "Limits of Purification"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم صرف کپڑے یا بدن کو پاک کرنے کے لیے ہے؛ اگر پیشاب کسی ٹھوس چیز جیسے زمین پر لگ جائے تو اس کے لیے سادہ پانی ڈالنا ہی کافی ہے۔",
+                "اس حدیث کا اطلاق صرف شیر خوار بچوں کے پیشاب پر ہے؛ بڑی عمر کے بچے یا بچی کا پیشاب بالغوں کے پیشاب کے حکم میں آتا ہے اور اسے **دھونا** لازم ہے۔",
+                "اس حکم کا مقصد امت کو ان چھوٹی چھوٹی ناپاکیوں کے بارے میں درست معلومات فراہم کرنا ہے جو بچوں کے ساتھ تعامل میں عام ہیں۔"
+              ],
+              "english": [
+                "This ruling specifically pertains to the purification of clothing or the body; if the urine falls on a solid surface like the ground, simply pouring water over it is sufficient.",
+                "The ruling is strictly limited to the urine of suckling infants; the urine of older children, male or female, falls under the general ruling for adult urine, requiring **washing**.",
+                "The entire purpose of this instruction is to provide the community with precise guidance concerning common, minor impurities encountered when dealing with infants."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیرت اور راوی کا پس منظر",
+        "english": "Sīrah and Narrator's Context"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "راوی کا تعارف: سیدنا ابوالسمح",
+              "english": "Introduction to the Narrator: Sayyiduna Abu As-Samh"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کے راوی سیدنا ابوالسمح رضی اللہ عنہ ہیں، جو نبی اکرم صلی اللہ علیہ وسلم کے خادموں میں سے تھے۔",
+                "حدیث کا پس منظر یہ ہے کہ انہوں نے نبی ﷺ کے سینے پر پیشاب کرنے والے نواسے، حسن یا حسین رضی اللہ عنہما کے کپڑوں کو دھونا چاہا۔",
+                "خدمت کی یہ تفصیل اس بات کی نشاندہی کرتی ہے کہ یہ حکم عین مشاہدے اور نبی ﷺ کے فوری ردعمل پر مبنی ہے، جو اس کی صداقت کو تقویت دیتا ہے۔"
+              ],
+              "english": [
+                "The narrator of this Hadith is Sayyiduna Abu As-Samh (RA), who was one of the personal servants of the Prophet (ﷺ).",
+                "The context of the Hadith arose when he intended to wash the garment after one of the Prophet's grandsons, Hasan or Husayn, urinated on his chest.",
+                "This detail of service indicates that the ruling is based on direct observation and the Prophet's immediate response, which strengthens its authenticity and practical nature."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا شفقت آمیز طریقہ",
+              "english": "The Prophet's Compassionate Approach"
+            },
+            "content": {
+              "urdu": [
+                "واقعہ سے یہ بھی ظاہر ہوتا ہے کہ نبی اکرم صلی اللہ علیہ وسلم بچوں پر انتہائی شفقت فرماتے تھے اور انہیں اپنے قریب رکھتے تھے۔",
+                "پیشاب لگ جانے کے باوجود آپ ﷺ نے کوئی ناگواری ظاہر نہیں کی، بلکہ فوراً طہارت کا حکم بیان کر کے امت کو تعلیم دی۔",
+                "یہ آپ ﷺ کی سنت ہے کہ آپ ایسے احکامات لائے جو نہ صرف طہارت کو یقینی بنائیں بلکہ لوگوں کی زندگیوں میں آسانی اور محبت کا پہلو بھی نمایاں کریں۔"
+              ],
+              "english": [
+                "The incident also highlights the Prophet's immense compassion towards children, as he allowed them to be close to him and held them.",
+                "Despite the urine touching him, he showed no sign of annoyance, but immediately clarified the rule of purification to educate the Ummah.",
+                "It is part of the Sunnah that he brought rulings which not only ensure ritual purity but also emphasize ease and compassion in the practical aspects of believers' lives."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

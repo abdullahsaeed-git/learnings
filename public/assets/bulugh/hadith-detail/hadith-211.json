@@ -1,0 +1,265 @@
+{
+  "hadithId": 211,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["2", "7"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب صفة الصلاة",
+    "babId": 17
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري في كتاب الأذان، باب سنة الجلوس في التشهد (828). واللفظ المشروح في الحديث هو طريقة النبي صلى الله عليه وسلم في الصلاة (صفة الصلاة).",
+    "urdu": "صحیح۔ اسے بخاری نے کتاب الأذان، باب سنة الجلوس فی التشھد (828) میں روایت کیا ہے۔ یہ بیان کردہ الفاظ دراصل نبی صلی اللہ علیہ وسلم کی نماز کا مکمل طریقہ (صفة الصلاة) ہیں۔",
+    "english": "Authentic (Sahih). Reported by Al-Bukhari in the Book of Adhan, Chapter: The Sunnah of sitting during Tashahhud (828). The described wording in the Hadith details the complete method of the Prophet's prayer (Sifat As-Salah)."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَذْوَ مَنْكِبَيْهِ",
+      "english": "Parallel to his shoulders",
+      "urdu": "کندھوں کے برابر"
+    },
+    {
+      "arabic": "أَمْكَنَ يَدَيْهِ",
+      "english": "Firmly placed his hands",
+      "urdu": "اپنے ہاتھ مضبوطی سے رکھے"
+    },
+    {
+      "arabic": "هَصَرَ ظَهْرِهِ",
+      "english": "Flattened his back",
+      "urdu": "اپنی کمر کو سیدھا جھکایا"
+    },
+    {
+      "arabic": "كُلُّ فَقَارٍ مَكَانَهُ",
+      "english": "Every vertebra returned to its place",
+      "urdu": "ہر جوڑ اپنی جگہ پر آ گیا"
+    },
+    {
+      "arabic": "غَيْرَ مُفْتَرِشٍ",
+      "english": "Without spreading (forearms)",
+      "urdu": "زمین پر نہ بچھائے ہوئے"
+    },
+    {
+      "arabic": "وَلَا قَابِضِهِمَا",
+      "english": "Nor contracting/clinging them",
+      "urdu": "اور نہ انہیں سمیٹے ہوئے"
+    },
+    {
+      "arabic": "المَقْعَدَة",
+      "english": "His hip/buttock",
+      "urdu": "سرین/چوتڑ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث حضرت ابوحمید ساعدی رضی اللہ عنہ کی طرف سے نماز کے مختلف ارکان اور سنتوں کی ایک مکمل اور جامع تصویر پیش کرتی ہے۔ اس میں رفع الیدین، رکوع میں پشت کی درستی، قومہ میں اطمینان، سجدہ میں اعضاء کی درست پوزیشن، اور دونوں طرح کے تشہد (پہلا اور آخری) کے بیٹھنے کا صحیح طریقہ وضاحت کے ساتھ بیان کیا گیا ہے، جس کا مقصد تمام مسلمانوں کو نبی صلی اللہ علیہ وسلم کی طرح نماز پڑھنے کا طریقہ سکھانا ہے۔",
+    "english": "This Hadith provides a detailed and comprehensive picture of the various pillars and Sunnahs of prayer, narrated by Abu Humayd As-Sa'idi (RA). It clearly explains the method of raising the hands (Raf' Al-Yadayn), straightening the back in Ruku', observing Tuma'ninah in Qawmah, the correct position of the limbs in Sujud, and the two different ways of sitting for Tashahhud (first and final). Its purpose is to teach all Muslims how to pray exactly as the Prophet (PBUH) prayed."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الأذان، باب سنة الجلوس في التشهد (828)",
+      "english": "Sahih Al-Bukhari, Book of Adhan, Chapter: The Sunnah of sitting during Tashahhud (828)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو حميد الساعدي",
+        "english": "Abu Humayd As-Sa'idi"
+      },
+      "slug": "abu-humayd-as-saidi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2E-R6kUeB0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز کے ارکان اور ہیئت",
+        "english": "Pillars and Posture of the Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تکبیر اور رکوع کا طریقہ",
+              "english": "Method of Takbir and Ruku'"
+            },
+            "content": {
+              "urdu": [
+                "تکبیر تحریمہ کے وقت ہاتھوں کو کندھوں کے برابر اٹھانا سنت ہے (رفع الیدین)۔",
+                "رکوع میں دونوں ہاتھوں سے گھٹنوں کو مضبوطی سے پکڑنا اور کمر کو بالکل سیدھا (بغیر خم کے) رکھنا ضروری ہے۔",
+                "رکوع سے اٹھ کر (قومہ) ہر جوڑ کا اپنی جگہ پر آ جانا اطمینان اور نماز کی تکمیل کے لیے فرض ہے۔"
+              ],
+              "english": [
+                "Raising the hands parallel to the shoulders during the opening Takbir is Sunnah (Raf' Al-Yadayn).",
+                "In Ruku', it is essential to grasp the knees firmly with both hands and keep the back completely flat (without arching).",
+                "After rising from Ruku' (Qawmah), every vertebra must return to its place, which is obligatory for the prayer's perfection (Tuma'ninah)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سجدہ کی حالت اور اعتدال",
+              "english": "Position and Moderation in Sujud"
+            },
+            "content": {
+              "urdu": [
+                "سجدے میں ہاتھوں کو نہ زمین پر بچھا کر رکھنا چاہیے (کُتّوں کی طرح) اور نہ بہت زیادہ سمیٹ کر رکھنا چاہیے۔",
+                "دونوں پاؤں کی انگلیوں کے سروں کو قبلہ کی طرف رکھنا سنت ہے، جو مکمل یکسوئی کو ظاہر کرتا ہے۔",
+                "اس حالت میں اعضاء (سات ہڈیاں) کا ٹھیک طرح سے زمین پر ٹھہرنا بھی ضروری ہے تاکہ سجدہ کامل ہو۔"
+              ],
+              "english": [
+                "In Sujud, the hands should be placed down without spreading the forearms on the ground (like a dog) or contracting them close to the sides.",
+                "Directing the tips of both toes towards the Qiblah is Sunnah, showing complete focus.",
+                "In this position, ensuring that all seven limbs are resting properly on the ground is also essential for a complete prostration."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قعدہ (تشہد) کا طریقہ",
+        "english": "Method of Sitting (Tashahhud)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہلا قعدہ (افتراش)",
+              "english": "First Tashahhud (Iftirāsh)"
+            },
+            "content": {
+              "urdu": [
+                "پہلے تشہد (قعدہ اولیٰ) میں بائیں پاؤں کو بچھا کر اس پر بیٹھنا اور دائیں پاؤں کو کھڑا رکھنا سنت ہے۔",
+                "اس طریقے کو افتراش (بچھانا) کہتے ہیں اور یہ سادگی، خشوع اور اطمینان کو برقرار رکھتا ہے۔",
+                "یہ طریقہ دو رکعت والی نمازوں کے آخری قعدے کے لیے بھی استعمال ہوتا ہے۔"
+              ],
+              "english": [
+                "In the first Tashahhud (Qad'ah Ula), the Sunnah is to sit on the spread-out left foot and keep the right foot upright.",
+                "This method is called Iftirāsh (spreading) and it maintains simplicity, humility, and composure.",
+                "This posture is also used for the final Tashahhud of two-Rak'ah prayers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آخری قعدہ (تورک)",
+              "english": "Final Tashahhud (Tawwarruk)"
+            },
+            "content": {
+              "urdu": [
+                "تین یا چار رکعت والی نمازوں کے آخری تشہد میں 'تورک' کرنا سنت ہے، یعنی سرین پر بیٹھنا۔",
+                "اس میں بایاں پاؤں دائیں ران کے نیچے سے آگے بڑھا دیا جاتا ہے اور دایاں پاؤں کھڑا رکھا جاتا ہے۔",
+                "تورک کا مقصد یہ ہے کہ آخری قعدہ اور نماز کی اختتامی کیفیت کو پہلے قعدے سے ممتاز کیا جائے۔"
+              ],
+              "english": [
+                "In the final Tashahhud of three or four-Rak'ah prayers, practicing 'Tawwarruk' (sitting on the hip) is Sunnah.",
+                "In this position, the left foot is brought forward from under the right thigh, and the right foot remains upright.",
+                "The purpose of Tawwarruk is to distinguish the final sitting and the concluding state of the prayer from the first sitting."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی جامعیت",
+        "english": "Comprehensiveness of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کی تعلیم کا طریقہ",
+              "english": "Method of Teaching Prayer"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث 'صفة صلاة النبي' (نبی کی نماز کا طریقہ) کی احادیث میں سب سے زیادہ تفصیلی اور جامع ہے۔",
+                "اس روایت کو بیان کرنے سے قبل حضرت ابوحمید نے دس صحابہ کے سامنے نماز پڑھ کر نبی کی نماز کی گواہی لی تھی۔",
+                "یہ ہمیں سکھاتی ہے کہ نماز کو مکمل تفصیل اور درستگی کے ساتھ ادا کرنا کتنا اہم ہے۔"
+              ],
+              "english": [
+                "This Hadith is one of the most detailed and comprehensive reports on 'Sifat Salāt al-Nabi' (The Prophet's method of prayer).",
+                "Before narrating this, Abu Humayd demonstrated the prayer before ten Companions to confirm its accuracy.",
+                "It teaches us the profound importance of performing the prayer with complete detail and correctness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اطمینان کی عملی صورت",
+              "english": "Practical Form of Tuma'ninah"
+            },
+            "content": {
+              "urdu": [
+                "قومہ کی حالت میں 'حَتَّى يَعُودَ كُلُّ فَقَارٍ مَكَانَهُ' (یہاں تک کہ ہر جوڑ اپنی جگہ پر آ جائے) اطمینان کی عملی تعریف ہے۔",
+                "یہ اس بات پر زور دیتا ہے کہ جسم کی حرکات میں جلدی نہ ہو بلکہ ہر رکن کو سکون کے ساتھ ادا کیا جائے۔",
+                "نماز کی مکمل صحت اور قبولیت کے لیے یہ جسمانی درستی بہت ضروری ہے۔"
+              ],
+              "english": [
+                "The phrase 'Hattā ya'ūda kullu faqārin makānahu' (until every vertebra returns to its place) is the practical definition of Tuma'ninah in Qawmah.",
+                "It emphasizes avoiding haste in physical movements and performing every pillar with stillness.",
+                "This physical correctness is vital for the full validity and acceptance of the prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی رہنمائی اور تفاوت",
+        "english": "Practical Guidance and Differences"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف طریقوں میں وسعت",
+              "english": "Scope within Different Methods"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث نماز کا ایک تفصیلی طریقہ بیان کرتی ہے، لیکن نماز میں رفع الیدین کے دیگر مقامات بھی سنت سے ثابت ہیں۔",
+                "بعض فقہی مکاتب فکر صرف افتراش یا صرف تورک کو اختیار کرتے ہیں، لیکن دونوں سنت سے ثابت ہیں۔",
+                "ان اختلافات میں اصل مقصد خشوع اور نبی صلی اللہ علیہ وسلم کی اقتداء ہے۔"
+              ],
+              "english": [
+                "Although this Hadith describes a detailed method, other positions for raising the hands (Raf' Al-Yadayn) are also proven from the Sunnah.",
+                "Some schools of jurisprudence adopt only Iftirāsh or only Tawwarruk, but both are proven by the Sunnah.",
+                "In these differences, the core purpose remains Khushu' and following the Prophet (PBUH)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جسمانی آرام اور انحناء",
+              "english": "Physical Comfort and Inclination"
+            },
+            "content": {
+              "urdu": [
+                "سجدے میں ہاتھوں کو بچھانے (افتراش) کی ممانعت نمازی کے لیے بھی زیادہ آرام دہ حالت ہے۔",
+                "اسلام ہر کام میں اعتدال اور توازن کو پسند کرتا ہے، خواہ وہ عبادت ہی کیوں نہ ہو۔",
+                "نماز کے ارکان کو اس طرح ادا کرنا چاہیے کہ جسمانی طور پر مکمل آرام ہو اور دل اللہ کی طرف متوجہ ہو۔"
+              ],
+              "english": [
+                "The prohibition against spreading the hands (Iftirāsh) in Sujud is also more comfortable for the worshipper.",
+                "Islam favors moderation and balance in all things, even in acts of worship.",
+                "The pillars of prayer should be performed in such a way that the body is completely at ease and the heart is focused on Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

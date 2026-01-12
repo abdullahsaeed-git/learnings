@@ -1,0 +1,243 @@
+{
+  "hadithId": 8,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "kitabId": 1,
+    "inKitabBab": 1,
+    "arabicBook": "",
+    "babId": 1
+  },
+  "takhreej": {
+    "arabic": "سنن الترمذي (91)، رواه مسلم (279)، صحيح. ",
+    "urdu": "یہ حدیث ترمذی (91) اور مسلم (279) میں مروی ہے۔",
+    "english": "This Hadith is narrated in Sunan At-Tirmidhi (91) and Muslim (279)."
+  },
+  "importantWords": [
+    {
+      "arabic": "ولغ",
+      "english": "To lick or lap (used for dogs).",
+      "urdu": "چاٹنا یا لینا (کتے کے لیے استعمال ہوتا ہے)"
+    },
+    {
+      "arabic": "تراب",
+      "english": "Soil or dust.",
+      "urdu": "خاک یا مٹی"
+    }
+  ],
+  "summary": {
+    "urdu": "حدیث میں بیان ہے کہ اگر کسی برتن کو کتے نے چاٹا تو اسے سات بار دھونا ضروری ہے، اور پہلی بار خاک کے ساتھ دھونا چاہیے۔",
+    "english": "The Hadith explains that if a dog licks a vessel, it must be washed seven times, the first time with soil."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (91)",
+      "english": "Sunan At-Tirmidhi (91)"
+    },
+    {
+      "arabic": "رواه مسلم (279)",
+      "english": "Narrated in Muslim (279)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة رضى الله عنه",
+        "english": "Abu Hurairah (may Allah be pleased with him)"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کتے کے چاٹنے کا اثر",
+        "english": "Effect of Dog Licking"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نجاست کی حالت",
+              "english": "State of Impurity"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں بیان ہے کہ کتے کے چاٹنے سے برتن نجس ہو جاتا ہے۔",
+                "اس لئے اسے دھونا ضروری ہے۔",
+                "پہلی بار خاک کے ساتھ دھونا زیادہ اثر رکھتا ہے۔"
+              ],
+              "english": [
+                "The Hadith explains that a vessel becomes impure when licked by a dog.",
+                "It must be washed to remove impurity.",
+                "The first wash with soil is more effective."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضو اور غسل پر اثر",
+              "english": "Effect on Ablution and Bathing"
+            },
+            "content": {
+              "urdu": [
+                "نجس برتن سے پانی استعمال کرنا وضو اور غسل میں ممنوع ہے۔",
+                "اس کے اثرات سے بچنے کے لئے دھونا ضروری ہے۔",
+                "حدیث ہمیں صفائی کی اہمیت سکھاتی ہے۔"
+              ],
+              "english": [
+                "Using water from the impure vessel for ablution or bathing is forbidden.",
+                "Washing removes these effects.",
+                "The Hadith teaches the importance of cleanliness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صفائی کے اصول",
+        "english": "Principles of Cleanliness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سات بار دھونا",
+              "english": "Wash Seven Times"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں بیان ہے کہ برتن کو سات بار دھونا ضروری ہے۔",
+                "پہلی بار خاک کے ساتھ دھونا مستحب ہے۔",
+                "یہ طریقہ سنت ہے۔"
+              ],
+              "english": [
+                "The Hadith prescribes washing the vessel seven times.",
+                "The first wash should be with soil.",
+                "This method follows the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پاکیزگی کی تاکید",
+              "english": "Emphasis on Purity"
+            },
+            "content": {
+              "urdu": [
+                "حدیث صفائی اور پاکیزگی پر زور دیتی ہے۔",
+                "نجاست کو دور کرنا فرض ہے۔",
+                "صفائی میں توجہ دینا چاہئے۔"
+              ],
+              "english": [
+                "The Hadith emphasizes cleanliness and purity.",
+                "Removing impurity is obligatory.",
+                "Attention to cleanliness is required."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاک کا استعمال",
+        "english": "Use of Soil"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہلی دھلائی میں اثر",
+              "english": "Effect in First Wash"
+            },
+            "content": {
+              "urdu": [
+                "پہلی دھلائی میں خاک استعمال کرنے کی ہدایت ہے۔",
+                "یہ نجاست کو دور کرنے میں زیادہ مؤثر ہے۔",
+                "حدیث میں یہ سنت کے طور پر بیان ہوئی ہے۔"
+              ],
+              "english": [
+                "Using soil in the first wash is prescribed.",
+                "It is more effective in removing impurity.",
+                "The Hadith mentions this as part of Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طریقہ اور ادب",
+              "english": "Method and Etiquette"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں صاف کرنے کا صحیح طریقہ بتایا گیا ہے۔",
+                "نجاست کو دور کرنے کا ادب سکھایا گیا ہے۔",
+                "یہ صفائی کے اصولوں کا حصہ ہے۔"
+              ],
+              "english": [
+                "The Hadith explains the proper method of cleaning.",
+                "It teaches etiquette for removing impurity.",
+                "It is part of cleanliness principles."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صفائی کا سبق",
+              "english": "Lesson of Cleanliness"
+            },
+            "content": {
+              "urdu": [
+                "حدیث ہمیں سکھاتی ہے کہ نجاست کو فوراً دور کریں۔",
+                "صفائی میں غفلت نہ کریں۔",
+                "یہ دین میں اہم عمل ہے۔"
+              ],
+              "english": [
+                "The Hadith teaches to immediately remove impurity.",
+                "Do not be negligent in cleanliness.",
+                "It is an important practice in Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "حدیث سنت کے مطابق برتن صاف کرنے کی ہدایت دیتی ہے۔",
+                "صفائی کو عبادت کا حصہ سمجھیں۔",
+                "سنت پر عمل کرنا مستحب ہے۔"
+              ],
+              "english": [
+                "The Hadith instructs cleaning the vessel according to Sunnah.",
+                "Consider cleanliness as part of worship.",
+                "Following Sunnah is recommended."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

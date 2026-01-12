@@ -1,0 +1,255 @@
+{
+  "hadithId": 1300,
+  "hadithNo": 24,
+  "hadithReferences": {
+    "sunnah.com": ["bukhari:1393", "bulugh:1500"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 105
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1393)، والنسائي (1936)، وأحمد (24147).",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (1393) نے اسے اپنی صحیح میں روایت کیا ہے۔ اس میں فوت شدگان کی عزت کی حفاظت کا حکم دیا گیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1393), An-Nasa'i (1936), and Ahmad (24147). It emphasizes the respect due to those who have passed away."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَسُبُّوا",
+      "english": "Do not abuse / insult",
+      "urdu": "گالی نہ دو / برا نہ کہو"
+    },
+    {
+      "arabic": "الأَمْوَاتَ",
+      "english": "The dead",
+      "urdu": "فوت شدگان / مردے"
+    },
+    {
+      "arabic": "أَفْضَوْا",
+      "english": "They have reached / passed on",
+      "urdu": "وہ پہنچ چکے ہیں"
+    },
+    {
+      "arabic": "مَا قَدَّمُوا",
+      "english": "What they sent forth (deeds)",
+      "urdu": "جو انہوں نے آگے بھیجا / اعمال"
+    },
+    {
+      "arabic": "حُرْمَة",
+      "english": "Sanctity / Sacredness",
+      "urdu": "حرمت / عزت"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں فوت ہو جانے والے مسلمانوں کو برا بھلا کہنے سے منع کیا گیا ہے، کیونکہ وہ اپنے انجام تک پہنچ چکے ہیں اور اب ان کی برائی کرنے کا کوئی فائدہ نہیں۔",
+    "english": "This Hadith forbids insulting deceased Muslims, noting that they have already met the consequences of their deeds, and speaking ill of them is futile and harmful."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1393)",
+      "english": "Sahih al-Bukhari (1393)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYI8jKkUu94",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فوت شدگان کی حرمت",
+        "english": "The Sanctity of the Deceased"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردوں کو برا کہنے کی ممانعت",
+              "english": "Prohibition of Insulting the Dead"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں مرنے والے کی عزت و حرمت زندہ کی طرح واجب ہے۔",
+                "مردوں کو گالی دینا ان کی روح کو تکلیف پہنچانے کے مترادف ہے۔",
+                "ایسی باتوں سے پرہیز کریں جن کا جواب وہ خود نہیں دے سکتے۔"
+              ],
+              "english": [
+                "In Islam, the honor of the dead is as sacred as that of the living.",
+                "Abusing the dead is akin to causing distress to their souls.",
+                "Refrain from making accusations that the deceased cannot defend."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعمال کا فیصلہ اللہ کے پاس",
+              "english": "Judgment belongs to Allah"
+            },
+            "content": {
+              "urdu": [
+                "مرنے والا اپنے اچھے یا برے اعمال کے ساتھ اللہ کے حضور پیش ہو چکا ہے۔",
+                "اب اس کے معاملات کا فیصلہ صرف اللہ تعالیٰ کے ہاتھ میں ہے۔",
+                "انسان کو دوسروں کے انجام پر تبصرہ کرنے کے بجائے اپنی فکر کرنی چاہیے۔"
+              ],
+              "english": [
+                "The deceased has already appeared before Allah with their deeds.",
+                "The final judgment of their affairs now rests solely with Allah.",
+                "One should worry about their own end rather than judging others."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "لواحقین کی دل آزاری",
+        "english": "Distressing the Surviving Relatives"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زندوں کے لیے تکلیف",
+              "english": "Pain for the Living"
+            },
+            "content": {
+              "urdu": [
+                "مردوں کی برائی کرنے سے ان کے پسماندگان کو شدید دکھ پہنچتا ہے۔",
+                "دوسری روایات کے مطابق مردوں کو برا کہنا زندہ رشتہ داروں کو اذیت دینا ہے۔",
+                "اسلام معاشرے میں ہمدردی اور محبت کے فروغ کا داعی ہے۔"
+              ],
+              "english": [
+                "Speaking ill of the dead causes immense grief to their surviving family.",
+                "According to other narrations, abusing the dead hurts the living relatives.",
+                "Islam advocates for empathy and love within the community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی فتنہ",
+              "english": "Social Discord"
+            },
+            "content": {
+              "urdu": [
+                "فوت شدگان کی عیب جوئی سے خاندانوں میں دشمنی پیدا ہوتی ہے۔",
+                "یہ عمل بھائی چارے اور باہمی احترام کے رشتوں کو کمزور کرتا ہے۔",
+                "مومن وہ ہے جو دوسروں کے لیے خیر اور بھلائی کا باعث بنے۔"
+              ],
+              "english": [
+                "Criticizing the deceased creates animosity between families.",
+                "This behavior weakens the bonds of brotherhood and mutual respect.",
+                "A believer is one who is a source of goodness for others."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مستثنیٰ حالات",
+        "english": "Exceptional Circumstances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تاریخی اور علمی ضرورت",
+              "english": "Historical and Academic Necessity"
+            },
+            "content": {
+              "urdu": [
+                "تاریخ میں ظالموں کے حالات بیان کرنا عبرت کے لیے جائز ہے۔",
+                "حدیث کے راویوں کی جرح و تعدیل (تحقیق) اس ممانعت میں نہیں آتی۔",
+                "برائی سے بچانے کے لیے کسی فوت شدہ کے فتنے سے آگاہ کرنا درست ہے۔"
+              ],
+              "english": [
+                "Relating the history of tyrants is permissible for taking heed.",
+                "Academic criticism (Jarh wa Ta'dil) of narrators is not included in this.",
+                "Warning against a deceased person's innovations is allowed for protection."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حق اور باطل کی پہچان",
+              "english": "Identifying Truth and Falsehood"
+            },
+            "content": {
+              "urdu": [
+                "برائی کی مذمت کا مقصد کسی کی ذاتی تذلیل نہیں بلکہ حق کی وضاحت ہے۔",
+                "اسلامی اصولوں کے دفاع میں ضرورت کے تحت کلام کیا جا سکتا ہے۔",
+                "عام حالات میں عام مسلمانوں کی پردہ پوشی ہی افضل عمل ہے۔"
+              ],
+              "english": [
+                "Condemning evil is for clarifying truth, not for personal humiliation.",
+                "Speaking is allowed when defending Islamic principles as needed.",
+                "In general, covering the faults of common Muslims is superior."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصیحت",
+        "english": "Practical Lesson and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خیر کی باتیں کرنا",
+              "english": "Speaking Good"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے فرمایا کہ اپنے مردوں کی خوبیاں بیان کیا کرو۔",
+                "برائیوں پر خاموشی اختیار کرنا اور اچھائیوں کو یاد رکھنا سنت ہے۔",
+                "یہ عمل دلوں میں نرمی اور بخشش کا جذبہ پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) said to mention the good qualities of your dead.",
+                "Remaining silent on faults and remembering virtues is the Sunnah.",
+                "This practice fosters softness in hearts and a spirit of forgiveness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موت کی یاد",
+              "english": "Remembrance of Death"
+            },
+            "content": {
+              "urdu": [
+                "مردوں کا تذکرہ ہمیں اپنی موت اور آخرت کی یاد دلاتا ہے۔",
+                "ان کی برائی کرنے کے بجائے ان کے لیے دعائے مغفرت کرنی چاہیے۔",
+                "آج وہ جا چکے ہیں، کل ہمیں بھی اسی منزل کی طرف روانہ ہونا ہے۔"
+              ],
+              "english": [
+                "Mentioning the dead reminds us of our own death and the Hereafter.",
+                "Instead of criticizing them, we should pray for their forgiveness.",
+                "They have gone today, and tomorrow we must follow the same path."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

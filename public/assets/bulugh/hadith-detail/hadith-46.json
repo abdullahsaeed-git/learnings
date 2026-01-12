@@ -1,0 +1,268 @@
+{
+  "hadithId": 46,
+  "hadithNo": 18,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 18 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب التسمية على الوضوء",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "حسن بشواهده . رواه أحمد (2/418)، وأبو داود (101)، وابن ماجه (399) . سنن الترمذي (25).  \"العلل الكبير\" (112-113) . كما في \"مسائل ابن هانيء\" (1/16/3) .  قلت: ولكن الحديث حسن بشواهده، وصححه غير واحد من الحافظ، وقد فصلت القول فيه في \"الأصل\",",
+    "urdu": "حسن بشواہدہ (بشواہد حسن)۔ اسے احمد (2/418)، ابوداؤد (101)، اور ابن ماجہ (399) نے روایت کیا ہے۔ سنن ترمذی (25) میں بھی موجود ہے۔ محدثین نے اس کی سند کو کمزور کہا ہے، تاہم محققین نے اس کے متعدد شواہد (corroborating reports) کی بنا پر اسے حسن کے درجہ پر فائز کیا ہے۔",
+    "english": "Hasan li-ghayrihi (Good due to external support). Narrated by Ahmad (2/418), Abu Dawud (101), and Ibn Majah (399). It is present in Sunan At-Tirmidhi (25). Although the individual chains are weak, many leading scholars authenticated it to the level of Hasan due to the multitude of supporting narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا وُضُوءَ",
+      "english": "There is no Wudu",
+      "urdu": "کوئی وضو نہیں"
+    },
+    {
+      "arabic": "لِمَنْ لَمْ",
+      "english": "For the one who did not",
+      "urdu": "جس نے نہ"
+    },
+    {
+      "arabic": "يَذْكُرِ",
+      "english": "Mention/Recite",
+      "urdu": "پڑھی"
+    },
+    {
+      "arabic": "اِسْمَ اَللَّهِ",
+      "english": "The name of Allah",
+      "urdu": "اللہ کا نام"
+    },
+    {
+      "arabic": "عليه",
+      "english": "Upon it",
+      "urdu": "اس پر"
+    },
+    {
+      "arabic": "ضَعِيف",
+      "english": "Weak (Chain)",
+      "urdu": "ضعیف (سند)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ وضو کے آغاز میں **بسم اللہ** پڑھنا ضروری ہے، کیونکہ اس کے بغیر وضو نامکمل ہوتا ہے۔ محدثین کی ایک جماعت نے اگرچہ انفرادی اسناد کو ضعیف کہا، مگر کثرت شواہد کی بنا پر حکم کو **حسن** قرار دیا ہے۔",
+    "english": "This Hadith states the necessity of saying **'Bismillāh'** at the beginning of Wudu, implying its invalidity without it. Although the individual chains are weak, the ruling is elevated to **Hasan** due to multiple supporting narrations (Shawāhid)."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد، رقم 2/418",
+      "english": "Musnad Ahmad, Hadith 2/418"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الطهارة، رقم 101",
+      "english": "Sunan Abī Dāwūd, The Book of Purification, Hadith 101"
+    },
+    {
+      "arabic": "سنن ابن ماجه، كتاب الطهارة، رقم 399",
+      "english": "Sunan Ibn Mājah, The Book of Purification, Hadith 399"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abu Hurayrah (May Allah be pleased with him)"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-24-bismillah-wudu",
+  "grade": {
+    "arabic": "حسن بشواهده",
+    "english": "Hasan li-ghayrihi (Good due to external support)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تسمیہ کا حکم اور اس کی حیثیت",
+        "english": "The Ruling and Status of Tasmiyah (Reciting Bismillah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تسمیہ کی حیثیت میں اختلاف",
+              "english": "Disagreement on the Status of Tasmiyah"
+            },
+            "content": {
+              "urdu": [
+                "جمہور (اکثر) فقہاء کے نزدیک، وضو کے آغاز میں **بسم اللہ (تسمیہ)** پڑھنا واجب نہیں بلکہ **سنتِ مؤکدہ** ہے، یعنی نہ پڑھنے سے وضو ہو جاتا ہے مگر کمال فوت ہو جاتا ہے۔",
+                "بعض فقہاء (جیسے امام احمد بن حنبل اور اسحاق) اس حدیث کے ظاہری مفہوم کی وجہ سے اسے **واجب** قرار دیتے ہیں، اگرچہ بھول جانے کی صورت میں معافی ہے۔",
+                "امام احمد کا یہ قول کہ 'اس بارے میں کوئی چیز ثابت نہیں'، سند کے انفرادی ضعف کی طرف اشارہ کرتا ہے، لیکن کثرتِ طرق سے حکم کی قوت حاصل ہوتی ہے۔"
+              ],
+              "english": [
+                "According to the majority of jurists (Jumhūr), reciting **Bismillāh (Tasmiyah)** at the start of Wudu is not obligatory but a **confirmed Sunnah (Sunnah Mu'akkadah)**; omitting it does not invalidate Wudu, but perfection is missed.",
+                "Some scholars (like Imām Ahmad ibn Hanbal and Ishāq) consider it **obligatory (Wājib)** based on the literal meaning of this Hadith, although they exempt one who forgets.",
+                "Imām Ahmad's statement, 'Nothing is established concerning this,' refers to the weakness of the individual chains, but the multitude of narrations strengthens the ruling."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حدیث کا مفہوم: نفیِ کمال",
+              "english": "Meaning of the Hadith: Negation of Perfection"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'لَا وُضُوءَ' (کوئی وضو نہیں) سے مراد یہ نہیں کہ وضو باطل ہو جائے گا، بلکہ اس سے مراد **نفیِ کمال** ہے، یعنی وضو کامل اور بااجر نہیں ہو گا۔",
+                "یہ بالکل اسی طرح ہے جیسے 'لَا صَلَاةَ لِجَارِ اَلْمَسْجِدِ إِلَّا فِي اَلْمَسْجِدِ' (مسجد کے پڑوسی کی نماز مسجد کے علاوہ نہیں)، جس کا مقصد نفیِ کمال ہے۔",
+                "لہٰذا، یہ عمل وضو میں برکت اور ثواب کے حصول کے لیے بنیادی شرط ہے، نہ کہ اس کی صحت کے لیے قطعی شرط۔"
+              ],
+              "english": [
+                "The phrase 'Lā Wuḍū’a' (There is no Wudu) in the Hadith does not mean the ablution is invalid, but rather refers to the **negation of perfection (Nafy al-Kamāl)**, meaning the Wudu will not be complete and fully rewarded.",
+                "This is similar to the saying, 'There is no prayer for the neighbor of the mosque except in the mosque,' which aims to negate perfection and not validity.",
+                "Therefore, this action is a fundamental condition for attaining blessing and reward in Wudu, not an absolute condition for its legal correctness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند کی تحقیق اور نتیجہ",
+        "english": "Authentication of the Chain and Conclusion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حسن بشواہدہ (قوت کا اصول)",
+              "english": "Hasan li-ghayrihi (The Principle of Strength)"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کی ایک جماعت نے اس حدیث کو اس کے متعدد شواہد (دوسری ضعیف اسناد سے ملنے والی متواتر روایات) کی وجہ سے **حسن بشواہدہ** کا درجہ دیا ہے۔",
+                "یہ اصول یہ ثابت کرتا ہے کہ جب ایک کمزور روایت کی تائید دیگر کمزور روایات سے ہو تو وہ مل کر ایک حسن اور قابل استدلال حدیث بن جاتی ہے۔",
+                "اس طرح، وضو کے آغاز میں تسمیہ پڑھنے کا حکم شرعی طور پر ثابت شدہ اور قابل عمل ہے۔"
+              ],
+              "english": [
+                "A group of Hadith scholars elevated this Hadith to the rank of **Hasan li-ghayrihi** due to its numerous *Shawāhid* (corroborating reports coming through other weak chains).",
+                "This principle establishes that when a weak narration is supported by other weak narrations, they collectively strengthen it to become a *Hasan* Hadith, which is acceptable as a legal proof.",
+                "Thus, the ruling to recite Tasmiyah at the beginning of Wudu is religiously established and actionable."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "چھوٹ جانے پر حکم",
+              "english": "Ruling upon Omission"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص تسمیہ پڑھنا **بھول** جائے، تو جمہور کے نزدیک اس کا وضو صحیح ہے اور اس پر کوئی گناہ نہیں۔",
+                "اگر کوئی شخص اسے **قصداً** ترک کرتا ہے، تو اس نے ایک اہم سنت کو چھوڑ دیا اور وضو کے ثواب کو کم کر لیا، مگر وضو ہو گیا۔",
+                "البتہ، جو اسے فرض مانتے ہیں وہ یاد آنے پر اس کی ادائیگی کو واجب قرار دیتے ہیں یا وضو کو دوبارہ کرنے کا حکم دیتے ہیں۔"
+              ],
+              "english": [
+                "If a person **forgets** to recite Tasmiyah, the majority of scholars hold that his Wudu remains valid and he incurs no sin.",
+                "If a person **intentionally** omits it, he has neglected an important Sunnah and lessened the reward of his Wudu, though the ablution itself is completed.",
+                "However, those who deem it obligatory command its recitation upon recollection, or otherwise rule that the Wudu must be repeated."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تسمیہ کی حکمت اور فوائد",
+        "english": "Wisdom and Benefits of Tasmiyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت کی تکمیل",
+              "english": "Perfection of Intention (Niyyah)"
+            },
+            "content": {
+              "urdu": [
+                "تسمیہ (بسم اللہ) پڑھنا وضو کے عمل کو اللہ کے نام سے منسلک کر کے نیت کی تکمیل کرتا ہے اور اسے محض ایک صفائی کا عمل نہیں رہنے دیتا۔",
+                "ہر عبادت کا آغاز اللہ کے نام سے کرنا اس بات کا اعلان ہے کہ یہ عمل صرف اللہ کی رضا کے لیے کیا جا رہا ہے۔",
+                "یہ روحانی طور پر مسلمان کو متنبہ کرتا ہے کہ وہ ایک اہم عبادت کی تیاری کر رہا ہے، جس سے اس کی توجہ مرکوز ہوتی ہے۔"
+              ],
+              "english": [
+                "Reciting Tasmiyah (Bismillāh) links the act of Wudu with the Name of Allah, perfecting the intention (Niyyah) and elevating it beyond a mere act of cleanliness.",
+                "Starting every act of worship with the Name of Allah is an announcement that this deed is being performed solely for the pleasure of Allah.",
+                "Spiritually, it alerts the Muslim that they are preparing for a major act of worship, which helps in focusing their concentration and mindfulness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شیطان سے حفاظت",
+              "english": "Protection from the Devil"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی نیک عمل کا آغاز اللہ کے نام سے کرنا شیطان کی مداخلت اور اس عمل میں برکت کی کمی کو دور کرنے کا ذریعہ ہے۔",
+                "شیطان مسلمان کے عمل کی پاکیزگی کو نقصان پہنچانے کی کوشش کرتا ہے، اور بسم اللہ اس عمل کو شیطانی اثرات سے محفوظ کرتی ہے۔",
+                "وضو کا مقصد روحانی طہارت ہے، اور بسم اللہ پڑھنا اس روحانی پہلو کو مضبوط کرتا ہے۔"
+              ],
+              "english": [
+                "Beginning any righteous act with the Name of Allah is a means of driving away Satanic interference and ensuring that the act is not devoid of blessing.",
+                "Satan attempts to harm the purity of a Muslim's action, and Bismillāh protects the Wudu from these negative whispers and influences.",
+                "The purpose of Wudu is spiritual purification, and reciting Bismillāh strengthens this spiritual aspect of the ritual."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قواعدِ عمومی کا اطلاق",
+        "english": "Application of General Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اھتمام کی اہمیت",
+              "english": "Importance of Diligence"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ فرضیت میں اختلاف ہے، لیکن یہ حدیث ہر مسلمان کو وضو کے آغاز میں تسمیہ پڑھنے کے **اھتمام** کی بھرپور ترغیب دیتی ہے۔",
+                "جو شخص اس عمل میں کوئی کوتاہی نہیں کرتا وہ شک سے محفوظ رہتا ہے اور مکمل سنت پر عمل کر کے دوہرا اجر کماتا ہے۔",
+                "یہ حکم مسلمان کو یاد دلاتا ہے کہ زندگی کے تمام معاملات کو اللہ کے نام سے شروع کرنا خیر و برکت کا باعث ہے۔"
+              ],
+              "english": [
+                "Although there is scholarly disagreement on its obligation, this Hadith strongly encourages every Muslim to be **diligent (Ihtimām)** in reciting Tasmiyah at the start of Wudu.",
+                "A person who is not negligent in this act safeguards himself from doubt and earns double the reward by adhering to the complete Sunnah.",
+                "This ruling reminds a Muslim that starting all important matters of life with the Name of Allah is a source of goodness and blessing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر عبادات پر اثر",
+              "english": "Impact on Other Acts of Worship"
+            },
+            "content": {
+              "urdu": [
+                "وضو کا مقصد نماز کی تیاری ہے، اور تسمیہ پڑھنے سے نماز کی قبولیت میں اضافہ ہوتا ہے کیونکہ اس کی بنیاد مضبوط ہو جاتی ہے۔",
+                "اسی طرح، غسلِ جنابت اور تیمم کے آغاز میں بھی بسم اللہ پڑھنا سنت ہے، کیونکہ یہ دونوں طہارت کے اعمال ہیں۔",
+                "یہ اصول تمام اہم دینی اعمال پر لاگو ہوتا ہے، جیسے کھانا، پینا یا جانور کو ذبح کرنا، جہاں اللہ کا نام ضروری ہے۔"
+              ],
+              "english": [
+                "Wudu is preparation for Salah (prayer), and reciting Tasmiyah increases the acceptance of Salah because its foundation is made strong.",
+                "Similarly, it is Sunnah to recite Bismillāh at the beginning of Ghusl (ritual bath) and Tayammum (dry ablution), as these are also acts of purification.",
+                "This principle applies to all important religious acts, such as eating, drinking, or slaughtering an animal, where mentioning the Name of Allah is necessary."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "hadithId": 779,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/779"],
+    "kitabId": 7,
+    "inKitabBab": 16,
+    "arabicBook": "بلوغ المرام - كتاب البيوع",
+    "babId": 57
+  },
+ 
+  "takhreej": {
+    "arabic": "حديث صحيح بطرقه وشواهده. رواه أحمد (2865)، وابن ماجه (2340)، والدارقطني (4/227)، والحاكم (2/66)، والبيهقي (6/69). وصححه الألباني في السلسلة الصحيحة (250).",
+    "urdu": "یہ حدیث اپنے طرق اور شواہد کی بنا پر صحیح ہے۔ اسے امام احمد، ابن ماجہ، دارقطنی اور حاکم نے روایت کیا ہے۔ علامہ البانی نے اسے 'سلسلہ صحیحہ' میں صحیح قرار دیا ہے۔",
+    "english": "A Sahih Hadith due to its multiple routes and witnesses. Reported by Ahmad (2865), Ibn Majah (2340), Ad-Daraqutni, Al-Hakim, and Al-Bayhaqi. Authenticated by Al-Albani in Silsilah as-Sahihah (250)."
+  },
+  "importantWords": [
+    {
+      "arabic": "ضَرَرَ",
+      "english": "Harm (Initial)",
+      "urdu": "نقصان پہنچانا"
+    },
+    {
+      "arabic": "ضِرَارَ",
+      "english": "Reciprocating harm",
+      "urdu": "بدلے میں نقصان دینا"
+    },
+    {
+      "arabic": "الْمُوَطَّإِ",
+      "english": "Al-Muwatta (Book)",
+      "urdu": "موطا امام مالک"
+    },
+    {
+      "arabic": "مُرْسَلٌ",
+      "english": "Mursal (Disconnected)",
+      "urdu": "مرسل (سند میں صحابی کا ذکر نہ ہونا)"
+    },
+    {
+      "arabic": "قَاعِدَةٌ",
+      "english": "Legal Rule",
+      "urdu": "فقہی قاعدہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اسلام کے ایک عظیم قانونی اور اخلاقی قاعدے کی بنیاد ہے، جس کا مطلب ہے کہ کسی بھی انسان کو مالی، جانی یا اخلاقی نقصان پہنچانا حرام ہے، چاہے وہ ابتدا میں ہو یا بدلے کی صورت میں۔",
+    "english": "This Hadith is a foundational legal maxim in Islam, prohibiting the infliction of harm on others—whether initiated or as an excessive retaliation—across all financial, physical, and moral dealings."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (2865)",
+      "english": "Reported by Ahmad (2865)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (2340)",
+      "english": "Reported by Ibn Majah (2340)"
+    },
+    {
+      "arabic": "الموطأ للإمام مالك (2/745)",
+      "english": "Al-Muwatta by Imam Malik (2/745)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S0T-XQYqBvI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فقہی قاعدے کی اہمیت",
+        "english": "Importance of the Legal Maxim"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضرر اور ضرار کا فرق",
+              "english": "Difference between Darar and Dirar"
+            },
+            "content": {
+              "urdu": [
+                "ضرر کا مطلب ہے کسی کو بلا وجہ نقصان پہنچانا جبکہ ضرار کا مطلب نقصان کے بدلے زیادہ نقصان دینا ہے۔",
+                "اسلامی فقہ میں یہ قاعدہ 'الضرر یزال' (نقصان کو ختم کیا جائے گا) کی بنیاد ہے۔",
+                "یہ حکم زندگی کے تمام شعبوں بشمول تجارت، نکاح اور معاشرت پر محیط ہے۔"
+              ],
+              "english": [
+                "Darar means initiating harm, while Dirar refers to reciprocating harm in an excessive or illegal manner.",
+                "In Islamic Jurisprudence, this forms the base for the maxim 'Harm must be eliminated.'",
+                "This ruling covers all aspects of life, including trade, marriage, and social interactions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جامعیت اور اطلاق",
+              "english": "Comprehensiveness and Application"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث 'جوامع الکلم' میں سے ہے جو مختصر الفاظ میں بڑی حقیقت بیان کرتی ہے۔",
+                "کوئی بھی ایسا عمل جو دوسرے کے جائز حق میں رکاوٹ بنے، وہ اس حدیث کی رو سے ممنوع ہے۔",
+                "اس قاعدے کے ذریعے جج اور مفتی پیچیدہ مسائل کا حل نکالتے ہیں۔"
+              ],
+              "english": [
+                "This Hadith is from the 'concise speech' of the Prophet (ﷺ), conveying vast meanings in few words.",
+                "Any action that obstructs the legitimate rights of another is prohibited by this Hadith.",
+                "Judges and jurists use this maxim to resolve complex legal disputes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی اور تجارتی احکام",
+        "english": "Economic and Trade Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کاروباری دھوکہ دہی کی ممانعت",
+              "english": "Prohibition of Commercial Deception"
+            },
+            "content": {
+              "urdu": [
+                "ایسی تجارت جس میں گاہک کا نقصان ہو، وہ اس حدیث کی بنیاد پر حرام ہے۔",
+                "ملاوٹ، ذخیرہ اندوزی اور جھوٹی قسمیں سب 'ضرر' کی قسمیں ہیں۔",
+                "مسلمان تاجر پر لازم ہے کہ وہ نفع کمانے کے لیے دوسروں کو نقصان نہ پہنچائے۔"
+              ],
+              "english": [
+                "Any trade involving harm to the customer is prohibited based on this Hadith.",
+                "Adulteration, hoarding, and false oaths are all forms of prohibited 'Darar'.",
+                "A Muslim merchant is obligated not to harm others while pursuing profit."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوقِ ہمسائیگی اور جائیداد",
+              "english": "Neighborly Rights and Property"
+            },
+            "content": {
+              "urdu": [
+                "اپنی زمین پر ایسا کام کرنا جس سے پڑوسی کی دیوار یا پردے کو نقصان پہنچے، ناجائز ہے۔",
+                "پانی کے راستے روکنا یا دھواں پھیلانا جس سے دوسروں کو تکلیف ہو، منع ہے۔",
+                "ملکیت کا حق وہیں تک ہے جہاں سے دوسرے کا نقصان شروع نہ ہو۔"
+              ],
+              "english": [
+                "Doing work on one's land that damages a neighbor's wall or privacy is unlawful.",
+                "Blocking water paths or spreading smoke that troubles others is forbidden.",
+                "The right of ownership ends where the harm to another begins."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی اور قانونی پہلو",
+        "english": "Social and Legal Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بدلے میں زیادتی کی ممانعت",
+              "english": "Prohibition of Excessive Retaliation"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی آپ کو نقصان پہنچائے تو آپ کو قانون ہاتھ میں لے کر اسے زیادہ نقصان دینے کا حق نہیں۔",
+                "انصاف صرف قانونی راستے سے اور برابری کی بنیاد پر ہونا چاہیے۔",
+                "بدلہ لینے میں حد سے گزرنا معاشرے میں بگاڑ اور دشمنی کا سبب بنتا ہے۔"
+              ],
+              "english": [
+                "If someone harms you, you do not have the right to take the law into your hands and over-retaliate.",
+                "Justice must be sought through legal channels and on the basis of equality.",
+                "Exceeding limits in retaliation causes corruption and ongoing enmity in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ریاست کی ذمہ داری",
+              "english": "Responsibility of the State"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی ریاست کا کام ایسے قوانین بنانا ہے جو عوام سے نقصان کو دور کریں۔",
+                "عوامی سہولیات میں خلل ڈالنے والوں کو روکنا اس حدیث کی روح کے مطابق ہے۔",
+                "ریاست کا عدالتی نظام اسی نبوی اصول پر قائم ہونا چاہیے۔"
+              ],
+              "english": [
+                "The role of the Islamic state is to enact laws that remove harm from the public.",
+                "Restraining those who disrupt public utilities aligns with the spirit of this Hadith.",
+                "The state's judicial system should be firmly established on this Prophetic principle."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی خیر خواہی",
+              "english": "Mutual Goodwill"
+            },
+            "content": {
+              "urdu": [
+                "دوسروں کے لیے وہی پسند کریں جو اپنے لیے پسند کرتے ہیں تاکہ نقصان کا احتمال نہ رہے۔",
+                "کسی کی مجبوری کا فائدہ اٹھانا بھی ایک قسم کا اخلاقی نقصان پہنچانا ہے۔",
+                "معاشرتی امن کا راز دوسروں کے حقوق کے احترام میں چھپا ہے۔"
+              ],
+              "english": [
+                "Wish for others what you wish for yourself to eliminate the possibility of harm.",
+                "Taking advantage of someone's helplessness is a form of moral harm.",
+                "The secret to social peace lies in respecting the rights of others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذاتی اصلاح",
+              "english": "Self-Correction"
+            },
+            "content": {
+              "urdu": [
+                "اپنی زبان اور ہاتھ سے کسی کو تکلیف نہ دیں، یہ کامل ایمان کی نشانی ہے۔",
+                "اگر نادانستہ کسی کا نقصان ہو جائے تو اس کا ازالہ کرنا شرعی ذمہ داری ہے۔",
+                "قیامت کے دن حقوق العباد کا حساب بہت سخت ہوگا، اس لیے احتیاط برتیں۔"
+              ],
+              "english": [
+                "Do not hurt anyone with your tongue or hand; this is a sign of complete faith.",
+                "If someone is harmed unintentionally, compensating them is a religious duty.",
+                "The accounting of rights of people will be severe on Judgment Day, so be cautious."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

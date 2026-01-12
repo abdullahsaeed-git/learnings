@@ -1,0 +1,259 @@
+{
+  "hadithId": 1241,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:5456", "https://sunnah.com/muslim:2031"],
+    "kitabId": 16,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 102
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (5456)‏، ومسلم (2031)‏.",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری اور امام مسلم دونوں نے اسے روایت کیا ہے۔ اس میں کھانے کے بعد برکت کے حصول کے آداب بیان ہوئے ہیں۔",
+    "english": "Sahih. Reported by Al-Bukhari (5456) and Muslim (2031). It emphasizes the etiquette of seeking barakah (blessing) in food."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَكَلَ",
+      "english": "Eaten",
+      "urdu": "کھایا"
+    },
+    {
+      "arabic": "طَعَامًا",
+      "english": "Food",
+      "urdu": "کھانا"
+    },
+    {
+      "arabic": "يَمْسَحْ",
+      "english": "Wipe",
+      "urdu": "صاف کرے"
+    },
+    {
+      "arabic": "يَلْعَقَهَا",
+      "english": "Lick it",
+      "urdu": "اسے چاٹ لے"
+    },
+    {
+      "arabic": "يُلْعِقَهَا",
+      "english": "Makes someone else lick it",
+      "urdu": "اسے چٹوا دے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں کھانے کے آداب سکھائے گئے ہیں کہ کھانے کے بعد انگلیوں پر لگا ہوا کھانا ضائع نہیں کرنا چاہیے کیونکہ برکت کھانے کے کسی بھی حصے میں ہو سکتی ہے۔",
+    "english": "This Hadith teaches eating etiquette, advising against wasting the food remaining on fingers as the blessing (Barakah) may reside in any part of the meal."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (5456)",
+      "english": "Reported by Al-Bukhari (5456)"
+    },
+    {
+      "arabic": "رواه مسلم (2031)",
+      "english": "Reported by Muslim (2031)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9K8Z2o3T4Y",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "برکت کا حصول",
+        "english": "Seeking the Barakah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کھانے میں پوشیدہ برکت",
+              "english": "Hidden Blessing in Food"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے فرمایا کہ تمہیں نہیں معلوم کھانے کے کس حصے میں برکت ہے۔",
+                "انگلیوں پر لگا ہوا کھانا بھی رزق کا حصہ ہے جسے ضائع نہیں کرنا چاہیے۔",
+                "برکت سے مراد وہ خیر ہے جو کھانے سے جسم کو قوت اور سکون فراہم کرے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) stated that you do not know which part of the food contains Barakah.",
+                "Food sticking to the fingers is part of the provision and should not be wasted.",
+                "Barakah refers to the divine goodness that provides strength and peace to the body."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزق کی قدردانی",
+              "english": "Appreciating the Provision"
+            },
+            "content": {
+              "urdu": [
+                "ہاتھ چاٹنا اللہ کے دیے ہوئے رزق کی انتہا درجے کی قدردانی کی علامت ہے۔",
+                "یہ عمل اس بات کا اظہار ہے کہ بندہ اللہ کی دی ہوئی نعمت کا شکر گزار ہے۔",
+                "رزق کی بے حرمتی سے نعمتیں چھین لی جاتی ہیں اور بے برکتی پیدا ہوتی ہے۔"
+              ],
+              "english": [
+                "Licking the fingers is a sign of ultimate appreciation for the provision granted by Allah.",
+                "This act expresses that the servant is truly grateful for the blessings provided.",
+                "Disrespecting food can lead to the withdrawal of blessings and create scarcity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور نفسیاتی اثرات",
+        "english": "Ethical and Psychological Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عاجزی اور انکساری",
+              "english": "Humility and Modesty"
+            },
+            "content": {
+              "urdu": [
+                "کھانے کے بعد انگلیاں چاٹنا انسان کے اندر سے تکبر اور بڑائی کو ختم کرتا ہے۔",
+                "متکبر لوگ اسے ناپسندیدہ سمجھتے ہیں جبکہ یہ سنتِ نبوی اور تواضع ہے۔",
+                "اسلامی تعلیمات ہمیں ہر چھوٹے بڑے معاملے میں عاجزی اختیار کرنے کا درس دیتی ہیں۔"
+              ],
+              "english": [
+                "Licking fingers after eating eliminates pride and arrogance from within a person.",
+                "Arrogant people may dislike this act, yet it is a Sunnah and a form of humility.",
+                "Islamic teachings instruct us to adopt modesty in every matter, big or small."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شیطان سے حفاظت",
+              "english": "Protection from Satan"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے مطابق بچا ہوا کھانا شیطان کے لیے نہ چھوڑا جائے۔",
+                "جو کھانا ہم ضائع کرتے ہیں وہ شیطانی قوتوں کو تقویت دینے کا باعث بنتا ہے۔",
+                "سنت پر عمل پیرا ہونے سے انسان شیطانی وسوسوں اور اثرات سے محفوظ رہتا ہے۔"
+              ],
+              "english": [
+                "According to Hadith, leftover food should not be left for Satan.",
+                "The food we waste contributes to strengthening satanic influences.",
+                "Adhering to the Sunnah protects an individual from satanic whispers and effects."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور جدید تناظر",
+        "english": "Medical and Modern Context"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہضم میں مددگار",
+              "english": "Aiding Digestion"
+            },
+            "content": {
+              "urdu": [
+                "جدید سائنس کے مطابق انگلیوں کے پوروں میں ایسے انزائمز ہوتے ہیں جو ہاضمہ بہتر کرتے ہیں۔",
+                "کھانے کے بعد انگلیوں کو چاٹنے سے ہاضمے کا عمل تیز اور موثر ہو جاتا ہے۔",
+                "یہ عمل ثابت کرتا ہے کہ سنتِ نبوی میں انسانی صحت کے انمول راز پوشیدہ ہیں۔"
+              ],
+              "english": [
+                "Modern science suggests that fingertips contain enzymes that aid in digestion.",
+                "Licking the fingers after eating stimulates a faster and more efficient digestive process.",
+                "This practice proves that Prophetic Sunnah contains invaluable secrets for human health."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صفائی اور ستھرائی",
+              "english": "Cleanliness and Hygiene"
+            },
+            "content": {
+              "urdu": [
+                "ہاتھ چاٹنے کے بعد اسے دھونا یا صاف کرنا زیادہ آسان اور بہتر ہوتا ہے۔",
+                "رومال کو گندگی سے بچانے کے لیے پہلے ہاتھ چاٹ لینا ایک منظم طریقہ ہے۔",
+                "اسلام نے صفائی کو نصف ایمان قرار دیا ہے اور اس کے بہترین طریقے سکھائے ہیں۔"
+              ],
+              "english": [
+                "Washing or wiping hands after licking them is much easier and cleaner.",
+                "Licking the fingers first is a systematic way to keep napkins from getting excessively soiled.",
+                "Islam regards cleanliness as half of faith and provides the best methods for it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسراف سے اجتناب",
+              "english": "Avoiding Extravagance"
+            },
+            "content": {
+              "urdu": [
+                "کھانے کا ایک دانہ بھی ضائع کرنا اسراف اور ناشکری کے زمرے میں آتا ہے۔",
+                "ہمیں دسترخوان پر گرے ہوئے لقمے کو بھی اٹھا کر صاف کر کے کھانا چاہیے۔",
+                "کفایت شعاری اور میانہ روی اسلامی معیشت اور طرزِ زندگی کی بنیاد ہے۔"
+              ],
+              "english": [
+                "Wasting even a single grain of food falls under extravagance and ingratitude.",
+                "We should even pick up, clean, and eat a morsel that falls on the cloth.",
+                "Thriftiness and moderation are the foundations of Islamic economy and lifestyle."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محبت اور الفت کا اظہار",
+              "english": "Expression of Love"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'چٹوانے' کا ذکر قریبی رشتوں جیسے میاں بیوی یا بچوں کے لیے ہے۔",
+                "یہ عمل باہمی محبت، بے تکلفی اور شفقت کے اظہار کا ایک ذریعہ ہے۔",
+                "سنت پر عمل کرنے سے گھریلو زندگی میں برکت اور خوشحالی آتی ہے۔"
+              ],
+              "english": [
+                "The mention of 'making someone lick' refers to close relations like spouses or children.",
+                "This act serves as a means to express mutual love, informality, and affection.",
+                "Acting upon the Sunnah brings blessings and prosperity to domestic life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 929,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1065"],
+    "kitabId": 8,
+    "inKitabBab": 9,
+    "arabicBook": "كتاب الرجعة",
+    "babId": 72
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5252) ومسلم (1471). والقصة أن ابن عمر طلق امرأته وهي حائض، فتغيظ رسول الله صلى الله عليه وسلم وقال: مره فليراجعها، ثم ليمسكها حتى تطهر، ثم تحيض، ثم تطهر، ثم إن شاء أمسك بعد، وإن شاء طلق قبل أن يمس.",
+    "urdu": "صحیح۔ اسے بخاری (5252) اور مسلم (1471) نے روایت کیا ہے۔ واقعہ یہ تھا کہ ابن عمر نے اپنی بیوی کو حیض کی حالت میں طلاق دی تھی، جس پر آپ ﷺ ناراض ہوئے اور رجوع کا حکم دیا۔",
+    "english": "Sahih. Reported by Al-Bukhari (5252) and Muslim (1471). The context is that Ibn 'Umar divorced his wife while she was menstruating, which angered the Prophet (ﷺ), leading him to order the revocation of the divorce."
+  },
+  "importantWords": [
+    {
+      "arabic": "مُرْهُ",
+      "english": "Command him",
+      "urdu": "اسے حکم دو"
+    },
+    {
+      "arabic": "يُرَاجِعْهَا",
+      "english": "Take her back",
+      "urdu": "اس سے رجوع کرے"
+    },
+    {
+      "arabic": "طَلَّقَ",
+      "english": "Divorced",
+      "urdu": "طلاق دی"
+    },
+    {
+      "arabic": "امْرَأَتَهُ",
+      "english": "His wife",
+      "urdu": "اپنی بیوی"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْه",
+      "english": "Agreed upon",
+      "urdu": "متفق علیہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص سنت کے خلاف (حالتِ حیض میں) طلاق دے تو اسے حکم دیا جائے گا کہ وہ رجوع کرے تاکہ عدت اور طلاق کا صحیح شرعی طریقہ اپنایا جا سکے۔",
+    "english": "If a divorce is given against the Sunnah (during menstruation), the husband is ordered to revoke it to ensure the correct Shariah procedure is followed."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5252)",
+      "english": "Sahih al-Bukhari (5252)"
+    },
+    {
+      "arabic": "صحيح مسلم (1471)",
+      "english": "Sahih Muslim (1471)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah bin Umar bin al-Khattab"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-Yg4Dk-gE",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Muttafaqun Alayh"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رجوع کا شرعی حکم",
+        "english": "Legal Ruling of Revocation (Raj'ah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رجوع کی حیثیت",
+              "english": "The Status of Raj'ah"
+            },
+            "content": {
+              "urdu": [
+                "طلاقِ رجعی کے بعد عدت کے اندر بیوی سے رجوع کرنا شوہر کا حق ہے۔",
+                "سنت کے خلاف طلاق دینے کی صورت میں رجوع کرنا واجب یا نہایت مستحب ہے۔",
+                "اس کا مقصد خاندان کو ٹوٹنے سے بچانا اور اصلاح کا موقع دینا ہے۔"
+              ],
+              "english": [
+                "Taking the wife back within the Iddah period after a revocable divorce is the husband's right.",
+                "Revoking a divorce given against the Sunnah is either obligatory or highly recommended.",
+                "The aim is to prevent family breakdown and allow an opportunity for reconciliation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کے خلاف طلاق",
+              "english": "Divorce Against the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "حیض کی حالت میں طلاق دینا 'طلاقِ بدعی' کہلاتا ہے جو کہ گناہ ہے۔",
+                "نبی ﷺ نے اس پر شدید ناراضگی کا اظہار فرمایا اور رجوع کا حکم دیا۔",
+                "شریعت میں طلاق کے لیے طہر (پاکی) کا دورانیہ مقرر کیا گیا ہے۔"
+              ],
+              "english": [
+                "Divorcing during menstruation is called 'Bid'i divorce' and is a sin.",
+                "The Prophet (ﷺ) expressed severe anger and commanded the revocation of such a divorce.",
+                "Shariah designates the period of purity (Tuhr) as the correct time for divorce."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "والدین اور بڑوں کا کردار",
+        "english": "Role of Parents and Elders"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصلاحی مداخلت",
+              "english": "Reformative Intervention"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے براہِ راست ابن عمر کے بجائے ان کے والد حضرت عمر کو حکم دیا۔",
+                "یہ بڑوں کی ذمہ داری ہے کہ وہ اولاد کی ازدواجی زندگی میں اصلاحی کردار ادا کریں۔",
+                "گھر کے معاملات میں حکمت اور مشورے سے کام لینا سنتِ نبوی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) addressed 'Umar regarding his son, rather than speaking to Ibn 'Umar directly.",
+                "It is the responsibility of elders to play a reformative role in the marital lives of their children.",
+                "Utilizing wisdom and consultation in household matters is a Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حاکم اور عالم کی رہنمائی",
+              "english": "Guidance from Authority"
+            },
+            "content": {
+              "urdu": [
+                "حاکمِ وقت یا عالم کو یہ حق حاصل ہے کہ وہ غلط کام پر تنبیہ کرے۔",
+                "رجوع کا حکم دینا شرعی حدود کو برقرار رکھنے کے لیے ضروری تھا۔",
+                "علماء سے رجوع کرنا ازدواجی مسائل کے حل میں معاون ثابت ہوتا ہے۔"
+              ],
+              "english": [
+                "The ruler or scholar has the right to warn against wrong actions.",
+                "Ordering the revocation was necessary to uphold the boundaries of Shariah.",
+                "Consulting scholars proves helpful in resolving marital issues."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طلاق کا صحیح طریقہ",
+        "english": "The Correct Method of Divorce"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدت کا فلسفہ",
+              "english": "Philosophy of Iddah"
+            },
+            "content": {
+              "urdu": [
+                "طلاق اس پاکی کے ایام میں ہونی چاہیے جس میں میاں بیوی نے قربت نہ کی ہو۔",
+                "حیض میں طلاق دینے سے عدت لمبی ہو جاتی ہے جو کہ عورت پر ظلم ہے۔",
+                "شریعت ہر معاملے میں عدل اور آسانی پیدا کرنے کا حکم دیتی ہے۔"
+              ],
+              "english": [
+                "Divorce should occur during the days of purity in which no intimacy has taken place.",
+                "Divorcing during menstruation prolongs the Iddah, which is an injustice to the woman.",
+                "Shariah commands justice and ease in every single matter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رجوع کے بعد کی شرائط",
+              "english": "Conditions After Revocation"
+            },
+            "content": {
+              "urdu": [
+                "رجوع کے بعد شوہر کو چاہیے کہ وہ اگلے طہر تک انتظار کرے۔",
+                "اگر پھر بھی طلاق کا ارادہ ہو تو دوسرے طہر میں قربت سے پہلے طلاق دے۔",
+                "یہ طویل وقفہ غصہ ٹھنڈا کرنے اور دوبارہ سوچنے کے لیے دیا گیا ہے۔"
+              ],
+              "english": [
+                "After revocation, the husband should wait until the next period of purity.",
+                "If the intent to divorce persists, it should be given in the next purity before intimacy.",
+                "This long interval is provided to allow anger to cool and for reconsideration."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اسباق",
+        "english": "Social Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جذباتی فیصلوں سے گریز",
+              "english": "Avoiding Emotional Decisions"
+            },
+            "content": {
+              "urdu": [
+                "طلاق کا فیصلہ غصے یا جلد بازی میں نہیں کرنا چاہیے۔",
+                "رجوع کی گنجائش اسی لیے رکھی گئی ہے کہ بکھرے ہوئے گھر دوبارہ آباد ہو سکیں۔",
+                "نبی ﷺ کا غصہ ہونا ظاہر کرتا ہے کہ شرعی ضابطوں کی خلاف ورزی سنگین معاملہ ہے۔"
+              ],
+              "english": [
+                "The decision for divorce should not be made in anger or haste.",
+                "The provision for revocation exists so that broken homes can be rebuilt.",
+                "The Prophet's (ﷺ) anger shows that violating Shariah regulations is a serious matter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احکامِ الٰہی کی پابندی",
+              "english": "Adherence to Divine Commands"
+            },
+            "content": {
+              "urdu": [
+                "خاندانی زندگی کے قوانین اللہ کے مقرر کردہ ہیں جن میں رد و بدل جائز نہیں۔",
+                "ابن عمر کا رجوع کرنا ان کی اطاعت گزاری کی بہترین مثال ہے۔",
+                "کامیاب معاشرہ وہی ہے جہاں ہر شخص اللہ اور اس کے رسول کے حکم کے سامنے سر جھکا دے۔"
+              ],
+              "english": [
+                "The laws of family life are ordained by Allah and cannot be altered.",
+                "Ibn 'Umar's obedience in taking her back is an excellent example of submission.",
+                "A successful society is one where everyone submits to the command of Allah and His Messenger."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

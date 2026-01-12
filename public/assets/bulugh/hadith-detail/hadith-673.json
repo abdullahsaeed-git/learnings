@@ -1,0 +1,259 @@
+{
+  "hadithId": 673,
+  "hadithNo": 26,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:2207"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح البخاري (2207)، كتاب البيوع، باب بيع المخاضرة؛ وصحيح مسلم (1536).",
+    "urdu": "یہ حدیث صحیح ہے اور امام بخاری (2207) نے اسے اپنی صحیح میں روایت کیا ہے۔ اس میں جاہلیت کے دور کے پانچ بڑے تجارتی طریقوں کی ممانعت ہے۔",
+    "english": "Sahih al-Bukhari (2207) and Sahih Muslim (1536). It details the prohibition of five major jahiliyyah trade practices."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْمُحَاقَلَةِ",
+      "english": "Grains in ears",
+      "urdu": "اناج خوشوں میں"
+    },
+    {
+      "arabic": "الْمُخَاضَرَةِ",
+      "english": "Unripe fruits",
+      "urdu": "پھل پکنے سے پہلے"
+    },
+    {
+      "arabic": "الْمُلَامَسَةِ",
+      "english": "Touching goods",
+      "urdu": "چھونے والا سودا"
+    },
+    {
+      "arabic": "الْمُنَابَذَةِ",
+      "english": "Flinging goods",
+      "urdu": "پھینکنے والا سودا"
+    },
+    {
+      "arabic": "الْمُزَابَنَةِ",
+      "english": "Dates on trees",
+      "urdu": "درخت پر لگی کھجور"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں جاہلیت کی ان پانچ تجارتی صورتوں کو حرام قرار دیا گیا ہے جن میں جہالت، دھوکہ (غرر) یا ناپ تول میں بے ایمانی کا عنصر پایا جاتا تھا۔",
+    "english": "This Hadith prohibits five types of pre-Islamic trade practices that involve uncertainty, deception (Gharar), or lack of precise measurement."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (2207)",
+      "english": "Sahih al-Bukhari (2207)"
+    },
+    {
+      "arabic": "صحيح مسلم (1536)",
+      "english": "Sahih Muslim (1536)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "محاقلہ اور مزابنہ کی وضاحت",
+        "english": "Muhaqalah and Muzabanah Explained"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اندازے کی بنیاد پر تجارت",
+              "english": "Trade Based on Estimation"
+            },
+            "content": {
+              "urdu": [
+                "محاقلہ کا مطلب ہے کھیت میں کھڑے اناج کو کٹے ہوئے صاف اناج کے بدلے اندازے سے بیچنا۔",
+                "مزابنہ کا مطلب ہے درخت پر لگی کھجور کو توڑی ہوئی کھجور کے بدلے اندازے سے بیچنا۔",
+                "اس میں برابری یقینی نہیں ہوتی، اس لیے اسے سود اور دھوکہ قرار دے کر منع کیا گیا۔"
+              ],
+              "english": [
+                "Muhaqalah refers to selling standing crops for a fixed quantity of cleaned grain by estimation.",
+                "Muzabanah is selling dates still on the trees for a fixed quantity of dried dates.",
+                "Since equality is not guaranteed, it is forbidden as it involves usury and uncertainty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ربا الفضل سے بچاؤ",
+              "english": "Avoiding Riba al-Fadl"
+            },
+            "content": {
+              "urdu": [
+                "ایک ہی جنس کی چیزوں کا تبادلہ برابر وزن اور ہاتھوں ہاتھ ہونا ضروری ہے۔",
+                "اندازے سے کمی بیشی کا امکان ہوتا ہے جو کہ ربا (سود) کی ایک شکل ہے۔",
+                "اسلامی شریعت ناپ تول میں انصاف اور برابری کو یقینی بناتی ہے۔"
+              ],
+              "english": [
+                "Exchanging goods of the same genus must be equal in weight and hand-to-hand.",
+                "Estimation carries the risk of inequality, which constitutes a form of Riba.",
+                "Islamic Sharia ensures justice and precision in weights and measurements."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مخاضرہ کے احکام",
+        "english": "Rulings on Mukhadharah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پھل پکنے سے پہلے بیع",
+              "english": "Selling Fruit Before Ripening"
+            },
+            "content": {
+              "urdu": [
+                "مخاضرہ کا مطلب ہے پھل یا سبزہ ابھی سبز ہو اور پکنے سے پہلے اسے بیچ دیا جائے۔",
+                "اس میں خطرہ ہوتا ہے کہ آفت سماوی کی وجہ سے فصل ضائع ہو سکتی ہے۔",
+                "نبی ﷺ نے حکم دیا کہ جب تک پھل پک کر نمایاں نہ ہو جائے (بدُوِ صلاح)، اسے نہ بیچا جائے۔"
+              ],
+              "english": [
+                "Mukhadharah refers to selling fruits or vegetables while they are still green and unripe.",
+                "There is a risk that the crop may be destroyed by natural calamities before harvest.",
+                "The Prophet (PBUH) ordered not to sell fruits until they show signs of ripeness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مال کے ضیاع کا تحفظ",
+              "english": "Protection of Property"
+            },
+            "content": {
+              "urdu": [
+                "قبل از وقت فروخت فریقین کے درمیان جھگڑے اور دشمنی کا باعث بنتی ہے۔",
+                "شریعت خریدار کے مال کو ایسے رسک سے بچاتی ہے جو اس کے اختیار میں نہیں۔",
+                "تجارت کی بنیاد حقیقت پر ہونی چاہیے نہ کہ محض خیالی امکانات پر۔"
+              ],
+              "english": [
+                "Premature selling causes disputes and animosity between the two parties.",
+                "Sharia protects the buyer's wealth from risks beyond their control.",
+                "Trade must be based on reality rather than mere speculative possibilities."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ملامسہ اور منابذہ کے اصول",
+        "english": "Principles of Mulamasah and Munabadhah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بغیر دیکھے سودے کی ممانعت",
+              "english": "Prohibition of Blind Deals"
+            },
+            "content": {
+              "urdu": [
+                "ملامسہ کا مطلب ہے کہ محض کپڑے کو چھو لینے سے سودا لازم ہو جائے، چاہے دیکھا نہ ہو۔",
+                "منابذہ کا مطلب ہے کہ ایک دوسرے کی طرف کپڑا پھینکنے سے سودا پکا ہو جائے۔",
+                "ان صورتوں میں خریدار کو چیز اچھی طرح دیکھنے اور پرکھنے کا موقع نہیں ملتا۔"
+              ],
+              "english": [
+                "Mulamasah means a sale becomes binding just by touching the cloth without inspecting it.",
+                "Munabadhah is when fings of cloth towards each other make the bargain final.",
+                "In these cases, the buyer is deprived of the opportunity to properly inspect the goods."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شفافیت اور رضامندی",
+              "english": "Transparency and Consent"
+            },
+            "content": {
+              "urdu": [
+                "تجارت میں فریقین کی کامل رضامندی اور علم ضروری ہے۔",
+                "ایسے سودے 'غرر' (بڑے دھوکے) کی بدترین مثالیں ہیں جنہیں اسلام نے ختم کیا۔",
+                "ہر وہ عمل جو خریدار کو دھوکے میں رکھے، وہ شرعاً باطل ہے۔"
+              ],
+              "english": [
+                "Complete mutual consent and knowledge are essential in any commercial deal.",
+                "Such transactions are prime examples of Gharar (uncertainty) abolished by Islam.",
+                "Any practice that keeps the buyer in deception is legally void in Sharia."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کاروباری اخلاقیات",
+        "english": "Business Ethics"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تنازعات کا حل",
+              "english": "Conflict Resolution"
+            },
+            "content": {
+              "urdu": [
+                "ان ممانعتوں کا بنیادی مقصد معاشرے سے لڑائی جھگڑوں کا خاتمہ ہے۔",
+                "جب سودے کے قواعد واضح ہوں گے تو فریقین کے درمیان اعتماد بڑھے گا۔",
+                "اسلامی معاشی نظام عدل اور دیانت داری کی بنیادوں پر استوار ہے۔"
+              ],
+              "english": [
+                "The primary aim of these prohibitions is to end conflicts within society.",
+                "Clear rules of transaction foster trust between the buyer and the seller.",
+                "The Islamic economic system is built on foundations of justice and integrity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جدید دور میں اطلاق",
+              "english": "Modern Day Application"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں 'بلائنڈ باکس' یا غیر واضح آن لائن سودے ان ممنوعہ صورتوں سے مشابہ ہیں۔",
+                "تاجروں کو چاہیے کہ وہ گاہک کو چیز کی مکمل تفصیلات اور معائنے کا حق دیں۔",
+                "رزقِ حلال کے لیے تجارتی ضوابط کی پیروی لازمی ہے۔"
+              ],
+              "english": [
+                "Modern 'blind boxes' or ambiguous online deals resemble these prohibited forms.",
+                "Traders must provide customers with full details and the right of inspection.",
+                "Adherence to trade regulations is mandatory for earning Halal sustenance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

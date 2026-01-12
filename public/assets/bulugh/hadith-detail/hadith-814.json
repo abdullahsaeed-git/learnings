@@ -1,0 +1,259 @@
+{
+  "hadithId": 814,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/814"],
+    "kitabId": 7,
+    "inKitabBab": 20,
+    "arabicBook": "بلوغ المرام",
+    "babId": 61
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه النسائي (6/33)، والدارقطني (4/252)، وقواه ابن عبد البر. وصححه الألباني في إرواء الغليل (1671).",
+    "urdu": "یہ حدیث اپنے شواہد کے ساتھ صحیح ہے۔ اسے امام نسائی، دارقطنی اور ابن عبدالبر نے روایت کیا ہے۔ علامہ البانی نے اسے ارواء الغلیل (1671) میں صحیح قرار دیا ہے۔",
+    "english": "Sahih with supporting evidences. Reported by An-Nasa'i (6/33), Ad-Daraqutni (4/252). Authenticated by Al-Albani in Irwa' al-Ghalil (1671)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَيْسَ",
+      "english": "Is not / No",
+      "urdu": "نہیں ہے"
+    },
+    {
+      "arabic": "الْقَاتِلِ",
+      "english": "The murderer",
+      "urdu": "قاتل"
+    },
+    {
+      "arabic": "الْمِيرَاثِ",
+      "english": "Inheritance",
+      "urdu": "وراثت"
+    },
+    {
+      "arabic": "شَيْءٌ",
+      "english": "Anything",
+      "urdu": "کچھ بھی"
+    },
+    {
+      "arabic": "وَقْفُهُ",
+      "english": "Mawquf (Stopped at companion)",
+      "urdu": "موقوف ہونا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا بنیادی قانون یہ ہے کہ جو شخص اپنے مورث (جس سے وراثت ملنی ہو) کو قتل کر دے، وہ اس کی میراث سے محروم ہو جاتا ہے تاکہ جرم کا بدلہ مل سکے۔",
+    "english": "The fundamental legal principle of this Hadith is that anyone who kills the person they are set to inherit from is deprived of that inheritance."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي (6/33)",
+      "english": "Sunan An-Nasa'i (6/33)"
+    },
+    {
+      "arabic": "سنن الدارقطني (4/252)",
+      "english": "Sunan Ad-Daraqutni (4/252)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعيب عن أبيه عن جده",
+        "english": "Amr bin Shu'aib from his father from his grandfather"
+      },
+      "slug": "amr-bin-shuaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قتل اور وراثت سے محرومی",
+        "english": "Homicide and Disinheritance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بنیادی قانونی قاعدہ",
+              "english": "Fundamental Legal Principle"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون میں قتل وراثت کی راہ میں ایک بڑی رکاوٹ ہے۔",
+                "اگر کوئی وارث جلد مال پانے کے لیے مورث کو قتل کرے تو وہ محروم ہوگا۔",
+                "یہ قاعدہ 'جو وقت سے پہلے چیز چاہے اسے محرومی ملتی ہے' پر مبنی ہے۔"
+              ],
+              "english": [
+                "In Islamic law, murder is a major barrier to inheritance.",
+                "If an heir kills the benefactor to hasten inheritance, they are deprived.",
+                "This is based on the rule: 'Whoever hastens a thing prematurely is punished by its deprivation.'"
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قتل کی اقسام اور حکم",
+              "english": "Types of Killing and the Ruling"
+            },
+            "content": {
+              "urdu": [
+                "عمدی قتل (جان بوجھ کر) میں تمام فقہاء کا وراثت سے محرومی پر اتفاق ہے۔",
+                "شبہ عمد اور خطا میں بعض فقہاء کے درمیان جزوی اختلاف موجود ہے۔",
+                "احناف کے نزدیک ہر وہ قتل جس پر قصاص یا دیت ہو، وراثت سے محروم کرتا ہے۔"
+              ],
+              "english": [
+                "In intentional murder, all jurists agree on the deprivation of inheritance.",
+                "There is minor disagreement regarding accidental or quasi-intentional killing.",
+                "Hanafis hold that any killing necessitating Qisas or Diyah leads to disinheritance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حکمت اور سماجی انصاف",
+        "english": "Wisdom and Social Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جرم کی حوصلہ شکنی",
+              "english": "Discouragement of Crime"
+            },
+            "content": {
+              "urdu": [
+                "یہ قانون لالچ کی بنیاد پر ہونے والے قتل کی روک تھام کرتا ہے۔",
+                "اگر قاتل کو وارث رہنے دیا جاتا تو انسانی جانیں خطرے میں پڑ جاتیں۔",
+                "اسلامی شریعت معاشرے میں امن اور جان کے تحفظ کو مقدم رکھتی ہے۔"
+              ],
+              "english": [
+                "This law prevents murders motivated by greed for wealth.",
+                "If the killer remained an heir, human lives would be in constant danger.",
+                "Islamic Shariah prioritizes peace and the protection of life in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاندانی ڈھانچے کا تحفظ",
+              "english": "Protection of the Family Structure"
+            },
+            "content": {
+              "urdu": [
+                "وراثت محبت اور قرابت داری کی بنیاد پر قائم ایک نظام ہے۔",
+                "قتل اس مقدس خونی رشتے اور باہمی اعتماد کو ختم کر دیتا ہے۔",
+                "قاتل کو محروم کرنا دراصل میت کے ساتھ انصاف اور خاندان کی بقا ہے۔"
+              ],
+              "english": [
+                "Inheritance is a system built on love and kinship.",
+                "Murder destroys this sacred blood bond and mutual trust.",
+                "Depriving the killer is an act of justice for the deceased and the family."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و سندی مباحث",
+        "english": "Juristic and Chain Debates"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کی اسنادی حیثیت",
+              "english": "Chain Status of the Narration"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک اس کا حضرت عمر رضی اللہ عنہ پر موقوف ہونا زیادہ صحیح ہے۔",
+                "تاہم دیگر صحیح احادیث اور اجماعِ امت اس کے معنی کی تائید کرتے ہیں۔",
+                "عمرو بن شعیب کی اپنے والد اور دادا سے روایت مقبول اور مستند ہے۔"
+              ],
+              "english": [
+                "Scholars suggest its status as Mawquf (on Umar RA) is more accurate.",
+                "However, other authentic Hadiths and consensus support its meaning.",
+                "The narration of Amr bin Shu'aib from his father/grandfather is accepted."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیت سے محرومی",
+              "english": "Deprivation from Blood Money"
+            },
+            "content": {
+              "urdu": [
+                "قاتل نہ صرف اصل جائیداد بلکہ دیت (خون بہا) سے بھی محروم رہتا ہے۔",
+                "یہ اس کے جرم کی سنگینی کی وجہ سے ایک اضافی سزا ہے۔",
+                "اسلامی عدل کسی ظالم کو اس کے اپنے ظلم سے نفع اٹھانے نہیں دیتا۔"
+              ],
+              "english": [
+                "The killer is deprived not only of the estate but also blood money (Diyah).",
+                "This serves as an additional penalty due to the severity of the crime.",
+                "Islamic justice prevents an oppressor from profiting from their own evil."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مال کی ہوس سے بچنا",
+              "english": "Avoiding Greed for Wealth"
+            },
+            "content": {
+              "urdu": [
+                "دنیاوی مال کے لیے انسانی رشتوں کو پامال کرنا ایمان کے خلاف ہے۔",
+                "لالچ انسان کو اندھا کر کے بڑے گناہوں کی طرف دھکیل سکتا ہے۔",
+                "قناعت اور حلال رزق پر راضی رہنا ہی مومن کا شیوہ ہے۔"
+              ],
+              "english": [
+                "Violating human relationships for worldly wealth is against faith.",
+                "Greed can blind a person and push them toward major sins.",
+                "Contentment and being satisfied with Halal Rizq is the mark of a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدالتی قوانین کی اہمیت",
+              "english": "Importance of Judicial Laws"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کی تقسیم میں ملکی اور شرعی قوانین کی سختی سے پابندی کریں۔",
+                "کسی بھی پچیدگی کی صورت میں ماہرین اور ججوں سے رجوع کرنا چاہیے۔",
+                "معاشرے میں امن صرف الہی قوانین کے نفاذ سے ہی ممکن ہے۔"
+              ],
+              "english": [
+                "Strictly follow national and Shariah laws in distributing inheritance.",
+                "In case of complexity, consult legal experts and judges.",
+                "Peace in society is only possible through the implementation of Divine laws."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

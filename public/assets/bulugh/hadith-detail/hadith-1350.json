@@ -1,0 +1,173 @@
+{
+  "hadithId": 1350,
+  "hadithNo": 19,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/118"],
+    "kitabId": 16,
+    "inKitabBab": 6,
+    "arabicBook": "الجامع - باب الذكر والدعاء",
+    "babId": 107
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه النسائي (5475)، والحاكم (1/104). وصححه الألباني في صحيح الجامع (1298).",
+    "urdu": "صحیح۔ اسے امام نسائی (5475) اور حاکم (1/104) نے روایت کیا ہے۔ علامہ البانی نے اسے 'صحیح الجامع' میں صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by An-Nasa'i (5475) and Al-Hakim (1/104). Graded Sahih by Al-Albani in Sahih al-Jami' (1298)."
+  },
+  "importantWords": [
+    {
+      "arabic": "غَلَبَةِ اَلدَّيْنِ",
+      "english": "Being overwhelmed by debt",
+      "urdu": "قرض کا بوجھ / غلبہ"
+    },
+    {
+      "arabic": "غَلَبَةِ اَلْعَدُوِّ",
+      "english": "Being overpowered by enemy",
+      "urdu": "دشمن کا غالب آنا"
+    },
+    {
+      "arabic": "شَمَاتَةِ اَلْأَعْدَاءِ",
+      "english": "Malice of enemies",
+      "urdu": "دشمنوں کا ہنسنا / خوش ہونا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نبی کریم ﷺ نے تین ایسی تکلیف دہ صورتوں سے پناہ مانگی ہے جو انسان کی دنیاوی عزت اور ذہنی سکون کو برباد کر دیتی ہیں: قرض، مغلوبیت اور رسوائی۔",
+    "english": "In this Hadith, the Prophet (ﷺ) sought refuge from three distressing situations that destroy a person's worldly honor and mental peace: debt, subjugation, and humiliation."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي، كتاب الاستعاذة، رقم 5475",
+      "english": "Sunan an-Nasa'i, The Book of Seeking Refuge, No. 5475"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin 'Amr bin al-'As"
+      },
+      "slug": "abdullah-bin-amr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قرض کے غلبے سے پناہ",
+        "english": "Refuge from the Burden of Debt"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرض ایک ذہنی بوجھ",
+              "english": "Debt as a Mental Burden"
+            },
+            "content": {
+              "urdu": [
+                "قرض کا غلبہ انسان کو ذلت اور مسلسل پریشانی میں مبتلا کر دیتا ہے۔",
+                "نبی ﷺ نے فرمایا کہ قرض رات کا غم اور دن کی ذلت ہے، اسی لیے آپ ﷺ اس سے پناہ مانگتے تھے۔",
+                "قرض کی وجہ سے انسان اکثر جھوٹ بولنے اور وعدہ خلافی کرنے پر مجبور ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The overwhelming burden of debt leads to humiliation and constant anxiety.",
+                "The Prophet (ﷺ) described debt as grief by night and humiliation by day, which is why he sought refuge from it.",
+                "Debt often forces a person into lying and breaking promises."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دشمن کے غلبے سے پناہ",
+        "english": "Refuge from Enemy Domination"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مغلوبیت کی تکلیف",
+              "english": "The Pain of Subjugation"
+            },
+            "content": {
+              "urdu": [
+                "دشمن کے غلبے سے مراد یہ ہے کہ دشمن آپ کے مال، جان یا ملک پر قابض ہو جائے اور آپ بے بس ہو جائیں۔",
+                "یہ دعا انفرادی اور اجتماعی (امتِ مسلمہ) دونوں لحاظ سے انتہائی اہم ہے۔",
+                "اسلام مسلمان کو غیرت مند اور سربلند دیکھنا چاہتا ہے، مغلوب اور محکوم نہیں۔"
+              ],
+              "english": [
+                "Enemy domination means the enemy taking control of your wealth, life, or country while you remain helpless.",
+                "This supplication is vital both on an individual and collective (Ummah) level.",
+                "Islam desires for Muslims to be dignified and elevated, not subjugated and oppressed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دشمنوں کی شماتت سے پناہ",
+        "english": "Refuge from the Malice of Enemies"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شماتتِ اعداء کا مفہوم",
+              "english": "Meaning of Shamata al-A'da"
+            },
+            "content": {
+              "urdu": [
+                "شماتت کا مطلب ہے کسی کی تکلیف یا مصیبت پر دشمن کا خوش ہونا اور طنز کرنا۔",
+                "یہ ایک ایسی تکلیف ہے جو براہِ راست انسان کی روح اور عزتِ نفس پر اثر کرتی ہے۔",
+                "دشمن کی خوشی انسان کے دکھ کو مزید دوبالا کر دیتی ہے، اس لیے اس سے پناہ مانگی گئی ہے۔"
+              ],
+              "english": [
+                "Shamata means the enemy's rejoicing and mocking at one's distress or calamity.",
+                "This is a pain that directly affects a person's soul and self-esteem.",
+                "The enemy's joy intensifies a person's grief, which is why refuge is sought from it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مایوسی کے بجائے دعا",
+              "english": "Dua Instead of Despair"
+            },
+            "content": {
+              "urdu": [
+                "مشکل حالات میں گھبرانے کے بجائے ان نبوی دعاؤں کو اپنا سہارا بنانا چاہیے۔",
+                "قرض سے بچنے کے لیے میانہ روی اختیار کرنی چاہیے اور دشمن سے بچاؤ کے لیے اللہ کی پناہ لینی چاہیے۔",
+                "یہ دعا انسان کو اللہ پر توکل کرنے اور اپنی عزت کی حفاظت کرنے کی ترغیب دیتی ہے۔"
+              ],
+              "english": [
+                "Instead of panicking in difficult situations, one should rely on these Prophetic supplications.",
+                "To avoid debt, one should practice moderation, and to avoid enemies, one must seek Allah's protection.",
+                "This Dua encourages trusting in Allah and safeguarding one's honor."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "hadithId": 336,
+  "hadithNo": 23,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/196"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الصلاة - باب الإمامة",
+    "babId": 20
+  },
+  
+  "takhreej": {
+    "arabic": "حسن.‏ رواه أبو داود (554)‏، والنسائي (2/104-105)‏، وابن حبان (2056)، وأحمد (5/140). وحسنه الألباني.",
+    "urdu": "صحیح/حسن۔ اسے امام ابوداؤد (554)، نسائی (2/104) اور ابن حبان (2056) نے روایت کیا ہے۔ علامہ البانی نے اسے حسن قرار دیا ہے۔",
+    "english": "Hasan. Reported by Abu Dawud (554), An-Nasa'i (2/104-105), and Ibn Hibban (2056). Graded Hasan by Al-Albani."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَزْكَى",
+      "english": "Purer / More fruitful",
+      "urdu": "زیادہ پاکیزہ / زیادہ باعثِ اجر"
+    },
+    {
+      "arabic": "أَحَبُّ",
+      "english": "More beloved",
+      "urdu": "زیادہ پسندیدہ"
+    },
+    {
+      "arabic": "أَكْثَرَ",
+      "english": "More / Larger in number",
+      "urdu": "زیادہ (تعداد)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نمازِ باجماعت کی فضیلت اور جماعت کی تعداد میں اضافے کی اہمیت کو بیان کرتی ہے۔ جتنی بڑی جماعت ہوگی، اللہ کے نزدیک وہ اتنی ہی زیادہ پسندیدہ اور اجر و ثواب کا باعث ہوگی۔",
+    "english": "This Hadith emphasizes the excellence of congregational prayer and the importance of a larger congregation. The greater the number of people in a prayer, the more beloved it is to Allah and the higher its reward."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الصلاة، باب في فضل صلاة الجماعة، رقم 554",
+      "english": "Sunan Abi Dawud, Book of Prayer, No. 554"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبي بن كعب",
+        "english": "Ubayy bin Ka'b"
+      },
+      "slug": "ubayy-bin-ka-b"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جماعت کی اہمیت اور فضیلت",
+        "english": "Importance and Virtue of Congregation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تنہا نماز کے مقابلے میں فضیلت",
+              "english": "Virtue over Individual Prayer"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں باجماعت نماز کو انفرادی نماز پر غیر معمولی برتری حاصل ہے۔",
+                "لفظ 'ازکیٰ' (زیادہ پاکیزہ) سے مراد یہ ہے کہ یہ اللہ کے ہاں زیادہ مقبول اور گناہوں کی صفائی کا بڑا ذریعہ ہے۔",
+                "دوسری روایات کے مطابق باجماعت نماز کا ثواب تنہا نماز سے 27 گنا زیادہ ہے۔"
+              ],
+              "english": [
+                "In Islam, congregational prayer holds significant superiority over individual prayer.",
+                "The term 'Azka' (purer) implies that it is more acceptable to Allah and a greater means of purifying sins.",
+                "According to other narrations, the reward for congregational prayer is 27 times more than individual prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعداد میں اضافے کی حکمت",
+        "english": "Wisdom Behind Larger Numbers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی پسندیدگی",
+              "english": "Allah's Preference"
+            },
+            "content": {
+              "urdu": [
+                "جماعت میں جتنے زیادہ لوگ شامل ہوں گے، ان کی دعا کی قبولیت اور رحمتِ الہی کے نزول کے امکانات اتنے ہی بڑھ جاتے ہیں۔",
+                "بڑی جماعت مسلمانوں کی قوت، اتحاد اور یگانگت کا ظاہری اظہار بھی ہے۔",
+                "اس حدیث سے معلوم ہوا کہ جس مسجد میں مقتدیوں کی تعداد زیادہ ہو، وہاں نماز پڑھنا چھوٹی جماعت والی مسجد سے افضل ہے۔"
+              ],
+              "english": [
+                "The more people in a congregation, the higher the chances for acceptance of supplications and the descent of Divine Mercy.",
+                "A large congregation is an outward manifestation of Muslim strength, unity, and solidarity.",
+                "This Hadith suggests that praying in a mosque with a larger congregation is better than praying in one with a smaller group."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی فوائد",
+        "english": "Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتحاد اور نظم و ضبط",
+              "english": "Unity and Discipline"
+            },
+            "content": {
+              "urdu": [
+                "نمازِ باجماعت مسلمانوں کو ایک دوسرے کے قریب لاتی ہے اور اونچ نیچ کے فرق کو ختم کرتی ہے۔",
+                "بڑی جماعتوں کا اہتمام کرنے سے معاشرے میں دینی بیداری اور نظم و ضبط پیدا ہوتا ہے۔"
+              ],
+              "english": [
+                "Congregational prayer brings Muslims closer together and eliminates social hierarchies.",
+                "Organizing large congregations fosters religious awareness and discipline within society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

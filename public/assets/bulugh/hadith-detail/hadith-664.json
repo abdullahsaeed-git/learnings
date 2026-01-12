@@ -1,0 +1,259 @@
+{
+  "hadithId": 664,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/17"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1513)، وأبو داود (3376)، والترمذي (1230)، والنسائي (4518)، وابن ماجه (2194).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (1513) میں روایت کیا ہے۔ اس کے علاوہ ابوداؤد، ترمذی اور نسائی میں بھی یہ روایت موجود ہے۔",
+    "english": "Sahih. Reported by Muslim (1513), Abu Dawud (3376), at-Tirmidhi (1230), an-Nasa'i (4518), and Ibn Majah (2194)."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "بَيْعِ",
+      "english": "Sale / Transaction",
+      "urdu": "تجارت / خرید و فروخت"
+    },
+    {
+      "arabic": "الْحَصَاةِ",
+      "english": "Pebble / Small stone",
+      "urdu": "کنکری"
+    },
+    {
+      "arabic": "الْغَرَرِ",
+      "english": "Uncertainty / Risk",
+      "urdu": "دھوکہ / غیر یقینی سودا"
+    },
+    {
+      "arabic": "رَسُولُ",
+      "english": "Messenger",
+      "urdu": "رسول"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں اسلام کے نظامِ تجارت کے دو اہم اصول بیان ہوئے ہیں: ایک زمانہ جاہلیت کی مخصوص جوا نما تجارت (بیع الحصاۃ) کا خاتمہ اور دوسرا ہر قسم کے دھوکے اور غیر یقینی سودوں (بیع الغرر) کی ممانعت۔",
+    "english": "This Hadith establishes two core Islamic trade principles: the abolition of gambling-like transactions (Al-Hasah) and the prohibition of any trade involving major uncertainty (Al-Gharar)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب البيوع",
+      "english": "Sahih Muslim, Book of Sales"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R4_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیع الحصاۃ کی وضاحت",
+        "english": "Explanation of Al-Hasah Transaction"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جاہلی طرزِ تجارت",
+              "english": "Pre-Islamic Trading Styles"
+            },
+            "content": {
+              "urdu": [
+                "بیع الحصاۃ میں کنکری پھینک کر سودے کا فیصلہ کیا جاتا تھا۔",
+                "جس شے پر کنکری گرتی، وہ خریدار کے لیے لازم ہو جاتی تھی۔",
+                "اس میں خریدار کو شے کے معائنے کا موقع نہیں ملتا تھا۔"
+              ],
+              "english": [
+                "Al-Hasah involved using a pebble to determine a sales contract.",
+                "Whichever item the pebble landed on became binding for the buyer.",
+                "The buyer was denied the opportunity to properly inspect the item."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جوئے سے مشابہت",
+              "english": "Resemblance to Gambling"
+            },
+            "content": {
+              "urdu": [
+                "اس قسم کی بیع میں قسمت اور اتفاق کا عمل دخل زیادہ تھا۔",
+                "یہ سودا صریح طور پر جوئے اور سٹے بازی کے زمرے میں آتا ہے۔",
+                "اسلام نے ایسے تمام سودے ختم کر دیے جو ناانصافی پر مبنی تھے۔"
+              ],
+              "english": [
+                "This type of sale relied heavily on chance and coincidence.",
+                "Such transactions clearly fall under gambling and speculation.",
+                "Islam abolished all trades rooted in chance-based unfairness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بیع الغرر کا مفہوم",
+        "english": "The Concept of Al-Gharar"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیر یقینی سودا",
+              "english": "Uncertain Transaction"
+            },
+            "content": {
+              "urdu": [
+                "غرر کا مطلب ایسی چیز بیچنا ہے جو قبضے میں نہ ہو۔",
+                "مثلاً سمندر میں مچھلی یا ہوا میں اڑتے پرندے کا سودا کرنا۔",
+                "اس میں خریدار کے مال کے ضائع ہونے کا قوی خدشہ ہوتا ہے۔"
+              ],
+              "english": [
+                "Gharar means selling something not in one's actual possession.",
+                "Example: selling fish in the sea or birds flying in the air.",
+                "There is a high risk of the buyer's money being wasted."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دھوکہ دہی کی روک تھام",
+              "english": "Prevention of Deception"
+            },
+            "content": {
+              "urdu": [
+                "بیع الغرر کی ممانعت سے دھوکہ دہی کا راستہ بند ہوتا ہے۔",
+                "سودے میں مبیع اور قیمت کا مکمل واضح ہونا ضروری ہے۔",
+                "اسلام شفافیت اور فریقین کی رضامندی کو اولیت دیتا ہے۔"
+              ],
+              "english": [
+                "Prohibiting Al-Gharar closes the doors to financial deception.",
+                "Both the item and the price must be clearly defined in a deal.",
+                "Islam prioritizes transparency and the mutual consent of parties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی فوائد",
+        "english": "Economic Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تنازعات کا خاتمہ",
+              "english": "Eliminating Disputes"
+            },
+            "content": {
+              "urdu": [
+                "واضح سودوں سے خریدار اور بیچنے والے کے جھگڑے ختم ہوتے ہیں۔",
+                "غیر یقینی صورتحال ہمیشہ نفرت اور عدالتی کیسز کا سبب بنتی ہے۔",
+                "اسلامی قوانین معاشرے میں امن اور معاشی استحکام لاتے ہیں۔"
+              ],
+              "english": [
+                "Clear transactions eliminate disputes between buyers and sellers.",
+                "Uncertainty always leads to animosity and legal conflicts.",
+                "Islamic laws bring peace and economic stability to society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیانتدارانہ تجارت",
+              "english": "Honest Trading"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث تاجروں کو سچائی اور دیانتداری کا سبق دیتی ہے۔",
+                "مال چھپا کر یا عیب دار چیز بیچنا بھی غرر میں شامل ہے۔",
+                "سچا تاجر قیامت کے دن انبیاء اور شہداء کے ساتھ ہوگا۔"
+              ],
+              "english": [
+                "This Hadith teaches traders the value of truth and integrity.",
+                "Hiding defects or selling faulty goods also constitutes Gharar.",
+                "A truthful trader will be with Prophets and martyrs on Judgment Day."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اطلاق",
+        "english": "Modern Day Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سٹہ بازی اور فیوچرز",
+              "english": "Speculation and Futures"
+            },
+            "content": {
+              "urdu": [
+                "جدید دور کی سٹہ بازی (Speculation) بیع الغرر کی ایک صورت ہے۔",
+                "انشورنس کی بعض صورتیں جن میں معاوضہ غیر یقینی ہو، ممنوع ہیں۔",
+                "مسلمانوں کو سرمایہ کاری کرتے وقت شرعی اصولوں کا لحاظ رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Modern day speculation is a form of forbidden Al-Gharar.",
+                "Certain insurance models with uncertain payouts are prohibited.",
+                "Muslims must observe Sharia principles when making investments."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آن لائن شاپنگ اور غرر",
+              "english": "Online Shopping and Gharar"
+            },
+            "content": {
+              "urdu": [
+                "آن لائن سودے میں تصویر اور تفصیل واضح ہونا ضروری ہے۔",
+                "اگر چیز تفصیل کے مطابق نہ ہو تو خریدار کو واپسی کا حق ہے۔",
+                "شفافیت ہی برقی تجارت (E-commerce) کو حلال بناتی ہے۔"
+              ],
+              "english": [
+                "Images and descriptions must be clear in online transactions.",
+                "The buyer has the right to return if the item doesn't match.",
+                "Transparency is what makes E-commerce permissible in Islam."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

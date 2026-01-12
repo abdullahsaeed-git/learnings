@@ -1,0 +1,259 @@
+{
+  "hadithId": 922,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/922", "ibnmajah/2045"],
+    "kitabId": 8,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الطلاق",
+    "babId": 71
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده . رواه ابن ماجه (2045)، والحاكم (2/189)، والبيهقي (7/356). والحديث له شواهد كثيرة من القرآن والسنة تقوي معناه، ولذلك صححه الألباني والنووي.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے ابن ماجہ (2045) اور حاکم (2/189) نے روایت کیا ہے۔ اگرچہ بعض ائمہ نے اس کی سند پر کلام کیا ہے، لیکن قرآن و سنت کے دیگر دلائل اس کے معنی کی تائید کرتے ہیں۔",
+    "english": "Sahih due to supporting evidences. Reported by Ibn Majah (2045) and Al-Hakim (2/189). While some early critics questioned its chain, scholars like An-Nawawi and Al-Albani authenticated it due to numerous supporting narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "وَضَعَ",
+      "english": "Removed / Forgiven",
+      "urdu": "معاف کر دیا / اٹھا لیا"
+    },
+    {
+      "arabic": "الْخَطَأَ",
+      "english": "Mistake",
+      "urdu": "خطا (غیر ارادی غلطی)"
+    },
+    {
+      "arabic": "النِّسْيَانَ",
+      "english": "Forgetfulness",
+      "urdu": "بھول چوک"
+    },
+    {
+      "arabic": "اسْتُكْرِهُوا",
+      "english": "Forced / Compelled",
+      "urdu": "مجبور کیے گئے"
+    },
+    {
+      "arabic": "أُمَّتِي",
+      "english": "My nation (Ummah)",
+      "urdu": "میری امت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اللہ تعالیٰ کی رحمت اور آسانی کو بیان کرتی ہے کہ غیر ارادی طور پر، بھولے سے یا سخت مجبوری میں کیے گئے کاموں پر گرفت نہیں ہوگی۔",
+    "english": "This Hadith highlights Allah's mercy, stating that actions done unintentionally, out of forgetfulness, or under duress are not held against a person."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن ماجه (2045)",
+      "english": "Reported by Ibn Majah (2045)"
+    },
+    {
+      "arabic": "رواه الحاكم (2/189)",
+      "english": "Reported by Al-Hakim (2/189)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S0uA_mH_v9o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی رحمت اور وسعت",
+        "english": "Allah's Mercy and Vastness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی کمزوری کی رعایت",
+              "english": "Catering to Human Weakness"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ انسان کی فطری کمزوریوں اور مجبوریوں سے خوب واقف ہے۔",
+                "یہ حدیث اس امت پر اللہ کے خصوصی فضل و کرم کا اظہار ہے۔",
+                "اسلام ایک دینِ فطرت ہے جو ناممکن بوجھ ڈالنے سے گریز کرتا ہے۔"
+              ],
+              "english": [
+                "Allah is fully aware of human natural weaknesses and constraints.",
+                "This Hadith expresses Allah's special grace upon this Ummah.",
+                "Islam is a natural religion that avoids imposing impossible burdens."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مواخذہ کی بنیاد 'ارادہ'",
+              "english": "Intention as Basis of Accountability"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں سزا اور گناہ کا تعلق انسان کے پختہ ارادے سے ہے۔",
+                "جہاں ارادہ شامل نہ ہو، وہاں اللہ تعالیٰ نے رعایت عطا فرمائی ہے۔",
+                "یہ اصول عدلِ الہی کی ایک بہترین اور واضح مثال ہے۔"
+              ],
+              "english": [
+                "In Shariah, punishment and sin are linked to firm intention.",
+                "Where intention is absent, Allah has granted a concession.",
+                "This principle is an excellent and clear example of Divine Justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تین معاف شدہ حالتیں",
+        "english": "Three Exempted Conditions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خطا اور نسیان کا فرق",
+              "english": "Mistake vs. Forgetfulness"
+            },
+            "content": {
+              "urdu": [
+                "خطا سے مراد وہ کام ہے جو غیر ارادی طور پر غلط ہو جائے۔",
+                "نسیان کا مطلب ہے کہ انسان کو حکم یاد نہ رہے اور کام کر جائے۔",
+                "ان دونوں صورتوں میں گناہ نہیں ہوتا مگر مالی حقوق ادا کرنے ہوں گے۔"
+              ],
+              "english": [
+                "A mistake refers to an act that is done wrongly unintentionally.",
+                "Forgetfulness means the person fails to recall the ruling while acting.",
+                "In both cases, there is no sin, though financial liabilities may remain."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اکراہ (جبر و اکراہ) کا حکم",
+              "english": "Ruling on Compulsion (Duress)"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کو جان یا عضو کے خوف پر مجبور کیا جائے تو وہ معذور ہے۔",
+                "مجبوری میں کلمہ کفر کہنے کی بھی اجازت ہے بشرطیکہ دل مطمئن ہو۔",
+                "یہ رعایت انسانی جان کی حفاظت کو بنیادی اہمیت دینے کی دلیل ہے۔"
+              ],
+              "english": [
+                "If someone is forced under threat to life or limb, they are excused.",
+                "Under duress, even speaking words of disbelief is allowed if the heart remains firm.",
+                "This concession proves that preserving human life is of primary importance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و قانونی اثرات",
+        "english": "Juristic and Legal Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طلاق اور ایمان کے مسائل",
+              "english": "Matters of Divorce and Faith"
+            },
+            "content": {
+              "urdu": [
+                "سخت مجبوری میں دی گئی طلاق اکثر فقہاء کے نزدیک واقع نہیں ہوتی۔",
+                "ایمان کے معاملے میں بھی زبردستی کی کوئی حیثیت تسلیم نہیں کی گئی۔",
+                "فقہاء نے ان اصولوں کی بنیاد پر ہزاروں جزئیات طے کی ہیں۔"
+              ],
+              "english": [
+                "Divorce given under extreme duress is not valid according to most jurists.",
+                "Even in matters of faith, no validity is given to forced actions.",
+                "Jurists have derived thousands of legal details based on these principles."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق العباد کی ادائیگی",
+              "english": "Payment of People's Rights"
+            },
+            "content": {
+              "urdu": [
+                "گناہ کی معافی کا مطلب یہ نہیں کہ دوسروں کا نقصان پورا نہ کیا جائے۔",
+                "اگر بھول کر کسی کا مال ضائع ہو جائے تو اس کا بدلہ دینا واجب ہے۔",
+                "اللہ کا حق معاف ہو جاتا ہے مگر بندوں کا حق ادا کرنا پڑتا ہے۔"
+              ],
+              "english": [
+                "Forgiveness of sin does not mean the damage to others is not compensated.",
+                "If someone's property is accidentally destroyed, compensation is mandatory.",
+                "Allah's right is forgiven, but the rights of people must be fulfilled."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و عملی سبق",
+        "english": "Moral and Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "اسلام تنگی کا نہیں بلکہ آسانی اور وسعت کا دین ہے۔",
+                "اس حدیث سے ہمیں دوسروں کے ساتھ نرمی برتنے کا سبق ملتا ہے۔",
+                "مومن کو چاہیے کہ وہ اللہ کی عطا کردہ رعایتوں سے فائدہ اٹھائے۔"
+              ],
+              "english": [
+                "Islam is not a religion of hardship but of ease and vastness.",
+                "This Hadith teaches us to be gentle and lenient with others.",
+                "A believer should utilize the concessions granted by Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقویٰ اور بصیرت",
+              "english": "Piety and Insight"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث نیت کی پاکیزگی اور خلوصِ دل کی اہمیت اجاگر کرتی ہے۔",
+                "بندہ اپنی ہر حرکت میں اللہ کی نگرانی کا احساس رکھے۔",
+                "علم حاصل کرنے سے ہی انسان خطا اور گناہ میں فرق کر سکتا ہے۔"
+              ],
+              "english": [
+                "This Hadith highlights the importance of purity of intent and sincerity.",
+                "A servant should feel Allah's supervision in every single move.",
+                "Only through knowledge can one distinguish between a mistake and a sin."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

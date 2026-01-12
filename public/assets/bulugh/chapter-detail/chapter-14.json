@@ -1,0 +1,80 @@
+{
+  "chapId": 14,
+  "bookId": 2,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 180,
+    "to": 186
+  },
+  "hadiths": [
+    {
+      "id": 180,
+      "name": {
+        "arabic": " عَنْ أَبِي جُهَيْمِ بْنِ اَلْحَارِثِ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَوْ يَعْلَمُ اَلْمَارُّ بَيْنَ يَدَيِ اَلْمُصَلِّي مَاذَا عَلَيْهِ مِنْ اَلْإِثْمِ لَكَانَ أَنْ يَقِفَ أَرْبَعِينَ خَيْرًا لَهُ مِنْ أَنْ يَمُرَّ بَيْنَ يَدَيْهِ } مُتَّفَقٌ عَلَيْهِ , وَاللَّفْظُ لِلْبُخَارِيِّ .‏ وَوَقَعَ فِي \"اَلْبَزَّارِ\" مِنْ وَجْهٍ آخَرَ : { أَرْبَعِينَ خَرِيفًا } ",
+        "urdu": "سیدنا ابوجہیم بن حارث رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”اگر نمازی کے آگے سے گزرنے والے کو یہ معلوم ہو جائے کہ ایسا کرنے کا کتنا گناہ ہے تو اس کو نمازی کے آگے سے گزرنے کے مقابلے میں چالیس (برس) تک وہاں کھڑا رہنا زیادہ پسند ہو۔“ (بخاری و مسلم) اور یہ الفاظ بخاری کے ہیں۔ یہ حدیث (مسند) بزار میں ایک دوسری سند سے ہے اس میں چالیس سال کا ذکر ہے۔ ",
+        "english": "Narrated Abū Juḥaym ibn Al-Ḥārith (RA): The Messenger of Allah (ﷺ) said: 'If the one who passes in front of a praying person knew what (sin/penalty) was upon him, it would be better for him to stand for forty (years) than to pass in front of him.' [Agreed upon (Al-Bukhārī and Muslim)], and the wording is from Al-Bukhārī. And it is found in 'Al-Bazzār' from another chain: 'forty autumns (Khārifan - years).'"
+      }
+    },
+
+    {
+      "id": 181,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ ‏- رَضِيَ اَللَّهُ عَنْهَا‏- قَالَتْ : { سُئِلَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-‏- فِي غَزْوَةِ تَبُوكَ ‏- عَنْ سُتْرَةِ اَلْمُصَلِّي .‏ فَقَالَ : \"مِثْلُ مُؤْخِرَةِ اَلرَّحْلِ } أَخْرَجَهُ مُسْلِمٌ .‏ ",
+        "urdu": " سیدہ عائشہ رضی اللہ عنہا سے روایت ہے کہ غزوہ تبوک کے موقع پر رسول اللہ صلی اللہ علیہ وسلم سے سترہ کے متعلق پوچھا گیا (کہ اس کی لمبائی کتنی ہونی چاہیئے؟) تو آپ صلی اللہ علیہ وسلم نے فرمایا ” اونٹ کے پالان کے پچھلے حصہ کی اونچائی کے برابر ہونا چاہیئے۔ “ (مسلم) ",
+        "english": "Narrated 'Ā'ishah (RA): 'The Messenger of Allah (ﷺ) was asked—during the Battle of Tabūk—about the Sutrah (barrier) for the praying person. He said: 'It should be like the back of the saddle (Mu'khirat ar-Raḥl).' Reported by Muslim."
+      }
+    },
+
+    {
+      "id": 182,
+      "name": {
+        "arabic": " وَعَنْ سَبْرَةَ بْنِ مَعْبَدٍ اَلْجُهَنِيِّ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لِيَسْتَتِرْ أَحَدُكُمْ فِي صَلَاتِهِ وَلَوْ بِسَهْمٍ } أَخْرَجَهُ اَلْحَاكِمُ",
+        "urdu": " سیدنا سبرہ بن معبد جھنی رضی اللہ عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” نماز (ادا کرتے وقت) تم میں سے ہر ایک کو سترہ ضرور ہی قائم کرنا چاہیئے اگرچہ تیر ہی سہی۔ “ (مستدرک حاکم)",
+        "english": "Narrated Sabrah ibn Ma'bad Al-Juhanī (RA): The Messenger of Allah (ﷺ) said: 'Let one of you use a Sutrah (barrier) for his prayer, even if it be with an arrow (Sahm).' Reported by Al-Ḥākim."
+      }
+    },
+
+    {
+      "id": 183,
+      "name": {
+        "arabic": " وَعَنْ أَبِي ذَرٍّ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ يَقْطَعُ صَلَاةَ اَلْمَرْءِ اَلْمُسْلِمِ ‏- إِذَا لَمْ يَكُنْ بَيْنَ يَدَيْهِ مِثْلُ مُؤْخِرَةِ اَلرَّحْلِ ‏- اَلْمَرْأَةُ , وَالْحِمَارُ , وَالْكَلْبُ اَلْأَسْوَدُ .‏ .‏ .‏ \" اَلْحَدِيثَ .‏ } وَفِيهِ { اَلْكَلْبُ اَلْأَسْوَدِ شَيْطَانٌ } .‏ أَخْرَجَهُ مُسْلِمٌ وَلَهُ : عَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- نَحْوُهُ دُونَ : \"اَلْكَلْبِ\" وَلِأَبِي دَاوُدَ , وَالنَّسَائِيِّ : عَنْ اِبْنِ عَبَّاسٍ ‏- رَضِيَ اَللَّهُ عَنْهُمَا‏- نَحْوُهُ , دُونَ آخِرِهِ .‏ وَقَيَّدَ اَلْمَرْأَةَ بِالْحَائِضِ",
+        "urdu": " سیدنا ابوذر رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” مسلمان مرد کی نماز کو جب کہ اس کے آگے پالان کے پچھلے حصہ کے برابر سترہ نہ ہو، عورت، گدھا اور کالا کتا توڑ دیتا ہے۔ “ اس حدیث میں یہ الفاظ بھی مروی ہیں کہ ” کالا کتا شیطان ہوتا ہے۔ “ (مسلم) اور اس میں سیدنا ابوہریرہ رضی اللہ عنہ کی روایت بھی ہے مگر اس میں کتے کا ذکر نہیں ہے۔ نیز ابوداؤد اور نسائی نے سیدنا ابن عباس رضی اللہ عنہما سے بھی اسی طرح نقل کیا ہے مگر اس میں حدیث کا آخری حصہ نہیں ہے اور عورت کے متعلق حائضہ ہونے کی قید لگائی ہے۔",
+        "english": "Narrated Abū Dharr (RA): The Messenger of Allah (ﷺ) said: 'The prayer of a Muslim man is severed (Yaqaṭ'u) —if he does not have before him a Sutrah like the back of a saddle— by the woman, the donkey, and the black dog.' (the rest of the Hadith). And in it: 'The black dog is a devil.' Reported by Muslim. And for him (Muslim), from Abū Hurayrah, a similar narration, but without mentioning the 'dog.' And for Abu Dawud and An-Nasā'ī, from Ibn 'Abbās, a similar narration, but without the last part. And he restricted the woman by adding: 'the menstruating woman (Ḥā'iḍ).' "
+      }
+    },
+
+    {
+      "id": 184,
+      "name": {
+        "arabic": "وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا صَلَّى أَحَدُكُمْ إِلَى شَيْءٍ يَسْتُرُهُ مِنْ اَلنَّاسِ , فَأَرَادَ أَحَدٌ أَنْ يَجْتَازَ بَيْنَ يَدَيْهِ فَلْيَدْفَعْهُ , فَإِنْ أَبَى فَلْيُقَاتِلْهُ , فَإِنَّمَا هُوَ شَيْطَانٌ } مُتَّفَقٌ عَلَيْهِ وَفِي رِوَايَةٍ : { فَإِنَّ مَعَهُ اَلْقَرِينَ } ",
+        "urdu": " سیدنا ابوسعید خدری رضی اللہ عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” جب تم میں سے کوئی سترہ قائم کر کے نماز پڑھنے لگے اور کوئی آدمی اس کے سامنے (یعنی سترہ اور نمازی کے درمیان فاصلہ) سے گزرنے لگے تو (نمازی کو چاہیئے کہ) وہ اسے روکنے کی کوشش کرے اگر وہ (گزرنے والا پھر بھی) باز نہ آئے تو اس سے لڑائی کرے کیونکہ وہ شیطان (بصورت انسان) ہے۔ “ (بخاری و مسلم) اور ایک روایت میں ہے کہ اس کے ساتھ اس کا ساتھی (شیطان) ہے۔ ",
+        "english": "Narrated Abū Sa'īd Al-Khudrī (RA): The Messenger of Allah (ﷺ) said: 'When one of you prays facing something that serves as a Sutrah (barrier) against people, and someone intends to pass in front of him (between him and the Sutrah), let him repel him (Falyadfa'hu). If he refuses, let him fight him (Falyuqātilhu), for he is a devil.' [Agreed upon (Al-Bukhārī and Muslim)]. And in one narration: 'For with him is the Qarin (companion devil).'"
+      }
+    },
+
+    {
+      "id": 185,
+      "name": {
+        "arabic": "وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا صَلَّى أَحَدُكُمْ فَلْيَجْعَلْ تِلْقَاءَ وَجْهِهِ شَيْئًا , فَإِنْ لَمْ يَجِدْ فَلْيَنْصِبْ عَصًا , فَإِنْ لَمْ يَكُنْ فَلْيَخُطَّ خَطًّا , ثُمَّ لَا يَضُرُّهُ مَنْ مَرَّ بَيْنَ يَدَيْهِ } أَخْرَجَهُ أَحْمَدُ وَابْنُ مَاجَهْ , وَصَحَّحَهُ اِبْنُ حِبَّانَ , وَلَمْ يُصِبْ مَنْ زَعَمَ أَنَّهُ مُضْطَرِبٌ , بَلْ هُوَ حَسَنٌ .‏ ",
+        "urdu": " سیدنا ابوہریرہ رضی اللہ عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” جب تم میں سے کوئی نماز پڑھنے لگے تو اپنے سامنے کوئی چیز گاڑ لے یا قائم کر لے۔ اگر کوئی چیز دستیاب نہ ہو سکے تو اپنی لاٹھی ہی کھڑی کر لے۔ اگر لاٹھی بھی ممکن نہ ہو سکے تو (زمین پر) خط ہی کھینچ لے۔ اب آگے سے گزرنے والا نمازی کو کوئی نقصان نہیں پہنچا سکے گا۔ “ اسے احمد اور ابن ماجہ نے روایت کیا ہے اور ابن حبان نے اسے صحیح قرار دیا ہے اور جس کسی نے یہ گمان کیا ہے کہ یہ حدیث مضطرب ہے اس نے صحیح نہیں کہا (وہ غلطی پر ہے) بلکہ یہ حدیث حسن کے مرتبہ کی ہے۔",
+        "english": "Narrated Abū Hurayrah (RA): The Messenger of Allah (ﷺ) said: 'When one of you prays, let him place something in front of his face (as a Sutrah). If he does not find anything, let him set up a staff (Asā). If he does not have (a staff), let him draw a line (Khaṭṭan). Then, whoever passes in front of him will not harm him.' Reported by Ahmad and Ibn Mājah, and Ibn Ḥibbān graded it as Ṣaḥīḥ (authentic). Whoever claimed it is Mudṭarib (disrupted/confused) did not succeed (was mistaken); rather, it is of the rank of Ḥasan (good)."
+      }
+    },
+
+    {
+      "id": 186,
+      "name": {
+        "arabic": " وَعَنْ أَبِي سَعِيدٍ اَلْخُدْرِيِّ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ لَا يَقْطَعُ اَلصَّلَاةَ شَيْءٌ , وَادْرَأْ مَا اِسْتَطَعْتَ } أَخْرَجَهُ أَبُو دَاوُدَ , وَفِي سَنَدِهِ ضَعْفٌ .‏ ",
+        "urdu": " سیدنا ابوسعید خدری رضی اللہ عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ” نماز کو کوئی چیز نہیں توڑتی (البتہ سامنے سے) گزرنے والے کو حتیٰ الوسع روکنے کی کوشش کرو۔ “ ابوداؤد نے اسے روایت کیا ہے اس کی سند میں ضعف ہے۔  ",
+        "english": "Narrated Abū Sa'īd Al-Khudrī (RA): The Messenger of Allah (ﷺ) said: 'Nothing severs (nullifies) the prayer, but repel (Idra') the one who passes as much as you can.' Reported by Abu Dawud, and there is weakness in its chain."
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 1234,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/15/16"],
+    "kitabId": 15,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب العتق",
+    "babId": 101
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف مرفوعاً، صحيح موقوفاً على عمر رضي الله عنه. رواه ابن ماجه (2515)، والحاكم (2/19). ورواه البيهقي في الكبرى (10/346) بسند صحيح عن عمر قال: 'إذا ولدت أم الولد من سيدها، فقد عتقت وإن كان سقطاً'.",
+    "urdu": "یہ روایت مرفوعاً ضعیف ہے لیکن سیدنا عمر رضی اللہ عنہ پر موقوفاً صحیح سند سے ثابت ہے۔ اسے ابن ماجہ (2515) اور حاکم (2/19) نے روایت کیا ہے۔ بیہقی نے اسے صحیح سند کے ساتھ حضرت عمر سے نقل کیا ہے۔",
+    "english": "Weak as a Prophetic Hadith, but authentic as a statement of 'Umar (RA). Reported by Ibn Majah (2515) and Al-Hakim (2/19). Al-Bayhaqi reported it in Al-Kubra (10/346) with a Sahih chain from 'Umar."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَمَةٍ",
+      "english": "Female slave",
+      "urdu": "لونڈی"
+    },
+    {
+      "arabic": "وَلَدَتْ",
+      "english": "Gave birth",
+      "urdu": "بچہ جنا"
+    },
+    {
+      "arabic": "سَيِّدِهَا",
+      "english": "Her master",
+      "urdu": "اس کا آقا"
+    },
+    {
+      "arabic": "حُرَّةٌ",
+      "english": "Free woman",
+      "urdu": "آزاد عورت"
+    },
+    {
+      "arabic": "أُمُّ اَلْوَلَدِ",
+      "english": "Mother of the child",
+      "urdu": "ام الولد (بچے کی ماں)"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث 'ام الولد' کے قانونی تصور کو بیان کرتی ہے کہ اگر کسی لونڈی کے ہاں اس کے مالک کا بچہ پیدا ہو جائے تو وہ مالک کی موت کے بعد خود بخود آزاد ہو جاتی ہے۔",
+    "english": "This Hadith establishes the legal status of an 'Umm al-Walad', stating that a female slave who bears her master's child becomes automatically free upon his death."
+  },
+  "references": [
+    {
+      "arabic": "سنن ابن ماجه، كتاب العتق، رقم 2515",
+      "english": "Sunan Ibn Majah, Book of Emancipation, No. 2515"
+    },
+    {
+      "arabic": "المستدرك على الصحيحين للحاكم، كتاب العتق، رقم 2816",
+      "english": "Al-Mustadrak al-Hakim, Book of Emancipation, No. 2816"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "ضعيف مرفوعاً وصحيح موقوفاً",
+    "english": "Weak as Marfu', Sahih as Mawquf"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ام الولد کا شرعی مقام",
+        "english": "Sharia Status of Umm al-Walad"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آزادی کا خودکار حق",
+              "english": "Automatic Right to Freedom"
+            },
+            "content": {
+              "urdu": [
+                "جس لونڈی کے ہاں اس کے مالک کا بچہ پیدا ہو جائے، اسے فقہ کی اصطلاح میں 'ام الولد' کہا جاتا ہے۔",
+                "اسلامی قانون کے مطابق ایسی لونڈی کو مالک کی زندگی میں بیچنا یا تحفہ دینا جائز نہیں رہتا۔",
+                "مالک کی وفات ہوتے ہی وہ بغیر کسی معاوضے یا تقریب کے مکمل طور پر آزاد شہری بن جاتی ہے۔"
+              ],
+              "english": [
+                "A female slave who bears her master's child is legally termed 'Umm al-Walad'.",
+                "Under Islamic law, it becomes prohibited for the master to sell or gift her during his lifetime.",
+                "Upon the master's death, she becomes a fully free citizen without any payment or formal process."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچے کا مقام اور وراثت",
+              "english": "Status of the Child and Inheritance"
+            },
+            "content": {
+              "urdu": [
+                "مالک کا وہ بچہ جو لونڈی سے پیدا ہوا، آزاد پیدا ہوتا ہے اور اسے باپ کی جائیداد میں حصہ ملتا ہے۔",
+                "یہ بچہ قانونی طور پر مالک کی دیگر اولاد کے برابر حقوق رکھتا ہے اور باپ کے نسب سے جڑا ہوتا ہے۔",
+                "بچے کی نسبت ہی وہ بنیادی وجہ ہے جس کی بنا پر ماں کو مستقل غلامی سے نجات دی گئی ہے۔"
+              ],
+              "english": [
+                "The child born to the master from his female slave is born free and inherits from the father.",
+                "This child holds equal legal rights to the master's other children and is attributed to the father's lineage.",
+                "The child's status is the primary reason the mother is granted eventual liberation from slavery."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حضرت عمر رضی اللہ عنہ کا فیصلہ",
+        "english": "The Decree of 'Umar (RA)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قانونی نفاذ اور اہمیت",
+              "english": "Legal Implementation and Importance"
+            },
+            "content": {
+              "urdu": [
+                "حضرت عمر رضی اللہ عنہ نے اپنے دورِ خلافت میں اس بات کو قانونی طور پر نافذ فرمایا۔",
+                "آپ کا یہ موقف امت میں اتفاقِ رائے (اجماع) کی بنیاد بنا تاکہ ام الولد کے حقوق محفوظ ہوں۔",
+                "بیہقی کی روایت کے مطابق اگر مردہ بچہ (سقط) بھی پیدا ہو جائے تو بھی ماں آزاد ہو جائے گی۔"
+              ],
+              "english": [
+                "Caliph 'Umar (RA) formally implemented this ruling during his period of leadership.",
+                "His stance became the basis for a consensus (Ijma) to ensure the protection of the mother's rights.",
+                "According to Al-Bayhaqi, even if the child is stillborn, the mother still attains her right to freedom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انسانیت اور خاندانی تحفظ",
+              "english": "Humanity and Family Protection"
+            },
+            "content": {
+              "urdu": [
+                "یہ قانون لونڈی کو ایک نجی ملکیت سے نکال کر ایک معزز خاندان کا حصہ بنا دیتا ہے۔",
+                "اسلام نے اس ذریعے سے لونڈیوں کو معاشرے میں باعزت مقام دلانے کی ترغیب دی ہے۔",
+                "اس سے بچوں کو اپنی ماؤں کے غلام رہنے کی تذلیل سے بچایا گیا ہے جو کہ ایک عظیم سماجی اصلاح ہے۔"
+              ],
+              "english": [
+                "This law transitions the female slave from being private property to becoming part of a noble family.",
+                "Through this, Islam encouraged granting female slaves a respectable status within society.",
+                "It protected children from the humiliation of their mothers being slaves, which is a great social reform."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں اور مذاہب",
+        "english": "Juristic Nuances and Schools"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمہور فقہاء کا موقف",
+              "english": "Majority Jurists' View"
+            },
+            "content": {
+              "urdu": [
+                "ائمہ اربعہ (ابو حنیفہ، مالک، شافعی، احمد) سب اس بات پر متفق ہیں کہ ام الولد کو بیچا نہیں جا سکتا۔",
+                "ان سب کے نزدیک مالک کی موت اس کی آزادی کے لیے کافی ہے اور یہ وراثت سے پہلے کا حق ہے۔",
+                "یہ اصول اس ضعیف مرفوع روایت کے باوجود صحابہ کے عمل کی بنیاد پر متفقہ مانا جاتا ہے۔"
+              ],
+              "english": [
+                "The four Imams (Abu Hanifa, Malik, Shafi'i, Ahmad) agree that an Umm al-Walad cannot be sold.",
+                "They all hold that the master's death suffices for her freedom, taking priority over inheritance.",
+                "This principle is unanimously accepted based on the practice of the Companions, despite the weak Marfu' chain."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ملکیت اور تصرف کی حد",
+              "english": "Limits of Ownership and Disposal"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ وہ تاحیات مالک کی خدمت کر سکتی ہے، مگر مالک اسے کسی قرض یا وراثت میں نہیں دے سکتا۔",
+                "اگر مالک مقروض ہو کر مر جائے، تب بھی ام الولد کو بیچ کر قرض ادا نہیں کیا جائے گا۔",
+                "اسلامی فقہ میں انسانی آزادی کو مالی ذمہ داریوں پر فوقیت دی گئی ہے۔"
+              ],
+              "english": [
+                "Though she serves the master for life, he cannot use her to pay debts or include her in inheritance.",
+                "Even if the master dies in debt, the Umm al-Walad cannot be sold to clear his financial liabilities.",
+                "Islamic jurisprudence prioritizes human freedom over conflicting financial obligations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور تربیتی سبق",
+        "english": "Educational and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تدریجی اصلاح کا نظام",
+              "english": "System of Gradual Reform"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے غلامی کو ختم کرنے کے لیے جذباتی نعروں کے بجائے قانونی راستے بنائے۔",
+                "ام الولد کا تصور اس بات کا ثبوت ہے کہ اسلام خاندانی رشتوں کے ذریعے معاشرے کو پاک کرنا چاہتا تھا۔",
+                "ہر وہ راستہ جو انسان کو آزادی کی طرف لے جائے، اسلام اس کی بھرپور حمایت کرتا ہے۔"
+              ],
+              "english": [
+                "Islam created legal pathways to end slavery instead of relying on emotional slogans alone.",
+                "The concept of Umm al-Walad proves that Islam aimed to purify society through family bonds.",
+                "Islam strongly supports every avenue that leads a human being toward rightful freedom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عصری اہمیت",
+              "english": "Contemporary Relevance"
+            },
+            "content": {
+              "urdu": [
+                "یہ قوانین ہمیں انسانی حقوق اور سماجی انصاف کی گہرائی سمجھنے میں مدد دیتے ہیں۔",
+                "آج کے دور میں بھی کمزور طبقات کے حقوق کا تحفظ کرنا اسی اسلامی روح کی پیروی ہے۔",
+                "حقوق العباد کی ادائیگی میں سستی کرنا یا کسی کی مجبوری کا فائدہ اٹھانا گناہِ عظیم ہے۔"
+              ],
+              "english": [
+                "These laws help us understand the depth of human rights and social justice in Islam.",
+                "In the modern era, protecting the rights of vulnerable classes follows this same Islamic spirit.",
+                "Neglecting the rights of others or exploiting someone's helplessness is considered a major sin."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

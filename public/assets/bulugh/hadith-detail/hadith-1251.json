@@ -1,0 +1,213 @@
+{
+  "hadithId": 1251,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh:1251"],
+    "kitabId": 16,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجامع",
+    "babId": 102
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن.‏ رواه أحمد (6695)، وعلقه البخاري بصيغة الجزم في كتاب اللباس (قبل حديث 5783). ورواه النسائي (2559) وابن ماجه (3605).",
+    "urdu": "یہ حدیث حسن ہے۔ اسے امام احمد نے روایت کیا ہے اور امام بخاری نے کتاب اللباس میں اسے معلق (بلا سند) ذکر کیا ہے۔ نسائی اور ابن ماجہ نے بھی اسے روایت کیا ہے۔",
+    "english": "Hasan. Reported by Ahmad (6695), and Al-Bukhari recorded it as a Mu'allaq narration in the Book of Dress. Also reported by An-Nasa'i (2559) and Ibn Majah (3605)."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَرَفٍ",
+      "english": "Extravagance / Waste",
+      "urdu": "فضول خرچی / اسراف"
+    },
+    {
+      "arabic": "مَخِيلَةٍ",
+      "english": "Arrogance / Conceit",
+      "urdu": "تکبر / فخر و غرور"
+    },
+    {
+      "arabic": "تَصَدَّقْ",
+      "english": "Give charity",
+      "urdu": "صدقہ کرو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث زندگی کے تمام پہلوؤں (کھانے پینے، لباس اور مالی معاملات) میں اعتدال کی تعلیم دیتی ہے اور اسراف و تکبر سے روکتی ہے۔",
+    "english": "This Hadith teaches moderation in all aspects of life (eating, drinking, clothing, and finance) and prohibits wastefulness and vanity."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (6695)",
+      "english": "Reported by Ahmad (6695)"
+    },
+    {
+      "arabic": "رواه النسائي (2559)",
+      "english": "Reported by An-Nasa'i (2559)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمرو بن شعیب",
+        "english": "Amr bin Shu'aib"
+      },
+      "slug": "amr-bin-shuaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اعتدال اور میانہ روی",
+        "english": "Moderation and Balance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جائز نعمتوں کا استعمال",
+              "english": "Using Permissible Blessings"
+            },
+            "content": {
+              "urdu": [
+                "اسلام رہبانیت (دنیا کو مکمل چھوڑ دینا) کی تعلیم نہیں دیتا۔",
+                "اللہ کی دی ہوئی حلال نعمتوں سے لطف اندوز ہونا جائز اور پسندیدہ ہے۔",
+                "نعمتوں کا اظہار اللہ کا شکر ادا کرنے کا ایک ذریعہ ہے۔"
+              ],
+              "english": [
+                "Islam does not teach monasticism (completely abandoning the world).",
+                "Enjoying the lawful blessings provided by Allah is permissible and liked.",
+                "Displaying blessings is a means of showing gratitude to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسراف (فضول خرچی) کی ممانعت",
+              "english": "Prohibition of Extravagance (Israf)"
+            },
+            "content": {
+              "urdu": [
+                "اپنی ضرورت سے بہت زیادہ خرچ کرنا یا مال کو بے جا لٹانا 'اسراف' ہے۔",
+                "اسراف سے انسان کے وسائل ضائع ہوتے ہیں اور وہ دوسروں کے حقوق ادا کرنے سے قاصر رہتا ہے۔",
+                "قرآن میں فضول خرچ کرنے والوں کو شیطان کے بھائی کہا گیا ہے۔"
+              ],
+              "english": [
+                "Spending far beyond one's needs or wasting wealth is 'Israf'.",
+                "Extravagance wastes resources and hinders one from fulfilling others' rights.",
+                "The Quran describes spendthrifts as the brothers of devils."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تکبر اور نمود و نمائش",
+        "english": "Arrogance and Showing Off"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مخیلہ (تکبر) کی حقیقت",
+              "english": "The Reality of Makhila (Arrogance)"
+            },
+            "content": {
+              "urdu": [
+                "مخیلہ سے مراد ایسا لباس یا طرزِ زندگی ہے جس کا مقصد دوسروں پر بڑائی جتانا ہو۔",
+                "ایسا کھانا یا لباس جو لوگوں کو حقیر دکھانے کے لیے ہو، وہ شرعاً ممنوع ہے۔",
+                "اللہ تعالیٰ تکبر کرنے والے کو پسند نہیں فرماتا۔"
+              ],
+              "english": [
+                "Makhila refers to attire or a lifestyle intended to assert superiority over others.",
+                "Food or clothing meant to make others feel inferior is religiously prohibited.",
+                "Allah does not love the arrogant."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صدقہ میں اعتدال",
+              "english": "Moderation in Charity"
+            },
+            "content": {
+              "urdu": [
+                "نیکی کے کاموں اور صدقہ میں بھی نمائش سے بچنا ضروری ہے۔",
+                "صدقہ اس نیت سے نہ ہو کہ لوگ سخی کہیں (ریاکاری)۔",
+                "اپنی وسعت سے بڑھ کر صدقہ کر کے خود کو محتاج کر لینا بھی مناسب نہیں۔"
+              ],
+              "english": [
+                "It is necessary to avoid showing off even in good deeds and charity.",
+                "Charity should not be given so that people call one generous (hypocrisy).",
+                "Spending beyond one's capacity to the point of becoming needy is also discouraged."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سماجی اور نفسیاتی فوائد",
+        "english": "Social and Psychological Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احساسِ کمتری کا خاتمہ",
+              "english": "Ending Inferiority Complex"
+            },
+            "content": {
+              "urdu": [
+                "جب امیر لوگ سادگی اختیار کرتے ہیں تو غریبوں میں احساسِ کمتری پیدا نہیں ہوتا۔",
+                "اسراف معاشرے میں طبقہ وارانہ کشمکش کا باعث بنتا ہے۔",
+                "میانہ روی سے معاشرے میں معاشی استحکام آتا ہے۔"
+              ],
+              "english": [
+                "When the wealthy adopt simplicity, the poor do not feel an inferiority complex.",
+                "Extravagance leads to class conflict within society.",
+                "Moderation leads to economic stability in the community."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "متوازن طرزِ زندگی",
+              "english": "Balanced Lifestyle"
+            },
+            "content": {
+              "urdu": [
+                "اپنی آمدنی اور ضرورت کے درمیان توازن رکھیں۔",
+                "لباس اور خوراک میں فیشن کے بجائے ضرورت اور شرافت کو ملحوظ رکھیں۔",
+                "ہر خرچ سے پہلے اپنی نیت کو ٹٹولیں کہ کہیں اس میں دکھاوا تو نہیں۔"
+              ],
+              "english": [
+                "Maintain a balance between your income and needs.",
+                "Prioritize necessity and decency in food and clothing over fashion.",
+                "Examine your intention before every expense to ensure it is not for show."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 543,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/543"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف. رواه ابن ماجه (1678). وقال الترمذي: 'لا يصح في هذا الباب شيء'. وضعفه البيهقي وابن الجوزي.",
+    "urdu": "ضعیف۔ اسے ابن ماجہ (1678) نے روایت کیا ہے۔ امام ترمذی نے صراحت کی ہے کہ اس باب میں کوئی روایت بھی صحیح نہیں، اور امام بیہقی نے بھی اسے ضعیف قرار دیا ہے۔",
+    "english": "Weak (Da'if). Reported by Ibn Majah (1678). At-Tirmidhi stated that nothing authentic is reported regarding this subject. It was also graded weak by Al-Bayhaqi and Ibn al-Jawzi."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِكْتَحَلَ",
+      "english": "Applied kohl",
+      "urdu": "سرمہ لگایا"
+    },
+    {
+      "arabic": "صَائِمٌ",
+      "english": "Fasting",
+      "urdu": "روزہ دار"
+    },
+    {
+      "arabic": "لَا يَصِحُّ",
+      "english": "Not authentic",
+      "urdu": "صحیح نہیں ہے"
+    },
+    {
+      "arabic": "إِسْنَادٍ",
+      "english": "Chain of narrators",
+      "urdu": "سند"
+    },
+    {
+      "arabic": "شَيْءٌ",
+      "english": "Anything / Something",
+      "urdu": "کوئی چیز"
+    }
+  ],
+  "summary": {
+    "urdu": "روزے کی حالت میں سرمہ لگانے کے بارے میں وارد احادیث ضعیف ہیں، تاہم فقہاء کے نزدیک سرمہ لگانا جائز ہے کیونکہ یہ پیٹ میں جانے والا راستہ (منفذ) نہیں ہے۔",
+    "english": "Hadiths regarding applying kohl while fasting are weak; however, jurists generally permit it as the eye is not considered a direct passage to the stomach."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن ماجه (1678)",
+      "english": "Reported by Ibn Majah (1678)"
+    },
+    {
+      "arabic": "سنن الترمذي (تحت الحديث 711)",
+      "english": "Sunan At-Tirmidhi (Under Hadith 711)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0kH89_o0v_8",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سرمہ اور روزے کا فقہی حکم",
+        "english": "Juristic Ruling on Kohl and Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سرمہ لگانے کا جواز",
+              "english": "Permissibility of Applying Kohl"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث ضعیف ہے، لیکن اکثر علماء کے نزدیک روزے میں سرمہ لگانا جائز ہے۔",
+                "امام شافعی اور امام ابو حنیفہ کے نزدیک سرمہ لگانے سے روزہ نہیں ٹوٹتا۔",
+                "اس کی وجہ یہ ہے کہ آنکھ کا حلق کے ساتھ وہ قدرتی راستہ نہیں جو غذا پہنچانے کا ذریعہ ہو۔"
+              ],
+              "english": [
+                "Although this specific Hadith is weak, most scholars permit applying kohl while fasting.",
+                "According to Imams Shafi'i and Abu Hanifa, applying kohl does not invalidate the fast.",
+                "This is because the eye is not considered a natural portal for food to reach the stomach."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حلق میں ذائقہ محسوس ہونا",
+              "english": "Feeling the Taste in the Throat"
+            },
+            "content": {
+              "urdu": [
+                "بعض اوقات سرمہ لگانے کے بعد حلق میں اس کا ذائقہ محسوس ہوتا ہے۔",
+                "جمہور علماء کے نزدیک ذائقہ محسوس ہونے کے باوجود روزہ نہیں ٹوٹتا۔",
+                "یہ ذائقہ باریک مساموں کے ذریعے پہنچتا ہے، جو باقاعدہ 'کھانے پینے' کے زمرے میں نہیں آتا۔"
+              ],
+              "english": [
+                "Sometimes the taste of kohl can be felt in the throat after application.",
+                "The majority of scholars hold that the fast remains valid even if the taste is felt.",
+                "The taste reaches the throat via pores, which does not constitute actual 'eating or drinking'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی اسنادی حیثیت",
+        "english": "Status of the Hadith's Chain"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امام ترمذی کی جرح",
+              "english": "Imam At-Tirmidhi's Critique"
+            },
+            "content": {
+              "urdu": [
+                "امام ترمذی نے صراحت کی کہ روزے میں سرمہ لگانے کے متعلق کوئی صحیح روایت موجود نہیں۔",
+                "اس حدیث کی سند میں ایسے راوی موجود ہیں جن پر محدثین نے کلام کیا ہے۔",
+                "ضعیف حدیث اکیلی کسی شرعی حکم (فرض یا حرام) کے ثبوت کے لیے کافی نہیں ہوتی۔"
+              ],
+              "english": [
+                "Imam At-Tirmidhi explicitly stated that no authentic report exists regarding kohl while fasting.",
+                "The chain of this Hadith contains narrators who have been criticized by Hadith masters.",
+                "A weak Hadith alone is insufficient to establish a binding legal ruling (Fard or Haram)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر روایات کا موازنہ",
+              "english": "Comparison with Other Narrations"
+            },
+            "content": {
+              "urdu": [
+                "انس بن مالک رضی اللہ عنہ سے بھی ایسی ہی ایک روایت مروی ہے جو کہ ضعیف ہے۔",
+                "محدثین کا اتفاق ہے کہ اس موضوع پر تمام مرفوع روایات سنداً کمزور ہیں۔",
+                "تاہم، صحابہ کرام کے عمل سے اس کا جواز ثابت ہے جو کہ سنت کے خلاف نہیں ہے۔"
+              ],
+              "english": [
+                "A similar narration is reported from Anas bin Malik (RA), but it is also weak.",
+                "Muhaddithin agree that all Marfu' narrations on this topic are chain-wise weak.",
+                "However, the practice of some Companions supports its permissibility without contradicting Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید طبی مسائل اور روزہ",
+        "english": "Modern Medical Issues and Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آنکھ کے قطرے (Eye Drops)",
+              "english": "Eye Drops While Fasting"
+            },
+            "content": {
+              "urdu": [
+                "سرمہ لگانے کے حکم پر ہی ماہرین نے آنکھ کے قطروں (Eye Drops) کا قیاس کیا ہے۔",
+                "جدید فتاویٰ کے مطابق آنکھ میں قطرے ڈالنے سے روزہ نہیں ٹوٹتا۔",
+                "اگر حلق میں ذائقہ محسوس ہو تو اسے تھوک دینا بہتر ہے، لیکن روزہ پھر بھی درست رہے گا۔"
+              ],
+              "english": [
+                "Experts apply the ruling of kohl to modern eye drops via analogy (Qiyas).",
+                "Modern fatwas suggest that using eye drops does not invalidate the fast.",
+                "If taste is felt in the throat, it is better to spit it out, but the fast remains valid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طبی ضرورت اور احتیاط",
+              "english": "Medical Necessity and Caution"
+            },
+            "content": {
+              "urdu": [
+                "بیماری کی صورت میں آنکھ کا علاج روزے کے دوران بلا جھجک کیا جا سکتا ہے۔",
+                "احتیاط پسند علماء رات کے وقت سرمہ لگانے کو بہتر سمجھتے ہیں۔",
+                "دین اسلام میں ضرورت کے وقت آسانی فراہم کی گئی ہے۔"
+              ],
+              "english": [
+                "In case of illness, eye treatments can be administered during fasting without hesitation.",
+                "Cautions scholars suggest applying kohl at night to avoid any doubt.",
+                "Islam provides ease and concessions in matters of medical necessity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور خلاصہ",
+        "english": "Practical Training and Summary"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضعیف احادیث پر عمل کا قاعدہ",
+              "english": "Rule of Acting on Weak Hadiths"
+            },
+            "content": {
+              "urdu": [
+                "فضائل اعمال میں ضعیف حدیث قابل قبول ہو سکتی ہے لیکن احکام میں نہیں۔",
+                "سرمہ لگانے کا جواز حدیث کے بجائے اصل (براتِ اصلیہ) پر مبنی ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ مستند علم کی بنیاد پر اپنے مسائل حل کریں۔"
+              ],
+              "english": [
+                "Weak Hadiths may be acceptable for virtuous deeds but not for defining legal rulings.",
+                "The permission for kohl is based on the original state of permissibility (Ibaha).",
+                "Muslims should resolve their issues based on authentic and verified knowledge."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت اور زینت",
+              "english": "Sunnah and Adornment"
+            },
+            "content": {
+              "urdu": [
+                "عام حالات میں سرمہ لگانا سنت نبوی اور آنکھوں کی صحت کے لیے مفید ہے۔",
+                "روزے کی حالت میں زینت کے بجائے بندگی پر توجہ مرکوز کرنی چاہیے۔",
+                "اگر ضرورت نہ ہو تو روزہ دار کو غیر ضروری چیزوں سے اجتناب کرنا چاہیے۔"
+              ],
+              "english": [
+                "In general, kohl is a Sunnah and beneficial for eye health.",
+                "While fasting, one should focus more on devotion than on physical adornment.",
+                "Unless necessary, a fasting person should avoid non-essential applications."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

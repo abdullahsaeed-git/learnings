@@ -1,0 +1,264 @@
+{
+  "hadithId": 272,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["urn:1263"],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "Bulugh al-Maram",
+    "babId": 18
+  },
+  "name": {
+    "arabic": "وَعَنْهُ : { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-سَجَدَ بِالنَّجْمِ } رَوَاهُ اَلْبُخَارِيُّ .‏",
+    "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے سورۃ «النجم» میں سجدہ تلاوت کیا۔",
+    "english": "Narrated by him (Ibn Abbas): The Prophet (ﷺ) performed a prostration upon reciting Surah An-Najm. Reported by Al-Bukhari."
+  },
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1071) وزاد: 'وسجد معه المسلمون، والمشركون، والجن، والإنس'.",
+    "urdu": "صحیح۔ اسے بخاری (1071) نے روایت کیا ہے اور یہ اضافہ کیا: 'اور آپ کے ساتھ مسلمانوں، مشرکوں، جنوں اور انسانوں نے سجدہ کیا۔'",
+    "english": "Sahih. Reported by Al-Bukhari (1071) and he added: 'The Muslims, the polytheists, the jinn, and mankind prostrated with him.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "النجم",
+      "english": "The Star (Surah)",
+      "urdu": "سورۃ النجم"
+    },
+    {
+      "arabic": "سجد",
+      "english": "Prostrated",
+      "urdu": "سجدہ کیا"
+    },
+    {
+      "arabic": "المشركون",
+      "english": "The Polytheists",
+      "urdu": "مشرکین"
+    },
+    {
+      "arabic": "الجن",
+      "english": "The Jinn",
+      "urdu": "جنات"
+    },
+    {
+      "arabic": "الإنس",
+      "english": "Mankind",
+      "urdu": "انسان"
+    },
+    {
+      "arabic": "معه",
+      "english": "With him",
+      "urdu": "اس کے ساتھ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ نبی کریم ﷺ نے سورۃ النجم کی تلاوت پر سجدہ کیا اور اس موقع پر مسلمانوں کے ساتھ ساتھ مشرکین اور جنات نے بھی سجدہ کیا۔",
+    "english": "This Hadith states that the Prophet (ﷺ) prostrated during the recitation of Surah An-Najm, and on this occasion, the Muslims, polytheists, and Jinn also prostrated with him."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1071)",
+      "english": "Reported by Al-Bukhari (1071)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-k7Owb2QM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تاریخی واقعہ",
+        "english": "Historical Event"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مشرکین کا سجدہ",
+              "english": "Prostration of Polytheists"
+            },
+            "content": {
+              "urdu": [
+                "جب نبی ﷺ نے سورۃ النجم کی آیات تلاوت کیں تو کفار پر رعب طاری ہو گیا۔",
+                "قرآن کی تاثیر اتنی زبردست تھی کہ وہ خود کو سجدہ کرنے سے نہ روک سکے۔",
+                "یہ اسلام کی تاریخ کا ایک منفرد واقعہ ہے جہاں مومن اور کافر سب جھک گئے۔"
+              ],
+              "english": [
+                "When the Prophet (ﷺ) recited Surah An-Najm, the disbelievers were awestruck.",
+                "The impact of the Quran was so powerful that they could not stop themselves from prostrating.",
+                "This is a unique event in Islamic history where believers and disbelievers all bowed down."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مفصل سورتیں",
+              "english": "Mufassal Surahs"
+            },
+            "content": {
+              "urdu": [
+                "سورۃ النجم مفصل سورتوں میں سے پہلی سورت ہے جس میں سجدہ ہے۔",
+                "اس سے ثابت ہوتا ہے کہ مفصل سورتوں میں سجدہ تلاوت منسوخ نہیں ہے۔",
+                "عبداللہ بن مسعودؓ کی روایت بھی اس واقعے کی تصدیق کرتی ہے۔"
+              ],
+              "english": [
+                "Surah An-Najm is the first among the Mufassal Surahs to contain a prostration.",
+                "This proves that prostration in Mufassal Surahs is not abrogated.",
+                "The narration of Abdullah bin Mas'ud (RA) also confirms this event."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قرآن کی عظمت",
+        "english": "Greatness of Quran"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دلوں پر اثر",
+              "english": "Impact on Hearts"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کی فصاحت و بلاغت نے مشرکین مکہ کو مسحور کر دیا تھا۔",
+                "وہ مخالفت کے باوجود قرآن سننے کے لیے چھپ کر آتے تھے۔",
+                "یہ سجدہ ان کے دلوں پر قرآن کی حکومت کا منہ بولتا ثبوت تھا۔"
+              ],
+              "english": [
+                "The eloquence of the Quran mesmerized the polytheists of Makkah.",
+                "Despite their opposition, they used to come secretly to listen to the Quran.",
+                "This prostration was evident proof of the Quran's rule over their hearts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کائنات کی اطاعت",
+              "english": "Obedience of the Universe"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں ہے کہ جن اور انسان سب نے سجدہ کیا۔",
+                "یہ اللہ کے کلام کی عالمگیر قوت کا اظہار ہے۔",
+                "اللہ کی بڑائی کے سامنے ہر مخلوق، چاہے نظر آئے یا نہ، سرنگوں ہے۔"
+              ],
+              "english": [
+                "The Hadith states that both Jinn and Mankind prostrated.",
+                "This expresses the universal power of Allah's Word.",
+                "Every creature, visible or invisible, bows before the Greatness of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل",
+        "english": "Juristic Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سجدہ تلاوت کا حکم",
+              "english": "Ruling on Sujud at-Tilawah"
+            },
+            "content": {
+              "urdu": [
+                "شافعیہ اور اکثر محدثین کے نزدیک یہ سجدہ سنت ہے۔",
+                "حنفیہ کے نزدیک سجدہ تلاوت واجب ہے۔",
+                "اختلاف کے باوجود، سجدہ کرنا اللہ کی رضا اور قرب کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "According to Shafi'is and most Muhaddithin, this Sujud is Sunnah.",
+                "According to Hanafis, Sujud at-Tilawah is Wajib (mandatory).",
+                "Despite the disagreement, prostrating is a means of Allah's pleasure and nearness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طہارت کی شرط",
+              "english": "Condition of Purity"
+            },
+            "content": {
+              "urdu": [
+                "مشرکین کے سجدے سے بحث ہوتی ہے کہ کیا طہارت شرط ہے؟",
+                "اکثر علماء کے نزدیک مسلمانوں کے لیے نماز والا وضو ضروری ہے۔",
+                "مشرکین کا سجدہ قہر اور ہیبت کی وجہ سے تھا، عبادت کا سجدہ نہیں تھا۔"
+              ],
+              "english": [
+                "The prostration of polytheists raises the debate: is purity a condition?",
+                "For Muslims, Wudu similar to prayer is necessary according to most scholars.",
+                "The polytheists' prostration was due to awe and overwhelming power, not ritual worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عاجزی کا اظہار",
+              "english": "Expression of Humility"
+            },
+            "content": {
+              "urdu": [
+                "سجدہ انسان کو تکبر سے پاک کرتا ہے۔",
+                "جب قرآن پڑھیں اور سجدے والی آیت آئے تو فوراً جھک جائیں۔",
+                "یہ عمل اللہ کے احکامات کے سامنے سر تسلیم خم کرنے کی علامت ہے۔"
+              ],
+              "english": [
+                "Prostration purifies a human from arrogance.",
+                "When reciting Quran and reaching a verse of Sujud, bow down immediately.",
+                "This action is a sign of complete submission to Allah's commands."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قرآن سے تعلق",
+              "english": "Connection with Quran"
+            },
+            "content": {
+              "urdu": [
+                "قرآن کو سمجھ کر اور دھیان سے پڑھنا چاہیے۔",
+                "اس کے معانی پر غور کرنے سے ہی دل پر اثر ہوتا ہے۔",
+                "غفلت میں پڑھنے سے وہ کیفیت پیدا نہیں ہوتی جو صحابہ پر طاری ہوتی تھی۔"
+              ],
+              "english": [
+                "The Quran should be read with understanding and attention.",
+                "Reflecting on its meanings creates an impact on the heart.",
+                "Reading in negligence does not produce the state experienced by the Companions."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

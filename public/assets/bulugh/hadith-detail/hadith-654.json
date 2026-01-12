@@ -1,0 +1,264 @@
+{
+  "hadithId": 654,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/7"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5538)، وأحمد (6/330)، والنسائي (4258). والزيادة توضح الفرق بين الجامد والمائع.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (5538)، احمد (6/330) اور نسائی (4258) نے روایت کیا ہے۔ یہ اضافہ جمے ہوئے اور پگھلے ہوئے گھی کے درمیان فرق کو واضح کرتا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5538), Ahmad (6/330), and An-Nasa'i (4258). The addition clarifies the ruling for solid versus liquid fat."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَأْرَةً",
+      "english": "Mouse",
+      "urdu": "چوہیا"
+    },
+    {
+      "arabic": "سَمْنٍ",
+      "english": "Clarified butter / Ghee",
+      "urdu": "گھی"
+    },
+    {
+      "arabic": "أَلْقُوهَا",
+      "english": "Throw it away",
+      "urdu": "اسے پھینک دو"
+    },
+    {
+      "arabic": "مَا حَوْلَهَا",
+      "english": "What is around it",
+      "urdu": "جو اس کے اردگرد ہے"
+    },
+    {
+      "arabic": "جَامِدٍ",
+      "english": "Solid / Frozen",
+      "urdu": "منجمد یا جما ہوا"
+    },
+    {
+      "arabic": "مَاتَتْ",
+      "english": "Died",
+      "urdu": "مر گئی"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر جمے ہوئے گھی میں چوہیا گر کر مر جائے تو صرف چوہیا اور اس کے ارد گرد کا متاثرہ حصہ نکال کر بقیہ گھی استعمال کیا جا سکتا ہے۔",
+    "english": "If a mouse dies in solid ghee, only the mouse and the surrounding affected part should be removed, and the rest remains pure for use."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الذبائح والصيد",
+      "english": "Sahih al-Bukhari, Book of Slaughter and Hunting"
+    },
+    {
+      "arabic": "سنن النسائي، كتاب الفرع والعتيرة",
+      "english": "Sunan an-Nasa'i, Book of al-Fara' and al-'Atirah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ميمونة بنت الحارث",
+        "english": "Maimunah bint al-Harith"
+      },
+      "slug": "maimunah-bint-al-harith"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S3XoY6WnZ7U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کے اصول",
+        "english": "Principles of Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "منجمد اشیاء کا حکم",
+              "english": "Ruling on Solid Substances"
+            },
+            "content": {
+              "urdu": [
+                "جمے ہوئے گھی میں نجاست گرنے سے سارا گھی ناپاک نہیں ہوتا۔",
+                "صرف وہ حصہ ناپاک ہوتا ہے جو براہ راست نجاست سے مس ہوا ہو۔",
+                "یہ اسلام کی طرف سے مال ضائع نہ کرنے کی ایک بہترین تعلیم ہے۔"
+              ],
+              "english": [
+                "Impurities falling into solid ghee do not make the entire quantity impure.",
+                "Only the part directly touching the impurity is considered contaminated.",
+                "This is a great Islamic teaching against the wastage of useful resources."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نجاست کا اثر",
+              "english": "Effect of Impurity"
+            },
+            "content": {
+              "urdu": [
+                "چوہیا کے اردگرد کا حصہ اس لیے نکالا جاتا ہے تاکہ شک دور ہو جائے۔",
+                "جمی ہوئی چیز میں نجاست کے جراثیم دور تک سرایت نہیں کرتے۔",
+                "بقیہ حصہ اپنی اصل حالت میں پاک اور حلال برقرار رہتا ہے۔"
+              ],
+              "english": [
+                "The area around the mouse is removed to eliminate any doubt of contamination.",
+                "In solid substances, impurities do not spread far from the source.",
+                "The remaining portion retains its original state of purity and permissibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پگھلے ہوئے گھی کا حکم",
+        "english": "Ruling on Liquid Ghee"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیال اشیاء میں نجاست",
+              "english": "Impurity in Liquids"
+            },
+            "content": {
+              "urdu": [
+                "اگر گھی پگھلا ہوا ہو تو چوہیا گرنے سے سارا گھی ناپاک ہو جائے گا۔",
+                "مائع حالت میں نجاست کے اثرات پورے برتن میں پھیل جاتے ہیں۔",
+                "ایسی صورت میں اس گھی کو کھانے کے لیے استعمال کرنا منع ہے۔"
+              ],
+              "english": [
+                "If the ghee is liquid, a mouse falling in makes the entire vessel impure.",
+                "In liquid form, the effects of impurity spread throughout the substance.",
+                "In such cases, it is forbidden to use that ghee for consumption."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی اختلاف",
+              "english": "Juristic Differences"
+            },
+            "content": {
+              "urdu": [
+                "بعض فقہاء مائع گھی کو بھی کثیر ہونے کی صورت میں پاک مانتے ہیں۔",
+                "تاہم، احتیاط اسی میں ہے کہ پگھلے ہوئے گھی کو کھانے میں نہ لایا جائے۔",
+                "اسے جلانے یا صنعتی مقاصد میں استعمال کرنے کی بعض علماء اجازت دیتے ہیں۔"
+              ],
+              "english": [
+                "Some jurists consider liquid ghee pure if it is in a large quantity.",
+                "However, caution dictates not using contaminated liquid ghee for eating.",
+                "Some scholars permit using it for burning lamps or industrial purposes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور حفظانِ صحت",
+        "english": "Medical and Hygiene Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیماریوں سے بچاؤ",
+              "english": "Prevention of Diseases"
+            },
+            "content": {
+              "urdu": [
+                "چوہیا کئی قسم کے جراثیم اور بیماریوں کا باعث بن سکتی ہے۔",
+                "اردگرد کا حصہ پھینکنے کا حکم طبی لحاظ سے بھی بہت موزوں ہے۔",
+                "اسلامی احکامات انسانی صحت اور صفائی کو مقدم رکھتے ہیں۔"
+              ],
+              "english": [
+                "Mice can carry various types of germs and contagious diseases.",
+                "The command to throw away the surrounding part is medically sound.",
+                "Islamic rulings prioritize human health and environmental cleanliness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کھانے پینے میں احتیاط",
+              "english": "Caution in Food and Drink"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان کو اپنی خوراک کی پاکیزگی پر کڑی نظر رکھنی چاہیے۔",
+                "مشکوک یا ناپاک کھانے سے پرہیز کرنا تقویٰ کا تقاضا ہے۔",
+                "رزقِ حلال اور طیب ہی روحانی بالیدگی کا ذریعہ بنتا ہے۔"
+              ],
+              "english": [
+                "A Muslim should keep a strict watch on the purity of their food.",
+                "Avoiding doubtful or impure food is a requirement of righteousness.",
+                "Lawful and pure provision is the key to spiritual growth."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسراف سے اجتناب",
+              "english": "Avoiding Extravagance"
+            },
+            "content": {
+              "urdu": [
+                "پورے گھی کو پھینکنے کے بجائے متاثرہ حصہ پھینکنا فضول خرچی سے بچاتا ہے۔",
+                "اسلام ہمیں اشیاء کو ضائع کرنے کے بجائے ان کا صحیح حل بتاتا ہے۔",
+                "وسائل کی قدر کرنا اور انہیں ضائع نہ کرنا ایک بہترین صفت ہے۔"
+              ],
+              "english": [
+                "Removing only the affected part prevents unnecessary waste of resources.",
+                "Islam provides solutions rather than just ordering to discard items.",
+                "Valuing resources and not wasting them is an excellent human trait."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علم کی طلب",
+              "english": "Seeking Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام چھوٹے سے چھوٹے مسئلے میں بھی آپ ﷺ سے رہنمائی لیتے تھے۔",
+                "ہمیں بھی روزمرہ کے مسائل میں شرعی احکامات کی طرف رجوع کرنا چاہیے۔",
+                "صحیح علم ہی ہمیں غلط فہمیوں اور بے جا سختی سے بچاتا ہے۔"
+              ],
+              "english": [
+                "The Companions sought guidance from the Prophet (ﷺ) for even minor issues.",
+                "We should also refer to Sharia rulings for our daily life problems.",
+                "Correct knowledge saves us from misconceptions and undue hardships."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

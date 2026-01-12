@@ -1,0 +1,274 @@
+{
+  "hadithId": 106,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["Abu Dawud 232"],
+    "kitabId": 1,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 8
+  },
+
+  "takhreej": {
+    "arabic": " ضعيف. رواه أبو داود (232) ، وابن خزيمة (1327) . ",
+    "urdu": "ضعیف (کمزور) روایت۔ اسے ابوداؤد (232) اور ابن خزیمہ (1327) نے روایت کیا ہے۔ اس کی سند میں ضعف پایا جاتا ہے۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (232) and Ibn Khuzaymah (1327). This narration has weakness in its chain, despite being authenticated by some scholars."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا أُحِلُّ",
+      "english": "I do not permit",
+      "urdu": "میں حلال نہیں کرتا"
+    },
+    {
+      "arabic": "اَلْمَسْجِدَ",
+      "english": "The mosque",
+      "urdu": "مسجد"
+    },
+    {
+      "arabic": "لِحَائِضٍ",
+      "english": "To a menstruating woman",
+      "urdu": "حائضہ عورت کے لیے"
+    },
+    {
+      "arabic": "وَلَا جُنُبٌ",
+      "english": "Nor to a Junub person",
+      "urdu": "اور نہ حالت جنابت والے کے لیے"
+    },
+    {
+      "arabic": "اَلْجَنَابَةِ",
+      "english": "Major ritual impurity",
+      "urdu": "جنابت"
+    },
+    {
+      "arabic": "دُخُول",
+      "english": "Entering",
+      "urdu": "داخلہ"
+    },
+    {
+      "arabic": "طَهَارَة",
+      "english": "Purity",
+      "urdu": "پاکیزگی"
+    },
+    {
+      "arabic": "صَحَّحَهُ",
+      "english": "Authenticated it",
+      "urdu": "صحیح قرار دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے حیض والی عورت اور غسل جنابت کے محتاج شخص کو مسجد میں ٹھہرنے کی اجازت نہیں دی۔",
+    "english": "This Hadith states that the Prophet (PBUH) forbade a menstruating woman and a person in a state of Janabah (major impurity) from staying in the mosque."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (232)",
+      "english": "Reported by Abu Dawud (232)"
+    },
+    {
+      "arabic": "رواه ابن خزيمة (1327)",
+      "english": "Reported by Ibn Khuzaymah (1327)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "Aishah bint Abi Bakr As-Siddiq"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=hadith_purity_106",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد اور طہارت کا حکم",
+        "english": "Ruling on the Mosque and Purity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طہارت کی شرط",
+              "english": "Condition of Purity"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث میں واضح کیا گیا کہ مسجد میں داخل ہونے کے لیے جسمانی طہارت ضروری ہے۔",
+                "حائضہ عورتیں اور حالت جنابت میں مبتلا افراد کو بڑے غسل کی ضرورت ہوتی ہے۔",
+                "مسجد اللہ کا گھر ہے اور اس کے احترام کے لیے ظاہری اور باطنی پاکیزگی کا خیال رکھنا چاہیے۔"
+              ],
+              "english": [
+                "This Hadith clarifies that physical purity is a necessary condition for entering and staying in the mosque.",
+                "Menstruating women and persons in a state of Janabah require Ghusl (a major ritual bath) for purification.",
+                "The mosque is the House of Allah, and respect for it necessitates maintaining both physical and spiritual cleanliness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ممانعت کی نوعیت",
+              "english": "Nature of the Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک حائضہ اور جنب کا مسجد میں **ٹھہرنا** یا **آرام** کرنا حرام ہے۔",
+                "البتہ، اگر کسی شخص کو مسجد سے گزرنا ہو اور کوئی دوسرا راستہ نہ ہو تو وہ گزر سکتا ہے۔",
+                "یہ حکم اس لیے ہے تاکہ مسجد کی صفائی اور تقدس برقرار رہے، خاص کر خون یا نجاست کے خطرے سے۔"
+              ],
+              "english": [
+                "According to the majority of scholars, it is prohibited for a menstruating woman or a Junub person to **stay** or **rest** in the mosque.",
+                "However, if a person needs to pass through the mosque and there is no other route, they are generally permitted to do so.",
+                "This ruling aims to preserve the cleanliness and sanctity of the mosque, especially from the risk of blood or impurities."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "درجہ حدیث اور فقہی اختلاف",
+        "english": "Hadith Grade and Jurisprudential Difference"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کا ضعف",
+              "english": "Weakness of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "علمائے حدیث کی ایک بڑی تعداد نے اس روایت کو سند کے اعتبار سے **ضعیف** قرار دیا ہے۔",
+                "اس کے باوجود، فقہاء کرام کی اکثریت نے احتیاطاً اس حکم پر عمل کیا ہے کیونکہ دیگر دلائل بھی موجود ہیں۔",
+                "ضعف کی وجہ سے بعض علماء نے جنب کو مسجد سے گزرنے کی اجازت دی ہے، لیکن ٹھہرنے کی نہیں۔"
+              ],
+              "english": [
+                "A large number of Hadith scholars have graded this narration as **Da'if (Weak)** concerning its chain of transmission.",
+                "Despite its weakness, the majority of jurists have adopted this ruling cautiously, as there are supporting proofs (from the Qur'an and other narrations).",
+                "Due to the weakness, some scholars permit a Junub person to pass through the mosque, but strictly forbid staying inside."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آیت قرآنی اور موازنہ",
+              "english": "Qur'anic Verse and Comparison"
+            },
+            "content": {
+              "urdu": [
+                "سورۃ النساء میں جنب کے لیے مسجد میں نماز کے قریب جانے کی ممانعت کا اشارہ ہے۔",
+                "یہ آیت اور دیگر روایات اس حدیث کے مفہوم کی تائید کرتی ہیں، اگرچہ یہ سنداً ضعیف ہو۔",
+                "فقہاء نے طہارت کی حالت میں مسجد میں داخلے کو فضیلت کا سبب قرار دیا ہے۔"
+              ],
+              "english": [
+                "Surah An-Nisa (Chapter 4, Verse 43) alludes to the prohibition for a Junub person to approach the place of prayer in the mosque.",
+                "This verse and other reports support the overall meaning of this Hadith, even if its chain of narration is weak.",
+                "Jurists highlight that entering the mosque in a state of purity is deemed a virtuous and respectful act."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جنابت اور حیض کے احکام",
+        "english": "Rulings on Janabah and Menstruation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنب اور حائضہ کی مماثلت",
+              "english": "Similarity between Junub and Haid"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے مرد اور عورت دونوں کو ناپاکی کی حالت میں مسجد سے دور رہنے کا یکساں حکم دیا ہے۔",
+                "دونوں حالتوں میں عبادات جیسے نماز اور روزہ کی ممانعت ہے، لیکن جنابت کا وقت کم ہوتا ہے۔",
+                "دونوں کو پاکیزگی حاصل کرنے کے لیے غسل کرنا لازمی ہے، اس کے بغیر طہارت ممکن نہیں۔"
+              ],
+              "english": [
+                "The Shariah gives a similar instruction for both men and women to stay away from the mosque during a state of major impurity.",
+                "In both states, acts of worship like prayer and fasting are forbidden, although the duration of Janabah is typically shorter.",
+                "Both require performing Ghusl to achieve ritual purity; without it, their major impurity is not removed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر عبادات کا حکم",
+              "english": "Ruling on Other Acts of Worship"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم صرف مسجد میں داخلہ یا ٹھہرنے کے بارے میں ہے، تلاوت قرآن سے متعلق نہیں ہے۔",
+                "جنب یا حائضہ کے لیے زبانی ذکر کرنا، تسبیح پڑھنا اور دعائیں مانگنا جائز ہے۔",
+                "جنب کے لیے قرآن چھونے اور تلاوت کرنے کی ممانعت ہے، جبکہ حائضہ زبانی تلاوت کر سکتی ہے۔"
+              ],
+              "english": [
+                "This ruling specifically concerns entering or staying in the mosque, not related to the recitation of the Qur'an.",
+                "It is permissible for a Junub or menstruating person to engage in verbal remembrance (Dhikr), Tasbih, and supplication (Du'a).",
+                "A Junub is forbidden from touching or reciting the Qur'an, whereas a menstruating woman is generally allowed to recite verbally according to some scholars."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسجد کا احترام اور عملی اطلاق",
+        "english": "Respect for the Mosque and Practical Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد کی حرمت",
+              "english": "Sanctity of the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "مسجد اللہ کے گھروں میں سب سے افضل جگہ ہے اور اس کی عظمت کا خیال رکھنا ہر مسلمان پر لازم ہے۔",
+                "ناپاکی کی حالت میں مسجد میں ٹھہرنا اس کے تقدس کے خلاف ہے اور اس سے بچنا چاہیے۔",
+                "اگر کسی شخص کو غسل کی ضرورت ہو تو اسے فوراً پاکیزگی حاصل کرنی چاہیے اور مسجد سے دور رہنا چاہیے۔"
+              ],
+              "english": [
+                "The mosque is the most virtuous of Allah's houses, and upholding its sanctity is mandatory for every Muslim.",
+                "Staying in the mosque while in a state of impurity goes against its sacredness and must be avoided.",
+                "If a person requires Ghusl, they should immediately perform purification and refrain from entering the mosque until cleansed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت کا شوق اور رکاوٹ",
+              "english": "Desire for Worship and the Barrier"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حالتیں مسجد میں جانے سے روکتی ہیں، لیکن یہ رکاوٹیں عبادت کے شوق کو ختم نہیں کرتیں۔",
+                "جنب یا حائضہ کو گھر میں بیٹھ کر ذکر و اذکار اور دعاؤں کے ذریعے اللہ سے تعلق برقرار رکھنا چاہیے۔",
+                "عبادت کی یہ ممانعت ایک عارضی حالت ہے جو غسل کے بعد فوراً ختم ہو جاتی ہے۔"
+              ],
+              "english": [
+                "Although these states prevent entry into the mosque, these barriers should not extinguish the desire for worship.",
+                "A Junub or menstruating person should maintain their connection with Allah through Dhikr (remembrance) and Du'a (supplication) at home.",
+                "This prohibition on worship is a temporary state that is immediately lifted upon performing the necessary Ghusl."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

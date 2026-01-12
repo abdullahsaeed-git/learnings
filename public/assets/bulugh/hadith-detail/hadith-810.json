@@ -1,0 +1,259 @@
+{
+  "hadithId": 810,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/810"],
+    "kitabId": 7,
+    "inKitabBab": 20,
+    "arabicBook": "بلوغ المرام",
+    "babId": 61
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه أبو داود (2895)، والنسائي في الكبرى (4/73)، وابن الجارود (960)، وصححه ابن خزيمة (2517)، وقواه ابن عدي.",
+    "urdu": "یہ حدیث حسن درجے کی ہے۔ اسے ابوداؤد (2895)، نسائی اور ابن الجارود نے روایت کیا ہے، جبکہ ابن خزیمہ اور ابن الجارود نے اسے صحیح قرار دیا ہے۔",
+    "english": "Hasan (Good). Reported by Abu Dawud (2895), An-Nasa'i, and Ibn al-Jarud. It was authenticated by Ibn Khuzaymah and Ibn al-Jarud."
+  },
+  "importantWords": [
+    {
+      "arabic": "جَعَلَ",
+      "english": "Assigned / Appointed",
+      "urdu": "مقرر فرمایا"
+    },
+    {
+      "arabic": "لِلْجَدَّةِ",
+      "english": "For the grandmother",
+      "urdu": "دادی / نانی کے لیے"
+    },
+    {
+      "arabic": "اَلسُّدُسَ",
+      "english": "The one-sixth (1/6)",
+      "urdu": "چھٹا حصہ"
+    },
+    {
+      "arabic": "دُونَهَا",
+      "english": "Before her / Excluding her",
+      "urdu": "اس کے نیچے (درمیان میں)"
+    },
+    {
+      "arabic": "أُمٌّ",
+      "english": "Mother",
+      "urdu": "ماں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں دادی یا نانی کی وراثت کا حکم بیان ہوا ہے کہ ماں کی عدم موجودگی میں انہیں چھٹا حصہ ملے گا، کیونکہ ماں ان کے لیے حجاب (رکاوٹ) بنتی ہے۔",
+    "english": "This Hadith clarifies the inheritance of grandmothers; they receive 1/6 of the estate provided the mother is not present to exclude them."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2895)",
+      "english": "Sunan Abu Dawud (2895)"
+    },
+    {
+      "arabic": "سنن النسائي الكبرى (6331)",
+      "english": "Sunan al-Nasa'i al-Kubra (6331)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "بریدہ بن الحصیب الاسلمی",
+        "english": "Buraidah bin al-Haseeb al-Aslami"
+      },
+      "slug": "buraidah-bin-al-haseeb"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دادی اور نانی کی وراثت",
+        "english": "Inheritance of Grandmothers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقررہ حصہ (السدس)",
+              "english": "Fixed Share (1/6)"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے دادی یا نانی کے لیے ایک چھٹا حصہ (1/6) بطورِ فرض مقرر فرمایا۔",
+                "یہ حکم اس وقت نافذ ہوتا ہے جب میت کی اپنی ماں زندہ نہ ہو۔",
+                "اگر ایک سے زیادہ دادیاں یا نانیاں ہوں تو وہ اس چھٹے حصے میں شریک ہوتی ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) fixed one-sixth (1/6) as the obligatory share for the grandmother.",
+                "This ruling is implemented only when the mother of the deceased is not alive.",
+                "If there is more than one grandmother, they share this one-sixth equally."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ماں کی موجودگی کا اثر",
+              "english": "The Impact of Mother's Presence"
+            },
+            "content": {
+              "urdu": [
+                "ماں کی موجودگی میں دادی یا نانی وراثت سے محروم رہتی ہیں۔",
+                "وراثت کا اصول ہے کہ قریبی رشتہ دور کے رشتے کو محروم (حجب) کر دیتا ہے۔",
+                "ماں دادی اور نانی کے مقابلے میں میت سے زیادہ قریب ترین رشتہ ہے۔"
+              ],
+              "english": [
+                "The grandmother is excluded from inheritance if the mother is present.",
+                "An inheritance principle states that a closer relative excludes a more distant one.",
+                "The mother is the closest relative compared to grandmothers in the line of succession."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و قانونی نکات",
+        "english": "Juristic and Legal Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حجب (محرومی) کے قواعد",
+              "english": "Rules of Exclusion (Hajb)"
+            },
+            "content": {
+              "urdu": [
+                "ماں تمام دادیوں اور نانیوں کو وراثت سے محروم کر دیتی ہے۔",
+                "باپ صرف اپنی ماں (دادی) کو محروم کرتا ہے، نانی کو نہیں۔",
+                "یہ باریکیاں علمِ فرائض (وراثت کے علم) کی گہری فہم کی متقاضی ہیں۔"
+              ],
+              "english": [
+                "The mother excludes all types of grandmothers (paternal and maternal).",
+                "The father excludes only his own mother, not the maternal grandmother.",
+                "These nuances require a deep understanding of the Science of Inheritance ('Ilm al-Fara'id)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت سے ثابت حکم",
+              "english": "Ruling Established by Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "دادی کا حصہ قرآن میں صراحت سے مذکور نہیں بلکہ سنتِ نبوی سے ثابت ہے۔",
+                "صحابہ کرام نے اس مسئلے میں رسول اللہ ﷺ کی سنت کی طرف رجوع کیا۔",
+                "یہ حدیث اس بات کی دلیل ہے کہ سنت قرآن کے مجمل احکام کی وضاحت کرتی ہے۔"
+              ],
+              "english": [
+                "The grandmother's share is not explicitly in the Quran but is proven by Sunnah.",
+                "The Companions referred back to the Prophet's practice to resolve this issue.",
+                "This Hadith proves that Sunnah clarifies and supplements the Quranic injunctions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاندانی عدل اور بزرگوں کا حق",
+        "english": "Family Justice and Elders' Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بزرگوں کی مالی کفالت",
+              "english": "Financial Support for Elders"
+            },
+            "content": {
+              "urdu": [
+                "اسلام بزرگ خواتین کے معاشی حقوق کا تحفظ وراثت کے ذریعے کرتا ہے۔",
+                "دادی اور نانی کو حصہ دینا ان کی خدمات اور خونی رشتے کا اعتراف ہے۔",
+                "یہ نظام بڑھاپے میں ان کی مالی خودمختاری کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "Islam protects the economic rights of elderly women through inheritance.",
+                "Giving a share to grandmothers acknowledges their service and blood tie.",
+                "This system ensures their financial independence during their old age."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رحم دلی اور صلہ رحمی",
+              "english": "Mercy and Family Ties"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کی تقسیم درحقیقت صلہ رحمی کی ایک عملی صورت ہے۔",
+                "اسلامی معاشرے میں خاندان کے ہر فرد کے حقوق کا خیال رکھا جاتا ہے۔",
+                "یہ حکم باہمی محبت اور احترام کے جذبوں کو پروان چڑھاتا ہے۔"
+              ],
+              "english": [
+                "Distribution of inheritance is a practical form of maintaining family ties.",
+                "In an Islamic society, the rights of every family member are respected.",
+                "This ruling nurtures sentiments of mutual love and respect."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق کی ادائیگی میں دیانت",
+              "english": "Integrity in Fulfilling Rights"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کی تقسیم میں کسی بھی وارث کا حق مارنا سنگین گناہ ہے۔",
+                "دادیوں اور نانیوں کو ان کے شرعی حصے سے محروم کرنا اللہ کی نافرمانی ہے۔",
+                "معاملات میں شفافیت برتنا ایک سچے مسلمان کی نشانی ہے۔"
+              ],
+              "english": [
+                "Depriving any heir of their share in inheritance is a grave sin.",
+                "Excluding grandmothers from their legal share constitutes disobedience to Allah.",
+                "Maintaining transparency in financial dealings is the hallmark of a true Muslim."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمِ دین کی ضرورت",
+              "english": "Need for Religious Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کے پیچیدہ مسائل کے حل کے لیے مستند علماء سے رابطہ کرنا چاہیے۔",
+                "دینی احکامات سے واقفیت ہمیں غلطیوں اور گناہوں سے بچاتی ہے۔",
+                "ہر مسلمان کو وراثت کے بنیادی قواعد کا علم ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "One should consult authentic scholars to resolve complex inheritance issues.",
+                "Familiarity with religious rulings protects us from errors and sins.",
+                "It is essential for every Muslim to know the basic rules of inheritance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

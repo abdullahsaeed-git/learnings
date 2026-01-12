@@ -1,0 +1,261 @@
+{
+  "hadithId": 958,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh/8/958"
+    ],
+    "kitabId": 8,
+    "inKitabBab": 12,
+    "arabicBook": "كتاب العدة",
+    "babId": 75
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف مرفوعاً وصحيح موقوفاً.‏ رواه مالك في الموطأ (2/575) برقم (52)، ومن طريقه الشافعي في المسند (1/263). وهو منقطع بين سعيد بن المسيب وعمر، لكنه مشهور عن عمر من طرق أخرى وصححه الألباني في إرواء الغليل (1709) كقول لصحابي.",
+    "urdu": "یہ روایت سنداً منقطع ہونے کی وجہ سے ضعیف ہے کیونکہ سعید بن مسیب نے عمر فاروق سے نہیں سنا۔ تاہم یہ قول دیگر طرق سے سیدنا عمر سے ثابت ہے اور اسے امام مالک نے موطا (52) میں روایت کیا ہے۔ علامہ البانی نے اسے ارواء الغلیل (1709) میں موقوفاً صحیح قرار دیا ہے۔",
+    "english": "Weak in its chain due to a break between Sa'id bin al-Musayyib and 'Umar (RA). However, it is well-known as a ruling from 'Umar and was reported by Malik in Al-Muwatta (52). Al-Albani authenticated it as a statement of a companion in Irwa' al-Ghalil (1709)."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْمَفْقُودِ",
+      "english": "Missing person",
+      "urdu": "گم شدہ شخص"
+    },
+    {
+      "arabic": "تَرَبَّصُ",
+      "english": "Waiting / Observation",
+      "urdu": "انتظار کرنا"
+    },
+    {
+      "arabic": "سِنِينَ",
+      "english": "Years",
+      "urdu": "برس / سال"
+    },
+    {
+      "arabic": "تَعْتَدُّ",
+      "english": "Observe Iddah",
+      "urdu": "عدت گزارے"
+    },
+    {
+      "arabic": "أَرْبَعَةَ أَشْهُرٍ",
+      "english": "Four months",
+      "urdu": "چار مہینے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں لاپتہ شوہر کی بیوی کے لیے شرعی ضابطہ بیان کیا گیا ہے کہ وہ چار سال تک شوہر کا انتظار کرے گی اور پھر وفات کی عدت گزار کر نکاحِ ثانی کر سکے گی۔",
+    "english": "This Hadith outlines the legal procedure for the wife of a missing man: she must wait for four years, and then observe the standard mourning period for death before remarrying."
+  },
+  "references": [
+    {
+      "arabic": "رواه مالك في الموطأ (52)",
+      "english": "Reported by Malik in Al-Muwatta (52)"
+    },
+    {
+      "arabic": "رواه الشافعي في المسند (1/263)",
+      "english": "Reported by Ash-Shafi'i in Al-Musnad (1/263)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin Al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0K07_z0U",
+  "grade": {
+    "arabic": "صحيح موقوفاً",
+    "english": "Sahih as a Companion's statement"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مفقود الخبر شوہر کا حکم",
+        "english": "Ruling on the Missing Husband"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انتظار کی مدت",
+              "english": "The Waiting Period"
+            },
+            "content": {
+              "urdu": [
+                "جس شوہر کا پتا نہ چلے اس کے لیے چار سال انتظار کا حکم سیدنا عمرؓ نے دیا۔",
+                "یہ مدت اس لیے رکھی گئی تاکہ شوہر کے لوٹ آنے کا ہر ممکن موقع مل سکے۔",
+                "چار سال گزرنے کے بعد شوہر کو شرعی طور پر مردہ تصور کیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "Umar (RA) decreed a four-year wait for a woman whose husband is missing.",
+                "This duration is set to give every possible chance for the husband's return.",
+                "After four years, the husband may be legally presumed dead by the court."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدتِ وفات کی ادائیگی",
+              "english": "Observing the Iddah of Death"
+            },
+            "content": {
+              "urdu": [
+                "چار سال کے طویل انتظار کے بعد عورت پر عدتِ وفات گزارنا لازم ہے۔",
+                "یہ عدت چار ماہ دس دن کی ہوگی جیسا کہ قرآن میں بیوہ کے لیے ہے۔",
+                "اس عمل کے بعد عورت شرعی طور پر دوسرے نکاح کے لیے آزاد ہو جاتی ہے۔"
+              ],
+              "english": [
+                "After the four-year wait, the woman must observe the mourning period (Iddah).",
+                "This Iddah is four months and ten days, as prescribed for widows in the Quran.",
+                "Following this process, the woman becomes legally free to remarry others."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب کا اختلاف",
+        "english": "Juristic Differences"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف ائمہ کی آراء",
+              "english": "Views of Different Imams"
+            },
+            "content": {
+              "urdu": [
+                "امام مالک اور امام احمد کے نزدیک اسی چار سال والی روایت پر عمل ہوگا۔",
+                "امام ابوحنیفہ کے نزدیک شوہر کے ہم عمر لوگوں کی وفات تک انتظار کرنا ہوگا۔",
+                "جدید دور میں قاضی حالات کے مطابق انتظار کی مدت کا فیصلہ کر سکتا ہے۔"
+              ],
+              "english": [
+                "Imams Malik and Ahmad act upon this four-year narration of Umar (RA).",
+                "Imam Abu Hanifa suggests waiting until his contemporaries have passed away.",
+                "In modern times, a judge can decide the duration based on circumstances."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدالتی مداخلت کا وجوب",
+              "english": "Necessity of Judicial Intervention"
+            },
+            "content": {
+              "urdu": [
+                "گمشدگی کے معاملے میں عورت خود سے فیصلہ کر کے نکاح نہیں کر سکتی۔",
+                "لاپتہ شوہر کے معاملے کو اسلامی عدالت یا حاکم کے سامنے پیش کرنا ضروری ہے۔",
+                "عدالت تمام شواہد دیکھنے کے بعد ہی علیحدگی یا وفات کا حکم جاری کرے گی۔"
+              ],
+              "english": [
+                "A woman cannot decide on her own to remarry in case of a disappearance.",
+                "The case of a missing husband must be presented to a Shariah court or ruler.",
+                "The court issues the decree of separation or death only after reviewing evidence."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عورت کے حقوق کا تحفظ",
+        "english": "Protection of Women's Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تنگی سے نجات",
+              "english": "Relief from Hardship"
+            },
+            "content": {
+              "urdu": [
+                "اسلام عورت کو تا عمر بن بن بیاہی بیوہ کی طرح لٹکائے رکھنے کے خلاف ہے۔",
+                "سیدنا عمرؓ کا یہ فیصلہ عورت کی سماجی اور جنسی ضرورت کی رعایت ہے۔",
+                "شرعی قوانین انسانی فطرت کے تقاضوں کو پورا کرنے کے لیے بنائے گئے ہیں۔"
+              ],
+              "english": [
+                "Islam opposes keeping a woman suspended as a de facto widow for life.",
+                "Umar's (RA) decision caters to the woman's social and natural needs.",
+                "Shariah laws are designed to fulfill the requirements of human nature."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وراثت کے احکام",
+              "english": "Rulings on Inheritance"
+            },
+            "content": {
+              "urdu": [
+                "جب شوہر کو مردہ قرار دیا جائے گا تو اس کی وراثت تقسیم ہو سکے گی۔",
+                "عورت کو شوہر کے مال سے اس کا شرعی حصہ (آٹھواں یا چوتھا) ملے گا۔",
+                "یہ مالی تحفظ عورت کو نئی زندگی شروع کرنے میں مددگار ثابت ہوتا ہے۔"
+              ],
+              "english": [
+                "Once the husband is legally declared dead, his inheritance can be distributed.",
+                "The woman receives her Shariah share (one-eighth or one-fourth) from his wealth.",
+                "This financial security assists the woman in starting her life anew."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور سماجی سبق",
+        "english": "Educational and Social Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحابہ کی اجتہادی بصیرت",
+              "english": "Legal Insight of the Companions"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام مشکل حالات میں قرآن و سنت کی روح کے مطابق فیصلے کرتے تھے۔",
+                "سیدنا عمرؓ کا یہ اجتہاد امت کے لیے ایک قانونی بنیاد بن گیا۔",
+                "مسائل کے حل کے لیے آثارِ صحابہ سے رہنمائی لینا سنت کا حصہ ہے۔"
+              ],
+              "english": [
+                "The Companions ruled according to the spirit of Quran and Sunnah in tough cases.",
+                "Umar's (RA) independent legal reasoning became a foundation for the Ummah.",
+                "Seeking guidance from companions' precedents is part of following the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی اہمیت",
+              "english": "Importance of Discipline"
+            },
+            "content": {
+              "urdu": [
+                "خاندانی معاملات میں جذبات کے بجائے قانونی ضابطوں پر عمل کرنا چاہیے۔",
+                "انتظار اور عدت کی پابندی معاشرے میں نظم و ضبط پیدا کرتی ہے۔",
+                "دینِ اسلام ہر مسئلے کا جامع اور منصفانہ حل فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "One should follow legal codes rather than emotions in family matters.",
+                "Observing the waiting period and Iddah creates discipline in society.",
+                "The religion of Islam provides a comprehensive and just solution to every issue."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

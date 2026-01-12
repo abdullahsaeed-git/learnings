@@ -1,0 +1,259 @@
+{
+  "hadithId": 1076,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/10/26"],
+    "kitabId": 10,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحدود",
+    "babId": 88
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (25150)، وأبو داود (4375)، والنسائي في الكبرى (7339)، والبيهقي (8/267).",
+    "urdu": "یہ حدیث حسن درجے کی ہے۔ اسے امام احمد، ابوداؤد اور نسائی نے الکبریٰ میں روایت کیا ہے۔ اس کے دیگر شواہد اسے تقویت دیتے ہیں۔",
+    "english": "Hasan. Reported by Ahmad (25150), Abu Dawud (4375), and An-Nasa'i in Al-Kubra (7339). It has supporting narrations that strengthen its status."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَقِيلُوا",
+      "english": "Pardon/Forgive",
+      "urdu": "درگزر کرو"
+    },
+    {
+      "arabic": "ذَوِي اَلْهَيْئَاتِ",
+      "english": "People of dignity",
+      "urdu": "عزت و شرافت والے"
+    },
+    {
+      "arabic": "عَثَرَاتِهِمْ",
+      "english": "Their slips/mistakes",
+      "urdu": "ان کی لغزشیں"
+    },
+    {
+      "arabic": "إِلَّا اَلْحُدُودَ",
+      "english": "Except for Hudud",
+      "urdu": "سوائے شرعی حدود کے"
+    },
+    {
+      "arabic": "عَثْرَة",
+      "english": "Lapse",
+      "urdu": "ٹھوکر"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا مطلب یہ ہے کہ جو لوگ نیک نام ہوں اور جرائم ان کا شیوہ نہ ہو، اگر ان سے کوئی چھوٹی غلطی ہو جائے تو اس پر پردہ ڈالنا چاہیے، مگر شرعی حدود میں کوئی رعایت نہیں۔",
+    "english": "This Hadith teaches that if people of good character accidentally commit a minor error, it should be overlooked, provided it does not involve a crime requiring a mandatory Quranic punishment (Hadd)."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (4375)",
+      "english": "Sunan Abi Dawud (4375)"
+    },
+    {
+      "arabic": "مسند أحمد (25150)",
+      "english": "Musnad Ahmad (25150)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F7iS_Gg0B_4",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ذوی الہیئات کی تعریف",
+        "english": "Definition of People of Dignity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شریف النفس لوگ",
+              "english": "People of Good Character"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد وہ لوگ ہیں جو عام طور پر گناہوں اور جرائم میں ملوث نہیں ہوتے۔",
+                "ایسے لوگ جن کی زندگی تقویٰ اور شرافت پر مبنی ہو وہ اس زمرے میں آتے ہیں۔",
+                "ان کا کوئی ایک قدم لڑکھڑا جانا ان کی پوری سیرت کا آئینہ دار نہیں ہوتا۔"
+              ],
+              "english": [
+                "This refers to individuals who are not known for committing crimes or sins.",
+                "People whose lives are generally based on piety and nobility fall into this category.",
+                "A single accidental mistake by them does not define their entire character."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عادی مجرموں سے فرق",
+              "english": "Distinction from Habitual Criminals"
+            },
+            "content": {
+              "urdu": [
+                "جو لوگ اعلانیہ گناہ کرتے ہیں یا عادی مجرم ہیں، ان کے لیے یہ رعایت نہیں ہے۔",
+                "شریف آدمی اپنی لغزش پر شرمندہ ہوتا ہے، اس لیے اسے موقع دینا اصلاح کا ذریعہ ہے۔",
+                "اسلام معاشرتی وقار کو برقرار رکھنے کے لیے پردہ پوشی کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "There is no such concession for habitual criminals or those who sin openly.",
+                "A noble person feels ashamed of their lapse, so giving them a chance aids reform.",
+                "Islam encourages concealing faults to maintain social dignity and honor."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدود میں عدمِ رعایت",
+        "english": "No Compromise in Hudud"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قانون کی بالادستی",
+              "english": "Supremacy of the Law"
+            },
+            "content": {
+              "urdu": [
+                "اگر جرم شرعی حد (جیسے چوری، زنا) تک پہنچ جائے تو کوئی سفارش نہیں چلے گی۔",
+                "اللہ کے قانون کے سامنے امیر اور غریب، معزز اور عام آدمی سب برابر ہیں۔",
+                "حد کا نفاذ معاشرے میں عدل قائم کرنے کے لیے ناگزیر ہے۔"
+              ],
+              "english": [
+                "If a crime reaches the level of Hadd (e.g., theft, adultery), no intercession is allowed.",
+                "Before Allah's law, the rich, poor, noble, and commoner are all equal.",
+                "The implementation of Hudud is essential for establishing justice in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفارش کی ممانعت",
+              "english": "Prohibition of Intercession"
+            },
+            "content": {
+              "urdu": [
+                "جب معاملہ قاضی یا حاکم تک پہنچ جائے تو حد کو معاف کرنا جائز نہیں۔",
+                "رسول اللہ ﷺ نے فرمایا کہ پچھلی قومیں اس لیے تباہ ہوئیں کہ وہ بڑوں کو چھوڑ دیتے تھے۔",
+                "انصاف کا تقاضا ہے کہ سنگین جرائم میں کسی کے منصب کا لحاظ نہ رکھا جائے۔"
+              ],
+              "english": [
+                "Once a case reaches the judge, it is not permissible to waive the Hadd punishment.",
+                "The Prophet (ﷺ) noted that previous nations were destroyed for exempting the elite from law.",
+                "Justice requires that social status should not influence the penalty for grave crimes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اصلاح کا پہلو",
+        "english": "Aspect of Social Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لغزشوں سے درگزر",
+              "english": "Overlooking Minor Slips"
+            },
+            "content": {
+              "urdu": [
+                "چھوٹی غلطیوں پر پردہ ڈالنے سے انسان کو توبہ اور اصلاح کا موقع ملتا ہے۔",
+                "کسی معزز شخص کی تذلیل سے معاشرے میں مایوسی اور بغاوت جنم لے سکتی ہے۔",
+                "درگزر کرنا اللہ کی صفت ہے اور یہ معاشرے میں محبت پھیلاتا ہے۔"
+              ],
+              "english": [
+                "Concealing minor faults gives a person the opportunity for repentance and reform.",
+                "Humiliating a respected person can give rise to despair and rebellion in society.",
+                "Forgiveness is an attribute of Allah and it spreads love within the community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تادیبی کارروائی",
+              "english": "Disciplinary Action"
+            },
+            "content": {
+              "urdu": [
+                "درگزر کا مطلب یہ نہیں کہ بالکل خاموشی اختیار کی جائے بلکہ مناسب نصیحت ضروری ہے۔",
+                "تعزیری سزاؤں میں حاکم کو حالات کے مطابق فیصلے کا اختیار ہوتا ہے۔",
+                "مقصد سزا دینا نہیں بلکہ فرد کی زندگی کو درست سمت میں لانا ہے۔"
+              ],
+              "english": [
+                "Pardon does not mean total silence; appropriate advice and guidance are necessary.",
+                "In Ta'zir (discretionary) punishments, the ruler can decide based on circumstances.",
+                "The goal is not mere punishment but directing the individual toward the right path."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لوگوں کے ساتھ حسنِ سلوک",
+              "english": "Kindness Toward Others"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں دوسروں کی چھوٹی غلطیوں کو اچھالنے کے بجائے نظر انداز کرنا چاہیے۔",
+                "کسی کی عزت نفس کا خیال رکھنا عین اسلامی تعلیمات کے مطابق ہے۔",
+                "نبی کریم ﷺ نے ہمیشہ لوگوں کی خوبیوں کو سراہا اور کمزوریوں پر پردہ ڈالا۔"
+              ],
+              "english": [
+                "We should overlook the minor mistakes of others instead of publicizing them.",
+                "Respecting someone's self-esteem is strictly in accordance with Islamic teachings.",
+                "The Prophet (ﷺ) always praised people's virtues and concealed their weaknesses."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "انصاف میں برابری",
+              "english": "Equality in Justice"
+            },
+            "content": {
+              "urdu": [
+                "حقوق العباد اور حدود اللہ کے معاملات میں مکمل دیانت داری برتنی چاہیے۔",
+                "ذاتی تعلقات کو انصاف کے آڑے نہیں آنے دینا چاہیے۔",
+                "قیامت کے دن اللہ ہر ایک سے اس کے عمل کے مطابق حساب لے گا۔"
+              ],
+              "english": [
+                "Complete honesty must be practiced in matters of human rights and Allah's limits.",
+                "Personal relationships should not be allowed to obstruct the course of justice.",
+                "On the Day of Judgment, Allah will hold everyone accountable according to their deeds."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

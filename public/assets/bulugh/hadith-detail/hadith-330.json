@@ -1,0 +1,143 @@
+{
+  "hadithId": 330,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/2/190"],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الصلاة - باب الإمامة",
+    "babId": 20
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (440).",
+    "urdu": "صحیح۔ اسے امام مسلم نے اپنی صحیح (440) میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (440)."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَيْرُ",
+      "english": "Best / Most virtuous",
+      "urdu": "بہترین / سب سے اچھی"
+    },
+    {
+      "arabic": "شَرُّهَا",
+      "english": "Worst / Least virtuous",
+      "urdu": "بدترین / ثواب میں سب سے کم"
+    },
+    {
+      "arabic": "صُفُوفِ",
+      "english": "Rows",
+      "urdu": "صفیں"
+    }
+  ],
+  "summary": {
+    "urdu": "نمازِ باجماعت میں مردوں کے لیے پہلی صف میں کھڑا ہونا سب سے زیادہ باعثِ ثواب ہے، جبکہ خواتین کے لیے (پردے کے اہتمام کی وجہ سے) مردوں سے دور آخری صف میں ہونا افضل ہے۔",
+    "english": "In congregational prayer, it is most rewarding for men to stand in the first row, whereas for women (to maintain modesty and distance from men), the last row is most virtuous."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الصلاة، رقم 440",
+      "english": "Sahih Muslim, The Book of Prayer, No. 440"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مردوں کی صفوں کی فضیلت",
+        "english": "Virtue of Men's Rows"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہلی صف کی اہمیت",
+              "english": "Importance of the First Row"
+            },
+            "content": {
+              "urdu": [
+                "مردوں کے لیے پہلی صف بہترین ہے کیونکہ وہ امام کے قریب ہوتی ہے اور وہاں توجہ زیادہ رہتی ہے۔",
+                "نبی ﷺ نے پہلی صف والوں کے لیے رحمت کی دعا فرمائی ہے اور فرمایا کہ اگر لوگوں کو اس کے اجر کا علم ہو جائے تو وہ اس کے لیے قرعہ اندازی کریں۔",
+                "یہاں 'بدترین' (شر) سے مراد گناہ نہیں بلکہ پہلی صف کے مقابلے میں ثواب کی کمی ہے۔"
+              ],
+              "english": [
+                "The first row is best for men as it is closest to the Imam and allows for better concentration.",
+                "The Prophet (ﷺ) prayed for mercy for those in the first row and stated that if people knew its reward, they would draw lots for it.",
+                "The term 'worst' (Sharr) here does not imply sin, but rather a lesser reward compared to the preceding rows."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خواتین کی صفوں کا حکم",
+        "english": "Ruling on Women's Rows"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پردہ اور حیا کا تحفظ",
+              "english": "Preserving Modesty"
+            },
+            "content": {
+              "urdu": [
+                "عورتوں کے لیے آخری صف اس لیے بہتر قرار دی گئی تاکہ وہ مردوں سے جتنا ممکن ہو دور رہیں اور اختلاط سے بچ سکیں۔",
+                "یہ حکم اس صورت میں ہے جب مرد اور عورتیں ایک ہی ہال یا جگہ میں بغیر کسی رکاوٹ کے نماز پڑھ رہے ہوں۔",
+                "اگر خواتین کے لیے الگ کمرہ یا پردے کا انتظام ہو، تو ان کے لیے بھی پہلی صف ہی افضل کہلائے گی کیونکہ فتنے کا اندیشہ ختم ہو جاتا ہے۔"
+              ],
+              "english": [
+                "The last row is better for women so they remain as far as possible from the men's rows to avoid intermixing.",
+                "This ruling applies when men and women are praying in the same space without a physical barrier.",
+                "If there is a separate room or a complete partition for women, the first row would be most virtuous for them as well, as the cause for being in the back is removed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی حکمت",
+        "english": "Islamic Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نظم و ضبط اور آداب",
+              "english": "Discipline and Etiquette"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ظاہر کرتی ہے کہ اسلام عبادت کے دوران بھی نظم و ضبط اور پاکیزہ ماحول کو برقرار رکھنے کی ترغیب دیتا ہے۔",
+                "مردوں کو نیکی میں سبقت لے جاتے ہوئے آگے بڑھنا چاہیے، جبکہ خواتین کو حیا اور ستر کے تقاضوں کو مقدم رکھنا چاہیے۔"
+              ],
+              "english": [
+                "This Hadith shows that Islam encourages discipline and maintaining a pure environment even during worship.",
+                "Men should strive to be at the forefront in good deeds, while women should prioritize the requirements of modesty and privacy."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "hadithId": 716,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/84"],
+    "kitabId": 7,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب البيوع",
+    "babId": 45
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (3371)، والترمذي (1228)، وابن ماجه (2217)، وأحمد (3/221)، وابن حبان (4972)، والحاكم (2/19). وصححه الحاكم على شرط مسلم ووافقه الذهبي.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد، ترمذی، ابن ماجہ، احمد، ابن حبان اور حاکم نے روایت کیا ہے۔ امام حاکم نے اسے امام مسلم کی شرط پر صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (3371), At-Tirmidhi (1228), Ibn Majah (2217), Ahmad (3/221), Ibn Hibban (4972), and Al-Hakim (2/19). Al-Hakim graded it Sahih according to Muslim's criteria."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَسْوَدَّ",
+      "english": "Turns black (ripens)",
+      "urdu": "سیاہ ہو جائے (پک جائے)"
+    },
+    {
+      "arabic": "يَشْتَدَّ",
+      "english": "Becomes hard",
+      "urdu": "سخت یا مضبوط ہو جائے"
+    },
+    {
+      "arabic": "الْعِنَبِ",
+      "english": "Grapes",
+      "urdu": "انگور"
+    },
+    {
+      "arabic": "الْحَبِّ",
+      "english": "Grain / Seed",
+      "urdu": "دانہ یا غلہ"
+    },
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں پھلوں (خصوصاً انگور) اور غلے کی خرید و فروخت کے لیے ان کے پختہ ہونے کی شرط بیان کی گئی ہے تاکہ نقصان اور جھگڑوں کا سدِ باب ہو سکے۔",
+    "english": "This Hadith sets the condition of ripeness for selling fruits (specifically grapes) and grains, ensuring they are mature enough to prevent loss and disputes."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب البيوع",
+      "english": "Sunan at-Tirmidhi, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك الأنصاري",
+        "english": "Anas bin Malik al-Ansari"
+      },
+      "slug": "anas-bin-malik-al-ansari"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پھلوں اور غلے کی پختگی کے معیارات",
+        "english": "Standards for Maturity of Fruits and Grains"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انگور کی پختگی (سیاہ ہونا)",
+              "english": "Ripeness of Grapes (Turning Black)"
+            },
+            "content": {
+              "urdu": [
+                "انگور کی بیع اس وقت تک منع ہے جب تک وہ میٹھا نہ ہو جائے یا اس کا رنگ نہ بدل جائے۔",
+                "حدیث میں 'سیاہ ہونے' سے مراد اس کی پختگی کی وہ علامت ہے جو حجاز کے انگوروں میں عام تھی۔",
+                "اگر انگور کی ایسی قسم ہے جو سبز رہتی ہے، تو اس کا میٹھا ہونا 'صلاح' (پختگی) شمار ہوگا۔"
+              ],
+              "english": [
+                "Selling grapes is forbidden until they become sweet or change color.",
+                "The term 'turning black' refers to the common sign of ripeness in Hejazi grapes.",
+                "For grape varieties that stay green, becoming sweet is considered the sign of maturity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلے کی پختگی (سخت ہونا)",
+              "english": "Maturity of Grain (Hardening)"
+            },
+            "content": {
+              "urdu": [
+                "گندم، جو اور دیگر غلہ اس وقت تک نہیں بیچا جا سکتا جب تک دانہ مضبوط نہ ہو جائے۔",
+                "جب تک دانہ کچا (دودھیا) ہوتا ہے، اس کے ضائع ہونے اور سوکھ کر ختم ہونے کا خطرہ رہتا ہے۔",
+                "دانے کا سخت ہونا اس بات کی ضمانت ہے کہ اب یہ فصل کٹائی کے قابل اور محفوظ ہے۔"
+              ],
+              "english": [
+                "Wheat, barley, and other grains cannot be sold until the seed hardens.",
+                "While the grain is soft/milky, there is a risk of it shriveling or being destroyed.",
+                "Hardening of the grain is a guarantee that the crop is safe and ready for harvest."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی ممانعت کی حکمت",
+        "english": "Wisdom Behind Sharia Prohibition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غرر اور دھوکے سے بچاؤ",
+              "english": "Prevention of Gharar and Deception"
+            },
+            "content": {
+              "urdu": [
+                "کچی فصل کی بیع 'بیعِ غرر' (غیر یقینی سودا) کے زمرے میں آتی ہے۔",
+                "ممکن ہے کہ سودا ہونے کے بعد آفت آ جائے اور فصل بالکل ختم ہو جائے۔",
+                "اسلامی تجارت میں مقصد شفافیت اور فریقین کو مالی نقصان سے بچانا ہے۔"
+              ],
+              "english": [
+                "Selling immature crops falls under 'Gharar' (uncertain transaction).",
+                "There is a possibility that a calamity strikes after the deal, destroying the entire crop.",
+                "Islamic trade aims for transparency and protecting parties from financial ruin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی دشمنی کا سدِ باب",
+              "english": "Eliminating Mutual Enmity"
+            },
+            "content": {
+              "urdu": [
+                "جب کچی فصل ضائع ہوتی ہے تو خریدار اور بیچنے والے میں جھگڑا ہوتا ہے۔",
+                "خریدار پیسے واپس مانگتا ہے جبکہ بیچنے والا اسے اپنی قسمت قرار دیتا ہے۔",
+                "شریعت نے سودے کو پختگی کے مرحلے تک مؤخر کر کے جھگڑے کی جڑ کاٹ دی ہے۔"
+              ],
+              "english": [
+                "When immature crops fail, it leads to intense disputes between buyer and seller.",
+                "The buyer demands a refund while the seller claims it as bad luck.",
+                "Sharia cuts the root of conflict by delaying the sale until the maturity stage."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اطلاق",
+        "english": "Juristic Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجتماعی بیع کا حکم",
+              "english": "Ruling on Collective Sale"
+            },
+            "content": {
+              "urdu": [
+                "اگر باغ کے اکثر پھل پک جائیں تو پورے باغ کا سودا کرنا جائز ہے۔",
+                "فقہاء کے نزدیک 'کُل' کا حکم 'اکثر' پر ہوتا ہے۔",
+                "تاہم، اگر فصل کا بڑا حصہ ابھی کچا ہو تو انتظار کرنا واجب ہے۔"
+              ],
+              "english": [
+                "If most fruits in an orchard have ripened, it is permissible to sell the entire lot.",
+                "Jurists apply the ruling of the 'whole' to the 'majority'.",
+                "However, if a large portion is still immature, waiting is obligatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صبر اور تدبر",
+              "english": "Patience and Deliberation"
+            },
+            "content": {
+              "urdu": [
+                "تجارت میں جلد بازی مالی نقصان اور پریشانی کا باعث بنتی ہے۔",
+                "منافع کے لالچ میں شرعی حدود کو پامال نہیں کرنا چاہیے۔",
+                "صحیح وقت کا انتظار کرنا برکت والے رزق کے حصول کے لیے ضروری ہے۔"
+              ],
+              "english": [
+                "Haste in trade leads to financial loss and anxiety.",
+                "Sharia limits should not be violated for the sake of quick profit.",
+                "Waiting for the right time is essential for attaining blessed provision."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

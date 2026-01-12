@@ -1,0 +1,259 @@
+{
+  "hadithId": 480,
+  "hadithNo": 56,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/56", "muslim/975"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (975) في كتاب الجنائز، باب ما يقال عند دخول القبر والدعاء لأهلها.",
+    "urdu": "صحیح۔ اسے امام مسلم نے اپنی صحیح (975) میں کتاب الجنائز کے تحت روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (975) in the Book of Funerals, Chapter on what to say when entering the graveyard."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَهْلِ اَلدِّيارِ",
+      "english": "Inhabitants of the abodes",
+      "urdu": "گھروں (قبروں) والے"
+    },
+    {
+      "arabic": "لَلَاحِقُونَ",
+      "english": "Surely going to join",
+      "urdu": "ضرور ملنے والے"
+    },
+    {
+      "arabic": "الْعَافِيَةَ",
+      "english": "Well-being / Safety",
+      "urdu": "عافیت / سلامتی"
+    },
+    {
+      "arabic": "اَلمَقَابِرِ",
+      "english": "Graveyards",
+      "urdu": "قبرستان"
+    },
+    {
+      "arabic": "يُعَلِّمُهُمْ",
+      "english": "He used to teach them",
+      "urdu": "وہ انہیں سکھاتے تھے"
+    }
+  ],
+  "summary": {
+    "urdu": "قبرستان داخل ہوتے وقت مردوں کو سلام کرنا اور ان کے لیے عافیت کی دعا کرنا سنتِ نبوی ہے جو ہمیں موت کی یاد دلاتی ہے۔",
+    "english": "It is a Prophetic Sunnah to greet the deceased and pray for their well-being upon entering a graveyard, reminding us of our own mortality."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 975",
+      "english": "Sahih Muslim, Book of Funerals, Hadith 975"
+    },
+    {
+      "arabic": "سنن ابن ماجه، كتاب الجنائز، رقم 1547",
+      "english": "Sunan Ibn Majah, Book of Funerals, Hadith 1547"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "بریدہ بن الحصيب الأسلمي",
+        "english": "Buraidah bin al-Haseeb al-Aslami"
+      },
+      "slug": "buraidah-bin-al-haseeb"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fq4m8D0p4yU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قبرستان کی حاضری کے آداب",
+        "english": "Etiquettes of Visiting the Graveyard"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردوں کو سلام کرنا",
+              "english": "Greeting the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ صحابہ کرام کو باقاعدہ سکھاتے تھے کہ قبرستان میں داخل ہوتے ہی اہل قبور کو سلام کریں۔",
+                "یہ سلام اس بات کی علامت ہے کہ روحیں اپنے مقام پر موجود ہیں اور آنے والوں کی دعا سے واقف ہوتی ہیں۔",
+                "مومنوں اور مسلمانوں کو خطاب کر کے سلام کرنا امتِ محمدیہ کے مابین برزخی تعلق کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) specifically taught his companions to greet the inhabitants of the graves upon entry.",
+                "This greeting signifies that souls remain in their realm and benefit from the prayers of the living.",
+                "Addressing believers and Muslims in the greeting highlights the spiritual bond within the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عافیت کی دعا",
+              "english": "Supplicating for Well-being"
+            },
+            "content": {
+              "urdu": [
+                "دعا میں 'عافیت' کا لفظ بہت جامع ہے جس میں دنیا و آخرت کی تمام آفات سے بچاؤ شامل ہے۔",
+                "قبرستان جا کر میت کے لیے بخشش مانگنا ان کے حق میں بہترین تحفہ اور ہمدردی کا اظہار ہے۔",
+                "اپنے لیے اور مردوں کے لیے بیک وقت دعا کرنا مسلمانوں کی باہمی خیر خواہی کی بہترین مثال ہے۔"
+              ],
+              "english": [
+                "The word 'Afiyah' (well-being) is comprehensive, covering protection from all worldly and afterlife trials.",
+                "Seeking forgiveness for the deceased is the greatest gift and expression of sympathy for them.",
+                "Praying simultaneously for oneself and the dead exemplifies the mutual goodwill shared among Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "موت کی یاد اور عبرت",
+        "english": "Remembrance of Death and Reflection"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ملنے کا یقین (للاحقون)",
+              "english": "Certainty of Joining (Lahiqoon)"
+            },
+            "content": {
+              "urdu": [
+                "دعا کے الفاظ 'ہم بھی تم سے ملنے والے ہیں' انسان کو اس کی حقیقت اور فانی ہونے کا احساس دلاتے ہیں۔",
+                "یہ جملہ تکبر کو خاک میں ملا دیتا ہے اور انسان کو اپنی قبر کی تیاری کے لیے بے چین کرتا ہے۔",
+                "انشاء اللہ کا استعمال برکت کے لیے ہے یا اس ایمان کی حالت پر خاتمے کے لیے جس پر وہ فوت ہوئے۔"
+              ],
+              "english": [
+                "The words 'we shall join you' make a person acutely aware of their own mortality and reality.",
+                "This phrase shatters arrogance and motivates a person to actively prepare for their own grave.",
+                "The use of 'Insha-Allah' (if Allah wills) is for blessing or regarding the state of faith at death."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دنیا سے بے رغبتی",
+              "english": "Indifference to the World"
+            },
+            "content": {
+              "urdu": [
+                "قبرستان کی خاموشی اور قبروں کا منظر انسان کو دنیا کی جھوٹی رنگینیوں سے دور کرتا ہے۔",
+                "جب انسان یہ دیکھتا ہے کہ وہ بھی ایک دن اسی مٹی کا حصہ بنے گا تو اس کی ترجیحات بدل جاتی ہیں۔",
+                "زیارتِ قبور کا اصل مقصد ہی دل کی نرمی اور آخرت کے سفر کی سنجیدہ فکر پیدا کرنا ہے۔"
+              ],
+              "english": [
+                "The silence of the graveyard and the sight of tombs detach a person from worldly distractions.",
+                "Observing that one will eventually return to dust fundamentally shifts a person's life priorities.",
+                "The primary goal of visiting graves is to soften the heart and foster serious concern for the hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور تربیتی پہلو",
+        "english": "Educational and Training Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبوی طریقہ تعلیم",
+              "english": "Prophetic Teaching Method"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے صحابہ کو زندگی کے ہر چھوٹے بڑے معاملے کی دعا اور طریقہ کار خود سکھایا۔",
+                "یہ حدیث ظاہر کرتی ہے کہ دین صرف عبادات کا نام نہیں بلکہ معاشرتی آداب کا بھی مجموعہ ہے۔",
+                "صحابہ کرام نے ان کلمات کو یاد کر کے اگلی نسلوں تک منتقل کیا تاکہ سنت زندہ رہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) personally taught his companions supplications for every aspect of their lives.",
+                "This Hadith shows that religion is a complete set of social etiquettes, not just ritual worship.",
+                "The Companions memorized these words and passed them down to ensure the Sunnah remained alive."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بدعات سے اجتناب",
+              "english": "Avoiding Innovations"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ کی سکھائی ہوئی دعا میں صاحبِ قبر سے مانگنے کا کوئی تذکرہ نہیں بلکہ ان کے لیے دعا ہے۔",
+                "قبرستان میں صرف اللہ کی عبادت کرنا اور مردوں کو صرف سلام و دعا تک محدود رکھنا اصل دین ہے۔",
+                "غیر مسنون طریقے اور قبروں پر میلے ٹھیلے لگانا سنتِ نبوی ﷺ کے صریحاً خلاف ہے۔"
+              ],
+              "english": [
+                "The prayer taught by the Prophet (ﷺ) contains no mention of asking the dead; rather, it is for them.",
+                "Worshipping Allah alone in the graveyard and greeting the dead is the true essence of religion.",
+                "Unsanctioned rituals and festivals at graves are clearly contrary to the Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں نفاذ",
+        "english": "Implementation in Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعاؤں کی یاد دہانی",
+              "english": "Memorizing Supplications"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو چاہیے کہ وہ قبرستان میں داخل ہونے کی یہ مسنون دعا زبانی یاد کرے۔",
+                "اپنے بچوں اور گھر والوں کو بھی ان آداب سے واقف کرانا والدین کی دینی ذمہ داری ہے۔",
+                "سنت پر عمل کرنے سے زیارت کا مقصد پورا ہوتا ہے اور میت کو بھی فائدہ پہنچتا ہے۔"
+              ],
+              "english": [
+                "Every Muslim should strive to memorize this Sunnah supplication for entering the graveyard.",
+                "Parents have a religious duty to familiarize their children and families with these important etiquettes.",
+                "Acting on the Sunnah fulfills the purpose of the visit and provides real benefit to the deceased."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسلمانوں کا اتحاد",
+              "english": "Unity of Muslims"
+            },
+            "content": {
+              "urdu": [
+                "یہ دعا ہمیں یاد دلاتی ہے کہ مسلمان خواہ زندہ ہوں یا مردہ، ایک ہی لڑی میں پروئے ہوئے ہیں۔",
+                "دوسروں کے لیے عافیت مانگنا دل سے حسد اور نفرت کو ختم کرنے کا بہترین ذریعہ ہے۔",
+                "دینِ اسلام مرنے کے بعد بھی اپنے پیروکاروں کو فراموش نہیں کرتا بلکہ ان کے لیے دعائیں سکھاتا ہے۔"
+              ],
+              "english": [
+                "This prayer reminds us that Muslims, whether living or dead, belong to a single connected Ummah.",
+                "Praying for the well-being of others is an excellent way to purify the heart from envy and hatred.",
+                "Islam does not forget its followers after death; rather, it institutionalizes prayers for them."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

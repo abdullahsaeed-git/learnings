@@ -1,0 +1,211 @@
+{
+  "hadithId": 312,
+  "hadithNo": 33,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/tirmidhi:473",
+      "https://sunnah.com/ibnmajah:1380"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "جامع الترمذي / سنن ابن ماجه",
+    "babId": 19
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف.‏ رواه الترمذي (473)‏ وقال: حديث غريب.‏ وابن ماجه (1380)‏.‏ وفيه ضعف ونكارة.‏",
+    "urdu": "ضعیف۔ اسے ترمذی (473) نے روایت کیا ہے اور فرمایا: یہ حدیث غریب ہے۔ اور ابن ماجہ (1380) نے بھی روایت کیا ہے۔ اس میں ضعف اور نکارت پائی جاتی ہے۔",
+    "english": "Da'if (Weak). Reported by At-Tirmidhi (473) who called it Gharib, and Ibn Majah (1380). It contains weakness and objectionable content (Nakarah)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلضُّحَى",
+      "english": "Duha (Forenoon prayer)",
+      "urdu": "چاشت کی نماز"
+    },
+    {
+      "arabic": "ثِنْتَيْ عَشْرَةَ",
+      "english": "Twelve",
+      "urdu": "بارہ"
+    },
+    {
+      "arabic": "بَنَى",
+      "english": "He built",
+      "urdu": "اس نے تعمیر کیا"
+    },
+    {
+      "arabic": "قَصْرًا",
+      "english": "Palace / Castle",
+      "urdu": "محل"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث چاشت کی 12 رکعتیں پڑھنے پر جنت میں محل کی بشارت دیتی ہے، تاہم محدثین کے نزدیک یہ روایت سند کے اعتبار سے کمزور (ضعیف) ہے۔",
+    "english": "This Hadith gives glad tidings of a palace in Paradise for praying 12 Rak'ahs of Duha. However, according to Muhaddithin, this narration is weak (Da'if) in terms of its chain."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (473)",
+      "english": "Reported by At-Tirmidhi (473)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (1380)",
+      "english": "Reported by Ibn Majah (1380)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بارہ رکعت کی فضیلت",
+              "english": "Virtue of 12 Rak'ahs"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت میں چاشت کی زیادہ سے زیادہ مقدار (12 رکعت) کا ذکر ہے۔",
+                "اس پر ملنے والا اجر (جنت میں محل) بہت بڑا ہے۔",
+                "یہ اللہ کے خزانے کی وسعت کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "This narration mentions the maximum number (12 Rak'ahs) for Duha.",
+                "The reward mentioned (a palace in Paradise) is immense.",
+                "This shows the vastness of Allah's treasures."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سند کی حیثیت",
+              "english": "Status of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "امام ترمذی نے خود اسے 'غریب' کہا ہے، جو ضعف کی طرف اشارہ ہے۔",
+                "صحیح احادیث میں چاشت کی 2، 4 یا 8 رکعتوں کا ذکر زیادہ مضبوط ہے۔",
+                "محققین (جیسے البانی) نے اس حدیث کو ضعیف قرار دیا ہے۔"
+              ],
+              "english": [
+                "Imam Tirmidhi himself called it 'Gharib', pointing towards weakness.",
+                "Authentic Hadiths strongly support 2, 4, or 8 Rak'ahs for Duha.",
+                "Researchers (like Al-Albani) have graded this Hadith as weak."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی نقطہ نظر",
+        "english": "Juristic Perspective"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فضائل میں ضعیف حدیث",
+              "english": "Weak Hadith in Virtues"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء فضائل اعمال میں ضعیف حدیث بیان کرنے کی اجازت دیتے ہیں۔",
+                "شرط یہ ہے کہ وہ حدیث بہت زیادہ کمزور یا من گھڑت نہ ہو۔",
+                "اس حدیث پر عمل کرنے کی گنجائش ہے، بشرطیکہ اسے سنتِ ثابتہ نہ سمجھا جائے۔"
+              ],
+              "english": [
+                "Majority scholars allow narrating weak Hadiths for virtuous deeds (Fada'il).",
+                "The condition is that it shouldn't be extremely weak or fabricated.",
+                "Acting on this is permissible, provided it's not considered a confirmed Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بہترین عمل",
+              "english": "Best Practice"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ 12 رکعت والی روایت کمزور ہے، اس لیے بہتر ہے کہ 8 رکعت تک پڑھا جائے۔",
+                "فتح مکہ کے موقع پر نبی ﷺ نے 8 رکعت چاشت ادا کی تھی۔",
+                "استقامت کے لیے 2 یا 4 رکعت پڑھنا بھی کافی ہے۔"
+              ],
+              "english": [
+                "Since the 12 Rak'ah narration is weak, it is better to pray up to 8.",
+                "On the Conquest of Makkah, the Prophet (ﷺ) prayed 8 Rak'ahs of Duha.",
+                "For consistency, praying 2 or 4 Rak'ahs is also sufficient."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غریب حدیث",
+              "english": "Gharib Hadith"
+            },
+            "content": {
+              "urdu": [
+                "غریب وہ حدیث ہوتی ہے جس کی سند میں کسی جگہ صرف ایک راوی رہ جائے۔",
+                "ترمذی جب 'غریب' کہتے ہیں تو اکثر اس سے مراد 'ضعیف' ہوتا ہے۔",
+                "طالب علم کو محدثین کی اصطلاحات (Terms) کا فہم ہونا چاہیے۔"
+              ],
+              "english": [
+                "A Gharib Hadith is one where only a single narrator is present at some stage of the chain.",
+                "When Tirmidhi says 'Gharib', he often implies 'Weak'.",
+                "A student must understand the terminologies of Muhaddithin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنت کے محلات",
+              "english": "Palaces of Paradise"
+            },
+            "content": {
+              "urdu": [
+                "ایک اور صحیح حدیث میں ہے کہ جو دن رات میں 12 رکعتیں (سنن مؤکدہ) پڑھے، اس کے لیے محل بنایا جاتا ہے۔",
+                "ہو سکتا ہے راوی کو اشتباہ (Confusion) ہوا ہو اور اس نے وہ فضیلت چاشت کے ساتھ جوڑ دی ہو۔",
+                "دین میں تحقیق اور چھان بین کا عمل بہت اہم ہے۔"
+              ],
+              "english": [
+                "Another authentic Hadith states a palace is built for one who prays 12 Rak'ahs (Sunan Muakkadah) daily.",
+                "The narrator might have been confused and linked that reward to Duha.",
+                "Research and verification are crucial in religion."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

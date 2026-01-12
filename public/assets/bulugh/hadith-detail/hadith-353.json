@@ -1,0 +1,144 @@
+{
+  "hadithId": 353,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh:424"],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "تقصير الصلاة",
+    "babId": 21
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. أخرجه النسائي (1662)، والحاكم (1/258). وصححه الألباني في صحيح النسائي. والحديث محمول على حال العذر أو المرض كما في أحاديث أخرى.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام نسائی اور حاکم نے روایت کیا ہے۔ علامہ البانی نے اسے 'صحیح النسائی' میں صحیح قرار دیا ہے۔ یہ عمل بیماری یا کسی عذر کی حالت پر محمول ہے کیونکہ عمومی حالت میں نماز بیٹھ کر پڑھنا نفل میں جائز ہے مگر فرض میں قیام رکن ہے۔",
+    "english": "Sahih (Authentic). Reported by An-Nasa'i (1662) and Al-Hakim (1/258). Authenticated by Al-Albani in Sahih an-Nasa'i. This practice is understood to be during times of excuse or illness."
+  },
+  "importantWords": [
+    {
+      "arabic": "مُتَرَبِّعًا",
+      "english": "Cross-legged",
+      "urdu": "چار زانو / پالتی مار کر بیٹھنا"
+    },
+    {
+      "arabic": "يُصَلِّي",
+      "english": "Praying",
+      "urdu": "نماز پڑھ رہے تھے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بتاتی ہے کہ اگر کوئی شخص معذوری یا بیماری کی وجہ سے کھڑے ہو کر نماز نہ پڑھ سکے، تو وہ زمین پر پالتی مار کر (چار زانو) بیٹھ کر بھی نماز ادا کر سکتا ہے۔",
+    "english": "This Hadith demonstrates that if a person is unable to pray standing due to disability or illness, they may pray while sitting cross-legged on the ground."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي (1662)",
+      "english": "Sunan an-Nasa'i (1662)"
+    },
+    {
+      "arabic": "مستدرك الحاكم (1/258)",
+      "english": "Mustadrak al-Hakim (1/258)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بیٹھ کر نماز پڑھنے کی کیفیت",
+        "english": "The Manner of Praying While Sitting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چار زانو بیٹھنا",
+              "english": "Sitting Cross-legged"
+            },
+            "content": {
+              "urdu": [
+                "جب کوئی شخص قیام (کھڑے ہونے) سے عاجز ہو، تو قیام کی جگہ بیٹھتے وقت 'متربع' (پالتی مار کر) بیٹھنا سنت کے زیادہ قریب ہے۔",
+                "نبی ﷺ نے آخری عمر میں جب جسمانی کمزوری یا تکلیف ہوتی تھی تو اس کیفیت میں نماز ادا فرمائی۔",
+                "فقہاء کے نزدیک قیام کی جگہ پالتی مار کر بیٹھنا افضل ہے، جبکہ تشہد (قعدہ) کی جگہ اپنی اصل حالت (افتراش) پر بیٹھا جائے۔"
+              ],
+              "english": [
+                "When a person is unable to stand, sitting cross-legged (Mutarabbi'an) during the portion that replaces standing is closest to the Sunnah.",
+                "The Prophet (ﷺ) prayed in this manner in his later years during times of physical weakness or pain.",
+                "According to jurists, it is preferable to sit cross-legged in place of standing, but one should sit in the normal prayer posture (Iftirash) during the Tashahhud."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عذر اور سہولت",
+        "english": "Excuses and Ease"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیٹھنے کی مختلف صورتیں",
+              "english": "Different Ways of Sitting"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص بیماری کی وجہ سے پالتی مار کر بھی نہیں بیٹھ سکتا، تو وہ جس طرح بھی اسے آسانی ہو (مثلاً کرسی پر یا پیر پھیلا کر) بیٹھ سکتا ہے۔",
+                "دینِ اسلام میں اصل مقصد اللہ کی عبادت ہے، ظاہری ہیئت میں عذر کی وجہ سے تبدیلی گنجائش رکھتی ہے۔",
+                "نفل نمازوں میں بغیر کسی عذر کے بھی بیٹھ کر نماز پڑھنا جائز ہے، مگر اجر آدھا ملتا ہے۔"
+              ],
+              "english": [
+                "If a person cannot sit cross-legged due to illness, they may sit in any way that is comfortable for them (e.g., on a chair or with legs extended).",
+                "The primary goal in Islam is worship; changes in external form due to necessity are accommodated.",
+                "In voluntary (Nafl) prayers, sitting is allowed even without an excuse, though the reward is halved."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عبادت میں تسلسل",
+              "english": "Consistency in Worship"
+            },
+            "content": {
+              "urdu": [
+                "بیماری یا بڑھاپے کو نماز چھوڑنے کا بہانہ نہیں بنانا چاہیے، بلکہ دستیاب سہولتوں کے مطابق نماز جاری رکھنی چاہیے۔",
+                "سنت نبوی ﷺ ہمیں ہر مشکل حال میں بندگی کا طریقہ سکھاتی ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ معذور افراد کے لیے مساجد میں مناسب جگہ اور سہولیات فراہم کریں۔"
+              ],
+              "english": [
+                "Illness or old age should not be used as excuses to abandon prayer; one should continue using the available concessions.",
+                "The Sunnah teaches us how to remain devoted in every difficult circumstance.",
+                "Muslims should ensure that mosques provide appropriate space and facilities for individuals with disabilities."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

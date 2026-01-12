@@ -1,0 +1,259 @@
+{
+  "hadithId": 1203,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/14/15"],
+    "kitabId": 14,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأقضية",
+    "babId": 98
+  },
+
+  "takhreej": {
+    "arabic": "حسن. رواه أحمد (2/204)، وأبو داود (3600) من طريق عمرو بن شعيب عن أبيه عن جده. وله شواهد تقويه.",
+    "urdu": "یہ حدیث حسن ہے۔ اسے احمد (2/204) اور ابوداؤد (3600) نے عمرو بن شعیب کے واسطے سے روایت کیا ہے۔",
+    "english": "Hasan. Reported by Ahmad (2/204) and Abu Dawud (3600) through the chain of 'Amr bin Shu'aib from his father from his grandfather."
+  },
+  "importantWords": [
+    {
+      "arabic": "خَائِنٍ",
+      "english": "Treacherous/Unreliable",
+      "urdu": "خیانت کرنے والا"
+    },
+    {
+      "arabic": "ذِي غِمْرٍ",
+      "english": "One who harbors rancor",
+      "urdu": "کینہ پرور / دشمن"
+    },
+    {
+      "arabic": "الْقَانِعِ",
+      "english": "Dependent/Servant",
+      "urdu": "زیرِ کفالت خادم"
+    },
+    {
+      "arabic": "لَا تَجُوزُ",
+      "english": "Not admissible",
+      "urdu": "جائز نہیں"
+    },
+    {
+      "arabic": "شَهَادَةُ",
+      "english": "Testimony",
+      "urdu": "گواہی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ان لوگوں کی نشاندہی کی گئی ہے جن کی گواہی عدل و انصاف کے تقاضوں کے مطابق معتبر نہیں مانی جاتی، جیسے بددیانت، دشمن یا زیرِ اثر افراد۔",
+    "english": "This Hadith identifies categories of people whose testimony is inadmissible due to lack of integrity, personal enmity, or potential bias arising from dependency."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (6693)",
+      "english": "Reported by Ahmad (6693)"
+    },
+    {
+      "arabic": "رواه أبو داود (3600)",
+      "english": "Reported by Abu Dawud (3600)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمرو بن العاص",
+        "english": "Abdullah bin Amr bin al-As"
+      },
+      "slug": "abdullah-bin-amr-bin-al-as"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9K8Z2o3T4Y",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "گواہی کی نااہلی کے اسباب",
+        "english": "Causes for Inadmissibility of Testimony"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بددیانتی اور خیانت",
+              "english": "Treachery and Dishonesty"
+            },
+            "content": {
+              "urdu": [
+                "جس شخص کی دیانت مشکوک ہو، اس کی بات پر اعتبار نہیں کیا جا سکتا۔",
+                "خیانت کرنے والا شخص جھوٹی گواہی دے کر حقائق چھپا سکتا ہے۔",
+                "عدل کے قیام کے لیے گواہ کا عادل اور سچا ہونا پہلی شرط ہے۔"
+              ],
+              "english": [
+                "A person whose integrity is questionable cannot be trusted in legal matters.",
+                "A treacherous individual might give false testimony to conceal the truth.",
+                "For establishing justice, the witness must be upright and truthful."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کینہ پروری اور دشمنی",
+              "english": "Rancor and Enmity"
+            },
+            "content": {
+              "urdu": [
+                "ذاتی دشمنی رکھنے والے شخص کی گواہی میں جانبداری کا خطرہ ہوتا ہے۔",
+                "کینہ پرور شخص دشمنی نکالنے کے لیے غلط بیانی کر سکتا ہے۔",
+                "اسلامی قانون ایسے کسی بھی امکان کو ختم کرتا ہے جہاں ناانصافی ہو۔"
+              ],
+              "english": [
+                "Testimony from a personal enemy carries a high risk of bias.",
+                "Someone harboring rancor might misrepresent facts to seek revenge.",
+                "Islamic law eliminates any possibility where injustice might occur."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "زیرِ کفالت افراد کی گواہی",
+        "english": "Testimony of Dependents"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مفادات کا ٹکراؤ",
+              "english": "Conflict of Interest"
+            },
+            "content": {
+              "urdu": [
+                "گھر کے ملازم یا زیرِ کفالت شخص پر مالکان کا دباؤ ہو سکتا ہے۔",
+                "ایسا شخص اپنے محسن کے حق میں جھکاؤ رکھنے کا فطری رجحان رکھتا ہے۔",
+                "حق میں گواہی دینے سے شک پیدا ہوتا ہے کہ یہ احسان کا بدلہ ہے۔"
+              ],
+              "english": [
+                "A domestic servant or dependent may be under pressure from masters.",
+                "Such individuals naturally tend to lean in favor of their benefactors.",
+                "Testifying in favor raises suspicion that it is a repayment for kindness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدالتی شفافیت",
+              "english": "Judicial Transparency"
+            },
+            "content": {
+              "urdu": [
+                "عدالت کو ایسے گواہ چاہیے ہوتے ہیں جو مکمل طور پر آزاد ہوں۔",
+                "اگر گواہ مالی طور پر فریق کا محتاج ہو تو شفافیت مشکوک ہو جاتی ہے۔",
+                "یہ اصول عدالتی نظام کو ہر قسم کے شکوک و شبہات سے پاک رکھتا ہے۔"
+              ],
+              "english": [
+                "Courts require witnesses who are completely independent and free.",
+                "Transparency is compromised if a witness is financially dependent on a party.",
+                "This principle keeps the judicial system free from all doubts and suspicions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی نظامِ عدل کی خوبیاں",
+        "english": "Virtues of the Islamic Judicial System"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سخت معیارِ شہادت",
+              "english": "Stringent Standards for Witnesses"
+            },
+            "content": {
+              "urdu": [
+                "اسلام گواہی قبول کرنے سے پہلے گواہ کے کردار کی جانچ کرتا ہے۔",
+                "صرف ظاہری سچائی کافی نہیں، گواہ کا ماضی بھی بے داغ ہونا چاہیے۔",
+                "یہ سختی اس لیے ہے تاکہ کسی بے گناہ کو سزا نہ مل سکے۔"
+              ],
+              "english": [
+                "Islam verifies the character of a witness before accepting their testimony.",
+                "Apparent truth is not enough; the witness's past must be untainted.",
+                "This strictness ensures that no innocent person is wrongly punished."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعصب کا خاتمہ",
+              "english": "Elimination of Bias"
+            },
+            "content": {
+              "urdu": [
+                "دشمن کی دشمن کے خلاف گواہی مسترد کرنا انصاف کی معراج ہے۔",
+                "اسلام کسی بھی جذباتی فیصلے کی گنجائش نہیں چھوڑتا۔",
+                "یہ قوانین انسانی نفسیات کو مدنظر رکھ کر بنائے گئے ہیں۔"
+              ],
+              "english": [
+                "Rejecting an enemy's testimony against another is the peak of justice.",
+                "Islam leaves no room for decisions based on emotional impulses.",
+                "These laws are designed taking human psychology into consideration."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں سبق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیانت داری کا فروغ",
+              "english": "Promoting Integrity"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے میں اپنی ساکھ ایسی بنائیں کہ آپ کی بات معتبر ٹھہرے۔",
+                "خیانت اور بددیانتی سے بچنا ایمانی اور سماجی ضرورت ہے۔",
+                "سچائی اور دیانت انسان کو ہر جگہ سرخرو کرتی ہے۔"
+              ],
+              "english": [
+                "Build such a reputation in society that your word is held credible.",
+                "Avoiding treachery and dishonesty is a religious and social necessity.",
+                "Truthfulness and integrity bring success to a person everywhere."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی تعلقات میں عدل",
+              "english": "Justice in Mutual Relations"
+            },
+            "content": {
+              "urdu": [
+                "اختلاف کے باوجود دوسروں کے بارے میں سچ بولنا چاہیے۔",
+                "ذاتی دشمنی کو حق و باطل کے درمیان رکاوٹ نہ بننے دیں۔",
+                "انصاف کا ترازو ہمیشہ برابر رکھنا ہی مومن کی شان ہے۔"
+              ],
+              "english": [
+                "One must speak the truth about others despite having differences.",
+                "Do not let personal enmity become a barrier between truth and falsehood.",
+                "Keeping the scales of justice balanced is the hallmark of a believer."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

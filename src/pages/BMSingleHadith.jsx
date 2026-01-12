@@ -2,79 +2,171 @@ import React, { useEffect, useState } from "react";
 import { Link, useLocation, useNavigate, useParams } from "react-router";
 import Loading from "../components/Loading";
 
-function BMSingleHadith() {
-  const { bookSlug, chapterSlug, hadithId } = useParams();
+function BMSingleHadith({ urduText, setUrduText }) {
+  // const { hadithDetail.hadithReferences.kitabId, hadithDetail.hadithReferences.kitabIdBab, hadithNo } = useParams();
+  const { hadithId } = useParams();
 
-  const [data, setData] = useState({});
   const [loading, setLoading] = useState(true);
-  const [book, setBook] = useState(null);
-  const [chapter, setChapter] = useState(null);
-  const [urduText, setUrduText] = useState(true);
-  const [hadith, setHadith] = useState(null);
+  const [hadithDetail, setHadithDetail] = useState();
+  const [hadithName, setHadithName] = useState();
+  const [chapterDetail, setChapterDetail] = useState();
+  const [bookName, setBookName] = useState();
+  const [chapterName, setChapterName] = useState();
+  const [editorPass, setEditorPass] = useState(false);
   const navigate = useNavigate();
   const location = useLocation();
 
-  useEffect(() => {
-    fetch(
-      "https://abdullahsaeed-git.github.io/my-database/bulugh-al-maram.json"
-    )
-      .then((res) => res.json())
-      .then((data) => setData(data));
-  }, [location]);
+  // useEffect(() => {
+  //   try {
+  //     setLoading(true)
+  //     fetch(
+  //       `https://abdullahsaeed-git.github.io/my-database/bulugh/hadith-detail/hadith-${hadithId}.json`
+  //     )
+  //       .then((res) => res.json())
+  //       .then((data) => {
+  //         setHadithDetail(data);
+
+  //         fetch(
+  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/chapter-detail/chapter-${data.hadithReferences.babId}.json`
+  //         )
+  //           .then((res) => res.json())
+  //           .then((chapterDetailData) => {
+  //             setChapterDetail(chapterDetailData);
+  //             setHadithName(
+  //               chapterDetailData.hadiths.find((h) => h.id == hadithId)
+  //             );
+  //           });
+
+  //         fetch(
+  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books.json`
+  //         )
+  //           .then((res) => res.json())
+  //           .then((bulughBooksData) =>
+  //             setBookName(
+  //               bulughBooksData.find(
+  //                 (b) => b.id == data.hadithReferences.kitabId
+  //               )
+  //             )
+  //           );
+
+  //         fetch(
+  //           `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${data.hadithReferences.kitabId}.json`
+  //         )
+  //           .then((res) => res.json())
+  //           .then((bookDetailData) =>
+  //             setChapterName(
+  //               bookDetailData.chapters.find(
+  //                 (c) => c.id == data.hadithReferences.babId
+  //               )
+  //             )
+  //           );
+  //       });
+  //   } catch (error) {
+  //     console.error("Error in Single Hadith: ", error);
+  //   }
+  //   // finally {
+
+  //   //   if(hadithDetail){
+  //   //     setLoading(false)
+  //   //   }
+  //   //   // setTimeout(() => {
+  //   //   // }, 300);
+  //   // }
+
+  //   // console.log(location)
+  // }, [location]);
 
   useEffect(() => {
-    if (!data.books) return;
+    const fetchData = async () => {
+      try {
+        setLoading(true);
 
-    const book = data.books.find((b) => b.bookSlug === bookSlug);
-    setBook(book);
+        // First, fetch the hadith detail
+        const hadithRes = await fetch(
+          `https://abdullahsaeed-git.github.io/my-database/bulugh/hadith-detail/hadith-${hadithId}.json`
+        );
+        const hadithData = await hadithRes.json();
+        setHadithDetail(hadithData);
 
-    if (book && book.chapters) {
-      const chapter = book.chapters.find(
-        (ch) => ch.chapterSlug === chapterSlug
-      );
-      setChapter(chapter);
-      const hadith = chapter.hadiths.find((h) => h.id == hadithId);
-      setHadith(hadith);
-      // console.log("hadith", hadith);
-    }
+        // Now fetch all other data in parallel
+        // const [chapterRes, booksRes, bookDetailRes] = await Promise.all([
+        //   fetch(
+        //     `https://abdullahsaeed-git.github.io/my-database/bulugh/chapter-detail/chapter-${hadithData.hadithReferences.babId}.json`
+        //   ),
+        //   fetch(
+        //     `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books.json`
+        //   ),
+        //   fetch(
+        //     `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${hadithData.hadithReferences.kitabId}.json`
+        //   ),
+        // ]);
 
-    setLoading(false);
-  }, [data, bookSlug, chapterSlug, hadithId]);
 
-  const PreviousHadith = () => {
-    let hadithToGo;
-    if (hadithId > 1) {
-      hadithToGo = Number(hadithId) - 1;
-    }
-    // console.log("as hadith id is", hadithId , hadithToGo)
-    const url = `/bulugh-al-Maram/${book.bookSlug}/${chapter.chapterSlug}/${hadithToGo}`;
-    return url;
-  };
+
+        const chapterId = hadithData.hadithReferences.babId;
+        const kitabId = hadithData.hadithReferences.kitabId;
+
+        // Fetch all dependent data in parallel
+        const [chapterRes, booksRes, bookDetailRes] = await Promise.all([
+          fetch(
+            `https://abdullahsaeed-git.github.io/my-database/bulugh/chapter-detail/chapter-${chapterId}.json`
+          ),
+          fetch(
+            `https://abdullahsaeed-git.github.io/my-database/bulugh/bulugh-books.json`
+          ),
+          fetch(
+            `https://abdullahsaeed-git.github.io/my-database/bulugh/book-detail/book-${kitabId}.json`
+          ),
+        ]);
+
+        const chapterData = await chapterRes.json();
+        const booksData = await booksRes.json();
+        const bookDetailData = await bookDetailRes.json();
+
+        // Set all states
+        setChapterDetail(chapterData);
+        setHadithName(chapterData.hadiths.find((h) => h.id == hadithId));
+        setBookName(
+          booksData.find((b) => b.id == hadithData.hadithReferences.kitabId)
+        );
+        setChapterName(
+          bookDetailData.chapters.find(
+            (c) => c.id == hadithData.hadithReferences.babId
+          )
+        );
+      } catch (error) {
+        console.error("Error in Single Hadith: ", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, [location, hadithId]); // Add hadithId to dependencies
 
   const NextHadith = () => {
-    let hadithToGo;
-    if (hadithId < chapter.hadiths.length) {
-      hadithToGo = Number(hadithId) + 1;
-    } else {
-      hadithToGo = hadithId;
-    }
-    const url = `/bulugh-al-Maram/${bookSlug}/${chapterSlug}/${hadithToGo}`;
-    return url;
+    return `/bulugh-al-maram/hadith-detail/${Number(hadithId) + 1}`;
+  };
+  const PreviousHadith = () => {
+    return `/bulugh-al-maram/hadith-detail/${Number(hadithId) - 1}`;
   };
 
   if (loading) return <Loading />;
+
+  if (!hadithDetail)
+    return <h3 className="text-center m-3">Hadith Not Found</h3>;
 
   return (
     <>
       {/* <div className="m-5 text-center h1"></div> */}
 
-      <header class="border-bottom lh-2 py-4  d-flex align-items-center justify-content-center">
+      <header className="border-bottom lh-2 py-4  d-flex align-items-center justify-content-center">
         <nav
           className="bm-breadcrumb-nav text-light w-100 text-center"
           aria-label="breadcrumb"
         >
           <ol
-            class="breadcrumb mb-0"
+            className="breadcrumb mb-0"
             style={{
               display: "flex",
               flexWrap: "wrap",
@@ -85,7 +177,7 @@ function BMSingleHadith() {
             }}
           >
             <li
-              class={`breadcrumb-item ${urduText && "urdu"} `}
+              className={`breadcrumb-item ${urduText && "urdu"} `}
               style={{ textAlign: urduText && "right" }}
             >
               <Link
@@ -95,43 +187,45 @@ function BMSingleHadith() {
                 {urduText ? "بلوغ المرام" : "Bulugh Al Maram"}
               </Link>
             </li>
-            <li class={`breadcrumb-item ${urduText && "urdu "} `}>
+            <li className={`breadcrumb-item ${urduText && "urdu "} `}>
               <Link
-                to={`/bulugh-al-Maram/${bookSlug}`}
+                to={`/bulugh-al-Maram/${hadithDetail.hadithReferences.kitabId}`}
                 className={`text-light decor-none ${urduText && "urdu"}`}
               >
-                {urduText ? book.name.arabic : book.name.english}
+                {urduText ? bookName?.name.arabic : bookName?.name.english}
               </Link>
             </li>
-            <li class={`breadcrumb-item ${urduText && "urdu"} `}>
+            <li className={`breadcrumb-item ${urduText && "urdu"} `}>
               <Link
-                to={`/bulugh-al-Maram/${bookSlug}/${chapterSlug}`}
+                to={`/bulugh-al-Maram/chapter/${hadithDetail.hadithReferences.babId}`}
                 className={`text-light decor-none ${urduText && "urdu"}`}
               >
-                {urduText ? chapter.name.arabic : chapter.name.english}
+                {urduText
+                  ? chapterName?.name.arabic
+                  : chapterName?.name.english}
               </Link>
             </li>
             <li
-              class={`breadcrumb-item active  ${urduText && "urdu "} `}
+              className={`breadcrumb-item active  ${urduText && "urdu "} `}
               aria-current="page"
             >
               <span
                 className="d-flex gap-1 "
                 style={{ flexDirection: urduText && "row-reverse" }}
               >
-                <span>{urduText ? "hadees" : "Hadith"} </span>
-                <span>{hadithId}</span>
+                {/* <span>{urduText ? "hadees" : "Hadith"} </span> */}
+                <span>(Hadith No {hadithDetail.hadithNo})</span>
               </span>
             </li>
           </ol>
         </nav>
       </header>
 
-      <main className="container">
-        <p class="lead mt-5" style={{ cursor: "pointer" }}>
+      <main className="container-fluid p-lg-5 p-3 ">
+        <p className="lead mt-5" style={{ cursor: "pointer" }}>
           <span
             href="#"
-            class={`px-2 py-2  border border-2 border-white text-body-emphasis fw-bold fs-6 border-end-0 ${
+            className={`px-2 py-2  border border-2 border-white text-body-emphasis fw-bold fs-6 border-end-0 ${
               !urduText && "bg-success"
             }`}
             onClick={() => setUrduText(false)}
@@ -140,7 +234,7 @@ function BMSingleHadith() {
           </span>
           <span
             href="#"
-            class={`px-2 py-2  border border-2 border-white text-body-emphasis fw-bold fs-6 border-start-0 ${
+            className={`px-2 py-2  border border-2 border-white text-body-emphasis fw-bold fs-6 border-start-0 ${
               urduText && "bg-success"
             }`}
             onClick={() => setUrduText(true)}
@@ -148,36 +242,52 @@ function BMSingleHadith() {
             Urdu
           </span>
         </p>
-        <div className="d-flex align-items-center justify-content-center">
-          {hadith.ytLink && (
-            <div class="p-3 my-5 rounded text-body-emphasis bg-body-secondary lecture-video-container">
+        {/* <div className="d-flex align-items-center justify-content-center">
+          {hadithDetail?.ytLink && (
+            <div className="p-3 my-5 rounded text-body-emphasis bg-body-secondary lecture-video-container">
               <iframe
                 width="656"
                 height="369"
-                src={hadith?.ytLink}
+                src={hadithDetail?.ytLink}
                 title="YouTube video player"
-                frameborder="0"
+                frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                referrerpolicy="strict-origin-when-cross-origin"
+                referrerPolicy="strict-origin-when-cross-origin"
                 allowfullscreen
               ></iframe>
             </div>
           )}
-        </div>
-        <div class="px-4 px-md-5 pt-5  my-4 rounded text-body-emphasis bg-body-secondary">
-          <div class="col-lg px-0">
-            <h3 class=" arabic" style={{lineHeight: 2}}>{hadith.name.arabic}</h3>
+        </div> */}
+        <div className="px-4 px-md-5 pt-4  my-4 rounded text-body-emphasis bg-body-secondary">
+          <div className="col-lg px-0 ">
+            <div
+              className="mb-3"
+              style={{ display: "flex", justifyContent: "flex-end" }}
+            >
+              <span
+                className={`badge rounded text-bg-${
+                  hadithDetail?.grade?.arabic == "صحيح" ? "success" : "light"
+                } p-3 arabic fs-6 `}
+              >
+                {hadithDetail?.grade?.arabic}
+              </span>
+            </div>
+            <h3 className=" arabic" style={{ lineHeight: 2 }}>
+              {hadithName?.name.arabic}
+            </h3>
             {urduText ? (
-              <p class="lead my-3 urdu" style={{lineHeight:2}}>{hadith.name.urdu}</p>
+              <p className="lead my-3 urdu" style={{ lineHeight: 2 }}>
+                {hadithName?.name.urdu}
+              </p>
             ) : (
-              <p class="lead my-3">{hadith.name.english}</p>
+              <p className="lead my-3">{hadithName?.name.english}</p>
             )}
 
             <nav aria-label="Page navigation example ">
-              <ul class="pagination pagination-lg d-flex justify-content-between p-4">
-                <li class="page-item ">
+              <ul className="pagination pagination-lg d-flex justify-content-between p-4">
+                <li className="page-item ">
                   <Link
-                    class="page-link"
+                    className="page-link"
                     to={PreviousHadith()}
                     aria-label="Previous"
                     style={{ visibility: hadithId <= 1 && "hidden" }}
@@ -188,19 +298,25 @@ function BMSingleHadith() {
                   </Link>
                 </li>
 
-                {/* <li class="page-item">
-                  <a class="page-link" href="#">
-                     
+                <li className="page-item">
+                  <a
+                    href="#"
+                    type="button"
+                    className="page-link btn btn-primary"
+                    data-bs-toggle="modal"
+                    data-bs-target="#exampleModal"
+                  >
+                    {urduText ? "تخریج" : "Takhreej"}
                   </a>
-                </li> */}
-                <li class="page-item">
+                </li>
+
+                <li className="page-item">
                   <Link
-                    class="page-link "
+                    className="page-link "
                     to={NextHadith()}
                     style={{
                       justifySelf: "right",
-                      visibility:
-                        hadithId >= chapter.hadiths.length && "hidden",
+                      visibility: hadithId >= 1358 ? "hidden" : "visible",
                     }}
                     aria-label="Next"
                   >
@@ -214,15 +330,26 @@ function BMSingleHadith() {
           </div>
         </div>
 
-        <div class="row mb-2" style={{ flexDirection: "row-reverse" }}>
-          {hadith.importantWords.map((w) => (
-            <div class="col-lg-2 col-md-3 col-6">
-              <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-                <div class="col p-4 d-flex flex-column position-static">
-                  <strong class="d-inline-block mb-2 text-primary-emphasis fs-4 arabic">
+        <div
+          className="row mb-2"
+          style={{
+            flexDirection: urduText && "row-reverse",
+            overflow: "scroll",
+            flexWrap: "nowrap",
+            overflowY: "hidden",
+            scrollbarWidth: "thin",
+          }}
+        >
+          {hadithDetail?.importantWords.map((w, i) => (
+            <div className="" style={{ width: "fit-content" }} key={i}>
+              <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm px-4 ">
+                <div className="col p-4 d-flex flex-column position-static">
+                  <strong className="d-inline-block mb-2 text-primary-emphasis fs-4 arabic">
                     {w.arabic}
                   </strong>
-                  <h3 class={`d-inline-block mb-2 fs-5 ${urduText && "urdu"}`}>
+                  <h3
+                    className={`d-inline-block mb-2 fs-5 ${urduText && "urdu"}`}
+                  >
                     {urduText ? w.urdu : w.english}{" "}
                   </h3>
                 </div>
@@ -232,12 +359,14 @@ function BMSingleHadith() {
         </div>
 
         <div
-          class="row g-5"
+          className="row  p-0"
           style={{ flexDirection: urduText && "row-reverse" }}
         >
-          <div class="col-md-8">
+          <div className="col-lg-8">
             <div
-              class={`  fs-5 fw-bold fst-italic  my-3 ${urduText && "urdu"}`}
+              className={`  fs-5 fw-bold fst-italic  my-3 ${
+                urduText && "urdu"
+              }`}
             >
               <mark className="p-2 px-3">
                 {" "}
@@ -245,55 +374,63 @@ function BMSingleHadith() {
               </mark>
             </div>
 
-            <article class="blog-post pt-3 mb-5">
-              {Array.isArray(hadith?.explanation) ? (
-                hadith?.explanation.map((sec, index) =>
+            <article className="blog-post pt-3 mb-5">
+              {Array.isArray(hadithDetail?.explanation) ? (
+                hadithDetail?.explanation.map((sec, index) =>
                   sec.sectionTitle || sec.sectionData ? (
-                    <>
-                      <div className="hadith-explaination-section mb-5">
-                        {/* <h3 className={`${urduText && "urdu"} sectionTitle my-3`}>
-                      {urduText
-                        ? sec.sectionTitle?.urdu
-                        : sec.sectionTitle.english}
-                    </h3> */}
+                    <div
+                      className="hadith-explaination-section mb-5"
+                      key={index}
+                    >
+                      {/* <h3 className={`${urduText && "urdu"} sectionTitle my-3`}>
+                        {urduText
+                          ? sec.sectionTitle?.urdu
+                          : sec.sectionTitle.english}
+                        </h3> */}
 
-                        <h2
-                          class={`pb-4 mb-4 fw-bold border-bottom sectionTitle ${
-                            urduText && "urdu"
-                          }`}
-                        >
-                          {urduText
-                            ? sec?.sectionTitle?.urdu || "No Title Found"
-                            : sec?.sectionTitle?.english || "No Title Found"}
-                        </h2>
-                        <div
-                          className={`${urduText && "urdu"} sectionData`}
-                          style={{ lineHeight: "2rem" }}
-                        >
-                          {sec?.sectionData?.points.map((p) => (
-                            <ul className="sectionData-point list-group my-3  ">
-                              <li
-                                className="list-group-item active list-group-item-dark text-dark"
-                                aria-current="true"
-                              >
-                                <h5 className="fw-bold mb-0 p-2">
-                                  {urduText
-                                    ? p.title.urdu
-                                    : p.title.english || "No Title"}
-                                </h5>
-                              </li>
-                              {urduText
-                                ? p?.content?.urdu.map((c) => (
-                                    <li className=" list-group-item">{c}</li>
-                                  ))
-                                : p?.content?.english.map((c) => (
-                                    <li className=" list-group-item">{c}</li>
-                                  ))}
-                            </ul>
-                          ))}
-                        </div>
+                      <h2
+                        className={`pb-4 mb-4 fw-bold border-bottom sectionTitle ${
+                          urduText && "urdu"
+                        }`}
+                      >
+                        {urduText
+                          ? sec?.sectionTitle?.urdu || "No Title Found"
+                          : sec?.sectionTitle?.english || "No Title Found"}
+                      </h2>
+                      <div
+                        className={`${urduText && "urdu"} sectionData`}
+                        style={{ lineHeight: "2rem" }}
+                      >
+                        {sec?.sectionData?.points.map((p, i) => (
+                          <ul
+                            className="sectionData-point list-group my-3   "
+                            key={i}
+                          >
+                            <li
+                              className="list-group-item active list-group-item-dark text-dark"
+                              aria-current="true"
+                            >
+                              <h5 className="fw-bold mb-0 p-2">
+                                {urduText
+                                  ? p.title.urdu
+                                  : p.title.english || "No Title"}
+                              </h5>
+                            </li>
+                            {urduText
+                              ? p?.content?.urdu?.map((c) => (
+                                  <li className=" list-group-item" key={c}>
+                                    {c}
+                                  </li>
+                                ))
+                              : p?.content?.english.map((c) => (
+                                  <li className=" list-group-item" key={c}>
+                                    {c}
+                                  </li>
+                                ))}
+                          </ul>
+                        ))}
                       </div>
-                    </>
+                    </div>
                   ) : (
                     "No Explaination"
                   )
@@ -302,51 +439,25 @@ function BMSingleHadith() {
                 <div className="h1 urdu text-center w-100">Unavailable</div>
               )}
             </article>
-
-            {/* <article class="blog-post pt-3 mb-5">
-            
-
-              {hadith.explanation.english.map((e) => (
-                <>
-                  <h4 className={`${urduText && "urdu"}`}>
-                    {urduText ? "عنوان" : e.heading}
-                  </h4>
-                  <p
-                    className={`${urduText && "urdu"}`}
-                    style={{ lineHeight: "2rem" }}
-                  >
-                    {urduText
-                      ? "تحصل النباتات على غذائها بواسطة عملية تسمى البناء الضوئي، حيث تقوم النباتات بتحويل ضوء الشمس والماء وثاني أكسيد الكربون الموجود في الغلاف الجوي إلى غذاء وتطلق الأكسجينكمنتجالتفاعل'الكيميائيتحدث هذه العملية في الخضرا'. فالنباتات تستفيد من طاقة ضوء الشمس في تقسيم الماء إلى هيدروجين وأكسجين، وتحدث تفاعلات كيميائية أخرى ينتج عنها سكر الجلكوز الذي تستخدمه كمصدر للغذاء وينطلق الأكسجين من النباتات إلى الغلاف الجوي. وهذا يعني أن النباتات تحوِّل ثاني أكسيد الكربون إلى غذاء من خلال تفاعلات كيميائية معقَّدة. ويُعد البناء الضوئي من أهم التفاعلات الكيميائية على كوكب الأرض، فقد ساعد في الماضي على تطوُّر كوكبنا وظهور الحياة عليه. فالنباتات تستخدم ثاني أكسيد الكربون لصنع غذائها، وتطلق الأكسجين لتساعد الكائنات الأخرى على التنفس!"
-                      : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates nam culpa reprehenderit voluptatibus odio optio itaque quo exercitationem laborum sunt aliquid doloribus omnis placeat, explicabo dolorum. Fugiat illo nihil nulla! Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi minus quasi quo beatae cupiditate earum aperiam numquam dolore. Corporis quae culpa repudiandae rerum molestias! Enim blanditiis quasi similique nostrum. Facilis aperiam rem sunt omnis iure harum quas labore, illo nesciunt sequi, esse non nobis recusandae perspiciatis et quam quos saepe ad similique hic ratione facere! Illum earum harum minus eum accusantium similique assumenda odio quo? Officiis sit fugiat officia mollitia voluptatem nulla adipisci sunt neque tempora, nobis harum nesciunt libero necessitatibus est ipsum, vero, corporis doloremque. Dolorem asperiores impedit quisquam ipsam. Quasi corporis deserunt nobis quaerat corrupti esse impedit nisi?"}
-                  </p>
-                </>
-              ))}
-            </article> */}
           </div>
-          <div class="col-md-4">
-            <div class="position" style={{ top: "2rem" }}>
-              <div
-                className={`d-flex justify-content-start  align-items-center  `}
-                style={{
-                  flexDirection: urduText ? "row-reverse" : "",
-                  flexWrap: "wrap",
-                }}
-              >
-                {hadith.references.map((r) => (
-                  <div className="">
-                    <strong
-                      class="d-inline-block  text-primary-emphasis arabic"
-                      style={{ fontSize: "" }}
-                    >
-                      {urduText ? r.arabic : r.english}
-                    </strong>
-                    <span className="mx-2">|</span>
-                  </div>
+          <div className="col-lg-4 mt-5">
+            <div className="position" style={{ top: "2rem" }}>
+              <div className="list-group">
+                {hadithDetail?.references?.map((r, i) => (
+                  <a
+                    href="#"
+                    key={i}
+                    className={`list-group-item list-group-item-action disabled ${
+                      urduText && "arabic"
+                    }`}
+                  >
+                    {urduText ? r.arabic : r.english}
+                  </a>
                 ))}
               </div>
-              <hr />
+              {/* <hr /> */}
 
-              <div className="mb-5">
+              <div className="my-5">
                 <h4 className={`fst-italic fw-semibold ${urduText && "urdu"}`}>
                   {" "}
                   {urduText
@@ -354,30 +465,32 @@ function BMSingleHadith() {
                     : "Introduction of Sahaba R.A"}
                 </h4>
                 <ul className={`list-unstyled ${urduText && "urdu"}`}>
-                  {hadith.narrators.map((n) => (
-                    <li>
+                  {hadithDetail?.narrators?.map((n, i) => (
+                    <li key={i}>
                       <Link
-                        class="d-flex btn btn-success my-4   py-3 link-body-emphasis text-decoration-none border-top"
-                        to={`/sahaba/${n.narratorSlug}`}
+                        className=" d-flex btn btn-success my-4   py-3 link-body-emphasis text-decoration-none border-top"
+                        to={`/sahaba/${n.slug}`}
                         style={{ flexDirection: urduText && "row-reverse" }}
                       >
-                        <h6 class="mb-0">{urduText ? n.arabic : n.english}</h6>
+                        <h6 className="mb-0">
+                          {urduText ? n.name.arabic : n.name.english}
+                        </h6>
                       </Link>
                     </li>
                   ))}
                 </ul>
               </div>
-              {hadith.summary && (
-                <div class="p-4 mb-3 bg-body-tertiary rounded">
+              {hadithDetail?.summary && (
+                <div className="p-4 mb-3 bg-body-tertiary rounded">
                   <h4
                     className={`fst-italic fw-semibold ${urduText && "urdu"}`}
                   >
                     {urduText ? "حدیث کا خلاصہ" : "Summary of Hadith"}
                   </h4>
                   {urduText ? (
-                    <p class="mb-0 urdu">{hadith.summary?.urdu}</p>
+                    <p className="mb-0 urdu">{hadithDetail?.summary?.urdu}</p>
                   ) : (
-                    <p class="mb-0">{hadith.summary?.english}</p>
+                    <p className="mb-0">{hadithDetail?.summary?.english}</p>
                   )}
                 </div>
               )}
@@ -385,6 +498,114 @@ function BMSingleHadith() {
           </div>
         </div>
       </main>
+
+      {/* Takhreej Modal */}
+
+      <div
+        className="modal fade"
+        id="exampleModal"
+        tabIndex="-1"
+        aria-labelledby="exampleModalLabel"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h1 className="modal-title fs-5" id="exampleModalLabel">
+                {urduText ? "Takhreej" : "Takhreej"}
+              </h1>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body ">
+              {/* {hadithDetail?.takhreej?.arabic} */}
+              <p className={`${urduText && "urdu"}`}>
+                {urduText
+                  ? hadithDetail?.takhreej?.urdu
+                  : hadithDetail?.takhreej?.english}
+              </p>
+            </div>
+            <div className="modal-footer">
+              <button
+                type="button"
+                className="btn btn-primary"
+                data-bs-dismiss="modal"
+              >
+                Close
+              </button>
+              {/* <button type="button" className="btn btn-primary">
+                Save changes
+              </button> */}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button
+        type="button"
+        class="btn btn-outline-warning w-100"
+        data-bs-toggle="modal"
+        data-bs-target="#passwordModal"
+      >
+        Edit Hadith
+      </button>
+
+      {/* <!-- Enter Pasword Modal --> */}
+      <div
+        class="modal fade"
+        id="passwordModal"
+        tabindex="-1"
+        aria-labelledby="exampleModalLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h1 class="modal-title fs-5" id="exampleModalLabel">
+                Enter Your Password
+              </h1>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">
+              <input
+                type="text"
+                className="form-control"
+                onChange={(e) => {
+                  if (e.target.value == 333) setEditorPass(true);
+                  else setEditorPass(false);
+                }}
+              />
+            </div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+              >
+                Close
+              </button>
+              <button
+                type="button"
+                class="btn btn-primary"
+                data-bs-dismiss="modal"
+                disabled={!editorPass}
+                onClick={() => navigate("edit?password=333")}
+              >
+                Enter
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
     </>
   );
 }

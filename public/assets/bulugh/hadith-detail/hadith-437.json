@@ -1,0 +1,267 @@
+{
+  "hadithId": 437,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:1264",
+      "https://sunnah.com/muslim:941"
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1264) ، ومسلم (941). سحولية: نسبة إلى سحول قرية باليمن. والكرسف هو القطن.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (1264) اور امام مسلم (941) نے روایت کیا ہے۔ سحولیہ یمن کے ایک گاؤں سحول کی طرف منسوب ہے جہاں کا کپڑا مشہور تھا، اور کرسف روئی (کپاس) کو کہتے ہیں۔",
+    "english": "Sahih. Reported by Al-Bukhari (1264) and Muslim (941). 'Sahuliyya' refers to Sahul, a village in Yemen known for its cloth, and 'Kursuf' means cotton."
+  },
+  "importantWords": [
+    {
+      "arabic": "كُفِّنَ",
+      "english": "Shrouded",
+      "urdu": "کفن دیا گیا"
+    },
+    {
+      "arabic": "ثَلَاثَةِ",
+      "english": "Three",
+      "urdu": "تین"
+    },
+    {
+      "arabic": "أَثْوَابٍ",
+      "english": "Garments / Cloths",
+      "urdu": "کپڑے / چادریں"
+    },
+    {
+      "arabic": "بِيضٍ",
+      "english": "White",
+      "urdu": "سفید"
+    },
+    {
+      "arabic": "كُرْسُفٍ",
+      "english": "Cotton",
+      "urdu": "روئی / سوتی کپڑا"
+    },
+    {
+      "arabic": "عِمَامَةٌ",
+      "english": "Turban",
+      "urdu": "پگڑی / عمامہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نبی کریم ﷺ کے کفن کی تفصیل بیان کی گئی ہے کہ آپ ﷺ کو تین سفید سوتی چادروں میں کفن دیا گیا تھا جن میں قمیص اور عمامہ شامل نہیں تھا۔",
+    "english": "This Hadith details the Prophet's (ﷺ) shroud, which consisted of three white cotton sheets, without a shirt or a turban."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1264)",
+      "english": "Sahih al-Bukhari (1264)"
+    },
+    {
+      "arabic": "صحيح مسلم (941)",
+      "english": "Sahih Muslim (941)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=L-v0Vf0N7yY",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کفن کی تعداد اور رنگ",
+        "english": "Number and Color of the Shroud"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین چادروں کی سنت",
+              "english": "The Sunnah of Three Sheets"
+            },
+            "content": {
+              "urdu": [
+                "مرد کے لیے بہترین کفن تین سفید چادریں ہیں۔",
+                "یہ چادریں پورے جسم کو ڈھانپنے کے لیے کافی ہوتی ہیں۔",
+                "نبی ﷺ کا عمل امت کے لیے بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "The best shroud for a male consists of three white sheets.",
+                "These sheets are sufficient to cover the entire body.",
+                "The Prophet's (ﷺ) practice is the ideal example for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفید رنگ کی فضیلت",
+              "english": "Preference for White Color"
+            },
+            "content": {
+              "urdu": [
+                "کفن کے لیے سفید رنگ سب سے زیادہ پسندیدہ ہے۔",
+                "سفید کپڑا پاکیزگی اور سادگی کی علامت سمجھا جاتا ہے۔",
+                "نبی ﷺ نے سفید لباس پہننے اور کفنانے کی ترغیب دی۔"
+              ],
+              "english": [
+                "White is the most preferred color for the burial shroud.",
+                "White cloth symbolizes purity and simplicity in Islam.",
+                "The Prophet (ﷺ) encouraged wearing and shrouding in white."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کفن کی سادہ نوعیت",
+        "english": "Simple Nature of the Shroud"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قمیص اور عمامہ کی نفی",
+              "english": "Exclusion of Shirt and Turban"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے کفن میں قمیص اور پگڑی شامل نہیں تھی۔",
+                "صرف چادروں کا استعمال کفن کی شرعی کفایت کو ظاہر کرتا ہے۔",
+                "اس سے معلوم ہوا کہ کفن میں تکلف کی ضرورت نہیں ہے۔"
+              ],
+              "english": [
+                "The Prophet's shroud did not include a shirt or a turban.",
+                "Using only sheets demonstrates the Shariah sufficiency of the shroud.",
+                "This indicates that unnecessary formality is not required in shrouding."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سوتی کپڑے کا استعمال",
+              "english": "Use of Cotton Material"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے لیے یمنی سوتی کپڑے کا انتخاب کیا گیا تھا۔",
+                "کفن کا کپڑا ایسا ہو جو عام اور میسر ہو سکے۔",
+                "مہنگے اور ریشمی کپڑوں سے کفن میں اجتناب کرنا چاہیے۔"
+              ],
+              "english": [
+                "Yemeni cotton cloth was selected for the Prophet (ﷺ).",
+                "The shroud material should be common and easily accessible.",
+                "Expensive and silken fabrics should be avoided for shrouding."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کفنانے کا طریقہ",
+        "english": "Method of Shrouding"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چادروں کو لپیٹنا",
+              "english": "Wrapping the Sheets"
+            },
+            "content": {
+              "urdu": [
+                "چادروں کو ایک دوسرے کے اوپر بچھا کر میت لپیٹی جاتی ہے۔",
+                "ہر چادر کو الگ الگ میت پر لپیٹنا مسنون طریقہ ہے۔",
+                "اس طریقے سے میت کی مکمل ستر پوشی یقینی ہو جاتی ہے۔"
+              ],
+              "english": [
+                "Sheets are spread over one another to wrap the deceased.",
+                "Wrapping each sheet individually is the traditional Sunnah method.",
+                "This method ensures the complete privacy of the deceased."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میت کی تکریم",
+              "english": "Respect for the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "صاف ستھرا کفن دینا میت کا ایک بنیادی حق ہے۔",
+                "کفن میت کی حرمت اور وقار کو برقرار رکھتا ہے۔",
+                "اسلام نے مرنے کے بعد بھی انسان کی عزت کا حکم دیا ہے۔"
+              ],
+              "english": [
+                "Providing a clean shroud is a basic right of the deceased.",
+                "The shroud maintains the sanctity and dignity of the dead.",
+                "Islam commands respect for humans even after their passing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و تربیتی پہلو",
+        "english": "Educational and Spiritual Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دنیا سے رخصتی کی حقیقت",
+              "english": "Reality of Leaving the World"
+            },
+            "content": {
+              "urdu": [
+                "انسان دنیا سے صرف چند گز سادہ کپڑا لے کر جاتا ہے۔",
+                "دنیاوی جاہ و حشم موت کے وقت ختم ہو جاتا ہے۔",
+                "کفن کی سادگی ہمیں آخرت کی فکر دلاتی ہے۔"
+              ],
+              "english": [
+                "Man leaves the world with only a few yards of simple cloth.",
+                "Worldly status and grandeur end at the moment of death.",
+                "The simplicity of the shroud reminds us of the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "جنائز کے معاملات میں سنتِ نبوی ﷺ کی اتباع لازمی ہے۔",
+                "رسم و رواج کے بجائے احادیثِ صحیحہ پر عمل کرنا چاہیے۔",
+                "صحابہ کرام نے ہر معاملے میں سنت کو مقدم رکھا۔"
+              ],
+              "english": [
+                "Following the Prophet's (ﷺ) Sunnah is mandatory in funeral rites.",
+                "Authentic Hadiths should be prioritized over local customs.",
+                "The Companions prioritized the Sunnah in every single matter."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

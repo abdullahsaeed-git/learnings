@@ -1,0 +1,259 @@
+{
+  "hadithId": 872,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/62"],
+    "kitabId": 8,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب النكاح",
+    "babId": 66
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (4/447)، وأبو داود (2142)، وابن ماجه (1850)، وابن حبان (4175)، والحاكم (2/187). وعلق البخاري جزءاً منه في كتاب النكاح.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابو داؤد اور ابن ماجہ نے روایت کیا ہے۔ امام ابن حبان اور حاکم نے اسے صحیح قرار دیا ہے اور امام بخاری نے اس کا کچھ حصہ تعلیقاً ذکر کیا ہے۔",
+    "english": "Sahih. Recorded by Ahmad (4/447), Abu Dawud (2142), Ibn Majah (1850), Ibn Hibban (4175), and Al-Hakim (2/187). Al-Bukhari also mentioned parts of it in Mu'allaq form."
+  },
+  "importantWords": [
+    {
+      "arabic": "تُطْعِمُهَا",
+      "english": "Feed her",
+      "urdu": "اسے کھانا کھلائے"
+    },
+    {
+      "arabic": "تَكْسُوهَا",
+      "english": "Clothe her",
+      "urdu": "اسے لباس پہنائے"
+    },
+    {
+      "arabic": "تُقَبِّحْ",
+      "english": "Revile / Call ugly",
+      "urdu": "برا بھلا کہنا / گالی دینا"
+    },
+    {
+      "arabic": "تَهْجُرْ",
+      "english": "Abandon / Forsake",
+      "urdu": "قطع تعلق کرنا / جدا ہونا"
+    },
+    {
+      "arabic": "الْوَجْهَ",
+      "english": "The face",
+      "urdu": "چہرہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں شوہر پر بیوی کے بنیادی حقوق بیان کیے گئے ہیں جن میں نان و نفقہ کی فراہمی، جسمانی تشدد سے گریز، اخلاقی حسنِ سلوک اور ناراضگی میں بھی پردہ داری شامل ہے۔",
+    "english": "This Hadith outlines the basic rights of a wife: maintenance in food and clothing, prohibition of physical abuse on the face, avoiding verbal abuse, and maintaining domestic privacy during disputes."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب النكاح، رقم الحديث ٢١٤٢",
+      "english": "Sunan Abi Dawud, Book of Marriage, Hadith No. 2142"
+    },
+    {
+      "arabic": "سنن ابن ماجه، كتاب النكاح، رقم الحديث ١٨٥٠",
+      "english": "Sunan Ibn Majah, Book of Marriage, Hadith No. 1850"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "حكيم بن معاوية القشيري",
+        "english": "Hakim bin Mu'awiya al-Qushayri"
+      },
+      "slug": "hakim-bin-muawiya"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S-tS_V6X2Yw",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "معاشی حقوق: نان و نفقہ",
+        "english": "Financial Rights: Maintenance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوراک کی فراہمی",
+              "english": "Providing Food"
+            },
+            "content": {
+              "urdu": [
+                "شوہر پر بیوی کی خوراک کی ذمہ داری اس کی استطاعت کے مطابق واجب ہے۔",
+                "نبی ﷺ نے اسے شوہر کے اپنے کھانے سے مشروط کر کے برابری کی تعلیم دی۔",
+                "بیوی کے نفقے میں بخل کرنا یا اسے محروم رکھنا شرعاً گناہ اور ناانصافی ہے۔"
+              ],
+              "english": [
+                "A husband is legally obligated to provide food for his wife according to his means.",
+                "The Prophet (ﷺ) linked it to the husband's own standard of eating to ensure equality.",
+                "Niggardliness in providing sustenance or depriving the wife is a sin in Islamic law."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لباس و پوشاک",
+              "english": "Clothing and Apparel"
+            },
+            "content": {
+              "urdu": [
+                "بیوی کو موسم اور ضرورت کے مطابق مناسب لباس مہیا کرنا شوہر کا فرض ہے۔",
+                "لباس کی فراہمی میں شوہر کو اپنی معاشی حیثیت کا لحاظ رکھنا چاہیے نہ کہ اسراف۔",
+                "اسلام نے عورت کو معاشی فکر سے آزاد کر کے اسے گھر کی ملکہ کا درجہ دیا ہے۔"
+              ],
+              "english": [
+                "Providing appropriate clothing according to seasons and needs is the husband's duty.",
+                "In providing clothes, the husband should follow his economic status without extravagance.",
+                "Islam frees women from financial anxiety by making the husband responsible for all needs."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جسمانی اور اخلاقی تحفظ",
+        "english": "Physical and Moral Protection"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چہرے پر مارنے کی ممانعت",
+              "english": "Prohibition of Striking the Face"
+            },
+            "content": {
+              "urdu": [
+                "چہرہ انسان کی عزت اور شخصیت کا مرکز ہے، اس پر مارنا انسانی وقار کی تذلیل ہے۔",
+                "اسلام نے بیوی پر تشدد کی سختی سے ممانعت کی ہے، خاص طور پر چہرے کا دفاع۔",
+                "ایک مثالی شوہر وہ ہے جو اپنی بیوی کے ساتھ نرمی اور شفقت کا معاملہ کرے۔"
+              ],
+              "english": [
+                "The face is the center of human dignity; striking it is a humiliation of the person.",
+                "Islam strictly prohibits physical abuse of the wife, especially targeting the face.",
+                "An ideal husband is one who treats his wife with consistent kindness and compassion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت (گالی کی ممانعت)",
+              "english": "Guarding the Tongue (No Reviling)"
+            },
+            "content": {
+              "urdu": [
+                "بیوی کو برا بھلا کہنا، اسے بدصورت کہنا یا گالی دینا اخلاقِ نبوی کے خلاف ہے۔",
+                "لفظ 'تقبیح' میں ہر وہ بات شامل ہے جو عورت کی دل آزاری اور تذلیل کا سبب بنے۔",
+                "خوشگوار ازدواجی زندگی کی بنیاد باہمی احترام اور میٹھی گفتگو پر رکھی گئی ہے۔"
+              ],
+              "english": [
+                "Insulting the wife, calling her ugly, or using foul language contradicts Prophetic ethics.",
+                "The term 'Taqbih' includes any speech that causes emotional pain or belittlement.",
+                "A happy marital life is built on the foundation of mutual respect and kind speech."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اختلافات کا حل اور رازداری",
+        "english": "Conflict Resolution and Privacy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہجر (علیحدگی) کی حدود",
+              "english": "Limits of Abandonment (Hajr)"
+            },
+            "content": {
+              "urdu": [
+                "ناراضگی کی صورت میں بستر الگ کرنے کی اجازت صرف گھر کی حد تک محدود ہے۔",
+                "بیوی کو گھر سے نکال دینا یا خود گھر چھوڑ کر باہر چلے جانا سنت کے خلاف ہے۔",
+                "گھر کے اندر علیحدگی کا مقصد اصلاح ہے، نہ کہ عورت کو سماجی طور پر رسوا کرنا۔"
+              ],
+              "english": [
+                "In case of disputes, separating beds is permitted only within the house confines.",
+                "Expelling the wife from home or leaving the house entirely is against the Sunnah.",
+                "Internal separation is intended for reformation, not for social humiliation of the wife."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گھریلو رازوں کی حفاظت",
+              "english": "Protecting Household Secrets"
+            },
+            "content": {
+              "urdu": [
+                "گھر کے معاملات کو گھر کے اندر ہی حل کرنا عقلمندی اور شرعی تقاضا ہے۔",
+                "باہر والوں کو میاں بیوی کے جھگڑوں میں شریک کرنا فتنہ اور جدائی کا باعث بنتا ہے۔",
+                "اسلام نے پردہ داری اور حیا کو خاندانی نظام کی بقا کے لیے لازمی قرار دیا ہے۔"
+              ],
+              "english": [
+                "Resolving domestic issues within the home is a wise and Sharia requirement.",
+                "Involving outsiders in marital conflicts often leads to fitnah and permanent separation.",
+                "Islam deems privacy and modesty essential for the preservation of the family system."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور حسنِ معاشرت",
+        "english": "Practical Training and Good Social Conduct"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہترین شوہر کون؟",
+              "english": "Who is the Best Husband?"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ تم میں سب سے بہتر وہ ہے جو اپنے گھر والوں کے لیے بہتر ہو۔",
+                "بیوی کے حقوق کی ادائیگی صرف قانون نہیں بلکہ ایمان کا ایک اہم شعبہ ہے۔",
+                "حقوق کی پامالی آخرت میں شوہر کے لیے سخت بازپرس اور پکڑ کا ذریعہ بنے گی۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) said the best of you are those who are best to their families.",
+                "Fulfilling the wife's rights is not just legal; it is a vital branch of faith.",
+                "Violating these rights will lead to severe accountability for the husband in the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صبر اور برداشت",
+              "english": "Patience and Tolerance"
+            },
+            "content": {
+              "urdu": [
+                "شوہر کو چاہیے کہ وہ بیوی کی چھوٹی غلطیوں پر درگزر کرے اور تحمل سے کام لے۔",
+                "نبی ﷺ کی زندگی میں ہمیں ازواجِ مطہرات کے ساتھ انتہائی صبر کا نمونہ ملتا ہے۔",
+                "محبت اور ایثار سے ہی ایک بکھرتا ہوا گھرانہ دوبارہ جڑ سکتا اور خوشحال ہو سکتا ہے۔"
+              ],
+              "english": [
+                "A husband should overlook minor mistakes and exercise patience with his wife.",
+                "In the life of the Prophet (ﷺ), we find the ultimate model of patience with spouses.",
+                "Only through love and self-sacrifice can a struggling family reunite and prosper."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

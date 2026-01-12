@@ -1,0 +1,254 @@
+{
+  "hadithId": 502,
+  "hadithNo": 20,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/4/20"],
+    "kitabId": 4,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 29
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1499)، ومسلم (1710). وهو قطعة من حديث طويل أوله: 'العجماء جرحها جبار...'.",
+    "urdu": "صحیح۔ اسے امام بخاری (1499) اور امام مسلم (1710) نے روایت کیا ہے۔ یہ ایک طویل حدیث کا حصہ ہے جس کا آغاز 'العجماء جرحها جبار' سے ہوتا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1499) and Muslim (1710). This is a part of a longer Hadith that begins with: 'Damage caused by a beast is not to be compensated...'"
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلرِّكَازِ",
+      "english": "Buried treasure (Ancient)",
+      "urdu": "رکاز (زمین میں دبا ہوا قدیم خزانہ)"
+    },
+    {
+      "arabic": "اَلْخُمُسُ",
+      "english": "One-fifth (20%)",
+      "urdu": "خمس (پانچواں حصہ)"
+    },
+    {
+      "arabic": "الْمَعْدِن",
+      "english": "Mineral / Mine",
+      "urdu": "معدنیات"
+    },
+    {
+      "arabic": "جَاهِلِيَّة",
+      "english": "Pre-Islamic era",
+      "urdu": "زمانہ جاہلیت"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کسی شخص کو زمین سے ایسا خزانہ ملے جو زمانہ جاہلیت کا دبا ہوا ہو، تو اس پر کل مال کا بیس فیصد (خمس) بطور سرکاری حق یا زکوٰۃ ادا کرنا واجب ہے۔",
+    "english": "If a person finds a treasure buried from ancient (Pre-Islamic) times, they must pay one-fifth (20%) of its value as a religious/state due."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الزكاة، رقم 1499",
+      "english": "Sahih al-Bukhari, Book of Zakat, Hadith 1499"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الحدود، رقم 1710",
+      "english": "Sahih Muslim, Book of Legal Punishments, Hadith 1710"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_S6pXf2T8E",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رکاز کی تعریف اور شرعی حکم",
+        "english": "Definition and Ruling of Rikaz"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رکاز سے کیا مراد ہے؟",
+              "english": "What is Rikaz?"
+            },
+            "content": {
+              "urdu": [
+                "اہلِ حجاز کے نزدیک رکاز سے مراد وہ دفینہ (خزانہ) ہے جو زمانہ جاہلیت کے لوگوں نے زمین میں چھپایا ہو۔",
+                "اس میں سونے، چاندی یا دیگر قیمتی دھاتوں کے سکے اور زیورات شامل ہو سکتے ہیں۔",
+                "اگر خزانے پر اسلامی علامات ہوں تو وہ 'لقطہ' (گری پڑی چیز) کے حکم میں ہوگا، رکاز میں نہیں۔"
+              ],
+              "english": [
+                "According to the people of Hejaz, Rikaz refers to treasures buried by people in the Pre-Islamic era (Jahiliyyah).",
+                "It can include coins, jewelry, or precious metals like gold and silver.",
+                "If the treasure bears Islamic symbols, it is treated as 'Luqatah' (lost property) rather than Rikaz."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خمس (20%) کی ادائیگی",
+              "english": "Payment of One-fifth (20%)"
+            },
+            "content": {
+              "urdu": [
+                "رکاز میں زکوٰۃ کی شرح ڈھائی فیصد کے بجائے بیس فیصد (پانچواں حصہ) رکھی گئی ہے۔",
+                "اس کی وجہ یہ ہے کہ اسے حاصل کرنے میں انسان کو مشقت کم اور نفع زیادہ ہوتا ہے۔",
+                "رکاز پر زکوٰۃ کے لیے 'سال گزرنے' کی شرط نہیں ہے، بلکہ ملتے ہی اسے ادا کرنا واجب ہے۔"
+              ],
+              "english": [
+                "The rate for Rikaz is 20% (one-fifth) instead of the usual 2.5% for Zakat.",
+                "This is because such treasure is acquired with little effort but provides great benefit.",
+                "There is no 'one-year possession' (Hawl) requirement for Rikaz; it is due immediately upon finding."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معدنیات اور رکاز میں فرق",
+        "english": "Difference Between Minerals and Rikaz"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معدنیات (Minerals)",
+              "english": "Minerals (Ma'adin)"
+            },
+            "content": {
+              "urdu": [
+                "معدنیات وہ قدرتی ذخائر ہیں جو اللہ نے زمین میں پیدا کیے ہیں (جیسے نمک، کوئلہ، پٹرول)۔",
+                "امام شافعی کے نزدیک معدنیات پر زکوٰۃ کی شرح عام زکوٰۃ (2.5%) کے برابر ہے۔",
+                "احناف کے نزدیک معدنیات اور رکاز کا حکم ایک ہی ہے اگر وہ دھاتی صورت میں ہوں۔"
+              ],
+              "english": [
+                "Minerals are natural resources created by Allah in the earth (like salt, coal, oil).",
+                "According to Imam Shafi'i, the rate for minerals is the standard 2.5% Zakat.",
+                "Hanafis rule that minerals and Rikaz follow the same 20% rule if they are metallic."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ملکیت کا مسئلہ",
+              "english": "Ownership Issues"
+            },
+            "content": {
+              "urdu": [
+                "اگر رکاز کسی کی اپنی ملکیت والی زمین سے ملے تو خمس نکال کر باقی مالک کا ہے۔",
+                "اگر غیر آباد یا بنجر زمین سے ملے تو پانے والا اس کا حقدار ہوگا بشرطیکہ وہ خمس ادا کر دے۔",
+                "بڑے پیمانے پر ملنے والی معدنیات جدید دور میں ملکی خزانے (بیت المال) کی ملکیت سمجھی جاتی ہیں۔"
+              ],
+              "english": [
+                "If Rikaz is found on one's own private land, it belongs to the owner after paying the Khums.",
+                "If found in uninhabited or wasteland, the finder owns it provided they pay the one-fifth.",
+                "Large-scale mineral deposits in modern times are generally considered state property (Bait al-Mal)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خمس کے مصارف",
+        "english": "Expenditure of Khums"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مصرفِ زکوٰۃ یا مصرفِ فئی؟",
+              "english": "Zakat vs. Fai Category"
+            },
+            "content": {
+              "urdu": [
+                "اکثر علماء کے نزدیک رکاز سے حاصل شدہ خمس عام زکوٰۃ کے آٹھ مصارف میں خرچ ہوگا۔",
+                "بعض ائمہ کے نزدیک اسے 'فئی' (سرکاری فنڈ) کی طرح مسلمانوں کے اجتماعی مفادات میں خرچ کیا جا سکتا ہے۔",
+                "بنیادی مقصد غریبوں کی مدد اور اسلامی ریاست کے نظام کو سہارا دینا ہے۔"
+              ],
+              "english": [
+                "Most scholars believe the Khums from Rikaz should be spent on the eight categories of Zakat.",
+                "Some Imams suggest it can be treated like 'Fai' (state funds) for general public welfare.",
+                "The core objective is to aid the poor and support the Islamic state's infrastructure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی معیشت میں توازن",
+              "english": "Balance in Islamic Economy"
+            },
+            "content": {
+              "urdu": [
+                "بغیر محنت کے ملنے والے مال پر زیادہ ٹیکس (20%) لگانا معاشی انصاف کی ایک صورت ہے۔",
+                "یہ نظام معاشرے میں دولت کے اچانک ارتکاز کو روکتا ہے اور غریبوں کو اس میں شریک کرتا ہے۔",
+                "اسلامی قوانین فطرت کے عین مطابق ہیں جو ہر قسم کے مال کی الگ خصوصیت کو مدنظر رکھتے ہیں۔"
+              ],
+              "english": [
+                "Levying a higher rate (20%) on effortless wealth is a form of economic justice.",
+                "This system prevents sudden concentration of wealth and shares it with the needy.",
+                "Islamic laws are perfectly aligned with nature, considering the specifics of each type of wealth."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امانتداری اور دیانت",
+              "english": "Trustworthiness and Integrity"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کو کوئی چھپا ہوا مال ملے تو اسے چھپانے کے بجائے اللہ کا حق ادا کرنا چاہیے۔",
+                "خزانہ ملنا اللہ کی طرف سے ایک آزمائش بھی ہو سکتا ہے کہ بندہ کتنا شکر گزار ہے۔",
+                "حلال رزق وہی ہے جس میں سے اللہ کا متعین کردہ حصہ نکال دیا گیا ہو۔"
+              ],
+              "english": [
+                "If someone finds hidden wealth, they should fulfill Allah's right rather than hiding it.",
+                "Finding a treasure can be a test from Allah to see the servant's gratitude.",
+                "Halal provision is that from which Allah's designated portion has been extracted."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلام کی سادگی",
+              "english": "Simplicity of Islam"
+            },
+            "content": {
+              "urdu": [
+                "رکاز کا قانون ظاہر کرتا ہے کہ اسلام نے ہر ممکنہ صورتحال کے لیے رہنمائی فراہم کی ہے۔",
+                "مسلمانوں کو جاہلیت کی چیزوں سے فائدہ اٹھانے کی اجازت دی مگر طہارتِ مال کی شرط کے ساتھ۔",
+                "دینِ اسلام صرف عبادات کا نام نہیں بلکہ زندگی کے تمام معاشی پہلوؤں کا احاطہ کرتا ہے۔"
+              ],
+              "english": [
+                "The law of Rikaz shows that Islam provides guidance for every possible situation.",
+                "Muslims are allowed to benefit from ancient findings, provided they purify the wealth.",
+                "Islam is not just about rituals; it encompasses all economic aspects of life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

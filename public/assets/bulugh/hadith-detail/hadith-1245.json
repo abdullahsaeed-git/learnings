@@ -1,0 +1,259 @@
+{
+  "hadithId": 1245,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:6224"],
+    "kitabId": 16,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الأدب",
+    "babId": 102
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (6224)، وأبو داود (5033)، والترمذي (2741).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (6224)، ابوداؤد (5033) اور ترمذی (2741) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (6224), Abu Dawud (5033), and At-Tirmidhi (2741)."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَطَسَ",
+      "english": "Sneezed",
+      "urdu": "چھینک ماری"
+    },
+    {
+      "arabic": "يَرْحَمُكَ",
+      "english": "Have mercy on you",
+      "urdu": "تجھ پر رحم کرے"
+    },
+    {
+      "arabic": "يَهْدِيكُمُ",
+      "english": "Guides you",
+      "urdu": "تمہیں ہدایت دے"
+    },
+    {
+      "arabic": "يُصْلِحُ",
+      "english": "Rectifies/Improves",
+      "urdu": "درست فرما دے"
+    },
+    {
+      "arabic": "بَالَكُمْ",
+      "english": "Your condition/state",
+      "urdu": "تمہارا حال"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں چھینک آنے کے مسنون آداب اور باہمی دعا کے تبادلے کا طریقہ بیان کیا گیا ہے جو مسلمانوں میں محبت کا باعث ہے۔",
+    "english": "This Hadith details the Sunnah etiquette of sneezing and the mutual exchange of prayers between Muslims, fostering community bonds."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6224)",
+      "english": "Reported by Al-Bukhari (6224)"
+    },
+    {
+      "arabic": "رواه أبو داود (5033)",
+      "english": "Reported by Abu Dawud (5033)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9K8Z2o3T4Y",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "چھینک کے آداب اور حکمت",
+        "english": "Etiquettes and Wisdom of Sneezing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی تعریف کا حکم",
+              "english": "Command to Praise Allah"
+            },
+            "content": {
+              "urdu": [
+                "چھینک آنے پر 'الحمد للہ' کہنا اللہ کی نعمت کا اعتراف ہے۔",
+                "طبی طور پر چھینک جسم سے فاسد مادوں کے اخراج کا ذریعہ ہے۔",
+                "نبی ﷺ نے اسے اللہ کی طرف سے پسندیدہ عمل قرار دیا ہے۔"
+              ],
+              "english": [
+                "Saying 'Alhamdulillah' after sneezing acknowledges Allah's blessing.",
+                "Medically, sneezing helps expel harmful substances from the body.",
+                "The Prophet (ﷺ) described sneezing as an act liked by Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تشکیر (دعا دینا)",
+              "english": "Tashmit (The Response)"
+            },
+            "content": {
+              "urdu": [
+                "سننے والے پر 'یرحمک اللہ' کہنا واجب یا سنتِ مؤکدہ ہے۔",
+                "یہ دعا صرف اس وقت دی جائے جب چھینکنے والا الحمد للہ کہے۔",
+                "بغیر حمد کے دعا دینا مسنون طریقہ کار کے خلاف ہے۔"
+              ],
+              "english": [
+                "Saying 'YarhamukAllah' is a duty or stressed Sunnah for the listener.",
+                "This prayer is only offered if the person praises Allah aloud.",
+                "Offering the prayer without hearing 'Alhamdulillah' is not Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "باہمی دعا اور اصلاحِ حال",
+        "english": "Mutual Prayer and Rectification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جواب کا مسنون طریقہ",
+              "english": "The Sunnah Reply"
+            },
+            "content": {
+              "urdu": [
+                "تیسرا مرحلہ چھینکنے والے کا دوبارہ دعا دینا ہے۔",
+                "وہ اپنے بھائی کے لیے ہدایت اور حال کی درستی کی دعا کرتا ہے۔",
+                "یہ عمل مسلمانوں کے درمیان باہمی خیر خواہی کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "The third stage involves the sneezer praying back for the listener.",
+                "They pray for the other's guidance and the betterment of their state.",
+                "This exchange reflects the deep well-wishing inherent in Islam."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نفساتی اور سماجی اثرات",
+              "english": "Psychological and Social Impacts"
+            },
+            "content": {
+              "urdu": [
+                "ایسی دعائیں دلوں سے کینہ اور نفرت کو دور کرتی ہیں۔",
+                "ایک چھوٹے سے عمل سے معاشرے میں اپنائیت کا احساس بڑھتا ہے۔",
+                "یہ ثابت کرتا ہے کہ اسلام ہر موقع پر دعا کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "Such prayers remove rancor and hatred from the hearts.",
+                "This small act increases the sense of belonging within the community.",
+                "It proves that Islam encourages supplication at every possible moment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی پہلو اور سنت",
+        "english": "Medical Aspect and Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی صحت اور شکر",
+              "english": "Physical Health and Gratitude"
+            },
+            "content": {
+              "urdu": [
+                "چھینک کے دوران دل کی دھڑکن پر اثر پڑتا ہے، جو ایک بڑی علامت ہے۔",
+                "نظامِ تنفس کی بحالی پر اللہ کا شکر ادا کرنا عین فطرت ہے۔",
+                "سنتِ نبوی ﷺ انسانی صحت کے تحفظ کی بھی ضامن ہے۔"
+              ],
+              "english": [
+                "Sneezing affects the heart rhythm momentarily, which is significant.",
+                "Praising Allah upon respiratory recovery is perfectly natural.",
+                "The Prophetic Sunnah guarantees the preservation of human health."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آواز کو پست رکھنا",
+              "english": "Keeping the Voice Low"
+            },
+            "content": {
+              "urdu": [
+                "دیگر احادیث کے مطابق چھینکتے وقت آواز کو دبانا مستحب ہے۔",
+                "منہ پر ہاتھ یا کپڑا رکھنا حفظانِ صحت کے اصولوں کے مطابق ہے۔",
+                "یہ عمل دوسروں کو تکلیف اور ناگواری سے بچانے کے لیے ہے۔"
+              ],
+              "english": [
+                "According to other Hadiths, it is recommended to suppress the sound.",
+                "Covering the mouth with a hand or cloth aligns with hygiene rules.",
+                "This prevents causing discomfort or spraying droplets on others."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کو زندہ کرنا",
+              "english": "Reviving the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے گھروں اور محفلوں میں ان آداب کو رواج دینا چاہیے۔",
+                "بچوں کو چھینک کے بعد الحمد للہ کہنے کی عادت ڈالنی چاہیے۔",
+                "متروک سنتوں کو زندہ کرنا بہت بڑے ثواب کا باعث ہے۔"
+              ],
+              "english": [
+                "We must establish these etiquettes in our homes and gatherings.",
+                "Children should be trained to say 'Alhamdulillah' after sneezing.",
+                "Reviving forgotten Sunnahs carries an immense spiritual reward."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باہمی تعلقات میں بہتری",
+              "english": "Improving Mutual Relations"
+            },
+            "content": {
+              "urdu": [
+                "دعاؤں کا تبادلہ دشمنی کو ختم کر کے دوستی پیدا کرتا ہے۔",
+                "معمولی نیکیوں کو حقیر نہ سمجھیں کیونکہ یہ جنت کا راستہ ہیں۔",
+                "اسلام ایک مکمل ضابطہ حیات ہے جو ہر حرکت کی رہنمائی کرتا ہے۔"
+              ],
+              "english": [
+                "Exchanging prayers replaces enmity with friendship and warmth.",
+                "Do not belittle small good deeds, as they are paths to Paradise.",
+                "Islam is a complete code of life guiding every human action."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

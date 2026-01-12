@@ -1,0 +1,25 @@
+{
+    "chapId": 51,
+    "summary": {
+        "urdu": [""],
+        "english": [""]
+    },
+    "description": {
+        "urdu": " ",
+        "english": " "
+    }, 
+    "hadithRange": {
+        "from": 750,
+        "to": 750
+    }, 
+    "hadiths": [
+      {
+        "id": 750,
+        "name": {
+          "arabic": " ",
+          "urdu": " ",
+          "english": " "
+        }
+      }
+    ]
+}

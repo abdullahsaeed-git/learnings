@@ -1,0 +1,267 @@
+{
+  "hadithId": 388,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-388"],
+    "kitabId": 2,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 24
+  },
+  
+  "takhreej": {
+    "arabic": "حسن.‏ رواه أحمد (5/352)‏، والترمذي (542)‏، وابن حبان (2812)‏ واللفظ للترمذي، وصححه الحاكم والدارقطني، وهو حديث حسن بمجموع طرقه.",
+    "urdu": "یہ حدیث حسن ہے۔ اسے احمد، ترمذی اور ابن حبان نے روایت کیا ہے۔ امام حاکم اور دارقطنی نے بھی اس کی صحت کی تصدیق کی ہے۔ یہ سنت مسلمانوں میں مشہور و مستفیض ہے۔",
+    "english": "Hasan (Good). Reported by Ahmad (5/352), At-Tirmidhi (542), and Ibn Hibban (2812). It is authenticated by Al-Hakim and Ad-Daraqutni, and is a well-known Sunnah practiced across the Muslim world."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَطْعَمَ",
+      "english": "To eat / taste",
+      "urdu": "تناول کرنا / کھانا"
+    },
+    {
+      "arabic": "لَا يَخْرُجُ",
+      "english": "He did not go out",
+      "urdu": "نہیں نکلتے تھے"
+    },
+    {
+      "arabic": "يَوْمَ اَلْأَضْحَى",
+      "english": "Day of Eid-ul-Adha",
+      "urdu": "عید الاضحی کا دن"
+    },
+    {
+      "arabic": "يُصَلِّيَ",
+      "english": "He prays",
+      "urdu": "وہ نماز پڑھے"
+    },
+    {
+      "arabic": "يَوْمَ اَلْفِطْرِ",
+      "english": "Day of Eid-ul-Fitr",
+      "urdu": "عید الفطر کا دن"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی ﷺ عید الفطر کی نماز سے پہلے کچھ کھاتے تھے، جبکہ عید الاضحی میں نماز کے بعد قربانی کے گوشت سے کھانے کو پسند فرماتے تھے۔",
+    "english": "The Prophet (ﷺ) used to eat before going to the Eid-ul-Fitr prayer, but on Eid-ul-Adha, he delayed eating until after the prayer was concluded."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (542)",
+      "english": "Sunan At-Tirmidhi (542)"
+    },
+    {
+      "arabic": "مسند أحمد (22984)",
+      "english": "Musnad Ahmad (22984)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن بریدة",
+        "english": "Abdullah bin Buraida"
+      },
+      "slug": "abdullah-bin-buraida"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "بریدة بن الحصیب الأسلمي",
+        "english": "Buraida bin Al-Husaib Al-Aslami"
+      },
+      "slug": "buraida-bin-al-husaib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=sunnah+of+eating+before+eid+ul+fitr+urdu",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عید الفطر کی سنت",
+        "english": "Sunnah of Eid-ul-Fitr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روزے کے خاتمے کا اعلان",
+              "english": "Declaring End of Fasting"
+            },
+            "content": {
+              "urdu": [
+                "عید الفطر کے دن نماز سے پہلے کھانا اس بات کی علامت ہے کہ رمضان کے روزے اب ختم ہو چکے ہیں۔",
+                "نبی ﷺ عموماً طاق عدد میں کھجوریں کھا کر عید گاہ کی طرف روانہ ہوتے تھے۔",
+                "یہ اللہ کی طرف سے ملنے والی مہمانی کو فوری طور پر قبول کرنے کا مظہر ہے۔"
+              ],
+              "english": [
+                "Eating before the Eid-ul-Fitr prayer signifies that the mandatory Ramadan fasts have concluded.",
+                "The Prophet (ﷺ) would usually eat dates in odd numbers before leaving for the prayer area.",
+                "This act represents the immediate acceptance of the feast provided by Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکم کی اطاعت",
+              "english": "Obedience to Commands"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح رمضان میں روزہ رکھنا عبادت ہے، اسی طرح عید کے دن روزہ نہ رکھنا بھی اطاعت ہے۔",
+                "نماز سے قبل کھانا اس بات کو یقینی بناتا ہے کہ کوئی شخص غلطی سے بھی اس دن روزہ نہ رکھے۔",
+                "یہ سنت ہمیں وقت اور احکامات کی پابندی سکھاتی ہے۔"
+              ],
+              "english": [
+                "Just as fasting in Ramadan is worship, breaking it on Eid is also an act of obedience.",
+                "Eating before prayer ensures that no one mistakenly continues fasting on this day.",
+                "This Sunnah teaches us the importance of timing and following divine commands."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عید الاضحی کی سنت",
+        "english": "Sunnah of Eid-ul-Adha"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قربانی کی فضیلت",
+              "english": "Virtue of Sacrifice"
+            },
+            "content": {
+              "urdu": [
+                "عید الاضحی میں نماز سے پہلے نہ کھانا مستحب ہے تاکہ دن کی پہلی غذا قربانی کا گوشت ہو۔",
+                "یہ سنت حضرت ابراہیم علیہ السلام کی قربانی اور ایثار کی یاد دلاتی ہے۔",
+                "قربانی کے گوشت سے کھانا باعثِ برکت اور اجر و ثواب سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "In Eid-ul-Adha, it is preferred to delay eating so the first meal is the sacrificial meat.",
+                "This Sunnah commemorates the sacrifice and devotion of Prophet Ibrahim (AS).",
+                "Eating from the sacrificial meat is considered a source of blessing and reward."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت میں ترتیب",
+              "english": "Order in Worship"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ عید الاضحی کی نماز جلد ادا فرماتے تھے تاکہ لوگ جلدی قربانی کر سکیں۔",
+                "نماز کے بعد کھانے میں تاخیر اللہ کے لیے صبر اور انتظار کا اظہار ہے۔",
+                "یہ ترتیب ہمیں اپنی خواہشات پر دینی فرائض کو مقدم رکھنے کا درس دیتی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) offered Eid-ul-Adha prayer early to allow people time for sacrifice.",
+                "Delaying food until after prayer expresses patience and anticipation for Allah's sake.",
+                "This order teaches us to prioritize religious duties over personal desires."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "دونوں عیدوں میں فرق کی حکمت",
+        "english": "Wisdom Behind the Difference"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقصدی تفاوت",
+              "english": "Purposive Distinction"
+            },
+            "content": {
+              "urdu": [
+                "عید الفطر کا تعلق صدقہ فطر اور روزے کے افطار سے ہے، اس لیے کھانا مقدم ہے۔",
+                "عید الاضحی کا تعلق قربانی اور ذبح سے ہے، اس لیے ذبیحہ کا انتظار کیا جاتا ہے۔",
+                "یہ تفاوت ہر عبادت کی اپنی انفرادی روح اور پیغام کو واضح کرتا ہے۔"
+              ],
+              "english": [
+                "Eid-ul-Fitr relates to Sadaqat-ul-Fitr and breaking the fast, hence eating comes first.",
+                "Eid-ul-Adha relates to sacrifice and slaughter, hence waiting for the meat is preferred.",
+                "This distinction clarifies the unique spirit and message of each act of worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی حدود کا احترام",
+              "english": "Respect for Sharia Boundaries"
+            },
+            "content": {
+              "urdu": [
+                "ان سنتوں پر عمل کرنا شریعت کی باریکیوں اور حدود کے احترام کا نام ہے۔",
+                "مسلمان اپنی خوشی کو بھی رسول اللہ ﷺ کے طریقے کے مطابق ڈھالتا ہے۔",
+                "یہ اعمال بظاہر چھوٹے ہیں لیکن ایمان کی پختگی کی علامت ہیں۔"
+              ],
+              "english": [
+                "Practicing these Sunnahs demonstrates respect for the nuances of Sharia.",
+                "A Muslim molds even their celebrations according to the Prophet's (ﷺ) way.",
+                "These actions are seemingly small but symbolize the strength of one's faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور عملی سبق",
+        "english": "Educational and Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کی برکات",
+              "english": "Blessings of Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کی ہر سنت میں انسانی فطرت اور صحت کا راز پوشیدہ ہے۔",
+                "عید کے ایام میں ان آداب کا خیال رکھنا بندگی کا حسن بڑھا دیتا ہے۔",
+                "ہمیں چاہیے کہ ہم اپنے بچوں کو بھی ان باریک سنتوں کی تربیت دیں۔"
+              ],
+              "english": [
+                "In every Sunnah of the Prophet (ﷺ) lies a secret to human nature and health.",
+                "Observing these etiquettes during Eid days enhances the beauty of servitude.",
+                "We should also train our children to follow these subtle Prophetic traditions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط اور اعتدال",
+              "english": "Discipline and Moderation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کھانے پینے اور خوشی منانے میں بھی نظم و ضبط سکھاتا ہے۔",
+                "یہ حدیث ہمیں بتاتی ہے کہ عبادت اور زندگی کے امور میں توازن کیسے رکھا جائے۔",
+                "سنت پر عمل پیرا ہونا ہی صراطِ مستقیم پر چلنے کی ضمانت ہے۔"
+              ],
+              "english": [
+                "Islam teaches discipline even in eating and celebrating joy.",
+                "This Hadith shows us how to balance worship with worldly affairs.",
+                "Adhering to the Sunnah is the ultimate guarantee of staying on the Straight Path."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

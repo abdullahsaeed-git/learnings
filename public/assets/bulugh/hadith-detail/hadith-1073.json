@@ -1,0 +1,259 @@
+{
+  "hadithId": 1073,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/10/102"],
+    "kitabId": 10,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحدود",
+    "babId": 87
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه البيهقي (10/5)، وابن حبان (1391) واللفظ له، وله شاهد صحيح عند البخاري تعليقاً عن ابن مسعود رضي الله عنه.",
+    "urdu": "صحیح۔ اسے بیہقی (10/5) اور ابن حبان (1391) نے روایت کیا ہے، اور اس کے الفاظ ابن حبان کے ہیں۔ اس کا ایک صحیح شاہد امام بخاری نے ابن مسعود رضی اللہ عنہ سے تعلیقاً ذکر کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bayhaqi (10/5) and Ibn Hibban (1391). It has a Sahih supporting narration mentioned by Al-Bukhari as a Mu'allaq report from Ibn Mas'ud (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَمْ يَجْعَلْ",
+      "english": "Did not place",
+      "urdu": "نہیں رکھی / نہیں بنائی"
+    },
+    {
+      "arabic": "شِفَاءَكُمْ",
+      "english": "Your cure",
+      "urdu": "تمہاری شفاء"
+    },
+    {
+      "arabic": "حَرَّمَ",
+      "english": "Forbidden / Prohibited",
+      "urdu": "حرام کیا"
+    },
+    {
+      "arabic": "عَلَيْكُمْ",
+      "english": "Upon you",
+      "urdu": "تم پر"
+    },
+    {
+      "arabic": "فِيمَا",
+      "english": "In what",
+      "urdu": "اس چیز میں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں یہ واضح اصول بیان کیا گیا ہے کہ اللہ تعالیٰ نے حرام کردہ اشیاء (جیسے شراب یا حرام گوشت) میں انسانوں کے لیے حقیقی شفاء نہیں رکھی، لہذا علاج کے لیے حرام کا سہارا نہیں لینا چاہیے۔",
+    "english": "This Hadith establishes the principle that Allah has not put healing in forbidden substances (like alcohol); therefore, one should not seek medical treatment through Haram means."
+  },
+  "references": [
+    {
+      "arabic": "رواه البيهقي (10/5)",
+      "english": "Reported by Al-Bayhaqi (10/5)"
+    },
+    {
+      "arabic": "رواه ابن حبان (1391)",
+      "english": "Reported by Ibn Hibban (1391)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم سلمة هند بنت أبي أمية",
+        "english": "Umm Salamah Hind bint Abi Umayyah"
+      },
+      "slug": "umm-salamah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqS_X8uN5_Y",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حرام سے علاج کی ممانعت",
+        "english": "Prohibition of Treatment with Haram"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی اصول اور حکمت",
+              "english": "Sharia Principle and Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے جن چیزوں کو حرام کیا ہے ان میں انسانیت کے لیے نقصان ہی نقصان ہے۔",
+                "علاج کا مقصد صحت یابی ہے، جبکہ حرام چیزیں روحانی اور جسمانی طور پر ناپاک ہوتی ہیں۔",
+                "نبی کریم ﷺ نے واضح فرمایا کہ حرام چیز کبھی بھی حقیقی شفاء کا ذریعہ نہیں بن سکتی۔"
+              ],
+              "english": [
+                "Things forbidden by Allah contain inherent harm for humanity.",
+                "The goal of treatment is recovery, while Haram substances are spiritually and physically impure.",
+                "The Prophet (ﷺ) clarified that forbidden items can never be a source of true healing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شراب بطور دوا",
+              "english": "Alcohol as Medicine"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کا پس منظر شراب کو بطور دوا استعمال کرنے کے سوال پر مبنی تھا۔",
+                "آپ ﷺ نے اسے بیماری قرار دیا نہ کہ دوا، لہذا شراب سے علاج ناجائز ہے۔",
+                "ایمان کا تقاضہ ہے کہ انسان شفا صرف اللہ کے حلال کردہ ذرائع میں تلاش کرے۔"
+              ],
+              "english": [
+                "The context of this Hadith was a question about using wine for medicinal purposes.",
+                "The Prophet (ﷺ) called it a disease rather than a cure, making it prohibited for treatment.",
+                "Faith requires a believer to seek healing only through the means allowed by Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور استثناء",
+        "english": "Juristic Aspects and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اضطراری حالت کا حکم",
+              "english": "Rulings on Emergency Situations"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک انتہائی مجبوری میں اگر جان بچانے کا کوئی حلال راستہ نہ ہو تو استثناء ممکن ہے۔",
+                "لیکن یہ صرف اس وقت ہے جب کوئی ماہر مسلمان ڈاکٹر اسے ناگزیر قرار دے۔",
+                "عام حالات میں معمولی بیماریوں کے لیے حرام اشیاء کا استعمال سخت گناہ ہے۔"
+              ],
+              "english": [
+                "Jurists state that in extreme emergencies where life is at risk, exceptions may exist.",
+                "This only applies if a qualified Muslim physician deems the Haram substance indispensable.",
+                "In normal circumstances, using forbidden items for minor illnesses is a major sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جدید ادویات اور الکحل",
+              "english": "Modern Medicine and Alcohol"
+            },
+            "content": {
+              "urdu": [
+                "موجودہ دور میں کئی ادویات میں الکحل بطور محلل (Solvent) استعمال ہوتا ہے۔",
+                "علماء کے مطابق اگر الکحل کی مقدار بہت کم ہو اور اس کا نشہ نہ ہو تو گنجائش ہے۔",
+                "مسلمانوں کو ہمیشہ حلال متبادل ادویات کو ترجیح دینی چاہیے تاکہ شبہات سے بچ سکیں۔"
+              ],
+              "english": [
+                "In modern times, alcohol is often used as a solvent in many liquid medicines.",
+                "Scholars allow it if the amount is trace and it does not cause any intoxication.",
+                "Muslims should prioritize Halal alternatives to avoid any doubts in their faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور اخلاقی اثرات",
+        "english": "Spiritual and Ethical Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایمان اور توکل",
+              "english": "Faith and Trust in Allah"
+            },
+            "content": {
+              "urdu": [
+                "حرام سے بچنا اللہ پر کامل بھروسے اور توکل کی علامت ہے۔",
+                "جو شخص اللہ کے ڈر سے حرام چھوڑتا ہے، اللہ اسے حلال سے شفاء عطا کرتا ہے۔",
+                "حرام کے استعمال سے دعا کی قبولیت میں رکاوٹ پیدا ہوتی ہے جو کہ بڑی محرومی ہے۔"
+              ],
+              "english": [
+                "Avoiding Haram is a sign of complete trust and reliance on Allah.",
+                "Whoever leaves something forbidden out of fear of Allah, He grants them Halal healing.",
+                "Consuming Haram creates barriers to the acceptance of supplications, a great loss."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پاکیزہ معاشرے کی بنیاد",
+              "english": "Foundation of a Pure Society"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر شعبہ زندگی بشمول طب میں پاکیزگی اور حلال و حرام کے فرق کو برقرار رکھتا ہے۔",
+                "جب معالج اور مریض دونوں حلال کے پابند ہوں تو معاشرے میں برکت آتی ہے۔",
+                "یہ حکم مسلمانوں کو تحقیق اور حلال ادویات کی تیاری کی طرف راغب کرتا ہے۔"
+              ],
+              "english": [
+                "Islam maintains purity and the distinction between Halal and Haram in all fields, including medicine.",
+                "Blessings prevail in society when both the doctor and the patient adhere to Halal.",
+                "This ruling encourages Muslims toward research and the production of Halal pharmaceuticals."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احتیاطی تدابیر",
+              "english": "Precautionary Measures"
+            },
+            "content": {
+              "urdu": [
+                "دوا خریدتے وقت اس کے اجزاء کی تحقیق کرنا ایک شعور یافتہ مسلمان کی ذمہ داری ہے۔",
+                "اگر کسی دوا میں حرام اجزاء کا شبہ ہو تو علماء سے مشورہ کرنا چاہیے۔",
+                "صحت کے لیے صرف مادی وسائل پر نہیں بلکہ اللہ کے حکم پر نظر رکھنی چاہیے۔"
+              ],
+              "english": [
+                "Investigating ingredients before buying medicine is the duty of an informed Muslim.",
+                "If a medicine is suspected to contain Haram components, one should consult scholars.",
+                "For health, one should look towards Allah's commands, not just material resources."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "متبادل کی تلاش",
+              "english": "Searching for Alternatives"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی تاریخ میں مسلمانوں نے ہمیشہ حلال جڑی بوٹیوں سے علاج کو فروغ دیا۔",
+                "آج کے دور میں بھی ہربل اور حلال فارمیسی ایک بہترین متبادل کے طور پر موجود ہے۔",
+                "حلال طریقے سے علاج کرنا سنتِ نبوی ﷺ پر عمل کرنے کے مترادف ہے۔"
+              ],
+              "english": [
+                "In Islamic history, Muslims always promoted healing through Halal herbs.",
+                "In the modern era, herbal and Halal pharmacy serve as excellent alternatives.",
+                "Seeking treatment through Halal means is equivalent to following the Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "hadithId": 964,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh/8/964",
+      "muslim/1450"
+    ],
+    "kitabId": 8,
+    "inKitabBab": 13,
+    "arabicBook": "كتاب الرضاع",
+    "babId": 76
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (1450) في كتاب الرضاع، باب في المصة والمصتان.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام مسلم نے اپنی صحیح (1450) میں کتاب الرضاع کے تحت روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1450) in the Book of Suckling."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تُحَرِّمُ",
+      "english": "Does not make unlawful",
+      "urdu": "حرام نہیں کرتا / حرمت ثابت نہیں کرتا"
+    },
+    {
+      "arabic": "اَلْمَصَّةُ",
+      "english": "One suck",
+      "urdu": "ایک دفعہ چوسنا"
+    },
+    {
+      "arabic": "الْمَصَّتَانِ",
+      "english": "Two sucks",
+      "urdu": "دو دفعہ چوسنا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے معلوم ہوتا ہے کہ رضاعت (دودھ پلانے) سے رشتہ تبھی حرام ہوتا ہے جب بچہ پیٹ بھر کر ایک خاص مقدار میں دودھ پی لے، صرف ایک یا دو بار چوسنے سے نکاح حرام نہیں ہوتا۔",
+    "english": "This Hadith establishes that a foster relationship (Rada'ah) which prohibits marriage is not formed by just one or two sucks; a greater amount is required."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1450)",
+      "english": "Reported by Muslim (1450)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر الصديق",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-POfk5_3s",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رضاعت کی حرمت کا تصور",
+        "english": "The Concept of Foster Relationship (Rada'ah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رضاعی رشتے کی اہمیت",
+              "english": "Significance of Foster Ties"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں جس طرح نسبی رشتوں سے نکاح حرام ہے، اسی طرح رضاعی (دودھ کے) رشتوں سے بھی حرام ہے۔",
+                "نبی ﷺ نے فرمایا: 'رضاعت سے بھی وہی رشتے حرام ہو جاتے ہیں جو نسب سے حرام ہوتے ہیں'۔",
+                "اس کا مقصد ان خواتین کا احترام ہے جنہوں نے بچپن میں کسی بچے کی پرورش میں حصہ لیا۔"
+              ],
+              "english": [
+                "In Islam, foster relationships (through breastfeeding) prohibit marriage just as blood relationships do.",
+                "The Prophet (ﷺ) said: 'Fosterage makes unlawful what consanguinity makes unlawful.'",
+                "This aims to respect women who contributed to a child's growth in infancy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حرمت کے لیے دودھ کی مقدار",
+              "english": "Amount Required for Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "صرف دودھ کو زبان لگانا یا ایک دو گھونٹ پی لینا حرمت کے لیے کافی نہیں ہے۔",
+                "اس حدیث سے واضح ہوتا ہے کہ حرمت کے لیے دودھ کی ایک معقول مقدار ضروری ہے۔",
+                "یہ حکم اس لیے ہے تاکہ محض شک یا معمولی اتفاق کی بنا پر حلال رشتوں میں تنگی پیدا نہ ہو۔"
+              ],
+              "english": [
+                "Merely tasting the milk or taking one or two sips is not enough to establish prohibition.",
+                "This Hadith clarifies that a substantial amount of milk is necessary for the ruling to apply.",
+                "This ensures that lawful relationships are not complicated by mere doubt or minor incidents."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب اور مقدارِ رضاعت",
+        "english": "Juristic Schools and the Required Amount"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف ائمہ کی آراء",
+              "english": "Views of Different Imams"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور امام احمد کے نزدیک پانچ بار پیٹ بھر کر دودھ پینا ضروری ہے۔",
+                "امام ابوحنیفہ اور امام مالک کے نزدیک ایک بار بھی پی لینے سے حرمت ثابت ہو جاتی ہے۔",
+                "سیدہ عائشہ کی یہ روایت شافعیہ اور حنابلہ کے موقف کی تائید کرتی ہے کہ کم مقدار معتبر نہیں۔"
+              ],
+              "english": [
+                "Imams Shafi'i and Ahmad state that five distinct full feedings are required.",
+                "Imams Abu Hanifa and Malik believe that even a single instance establishes prohibition.",
+                "This narration from Aishah (RA) supports the view that small amounts are insufficient."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حدیث کی تشریح",
+              "english": "Explanation of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "لفظ 'مصہ' سے مراد ایک بار چوسنا ہے، جو کہ پیٹ بھر کر پینے کے برابر نہیں ہوتا۔",
+                "نبی ﷺ نے ان معمولی مقداروں کی نفی فرما کر واضح کر دیا کہ معاملہ پیٹ بھرنے سے جڑا ہے۔",
+                "مقصد یہ ہے کہ رضاعت سے بچے کی ہڈیاں اور گوشت بننے میں اثر پڑا ہو۔"
+              ],
+              "english": [
+                "The word 'Massah' refers to a single suck, which does not equate to a full feeding.",
+                "The Prophet (ﷺ) denied prohibition for such small amounts, linking the ruling to nourishment.",
+                "The goal is for the milk to contribute to the child's physical growth (bones and flesh)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رضاعت کی عمر اور شرائط",
+        "english": "Age and Conditions of Suckling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رضاعت کی مدت",
+              "english": "Period of Suckling"
+            },
+            "content": {
+              "urdu": [
+                "جمہور کے نزدیک رضاعت کی حرمت صرف دو سال کے اندر پینے سے ثابت ہوتی ہے۔",
+                "بڑے ہونے کے بعد دودھ پینے سے (عام حالات میں) حرمت ثابت نہیں ہوتی۔",
+                "قرآن کے مطابق دودھ چھڑانے کی مدت دو سال مکمل کرنا ہے۔"
+              ],
+              "english": [
+                "Majority hold that foster ties are only established during the first two years of life.",
+                "Suckling after weaning age (in normal cases) does not establish prohibition.",
+                "According to the Quran, the period of suckling is two complete years."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ثبوت کی اہمیت",
+              "english": "Importance of Evidence"
+            },
+            "content": {
+              "urdu": [
+                "رضاعی رشتہ ثابت کرنے کے لیے ٹھوس گواہی یا ماں کا پختہ اقرار ضروری ہے۔",
+                "شک کی بنیاد پر نکاح فسخ نہیں کیا جا سکتا کیونکہ نکاح ایک یقینی عقد ہے۔",
+                "احتیاط کا تقاضا ہے کہ ایسے معاملے میں اہل علم سے تفصیلی فتویٰ لیا جائے۔"
+              ],
+              "english": [
+                "Solid testimony or a firm confession from the mother is needed to prove fosterage.",
+                "Marriage cannot be annulled based on doubt because the contract is established with certainty.",
+                "Precaution demands seeking a detailed Fatwa from scholars in such cases."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور سماجی پہلو",
+        "english": "Educational and Social Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سماجی رشتوں کا تقدس",
+              "english": "Sanctity of Social Bonds"
+            },
+            "content": {
+              "urdu": [
+                "رضاعت کا قانون معاشرے میں خواتین کو 'ماں' کا درجہ دے کر احترام سکھاتا ہے۔",
+                "یہ نظام مختلف خاندانوں کو آپس میں جوڑنے کا ایک خوبصورت ذریعہ ہے۔",
+                "دینِ اسلام ہر رشتے کے حقوق اور حدود کی حفاظت کرتا ہے۔"
+              ],
+              "english": [
+                "The law of Rada'ah teaches respect by granting women the status of 'mother'.",
+                "This system is a beautiful way of uniting different families through fosterage.",
+                "Islam protects the rights and boundaries of every type of relationship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "معمولی رضاعت کو معاف کرنا شریعت کی وسعت اور آسانی کی دلیل ہے۔",
+                "اگر ہر قطرے پر حرمت ہوتی تو زندگی بہت زیادہ پیچیدہ ہو جاتی۔",
+                "اسلامی احکامات انسانی ضرورت اور معاشرتی امن کے ضامن ہیں۔"
+              ],
+              "english": [
+                "Ignoring minor suckling is proof of Shariah's vastness and ease.",
+                "If every drop established prohibition, life would become exceedingly complex.",
+                "Islamic rulings are guarantors of human needs and social peace."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

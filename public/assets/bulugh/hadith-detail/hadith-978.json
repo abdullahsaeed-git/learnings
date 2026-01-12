@@ -1,0 +1,259 @@
+{
+  "hadithId": 978,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1138"],
+    "kitabId": 8,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 77
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (2142)‏، وابن ماجه (1850)‏، وأحمد (4/447)‏، وابن حبان (4175).‏ وصححه الألباني.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (2142)، ابن ماجہ (1850) اور احمد نے روایت کیا ہے۔ امام ابن حبان نے اسے صحیح قرار دیا اور علامہ البانی نے بھی اس کی تصدیق کی ہے۔",
+    "english": "Sahih (Authentic). Reported by Abu Dawud (2142), Ibn Majah (1850), and Ahmad. It was authenticated by Ibn Hibban and Al-Albani."
+  },
+  "importantWords": [
+    {
+      "arabic": "حَقُّ",
+      "english": "Right / Obligation",
+      "urdu": "حق / ذمہ داری"
+    },
+    {
+      "arabic": "تُطْعِمَهَا",
+      "english": "Feed her",
+      "urdu": "کھانا کھلاؤ"
+    },
+    {
+      "arabic": "تَكْسُوَهَا",
+      "english": "Clothe her",
+      "urdu": "لباس پہناؤ"
+    },
+    {
+      "arabic": "تَضْرِبِ",
+      "english": "Strike / Hit",
+      "urdu": "مارنا"
+    },
+    {
+      "arabic": "تُقَبِّحْ",
+      "english": "Revile / Use foul language",
+      "urdu": "برا بھلا کہنا / گالی دینا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں بیوی کے بنیادی حقوق (خوراک، لباس اور حسنِ سلوک) بیان کیے گئے ہیں اور اسے جسمانی یا لسانی تشدد کا نشانہ بنانے سے سختی سے منع کیا گیا ہے۔",
+    "english": "This Hadith outlines the fundamental rights of a wife (maintenance and kind treatment) and strictly prohibits physical or verbal abuse against her."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2142)",
+      "english": "Reported by Abu Dawud (2142)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (1850)",
+      "english": "Reported by Ibn Majah (1850)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معاوية بن حيدة القشيري",
+        "english": "Mu'awiya bin Haidah al-Qushairi"
+      },
+      "slug": "muawiya-bin-haidah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2uFp18E7t8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مالی اور جسمانی حقوق",
+        "english": "Financial and Physical Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفقہ میں برابری",
+              "english": "Equality in Maintenance"
+            },
+            "content": {
+              "urdu": [
+                "شوہر پر واجب ہے کہ وہ اپنی استطاعت کے مطابق بیوی کے کھانے اور لباس کا انتظام کرے۔",
+                "نبی ﷺ نے فرمایا کہ جو معیار تم اپنے لیے رکھتے ہو وہی بیوی کے لیے بھی اپناؤ۔",
+                "اس سے بیوی کی تذلیل کا خاتمہ ہوتا ہے اور اسے گھر میں باعزت مقام ملتا ہے۔"
+              ],
+              "english": [
+                "It is obligatory for the husband to provide food and clothing according to his means.",
+                "The Prophet (ﷺ) instructed that the same standard used for oneself should apply to the wife.",
+                "This prevents the humiliation of the wife and grants her an honorable status in the home."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "چہرے پر مارنے کی ممانعت",
+              "english": "Prohibition of Striking the Face"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے چہرے کی حرمت بیان کرتے ہوئے وہاں مارنے سے سختی سے منع کیا ہے۔",
+                "چہرہ انسانی وقار اور شناخت کا مرکز ہے، اس پر چوٹ پہنچانا انسانیت کی توہین ہے۔",
+                "کسی بھی قسم کا تشدد جو نشان چھوڑے یا تکلیف دہ ہو، شرعی طور پر ناپسندیدہ ہے۔"
+              ],
+              "english": [
+                "Islam emphasizes the sanctity of the face and strictly forbids striking it.",
+                "The face is the center of human dignity; harming it is an insult to humanity.",
+                "Any form of violence that leaves marks or causes severe pain is Sharia-prohibited."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اور لسانی حقوق",
+        "english": "Ethical and Verbal Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بدزبانی سے اجتناب",
+              "english": "Avoidance of Reviling"
+            },
+            "content": {
+              "urdu": [
+                "بیوی کو 'قبیح' کہنا یا اسے بددعا دینا ایک مومن شوہر کے شایانِ شان نہیں ہے۔",
+                "زبان کا تشدد اکثر جسمانی زخموں سے زیادہ گہرا اور دیرپا اثر رکھتا ہے۔",
+                "خوشگوار ازدواجی زندگی کی بنیاد میٹھے بول اور باہمی احترام پر قائم ہے۔"
+              ],
+              "english": [
+                "Calling a wife 'ugly' or invoking curses upon her is beneath a believing husband.",
+                "Verbal abuse often has a deeper and more lasting impact than physical wounds.",
+                "A happy marital life is built on kind words and mutual respect."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ناراضگی کا درست طریقہ",
+              "english": "Correct Method of Disagreement"
+            },
+            "content": {
+              "urdu": [
+                "اختلاف کی صورت میں گھر سے باہر بائیکاٹ کرنے یا ذلیل کرنے کی اجازت نہیں ہے۔",
+                "اصلاح کا مقصد بیوی کی شخصیت کو تباہ کرنا نہیں بلکہ اسے سنوارنا ہونا چاہیے۔",
+                "اسلامی معاشرت میں گھریلو معاملات کو پردے میں رکھنے کی تاکید کی گئی ہے۔"
+              ],
+              "english": [
+                "In case of disagreement, boycotting outside the house or public shaming is not allowed.",
+                "The goal of correction should be to reform the wife's character, not destroy her persona.",
+                "Islamic social norms emphasize keeping domestic matters private."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی توازن",
+        "english": "Social Balance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خواتین کا تحفظ",
+              "english": "Protection of Women"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث دورِ جاہلیت کے ان مظالم کا خاتمہ کرتی ہے جہاں عورت کو بوجھ سمجھا جاتا تھا۔",
+                "بیوی کے حقوق کو اللہ کے نبی ﷺ نے اپنے خطبات میں بارہا بیان فرمایا۔",
+                "خواتین کے حقوق کا تحفظ اسلامی ریاست اور معاشرے کی اولین ترجیح ہے۔"
+              ],
+              "english": [
+                "This Hadith ends the atrocities of the pre-Islamic era where women were seen as burdens.",
+                "The rights of wives were repeatedly emphasized by the Prophet (ﷺ) in his sermons.",
+                "Protecting women's rights is a top priority for an Islamic state and society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خاندان کا استحکام",
+              "english": "Stability of the Family"
+            },
+            "content": {
+              "urdu": [
+                "جب شوہر ان حقوق کی ادائیگی کرتا ہے تو خاندانی نظام مضبوط ہوتا ہے۔",
+                "محبت اور رحم دلی ہی وہ ستون ہیں جن پر مضبوط نسلوں کی آبیاری ہوتی ہے۔",
+                "حقوق و فرائض کی پہچان ہی ازدواجی تنازعات کا بہترین حل ہے۔"
+              ],
+              "english": [
+                "When a husband fulfills these rights, the family structure becomes strong.",
+                "Love and mercy are the pillars upon which strong generations are nurtured.",
+                "Awareness of rights and duties is the best solution for marital conflicts."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت",
+        "english": "Practical Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہترین شخص کون؟",
+              "english": "Who is the Best Person?"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ تم میں سب سے بہتر وہ ہے جو اپنے گھر والوں کے لیے بہتر ہو۔",
+                "گھر میں نرم مزاجی اختیار کرنا سنتِ نبوی کا اہم حصہ ہے۔",
+                "شوہر کا اخلاق اس کی دینداری کا حقیقی پیمانہ ہوتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) said the best among you is the one best to his family.",
+                "Adopting a gentle temperament at home is a significant part of the Prophetic Sunnah.",
+                "A husband's character is the true measure of his religiosity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق کی ادائیگی کی فکر",
+              "english": "Concern for Fulfilling Rights"
+            },
+            "content": {
+              "urdu": [
+                "قیامت کے دن شوہر سے اس کی ذمہ داریوں کے بارے میں سوال ہوگا۔",
+                "اپنی استطاعت کے مطابق بہترین نفقہ فراہم کرنا صدقہ و خیرات سے بہتر ہے۔",
+                "گھریلو زندگی میں صبر اور درگزر سے کام لینا اجرِ عظیم کا باعث ہے۔"
+              ],
+              "english": [
+                "On the Day of Judgment, husbands will be questioned about their responsibilities.",
+                "Providing the best maintenance within one's means is better than voluntary charity.",
+                "Practicing patience and forgiveness in domestic life leads to great rewards."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

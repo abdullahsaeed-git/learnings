@@ -1,0 +1,267 @@
+{
+  "hadithId": 476,
+  "hadithNo": 52,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/52", "bukhari/1292", "muslim/927"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1292) ومسلم (927). وأما حديث المغيرة فرواه البخاري (1291) ومسلم (933) بلفظ: 'من نيح عليه فإنه يعذب بما نيح عليه يوم القيامة'.",
+    "urdu": "صحیح۔ اسے امام بخاری (1292) اور امام مسلم (927) نے روایت کیا ہے۔ مغیرہ بن شعبہ کی روایت بخاری (1291) اور مسلم (933) میں ان الفاظ کے ساتھ ہے: 'جس پر نوحہ کیا جائے اسے قیامت کے دن عذاب دیا جائے گا۔'",
+    "english": "Sahih. Reported by Al-Bukhari (1292) and Muslim (927). The narration of Al-Mughirah is in Bukhari (1291) and Muslim (933) with the wording: 'Whoever is wailed over will be punished because of that wailing on the Day of Resurrection.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "يُعَذَّبُ",
+      "english": "Is punished",
+      "urdu": "عذاب دیا جاتا ہے"
+    },
+    {
+      "arabic": "قَبْرِهِ",
+      "english": "His grave",
+      "urdu": "اس کی قبر"
+    },
+    {
+      "arabic": "نِيحَ",
+      "english": "Wailed over",
+      "urdu": "نوحہ کیا گیا"
+    },
+    {
+      "arabic": "بِمَا",
+      "english": "Because of",
+      "urdu": "اس کی وجہ سے"
+    },
+    {
+      "arabic": "نِيَاحَة",
+      "english": "Loud wailing",
+      "urdu": "نوحہ و بین"
+    }
+  ],
+  "summary": {
+    "urdu": "میت پر بین کرنا اور اونچی آواز میں رونا (نوحہ) میت کے لیے قبر میں اذیت اور عذاب کا باعث بنتا ہے، لہذا اس جاہلانہ عمل سے بچنا واجب ہے۔",
+    "english": "Wailing and loud lamenting over the deceased cause distress and punishment for them in the grave; hence, this practice must be avoided."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الجنائز، رقم 1292",
+      "english": "Sahih al-Bukhari, Book of Funerals, Hadith 1292"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 927",
+      "english": "Sahih Muslim, Book of Funerals, Hadith 927"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "المغيرة بن شعبة",
+        "english": "Al-Mughirah bin Shu'bah"
+      },
+      "slug": "al-mughirah-bin-shubah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S8pB6N_x0jE",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عذاب کی نوعیت اور توجیہ",
+        "english": "Nature and Interpretation of Punishment"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میت کو اذیت ہونا",
+              "english": "Distress to the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "علماء کے مطابق یہاں 'عذاب' سے مراد وہ اذیت اور دکھ ہے جو میت کو اپنوں کے نوحہ کرنے سے پہنچتا ہے۔",
+                "میت اپنے گھر والوں کی بے صبری اور چیخ و پکار سن کر قبر میں بے چین اور غمزدہ ہوتی ہے۔",
+                "یہ عذاب جسمانی سزا کے بجائے ایک روحانی تکلیف اور بوجھ کی صورت میں ہوتا ہے۔"
+              ],
+              "english": [
+                "According to scholars, 'punishment' here refers to the pain and sorrow the deceased feels due to the family's wailing.",
+                "The deceased becomes restless and grieved in the grave upon hearing the family's loud lamentations.",
+                "This punishment manifests as a spiritual distress and burden rather than a physical penalty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وصیت اور عمل کا تعلق",
+              "english": "Connection to Wills and Actions"
+            },
+            "content": {
+              "urdu": [
+                "اگر میت نے زندگی میں نوحہ کرنے کی وصیت کی ہو یا اسے اپنا فخر سمجھا ہو، تو اس پر حقیقی عذاب ہوتا ہے۔",
+                "قرآن کے اصول 'کوئی بوجھ اٹھانے والا دوسرے کا بوجھ نہیں اٹھائے گا' کے تحت میت صرف اپنے ارادے پر جوابدہ ہے۔",
+                "جس نے نوحہ سے منع کیا اور پھر اس کے پیچھے ایسا ہوا، وہ اس عذاب کی وعید سے ان شاء اللہ محفوظ ہے۔"
+              ],
+              "english": [
+                "If the deceased requested wailing in their will or considered it a source of pride, they face actual punishment.",
+                "Under the Quranic principle 'No bearer of burdens shall bear another's burden,' the deceased is only accountable for their intent.",
+                "One who forbade wailing during their life but was wailed over anyway is preserved from this warning, Insha'Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نوحہ کی ممانعت اور سنت",
+        "english": "Prohibition of Wailing and the Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جاہلیت کے بین کی ممانعت",
+              "english": "Prohibition of Jahiliyyah Lamenting"
+            },
+            "content": {
+              "urdu": [
+                "نوحہ کرنا زمانہ جاہلیت کی ان چار بری باتوں میں سے ہے جنہیں اسلام نے سختی سے ناپسند کیا ہے۔",
+                "اس میں تقدیر پر اعتراض، کپڑے پھاڑنا اور اپنی قسمت کو کوسنا شامل ہے جو کہ ایمان کے منافی ہے۔",
+                "آپ ﷺ نے فرمایا کہ جو سینہ کوبی کرے اور جاہلیت کے نعرے لگائے وہ ہم میں سے نہیں ہے۔"
+              ],
+              "english": [
+                "Wailing is among the four customs of the Pre-Islamic era that Islam strongly disapproved of.",
+                "It includes questioning destiny, tearing clothes, and cursing one's fate, all of which contradict faith.",
+                "The Prophet (ﷺ) stated that whoever strikes their cheeks and cries out with Jahiliyyah slogans is not of us."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جائز اور مسنون رونا",
+              "english": "Permissible and Sunnah Crying"
+            },
+            "content": {
+              "urdu": [
+                "آنکھوں سے آنسو بہنا اور دل کا غمزدہ ہونا ایک فطری عمل ہے جو اللہ کی رحمت کی علامت ہے۔",
+                "آپ ﷺ خود اپنے صاحبزادے ابراہیم اور صحابہ کی وفات پر روئے لیکن زبان سے کلمہِ حق ہی ادا کیا۔",
+                "صبر کا مطلب دل کے غم کو دبانا نہیں بلکہ زبان اور عمل کو شرعی حدود میں رکھنا ہے۔"
+              ],
+              "english": [
+                "Shedding tears and feeling sorrow in the heart is a natural process and a sign of Allah's mercy.",
+                "The Prophet (ﷺ) himself wept at the death of his son Ibrahim and companions, but only spoke words of truth.",
+                "Patience does not mean suppressing heart-felt grief, but keeping speech and actions within Sharia limits."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اہلِ خانہ کی ذمہ داری",
+        "english": "Responsibility of the Family"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میت کے لیے خیر خواہی",
+              "english": "Well-wishing for the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "اگر ہم اپنے پیاروں سے سچی محبت کرتے ہیں تو ہمیں انہیں قبر میں اذیت دینے والے کاموں سے بچنا چاہیے۔",
+                "میت کی طرف سے بہترین ہدیہ صبر، استغفار اور ان کے لیے صدقہ و خیرات کرنا ہے۔",
+                "نوحہ کرنے سے نہ تو میت واپس آتی ہے اور نہ ہی لواحقین کو سکون ملتا ہے بلکہ گناہ بڑھتا ہے۔"
+              ],
+              "english": [
+                "If we truly love our relatives, we must avoid actions that cause them distress in the grave.",
+                "The best gifts for the deceased are patience, seeking forgiveness, and giving charity on their behalf.",
+                "Wailing neither brings the deceased back nor provides peace to the family; it only increases sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعلیم اور وصیت کرنا",
+              "english": "Teaching and Making a Will"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو چاہیے کہ وہ اپنی زندگی میں اپنے اہل و عیال کو شرعی احکامات کی تعلیم دے۔",
+                "وفات سے پہلے یہ وصیت کرنا مستحب ہے کہ میرے جنازے اور تدفین میں کوئی غیر شرعی کام نہ ہو۔",
+                "یہ وصیت نہ صرف میت کو بری الذمہ کرتی ہے بلکہ پسماندگان کے لیے بھی ایک شرعی گائیڈ لائن بنتی ہے۔"
+              ],
+              "english": [
+                "Every Muslim should educate their family members about Islamic rulings during their lifetime.",
+                "It is recommended to leave a will stating that no un-Islamic acts should occur during the funeral rites.",
+                "Such a will not only clears the deceased of blame but also serves as a religious guideline for the survivors."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور تربیت",
+        "english": "Practical Lesson and Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایمان بالقدر پر پختگی",
+              "english": "Firmness in Belief in Destiny"
+            },
+            "content": {
+              "urdu": [
+                "موت کی گھڑی میں صبر کرنا اللہ کی تقدیر پر مکمل ایمان اور رضا کا امتحان ہوتا ہے۔",
+                "ہمیں 'اناللہ وانا الیہ راجعون' کا ورد کثرت سے کرنا چاہیے تاکہ دل کو سکون ملے۔",
+                "اللہ کی رضا پر راضی رہنے والے ہی وہ لوگ ہیں جن کے لیے انعامات کا وعدہ کیا گیا ہے۔"
+              ],
+              "english": [
+                "Remaining patient at the moment of death is a test of one's complete faith and satisfaction with destiny.",
+                "We should frequently recite 'To Allah we belong and to Him we return' to find tranquility of heart.",
+                "Those who remain content with Allah's decree are the ones for whom great rewards are promised."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی اصلاح",
+              "english": "Social Reform"
+            },
+            "content": {
+              "urdu": [
+                "جنازوں میں مروجہ بدعات اور چیخ و پکار کی رسموں کو ختم کرنا ہم سب کی اخلاقی ذمہ داری ہے۔",
+                "دین کی صحیح سمجھ ہی انسان کو جاہلانہ رسوم کے بوجھ سے آزاد کروا سکتی ہے۔",
+                "سنتِ نبوی کو عام کرنا ہی میت اور معاشرے دونوں کی حقیقی بھلائی کا راستہ ہے۔"
+              ],
+              "english": [
+                "It is our moral duty to eliminate prevalent innovations and wailing rituals during funerals.",
+                "A correct understanding of religion can liberate a person from the burden of ignorant customs.",
+                "Spreading the Prophetic Sunnah is the only path to the true welfare of both the dead and society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

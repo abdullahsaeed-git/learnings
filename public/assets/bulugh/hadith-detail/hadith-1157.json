@@ -1,0 +1,269 @@
+{
+  "hadithId": 1157,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/34"],
+    "kitabId": 12,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الأطعمة",
+    "babId": 93
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1955)، والترمذي (1409)، وأبو داود (2815)، والنسائي (4405)، وابن ماجه (3170).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (1955) نے اسے روایت کیا ہے۔ یہ حدیث اسلام کے جامع ضابطہ اخلاق 'احسان' کی بنیاد ہے۔",
+    "english": "Sahih. Reported by Muslim (1955), At-Tirmidhi (1409), Abu Dawud (2815), An-Nasa'i (4405), and Ibn Majah (3170)."
+  },
+  "importantWords": [
+    {
+      "arabic": "كَتَبَ",
+      "english": "Prescribed / Ordained",
+      "urdu": "فرض کیا / لازم کیا"
+    },
+    {
+      "arabic": "اَلْإِحْسَانَ",
+      "english": "Goodness / Excellence",
+      "urdu": "نیکی / حسنِ سلوک"
+    },
+    {
+      "arabic": "اَلْقِتْلَةَ",
+      "english": "Manner of killing",
+      "urdu": "قتل کرنے کا طریقہ"
+    },
+    {
+      "arabic": "اَلذِّبْحَةَ",
+      "english": "Manner of slaughtering",
+      "urdu": "ذبح کرنے کا طریقہ"
+    },
+    {
+      "arabic": "يُحِدَّ",
+      "english": "Sharpen",
+      "urdu": "تیز کرے"
+    },
+    {
+      "arabic": "شَفْرَتَهُ",
+      "english": "His blade / knife",
+      "urdu": "اپنی چھری"
+    },
+    {
+      "arabic": "لْيُرِحْ",
+      "english": "Give comfort",
+      "urdu": "آرام پہنچائے"
+    }
+  ],
+  "summary": {
+    "urdu": "اسلام ہر معاملے میں رحم اور عمدگی کا حکم دیتا ہے، یہاں تک کہ جانور کو ذبح کرتے وقت بھی اسے کم سے کم تکلیف دینے کی تاکید کی گئی ہے۔",
+    "english": "Islam commands excellence and mercy in everything, emphasizing that even when slaughtering animals, one must ensure they suffer the least pain possible."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1955)",
+      "english": "Sahih Muslim (1955)"
+    },
+    {
+      "arabic": "سنن الترمذي (1409)",
+      "english": "Sunan at-Tirmidhi (1409)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "شداد بن أوس",
+        "english": "Shaddad bin Aws"
+      },
+      "slug": "shaddad-bin-aws"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=3-EwLg8X2Xw",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "احسان کا جامع تصور",
+        "english": "Comprehensive Concept of Ihsan"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ہر شے پر احسان",
+              "english": "Excellence in Everything"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے زندگی کے ہر شعبے میں کام کو بہترین طریقے سے کرنے کا حکم دیا ہے۔",
+                "احسان کا مطلب صرف نیکی نہیں بلکہ کسی بھی کام کو اس کی تمام شرائط کے ساتھ نبھانا ہے۔",
+                "عبادات ہوں یا معاملات، ایک مسلمان کا ہر عمل 'احسان' کا عکاس ہونا چاہیے۔"
+              ],
+              "english": [
+                "Allah has commanded that every task in life be performed in the best possible manner.",
+                "Ihsan does not just mean kindness, but fulfilling any duty with all its requirements.",
+                "Whether in worship or daily dealings, a Muslim's every action should reflect excellence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قتل اور قصاص میں نرمی",
+              "english": "Mercy in Killing and Retribution"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی شرعی ضرورت (جیسے قصاص) کے تحت قتل کرنا پڑے تو اسے بھی احسن طریقے سے کیا جائے۔",
+                "مقتول کو تڑپانا، اس کے اعضاء کاٹنا یا اسے غیر ضروری تکلیف دینا اسلام میں ممنوع ہے۔",
+                "اسلامی جنگی قوانین میں بھی دشمن کے ساتھ انسانیت سوز سلوک کی ممانعت موجود ہے۔"
+              ],
+              "english": [
+                "If killing is necessary under Shariah (like retribution), it must be done mercifully.",
+                "Torturing the victim, mutilating limbs, or causing unnecessary pain is forbidden in Islam.",
+                "Islamic laws of war also prohibit inhumane treatment of enemies and prisoners."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ذبح کے اسلامی آداب",
+        "english": "Islamic Etiquettes of Slaughter"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چھری تیز کرنا",
+              "english": "Sharpening the Blade"
+            },
+            "content": {
+              "urdu": [
+                "جانور کے سامنے چھری تیز کرنا مکروہ ہے کیونکہ یہ اسے ذہنی اذیت دینے کے مترادف ہے۔",
+                "چھری اتنی تیز ہونی چاہیے کہ رگیں فوراً کٹ جائیں اور جانور تڑپے نہیں۔",
+                "آلے کی تیزی جانور پر رحم کی ایک عملی صورت ہے جسے آپ ﷺ نے فرض قرار دیا۔"
+              ],
+              "english": [
+                "Sharpening the knife in front of the animal is disliked as it causes mental distress.",
+                "The blade must be sharp enough to cut the veins instantly to prevent prolonged agony.",
+                "The sharpness of the tool is a practical form of mercy mandated by the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذبیحہ کو آرام پہنچانا",
+              "english": "Comforting the Animal"
+            },
+            "content": {
+              "urdu": [
+                "ذبح کے وقت جانور کو آرام دہ حالت میں لٹانا اور اس کی گردن کو سہولت دینا سنت ہے۔",
+                "ایک جانور کو دوسرے جانور کے سامنے ذبح کرنا بھی اسلامی تعلیمات کے خلاف ہے۔",
+                "ذبح کے فوراً بعد جب تک روح نہ نکل جائے، کھال اتارنا یا اعضاء کاٹنا منع ہے۔"
+              ],
+              "english": [
+                "Laying the animal in a comfortable position and handling it gently is a Sunnah.",
+                "Slaughtering one animal in the view of another is against Islamic teachings of mercy.",
+                "Mutilating or skinning the animal before the soul has fully left is strictly prohibited."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و اخلاقی حکمت",
+        "english": "Juristic and Ethical Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رحمتِ عالم ﷺ کی تعلیم",
+              "english": "Teachings of the Mercy to the Worlds"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ثابت کرتی ہے کہ اسلام صرف انسانوں کے لیے نہیں بلکہ جانوروں کے لیے بھی رحمت ہے۔",
+                "ایک مسلمان کا دل بے زبان مخلوق کے لیے بھی نرم اور ہمدرد ہونا چاہیے۔",
+                "بے رحمی اور سنگدلی مومن کی صفات میں سے ہرگز نہیں ہو سکتیں۔"
+              ],
+              "english": [
+                "This Hadith proves that Islam is a mercy not just for humans but for animals too.",
+                "A Muslim's heart should be soft and compassionate even toward speechless creatures.",
+                "Cruelty and hardheartedness can never be the attributes of a true believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طبی اور سائنسی پہلو",
+              "english": "Medical and Scientific Aspect"
+            },
+            "content": {
+              "urdu": [
+                "تیز آلے سے ذبح کرنے سے جانور کا فشارِ خون کم ہوتا ہے اور وہ جلد بے ہوش ہو جاتا ہے۔",
+                "درد کا احساس کم ہونے سے گوشت کی کوالٹی پر بھی مثبت اثرات مرتب ہوتے ہیں۔",
+                "اسلامی طریقہ ذبح سائنسی لحاظ سے بھی جانور کے لیے سب سے کم تکلیف دہ ہے۔"
+              ],
+              "english": [
+                "Slaughtering with a sharp tool drops the blood pressure and induces quick unconsciousness.",
+                "Minimizing pain perception also has a positive impact on the overall quality of the meat.",
+                "The Islamic method of slaughter is scientifically one of the least painful for the animal."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پیشہ ورانہ مہارت",
+              "english": "Professional Proficiency"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں اپنے ہر کام میں مہارت اور نفاست پیدا کرنے کی ترغیب دیتی ہے۔",
+                "ادھورے دل سے کام کرنا یا لاپرواہی برتنا 'احسان' کے تصور کے منافی ہے۔",
+                "ہمیں اللہ کی رضا کے لیے اپنے ہر چھوٹے بڑے کام کو مثالی بنانا چاہیے۔"
+              ],
+              "english": [
+                "This Hadith encourages us to develop proficiency and refinement in all our tasks.",
+                "Working half-heartedly or showing negligence contradicts the very core of Ihsan.",
+                "We must strive to make every small or large deed exemplary for the sake of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مخلوقِ خدا کی خدمت",
+              "english": "Serving God's Creation"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص اللہ کی مخلوق پر رحم کرتا ہے، اللہ اس پر رحم فرماتا ہے۔",
+                "اسلامی معاشرے کی بنیاد ہی عدل، احسان اور ہمدردی پر استوار ہے۔",
+                "دوسروں کو دکھ نہ پہنچانا اور ان کے لیے آسانی پیدا کرنا سب سے بڑی نیکی ہے۔"
+              ],
+              "english": [
+                "The one who shows mercy to Allah's creation, Allah shows mercy to him.",
+                "The foundation of an Islamic society is built on justice, excellence, and sympathy.",
+                "Avoiding causing pain to others and creating ease for them is a supreme good deed."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

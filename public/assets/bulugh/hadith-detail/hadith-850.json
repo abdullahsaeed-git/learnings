@@ -1,0 +1,259 @@
+{
+  "hadithId": 850,
+  "hadithNo": 27,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/27"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (1/250)، وأبو داود (2085)، وابن حبان (4075)، والحاكم (2/170). وله شواهد من حديث أبي موسى وعائشة.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابو داؤد، ابن حبان اور حاکم نے روایت کیا ہے۔ اس کی تائید ابو موسیٰ اشعری اور سیدہ عائشہ رضی اللہ عنہا کی احادیث سے بھی ہوتی ہے۔",
+    "english": "Sahih. Reported by Ahmad (1/250), Abu Dawud (2085), Ibn Hibban (4075), and Al-Hakim (2/170). It has supporting evidences from the Hadiths of Abu Musa and 'Aisha."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا نِكَاحَ",
+      "english": "No marriage (is valid)",
+      "urdu": "کوئی نکاح (صحیح) نہیں"
+    },
+    {
+      "arabic": "إِلَّا",
+      "english": "Except",
+      "urdu": "بجز / سوائے"
+    },
+    {
+      "arabic": "بِوَلِيٍّ",
+      "english": "With a guardian",
+      "urdu": "ولی کے ساتھ"
+    },
+    {
+      "arabic": "صَحَّحَهُ",
+      "english": "Authenticated it",
+      "urdu": "اسے صحیح قرار دیا"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Narrated it",
+      "urdu": "اسے روایت کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "نکاح کی صحت کے لیے ولی (سرپرست) کی موجودگی اور اس کی اجازت ایک لازمی شرط ہے، جس کے بغیر نکاح شرعی طور پر معتبر نہیں مانا جاتا۔",
+    "english": "The presence and consent of a guardian (Wali) is a mandatory condition for the validity of a marriage in Islamic law."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب النكاح، رقم الحديث ٢٠٨٥",
+      "english": "Sunan Abi Dawud, Book of Marriage, Hadith No. 2085"
+    },
+    {
+      "arabic": "صحيح ابن حبان، كتاب النكاح، رقم الحديث ٤٠٧٥",
+      "english": "Sahih Ibn Hibban, Book of Marriage, Hadith No. 4075"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Qf8vB7s4M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نکاح میں ولی کی اہمیت",
+        "english": "Significance of Wali in Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ولی نکاح کا رکن ہے",
+              "english": "Wali as a Pillar of Marriage"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک ولی کی شرکت کے بغیر نکاح کا عقد سرے سے منعقد ہی نہیں ہوتا۔",
+                "یہ شرط نکاح کو ایک باقاعدہ سماجی اور قانونی معاہدے کی حیثیت عطا کرتی ہے۔",
+                "نبی ﷺ کے الفاظ 'لا نکاح' اس عمل کی قطعی ممانعت پر دلالت کرتے ہیں۔"
+              ],
+              "english": [
+                "According to most jurists, a marriage contract is fundamentally invalid without a Wali.",
+                "This condition elevates marriage to a formal social and legal agreement.",
+                "The Prophet's (ﷺ) words 'No marriage' indicate the absolute necessity of this rule."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عورت کا تحفظ",
+              "english": "Protection of the Woman"
+            },
+            "content": {
+              "urdu": [
+                "ولی کی شرط کا مقصد عورت کو جذباتی فیصلوں اور دھوکہ دہی سے بچانا ہے۔",
+                "سرپرست کی موجودگی اس بات کو یقینی بناتی ہے کہ نکاح معزز طریقے سے ہو۔",
+                "اسلام نے خاندان کے مردوں کو اپنی خواتین کا محافظ اور خیر خواہ بنایا ہے۔"
+              ],
+              "english": [
+                "The requirement of a Wali aims to protect women from impulsive decisions and fraud.",
+                "The guardian's presence ensures that the marriage is conducted with dignity.",
+                "Islam has designated male family members as protectors and well-wishers for women."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام اور ولی کی ترتیب",
+        "english": "Juristic Rules and Order of Guardians"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ولی کون ہو سکتا ہے؟",
+              "english": "Who Can Be a Wali?"
+            },
+            "content": {
+              "urdu": [
+                "ولی کے لیے عاقل، بالغ اور مسلمان ہونا پہلی بنیادی شرط ہے۔",
+                "ترتیب میں سب سے پہلے باپ، پھر دادا، پھر بیٹا اور پھر بھائی کا حق ہے۔",
+                "اگر کوئی قریبی ولی موجود نہ ہو تو حاکمِ وقت ولی کا کردار ادا کرتا ہے۔"
+              ],
+              "english": [
+                "A Wali must be sane, an adult, and a Muslim as primary requirements.",
+                "The order of priority is the father, then grandfather, then son, and then brother.",
+                "If no close relative is available, the ruler or judge assumes the role of Wali."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ولی کی ذمہ داری",
+              "english": "Responsibility of the Wali"
+            },
+            "content": {
+              "urdu": [
+                "ولی کا فرض ہے کہ وہ لڑکی کے لیے بہترین رشتہ تلاش کرے اور اس کی رائے لے۔",
+                "بلاوجہ نکاح میں رکاوٹ ڈالنا (عضل) گناہ ہے اور لڑکی کے حقوق کی خلاف ورزی ہے۔",
+                "ولی کو لڑکی کا وکیل اور مددگار ہونا چاہیے، نہ کہ اس کی زندگی کا ڈکٹیٹر۔"
+              ],
+              "english": [
+                "The Wali is duty-bound to find the best match and consult the woman's opinion.",
+                "Unjustly obstructing a marriage (Adhl) is a sin and a violation of her rights.",
+                "The Wali should act as her advocate and helper, not as a dictator over her life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خفیہ نکاح کا سدِ باب",
+        "english": "Prevention of Secret Marriages"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی نظم و ضبط",
+              "english": "Social Discipline"
+            },
+            "content": {
+              "urdu": [
+                "ولی کی شرط خفیہ شادیوں اور بھاگ کر نکاح کرنے جیسے فتنوں کو روکتی ہے۔",
+                "اعلانِ نکاح اور خاندان کی شمولیت سے رشتہ مضبوط اور پائیدار بنتا ہے۔",
+                "خفیہ تعلقات معاشرے میں بدنامی اور وراثتی پیچیدگیاں پیدا کرتے ہیں۔"
+              ],
+              "english": [
+                "The Wali requirement prevents the fitnah of secret marriages and eloping.",
+                "Family involvement and public announcement make the bond strong and lasting.",
+                "Secret relationships lead to public scandal and complex inheritance issues."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نکاح اور زنا میں تمیز",
+              "english": "Distinguishing Marriage from Adultery"
+            },
+            "content": {
+              "urdu": [
+                "ولی اور گواہوں کی موجودگی ہی نکاح کو زنا سے الگ کرنے والا بڑا فرق ہے۔",
+                "اسلامی نکاح ایک علانیہ عہد ہے جس میں دونوں خاندانوں کی عزت شامل ہے۔",
+                "خفیہ طور پر کیے گئے نکاح کو رسول اللہ ﷺ نے سخت ناپسند فرمایا ہے۔"
+              ],
+              "english": [
+                "The presence of a Wali and witnesses is the main distinction from illicit acts.",
+                "Islamic marriage is a public covenant involving the honor of both families.",
+                "The Prophet (ﷺ) strongly disapproved of marriages conducted in secrecy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Lessons for Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نوجوانوں کے لیے نصیحت",
+              "english": "Advice for the Youth"
+            },
+            "content": {
+              "urdu": [
+                "نوجوانوں کو چاہیے کہ وہ اپنی زندگی کے اہم فیصلے اپنے والدین کے مشورے سے کریں۔",
+                "والدین کی دعا اور ولی کی شمولیت نکاح میں برکت کا باعث بنتی ہے۔",
+                "جذباتی فیصلوں کے بجائے شرعی ضابطوں پر عمل کرنا ہی اصل کامیابی ہے۔"
+              ],
+              "english": [
+                "Youth should make significant life decisions with the consultation of their parents.",
+                "Parental blessings and Wali involvement bring Barakah into the marriage.",
+                "Following Sharia regulations rather than emotional impulses leads to true success."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "رسول اللہ ﷺ کی بتائی ہوئی حدود میں ہی انسانیت کا فلاح اور سکون ہے۔",
+                "شریعت کے کسی بھی ضابطے کو معمولی سمجھنا ایمان کی کمزوری کی علامت ہے۔",
+                "ایک مومن ہمیشہ اپنی زندگی کو سنت کے سانچے میں ڈھالنے کی کوشش کرتا ہے۔"
+              ],
+              "english": [
+                "Humanity's welfare and peace lie within the boundaries set by the Prophet (ﷺ).",
+                "Treating any Sharia regulation as insignificant is a sign of weak faith.",
+                "A believer always strives to mold their life according to the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

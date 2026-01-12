@@ -1,0 +1,279 @@
+{
+  "hadithId": 89,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 13 (related context)"],
+    "kitabId": 1,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 7
+  },
+
+  "arabic": "وَعَنْ أَبِي هُرَيْرَةَ  - رضى الله عنه  - { أَنَّ رَسُولَ اَللَّهِ  - صلى الله عليه وسلم  -نَهَى 'أَنْ يُسْتَنْجَى بِعَظْمٍ, أَوْ رَوْثٍ\" وَقَالَ: \"إِنَّهُمَا لَا يُطَهِّرَانِ' } رَوَاهُ اَلدَّارَقُطْنِيُّ وَصَحَّحَه ُ  ",
+  "takhreej": {
+    "arabic": "صحيح.  رواه الدارقطني (1 /56/9)  وقال: إسناد صحيح.  وفي \"الأصل\" رد على تعليل ابن عدي للحديث.",
+    "urdu": "صحیح (درست) روایت۔ اسے دارقطنی (1/56/9) نے روایت کیا ہے اور کہا ہے کہ اس کی سند صحیح ہے۔ 'اصل' میں اس روایت پر ابن عدی کے اعتراض کا رد موجود ہے۔",
+    "english": "Sahih (Authentic). Reported by Ad-Daraqutni (1/56/9), who said: \"Its chain of narration is Sahih (authentic).\" The original commentary refutes the criticism raised by Ibn Adi against this Hadith."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "He forbade/prohibited",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "يُسْتَنْجَى",
+      "english": "To perform Istinja' (cleansing)",
+      "urdu": "استنجاء کرنا"
+    },
+    {
+      "arabic": "عَظْمٍ",
+      "english": "Bone",
+      "urdu": "ہڈی"
+    },
+    {
+      "arabic": "رَوْثٍ",
+      "english": "Dung/Animal droppings",
+      "urdu": "گوبر"
+    },
+    {
+      "arabic": "يُطَهِّرَانِ",
+      "english": "They purify",
+      "urdu": "پاک کرتے ہیں"
+    },
+    {
+      "arabic": "الدارقطني",
+      "english": "Ad-Daraqutni (The scholar)",
+      "urdu": "دارقطنی (محدث)"
+    },
+    {
+      "arabic": "صَحَّحَه",
+      "english": "He authenticated it",
+      "urdu": "صحیح قرار دیا"
+    },
+    {
+      "arabic": "النجاسة",
+      "english": "Impurity",
+      "urdu": "نجاست"
+    }
+  ],
+  "summary": {
+    "urdu": "رسول اللہ صلی اللہ علیہ وسلم نے ہڈی اور گوبر جیسی چیزوں کو طہارت کے لیے استعمال کرنے سے منع فرمایا ہے، کیونکہ وہ نجاست کو مکمل طور پر دور نہیں کرتیں اور بعض دیگر مصالح کی وجہ سے بھی۔",
+    "english": "The Messenger of Allah ﷺ forbade using bones and dung for Istinja' (cleansing) because they are inherently impure or fail to purify completely, and for other reasons related to the rights of the Jinn."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني (1 /56/9)",
+      "english": "Reported by Ad-Daraqutni (1/56/9)"
+    },
+    {
+      "arabic": "قال الدارقطني: إسناد صحيح",
+      "english": "Ad-Daraqutni said: Its chain of narration is Sahih"
+    },
+    {
+      "arabic": "الحديث متفق عليه في المعنى",
+      "english": "The meaning of the Hadith is agreed upon (Muttafaqun 'alayhi)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 8901,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "استنجاء میں ممنوعہ اشیاء",
+        "english": "Prohibited Items for Istinja'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گوبر کی ممانعت کی وجہ",
+              "english": "Reason for Prohibiting Dung"
+            },
+            "content": {
+              "urdu": [
+                "گوبر (روث) خود ایک ناپاک چیز ہے، اور ناپاک چیز کو طہارت کے لیے استعمال نہیں کیا جا سکتا۔",
+                "یہ نجاست کو صاف کرنے کی بجائے اسے اور زیادہ پھیلا دیتی ہے، جس سے پاکیزگی حاصل نہیں ہوتی۔",
+                "ایک اور صحیح روایت میں اسے جنات کے جانوروں کی خوراک قرار دیا گیا ہے، اس لیے اس کا استعمال منع ہے۔"
+              ],
+              "english": [
+                "Dung (Rawth) is inherently an impure substance, and an impure item cannot be used for purification.",
+                "It tends to spread the filth rather than removing it completely, thus preventing true cleanliness.",
+                "In another authentic narration, it is designated as the food for the animals of the Jinn, hence its use is forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہڈی کی ممانعت کی وجہ",
+              "english": "Reason for Prohibiting Bone"
+            },
+            "content": {
+              "urdu": [
+                "ہڈی (عظم) کو رسول اللہ ﷺ نے جنات کی خوراک قرار دیا ہے، لہٰذا یہ ایک محترم چیز ہے۔",
+                "ہڈی کی سطح ہموار ہوتی ہے اور وہ مسامات والی نہیں ہوتی، اس لیے وہ طہارت کے لیے کافی صفائی فراہم نہیں کر سکتی۔",
+                "پاکیزگی اور جنات کے حقوق کے احترام کے پیش نظر، ہڈی کو استنجاء کے لیے استعمال کرنا حرام ہے۔"
+              ],
+              "english": [
+                "Bone ('Azm) was designated by the Prophet ﷺ as the food of the Jinn, so it is a revered item.",
+                "The bone's surface is generally smooth and non-porous, meaning it cannot provide sufficient cleaning for purification.",
+                "Due to the necessity of purity and respect for the rights of the Jinn, using a bone for Istinja' is prohibited (Haram)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی اصول اور فقہی احکام",
+        "english": "Legal Principles and Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استنجاء کا مقصد",
+              "english": "Purpose of Istinja'"
+            },
+            "content": {
+              "urdu": [
+                "استنجاء کا بنیادی مقصد نجاست کو مکمل طور پر دور کرنا ہے تاکہ نماز جیسی عبادات صحیح ہو سکیں۔",
+                "حدیث میں کہا گیا کہ یہ دونوں پاک نہیں کر سکتے، جس سے اشارہ ملتا ہے کہ پاکیزگی کا معیار پورا ہونا ضروری ہے۔",
+                "گوبر اور ہڈی کا استعمال طہارت کے بجائے مزید نجاست کا باعث بنتا ہے، جو طہارت کے اصول کے خلاف ہے۔"
+              ],
+              "english": [
+                "The primary purpose of Istinja' is the complete removal of impurity so that acts of worship like Salah (prayer) are valid.",
+                "The Hadith states that neither purifies, indicating that the standard of cleanliness must be fully met.",
+                "Using dung and bone leads to further impurity rather than purification, which violates the principle of Taharah (purity)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ممنوعات کا قاعدہ",
+              "english": "The Rule of Prohibitions"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے اس حدیث سے ایک قاعدہ اخذ کیا ہے کہ کسی بھی **محترم یا ناپاک** چیز سے استنجاء کرنا منع ہے۔",
+                "محترم اشیاء میں کھانے پینے کی چیزیں، ہڈیاں، اور قرآن کے اوراق شامل ہیں جن سے استنجاء نہیں کیا جا سکتا۔",
+                "ناپاک اشیاء میں گوبر اور ہر قسم کی نجاست شامل ہے، جو طہارت کے عمل میں استعمال نہیں ہوں گی۔"
+              ],
+              "english": [
+                "Jurists derive a rule from this Hadith that it is forbidden to perform Istinja' with anything that is **revered or impure**.",
+                "Revered items include food, bones, and pages of the Qur'an, which cannot be used for cleansing.",
+                "Impure items include dung and all types of filth, which are not to be used in the process of purification."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حکمت اور احترام",
+        "english": "Wisdom and Respect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ماحولیاتی حکمت",
+              "english": "Environmental Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "گوبر کو کھیتوں یا دیگر زمینوں میں کھاد کے طور پر استعمال کیا جا سکتا ہے، لہٰذا اسے نجاست دور کرنے میں ضائع نہ کیا جائے۔",
+                "اسلام ہر مفید چیز کو بے جا ضائع کرنے سے منع کرتا ہے، گوبر کا یہ دوسرا استعمال اس کا احترام سکھاتا ہے۔",
+                "یہ حکم اس بات کی بھی وضاحت کرتا ہے کہ انسان کو طہارت کے عمل میں بھی احتیاط اور بہترین ذریعہ استعمال کرنا چاہیے۔"
+              ],
+              "english": [
+                "Dung can be used as fertilizer in fields or other lands, so it should not be wasted in removing impurity.",
+                "Islam prohibits the undue wasting of any useful item; the alternative use of dung teaches respect for it.",
+                "This ruling also clarifies that humans should use caution and the best means in the act of purification."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنوں کے حقوق",
+              "english": "Rights of the Jinn"
+            },
+            "content": {
+              "urdu": [
+                "ہڈیوں کو جنات کا کھانا قرار دینے کا مقصد یہ ہے کہ انسان ان کی خوراک کو ناپاک اور نجاست آلود نہ کرے۔",
+                "یہ اسلام میں ماوراء الطبیعت مخلوقات کے حقوق کی رعایت کا ایک اہم پہلو ہے جو ادب سکھاتا ہے۔",
+                "یہ ہمیں سکھاتا ہے کہ جن چیزوں کو اللہ نے کسی اور کے لیے مخصوص کر دیا ہے، ہمیں ان کی حرمت کا خیال رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Designating bones as the food of the Jinn means that humans should not defile their food with impurity.",
+                "This is an important aspect of observing the rights of metaphysical beings in Islam, which promotes etiquette.",
+                "It teaches us that we must respect the sanctity of things that Allah has specifically designated for others."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا درجہ اور عمل",
+        "english": "Grade and Application of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تصحیح حدیث اور قبولیت",
+              "english": "Hadith Authentication and Acceptance"
+            },
+            "content": {
+              "urdu": [
+                "امام دارقطنی کا اس حدیث کو 'صحیح' قرار دینا اس کی شرعی حیثیت کو مضبوط بناتا ہے۔",
+                "گوبر اور ہڈی کی ممانعت کا مفہوم صحیحین (بخاری و مسلم) کی احادیث سے بھی ثابت شدہ ہے۔",
+                "اس طرح یہ حکم تمام فقہاء کے نزدیک متفق علیہ اور قابل عمل ہے۔"
+              ],
+              "english": [
+                "Ad-Daraqutni's authentication of this Hadith as 'Sahih' strengthens its legal status.",
+                "The prohibition of dung and bone is also confirmed by narrations found in the Sahihayn (Bukhari and Muslim).",
+                "Thus, this ruling is agreed upon (Muttafaq 'Alayhi) and actionable by all jurists."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عصری تقاضے اور متبادل",
+              "english": "Modern Demands and Alternatives"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں پانی کی موجودگی میں متبادل اشیاء سے طہارت کا جواز ثانوی حیثیت رکھتا ہے۔",
+                "اگر پانی نہ ہو تو پتھر، ٹشو پیپر یا اسی قسم کی صفائی کرنے والی اشیاء کا استعمال جائز ہے (تین کی طاق تعداد میں)۔",
+                "لیکن یہ بات یقینی ہے کہ ہڈی، گوبر یا کھانے کی اشیاء کا استعمال کسی صورت میں بھی جائز نہیں ہے۔"
+              ],
+              "english": [
+                "In the modern age, with water generally available, the permissibility of using alternatives for purification is secondary.",
+                "If water is unavailable, using stones, tissue paper, or similar cleansing materials is permissible (in odd numbers, starting with three).",
+                "However, it is certain that the use of bone, dung, or foodstuffs is absolutely impermissible under any circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

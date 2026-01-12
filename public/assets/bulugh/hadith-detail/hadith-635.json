@@ -1,0 +1,254 @@
+{
+  "hadithId": 635,
+  "hadithNo": 29,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/635"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1634)، ومسلم (1315). والسقاية: القيام على سقي الحجاج بماء زمزم.",
+    "urdu": "صحیح۔ اسے امام بخاری (1634) اور امام مسلم (1315) نے روایت کیا ہے۔ سقایت سے مراد حجاجِ کرام کو آبِ زمزم پلانے کی وہ خدمت ہے جو بنو ہاشم کے سپرد تھی۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1634) and Muslim (1315). 'Siqayah' refers to the hereditary service of providing Zamzam water to pilgrims, held by the family of al-Abbas."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِسْتَأْذَنَ",
+      "english": "Asked permission",
+      "urdu": "اجازت طلب کی"
+    },
+    {
+      "arabic": "يَبِيتَ",
+      "english": "Spend the night",
+      "urdu": "رات گزارنا / شب بسر کرنا"
+    },
+    {
+      "arabic": "سِقَايَتِهِ",
+      "english": "His water supply service",
+      "urdu": "اس کی سقایت (پانی پلانے کی خدمت)"
+    },
+    {
+      "arabic": "لَيَالِيَ مِنًى",
+      "english": "The nights of Mina",
+      "urdu": "منیٰ کی راتیں (ایامِ تشریق)"
+    }
+  ],
+  "summary": {
+    "urdu": "منیٰ کی راتوں میں وہاں قیام کرنا واجب ہے، لیکن حجاج کی خدمت یا کسی بڑی ضرورت کی بنا پر منیٰ سے باہر رہنے کی اجازت لی جا سکتی ہے۔",
+    "english": "Staying in Mina during the nights of Tashriq is mandatory, but exceptions can be made for those providing essential services to pilgrims or due to significant necessity."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1634)",
+      "english": "Reported by Al-Bukhari (1634)"
+    },
+    {
+      "arabic": "رواه مسلم (1315)",
+      "english": "Reported by Muslim (1315)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "العباس بن عبد المطلب",
+        "english": "Al-Abbas bin Abdul-Muttalib"
+      },
+      "slug": "al-abbas-bin-abdul-muttalib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ایامِ تشریق اور قیامِ منیٰ کا حکم",
+        "english": "Ruling on Staying in Mina during Tashriq Days"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "منیٰ میں رات گزارنے کی شرعی حیثیت",
+              "english": "Legal Status of Spending the Night in Mina"
+            },
+            "content": {
+              "urdu": [
+                "11، 12 اور 13 ذوالحجہ کی راتوں کا اکثر حصہ منیٰ میں گزارنا جمہور فقہاء کے نزدیک واجب ہے۔",
+                "نبی ﷺ نے ان راتوں میں منیٰ ہی میں قیام فرمایا اور صحابہ کو بھی وہیں رہنے کی تلقین کی۔",
+                "بلا عذر منیٰ سے باہر رات گزارنا ترکِ واجب ہے جس پر اکثر کے نزدیک دم (قربانی) لازم آتی ہے۔"
+              ],
+              "english": [
+                "Spending the majority of the nights of the 11th, 12th, and 13th of Dhul-Hijjah in Mina is mandatory (Wajib) according to the majority of jurists.",
+                "The Prophet (ﷺ) stayed in Mina during these nights and encouraged the Companions to do the same.",
+                "Staying outside Mina without a valid excuse is a violation of a mandatory act, requiring a penalty (Damm) according to most views."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجازت اور استثناء",
+              "english": "Permission and Exceptions"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عباس کو اجازت دینا اس بات کی دلیل ہے کہ ضرورت کے وقت اس وجوب میں نرمی دی جا سکتی ہے۔",
+                "یہ رخصت ان لوگوں کے لیے ہے جن کا قیامِ منیٰ کسی بڑے عوامی فائدے یا مجبوری کی وجہ سے مشکل ہو۔",
+                "اجازت طلب کرنا ظاہر کرتا ہے کہ اصل قاعدہ قیام کرنا ہی تھا، ورنہ اجازت کی ضرورت نہ ہوتی۔"
+              ],
+              "english": [
+                "The permission given to Al-Abbas proves that this obligation can be relaxed in cases of necessity.",
+                "This concession is for those whose presence outside is for significant public benefit or due to unavoidable circumstances.",
+                "The act of seeking permission implies that the default rule was to stay in Mina, otherwise, no permission would have been sought."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حجاج کی خدمت کی فضیلت",
+        "english": "Virtue of Serving the Pilgrims"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سقایتِ زمزم کی اہمیت",
+              "english": "Importance of Siqayah (Water Supply)"
+            },
+            "content": {
+              "urdu": [
+                "زمانہ جاہلیت میں بھی حجاج کو پانی پلانا ایک معزز خدمت سمجھی جاتی تھی، جسے اسلام نے برقرار رکھا۔",
+                "سیدنا عباس کی اس خدمت کو قیامِ منیٰ پر ترجیح دی گئی تاکہ حجاج کو پیاس کی تکلیف نہ ہو۔",
+                "عوامی بہبود اور خدمتِ خلق کے کاموں کو نفل یا انفرادی واجبات پر فوقیت حاصل ہو سکتی ہے۔"
+              ],
+              "english": [
+                "Even in Jahiliyyah, providing water to pilgrims was an honorable service, which Islam preserved and endorsed.",
+                "Al-Abbas's service was prioritized over his presence in Mina to prevent the pilgrims from suffering thirst.",
+                "Public welfare and humanitarian services can take precedence over individual voluntary or secondary mandatory acts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنتِ نبوی میں لچک",
+              "english": "Flexibility in Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے کبھی دین کو بوجھ نہیں بنایا بلکہ جہاں ضرورت دیکھی وہاں رعایت عطا فرمائی۔",
+                "یہ حدیث 'رفعِ حرج' (تنگی دور کرنے) کے اصول کی ایک بہترین مثال ہے۔",
+                "دینی امور میں انتظامی ضرورتوں کا لحاظ رکھنا عین سنت ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) never made religion a burden; he granted concessions wherever he saw a genuine need.",
+                "This Hadith is a perfect example of the principle of 'removing hardship' (Raf' al-Haraj).",
+                "Adhering to administrative necessities in religious matters is entirely consistent with the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور انتظامی مسائل",
+        "english": "Juristic and Administrative Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کن لوگوں کے لیے رخصت ہے؟",
+              "english": "Who is eligible for the Concession?"
+            },
+            "content": {
+              "urdu": [
+                "چرواہوں، سکیورٹی پر مامور افراد، ڈاکٹروں اور انتظامی عملے کے لیے اسی حدیث کی بنیاد پر منیٰ سے باہر رہنے کی گنجائش ہے۔",
+                "آج کے دور میں اگر کوئی اپنی رہائش گاہ منیٰ میں نہ ہونے کی وجہ سے باہر رہتا ہے، تو وہ بھی معذور سمجھا جائے گا۔",
+                "تاہم، بلا ضرورت ہوٹلوں میں راحت پانے کے لیے منیٰ چھوڑنا درست نہیں ہے۔"
+              ],
+              "english": [
+                "Shepherds, security personnel, doctors, and administrative staff have the allowance to stay outside Mina based on this Hadith.",
+                "In modern times, if someone cannot find accommodation within Mina, they are considered to have a valid excuse.",
+                "However, leaving Mina without necessity just for the comfort of hotels is not appropriate."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجازت لینے کا اسلوب",
+              "english": "Etiquette of Requesting Permission"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عباس کا اجازت مانگنا ہمیں امیر اور سربراہ کے احترام کا سبق دیتا ہے۔",
+                "سفرِ حج میں نظم و ضبط برقرار رکھنا ہر حاجی کی ذمہ داری ہے۔",
+                "بڑوں سے مشورہ کر کے کام کرنے میں برکت اور شرعی رہنمائی حاصل ہوتی ہے۔"
+              ],
+              "english": [
+                "Al-Abbas asking for permission teaches us respect for the leader and authority.",
+                "Maintaining discipline during the Hajj journey is the responsibility of every pilgrim.",
+                "Consulting elders and authorities brings blessing and correct Sharia guidance to one's actions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ترجیحات کا شعور",
+              "english": "Sense of Priorities"
+            },
+            "content": {
+              "urdu": [
+                "مومن کو پتہ ہونا چاہیے کہ کس وقت کون سا عمل زیادہ اجر والا ہے۔",
+                "عبادت کے ساتھ ساتھ دوسروں کے حقوق کی ادائیگی اصل امتحان ہے۔",
+                "دینِ اسلام انفرادی اور اجتماعی زندگی کے درمیان بہترین توازن قائم کرتا ہے۔"
+              ],
+              "english": [
+                "A believer should know which act carries more reward at a given time.",
+                "The real test lies in fulfilling others' rights alongside personal worship.",
+                "Islam establishes a perfect balance between individual and collective life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خدمتِ خلق کا مقام",
+              "english": "Status of Public Service"
+            },
+            "content": {
+              "urdu": [
+                "حجاج کی خدمت کرنا اللہ کے قرب کا بہت بڑا ذریعہ ہے۔",
+                "پانی پلانا صدقہ جاریہ ہے، خاص طور پر تپتی ہوئی دھوپ میں مسافروں کے لیے۔",
+                "نبی ﷺ نے اپنے چچا کو اس نیکی سے نہیں روکا بلکہ ان کی حوصلہ افزائی فرمائی۔"
+              ],
+              "english": [
+                "Serving the pilgrims is a magnificent means of attaining proximity to Allah.",
+                "Providing water is a perpetual charity (Sadaqah Jariyah), especially for travelers in the heat.",
+                "The Prophet (ﷺ) did not hinder his uncle from this goodness but rather encouraged him."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

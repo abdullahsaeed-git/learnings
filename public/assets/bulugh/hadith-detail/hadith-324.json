@@ -1,0 +1,193 @@
+{
+  "hadithId": 324,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:713",
+      "https://sunnah.com/muslim:418"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "صحيح البخاري / صحيح مسلم",
+    "babId": 20
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح متفق عليه.‏ رواه البخاري (713)‏، ومسلم (418)‏.‏",
+    "urdu": "صحیح، متفق علیہ۔ اسے بخاری (713) اور مسلم (418) نے روایت کیا ہے۔",
+    "english": "Sahih (Agreed Upon). Reported by Al-Bukhari (713) and Muslim (418)."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَنْ يَسَارِ",
+      "english": "On the left of",
+      "urdu": "بائیں جانب"
+    },
+    {
+      "arabic": "جَالِسًا",
+      "english": "Sitting",
+      "urdu": "بیٹھے ہوئے"
+    },
+    {
+      "arabic": "قَائِمًا",
+      "english": "Standing",
+      "urdu": "کھڑے ہوئے"
+    },
+    {
+      "arabic": "يَقْتَدِي",
+      "english": "Following / Imitating",
+      "urdu": "اقتدا کر رہے تھے / پیروی کر رہے تھے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بتاتی ہے کہ عذر کی حالت میں امام بیٹھ کر نماز پڑھا سکتا ہے جبکہ مقتدی کھڑے ہوں گے۔ نیز یہ مکبر (تکبیر پہنچانے والے) کی مشروعیت اور امام کے ساتھ کھڑے ہونے کی ترتیب بھی واضح کرتی ہے۔",
+    "english": "This Hadith indicates that an Imam can lead prayer sitting down due to an excuse, while the followers stand. It also legitimizes the role of a Mukabbir (one who conveys the Takbeer) and clarifies the positioning of standing beside the Imam."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (713)",
+      "english": "Reported by Al-Bukhari (713)"
+    },
+    {
+      "arabic": "رواه مسلم (418)",
+      "english": "Reported by Muslim (418)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشہ بنت ابی بکر",
+        "english": "Aishah bint Abu Bakr"
+      },
+      "slug": "aisha-bint-abu-bakr"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Muttafaq Alaih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف (ناسخ و منسوخ)",
+        "english": "Juristic Disagreement (Abrogation)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مقتدی کا کھڑا ہونا",
+              "english": "Standing of the Follower"
+            },
+            "content": {
+              "urdu": [
+                "پچھلی حدیث (نمبر 7) میں تھا کہ 'جب امام بیٹھ کر پڑھے تو تم بھی بیٹھ کر پڑھو'۔",
+                "اس حدیث میں ہے کہ نبی ﷺ بیٹھے تھے لیکن صحابہ کھڑے تھے۔",
+                "جمہور علماء کے نزدیک یہ آخری عمل ہے جس نے پچھلے حکم (بیٹھنے والے) کو منسوخ کر دیا، لہذا مقتدی کھڑے ہو کر ہی پڑھیں گے۔"
+              ],
+              "english": [
+                "The previous Hadith (No. 7) stated: 'If he prays sitting, you all pray sitting'.",
+                "In this Hadith, the Prophet (ﷺ) sat while Companions stood.",
+                "The majority view is that this final action abrogated the previous command; thus, followers must stand even if the Imam sits."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام احمد کا مسلک",
+              "english": "View of Imam Ahmad"
+            },
+            "content": {
+              "urdu": [
+                "امام احمد بن حنبل دونوں احادیث میں تطبیق دیتے ہیں۔",
+                "اگر امام شروع سے بیٹھ کر نماز پڑھائے تو مقتدی بھی بیٹھ جائیں۔",
+                "اگر نماز کھڑے ہو کر شروع ہوئی (جیسے یہاں ابوبکر نے شروع کی) اور درمیان میں امام بیٹھ گیا، تو مقتدی کھڑے رہیں گے۔"
+              ],
+              "english": [
+                "Imam Ahmad reconciles both Hadiths.",
+                "If the Imam starts prayer sitting, followers should sit.",
+                "If prayer started standing (as Abu Bakr started here) and Imam sits later, followers remain standing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امامت کے مسائل",
+        "english": "Issues of Imamate"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مکبر کی ضرورت",
+              "english": "Need for Mukabbir"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوبکر رضی اللہ عنہ 'مکبر' (آواز پہنچانے والے) کا کردار ادا کر رہے تھے۔",
+                "اگر مجمع بڑا ہو یا امام کی آواز کمزور ہو، تو ایک آدمی کا بلند آواز سے تکبیر کہنا سنت ہے۔",
+                "لوگ درحقیقت نبی ﷺ کی اقتدا کر رہے تھے، ابوبکر صرف ذریعہ تھے۔"
+              ],
+              "english": [
+                "Abu Bakr (RA) was acting as a 'Mukabbir' (conveyer of voice).",
+                "If the crowd is large or Imam's voice is weak, it is Sunnah for someone to convey the Takbeer aloud.",
+                "People were actually following the Prophet (ﷺ); Abu Bakr was just the medium."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دو اماموں کا مسئلہ",
+              "english": "Issue of Two Imams"
+            },
+            "content": {
+              "urdu": [
+                "ظاہری طور پر ایسا لگتا ہے کہ دو امام ہیں، لیکن حقیقت میں امام ایک ہی (نبی ﷺ) تھے۔",
+                "نبی ﷺ ابوبکر کے بائیں طرف بیٹھے، جو امام کی جگہ ہے۔",
+                "اس سے معلوم ہوا کہ امام مقتدی کے ساتھ کھڑا ہو سکتا ہے (اگر جگہ تنگ ہو)۔"
+              ],
+              "english": [
+                "Apparently, it looks like two Imams, but in reality, the Imam was one (the Prophet ﷺ).",
+                "The Prophet (ﷺ) sat on the left of Abu Bakr, which is the Imam's position.",
+                "This shows the Imam can stand beside the follower (if space is tight)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کی تڑپ",
+              "english": "Passion for Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ شدید بیماری اور کمزوری کے باوجود جماعت کے لیے تشریف لائے۔",
+                "یہ امت کے لیے سبق ہے کہ نماز باجماعت کو کسی حال میں نہ چھوڑیں۔",
+                "اپنی ذمہ داری آخری سانس تک نبھانا سیرت کا اہم پہلو ہے۔"
+              ],
+              "english": [
+                "Despite severe illness and weakness, the Prophet (ﷺ) came for the congregation.",
+                "This is a lesson for the Ummah never to miss congregational prayer.",
+                "Fulfilling one's responsibility until the last breath is a key aspect of Seerah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "hadithId": 165,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["1:4:6"],
+    "kitabId": 2,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب صفة الصلاة (استقبال القبلة)",
+    "babId": 13
+  },
+  "name": {
+    "arabic": " وَعَنْ أَبِي هُرَيْرَةَ ‏- رضى الله عنه ‏- قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَا بَيْنَ اَلْمَشْرِقِ وَالْمَغْرِبِ قِبْلَةٌ } رَوَاهُ اَلتِّرْمِذِيُّ , وَقَوَّاهُ اَلْبُخَارِيُّ .‏ ",
+    "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ ”مشرق اور مغرب کے مابین قبلہ ہے۔“ اسے ترمذی نے روایت کیا ہے اور بخاری نے قوی قرار دیا ہے۔ ",
+    "english": "Narrated Abū Hurayrah (RA): The Messenger of Allah (ﷺ) said: 'What is between the East and the West is the Qiblah.' Reported by At-Tirmidhī, and Al-Bukhārī authenticated it."
+  },
+  "takhreej": {
+    "arabic": " صحيح .‏ رواه الترمذي (344)‏ وقال : حديث حسن صحيح .‏ قلت : وليس في إسناده إلا الحسن بن بكر شيخ الترمذي فيه جهالة ، وللحديث طرق أخرى وشواهد يصح بها ، إلا أن هذا الطريق هو الذي قواه البخاري .‏",
+    "urdu": "صحیح۔ اسے ترمذی (344) نے روایت کیا اور کہا: حدیث حسن صحیح ہے۔ میں (حافظ ابن حجر) کہتا ہوں: اس کی سند میں حسن بن بکر (ترمذی کے شیخ) کے علاوہ کوئی راوی ضعیف نہیں، جن میں کچھ جہالت ہے، لیکن اس حدیث کے دیگر طریق اور شواہد ہیں جن سے یہ صحیح ثابت ہوتی ہے، تاہم، یہی وہ طریق ہے جسے بخاری نے قوی قرار دیا ہے۔",
+    "english": "Authentic (Ṣaḥīḥ). Reported by At-Tirmidhī (344) and he said: Ḥadīth Ḥasan Ṣaḥīḥ. I say: There is no one in its chain except Al-Ḥasan ibn Bakr (At-Tirmidhī’s shaykh) who has some unknown aspects (Jahālah), but the Hadith has other chains and corroborating evidence that validate it. Nevertheless, this is the chain that Al-Bukhārī authenticated.",
+    "english_alternative": ""
+  },
+  "importantWords": [
+    {
+      "arabic": "مَا بَيْنَ",
+      "english": "What is between",
+      "urdu": "جو کچھ درمیان میں ہے"
+    },
+    {
+      "arabic": "اَلْمَشْرِقِ",
+      "english": "The East",
+      "urdu": "مشرق"
+    },
+    {
+      "arabic": "وَالْمَغْرِبِ",
+      "english": "And the West",
+      "urdu": "اور مغرب"
+    },
+    {
+      "arabic": "قِبْلَةٌ",
+      "english": "Is the Qiblah",
+      "urdu": "قبلہ ہے"
+    },
+    {
+      "arabic": "قَوَّاهُ",
+      "english": "He authenticated/strengthened it",
+      "urdu": "اسے قوی قرار دیا"
+    },
+    {
+      "arabic": "صَحِيح",
+      "english": "Authentic",
+      "urdu": "صحیح"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ان لوگوں کے لیے قبلہ کی سمت کا تعین بیان کرتی ہے جو مکہ سے دور شمال یا جنوب میں رہتے ہیں۔ ان کے لیے مشرق اور مغرب کے درمیان کی پوری سمت قبلہ ہے، بشرطیکہ وہ کعبہ کی سمت سے زیادہ انحراف نہ کریں۔ یہ ایک آسانی کا اصول ہے جو معمولی انحراف کو معاف کرتا ہے۔",
+    "english": "This Hadith sets the direction of the Qiblah for those who live North or South of Makkah. For them, the entire direction lying between the East and the West is considered the Qiblah, provided they do not severely deviate from the actual direction of the Ka'bah. This is a principle of ease that pardons minor deviations."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (344)",
+      "english": "Reported by At-Tirmidhī (344)"
+    },
+    {
+      "arabic": "صححه البخاري",
+      "english": "Authenticated by Al-Bukhārī"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abū Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A2Wp-7Z_l3k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قبلہ کے تعین کا اصول",
+        "english": "Principle of Qiblah Determination"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مشرق و مغرب کی حد بندی",
+              "english": "Boundary Between East and West"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم مدینہ منورہ اور اس طرح کے دوسرے شہروں کے لیے ہے جو مکہ کے شمال یا جنوب میں واقع ہوں۔",
+                "ان علاقوں میں کعبہ جنوب کی طرف ہوتا ہے، اس لیے مشرق اور مغرب کے درمیان کا ہر رخ قبلہ کی سمت میں شمار ہوگا۔",
+                "یہ اصول اس بات کی اجازت دیتا ہے کہ قبلہ کی سمت میں معمولی سا انحراف نماز کو باطل نہیں کرتا۔"
+              ],
+              "english": [
+                "This ruling applies to Al-Madīnah and other cities located North or South of Makkah.",
+                "In these regions, the Ka'bah is towards the South, so any direction between East and West falls within the Qiblah's range.",
+                "This principle permits that a slight deviation in the direction of the Qiblah does not invalidate the prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آنکھوں سے دیکھ کر نماز",
+              "english": "Praying by Sight"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ان لوگوں کے لیے نہیں ہے جو کعبہ کو براہ راست دیکھ سکتے ہیں، ان پر عین کعبہ کی طرف رخ کرنا فرض ہے۔",
+                "دور رہنے والوں کے لیے عین کعبہ کی طرف رخ کرنا مشکل ہے، اس لیے شریعت نے آسانی دی۔",
+                "مشرق اور مغرب سے مراد وہ وسیع دائرہ ہے جو کعبہ کی صحیح سمت کو شامل کرے۔"
+              ],
+              "english": [
+                "This Hadith is not intended for those who can see the Ka'bah directly; they must face its exact direction.",
+                "It is difficult for those living far away to face the exact point, so the Sharī'ah provided ease.",
+                "The East and West here refer to the broad arc that encompasses the true direction of the Ka'bah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی صحت اور ائمہ کا قول",
+        "english": "Authenticity of Hadith and Imams' Statement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بخاری کا قوی قرار دینا",
+              "english": "Al-Bukhārī's Authentication"
+            },
+            "content": {
+              "urdu": [
+                "امام بخاری کا کسی حدیث کو 'قوی' قرار دینا اس کی صحت اور معتبریت کی دلیل ہے۔",
+                "یہ اس بات کی طرف اشارہ کرتا ہے کہ اگرچہ اس روایت کی سند میں معمولی ضعف ہے، لیکن دیگر شواہد اسے صحیح بناتے ہیں۔",
+                "اس طرح کی احادیث کو فقہی اصولوں کی بنیاد بنانے کے لیے استعمال کیا جاتا ہے۔"
+              ],
+              "english": [
+                "Al-Bukhārī's authentication of a Hadith proves its authenticity and reliability.",
+                "This indicates that even if there is minor weakness in the chain, corroborating evidence makes it authentic.",
+                "Such Ahadith are used to establish the basis for jurisprudential principles."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی عمل",
+              "english": "Juristic Practice"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء نے اس حدیث پر عمل کیا ہے اور اسے قبلہ کے تعین کے لیے ایک مستند اصول مانا ہے۔",
+                "یہ آسانی سفر اور جنگ کی حالت میں بھی میسر ہے جہاں سمت کا تعین کرنا مشکل ہو۔",
+                "جو شخص قبلہ کی سمت سے زیادہ انحراف کرے، اس کی نماز باطل ہو جاتی ہے۔"
+              ],
+              "english": [
+                "The majority of jurists have acted upon this Hadith, recognizing it as an authentic principle for determining the Qiblah.",
+                "This ease is also available during travel and warfare when determining the direction is difficult.",
+                "A person who deviates excessively from the Qiblah's direction invalidates their prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور احتیاط",
+        "english": "Practical Lesson and Caution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علمی جستجو",
+              "english": "Scholarly Diligence"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کا حکم اس بات کی ترغیب دیتا ہے کہ مسلمان کو قبلہ کی صحیح سمت معلوم کرنے کی کوشش کرنی چاہیے۔",
+                "جدید دور میں کمپاس اور دیگر ٹیکنالوجی کی مدد سے قبلہ کا تعین آسان ہو گیا ہے، لہٰذا اس پر عمل ضروری ہے۔",
+                "معمولی انحراف کو معاف کر دیا گیا، لیکن قصداً رخ پھیرنا نماز کو باطل کر دیتا ہے۔"
+              ],
+              "english": [
+                "The ruling in this Hadith encourages Muslims to strive to ascertain the correct direction of the Qiblah.",
+                "In the modern era, determining the Qiblah is easy with tools like the compass and technology, so using them is necessary.",
+                "Minor deviations are pardoned, but intentionally turning away from the Qiblah invalidates the prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی آسانی",
+              "english": "Legal Ease"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول شریعتِ اسلامیہ کے عمومی اصول 'آسانی' کو نمایاں کرتا ہے کہ اللہ تعالیٰ اپنے بندوں پر مشقت نہیں ڈالتا۔",
+                "اگر قبلہ کی سمت میں تھوڑا سا انحراف ہو جائے تو نماز کو قبول کر لیا جاتا ہے، جو اللہ کی رحمت ہے۔",
+                "مسلمانوں کو ان رخصتوں کو سمجھنا چاہیے لیکن بلاوجہ سستی کا مظاہرہ نہیں کرنا چاہیے۔"
+              ],
+              "english": [
+                "This principle highlights the general rule of 'Ease' (Yusr) in the Islamic Sharī'ah, where Allah does not impose hardship on His servants.",
+                "If there is a slight deviation in the Qiblah direction, the prayer is accepted, which is Allah's Mercy.",
+                "Muslims should understand these concessions but should not show unwarranted laziness."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

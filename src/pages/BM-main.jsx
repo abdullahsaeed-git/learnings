@@ -1,27 +1,26 @@
-import React, { useEffect, useState } from 'react'
-import { Link } from 'react-router';
-import Loading from '../components/Loading';
+import React, { useEffect, useState } from "react";
+import { Link } from "react-router";
+import Loading from "../components/Loading";
 
 function BMMain() {
-   const [data, setData] = useState({});
-   const [loading, setLoading] = useState(true);
+  const [data, setData] = useState({});
+  const [loading, setLoading] = useState(true);
 
-   useEffect(() => {
-     fetch(
-       "https://abdullahsaeed-git.github.io/my-database/bulugh-al-maram.json"
-     )
-       .then((res) => res.json())
-       .then((data) => setData(data));
-   }, []);
+  useEffect(() => {
+    fetch("/assets/bulugh/bulugh-books.json")
+      .then((res) => res.json())
+      .then((data) => setData(data));
+  }, []);
 
-   useEffect(() => {
-     setTimeout(() => {
-       setLoading(false);
-     }, 500);
-   }, [data]);
+  useEffect(() => {
+    setTimeout(() => {
+      setLoading(false);
+    }, 500);
+  }, [data]);
 
-   if (loading) return <Loading />;
+  if (loading) return <Loading />;
   return (
+    
     <>
       <main>
         <div
@@ -143,43 +142,43 @@ function BMMain() {
 
         <div class="container marketing">
           <h1 className="text-center mb-4">
-            {!data?.books ? <h1>No Books Found</h1> : "Books"}
-            {/* <small class=" mx-3 float-end arabic"> کتابیں</small> */}
+            {!data ? <h1>No Books Found</h1> : "Books"}
+             {/* <small className=" mx-3 float-end arabic"> کتابیں</small> */}
+            {" "}
           </h1>
           <div class="row">
-            {data?.books?.map((book, index) => (
-              <>
-                <div
-                  class="col-lg-3 col-md-4 col-6 mb-5 "
-                  style={{
-                    alignItems: "center",
-                    justifyContent: "center",
-                    display: "flex",
-                    flexDirection: "column",
-                  }}
-                >
-                  <img
-                    src={`/assets/bulugh-al-maram/books/${book.id}.png`}
-                    alt=""
-                    srcset=""
-                    width={150}
-                    height={150}
-                    style={{ borderRadius: "50%", justifySelf: "center" }}
-                  />
-                  <h2 class="  mt-2" style={{ fontSize: "1.4rem" }}>
-                    {book.name.english}
-                  </h2>
-                  <p></p>
-                  <p>
-                    <Link
-                      class="btn btn-secondary"
-                      to={`/bulugh-al-maram/${book.bookSlug}`}
-                    >
-                      View details »
-                    </Link>
-                  </p>
-                </div>
-              </>
+             {data?.map((book, index) => (
+              <div
+                key={index}
+                className="col-lg-3 col-md-4 col-6 mb-5 "
+                style={{
+                  alignItems: "center",
+                  justifyContent: "center",
+                  display: "flex",
+                  flexDirection: "column",
+                }}
+              >
+                <img
+                  src={`/assets/bulugh-al-maram/books/${book.id}.png`}
+                  alt=""
+                  srcSet=""
+                  width={150}
+                  height={150}
+                  style={{ borderRadius: "50%", justifySelf: "center" }}
+                />
+                <h2 className="  mt-2" style={{ fontSize: "1.4rem" }}>
+                  {book.name.english}
+                </h2>
+                <p></p>
+                <p>
+                  <Link
+                    className="btn btn-secondary"
+                    to={`/bulugh-al-maram/${book.id}`}
+                  >
+                    View details »
+                  </Link>
+                </p>
+              </div>
             ))}
           </div>
         </div>
@@ -188,4 +187,4 @@ function BMMain() {
   );
 }
 
-export default BMMain
+export default BMMain;

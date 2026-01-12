@@ -1,0 +1,261 @@
+{
+  "hadithId": 471,
+  "hadithNo": 47,
+  "hadithReferences": {
+    "sunnah.com": [
+      ""
+    ],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف. أثر ضمرة بن حبيب رواه سعيد بن منصور، وحديث أبي أمامة رواه الطبراني في الكبير (8/249) وفيه عتبة بن السكن وهو متروك، فالحديث بمجموع طرقه لا يصح مرفوعاً إلى النبي صلى الله عليه وسلم.",
+    "urdu": "یہ روایت ضعیف ہے۔ ضمرہ بن حبیب کا اثر موقوف ہے، اور ابوامامہ رضی اللہ عنہ کی مرفوع روایت جسے طبرانی نے بیان کیا ہے اس کی سند میں عتبہ بن السکن 'متروک' راوی ہے، اس لیے یہ نبی ﷺ سے ثابت نہیں ہے۔",
+    "english": "Da'if (Weak). The narration of Damrah is Muwquf (stopped at a Tabi'i), and the Marfu' version from Abu Umamah in Al-Mu'jam al-Kabir contains Utbah bin al-Sakan, who is rejected (matruk). Therefore, it is not authentically attributed to the Prophet (ﷺ)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَسْتَحِبُّونَ",
+      "english": "They recommended",
+      "urdu": "وہ مستحب سمجھتے تھے"
+    },
+    {
+      "arabic": "سُوِّيَ",
+      "english": "Leveled / Smoothed",
+      "urdu": "برابر کر دی گئی"
+    },
+    {
+      "arabic": "انْصَرَفَ",
+      "english": "Departed / Left",
+      "urdu": "لوٹ گئے / چلے گئے"
+    },
+    {
+      "arabic": "قُلْ",
+      "english": "Say",
+      "urdu": "تم کہو"
+    },
+    {
+      "arabic": "مَرْفُوعًا",
+      "english": "Marfu' (Attributed to Prophet)",
+      "urdu": "مرفوع (نبی ﷺ کا قول)"
+    }
+  ],
+  "summary": {
+    "urdu": "اس اثر میں تدفین کے بعد میت کو قبر کے سوالات کے جوابات یاد دلانے (تلقین) کا تذکرہ ہے، اگرچہ اس کی مرفوع روایات ضعیف ہیں، مگر شام کے بعض اہل علم کے ہاں یہ عمل رائج رہا ہے۔",
+    "english": "This report mentions the practice of Talqin (prompting the deceased with answers to the grave's questions) after burial. While its narrations are weak, it was a practiced tradition among some scholars in Syria."
+  },
+  "references": [
+    {
+      "arabic": "سنن سعيد بن منصور",
+      "english": "Sunan Sa'id bin Mansur"
+    },
+    {
+      "arabic": "المعجم الكبير للطبراني (7979)",
+      "english": "Al-Mu'jam al-Kabir al-Tabarani (7979)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ضمرة بن حبيب",
+        "english": "Damrah bin Habib"
+      },
+      "slug": "damrah-bin-habib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOf6TfN1Kic",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تلقینِ میت کی شرعی حیثیت",
+        "english": "Legal Status of Prompting the Deceased"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کا درجہ",
+              "english": "Status of the Narration"
+            },
+            "content": {
+              "urdu": [
+                "میت کو قبر میں سوال و جواب یاد دلانے کی مرفوع روایات سنداً ضعیف ہیں۔",
+                "محدثین کے نزدیک ایسی کوئی صحیح حدیث نہیں جو اس عمل کو سنت ثابت کرے۔",
+                "امام نووی اور بعض دیگر فقہاء نے اسے فضائل کے باب میں ذکر کیا ہے۔"
+              ],
+              "english": [
+                "The narrations regarding prompting the deceased after burial are weak in chain.",
+                "According to scholars, there is no Sahih Hadith that establishes this as Sunnah.",
+                "Imam Nawawi and some jurists mentioned it within the scope of virtuous acts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موقفِ ائمہ",
+              "english": "Position of the Imams"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی اور امام احمد سے اس عمل کا استحباب منقول ہے۔",
+                "امام ابوحنیفہ اور امام مالک کے نزدیک یہ مسنون یا رائج عمل نہیں تھا۔",
+                "سلف صالحین میں سے اہل شام کے ہاں اس عمل کا رواج پایا جاتا تھا۔"
+              ],
+              "english": [
+                "Recommendation for this act is reported from Imams Shafi'i and Ahmad.",
+                "For Imams Abu Hanifa and Malik, it was not a Sunnah or standard practice.",
+                "The practice of Talqin was prevalent among the early scholars of Syria."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قبر کی آزمائش اور دعا",
+        "english": "Trials of the Grave and Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ثباتِ قدمی کی دعا",
+              "english": "Prayer for Steadfastness"
+            },
+            "content": {
+              "urdu": [
+                "صحیح احادیث سے تدفین کے بعد میت کے لیے استغفار کرنا ثابت ہے۔",
+                "نبی ﷺ نے فرمایا کہ اپنے بھائی کے لیے ثابت قدمی کی دعا مانگو۔",
+                "تلقین کے بجائے استغفار اور ثباتِ قدمی کی دعا کرنا زیادہ افضل ہے۔"
+              ],
+              "english": [
+                "Authentic Hadiths prove seeking forgiveness for the dead after burial.",
+                "The Prophet (ﷺ) said: 'Ask for steadfastness for your brother.'",
+                "Praying for forgiveness and firmness is superior to manual prompting."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سوال و جواب کی حقیقت",
+              "english": "Reality of Questioning"
+            },
+            "content": {
+              "urdu": [
+                "قبر میں فرشتے میت سے رب، دین اور نبی کے بارے میں سوال کرتے ہیں۔",
+                "صرف وہی شخص جواب دے سکے گا جس کا ایمان زندگی میں پختہ تھا۔",
+                "ایمان اعمالِ صالحہ سے بنتا ہے، صرف زبانی یاد دہانی کافی نہیں ہوتی۔"
+              ],
+              "english": [
+                "Angels in the grave ask about the Lord, the religion, and the Prophet.",
+                "Only those whose faith was firm during life will be able to answer.",
+                "Faith is built through good deeds, not just verbal reminders at death."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تابعی ضمرہ بن حبیب کا قول",
+        "english": "Statement of Damrah bin Habib"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "موقوف روایت کا مفہوم",
+              "english": "Meaning of Muwquf Report"
+            },
+            "content": {
+              "urdu": [
+                "یہ قول ضمرہ بن حبیب پر ختم ہوتا ہے، جو کہ ایک تابعی ہیں۔",
+                "اس سے معلوم ہوتا ہے کہ کچھ تابعین اس عمل کو پسند کرتے تھے۔",
+                "صحابہ کرام کا عام عمل وہی تھا جو صحیح احادیث میں منقول ہے۔"
+              ],
+              "english": [
+                "This statement ends with Damrah bin Habib, who is a Tabi'i.",
+                "It indicates that some from the generation of Successors liked this act.",
+                "The general practice of the Companions was what is in Sahih Hadiths."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توحید کی یاد دہانی",
+              "english": "Reminding of Monotheism"
+            },
+            "content": {
+              "urdu": [
+                "اس تلقین کا مقصد میت کو اللہ کی وحدانیت پر قائم رکھنا تھا۔",
+                "الفاظ 'لا الہ الا اللہ' اسلام کی بنیاد اور کامیابی کی کنجی ہیں۔",
+                "یہ عمل میت کے لواحقین کے لیے قلبی تسلی کا باعث بھی بنتا ہے۔"
+              ],
+              "english": [
+                "The goal of prompting was to keep the deceased firm on Monotheism.",
+                "The phrase 'La ilaha illa Allah' is the foundation of Islam and key to success.",
+                "This act also serves as a source of emotional comfort for the bereaved."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی و تعلیمی اسباق",
+        "english": "Practical and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحیح سنت کی ترجیح",
+              "english": "Priority of Authentic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "عبادات میں ہمیشہ مستند اور صحیح احادیث کو ترجیح دینی چاہیے۔",
+                "ضعیف روایات پر عمل کرنے میں احتیاط لازم ہے تاکہ بدعت نہ بنے۔",
+                "میت کے لیے بہترین تحفہ صدقہ جاریہ اور دعائے مغفرت ہے۔"
+              ],
+              "english": [
+                "In worship, priority must always be given to authentic and Sahih Hadiths.",
+                "Caution is necessary when acting on weak reports to avoid innovation.",
+                "The best gift for the deceased is Sadaqah Jariyah and prayers for mercy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موت سے عبرت",
+              "english": "Lessons from Death"
+            },
+            "content": {
+              "urdu": [
+                "تدفین کے مناظر انسان کو اپنی آخرت کی فکر دلاتے ہیں۔",
+                "ہمیں اپنی زندگی میں ہی ان سوالات کی تیاری کرنی چاہیے۔",
+                "قبرستان جانا اور اہل قبور کے لیے دعا کرنا ایک اہم نصیحت ہے۔"
+              ],
+              "english": [
+                "Burial scenes remind a person to prepare for their own Hereafter.",
+                "We must prepare for the grave's questions during our lifetime.",
+                "Visiting graveyards and praying for the dead is a powerful reminder."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

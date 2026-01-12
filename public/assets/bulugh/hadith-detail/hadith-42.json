@@ -1,0 +1,208 @@
+{
+  "hadithId": 42,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 14 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الأمر بالتيامن في الوضوء",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه أبو داود (4141) ، والترمذي (1766) ، والنسائي في \"الكبرى\" (5 /482) ، وابن ماجه (402) ، وابن خزيمة (178)  واللفظ لابن ماجه.  وأما لفظ أبي داود، وابن خزيمة، فهو: \"إذا لبستم، وإذا توضأتم فابدأوا بأيامنكم\".  وأما الترمذي والنسائي فلفظهما: كان إذا ليس قميصا بدأ بميامنه.  ومن هذا يتضح لك خطأ الحافظ رحمه الله في عزوه الحديث لمخرجيه هكذا على الإطلاق. ",
+    "urdu": "صحیح (درجہ)۔ اسے ابوداؤد (4141)، ترمذی (1766)، نسائی نے 'الکبریٰ' (5/482)، اور ابن ماجہ (402) نے روایت کیا ہے، اور ابن ماجہ کے الفاظ ہیں۔ ابوداؤد اور ابن خزیمہ کے الفاظ میں یہ اضافہ ہے: \"جب تم لباس پہنو اور جب تم وضو کرو تو اپنے دائیں جانب سے ابتداء کیا کرو۔\" ترمذی اور نسائی کے الفاظ میں قمیص پہننے کا ذکر ہے۔",
+    "english": "Sahih (Authentic). Narrated by Abu Dawud (4141), At-Tirmidhi (1766), An-Nasa'i in 'Al-Kubra' (5/482), and Ibn Majah (402), authenticated by Ibn Khuzaymah (178). The wording quoted is from Ibn Majah. The narration in Abu Dawud and Ibn Khuzaymah includes a combined ruling: \"When you dress, and when you perform Wudu, begin with your right sides.\""
+  },
+  "importantWords": [
+    {
+      "arabic": "إِذَا تَوَضَّأْتُمْ",
+      "english": "When you perform Wudu",
+      "urdu": "جب تم وضو کرنے لگو"
+    },
+    {
+      "arabic": "فابدأوا",
+      "english": "Then begin",
+      "urdu": "ابتداء کیا کرو"
+    },
+    {
+      "arabic": "بِمَيَامِنِكُمْ",
+      "english": "With your right sides/limbs",
+      "urdu": "اپنے دائیں جانب سے"
+    },
+    {
+      "arabic": "رَسُولُ اَللَّهِ",
+      "english": "Messenger of Allah",
+      "urdu": "رسول اللہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وضو میں **ترتیب (تیمن)** کا واضح حکم دیتی ہے کہ اعضاء کو دھونے کی ابتداء ہمیشہ دائیں جانب سے کی جائے، جو نبی اکرم صلی اللہ علیہ وسلم کی سنت اور افضل طریقہ ہے۔",
+    "english": "This Hadith gives a clear command regarding the **order (Tayamum)** in Wudu, instructing believers to always begin the washing of limbs with the right side, which is the Sunnah and the most preferred method of the Prophet (ﷺ)."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب اللباس، رقم 4141",
+      "english": "Sunan Abī Dāwūd, The Book of Clothing, Hadith 4141"
+    },
+    {
+      "arabic": "جامع الترمذي، كتاب اللباس، رقم 1766",
+      "english": "Jami' At-Tirmidhi, The Book of Clothing, Hadith 1766"
+    },
+    {
+      "arabic": "سنن ابن ماجه، كتاب الطهارة، رقم 402",
+      "english": "Sunan Ibn Mājah, The Book of Purification, Hadith 402"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abu Hurayrah (May Allah be pleased with him)"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-20-begin-with-right",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وضو میں دائیں سے آغاز کا حکم",
+        "english": "The Command to Start Wudu on the Right"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دائیں جانب کی فضیلت",
+              "english": "The Virtue of the Right Side"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح طور پر حکم دیتی ہے کہ وضو کرتے وقت دھونے والے اعضاء (ہاتھ اور پاؤں) میں ہمیشہ **دائیں جانب سے ابتدا** کی جائے، جیسے پہلے دایاں ہاتھ پھر بایاں، اور پہلے دایاں پاؤں پھر بایاں۔",
+                "یہ حکم اس عمومی اصول کی تائید ہے کہ نبی اکرم ﷺ تمام بااعزاز اور صاف ستھرے افعال میں دائیں جانب کو پسند فرماتے تھے (جیسا کہ سیدہ عائشہؓ کی حدیث میں بیان ہوا)۔",
+                "دائیں ہاتھ کو فضیلت حاصل ہے کیونکہ وہ کھانے، پینے، مصافحہ کرنے اور دیگر نیک کاموں کے لیے استعمال ہوتا ہے، اس لیے اسے پہلے پاک کیا جاتا ہے۔"
+              ],
+              "english": [
+                "This Hadith clearly commands that when performing Wudu, one must **begin with the right side** for the washable limbs (hands and feet), washing the right limb before the left.",
+                "This reinforces the general rule that the Prophet (ﷺ) preferred the right side for all acts involving honor and cleanliness (as mentioned in Aisha's Hadith).",
+                "The right side is favored because it is used for eating, drinking, shaking hands, and other noble tasks, hence it is purified first."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تیمن کا حکم اور حیثیت",
+              "english": "The Command and Status of Tayamum"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک وضو میں دائیں سے آغاز کرنا (تیمن) ایک **سنت مؤکدہ** ہے، اور اس کے ترک کرنے سے وضو باطل نہیں ہوتا، لیکن سنت چھوٹ جاتی ہے۔",
+                "بعض علماء نے 'فابدأوا' (تو ابتداء کرو) کے صیغہ امر کی وجہ سے اسے واجب بھی قرار دیا ہے، لیکن عام رائے یہی ہے کہ یہ کمالِ وضو کے لیے ہے۔",
+                "لہٰذا، اس سنت کو ادا کرنے سے مسلمان کو نبی ﷺ کے طریقے کی پیروی کا اضافی اجر ملتا ہے اور اس کا وضو کامل ہوتا ہے۔"
+              ],
+              "english": [
+                "The majority of jurists consider starting with the right side (Tayamum) in Wudu an **emphasized Sunnah (Sunnah Mu'akkadah)**; omitting it doesn't invalidate Wudu but results in missing the Sunnah reward.",
+                "Some scholars view it as obligatory (Wājib) due to the imperative tense 'Fabda'ū' (then begin), but the prevailing view is that it is for the perfection of Wudu.",
+                "Therefore, practicing this Sunnah earns the Muslim extra reward for following the Prophet's method and completes their ablution."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "وضو کی ترتیب اور اعضاء",
+        "english": "Order and Limbs of Wudu"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ترتیب کا مسئلہ",
+              "english": "The Issue of Sequence (Tartīb)"
+            },
+            "content": {
+              "urdu": [
+                "تیمن (دائیں سے آغاز) کا اصول وضو کے فرائض کی عمومی **ترتیب (Tartīb)** کی خلاف ورزی نہیں کرتا، بلکہ فرائض کے اندر ہی ایک ترجیح ہے۔",
+                "وضو کی ترتیب (چہرہ، ہاتھ، سر، پاؤں) کو برقرار رکھنا فرض ہے، اور دائیں سے آغاز کرنا اسی ترتیب کے ہر مرحلے پر لاگو ہوتا ہے۔",
+                "یعنی، پہلے چہرہ، پھر دایاں ہاتھ، پھر بایاں ہاتھ، پھر سر کا مسح، پھر دایاں پاؤں، پھر بایاں پاؤں دھویا جائے، اس سے مکمل سنت ادا ہوتی ہے۔"
+              ],
+              "english": [
+                "The principle of Tayamum does not violate the general **sequence (Tartīb)** of Wudu's obligatory acts; rather, it is a preference within those steps.",
+                "Maintaining the overall order of Wudu (face, hands, head, feet) is obligatory, and starting with the right applies to each stage of paired limbs.",
+                "The sequence is: face first, then the right hand, then the left hand, then wiping the head, then the right foot, and finally the left foot, thus fulfilling the complete Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دائیں سے ابتداء کی اہمیت",
+              "english": "Significance of Starting on the Right"
+            },
+            "content": {
+              "urdu": [
+                "ابوداؤد اور ابن خزیمہ کی روایت میں وضو کے ساتھ لباس پہننے میں بھی دائیں سے آغاز کا ذکر ہے، جو اس اصول کو روزمرہ کی زندگی میں وسعت دیتا ہے۔",
+                "یہ اصول اس بات کی نشاندہی کرتا ہے کہ دائیں جانب کا تعلق خیر، برکت، اور اچھے اعمال سے ہے، جبکہ بائیں کو کم تر کاموں کے لیے چھوڑا جاتا ہے۔",
+                "یہ سنت مومن کو ہر نیک کام کے لیے تیار کرتی ہے اور اسے نفاست اور سلیقے کا شعور عطا کرتی ہے۔"
+              ],
+              "english": [
+                "The narration in Abu Dawud and Ibn Khuzaymah, which includes starting with the right side when dressing, extends this principle into everyday life affairs.",
+                "This rule signifies that the right side is associated with goodness, blessings, and noble deeds, while the left is generally reserved for actions of lesser dignity.",
+                "Adhering to this Sunnah prepares the believer for every good deed and instills a sense of elegance and order in their conduct."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی اور حدیث کا درجہ",
+        "english": "Narrator and Hadith Grade"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابوہریرہؓ کی روایت اور قوت",
+              "english": "The Narration of Abu Hurayrah and Its Strength"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوہریرہ رضی اللہ عنہ کی یہ روایت وضو کے طریقہ کار کے بنیادی اصولوں میں سے ایک ہے، جسے تمام چار سنن کے ائمہ نے روایت کیا ہے۔",
+                "ابن خزیمہ کی تصحیح اور دیگر ائمہ کی روایت کی وجہ سے اس کی سند قوی ہے اور یہ شرعی احکام اخذ کرنے میں مضبوط دلیل ہے۔",
+                "نبی اکرم ﷺ کے قول کے طور پر یہ حکم اس بات کی دلیل ہے کہ تیمن صرف افضل عمل نہیں بلکہ ایک یقینی شرعی ہدایت ہے۔"
+              ],
+              "english": [""]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت اور ثواب",
+              "english": "Sunnah and Reward"
+            },
+            "content": {
+              "urdu": [
+                "جو مسلمان اس سنت پر پابندی سے عمل کرتا ہے، اس کے لیے روزِ قیامت نور اور چمک میں اضافہ ہو گا، جیسا کہ پچھلی حدیث (غُرّاً مُحَجَّلِينَ) میں ہے۔",
+                "دائیں جانب سے ابتداء کرنا ایک ایسا آسان عمل ہے جو مسلمان کو نبی ﷺ کی محبوب سنت پر عمل کرنے کا موقع فراہم کرتا ہے۔",
+                "یہ مسلمانوں کو یہ یاد دلاتا ہے کہ وضو ایک ایسا عمل ہے جس کے ہر جز میں روحانی اور اخروی اجر مضمر ہے۔"
+              ],
+              "english": [
+                "A Muslim who regularly follows this Sunnah will have an increased spiritual light and radiance on the Day of Resurrection, as mentioned in the previous Hadith (Ghurran Muhajjalīn).",
+                "Starting with the right side is a simple act that provides the Muslim with an opportunity to follow a beloved Sunnah of the Prophet (ﷺ).",
+                "It reminds Muslims that Wudu is an act of worship where every single component holds deep spiritual and eternal rewards."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 909,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1045"],
+    "kitabId": 8,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب النكاح",
+    "babId": 69
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (5212) ، ومسلم (1463) واللفظ للبخاري. وأصله أن سودة رضي الله عنها لما كبرت خافت أن يطلقها النبي صلى الله عليه وسلم ففعلت ذلك طلباً لرضاه.",
+    "urdu": "صحیح۔ اسے بخاری (5212) اور مسلم (1463) نے روایت کیا ہے۔ اس واقعے کا پس منظر یہ ہے کہ سیدہ سودہ رضی اللہ عنہا عمر رسیدہ ہو گئی تھیں اور انہوں نے نبی ﷺ کی رضا اور زوجیت میں رہنے کی خاطر اپنی باری سیدہ عائشہ کو دے دی۔",
+    "english": "Sahih. Reported by Al-Bukhari (5212) and Muslim (1463). The background is that when Sawdah (RA) became old, she feared the Prophet (ﷺ) might divorce her, so she gave her day to 'Aisha to please him and remain his wife."
+  },
+  "importantWords": [
+    {
+      "arabic": "وَهَبَتْ",
+      "english": "Gifted / Gave up",
+      "urdu": "ہبہ کر دیا / بخش دیا"
+    },
+    {
+      "arabic": "يَوْمَهَا",
+      "english": "Her day (turn)",
+      "urdu": "اپنا دن / اپنی باری"
+    },
+    {
+      "arabic": "يَقْسِمُ",
+      "english": "Allots / Divides",
+      "urdu": "تقسیم فرماتے تھے"
+    },
+    {
+      "arabic": "بِنْتَ",
+      "english": "Daughter of",
+      "urdu": "بیٹی"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْه",
+      "english": "Agreed upon",
+      "urdu": "متفق علیہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ ایک بیوی اپنی باری کا دن اپنی خوشی سے کسی دوسری سوکن کو ہبہ کر سکتی ہے اور شوہر اس پر عمل کر سکتا ہے۔",
+    "english": "This Hadith establishes that a wife may voluntarily gift her turn to another co-wife, and the husband is permitted to accept this arrangement."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5212)",
+      "english": "Sahih al-Bukhari (5212)"
+    },
+    {
+      "arabic": "صحيح مسلم (1463)",
+      "english": "Sahih Muslim (2022)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kq6fR_wz4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "باری کا ہبہ کرنا",
+        "english": "Gifting of the Turn"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیوی کا حق",
+              "english": "Wife's Right"
+            },
+            "content": {
+              "urdu": [
+                "باری کا دن بیوی کا خالص حق ہے جسے وہ اپنی مرضی سے استعمال کر سکتی ہے۔",
+                "اگر بیوی اپنی باری کسی دوسری سوکن کو دینا چاہے تو شرعی طور پر یہ جائز ہے۔",
+                "اس عمل کے لیے شوہر کی رضامندی بھی ضروری ہے تاکہ نظم برقرار رہے۔"
+              ],
+              "english": [
+                "The allotted turn is the exclusive right of the wife to use as she pleases.",
+                "It is Islamically permissible for a wife to gift her day to a co-wife.",
+                "The husband's consent is also required for this arrangement to be valid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایثار اور قربانی",
+              "english": "Altruism and Sacrifice"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ سودہ رضی اللہ عنہا کا یہ عمل ان کی عظیم قربانی اور ایثار کی علامت ہے۔",
+                "انہوں نے اپنی باری اس لیے چھوڑی تاکہ نبی ﷺ کی زوجیت میں برقرار رہیں۔",
+                "یہ عمل سوکنوں کے درمیان حسد کے بجائے محبت اور خیر خواہی کی مثال ہے۔"
+              ],
+              "english": [
+                "Sawdah's (RA) action is a sign of her great sacrifice and altruism.",
+                "She gave up her turn to ensure she remained among the wives of the Prophet (ﷺ).",
+                "This serves as an example of goodwill and love instead of jealousy among co-wives."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدل کی ذمہ داری",
+              "english": "Responsibility of Justice"
+            },
+            "content": {
+              "urdu": [
+                "شوہر پر عدل واجب ہے لیکن اگر کوئی بیوی اپنا حق چھوڑ دے تو شوہر بری الذمہ ہے۔",
+                "ہبہ شدہ دن کی تقسیم سے عدل کے بنیادی اصول کی خلاف ورزی نہیں ہوتی۔",
+                "بیوی کسی بھی وقت اپنے اس فیصلے سے رجوع کرنے کا حق رکھتی ہے۔"
+              ],
+              "english": [
+                "Justice is obligatory on the husband, but he is exempt if a wife waives her right.",
+                "Utilizing a gifted day does not violate the core principles of marital justice.",
+                "A wife retains the right to revoke her decision and reclaim her turn at any time."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی گنجائش",
+              "english": "Legal Scope"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث تعددِ ازواج کے معاملات میں لچک اور وسعت فراہم کرتی ہے۔",
+                "گھریلو مسائل کو باہمی سمجھوتہ اور خوش اسلوبی سے حل کرنا سنت ہے۔",
+                "حقوقِ زوجیت میں باہمی رضا مندی کو اسلام میں بڑی اہمیت حاصل ہے۔"
+              ],
+              "english": [
+                "This Hadith provides flexibility and scope in matters of polygyny.",
+                "It is Sunnah to resolve domestic issues through mutual compromise and kindness.",
+                "Mutual consent in marital rights holds significant importance in Islam."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "امہات المومنین کی زندگی",
+        "english": "Life of the Mothers of Believers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ سے محبت",
+              "english": "Love for the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ سودہ رضی اللہ عنہا نے ثابت کیا کہ ان کے نزدیک نبی ﷺ کا ساتھ سب سے قیمتی ہے۔",
+                "انہوں نے اپنی جسمانی ضرورت پر نبی ﷺ کی خوشی اور رضا کو ترجیح دی۔",
+                "امہات المومنین کی زندگیاں قیامت تک آنے والی خواتین کے لیے مشعلِ راہ ہیں۔"
+              ],
+              "english": [
+                "Sawdah (RA) proved that being with the Prophet (ﷺ) was her most precious priority.",
+                "She prioritized the Prophet's pleasure and proximity over her own physical needs.",
+                "The lives of the Mothers of Believers are a beacon of light for all women."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گھریلو حسنِ معاشرت",
+              "english": "Excellent Domestic Conduct"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے گھرانے میں مسائل کا حل ہمیشہ حکمت اور محبت سے نکالا جاتا تھا۔",
+                "سیدہ عائشہ رضی اللہ عنہا نے اس ہدیہ کو قبول کر کے باہمی اعتماد کا ثبوت دیا۔",
+                "یہ واقعہ سکھاتا ہے کہ بڑے مقصد کے لیے چھوٹی چیزوں سے دستبردار ہونا دانشمندی ہے۔"
+              ],
+              "english": [
+                "Solutions to issues in the Prophet's household were always found with wisdom and love.",
+                "Aisha (RA) accepted this gift, demonstrating mutual trust between the wives.",
+                "This event teaches that giving up small rights for a greater purpose is wise."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسائل کا حل",
+              "english": "Conflict Resolution"
+            },
+            "content": {
+              "urdu": [
+                "ازدواجی زندگی میں ضد کے بجائے لچک دکھانا گھر کو ٹوٹنے سے بچاتا ہے۔",
+                "اللہ کی رضا کے لیے اپنے حق سے دستبردار ہونا بہت بڑے اجر کا باعث ہے۔",
+                "معاشرتی تعلقات میں دوسروں کے جذبات کا خیال رکھنا اسلامی تعلیمات کا لب لباب ہے۔"
+              ],
+              "english": [
+                "Showing flexibility instead of stubbornness in marriage prevents family breakdown.",
+                "Relinquishing one's right for the sake of Allah leads to a great reward.",
+                "Caring for others' feelings in social relations is the essence of Islamic teachings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خواتین کی تربیت",
+              "english": "Training for Women"
+            },
+            "content": {
+              "urdu": [
+                "خواتین کو چاہیے کہ وہ خاندان کے وسیع تر مفاد میں قربانی دینا سیکھیں۔",
+                "حقوق کے مطالبے کے ساتھ ساتھ احسان اور درگزر کا راستہ بھی اپنانا چاہیے۔",
+                "یہ حدیث ایک مثالی اسلامی معاشرے کی تعمیر میں خواتین کے کردار کو واضح کرتی ہے۔"
+              ],
+              "english": [
+                "Women should learn to make sacrifices for the broader interest of the family.",
+                "Along with demanding rights, one should also adopt the path of favor and pardon.",
+                "This Hadith clarifies the role of women in building an ideal Islamic society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

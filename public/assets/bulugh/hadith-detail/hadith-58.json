@@ -1,0 +1,263 @@
+{
+  "hadithId": 58,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 6 (Chapter 5)"],
+    "kitabId": 1,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب المسح على العمامة والتساخين",
+    "babId": 5
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه أحمد (577) ، وأبو داود (146) ، والحاكم (169) ، وقد أعل الحديث بما لا يقدح.",
+    "urdu": "صحیح (درجہ)۔ اسے احمد (577)، ابوداؤد (146) اور حاکم (169) نے روایت کیا ہے۔ اور اس حدیث میں جو علت بیان کی گئی ہے وہ اس کی صحت کو متاثر نہیں کرتی۔",
+    "english": "Sahih (Authentic). Narrated by Ahmad (577), Abu Dawud (146), and Al-Ḥākim (169). The minor flaws noted in the Hadith chain do not diminish its authenticity."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَرِيَّةً",
+      "english": "Detachment/small army",
+      "urdu": "چھوٹا لشکر"
+    },
+    {
+      "arabic": "أَنْ يَمْسَحُوا",
+      "english": "To wipe over",
+      "urdu": "مسح کریں"
+    },
+    {
+      "arabic": "اَلْعَصَائِبِ",
+      "english": "Headbands/Turbans",
+      "urdu": "پگڑیاں"
+    },
+    {
+      "arabic": "اَلتَّسَاخِينِ",
+      "english": "Coverings for the feet",
+      "urdu": "تساخین (موزے)"
+    },
+    {
+      "arabic": "اَلْخِفَافَ",
+      "english": "The leather socks",
+      "urdu": "موزے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث اس بات کو ثابت کرتی ہے کہ دورانِ سفر یا حالتِ جنگ میں آسانی کے لیے پگڑی (عمامہ) اور موزوں (خفین) پر مسح کرنا سنتِ نبوی سے ثابت ہے، اور یہ حکم خود رسول اللہ صلی اللہ علیہ وسلم نے دیا تھا۔",
+    "english": "This Hadith confirms that wiping over the turban (ʿImāmah) and the Khuffayn (leather socks) is an established Sunnah, particularly given as a concession to ease the burden on soldiers and travelers."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد، رقم 577",
+      "english": "Musnad Ahmad, Hadith 577"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الطهارة، رقم 146",
+      "english": "Sunan Abī Dāwūd, The Book of Purification, Hadith 146"
+    },
+    {
+      "arabic": "المستدرك على الصحيحين للحاكم، رقم 169",
+      "english": "Al-Mustadrak 'ala al-Sahihayn by Al-Hākim, Hadith 169"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ثَوْبَانُ مَوْلَى رَسُولِ اَللَّهِ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Thawbān (May Allah be pleased with him)"
+      },
+      "slug": "thawban"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-36-wiping-concession-soldiers",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سفر اور مشقت میں رخصت",
+        "english": "Concession in Travel and Hardship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمامہ اور موزوں پر مسح کا حکم",
+              "english": "The Command to Wipe Over Turban and Socks"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح طور پر نبی اکرم ﷺ کے حکم سے یہ ثابت کرتی ہے کہ سر پر موجود **پگڑی (عمامہ)** اور پاؤں میں پہنے **موزوں (تساخین)** پر مسح کرنا شرعی طور پر جائز ہے۔",
+                "یہ حکم اس وقت دیا گیا جب ایک چھوٹا لشکر (سریہ) روانہ ہو رہا تھا، جس سے یہ ظاہر ہوتا ہے کہ یہ آسانی خاص طور پر **سفر اور جہاد کی مشقت** کے لیے دی گئی تھی۔",
+                "پگڑی اتارنا اور بار بار موزے اتارنا سپاہیوں کے لیے بوجھ بن سکتا تھا، اس لیے نبی ﷺ نے مسح کی رخصت دی۔"
+              ],
+              "english": [
+                "This Hadith clearly proves, by the direct command of the Prophet (ﷺ), that wiping over the **turban (ʿImāmah)** and the **socks (Tasākhīn)** worn on the feet is legally permissible.",
+                "The command was given when a small detachment (*Sariyyah*) was being sent out, indicating this ease was specifically granted for the **hardship of travel and Jihad**.",
+                "Repeatedly removing the turban and socks would have been burdensome for the soldiers, so the Prophet (ﷺ) granted the concession of wiping."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تساخین کا اطلاق",
+              "english": "Application of At-Tasākhīn"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'تساخین' (گرم رکھنے والی چیزیں) کا لفظ استعمال ہوا ہے، جس کی وضاحت 'خفین' (چمڑے کے موزے) سے کی گئی ہے، جو موزوں پر مسح کے جواز کو مضبوط کرتی ہے۔",
+                "یہ الفاظ اس بات پر بھی دلالت کرتے ہیں کہ یہ حکم صرف چمڑے کے موزوں تک محدود نہیں، بلکہ ہر اس چیز پر لاگو ہو سکتا ہے جو پاؤں کو ڈھانپنے اور گرم رکھنے کا مقصد پورا کرتی ہو۔",
+                "یہ توسیع فقہاء کے اس قول کی تائید کرتی ہے جو سخت سوتی یا اون کے موزوں پر بھی مسح کی اجازت دیتے ہیں، بشرطیکہ وہ موٹے اور پاؤں کو مکمل ڈھانپنے والے ہوں۔"
+              ],
+              "english": [
+                "The word *Tasākhīn* (coverings for warmth) used in the Hadith is explained as *Khuffayn* (leather socks), reinforcing the permissibility of wiping over socks.",
+                "These words also indicate that the ruling is not strictly limited to leather socks but can apply to any covering that fulfills the purpose of covering and keeping the feet warm.",
+                "This supports the juristic view that permits wiping over thick cotton or wool socks, provided they are durable and fully cover the obligatory part of the feet."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عمامہ پر مسح کا جواز",
+        "english": "Permissibility of Wiping Over the Turban"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسح کا فرض اور آسانی",
+              "english": "Obligation and Ease of Wiping"
+            },
+            "content": {
+              "urdu": [
+                "عمامہ پر مسح کی اجازت اس بات کا ثبوت ہے کہ سر کو مکمل طور پر دھونے کے بجائے مسح کا حکم ہے اور اس میں مشقت سے بچاؤ مطلوب ہے۔",
+                "عمامہ (پگڑی) کے علاوہ ٹوپی یا خواتین کے اوڑھنے والے اسکارف پر بھی مسح جائز ہے، اگر اسے بار بار اتارنا مشکل ہو، جو عمومی رخصت ہے۔",
+                "یہ عمل اس بات کو ظاہر کرتا ہے کہ شریعت میں فرائض کی ادائیگی کے ساتھ ساتھ بندوں کے حالات کا بھی مکمل لحاظ رکھا گیا ہے۔"
+              ],
+              "english": [
+                "Permission to wipe over the turban proves that wiping is commanded instead of washing the head, intending to avoid difficulty.",
+                "Wiping is also permissible over caps or women's headscarves, provided removing them repeatedly is difficult, making it a general concession.",
+                "This act shows that Islamic Law completely considers the circumstances of believers while upholding the necessity of performing acts of worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رخصت پر عمل کا حکم",
+              "english": "Command to Act on the Concession"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ نے اس سریہ (لشکر) کو یہ **حکم** (فَأَمَرَهُمْ) دیا، جو اس بات کی دلیل ہے کہ رخصت پر عمل کرنا بھی سنت کی پیروی اور اللہ کی رضا کا ذریعہ ہے۔",
+                "مسلمان کو چاہیے کہ وہ آسانی کے مواقع پر شرعی رخصتوں کو قبول کرے، اور اسے دین میں سستی یا کمزوری نہ سمجھے۔",
+                "اس حکم کی پیروی سے سپاہیوں کو سردی میں طہارت کو برقرار رکھنے میں آسانی ہوئی، اور وہ جہاد کے لیے زیادہ تیار رہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) **commanded** (*fa'amarahum*) this detachment to wipe, which proves that acting upon a concession is also a means of following the Sunnah and earning Allah's pleasure.",
+                "A Muslim should accept legal concessions during times of ease and not view it as laziness or weakness in religious commitment.",
+                "Obeying this command made it easier for the soldiers to maintain purity in the cold, keeping them better prepared for Jihad."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی اور حدیث کی سند",
+        "english": "Narrator and Hadith Authenticity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ثوبانؓ کا مقام",
+              "english": "The Status of Thawbān (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ثوبان رضی اللہ عنہ نبی اکرم ﷺ کے آزاد کردہ غلام اور قریبی خادم تھے، اس لیے آپ کے احوال اور احکام کا علم زیادہ رکھتے تھے۔",
+                "ان کی روایت ایک اہم موقع (سریہ کی روانگی) سے متعلق ہے، جو اس کے حکم کی عملی اور عمومی حیثیت کو واضح کرتی ہے۔",
+                "ان کی روایت کردہ اس حکم کو امام حاکم نے صحیح قرار دیا ہے، جس سے اس کا شرعی دلیل ہونا ثابت ہے۔"
+              ],
+              "english": [
+                "Sayyiduna Thawbān (RA) was the freed slave and close servant of the Prophet (ﷺ), giving him extensive knowledge of the Prophet's circumstances and rulings.",
+                "His narration relates to an important occasion (the sending of a detachment), which clarifies the practical and general nature of this ruling.",
+                "The fact that Al-Hākim authenticated this command proves its authoritative status as a legal proof."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحت پر یقین",
+              "english": "Confidence in Authenticity"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کا اس حدیث کو **صحیح** قرار دینا اس بات کی دلیل ہے کہ مسح علی الخفین اور عمامہ دونوں کا جواز شرعی طور پر یقینی ہے۔",
+                "اگرچہ اس کی سند میں کچھ کمزوریاں بتائی گئی ہیں، لیکن محدثین نے انہیں غیر مؤثر قرار دیا، یعنی مجموعی طور پر حکم صحیح ہے۔",
+                "یہ حکم مسلمانوں کو یہ یقین دلاتا ہے کہ وہ نماز اور طہارت کے لیے ان رخصتوں پر اعتماد کر سکتے ہیں۔"
+              ],
+              "english": [
+                "The consensus among Hadith scholars on the **Sahih (Authentic)** grade of this Hadith confirms the legal certainty of wiping over both the Khuffayn and the turban.",
+                "Although some minor flaws were noted in the chain, scholars deemed them non-detrimental, meaning the overall ruling remains authentic.",
+                "This ruling instills confidence in Muslims that they can rely on these concessions for their prayer and purity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جنابت اور طہارت کا فرق",
+        "english": "Difference Between Janābah and Purity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدث اکبر کا مسئلہ",
+              "english": "The Issue of Major Impurity (Ḥadath Akbar)"
+            },
+            "content": {
+              "urdu": [
+                "یہاں رخصت صرف حدث اصغر (وضو ٹوٹنے) کی صورت میں ہے، جبکہ جنابت (حدث اکبر) کے لیے غسل فرض ہے اور اس میں موزوں کو اتارنا ضروری ہے۔",
+                "حدث اکبر میں پورے جسم کو دھونا فرض ہے، جس میں پاؤں بھی شامل ہیں، اس لیے وہاں مسح کافی نہیں ہوتا۔",
+                "یہ تفریق اسلام میں طہارت کے درجات اور ان کے تقاضوں کی اہمیت کو واضح کرتی ہے۔"
+              ],
+              "english": [
+                "The concession here is only for minor impurity (*ḥadath aṣghar*); for major impurity (*Janābah*), Ghusl is obligatory, and the socks must be removed.",
+                "Washing the entire body is mandatory for *ḥadath akbar*, including the feet, so wiping is insufficient.",
+                "This distinction clarifies the varying ritual statuses of purity in Islam and the different demands they place on the believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسح کی مدت اور توسیع",
+              "english": "Duration of Wiping and Extension"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث مدت کا ذکر نہیں کرتی، لیکن دیگر احادیث سے مسافر کے لیے **تین دن رات** کی مدت مقرر ہے، اور اس حکم کا اطلاق اسی مدت کے اندر ہوتا ہے۔",
+                "اس رخصت کو مستقل عمل نہیں بنانا چاہیے، بلکہ ضرورت کے تحت اس مدت کی پابندی کے ساتھ ہی استعمال کرنا چاہیے۔",
+                "مسلمان کو چاہیے کہ وہ نبی ﷺ کی اس حکم کی پیروی کرتے ہوئے، طہارت میں آسانی کو غنیمت سمجھے۔"
+              ],
+              "english": [
+                "Although this Hadith does not specify the time limit, other Ahadith confirm the traveler's period is **three days and nights**, and this command is implemented within that limit.",
+                "This concession should not be turned into a permanent practice but used only when necessary, observing the prescribed time limits.",
+                "A Muslim should follow this command of the Prophet (ﷺ), appreciating the ease provided in achieving ritual purity."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

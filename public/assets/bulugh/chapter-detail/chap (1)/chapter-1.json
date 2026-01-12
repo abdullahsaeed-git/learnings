@@ -1,0 +1,137 @@
+{
+    "chapId": 1,
+    "bookId": 1,
+    "summary": {
+        "urdu": [""],
+        "english": [""]
+    },
+    "description": {
+        "urdu": " ",
+        "english": " "
+    }, 
+    "hadithRange": {
+        "from": 1,
+        "to": 13
+    }, 
+    "hadiths": [
+        {
+            "id": 1,
+            "name": {
+                "arabic": "عَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -فِي اَلْبَحْرِ: { هُوَ اَلطُّهُورُ مَاؤُهُ, اَلْحِلُّ مَيْتَتُهُ } أَخْرَجَهُ اَلْأَرْبَعَةُ, وَابْنُ أَبِي شَيْبَةَ وَاللَّفْظُ لَهُ, وَصَحَّحَهُ اِبْنُ خُزَيْمَةَ وَاَلتِّرْمِذِيُّ ",
+                "urdu": "ابوہریرہ رضی اللہ عنہ سے مروی ہے کہ انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے البحر کے بارے میں فرمایا: {اس کا پانی پاک ہے اور اس کا میت حلال ہے} آپ صلی اللہ علیہ وسلم نے اسے بھی شامل کیا۔ چار، اور ابن ابی شیبہ اور اس کا تلفظ، اور اسے ابن خزیمہ اور الترمذی نے مستند کیا ہے۔",
+                "english":"Narrated by Abu Huraira (RA): A man asked the Messenger of Allah ﷺ about the sea, saying: 'O Messenger of Allah, we travel by sea and carry little water. If we use it for ablution, we will become thirsty. Can we perform ablution with sea water?' The Prophet ﷺ replied: 'Its water is pure and its dead (animals) are lawful to eat.'"
+            }
+        },
+
+        
+        {
+            "id": 2,
+            "name": {
+                "arabic": "وَعَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -{ إِنَّ اَلْمَاءَ طَهُورٌ لَا يُنَجِّسُهُ شَيْءٌ } أَخْرَجَهُ اَلثَّلَاثَةُ 1 وَصَحَّحَهُ أَحْمَدُ",
+                "urdu": "ابو سعید خدری رضی اللہ عنہ سے روایت ہے کہ انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”پانی پاک ہے اور اسے کوئی چیز ناپاک نہیں کر سکتی“۔ اس نے اسے شامل کیا۔ تین 1 اور اس کی توثیق احمد نے کی ہے۔",
+                "english": " "
+            }
+        },
+
+        {
+          "id": 3,
+          "name": {
+            "arabic": "وَعَنْ أَبِي أُمَامَةَ اَلْبَاهِلِيِّ - رضى الله عنه - قَالَ: قَالَ رَسُولُ - صلى الله عليه وسلم -{ إِنَّ اَلْمَاءَ لَا يُنَجِّسُهُ شَيْءٌ, إِلَّا مَا غَلَبَ عَلَى رِيحِهِ وَطَعْمِهِ, وَلَوْنِهِ } أَخْرَجَهُ اِبْنُ مَاجَهْ 1 وَضَعَّفَهُ أَبُو حَاتِمٍ وَلِلْبَيْهَقِيِّ: { اَلْمَاءُ طَاهِرٌ إِلَّا إِنْ تَغَيَّرَ رِيحُهُ, أَوْ طَعْمُهُ, أَوْ لَوْنُهُ; بِنَجَاسَةٍ تَحْدُثُ فِيهِ }",
+            "urdu": "سیدنا ابوامامہ الباہلی رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”یقیناً پانی کو کوئی چیز ناپاک نہیں کرتی مگر وہ چیز جو اس کی بو، ذائقہ یا رنگ کو بدل دے۔“ اسے ابن ماجہ نے روایت کیا ہے اور ابوحاتم نے اسے ضعیف قرار دیا ہے۔ بیہقی میں الفاظ ہیں: ”پانی پاک ہے سوائے اس کے کہ کوئی ناپاک چیز اس میں گر کر اس کی بو، ذائقہ یا رنگ کو بدل دے۔“",
+            "english": "Abu Umamah al-Bahili (may Allah be pleased with him) reported that the Messenger of Allah (peace and blessings be upon him) said: 'Indeed, nothing makes water impure except that which changes its smell, taste, or color.' Reported by Ibn Majah and weakened by Abu Hatim. In Al-Bayhaqi it is narrated: 'Water is pure unless its smell, taste, or color changes due to impurity falling into it.'"
+          }
+        },
+
+        {
+          "id": 4,
+          "name": {
+            "arabic": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: {إِذَا كَانَ الْمَاءُ قُلَّتَيْنِ لَمْ يَحْمِلِ الْخَبَثَ}، وَفِي لَفْظٍ: {لَمْ يَنْجُسْ}. أَخْرَجَهُ الْأَرْبَعَةُ، وَصَحَّحَهُ ابْنُ خُزَيْمَةَ وَابْنُ حِبَّانَ.",
+            "urdu": "سیدنا عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب پانی دو قُلَّت مقدار کا ہو جائے تو وہ ناپاکی کو قبول نہیں کرتا۔“ ایک روایت میں الفاظ ہیں: ”وہ ناپاک نہیں ہوتا۔“ اسے ائمہ اربعہ (ابوداؤد، ترمذی، نسائی، ابن ماجہ) نے روایت کیا ہے اور ابن خزیمہ و ابن حبان نے صحیح قرار دیا ہے۔",
+            "english": "Abdullah ibn Umar (may Allah be pleased with them both) reported that the Messenger of Allah (peace and blessings be upon him) said: 'If the water reaches two qullahs, it does not carry impurity.' In another narration: 'It does not become impure.' Reported by the Four Imams and authenticated by Ibn Khuzaymah and Ibn Hibban."
+          }
+        },
+
+        {
+          "id": 5,
+          "name": {
+            "arabic": "وَعَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -{ لَا يَغْتَسِلُ أَحَدُكُمْ فِي اَلْمَاءِ اَلدَّائِمِ وَهُوَ جُنُبٌ } أَخْرَجَهُ مُسْلِمٌ وَلِلْبُخَارِيِّ: { لَا يَبُولَنَّ أَحَدُكُمْ فِي اَلْمَاءِ اَلدَّائِمِ اَلَّذِي لَا يَجْرِي, ثُمَّ يَغْتَسِلُ فِيهِ } 1 . وَلِمُسْلِمٍ: 'مِنْهُ' 2 . وَلِأَبِي دَاوُدَ: { وَلَا يَغْتَسِلُ فِيهِ مِنْ اَلْجَنَابَةِ }",
+            "urdu": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا: تم میں سے کوئی شخص بہتے ہوئے پانی میں غسل نہ کرے جبکہ وہ جنبی ہو۔ (مسلم) اور بخاری میں ہے: تم میں سے کوئی شخص ٹھہرے ہوئے پانی میں پیشاب نہ کرے جس میں روانی نہ ہو، پھر اس میں غسل کرے۔",
+            "english": "Abu Hurairah (may Allah be pleased with him) reported that the Messenger of Allah (peace be upon him) said: 'None of you should bathe in stagnant water while in a state of major impurity (janabah).' (Reported by Muslim). In another narration by al-Bukhari: 'None of you should urinate in stagnant water that does not flow and then wash in it.'"
+          }
+        },
+
+        {
+          "id": 6,
+          "name": {
+            "arabic": "وَعَنْ رَجُلٍ صَحِبَ اَلنَّبِيَّ - صلى الله عليه وسلم -قَالَ: { نَهَى رَسُولُ اَللَّهِ - صلى الله عليه وسلم -'أَنْ تَغْتَسِلَ اَلْمَرْأَةُ بِفَضْلِ اَلرَّجُلِ, أَوْ اَلرَّجُلُ بِفَضْلِ اَلْمَرْأَةِ, وَلْيَغْتَرِفَا جَمِيعًا } أَخْرَجَهُ أَبُو دَاوُدَ. وَالنَّسَائِيُّ, وَإِسْنَادُهُ صَحِيحٌ",
+            "urdu": "اور ایک آدمی کی سند سے جو رسول اللہ صلی اللہ علیہ وسلم کے صحابی تھے - انہوں نے کہا: { رسول اللہ صلی اللہ علیہ وسلم نے عورت کو منع کیا کہ وہ مرد یا مرد کی بدولت غسل کرے۔ عورت کے فضل سے، اور ان سب کو مغلوب ہونے دیں۔ اسے ابوداؤد اور نسائی نے روایت کیا ہے اور اس کی سند صحیح ہے۔",
+            "english": "A man who accompanied the Prophet (peace be upon him) reported: The Messenger of Allah forbade a woman from washing due to a man’s portion, or a man due to a woman’s portion; both should scoop together. Reported by Abu Dawood and al-Nasa’i, and its chain is authentic."
+          }
+        },
+
+        {
+          "id": 7,
+          "name": {
+            "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا; { أَنَّ اَلنَّبِيَّ - صلى الله عليه وسلم -كَانَ يَغْتَسِلُ بِفَضْلِ مَيْمُونَةَ رَضِيَ اَللَّهُ عَنْهَا } أَخْرَجَهُ مُسْلِمٌ وَلِأَصْحَابِ 'اَلسُّنَن': { اِغْتَسَلَ بَعْضُ أَزْوَاجِ اَلنَّبِيِّ - صلى الله عليه وسلم -فِي جَفْنَةٍ, فَجَاءَ لِيَغْتَسِلَ مِنْهَا, فَقَالَتْ لَهُ: إِنِّي كُنْتُ جُنُبًا, فَقَالَ: ' إِنَّ اَلْمَاءَ لَا يُجْنِبُ ' } وَصَحَّحَهُ اَلتِّرْمِذِيُّ, وَابْنُ خُزَيْمَة",
+            "urdu": "ابن عباس رضی اللہ عنہما سے روایت ہے کہ نبی صلی اللہ علیہ وسلم میمونہ رضی اللہ عنہا کے فضلہ میں غسل کرتے تھے۔ یہ حدیث مسلم اور دیگر صحاح سنن میں مروی ہے اور اس کی سند صحیح ہے۔",
+            "english": "Ibn Abbas (may Allah be pleased with them) reported that the Prophet (peace be upon him) used to bathe with the water left by Maimunah (may Allah be pleased with her). This Hadith is narrated in Muslim and other Sunan, and its chain is authentic."
+          }
+        },
+
+        {
+          "id": 8,
+          "name": {
+            "arabic": "وَعَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -{ طَهُورُ إِنَاءِ أَحَدِكُمْ إِذْ وَلَغَ فِيهِ اَلْكَلْبُ أَنْ يَغْسِلَهُ سَبْعَ مَرَّاتٍ, أُولَاهُنَّ بِالتُّرَابِ } أَخْرَجَهُ مُسْلِمٌ وَفِي لَفْظٍ لَهُ: { فَلْيُرِقْهُ } وَلِلتِّرْمِذِيِّ: { أُخْرَاهُنَّ, أَوْ أُولَاهُنَّ بِالتُّرَابِ }",
+            "urdu": "ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تم میں سے کسی کے برتن کو کتے نے چاٹنے کے بعد اسے دھونا ہے۔ سات بار، پہلی بار اسے خاک کے ساتھ دھویا جائے۔",
+            "english": "Abu Hurairah (may Allah be pleased with him) reported that the Prophet (peace be upon him) said: 'If a dog licks the vessel of any of you, wash it seven times, the first time with soil.' This is narrated in Muslim, and in another wording in At-Tirmidhi."
+          }
+        },
+
+        {
+          "id": 9,
+          "name": {
+            "arabic": "وَعَنْ أَبِي قَتَادَةَ - رضى الله عنه - أَنَّ رَسُولَ اَللَّهِ - صلى الله عليه وسلم -قَالَ -فِي اَلْهِرَّةِ-: { إِنَّهَا لَيْسَتْ بِنَجَسٍ, إِنَّمَا هِيَ مِنْ اَلطَّوَّافِينَ عَلَيْكُمْ } أَخْرَجَهُ اَلْأَرْبَعَةُ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ. وَابْنُ خُزَيْمَةَ",
+            "urdu": "ابو قتادہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے بلی کے بارے میں فرمایا: ' یہ نجس نہیں ہے، بلکہ یہ ان لوگوں کی طرف سے ہے جو گھومتے ہیں۔ ' آپ پر۔ اسے چاروں نے روایت کیا ہے اور اسے ترمذی نے مستند کیا ہے۔ اور ابن خزیمہ",
+            "english": "Abu Qatada (may Allah be pleased with him) reported that the Messenger of Allah (peace be upon him) said regarding the cat: 'It is not impure; rather it is among those who roam around you.' Narrated by the four, authenticated by At-Tirmidhi and Ibn Khuzaymah."
+          }
+        },
+
+        {
+          "id": 10,
+          "name": {
+            "arabic": "وَعَنْ أَنَسِ بْنِ مَالِكٍ - رضى الله عنه - قَالَ: { جَاءَ أَعْرَابِيٌّ فَبَالَ فِي طَائِفَةِ اَلْمَسْجِدِ, فَزَجَرَهُ اَلنَّاسُ, فَنَهَاهُمْ اَلنَّبِيُّ - صلى الله عليه وسلم -فَلَمَّا قَضَى بَوْلَهُ أَمَرَ اَلنَّبِيُّ - صلى الله عليه وسلم -بِذَنُوبٍ مِنْ مَاءٍ; فَأُهْرِيقَ عَلَيْهِ. } مُتَّفَقٌ عَلَيْهِ",
+            "urdu": "انس بن مالک رضی اللہ عنہ سے مروی ہے کہ انہوں نے کہا: {ایک اعرابی آیا اور اس نے مسجد کے بیچ میں پیشاب کر دیا، لوگوں نے اسے جھڑکایا، لیکن رسول اللہ صلی اللہ علیہ وسلم نے انہیں منع کر دیا۔ جب وہ پیشاب کر چکے تو رسول اللہ صلی اللہ علیہ وسلم نے پانی کے چند چشموں کا حکم دیا۔ تو اس پر انڈیل دیا گیا۔} متفق ہوئے۔",
+            "english": "Anas bin Malik (may Allah be pleased with him) reported: 'A Bedouin urinated in the middle of the mosque. The people scolded him, but the Prophet (peace be upon him) forbade them. When he finished, the Prophet commanded a few buckets of water to be poured over the spot.' Agreed upon."
+          }
+        },
+
+        {
+          "id": 11,
+          "name": {
+            "arabic": "عَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -{ أُحِلَّتْ لَنَا مَيْتَتَانِ وَدَمَانِ, فَأَمَّا الْمَيْتَتَانِ: فَالْجَرَادُ وَالْحُوتُ, وَأَمَّا الدَّمَانُ: فَالطِّحَالُ وَالْكَبِدُ } أَخْرَجَهُ أَحْمَدُ, وَابْنُ مَاجَهْ, وَفِيهِ ضَعْفٌ",
+            "urdu": "ابن عمر رضی اللہ عنہما سے مروی ہے کہ اللہ تعالیٰ نے ہمارے لیے دو مردہ جانور اور دو خون کے اعضا حلال کیے۔ مردہ جانور ہیں: ٹڈیاں اور وہیل، اور خون کے اعضا ہیں: تلی اور جگر۔ اسے احمد اور ابن ماجہ نے روایت کیا ہے اور اس میں ضعف ہے۔",
+            "english": "Ibn Umar (may Allah be pleased with him) reported: The Messenger of Allah (peace be upon him) said: 'Two dead animals and two types of blood have been made lawful for us. As for the dead animals: locusts and fish; as for the blood: the spleen and liver.' Narrated by Ahmad and Ibn Majah; the chain is weak."
+          }
+        },
+
+        {
+          "id": 12,
+          "name": {
+            "arabic": "وَعَنْ أَبِي هُرَيْرَةَ - رضى الله عنه - قَالَ: قَالَ رَسُولُ اَللَّهِ - صلى الله عليه وسلم -{ إِذَا وَقَعَ اَلذُّبَابُ فِي شَرَابِ أَحَدِكُمْ فَلْيَغْمِسْهُ, ثُمَّ لِيَنْزِعْهُ, فَإِنَّ فِي أَحَدِ جَنَاحَيْهِ دَاءً, وَفِي اَلْآخَرِ شِفَاءً } أَخْرَجَهُ اَلْبُخَارِيُّ وَأَبُو دَاوُدَ, وَزَادَ: { وَإِنَّهُ يَتَّقِي بِجَنَاحِهِ اَلَّذِي فِيهِ اَلدَّاءُ }",
+            "urdu": "سیدنا ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: { جب تم میں سے کسی کے مشروب میں مکھی گر جائے تو اسے ڈبو دے، پھر اسے اتار دے، کیونکہ اس کے ایک پر میں بیماری ہے اور دوسرے میں شفا ہے۔ } اسے بخاری اور ابو داؤد نے روایت کیا۔",
+            "english": "Abu Hurairah (may Allah be pleased with him) reported: The Messenger of Allah (peace be upon him) said: 'If a fly falls into any of your drinks, immerse it and then remove it, for in one of its wings is disease and in the other is healing.' Narrated by Al-Bukhari and Abu Dawud."
+          }
+        },
+
+        {
+          "id": 13,
+          "name": {
+            "arabic": "وَعَنْ أَبِي وَاقِدٍ اَللَّيْثِيِّ - رضى الله عنه - قَالَ: قَالَ اَلنَّبِيُّ - صلى الله عليه وسلم -{ مَا قُطِعَ مِنْ اَلْبَهِيمَةِ -وَهِيَ حَيَّةٌ- فَهُوَ مَيِّتٌ } أَخْرَجَهُ أَبُو دَاوُدَ, وَاَلتِّرْمِذِيُّ وَحَسَّنَهُ, وَاللَّفْظُ لَهُ",
+            "urdu": "ابو واقد لیثی رضی اللہ عنہ سے روایت ہے کہ انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: {جو جانور کسی دوسری چیز سے کاٹا جائے جبکہ وہ زندہ ہے، وہ مردہ شمار ہوگا۔} اسے ابو داؤد اور ترمذی نے روایت کیا اور اسے حسن قرار دیا۔",
+            "english": "Abu Waqid Al-Laythi (may Allah be pleased with him) reported: The Prophet (peace be upon him) said: 'Whatever is cut from a living animal, it is considered dead.' Reported by Abu Dawud and At-Tirmidhi, who classified it as Hasan (good)."
+          }
+        }
+
+
+    ]
+}

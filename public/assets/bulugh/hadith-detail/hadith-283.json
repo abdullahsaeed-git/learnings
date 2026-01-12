@@ -1,0 +1,267 @@
+{
+  "hadithId": 283,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:1169",
+      "https://sunnah.com/muslim:725"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "صحیح البخاری / صحیح مسلم",
+    "babId": 19
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح متفق عليه. رواه البخاري (1169) واللفظ له، ومسلم (724). ورواية مسلم الثانية (725).",
+    "urdu": "صحیح، متفق علیہ۔ اسے بخاری (1169) نے روایت کیا اور الفاظ انہی کے ہیں، اور مسلم (724) نے بھی۔ مسلم کی دوسری روایت نمبر (725) ہے۔",
+    "english": "Sahih (Agreed Upon). Reported by Al-Bukhari (1169) - wording is his, and Muslim (724). The second narration is in Muslim (725)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَمْ يَكُنْ",
+      "english": "He was not",
+      "urdu": "وہ نہیں تھے"
+    },
+    {
+      "arabic": "اَلنَّوَافِلِ",
+      "english": "Voluntary prayers",
+      "urdu": "نفل نمازیں"
+    },
+    {
+      "arabic": "أَشَدَّ تَعَاهُدًا",
+      "english": "More strict in adherence",
+      "urdu": "زیادہ پابندی کرنے والے"
+    },
+    {
+      "arabic": "رَكْعَتَيْ اَلْفَجْرِ",
+      "english": "Two Rak'ahs of Fajr",
+      "urdu": "فجر کی دو رکعتیں"
+    },
+    {
+      "arabic": "خَيْرٌ",
+      "english": "Better",
+      "urdu": "بہتر"
+    },
+    {
+      "arabic": "اَلدُّنْيَا",
+      "english": "The World",
+      "urdu": "دنیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث فجر کی دو سنتوں کی غیر معمولی فضیلت اور نبی ﷺ کی ان پر ہمیشگی کو بیان کرتی ہے کہ یہ دنیا کی تمام دولت سے زیادہ قیمتی ہیں۔",
+    "english": "This Hadith highlights the extraordinary virtue and the Prophet's consistent observance of the two Sunnah Rak'ahs of Fajr, stating they are more valuable than all the wealth of the world."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1169)",
+      "english": "Reported by Al-Bukhari (1169)"
+    },
+    {
+      "arabic": "رواه مسلم (725)",
+      "english": "Reported by Muslim (725)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشہ بنت ابی بکر",
+        "english": "Aishah bint Abu Bakr"
+      },
+      "slug": "aisha-bint-abu-bakr"
+    }
+  ],
+  "ytLink": "https://youtu.be/HkXG9Dr61a4?si=r7kF1zL8g5yX2t_p",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Muttafaq Alaih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ مؤکدہ کا مقام",
+              "english": "Status of Sunnah Muakkadah"
+            },
+            "content": {
+              "urdu": [
+                "فجر کی سنتیں تمام سنن رواتب میں سب سے زیادہ اہم ہیں۔",
+                "نبی ﷺ سفر اور حضر دونوں حالتوں میں ان کا اہتمام فرماتے تھے۔",
+                "ان کی پابندی کرنا نبی ﷺ سے سچی محبت کی دلیل ہے۔"
+              ],
+              "english": [
+                "The Sunnahs of Fajr are the most important among all regular Sunnahs.",
+                "The Prophet (ﷺ) observed them in both travel and residence.",
+                "Adhering to them is proof of true love for the Prophet (ﷺ)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دنیا سے بہتر",
+              "english": "Better than the World"
+            },
+            "content": {
+              "urdu": [
+                "دنیا کی تمام نعمتیں، خزانے اور سلطنتیں عارضی ہیں۔",
+                "فجر کی دو سنتوں کا اجر دائمی اور ہمیشہ رہنے والا ہے۔",
+                "مومن کی نظر میں آخرت کا اجر دنیاوی مال سے زیادہ قیمتی ہوتا ہے۔"
+              ],
+              "english": [
+                "All worldly blessings, treasures, and kingdoms are temporary.",
+                "The reward of the two Sunnahs of Fajr is eternal and everlasting.",
+                "For a believer, the reward of the Hereafter is more valuable than worldly wealth."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قضا کا حکم",
+              "english": "Ruling on Qada (Making up)"
+            },
+            "content": {
+              "urdu": [
+                "اگر فجر کی سنتیں جماعت کے خوف سے رہ جائیں تو سورج نکلنے کے بعد پڑھیں۔",
+                "بعض علماء کے نزدیک فرض کے فوراً بعد بھی پڑھی جا سکتی ہیں اگر مکروہ وقت نہ ہو۔",
+                "ان کی اہمیت کی وجہ سے ان کی قضا کی اجازت دی گئی ہے۔"
+              ],
+              "english": [
+                "If Fajr Sunnahs are missed due to congregation, pray them after sunrise.",
+                "Some scholars allow praying them immediately after Fard if not makruh time.",
+                "Due to their importance, making them up is permitted."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مختصر پڑھنا",
+              "english": "Praying Brief"
+            },
+            "content": {
+              "urdu": [
+                "فجر کی سنتوں میں لمبی قرآت کے بجائے تخفیف (مختصر کرنا) مسنون ہے۔",
+                "پہلی رکعت میں سورۃ الکافرون اور دوسری میں سورۃ الاخلاص پڑھنا افضل ہے۔",
+                "یہ نبی ﷺ کا معمول تھا تاکہ فرض نماز کے لیے وقت وسیع رہے۔"
+              ],
+              "english": [
+                "It is Sunnah to keep Fajr Sunnahs brief rather than long.",
+                "It is preferred to recite Surah Al-Kafirun in the 1st and Al-Ikhlas in the 2nd.",
+                "This was the Prophet's routine to keep ample time for the Fard prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیند اور سستی کا علاج",
+              "english": "Cure for Sleep & Laziness"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص ان کی فضیلت جان لے، وہ بستر پر نہیں رہ سکتا۔",
+                "شیطان سلاتا ہے، لیکن ایمان والا اجر کی امید پر جاگتا ہے۔",
+                "فجر کے لیے جلدی اٹھنے کی عادت بنائیں۔"
+              ],
+              "english": [
+                "One who knows their virtue cannot remain in bed.",
+                "Satan puts one to sleep, but the believer wakes up hoping for reward.",
+                "Make a habit of waking up early for Fajr."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ترجیحات کا تعین",
+              "english": "Setting Priorities"
+            },
+            "content": {
+              "urdu": [
+                "ہم دنیا کے لیے گھنٹوں محنت کرتے ہیں، مگر یہ دو رکعتیں ان سب سے بھاری ہیں۔",
+                "اپنے دن کا آغاز اللہ کی اطاعت اور سنت سے کریں۔",
+                "یہ دو رکعتیں دن بھر کے لیے روحانی سکون کا باعث ہیں۔"
+              ],
+              "english": [
+                "We work hours for the world, yet these two Rak'ahs outweigh it all.",
+                "Start your day with obedience to Allah and the Sunnah.",
+                "These two Rak'ahs are a source of spiritual peace for the whole day."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امہات المؤمنین کا کردار",
+              "english": "Role of Mothers of Believers"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رضی اللہ عنہا نے نبی ﷺ کے گھریلو معمولات امت تک پہنچائے۔",
+                "خواتین کو گھر کے اندر دینی ماحول قائم کرنا چاہیے۔",
+                "گھر والوں کو نماز اور سنتوں کی تاکید کرنا سنت ہے۔"
+              ],
+              "english": [
+                "Aishah (RA) conveyed the Prophet's domestic routines to the Ummah.",
+                "Women should establish a religious environment within the home.",
+                "Urging family members to pray and observe Sunnahs is a Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقیقی دولت",
+              "english": "True Wealth"
+            },
+            "content": {
+              "urdu": [
+                "اصل سرمایہ نیک اعمال ہیں جو قبر میں ساتھ جائیں گے۔",
+                "دنیا کی محبت دل سے نکال کر آخرت کی فکر پیدا کریں۔",
+                "یہ حدیث ہمارے مادی سوچ (Materialism) کی اصلاح کرتی ہے۔"
+              ],
+              "english": [
+                "Real wealth is good deeds that go with us into the grave.",
+                "Remove love of the world from the heart and cultivate concern for Hereafter.",
+                "This Hadith corrects our materialistic mindset."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

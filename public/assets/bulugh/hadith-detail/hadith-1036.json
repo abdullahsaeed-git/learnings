@@ -1,0 +1,259 @@
+{
+  "hadithId": 1036,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1036"],
+    "kitabId": 10,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 84
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح رواه البخاري (5271)‏، ومسلم (1691). والقصة هي قصة ماعز بن مالك رضي الله عنه المشهورة.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری و مسلم کی متفق علیہ روایت ہے۔ یہ واقعہ ماعز بن مالک رضی اللہ عنہ کا ہے جنہوں نے خود آ کر حد قائم کرنے کا مطالبہ کیا تھا۔",
+    "english": "Sahih (Authentic). Reported by al-Bukhari (5271) and Muslim (1691). This is the famous story of the companion Ma'iz bin Malik (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْرَضَ",
+      "english": "Turned away",
+      "urdu": "منہ پھیر لیا"
+    },
+    {
+      "arabic": "تِلْقَاءَ",
+      "english": "In front of / Facing",
+      "urdu": "سامنے کی طرف"
+    },
+    {
+      "arabic": "جُنُونٌ",
+      "english": "Insanity / Madness",
+      "urdu": "پاگل پن"
+    },
+    {
+      "arabic": "أَحْصَنْتَ",
+      "english": "Are you married?",
+      "urdu": "کیا تم شادی شدہ ہو؟"
+    },
+    {
+      "arabic": "فَارْجُمُوهُ",
+      "english": "Stone him",
+      "urdu": "اسے رجم کر دو"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ثابت کرتی ہے کہ شادی شدہ زانی کی سزا رجم ہے اور اقرارِ جرم کی صورت میں چار بار اعتراف ضروری ہے تاکہ شک کی گنجائش نہ رہے۔",
+    "english": "This Hadith establishes that the punishment for a married adulterer is stoning, and that a confession must be repeated four times to ensure absolute certainty."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (6815)",
+      "english": "Sahih al-Bukhari (6815)"
+    },
+    {
+      "arabic": "صحيح مسلم (1691)",
+      "english": "Sahih Muslim (1691)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYJv5_qKsqw",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پردہ پوشی اور توبہ",
+        "english": "Concealment and Repentance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا اعراض کرنا",
+              "english": "Prophet's (ﷺ) Turning Away"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا بار بار منہ پھیرنا اس بات کی دلیل ہے کہ اسلام پردہ پوشی کو پسند کرتا ہے۔",
+                "اگر انسان سے کوئی گناہ ہو جائے تو اسے چاہیے کہ وہ اسے چھپائے اور اللہ سے توبہ کرے۔",
+                "آپ ﷺ نے اس شخص کو موقع دیا کہ وہ خاموشی سے واپس چلا جائے اور استغفار کرے۔"
+              ],
+              "english": [
+                "The Prophet's repeated turning away proves that Islam encourages concealing one's sins.",
+                "If a person commits a sin, they should keep it private and seek Allah's forgiveness.",
+                "He (ﷺ) gave the man multiple opportunities to leave quietly and repent to Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سترِ عیوب کی اہمیت",
+              "english": "Importance of Hiding Faults"
+            },
+            "content": {
+              "urdu": [
+                "گناہ کا کھلم کھلا اظہار معاشرے میں بے حیائی پھیلانے کا سبب بنتا ہے۔",
+                "شریعت حد قائم کرنے سے زیادہ انسان کی اصلاح اور توبہ میں دلچسپی رکھتی ہے۔",
+                "جب تک معاملہ عدالت تک نہ پہنچے، گناہ کو چھپانا ہی افضل عمل ہے۔"
+              ],
+              "english": [
+                "Openly declaring sins contributes to spreading immorality in society.",
+                "Shariah is more interested in human reform and repentance than in enforcing penalties.",
+                "As long as a matter does not reach the court, concealing the sin is superior."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اقرارِ جرم اور قانونی شرائط",
+        "english": "Confession and Legal Requirements"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چار بار اعتراف کی حکمت",
+              "english": "Wisdom of Four Confessions"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ کے نزدیک چار بار اعتراف چار گواہوں کے قائم مقام ہے۔",
+                "یہ اس بات کو یقینی بنانے کے لیے ہے کہ اعتراف کرنے والا کسی دباؤ میں نہیں ہے۔",
+                "اس سے یہ بھی واضح ہوتا ہے کہ اعتراف کرنے والا اپنے ہوش و حواس میں ہے۔"
+              ],
+              "english": [
+                "Imam Abu Hanifa views four confessions as equivalent to the testimony of four witnesses.",
+                "This ensures that the person confessing is not doing so under any duress or pressure.",
+                "It further clarifies that the person is fully aware and in a stable state of mind."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہلیت کی جانچ",
+              "english": "Verification of Competence"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے 'جنون' کے بارے میں پوچھ کر دماغی صحت کی تصدیق فرمائی۔",
+                "پاگل یا ذہنی معذور شخص پر شرعی حدود لاگو نہیں ہوتیں کیونکہ وہ ذمہ دار نہیں۔",
+                "قاضی کو چاہیے کہ وہ حد لگانے سے پہلے مجرم کی ذہنی حالت کا جائزہ لے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) verified mental health by asking the man about insanity.",
+                "Legal penalties (Hudud) are not applied to the insane as they are not legally responsible.",
+                "A judge must evaluate the offender's mental state before executing any capital sentence."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سزائے رجم کی حقیقت",
+        "english": "Reality of the Penalty of Stoning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شادی شدہ کی سزا",
+              "english": "Penalty for the Married"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں شادی شدہ زانی کے لیے رجم کی سزا سنتِ متواترہ سے ثابت ہے۔",
+                "شادی شدہ کے لیے یہ سزا سخت رکھی گئی ہے کیونکہ اس کے پاس جائز راستہ میسر تھا۔",
+                "یہ سزا معاشرے میں پاکیزگی اور خاندانی نظام کے تحفظ کے لیے ایک مضبوط ڈھال ہے۔"
+              ],
+              "english": [
+                "Stoning for a married adulterer is established through the continuous Sunnah.",
+                "The penalty is severe because the married person had a lawful outlet available.",
+                "This punishment serves as a powerful shield to protect social purity and the family."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبرت اور تلافی",
+              "english": "Deterrence and Compensation"
+            },
+            "content": {
+              "urdu": [
+                "حدود کا نفاذ گناہوں کی صفائی اور آخرت کے عذاب سے بچاؤ کا ذریعہ ہے۔",
+                "ماعز بن مالک نے دنیا میں سزا پا کر اپنی آخرت سنوار لی۔",
+                "نبی ﷺ نے بعد میں فرمایا کہ ماعز نے ایسی توبہ کی جو پوری امت کے لیے کافی ہے۔"
+              ],
+              "english": [
+                "Implementing Hudud cleanses sins and acts as protection from the Hereafter's agony.",
+                "Ma'iz bin Malik secured his Hereafter by receiving the penalty in this world.",
+                "The Prophet (ﷺ) later said Ma'iz repented so sincerely it would suffice for the whole Ummah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوفِ خدا کا جذبہ",
+              "english": "Spirit of Fearing Allah"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام کے دلوں میں آخرت کی پکڑ کا اس قدر خوف تھا کہ وہ خود حد کے لیے آئے۔",
+                "یہ واقعہ ہمیں اپنے گناہوں پر نادم ہونے اور اللہ کی طرف رجوع کرنے کا سبق دیتا ہے۔",
+                "سچی توبہ انسان کے بڑے سے بڑے گناہ کو مٹا دیتی ہے۔"
+              ],
+              "english": [
+                "The Sahaba feared the Hereafter so much that they presented themselves for judgment.",
+                "This incident teaches us to be remorseful for our sins and to return to Allah.",
+                "Sincere repentance has the power to erase even the gravest of human sins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدل و انصاف کا تقاضا",
+              "english": "Requirements of Justice"
+            },
+            "content": {
+              "urdu": [
+                "قانون سب کے لیے برابر ہے، چاہے وہ کتنا ہی قریبی کیوں نہ ہو۔",
+                "حدود کے معاملات میں کسی قسم کی سفارش یا نرمی جائز نہیں ہے۔",
+                "معاشرے کا امن اللہ کے حدود کے نفاذ اور عدل کے قیام میں پوشیدہ ہے۔"
+              ],
+              "english": [
+                "The law is equal for everyone, regardless of how close or beloved they may be.",
+                "No intercession or unlawful leniency is permitted in the matters of Hudud.",
+                "Societal peace is hidden in the implementation of Allah's limits and establishing justice."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

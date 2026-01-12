@@ -1,0 +1,259 @@
+{
+  "hadithId": 593,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/593"],
+    "kitabId": 6,
+    "inKitabBab": 4,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 39
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1541)، ومسلم (1186). وزاد البخاري في رواية: 'يعني مسجد ذي الحليفة'.",
+    "urdu": "صحیح۔ اسے بخاری (1541) اور مسلم (1186) نے روایت کیا ہے۔ اس میں صراحت ہے کہ اس سے مراد مسجد ذوالحلیفہ ہے جو اہل مدینہ کا میقات ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1541) and Muslim (1186). Al-Bukhari added in a narration: 'Meaning the mosque of Dhul-Hulaifah'."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَهَلَّ",
+      "english": "Raised voice with Talbiyah",
+      "urdu": "لبیک پکارنا / بلند آواز سے تلبیہ کہنا"
+    },
+    {
+      "arabic": "الْمَسْجِدِ",
+      "english": "The Mosque",
+      "urdu": "مسجد (ذوالحلیفہ)"
+    },
+    {
+      "arabic": "ذِي اَلْحُلَيْفَةِ",
+      "english": "Dhul-Hulaifah",
+      "urdu": "ذوالحلیفہ (مدینہ کا میقات)"
+    },
+    {
+      "arabic": "مُتَّفَقٌ عَلَيْهِ",
+      "english": "Agreed upon",
+      "urdu": "متفق علیہ"
+    },
+    {
+      "arabic": "تَلْبِيَة",
+      "english": "Talbiyah (Labbayk)",
+      "urdu": "لبیک کہنا"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ میقات (ذوالحلیفہ) کی مسجد میں نماز ادا کرنے کے بعد وہیں سے حج یا عمرہ کا احرام باندھ کر تلبیہ پکارتے ہوئے روانہ ہوتے تھے۔",
+    "english": "The Prophet (ﷺ) would start reciting the Talbiyah immediately after praying at the mosque of the Miqat (Dhul-Hulaifah) before setting off for his journey."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1541)",
+      "english": "Reported by Al-Bukhari (1541)"
+    },
+    {
+      "arabic": "رواه مسلم (1186)",
+      "english": "Reported by Muslim (1186)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "احرام اور تلبیہ کی ابتدا",
+        "english": "Beginning of Ihram and Talbiyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجدِ میقات کی اہمیت",
+              "english": "Significance of the Miqat Mosque"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے مدینہ سے نکلتے وقت ذوالحلیفہ کی مسجد میں دو رکعت نماز ادا فرمائی۔",
+                "نماز سے فارغ ہونے کے بعد آپ ﷺ نے وہیں سے حج کی نیت کر کے تلبیہ پکارنا شروع کیا۔",
+                "یہ سنت ہمیں سکھاتی ہے کہ عظیم عبادات کی ابتدا اللہ کے گھر اور نماز سے کرنی چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) offered two units of prayer at the mosque of Dhul-Hulaifah upon leaving Medina.",
+                "After the prayer, he immediately made the intention for Hajj and began reciting the Talbiyah.",
+                "This Sunnah teaches that major acts of worship should ideally commence from the House of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تلبیہ شروع کرنے کا مقام",
+              "english": "Place to start Talbiyah"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابن عمر کے نزدیک تلبیہ کی ابتدا مسجد سے ہی ہونا سنت ہے۔",
+                "اگرچہ بعض روایات میں ہے کہ آپ ﷺ نے اونٹنی پر سوار ہونے کے بعد تلبیہ کہا۔",
+                "درج حقیقت میں آپ ﷺ نے مسجد میں بھی کہا، سوار ہو کر بھی کہا اور جب اونٹنی بلندی پر چڑھی تب بھی پکارا۔"
+              ],
+              "english": [
+                "According to Ibn 'Umar, it is Sunnah to start the Talbiyah right from the mosque.",
+                "Although some narrations mention he started it after mounting his camel.",
+                "In reality, he recited it at the mosque, upon mounting, and when the camel reached high ground."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تلبیہ (لبیک) کی حقیقت",
+        "english": "The Reality of Talbiyah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی پکار پر لبیک کہنا",
+              "english": "Responding to Allah's Call"
+            },
+            "content": {
+              "urdu": [
+                "تلبیہ کا مطلب ہے 'اے اللہ! میں حاضر ہوں'، یہ بندگی کا اعتراف ہے۔",
+                "یہ کلمات شرک کی نفی اور اللہ کی توحید و حمد پر مشتمل ہیں۔",
+                "حج کے سفر میں تلبیہ پکارنا شعارِ حج ہے جسے بلند آواز سے کہنا مسنون ہے۔"
+              ],
+              "english": [
+                "Talbiyah means 'O Allah, here I am,' which is an admission of servitude.",
+                "These words contain the negation of Shirk and the affirmation of Allah's Oneness.",
+                "Reciting Talbiyah is a hallmark of Hajj and is Sunnah to be recited aloud by men."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاص اور یکسوئی",
+              "english": "Sincerity and Devotion"
+            },
+            "content": {
+              "urdu": [
+                "احرام کی نیت کے ساتھ ہی انسان دنیاوی آلائشوں سے کٹ جاتا ہے۔",
+                "تلبیہ پکارنے والا اپنے رب سے وفاداری کا عہد کرتا ہے۔",
+                "یہ پکار دل کی گہرائیوں سے ہونی چاہیے تاکہ حج کا مقصدِ حقیقی حاصل ہو سکے۔"
+              ],
+              "english": [
+                "With the intention of Ihram, a person disconnects from worldly distractions.",
+                "The one reciting Talbiyah makes a covenant of loyalty to their Lord.",
+                "This call should come from the heart to achieve the true purpose of Hajj."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور ابحاث",
+        "english": "Juristic Issues and Discussions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نمازِ احرام کا حکم",
+              "english": "Ruling on Prayer for Ihram"
+            },
+            "content": {
+              "urdu": [
+                "میقات پر دو رکعت نماز پڑھنا مستحب ہے اگر وہ مکروہ وقت نہ ہو۔",
+                "اگر فرض نماز کا وقت ہو تو وہ پڑھنا ہی کافی ہو جاتا ہے۔",
+                "نبی ﷺ نے وادیِ مبارک (عقیق) میں نماز پڑھنے کا خصوصی حکم دیا تھا۔"
+              ],
+              "english": [
+                "Praying two Rak'ahs at the Miqat is recommended, provided it is not a disliked time.",
+                "If it is time for an obligatory prayer, that suffices as the prayer for Ihram.",
+                "The Prophet (ﷺ) received a divine instruction to pray in the blessed valley (al-Aqiq)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روایات میں تطبیق",
+              "english": "Reconciliation of Reports"
+            },
+            "content": {
+              "urdu": [
+                "مختلف صحابہ نے مختلف اوقات میں آپ ﷺ کو تلبیہ کہتے سنا۔",
+                "ابن عمر نے مسجد میں سنا، جابر نے سواری پر اور دیگر نے بیداء کے مقام پر۔",
+                "یہ تمام مقامات درست ہیں کیونکہ آپ ﷺ نے ان سب جگہوں پر ذکر جاری رکھا تھا۔"
+              ],
+              "english": [
+                "Different Companions heard the Prophet (ﷺ) at different moments.",
+                "Ibn 'Umar heard it at the mosque, Jabir on the mount, and others at al-Baida'.",
+                "All reports are valid as he continued his Dhikr across all these stages."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت کا شوق",
+              "english": "Passion for Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابن عمر کی یہ روایت ان کی سنت پر سختی سے عمل کی تڑپ ظاہر کرتی ہے۔",
+                "ایک مومن کو چاہیے کہ وہ عبادات کے چھوٹے چھوٹے آداب بھی سنت سے سیکھے۔",
+                "سنت کی پیروی ہی عمل کی قبولیت اور برکت کی ضمانت ہے۔"
+              ],
+              "english": [
+                "This report by Ibn 'Umar shows his intense desire to strictly follow the Sunnah.",
+                "A believer should learn even the minor etiquettes of worship from the Prophetic way.",
+                "Following the Sunnah is the guarantee for the acceptance and blessing of an action."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفرِ حج کی تیاری",
+              "english": "Preparation for Hajj Journey"
+            },
+            "content": {
+              "urdu": [
+                "میقات پر پہنچ کر اللہ کی یاد میں مشغول ہو جانا بہترین تیاری ہے۔",
+                "دنیاوی باتوں کے بجائے زبان پر ذکرِ الہی کا ہونا ضروری ہے۔",
+                "یہ سفر اللہ کی طرف ہجرت ہے، اس لیے اس کا آغاز نہایت ادب سے ہونا چاہیے۔"
+              ],
+              "english": [
+                "Engaging in Allah's remembrance upon reaching the Miqat is the best preparation.",
+                "One's tongue should be occupied with Dhikr rather than worldly talk.",
+                "This journey is a migration toward Allah, so it must begin with utmost respect."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 823,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/823"],
+    "kitabId": 7,
+    "inKitabBab": 22,
+    "arabicBook": "بلوغ المرام",
+    "babId": 63
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن بشواهده. رواه الدارقطني (4/150)، وأحمد (6/440)، والبزار (1382)، وابن ماجه (2709).",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر حسن ہے۔ اسے دارقطنی، احمد، بزار اور ابن ماجہ نے مختلف صحابہ سے روایت کیا ہے۔ اگرچہ انفرادی اسناد میں کچھ ضعف ہے، مگر مجموعی طور پر یہ روایت مقبول ہے۔",
+    "english": "Hasan due to supporting evidences. Reported by Ad-Daraqutni (4/150), Ahmad (6/440), Al-Bazzar (1382), and Ibn Majah (2709). The collective strength of these chains elevates the Hadith to the level of Hasan."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَصَدَّقَ",
+      "english": "Bestowed / Permitted",
+      "urdu": "احسان فرمایا / اجازت دی"
+    },
+    {
+      "arabic": "بِثُلُثِ",
+      "english": "With one-third",
+      "urdu": "تہائی کے ساتھ"
+    },
+    {
+      "arabic": "أَمْوَالِكُمْ",
+      "english": "Your properties",
+      "urdu": "تمہارے اموال"
+    },
+    {
+      "arabic": "وَفَاتِكُمْ",
+      "english": "Your death",
+      "urdu": "تمہاری وفات"
+    },
+    {
+      "arabic": "زِيَادَةً",
+      "english": "Increase / Addition",
+      "urdu": "اضافہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں وصیت کی شرعی حد بیان کی گئی ہے کہ انسان کو اپنی موت کے وقت کل مال کے ایک تہائی حصے تک صدقہ یا وصیت کرنے کا اختیار حاصل ہے تاکہ وہ اپنے اجر میں اضافہ کر سکے۔",
+    "english": "This Hadith highlights the Shariah limit for bequests, allowing a person to give up to one-third of their estate as charity at the time of death to earn extra spiritual rewards."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني (4/150)",
+      "english": "Sunan Ad-Daraqutni (4/150)"
+    },
+    {
+      "arabic": "مسند أحمد (22097)",
+      "english": "Musnad Ahmad (22097)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "معاذ بن جبل",
+        "english": "Mu'adh bin Jabal"
+      },
+      "slug": "muadh-bin-jabal"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "حسن لغيره",
+    "english": "Hasan Lighairihi (Good due to others)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وصیت کی شرعی گنجائش",
+        "english": "Shariah Scope of Bequests"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تہائی مال کی حد",
+              "english": "The One-Third Limit"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے مرنے والے کو کل مال کے ایک تہائی میں تصرف کا اختیار دیا ہے۔",
+                "یہ حد اس لیے مقرر ہے تاکہ ورثاء کے بنیادی حقوق متاثر نہ ہوں۔",
+                "اس سے زائد کی وصیت ورثاء کی رضامندی کے بغیر نافذ نہیں ہو سکتی۔"
+              ],
+              "english": [
+                "Shariah allows the deceased to designate up to one-third of their estate.",
+                "This limit is set to safeguard the primary rights of the legal heirs.",
+                "A bequest exceeding this amount requires heirs' consent to be valid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آخری وقت کی نیکی",
+              "english": "Righteousness at the End of Life"
+            },
+            "content": {
+              "urdu": [
+                "اللہ نے یہ رعایت دے کر بندوں پر عظیم احسان فرمایا ہے۔",
+                "انسان اپنی موت کے قریب بھی اپنے نامہ اعمال میں نیکی درج کروا سکتا ہے۔",
+                "یہ وصیت غریب رشتہ داروں یا خیراتی کاموں کے لیے مخصوص کی جا سکتی ہے۔"
+              ],
+              "english": [
+                "Allah has shown great mercy by granting this specific concession to believers.",
+                "A person can record good deeds in their book even near death.",
+                "This bequest can be dedicated to poor relatives or charitable projects."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و قانونی باریکیاں",
+        "english": "Juristic and Legal Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وارث کے لیے وصیت نہیں",
+              "english": "No Bequest for an Heir"
+            },
+            "content": {
+              "urdu": [
+                "یہ تہائی مال صرف ان لوگوں کے لیے ہے جو وارث نہیں ہیں۔",
+                "جو شخص پہلے سے وراثت میں حصہ دار ہے اس کے لیے وصیت جائز نہیں۔",
+                "یہ اصول خاندانی جھگڑوں اور ناانصافی کو روکنے کے لیے وضع کیا گیا ہے۔"
+              ],
+              "english": [
+                "This one-third is reserved only for those who are not legal heirs.",
+                "Making a bequest for someone already inheriting is not permissible.",
+                "This principle prevents family disputes and ensures overall fairness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وصیت کے نفاذ کی ترتیب",
+              "english": "Order of Executing a Will"
+            },
+            "content": {
+              "urdu": [
+                "تجہیز و تکفین اور قرضوں کی ادائیگی کے بعد وصیت پوری کی جاتی ہے۔",
+                "وصیت کا نمبر وراثت کی تقسیم سے پہلے آتا ہے تاکہ میت کی مرضی چلے۔",
+                "مالی معاملات میں شرعی ترتیب کی پابندی ہر مسلمان پر لازم ہے۔"
+              ],
+              "english": [
+                "The will is executed after funeral costs and debt settlements are paid.",
+                "Executing the will takes precedence over the final distribution of inheritance.",
+                "Adhering to the Shariah sequence in financial matters is mandatory for Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و معاشرتی حکمت",
+        "english": "Ethical and Social Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صدقہ جاریہ کا موقع",
+              "english": "Opportunity for Continuous Charity"
+            },
+            "content": {
+              "urdu": [
+                "وصیت کے ذریعے انسان ایسے کام کر سکتا ہے جو اس کے بعد بھی چلتے رہیں۔",
+                "مسجد، ہسپتال یا تعلیمی ادارے کی امداد بہترین صدقہ جاریہ ہے۔",
+                "اسلام موت کے بعد بھی انسان کا تعلق نیکی سے برقرار رکھتا ہے۔"
+              ],
+              "english": [
+                "Through a will, one can fund projects that continue after their death.",
+                "Supporting mosques, hospitals, or schools is an excellent continuous charity.",
+                "Islam maintains a person's link to goodness even after they pass away."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ورثاء کا معاشی تحفظ",
+              "english": "Economic Protection of Heirs"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ وصیت کی اجازت ہے، مگر ورثاء کو غنی چھوڑنا بہتر عمل ہے۔",
+                "اپنے بچوں کو دوسروں کا محتاج بنا کر سارا مال بانٹنا پسندیدہ نہیں۔",
+                "یہ حدیث حقوق اللہ اور حقوق العباد میں بہترین توازن سکھاتی ہے۔"
+              ],
+              "english": [
+                "While bequests are allowed, leaving heirs wealthy is highly recommended.",
+                "Leaving children dependent while donating all wealth is not preferred.",
+                "This Hadith teaches a perfect balance between divine and human rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت پر وصیت لکھنا",
+              "english": "Writing the Will on Time"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو چاہیے کہ وہ اپنی زندگی میں ہی وصیت تحریر کر لے۔",
+                "موت کا وقت کسی کو معلوم نہیں، اس لیے احتیاط ضروری ہے۔",
+                "تحریری وصیت بعد میں پیدا ہونے والے ابہام اور لڑائیوں کو ختم کرتی ہے۔"
+              ],
+              "english": [
+                "An individual should document their will during their healthy lifetime.",
+                "The time of death is unknown; therefore, precaution is strictly necessary.",
+                "A written will eliminates future ambiguities and potential family feuds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال اور میانہ روی",
+              "english": "Moderation and Balance"
+            },
+            "content": {
+              "urdu": [
+                "نیکی کے کاموں میں بھی جذبات کے بجائے عقل اور شریعت سے کام لیں۔",
+                "ایک تہائی سے کم وصیت کرنا بھی مستحسن ہے تاکہ ورثاء کو سہولت ہو۔",
+                "اسلامی تعلیمات زندگی کے ہر شعبے میں اعتدال کا درس دیتی ہیں۔"
+              ],
+              "english": [
+                "In acts of piety, use logic and Shariah rather than just emotions.",
+                "Bequeathing less than one-third is also recommended to benefit heirs.",
+                "Islamic teachings consistently promote moderation in every sphere of life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

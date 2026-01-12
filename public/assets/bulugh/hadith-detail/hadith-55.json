@@ -1,0 +1,255 @@
+{
+  "hadithId": 55,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 3 (Chapter 5)"],
+    "kitabId": 1,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الرد على الرأي في المسح",
+    "babId": 5
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه أبو داود (162) .  ",
+    "urdu": "صحیح (درجہ)۔ اسے ابوداؤد (162) نے روایت کیا ہے۔",
+    "english": "Sahih (Authentic). Narrated by Abu Dawud (162)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلدِّينُ بِالرَّأْيِ",
+      "english": "Religion based on opinion",
+      "urdu": "دین رائے پر ہوتا"
+    },
+    {
+      "arabic": "أَسْفَلُ اَلْخُفِّ",
+      "english": "Bottom of the Khuff",
+      "urdu": "موزے کا نچلا حصہ"
+    },
+    {
+      "arabic": "أَوْلَى بِالْمَسْحِ",
+      "english": "More deserving of wiping",
+      "urdu": "مسح کا زیادہ مستحق"
+    },
+    {
+      "arabic": "ظَاهِرِ خُفَّيْهِ",
+      "english": "Top surface of his Khuffayn",
+      "urdu": "موزوں کے اوپر کا حصہ"
+    },
+    {
+      "arabic": "يَمْسَحُ",
+      "english": "Wiped/used to wipe",
+      "urdu": "مسح فرمایا"
+    }
+  ],
+  "summary": {
+    "urdu": "سیدنا علی رضی اللہ عنہ کا یہ قول اس بنیادی اسلامی اصول کو ثابت کرتا ہے کہ شریعت کا دار و مدار **عقل یا ذاتی رائے** پر نہیں بلکہ صرف اللہ اور اس کے رسول صلی اللہ علیہ وسلم کی وحی اور سنت پر ہے، جس کی مثال موزوں پر مسح کا طریقہ ہے۔",
+    "english": "This saying of Ali (RA) establishes the fundamental Islamic principle that Sharia relies entirely on **Divine revelation (Wahy) and Sunnah**, not on human reason or personal opinion (Ra'y), exemplified by the correct method of wiping over the Khuffayn."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الطهارة، رقم 162",
+      "english": "Sunan Abī Dāwūd, The Book of Purification, Hadith 162"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَلِيُّ بْنُ أَبِي طَالِبٍ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Ali ibn Abi Talib (May Allah be pleased with him)"
+      },
+      "slug": "ali-ibn-abi-talib"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-33-religion-not-by-opinion",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دین میں رائے کی حیثیت",
+        "english": "The Status of Personal Opinion (al-Ra'y) in Islam"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وحی کی بنیاد",
+              "english": "The Foundation of Revelation (Wahy)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علیؓ کا یہ قول اس بنیادی اصول کو واضح کرتا ہے کہ اسلامی شریعت کی بنیاد **ذاتی رائے یا قیاس** نہیں، بلکہ اللہ کی جانب سے نازل کردہ وحی (قرآن و سنت) ہے۔",
+                "عقلی طور پر، موزے کا نچلا حصہ زیادہ گندہ ہوتا ہے اور اسے صاف کرنے کی ضرورت زیادہ محسوس ہوتی ہے، لیکن سنت نے اوپر مسح کرنے کا حکم دیا۔",
+                "یہ حکم اس بات کی دلیل ہے کہ مومن کو اپنی عقل پر شریعت کے حکم کو ترجیح دینی چاہیے، خواہ اس کی حکمت مکمل طور پر سمجھ نہ آئے۔"
+              ],
+              "english": [
+                "Ali's (RA) statement clarifies the fundamental principle that Islamic Sharia is based not on **personal opinion or analogy (Ra'y)**, but solely on the divine revelation (Qur'an and Sunnah).",
+                "Logically, the bottom of the sock, being dirtier, seems more deserving of cleaning, yet the Sunnah commanded wiping the top.",
+                "This proves that a believer must prioritize the rulings of the Sharia over their own intellect, even if the wisdom behind it is not fully apparent."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موزوں کے مسح میں حکم",
+              "english": "The Ruling in Wiping Over Khuffayn"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ مسح کا حکم طہارت سے متعلق ہے، اگر دین صرف عقل پر مبنی ہوتا، تو نچلا حصہ جو زمین کو چھوتا ہے اور گندا ہوتا ہے، زیادہ صفائی کا مستحق ہوتا۔",
+                "نبی اکرم ﷺ نے اس کے برعکس صرف **اوپری حصے** پر مسح فرمایا، جو اس بات کا قطعی ثبوت ہے کہ یہ حکم تعبدی (Divine instruction) ہے، نہ کہ معقول (rational) قیاس۔",
+                "اسی وجہ سے اہل سنت والجماعت کے فقہی مسالک میں اس بات پر اتفاق ہے کہ موزے کے نیچے مسح کرنا مسنون نہیں ہے اور صرف اوپر کا حصہ ہی مسح کیا جاتا ہے۔"
+              ],
+              "english": [
+                "Since the act of wiping relates to purity, if religion were based purely on reason, the bottom, which touches the ground and gets dirty, would be more deserving of cleansing.",
+                "The Prophet (ﷺ) instead wiped only the **top surface**, which is conclusive proof that this is a mandatory devotional command (*Tawqīfī*), not a rational one.",
+                "This is why all four major schools of thought among the Ahl as-Sunnah agree that wiping the bottom of the sock is not Sunnah, and only the top surface is wiped."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علمِ غیب اور سنت کی فضیلت",
+        "english": "Knowledge of the Unseen and the Virtue of Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اطاعتِ نبوی کا معیار",
+              "english": "The Standard of Prophetic Obedience"
+            },
+            "content": {
+              "urdu": [
+                "حضرت علیؓ کا یہ بیان امت کو سکھاتا ہے کہ نبی ﷺ کی پیروی میں سوال یا شک نہیں ہونا چاہیے، بلکہ کامل اطاعت ہی ایمان کا تقاضا ہے۔",
+                "عبادات کا مقصد عقل کو مطمئن کرنا نہیں بلکہ اللہ کی رضا حاصل کرنا ہے، جو صرف نبی ﷺ کے سکھائے ہوئے طریقوں پر چلنے سے ممکن ہے۔",
+                "ایک مسلمان کی نجات کا دارومدار نبی ﷺ کی سنت پر عمل کرنے میں ہے، نہ کہ اپنے ذاتی خیالات کو دین میں داخل کرنے میں۔"
+              ],
+              "english": [
+                "Ali's statement teaches the Ummah that there should be no questioning or doubt in following the Prophet (ﷺ); rather, complete obedience is the demand of faith.",
+                "The purpose of worship is not to satisfy human intellect but to attain Allah's pleasure, which is only possible by following the methods taught by the Prophet (ﷺ).",
+                "A Muslim's salvation depends on acting upon the Prophet's Sunnah, not on introducing one's personal opinions into the religion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ظاہری مسح کی حکمت",
+              "english": "Wisdom of Wiping the Top Surface"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ موزوں کے نچلے حصے پر مسح کرنا عقلی طور پر زیادہ منطقی لگتا ہے، لیکن اوپری حصے پر مسح کرنا روحانی طہارت کے لیے کافی ہے۔",
+                "ممکن ہے اس کی حکمت یہ ہو کہ نچلا حصہ مسلسل زمین سے چھوتا رہتا ہے، اس لیے اس کی صفائی میں عارضی مسح کافی نہ ہو، جبکہ اوپری حصہ زیادہ پاک رہتا ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ وضو کا عمل ظاہری صفائی سے بڑھ کر ایک روحانی علامت ہے جو وحی کے حکم پر قائم ہے۔"
+              ],
+              "english": [
+                "Although wiping the bottom of the socks may seem more rational, wiping the top surface is sufficient for spiritual purification.",
+                "The wisdom might be that the bottom part is constantly touching the ground, so temporary wiping is insufficient for its cleanliness, whereas the top part remains cleaner.",
+                "This ruling proves that the act of Wudu is more than just physical cleanliness; it is a spiritual symbol based on divine command."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسح کا صحیح طریقہ",
+        "english": "The Correct Method of Wiping"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عملی سنت",
+              "english": "The Practical Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "حضرت علیؓ نے اپنے قول کے بعد فوراً اپنے عمل کو نبی اکرم ﷺ کے عمل سے جوڑا کہ 'وقد رأيت...' (اور میں نے رسول اللہ ﷺ کو دیکھا ہے...)، جو عملی سنت کی اہمیت کو ظاہر کرتا ہے۔",
+                "یہ مسح صرف موزے کے **اوپر کی سطح** پر کیا جاتا ہے، یعنی انگلیوں کو موزے کے پنجے سے ٹخنے کی طرف ایک بار گزارا جاتا ہے۔",
+                "اس طرح یہ حدیث پچھلی ضعیف روایت (جو اوپر اور نیچے دونوں طرف مسح کی بات کرتی تھی) کے مقابلے میں صحیح اور معمول بہا حکم کو ثابت کرتی ہے۔"
+              ],
+              "english": [
+                "After his statement, Ali (RA) immediately connected his action to the Prophet's (ﷺ) practice by saying, 'But I saw...' which highlights the importance of the practical Sunnah.",
+                "The wiping is performed only on the **top surface** of the sock, by passing the wet fingers once from the toes toward the shin.",
+                "Thus, this Hadith confirms the correct and actionable ruling for Mas'h, countering the previous weak narration that mentioned wiping both top and bottom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسح میں مبالغہ آرائی سے ممانعت",
+              "english": "Prohibition of Extremism in Wiping"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علیؓ کا یہ قول اس بات کی بھی ممانعت کرتا ہے کہ کوئی شخص اپنی رائے کی بنیاد پر دین میں سختی پیدا کرے یا مسح میں غلو کرے۔",
+                "اگرچہ نیچے مسح کرنا عقلی طور پر بہتر لگ سکتا ہے، مگر ایسا کرنے سے وضو کی شرعی رخصت کا طریقہ بدل جاتا ہے، جو درست نہیں۔",
+                "مسلمان کو چاہیے کہ وہ آسانی والی رخصت (مسح) کو نبی ﷺ کے بیان کردہ طریقے پر ہی اختیار کرے اور اس میں اپنی رائے کو شامل نہ کرے۔"
+              ],
+              "english": [
+                "Ali's (RA) statement also warns against introducing severity or extremism (Ghulū) in the religion based on one's own opinion.",
+                "While wiping the bottom might seem logically better, doing so alters the prescribed method of the legal concession for Wudu, which is incorrect.",
+                "A Muslim should adhere to the concession of wiping as taught by the Prophet (ﷺ) and not mix personal opinions into the matter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سند اور راوی کا مقام",
+        "english": "Chain of Narration and Narrator's Status"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حسن سند کا درجہ",
+              "english": "The Grade of Ḥasan Chain"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کو ابوداؤد نے **حسن (Good)** سند کے ساتھ روایت کیا ہے، جو اسے شرعی احکام کے لیے قابلِ استدلال بناتا ہے۔",
+                "محدثین کے نزدیک، اگرچہ یہ بخاری و مسلم کے معیارِ صحت پر نہیں، لیکن یہ معتبر ہے اور اس پر عمل کرنا درست ہے۔",
+                "یہ حدیث ایک مضبوط دلیل کے طور پر استعمال ہوتی ہے کہ موزوں پر مسح کا طریقہ صرف اوپر کی سطح پر مسح کرنا ہے۔"
+              ],
+              "english": [
+                "This Hadith is narrated by Abu Dawud with a **Ḥasan (Good)** chain, making it acceptable as a legal proof for Islamic rulings.",
+                "Although it does not meet the highest standard of Sahih al-Bukhari or Sahih Muslim, it is considered authentic and correct for practice.",
+                "This Hadith serves as a strong piece of evidence that the method of wiping over the socks is restricted to the upper surface only."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہؓ کا اصول",
+              "english": "The Companions' Principle"
+            },
+            "content": {
+              "urdu": [
+                "حضرت علیؓ کا اپنے اجتہاد کے بارے میں یہ بات کہنا کہ دین رائے پر نہیں، سنت پر مبنی ہے، صحابہ کرام کی فہم دین کا اعلیٰ معیار ہے۔",
+                "انہوں نے اپنی ذاتی عقل کو نبی ﷺ کی سنت کے سامنے تسلیم کیا، جو ہر مومن کا بنیادی اصول ہونا چاہیے۔",
+                "یہ قول تمام مسلمانوں کو یہ تعلیم دیتا ہے کہ وہ ہمیشہ فروعی مسائل میں بھی دلیل (سنت) کو قیاس (رائے) پر ترجیح دیں۔"
+              ],
+              "english": [
+                "Ali's affirmation that religion is based on Sunnah, not personal reasoning, even concerning his own deduction, shows the high standard of the Companions' understanding of Islam.",
+                "He submitted his own intellect to the Prophet's Sunnah, which should be the core principle for every believer.",
+                "This saying teaches all Muslims to prioritize definitive proof (Sunnah) over conjecture (Ra'y) even in secondary issues of Fiqh."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

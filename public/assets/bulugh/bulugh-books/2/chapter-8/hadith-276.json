@@ -1,0 +1,272 @@
+{
+  "hadithId": 276,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": ["urn:1267"],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "Bulugh al-Maram",
+    "babId": 18
+  },
+  "name": {
+    "arabic": "وَعَنْ اِبْنِ عُمَرَ ‏-رَضِيَ اَللَّهُ عَنْهُمَا‏- ] قَالَ [ : { كَانَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-يَقْرَأُ عَلَيْنَا اَلْقُرْآنَ , فَإِذَا مَرَّ بِالسَّجْدَةِ , كَبَّرَ , وَسَجَدَ , وَسَجَدْنَا مَعَهُ } رَوَاهُ أَبُو دَاوُدَ بِسَنَدٍ فِيهِ لِيِنٌ .",
+    "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم ہمارے سامنے قرآن مجید کی تلاوت فرماتے تھے۔ جب آیت سجدہ پر سے گزرتے تو «اللہ اکبر» کہہ کر سجدہ کرتے اور ہم بھی آپ صلی اللہ علیہ وسلم کے ساتھ ہی سجدہ کرتے۔ ابوداؤد نے اسے کمزور سند کے ساتھ روایت کیا ہے۔",
+    "english": "Narrated by Ibn 'Umar (may Allah be pleased with them): The Prophet (ﷺ) used to recite the Qur'an to us. When he passed by a prostration verse, he would say Takbir (Allahu Akbar) and prostrate, and we would prostrate with him. Reported by Abu Dawud with a soft (weak) chain."
+  },
+  "takhreej": {
+    "arabic": "ضعيف. رواه أبو داود (1413) من طريق عبد الله العمري، وهو ضعيف (لين). والحديث أصله في الصحيحين (البخاري 1075، مسلم 575) دون ذكر التكبير. فزيادة التكبير في هذا الإسناد منكرة تفرد بها العمري.",
+    "urdu": "ضعیف۔ اسے ابو داؤد (1413) نے عبداللہ العمری کے طریق سے روایت کیا ہے جو کہ ضعیف (لین) راوی ہے۔ اس حدیث کی اصل بخاری (1075) اور مسلم (575) میں موجود ہے لیکن اس میں تکبیر کا ذکر نہیں ہے۔ لہٰذا اس سند میں تکبیر کا اضافہ منکر ہے۔",
+    "english": "Weak. Reported by Abu Dawud (1413) via Abdullah Al-Umari, who is weak (layyin). The origin of the Hadith is in Sahih Bukhari (1075) and Sahih Muslim (575) without the mention of Takbir. Thus, the addition of Takbir in this chain is considered Munkar (rejected)."
+  },
+  "importantWords": [
+    {
+      "arabic": "كبر",
+      "english": "Said Takbir",
+      "urdu": "تکبیر کہی"
+    },
+    {
+      "arabic": "مر",
+      "english": "Passed by",
+      "urdu": "گزرے"
+    },
+    {
+      "arabic": "سند فيه لين",
+      "english": "Chain has weakness",
+      "urdu": "سند میں کمزوری ہے"
+    },
+    {
+      "arabic": "ازدحمنا",
+      "english": "We crowded",
+      "urdu": "ہم ہجوم کر لیتے"
+    },
+    {
+      "arabic": "مكان",
+      "english": "Place / Space",
+      "urdu": "جگہ"
+    },
+    {
+      "arabic": "سجدة",
+      "english": "Prostration verse",
+      "urdu": "آیت سجدہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث سجدہ تلاوت کے وقت تکبیر کہنے کی دلیل ہے، لیکن اس کی سند ضعیف ہے۔ صحیح احادیث میں تکبیر کے بغیر سجدہ کرنے کا ذکر ہے، تاہم اکثر فقہاء قیاس کی بنیاد پر تکبیر کو مستحب مانتے ہیں۔",
+    "english": "This Hadith is evidence for saying Takbir during Sujud at-Tilawah, but its chain is weak. Authentic Hadiths mention prostrating without specifying Takbir, yet most jurists consider Takbir recommended based on analogy."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1413)",
+      "english": "Reported by Abu Dawud (1413)"
+    },
+    {
+      "arabic": "رواه البخاري (1075) [أصل الحديث]",
+      "english": "Reported by Al-Bukhari (1075) [Origin]"
+    },
+    {
+      "arabic": "رواه مسلم (575) [أصل الحديث]",
+      "english": "Reported by Muslim (575) [Origin]"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=EXAMPLE_ID_TAKBIR",
+  "grade": {
+    "arabic": "إسناده ضعيف (بزيادة التكبير)",
+    "english": "Weak Chain (Regarding Takbir)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا پس منظر",
+        "english": "Context of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مجالس نبوی",
+              "english": "Prophetic Gatherings"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام قرآن سننے کے لیے نبی ﷺ کے پاس جمع ہوتے تھے۔",
+                "یہ محفلیں تعلیم اور تربیت کا بہترین ذریعہ تھیں۔",
+                "نبی ﷺ عملی طور پر احکام سکھاتے تھے۔"
+              ],
+              "english": [
+                "Companions used to gather around the Prophet (ﷺ) to listen to the Quran.",
+                "These gatherings were the best source of education and training.",
+                "The Prophet (ﷺ) taught rulings practically."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تکبیر کا مسئلہ",
+              "english": "Issue of Takbir"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت میں ہے کہ آپ ﷺ نے سجدہ کے لیے اللہ اکبر کہا۔",
+                "یہ الفاظ سند کے اعتبار سے ضعیف مانے گئے ہیں۔",
+                "صحیح بخاری و مسلم میں صرف سجدہ کرنے کا ذکر ہے، تکبیر کا نہیں۔"
+              ],
+              "english": [
+                "This narration states he said Allahu Akbar for prostration.",
+                "These words are considered weak regarding the chain.",
+                "Sahih Bukhari and Muslim mention only prostrating, without Takbir."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی بحث",
+        "english": "Juristic Discussion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فقہاء کا مسلک",
+              "english": "View of Jurists"
+            },
+            "content": {
+              "urdu": [
+                "ضعف کے باوجود جمہور فقہاء سجدہ تلاوت میں تکبیر کے قائل ہیں۔",
+                "وہ اسے نماز کے سجدے پر قیاس کرتے ہیں۔",
+                "سجدہ میں جاتے وقت اور اٹھتے وقت تکبیر کہنا مسنون سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "Despite the weakness, majority of jurists support Takbir in Sujud at-Tilawah.",
+                "They draw an analogy with the prostration of prayer.",
+                "Saying Takbir while going down and rising is considered Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کے اندر اور باہر",
+              "english": "Inside and Outside Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نماز کے اندر سجدہ تلاوت میں تکبیر کہنا بالاتفاق ثابت ہے۔",
+                "نماز کے باہر اختلاف ہے، لیکن احتیاط اور عمل تکبیر کہنے میں ہے۔",
+                "بعض علماء صرف نیچے جاتے وقت تکبیر کے قائل ہیں۔"
+              ],
+              "english": [
+                "Saying Takbir for Sujud at-Tilawah inside prayer is established by consensus.",
+                "Outside prayer, there is disagreement, but practice favors saying Takbir.",
+                "Some scholars support Takbir only when going down."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اصول حدیث",
+        "english": "Principles of Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زیادتی ثقہ اور ضعیف",
+              "english": "Addition by Reliable vs Weak"
+            },
+            "content": {
+              "urdu": [
+                "اگر ثقہ راوی اضافہ کرے تو قبول ہوتا ہے، مگر یہاں راوی ضعیف ہے۔",
+                "عبداللہ العمری حافظے میں کمزور تھے، اس لیے ان کا اضافہ 'منکر' ہے۔",
+                "اصل حدیث (بخاری/مسلم) میں تکبیر کا نہ ہونا بھی دلیل ہے۔"
+              ],
+              "english": [
+                "An addition by a reliable narrator is accepted, but here the narrator is weak.",
+                "Abdullah Al-Umari was weak in memory, so his addition is 'Munkar'.",
+                "The absence of Takbir in the original Hadith (Bukhari/Muslim) is also evidence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عمل اور روایت",
+              "english": "Practice and Narration"
+            },
+            "content": {
+              "urdu": [
+                "کبھی حدیث ضعیف ہوتی ہے مگر امت کا تعامل (عمل) اسے قوت دیتا ہے۔",
+                "تکبیر کا معاملہ بھی ایسا ہی ہے کہ اکثر علماء کا اس پر عمل ہے۔",
+                "اس لیے حدیث کے ضعف کے باوجود تکبیر کہی جاتی ہے۔"
+              ],
+              "english": [
+                "Sometimes a Hadith is weak, but the practice of the Ummah strengthens it.",
+                "The issue of Takbir is similar, as most scholars practice it.",
+                "Therefore, Takbir is recited despite the weakness of the Hadith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباع رسول ﷺ",
+              "english": "Following the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کا عمل دیکھ کر فوراً سجدہ کرنا ان کے جذبہ اطاعت کو ظاہر کرتا ہے۔",
+                "ہمیں بھی قرآن کی تلاوت کے دوران سستی نہیں کرنی چاہیے۔",
+                "اجتماعی اعمال میں نظم و ضبط کا خیال رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Companions prostrating immediately shows their spirit of obedience.",
+                "We should also not be lazy during Quran recitation.",
+                "Discipline should be maintained in collective actions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ہجوم اور جگہ",
+              "english": "Crowd and Space"
+            },
+            "content": {
+              "urdu": [
+                "صحیح حدیث میں ہے کہ ہجوم کی وجہ سے بعض کو جگہ نہیں ملتی تھی۔",
+                "اگر زمین پر جگہ نہ ملے تو ساتھی کی پیٹھ پر سجدہ کیا جا سکتا ہے (شدید ضرورت میں)۔",
+                "دین کے علم کے لیے صحابہ کی مشقت ہمارے لیے مشعل راہ ہے۔"
+              ],
+              "english": [
+                "Authentic Hadith states some couldn't find space due to the crowd.",
+                "If no space is found on the ground, one might prostrate on a companion's back (in necessity).",
+                "The Companions' struggle for knowledge is a beacon for us."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

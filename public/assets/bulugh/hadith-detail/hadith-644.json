@@ -1,0 +1,264 @@
+{
+  "hadithId": 644,
+  "hadithNo": 38,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/6/38"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 40
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (16113) واللفظ له، وابن حبان (1620)، والبزار (2209).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد (16113)، ابن حبان (1620) اور بزار (2209) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (16113) with this wording, Ibn Hibban (1620), and Al-Bazzar (2209)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَفْضَلُ",
+      "english": "Superior / Better",
+      "urdu": "زیادہ فضیلت والا"
+    },
+    {
+      "arabic": "أَلْفِ",
+      "english": "One Thousand",
+      "urdu": "ایک ہزار"
+    },
+    {
+      "arabic": "سِوَاهُ",
+      "english": "Other than it",
+      "urdu": "اس کے علاوہ"
+    },
+    {
+      "arabic": "مِائَةِ",
+      "english": "One Hundred",
+      "urdu": "ایک سو"
+    },
+    {
+      "arabic": "الْمَسْجِدَ اَلْحَرَامَ",
+      "english": "The Sacred Mosque",
+      "urdu": "مسجد حرام"
+    },
+    {
+      "arabic": "صَلَاةٌ",
+      "english": "Prayer",
+      "urdu": "نماز"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں مسجد نبوی اور مسجد حرام میں نماز پڑھنے کی عظیم فضیلت اور ثواب کی مقدار کا بیان ہے کہ مسجد حرام میں ایک نماز ایک لاکھ نمازوں کے برابر ہے۔",
+    "english": "This Hadith highlights the immense virtue of praying in the Prophet's Mosque and Masjid al-Haram, clarifying that a prayer in Makkah is equivalent to 100,000 elsewhere."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد في مسنده",
+      "english": "Reported by Ahmad in his Musnad"
+    },
+    {
+      "arabic": "رواه ابن حبان في صحيحه",
+      "english": "Reported by Ibn Hibban in his Sahih"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن الزبير",
+        "english": "Abdullah ibn al-Zubayr"
+      },
+      "slug": "abdullah-ibn-al-zubayr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی تشریح",
+        "english": "Explanation of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد نبوی کی فضیلت",
+              "english": "Virtue of the Prophet's Mosque"
+            },
+            "content": {
+              "urdu": [
+                "مسجد نبوی میں نماز پڑھنا عام مساجد سے ہزار گنا بہتر ہے۔",
+                "یہ فضیلت اللہ کے رسول صلی اللہ علیہ وسلم کی نسبت کی وجہ سے ہے۔",
+                "مسلمانوں کو اس مسجد کی زیارت اور وہاں عبادت کا شوق رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Praying in the Prophet's Mosque is 1000 times better than elsewhere.",
+                "This virtue is due to its direct connection to the Messenger of Allah.",
+                "Muslims are encouraged to visit and worship in this blessed location."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مسجد حرام کی برتری",
+              "english": "Superiority of Masjid al-Haram"
+            },
+            "content": {
+              "urdu": [
+                "مسجد حرام تمام مساجد بشمول مسجد نبوی سے افضل ترین مقام ہے۔",
+                "وہاں ایک نماز مسجد نبوی کی سو نمازوں کے برابر فضیلت رکھتی ہے۔",
+                "مجموعی حساب سے مسجد حرام کی ایک نماز ایک لاکھ کے برابر ہے۔"
+              ],
+              "english": [
+                "Masjid al-Haram is the most superior mosque including the Prophet's Mosque.",
+                "One prayer there equals 100 prayers in the Prophet's Mosque in virtue.",
+                "The total calculation makes one prayer in Makkah equal to 100,000."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی فوائد",
+        "english": "Juristic Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعمال کے ثواب میں زیادتی",
+              "english": "Increase in Reward for Deeds"
+            },
+            "content": {
+              "urdu": [
+                "جگہ کی فضیلت سے عمل کا ثواب کئی گنا بڑھ جاتا ہے۔",
+                "اللہ تعالیٰ اپنے خاص مقامات پر عبادت کرنے والوں کو نوازتا ہے۔",
+                "یہ اللہ کا فضل ہے کہ وہ تھوڑے عمل پر بہت زیادہ ثواب دیتا ہے۔"
+              ],
+              "english": [
+                "The reward of deeds increases manifold based on the virtue of the place.",
+                "Allah rewards those who worship Him in specifically sacred locations.",
+                "It is Allah's grace that He grants immense reward for small efforts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تین مساجد کا سفر",
+              "english": "Traveling to the Three Mosques"
+            },
+            "content": {
+              "urdu": [
+                "ثواب کی نیت سے صرف تین مساجد کی طرف رخت سفر باندھا جا سکتا ہے۔",
+                "مسجد حرام، مسجد نبوی اور مسجد اقصیٰ وہ متبرک مقامات ہیں۔",
+                "اس حدیث سے ان مقامات کی اہمیت اور سفر کی ترغیب ملتی ہے۔"
+              ],
+              "english": [
+                "One may travel specifically for reward only to the three main mosques.",
+                "These are Masjid al-Haram, the Prophet's Mosque, and Masjid al-Aqsa.",
+                "This Hadith emphasizes their importance and encourages visiting them."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایمانی اسباق",
+        "english": "Faith-based Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عبادت کا شوق",
+              "english": "Passion for Worship"
+            },
+            "content": {
+              "urdu": [
+                "زیادہ ثواب کی خبر سن کر مومن کا دل عبادت کے لیے تڑپتا ہے۔",
+                "مقاماتِ مقدسہ کی محبت ایمان کا لازمی حصہ قرار پاتی ہے۔",
+                "مومن ہمیشہ نیکیوں میں سبقت لے جانے کی کوشش کرتا ہے۔"
+              ],
+              "english": [
+                "Hearing about great rewards ignites a believer's heart for worship.",
+                "Love for the sacred sites is an essential part of a person's faith.",
+                "A true believer always strives to excel in performing good deeds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت اور جگہ کی قدر",
+              "english": "Valuing Time and Place"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو چاہیے کہ وہ اپنی زندگی کے قیمتی لمحات ضائع نہ کرے۔",
+                "مقدس مقامات پر گزارا ہوا ہر لمحہ کروڑوں کے برابر ہو سکتا ہے۔",
+                "عظیم ثواب کے حصول کے لیے ہجرت اور سفر کی مشقت برداشت کرنی چاہیے۔"
+              ],
+              "english": [
+                "A person should not waste the precious moments of their life.",
+                "Every moment spent in sacred places can be worth millions of rewards.",
+                "One should endure the hardship of travel to achieve these great rewards."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی پر اثر",
+        "english": "Impact on Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حج و عمرہ کی ترغیب",
+              "english": "Encouragement for Hajj and Umrah"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے حج اور عمرہ کی ادائیگی کا شوق پیدا ہوتا ہے۔",
+                "نماز کی فضیلت دیکھ کر لوگ حرمین شریفین کا رخ کرتے ہیں۔",
+                "یہ امت کے اتحاد اور عالمی مرکزیت کی علامت بھی ہے۔"
+              ],
+              "english": [
+                "This Hadith inspires a deep desire to perform Hajj and Umrah.",
+                "Seeing the virtue of prayer, people flock to the Two Holy Mosques.",
+                "It serves as a symbol of unity and a global center for the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کی پابندی",
+              "english": "Steadfastness in Prayer"
+            },
+            "content": {
+              "urdu": [
+                "جب ایک نماز کا اتنا ثواب ہے تو اس کی اہمیت کا اندازہ ہوتا ہے۔",
+                "نماز چھوڑنے والے کو اس بڑے خسارے کا احساس ہونا چاہیے۔",
+                "مسلمانوں کو باجماعت نماز کی ہر صورت حفاظت کرنی چاہیے۔"
+              ],
+              "english": [
+                "When one prayer has such reward, its overall importance is realized.",
+                "Those who neglect prayer should realize the massive loss they incur.",
+                "Muslims must protect their congregational prayers at all costs."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 462,
+  "hadithNo": 38,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/40"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أحمد (4539)، وأبو داود (3179)، والنسائي (1910)، والترمذي (1007)، وابن ماجه (1482)، وصححه ابن حبان (3041). ورغم إعلال النسائي له بالإرسال، إلا أن الطرق الموصولة صحيحة وقوية.",
+    "urdu": "صحیح۔ اسے احمد، ابوداؤد، نسائی، ترمذی اور ابن ماجہ نے روایت کیا ہے اور ابن حبان نے اسے صحیح قرار دیا ہے۔ بعض محدثین نے اسے مرسل کہا ہے لیکن موصول طرق زیادہ قوی اور معتبر ہیں۔",
+    "english": "Sahih. Reported by Ahmad (4539), Abu Dawud (3179), An-Nasa'i (1910), At-Tirmidhi (1007), Ibn Majah (1482), and authenticated by Ibn Hibban (3041). Despite some scholars labeling it Mursal, the connected chains are authentic."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَمْشُونَ",
+      "english": "Walking",
+      "urdu": "وہ چلتے تھے"
+    },
+    {
+      "arabic": "أَمَامَ",
+      "english": "In front of",
+      "urdu": "آگے"
+    },
+    {
+      "arabic": "جَنَازَةِ",
+      "english": "Funeral procession",
+      "urdu": "جنازہ"
+    },
+    {
+      "arabic": "رَأَى",
+      "english": "He saw",
+      "urdu": "انہوں نے دیکھا"
+    },
+    {
+      "arabic": "الْإِرْسَالِ",
+      "english": "Mursal (Hanging)",
+      "urdu": "مرسل (سند کا ٹوٹنا)"
+    }
+  ],
+  "summary": {
+    "urdu": "جنازے کے شرکاء کے لیے جنازے کے آگے چلنا سنت سے ثابت ہے، جیسا کہ نبی کریم ﷺ اور خلفائے راشدین کا معمول تھا۔",
+    "english": "It is established from the Sunnah that the participants of a funeral may walk in front of the bier, as practiced by the Prophet (ﷺ) and the Caliphs."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الجنائز، رقم 3179",
+      "english": "Sunan Abi Dawud, Book of Funerals, Hadith 3179"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب الجنائز، رقم 1007",
+      "english": "Sunan at-Tirmidhi, Book of Funerals, Hadith 1007"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fq4m8D0p4yU",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنازے کے ساتھ چلنے کی جگہ",
+        "english": "Position While Walking with a Funeral"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنازے کے آگے چلنے کا ثبوت",
+              "english": "Proof of Walking in Front"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ، ابوبکر صدیق اور عمر فاروق رضی اللہ عنہما کا معمول جنازے کے آگے چلنے کا تھا۔",
+                "یہ حدیث واضح کرتی ہے کہ پیدل چلنے والوں کے لیے آگے چلنا فضیلت والا عمل ہے۔",
+                "امام شافعی، امام احمد اور امام مالک رحمہ اللہ کے نزدیک آگے چلنا افضل ہے۔"
+              ],
+              "english": [
+                "The habitual practice of the Prophet (ﷺ), Abu Bakr, and 'Umar (RA) was to walk in front of the bier.",
+                "This Hadith clarifies that for those walking, being in front is a virtuous act.",
+                "Imams Shafi'i, Ahmad, and Malik consider walking in front to be preferable."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پیدل اور سوار کا فرق",
+              "english": "Difference Between Walking and Riding"
+            },
+            "content": {
+              "urdu": [
+                "پیدل چلنے والے کے لیے آگے، پیچھے یا دائیں بائیں ہر طرف چلنے کی گنجائش موجود ہے۔",
+                "سوار شخص کے لیے سنت یہ ہے کہ وہ جنازے کے پیچھے رہے تاکہ پیدل والوں کو تنگی نہ ہو۔",
+                "آپ ﷺ نے پیدل چلنے والوں کو قریب رہنے کی تلقین فرمائی ہے تاکہ وہ میت کی سفارش میں شامل رہیں۔"
+              ],
+              "english": [
+                "A person walking has the flexibility to be in front, behind, or on either side of the bier.",
+                "For a person on a mount, the Sunnah is to stay behind the funeral to avoid crowding the walkers.",
+                "The Prophet (ﷺ) urged walkers to stay close to the bier to participate in interceding for the dead."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلفائے راشدین کی پیروی",
+        "english": "Following the Rightly Guided Caliphs"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ خلفاء کی اہمیت",
+              "english": "Importance of the Caliphs' Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوبکر اور عمر رضی اللہ عنہما کا مسلسل عمل اس طریقے کی مضبوطی پر دلالت کرتا ہے۔",
+                "آپ ﷺ نے ہمیں اپنی سنت کے ساتھ ساتھ خلفائے راشدین کی سنت کو تھامنے کا حکم دیا ہے۔",
+                "صحابہ کرام کا کسی عمل پر متواتر رہنا اس کے سنتِ مؤکدہ ہونے کی علامت ہے۔"
+              ],
+              "english": [
+                "The consistent practice of Abu Bakr and 'Umar (RA) indicates the strength of this method.",
+                "The Prophet (ﷺ) commanded us to hold fast to his Sunnah and the Sunnah of the Rightly Guided Caliphs.",
+                "The constant adherence of the Companions to an act signifies its status as an emphasized Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحابہ کا مشاہدہ",
+              "english": "Observations of the Companions"
+            },
+            "content": {
+              "urdu": [
+                "عبداللہ بن عمر جیسے جلیل القدر صحابی کا مشاہدہ اس بات کی تصدیق کرتا ہے کہ یہ عمل عام تھا۔",
+                "صحابہ کرام آپ ﷺ کی ہر حرکت پر نظر رکھتے تھے تاکہ اسے اگلی نسل تک پہنچا سکیں۔",
+                "سالم رحمہ اللہ نے اپنے والد سے اس سنت کو سیکھا اور اسے روایت کیا۔"
+              ],
+              "english": [
+                "The observation of a great Companion like Ibn 'Umar confirms that this practice was common.",
+                "The Companions monitored every movement of the Prophet (ﷺ) to pass it on to the next generation.",
+                "Salim (RA) learned this Sunnah from his father and narrated it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علمی و فقہی باریکیاں",
+        "english": "Scholarly and Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرسل اور موصول کا بحث",
+              "english": "Mursal vs. Connected Narrations"
+            },
+            "content": {
+              "urdu": [
+                "امام نسائی نے اس حدیث کے مرسل ہونے کا ذکر کیا ہے جو کہ محدثین کے نزدیک ایک فنی بحث ہے۔",
+                "تاہم ابن حبان اور دیگر نے اسے صحیح قرار دیا ہے کیونکہ اس کے موصول طرق بھی موجود ہیں۔",
+                "فقہی اعتبار سے اس حدیث کا مضمون دیگر صحیح روایات سے تائید یافتہ ہے۔"
+              ],
+              "english": [
+                "Imam an-Nasa'i mentioned it as Mursal, which is a technical scholarly discussion among Hadith experts.",
+                "However, Ibn Hibban and others authenticated it because connected chains for it exist.",
+                "Juristically, the content of this Hadith is supported by other authentic narrations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جنازے کا احترام",
+              "english": "Respect for the Funeral"
+            },
+            "content": {
+              "urdu": [
+                "جنازے کے آگے چلنے کا ایک مقصد یہ بھی ہے کہ راستے میں آنے والوں کو اطلاع ہو جائے۔",
+                "یہ عمل میت کے لیے راستہ ہموار کرنے اور لوگوں کو متوجہ کرنے کا ذریعہ بنتا ہے۔",
+                "اسلام جنازے کے ہر پہلو میں نظم و ضبط اور وقار سکھاتا ہے۔"
+              ],
+              "english": [
+                "One purpose of walking in front of the funeral is to inform those coming from ahead.",
+                "This act helps clear the path for the deceased and draws the attention of onlookers.",
+                "Islam teaches discipline and dignity in every aspect of the funeral procession."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے لیے سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنازے میں شرکت کے آداب",
+              "english": "Etiquettes of Attending a Funeral"
+            },
+            "content": {
+              "urdu": [
+                "جنازے کے ساتھ چلتے وقت خاموشی اختیار کرنی چاہیے اور آخرت کی فکر ہونی چاہیے۔",
+                "جنازے کے ساتھ پیدل چلنا سواری پر جانے سے افضل ہے جب تک کوئی عذر نہ ہو۔",
+                "میت کے لیے دعا اور استغفار میں مشغول رہنا بہترین عمل ہے۔"
+              ],
+              "english": [
+                "Silence should be maintained while walking with a funeral, reflecting on the Hereafter.",
+                "Walking with a funeral is better than riding, unless there is a valid excuse.",
+                "Engaging in supplication and seeking forgiveness for the deceased is the best action."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت پر عمل کی ترغیب",
+              "english": "Encouragement to Act on Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے روزمرہ کے اعمال میں بھی سنتِ نبوی ﷺ کو تلاش کر کے نافذ کرنا چاہیے۔",
+                "خلفائے راشدین کے نقشِ قدم پر چلنا ہی حق پر رہنے کی علامت ہے۔",
+                "جنازے کے آداب پر عمل کرنا میت اور لواحقین کے ساتھ دلی ہمدردی کا اظہار ہے۔"
+              ],
+              "english": [
+                "We should search for and implement the Prophetic Sunnah even in our routine actions.",
+                "Following the footsteps of the Rightly Guided Caliphs is a sign of staying on the truth.",
+                "Adhering to funeral etiquettes is an expression of heartfelt sympathy for the deceased and their family."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 993,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/9/1"],
+    "kitabId": 9,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 79
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (6878)‏، ومسلم (1676)‏. وأخرجه أصحاب السنن الأربعة وغيرهم بألفاظ متقاربة.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام بخاری اور امام مسلم نے اپنی صحیحین میں روایت کیا ہے۔ یہ اسلام کے فوجداری قوانین کی بنیادوں میں سے ایک ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (6878) and Muslim (1676). It is also recorded in the four Sunan with similar wording."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَحِلُّ",
+      "english": "Not lawful",
+      "urdu": "حلال نہیں"
+    },
+    {
+      "arabic": "دَمُ",
+      "english": "Blood / Life",
+      "urdu": "خون"
+    },
+    {
+      "arabic": "الثَّيِّبُ",
+      "english": "Married person",
+      "urdu": "شادی شدہ"
+    },
+    {
+      "arabic": "النَّفْسُ",
+      "english": "A soul / life",
+      "urdu": "جان"
+    },
+    {
+      "arabic": "التَّارِكُ",
+      "english": "One who abandons",
+      "urdu": "چھوڑنے والا"
+    },
+    {
+      "arabic": "الْمُفَارِقُ",
+      "english": "One who departs",
+      "urdu": "جدا ہونے والا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں انسانی جان کی حرمت بیان کی گئی ہے اور وہ تین جرائم ذکر کیے گئے ہیں جن پر اسلامی ریاست میں سزائے موت دی جا سکتی ہے۔",
+    "english": "This Hadith emphasizes the sanctity of Muslim life and specifies the three major crimes that warrant capital punishment under Islamic law."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6878)",
+      "english": "Reported by Al-Bukhari (6878)"
+    },
+    {
+      "arabic": "رواه مسلم (1676)",
+      "english": "Reported by Muslim (1676)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah ibn Mas'ud"
+      },
+      "slug": "abdullah-ibn-masud"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6o9l6Kts",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "انسانی جان کی حرمت",
+        "english": "Sanctity of Human Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلمان کے خون کی قدر",
+              "english": "Value of a Muslim's Blood"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں ایک مسلمان کی جان، مال اور عزت انتہائی محترم ہے۔",
+                "بلاوجہ کسی کا خون بہانا کبیرہ گناہوں میں سے سب سے بڑا گناہ ہے۔",
+                "توحید اور رسالت کا اقرار جان کی مکمل حفاظت کی ضمانت دیتا ہے۔"
+              ],
+              "english": [
+                "In Islam, the life, property, and honor of a Muslim are sacred.",
+                "Shedding blood without a valid reason is among the gravest sins.",
+                "Testifying to Tauheed and Risalat guarantees the protection of life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سزا کا نفاذ اور اختیار",
+              "english": "Execution of Punishment"
+            },
+            "content": {
+              "urdu": [
+                "حدود اور قصاص کا نفاذ صرف اسلامی ریاست کی ذمہ داری ہے۔",
+                "کسی فردِ واحد کو قانون ہاتھ میں لینے کی ہرگز اجازت نہیں ہے۔",
+                "یہ سزائیں معاشرے میں امن و امان قائم رکھنے کے لیے رکھی گئی ہیں۔"
+              ],
+              "english": [
+                "The execution of Hudud and Qisas is solely the state's responsibility.",
+                "No individual is permitted to take the law into their own hands.",
+                "These punishments are established to maintain social peace and order."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جرائم کی نوعیت",
+        "english": "Nature of the Crimes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شادی شدہ کا زنا",
+              "english": "Adultery by a Married Person"
+            },
+            "content": {
+              "urdu": [
+                "شادی شدہ ہونے کے باوجود زنا کرنا خاندانی نظام کی تباہی ہے۔",
+                "یہ جرم معاشرتی اخلاقیات پر بدترین حملہ تصور کیا جاتا ہے۔",
+                "اس کے لیے سخت سزا مقرر ہے تاکہ پاکدامنی کا تحفظ ہو سکے۔"
+              ],
+              "english": [
+                "Adultery by a married person destroys the family structure.",
+                "This crime is considered a severe assault on social ethics.",
+                "A strict penalty is set to ensure the protection of chastity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قصاص کا قانون",
+              "english": "The Law of Retaliation"
+            },
+            "content": {
+              "urdu": [
+                "ناحق قتل کے بدلے قاتل کو قتل کرنا عدل کا تقاضا ہے۔",
+                "قرآن کے مطابق قصاص میں ہی انسانیت کے لیے زندگی چھپی ہے۔",
+                "یہ قانون دوسروں کو قتل جیسے سنگین جرم سے روکنے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Executing a murderer for an unlawful killing is a demand of justice.",
+                "According to the Quran, there is life for humanity in Qisas.",
+                "This law serves as a deterrent against the grave crime of murder."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ارتداد اور بغاوت",
+        "english": "Apostasy and Rebellion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین سے انحراف",
+              "english": "Departure from Faith"
+            },
+            "content": {
+              "urdu": [
+                "دین چھوڑنا اور جماعت سے الگ ہونا ریاست سے غداری کے مترادف ہے۔",
+                "اس سے مراد وہ فتنہ ہے جو اسلامی نظام کی بنیادوں کو ہلائے۔",
+                "علماء کے نزدیک اس میں وہ لوگ شامل ہیں جو بغاوت پر اتر آئیں۔"
+              ],
+              "english": [
+                "Leaving the faith and the community is akin to treason against the state.",
+                "It refers to fitna that destabilizes the foundation of Islamic system.",
+                "Scholars include those who resort to open rebellion in this category."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی مفاد کا تحفظ",
+              "english": "Protecting Collective Interest"
+            },
+            "content": {
+              "urdu": [
+                "اسلام انفرادی آزادی کے مقابلے میں اجتماعی امن کو ترجیح دیتا ہے۔",
+                "جماعت سے علیحدگی معاشرے میں انتشار پھیلانے کا سبب بنتی ہے۔",
+                "شریعت کا مقصد انسانی جانوں اور دین کے نظام کو بچانا ہے۔"
+              ],
+              "english": [
+                "Islam prioritizes collective peace over unchecked individual liberty.",
+                "Separating from the community causes chaos within the society.",
+                "The objective of Shariah is to protect human lives and the faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی پہلو",
+        "english": "Juristic and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدل و انصاف کی فراہمی",
+              "english": "Provision of Justice"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قوانین کا مقصد محض سزا دینا نہیں بلکہ اصلاح کرنا ہے۔",
+                "ثبوت اور گواہی کے بغیر ان سزاؤں کا نفاذ ممکن نہیں ہے۔",
+                "شک کی صورت میں حد ساقط کر دی جاتی ہے، جو رحمت کی دلیل ہے۔"
+              ],
+              "english": [
+                "Islamic laws aim to reform rather than merely punish.",
+                "These penalties cannot be applied without rigorous proof and witness.",
+                "In cases of doubt, Hudud are waived, demonstrating divine mercy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو چاہیے کہ وہ حدود اللہ کے احترام کا جذبہ پیدا کرے۔",
+                "جرائم سے پاک معاشرہ ہی ترقی اور خوشحالی کا ضامن ہے۔",
+                "نبی کریم ﷺ کی تعلیمات پر عمل ہی کامیابی کا واحد راستہ ہے۔"
+              ],
+              "english": [
+                "Every Muslim should cultivate respect for the boundaries of Allah.",
+                "A crime-free society is the guarantor of progress and prosperity.",
+                "Adherence to the Prophet's (ﷺ) teachings is the only path to success."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

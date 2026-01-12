@@ -1,0 +1,259 @@
+{
+  "hadithId": 861,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/47"],
+    "kitabId": 8,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب النكاح",
+    "babId": 65
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (1876)، وأبو داود (2240)، والترمذي (1143)، وابن ماجه (2009)، والحاكم (2/200). وصححه أحمد والحاكم ووافقه الذهبي.",
+    "urdu": "صحیح۔ اسے احمد (1876)، ابوداؤد (2240)، ترمذی (1143) اور ابن ماجہ (2009) نے روایت کیا ہے۔ امام احمد اور حاکم نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (1876), Abu Dawud (2240), At-Tirmidhi (1143), Ibn Majah (2009), and Al-Hakim (2/200). Authenticated by Ahmad, Al-Hakim, and Adh-Dhahabi."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَدَّ",
+      "english": "Returned",
+      "urdu": "واپس کر دیا"
+    },
+    {
+      "arabic": "بَعْدَ",
+      "english": "After",
+      "urdu": "کے بعد"
+    },
+    {
+      "arabic": "سِتِّ سِنِينَ",
+      "english": "Six years",
+      "urdu": "چھ سال"
+    },
+    {
+      "arabic": "النِّكَاحِ اَلْأَوَّلِ",
+      "english": "The first marriage",
+      "urdu": "پہلا نکاح"
+    },
+    {
+      "arabic": "لَمْ يُحْدِثْ",
+      "english": "Did not initiate/perform",
+      "urdu": "نیا نہیں کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر میاں بیوی میں سے ایک اسلام لے آئے اور دوسرا کچھ عرصے بعد (عدت کے اندر یا اس کے بعد) اسلام لائے، تو نکاحِ اول برقرار رہ سکتا ہے بشرطیکہ عورت کسی دوسرے سے نکاح نہ کر چکی ہو۔",
+    "english": "If one spouse embraces Islam and the other follows after some time, the original marriage can remain valid without a new contract, provided the woman has not remarried."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2240)",
+      "english": "Sunan Abi Dawud (2240)"
+    },
+    {
+      "arabic": "سنن الترمذي (1143)",
+      "english": "Sunan at-Tirmidhi (1143)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI7lT3w0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اسلام اور ازدواجی تعلق",
+        "english": "Islam and Marital Relations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قبولِ اسلام کے اثرات",
+              "english": "Effects of Embracing Islam"
+            },
+            "content": {
+              "urdu": [
+                "جب ایک فریق مسلمان ہو جائے تو نکاح معلق ہو جاتا ہے مگر مکمل ختم نہیں ہوتا۔",
+                "سیدہ زینب ہجرت کر کے مدینہ آ گئی تھیں جبکہ ابوالعاص مکہ میں مشرک رہے۔",
+                "فتحِ مکہ کے قریب جب وہ مسلمان ہوئے تو آپ ﷺ نے انہیں دوبارہ یکجا کر دیا۔"
+              ],
+              "english": [
+                "When one party embraces Islam, the marriage becomes suspended but not completely terminated.",
+                "Zainab (RA) migrated to Madinah while Abu al-'As remained a polytheist in Makkah.",
+                "When he embraced Islam near the Conquest of Makkah, the Prophet (ﷺ) reunited them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نئے نکاح کی ضرورت",
+              "english": "Requirement for a New Contract"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے ثابت ہوتا ہے کہ طویل جدائی کے باوجود نیا نکاح ضروری نہیں تھا۔",
+                "اگر عورت نے عدت کے بعد دوسرا نکاح نہ کیا ہو تو شوہر کے اسلام لانے پر وہ اس کی زوجہ رہے گی۔",
+                "یہ حکم نئے مسلمانوں کے لیے آسانی اور تالیفِ قلب کا باعث ہے۔"
+              ],
+              "english": [
+                "This Hadith proves that a new marriage contract was not necessary despite a long separation.",
+                "If the woman has not remarried after her Iddah, she remains his wife upon his conversion.",
+                "This ruling provides ease and reconciles the hearts of new converts to Islam."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف کی وضاحت",
+        "english": "Clarification of Juristic Differences"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عدت کا دورانیہ",
+              "english": "Duration of Iddah"
+            },
+            "content": {
+              "urdu": [
+                "کچھ فقہاء کے نزدیک یہ رعایت صرف عدت کے اندر اسلام لانے کی صورت میں ہے۔",
+                "تاہم اس حدیث میں چھ سال کا ذکر ہے جو عام عدت سے کہیں زیادہ طویل ہے۔",
+                "امام ابن قیم اور دیگر محققین کے نزدیک عدت کے بعد بھی واپسی جائز ہے اگر عورت رضامند ہو۔"
+              ],
+              "english": [
+                "Some jurists believe this concession only applies if Islam is embraced within the Iddah period.",
+                "However, this Hadith mentions six years, which is far longer than any standard Iddah.",
+                "According to Ibn al-Qayyim and others, reunion is valid even after Iddah if the woman agrees."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دوسری روایت سے موازنہ",
+              "english": "Comparison with Other Narrations"
+            },
+            "content": {
+              "urdu": [
+                "ایک دوسری روایت میں نئے نکاح اور مہر کا ذکر بھی ملتا ہے۔",
+                "علماء کے نزدیک 'پہلا نکاح' والی روایت زیادہ مستند اور قوی ہے۔",
+                "نئے نکاح والی روایت کو بعض نے ضعیف یا تجدیدِ مہر پر محمول کیا ہے۔"
+              ],
+              "english": [
+                "Another narration mentions a new marriage contract and a new dowry (Mahr).",
+                "Scholars consider the 'first marriage' narration to be more authentic and stronger.",
+                "The 'new marriage' narration is regarded by some as weak or as a voluntary renewal."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تاریخی پس منظر",
+        "english": "Historical Background"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیدہ زینب کی ہجرت",
+              "english": "Migration of Zainab (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ زینب نبی کریم ﷺ کی سب سے بڑی صاحبزادی تھیں۔",
+                "ابوالعاص نے جنگِ بدر میں قید ہونے کے بعد انہیں مدینہ بھیجنے کا وعدہ پورا کیا۔",
+                "وہ ایک وفادار شوہر تھے جنہوں نے بعد میں اپنی مرضی سے اسلام قبول کیا۔"
+              ],
+              "english": [
+                "Zainab (RA) was the eldest daughter of the Prophet (ﷺ).",
+                "Abu al-'As fulfilled his promise to send her to Madinah after being captured at Badr.",
+                "He was a loyal husband who later embraced Islam of his own free will."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبوی شفقت کا نمونہ",
+              "english": "Example of Prophetic Compassion"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے خاندانی رشتوں کی بحالی کے لیے انتہائی نرمی کا مظاہرہ فرمایا۔",
+                "ابوالعاص کی دیانتداری کی وجہ سے آپ ﷺ ان کی بہت تعریف فرماتے تھے۔",
+                "یہ واقعہ ثابت کرتا ہے کہ اسلام خاندانوں کو توڑنے نہیں بلکہ جوڑنے آیا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) showed immense leniency to restore family ties.",
+                "Due to Abu al-'As's integrity, the Prophet (ﷺ) used to praise him highly.",
+                "This incident proves that Islam came to unite families, not to break them apart."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نئے مسلمانوں کے لیے آسانی",
+              "english": "Ease for New Converts"
+            },
+            "content": {
+              "urdu": [
+                "اسلام قبول کرنے والے کے سابقہ جائز تعلقات کو برقرار رکھنے کی کوشش کرنی چاہیے۔",
+                "شرعی حدود کے اندر رہتے ہوئے نکاح کو بچانا مستحسن عمل ہے۔",
+                "غیر ضروری پیچیدگیوں سے بچنا سنتِ نبوی کا خاصہ ہے۔"
+              ],
+              "english": [
+                "Efforts should be made to maintain the valid previous relationships of those who embrace Islam.",
+                "Preserving a marriage while staying within Sharia limits is a recommended act.",
+                "Avoiding unnecessary complications is a characteristic of the Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وفاداری کی اہمیت",
+              "english": "Importance of Loyalty"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ زینب نے برسوں تک اپنے شوہر کے اسلام لانے کا انتظار کیا اور وفاداری نبھائی۔",
+                "میاں بیوی کا ایک دوسرے کے لیے صبر کرنا اجرِ عظیم کا باعث ہے۔",
+                "نیک میاں بیوی کی محبت اسلام لانے کے بعد مزید نکھر جاتی ہے۔"
+              ],
+              "english": [
+                "Zainab (RA) waited for years for her husband to embrace Islam and remained loyal.",
+                "Patience between spouses for one another leads to a great reward.",
+                "The love between righteous spouses becomes even more refined after embracing Islam."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

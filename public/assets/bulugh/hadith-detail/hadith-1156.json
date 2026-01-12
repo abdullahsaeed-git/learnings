@@ -1,0 +1,259 @@
+{
+  "hadithId": 1156,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1156"],
+    "kitabId": 12,
+    "inKitabBab": 2,
+    "arabicBook": "بلوغ المرام - كتاب الصيد والذبائح",
+    "babId": 93
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1959). والقتل صبراً هو أن يمسك الحيوان حياً ثم يرمى بشيء حتى يموت، وهو من التعذيب المنهي عنه شرعاً.",
+    "urdu": "صحیح مسلم (1959)۔ 'قتل صبراً' کا مطلب ہے کسی جاندار کو قید کر کے یا باندھ کر اس وقت تک مارنا جب تک وہ مر نہ جائے۔ یہ عمل اسلام میں سختی سے منع ہے کیونکہ اس میں بے پناہ اذیت ہے۔",
+    "english": "Sahih. Reported by Muslim (1959). 'Qatl Sabran' refers to keeping an animal confined or tied up and then striking it until it dies, which is a form of torture strictly prohibited in Sharia."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "يُقْتَلَ",
+      "english": "Be killed",
+      "urdu": "قتل کیا جائے"
+    },
+    {
+      "arabic": "الدَّوَابِّ",
+      "english": "Beasts / Animals",
+      "urdu": "جانور / چوپائے"
+    },
+    {
+      "arabic": "صَبْراً",
+      "english": "Confined / Tied",
+      "urdu": "باندھ کر / روک کر"
+    },
+    {
+      "arabic": "شَيْءٌ",
+      "english": "Anything / Any soul",
+      "urdu": "کوئی چیز"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں جانوروں کو قید کر کے یا باندھ کر تکلیف دہ طریقے سے مارنے کی ممانعت ہے، جو کہ اسلامی اخلاقیات اور رحم دلی کے خلاف ہے۔",
+    "english": "This Hadith prohibits the cruel practice of killing confined or tied animals slowly, highlighting Islamic principles of mercy and ethical treatment."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1959)",
+      "english": "Reported by Muslim (1959)"
+    },
+    {
+      "arabic": "رواه أبو داود (2817)",
+      "english": "Reported by Abu Dawud (2817)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9_N_vXU2jI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قتلِ صبر کی حقیقت",
+        "english": "The Reality of Qatl-e-Sabr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باندھ کر مارنے کی تعریف",
+              "english": "Definition of Killing in Confinement"
+            },
+            "content": {
+              "urdu": [
+                "کسی جاندار کو بے بس کر کے اسے مارنا قتلِ صبر کہلاتا ہے۔",
+                "اس میں جانور کو بھوکا پیاسا رکھنا یا نشانہ بنانا شامل ہے۔",
+                "نبی کریم ﷺ نے اس وحشیانہ عمل سے سختی سے روکا ہے۔"
+              ],
+              "english": [
+                "Killing a creature while it is rendered helpless is called Qatl-e-Sabr.",
+                "This includes starving the animal or using it for target practice.",
+                "The Prophet (SAW) strictly prohibited this barbaric and cruel practice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اذیت کی ممانعت",
+              "english": "Prohibition of Torture"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کسی بھی جاندار کو تڑپا کر مارنے کی اجازت نہیں دیتا۔",
+                "جانوروں کو بلا ضرورت دکھ دینا شیطانی صفت قرار دیا گیا ہے۔",
+                "ایسا کرنے والا شخص اللہ تعالیٰ کی رحمت سے دور ہو جاتا ہے۔"
+              ],
+              "english": [
+                "Islam does not allow killing any living being through agonizing methods.",
+                "Inflicting unnecessary pain on animals is described as a devilish trait.",
+                "A person who does this distances themselves from the mercy of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ذبح اور شکار کے آداب",
+        "english": "Etiquettes of Slaughter and Hunting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تیزی سے ذبح کرنا",
+              "english": "Slaughtering Quickly"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کا حکم ہے کہ جب ذبح کرو تو بہترین طریقہ اپناؤ۔",
+                "چھری کو تیز رکھیں تاکہ جانور کو فوری سکون مل سکے۔",
+                "جانور کو ذبح کرنے سے پہلے اسے اذیت دینا منع ہے۔"
+              ],
+              "english": [
+                "Islam commands adopting the best manner when performing slaughter.",
+                "Keep the blade sharp so the animal can find relief immediately.",
+                "It is forbidden to cause distress to the animal before slaughtering."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شکار کی جائز صورت",
+              "english": "Lawful Forms of Hunting"
+            },
+            "content": {
+              "urdu": [
+                "شکار صرف خوراک یا ضرورت کے لیے ہی کرنا جائز ہے۔",
+                "جانور کو محض تماشے کے لیے باندھ کر مارنا حرام ہے۔",
+                "شکاری آلات کا درست استعمال بھی شرعی حکم کا حصہ ہے۔"
+              ],
+              "english": [
+                "Hunting is only permitted for food or a specific valid necessity.",
+                "Killing a tied animal merely for entertainment is strictly forbidden.",
+                "Proper use of hunting tools is part of the Sharia requirements."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انسانیت اور جانوروں کا تحفظ",
+        "english": "Humanity and Animal Protection"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رحم دلی کا عالمی پیغام",
+              "english": "Global Message of Compassion"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ تمام جہانوں کے لیے رحمت بنا کر بھیجے گئے ہیں۔",
+                "آپ کی تعلیمات میں جانوروں کے حقوق کا مکمل تحفظ ہے۔",
+                "جانوروں پر رحم کرنا گناہوں کی بخشش کا ذریعہ بن سکتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (SAW) was sent as a mercy to all the worlds.",
+                "His teachings provide full protection for the rights of animals.",
+                "Showing mercy to animals can be a means of forgiveness for sins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنگدلی کا انجام",
+              "english": "Consequences of Hardheartedness"
+            },
+            "content": {
+              "urdu": [
+                "جانوروں پر ظلم کرنے والوں کو آخرت میں جوابدہ ہونا پڑے گا۔",
+                "ایک عورت کو صرف بلی قید کرنے پر جہنم کی وعید آئی۔",
+                "یہ حدیث انسانی دلوں سے سنگدلی ختم کرنے کی تربیت ہے۔"
+              ],
+              "english": [
+                "Those who oppress animals will be held accountable in the Hereafter.",
+                "A woman was warned of Hell just for confining a cat cruelly.",
+                "This Hadith trains human hearts to abandon cruelty and malice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں اپنے بچوں کو جانوروں پر رحم کرنے کی تربیت دینی چاہیے۔",
+                "پرندوں یا جانوروں کو بلاوجہ قید کرنا پسندیدہ عمل نہیں ہے۔",
+                "معاشرے میں جانداروں کے تحفظ کے شعور کو عام کرنا ضروری ہے۔"
+              ],
+              "english": [
+                "We must train our children to show compassion toward animals.",
+                "Confining birds or animals without reason is not a liked act.",
+                "It is necessary to spread awareness about protecting living beings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی مخلوق سے محبت",
+              "english": "Love for Allah's Creation"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی مخلوق پر رحم کرنے والوں پر اللہ رحم فرماتا ہے۔",
+                "کمزوروں کے ساتھ سلوک آپ کے بلند اخلاق کی نشانی ہے۔",
+                "اسلامی معاشرہ ہر ذی روح کے لیے امن و امان کی جگہ ہے۔"
+              ],
+              "english": [
+                "Allah shows mercy to those who show mercy to His creation.",
+                "How you treat the weak is a sign of your moral character.",
+                "An Islamic society is a haven of peace for every living soul."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

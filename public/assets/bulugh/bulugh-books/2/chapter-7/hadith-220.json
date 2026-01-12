@@ -1,0 +1,230 @@
+{
+  "hadithId": 220,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["2", "7"],
+    "kitabId": 2,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب صفة الصلاة",
+    "babId": 17
+  },
+  "name": {
+    "arabic": "وَعَنْ نُعَيْمٍ اَلْمُجَمِّرِ ‏- رضى الله عنه ‏- قَالَ : { صَلَّيْتُ وَرَاءَ أَبِي هُرَيْرَةَ فَقَرَأَ : (بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ)‏ .‏ ثُمَّ قَرَأَ بِأُمِّ اَلْقُرْآنِ , حَتَّى إِذَا بَلَغَ : (وَلَا اَلضَّالِّينَ)‏ , قَالَ : \"آمِينَ\" وَيَقُولُ كُلَّمَا سَجَدَ , وَإِذَا قَامَ مِنْ اَلْجُلُوسِ : اَللَّهُ أَكْبَرُ .‏ ثُمَّ يَقُولُ إِذَا سَلَّمَ : وَاَلَّذِي نَفْسِي بِيَدِهِ إِنِّي لَأَشْبَهُكُمْ صَلَاةً بِرَسُولِ اَللَّهِ ‏- صلى الله عليه وسلم ‏-} رَوَاهُ النَّسَائِيُّ وَابْنُ خُزَيْمَةَ",
+    "urdu": " سیدنا نعیم المجمر رضی اللہ عنہ سے مروی ہے کہ میں نے سیدنا ابوہریرہ رضی اللہ عنہ کی امامت میں نماز پڑھی تو انہوں نے پہلے «بسم الله الرحمن الرحيم» تلاوت فرمائی پھر بعدازاں «أم القرآن» (سورۃ فاتحہ) پڑھی تاآنکہ آپ «ولا الضالين» پر پہنچ گئے اور «آمين» کہی۔ راوی کا بیان ہے کہ جب سجدہ کیا اور جب بیٹھنے کے بعد کھڑے ہوئے تو «الله اكبر» کہتے۔ پھر سلام پھیر کر فرمایا مجھے قسم ہے اس ذات کی جس کے قبضہ قدرت میں میری جان ہے! یقیناً میں تم سے نماز کی ادائیگی میں رسول اللہ صلی اللہ علیہ وسلم کے بہت مشابہ ہوں۔ (نسائی، ابن خزیمہ) ",
+    "english": "Narrated from Nu'aym Al-Mujammir (may Allah be pleased with him) who said: \"I prayed behind Abu Hurayrah (may Allah be pleased with him), and he recited 'Bismi Allāhi Ar-Raḥmāni Ar-Raḥīm' aloud. Then he recited Umm Al-Qur'ān (Al-Fātiḥah) until he reached 'Wa lāḍ-ḍāllīn' (and) he said: 'Āmīn.' He would also say 'Allāhu Akbar' every time he prostrated and whenever he rose from the sitting position. Then, when he said the Salām, he said: 'By Him in Whose Hand is my soul, I am the one among you whose prayer most resembles the prayer of the Messenger of Allah (peace and blessings be upon him).'\" Reported by An-Nasa’i and Ibn Khuzaymah."
+  },
+  "takhreej": {
+    "arabic": "صحيح. رواه النسائي في السنن (2/134)، وابن خزيمة في صحيحه (499). وقد دل هذا الحديث على جهر أبي هريرة بالبسملة والتأمين في الصلاة، وهو من أدلة جواز الجهر بها.",
+    "urdu": "صحیح۔ اسے نسائی نے السنن (2/134) میں اور ابن خزیمہ نے صحیحہ (499) میں روایت کیا ہے۔ یہ حدیث حضرت ابوہریرہ کے بسم اللہ اور آمین کو جہراً پڑھنے پر دلالت کرتی ہے، اور یہ ان کے جہراً پڑھنے کے جواز کی دلیلوں میں سے ہے۔",
+    "english": "Authentic (Sahih). Reported by An-Nasa’i in As-Sunan (2/134) and Ibn Khuzaymah in his Sahih (499). This Hadith indicates Abu Hurayrah's audible recitation of the Basmalah and the saying of Āmīn aloud in prayer, which is considered evidence for the permissibility of reciting them audibly."
+  },
+  "importantWords": [
+    {
+      "arabic": "نُعَيْمٍ اَلْمُجَمِّرِ",
+      "english": "Nu'aym Al-Mujammir",
+      "urdu": "نعیم المجمر (صحابی)"
+    },
+    {
+      "arabic": "فَقَرَأَ",
+      "english": "He recited",
+      "urdu": "انہوں نے پڑھا"
+    },
+    {
+      "arabic": "بِسْمِ اَللَّهِ اَلرَّحْمَنِ اَلرَّحِيمِ",
+      "english": "In the name of Allah...",
+      "urdu": "بسم اللہ الرحمن الرحیم"
+    },
+    {
+      "arabic": "وَلَا اَلضَّالِّينَ",
+      "english": "Nor of those who go astray",
+      "urdu": "اور نہ گمراہوں کی راہ"
+    },
+    {
+      "arabic": "آمِينَ",
+      "english": "Āmīn (respond with)",
+      "urdu": "آمین"
+    },
+    {
+      "arabic": "لَأَشْبَهُكُمْ",
+      "english": "I am the most similar to you",
+      "urdu": "میں تم سب سے زیادہ مشابہ ہوں"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث حضرت ابوہریرہ رضی اللہ عنہ کے نبی صلی اللہ علیہ وسلم کی نماز سے مشابہت کے دعوے کے ذریعے نماز کے چند اہم آداب کو بیان کرتی ہے: یعنی 'بسم اللہ الرحمن الرحیم' کو بھی بلند آواز سے پڑھنا، سورۃ فاتحہ کے بعد جہراً 'آمین' کہنا، اور ہر رکن (رکوع، سجدہ، قیام) میں جاتے اور اٹھتے وقت 'اللہ اکبر' کہنا۔",
+    "english": "This Hadith, through Abu Hurayrah's claim of resemblance to the Prophet's prayer, outlines several crucial etiquettes of prayer: namely, reciting 'Bismi Allāhi Ar-Raḥmāni Ar-Raḥīm' audibly, saying 'Āmīn' audibly after Al-Fātiḥah, and saying 'Allāhu Akbar' when moving into and out of every pillar (Ruku', Sujud, Qiyām)."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي، كتاب الافتتاح، باب قراءة بسم الله الرحمن الرحيم (2/134)",
+      "english": "Sunan An-Nasa’i, Book of Opening the Prayer, Chapter: Reciting 'Bismi Allāhi Ar-Raḥmāni Ar-Raḥīm' (2/134)"
+    },
+    {
+      "arabic": "صحيح ابن خزيمة، كتاب الصلاة، باب جهر الإمام بـ(بسم الله الرحمن الرحيم) (499)",
+      "english": "Sahih Ibn Khuzaymah, Book of Prayer, Chapter: The Imām reciting 'Bismi Allāhi Ar-Raḥmāni Ar-Raḥīm' aloud (499)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "نعيم المجمر",
+        "english": "Nu'aym Al-Mujammir"
+      },
+      "slug": "nuaym-al-mujammir"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S2E-R6kUeB0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز میں آواز کے احکام",
+        "english": "Rulings on Audibility in Prayer"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بسم اللہ کا جہراً پڑھنا",
+              "english": "Reciting Bismillah Audibly"
+            },
+            "content": {
+              "urdu": [
+                "حضرت ابوہریرہ کا 'بسم اللہ' کو جہراً پڑھنا اس بات کی دلیل ہے کہ یہ عمل بھی سنت سے ثابت ہے۔",
+                "یہ روایت اس تنازعے میں ایک اہم دلیل ہے کہ آیا 'بسم اللہ' کو بلند آواز سے پڑھا جانا چاہیے یا آہستہ۔",
+                "صحیح قول یہ ہے کہ نبی صلی اللہ علیہ وسلم سے دونوں طریقے ثابت ہیں، یعنی کبھی جہراً اور اکثر سِراً۔"
+              ],
+              "english": [
+                "Abu Hurayrah's audible recitation of 'Bismillah' is evidence that this practice is also proven from the Sunnah.",
+                "This narration is a crucial piece of evidence in the debate about whether 'Bismillah' should be recited loudly or silently.",
+                "The most accurate view is that both methods are proven from the Prophet (PBUH), sometimes audibly and mostly silently."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آمین کا جہراً کہنا",
+              "english": "Saying Āmīn Audibly"
+            },
+            "content": {
+              "urdu": [
+                "سورۃ فاتحہ کے اختتام پر 'آمین' کہنا سنت ہے اور اسے بلند آواز سے کہنا بھی مسنون ہے۔",
+                "نبی صلی اللہ علیہ وسلم نے فرمایا کہ جب امام 'آمین' کہے تو تم بھی کہو، جس کی آمین فرشتوں کی آمین سے مل گئی اس کے گناہ بخش دیے جاتے ہیں۔",
+                "یہ اجتماعی دعا کی اہمیت کو ظاہر کرتا ہے، جہاں امام اور مقتدی دونوں شامل ہوتے ہیں۔"
+              ],
+              "english": [
+                "Saying 'Āmīn' at the end of Al-Fātiḥah is Sunnah, and saying it audibly is also recommended.",
+                "The Prophet (PBUH) stated that when the Imām says 'Āmīn,' say it too, for whoever's Āmīn coincides with the angels' Āmīn will have their sins forgiven.",
+                "This highlights the importance of the collective supplication, involving both the Imām and the follower."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تکبیراتِ انتقال اور صفات",
+        "english": "Takbīrāt of Transition and Attributes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ اکبر کا تسلسل",
+              "english": "Continuity of Allāhu Akbar"
+            },
+            "content": {
+              "urdu": [
+                "نماز کے ہر رکن میں جاتے اور اٹھتے وقت 'اللہ اکبر' کہنا (تکبیرات انتقال) بھی مسنون ہے۔",
+                "یہ تکبیرات نماز میں حرکات کے دوران اللہ کی عظمت کا اعلان کرنے کا ذریعہ ہیں۔",
+                "یہ عمل اس بات کو یقینی بناتا ہے کہ نمازی نماز کے ہر حصے میں اللہ کی طرف متوجہ رہے۔"
+              ],
+              "english": [
+                "Saying 'Allāhu Akbar' (Takbīrāt of Transition) when moving into and out of every posture of prayer is Sunnah.",
+                "These Takbīrāt are a means of proclaiming Allah's Greatness during the physical movements of the prayer.",
+                "This practice ensures the worshipper remains focused on Allah throughout every segment of the prayer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ابوہریرہ کا دعویٰ",
+              "english": "Abu Hurayrah's Claim"
+            },
+            "content": {
+              "urdu": [
+                "حضرت ابوہریرہ رضی اللہ عنہ کا یہ کہنا کہ میری نماز نبی صلی اللہ علیہ وسلم کی نماز سے سب سے زیادہ مشابہ ہے، ایک علمی دعویٰ ہے۔",
+                "یہ دعویٰ اس بات کی دلیل ہے کہ وہ تمام مذکورہ بالا سنتوں (بسم اللہ، آمین، تکبیرات) پر سختی سے عمل کرتے تھے۔",
+                "اس سے معلوم ہوتا ہے کہ نبی کی نماز کی سنتوں کو محفوظ رکھنا صحابہ کرام کی اولین ترجیح تھی۔"
+              ],
+              "english": [
+                "Abu Hurayrah's claim that his prayer most resembled the Prophet's prayer is a scholarly assertion.",
+                "This claim proves his strict adherence to all the aforementioned Sunnah practices (Bismillah, Āmīn, Takbīrāt).",
+                "This demonstrates that preserving the Sunnah of the Prophet's prayer was a primary priority for the Companions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی رہنمائی اور آداب",
+        "english": "Practical Guidance and Etiquettes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت کی پیروی میں اختلاف",
+              "english": "Differences in Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے ثابت ہوتا ہے کہ مختلف صحابہؓ نے نبی صلی اللہ علیہ وسلم کی نماز کے بعض حصوں کو آگے بڑھ کر نقل کیا۔",
+                "جہراً بسم اللہ پڑھنا بھی ایک صحیح طریقہ ہے، اور اس پر عمل کرنے والے سنت پر ہیں۔",
+                "مسلمانوں کو ان مسنون طریقوں میں وسعت کو قبول کرنا چاہیے اور اختلاف کو نزاع کا ذریعہ نہیں بنانا چاہیے۔"
+              ],
+              "english": [
+                "This Hadith proves that different Companions transmitted specific parts of the Prophet's prayer.",
+                "Audible recitation of Bismillah is a valid method, and those who practice it are upon the Sunnah.",
+                "Muslims should accept the scope within these Sunnah methods and not turn differences into disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کی خوبصورتی",
+              "english": "Beauty of the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نماز کی خوبصورتی صرف اس کے فرائض کی ادائیگی میں نہیں، بلکہ ان مسنون آداب کے ساتھ ادائیگی میں ہے۔",
+                "ہر وہ عمل جو خشوع کو بڑھائے اور سنت کے مطابق ہو، نماز کے اجر کو بڑھاتا ہے۔",
+                "نبی کی کامل اتباع ہی ہماری نماز کو قبولیت کے اعلیٰ مقام تک پہنچا سکتی ہے۔"
+              ],
+              "english": [
+                "The beauty of the prayer lies not only in fulfilling its obligations but also in performing it with these Sunnah etiquettes.",
+                "Every action that increases Khushu' and conforms to the Sunnah enhances the prayer's reward.",
+                "Perfect emulation of the Prophet (PBUH) is what elevates our prayer to the highest level of acceptance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 126,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["1:126"],
+    "kitabId": 1,
+    "inKitabBab": 10,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 10
+  },
+
+  "takhreej": {
+    "arabic": "صحيح.  رواه البخاري (305) ، ومسلم (1211) (120) .  وهو قطعة من حديث طويل متعلق بالإحرام للحج والعمرة.",
+    "urdu": "صحیح (درست) روایت۔ اسے بخاری (305) اور مسلم (1211) (120) نے روایت کیا ہے۔ یہ حج و عمرہ کے احرام سے متعلق ایک لمبی حدیث کا حصہ ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (305) and Muslim (1211) (120). It is a part of a long Hadith related to entering the state of Ihram for Hajj and Umrah."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَرِفَ",
+      "english": "Sarif (a place near Makkah)",
+      "urdu": "مقام سرف"
+    },
+    {
+      "arabic": "حِضْتُ",
+      "english": "I menstruated",
+      "urdu": "مجھے حیض آیا"
+    },
+    {
+      "arabic": "اَلْحَاجُّ",
+      "english": "The pilgrim",
+      "urdu": "حاجی"
+    },
+    {
+      "arabic": "لَا تَطُوفِي بِالْبَيْتِ",
+      "english": "Do not perform Tawaf around the House",
+      "urdu": "بیت اللہ کا طواف نہ کرنا"
+    },
+    {
+      "arabic": "حَتَّى تَطْهُرِي",
+      "english": "Until you become pure",
+      "urdu": "جب تک تم پاک نہ ہو جاؤ"
+    },
+    {
+      "arabic": "يَفْعَلُ",
+      "english": "He does/performs",
+      "urdu": "وہ ادا کرتا ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "سیدہ عائشہ رضی اللہ عنہا کو حج کے سفر کے دوران حیض آیا تو نبی اکرم ﷺ نے انہیں طواف کے سوا تمام مناسک حج ادا کرنے کا حکم دیا، جس سے ثابت ہوتا ہے کہ حیض والی عورت احرام باندھ سکتی ہے اور وقوفِ عرفات جیسے تمام مناسک ادا کر سکتی ہے، البتہ طواف کے لیے پاک ہونا شرط ہے۔",
+    "english": "When Aishah (RA) menstruated during the Hajj journey, the Prophet ﷺ commanded her to perform all rites of Hajj except Tawaf, which must be delayed until she became pure. This proves that a menstruating woman can enter Ihram and perform all Hajj rites except for the circumambulation of the Ka'bah."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (305)",
+      "english": "Reported by Al-Bukhari (305)"
+    },
+    {
+      "arabic": "رواه مسلم (1211)",
+      "english": "Reported by Muslim (1211)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 12601,
+      "name": {
+        "arabic": "عَائِشَةَ بِنْتِ أَبِي بَكْرٍ",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حیض اور مناسک حج",
+        "english": "Menses and Hajj Rites"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طواف کی ممانعت",
+              "english": "Prohibition of Tawaf"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا حکم واضح کرتا ہے کہ حیض کی حالت میں عورت کے لیے طواف کرنا حرام ہے۔",
+                "طواف بیت اللہ کو نماز کی طرح ہی طہارت کی ضرورت ہوتی ہے، اس لیے غسل کے بغیر جائز نہیں۔",
+                "یہ حکم اس بات پر زور دیتا ہے کہ خانہ کعبہ کا احترام اور طہارت کی اہمیت بنیادی ہے۔"
+              ],
+              "english": [
+                "The Prophet's command clearly states that it is forbidden for a menstruating woman to perform Tawaf.",
+                "Tawaf around the Ka'bah requires purity similar to prayer, hence it is not permissible without Ghusl.",
+                "This ruling emphasizes the sanctity of the Ka'bah and the foundational importance of ritual purity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر مناسک کی اجازت",
+              "english": "Permissibility of Other Rites"
+            },
+            "content": {
+              "urdu": [
+                "طواف کے علاوہ حج کے تمام افعال (احرام، وقوفِ عرفات، سعی، رمی جمرات) حیض کی حالت میں جائز ہیں۔",
+                "سیدہ عائشہ رضی اللہ عنہا نے اپنے حیض کے باوجود احرام باندھا اور عرفات، مزدلفہ اور منیٰ کے تمام اعمال کیے تھے۔",
+                "اس سے ثابت ہوتا ہے کہ حیض کی وجہ سے حج مکمل طور پر فوت نہیں ہوتا، صرف ایک رکن مؤخر ہوتا ہے۔"
+              ],
+              "english": [
+                "All Hajj rites except Tawaf (Ihram, Wuquf at Arafat, Sa'i, Rami al-Jamarat) are permissible during menses.",
+                "Aishah (RA) performed Ihram and all rites at Arafat, Muzdalifah, and Mina despite her menses.",
+                "This proves that Hajj is not entirely invalidated due to menses; only one pillar is postponed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی نتائج",
+        "english": "Juristic and Educational Outcomes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طواف کا حکم",
+              "english": "Ruling of Tawaf"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس مسئلے میں جمہور فقہاء کے موقف کی دلیل ہے کہ طواف کے لیے طہارت شرط ہے۔",
+                "حیض کی حالت میں طواف کرنے پر کفارہ (جزا) واجب ہو جاتا ہے اگر طوافِ فرض ہو۔",
+                "اس لیے عورت کو انتظار کرنا چاہیے جب تک کہ وہ پاک نہ ہو جائے، خواہ اسے کتنا ہی عرصہ لگے۔"
+              ],
+              "english": [
+                "This Hadith supports the view of the majority of jurists that purity is a condition for Tawaf.",
+                "If the obligatory Tawaf is performed during menses, an expiation (Jaza') becomes due.",
+                "Therefore, a woman must wait until she becomes pure, no matter how long it takes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آسانی اور عذر کا اصول",
+              "english": "Principle of Ease and Excuse"
+            },
+            "content": {
+              "urdu": [
+                "اس حکم میں شریعت کی آسانی شامل ہے کہ طواف کے علاوہ باقی اعمال کی ادائیگی کی اجازت دی گئی۔",
+                "یہ حیض کو ایک شرعی عذر کے طور پر تسلیم کرتا ہے جس سے عبادات میں رخصت ملتی ہے۔",
+                "اس سے معلوم ہوتا ہے کہ شریعت میں ہر رکن کے لیے اس کی مخصوص شرائط اور احکام ہیں۔"
+              ],
+              "english": [
+                "The ruling includes the ease of Sharia by allowing the performance of all rites except Tawaf.",
+                "It acknowledges menses as a legal excuse that grants concession in acts of worship.",
+                "This indicates that Sharia has specific conditions and rulings for every pillar of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجتماعی اور روحانی اہمیت",
+        "english": "Social and Spiritual Importance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حاجی کا جذبہ",
+              "english": "Pilgrim's Spirit"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ رضی اللہ عنہا کی رنجیدگی ان کی شدید عبادت گزاری اور حج کے شوق کو ظاہر کرتی ہے۔",
+                "نبی ﷺ نے ان کی رنجیدگی کو تسلیم کیا لیکن شرعی حدود کی پابندی کو لازم قرار دیا۔",
+                "روحانی فوائد کے حصول کے لیے ہر حاجی کو شرعی احکام پر عمل کرنا چاہیے۔"
+              ],
+              "english": [
+                "Aishah's distress shows her intense devotion to worship and her eagerness to complete Hajj.",
+                "The Prophet ﷺ acknowledged her distress but made adherence to legal limits mandatory.",
+                "Every pilgrim must adhere to the legal rulings to achieve spiritual benefits."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اطاعت اور تکمیل",
+              "english": "Obedience and Completion"
+            },
+            "content": {
+              "urdu": [
+                "طواف کا حکم پاکیزگی سے مشروط ہے، جس کی تعمیل میں تاخیر پر کوئی گناہ نہیں۔",
+                "عورت کو چاہیے کہ پاک ہونے تک صبر کرے، کیونکہ اللہ کا حکم ہر حکمت سے بہتر ہے۔",
+                "حج کے اعمال میں آسانی اور رخصت، مشقت کے باوجود عبادت کو ممکن بناتی ہے۔"
+              ],
+              "english": [
+                "The command for Tawaf is conditional upon purity, and there is no sin in delaying it due to this.",
+                "A woman should be patient until she is pure, as Allah's command is superior to all wisdom.",
+                "The ease and concessions in the rites of Hajj make worship possible despite the difficulty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سنت سے رہنمائی",
+        "english": "Guidance from the Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طہارت کی اہمیت",
+              "english": "Significance of Purity"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث سے اسلامی عبادات میں طہارت کے بنیادی ستون ہونے کی اہمیت واضح ہوتی ہے۔",
+                "طواف بیت اللہ ایک ایسی عظیم عبادت ہے جس میں نجاست کے ساتھ داخلہ ممنوع ہے۔",
+                "قرآن و سنت کی تعلیمات مکمل پاکیزگی اور صفائی پر زور دیتی ہیں۔"
+              ],
+              "english": [
+                "This Hadith highlights the importance of purity as a fundamental pillar in Islamic acts of worship.",
+                "Tawaf is such a great act of worship that entering it with major impurity is forbidden.",
+                "The teachings of the Qur'an and Sunnah emphasize complete purity and cleanliness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفر میں احکام",
+              "english": "Rulings During Travel"
+            },
+            "content": {
+              "urdu": [
+                "یہ واقعہ سفر کے دوران اور حج جیسے اہم موقع پر شرعی احکام کے نفاذ کی مثال ہے۔",
+                "نبی ﷺ ہر حالت میں صحابہ کو واضح اور عملی رہنمائی فراہم کرتے تھے۔",
+                "سفر میں پیش آنے والے عذر کا حکم بھی اللہ تعالیٰ نے پہلے سے ہی مقرر کر رکھا ہے۔"
+              ],
+              "english": [
+                "This incident exemplifies the application of legal rulings during travel and important occasions like Hajj.",
+                "The Prophet ﷺ provided clear and practical guidance to the Companions in every situation.",
+                "The ruling for an excuse encountered during travel has already been prescribed by Allah the Almighty."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

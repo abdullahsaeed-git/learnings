@@ -1,0 +1,250 @@
+{
+  "hadithId": 310,
+  "hadithNo": 31,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:719",
+      "https://sunnah.com/muslim:717",
+      "https://sunnah.com/muslim:718",
+      "https://sunnah.com/bukhari:1128"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "صحیح مسلم / صحيح البخاري",
+    "babId": 19
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ الرواية الأولى في مسلم (719)‏.‏ الرواية الثانية في مسلم (717)‏.‏ الرواية الثالثة في مسلم (718)‏، وتمامه: وإن كان رسول الله صلى الله عليه وسلم ليدع العمل، وهو يحب أن يعمل به، خشية أن يعمل به الناس، فيفرض عليهم.‏ والحديث أيضا عند البخاري (1128)‏ بتمامه.‏",
+    "urdu": "صحیح۔ پہلی روایت مسلم (719) میں ہے۔ دوسری روایت مسلم (717) میں ہے۔ تیسری روایت مسلم (718) میں ہے، اور اس کا مکمل متن یہ ہے: ”رسول اللہ ﷺ کوئی عمل پسند ہونے کے باوجود اس ڈر سے چھوڑ دیتے تھے کہ لوگ بھی اسے کرنے لگیں گے اور وہ ان پر فرض ہو جائے گا۔“ یہ حدیث بخاری (1128) میں بھی مکمل ہے۔",
+    "english": "Sahih (Authentic). First narration in Muslim (719). Second in Muslim (717). Third in Muslim (718), with the addition: \"Even though the Messenger of Allah (ﷺ) loved to do a deed, he would give it up for fear that people would do it and it would become obligatory upon them.\" Also in Al-Bukhari (1128)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلضُّحَى",
+      "english": "Duha (Forenoon)",
+      "urdu": "چاشت (ضحٰی)"
+    },
+    {
+      "arabic": "يَزِيدُ",
+      "english": "He increases",
+      "urdu": "وہ زیادہ کرتے"
+    },
+    {
+      "arabic": "مَغِيبِهِ",
+      "english": "His absence (Journey)",
+      "urdu": "ان کا غائب ہونا (سفر)"
+    },
+    {
+      "arabic": "سُبْحَةَ",
+      "english": "Voluntary Prayer / Tasbeeh",
+      "urdu": "نفل نماز"
+    },
+    {
+      "arabic": "لَأُسَبِّحُهَا",
+      "english": "I surely pray it",
+      "urdu": "میں اسے ضرور پڑھتی ہوں"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ احادیث چاشت کی نماز کے بارے میں مختلف کیفیات بیان کرتی ہیں: کبھی آپ ﷺ نے 4 رکعتیں پڑھیں، کبھی اس سے زیادہ، اور کبھی چھوڑ دیں تاکہ امت پر فرض نہ ہو جائے، حالانکہ آپ ﷺ اسے پسند فرماتے تھے۔",
+    "english": "These Hadiths describe different states regarding the Duha prayer: sometimes the Prophet (ﷺ) prayed 4 Rak'ahs, sometimes more, and sometimes he omitted it fearing it might become obligatory for the Ummah, even though he loved it."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (719)",
+      "english": "Reported by Muslim (719)"
+    },
+    {
+      "arabic": "رواه مسلم (717)",
+      "english": "Reported by Muslim (717)"
+    },
+    {
+      "arabic": "رواه مسلم (718)",
+      "english": "Reported by Muslim (718)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشہ بنت ابی بکر",
+        "english": "Aishah bint Abu Bakr"
+      },
+      "slug": "aisha-bint-abu-bakr"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "احادیث میں تطبیق",
+        "english": "Reconciliation of Hadiths"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفی اور اثبات",
+              "english": "Negation and Affirmation"
+            },
+            "content": {
+              "urdu": [
+                "ایک روایت میں ہے کہ آپ ﷺ پڑھتے تھے، دوسری میں ہے کہ نہیں پڑھتے تھے۔",
+                "نفی کا مطلب یہ ہے کہ آپ ﷺ روزانہ پابندی سے نہیں پڑھتے تھے (تاکہ فرض نہ ہو جائے)۔",
+                "اثبات کا مطلب یہ ہے کہ آپ ﷺ اکثر یا کبھی کبھی پڑھتے تھے۔"
+              ],
+              "english": [
+                "One narration says He (ﷺ) prayed, another says He didn't.",
+                "Negation means He didn't pray it daily/regularly (lest it becomes Fard).",
+                "Affirmation means He prayed it frequently or occasionally."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفر سے واپسی",
+              "english": "Return from Journey"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ کا قول 'مگر جب سفر سے آتے' اس بات کی دلیل ہے کہ سفر سے واپسی پر مسجد میں نفل پڑھنا سنت ہے۔",
+                "یہ نماز ضحٰی بھی ہو سکتی ہے اور صلوۃ القدوم (آنے کی نماز) بھی۔",
+                "دونوں کا وقت ایک ہو تو نیت جمع کی جا سکتی ہے۔"
+              ],
+              "english": [
+                "Aishah's (RA) statement 'unless he returned from a journey' proves praying Nafl in the mosque upon return is Sunnah.",
+                "This could be Duha prayer or Salat al-Qudum (Arrival prayer).",
+                "If times coincide, intentions can be combined."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چاشت کی رکعات",
+              "english": "Rak'ahs of Duha"
+            },
+            "content": {
+              "urdu": [
+                "کم از کم 2 رکعتیں ہیں۔",
+                "حدیث کی رو سے 4 رکعتیں پڑھنا افضل ہے۔",
+                "زیادہ سے زیادہ 8 یا 12 رکعتوں کا بھی ثبوت ملتا ہے (فتح مکہ کے دن 8 پڑھیں)۔"
+              ],
+              "english": [
+                "Minimum is 2 Rak'ahs.",
+                "According to Hadith, praying 4 is preferred.",
+                "There is evidence for maximum 8 or 12 Rak'ahs (prayed 8 on Conquest of Makkah)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استحباب",
+              "english": "Recommendation"
+            },
+            "content": {
+              "urdu": [
+                "جمہور علماء کے نزدیک نماز چاشت مستحب ہے۔",
+                "سیدہ عائشہ کا قول 'میں پڑھتی ہوں' صحابہ کے عمل اور شوق کو ظاہر کرتا ہے۔",
+                "یہ نماز 'اوابین' (رجوع کرنے والوں) کی نماز کہلاتی ہے۔"
+              ],
+              "english": [
+                "According to the majority, Duha prayer is Mustahabb.",
+                "Aishah's (RA) statement 'I pray it' shows the practice and zeal of Companions.",
+                "This prayer is called the prayer of 'Awwabin' (those who return to Allah)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صدقہ کا بدل",
+              "english": "Substitute for Charity"
+            },
+            "content": {
+              "urdu": [
+                "صحیح مسلم کی دوسری حدیث میں ہے کہ انسانی جسم کے ہر جوڑ پر صدقہ ہے۔",
+                "چاشت کی دو رکعتیں ان تمام جوڑوں (360) کا صدقہ ادا کر دیتی ہیں۔",
+                "یہ اللہ کی بہت بڑی نعمت اور سہولت ہے۔"
+              ],
+              "english": [
+                "Another Hadith in Muslim states charity is due on every joint of the body.",
+                "Two Rak'ahs of Duha suffice for charity on all (360) joints.",
+                "This is a huge blessing and facility from Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گھر میں پڑھنا",
+              "english": "Praying at Home"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ یہ نماز گھر میں پڑھتے تھے، تبھی عائشہ رضی اللہ عنہا نے مشاہدہ بیان کیا۔",
+                "نوافل گھر میں پڑھنے سے گھر میں خیر و برکت آتی ہے۔",
+                "مسجد میں بھی پڑھی جا سکتی ہے لیکن گھر افضل ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) prayed this at home, hence Aishah (RA) narrated her observation.",
+                "Praying voluntary prayers at home brings blessings.",
+                "It can be prayed in the mosque, but home is preferred."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ترکِ عمل کی حکمت",
+              "english": "Wisdom of Omission"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا کبھی کبھی عمل چھوڑ دینا بھی امت پر رحمت تھا۔",
+                "تاکہ لوگ اسے فرض نہ سمجھ بیٹھیں۔",
+                "یہ اصول بتاتا ہے کہ مقتدا کو عوام کی نفسیات کا خیال رکھنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) occasionally omitting an act was mercy for the Ummah.",
+                "So that people wouldn't consider it obligatory.",
+                "This principle shows a leader must consider the psychology of the masses."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

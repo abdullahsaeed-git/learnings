@@ -1,0 +1,259 @@
+{
+  "hadithId": 501,
+  "hadithNo": 19,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/4/19"],
+    "kitabId": 4,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 29
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف. رواه أبو داود (1562)، والبيهقي (4/146). في إسناده مجاهيل، وقد أعل الحديث بجهالة بعض رواته، لكن معناه مجمع عليه عند جمهور العلماء والفقهاء.",
+    "urdu": "ضعیف۔ اسے ابوداؤد (1562) اور بیہقی نے روایت کیا ہے۔ اس کی سند میں کچھ راوی مجہول (نامعلوم) ہیں، جس کی وجہ سے محدثین نے اسے کمزور قرار دیا ہے، تاہم جمہور فقہاء کے نزدیک سامانِ تجارت پر زکوٰۃ کا حکم متفق علیہ ہے۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (1562) and Al-Bayhaqi. Its chain contains unknown narrators. However, the ruling of Zakat on trade goods is agreed upon by the majority of scholars."
+  },
+  "importantWords": [
+    {
+      "arabic": "نُخْرِجَ",
+      "english": "To take out / Pay",
+      "urdu": "ہم نکالیں / ادا کریں"
+    },
+    {
+      "arabic": "اَلصَّدَقَةَ",
+      "english": "Zakat (Obligatory charity)",
+      "urdu": "زکوٰۃ / صدقہ واجبہ"
+    },
+    {
+      "arabic": "نَعُدُّهُ",
+      "english": "We prepare it",
+      "urdu": "ہم اسے تیار کرتے ہیں"
+    },
+    {
+      "arabic": "لِلْبَيْعِ",
+      "english": "For sale",
+      "urdu": "بیچنے کے لیے"
+    },
+    {
+      "arabic": "عُرُوضُ التِّجَارَةِ",
+      "english": "Trade goods",
+      "urdu": "سامانِ تجارت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث سامانِ تجارت پر زکوٰۃ کی فرضیت کی بنیاد ہے، جس کے مطابق ہر وہ مال جو منافع کی غرض سے بیچنے کے لیے رکھا جائے اس پر زکوٰۃ واجب ہے۔",
+    "english": "This Hadith serves as a basis for the obligation of Zakat on trade goods, signifying that any property kept for sale to earn profit is subject to Zakat."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الزكاة، رقم 1562",
+      "english": "Sunan Abi Dawud, Book of Zakat, Hadith 1562"
+    },
+    {
+      "arabic": "السنن الكبرى للبيهقي، رقم 7581",
+      "english": "As-Sunan al-Kubra by al-Bayhaqi, Hadith 7581"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سمرة بن جندب",
+        "english": "Samurah bin Jundub"
+      },
+      "slug": "samurah-bin-jundub"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=SREkR5YtOsk",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سامانِ تجارت پر زکوٰۃ کا حکم",
+        "english": "Ruling on Zakat for Trade Goods"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کی فقہی اہمیت",
+              "english": "Juristic Importance of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ اس حدیث کی سند میں کلام ہے، مگر امت کا اس پر تعامل اور اجماع ہے۔",
+                "چاروں ائمہ اس بات پر متفق ہیں کہ تجارتی مال پر زکوٰۃ دینا فرض ہے۔",
+                "یہ حدیث واضح کرتی ہے کہ زکوٰۃ صرف نقدی یا سونے پر نہیں بلکہ کاروبار پر بھی ہے۔"
+              ],
+              "english": [
+                "Although the chain of this Hadith is criticized, there is a consensus on its practice.",
+                "The four Imams agree that Zakat on trade goods is an obligatory (Fard) duty.",
+                "This Hadith clarifies that Zakat is not just on cash or gold but also on business assets."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیتِ تجارت کی شرط",
+              "english": "The Condition of Intention for Trade"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ اس وقت واجب ہوتی ہے جب مال بیچنے اور نفع کمانے کی نیت سے رکھا جائے۔",
+                "ذاتی استعمال کی اشیاء چاہے وہ کتنی ہی قیمتی ہوں، ان پر زکوٰۃ واجب نہیں ہوتی۔",
+                "تجارت کی نیت ہی وہ بنیادی عنصر ہے جو عام مال کو مالِ تجارت میں بدل دیتا ہے۔"
+              ],
+              "english": [
+                "Zakat becomes obligatory when wealth is kept with the intention of selling and profiting.",
+                "Items for personal use, no matter how valuable, are not subject to Zakat payment.",
+                "The intention for trade is the fundamental element that converts assets into trade goods."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "زکوٰۃ کا نصاب اور حساب",
+        "english": "Nisab and Calculation of Zakat"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تجارتی مال کی مالیت کا اندازہ",
+              "english": "Valuation of Trade Assets"
+            },
+            "content": {
+              "urdu": [
+                "سال مکمل ہونے پر موجودہ بازاری قیمت کے مطابق تمام سامان کا حساب لگایا جائے گا۔",
+                "اس میں اسٹاک، خام مال اور وہ نقدی شامل ہوگی جو تجارت کی غرض سے موجود ہے۔",
+                "کل مالیت پر ڈھائی فیصد (2.5%) کے حساب سے زکوٰۃ ادا کرنا شرعاً لازم ہے۔"
+              ],
+              "english": [
+                "At the end of the year, all goods must be calculated according to current market prices.",
+                "This includes stock, raw materials, and cash held specifically for business purposes.",
+                "Paying Zakat at a rate of 2.5% on the total value is a religious obligation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نصاب کی حد",
+              "english": "The Threshold of Nisab"
+            },
+            "content": {
+              "urdu": [
+                "اگر تجارتی مال کی قیمت چاندی یا سونے کے نصاب کو پہنچ جائے تو زکوٰۃ واجب ہے۔",
+                "عام طور پر چاندی کے نصاب (52.5 تولہ) کو غریبوں کے فائدے کے لیے معیار بنایا جاتا ہے۔",
+                "جس تاجر کے پاس نصاب کے برابر مال سال بھر رہے، اس پر زکوٰۃ کی ادائیگی فرض ہے۔"
+              ],
+              "english": [
+                "Zakat is due if the value of trade goods reaches the Nisab of silver or gold.",
+                "Usually, the Nisab of silver is used as a benchmark for the benefit of the poor.",
+                "A trader holding assets equal to Nisab for a full lunar year must pay Zakat."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی اور سماجی اثرات",
+        "english": "Economic and Social Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دولت کی منصفانہ گردش",
+              "english": "Fair Circulation of Wealth"
+            },
+            "content": {
+              "urdu": [
+                "تجارتی زکوٰۃ کے ذریعے دولت صرف امیروں کے قبضے میں نہیں رہتی بلکہ پھیلتی ہے۔",
+                "یہ نظام معاشرے کے غریب طبقے کو معاشی دوڑ میں شامل کرنے کا ذریعہ بنتا ہے۔",
+                "اسلامی معاشیات میں زکوٰۃ کنز (دولت جمع کرنے) کے رجحان کو ختم کرتی ہے۔"
+              ],
+              "english": [
+                "Through trade Zakat, wealth does not remain stagnant but circulates through society.",
+                "This system serves as a means to include the poor in the economic cycle of life.",
+                "In Islamic economics, Zakat discourages the tendency of hoarding excessive wealth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کاروبار میں برکت",
+              "english": "Barakah in Business"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ ادا کرنے سے مال کم نہیں ہوتا بلکہ اللہ اس میں مزید برکت عطا فرماتا ہے۔",
+                "یہ مال کو حرام اور مشکوک اثرات سے پاک کرنے کا ایک روحانی طریقہ ہے۔",
+                "دیانتدار تاجر جو زکوٰۃ ادا کرتا ہے، اس کا رزق حلال اور بابرکت ہو جاتا ہے۔"
+              ],
+              "english": [
+                "Paying Zakat does not decrease wealth; rather, Allah grants more blessings in it.",
+                "It is a spiritual method to purify wealth from haram and doubtful influences.",
+                "A sincere trader who pays Zakat finds their livelihood becoming halal and blessed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصیحت",
+        "english": "Practical Lessons and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایمانداری سے حساب کرنا",
+              "english": "Honest Calculation"
+            },
+            "content": {
+              "urdu": [
+                "تاجروں کو چاہیے کہ وہ سالانہ بنیادوں پر اپنے مال کا دیانتداری سے حساب کریں۔",
+                "کسی بھی قسم کی ہیرا پھیری یا مال چھپانا اللہ کے حضور سخت گناہ اور خیانت ہے۔",
+                "زکوٰۃ کی بروقت ادائیگی سے تاجر خود کو دنیاوی و اخروی نقصانات سے بچا سکتا ہے۔"
+              ],
+              "english": [
+                "Traders should honestly calculate their assets on an annual lunar basis.",
+                "Any manipulation or hiding of wealth is a grave sin and betrayal before Allah.",
+                "Timely payment of Zakat saves the trader from losses in this world and the next."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ کے ہر حکم میں امت کی بھلائی اور نظام کی مضبوطی پوشیدہ ہے۔",
+                "سند کی کمزوری کے باوجود یہ حکم قرآنی اصولوں اور دیگر صحیح احادیث کے مطابق ہے۔",
+                "ہر مسلمان کو چاہیے کہ وہ زکوٰۃ کے احکامات سیکھے تاکہ اس کا مال اللہ کے ہاں مقبول ہو۔"
+              ],
+              "english": [
+                "Every command of the Prophet (ﷺ) contains welfare and strength for the Ummah.",
+                "Despite the chain's weakness, this ruling aligns with Quranic and Sahih principles.",
+                "Every Muslim must learn Zakat rulings to ensure their wealth is accepted by Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

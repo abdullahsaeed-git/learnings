@@ -1,0 +1,264 @@
+{
+  "hadithId": 1069,
+  "hadithNo": 6,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/10/98"],
+    "kitabId": 10,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحدود",
+    "babId": 87
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5581)، ومسلم (3032).",
+    "urdu": "صحیح۔ اسے امام بخاری (5581) اور امام مسلم (3032) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5581) and Muslim (3032)."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَحْرِيمُ",
+      "english": "Prohibition",
+      "urdu": "حرام ہونا"
+    },
+    {
+      "arabic": "خَامَرَ",
+      "english": "To cover/befog",
+      "urdu": "ڈھانپ لینا"
+    },
+    {
+      "arabic": "الْعَقْلَ",
+      "english": "Mind/Intellect",
+      "urdu": "عقل"
+    },
+    {
+      "arabic": "الْحِنْطَةِ",
+      "english": "Wheat",
+      "urdu": "گندم"
+    },
+    {
+      "arabic": "الشَّعِيرِ",
+      "english": "Barley",
+      "urdu": "جو"
+    },
+    {
+      "arabic": "الْعَسَلِ",
+      "english": "Honey",
+      "urdu": "شہد"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں شراب (خمر) کی جامع تعریف بیان کی گئی ہے کہ ہر وہ چیز جو عقل کو معطل کر دے وہ شراب ہے، چاہے وہ کسی بھی چیز سے بنی ہو۔",
+    "english": "This Hadith provides a comprehensive definition of Khamr (wine), stating that anything that befogs the mind is prohibited, regardless of its source."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (5581)",
+      "english": "Narrated by Al-Bukhari (5581)"
+    },
+    {
+      "arabic": "رواه مسلم (3032)",
+      "english": "Narrated by Muslim (3032)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin Al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=3P3Z9_XjU_I",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خمر کی حقیقت اور تعریف",
+        "english": "The Reality and Definition of Khamr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عقل کو ڈھانپنے والی چیز",
+              "english": "That which covers the mind"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر رضی اللہ عنہ نے خمر کی اصل حقیقت بیان فرمائی کہ یہ عقل پر پردہ ڈال دیتی ہے۔",
+                "لفظ 'خمر' کے معنی ہی چھپانے یا ڈھانپنے کے ہیں، جیسے 'خمار' سر ڈھانپنے کو کہتے ہیں۔",
+                "جب عقل کام کرنا چھوڑ دے تو انسان نیکی اور بدی میں تمیز نہیں کر پاتا۔"
+              ],
+              "english": [
+                "Umar (RA) explained the reality of Khamr as something that puts a veil over the intellect.",
+                "The word 'Khamr' literally means to cover, similar to 'Khimar' which covers the head.",
+                "When the intellect ceases to function, a person cannot distinguish between good and evil."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جامع شرعی قاعدہ",
+              "english": "A Comprehensive Sharia Rule"
+            },
+            "content": {
+              "urdu": [
+                "یہ تعریف محض انگور کی شراب تک محدود نہیں بلکہ ہر نشہ آور چیز کو شامل ہے۔",
+                "جدید دور کی منشیات، ادویات یا کیمیکلز جو نشہ دیں، وہ اسی تعریف میں آتی ہیں۔",
+                "شریعت کا مقصد انسانی عقل کی حفاظت کرنا ہے جو کہ اشرف المخلوقات کی بنیاد ہے۔"
+              ],
+              "english": [
+                "This definition is not limited to grape wine but includes every intoxicant.",
+                "Modern drugs, medicines, or chemicals that cause intoxication fall under this rule.",
+                "The objective of Sharia is to protect the human intellect, the basis of nobility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شراب کے مختلف ذرائع",
+        "english": "Different Sources of Alcohol"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذرائع کی تنوع",
+              "english": "Diversity of Sources"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں پانچ مختلف چیزوں کا ذکر ہے جن سے اس دور میں شراب بنائی جاتی تھی۔",
+                "ان اشیاء میں انگور، کھجور، شہد، گندم اور جو شامل ہیں جن سے کشید کیا جاتا تھا۔",
+                "ذریعہ کوئی بھی ہو، اگر حتمی نتیجہ عقل کو ڈھانپنا ہے تو وہ حرام ٹھہرے گا۔"
+              ],
+              "english": [
+                "The Hadith mentions five different things used to make alcohol in that era.",
+                "These include grapes, dates, honey, wheat, and barley which were distilled.",
+                "Whatever the source, if the final result befogs the mind, it is deemed forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نام کی تبدیلی سے حکم نہیں بدلتا",
+              "english": "Names do not change the ruling"
+            },
+            "content": {
+              "urdu": [
+                "کچھ لوگ شراب کو مختلف نام دے کر جائز قرار دینے کی کوشش کرتے ہیں۔",
+                "سیدنا عمر رضی اللہ عنہ کا بیان واضح کرتا ہے کہ اصل چیز اثر ہے، نام نہیں۔",
+                "کسی بھی پھل یا اناج سے بنا ہوا نشہ خمر کے حکم میں ہی داخل ہے۔"
+              ],
+              "english": [
+                "Some people try to legitimize alcohol by giving it different names.",
+                "Umar (RA)'s statement clarifies that the actual effect matters, not the name.",
+                "Any intoxicant made from any fruit or grain falls under the ruling of Khamr."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور طبی اسباق",
+        "english": "Juristic and Medical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نشہ آور چیزوں کی حرمت",
+              "english": "Prohibition of Intoxicants"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک ہر وہ مادہ جو حواس کو معطل کر دے، اس کا استعمال حرام ہے۔",
+                "یہ حرمت صرف پینے تک محدود نہیں بلکہ اس کی ہر صورت کو شامل ہے۔",
+                "اسلامی قانون معاشرے کو نشے کی لعنت سے پاک رکھنے کے لیے سخت اقدامات کرتا ہے۔"
+              ],
+              "english": [
+                "According to jurists, any substance that suspends the senses is forbidden to use.",
+                "This prohibition is not limited to drinking but includes all forms of consumption.",
+                "Islamic law takes strict measures to keep society clean from the curse of addiction."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طبی نقصانات سے آگاہی",
+              "english": "Awareness of Medical Harms"
+            },
+            "content": {
+              "urdu": [
+                "نشہ انسانی اعصاب اور جگر کے لیے انتہائی مہلک ثابت ہوتا ہے۔",
+                "عقل کا معطل ہونا کئی معاشرتی جرائم جیسے قتل اور زنا کا سبب بنتا ہے۔",
+                "شریعت نے نشہ حرام کر کے انسان کو جسمانی اور ذہنی بیماریوں سے بچایا ہے۔"
+              ],
+              "english": [
+                "Intoxication proves to be extremely fatal for the human nerves and liver.",
+                "Suspension of the mind causes many social crimes such as murder and adultery.",
+                "By forbidding intoxicants, Sharia has protected humans from physical and mental illnesses."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اور اخلاقی پہلو",
+        "english": "Educational and Ethical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عقل کی نعمت کی قدر",
+              "english": "Valuing the Blessing of Intellect"
+            },
+            "content": {
+              "urdu": [
+                "عقل اللہ کی وہ عظیم نعمت ہے جس کی وجہ سے انسان کو مکلف بنایا گیا ہے۔",
+                "جان بوجھ کر اپنی عقل کو ضائع کرنا اللہ کی ناشکری اور گناہِ کبیرہ ہے۔",
+                "ایک مومن کو ہمیشہ ہوش و حواس میں رہ کر اللہ کی بندگی کرنی چاہیے۔"
+              ],
+              "english": [
+                "Intellect is a great blessing from Allah, making humans accountable for their deeds.",
+                "Deliberately wasting one's intellect is ingratitude and a major sin.",
+                "A believer should always remain in their senses to worship Allah properly."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "شراب کی حرمت سے معاشرے میں جرائم کی شرح خود بخود کم ہو جاتی ہے۔",
+                "نشے سے پاک معاشرہ ہی ترقی اور خوشحالی کی منازل طے کر سکتا ہے۔",
+                "ہر فرد کی ذمہ داری ہے کہ وہ اپنے ماحول کو نشہ آور اشیاء سے پاک رکھے۔"
+              ],
+              "english": [
+                "The prohibition of alcohol automatically reduces the crime rate in society.",
+                "Only a drug-free society can achieve milestones of progress and prosperity.",
+                "It is every individual's responsibility to keep their environment free from intoxicants."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

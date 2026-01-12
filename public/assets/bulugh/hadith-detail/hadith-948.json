@@ -1,0 +1,261 @@
+{
+  "hadithId": 948,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh/8/948"
+    ],
+    "kitabId": 8,
+    "inKitabBab": 12,
+    "arabicBook": "كتاب العدة",
+    "babId": 75
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (313)‏، ومسلم (2127). والزيادات عند أبي داود (2302) والنسائي (3536).",
+    "urdu": "یہ حدیث صحیح اور متفق علیہ ہے۔ امام بخاری (313) اور مسلم (2127) نے اسے روایت کیا ہے۔ مہندی اور کنگھی کی ممانعت کی زیادتی ابوداؤد (2302) اور نسائی (3536) میں صحیح اسناد کے ساتھ موجود ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (313) and Muslim (2127). The additions regarding henna and combing are in Abu Dawud (2302) and An-Nasa'i (3536) with authentic chains."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَحِدَّ",
+      "english": "Observe mourning",
+      "urdu": "سوگ منائے"
+    },
+    {
+      "arabic": "مَصْبُوغًا",
+      "english": "Dyed / Colored",
+      "urdu": "رنگین / رنگا ہوا"
+    },
+    {
+      "arabic": "تَكْتَحِلْ",
+      "english": "Apply Kohl (antimony)",
+      "urdu": "سرمہ لگائے"
+    },
+    {
+      "arabic": "طِيبًا",
+      "english": "Perfume",
+      "urdu": "خوشبو"
+    },
+    {
+      "arabic": "تَخْتَضِبْ",
+      "english": "Use Henna / Dye",
+      "urdu": "مہندی یا خضاب لگائے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں عورت کے لیے وفات پر سوگ کے احکام بیان کیے گئے ہیں: شوہر کے لیے چار ماہ دس دن اور دیگر رشتہ داروں کے لیے زیادہ سے زیادہ تین دن، جس میں سنگھار سے بچنا ضروری ہے۔",
+    "english": "This Hadith outlines mourning rules for women: four months and ten days for a deceased husband and a maximum of three days for others, during which beautification is prohibited."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (313)",
+      "english": "Reported by Al-Bukhari (313)"
+    },
+    {
+      "arabic": "رواه مسلم (2127)",
+      "english": "Reported by Muslim (2127)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم عطية الأنصارية",
+        "english": "Umm 'Atiyyah Al-Ansariyyah"
+      },
+      "slug": "umm-atiyyah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0K07_z0U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سوگ (احداد) کی مدت اور حدود",
+        "english": "Duration and Limits of Mourning (Ihdad)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شوہر اور دیگر اقارب کا فرق",
+              "english": "Difference Between Husband and Relatives"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں شوہر کی وفات پر بیوی کے لیے چار ماہ دس دن کا سوگ واجب ہے۔",
+                "باپ، بھائی یا بیٹے جیسے رشتہ داروں پر صرف تین دن سوگ کی اجازت ہے۔",
+                "یہ مدت عورت کے نکاحِ ثانی اور عدت کے مسائل سے بھی جڑی ہوئی ہے۔"
+              ],
+              "english": [
+                "In Islam, mourning for four months and ten days is obligatory for a widow.",
+                "For other relatives like fathers or sons, mourning is allowed for only three days.",
+                "This period is also linked to the waiting period (Iddah) before a second marriage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جاہلی رسومات کا خاتمہ",
+              "english": "Ending Pre-Islamic Customs"
+            },
+            "content": {
+              "urdu": [
+                "زمانہ جاہلیت میں عورتیں ایک ایک سال تک گندگی اور بدحالی میں سوگ مناتی تھیں۔",
+                "اسلام نے سوگ کو معتدل بنا کر عورت کے وقار اور حفظانِ صحت کا خیال رکھا۔",
+                "تین دن سے زیادہ کا سوگ (سوائے شوہر کے) رشتوں کی ناقدری سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "In pre-Islamic times, women mourned in filth and misery for a whole year.",
+                "Islam moderated mourning to respect women's dignity and hygiene standards.",
+                "Mourning beyond three days for anyone but a husband is considered inappropriate."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سوگ کے دوران ممنوعہ چیزیں",
+        "english": "Prohibited Acts During Mourning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زینت اور بناؤ سنگھار کی ممانعت",
+              "english": "Prohibition of Adornment and Beauty"
+            },
+            "content": {
+              "urdu": [
+                "سوگوار عورت کے لیے خوشبو، مہندی، سرمہ اور زیور کا استعمال منع ہے۔",
+                "ایسے شوخ رنگین کپڑے پہننا جو زینت کے لیے ہوں، شرعاً ناپسندیدہ ہیں۔",
+                "کنگھی کرنے کی ممانعت سے مراد بالوں کو سٹائل بنا کر سنوارنا ہے۔"
+              ],
+              "english": [
+                "A mourning woman is prohibited from using perfume, henna, kohl, and jewelry.",
+                "Wearing bright, attractive clothes meant for adornment is legally disliked.",
+                "The prohibition on combing refers to styling hair for the purpose of beautification."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استثناء اور رعایت",
+              "english": "Exemptions and Concessions"
+            },
+            "content": {
+              "urdu": [
+                "حیض سے پاک ہونے کے بعد تعفن دور کرنے کے لیے ہلکی خوشبو جائز ہے۔",
+                "ایسے سادہ کپڑے (ثوب عصب) پہنے جا سکتے ہیں جن میں قدرتی رنگ ہو۔",
+                "صفائی ستھرائی اور علاج کی غرض سے کیے جانے والے کام منع نہیں ہیں۔"
+              ],
+              "english": [
+                "Using light incense to remove odors after menstruation is permissible.",
+                "Simple clothes (Asb) that are not dyed for attraction can be worn.",
+                "Actions taken for the sake of hygiene or medical treatment are not prohibited."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حکمت اور معاشرتی پہلو",
+        "english": "Wisdom and Social Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نکاح کے رشتے کا احترام",
+              "english": "Respecting the Marital Bond"
+            },
+            "content": {
+              "urdu": [
+                "شوہر کے لیے طویل سوگ ازدواجی تعلق کی اہمیت اور تقدس کی دلیل ہے۔",
+                "یہ مدت بیوہ کو صدمے سے نکلنے اور نئے فیصلے کرنے کا وقت دیتی ہے۔",
+                "اسلام عورت کو تنہا نہیں چھوڑتا بلکہ اس کے حقوق کی حفاظت کرتا ہے۔"
+              ],
+              "english": [
+                "The long mourning period for a husband signifies the sanctity of marriage.",
+                "This duration allows the widow time to process grief and plan her future.",
+                "Islam does not abandon the woman but rather safeguards her rights and status."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فطری جذبات کی رعایت",
+              "english": "Respecting Natural Emotions"
+            },
+            "content": {
+              "urdu": [
+                "تین دن کا سوگ انسانی صدمے اور دکھ کے فطری اظہار کے لیے دیا گیا ہے۔",
+                "اس کے بعد زندگی کی طرف واپسی کو لازمی قرار دیا گیا تاکہ جمود نہ آئے۔",
+                "دینِ اسلام فطرت کے عین مطابق احکامات صادر فرماتا ہے۔"
+              ],
+              "english": [
+                "Three days of mourning are granted for the natural expression of human grief.",
+                "Returning to normalcy afterward is required to prevent social stagnation.",
+                "The religion of Islam issues commands that are in perfect harmony with nature."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں اور خلاصہ",
+        "english": "Juristic Nuances and Summary"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سوگ کا شرعی درجہ",
+              "english": "Legal Status of Mourning"
+            },
+            "content": {
+              "urdu": [
+                "بیوہ کے لیے احداد (سوگ) کرنا واجب ہے، اسے ترک کرنا گناہ ہے۔",
+                "غیر شوہر کے لیے تین دن تک سوگ مباح (جائز) ہے، واجب نہیں۔",
+                "شریعت نے حدود مقرر کر دی ہیں جن سے تجاوز کرنا جائز نہیں ہے۔"
+              ],
+              "english": [
+                "Ihdad (mourning) is obligatory for a widow; neglecting it is a sin.",
+                "Mourning for others for up to three days is permissible, not mandatory.",
+                "Shariah has defined specific boundaries that are not to be transgressed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال کی تعلیم",
+              "english": "Teaching of Moderation"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نہ تو بالکل خوشی سے روکتا ہے اور نہ ہی غم میں ڈوبنے کا کہتا ہے۔",
+                "نبی ﷺ کے احکامات انسانی زندگی میں توازن پیدا کرنے کے لیے ہیں۔",
+                "اللہ کی رضا پر راضی رہنا ہی مومن کی اصل پہچان اور کامیابی ہے۔"
+              ],
+              "english": [
+                "Islam neither forbids joy entirely nor commands drowning in sorrow.",
+                "Prophetic rulings are designed to create balance in human life.",
+                "Being content with Allah's decree is the true identity and success of a believer."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

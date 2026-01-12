@@ -1,0 +1,268 @@
+{
+  "hadithId": 1220,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/15/1"],
+    "kitabId": 15,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب العتق",
+    "babId": 100
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (2517)، ومسلم (1509). ورواية الترمذي (1547) وصححها. ورواية أبي داود (3967) صحيحة ولها شواهد كثيرة.",
+    "urdu": "صحیح۔ اسے بخاری (2517) اور مسلم (1509) نے روایت کیا ہے۔ ترمذی (1547) اور ابوداؤد (3967) کی روایات بھی صحیح شواہد کے ساتھ ثابت ہیں۔",
+    "english": "Sahih. Reported by Al-Bukhari (2517) and Muslim (1509). The narrations of At-Tirmidhi (1547) and Abu Dawud (3967) are also authentic with supporting evidences."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْتَقَ",
+      "english": "Manumitted / Freed",
+      "urdu": "آزاد کیا"
+    },
+    {
+      "arabic": "اِسْتَنْقَذَ",
+      "english": "Delivered / Saved",
+      "urdu": "بچا لیا / خلاصی دی"
+    },
+    {
+      "arabic": "عُضْوٍ",
+      "english": "Limb / Body part",
+      "urdu": "عضو / بدن کا حصہ"
+    },
+    {
+      "arabic": "فِكَاكَهُ",
+      "english": "Ransom / Release",
+      "urdu": "چھٹکارا / فدیہ"
+    },
+    {
+      "arabic": "اِمْرَأً",
+      "english": "A person / Male",
+      "urdu": "آدمی / مرد"
+    },
+    {
+      "arabic": "مُسْلِمَتَيْنِ",
+      "english": "Two female Muslims",
+      "urdu": "دو مسلمان عورتیں"
+    }
+  ],
+  "summary": {
+    "urdu": "غلاموں اور لونڈیوں کو آزاد کرنا ایک عظیم عبادت ہے جو انسان کو جہنم کی آگ سے مکمل نجات دلانے کا ذریعہ بنتی ہے۔",
+    "english": "Freeing slaves, male or female, is a virtuous act of worship that serves as a complete ransom for the believer from Hellfire."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب العتق، رقم 2517",
+      "english": "Sahih al-Bukhari, Book of Emancipation, No. 2517"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب العتق، رقم 1509",
+      "english": "Sahih Muslim, Book of Emancipation, No. 1509"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب السير، رقم 1547",
+      "english": "Sunan at-Tirmidhi, Book of Military Expeditions, No. 1547"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غلامی کے خاتمے کی نبوی تحریک",
+        "english": "The Prophetic Movement to End Slavery"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عتقِ غلام کی فضیلت",
+              "english": "Virtue of Freeing Slaves"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے غلامی کے قدیم نظام کو بتدریج ختم کرنے کے لیے 'عتق' (آزادی) کو عظیم عبادت قرار دیا۔",
+                "کسی انسان کو غلامی کی زنجیروں سے نکال کر اسے باوقار بنانا اللہ کو انتہائی پسندیدہ عمل ہے۔",
+                "یہ حدیث ظاہر کرتی ہے کہ آزادی دینے والے کو اللہ تعالی دنیا اور آخرت میں غلامی سے بچاتا ہے۔"
+              ],
+              "english": [
+                "Islam established 'Itq' (emancipation) as a great act of worship to gradually eliminate the old system of slavery.",
+                "Extracting a human from the chains of slavery and making them dignified is highly beloved to Allah.",
+                "This Hadith shows that Allah saves the emancipator from slavery in both this world and the hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عضو کے بدلے عضو کی آزادی",
+              "english": "Limb for Limb Liberation"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے الفاظ 'بکل عضو منہ عضوا' ایک گہری بلاغت اور جزا کے اصول کو واضح کرتے ہیں۔",
+                "جس طرح آزاد کردہ غلام کا پورا جسم آزاد ہوتا ہے، اسی طرح مالک کا پورا جسم جہنم سے بچ جاتا ہے۔",
+                "یہ عمل اس بات کی ضمانت ہے کہ آزادی دینے والا مکمل طور پر عذابِ الہی سے محفوظ رہے گا۔"
+              ],
+              "english": [
+                "The phrase 'every limb for every limb' highlights a deep eloquence and the principle of retribution.",
+                "Just as the freed slave's entire body becomes free, the owner's entire body is saved from Hell.",
+                "This act guarantees that the one granting freedom will remain completely safe from Divine punishment."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صنفی توازن اور شرعی احکامات",
+        "english": "Gender Balance and Sharia Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مرد اور عورت کے لیے یکساں اجر",
+              "english": "Equal Reward for Men and Women"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے مردوں کے ساتھ ساتھ عورتوں کو بھی لونڈیاں آزاد کرنے پر نجات کی خوشخبری دی۔",
+                "یہ اس بات کی دلیل ہے کہ نیکی کے معاملات میں اسلام کسی بھی صنف کے ساتھ امتیازی سلوک نہیں کرتا۔",
+                "خاتون کا لونڈی کو آزاد کرنا اسے جہنم کی آگ سے بچانے کا مکمل فدیہ اور ڈھال بن جاتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gave glad tidings of salvation to women as well for freeing female slaves.",
+                "This proves that Islam does not discriminate between genders in matters of righteous deeds.",
+                "A woman freeing a female slave becomes a complete ransom and shield protecting her from Hellfire."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دو لونڈیوں کی فضیلت",
+              "english": "The Virtue of Two Female Slaves"
+            },
+            "content": {
+              "urdu": [
+                "ترمذی کی روایت میں مرد کے لیے دو لونڈیوں کی آزادی کو ایک مرد غلام کے برابر قرار دیا گیا ہے۔",
+                "فقہاء نے اس کی مختلف وجوہات بیان کی ہیں جو کہ اس دور کے سماجی اور معاشی حالات کے مطابق تھیں۔",
+                "بنیادی مقصد یہ تھا کہ ہر صورت میں غلاموں کی ہر قسم کو آزاد کرنے کی ترغیب دی جائے۔"
+              ],
+              "english": [
+                "In At-Tirmidhi's report, freeing two female slaves is equated to freeing one male slave for a man.",
+                "Jurists have provided various reasons for this based on the social and economic conditions of that time.",
+                "The primary goal was to encourage the liberation of all types of slaves in every possible way."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روحانی اور سماجی اثرات",
+        "english": "Spiritual and Social Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانیت کا احترام",
+              "english": "Respect for Humanity"
+            },
+            "content": {
+              "urdu": [
+                "غلام کو آزاد کرنا درحقیقت انسانی تکریم اور مساوات کے اسلامی اصول کو عملی جامہ پہنانا ہے۔",
+                "اسلام نے غلاموں کے ساتھ حسنِ سلوک اور بالآخر ان کی آزادی کو ایمان کا حصہ بنایا۔",
+                "یہ عمل معاشرے میں طبقاتی تفریق کو ختم کرنے اور بھائی چارے کو فروغ دینے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Freeing a slave is the practical implementation of the Islamic principles of human dignity and equality.",
+                "Islam made treating slaves well and eventually freeing them a part of faith (Iman).",
+                "This act serves as a means to eliminate class discrimination and promote brotherhood in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کفارہ گناہ کے طور پر آزادی",
+              "english": "Emancipation as Expiation"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے بہت سے گناہوں کے کفارے کے طور پر غلام آزاد کرنے کا حکم دیا ہے۔",
+                "اس سے ظاہر ہوتا ہے کہ ایک زندگی کو آزادی دینا گناہوں کے داغ دھونے کا بہترین طریقہ ہے۔",
+                "یہ طریقہ کار اس بات کی علامت ہے کہ اسلام انسانی آزادی کو کس قدر اہمیت دیتا ہے۔"
+              ],
+              "english": [
+                "Sharia mandated freeing a slave as an expiation (Kaffarah) for many sins.",
+                "This shows that giving freedom to a life is the best way to wash away the stains of sins.",
+                "This mechanism signifies how much importance Islam places on human liberty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عصری اطلاق اور سبق",
+        "english": "Modern Application and Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مجبوروں کی مدد",
+              "english": "Helping the Oppressed"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں روایتی غلامی نہیں، لیکن معاشی اور سماجی غلامی میں جکڑے لوگوں کی مدد اس کے مشابہ ہے۔",
+                "کسی مقروض کا قرض ادا کرنا یا کسی مظلوم کو قید سے چھڑانا بھی اسی اجر کا مستحق بنا سکتا ہے۔",
+                "انسانیت کو کسی بھی قسم کی قید یا جبر سے نکالنا نبوی تعلیمات کا اصل مقصد ہے۔"
+              ],
+              "english": [
+                "While traditional slavery is gone, helping those trapped in economic or social bondage is analogous today.",
+                "Paying off someone's debt or releasing an oppressed person from prison can earn similar rewards.",
+                "Freeing humanity from any kind of captivity or oppression is the true essence of Prophetic teachings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایثار اور قربانی",
+              "english": "Selflessness and Sacrifice"
+            },
+            "content": {
+              "urdu": [
+                "غلام ایک قیمتی اثاثہ ہوتا تھا، اسے محض اللہ کی رضا کے لیے قربان کرنا اعلیٰ درجے کا ایثار ہے۔",
+                "ہمیں بھی چاہیے کہ اپنی عزیز ترین اشیاء اللہ کی راہ میں خرچ کریں تاکہ نجات حاصل ہو۔",
+                "خلوصِ نیت کے ساتھ کیا گیا چھوٹا سا عمل بھی جہنم سے بچاؤ کی ڈھال بن سکتا ہے۔"
+              ],
+              "english": [
+                "A slave was a valuable asset; sacrificing such wealth solely for Allah's pleasure is high-level altruism.",
+                "We should also spend our most beloved possessions in the path of Allah to achieve salvation.",
+                "Even a small act done with sincerity of intention can become a shield against Hellfire."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

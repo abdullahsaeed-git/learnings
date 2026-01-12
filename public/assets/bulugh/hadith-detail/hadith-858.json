@@ -1,0 +1,267 @@
+{
+  "hadithId": 858,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/48"],
+    "kitabId": 8,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب النكاح",
+    "babId": 65
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (5097)، ومسلم (1504). والرواية التي تنص على أنه كان عبداً هي الأرجح والأصح عند جمهور المحدثين لموافقتها لحديث ابن عباس وعائشة في الأصول.",
+    "urdu": "یہ حدیث صحیح ہے۔ بخاری (5097) اور مسلم (1504) نے اسے روایت کیا ہے۔ محدثین کے نزدیک صحیح ترین بات یہی ہے کہ سیدہ بریرہ کے شوہر (مغیث) غلام تھے، اسی لیے ان کو اختیار دیا گیا تھا۔",
+    "english": "Sahih. Reported by Al-Bukhari (5097) and Muslim (1504). The narration specifying that her husband was a slave is considered the most authentic and established by the majority of Hadith scholars."
+  },
+  "importantWords": [
+    {
+      "arabic": "خُيِّرَتْ",
+      "english": "Was given the choice",
+      "urdu": "اختیار دیا گیا"
+    },
+    {
+      "arabic": "عَتَقَتْ",
+      "english": "She was set free",
+      "urdu": "وہ آزاد ہوئیں"
+    },
+    {
+      "arabic": "عَبْدًا",
+      "english": "A slave",
+      "urdu": "غلام"
+    },
+    {
+      "arabic": "حُرًّا",
+      "english": "A free man",
+      "urdu": "آزاد"
+    },
+    {
+      "arabic": "أَثْبَتُ",
+      "english": "More established / reliable",
+      "urdu": "زیادہ مستند / پختہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے معلوم ہوتا ہے کہ اگر کوئی لونڈی آزاد ہو جائے اور اس کا شوہر غلام ہو، تو اسے یہ شرعی اختیار حاصل ہے کہ وہ اپنا نکاح برقرار رکھے یا ختم کر دے۔",
+    "english": "This Hadith establishes that if a slave woman is emancipated while her husband remains a slave, she has the legal right to either stay in the marriage or annul it."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب العتق، رقم الحديث ٥٠٩٧",
+      "english": "Sahih Bukhari, Book of Manumission, Hadith No. 5097"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب العتق، رقم الحديث ١٥٠٤",
+      "english": "Sahih Muslim, Book of Manumission, Hadith No. 1504"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R2j9p_VqQic",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "آزادی اور حقِ خیار",
+        "english": "Emancipation and the Right of Choice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خیارِ عتق کا مفہوم",
+              "english": "Meaning of Khiyar al-Itq"
+            },
+            "content": {
+              "urdu": [
+                "جب کوئی شادی شدہ لونڈی آزاد ہوتی ہے تو اسے 'خیارِ عتق' (آزادی کا اختیار) حاصل ہوتا ہے۔",
+                "سیدہ بریرہ کو یہ اختیار اس لیے دیا گیا کیونکہ آزادی کے بعد ان کا رتبہ شوہر سے بلند ہو گیا تھا۔",
+                "اسلام نے غلامی سے آزادی پانے والی خاتون کو اپنی زندگی کا نیا فیصلہ کرنے کا موقع دیا ہے۔"
+              ],
+              "english": [
+                "When a married slave woman is freed, she gains the 'Right of Choice' (Khiyar al-Itq).",
+                "Barira was given this choice because her status became superior to her still-enslaved husband.",
+                "Islam grants the emancipated woman the opportunity to decide her future in light of her new status."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شوہر کی حالت (غلام یا آزاد)",
+              "english": "Husband's Status (Slave or Free)"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک یہ اختیار تبھی ملتا ہے جب شوہر ابھی تک غلام ہو۔",
+                "اگر شوہر پہلے سے آزاد ہو تو لونڈی کو آزادی کے بعد نکاح ختم کرنے کا اختیار نہیں ہوتا۔",
+                "سیدہ بریرہ کے شوہر مغیث رضی اللہ عنہ کے بارے میں راجح قول یہی ہے کہ وہ غلام تھے۔"
+              ],
+              "english": [
+                "Most jurists agree this choice only applies if the husband is still a slave.",
+                "If the husband is already a free man, the woman does not gain the right to annul the marriage upon freedom.",
+                "The strongest opinion regarding Barira’s husband, Mughith (RA), is that he was a slave."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نکاح اور کفاءت (برابری)",
+        "english": "Marriage and Kafa'ah (Equality)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سماجی حیثیت کا فرق",
+              "english": "Difference in Social Status"
+            },
+            "content": {
+              "urdu": [
+                "آزادی ملنے کے بعد عورت اور اس کے غلام شوہر کے درمیان برابری ختم ہو جاتی ہے۔",
+                "شریعت نے اس غیر برابری کی وجہ سے عورت کو نکاح جاری رکھنے یا نہ رکھنے کا حق دیا ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ نکاح میں میاں بیوی کی حیثیت کا لحاظ رکھا گیا ہے۔"
+              ],
+              "english": [
+                "Upon emancipation, the legal equality between the woman and her enslaved husband vanishes.",
+                "Shariah grants her the right to annul based on this disparity in social and legal standing.",
+                "This ruling proves that the relative status of spouses is considered in Islamic family law."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مغیث کا عشق اور بریرہ کا فیصلہ",
+              "english": "Mughith's Love and Barira's Decision"
+            },
+            "content": {
+              "urdu": [
+                "مغیث رضی اللہ عنہ اپنی بیوی بریرہ سے شدید محبت کرتے تھے اور ان کے پیچھے رویا کرتے تھے۔",
+                "نبی ﷺ نے مغیث کے لیے سفارش کی لیکن بریرہ نے اسے مشورہ سمجھ کر قبول نہیں کیا۔",
+                "اس سے ثابت ہوتا ہے کہ شرعی حق استعمال کرنے میں عورت پر کوئی زبردستی نہیں کی جا سکتی۔"
+              ],
+              "english": [
+                "Mughith (RA) loved Barira intensely and used to weep while following her in the streets.",
+                "The Prophet (ﷺ) interceded for Mughith, but Barira politely declined, seeing it as advice.",
+                "This demonstrates that a woman cannot be forced when she is exercising her legal Shariah right."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور روایات کا تضاد",
+        "english": "Juristic Issues and Conflicting Narrations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایات کی ترجیح",
+              "english": "Prioritizing Narrations"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں شوہر کے آزاد ہونے کی روایت کو محدثین نے وہم قرار دیا ہے۔",
+                "ابن عباس رضی اللہ عنہما کی گواہی کہ انہوں نے مغیث کو غلامی کی حالت میں دیکھا، سب سے پختہ ہے۔",
+                "اصولِ حدیث کے مطابق 'راوی کی اپنی گواہی' دوسروں کی بیان کردہ روایت پر مقدم ہوتی ہے۔"
+              ],
+              "english": [
+                "The narration suggesting the husband was free is considered an error by Hadith critics.",
+                "Ibn 'Abbas's eyewitness testimony of seeing Mughith as a slave is the most established.",
+                "In Hadith principles, eyewitness accounts are prioritized over indirect or conflicting reports."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نکاح کی بقا یا فسخ",
+              "english": "Maintenance or Annulment of Nikah"
+            },
+            "content": {
+              "urdu": [
+                "اگر لونڈی آزادی کے بعد خاموش رہے اور تعلق قائم رکھے، تو اس کا اختیار ختم ہو جاتا ہے۔",
+                "یہ اختیار فوراً مجلس میں یا آزادی کا علم ہونے پر استعمال کرنا ضروری ہوتا ہے۔",
+                "سیدہ بریرہ نے فوراً علیحدگی کا فیصلہ کیا، جس سے ان کا پہلا نکاح فسخ ہو گیا۔"
+              ],
+              "english": [
+                "If the woman remains silent and continues the relationship after freedom, she loses her choice.",
+                "The choice must be exercised promptly upon emancipation or learning of it.",
+                "Barira chose separation immediately, which resulted in the annulment of her previous marriage."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی نظامِ عدل و رحمت",
+        "english": "Islamic System of Justice and Mercy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انسانی حقوق کا احترام",
+              "english": "Respect for Human Rights"
+            },
+            "content": {
+              "urdu": [
+                "غلامی سے آزادی کے ساتھ ہی اسلام عورت کو مکمل خود مختاری دیتا ہے۔",
+                "یہ واقعہ ثابت کرتا ہے کہ اسلام میں ایک آزاد عورت کا رتبہ بہت بلند ہے۔",
+                "نبی ﷺ نے ایک عام خاتون کو یہ ہمت دی کہ وہ اپنی زندگی کا فیصلہ خود کر سکے۔"
+              ],
+              "english": [
+                "Along with physical freedom, Islam grants a woman complete personal autonomy.",
+                "This incident proves that the status of a free woman is highly regarded in Islam.",
+                "The Prophet (ﷺ) empowered an ordinary woman to make her own vital life decisions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سفارش اور قانونی حق",
+              "english": "Intercession vs. Legal Right"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا سفارش کرنا آپ ﷺ کی شفقت تھی، لیکن بریرہ کا انکار ان کا قانونی حق تھا۔",
+                "دین میں حاکم یا بزرگ کی سفارش کو حکم کے طور پر مسلط نہیں کیا جا سکتا۔",
+                "قانون کی نظر میں سب برابر ہیں، چاہے وہ آزاد ہو یا نو آزاد خاتون۔"
+              ],
+              "english": [
+                "The Prophet’s (ﷺ) intercession was due to His mercy, but Barira’s refusal was her legal right.",
+                "Intercession by a leader or elder cannot be imposed as a mandatory command in personal rights.",
+                "In the eyes of the law, everyone is equal, whether naturally free or newly emancipated."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "hadithId": 269,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["urn:1260"],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "Bulugh al-Maram",
+    "babId": 18
+  },
+  "name": {
+    "arabic": "وَعَنْ ثَوْبَانَ ‏- رضى الله عنه ‏- أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ : { لِكُلِّ سَهْوٍ سَجْدَتَانِ بَعْدَمَا يُسَلِّمُ } رَوَاهُ أَبُو دَاوُدَ , وَابْنُ مَاجَهْ بِسَنَدٍ ضَعِيفٍ .‏",
+    "urdu": "سیدنا ثوبان رضی اللہ عنہ سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا: ”ہر سہو (بھول) کے لیے دو سجدے ہیں، جو سلام پھیرنے کے بعد ہیں۔“ اسے ابوداؤد اور ابن ماجہ نے ضعیف سند کے ساتھ روایت کیا ہے۔",
+    "english": "Narrated by Thawban (may Allah be pleased with him): The Prophet (ﷺ) said: 'For every forgetfulness, there are two prostrations after he says the Taslim.' Reported by Abu Dawud and Ibn Majah with a weak chain."
+  },
+  "takhreej": {
+    "arabic": "ضعيف. رواه أبو داود (1038)، وابن ماجه (1219) من طريق إسماعيل بن عياش، عن عبيد الله بن عبيد الكلاعي، عن زهير بن سالم العنسي، عن عبد الرحمن بن جبير بن نفير، عن ثوبان به. وعلته زهير بن سالم العنسي، فقد قال عنه الدارقطني: حمصي منكر الحديث.",
+    "urdu": "ضعیف۔ اسے ابو داؤد (1038) اور ابن ماجہ (1219) نے اسماعیل بن عیاش کے طریق سے روایت کیا ہے۔ اس کی سند میں زہیر بن سالم العنسی ہے جس کے بارے میں دارقطنی نے کہا: یہ حمصی ہے اور منکر الحدیث ہے۔ لہذا یہ روایت ثابت نہیں ہے۔",
+    "english": "Weak. Reported by Abu Dawud (1038) and Ibn Majah (1219) via Isma'il bin 'Ayyash. The defect is Zuhair bin Salim Al-'Ansi; Ad-Daraqutni said about him: 'He is from Homs and Munkar al-Hadith (his hadith is rejected).'"
+  },
+  "importantWords": [
+    {
+      "arabic": "سهو",
+      "english": "Forgetfulness",
+      "urdu": "بھول / سہو"
+    },
+    {
+      "arabic": "لكل",
+      "english": "For every",
+      "urdu": "ہر ایک کے لیے"
+    },
+    {
+      "arabic": "بعدما",
+      "english": "After",
+      "urdu": "اس کے بعد"
+    },
+    {
+      "arabic": "يسلم",
+      "english": "He performs Taslim",
+      "urdu": "وہ سلام پھیرتا ہے"
+    },
+    {
+      "arabic": "ضعيف",
+      "english": "Weak",
+      "urdu": "کمزور / ضعیف"
+    },
+    {
+      "arabic": "سند",
+      "english": "Chain of narrators",
+      "urdu": "سند"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بظاہر یہ اصول دیتی ہے کہ ہر سجدہ سہو سلام کے بعد ہوگا، مگر چونکہ یہ ضعیف ہے، اس لیے صحیح احادیث (جو سلام سے پہلے اور بعد دونوں کا ذکر کرتی ہیں) پر عمل کرنا زیادہ بہتر ہے۔",
+    "english": "This Hadith apparently establishes a rule that all Sujud as-Sahw are after Taslim. However, since it is weak, it is better to follow the authentic Hadiths which mention prostrations both before and after Taslim."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1038)",
+      "english": "Reported by Abu Dawud (1038)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (1219)",
+      "english": "Reported by Ibn Majah (1219)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ثوبان مولى رسول الله",
+        "english": "Thawban"
+      },
+      "slug": "thawban"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-k7Owb2QM",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عمومی قاعدہ",
+              "english": "General Rule"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت کے الفاظ بتاتے ہیں کہ ہر بھول کا سجدہ سلام کے بعد ہے۔",
+                "یہ الفاظ مطلق ہیں یعنی اس میں کمی یا زیادتی کی تفصیل نہیں ہے۔",
+                "بعض علماء نے اسی بنیاد پر کہا ہے کہ سجدہ سہو ہمیشہ سلام کے بعد ہوتا ہے۔"
+              ],
+              "english": [
+                "The wording suggests that prostrations for every forgetfulness are after Taslim.",
+                "The wording is absolute, mentioning no detail of addition or omission.",
+                "Some scholars used this to argue that Sujud as-Sahw is always after Taslim."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ضعف کی وجہ",
+              "english": "Reason for Weakness"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کی سند میں راوی زہیر بن سالم 'منکر الحدیث' ہے۔",
+                "اسماعیل بن عیاش کی روایت شامیوں کے علاوہ دوسروں سے ضعیف ہوتی ہے۔",
+                "لہذا یہ روایت اصولِ حدیث کی رو سے حجت پکڑنے کے قابل نہیں ہے۔"
+              ],
+              "english": [
+                "The chain contains Zuhair bin Salim who is 'Munkar al-Hadith'.",
+                "Isma'il bin 'Ayyash's narrations from non-Syrians are weak.",
+                "Therefore, this narration is not suitable as evidence according to Hadith principles."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف",
+        "english": "Juristic Disagreement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف مسالک",
+              "english": "Different Schools of Thought"
+            },
+            "content": {
+              "urdu": [
+                "حنفیہ کے نزدیک سجدہ سہو صرف سلام کے بعد ہوتا ہے۔",
+                "شافعیہ کے نزدیک سجدہ سہو ہمیشہ سلام سے پہلے ہوتا ہے۔",
+                "مالکیہ اور حنابلہ صحیح احادیث کی روشنی میں تفصیل (کمی/زیادتی) کے قائل ہیں۔"
+              ],
+              "english": [
+                "According to Hanafis, Sujud as-Sahw is always after Taslim.",
+                "According to Shafi'is, Sujud as-Sahw is always before Taslim.",
+                "Malikis and Hanbalis detail it based on addition/omission using Sahih Hadiths."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محققین کی رائے",
+              "english": "Opinion of Researchers"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ یہ حدیث ضعیف ہے، اس لیے اسے بنیاد نہیں بنایا جا سکتا۔",
+                "صحیح بخاری و مسلم کی احادیث میں سلام سے پہلے اور بعد دونوں طریقے ثابت ہیں۔",
+                "راجح قول یہ ہے کہ جہاں نبی ﷺ نے پہلے کیا وہاں پہلے، جہاں بعد میں کیا وہاں بعد میں کریں۔"
+              ],
+              "english": [
+                "Since this Hadith is weak, it cannot be the basis for the ruling.",
+                "Sahih Bukhari and Muslim confirm methods both before and after Taslim.",
+                "The preferred view is to follow the Prophet (ﷺ) exactly where specific precedents exist."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی پہلو",
+        "english": "Educational Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصول حدیث کی اہمیت",
+              "english": "Importance of Hadith Principles"
+            },
+            "content": {
+              "urdu": [
+                "ہر حدیث جو کتابوں میں ہو، وہ صحیح نہیں ہوتی۔",
+                "ضعیف حدیث سے شرعی احکام ثابت نہیں ہوتے۔",
+                "علماء نے حدیث کی چھان پھٹک کر کے دین کو محفوظ کیا ہے۔"
+              ],
+              "english": [
+                "Not every Hadith found in books is authentic.",
+                "Weak Hadiths do not establish mandatory Islamic rulings.",
+                "Scholars preserved the religion by rigorously verifying Hadiths."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحقیق کی عادت",
+              "english": "Habit of Research"
+            },
+            "content": {
+              "urdu": [
+                "طالب علم کو سند اور متن دونوں پر غور کرنا چاہیے۔",
+                "سنی سنائی بات پر عمل کرنے کی بجائے تحقیق کرنی چاہیے۔",
+                "دین میں دلیل کا مقام سب سے بلند ہے۔"
+              ],
+              "english": [
+                "A student must consider both the chain (Isnad) and the text (Matn).",
+                "One should verify instead of acting on hearsay.",
+                "Evidence holds the highest status in the religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سہولت اور وسعت",
+              "english": "Ease and Flexibility"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث ضعیف ہے، مگر سجدہ سہو کا مقام اجتہادی مسئلہ ہے۔",
+                "اگر کوئی سلام سے پہلے یا بعد میں کر لے تو نماز ہو جاتی ہے۔",
+                "اختلافی مسائل میں دوسرے کی نماز کو باطل کہنے سے بچنا چاہیے۔"
+              ],
+              "english": [
+                "Although this Hadith is weak, the timing of Sujud is a matter of Ijtihad.",
+                "The prayer is valid whether done before or after Taslim.",
+                "Avoid declaring others' prayers invalid in matters of legitimate disagreement."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں کوشش کرنی چاہیے کہ صحیح احادیث پر عمل کریں۔",
+                "صحیح روایات میں صورتحال کے مطابق فرق موجود ہے۔",
+                "سنت کے مطابق عمل کرنا ہی بہترین اور محفوظ راستہ ہے۔"
+              ],
+              "english": [
+                "We should strive to act upon authentic Hadiths.",
+                "Authentic narrations differentiate based on the situation.",
+                "Acting according to the Sunnah is the best and safest path."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

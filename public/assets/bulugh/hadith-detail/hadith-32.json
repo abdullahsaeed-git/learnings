@@ -1,0 +1,260 @@
+{
+  "hadithId": 32,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 4 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الوضوء",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  رواه البخاري (186) ، ومسلم (235) .   البخاري (185) ، ومسلم (235) . ",
+    "urdu": "صحیح (درجہ)۔ اسے بخاری (186) اور مسلم (235) نے روایت کیا ہے۔ بخاری (185) اور مسلم (235) میں یہ تفصیلات موجود ہیں۔",
+    "english": "Sahih (Authentic). Narrated by Al-Bukhari (186) and Muslim (235). The specific wording regarding the front-to-back motion is found in Al-Bukhari (185) and Muslim (235)."
+  },
+  "importantWords": [
+    {
+      "arabic": "عَبْدِ اَللَّهِ بْنِ يَزِيدَ",
+      "english": "Abdullah bin Zaid",
+      "urdu": "عبداللہ بن زید"
+    },
+    {
+      "arabic": "مَسَحَ",
+      "english": "Wiped",
+      "urdu": "مسح کیا"
+    },
+    {
+      "arabic": "أَقْبَلَ",
+      "english": "Brought forward",
+      "urdu": "آگے کی طرف لے گئے"
+    },
+    {
+      "arabic": "أَدْبَرَ",
+      "english": "Brought backward",
+      "urdu": "پیچھے کی طرف لے آئے"
+    },
+    {
+      "arabic": "مُقَدَّمِ رَأْسِهِ",
+      "english": "Front of his head",
+      "urdu": "سر کے اگلے حصہ"
+    },
+    {
+      "arabic": "قَفَاهُ",
+      "english": "Nape of his neck",
+      "urdu": "گدی"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وضو کے دوران سر کے مسح کا تفصیلی طریقہ کار واضح کرتی ہے، یعنی مسح سر کے اگلے حصے سے شروع کر کے پچھلے حصے تک لے جایا جائے اور پھر ہاتھ وہیں واپس لائے جائیں جہاں سے شروع کیا گیا تھا، اور یہ عمل ایک بار کیا جائے۔",
+    "english": "This Hadith clarifies the precise methodology for wiping the head during Wudu: the hands should be started from the front of the head, moved to the nape of the neck, and then returned to the starting point, completing the entire action in a single sweep."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الوضوء، رقم 186",
+      "english": "Sahih Al-Bukhari, The Book of Ablution, Hadith 186"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الطهارة، رقم 235",
+      "english": "Sahih Muslim, The Book of Purification, Hadith 235"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَبْدُ اَللَّهِ بْنُ يَزِيدَ بْنِ عَاصِمٍ اَلْأَنْصَارِيُّ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abdullah bin Zaid bin Asim Al-Ansari (May Allah be pleased with him)"
+      },
+      "slug": "abdullah-bin-zaid-bin-asim"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-10-masah-method",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Agreed Upon (by Bukhari and Muslim)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسح کا سنت طریقہ کار",
+        "english": "The Sunnah Method of Wiping (Mas'h)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آگے سے پیچھے اور واپس آنا",
+              "english": "Forward, Backward, and Return"
+            },
+            "content": {
+              "urdu": [
+                "سر کے مسح کا سنت طریقہ وہ ہے جو اس حدیث میں تفصیل سے بیان ہوا ہے: یعنی دونوں ہاتھوں کو ایک ساتھ سر کے اگلے حصے سے شروع کیا جائے۔",
+                "پھر ہاتھوں کو سر کے پچھلے حصے (گدی) تک لے جایا جائے، اور فوراً بغیر نیا پانی لیے ہاتھوں کو واپس اسی مقام پر لایا جائے جہاں سے شروع کیا تھا۔",
+                "یہ پورا عمل ایک ہی مسح شمار ہوتا ہے اور اس طرح سر کے تمام حصے کا مسح ہو جاتا ہے، جو فرض کی ادائیگی کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "The Sunnah method for wiping the head is precisely detailed here: starting both hands together at the front part of the head (forehead).",
+                "The hands are then moved to the back of the head (nape), and immediately, without taking new water, they are returned to the starting point.",
+                "This entire movement constitutes a single wipe, and it ensures that the wiping covers the full extent of the head, thereby fulfilling the obligation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی کی مقدار",
+              "english": "The Amount of Water Used"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت سے یہ بھی معلوم ہوتا ہے کہ سر کے مسح کے لیے صرف ایک بار پانی لینا کافی ہے، اور اسی پانی سے آگے اور پیچھے دونوں طرف کا مسح کیا جاتا ہے۔",
+                "یہ پانی کی بچت اور اعتدال کی تعلیم ہے، جو وضو کے تمام اعمال میں مطلوب ہے تاکہ اس عمل میں سادگی قائم رہے۔",
+                "مسح کا مقصد بالوں کو بھگونا نہیں بلکہ سر کے ہر حصے کو ہاتھ کی رطوبت سے گیلا کرنا ہے، اور ایک ہی بار کا پانی اس کے لیے کافی ہے۔"
+              ],
+              "english": [
+                "This narration also indicates that taking water for the head wipe only once is sufficient to perform both the forward and backward strokes.",
+                "This teaches conservation and moderation in water use, a desirable trait in all acts of Wudu, maintaining simplicity in the ritual.",
+                "The goal of Mas'h is not to soak the hair but to apply moisture to the head's surface, and the water taken for a single sweep is enough to achieve this."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسح کے مختلف طریقے",
+        "english": "Different Methods of Wiping (Fiqh)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیگر فقہی مذاہب",
+              "english": "Other Schools of Fiqh"
+            },
+            "content": {
+              "urdu": [
+                "یہ طریقہ (آگے سے پیچھے اور واپس لانا) **شافعی اور حنبلی** مسالک میں سر کا مسح کرنے کا سب سے افضل اور مکمل طریقہ ہے۔",
+                "مالکی مسلک میں صرف آگے سے پیچھے لے جانا بھی کافی ہے، جبکہ حنفی مسلک میں صرف سر کے ایک چوتھائی حصے کا مسح فرض ہے۔",
+                "تاہم، یہ حدیث سب سے محفوظ اور کامل طریقہ پیش کرتی ہے، جس سے تمام مسالک کے ماننے والوں کی طہارت یقینی ہو جاتی ہے۔"
+              ],
+              "english": [
+                "This specific method (forward, backward, and return) is considered the most preferable and complete way to wipe the head in the **Shafi'i and Hanbali** schools of Fiqh.",
+                "The Maliki school holds that simply moving the hands forward (or only wiping part of the head) is sufficient, while the Hanafi school mandates wiping at least one-quarter of the head.",
+                "Nevertheless, this Hadith offers the most comprehensive method, ensuring the purity of the ritual for followers of all schools."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی سنت کی پیروی",
+              "english": "Adherence to the Prophet's Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ یہ حدیث 'متفق علیہ' ہے اور ایک صحابی نے نبی ﷺ کے وضو کا مظاہرہ کر کے اس کی تصدیق کی، لہٰذا یہ مسح کے طریقے کا ایک قطعی ثبوت ہے۔",
+                "تمام عبادات میں سب سے بہترین اور اجر کے لحاظ سے کامل وہ عمل ہے جو نبی اکرم ﷺ کے طریقے کے عین مطابق ہو۔",
+                "مسلمان کو چاہیے کہ وہ ہر عمل میں نبی ﷺ کے طریقے کی پیروی کرے، خاص طور پر طہارت جیسے بنیادی عمل میں۔"
+              ],
+              "english": [
+                "Since this Hadith is 'Agreed Upon' and was confirmed by a Companion's direct demonstration of the Prophet's Wudu, it is definitive proof of the wiping method.",
+                "The best and most rewarding form of worship is that which is performed in exact accordance with the Prophet's (ﷺ) method.",
+                "A Muslim should strive to follow the Prophet's way in every action, especially in foundational acts like ritual purification."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عمامہ اور بال کے نیچے مسح",
+        "english": "Wiping Over Turban and Hair"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بالوں کے اوپر مسح",
+              "english": "Wiping Over the Hair"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی دلیل ہے کہ مسح براہ راست سر کے بالوں پر کیا جانا چاہیے، جس میں سر کے سامنے اور پیچھے کے تمام بال شامل ہیں۔",
+                "جن خواتین کے بال لمبے ہوں، ان کے لیے بالوں کی جڑوں کے ساتھ ساتھ بالوں کے بڑے حصے کا مسح کرنا بھی ضروری ہے، نہ کہ صرف سر کا وہ حصہ جہاں بال اگتے ہیں۔",
+                "جن کے بال گھنے ہوں، ان کے لیے آسانی یہ ہے کہ وہ مسح کے دوران اپنے ہاتھوں کو بالوں کی جڑوں تک نہیں پہنچاتے، بلکہ صرف سطح پر مسح کرتے ہیں۔"
+              ],
+              "english": [""]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عمامہ پر مسح کا مسئلہ",
+              "english": "The Issue of Wiping Over the Turban"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کے عمل سے دیگر احادیث میں یہ بھی ثابت ہے کہ آپ نے کبھی کبھار صرف پیشانی کے بالوں پر مسح کر کے باقی مسح عمامہ پر کر لیا۔",
+                "اس حدیث کا بنیادی حکم براہ راست سر کا مسح کرنا ہے، جبکہ عمامہ پر مسح کی اجازت اس وقت ہے جب اسے ہٹانا مشقت کا باعث ہو اور یہ ایک رخصت ہے۔",
+                "فقہی طور پر، عمامہ پر مسح کی اجازت اس شرط پر ہے کہ اس کا مسح کرنا آسان ہو، لیکن بالوں پر مسح کرنا افضل اور مستند ترین طریقہ ہے۔"
+              ],
+              "english": [
+                "Other Ahadith prove that the Prophet (ﷺ) sometimes wiped a part of his forehead and then wiped over his turban (Imamah).",
+                "The primary ruling of this Hadith is to wipe the head directly, whereas wiping over the turban is a concession granted when removing it would cause hardship (Rukhṣah).",
+                "Fornication, wiping over the turban is permissible if it is difficult to remove, but wiping the hair directly is the most virtuous and authentic method."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "راوی اور تعلیمی حکمت",
+        "english": "The Narrator and Educational Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عبداللہ بن زید کا خصوصی مقام",
+              "english": "The Special Status of Abdullah bin Zaid"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عبداللہ بن زید بن عاصم رضی اللہ عنہ ان چند صحابہ میں سے ہیں جنہوں نے رسول اللہ ﷺ کے وضو کا پورا طریقہ عملی طور پر تفصیل سے بیان کیا۔",
+                "ان کی روایت کو وضو کے طریقوں کو جاننے کے لیے بنیادی مآخذ کے طور پر استعمال کیا جاتا ہے کیونکہ یہ بہت جامع اور واضح ہے۔",
+                "ان کی اس روایت کی کثرتِ روایت اور صحت کی بنا پر، وضو کا یہ طریقہ تمام مسلمانوں کے لیے ایک معیار کی حیثیت رکھتا ہے۔"
+              ],
+              "english": [
+                "Sayyiduna Abdullah bin Zaid bin Asim (RA) is one of the few Companions who narrated the entire Wudu process in meticulous detail, including the physical demonstration.",
+                "His narration is considered a primary source for understanding the exact methodology of Wudu due to its comprehensiveness and clarity.",
+                "Due to the frequent and authentic transmission of his account, this method of ablution serves as a definitive standard for all Muslims."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احکام کا تفصیلی علم",
+              "english": "Detailed Knowledge of Rulings"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث طہارت جیسے اہم موضوع پر رسول اللہ ﷺ کی طرف سے علم کی فراہمی کی دقت اور تفصیل کو ظاہر کرتی ہے۔",
+                "دین میں کوئی بھی اہم عمل ایسا نہیں ہے جس کا طریقہ کار سنت میں واضح طور پر بیان نہ کر دیا گیا ہو، یہاں تک کہ سر کا مسح۔",
+                "مسلمان کو چاہیے کہ وہ اپنی عبادات کو محض قیاس یا رسم و رواج سے نہیں، بلکہ ان صحیح اور متفق علیہ احادیث کی روشنی میں ادا کرے۔"
+              ],
+              "english": [
+                "This Hadith illustrates the precision and detail with which the Prophet (ﷺ) conveyed knowledge on crucial topics like ritual purity.",
+                "There is no important religious act whose procedure was not clearly demonstrated and explained in the Sunnah, even down to wiping the head.",
+                "A Muslim should ensure that their acts of worship are performed not merely by custom or conjecture but strictly in accordance with these authentic and agreed-upon narrations."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 689,
+  "hadithNo": 42,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh:689"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+ 
+  "takhreej": {
+    "arabic": "رواه الطبراني في الأوسط والدارقطني، وأخرجه أبو داود في المراسيل، وأخرجه أيضاً موقوفاً على ابن عباس بإسناد قوي، ورجحه البيهقي.",
+    "urdu": "اسے طبرانی (اوسط) اور دارقطنی نے روایت کیا ہے، امام ابوداؤد نے اسے مراسیل میں عکرمہ سے روایت کیا اور یہی راجح ہے۔ اسے ابن عباس سے موقوفاً بھی قوی سند کے ساتھ روایت کیا گیا ہے۔",
+    "english": "Reported by at-Tabarani in al-Awsat and ad-Daraqutni. Abu Dawud reported it in al-Marasil via 'Ikrimah, which is the preferred view. It was also reported as a Mauquf narration from Ibn 'Abbas with a strong chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "تُطْعَمَ",
+      "english": "Fit to be eaten",
+      "urdu": "کھانے کے قابل ہو جائے"
+    },
+    {
+      "arabic": "صُوفٌ",
+      "english": "Wool",
+      "urdu": "اون"
+    },
+    {
+      "arabic": "ظَهْرٍ",
+      "english": "Back",
+      "urdu": "پیٹھ / پشت"
+    },
+    {
+      "arabic": "لَبَنٌ",
+      "english": "Milk",
+      "urdu": "دودھ"
+    },
+    {
+      "arabic": "ضَرْعٍ",
+      "english": "Udder",
+      "urdu": "تھن"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایسی اشیاء کی فروخت سے منع کیا گیا ہے جن کی مقدار نامعلوم ہو یا جن کا معیار ابھی پختہ نہ ہوا ہو، جیسے درخت پر کچے پھل یا جانور کے جسم پر لگا اون۔",
+    "english": "This Hadith prohibits selling items with unknown quantities or unfinalized quality, such as unripened fruit, wool still on an animal, or milk in the udder."
+  },
+  "references": [
+    {
+      "arabic": "رواه الطبراني في الأوسط (2000)",
+      "english": "Reported by At-Tabarani in Al-Awsat (2000)"
+    },
+    {
+      "arabic": "سنن الدارقطني (3/14)",
+      "english": "Sunan al-Daraqutni (3/14)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6xR8E3oA",
+  "grade": {
+    "arabic": "صحيح لغيره (موقوفاً قوى)",
+    "english": "Sahih Lighairihi (Strong as Mauquf)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پھلوں کی بیع کا حکم",
+        "english": "Ruling on Selling Fruits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پختگی سے پہلے ممانعت",
+              "english": "Prohibition Before Ripening"
+            },
+            "content": {
+              "urdu": [
+                "درخت پر لگے پھلوں کو اس وقت تک نہیں بیچنا چاہیے جب تک وہ پک کر کھانے کے قابل نہ ہو جائیں۔",
+                "کچے پھلوں میں بیماری یا قدرتی آفات کی وجہ سے ضائع ہونے کا خطرہ زیادہ ہوتا ہے۔",
+                "اسلامی شریعت ایسے سودے سے روکتی ہے جس میں خریدار کا مال ضائع ہونے کا اندیشہ ہو۔"
+              ],
+              "english": [
+                "Fruits on trees should not be sold until they ripen and become fit for consumption.",
+                "Unripe fruits carry a high risk of being destroyed by pests or natural disasters.",
+                "Islamic law prevents transactions where there is a risk of the buyer losing their wealth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تنازعات کا خاتمہ",
+              "english": "Eliminating Disputes"
+            },
+            "content": {
+              "urdu": [
+                "پھلوں کے پکنے کے بعد ان کی قیمت اور معیار کا صحیح اندازہ لگانا ممکن ہوتا ہے۔",
+                "قبل از وقت فروخت اکثر کسانوں اور بیوپاریوں کے درمیان جھگڑے کا باعث بنتی ہے۔",
+                "سودے میں شفافیت لانا شریعت کا بنیادی مقصد ہے تاکہ فریقین کا اعتماد بحال رہے۔"
+              ],
+              "english": [
+                "Once fruits ripen, it becomes possible to correctly estimate their value and quality.",
+                "Premature sales often lead to disputes between farmers and wholesalers.",
+                "Ensuring transparency in deals is a core Sharia goal to maintain mutual trust."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اون اور دودھ کی فروخت",
+        "english": "Sale of Wool and Milk"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نامعلوم مقدار (جہالت)",
+              "english": "Unknown Quantity (Jahalah)"
+            },
+            "content": {
+              "urdu": [
+                "جانور کی پیٹھ پر لگے اون کی درست مقدار کٹائی سے پہلے معلوم نہیں ہو سکتی۔",
+                "اسی طرح تھنوں میں موجود دودھ کو تولنے سے پہلے بیچنا 'بیع مجہول' کہلاتا ہے۔",
+                "شریعت میں ایسی چیز کی بیع ناجائز ہے جس کی مقدار کا علم سودے کے وقت نہ ہو۔"
+              ],
+              "english": [
+                "The exact quantity of wool on an animal's back cannot be known before shearing.",
+                "Similarly, selling milk still in the udder is considered an 'unknown sale'.",
+                "Sharia invalidates deals where the quantity of the item is unknown at the time of contract."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ملاوٹ اور دھوکے سے بچاؤ",
+              "english": "Avoiding Adulteration and Fraud"
+            },
+            "content": {
+              "urdu": [
+                "تھنوں میں دودھ کو فروخت کے لیے روکنا خریدار کو دھوکہ دینے کے مترادف ہو سکتا ہے۔",
+                "اون کے نیچے جانور کے جسم کے نقائص چھپ سکتے ہیں، جو خریدار کے لیے نقصان دہ ہے۔",
+                "اسلام ہر اس تجارتی طریقے کو ختم کرتا ہے جس میں فریب یا نا انصافی کا عنصر ہو۔"
+              ],
+              "english": [
+                "Withholding milk in the udders for sale can be equivalent to deceiving the buyer.",
+                "Wool can hide defects on the animal's body, which is harmful to the buyer.",
+                "Islam eliminates any trade method containing elements of fraud or injustice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور استثناء",
+        "english": "Juristic Aspects and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیعِ غرر کی ممانعت",
+              "english": "Prohibition of Uncertain Sales"
+            },
+            "content": {
+              "urdu": [
+                "یہ تمام صورتیں 'غرر' (بڑے دھوکے یا رسک) کے زمرے میں آتی ہیں جن سے نبی ﷺ نے روکا۔",
+                "فقہاء کے نزدیک جس چیز کی فراہمی یقینی نہ ہو اسے فروخت کرنا باطل ہے۔",
+                "ان احکامات کا مقصد مارکیٹ میں استحکام اور معاشی عدل قائم کرنا ہے۔"
+              ],
+              "english": [
+                "All these cases fall under 'Gharar' (uncertainty/risk) which the Prophet (PBUH) forbade.",
+                "According to jurists, selling something that cannot be guaranteed for delivery is void.",
+                "These rulings aim to establish market stability and economic justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جانور کے ساتھ فروخت",
+              "english": "Sale Along with the Animal"
+            },
+            "content": {
+              "urdu": [
+                "اگر جانور خود بیچا جائے تو اس کے جسم پر موجود اون یا تھن کا دودھ تابع ہو کر بک جاتا ہے۔",
+                "ممانعت تب ہے جب صرف اون یا صرف تھنوں والے دودھ کا الگ سے سودا کیا جائے۔",
+                "یہ اصول 'التابع تابع' (تابعی چیز اصل کے حکم میں ہوتی ہے) کے تحت کام کرتا ہے۔"
+              ],
+              "english": [
+                "If the animal itself is sold, the wool and milk are included as part of the primary sale.",
+                "The prohibition applies specifically when wool or milk is sold as a separate standalone contract.",
+                "This follows the maxim: 'The subordinate follows the primary in its ruling'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید معاشی اسباق",
+        "english": "Modern Economic Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقیقی معیشت کی ترجیح",
+              "english": "Priority of Real Economy"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معیشت خیالی اور فرضی سودوں کے بجائے مادی اور حقیقی تبادلے پر زور دیتی ہے۔",
+                "سٹہ بازی اور مستقبل کے غیر یقینی سودے (Speculation) معاشرے کے لیے نقصان دہ ہیں۔",
+                "اشیاء کو ان کی مکمل اور واضح صورت میں ہی بازار میں لانا چاہیے۔"
+              ],
+              "english": [
+                "Islamic economics emphasizes physical exchange over speculative or fictitious deals.",
+                "Speculation and uncertain future contracts are harmful to the broader society.",
+                "Goods should be brought to market only when they are in a complete and clear form."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی بنیاد",
+              "english": "Foundation of Halal Livelihood"
+            },
+            "content": {
+              "urdu": [
+                "وہی نفع حلال ہے جو واضح اور شفاف لین دین کے نتیجے میں حاصل ہو۔",
+                "مبہم سودوں سے بچنا تقویٰ کا تقاضا اور معاشی برکت کا ذریعہ ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ اپنی تجارت کو ان قدیم اور جدید جاہلانہ طریقوں سے پاک رکھیں۔"
+              ],
+              "english": [
+                "Halal profit is that which results from clear and transparent transactions.",
+                "Avoiding ambiguous deals is a mark of piety and a source of economic blessing.",
+                "Muslims must purify their trade from these ancient and modern ignorant practices."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

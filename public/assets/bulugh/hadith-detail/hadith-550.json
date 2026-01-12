@@ -1,0 +1,272 @@
+{
+  "hadithId": 550,
+  "hadithNo": 24,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/44"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1926)، ومسلم (1109). والزيادة عند مسلم (1109/77) تؤكد صحة الصيام وعدم وجوب القضاء.",
+    "urdu": "صحیح۔ اسے بخاری (1926) اور مسلم (1109) نے روایت کیا ہے۔ امام مسلم کی روایت میں قضاء نہ ہونے کی صراحت اس مسئلے کو بالکل واضح کر دیتی ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1926) and Muslim (1106, 1109). The addition by Muslim confirms that the fast is valid and no makeup is required."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُصْبِحُ",
+      "english": "Enters the morning",
+      "urdu": "صبح کرتا ہے"
+    },
+    {
+      "arabic": "جُنُبًا",
+      "english": "Ritual impurity",
+      "urdu": "حالتِ جنابت"
+    },
+    {
+      "arabic": "جِمَاعٍ",
+      "english": "Sexual intercourse",
+      "urdu": "جماع"
+    },
+    {
+      "arabic": "يَغْتَسِلُ",
+      "english": "Performs Ghusl",
+      "urdu": "غسل کرتا ہے"
+    },
+    {
+      "arabic": "يَصُومُ",
+      "english": "He fasts",
+      "urdu": "روزہ رکھتا ہے"
+    },
+    {
+      "arabic": "لَا يَقْضِي",
+      "english": "Does not make up",
+      "urdu": "قضا نہیں کرتا"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص حالتِ جنابت میں صبح کرے (یعنی غسل سے پہلے فجر ہو جائے) تو اس کا روزہ درست ہے، وہ غسل کر کے روزہ پورا کرے اور اس پر کوئی قضا لازم نہیں۔",
+    "english": "If a person is in a state of ritual impurity (Janaba) when dawn breaks, their fast is valid. They should perform Ghusl and continue their fast without needing to make it up."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1926)",
+      "english": "Reported by Al-Bukhari (1926)"
+    },
+    {
+      "arabic": "رواه مسلم (1109)",
+      "english": "Reported by Muslim (1109)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أم سلمة هند بنت أبي أمية",
+        "english": "Umm Salamah Hind bint Abi Umayya"
+      },
+      "slug": "umm-salamah-hind-bint-abi-umayya"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=DndB0-U0x-w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنابت اور روزے کی ابتدا",
+        "english": "Impurity and Commencement of Fast"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طلوعِ فجر کے وقت جنابت",
+              "english": "Janaba at Dawn"
+            },
+            "content": {
+              "urdu": [
+                "روزے کی صحت کے لیے غسلِ جنابت کا فجر سے پہلے ہونا شرط نہیں ہے۔",
+                "اگر وقتِ سحر ختم ہو جائے اور غسل نہ کیا ہو تب بھی روزہ شروع ہو جاتا ہے۔",
+                "نبی ﷺ کا عمل اس بات کی صریح دلیل ہے کہ ایسا روزہ مکمل اور صحیح ہے۔"
+              ],
+              "english": [
+                "Being in a state of purity is not a condition for the commencement of a fast.",
+                "The fast is valid even if dawn breaks before one has performed Ghusl.",
+                "The Prophet's (ﷺ) practice is direct proof that such a fast is complete and correct."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غسل میں تاخیر کی اجازت",
+              "english": "Permission to Delay Ghusl"
+            },
+            "content": {
+              "urdu": [
+                "سحری کھانے کے بعد غسل کو فجر تک مؤخر کرنا جائز ہے۔",
+                "یہ رخصت امت کے لیے آسانی اور سہولت کا باعث ہے۔",
+                "تاہم، فجر کی نماز کے لیے غسل کرنا واجب ہے تاکہ وقت پر نماز ادا ہو۔"
+              ],
+              "english": [
+                "It is permissible to delay Ghusl until dawn after finishing Sahur.",
+                "This concession provides ease and convenience for the Ummah.",
+                "However, Ghusl remains obligatory for the Fajr prayer to be offered on time."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قضاء کی نفی اور پختگی",
+        "english": "Negation of Makeup and Certainty"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قضاء لازم نہ ہونا",
+              "english": "No Makeup (Qada) Required"
+            },
+            "content": {
+              "urdu": [
+                "ام سلمہ رضی اللہ عنہا کی روایت میں 'لا یقضی' کے الفاظ شک دور کرتے ہیں۔",
+                "اس روزے کی وہی حیثیت ہے جو مکمل طہارت کے ساتھ رکھے گئے روزے کی ہے۔",
+                "روزہ توڑنے والی چیزوں میں جنابت کا باقی رہنا شامل نہیں ہے۔"
+              ],
+              "english": [
+                "The words 'He did not make it up' in Umm Salamah's report remove all doubt.",
+                "This fast has the same status as one started in a state of complete purity.",
+                "Remaining in Janaba is not among the things that invalidate a fast."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتلام اور جماع میں فرق",
+              "english": "Difference between Dream and Intercourse"
+            },
+            "content": {
+              "urdu": [
+                "مسلم کی روایت میں 'من غیر حلم' (بغیر احتلام) کے الفاظ اہم ہیں۔",
+                "یہ واضح کرتا ہے کہ یہ حالت ارادی (جماع) تھی، نہ کہ غیر ارادی (احتلام)۔",
+                "دونوں صورتوں میں روزہ درست رہتا ہے اگر فجر سے پہلے عمل مکمل ہو جائے۔"
+              ],
+              "english": [
+                "The phrase 'without a dream' in Muslim's report is significant.",
+                "It clarifies that this state resulted from intentional act (intercourse), not unintentional.",
+                "In both cases, the fast remains valid if the act ended before dawn."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف اور تصفیہ",
+        "english": "Juristic Dispute and Resolution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "صحابہ کے درمیان فتویٰ",
+              "english": "Fatwa Among Companions"
+            },
+            "content": {
+              "urdu": [
+                "ابتداء میں ابوہریرہ رضی اللہ عنہ کا خیال تھا کہ غسل ضروری ہے، مگر بعد میں رجوع کر لیا۔",
+                "امہات المومنین کی گواہی نے اس فقہی مسئلے کو حتمی طور پر حل کر دیا۔",
+                "گھریلو معاملات میں ازواجِ مطہرات کی بات کو فوقیت دی جاتی ہے۔"
+              ],
+              "english": [
+                "Initially, Abu Hurairah (RA) thought Ghusl was necessary, but he later retracted.",
+                "The testimony of the Mothers of the Believers settled this juristic issue finally.",
+                "In domestic matters, the statements of the Prophet's wives take precedence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جمہور کا موقف",
+              "english": "Position of the Majority"
+            },
+            "content": {
+              "urdu": [
+                "چاروں ائمہ اس بات پر متفق ہیں کہ جنابت میں صبح کرنے سے روزہ نہیں ٹوٹتا۔",
+                "یہ حکم رمضان کے فرض اور دیگر نفل روزوں پر یکساں لاگو ہوتا ہے۔",
+                "اسلامی شریعت میں طہارتِ صوم اور طہارتِ بدن کے احکام الگ الگ ہیں۔"
+              ],
+              "english": [
+                "The four Imams agree that waking up in Janaba does not break the fast.",
+                "This ruling applies equally to Ramadan and voluntary fasts.",
+                "In Sharia, the purity of the fast and purity of the body have distinct rules."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اسباق اور حکمت",
+        "english": "Practical Lessons and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اسلام کے ضابطہ 'تیسر' (آسانی) کی بہترین مثال ہے۔",
+                "اگر غسل شرط ہوتا تو بہت سے لوگ سحری یا نمازِ فجر میں تنگی محسوس کرتے۔",
+                "اللہ تعالیٰ اپنے بندوں کے لیے تنگی نہیں بلکہ آسانی چاہتا ہے۔"
+              ],
+              "english": [
+                "This Hadith is a prime example of the Islamic principle of 'Taysir' (ease).",
+                "If Ghusl were a condition, many would face hardship with Sahur or Fajr.",
+                "Allah desires ease for His servants and does not desire hardship for them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی بشری زندگی",
+              "english": "Human Life of the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کی زندگی کا یہ پہلو ہمیں بتاتا ہے کہ آپ ﷺ بھی بشری تقاضے رکھتے تھے۔",
+                "آپ ﷺ کا عمل امت کے لیے ہر قسم کے حالات میں رہنمائی کا ذریعہ ہے۔",
+                "ازواجِ مطہرات نے نبی ﷺ کی نجی زندگی کے احکام پہنچا کر عظیم علمی خدمت کی۔"
+              ],
+              "english": [
+                "This aspect of the Prophet's life shows he shared human biological needs.",
+                "His actions serve as a guide for the Ummah in all personal circumstances.",
+                "The Prophet's wives provided a great service by conveying private Sharia rulings."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

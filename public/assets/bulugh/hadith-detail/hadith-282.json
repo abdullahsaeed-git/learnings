@@ -1,0 +1,263 @@
+{
+  "hadithId": 282,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["urn:1272"],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "Bulugh al-Maram",
+    "babId": 19
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1182).",
+    "urdu": "صحیح۔ اسے بخاری (1182) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1182)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لا يدع",
+      "english": "Never omitted",
+      "urdu": "نہیں چھوڑتے تھے"
+    },
+    {
+      "arabic": "أربعا",
+      "english": "Four (Rak'ahs)",
+      "urdu": "چار (رکعتیں)"
+    },
+    {
+      "arabic": "قبل الظهر",
+      "english": "Before Zuhr",
+      "urdu": "ظہر سے پہلے"
+    },
+    {
+      "arabic": "الغداة",
+      "english": "Morning (Fajr)",
+      "urdu": "صبح (فجر)"
+    },
+    {
+      "arabic": "ركعتين",
+      "english": "Two Rak'ahs",
+      "urdu": "دو رکعتیں"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث سنن مؤکدہ کی اہمیت اجاگر کرتی ہے۔ نبی ﷺ سفر و حضر میں بالخصوص فجر کی دو اور ظہر کی چار سنتوں کا بہت اہتمام فرماتے تھے اور انہیں ترک نہیں کرتے تھے۔",
+    "english": "This Hadith highlights the importance of Sunnah Mu'akkadah prayers. The Prophet (ﷺ) strictly observed the two Sunnahs of Fajr and four before Zuhr, never omitting them."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1182)",
+      "english": "Reported by Al-Bukhari (1182)"
+    },
+    {
+      "arabic": "رواه النسائي (1758)",
+      "english": "Reported by An-Nasa'i (1758)"
+    },
+    {
+      "arabic": "رواه أبو داود (1253)",
+      "english": "Reported by Abu Dawud (1253)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abu Bakr"
+      },
+      "slug": "aishah-bint-abu-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=EXAMPLE_ID_SUNNAH",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتوں کی مداومت",
+              "english": "Consistency in Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ ان نمازوں کے بہت پابند تھے۔",
+                "الفاظ 'لا یدع' (نہیں چھوڑتے تھے) اس عمل کی پختگی کو ظاہر کرتے ہیں۔",
+                "یہ اس بات کی دلیل ہے کہ یہ عام نفل نہیں بلکہ تاکید والی سنتیں ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) was very consistent with these prayers.",
+                "The phrase 'never omitted' shows the firmness of this practice.",
+                "This proves that these are not general voluntary prayers but emphasized Sunnahs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فجر اور ظہر کی اہمیت",
+              "english": "Importance of Fajr and Zuhr"
+            },
+            "content": {
+              "urdu": [
+                "فجر کی سنتیں دن کے آغاز میں برکت کا باعث ہیں۔",
+                "ظہر کی چار سنتیں زوال کے وقت آسمان کے دروازے کھلنے کا وقت ہے۔",
+                "ان دونوں اوقات میں عبادت کی خاص فضیلت احادیث میں آئی ہے۔"
+              ],
+              "english": [
+                "The Sunnahs of Fajr bring blessings at the start of the day.",
+                "The four Sunnahs of Zuhr are at the time when sky gates open.",
+                "The special virtue of worship at these two times is mentioned in Hadiths."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل",
+        "english": "Juristic Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت مؤکدہ کا حکم",
+              "english": "Ruling of Sunnah Mu'akkadah"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک یہ سنت مؤکدہ ہیں جن کا چھوڑنا ملامت کا باعث ہے۔",
+                "بلا عذر انہیں چھوڑنے والا گناہگار نہیں ہوتا مگر فضیلت سے محروم رہتا ہے۔",
+                "حنفیہ کے نزدیک فجر کی سنتیں واجب کے قریب ہیں۔"
+              ],
+              "english": [
+                "According to the majority, these are Sunnah Mu'akkadah; leaving them is blameworthy.",
+                "One is not sinful for leaving them without excuse, but misses great virtue.",
+                "According to Hanafis, Fajr Sunnahs are close to Wajib."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قضا کا مسئلہ",
+              "english": "Issue of Making Up"
+            },
+            "content": {
+              "urdu": [
+                "اگر فجر کی سنتیں رہ جائیں تو سورج نکلنے کے بعد پڑھنا ثابت ہے۔",
+                "ظہر کی چار سنتیں اگر جماعت کی وجہ سے رہ جائیں تو فرض کے بعد پڑھی جا سکتی ہیں۔",
+                "سنتوں کی قضا اس کی اہمیت کو مزید اجاگر کرتی ہے۔"
+              ],
+              "english": [
+                "If Fajr Sunnahs are missed, it is proven to offer them after sunrise.",
+                "If Zuhr Sunnahs are missed due to congregation, they can be offered after Fard.",
+                "Making up Sunnahs further highlights their importance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فضائل",
+        "english": "Virtues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دنیا و مافیہا سے بہتر",
+              "english": "Better than the World"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں ہے کہ فجر کی دو رکعتیں دنیا اور جو کچھ اس میں ہے، اس سے بہتر ہیں۔",
+                "یہ مختصر عمل آخرت میں بہت بڑے اجر کا باعث ہے۔",
+                "اس کی حفاظت شیطان کے خلاف پہلی فتح ہے۔"
+              ],
+              "english": [
+                "Hadith states that two Rak'ahs of Fajr are better than the world and all it contains.",
+                "This brief action leads to immense reward in the Hereafter.",
+                "Guarding them is the first victory against Satan."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فرائض کی تکمیل",
+              "english": "Completion of Obligatory"
+            },
+            "content": {
+              "urdu": [
+                "سنن و نوافل قیامت کے دن فرائض میں ہونے والی کمی کو پورا کریں گے۔",
+                "ظہر سے پہلے چار رکعتیں انسان کو نماز کے لیے مکمل تیار کرتی ہیں۔",
+                "یہ دل کی خشوع و خضوع بڑھانے میں مددگار ہیں۔"
+              ],
+              "english": [
+                "Sunnah and Nawafil will compensate for deficiencies in obligatory prayers on Judgment Day.",
+                "Four Rak'ahs before Zuhr fully prepare a person for the prayer.",
+                "They help in increasing Khushoo (concentration) of the heart."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معمول بنائیں",
+              "english": "Make it a Routine"
+            },
+            "content": {
+              "urdu": [
+                "آج ہی عہد کریں کہ فجر اور ظہر کی ان سنتوں کو نہیں چھوڑیں گے۔",
+                "سفر ہو یا حضر، ان کا اہتمام کریں۔",
+                "اپنے گھر والوں کو بھی اس کی تلقین کریں۔"
+              ],
+              "english": [
+                "Pledge today never to miss these Sunnahs of Fajr and Zuhr.",
+                "Observe them whether in travel or at home.",
+                "Encourage your family members to do the same."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محبت رسول ﷺ",
+              "english": "Love for the Prophet (ﷺ)"
+            },
+            "content": {
+              "urdu": [
+                "سنت پر عمل کرنا محبت رسول ﷺ کی نشانی ہے۔",
+                "جس عمل کو محبوب نے کبھی نہ چھوڑا ہو، عاشق اسے کیسے چھوڑ سکتا ہے؟",
+                "یہ اتباع ہی جنت کا راستہ ہے۔"
+              ],
+              "english": [
+                "Acting upon the Sunnah is a sign of love for the Prophet (ﷺ).",
+                "How can a lover leave an act that the Beloved never omitted?",
+                "This following is the path to Paradise."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

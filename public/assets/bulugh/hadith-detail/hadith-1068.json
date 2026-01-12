@@ -1,0 +1,259 @@
+{
+  "hadithId": 1068,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/10/18"],
+    "kitabId": 10,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحدود",
+    "babId": 87
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1982) في كتاب الأشربة، باب تحريم الخمر وأنها من عصير العنب ومن التمر.",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم نے اسے اپنی صحیح (1982) میں 'کتاب الاشربہ' کے تحت روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1982) in the Book of Drinks, Chapter: The Prohibition of Wine and that it is made from grapes and dates."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَحْرِيمَ",
+      "english": "Prohibition",
+      "urdu": "حرام قرار دینا"
+    },
+    {
+      "arabic": "الْخَمْرِ",
+      "english": "Wine/Intoxicants",
+      "urdu": "شراب"
+    },
+    {
+      "arabic": "تَمْرٍ",
+      "english": "Dates",
+      "urdu": "کھجور"
+    },
+    {
+      "arabic": "شَرَابٌ",
+      "english": "Drink",
+      "urdu": "مشروب"
+    },
+    {
+      "arabic": "أَنْزَلَ",
+      "english": "Revealed/Sent down",
+      "urdu": "نازل فرمایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ شراب کی حرمت صرف انگور تک محدود نہیں بلکہ کھجور اور دیگر اشیاء سے بننے والی ہر نشہ آور چیز 'خمر' کے حکم میں داخل ہے۔",
+    "english": "This Hadith proves that the prohibition of wine is not limited to grapes; rather, any intoxicant made from dates or other sources is classified as 'Khamr' (wine) and is forbidden."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1982)",
+      "english": "Sahih Muslim (1982)"
+    },
+    {
+      "arabic": "بلوغ المرام (1242)",
+      "english": "Bulugh al-Maram (1242)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خمر کی تعریف",
+        "english": "Definition of Khamr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جامع شرعی تعریف",
+              "english": "Comprehensive Shariah Definition"
+            },
+            "content": {
+              "urdu": [
+                "عربی زبان میں 'خمر' ہر اس چیز کو کہتے ہیں جو عقل کو ڈھانپ لے اور مدہوش کر دے۔",
+                "صحابہ کرام نے کھجور سے بنی شراب کو بھی 'خمر' ہی سمجھا اور حرمت کے بعد بہا دیا۔",
+                "شریعت میں اصل حکم نشہ پیدا کرنے والی صفت پر ہے نہ کہ صرف خام مال پر۔"
+              ],
+              "english": [
+                "In Arabic, 'Khamr' refers to anything that clouds the intellect and causes intoxication.",
+                "The Companions treated date-wine as 'Khamr' and discarded it immediately after the prohibition.",
+                "In Shariah, the ruling is based on the intoxicant property, not just the raw material used."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وسعتِ حرمت",
+              "english": "Scope of Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ان لوگوں کا رد کرتی ہے جو سمجھتے ہیں کہ صرف انگور کی شراب حرام ہے۔",
+                "مدینہ میں کھجور کی شراب رائج تھی اور قرآن نے اسے مطلقا حرام قرار دیا۔",
+                "ہر وہ چیز جو نشہ پیدا کرے وہ حرام ہے چاہے وہ کسی بھی پھل یا غلے سے بنی ہو۔"
+              ],
+              "english": [
+                "This Hadith refutes those who believe only grape wine is prohibited in Islam.",
+                "Date-wine was the common drink in Madinah and was unconditionally forbidden by the Quran.",
+                "Anything that intoxicates is Haram, regardless of whether it is made from fruits or grains."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحابہ کرام کی اطاعت",
+        "english": "Obedience of the Companions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فوری تسلیم و رضا",
+              "english": "Immediate Submission"
+            },
+            "content": {
+              "urdu": [
+                "جب حرمت کا حکم آیا تو صحابہ نے بغیر کسی حیل و حجت کے اسے تسلیم کیا۔",
+                "مدینہ کی گلیوں میں شراب بہا دی گئی اور برتن توڑ دیے گئے جو کمالِ ایمان کی دلیل ہے۔",
+                "صحابہ کا یہ طرزِ عمل قیامت تک کے مسلمانوں کے لیے بہترین نمونہ ہے۔"
+              ],
+              "english": [
+                "When the prohibition was revealed, the Companions submitted without any hesitation or argument.",
+                "Wine was poured into the streets of Madinah, serving as a profound evidence of their faith.",
+                "This behavior of the Companions is a perfect model for Muslims until the Day of Judgment."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تدریجی حرمت کا اختتام",
+              "english": "End of Gradual Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "شراب کی حرمت تدریجی طور پر آئی تھی لیکن یہ آخری اور حتمی فیصلہ تھا۔",
+                "صحابہ نے سمجھ لیا کہ اب اس کے استعمال کی کوئی گنجائش باقی نہیں رہی۔",
+                "انہوں نے اپنی محبوب ترین چیزوں کو اللہ کے حکم پر قربان کر دیا۔"
+              ],
+              "english": [
+                "The prohibition of wine came in stages, but this was the final and decisive decree.",
+                "The Companions understood that no room for its consumption remained whatsoever.",
+                "They sacrificed their most beloved habits and drinks for the sake of Allah's command."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور علمی نکات",
+        "english": "Jurisprudential Insights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیاس کی ضرورت نہیں",
+              "english": "No Need for Analogy"
+            },
+            "content": {
+              "urdu": [
+                "جب نص (قرآن و حدیث) واضح ہو تو پھر کسی قیاس کی ضرورت نہیں رہتی۔",
+                "اس حدیث نے واضح کر دیا کہ کھجور کی شراب بھی 'خمر' کے زمرے میں آتی ہے۔",
+                "فقہاء نے اس سے یہ اصول اخذ کیا کہ نشہ لانے والی ہر شے حرام ہے۔"
+              ],
+              "english": [
+                "When the text (Nass) is clear, there is no need for further analogical reasoning (Qiyas).",
+                "This Hadith explicitly categorizes date-wine within the definition of forbidden Khamr.",
+                "Jurists derived the principle that every intoxicant is prohibited based on this clarity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مدینہ کا ماحول",
+              "english": "Environment of Madinah"
+            },
+            "content": {
+              "urdu": [
+                "مدینہ کھجوروں کی کثرت کی وجہ سے مشہور تھا اس لیے وہاں کی شراب بھی اسی سے بنتی تھی۔",
+                "شراب کی حرمت سے مدینہ کے معاشی اور سماجی ڈھانچے میں بڑی تبدیلی آئی۔",
+                "اسلام نے معاشی نقصان کے بجائے روحانی اور اخلاقی پاکیزگی کو ترجیح دی۔"
+              ],
+              "english": [
+                "Madinah was famous for its dates, so wine was naturally produced from them there.",
+                "The prohibition of wine brought significant changes to Madinah's social and economic structure.",
+                "Islam prioritized spiritual and moral purity over potential economic or material losses."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی تربیت",
+        "english": "Moral Training"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نشے کے نقصانات",
+              "english": "Harms of Intoxication"
+            },
+            "content": {
+              "urdu": [
+                "شراب انسان کو ہوش و حواس سے بیگانہ کر کے گناہوں کی طرف مائل کرتی ہے۔",
+                "یہ عقل کو مفلوج کر دیتی ہے جو انسان کے لیے اللہ کا سب سے بڑا تحفہ ہے۔",
+                "اسلامی معاشرے کو نشے کی لعنت سے پاک رکھنا شریعت کے مقاصد میں سے ہے۔"
+              ],
+              "english": [
+                "Alcohol alienates a person from their senses and inclines them toward various sins.",
+                "It paralyzes the intellect, which is the greatest gift from Allah to mankind.",
+                "Keeping the Islamic society free from the curse of intoxication is a core objective of Shariah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پاکیزہ زندگی",
+              "english": "Pure Lifestyle"
+            },
+            "content": {
+              "urdu": [
+                "حرام مشروبات کو چھوڑ کر حلال اور پاکیزہ رزق کی طرف آنا ہی کامیابی ہے۔",
+                "اللہ کا حکم ماننے میں ہی دنیا اور آخرت کی بھلائی پوشیدہ ہے۔",
+                "ہر وہ چیز جو جسم اور روح کے لیے نقصان دہ ہو اس سے بچنا ضروری ہے۔"
+              ],
+              "english": [
+                "Success lies in abandoning forbidden drinks and turning toward pure, Halal sustenance.",
+                "Goodness in this world and the Hereafter is hidden in obeying Allah's commands.",
+                "It is essential to avoid anything that causes harm to both the body and the soul."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

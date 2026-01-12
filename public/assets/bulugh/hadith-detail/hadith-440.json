@@ -1,0 +1,259 @@
+{
+  "hadithId": 440,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/16", "muslim/943", "nasai/1894"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (943). وأصله أن رجلاً من أصحاب النبي صلى الله عليه وسلم قبض، فكفن في كفن غير طائل وقبر ليلاً، فزجر النبي صلى الله عليه وسلم عن ذلك وقال هذا الحديث.",
+    "urdu": "صحیح۔ اسے امام مسلم (943) نے روایت کیا ہے۔ اس کا پس منظر یہ ہے کہ ایک صحابی کی وفات ہوئی اور انہیں ناقص کفن دے کر رات میں دفنا دیا گیا، جس پر آپ ﷺ نے ناراضگی کا اظہار کرتے ہوئے یہ حکم دیا۔",
+    "english": "Sahih. Reported by Muslim (943). The background is that a companion died and was shrouded in an insufficient cloth and buried at night; the Prophet (ﷺ) disapproved of this and then gave this command."
+  },
+  "importantWords": [
+    {
+      "arabic": "كَفَّنَ",
+      "english": "Shrouds / Covers",
+      "urdu": "کفن دے"
+    },
+    {
+      "arabic": "أَخَاهُ",
+      "english": "His brother",
+      "urdu": "اپنے بھائی کو"
+    },
+    {
+      "arabic": "فَلْيُحْسِنْ",
+      "english": "Should do well / beautify",
+      "urdu": "پس اسے اچھا کرے"
+    },
+    {
+      "arabic": "كَفَنَهُ",
+      "english": "His shroud",
+      "urdu": "اس کا کفن"
+    },
+    {
+      "arabic": "غَيْر طائل",
+      "english": "Insufficient / Poor quality",
+      "urdu": "ناقص / معمولی"
+    }
+  ],
+  "summary": {
+    "urdu": "مسلمان میت کو باعزت طریقے سے رخصت کرنا چاہیے اور کفن کی کوالٹی اور صفائی کا خاص خیال رکھنا سنت ہے۔",
+    "english": "It is Sunnah to ensure that the deceased Muslim is provided with a decent, clean, and respectable shroud."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 943",
+      "english": "Sahih Muslim, The Book of Funerals, Hadith 943"
+    },
+    {
+      "arabic": "سنن النسائي، كتاب الجنائز، رقم 1894",
+      "english": "Sunan an-Nasa'i, The Book of Funerals, Hadith 1894"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=SREkR5YtOsk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کفن کے اوصاف اور معیار",
+        "english": "Qualities and Standard of the Shroud"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اچھے کفن سے کیا مراد ہے؟",
+              "english": "What is meant by a 'Good Shroud'?"
+            },
+            "content": {
+              "urdu": [
+                "اچھے کفن سے مراد نہایت قیمتی یا ریشمی کپڑا نہیں بلکہ صاف ستھرا اور مضبوط کپڑا ہے۔",
+                "کفن ایسا ہونا چاہیے جو میت کے پورے جسم کو اچھی طرح چھپا لے اور شفاف نہ ہو۔",
+                "سفید رنگ کا کپڑا کفن کے لیے بہترین اور مسنون انتخاب قرار دیا گیا ہے۔"
+              ],
+              "english": [
+                "A 'good shroud' does not mean expensive or silk fabric, but clean and durable material.",
+                "The shroud must be large enough to cover the entire body and should not be transparent.",
+                "White cloth has been designated as the best and most recommended choice for the shroud."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسراف اور فضول خرچی سے بچنا",
+              "english": "Avoiding Extravagance and Waste"
+            },
+            "content": {
+              "urdu": [
+                "کفن میں اعتدال ضروری ہے؛ اس میں اسراف اور دکھلاوے کی ممانعت کی گئی ہے۔",
+                "کپڑا بہت زیادہ مہنگا نہیں ہونا چاہیے کیونکہ یہ بالآخر مٹی میں مل جانے والا ہے۔",
+                "میت کے مال سے کفن کی خریداری میں ورثاء کے حقوق کا بھی خیال رکھنا واجب ہے۔"
+              ],
+              "english": [
+                "Moderation in the shroud is necessary; extravagance and showing off are prohibited.",
+                "The fabric should not be excessively costly as it will eventually decompose in the soil.",
+                "In purchasing the shroud from the deceased's estate, the heirs' rights must be respected."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انسانی وقار اور اسلامی اخوت",
+        "english": "Human Dignity and Islamic Brotherhood"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "میت کی تکریم و عزت",
+              "english": "Honoring and Dignifying the Deceased"
+            },
+            "content": {
+              "urdu": [
+                "اسلام انسان کو مرنے کے بعد بھی ویسا ہی وقار دیتا ہے جیسا کہ وہ زندگی میں رکھتا تھا۔",
+                "اچھا کفن دینا میت کی تکریم اور اسے آخری سفر پر باعزت روانہ کرنے کی علامت ہے۔",
+                "ناقص یا گندا کپڑا استعمال کرنا اسلامی تعلیمات اور انسانی احترام کے خلاف ہے۔"
+              ],
+              "english": [
+                "Islam grants humans the same dignity after death as they possessed during their lifetime.",
+                "Providing a good shroud is a symbol of honoring the deceased for their final journey.",
+                "Using insufficient or dirty cloth is contrary to Islamic teachings and human respect."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بھائی چارے کا تقاضا",
+              "english": "Requirement of Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'اخاہ' (اپنے بھائی) کا لفظ استعمال کر کے اسلامی اخوت کی یاد دہانی کرائی گئی ہے۔",
+                "ایک مسلمان کی ذمہ داری ہے کہ وہ اپنے مرحوم بھائی کی آخری رسومات بہترین طریقے سے ادا کرے۔",
+                "یہ عمل مسلمانوں کے درمیان باہمی ہمدردی اور ایک دوسرے کے حقوق کی پاسداری کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "The use of the word 'Akhahu' (his brother) reminds us of the bonds of Islamic brotherhood.",
+                "It is a Muslim's duty to perform the final rites of their deceased brother in the best way.",
+                "This act demonstrates mutual compassion and the fulfillment of rights among Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و انتظامی مسائل",
+        "english": "Juristic and Administrative Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کفن کی ذمہ داری",
+              "english": "Responsibility of Providing the Shroud"
+            },
+            "content": {
+              "urdu": [
+                "کفن کے اخراجات میت کے اپنے ترکے سے سب سے پہلے ادا کیے جانے چاہئیں۔",
+                "اگر میت کے پاس مال نہ ہو تو اس کی ذمہ داری ان پر ہے جو زندگی میں اس کے نان نفقہ کے ذمہ دار تھے۔",
+                "اگر کوئی بھی نہ ہو تو بیت المال یا عام مسلمانوں کی ذمہ داری ہے کہ کفن کا انتظام کریں۔"
+              ],
+              "english": [
+                "Funeral expenses, including the shroud, must first be paid from the deceased's own estate.",
+                "If the deceased has no wealth, the responsibility falls on those who supported them in life.",
+                "If no one is available, the public treasury or the Muslim community must provide the shroud."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رات میں تدفین کی ممانعت کی وجہ",
+              "english": "Reason for Disliking Night Burials"
+            },
+            "content": {
+              "urdu": [
+                "رات میں تدفین سے اس لیے روکا گیا کہ میت کو مناسب غسل اور کفن ملنے میں مشکل ہو سکتی ہے۔",
+                "دن کے وقت زیادہ لوگ نمازِ جنازہ میں شریک ہو سکتے ہیں جو میت کے لیے دعا کا ذریعہ ہے۔",
+                "تاہم، اگر کوئی مجبوری یا ضرورت ہو تو رات میں تدفین کرنا جائز اور درست ہے۔"
+              ],
+              "english": [
+                "Night burial was discouraged because it may be hard to ensure proper washing and shrouding.",
+                "Daytime allows more people to join the funeral prayer, which benefits the deceased.",
+                "However, if there is a genuine necessity or urgency, burial at night is permissible."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور نصحیت",
+        "english": "Practical Training and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آخری سفر کی تیاری",
+              "english": "Preparing for the Final Journey"
+            },
+            "content": {
+              "urdu": [
+                "کفن کے احکامات ہمیں یاد دلاتے ہیں کہ ہر انسان کو ایک دن اس دنیا سے رخصت ہونا ہے۔",
+                "ہمیں اپنے اعمال کی درستگی پر زیادہ توجہ دینی چاہیے جو قبر میں ہمارا اصل لباس ہوں گے۔",
+                "ظاہری کفن کی بہتری کے ساتھ ساتھ باطنی تقویٰ کے لباس کی فکر بھی ضروری ہے۔"
+              ],
+              "english": [
+                "The rulings on shrouding remind us that every soul must depart from this world one day.",
+                "We should focus on the righteousness of our deeds, our true covering in the grave.",
+                "Along with a decent physical shroud, concern for the garment of Taqwa is essential."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنتِ نبوی کی پیروی",
+              "english": "Adherence to the Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "جنازے کے تمام مراحل میں سنتِ نبوی ﷺ کی اتباع ہی اصل کامیابی اور برکت ہے۔",
+                "ہمیں میت کے ساتھ ایسا سلوک کرنا چاہیے جیسا ہم اپنے لیے پسند کرتے ہیں۔",
+                "آپ ﷺ کی ہر ہدایت میں انسانیت کی بھلائی اور میت کے لیے راحت پوشیدہ ہے۔"
+              ],
+              "english": [
+                "Following the Prophet's (ﷺ) Sunnah in all funeral stages is the true success and blessing.",
+                "We should treat the deceased in the same manner we would wish to be treated ourselves.",
+                "Every instruction of the Prophet (ﷺ) contains welfare for humanity and comfort for the dead."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

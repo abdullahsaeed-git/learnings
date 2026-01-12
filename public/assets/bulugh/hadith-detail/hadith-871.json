@@ -1,0 +1,255 @@
+{
+  "hadithId": 871,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/70"],
+    "kitabId": 8,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب النكاح",
+    "babId": 66
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه مسلم (1437). وأما ما ذكر من نكارة عمر بن حمزة، فقد توبع عليه، والحديث أصل في تحريم إفشاء أسرار الزوجية.",
+    "urdu": "صحیح۔ اسے امام مسلم نے روایت کیا ہے (1437)۔ اگرچہ بعض محدثین نے عمر بن حمزہ پر کلام کیا ہے، لیکن یہ روایت مسلم کی شرط پر صحیح ہے اور میاں بیوی کے راز فاش کرنے کی حرمت پر اصل بنیاد ہے۔",
+    "english": "Sahih. Reported by Muslim (1437). Despite some technical discussion regarding the narrator Umar bin Hamza, the Hadith is considered authentic and is a fundamental text regarding the prohibition of revealing marital secrets."
+  },
+  "importantWords": [
+    {
+      "arabic": "شَرَّ",
+      "english": "Worst",
+      "urdu": "بدترین"
+    },
+    {
+      "arabic": "مَنْزِلَةً",
+      "english": "Rank / Position",
+      "urdu": "مرتبہ / مقام"
+    },
+    {
+      "arabic": "يُفْضِي",
+      "english": "Confides / Has intimacy",
+      "urdu": "پاس جاتا ہے / خلوت کرتا ہے"
+    },
+    {
+      "arabic": "يَنْشُرُ",
+      "english": "Spreads / Reveals",
+      "urdu": "پھیلاتا ہے / فاش کرتا ہے"
+    },
+    {
+      "arabic": "سِرَّهَا",
+      "english": "Her secret",
+      "urdu": "اس کا بھید / راز"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث میاں بیوی کے درمیان ہونے والی نجی گفتگو اور تعلقات کو راز رکھنے کی سختی سے تاکید کرتی ہے اور اسے فاش کرنے والے کو بدترین انسان قرار دیتی ہے۔",
+    "english": "This Hadith strictly emphasizes keeping private marital matters and intimacy secret, labeling those who reveal them as the worst of people on Judgment Day."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1437)",
+      "english": "Sahih Muslim (1437)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو سعيد الخدري",
+        "english": "Abu Sa'id al-Khudri"
+      },
+      "slug": "abu-said-al-khudri"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI7lT3w0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ازدواجی رازوں کی حرمت",
+        "english": "Sanctity of Marital Secrets"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امانتداری کا تقاضا",
+              "english": "Requirement of Trustworthiness"
+            },
+            "content": {
+              "urdu": [
+                "میاں بیوی کا رشتہ اعتماد اور امانت پر مبنی ہوتا ہے جس میں پردہ پوشی لازمی ہے۔",
+                "خلوت میں ہونے والی باتیں اللہ کی طرف سے ایک امانت ہوتی ہیں جنہیں ضائع نہیں کرنا چاہیے۔",
+                "اس امانت میں خیانت کرنا انسان کے اخلاق اور ایمان کی کمزوری کی علامت ہے۔"
+              ],
+              "english": [
+                "The relationship between spouses is built on trust and requires absolute confidentiality.",
+                "Matters occurring in private are a trust from Allah that must not be wasted.",
+                "Betraying this trust is a sign of weakness in a person's character and faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بدترین مقام کی وعید",
+              "english": "Warning of the Worst Status"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں ایسے شخص کو 'بدترین منزلہ' والا قرار دے کر اس فعل کی شناعت واضح کی گئی۔",
+                "راز فاش کرنا نہ صرف گناہ ہے بلکہ یہ انسانی وقار کو بھی مجروح کرتا ہے۔",
+                "قیامت کے دن اللہ تعالیٰ ایسے شخص کو ذلت اور رسوائی سے دوچار کرے گا۔"
+              ],
+              "english": [
+                "The Hadith highlights the gravity of this act by assigning the person the 'worst position'.",
+                "Revealing secrets is not just a sin but also damages human dignity and respect.",
+                "On the Day of Resurrection, Allah will subject such an individual to humiliation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور خاندانی اثرات",
+        "english": "Social and Familial Impacts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی بگاڑ کا سبب",
+              "english": "Cause of Family Instability"
+            },
+            "content": {
+              "urdu": [
+                "نجی باتوں کو باہر نکالنے سے گھر کا سکون برباد ہو جاتا ہے اور نفرت پیدا ہوتی ہے۔",
+                "بہت سے طلاق کے واقعات صرف اسی وجہ سے ہوتے ہیں کہ میاں بیوی نے راز فاش کیے۔",
+                "پردہ پوشی گھر کی دیواروں کو مضبوط بناتی ہے اور تعلقات میں برکت پیدا کرتی ہے۔"
+              ],
+              "english": [
+                "Spilling private matters destroys home peace and breeds mutual hatred and resentment.",
+                "Many divorce cases occur simply because spouses fail to keep their secrets protected.",
+                "Maintaining privacy strengthens the bond and brings blessings to the relationship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حیا اور عفت کا تحفظ",
+              "english": "Protection of Modesty and Chastity"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے حیا کو ایمان کا شعبہ قرار دیا ہے، اور راز چھپانا حیا کا حصہ ہے۔",
+                "اپنے ساتھی کی کمزوریوں کو چھپانا ایک مومن کی بہترین صفت ہونی چاہیے۔",
+                "معاشرے میں فحاشی اور لغو باتوں کو روکنے کے لیے پردہ پوشی ضروری ہے۔"
+              ],
+              "english": [
+                "Islam considers modesty a branch of faith, and keeping secrets is part of modesty.",
+                "Concealing the weaknesses of one's partner should be a believer's best quality.",
+                "Maintaining privacy is essential to prevent the spread of indecency in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "شرعی حدود اور استثنائی صورتیں",
+        "english": "Legal Boundaries and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گناہِ جاریہ سے بچاؤ",
+              "english": "Avoiding Continuous Sin"
+            },
+            "content": {
+              "urdu": [
+                "محفلوں میں بیٹھ کر اپنی ازدواجی زندگی کی باتیں کرنا بے غیرتی کی علامت ہے۔",
+                "نبی کریم ﷺ نے عورتوں کو بھی اس فعل سے سختی سے منع فرمایا ہے۔",
+                "یہ ایک ایسا گناہ ہے جس کا اثر دوسروں کے اخلاق پر بھی پڑتا ہے۔"
+              ],
+              "english": [
+                "Discussing marital intimacy in social gatherings is a sign of a lack of honor.",
+                "The Prophet (ﷺ) strictly forbade women from engaging in this act as well.",
+                "This is a sin that negatively affects the moral standards of the entire community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جائز استثنیٰ",
+              "english": "Valid Exceptions"
+            },
+            "content": {
+              "urdu": [
+                "عدالت میں گواہی یا مفتی سے فتویٰ پوچھنے کے لیے ضروری بات بتانا جائز ہے۔",
+                "طبی مسائل کے حل کے لیے ڈاکٹر کو تفصیلات فراہم کرنا اس ممانعت میں نہیں آتا۔",
+                "ضرورت کے وقت صرف اتنی بات کی جائے جتنی مسئلہ حل کرنے کے لیے لازم ہو۔"
+              ],
+              "english": [
+                "Revealing necessary details for legal testimony or seeking a fatwa is permissible.",
+                "Providing details to a doctor for medical solutions is not included in this prohibition.",
+                "In cases of necessity, only the essential details required to solve the issue should be shared."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زبان کی حفاظت",
+              "english": "Guarding the Tongue"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ہمیں ہر معاملے میں زبان کو قابو میں رکھنے کا سبق دیتی ہے۔",
+                "ایک اچھا مسلمان وہی ہے جس کی زبان اور ہاتھ سے دوسرے محفوظ رہیں۔",
+                "راز کو سینے میں دفن رکھنا ایک عظیم اخلاقی قوت اور مردانگی ہے۔"
+              ],
+              "english": [
+                "This Hadith teaches us the vital lesson of controlling our speech in all matters.",
+                "A good Muslim is one from whose tongue and hands others remain safe.",
+                "Keeping a secret buried in one's heart is a great moral strength and sign of nobility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی طرزِ زندگی",
+              "english": "Islamic Lifestyle"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کو ایک مقدس اور نجی تعلق بنا کر اسلام نے انسان کو وقار بخشا ہے۔",
+                "مغربی تہذیب کے برعکس اسلام نجی زندگی کی حدود کا مکمل احترام کرتا ہے۔",
+                "سنتِ نبوی ﷺ پر عمل کرنے سے ہی خاندانوں میں محبت اور پائیداری آتی ہے۔"
+              ],
+              "english": [
+                "By making marriage a sacred and private bond, Islam has honored humanity.",
+                "Unlike modern secular cultures, Islam fully respects the boundaries of private life.",
+                "Following the Prophet's (ﷺ) Sunnah brings stability and love within the family."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

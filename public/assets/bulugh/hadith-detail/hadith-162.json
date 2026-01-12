@@ -1,0 +1,240 @@
+{
+  "hadithId": 162,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["1:4:3"],
+    "kitabId": 2,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب صفة الصلاة (ستر العورة)",
+    "babId": 13
+  },
+  
+  "takhreej": {
+    "arabic": " صحيح .‏ رواه البخاري (361)‏ ، ومسلم (3010)‏ ، واللفظ هنا للبخاري.‏ صحيح .‏ رواه البخاري (359)‏ ، ومسلم (516)‏.‏",
+    "urdu": "صحیح۔ اسے بخاری (361) اور مسلم (3010) نے روایت کیا ہے، اور یہ الفاظ بخاری کے ہیں۔ صحیح۔ اسے بخاری (359) اور مسلم (516) نے روایت کیا ہے۔",
+    "english": "Authentic (Ṣaḥīḥ). Reported by Al-Bukhārī (361) and Muslim (3010), and the wording here is from Al-Bukhārī. Authentic (Ṣaḥīḥ). Reported by Al-Bukhārī (359) and Muslim (516).",
+    "english_alternative": ""
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلثَّوْبُ وَاسِعًا",
+      "english": "The garment is wide",
+      "urdu": "کپڑا کشادہ ہو"
+    },
+    {
+      "arabic": "فَالْتَحِفْ بِهِ",
+      "english": "Then wrap it around yourself",
+      "urdu": "اسے لپیٹ لو"
+    },
+    {
+      "arabic": "ضَيِّقًا",
+      "english": "Narrow/tight",
+      "urdu": "تنگ/چھوٹا"
+    },
+    {
+      "arabic": "فَاتَّزِرْ بِهِ",
+      "english": "Then use it as an Izār (waist-wrapper)",
+      "urdu": "اسے تہبند کی صورت میں باندھ لو"
+    },
+    {
+      "arabic": "عَاتِقِهِ",
+      "english": "His shoulder(s)",
+      "urdu": "اس کے کندھے"
+    },
+    {
+      "arabic": "شَيْءٌ",
+      "english": "Anything/a part",
+      "urdu": "کوئی حصہ"
+    },
+    {
+      "arabic": "لَا يُصَلِّي أَحَدُكُمْ",
+      "english": "None of you should pray",
+      "urdu": "تم میں سے کوئی نماز نہ پڑھے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز میں ستر عورت کے طریقے اور آداب کو بیان کرتی ہے، خاص طور پر اس صورت میں جب ایک ہی کپڑا میسر ہو۔ حکم یہ ہے کہ اگر کپڑا بڑا ہو تو اسے پورے جسم اور کندھوں پر لپیٹا جائے، اور اگر تنگ ہو تو اسے صرف تہبند کے طور پر استعمال کیا جائے، لیکن کندھوں کو ڈھانپنا ضروری ہے تاکہ نماز کامل ہو۔",
+    "english": "This Hadith describes the manners and method of covering the 'Awrah during prayer, especially when only a single garment is available. The ruling is that if the garment is wide, it should be wrapped around the entire body and shoulders; if it is narrow, it should be used only as a waist-wrapper (Izār), but covering the shoulders is mandatory for the prayer to be complete."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (361) عن جابر",
+      "english": "Reported by Al-Bukhārī (361) from Jābir"
+    },
+    {
+      "arabic": "رواه مسلم (3010) عن جابر",
+      "english": "Reported by Muslim (3010) from Jābir"
+    },
+    {
+      "arabic": "رواه البخاري (359) عن أبي هريرة",
+      "english": "Reported by Al-Bukhārī (359) from Abū Hurayrah"
+    },
+    {
+      "arabic": "رواه مسلم (516) عن أبي هريرة",
+      "english": "Reported by Muslim (516) from Abū Hurayrah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jābir ibn 'Abdullāh"
+      },
+      "slug": "jabir-ibn-abdullah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abū Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kR9U_vH0xYk",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ایک کپڑے میں نماز اور اس کے آداب",
+        "english": "Prayer in a Single Garment and its Manners"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کندھوں کو ڈھانپنے کا وجوب",
+              "english": "Obligation to Cover the Shoulders"
+            },
+            "content": {
+              "urdu": [
+                "ابوہریرہؓ کی حدیث کے مطابق، ایک کپڑے میں نماز پڑھتے وقت کندھوں کو ڈھانپنا نماز کی صحت کے لیے ضروری ہے۔",
+                "یہ حکم اس بات کی دلیل ہے کہ نماز میں صرف نچلا حصہ (ستر) ہی نہیں، بلکہ اوپر کا حصہ (خاص کر کندھے) بھی ڈھکا ہونا چاہیے۔",
+                "یہ اس وقت کے لیے بھی حکم ہے جب کپڑوں کی قلت ہو، عام حالات میں مکمل لباس پہننا ہی افضل ہے۔"
+              ],
+              "english": [
+                "According to Abū Hurayrah's Hadith, covering the shoulders is necessary for the validity of prayer when praying in a single garment.",
+                "This proves that not only the lower 'Awrah but also the upper part (especially the shoulders) must be covered during prayer.",
+                "This ruling applies even when clothing is scarce; in normal circumstances, wearing full attire is preferred."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کپڑے کو لپیٹنے کا طریقہ",
+              "english": "Method of Wrapping the Garment"
+            },
+            "content": {
+              "urdu": [
+                "اگر کپڑا کشادہ ہو تو اسے پورے جسم پر لپیٹ کر اس کے دونوں کنارے کندھوں پر ڈال لیے جائیں (التِحاف)، جو افضل طریقہ ہے۔",
+                "اگر کپڑا چھوٹا ہو تو صرف نچلے حصے (ستر) کو تہبند کی صورت میں ڈھانپا جائے (اتّزار)، لیکن کندھوں کو کسی اور کپڑے سے ڈھانپنا ضروری ہو گا۔",
+                "نماز میں کپڑے کو لٹکانا یا اس میں بے حیائی کا پہلو اختیار کرنا ممنوع ہے۔"
+              ],
+              "english": [
+                "If the garment is wide, it should be wrapped around the entire body with its ends crossed over the shoulders (Iltiḥāf), which is the most preferable method.",
+                "If the garment is small, it should be used only to cover the lower 'Awrah (I'tizār), but the shoulders must be covered with something else.",
+                "It is prohibited to let the garment drag or adopt a posture of immodesty during prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور حکم",
+        "english": "Juristic Issues and Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ستر عورت کا معیار",
+              "english": "Standard of 'Awrah Covering"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک نماز میں کندھوں کا ڈھانپنا سنت ہے، لیکن امام احمد کے نزدیک ایک قول کے مطابق واجب ہے۔",
+                "امام احمد کی دلیل ابوہریرہؓ کی حدیث ہے: «لَا يُصَلِّي أَحَدُكُمْ فِي اَلثَّوْبِ اَلْوَاحِدِ لَيْسَ عَلَى عَاتِقِهِ مِنْهُ شَيْءٌ»۔",
+                "بہترین اور احتیاطی طریقہ یہ ہے کہ ایک سے زیادہ کپڑے پہن کر جسم کے تمام حصے چھپائے جائیں۔"
+              ],
+              "english": [
+                "According to the majority of jurists, covering the shoulders in prayer is Sunnah, but Imām Aḥmad's school holds one view that it is obligatory.",
+                "Imām Aḥmad's evidence is Abū Hurayrah's Hadith: 'None of you should pray in a single garment when there is nothing on his shoulder(s) from it.'",
+                "The best and most cautious approach is to wear more than one garment to cover all parts of the body."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مالکی کے استدلال کا فرق",
+              "english": "Difference in Mālikī Derivation"
+            },
+            "content": {
+              "urdu": [
+                "مالکی فقہاء نے اس حدیث سے یہ استدلال لیا ہے کہ نماز میں کم از کم ایک کپڑا ایسا ہونا چاہیے جو ستر کو بھی ڈھانپے اور اوپر کے حصے کو بھی چھپائے۔",
+                "اگر ایک ہی کپڑا ہو تو اسے جسم پر لپیٹنا، اگر ممکن ہو تو کندھوں پر اس کے کنارے ڈالنا، افضل ترین طریقہ ہے۔",
+                "نبی ﷺ کا یہ حکم اس دور کے لیے آسانی پیدا کرتا تھا جب کپڑے کمیاب تھے۔"
+              ],
+              "english": [
+                "Mālikī jurists inferred from this Hadith that at least one garment should cover both the 'Awrah and the upper part of the body in prayer.",
+                "If only one garment is available, wrapping it around the body and crossing the ends over the shoulders is the most preferred method.",
+                "The Prophet's (ﷺ) command provided ease during a time when clothing was scarce."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "لباس میں اخلاقی آداب",
+        "english": "Ethical Manners in Clothing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کے سامنے بہترین لباس",
+              "english": "Best Attire Before Allah"
+            },
+            "content": {
+              "urdu": [
+                "نماز اللہ کے سامنے کھڑے ہونے کا سب سے اہم وقت ہے، لہٰذا انسان کو صاف ستھرا اور بہترین لباس پہننا چاہیے۔",
+                "ایک کپڑے میں نماز اس وقت جائز ہے جب دوسرا کپڑا میسر نہ ہو، ورنہ بہتر ہے کہ دو کپڑے پہنے جائیں۔",
+                "یہ حکم اس قرآنی اصول کی تائید کرتا ہے: «خذوا زينتكم عند كل مسجد» (ہر مسجد میں اپنی زینت اختیار کرو)۔"
+              ],
+              "english": [
+                "Prayer is the most crucial time to stand before Allah, so a person should wear clean and the best possible attire.",
+                "Praying in a single garment is permissible only when a second garment is unavailable; otherwise, wearing two is better.",
+                "This ruling supports the Quranic principle: 'Take your adornment at every place of prayer' (Sūrah Al-A'rāf, 7:31)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی نماز میں احتیاط",
+              "english": "Caution in Communal Prayer"
+            },
+            "content": {
+              "urdu": [
+                "کندھوں کا ننگا ہونا مکمل وقار کے خلاف سمجھا جاتا ہے، اس لیے اس سے منع کیا گیا۔",
+                "اگر جسم کا کوئی بھی حصہ نماز کے دوران کھل جائے، تو اسے فوراً چھپانا ضروری ہے تاکہ نماز باطل نہ ہو۔",
+                "مسلمان کو چاہیے کہ وہ اپنی عبادات کو کامل سنت کے مطابق ادا کرے۔"
+              ],
+              "english": [
+                "Having bare shoulders is considered against complete dignity, hence the prohibition.",
+                "If any part of the 'Awrah becomes exposed during prayer, it must be covered immediately to prevent the prayer from being nullified.",
+                "A Muslim should strive to perform their acts of worship according to the complete Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

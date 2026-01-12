@@ -1,0 +1,219 @@
+{
+  "hadithId": 171,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["1:4:12"],
+    "kitabId": 2,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب صفة الصلاة (تطهير الخفين والأحذية)",
+    "babId": 13
+  },
+  
+  "takhreej": {
+    "arabic": " صحيح .‏ رواه أبو داود (386)‏ ، وصححه ابن حبان (1404)‏ ، وهو وإن كان حسن الإسناد إلا أنه صحيح بشواهده المذكورة \"بالأصل\".‏",
+    "urdu": "صحیح۔ اسے ابو داؤد (386) نے روایت کیا ہے، اور ابن حبان (1404) نے اسے صحیح قرار دیا ہے۔ یہ اگرچہ سند کے لحاظ سے حسن ہے، لیکن یہ ان شواہد کی بنا پر صحیح ہے جو اصل میں مذکور ہیں۔",
+    "english": "Authentic (Ṣaḥīḥ). Reported by Abū Dāwūd (386) and authenticated by Ibn Ḥibbān (1404). Although its chain is Ḥasan (good), it is Ṣaḥīḥ (authentic) due to the corroborating evidence mentioned in the original text.",
+    "english_alternative": ""
+  },
+  "importantWords": [
+    {
+      "arabic": "وَطِئَ",
+      "english": "He treads upon/stepped on",
+      "urdu": "وہ چلے / قدم رکھے"
+    },
+    {
+      "arabic": "اَلْأَذَى",
+      "english": "The dirt/impurity (filth)",
+      "urdu": "گندگی / ناپاکی"
+    },
+    {
+      "arabic": "بِخُفَّيْهِ",
+      "english": "With his Khuff (leather socks/shoes)",
+      "urdu": "اپنے موزوں سے"
+    },
+    {
+      "arabic": "فَطَهُورُهُمَا",
+      "english": "Then their purifier is",
+      "urdu": "تو انہیں پاک کرنے والی"
+    },
+    {
+      "arabic": "اَلتُّرَابُ",
+      "english": "The earth/dust",
+      "urdu": "مٹی"
+    },
+    {
+      "arabic": "صَحَّحَهُ",
+      "english": "He authenticated it",
+      "urdu": "اسے صحیح قرار دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث یہ شرعی حکم بیان کرتی ہے کہ اگر موزوں (خف) یا جوتوں کے نچلے حصے پر کوئی گندگی یا ناپاکی لگ جائے تو اسے پانی سے دھونے کی بجائے زمین یا مٹی پر رگڑ کر (مسح کر کے) پاک کرنا کافی ہے۔ یہ حکم طہارت میں آسانی اور رخصت کا اصول واضح کرتا ہے۔",
+    "english": "This Hadith establishes the legal ruling that if the bottom of one's Khuff (leather socks) or shoes becomes contaminated with filth or impurity, it is sufficient to purify them by rubbing them on the earth or dust, without needing to wash them with water. This ruling illustrates the principle of ease and concession in matters of purification."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (386)",
+      "english": "Reported by Abu Dawud (386)"
+    },
+    {
+      "arabic": "صححه ابن حبان (1404)",
+      "english": "Authenticated by Ibn Ḥibbān (1404)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abū Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjIuS4dYwM0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طہارت کا اصول اور آسانی",
+        "english": "Principle of Purification and Ease"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مٹی سے پاکیزگی",
+              "english": "Purification by Earth"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث میں خف اور جوتوں پر لگی نجاست کو مٹی یا زمین پر رگڑ کر پاک کرنے کا حکم دیا گیا ہے (تطہیر بالمسح)۔",
+                "یہ حکم اس وقت کے لیے رخصت ہے جب پانی میسر نہ ہو یا سفر میں مشقت ہو۔",
+                "مٹی کو پاک کرنے والی چیز قرار دینا اللہ کی طرف سے اس امت کے لیے خصوصی آسانی ہے۔"
+              ],
+              "english": [
+                "This Hadith commands purifying the impurity on Khuff and shoes by rubbing them on the earth or dust (Taṭhīr bil-Masḥ).",
+                "This serves as a concession for times when water is scarce or during the hardship of travel.",
+                "Declaring the earth a purifying agent is a special ease granted by Allah to this Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صرف موزوں اور جوتوں کے لیے حکم",
+              "english": "Ruling Specific to Khuff and Shoes"
+            },
+            "content": {
+              "urdu": [
+                "یہ حکم صرف موزوں اور جوتوں کے نچلے حصے (تلوے) کے لیے ہے جو نجاست کے ساتھ براہ راست زمین کو چھوتے ہیں۔",
+                "اگر نجاست موزوں کے اوپر یا کپڑوں پر لگ جائے تو اسے پانی سے دھونا ضروری ہے، مٹی سے پاکی کافی نہیں ہوگی۔",
+                "یہ اصول نماز کے لیے طہارتِ لباس اور مکان کی تکمیل کے لیے ایک آسان طریقہ فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "This ruling applies only to the bottom of the Khuff and shoes (soles) which directly touch the ground with impurity.",
+                "If impurity gets on the top of the socks or clothes, it must be washed with water; purification by earth is not sufficient.",
+                "This principle provides an easy way to fulfill the condition of purifying one's clothing and place for prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مسائل اور تطہیر",
+        "english": "Juristic Issues and Purification"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پانی کی عدم موجودگی",
+              "english": "Absence of Water"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء نے اس اصول کو قبول کیا ہے کہ موزوں اور جوتوں کو نجاست سے پاک کرنے کے لیے زمین پر رگڑنا کافی ہے۔",
+                "یہ مسح اس صورت میں کافی ہے جب نجاست خشک ہو جائے اور رگڑنے سے اس کا اثر زائل ہو جائے۔",
+                "اگر نجاست تر ہو اور اس کا اثر باقی رہے تو پانی سے دھونا ضروری ہے۔"
+              ],
+              "english": [
+                "The majority of jurists accept the principle that rubbing Khuff and shoes on the earth is sufficient to purify them from impurity.",
+                "This wiping (Masḥ) is sufficient if the impurity has dried and its trace is removed by rubbing.",
+                "If the impurity is wet and its trace remains, washing with water becomes necessary."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عمومی جوتوں پر اطلاق",
+              "english": "Application to General Footwear"
+            },
+            "content": {
+              "urdu": [
+                "خف سے مراد چمڑے کے موزے ہیں، لیکن فقہاء نے اس حکم کو ہر قسم کے جوتوں (نعلین) پر بھی لاگو کیا ہے۔",
+                "صحیح بات یہ ہے کہ وہ تمام چیزیں جو نجاست سے براہ راست مٹی کو چھوتی ہیں، ان کی پاکی کے لیے یہ طریقہ جائز ہے۔",
+                "یہ آسانی سفر اور شہر سے باہر کے علاقوں کے لیے ایک بڑا سہارا ہے۔"
+              ],
+              "english": [
+                "Khuff primarily refers to leather socks, but jurists have extended this ruling to all types of shoes (Na'lain).",
+                "The correct view is that this method of purification is permissible for anything that directly touches the ground with impurity.",
+                "This ease is a great relief for people traveling or those in areas outside the city."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا درس",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد میں احتیاط",
+              "english": "Caution in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص جوتے پہن کر مسجد میں نماز پڑھے، اسے یہ سنت پر عمل کرنے سے پہلے جوتوں کی پاکی کا یقین کرنا چاہیے۔",
+                "جوتے کو زمین پر رگڑ کر صاف کرنے کا عمل اگر مسجد سے باہر کیا جائے تو بہتر ہے۔",
+                "اس حکم کی پیروی سے مسجد کی صفائی کو بھی یقینی بنایا جاتا ہے۔"
+              ],
+              "english": [
+                "A person who prays in shoes must ensure their purity before entering the mosque and practicing this Sunnah.",
+                "The act of wiping the shoes on the ground should preferably be done outside the mosque.",
+                "Following this ruling also ensures the cleanliness of the mosque area."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آسانی کی قدر",
+              "english": "Appreciating the Ease"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی طرف سے دی گئی ان رخصتوں کی قدر کرنی چاہیے اور ان پر عمل کرنا چاہیے تاکہ شریعت میں سختی سے بچا جا سکے۔",
+                "طہارت میں یہ آسانی مسلمانوں کے لیے ایک بڑی نعمت ہے جو انہیں عبادات پر قائم رہنے کی ترغیب دیتی ہے۔",
+                "یہ اصول دین اسلام کی حقیقت کو ظاہر کرتا ہے کہ یہ آسانی اور اعتدال کا دین ہے۔"
+              ],
+              "english": [
+                "The concessions granted by Allah should be valued and acted upon to avoid unnecessary rigidity in the Sharī'ah.",
+                "This ease in purification is a great blessing for Muslims, encouraging them to remain steadfast in their worship.",
+                "This principle reflects the true nature of Islam as a religion of ease and moderation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

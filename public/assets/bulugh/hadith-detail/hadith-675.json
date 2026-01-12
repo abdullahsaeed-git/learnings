@@ -1,0 +1,259 @@
+{
+  "hadithId": 675,
+  "hadithNo": 28,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:1519"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح مسلم (1519)، كتاب البيوع، باب تحريم تلقي الجلب.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام مسلم نے اپنی صحیح (1519) میں روایت کیا ہے۔ اس میں تجارتی قافلوں کا منڈی سے باہر استقبال کرنے کی ممانعت بیان ہوئی ہے۔",
+    "english": "Sahih Muslim (1519), The Book of Transactions, Chapter: The prohibition of going out to meet the trade caravans."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تَلَقَّوا",
+      "english": "Do not go out to meet",
+      "urdu": "آگے بڑھ کر استقبال نہ کرو"
+    },
+    {
+      "arabic": "الْجَلَبَ",
+      "english": "Imported goods",
+      "urdu": "باہر سے لایا جانے والا مال"
+    },
+    {
+      "arabic": "سَيِّدُهُ",
+      "english": "Its owner",
+      "urdu": "مال کا مالک"
+    },
+    {
+      "arabic": "بِالْخِيَارِ",
+      "english": "Has the option",
+      "urdu": "اختیار حاصل ہے"
+    },
+    {
+      "arabic": "السُّوقَ",
+      "english": "The Market",
+      "urdu": "منڈی / بازار"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں تاجروں کو اس بات سے روکا گیا ہے کہ وہ باہر سے آنے والے دیہاتیوں یا قافلوں کو راستے میں مل کر سستے داموں مال خریدیں، تاکہ منڈی کے نرخ معلوم ہونے پر مالک کا نقصان نہ ہو۔",
+    "english": "This Hadith prohibits merchants from meeting caravans outside the city to buy goods cheaply before the owners know the market rates, protecting the sellers from being cheated."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1519)",
+      "english": "Sahih Muslim (1519)"
+    },
+    {
+      "arabic": "سنن أبي داود (3437)",
+      "english": "Sunan Abi Dawud (3437)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dusi"
+      },
+      "slug": "abu-hurairah-al-dusi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FjS6xR8E3oA",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "تلقي الجلب کی ممانعت",
+        "english": "Prohibition of Meeting Caravans"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشی انصاف کی فراہمی",
+              "english": "Ensuring Economic Justice"
+            },
+            "content": {
+              "urdu": [
+                "باہر سے آنے والے لوگ منڈی کے تازہ ترین ریٹ سے ناواقف ہوتے ہیں۔",
+                "شہری تاجروں کا ان سے راستے میں ملنا اکثر ان کی بے خبری کا فائدہ اٹھانے کے لیے ہوتا ہے۔",
+                "اسلام نے اس عمل کو 'غش' (دھوکہ) قرار دے کر ممنوع قرار دیا ہے۔"
+              ],
+              "english": [
+                "People coming from outside are often unaware of current market rates.",
+                "City merchants meeting them midway is usually to exploit their ignorance.",
+                "Islam prohibits this practice, categorizing it as a form of deception."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شہریوں کا مفاد",
+              "english": "Interest of the Citizens"
+            },
+            "content": {
+              "urdu": [
+                "اگر چند تاجر سارا مال باہر ہی خرید لیں تو منڈی میں مصنوعی قلت پیدا ہو سکتی ہے۔",
+                "مال کو براہ راست منڈی پہنچنے دینے سے قیمتیں اعتدال پر رہتی ہیں۔",
+                "یہ حکم بیچنے والے اور عام صارفین دونوں کے تحفظ کے لیے ہے۔"
+              ],
+              "english": [
+                "If a few traders buy all goods outside, it creates an artificial shortage in the market.",
+                "Allowing goods to reach the market directly keeps prices balanced and fair.",
+                "This ruling protects both the original seller and the general consumers."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خیارِ غبن (فسخِ سودا کا حق)",
+        "english": "Option of Rescission (Khiyar)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مالک کا شرعی حق",
+              "english": "The Owner's Sharia Right"
+            },
+            "content": {
+              "urdu": [
+                "اگر راستے میں سودا ہو جائے تو وہ 'غیر لازم' ہوتا ہے جب تک مالک منڈی نہ دیکھ لے۔",
+                "منڈی پہنچ کر اگر مالک کو پتہ چلے کہ اس کا مال سستا خریدا گیا تو وہ سودا توڑ سکتا ہے۔",
+                "یہ حق اس لیے دیا گیا ہے تاکہ خریدار کی چالبازی کا ازالہ کیا جا سکے۔"
+              ],
+              "english": [
+                "If a deal is made on the way, it remains non-binding until the owner sees the market.",
+                "Upon reaching the market, if the owner finds they were underpaid, they can cancel the deal.",
+                "This right is granted to rectify the consequences of the buyer's manipulative tactics."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سودے کی پختگی",
+              "english": "Finalization of the Deal"
+            },
+            "content": {
+              "urdu": [
+                "اگر مالک منڈی پہنچنے کے بعد بھی قیمت پر راضی رہے تو سودا برقرار رہے گا۔",
+                "شریعت کسی پر زبردستی نہیں کرتی بلکہ مکر و فریب کا خاتمہ چاہتی ہے۔",
+                "یہ قانون تاجروں میں دیانتداری اور سچائی کو رواج دیتا ہے۔"
+              ],
+              "english": [
+                "If the owner remains satisfied with the price after reaching the market, the deal stays.",
+                "Sharia does not coerce anyone but aims to eliminate fraud and trickery.",
+                "This law promotes honesty and integrity among the merchant community."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مباحث",
+        "english": "Juristic Discussions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ممانعت کی نوعیت",
+              "english": "Nature of Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "امام شافعی کے نزدیک یہ ممانعت ہر قسم کے مال کے لیے عام ہے۔",
+                "بعض فقہاء کے نزدیک یہ ممانعت صرف ضرورتِ زندگی (غلہ) کے لیے ہے۔",
+                "بنیادی مقصد 'نقصان' (ضرر) کو ختم کرنا ہے، چاہے وہ کسی بھی شے میں ہو۔"
+              ],
+              "english": [
+                "According to Imam Shafi'i, this prohibition applies generally to all goods.",
+                "Some jurists believe it is specific to essential commodities like food grains.",
+                "The core objective is to eliminate 'harm' (Dharar) regardless of the type of item."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دھوکے کی تعریف",
+              "english": "Definition of Deception"
+            },
+            "content": {
+              "urdu": [
+                "اگر خریدار راستے میں دیانتدارانہ قیمت دے تو بھی استقبال کرنا مکروہ ہے۔",
+                "نبی ﷺ نے اس کے لیے 'تلقّی' (آگے بڑھ کر ملنا) کا لفظ استعمال کر کے اس کی ممانعت کی۔",
+                "یہ بازار کے نظم و ضبط (Market Discipline) کو قائم رکھنے کا ایک اہم حصہ ہے۔"
+              ],
+              "english": [
+                "Meeting caravans is disliked even if the buyer offers a fair market price on the way.",
+                "The Prophet (PBUH) specifically used the word 'Talaqqi' (meeting) to forbid it.",
+                "This is an essential part of maintaining market discipline and order."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کاروباری اخلاقیات",
+        "english": "Business Ethics"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مڈل مین کا کردار",
+              "english": "Role of Middlemen"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایسے مڈل مین کی حوصلہ شکنی کرتا ہے جو صرف قیمتیں بڑھانے کا سبب بنتے ہیں۔",
+                "براہ راست پروڈیوسر اور صارف کے تعلق کو ترجیح دی گئی ہے۔",
+                "تجارت میں 'سہولت' پیدا کرنا نیکی ہے جبکہ 'رکاوٹ' یا 'دھوکہ' گناہ ہے۔"
+              ],
+              "english": [
+                "Islam discourages middlemen who exist solely to inflate market prices.",
+                "Direct contact between the producer and the consumer is highly preferred.",
+                "Providing facility in trade is a virtue, while causing obstruction or fraud is a sin."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی برکت",
+              "english": "Blessing of Halal Sustenance"
+            },
+            "content": {
+              "urdu": [
+                "وہ مال برکت والا ہے جس میں کسی دوسرے کی مجبوری کا فائدہ نہ اٹھایا گیا ہو۔",
+                "سچائی اور دیانتداری سے رزق کمانا اللہ کی قربت کا ذریعہ ہے۔",
+                "مسلمان تاجر کو چاہیے کہ وہ ہمیشہ دوسرے کے نفع کا بھی خیال رکھے۔"
+              ],
+              "english": [
+                "Wealth is blessed when it is earned without exploiting someone's helplessness.",
+                "Earning through truth and honesty is a means of getting closer to Allah.",
+                "A Muslim merchant should always consider the benefit of the other party."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

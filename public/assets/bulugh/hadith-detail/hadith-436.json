@@ -1,0 +1,264 @@
+{
+  "hadithId": 436,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/16/12", "bukhari/1253", "muslim/939"],
+    "kitabId": 3,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الجنائز",
+    "babId": 28
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1253، 1263، 167) ومسلم (939).",
+    "urdu": "صحیح۔ اسے امام بخاری (1253) اور امام مسلم (939) نے روایت کیا ہے۔ غسل کے طریقے اور بالوں کی مینڈھیاں بنانے کی تفصیلات بھی صحیح بخاری کی مختلف روایات میں موجود ہیں۔",
+    "english": "Sahih. Reported by Al-Bukhari (1253, 1263, 167) and Muslim (939). The details regarding the starting with the right side and braiding the hair are also found in Bukhari's narrations."
+  },
+  "importantWords": [
+    {
+      "arabic": "نُغَسِّلُ",
+      "english": "Washing",
+      "urdu": "ہم غسل دے رہے تھے"
+    },
+    {
+      "arabic": "سِدْرٍ",
+      "english": "Lote-tree leaves",
+      "urdu": "بیری کے پتے"
+    },
+    {
+      "arabic": "كَافُورًا",
+      "english": "Camphor",
+      "urdu": "کافور"
+    },
+    {
+      "arabic": "حِقْوَهُ",
+      "english": "His lower garment",
+      "urdu": "آپ کا تہبند"
+    },
+    {
+      "arabic": "أَشْعِرْنَهَا",
+      "english": "Make it the inner garment",
+      "urdu": "اسے جسم کے ساتھ لگا دو"
+    },
+    {
+      "arabic": "ضَفَّرْنَا",
+      "english": "We braided",
+      "urdu": "ہم نے مینڈھیاں بنائیں"
+    }
+  ],
+  "summary": {
+    "urdu": "میت کو غسل دینے کا مسنون طریقہ یہ ہے کہ طاق مرتبہ غسل دیا جائے، بیری اور کافور کا استعمال کیا جائے اور دائیں جانب سے وضو کے ساتھ آغاز کیا جائے۔",
+    "english": "The Sunnah method for washing the deceased involves washing an odd number of times using Sidr and camphor, starting with the right side and parts of Wudu."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الجنائز، رقم 1253",
+      "english": "Sahih al-Bukhari, Book of Funerals, Hadith 1253"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الجنائز، رقم 939",
+      "english": "Sahih Muslim, The Book of Prayer - Funerals, Hadith 939"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم عطية الأنصارية",
+        "english": "Umm 'Atiyyah al-Ansariyah"
+      },
+      "slug": "umm-atiyyah-al-ansariyah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9iY9rS_iFw",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Authentic - Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غسلِ میت کا مسنون طریقہ",
+        "english": "The Sunnah Method of Washing the Dead"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طاق مرتبہ غسل اور بیری کا استعمال",
+              "english": "Odd Number of Washes and Use of Sidr"
+            },
+            "content": {
+              "urdu": [
+                "میت کو تین، پانچ یا سات مرتبہ غسل دینا مستحب ہے تاکہ طاق عدد کی فضیلت حاصل ہو۔",
+                "پانی میں بیری کے پتے ملا کر غسل دینا جسم کی صفائی اور جلد کی بہتری کے لیے مفید ہے۔",
+                "اگر میت کا جسم زیادہ گندہ ہو تو تین سے زائد مرتبہ بھی غسل دیا جا سکتا ہے۔"
+              ],
+              "english": [
+                "It is recommended to wash the deceased three, five, or seven times to maintain an odd number.",
+                "Using water mixed with Sidr leaves is effective for cleanliness and skin preservation.",
+                "If the body is severely soiled, it can be washed more than three times as needed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضو اور دائیں جانب سے آغاز",
+              "english": "Starting with Wudu and the Right Side"
+            },
+            "content": {
+              "urdu": [
+                "غسل کا آغاز وضو کے اعضاء سے کرنا چاہیے تاکہ میت طہارت کی حالت میں رخصت ہو۔",
+                "وضو کے بعد جسم کے دائیں حصے کو بائیں حصے پر غسل میں فوقیت دی جانی چاہیے۔",
+                "یہ طریقہ کار ہر اس کام کے لیے ہے جس میں شرف اور عزت مقصود ہو۔"
+              ],
+              "english": [
+                "The washing should begin with the parts of Wudu so the deceased departs in a state of purity.",
+                "After Wudu, the right side of the body must be prioritized over the left side.",
+                "This procedure is a standard for any act intended to honor or dignify a person."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "کافور اور بالوں کی ترتیب",
+        "english": "Camphor and Hair Arrangement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کافور کے استعمال کی حکمت",
+              "english": "Wisdom Behind Using Camphor"
+            },
+            "content": {
+              "urdu": [
+                "آخری غسل میں کافور کا استعمال کرنا سنت ہے کیونکہ اس کی خوشبو دیرپا ہوتی ہے۔",
+                "کافور جسم کو ٹھنڈک پہنچاتا ہے اور اسے کیڑوں مکوڑوں سے محفوظ رکھنے میں مدد دیتا ہے۔",
+                "یہ میت کے اعضاء کو سختی فراہم کرتا ہے جس سے جسم جلد خراب نہیں ہوتا۔"
+              ],
+              "english": [
+                "Using camphor in the final wash is Sunnah because its fragrance is long-lasting.",
+                "Camphor cools the body and helps protect it from insects and decay.",
+                "It firms the tissues of the body, preventing rapid deterioration after burial."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خواتین کے بالوں کی مینڈھیاں",
+              "english": "Braiding Women's Hair"
+            },
+            "content": {
+              "urdu": [
+                "خاتون میت کے بالوں کی تین مینڈھیاں (چٹیا) بنانا اور پیچھے ڈالنا مسنون عمل ہے۔",
+                "یہ عمل میت کی زینت اور کفن کے اندر بالوں کو ترتیب سے رکھنے کے لیے ہے۔",
+                "صحابہ کرام نے اس طریقے کو آپ ﷺ کی صاحبزادی کے غسل میں اپنایا تھا۔"
+              ],
+              "english": [
+                "It is Sunnah to braid a deceased woman's hair into three plaits and place them behind her.",
+                "This act serves to beautify the deceased and keep the hair orderly within the shroud.",
+                "The Companions followed this method specifically during the washing of the Prophet's daughter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "برکت اور شفقتِ نبوی ﷺ",
+        "english": "Blessings and Prophetic Compassion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آپ ﷺ کے لباس سے برکت",
+              "english": "Seeking Blessing from the Prophet's Garment"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے اپنی بیٹی کے لیے اپنا تہبند دیا تاکہ اسے جسم کے ساتھ بطورِ برکت لگایا جائے۔",
+                "یہ آپ ﷺ کی اپنی اولاد کے لیے بے پناہ محبت اور شفقت کا عملی نمونہ ہے۔",
+                "تبرکاتِ نبوی سے برکت حاصل کرنا صحابہ کرام کے نزدیک ایک پسندیدہ عمل تھا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) gave his lower garment to be used as the inner shroud for his daughter's blessing.",
+                "This is a practical example of his immense love and compassion for his children.",
+                "Seeking blessings from the Prophet's relics was a cherished practice among the Companions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لواحقین کی رہنمائی",
+              "english": "Guidance for the Bereaved"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے خود غسل دینے والی خواتین کو تربیت دی تاکہ احکامات میں غلطی نہ ہو۔",
+                "اس سے ثابت ہوتا ہے کہ غم کے وقت بھی دین کے ضابطوں پر عمل کرنا ضروری ہے۔",
+                "اسلام نے میت کی صفائی اور وقار کے لیے جامع قوانین فراہم کیے ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) personally trained the women in washing to ensure no mistakes in the rulings.",
+                "This proves that adhering to religious regulations is necessary even during times of grief.",
+                "Islam has provided comprehensive laws for the cleanliness and dignity of the deceased."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی و فقہی نکات",
+        "english": "Practical and Juristic Points"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غسل دینے والوں کی اہلیت",
+              "english": "Qualifications of the Washer"
+            },
+            "content": {
+              "urdu": [
+                "میت کو غسل دینے والے پردے دار اور امانت دار ہونے چاہئیں جو عیب نہ اچھالیں۔",
+                "خواتین کو خواتین ہی غسل دیں گی، جیسا کہ ام عطیہ رض نے آپ ﷺ کی بیٹی کو دیا۔",
+                "غسل کے دوران میت کی ستر (پردے) کا خیال رکھنا واجب ہے۔"
+              ],
+              "english": [
+                "Those washing the dead should be discreet and trustworthy, not publicizing any defects.",
+                "Women should be washed by women, as Umm 'Atiyyah did for the Prophet's daughter.",
+                "It is obligatory to respect the private parts (Satar) of the deceased during the washing."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظافت کی اہمیت",
+              "english": "Importance of Hygiene"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میت کو آخری سفر پر نہایت پاکیزہ اور معطر حالت میں روانہ کرنا چاہتا ہے۔",
+                "بیری اور کافور کا مجموعہ جراثیم کش بھی ہے اور خوشبودار بھی۔",
+                "یہ سنتِ مطہرہ ہمیں ہر حال میں پاکیزگی اور نظم و ضبط کا سبق دیتی ہے۔"
+              ],
+              "english": [
+                "Islam intends to send the deceased on their final journey in a pure and fragrant state.",
+                "The combination of Sidr and camphor is both antiseptic and aromatic.",
+                "This purified Sunnah teaches us cleanliness and discipline in all circumstances."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

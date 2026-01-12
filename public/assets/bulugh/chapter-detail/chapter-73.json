@@ -1,0 +1,71 @@
+{
+  "chapId": 73,
+  "bookId": 8,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 930,
+    "to": 935
+  },
+  "hadiths": [
+    {
+      "id": 930,
+      "name": {
+        "arabic": "عَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { آلَى رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-مِنْ نِسَائِهِ وَحَرَّمَ, فَجَعَلَ اَلْحَرَامَ حَلَالًا , وَجَعَلَ لِلْيَمِينِ كَفَّارَةً.‏ } رَوَاهُ اَلتِّرْمِذِيُّ, وَرُوَاتُهُ ثِقَاتٌ .‏",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنی بیویوں سے ایلاء کیا اور (ان کے پاس جانا) حرام کر دیا۔ چونکہ آپ صلی اللہ علیہ وسلم نے حلال کو حرام کیا اس لئے قسم کا کفارہ مقرر فرمایا۔ اسے ترمذی نے روایت کیا۔ اس کے راوی ثقہ ہیں۔",
+        "english": "Narrated 'Aishah (RA): Allah's Messenger (ﷺ) took an oath of Ila' (to stay away) from his wives and made them forbidden (for himself). He then made what was forbidden, permissible again and prescribed an expiation (Kaffarah) for the oath."
+      }
+    },
+
+    {
+      "id": 931,
+      "name": {
+        "arabic": "وَعَنِ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { إِذَا مَضَتْ أَرْبَعَةُ أَشْهُرٍ وَقَفَ اَلْمُؤْلِي حَتَّى يُطَلِّقَ, وَلَا يَقَعُ عَلَيْهِ اَلطَّلَاقُ حَتَّى يُطَلِّقَ } .‏ أَخْرَجَهُ اَلْبُخَارِيُّ",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے روایت ہے کہ جب (ایلاء کی مدت) چار ماہ گزر جائیں تو ایلاء کرنے والے کو (حاکم وقت کے پاس) روکا جائے یہاں تک کہ وہ طلاق دے دے، اور محض مدت گزرنے سے طلاق واقع نہ ہوگی جب تک کہ وہ خود طلاق نہ دے دے۔ (بخاری)",
+        "english": "Narrated Ibn 'Umar (RA): When four months have passed, the one who made Ila' (vow of abstinence) should be detained until he divorces. The divorce does not take place automatically unless he himself pronounces it."
+      }
+    },
+
+    {
+      "id": 932,
+      "name": {
+        "arabic": "وَعَنْ سُلَيْمَانَ بْنِ يَسَارٍ قَالَ: { أَدْرَكْتُ بِضْعَةَ عَشَرَ مِنْ أَصْحَابِ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-كُلُّهُمْ يَقِفُونَ اَلْمُؤْلِي } .‏ رَوَاهُ اَلشَّافِعِيُّ",
+        "urdu": "سیدنا سلیمان بن یسار رحمہ اللہ سے مروی ہے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کے دس سے زائد صحابہ کو پایا ہے کہ وہ سب ایلاء کرنے والے کو (چار ماہ گزرنے پر) ٹھہراتے تھے (تاکہ وہ رجوع کرے یا طلاق دے)۔ اسے امام شافعی نے روایت کیا ہے۔",
+        "english": "Narrated Sulaiman bin Yasar: 'I met more than ten of the Companions of the Prophet (ﷺ) and all of them used to stop the person who had made an Ila' (after the four-month period had passed to make him decide between reconciliation or divorce).' [Reported by Ash-Shafi'i]."
+      }
+    },
+
+    {
+      "id": 933,
+      "name": {
+        "arabic": "وَعَنِ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { كَانَ إِيلَاءُ اَلْجَاهِلِيَّةِ اَلسَّنَةَ وَالسَّنَتَيْنِ, فَوَقَّتَ اَللَّهُ أَرْبَعَةَ أَشْهُرٍ, فَإِنْ كَانَ أَقَلَّ مِنْ أَرْبَعَةِ أَشْهُرٍ, فَلَيْسَ بِإِيلَاءٍ } أَخْرَجَهُ اَلْبَيْهَقِيُّ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ جاہلیت کا ایلاء سال دو سال تک ہوتا تھا۔ اللہ عزوجل نے اس کی مدت چار ماہ مقرر فرما دی۔ اب اگر چار ماہ سے کم مدت ہو تو وہ ایلاء شمار نہیں ہو گا۔ (بیہقی)",
+        "english": "Narrated Ibn 'Abbas (RA): The Ila' (vow of abstinence) in the pre-Islamic period used to last for a year or two. Allah then set a limit of four months. If the period is less than four months, it is not considered Ila'."
+      }
+    },
+
+    {
+      "id": 934,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ تَعَالَى عَنْهُمَا; { أَنَّ رَجُلًا ظَاهَرَ مِنِ اِمْرَأَتِهِ, ثُمَّ وَقَعَ عَلَيْهَا, فَأَتَى اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-فَقَالَ: إِنِّي وَقَعْتُ عَلَيْهَا قَبْلَ أَنْ أُكَفِّرَ, قَالَ: \"فَلَا تَقْرَبْهَا حَتَّى تَفْعَلَ مَا أَمَرَكَ اَللَّهُ\".‏ } رَوَاهُ اَلْأَرْبَعَةُ وَصَحَّحَهُ اَلتِّرْمِذِيُّ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے روایت ہے کہ ایک آدمی نے اپنی بیوی سے ظہار کیا اور پھر اس سے جماع کر لیا۔ پھر نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور عرض کیا کہ میں نے کفارہ کی ادائیگی سے پہلے ہی اپنی بیوی سے مباشرت کر لی ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا ”اب اس وقت تک اس کے پاس نہ جا جب تک اللہ کا ارشاد نہ پورا کر لو۔“ اسے چاروں نے روایت کیا اور ترمذی نے اسے صحیح کہا ہے۔",
+        "english": "Narrated Ibn 'Abbas (RA): A man committed Zihar (likening his wife to his mother) against his wife and then had intercourse with her. He came to the Prophet (ﷺ) and said, 'I had intercourse with her before paying the expiation.' He (the Prophet) said, 'Do not go near her until you have done what Allah commanded you to do.' [Reported by the four Imams and At-Tirmidhi graded it Sahih]."
+      }
+    },
+
+    {
+      "id": 935,
+      "name": {
+        "arabic": "وَعَنْ سَلَمَةَ بْنِ صَخْرٍ قَالَ: { دَخَلَ رَمَضَانُ, فَخِفْتُ أَنْ أُصِيبَ اِمْرَأَتِي, فَظَاهَرْتُ مِنْهَا, فَانْكَشَفَ لِي مِنْهَا شَيْءٌ لَيْلَةً, فَوَقَعَتْ عَلَيْهَا, فَقَالَ لِي رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-\"حَرِّرْ رَقَبَةً\" قُلْتُ: مَا أَمْلِكُ إِلَّا رَقَبَتِي.‏ قَالَ: \"فَصُمْ شَهْرَيْنِ مُتَتَابِعَيْنِ\", قُلْتُ: وَهَلْ أَصَبْتُ اَلَّذِي أَصَبْتُ إِلَّا مِنْ اَلصِّيَامِ? قَالَ: \"أَطْعِمْ عِرْقًا مِنْ تَمْرٍ بَيْنَ سِتِّينَ مِسْكِينًا\".‏ } أَخْرَجَهُ أَحْمَدُ, وَالْأَرْبَعَةُ إِلَّا النَّسَائِيَّ",
+        "urdu": "سیدنا سلمہ بن صخر رضی اللہ عنہ سے روایت ہے کہ رمضان المبارک شروع ہوا۔ مجھے اندیشہ لاحق ہوا کہ میں اپنی بیوی سے مباشرت کر بیٹھوں گا۔ اس اندیشہ کے پیش نظر میں نے بیوی سے ظہار کر لیا۔ ایک چاندنی رات میں اس کے بدن کی کوئی چیز میرے سامنے کھل گئی تو میں اس سے مجامعت کر بیٹھا۔ رسول اللہ صلی اللہ علیہ وسلم نے مجھے ارشاد فرمایا کہ ”ایک گردن (غلام) آزاد کر۔“ میں نے عرض کیا میں تو اپنی گردن کے سوا دوسری کسی گردن کا مالک نہیں ہوں۔ آپ صلی اللہ علیہ وسلم نے فرمایا ”تو پھر پے در پے دو ماہ کے روزے رکھ۔“ میں نے عرض کیا اس مصیبت میں روزے ہی کی وجہ سے تو مبتلا ہوا ہوں۔ آپ صلی اللہ علیہ وسلم نے فرمایا ”اچھا تو پھر کھجوروں کا ایک ٹوکرا ساٹھ مسکینوں کو کھلا دو۔“",
+        "english": "Narrated Salama bin Sakhr (RA): When Ramadan began, I feared I might have intercourse with my wife, so I pronounced Zihar against her. One night, something of her body was revealed to me and I had intercourse with her. The Messenger of Allah (ﷺ) said to me, 'Free a slave.' I said, 'I possess nothing but my own neck.' He said, 'Fast for two consecutive months.' I said, 'Was I afflicted by what afflicted me except because of fasting?' He said, 'Then feed a 'Arq (60 Sa') of dates to sixty poor people.'"
+      }
+    }
+  ]
+}

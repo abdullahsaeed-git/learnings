@@ -1,0 +1,264 @@
+{
+  "hadithId": 1006,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1156"],
+    "kitabId": 9,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام",
+    "babId": 79
+  },
+
+  "takhreej": {
+    "arabic": "ضعيف جداً. أخرجه عبد الرزاق (18514) مرسلاً، والدارقطني (3/135) موصولاً من طريق إبراهيم بن أبي يحيى وهو متروك. والحديث يعارض الأحاديث الصحيحة التي تنفي قتل المسلم بالكافر.",
+    "urdu": "یہ روایت سخت ضعیف ہے۔ عبدالرزاق نے اسے مرسل روایت کیا ہے جبکہ دارقطنی کی موصل روایت میں ابراہیم بن ابی یحییٰ نامی راوی متروک (ناقابلِ اعتبار) ہے۔ یہ متن صحیح احادیث (مثلاً: مسلمان کافر کے بدلے قتل نہیں کیا جائے گا) کے ظاہری مفہوم کے خلاف ہے۔",
+    "english": "Very Weak. Reported by Abdur-Razzaq (18514) as Mursal and Ad-Daraqutni (3/135) as Mawsul. The connected chain includes Ibrahim bin Abi Yahya, who is abandoned (Matruk). This text contradicts authentic hadiths stating a Muslim is not killed in retaliation for a disbeliever."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَتَلَ",
+      "english": "Killed / Retaliated",
+      "urdu": "قتل کیا / قصاص لیا"
+    },
+    {
+      "arabic": "مُسْلِمًا",
+      "english": "A Muslim",
+      "urdu": "ایک مسلمان"
+    },
+    {
+      "arabic": "مُعَاهِدٍ",
+      "english": "Contractual Non-Muslim",
+      "urdu": "معاہد / ذمی"
+    },
+    {
+      "arabic": "أَوْلَى",
+      "english": "Most worthy / Foremost",
+      "urdu": "زیادہ حقدار / لائق تر"
+    },
+    {
+      "arabic": "وَفَى",
+      "english": "Fulfilled",
+      "urdu": "وفا کی / پورا کیا"
+    },
+    {
+      "arabic": "بِذِمَّتِهِ",
+      "english": "His Covenant / Obligation",
+      "urdu": "اپنا عہد / ذمہ داری"
+    }
+  ],
+  "summary": {
+    "urdu": "اس روایت میں ایک مسلمان کو غیر مسلم کے بدلے قصاص میں قتل کرنے کا ذکر ہے، لیکن یہ روایت اپنی سند کے لحاظ سے سخت ضعیف ہے اور اس پر فقہی بحث موجود ہے۔",
+    "english": "This narration mentions a Muslim being killed in retaliation for a non-Muslim; however, the report is critically weak and subject to extensive juristic debate."
+  },
+  "references": [
+    {
+      "arabic": "مصنف عبد الرزاق (18514)",
+      "english": "Musannaf Abdur-Razzaq (18514)"
+    },
+    {
+      "arabic": "سنن الدارقطني (3/135)",
+      "english": "Sunan Ad-Daraqutni (3/135)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الرحمن بن البيلماني",
+        "english": "Abdur-Rahman bin al-Bailamani"
+      },
+      "slug": "abdur-rahman-bin-al-bailamani"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-P3g4T89k",
+  "grade": {
+    "arabic": "ضعيف جداً",
+    "english": "Very Weak"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "روایت کی علمی حیثیت",
+        "english": "Academic Status of the Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کی کمزوری",
+              "english": "Weakness of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت کی سند میں ابراہیم بن ابی یحییٰ ہے جو محدثین کے نزدیک ناقابلِ اعتبار ہے۔",
+                "ابن بیلمانی بھی ضعیف راوی ہے جس کی اکیلی روایت حجت نہیں بن سکتی۔",
+                "مرسل روایات ضعیف ہوتی ہیں جب تک کہ ان کی تائید دیگر صحیح ذرائع سے نہ ہو۔"
+              ],
+              "english": [
+                "The chain contains Ibrahim bin Abi Yahya, who is considered unreliable by Hadith scholars.",
+                "Ibn Bailamani is also a weak narrator whose solitary reports cannot serve as proof.",
+                "Mursal narrations are generally weak unless supported by other authentic sources."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحیح احادیث سے ٹکراؤ",
+              "english": "Conflict with Sahih Hadiths"
+            },
+            "content": {
+              "urdu": [
+                "صحیح بخاری کی روایت کے مطابق 'مسلمان کافر کے بدلے قتل نہیں کیا جائے گا'۔",
+                "یہ روایت جمہور محدثین کے نزدیک شاذ یا منکر ہے کیونکہ یہ ثابت شدہ اصولوں کے خلاف ہے۔",
+                "اصولِ حدیث کے مطابق ضعیف روایت صحیح روایت کا مقابلہ نہیں کر سکتی۔"
+              ],
+              "english": [
+                "Authentic reports in Bukhari state 'A Muslim is not killed in retaliation for a disbeliever'.",
+                "This report is considered anomalous or rejected by most scholars as it opposes established principles.",
+                "According to Hadith principles, a weak narration cannot override an authentic one."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف اور موقف",
+        "english": "Juristic Dispute and Positions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احناف کا استدلال",
+              "english": "Hanafi Reasoning"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ اس روایت اور دیگر دلائل کی بنیاد پر ذمی کے بدلے مسلمان کے قصاص کے قائل ہیں۔",
+                "ان کے نزدیک جان کی حرمت انسان ہونے کی حیثیت سے برابر ہے چاہے مذہب الگ ہو۔",
+                "احناف کے نزدیک 'معاہد' کی جان کا تحفظ ریاست کی اولین ذمہ داری ہے۔"
+              ],
+              "english": [
+                "Imam Abu Hanifa argues for retaliation of a Muslim for a Dhimmi based on such reports.",
+                "In his view, the sanctity of life is equal as humans regardless of differing religions.",
+                "Hanafis believe protecting the life of a 'Mu'ahad' is a primary state responsibility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جمہور کا موقف",
+              "english": "Majority Position"
+            },
+            "content": {
+              "urdu": [
+                "ائمہ ثلاثہ (مالک، شافعی، احمد) کے نزدیک مسلمان کو کافر کے بدلے قتل نہیں کیا جاتا۔",
+                "ان کے نزدیک اس صورت میں دیت (خون بہا) لازم ہوگی مگر قصاص (سزائے موت) نہیں۔",
+                "جمہور اپنے موقف کی بنیاد صحیح بخاری و مسلم کی مستند احادیث پر رکھتے ہیں۔"
+              ],
+              "english": [
+                "The three Imams (Malik, Shafi'i, Ahmad) hold that a Muslim is not executed for a non-Muslim.",
+                "They believe blood-money (Diyat) is mandatory in such cases, but not Qisas (death penalty).",
+                "The majority base their stance on the highly authentic reports found in Bukhari and Muslim."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ایفائے عہد کی اہمیت",
+        "english": "Importance of Fulfilling Covenants"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اسلامی ریاست کا وقار",
+              "english": "Dignity of the Islamic State"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے فرمایا کہ میں عہد پورا کرنے والوں میں سب سے بہتر ہوں۔",
+                "غیر مسلموں کو دیے گئے امان اور معاہدے کی پاسداری ایمان کا حصہ ہے۔",
+                "معاہدے کی خلاف ورزی کرنا منافقت کی نشانیوں میں سے ایک ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) stated he is the foremost in fulfilling obligations.",
+                "Upholding peace treaties and protection granted to non-Muslims is part of faith.",
+                "Violating a covenant is considered one of the signs of hypocrisy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ظلم سے ممانعت",
+              "english": "Prohibition of Oppression"
+            },
+            "content": {
+              "urdu": [
+                "غیر مسلم شہری پر ظلم کرنا ایسا ہے جیسے خود نبی ﷺ کے خلاف دشمنی کرنا۔",
+                "قیامت کے دن نبی ﷺ خود ایسے شخص کے خلاف مدعی ہوں گے جو ذمی پر ظلم کرے گا۔",
+                "عدل و انصاف کا تقاضا ہے کہ ہر مظلوم کو اس کا حق دیا جائے۔"
+              ],
+              "english": [
+                "Oppressing a non-Muslim citizen is like showing enmity towards the Prophet (ﷺ) himself.",
+                "On Judgment Day, the Prophet (ﷺ) will plead against the one who oppressed a Dhimmi.",
+                "Justice demands that every oppressed person be given their rightful due."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی و اخلاقی سبق",
+        "english": "Practical and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاملات میں احتیاط",
+              "english": "Caution in Dealings"
+            },
+            "content": {
+              "urdu": [
+                "مسلمانوں کو غیر مسلموں کے ساتھ اپنے لین دین اور رویوں میں نہایت محتاط رہنا چاہیے۔",
+                "ہمارا اچھا اخلاق ہی غیر مسلموں کے لیے اسلام کی طرف رغبت کا ذریعہ بن سکتا ہے۔",
+                "کسی کی جان لینا شرعی اجازت کے بغیر بدترین گناہ ہے۔"
+              ],
+              "english": [
+                "Muslims must be extremely careful in their transactions and attitudes toward non-Muslims.",
+                "Our good character can be a means for non-Muslims to be attracted to Islam.",
+                "Taking a life without Shariah permission is among the worst sins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحقیق کی ضرورت",
+              "english": "Need for Verification"
+            },
+            "content": {
+              "urdu": [
+                "دینی معاملات میں صرف وہی بات مانی جائے جو مستند ذرائع سے ثابت ہو۔",
+                "ضعیف روایات پر عقیدے یا بڑے شرعی قوانین کی بنیاد نہیں رکھی جا سکتی۔",
+                "علماء کی طرف رجوع کرنا اور تحقیق کرنا ہر مسلمان کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "In religious matters, only what is proven through authentic sources should be accepted.",
+                "Weak narrations cannot form the basis of creed or major Shariah laws.",
+                "It is every Muslim's responsibility to refer to scholars and conduct research."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "hadithId": 828,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/5"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (2/381)، وأبو داود (2130)، والترمذي (1091)، وابن ماجه (1905)، وابن خزيمة (1891)، وابن حبان (4054).",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام احمد، ابو داؤد، ترمذی، ابن ماجہ، ابن خزیمہ اور ابن حبان نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ahmad (2/381), Abu Dawud (2130), At-Tirmidhi (1091), Ibn Majah (1905), Ibn Khuzaimah, and Ibn Hibban. At-Tirmidhi graded it Hasan Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَفَّأَ",
+      "english": "Congratulated / Blessed",
+      "urdu": "مبارکباد دی / دعا دی"
+    },
+    {
+      "arabic": "بَارَكَ",
+      "english": "Bless / Grant Barakah",
+      "urdu": "برکت دے"
+    },
+    {
+      "arabic": "لَكَ",
+      "english": "For you",
+      "urdu": "تیرے لیے"
+    },
+    {
+      "arabic": "عَلَيْكَ",
+      "english": "Upon you",
+      "urdu": "تجھ پر"
+    },
+    {
+      "arabic": "جَمَعَ",
+      "english": "Unite / Gather",
+      "urdu": "اکٹھا کرے"
+    },
+    {
+      "arabic": "خَيْرٍ",
+      "english": "Goodness / Prosperity",
+      "urdu": "بھلائی / خیر"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں شادی کے موقع پر مسنون دعا سکھائی گئی ہے، جس میں میاں بیوی کے لیے برکت اور خیر و بھلائی کے ساتھ زندگی گزارنے کی التجا کی گئی ہے۔",
+    "english": "This Hadith teaches the Sunnah supplication for congratulating a newly married person, asking Allah for blessings and to unite the couple in goodness."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي، كتاب النكاح، رقم الحديث ١٠٩١",
+      "english": "Jami` at-Tirmidhi, Book of Marriage, Hadith No. 1091"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب النكاح، رقم الحديث ٢١٣٠",
+      "english": "Sunan Abi Dawud, Book of Marriage, Hadith No. 2130"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=S4-Yy1nQY8k",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسنون مبارکباد اور دعا",
+        "english": "Sunnah Congratulation and Dua"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شادی پر دعا کی اہمیت",
+              "english": "Importance of Dua at Marriage"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ شادی کرنے والے کو ان الفاظ کے ساتھ دعا دے کر اس کی خوشی میں شریک ہوتے تھے۔",
+                "یہ دعا ازدواجی زندگی کے آغاز میں اللہ کی رحمت اور برکت حاصل کرنے کا بہترین ذریعہ ہے۔",
+                "اسلام نے ہمیں ہر خوشی کے موقع پر ایک دوسرے کے حق میں دعا کرنے کی ترغیب دی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) would share in the joy of a newly married person by offering this specific supplication.",
+                "This prayer is the best way to seek Allah's mercy and blessings at the start of marital life.",
+                "Islam encourages us to pray for one another during every occasion of happiness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جاہلیت کے رسوم کی نفی",
+              "english": "Rejection of Pre-Islamic Customs"
+            },
+            "content": {
+              "urdu": [
+                "دورِ جاہلیت میں لوگ 'بالرفاء والبنین' (اتفاق اور بیٹوں کی مبارک) کہتے تھے جسے آپ ﷺ نے بدل دیا۔",
+                "اسلامی دعا میں بیٹے یا بیٹی کی قید کے بجائے مطلق 'خیر اور برکت' کی دعا مانگی گئی ہے۔",
+                "یہ دعا مساوات اور اللہ کی رضا پر راضی رہنے کی عکاسی کرتی ہے۔"
+              ],
+              "english": [
+                "In the pre-Islamic era, people used phrases like 'unity and sons,' which the Prophet (ﷺ) replaced.",
+                "The Islamic Dua asks for absolute 'goodness and blessing' rather than specifying the gender of children.",
+                "This prayer reflects equality and satisfaction with whatever Allah decrees."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "لفظ 'برکت' کے معانی و مطالب",
+        "english": "Meaning and Scope of 'Barakah'"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بارک اللہ لک کا مفہوم",
+              "english": "Meaning of 'Barakallahu Laka'"
+            },
+            "content": {
+              "urdu": [
+                "اس کا مطلب ہے کہ اللہ تمہاری خوشیوں اور آسانیوں میں برکت عطا فرمائے۔",
+                "یہ دعا میاں بیوی کے باہمی تعلقات میں الفت اور سکون پیدا کرنے کے لیے ہے۔",
+                "برکت سے مراد ایسی خیر ہے جو کبھی ختم نہ ہو اور ہمیشہ بڑھتی رہے۔"
+              ],
+              "english": [
+                "It means asking Allah to grant blessings within your joys and moments of ease.",
+                "This supplication aims to create affection and tranquility in the relationship between spouses.",
+                "Barakah refers to a lasting and ever-increasing goodness that never diminishes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بارک اللہ علیک کی حکمت",
+              "english": "Wisdom of 'Barakallahu Alaika'"
+            },
+            "content": {
+              "urdu": [
+                "اس کا مطلب ہے کہ اللہ مشکلات اور آزمائشوں میں بھی تم پر برکت نازل فرمائے۔",
+                "برکت کا نزول انسان کو پریشانیوں میں ثابت قدم رکھتا ہے اور صبر کی توفیق دیتا ہے۔",
+                "یہ دعا زندگی کے ہر نشیب و فراز میں اللہ کی حفاظت کی طلب ہے۔"
+              ],
+              "english": [
+                "It means asking Allah to send blessings upon you even during trials and difficulties.",
+                "The descent of Barakah keeps a person steadfast and grants them the ability to be patient.",
+                "This prayer seeks Allah's protection throughout all the ups and downs of life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اتفاق اور خیر پر اجتماع",
+        "english": "Unity and Gathering in Goodness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خیر پر جمع ہونے کی دعا",
+              "english": "Dua to Unite in Goodness"
+            },
+            "content": {
+              "urdu": [
+                "دعا کا آخری حصہ 'جمع بینكما في خير' میاں بیوی کے اتحاد اور اتفاق کے لیے ہے۔",
+                "خیر سے مراد ایمان، نیک اولاد، رزقِ حلال اور جنت کا ساتھ ہے۔",
+                "اللہ سے التجا ہے کہ ان کا ساتھ دنیا اور آخرت دونوں میں بھلائی پر مبنی ہو۔"
+              ],
+              "english": [
+                "The final part of the Dua seeks unity and harmony between the husband and wife.",
+                "'Goodness' encompasses faith, righteous offspring, lawful provision, and companionship in Jannah.",
+                "It is a plea to Allah that their union remains based on virtue in both this world and the hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "میاں بیوی کی باہمی موافقت",
+              "english": "Mutual Compatibility of Spouses"
+            },
+            "content": {
+              "urdu": [
+                "ازدواجی زندگی کی کامیابی کے لیے میاں بیوی کا ایک دوسرے کے لیے سازگار ہونا ضروری ہے۔",
+                "یہ دعا دونوں کے دلوں کو ایک دوسرے کے لیے نرم کرنے کا ذریعہ ہے۔",
+                "خیر پر جمع ہونا انسان کو شیطانی وسوسوں اور جدائی سے بچاتا ہے۔"
+              ],
+              "english": [
+                "For a successful marital life, it is essential for spouses to be compatible and supportive.",
+                "This supplication serves as a means to soften the hearts of both partners toward each other.",
+                "Gathering in goodness protects individuals from satanic whispers and the threat of separation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی آداب اور اخلاق",
+        "english": "Social Etiquettes and Ethics"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسلمانوں کے مابین خیر خواہی",
+              "english": "Goodwill Among Muslims"
+            },
+            "content": {
+              "urdu": [
+                "دوسروں کی خوشی میں دل سے شریک ہونا اور دعا دینا اعلیٰ اخلاق کی نشانی ہے۔",
+                "اس سے مسلمانوں کے درمیان محبت اور بھائی چارے کے جذبات پروان چڑھتے ہیں۔",
+                "نبی ﷺ کا طریقہ ہمیں سکھاتا ہے کہ دوسروں کے لیے ہمیشہ بہترین تمنائیں رکھیں۔"
+              ],
+              "english": [
+                "Participating sincerely in others' joy and offering prayers is a sign of noble character.",
+                "This fosters feelings of love and brotherhood among members of the Muslim community.",
+                "The Prophet's (ﷺ) methodology teaches us to always hold the best wishes for others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت پر عمل کی برکات",
+              "english": "Blessings of Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "روایتی مبارکبادوں کے بجائے مسنون الفاظ کا استعمال زیادہ اجر کا باعث ہے۔",
+                "سنت کے الفاظ میں جو جامعیت اور گہرائی ہے وہ انسانی کلام میں ممکن نہیں۔",
+                "مومن کو چاہیے کہ وہ اپنی گفتگو اور دعاؤں میں نبی ﷺ کے بتائے ہوئے طریقے کو اپنائے۔"
+              ],
+              "english": [
+                "Using Sunnah phrases instead of conventional greetings results in greater rewards.",
+                "The comprehensiveness and depth found in Sunnah words are impossible in human speech.",
+                "A believer should adopt the Prophet's (ﷺ) prescribed ways in their speech and prayers."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

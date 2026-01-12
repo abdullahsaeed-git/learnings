@@ -1,0 +1,259 @@
+{
+  "hadithId": 391,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-391"],
+    "kitabId": 2,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 24
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (964)‏، ومسلم (884)‏، وأبو داود (1159)‏، والنسائي (3/193)‏، والترمذي (537)‏، وابن ماجه (1291)‏، وأحمد (3153).",
+    "urdu": "یہ حدیث صحیح ہے اور تمام کتبِ صحاح میں موجود ہے۔ امام بخاری اور مسلم سمیت محدثین کے بڑے طبقے نے اسے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (964), Muslim (884), Abu Dawud (1159), An-Nasa'i (3/193), At-Tirmidhi (537), Ibn Majah (1291), and Ahmad (3153)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَوْمَ اَلْعِيدِ",
+      "english": "The day of Eid",
+      "urdu": "عید کا دن"
+    },
+    {
+      "arabic": "رَكْعَتَيْنِ",
+      "english": "Two units of prayer",
+      "urdu": "دو رکعتیں"
+    },
+    {
+      "arabic": "لَمْ يُصَلِّ",
+      "english": "He did not pray",
+      "urdu": "نماز نہیں پڑھی"
+    },
+    {
+      "arabic": "قَبْلَهَا",
+      "english": "Before it",
+      "urdu": "اس سے پہلے"
+    },
+    {
+      "arabic": "بَعْدَهَا",
+      "english": "After it",
+      "urdu": "اس کے بعد"
+    }
+  ],
+  "summary": {
+    "urdu": "عید کی نماز صرف دو رکعت ہے اور اس کے ساتھ کوئی سنن یا نوافل عید گاہ میں ادا کرنا ثابت نہیں ہے۔",
+    "english": "The Eid prayer consists of only two rak'as, and no voluntary prayers are to be offered before or after it in the prayer area."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (964)",
+      "english": "Sahih al-Bukhari (964)"
+    },
+    {
+      "arabic": "صحيح مسلم (884)",
+      "english": "Sahih Muslim (884)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=sunnah+prayer+before+after+eid+prayer+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عید گاہ میں نوافل کا حکم",
+        "english": "Ruling on Voluntary Prayers at Eidgah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ نبوی کا اتباع",
+              "english": "Following the Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے عید گاہ پہنچ کر صرف عید کی دو رکعتیں ادا فرمائیں۔",
+                "آپ ﷺ سے عید کی نماز سے قبل یا بعد عید گاہ میں کوئی نفل ثابت نہیں۔",
+                "مسلمانوں کے لیے یہی طریقہ باعثِ اجر اور سنت کی پیروی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) offered only the two rak'as of Eid at the prayer ground.",
+                "No voluntary prayers before or after Eid are established from him at the Musalla.",
+                "Following this method is a source of reward and adherence to the Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز کی نوعیت",
+              "english": "Nature of the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "عید کی نماز اپنی ذات میں ایک مستقل اور مکمل عبادت ہے۔",
+                "اس کے لیے کوئی مخصوص سننِ مؤکدہ یا نوافل مقرر نہیں کیے گئے۔",
+                "عید گاہ میں اذان اور اقامت بھی نہیں دی جاتی جو اسے منفرد بناتی ہے۔"
+              ],
+              "english": [
+                "The Eid prayer is an independent and complete act of worship.",
+                "No specific stressed Sunnahs or voluntary units are fixed for it.",
+                "The absence of Adhan and Iqamah further distinguishes this prayer."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "گھر میں نوافل ادا کرنا",
+        "english": "Voluntary Prayers at Home"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گھر واپسی پر عمل",
+              "english": "Action Upon Returning Home"
+            },
+            "content": {
+              "urdu": [
+                "بعض روایات سے ثابت ہے کہ آپ ﷺ گھر واپس آکر دو رکعت پڑھتے تھے۔",
+                "ممانعت صرف عید گاہ کے اندر نفل پڑھنے کی ہے تاکہ عید کی نماز ممتاز رہے۔",
+                "گھر میں نوافل پڑھنا منع نہیں ہے اور اسے مستحب سمجھا جا سکتا ہے۔"
+              ],
+              "english": [
+                "Some narrations state the Prophet (ﷺ) prayed two units upon returning home.",
+                "The prohibition is specifically for the prayer ground to keep Eid distinct.",
+                "Praying at home is not forbidden and can be considered recommended."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی تفریق",
+              "english": "Juristic Distinction"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک عید گاہ میں نوافل مکروہ ہیں تاکہ کوئی اسے عید کا حصہ نہ سمجھے۔",
+                "عام جگہوں پر نفل پڑھنے میں کوئی شرعی رکاوٹ نہیں ہے۔",
+                "عید گاہ کا احترام مسجد کی طرح ہے مگر عید کی سنتیں وہاں نہیں ہیں۔"
+              ],
+              "english": [
+                "Jurists view voluntary units at the Musalla as disliked to avoid confusion.",
+                "There is no religious barrier to praying voluntary units in general places.",
+                "While the Musalla is respected like a mosque, specific Eid Sunnahs don't exist."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اجتماعیت اور سادگی",
+        "english": "Collectivity and Simplicity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وقت کی پابندی",
+              "english": "Observance of Timing"
+            },
+            "content": {
+              "urdu": [
+                "عید کی نماز کے لیے جلدی جانا اور ذکر و اذکار میں مشغول رہنا سنت ہے۔",
+                "نوافل کے بجائے تکبیرات کہنا اس دن کا مخصوص شعار ہے۔",
+                "لوگوں کا ایک ساتھ جمع ہونا اور ایک ہی وقت نماز پڑھنا اتحاد کی علامت ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to go early for Eid and engage in remembrance and Takbirat.",
+                "Reciting Takbirat is the specific hallmark of this day rather than Nawafil.",
+                "Gathering and praying together at once signifies communal unity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں غلو سے بچاؤ",
+              "english": "Avoiding Extremism in Religion"
+            },
+            "content": {
+              "urdu": [
+                "عبادات میں اپنی طرف سے اضافہ کرنا سنت کے خلاف عمل ہے۔",
+                "نبی ﷺ کا عمل ہمیں بتاتا ہے کہ بندگی میں اعتدال ہی اصل روح ہے۔",
+                "دین کو ویسا ہی اپنائیں جیسا رسول اللہ ﷺ نے سکھایا ہے۔"
+              ],
+              "english": [
+                "Adding units of worship on one's own is against the Sunnah.",
+                "The Prophet's (ﷺ) action shows that moderation is the spirit of devotion.",
+                "Adopt the religion exactly as the Messenger of Allah (ﷺ) taught it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی اور تربیتی پہلو",
+        "english": "Educational and Training Aspect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباع کا مفہوم",
+              "english": "Meaning of Adherence"
+            },
+            "content": {
+              "urdu": [
+                "اتباع کا مطلب صرف کرنا نہیں بلکہ ضرورت پڑنے پر نہ کرنا بھی ہے۔",
+                "جہاں آپ ﷺ نے نہیں پڑھا، وہاں نہ پڑھنا ہی اتباعِ رسول ﷺ ہے۔",
+                "یہ تربیت مومن کو شریعت کے حدود کا پابند بناتی ہے۔"
+              ],
+              "english": [
+                "Adherence means doing as commanded and refraining where instructed.",
+                "Refraining where the Prophet (ﷺ) refrained is the true essence of following.",
+                "This training makes a believer disciplined within the boundaries of Sharia."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذکر و دعا کی ترجیح",
+              "english": "Priority of Remembrance and Dua"
+            },
+            "content": {
+              "urdu": [
+                "عید کے دن کثرت سے تکبیریں کہنا اور دعا کرنا مطلوب ہے۔",
+                "نماز کے بعد خطبہ سننا اور مسلمانوں کے لیے دعا کرنا برکت کا باعث ہے۔",
+                "یہ سنتیں ہمیں خوشی کے لمحات میں بھی بندگی کا سلیقہ سکھاتی ہیں۔"
+              ],
+              "english": [
+                "Reciting Takbirat and supplicating frequently is desired on Eid day.",
+                "Listening to the sermon and praying for Muslims brings immense blessing.",
+                "These Sunnahs teach us the etiquette of devotion during moments of joy."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

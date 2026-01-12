@@ -1,0 +1,173 @@
+{
+  "hadithId": 748,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/116"],
+    "kitabId": 7,
+    "inKitabBab": 9,
+    "arabicBook": "كتاب البيوع",
+    "babId": 50
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1218) في حديث جابر الطويل في صفة حج النبي صلى الله عليه وسلم. ",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم نے اسے اپنی صحیح (1218) میں سیدنا جابر رضی اللہ عنہ کی حجۃ الوداع والی طویل حدیث کے حصے کے طور پر روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (1218) as part of a long Hadith narrated by Jabir regarding the description of the Prophet's (ﷺ) Hajj."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَحَرَ",
+      "english": "Sacrificed / Slaughtered",
+      "urdu": "نحر کیا (اونٹ کو کھڑے کھڑے ذبح کرنا)"
+    },
+    {
+      "arabic": "ثَلَاثًا وَسِتِّينَ",
+      "english": "Sixty-three",
+      "urdu": "تریسٹھ"
+    },
+    {
+      "arabic": "الْبَاقِيَ",
+      "english": "The remainder",
+      "urdu": "باقی ماندہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ انسان اپنی قربانی یا ذبیحہ کے لیے کسی دوسرے کو وکیل بنا سکتا ہے، نیز یہ نبی ﷺ کی عمرِ مبارک کے مطابق اونٹوں کی تعداد کی ایک خوبصورت مناسبت ہے۔",
+    "english": "This Hadith proves the permissibility of appointing a proxy (Wakala) for slaughtering sacrificial animals and highlights the coincidence of the number of camels with the Prophet's (ﷺ) age."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الحج",
+      "english": "Sahih Muslim, Book of Hajj"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله الأنصاري",
+        "english": "Jabir bin Abdullah al-Ansari"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R41_fUv9C3I",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "وکالت فی الذبح (ذبح میں وکیل بنانا)",
+        "english": "Agency in Slaughtering"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دوسرے سے ذبح کروانا",
+              "english": "Slaughtering through another"
+            },
+            "content": {
+              "urdu": [
+                "قربانی کا جانور خود ذبح کرنا افضل ہے، لیکن کسی دوسرے کو وکیل بنانا بھی مکمل طور پر جائز ہے۔",
+                "نبی ﷺ نے کثیر تعداد میں اونٹ ہونے کی وجہ سے بقیہ کی ذمہ داری حضرت علی کو سونپی۔",
+                "یہ اس بات کی دلیل ہے کہ عباداتِ مالیہ میں نیابت یا وکالت درست ہے۔"
+              ],
+              "english": [
+                "While it is better to slaughter one's own sacrifice, appointing a proxy is fully permissible.",
+                "Due to the large number of camels, the Prophet (ﷺ) entrusted the remainder to 'Ali (RA).",
+                "This serves as evidence that representation (Agency) is valid in financial/physical acts of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عددی مناسبت اور برکت",
+        "english": "Numerical Significance and Blessing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تریسٹھ اونٹ اور عمرِ مبارک",
+              "english": "63 Camels and Prophet's Age"
+            },
+            "content": {
+              "urdu": [
+                "علماء نے لکھا ہے کہ تریسٹھ اونٹوں کا انتخاب آپ ﷺ کی عمرِ مبارک کے ہر سال کے بدلے ایک اونٹ کے طور پر تھا۔",
+                "یہ آپ ﷺ کی طرف سے اللہ کے شکر کا اظہار تھا کہ اس نے اتنی عمر عطا فرمائی۔",
+                "کل ایک سو (100) اونٹ تھے، جن میں سے 37 حضرت علی نے ذبح کیے۔"
+              ],
+              "english": [
+                "Scholars note that the 63 camels corresponded to each year of the Prophet's (ﷺ) life.",
+                "This was an expression of gratitude to Allah for the lifespan granted to him.",
+                "The total was 100 camels, of which 37 were slaughtered by 'Ali (RA)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نحر اور ذبح کا فرق",
+        "english": "Difference between Nahr and Dhabh"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طریقہ کار",
+              "english": "Procedure"
+            },
+            "content": {
+              "urdu": [
+                "اونٹ کے لیے سنت طریقہ 'نحر' ہے، یعنی اسے کھڑے رکھ کر سینے کے قریب خنجر مارنا۔",
+                "گائے اور بکری کے لیے 'ذبح' کا طریقہ ہے، یعنی لٹا کر گردن کاٹنا۔",
+                "حدیث میں 'نحر' کا لفظ اونٹ کی مخصوص ذبح کے لیے استعمال ہوا ہے۔"
+              ],
+              "english": [
+                "The Sunnah for camels is 'Nahr' (stabbing at the base of the neck while standing).",
+                "For cows and sheep, 'Dhabh' (slaughtering while lying down) is the method.",
+                "The term 'Nahr' in the Hadith specifically refers to the camel's mode of slaughter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ٹیم ورک اور تعاون",
+              "english": "Teamwork and Cooperation"
+            },
+            "content": {
+              "urdu": [
+                "بڑے کاموں میں کام بانٹ لینا سنتِ نبوی ہے تاکہ بوجھ تقسیم ہو سکے۔",
+                "اپنے قریبی اعتماد والے لوگوں کو ذمہ داریاں سونپنا بہتر انتظام کی علامت ہے۔",
+                "دین کے کاموں میں دوسروں کو شریک کرنا ان کی تربیت کا بھی ذریعہ بنتا ہے۔"
+              ],
+              "english": [
+                "Delegating tasks in large-scale works is a Sunnah to distribute the load.",
+                "Entrusting responsibilities to reliable close associates is a mark of good management.",
+                "Involving others in religious duties also serves as a means of training them."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

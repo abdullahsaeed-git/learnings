@@ -1,0 +1,259 @@
+{
+  "hadithId": 1070,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/10/20"],
+    "kitabId": 10,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الحدود",
+    "babId": 87
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (2003)، وأبو داود (3679)، والترمذي (1861)، والنسائي (5585).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (2003) میں روایت کیا ہے۔ دیگر کتبِ سنن میں بھی یہ معتبر سند کے ساتھ موجود ہے۔",
+    "english": "Sahih. Reported by Muslim (2003), Abu Dawud (3679), At-Tirmidhi (1861), and An-Nasa'i (5585)."
+  },
+  "importantWords": [
+    {
+      "arabic": "كُلُّ",
+      "english": "Every/All",
+      "urdu": "ہر ایک"
+    },
+    {
+      "arabic": "مُسْكِرٍ",
+      "english": "Intoxicant",
+      "urdu": "نشہ آور"
+    },
+    {
+      "arabic": "خَمْرٌ",
+      "english": "Wine/Liquor",
+      "urdu": "شراب"
+    },
+    {
+      "arabic": "حَرَامٌ",
+      "english": "Forbidden",
+      "urdu": "حرام"
+    },
+    {
+      "arabic": "أَخْرَجَهُ",
+      "english": "Related/Reported it",
+      "urdu": "اسے روایت کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث ایک جامع قاعدہ بیان کرتی ہے کہ جو بھی چیز عقل کو مدہوش کرے وہ شراب کے حکم میں ہے اور اس کا استعمال قطعی حرام ہے۔",
+    "english": "This Hadith establishes a universal rule: any substance that causes intoxication is classified as 'Khamr' and is strictly prohibited in Islam."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (2003)",
+      "english": "Sahih Muslim (2003)"
+    },
+    {
+      "arabic": "سنن أبي داود (3679)",
+      "english": "Sunan Abi Dawud (3679)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kx8iG8uW4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اصولی قاعدہ",
+        "english": "Fundamental Principle"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نشہ اور حرمت کا تعلق",
+              "english": "Link between Intoxication and Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'مسکر' (نشہ آور) کو حرمت کی بنیادی وجہ قرار دیا گیا ہے۔",
+                "اگر کسی مشروب میں نشے کی صفت پائی جائے تو وہ خود بخود حرام ہو جاتا ہے۔",
+                "یہ قاعدہ تمام نئے دور کی منشیات پر بھی لاگو ہوتا ہے۔"
+              ],
+              "english": [
+                "The Hadith identifies 'intoxication' as the primary cause for prohibition.",
+                "If any drink possesses intoxicating properties, it automatically becomes forbidden.",
+                "This principle applies equally to all modern-day synthetic drugs and narcotics."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نام کی اہمیت نہیں",
+              "english": "Names are Irrelevant"
+            },
+            "content": {
+              "urdu": [
+                "کسی چیز کا نام بدل دینے سے اس کا شرعی حکم تبدیل نہیں ہوتا۔",
+                "چاہے اسے شراب کہیں یا کوئی اور جدید نام، نشہ ہونے کی صورت میں وہ 'خمر' ہے۔",
+                "شریعت ظاہری ناموں کے بجائے اشیاء کی حقیقت اور اثرات پر حکم لگاتی ہے۔"
+              ],
+              "english": [
+                "Changing the name of a substance does not alter its legal status in Shariah.",
+                "Whether called wine or a modern brand name, if it intoxicates, it is 'Khamr'.",
+                "Islamic law judges based on the reality and effects of a substance, not labels."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عقل کی حفاظت",
+        "english": "Protection of the Intellect"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عقل اللہ کی نعمت ہے",
+              "english": "Intellect is a Blessing"
+            },
+            "content": {
+              "urdu": [
+                "عقل وہ بنیادی جوہر ہے جو انسان کو حیوانات سے ممتاز کرتا ہے۔",
+                "شراب عقل کو ڈھانپ لیتی ہے جس سے انسان اپنے نفع نقصان کی تمیز کھو دیتا ہے۔",
+                "حرمتِ خمر کا بڑا مقصد انسانی عقل اور شعور کی حفاظت کرنا ہے۔"
+              ],
+              "english": [
+                "Intellect is the core faculty that distinguishes humans from animals.",
+                "Wine clouds the mind, causing a person to lose the ability to judge benefit from harm.",
+                "A major objective of prohibiting intoxicants is to safeguard human consciousness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی امن",
+              "english": "Social Peace"
+            },
+            "content": {
+              "urdu": [
+                "نشے کی حالت میں انسان لڑائی جھگڑے اور بے حیائی جیسے جرائم کا ارتکاب کرتا ہے۔",
+                "شراب نوشی سے خاندان تباہ ہوتے ہیں اور معاشرے کا امن غارت ہوتا ہے۔",
+                "نشے پر پابندی دراصل ایک پرامن اور باوقار معاشرے کی بنیاد ہے۔"
+              ],
+              "english": [
+                "Under the influence, individuals often commit crimes like violence and indecency.",
+                "Alcoholism leads to the destruction of families and ruins societal peace.",
+                "The ban on intoxicants is effectively the foundation of a peaceful and dignified society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی وسعت",
+        "english": "Jurisprudential Breadth"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جامد اشیاء کا حکم",
+              "english": "Ruling on Solid Substances"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک صرف مائع ہی نہیں بلکہ ٹھوس نشہ آور چیزیں بھی حرام ہیں۔",
+                "افیون، چرس اور ہیروئن وغیرہ اسی 'کل مسکر' کے زمرے میں آتی ہیں۔",
+                "ہر وہ چیز جو حواسِ خمسہ کو معطل کر دے، اس کا استعمال ناجائز ہے۔"
+              ],
+              "english": [
+                "Jurists agree that not only liquids but solid intoxicants are also forbidden.",
+                "Opium, hashish, and heroin fall under the category of 'every intoxicant'.",
+                "Any substance that suspends the five senses is considered impermissible to use."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قلیل اور کثیر",
+              "english": "Small vs. Large Quantities"
+            },
+            "content": {
+              "urdu": [
+                "جس چیز کی زیادہ مقدار نشہ لائے، اس کی تھوڑی مقدار بھی حرام ہے۔",
+                "یہ شبہ غلط ہے کہ اگر تھوڑی مقدار سے نشہ نہ ہو تو وہ حلال ہے۔",
+                "اسلام نے برائی کے راستے کو شروع سے ہی مسدود کر دیا ہے۔"
+              ],
+              "english": [
+                "Whatever intoxicates in large amounts is forbidden even in small quantities.",
+                "The misconception that a small non-intoxicating dose is Halal is rejected.",
+                "Islam blocks the path to evil right from its very inception."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخروی انجام",
+        "english": "Consequences in the Hereafter"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنت کی شراب سے محرومی",
+              "english": "Deprivation of Paradise Wine"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے مطابق دنیا میں توبہ کے بغیر شراب پینے والا آخرت میں اس سے محروم رہے گا۔",
+                "جنت کی شراب پاکیزہ ہوگی اور اس میں دنیاوی شراب جیسی غلاظت نہیں ہوگی۔",
+                "دنیا کی عارضی لذت کے لیے ابدی نعمتوں کو ضائع کرنا بڑی نادانی ہے۔"
+              ],
+              "english": [
+                "According to Hadith, one who drinks wine without repenting will be deprived in the Hereafter.",
+                "The wine of Paradise will be pure and free from the filth of worldly intoxicants.",
+                "Wasting eternal blessings for temporary worldly pleasure is profound foolishness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تقویٰ اور پرہیزگاری",
+              "english": "Piety and Abstinence"
+            },
+            "content": {
+              "urdu": [
+                "ایک مومن کو چاہیے کہ وہ ہر مشتبہ اور نشہ آور چیز سے دور رہے۔",
+                "جسمانی اور روحانی صحت کے لیے نشہ سے پاک زندگی گزارنا ضروری ہے۔",
+                "اللہ کی اطاعت میں ہی حقیقی سکون اور فلاحِ دارین موجود ہے۔"
+              ],
+              "english": [
+                "A believer should stay away from all doubtful and intoxicating substances.",
+                "Living a drug-free life is essential for both physical and spiritual health.",
+                "True peace and success in both worlds lie solely in the obedience of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

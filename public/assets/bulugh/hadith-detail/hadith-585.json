@@ -1,0 +1,255 @@
+{
+  "hadithId": 585,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/585"],
+    "kitabId": 6,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 36
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1852)، والنسائي (2632).",
+    "urdu": "صحیح۔ اسے امام بخاری نے (1852) پر روایت کیا ہے۔ یہ حدیث میت کی طرف سے حجِ نذر کی ادائیگی پر صریح دلیل ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1852) and An-Nasa'i (2632). It is a clear evidence for performing Hajj on behalf of the deceased."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَذَرَتْ",
+      "english": "Vowed",
+      "urdu": "منت مانی / نذر مانی"
+    },
+    {
+      "arabic": "دَيْنٌ",
+      "english": "Debt",
+      "urdu": "قرض / ادھار"
+    },
+    {
+      "arabic": "قَاضِيَتَهُ",
+      "english": "Paying it off",
+      "urdu": "اسے ادا کرنے والی"
+    },
+    {
+      "arabic": "أَحَقُّ",
+      "english": "More deserving",
+      "urdu": "زیادہ حقدار"
+    },
+    {
+      "arabic": "بِالْوَفَاءِ",
+      "english": "To be fulfilled",
+      "urdu": "وفا کرنے کا / پورا کرنے کا"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کوئی شخص نذر کا حج یا فرض حج ادا کیے بغیر فوت ہو جائے تو اس کے ورثاء پر لازم ہے کہ اس کی طرف سے حج ادا کریں، کیونکہ اللہ کا حق قرض کی مانند ہے۔",
+    "english": "If a person dies without fulfilling a vowed or obligatory Hajj, the heirs should perform it on their behalf, as Allah's rights are like debts that must be settled."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1852)",
+      "english": "Reported by Al-Bukhari (1852)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "میت کی طرف سے حجِ بدل",
+        "english": "Hajj on Behalf of the Deceased"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حجِ نذر کی ادائیگی",
+              "english": "Fulfilling a Vowed Hajj"
+            },
+            "content": {
+              "urdu": [
+                "نذر (منت) مانی ہوئی عبادت انسان پر واجب ہو جاتی ہے جسے پورا کرنا ضروری ہے۔",
+                "اگر انسان اپنی زندگی میں اسے پورا نہ کر سکے تو اس کے ورثاء کو اس کی طرف سے ادائیگی کرنی چاہیے۔",
+                "یہ حدیث واضح کرتی ہے کہ میت کے نیک ارادوں کو پورا کرنا اولاد کی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "A vowed act of worship becomes obligatory upon a person and must be fulfilled.",
+                "If an individual dies before fulfilling it, their heirs should settle it on their behalf.",
+                "This Hadith clarifies that fulfilling the righteous intentions of the deceased is a responsibility of the offspring."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حج کی نیابت کا جواز",
+              "english": "Permissibility of Proxy Hajj"
+            },
+            "content": {
+              "urdu": [
+                "بدنی اور مالی عبادات میں نیابت (دوسرے کی طرف سے ادائیگی) ممکن ہے۔",
+                "حج ایک ایسی عبادت ہے جو مرنے والے کی طرف سے دوسرا شخص انجام دے سکتا ہے۔",
+                "شرط یہ ہے کہ حج کرنے والا پہلے اپنا فرض حج ادا کر چکا ہو۔"
+              ],
+              "english": [
+                "Substitution (performing on behalf of another) is possible in physical-financial acts of worship.",
+                "Hajj is an act of worship that can be performed by another person for the deceased.",
+                "The condition is that the proxy performer must have already completed their own obligatory Hajj."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کا حق اور انسانی قرض",
+        "english": "Allah's Right and Human Debt"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرض سے تشبیہ کی حکمت",
+              "english": "Wisdom of Debt Analogy"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اللہ کے حق کو بندوں کے قرض سے تشبیہ دے کر اس کی اہمیت واضح فرمائی۔",
+                "جس طرح انسانوں کا قرض مرنے کے بعد بھی ختم نہیں ہوتا، اللہ کا حق بھی باقی رہتا ہے۔",
+                "اس سے معلوم ہوا کہ عبادات کی ادائیگی میں سستی نہیں کرنی چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) compared Allah's right to human debt to emphasize its critical importance.",
+                "Just as human debts are not cancelled by death, Allah's rights remain due.",
+                "This indicates that one should not be negligent in performing acts of worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ترجیحات کا تعین",
+              "english": "Determining Priorities"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کا حق ادائیگی کے معاملے میں سب سے زیادہ مقدم ہے۔",
+                "اگر میت نے مال چھوڑا ہے تو سب سے پہلے اس کے واجبات (حج، زکوٰۃ وغیرہ) ادا کیے جائیں۔",
+                "وارثین کو چاہیے کہ وہ وراثت کی تقسیم سے پہلے میت کے شرعی قرضے اتاریں۔"
+              ],
+              "english": [
+                "Allah's rights are the most deserving of being settled first.",
+                "If the deceased left wealth, their religious obligations (Hajj, Zakat) should be settled first.",
+                "Heirs must settle the Sharia-based debts of the deceased before distributing inheritance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام و مسائل",
+        "english": "Juristic Rulings and Issues"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نذر اور فرض کا حکم",
+              "english": "Ruling on Vows and Obligations"
+            },
+            "content": {
+              "urdu": [
+                "نذر کا حج پورا کرنا واجب ہے اور اس حدیث نے اسے فرض کی طرح قرار دیا ہے۔",
+                "جمہور علماء کے نزدیک فرض حج بھی نذر کی طرح میت کے ترکے سے ادا کیا جائے گا۔",
+                "یہ حکم ان لوگوں کے لیے ہے جن پر حج واجب ہو چکا تھا مگر وہ ادا نہ کر سکے۔"
+              ],
+              "english": [
+                "Fulfilling a vowed Hajj is mandatory, and this Hadith treats it like a debt.",
+                "Majority scholars hold that obligatory Hajj should also be paid from the deceased's estate.",
+                "This ruling applies to those for whom Hajj had become mandatory but they failed to perform it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اولاد کی نیکی",
+              "english": "The Virtue of Offspring"
+            },
+            "content": {
+              "urdu": [
+                "اولاد کا اپنے والدین کی طرف سے حج کرنا ان کے ساتھ حسنِ سلوک (برّ) کی بہترین شکل ہے۔",
+                "اولاد کی طرف سے کیا گیا نیک عمل والدین کے درجات کی بلندی کا سبب بنتا ہے۔",
+                "یہ حدیث خاندانی وفاداری اور دینی ذمہ داری کے توازن کو اجاگر کرتی ہے۔"
+              ],
+              "english": [
+                "Offspring performing Hajj for parents is a supreme form of kindness (Birr).",
+                "Righteous deeds performed by children contribute to raising the ranks of parents.",
+                "This Hadith highlights the balance between family loyalty and religious duty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی تربیت اور خلاصہ",
+        "english": "Practical Training and Summary"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیکی میں جلدی",
+              "english": "Hastening Toward Good"
+            },
+            "content": {
+              "urdu": [
+                "انسان کو چاہیے کہ جب بھی نیکی کی توفیق ملے، اسے فوراً انجام دے۔",
+                "موت کا وقت کسی کو معلوم نہیں، اس لیے واجبات کی ادائیگی میں تاخیر خطرناک ہے۔",
+                "نذر ماننے میں احتیاط کرنی چاہیے مگر مان لی جائے تو اسے پورا کرنا فرض ہے۔"
+              ],
+              "english": [
+                "A person should perform a good deed immediately when given the opportunity.",
+                "The time of death is unknown; hence delaying obligatory acts is dangerous.",
+                "One should be cautious in making vows, but once made, fulfilling them is a duty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علمی سوالات کا اسلوب",
+              "english": "Methodology of Scholarly Inquiry"
+            },
+            "content": {
+              "urdu": [
+                "قبیلہ جھینہ کی عورت کا سوال اس کی اپنی ماں کے لیے فکر مندی کو ظاہر کرتا ہے۔",
+                "نبی ﷺ نے عقلی مثال (قرض) دے کر بات کو دل نشین بنا دیا تاکہ اطمینان حاصل ہو۔",
+                "دین کو سمجھنے کے لیے روزمرہ کی مثالیں دینا سنتِ نبوی ہے۔"
+              ],
+              "english": [
+                "The question from the woman of Juhainah shows her deep concern for her mother.",
+                "The Prophet (ﷺ) used a rational example (debt) to satisfy her mind and heart.",
+                "Using daily life analogies to explain religion is a Prophetic Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

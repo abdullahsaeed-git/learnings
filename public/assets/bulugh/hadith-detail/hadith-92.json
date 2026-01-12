@@ -1,0 +1,282 @@
+{
+  "hadithId": 92,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 16 (related context)"],
+    "kitabId": 1,
+    "inKitabBab": 7,
+    "arabicBook": "كتاب الطهارة",
+    "babId": 7
+  },
+
+  "takhreej": {
+    "arabic": "ضعيف.  رواه ابن ماجه (326) .  وقد حكم الأئمة بضعفه، لجهالة يزيد بن يزداد.",
+    "urdu": "ضعیف (کمزور) روایت۔ اسے ابن ماجہ (326) نے روایت کیا ہے۔ ائمہ حدیث نے اسے ضعیف قرار دیا ہے کیونکہ اس کی سند میں یزید بن یزداد مجہول (نامعلوم) ہیں۔",
+    "english": "Da'if (Weak) narration. Reported by Ibn Majah (326). The Imams of Hadith have ruled it weak due to the unknown status (Jahalah) of Yazid ibn Yazdad in the chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَالَ",
+      "english": "He urinates/relieves himself",
+      "urdu": "پیشاب کرے"
+    },
+    {
+      "arabic": "فَلْيَنْثُرْ",
+      "english": "Let him shake/flick",
+      "urdu": "اسے جھاڑ لینا چاہیے"
+    },
+    {
+      "arabic": "ذَكَرَهُ",
+      "english": "His male organ/penis",
+      "urdu": "عضو مخصوص"
+    },
+    {
+      "arabic": "ثَلَاثَ",
+      "english": "Three",
+      "urdu": "تین"
+    },
+    {
+      "arabic": "مَرَّاتٍ",
+      "english": "Times",
+      "urdu": "مرتبہ"
+    },
+    {
+      "arabic": "اِسْتِبْرَاء",
+      "english": "Ensuring cessation (of urine drops)",
+      "urdu": "قطرے روکنا"
+    },
+    {
+      "arabic": "ابن ماجه",
+      "english": "Ibn Majah (The compiler)",
+      "urdu": "ابن ماجہ"
+    },
+    {
+      "arabic": "سَنَدٍ",
+      "english": "Chain of narration",
+      "urdu": "سند"
+    }
+  ],
+  "summary": {
+    "urdu": "اس ضعیف حدیث میں پیشاب کے بعد بقیہ قطروں کے اخراج کو یقینی بنانے کے لیے عضو مخصوص کو تین مرتبہ ہلکے سے جھاڑنے کا طریقہ بیان کیا گیا ہے، جس کا مقصد مکمل طہارت حاصل کرنا ہے۔",
+    "english": "This weak Hadith describes a method of ensuring complete purity after urination by shaking the male organ three times to expel any residual drops, with the aim of achieving complete purification."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن ماجه (326)",
+      "english": "Reported by Ibn Majah (326)"
+    },
+    {
+      "arabic": "حكم الأئمة بضعفه لجهالة الراوي",
+      "english": "The Imams ruled it weak due to the unknown narrator"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 9201,
+      "name": {
+        "arabic": "عيسى بن يزداد",
+        "english": "'Isa ibn Yazdad"
+      },
+      "slug": "isa-ibn-yazdad"
+    },
+    {
+      "id": 9202,
+      "name": {
+        "arabic": "يزداد (والد عيسى)",
+        "english": "Yazdad (Father of 'Isa)"
+      },
+      "slug": "yazdad"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا حکم اور مقصد",
+        "english": "The Ruling and Purpose of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استبراء کا طریقہ",
+              "english": "Method of Istibra' (Cessation)"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت میں پیشاب کے بعد عضو مخصوص کو ہلکے سے تین مرتبہ جھاڑنے کی ترغیب دی گئی ہے تاکہ باقی ماندہ قطرے نکل جائیں۔",
+                "یہ طریقہ استبراء کی کوششوں میں سے ایک ہے، جس کا مقصد پیشاب کے مکمل اخراج کو یقینی بنانا ہے۔",
+                "قطرے باقی رہ جانے کی صورت میں طہارت ناقص رہتی ہے جو کہ عذاب قبر کا سبب بن سکتی ہے۔"
+              ],
+              "english": [
+                "This narration encourages gently shaking the male organ three times after urination to ensure the removal of any residual drops.",
+                "This method is one of the efforts of **Istibra'**, aiming to confirm the complete expulsion of urine.",
+                "If drops remain, purification is incomplete, which can lead to the punishment of the grave (as stated in Hadith 90)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاط کی اصل",
+              "english": "The Core of Caution"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث سند کے لحاظ سے **ضعیف** ہے، مگر استبراء اور احتیاط کا حکم دیگر صحیح احادیث اور فقہی اصولوں سے ثابت ہے۔",
+                "فقہاء کے نزدیک، جھاڑنے یا دبانے کی بجائے کھانسی، حرکت یا تھوڑا انتظار کرنا بہتر طریقوں میں شامل ہے۔",
+                "اصل حکم ہر وہ ذریعہ اختیار کرنا ہے جس سے یہ یقین ہو جائے کہ مزید قطرہ نہیں ٹپکے گا۔"
+              ],
+              "english": [
+                "Although this Hadith is **weak** in its chain, the general command for Istibra' and caution is confirmed by other authentic narrations and juristic principles.",
+                "Jurists generally recommend waiting a little, coughing, or moving gently, rather than shaking or pressing, as better methods.",
+                "The core ruling is to adopt any effective means necessary to ensure that no further drops will drip out."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ضعف حدیث اور فقہی رائے",
+        "english": "Weakness of Hadith and Juristic Opinion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضعف کا سبب",
+              "english": "Reason for Weakness"
+            },
+            "content": {
+              "urdu": [
+                "محدثین نے اس حدیث کو ضعیف قرار دیا ہے کیونکہ اس کی سند میں موجود ایک راوی، یزید بن یزداد، کی حالت نامعلوم ہے۔",
+                "کسی بھی ضعیف حدیث پر عمل کرنا واجب یا سنت نہیں ہوتا، لیکن اسے فضائل اعمال میں شامل کیا جا سکتا ہے۔",
+                "ایسی روایات پر عمل کرنے کی صورت میں بھی، بہتر ہے کہ کسی دوسرے مضبوط طریقے کو ترجیح دی جائے۔"
+              ],
+              "english": [
+                "Scholars of Hadith ruled this narration as weak because one of the narrators, Yazid ibn Yazdad, has an unknown status.",
+                "Acting upon a weak Hadith is not obligatory or Sunnah, but it may be done in the context of virtuous deeds (Fada'il al-A'mal).",
+                "Even when practicing such narrations, it is preferable to prioritize a different, stronger method of Istibra'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زیادہ احتیاط سے ممانعت",
+              "english": "Prohibition of Excessive Caution"
+            },
+            "content": {
+              "urdu": [
+                "بعض فقہاء نے اس مخصوص عمل (تین بار جھاڑنا) کو غیر ضروری قرار دیا ہے اور اس میں وسوسے کا خطرہ ہے۔",
+                "زیادہ سختی اور غیر ضروری طریقہ اختیار کرنے سے انسان شریعت سے اکتا جاتا ہے اور وسوسے کا شکار ہو جاتا ہے۔",
+                "اسلام میں طہارت کو آسان بنایا گیا ہے، لہٰذا صرف اطمینان اور قطرہ ختم ہونے کا یقین کافی ہے۔"
+              ],
+              "english": [
+                "Some jurists deemed this specific act (shaking three times) unnecessary, citing the risk of falling into Waswas (obsessive doubts).",
+                "Adopting excessive strictness can lead a person to tire of the Shari'ah and become prey to obsessive doubts.",
+                "Purification is made easy in Islam; therefore, merely achieving certainty and the cessation of drops is sufficient."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحت اور حفظان صحت",
+        "english": "Health and Hygiene Perspective"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طہارت کا جسمانی فائدہ",
+              "english": "Physical Benefit of Purity"
+            },
+            "content": {
+              "urdu": [
+                "پیشاب کے قطروں کا مکمل اخراج صحت اور حفظان صحت کے لیے بہت ضروری ہے۔",
+                "اگر پیشاب جسم یا کپڑوں پر رہ جائے تو یہ مختلف قسم کی بیماریوں اور بدبو کا سبب بن سکتا ہے۔",
+                "اسلامی تعلیمات میں جسمانی اور روحانی دونوں طرح کی صفائی پر زور دیا گیا ہے۔"
+              ],
+              "english": [
+                "The complete discharge of urine drops is very essential for both health and hygiene.",
+                "If urine remains on the body or clothing, it can cause various diseases and generate bad odor.",
+                "Islamic teachings emphasize both physical and spiritual cleanliness equally."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلط طریقوں سے گریز",
+              "english": "Avoiding Wrong Methods"
+            },
+            "content": {
+              "urdu": [
+                "بعض لوگ زور سے دبانے یا بہت دیر تک انتظار کرنے کا غلط طریقہ اختیار کرتے ہیں جو فائدہ کی بجائے نقصان دہ ہے۔",
+                "زور لگانے سے قطرے نکلنے کی بجائے واپس پیشاب کی نالی میں جانے کا خطرہ بڑھ جاتا ہے، جو طبی لحاظ سے مضر ہے۔",
+                "استبراء کے لیے ہلکی کھانسی یا تھوڑا سا آگے پیچھے جھکنا کافی سمجھا جاتا ہے۔"
+              ],
+              "english": [
+                "Some people adopt incorrect methods like pressing hard or waiting excessively long, which can be harmful rather than beneficial.",
+                "Straining increases the risk of urine being pushed back into the urethra instead of out, which is medically harmful.",
+                "For Istibra', a light cough or gently swaying back and forth is often considered sufficient."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عبادت میں احتیاط",
+        "english": "Caution in Worship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وضو کا درست ہونا",
+              "english": "Validity of Wudu'"
+            },
+            "content": {
+              "urdu": [
+                "اگر پیشاب کے قطرے وضو کے بعد نکلیں تو وضو ٹوٹ جاتا ہے اور نماز باطل ہو جاتی ہے۔",
+                "اسی لیے استبراء کا عمل کرنا اتنا اہم ہے تاکہ وضو سے پہلے مکمل پاکیزگی حاصل ہو سکے۔",
+                "وضو کی حالت کو برقرار رکھنا ایک مسلمان کی عبادت کی کامیابی کے لیے بنیادی ضرورت ہے۔"
+              ],
+              "english": [
+                "If urine drops pass after Wudu' (ablution), the Wudu' is invalidated, and the prayer becomes void.",
+                "This is why the act of Istibra' is so vital: to ensure complete purity before beginning Wudu'.",
+                "Maintaining the state of Wudu' is a basic necessity for a Muslim's success in their worship."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لباس کی پاکیزگی",
+              "english": "Purity of Clothing"
+            },
+            "content": {
+              "urdu": [
+                "پیشاب کے قطروں سے کپڑوں کا پاک رکھنا بھی نماز کی صحت کے لیے فرض ہے۔",
+                "استبراء کے عمل میں سستی، نماز میں کپڑوں پر نجاست لگنے کا براہ راست ذریعہ بنتی ہے۔",
+                "لباس کی پاکیزگی کا شعور رکھنا ایک مسلمان کے دینی اور اخلاقی معیار کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Keeping clothes clean from urine drops is also a mandatory condition for the validity of Salah (prayer).",
+                "Negligence in Istibra' directly leads to clothes being contaminated with impurity during prayer.",
+                "Awareness of clothing purity reflects a Muslim's religious and ethical standard."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

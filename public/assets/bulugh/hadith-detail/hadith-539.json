@@ -1,0 +1,259 @@
+{
+  "hadithId": 539,
+  "hadithNo": 13,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/539"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 33
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1927)، ومسلم (1106). والزيادة عند مسلم أيضاً.",
+    "urdu": "صحیح۔ اسے بخاری (1927) اور مسلم (1106) نے روایت کیا ہے۔ اور یہ الفاظ مسلم کے ہیں، جس میں رمضان کا اضافہ بھی موجود ہے۔",
+    "english": "Sahih (Authentic). Reported by Al-Bukhari (1927) and Muslim (1106). The wording belongs to Muslim, including the addition mentioning Ramadan."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُقَبِّلُ",
+      "english": "He kisses",
+      "urdu": "بوسہ لینا"
+    },
+    {
+      "arabic": "يُبَاشِرُ",
+      "english": "He touches / embraces",
+      "urdu": "مباشرت / معانقہ"
+    },
+    {
+      "arabic": "أَمْلَكُكُمْ",
+      "english": "Most able to control",
+      "urdu": "زیادہ کنٹرول رکھنے والا"
+    },
+    {
+      "arabic": "لِإِرْبِهِ",
+      "english": "His desire / need",
+      "urdu": "اپنی حاجت / خواہش"
+    },
+    {
+      "arabic": "صَائِمٌ",
+      "english": "Fasting person",
+      "urdu": "روزہ دار"
+    }
+  ],
+  "summary": {
+    "urdu": "روزے کی حالت میں بیوی سے پیار و محبت کا اظہار (بوسہ یا معانقہ) جائز ہے، بشرطیکہ انسان کو اپنی جنسی خواہش پر مکمل کنٹرول حاصل ہو۔",
+    "english": "Affectionate acts such as kissing or embracing one's spouse while fasting are permissible, provided the individual has full self-control over their desires."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1927)",
+      "english": "Reported by Al-Bukhari (1927)"
+    },
+    {
+      "arabic": "رواه مسلم (1106)",
+      "english": "Reported by Muslim (1106)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYI7H7_nO6o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بوسہ و مباشرت کی شرعی حیثیت",
+        "english": "Legal Status of Kissing and Touching"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجازت اور ممانعت کی بنیاد",
+              "english": "Basis of Permission and Prohibition"
+            },
+            "content": {
+              "urdu": [
+                "روزے میں بیوی کا بوسہ لینا یا اسے چھونا بذات خود حرام نہیں ہے۔",
+                "یہ اجازت اس شخص کے لیے ہے جو خود پر قابو رکھ سکے۔",
+                "اگر شہوت غالب آنے کا خطرہ ہو تو اس سے بچنا ضروری ہے۔"
+              ],
+              "english": [
+                "Kissing or touching one's spouse during fasting is not inherently prohibited.",
+                "This permission is specifically for those who can maintain self-control.",
+                "If there is a risk of losing control, one must strictly avoid these acts."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی اکرم ﷺ کا عمل",
+              "english": "The Practice of the Prophet ﷺ"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ روزے کی حالت میں اپنی ازواج مطہرات سے محبت کا اظہار فرماتے تھے۔",
+                "آپ ﷺ کا یہ عمل امت کے لیے جواز کی دلیل ہے۔",
+                "یہ عمل اس بات کو واضح کرتا ہے کہ روزہ صرف بھوک پیاس کا نام نہیں بلکہ ضبط نفس کا نام ہے۔"
+              ],
+              "english": [
+                "The Prophet ﷺ expressed affection toward his wives while fasting.",
+                "His actions serve as a legal precedent and proof of permissibility for the Ummah.",
+                "It clarifies that fasting is about self-discipline, not just refraining from food."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ضبط نفس کی اہمیت",
+        "english": "The Importance of Self-Control"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تقویٰ اور خود اعتمادی",
+              "english": "Piety and Self-Confidence"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ عائشہ نے واضح کیا کہ آپ ﷺ کو اپنی خواہشات پر سب سے زیادہ قابو تھا۔",
+                "یہ جملہ عام لوگوں کو متنبہ کرنے کے لیے ہے کہ وہ اپنی حالت دیکھیں۔",
+                "ایک کمزور ارادے والے شخص کو ایسے کاموں سے دور رہنا چاہیے جو روزہ خراب کر سکیں۔"
+              ],
+              "english": [
+                "Lady Aisha emphasized that the Prophet ﷺ had the most control over his desires.",
+                "This statement serves as a warning for common people to assess their own limits.",
+                "A person with weak resolve should avoid acts that might invalidate the fast."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روزے کے تحفظ کے اصول",
+              "english": "Principles of Protecting the Fast"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی فقہ میں 'سد ذریعہ' یعنی برائی کے راستے کو بند کرنے کا اصول اہم ہے۔",
+                "اگر بوسہ جماع تک پہنچنے کا ذریعہ بننے لگے تو وہ ممنوع ہو جائے گا۔",
+                "روزہ دار کو ہمیشہ محتاط رہنا چاہیے تاکہ عبادت ضائع نہ ہو۔"
+              ],
+              "english": [
+                "Islamic jurisprudence emphasizes 'Sadd al-Dhara'i' (blocking the means to sin).",
+                "If kissing becomes a precursor to intercourse, it becomes prohibited during the fast.",
+                "A fasting person must always remain cautious to preserve the sanctity of the act."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نوجوان اور بوڑھے کا فرق",
+              "english": "Difference Between Young and Old"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کرام کے نزدیک نوجوان کے لیے یہ عمل مکروہ ہو سکتا ہے کیونکہ اس میں جوش زیادہ ہوتا ہے۔",
+                "بوڑھے شخص کے لیے اس میں زیادہ رعایت دی گئی ہے کیونکہ اس میں ضبط نفس زیادہ ہوتا ہے۔",
+                "اصل معیار عمر نہیں بلکہ 'شہوت کا غلبہ اور اس پر کنٹرول' ہے۔"
+              ],
+              "english": [
+                "Jurists suggest such acts may be disliked for the youth due to higher physical arousal.",
+                "More leniency is often given to older individuals who possess better self-control.",
+                "The true criterion is not age, but the level of desire and ability to control it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رمضان کی خصوصیت",
+              "english": "Specialty of Ramadan"
+            },
+            "content": {
+              "urdu": [
+                "روایت کے اضافے نے واضح کیا کہ یہ عمل رمضان کے مبارک مہینے میں بھی جائز ہے۔",
+                "اس سے یہ غلط فہمی دور ہوتی ہے کہ رمضان میں محبت کا اظہار منع ہے۔",
+                "بشرطیکہ روزے کے بنیادی ارکان (کھانے پینے اور جماع سے اجتناب) پر حرف نہ آئے۔"
+              ],
+              "english": [
+                "The additional narration clarifies this is permissible even during the holy month of Ramadan.",
+                "It dispels the misconception that expressing affection is forbidden in Ramadan.",
+                "As long as the core pillars of fasting (avoiding food, drink, and intercourse) are intact."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گھریلو خوشحالی اور روزہ",
+              "english": "Domestic Bliss and Fasting"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک فطری دین ہے جو روزے کے دوران بھی میاں بیوی کے تعلقات کو ختم نہیں کرتا۔",
+                "محبت کا اظہار گھر میں خوشگوار ماحول پیدا کرنے کے لیے ضروری ہے۔",
+                "عبادت کے دوران بھی اعتدال اور توازن برقرار رکھنا سنت نبوی ہے۔"
+              ],
+              "english": [
+                "Islam is a natural religion that doesn't sever marital bonds during fasting hours.",
+                "Expressions of love are vital for maintaining a pleasant home environment.",
+                "Maintaining moderation and balance during worship is a Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعمال کی نیت اور احتیاط",
+              "english": "Intention and Caution in Actions"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو اپنی فطرت اور کمزوریوں کا خود بہتر پتہ ہونا چاہیے۔",
+                "اگر کسی کو معلوم ہو کہ وہ حد پار کر جائے گا، تو اسے اجتناب کرنا چاہیے۔",
+                "تقویٰ کا تقاضا ہے کہ شک والی چیزوں سے بچا جائے تاکہ روزہ مکمل رہے۔"
+              ],
+              "english": [
+                "A Muslim should be well-aware of their own nature and personal weaknesses.",
+                "If one knows they might cross the boundary, they must refrain from such acts.",
+                "Piety requires avoiding doubtful matters to ensure the fast remains valid."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "hadithId": 742,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bulugh/7/1"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 9,
+    "arabicBook": "بلوغ المرام",
+    "babId": 50
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف.‏ رواه أبو داود (3383)، والحاكم (2/52)، والبيهقي (6/78). والحديث فيه جهالة في أحد رواته، واختلف في وصله وإرساله.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے ابوداؤد (3383) اور حاکم (2/52) نے روایت کیا ہے۔ اس کی سند میں راوی مجہول ہے اور اس کے وصل و ارسال میں اختلاف ہے۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud (3383) and Al-Hakim (2/52). It has weaknesses due to an unknown narrator and differences in its chain of transmission."
+  },
+  "importantWords": [
+    {
+      "arabic": "ثَالِثُ",
+      "english": "The Third",
+      "urdu": "تیسرا"
+    },
+    {
+      "arabic": "الشَّرِيكَيْنِ",
+      "english": "Two Partners",
+      "urdu": "دو شریک"
+    },
+    {
+      "arabic": "يَخُنْ",
+      "english": "Betrays",
+      "urdu": "خیانت کرے"
+    },
+    {
+      "arabic": "صَاحِبَهُ",
+      "english": "His Companion",
+      "urdu": "اپنا ساتھی"
+    },
+    {
+      "arabic": "خَرَجْتُ",
+      "english": "I Departed",
+      "urdu": "میں نکل گیا"
+    },
+    {
+      "arabic": "بَيْنِهِمَا",
+      "english": "Between them",
+      "urdu": "ان دونوں کے درمیان"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث قدسی شراکت داری میں دیانتداری کی ترغیب دیتی ہے اور بتاتی ہے کہ ایمانداری کی صورت میں اللہ کی مدد شاملِ حال رہتی ہے جبکہ خیانت برکت کے خاتمے کا سبب بنتی ہے۔",
+    "english": "This Hadith Qudsi encourages honesty in partnerships, stating that Allah's support remains with partners as long as they are faithful, but betrayal causes His blessing to depart."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (3383)",
+      "english": "Reported by Abu Dawud (3383)"
+    },
+    {
+      "arabic": "رواه الحاكم (2/52)",
+      "english": "Reported by Al-Hakim (2/52)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9j_vM94nks",
+  "grade": {
+    "arabic": "ضعيف (عند المحدثين)",
+    "english": "Da'if (Weak according to scholars)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی معیت اور مدد",
+        "english": "Allah's Support and Presence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تیسرا شریک ہونے کا مطلب",
+              "english": "Meaning of Being the Third Partner"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد اللہ تعالیٰ کی خاص مدد، نصرت اور کاروبار میں برکت ہے۔",
+                "جب دو لوگ مل کر کام کرتے ہیں تو اللہ ان کے رزق کا ضامن بن جاتا ہے۔",
+                "یہ شراکت داری کی فضیلت اور اس میں اللہ کے تعاون کی علامت ہے۔"
+              ],
+              "english": [
+                "This refers to Allah's special help, support, and blessings in business.",
+                "When two people work together honestly, Allah ensures their sustenance.",
+                "It signifies the virtue of partnership and the divine cooperation within it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "برکت کا حصول",
+              "english": "Attaining Blessings"
+            },
+            "content": {
+              "urdu": [
+                "ایمانداری سے کیے گئے کام میں تھوڑا مال بھی زیادہ نفع دیتا ہے۔",
+                "اللہ کی معیت سے کاروبار میں غیر متوقع ترقی حاصل ہوتی ہے۔",
+                "مومن کو ہمیشہ اللہ کی نگرانی کا احساس رکھ کر کام کرنا چاہیے۔"
+              ],
+              "english": [
+                "In honest dealings, even a small amount of wealth yields great profit.",
+                "With Allah's presence, a business achieves unexpected growth.",
+                "A believer should always work with the sense of Allah's supervision."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خیانت کے نقصانات",
+        "english": "The Consequences of Betrayal"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برکت کا اٹھ جانا",
+              "english": "Removal of Blessings"
+            },
+            "content": {
+              "urdu": [
+                "خیانت کے فوراً بعد اللہ کی غیبی مدد اور برکت ختم ہو جاتی ہے۔",
+                "ظاہری نفع کے باوجود مال میں خیر و برکت باقی نہیں رہتی۔",
+                "دھوکہ دہی شراکت داری کی روح کو فنا کر دیتی ہے۔"
+              ],
+              "english": [
+                "Immediately after betrayal, Allah's unseen help and blessing vanish.",
+                "Despite apparent profits, no goodness remains in the wealth earned.",
+                "Deception destroys the very soul and essence of a partnership."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شیطان کی مداخلت",
+              "english": "Intervention of Shaytan"
+            },
+            "content": {
+              "urdu": [
+                "جب اللہ کی مدد نکل جاتی ہے تو وہاں شیطان جگہ بنا لیتا ہے۔",
+                "خیانت باہمی تنازعات اور لڑائی جھگڑوں کا سبب بنتی ہے۔",
+                "دھوکہ باز شخص دنیا اور آخرت دونوں میں خسارہ اٹھاتا ہے۔"
+              ],
+              "english": [
+                "When Allah's help departs, Shaytan takes its place in the business.",
+                "Betrayal leads to mutual conflicts and destructive disputes.",
+                "A deceptive person incurs loss in both this world and the hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و تجارتی اصول",
+        "english": "Ethical and Commercial Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "امانت داری کی اہمیت",
+              "english": "Importance of Trustworthiness"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معاشیات کی بنیاد باہمی اعتماد اور سچائی پر ہے۔",
+                "امانت دار تاجر کو انبیاء اور صدیقین کا ساتھ نصیب ہوگا۔",
+                "اپنے شریک کے حقوق کی حفاظت کرنا شرعی ذمہ داری ہے۔"
+              ],
+              "english": [
+                "Islamic economics is founded on mutual trust and truthfulness.",
+                "A trustworthy merchant will be with the Prophets and the truthful.",
+                "Protecting the rights of one's partner is a Sharia-mandated duty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شفافیت کا لزوم",
+              "english": "Requirement of Transparency"
+            },
+            "content": {
+              "urdu": [
+                "کاروباری حساب کتاب میں مکمل شفافیت ہونی چاہیے۔",
+                "شریک سے کوئی بات چھپانا خیانت کے زمرے میں آ سکتا ہے۔",
+                "واضح شرائط اور سچائی ہی دیرپا کامیابی کا راستہ ہیں۔"
+              ],
+              "english": [
+                "There must be complete transparency in business accounting.",
+                "Hiding facts from a partner may fall under the category of betrayal.",
+                "Clear terms and truthfulness are the only paths to lasting success."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و تعلیمی پہلو",
+        "english": "Juristic and Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شراکت کے احکام",
+              "english": "Rules of Partnership"
+            },
+            "content": {
+              "urdu": [
+                "فقہ میں 'شرکۃ الوجوہ' اور 'شرکۃ العنان' جیسے ابواب اس حدیث سے روشنی پاتے ہیں۔",
+                "حدیث ضعیف ہونے کے باوجود اس کا مفہوم دیگر صحیح نصوص سے ثابت ہے۔",
+                "علماء اس حدیث کو اخلاقی تربیت کے لیے بطورِ استدلال پیش کرتے ہیں۔"
+              ],
+              "english": [
+                "Chapters of jurisprudence like 'Shirkat-ul-Wujooh' are enlightened by this concept.",
+                "Though the chain is weak, its meaning is supported by other Sahih texts.",
+                "Scholars cite this Hadith for moral training and character building."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی طلب",
+              "english": "Seeking Halal Sustenance"
+            },
+            "content": {
+              "urdu": [
+                "حلال رزق کے لیے محنت کے ساتھ ساتھ تقویٰ بھی ضروری ہے۔",
+                "دوسروں کا حق مارنا رزق کی تنگی کا باعث بنتا ہے۔",
+                "اللہ پر توکل کرنے والے کبھی مایوس نہیں ہوتے۔"
+              ],
+              "english": [
+                "For halal provision, piety is as necessary as hard work.",
+                "Usurping the rights of others leads to a constriction of provision.",
+                "Those who place their trust in Allah are never disappointed."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

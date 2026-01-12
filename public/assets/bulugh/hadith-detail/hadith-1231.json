@@ -1,0 +1,259 @@
+{
+  "hadithId": 1231,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/14/40"],
+    "kitabId": 15,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب المكاتب",
+    "babId": 101
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه أحمد (6/289)، وأبو داود (3928)، والترمذي (1261) وصححه، وابن ماجه (2520). وفي سنده نبهان مولى أم سلمة، وهو مجهول، لكن الحديث له شواهد تقويه.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے احمد، ابوداؤد، ترمذی، نسائی اور ابن ماجہ نے روایت کیا ہے۔ اگرچہ اس کی سند میں نبهان نامی راوی مجہول ہے، لیکن دیگر روایات اس کی تائید کرتی ہیں۔",
+    "english": "Sahih due to corroborating evidences. Reported by Ahmad (6/289), Abu Dawud (3928), At-Tirmidhi (1261) who graded it Sahih, and Ibn Majah (2520). Though its narrator Nabhan is considered obscure (Majhul), the Hadith has other supporting routes."
+  },
+  "importantWords": [
+    {
+      "arabic": "مُكَاتَبٌ",
+      "english": "Contracted Slave",
+      "urdu": "آزادی کا معاہدہ کرنے والا غلام"
+    },
+    {
+      "arabic": "يُؤَدِّي",
+      "english": "To pay/fulfill",
+      "urdu": "ادا کرنا"
+    },
+    {
+      "arabic": "فَلْتَحْتَجِبْ",
+      "english": "She must observe Hijab",
+      "urdu": "وہ پردہ کرے"
+    },
+    {
+      "arabic": "إِحْدَاكُنَّ",
+      "english": "Any of you (women)",
+      "urdu": "تم میں سے کوئی عورت"
+    },
+    {
+      "arabic": "عِنْدَهُ",
+      "english": "He has",
+      "urdu": "اس کے پاس"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں یہ فقہی اصول بیان کیا گیا ہے کہ جب ایک مکاتب غلام اپنی آزادی کی رقم کا مالک بن جائے، تو وہ اجنبی مرد کے حکم میں آ جاتا ہے اور مالکہ پر اس سے پردہ واجب ہو جاتا ہے۔",
+    "english": "The Hadith establishes a legal principle that once a contracted slave possesses the means to pay for his freedom, he is treated as a non-Mahram, necessitating Hijab from his female owner."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (3928)",
+      "english": "Reported by Abu Dawud (3928)"
+    },
+    {
+      "arabic": "رواه الترمذي (1261)",
+      "english": "Reported by At-Tirmidhi (1261)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أم سلمة هند بنت أبي أمية",
+        "english": "Umm Salama Hind bint Abi Umayya"
+      },
+      "slug": "umm-salama"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح بشواهده",
+    "english": "Sahih (Authentic due to corroborating evidences)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مکاتب غلام اور پردہ",
+        "english": "The Mukatab and Hijab"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حکمِ حجاب کی تبدیلی",
+              "english": "Change in Hijab Ruling"
+            },
+            "content": {
+              "urdu": [
+                "غلام جب تک مکمل ملکیت میں ہوتا ہے، وہ گھر کے فرد کی طرح ہوتا ہے۔",
+                "آزادی کی رقم جمع ہو جانے پر اس کا تعلق مالکہ سے منقطع ہونے لگتا ہے۔",
+                "مال موجود ہونے کی صورت میں وہ اب اجنبی مرد کے قریب ہو چکا ہے۔"
+              ],
+              "english": [
+                "While a slave is in full ownership, he is treated like a household member.",
+                "Possessing the contract money marks the beginning of his legal independence.",
+                "With the means to pay, he is now categorized as a non-Mahram man."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احتیاطی تدبیر",
+              "english": "Precautionary Measure"
+            },
+            "content": {
+              "urdu": [
+                "اسلام شرم و حیا کے معاملات میں غیر معمولی احتیاط سکھاتا ہے۔",
+                "آزادی کے قریب پہنچنے والا شخص اب اجنبی تصور کیا جائے گا۔",
+                "یہ حکم فتنے کے دروازے بند کرنے کے لیے دیا گیا ہے۔"
+              ],
+              "english": [
+                "Islam teaches extraordinary caution regarding modesty and Hijab.",
+                "A person near to gaining freedom must be viewed as a stranger.",
+                "This ruling is intended to close the doors of any potential fitna."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مال کی موجودگی کا اثر",
+              "english": "Impact of Possessing Wealth"
+            },
+            "content": {
+              "urdu": [
+                "صرف معاہدہ کافی نہیں بلکہ مال کا ہونا شرطِ حجاب ہے۔",
+                "مال موجود ہونے کا مطلب ہے کہ آزادی اب محض ایک رسمی کارروائی ہے۔",
+                "فقہاء کے نزدیک یہ حکم وجوب (لازمی) کے درجے میں آتا ہے۔"
+              ],
+              "english": [
+                "The contract alone isn't enough; possessing the money triggers the Hijab.",
+                "Having the funds means freedom is now merely a formal transaction.",
+                "According to jurists, this command falls under the category of obligation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلامی کے احکام کا خاتمہ",
+              "english": "Ending of Slave Status Rulings"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ظاہر کرتی ہے کہ اسلام غلامی کو بتدریج ختم کرنا چاہتا تھا۔",
+                "معاشی خودمختاری حاصل ہوتے ہی سماجی رتبہ بھی تبدیل ہو جاتا ہے۔",
+                "آزادی کے ساتھ ہی تمام شرعی پردے کے احکام لاگو ہو جاتے ہیں۔"
+              ],
+              "english": [
+                "This Hadith shows Islam's intent to gradually phase out slavery.",
+                "Social status changes as soon as economic independence is attained.",
+                "All Sharia Hijab rulings apply as soon as the status of 'stranger' is reached."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عورت کا مقام اور حیا",
+        "english": "Status of Women and Modesty"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حیا کا تحفظ",
+              "english": "Protection of Modesty"
+            },
+            "content": {
+              "urdu": [
+                "مسلمان عورت کی عفت اور حیا کا تحفظ اسلام کی اولین ترجیح ہے۔",
+                "پردہ عورت کے وقار کو بلند کرنے کا ذریعہ ہے۔",
+                "یہ حدیث ثابت کرتی ہے کہ مالکہ ہونے کے باوجود حیا مقدم ہے۔"
+              ],
+              "english": [
+                "Protecting the chastity of Muslim women is a top priority in Islam.",
+                "Hijab is a means of elevating a woman's dignity and respect.",
+                "The Hadith proves that modesty precedes status, even for an owner."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعلقات میں حدود",
+              "english": "Boundaries in Relationships"
+            },
+            "content": {
+              "urdu": [
+                "انسانی تعلقات میں شرعی حدود کا لحاظ رکھنا ضروری ہے۔",
+                "مالک اور غلام کے تعلق میں بھی اخلاقی ضوابط موجود ہیں۔",
+                "حیا کا تقاضا ہے کہ غیر مرد سے دوری اختیار کی جائے۔"
+              ],
+              "english": [
+                "Observing Sharia boundaries in human relationships is essential.",
+                "Ethical regulations exist even in master-slave dynamics.",
+                "Modesty requires maintaining distance from non-Mahram men."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پردے کی اہمیت",
+              "english": "Importance of Hijab"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان عورت کو اپنے پردے کے معاملے میں حساس ہونا چاہیے۔",
+                "معاشرتی تبدیلیوں کے ساتھ شرعی احکام کو نظر انداز نہیں کرنا چاہیے۔",
+                "اللہ کے احکام پر عمل کرنے میں ہی برکت اور حفاظت ہے۔"
+              ],
+              "english": [
+                "Every Muslim woman should be sensitive about her Hijab.",
+                "Sharia rulings should not be ignored despite social changes.",
+                "Blessing and protection lie in following Allah's commands."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیانت اور اخلاق",
+              "english": "Integrity and Ethics"
+            },
+            "content": {
+              "urdu": [
+                "اپنے ماتحتوں کے ساتھ معاملہ کرتے وقت شرعی اصول یاد رکھیں۔",
+                "اعلیٰ اخلاقی معیار ہی اسلامی معاشرے کی پہچان ہیں۔",
+                "ہر فرد کو اپنی حدود کا علم ہونا ضروری ہے۔"
+              ],
+              "english": [
+                "Remember Sharia principles when dealing with subordinates.",
+                "High ethical standards are the hallmark of an Islamic society.",
+                "It is necessary for every individual to know their boundaries."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 880,
+  "hadithNo": 14,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/70"],
+    "kitabId": 8,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب النكاح",
+    "babId": 66
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه البخاري (268)، ومسلم (309). وفي رواية البخاري: 'كان يطوف على نسائه في ليلة واحدة'. وفي أخرى: 'كان يدور على نسائه في الساعة الواحدة من الليل والنهار'.",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے۔ اسے امام بخاری (268) اور امام مسلم (309) نے روایت کیا ہے۔ بخاری کی دیگر روایات میں وضاحت ہے کہ آپ ﷺ ایک ہی رات میں اپنی تمام ازواج کے پاس تشریف لے جاتے تھے۔",
+    "english": "Sahih. Reported by Al-Bukhari (268) and Muslim (309). Other versions in Bukhari specify that this occurred in a single night or within a short period of the day and night."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَطُوفُ",
+      "english": "Goes round / Visits in succession",
+      "urdu": "چکر لگاتے / باری باری تشریف لے جاتے"
+    },
+    {
+      "arabic": "نِسَائِهِ",
+      "english": "His wives",
+      "urdu": "آپ ﷺ کی ازواجِ مطہرات"
+    },
+    {
+      "arabic": "بِغُسْلٍ وَاحِدٍ",
+      "english": "With a single bath",
+      "urdu": "ایک ہی غسل کے ساتھ"
+    },
+    {
+      "arabic": "أَخْرَجَاهُ",
+      "english": "Both (Bukhari & Muslim) recorded it",
+      "urdu": "بخاری و مسلم دونوں نے اسے روایت کیا"
+    },
+    {
+      "arabic": "اللَّفْظُ",
+      "english": "The wording",
+      "urdu": "الفاظ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث سے ثابت ہوتا ہے کہ ایک سے زائد بیویوں کے ساتھ مباشرت کے بعد ہر بار غسل کرنا فرض نہیں بلکہ آخر میں ایک ہی غسل کرنا کافی ہے، تاہم ہر بار وضو کرنا مستحب ہے۔",
+    "english": "This Hadith establishes that it is permissible to have relations with multiple wives and perform only one bath (Ghusl) at the end, though performing Wudu between acts is recommended."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الغسل، رقم الحديث ٢٦٨",
+      "english": "Sahih Bukhari, Book of Ghusl, Hadith No. 268"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الحيض، رقم الحديث ٣٠٩",
+      "english": "Sahih Muslim, Book of Menstruation, Hadith No. 309"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FqGjI2Y8HLo",
+  "grade": {
+    "arabic": "صحيح / متفق عليه",
+    "english": "Sahih / Agreed Upon"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "غسلِ جنابت کی فقہی رعایت",
+        "english": "Juristic Ease Regarding Ghusl"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایک غسل کی کفایت",
+              "english": "Sufficiency of One Bath"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص ایک ہی وقت یا ایک ہی رات میں ایک سے زائد بار مباشرت کرے تو ایک غسل کافی ہے۔",
+                "یہ حکم امت کے لیے آسانی اور سہولت کا باعث ہے تاکہ بار بار غسل کی مشقت سے بچا جا سکے۔",
+                "نبی کریم ﷺ کا یہ عمل امت کو شرعی حدود کے اندر رہتے ہوئے سہولت فراہم کرنے کی مثال ہے۔"
+              ],
+              "english": [
+                "If a person has intercourse multiple times in one night, performing one Ghusl at the end is sufficient.",
+                "This ruling provides ease and prevents the hardship of repetitive bathing within a short period.",
+                "The Prophet's (ﷺ) practice serves as a practical example of Shariah's inherent flexibility."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وضو کی استحبابیت",
+              "english": "Recommended Wudu Between Acts"
+            },
+            "content": {
+              "urdu": [
+                "دیگر روایات میں تذکرہ ہے کہ آپ ﷺ دوبارہ فعل سے قبل وضو کر لیا کرتے تھے۔",
+                "وضو کرنے سے جسم میں دوبارہ چستی اور نشاط پیدا ہوتا ہے جو طبی اعتبار سے بھی مفید ہے۔",
+                "غسل میں تاخیر کی صورت میں صرف وضو کر لینا سنتِ نبوی سے ثابت اور بہتر عمل ہے۔"
+              ],
+              "english": [
+                "Other narrations mention that the Prophet (ﷺ) would perform Wudu before repeating the act.",
+                "Performing Wudu restores energy and physical vigor, which is medically beneficial as well.",
+                "If Ghusl is delayed, performing at least Wudu is a confirmed and preferred Sunnah practice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبی ﷺ کی بشری طاقت اور کمال",
+        "english": "The Prophet's (ﷺ) Physical Strength"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بشری تقاضے اور معجزہ",
+              "english": "Human Needs and Miracle"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا انس بیان کرتے ہیں کہ آپ ﷺ کو تیس مردوں کے برابر جسمانی قوت عطا کی گئی تھی۔",
+                "آپ ﷺ کا اپنی تمام ازواج کے پاس ایک ہی وقت میں جانا آپ کے کمالِ بشریت کی دلیل ہے۔",
+                "اسلام رہبانیت (دنیا تیاگنے) کے خلاف ہے اور فطری خواہشات کی صحیح طریقے سے تکمیل کا حامی ہے۔"
+              ],
+              "english": [
+                "Anas (RA) noted that the Prophet (ﷺ) was granted the physical strength of thirty men.",
+                "His ability to visit all his wives in a single duration highlights his human perfection and vigor.",
+                "Islam opposes monasticism and supports the lawful fulfillment of natural human desires."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ازواجِ مطہرات کی دلجوئی",
+              "english": "Pleasing the Mothers of the Believers"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ اپنی تمام ازواج کے ساتھ حسنِ معاشرت اور باہمی تعلقات کا خاص خیال رکھتے تھے۔",
+                "ایک ہی رات میں سب کی طرف رجوع کرنا ان کی دلجوئی اور برابری کے سلوک کی علامت ہے۔",
+                "نبی ﷺ کی زندگی ہمیں سکھاتی ہے کہ دینداری اور گھریلو ذمہ داریوں میں توازن کیسے رکھا جائے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) maintained excellent social conduct and close bonds with all his wives.",
+                "Visiting all of them in one night signifies his desire to please them and maintain equality.",
+                "His life teaches us how to balance religious duties with marital and family responsibilities."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "باری کی تقسیم (عدل بین الازواج)",
+        "english": "Fairness in Rotation (Co-wives)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رضا مندی اور عدل",
+              "english": "Consent and Equity"
+            },
+            "content": {
+              "urdu": [
+                "عام حالات میں بیویوں کے درمیان رات گزارنے کی باری (قسم) مقرر کرنا واجب ہے۔",
+                "اگر تمام بیویاں کسی خاص موقع پر رضا مند ہوں تو باری کے بغیر بھی تشریف لے جایا جا سکتا ہے۔",
+                "نبی ﷺ کے لیے بعض معاملات میں خصوصی رعایتیں تھیں مگر آپ ﷺ پھر بھی عدل کا نمونہ تھے۔"
+              ],
+              "english": [
+                "Under normal circumstances, alternating nights between wives (Qasm) is legally obligatory.",
+                "If all wives consent to a specific arrangement, visiting them without a fixed turn is allowed.",
+                "While the Prophet (ﷺ) had specific concessions, he remained the ultimate model of justice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گھریلو زندگی کی شفافیت",
+              "english": "Transparency in Domestic Life"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام نے نبی ﷺ کی نجی زندگی کی تفصیلات بھی امت تک پہنچائیں تاکہ رہنمائی ملے۔",
+                "یہ حدیث ظاہر کرتی ہے کہ اسلام میں نجی معاملات کے بھی واضح اور پاکیزہ آداب موجود ہیں۔",
+                "مومن کے لیے نبی ﷺ کا اسوہ ہر جگہ اور ہر حال میں بہترین مشعلِ راہ ہے۔"
+              ],
+              "english": [
+                "The Companions conveyed details of the Prophet's (ﷺ) private life to guide the Ummah.",
+                "This Hadith shows that Islam provides clear and pure etiquettes even for private matters.",
+                "The Prophetic example is the best guiding light for a believer in every situation of life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طہارت اور پاکیزگی",
+        "english": "Purity and Cleanliness"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنابت اور عبادت",
+              "english": "Impurity and Worship"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ مباشرت کے بعد انسان ناپاک (جنبی) ہوتا ہے، مگر وہ ذکرِ الہی سے محروم نہیں ہوتا۔",
+                "آپ ﷺ غسل سے پہلے بھی اللہ کا ذکر فرماتے تھے، جو ظاہر کرتا ہے کہ مومن کا دل ہمیشہ پاک رہتا ہے۔",
+                "اسلام نے پاکیزگی کو آدھا ایمان قرار دیا ہے، اس لیے غسل میں بلاوجہ تاخیر نہیں کرنی چاہیے۔"
+              ],
+              "english": [
+                "Although a person is in a state of 'Janaba' after relations, they are not barred from Dhikr.",
+                "The Prophet (ﷺ) remembered Allah even before bathing, showing a believer's heart remains pure.",
+                "Islam considers purity half of faith, so one should not delay Ghusl without a valid reason."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحت اور تندرستی",
+              "english": "Health and Well-being"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی احکامات انسانی جسم کی نشونما اور صحت کے اصولوں کے عین مطابق ہیں۔",
+                "غسل اور وضو انسان کو جسمانی تھکاوٹ سے نجات دلاتے اور ذہنی سکون فراہم کرتے ہیں۔",
+                "سنت پر عمل کرنے میں ہی انسانی زندگی کا چین اور آخرت کا ثواب پوشیدہ ہے۔"
+              ],
+              "english": [
+                "Islamic rulings are perfectly aligned with the principles of human physical health.",
+                "Bathing and ablution relieve physical fatigue and provide mental tranquility and focus.",
+                "The peace of human life and rewards in the hereafter lie solely in following the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

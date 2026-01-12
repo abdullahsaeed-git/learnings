@@ -1,0 +1,259 @@
+{
+  "hadithId": 813,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/813"],
+    "kitabId": 7,
+    "inKitabBab": 20,
+    "arabicBook": "بلوغ المرام",
+    "babId": 61
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح بشواهده. رواه الترمذي (1032)، وابن ماجه (2750)، وابن حبان (1223) بلفظ: إذا استهل الصبي، صلي عليه، وورث.",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے ترمذی (1032)، ابن ماجہ (2750) اور ابن حبان نے روایت کیا ہے۔ ابن حبان کے الفاظ ہیں: 'جب بچہ آواز نکالے تو اس کی نمازِ جنازہ پڑھی جائے گی اور وہ وارث بنے گا۔'",
+    "english": "Sahih due to supporting evidences. Reported by At-Tirmidhi (1032), Ibn Majah (2750), and Ibn Hibban (1223). The wording in Ibn Hibban includes: 'When the child cries, the funeral prayer is offered for him and he inherits.'"
+  },
+  "importantWords": [
+    {
+      "arabic": "اِسْتَهَلَّ",
+      "english": "Cried / Raised voice",
+      "urdu": "آواز نکالی / رویا"
+    },
+    {
+      "arabic": "اَلْمَوْلُودُ",
+      "english": "The newborn",
+      "urdu": "نومولود بچہ"
+    },
+    {
+      "arabic": "وُرِّثَ",
+      "english": "Inherits / Entitled to inheritance",
+      "urdu": "وارث قرار پاتا ہے"
+    },
+    {
+      "arabic": "صَارِخاً",
+      "english": "Screaming / Crying out",
+      "urdu": "چیختے ہوئے"
+    },
+    {
+      "arabic": "الصبي",
+      "english": "The child",
+      "urdu": "بچہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں وراثت کی ایک اہم شرط بیان ہوئی ہے کہ شکمِ مادر میں موجود بچہ (جنین) اسی صورت میں وارث بنے گا جب وہ زندہ پیدا ہو اور اس کی زندگی کی علامت آواز نکالنا یا رونا ہو۔",
+    "english": "This Hadith establishes an important condition for inheritance: an unborn child (fetus) inherits only if it is born alive, with crying or raising its voice being a clear sign of life."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي (1032)",
+      "english": "Jami' At-Tirmidhi (1032)"
+    },
+    {
+      "arabic": "سنن ابن ماجه (2750)",
+      "english": "Sunan Ibn Majah (2750)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi (Authentic due to others)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "جنین کی وراثت کے شرعی احکام",
+        "english": "Shariah Rulings on Fetal Inheritance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زندگی کی علامت (استہلال)",
+              "english": "Sign of Life (Istihlal)"
+            },
+            "content": {
+              "urdu": [
+                "استہلال سے مراد پیدا ہوتے وقت بچے کا رونا، چیخنا یا آواز نکالنا ہے۔",
+                "فقہاء کے نزدیک یہ آواز اس بات کی قطعی دلیل ہے کہ بچہ زندہ پیدا ہوا ہے۔",
+                "وراثت کے حقدار بننے کے لیے زندگی کا پایا جانا بنیادی شرط ہے۔"
+              ],
+              "english": [
+                "Istihlal refers to a baby crying, screaming, or making a sound at birth.",
+                "Jurists consider this sound definitive proof that the child was born alive.",
+                "The presence of life is a fundamental condition for being entitled to inheritance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مردہ پیدا ہونے والے بچے کا حکم",
+              "english": "Ruling on Stillborn Infants"
+            },
+            "content": {
+              "urdu": [
+                "اگر بچہ مردہ پیدا ہو تو وہ کسی کا وارث نہیں بن سکتا اور نہ ہی اس کا کوئی وارث ہوگا۔",
+                "ایسی صورت میں اس کا حصہ دیگر موجودہ وارثین میں تقسیم کر دیا جاتا ہے۔",
+                "زندگی کی علامت پائے بغیر وراثت کا حق منتقل نہیں ہوتا۔"
+              ],
+              "english": [
+                "If a child is born dead, they cannot inherit from anyone, nor will anyone inherit from them.",
+                "In such a case, their potential share is redistributed among the existing heirs.",
+                "Inheritance rights do not transfer without proof of life at birth."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی تفصیلات اور اطلاق",
+        "english": "Juristic Details and Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وراثت کی تقسیم کا انتظار",
+              "english": "Waiting for the Distribution"
+            },
+            "content": {
+              "urdu": [
+                "اگر میت کی وفات کے وقت کوئی وارث حاملہ ہو، تو تقسیمِ وراثت روک دی جاتی ہے۔",
+                "بچے کی پیدائش تک اس کا ممکنہ حصہ محفوظ کر لیا جاتا ہے۔",
+                "پیدائش کے بعد زندگی یا موت کی بنیاد پر حتمی فیصلہ کیا جاتا ہے۔"
+              ],
+              "english": [
+                "If an heir is pregnant at the time of the deceased's passing, distribution is delayed.",
+                "The potential share for the unborn child is reserved until birth.",
+                "The final decision is made based on whether the child is born alive or dead."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دیگر علاماتِ زندگی",
+              "english": "Other Signs of Life"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء کے نزدیک رونے کے علاوہ سانس لینا یا حرکت کرنا بھی زندگی کی علامت ہے۔",
+                "اگر بچہ حرکت کرے یا دودھ پیے تو اسے بھی زندہ تصور کیا جائے گا۔",
+                "حدیث میں رونے کا ذکر اس لیے ہے کہ یہ زندگی کی سب سے واضح علامت ہے۔"
+              ],
+              "english": [
+                "Most jurists agree that breathing or movement also qualify as signs of life.",
+                "If the child moves or nurses, they are also considered to have been born alive.",
+                "Crying is mentioned in the Hadith because it is the most distinct sign of life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جنازہ اور وراثت کا باہمی تعلق",
+        "english": "Connection between Funeral and Inheritance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نمازِ جنازہ کی شرط",
+              "english": "Condition for Funeral Prayer"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح وراثت کے لیے زندگی شرط ہے، اسی طرح نمازِ جنازہ کے لیے بھی زندگی کی علامت ضروری ہے۔",
+                "جو بچہ زندہ پیدا ہو کر فوت ہو، اس کا جنازہ پڑھا جائے گا اور نام رکھا جائے گا۔",
+                "اسلام انسانی زندگی کے ہر مرحلے کے احترام کا حکم دیتا ہے۔"
+              ],
+              "english": [
+                "Just as life is a condition for inheritance, it is also necessary for the funeral prayer.",
+                "A child born alive who then dies must be named and given a proper funeral prayer.",
+                "Islam commands respect for every stage of human existence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نام رکھنے کا حق",
+              "english": "Right to be Named"
+            },
+            "content": {
+              "urdu": [
+                "زندہ پیدا ہونے والے بچے کو خاندان کا مکمل رکن تسلیم کیا جاتا ہے۔",
+                "اس کی وفات کی صورت میں اسے باقاعدہ غسل، کفن اور تدفین دی جاتی ہے۔",
+                "یہ احکامات اسلامی معاشرے میں انسانی حقوق کی گہرائی کو ظاہر کرتے ہیں۔"
+              ],
+              "english": [
+                "A child born alive is recognized as a full member of the family lineage.",
+                "In case of death, they are granted formal washing, shrouding, and burial.",
+                "These rulings reflect the depth of human rights within Islamic society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Practical Life Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حقوق کی ادائیگی میں احتیاط",
+              "english": "Caution in Fulfilling Rights"
+            },
+            "content": {
+              "urdu": [
+                "وراثت کے معاملے میں عجلت کے بجائے شرعی ضابطوں کا انتظار کرنا چاہیے۔",
+                "کسی کے حق کو پامال کرنا یا غیر یقینی صورتحال میں مال ہڑپ کرنا حرام ہے۔",
+                "تقویٰ کا تقاضا ہے کہ ہر وارث کو اس کا صحیح حق دیا جائے۔"
+              ],
+              "english": [
+                "In matters of inheritance, one should wait for legal clarity rather than rushing.",
+                "Usurping someone's right or seizing wealth in uncertain conditions is forbidden.",
+                "Piety requires that every rightful heir receives their correct portion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی علم کی اہمیت",
+              "english": "Importance of Shariah Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "خاندانی معاملات میں شرعی رہنمائی کے لیے علماء سے رجوع لازمی ہے۔",
+                "وراثت کے پیچیدہ مسائل (جیسے جنین کی وراثت) گہری فہم کے متقاضی ہیں۔",
+                "صحیح علم ہی ہمیں معاشرتی بگاڑ اور خاندانی جھگڑوں سے بچا سکتا ہے۔"
+              ],
+              "english": [
+                "Consulting scholars for Shariah guidance in family matters is essential.",
+                "Complex inheritance issues (like fetal rights) require deep understanding.",
+                "Correct knowledge is what saves us from social corruption and family disputes."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

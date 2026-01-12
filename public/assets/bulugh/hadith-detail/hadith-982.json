@@ -1,0 +1,259 @@
+{
+  "hadithId": 982,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/982"],
+    "kitabId": 8,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام - كتاب النكاح",
+    "babId": 77
+  },
+  
+  "takhreej": {
+    "arabic": "رواه الدارقطني (3979/1) وإسناده حسن، وأصله في البخاري (5355) ومسلم (1034) بدون زيادة قول المرأة. وزيادة قول المرأة عند الدارقطني مرفوعة، لكن الصحيح أنها موقوفة على أبي هريرة رضي الله عنه.",
+    "urdu": "اسے دارقطنی (3979/1) نے روایت کیا اور اس کی سند حسن ہے۔ اس حدیث کی اصل بخاری (5355) اور مسلم (1034) میں موجود ہے، تاہم بیوی کے قول والی زیادتی دارقطنی میں مرفوع ذکر ہے مگر صحیح بات یہ ہے کہ یہ ابوہریرہ رضی اللہ عنہ کا اپنا کلام (موقوف) ہے۔",
+    "english": "Reported by Al-Daraqutni (3/441, 3979) and its chain is Hasan. The core of this Hadith is in Bukhari (5355) and Muslim (1034). The addition regarding the woman's statement is Marfu' in Daraqutni but Al-Hafiz Ibn Hajar and others noted it is correctly Mawquf to Abu Hurairah (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْيَدِ اَلْعُلْيَا",
+      "english": "The upper hand",
+      "urdu": "اوپر والا ہاتھ"
+    },
+    {
+      "arabic": "اَلسُّفْلَى",
+      "english": "The lower",
+      "urdu": "نیچے والا"
+    },
+    {
+      "arabic": "يَعُولُ",
+      "english": "He supports/maintains",
+      "urdu": "وہ کفالت کرتا ہے"
+    },
+    {
+      "arabic": "أَطْعِمْنِي",
+      "english": "Feed me",
+      "urdu": "مجھے کھانا کھلائیں"
+    },
+    {
+      "arabic": "طَلِّقْنِي",
+      "english": "Divorce me",
+      "urdu": "مجھے طلاق دے دیں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں صدقہ و خیرات اور نفقہ کی ترتیب بیان کی گئی ہے کہ انسان کو پہلے اپنے گھر والوں کی ضروریات پوری کرنی چاہئیں کیونکہ بیوی کا نان و نفقہ واجب ہے۔",
+    "english": "This Hadith emphasizes the hierarchy of spending, stating that providing for dependents is a priority and an obligation that precedes general charity."
+  },
+  "references": [
+    {
+      "arabic": "سنن الدارقطني (3979)",
+      "english": "Sunan al-Daraqutni (3979)"
+    },
+    {
+      "arabic": "صحيح البخاري (5355)",
+      "english": "Sahih al-Bukhari (5355)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=08F8f-o9P7M",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "صدقہ اور خرچ کی ترجیحات",
+        "english": "Priorities in Spending"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دینے والے ہاتھ کی فضیلت",
+              "english": "Excellence of the Giving Hand"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں دینے والے ہاتھ کو لینے والے پر فضیلت حاصل ہے۔",
+                "یہ خودداری اور محنت کر کے دوسروں کی مدد کرنے کی ترغیب ہے۔",
+                "مسلمان کو چاہیے کہ وہ مانگنے کے بجائے عطا کرنے والا بنے۔"
+              ],
+              "english": [
+                "Islam grants superiority to the hand that gives over the one that takes.",
+                "It encourages self-reliance and working hard to help others financially.",
+                "A Muslim should strive to be a provider rather than a dependent seeker."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اہل و عیال کا نفقہ",
+              "english": "Maintenance of Dependents"
+            },
+            "content": {
+              "urdu": [
+                "خیرات کی ابتدا ہمیشہ اپنے زیر کفالت افراد سے کرنی چاہیے۔",
+                "گھر والوں کی ضروریات پوری کرنا نفلی صدقہ سے زیادہ اہم ہے۔",
+                "اہل و عیال کے حقوق کی ادائیگی دین کا بنیادی تقاضا ہے۔"
+              ],
+              "english": [
+                "Charity must always begin with those who are under one's direct care.",
+                "Providing for family is more mandatory than giving voluntary charity.",
+                "Fulfilling the rights of dependents is a core requirement of faith."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بیوی کے حقوق اور ذمہ داری",
+        "english": "Rights of the Wife and Responsibility"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نان و نفقہ کی اہمیت",
+              "english": "Importance of Sustenance"
+            },
+            "content": {
+              "urdu": [
+                "بیوی کا نان و نفقہ شوہر کے ذمہ ایک لازمی شرعی فریضہ ہے۔",
+                "اگر شوہر استطاعت کے باوجود نفقہ نہ دے تو بیوی مطالبہ کر سکتی ہے۔",
+                "بیوی کو حق حاصل ہے کہ وہ بنیادی ضروریات کی عدم فراہمی پر علیحدگی اختیار کرے۔"
+              ],
+              "english": [
+                "Providing food and clothing to the wife is a mandatory Islamic duty upon the husband.",
+                "If a husband withholds maintenance despite having means, the wife can demand it.",
+                "The wife has the legal right to seek separation if basic needs are not met."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقِ طلاق کا مطالبہ",
+              "english": "The Demand for Divorce"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے الفاظ بیوی کی مجبوری اور نفقہ کی سنگینی کو ظاہر کرتے ہیں۔",
+                "معاشی تنگی کی صورت میں میاں بیوی کو صبر اور باہمی تعاون کرنا چاہیے۔",
+                "بیوی کا یہ قول ایک تنبیہ ہے کہ نفقہ میں کوتاہی رشتے کو توڑ سکتی ہے۔"
+              ],
+              "english": [
+                "The wording highlights the severity and necessity of financial support in marriage.",
+                "In times of financial hardship, both spouses should practice patience and cooperation.",
+                "The wife's ultimatum serves as a warning that neglecting maintenance can end a marriage."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و اخلاقی پہلو",
+        "english": "Juristic and Ethical Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "واجب اور نفلی صدقہ کا فرق",
+              "english": "Obligatory vs Voluntary Charity"
+            },
+            "content": {
+              "urdu": [
+                "واجب نفقہ کو نفلی صدقات پر ہمیشہ ترجیح حاصل ہوتی ہے۔",
+                "اپنے بچوں اور بیوی کو بھوکا چھوڑ کر باہر صدقہ کرنا درست نہیں۔",
+                "اسلامی فقہ میں مالی ذمہ داریوں کی ترتیب واضح کر دی گئی ہے۔"
+              ],
+              "english": [
+                "Obligatory maintenance always takes precedence over voluntary acts of charity.",
+                "It is improper to give charity abroad while leaving wife and children hungry.",
+                "Islamic jurisprudence clearly defines the hierarchy of financial obligations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی ذمہ داری",
+              "english": "Social Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث ایک مستحکم اور معاشی طور پر مضبوط خاندان کی بنیاد رکھتی ہے۔",
+                "ہر شخص اپنی ذمہ داری پوری کرے تو معاشرے سے غربت کم ہو سکتی ہے۔",
+                "والد یا سرپرست کی ذمہ داری ہے کہ وہ حلال ذرائع سے رزق کمائے۔"
+              ],
+              "english": [
+                "This Hadith builds the foundation of a stable and economically secure family unit.",
+                "If everyone fulfills their local duties, poverty in society will decrease significantly.",
+                "It is the guardian's responsibility to seek lawful earnings for the family."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و تربیتی فوائد",
+        "english": "Educational and Training Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعلیٰ اخلاق کی تعلیم",
+              "english": "Teaching High Morals"
+            },
+            "content": {
+              "urdu": [
+                "حدیث خودداری اور دوسروں پر بوجھ نہ بننے کا سبق دیتی ہے۔",
+                "سخاوت کا جذبہ پیدا کرنا اسلامی تربیت کا اہم حصہ ہے۔",
+                "یہ حدیث ہمیں ایک ذمہ دار شہری اور سرپرست بننا سکھاتی ہے۔"
+              ],
+              "english": [
+                "The Hadith teaches self-respect and not being a burden on others.",
+                "Developing a spirit of generosity is a key part of Islamic upbringing.",
+                "This narration guides us on how to be a responsible citizen and guardian."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکمتِ عملی",
+              "english": "Strategic Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "گھریلو بجٹ اور اخراجات میں ترجیحات کا تعین کرنا ضروری ہے۔",
+                "دین ہمیں جذباتی ہونے کے بجائے حقیقت پسندانہ خرچ کی تعلیم دیتا ہے۔",
+                "پہلے اپنے گھر کو مضبوط کرنا پھر دوسروں کی فکر کرنا سنت ہے۔"
+              ],
+              "english": [
+                "It is essential to determine priorities in household budgeting and spending.",
+                "Religion teaches us to be realistic in spending rather than purely emotional.",
+                "Strengthening one's own home before looking after others is the Prophetic way."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

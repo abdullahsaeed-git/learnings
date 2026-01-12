@@ -1,0 +1,259 @@
+{
+  "hadithId": 666,
+  "hadithNo": 19,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/19"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح لغيره. رواه أحمد (2/432)، والنسائي (4632)، والترمذي (1231) وقال: حسن صحيح، وابن حبان (4973)، وأبو داود (3461).",
+    "urdu": "یہ حدیث صحیح لغیرہ ہے۔ اسے امام احمد، نسائی، ترمذی، ابن حبان اور ابوداؤد نے روایت کیا ہے۔ امام ترمذی نے اسے حسن صحیح قرار دیا ہے۔",
+    "english": "Sahih lighairihi. Reported by Ahmad (2/432), an-Nasa'i (4632), at-Tirmidhi (1231) who graded it Hasan Sahih, Ibn Hibban (4973), and Abu Dawud (3461)."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "بَيْعَتَيْنِ",
+      "english": "Two transactions",
+      "urdu": "دو بیعیں"
+    },
+    {
+      "arabic": "أَوْكَسُهُمَا",
+      "english": "The lower of the two",
+      "urdu": "ان دونوں میں سے کم تر"
+    },
+    {
+      "arabic": "الرِّبَا",
+      "english": "Usury / Interest",
+      "urdu": "سود"
+    },
+    {
+      "arabic": "بَيْعَةٍ",
+      "english": "Contract / Sale",
+      "urdu": "ایک سودا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایک ہی سودے میں دو مختلف قیمتیں یا دو متضاد عقد جمع کرنے سے منع کیا گیا ہے تاکہ سود اور جہالت کا خاتمہ ہو سکے۔",
+    "english": "This Hadith prohibits combining two contracts or prices in one transaction to prevent interest (Riba) and uncertainty (Gharar)."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي، كتاب البيوع",
+      "english": "Jami' at-Tirmidhi, Book of Sales"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الإجارة",
+      "english": "Sunan Abi Dawud, Book of Wages"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0p7U_pG_2Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ایک بیع میں دو بیعوں کا مطلب",
+        "english": "Meaning of Two Sales in One"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیمت کا عدم تعین",
+              "english": "Uncertainty of Price"
+            },
+            "content": {
+              "urdu": [
+                "اس سے مراد یہ ہے کہ نقد اور ادھار کی دو مختلف قیمتیں رکھی جائیں۔",
+                "سودا مکمل کرتے وقت یہ طے نہ کیا جائے کہ ادائیگی کس قیمت پر ہوگی۔",
+                "یہ جہالت اور غیر یقینی صورتحال (غرر) پیدا کرتی ہے جو کہ ممنوع ہے۔"
+              ],
+              "english": [
+                "It refers to offering two different prices for cash and credit.",
+                "Completing the deal without finalizing which price will be paid.",
+                "This creates uncertainty (Gharar) in the contract, which is forbidden."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دو عقد جمع کرنا",
+              "english": "Combining Two Contracts"
+            },
+            "content": {
+              "urdu": [
+                "ایک شرط لگانا کہ 'میں یہ چیز تب بیچوں گا جب تم اپنی چیز بیچو گے'۔",
+                "ایسی مشروط بیع فریقین کے درمیان نزاع کا باعث بن سکتی ہے۔",
+                "اسلامی قانون میں ہر تجارتی عقد کو آزاد اور واضح ہونا چاہیے۔"
+              ],
+              "english": [
+                "Making a condition like 'I sell this only if you sell me that'.",
+                "Such conditional sales can lead to disputes between parties.",
+                "In Islamic law, every trade contract must be independent and clear."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سود (ربا) سے بچاؤ",
+        "english": "Avoiding Usury (Riba)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیمت میں زیادتی اور سود",
+              "english": "Price Increase and Interest"
+            },
+            "content": {
+              "urdu": [
+                "ادھار کی صورت میں قیمت بڑھانا اور اسے مبہم رکھنا سود کے مشابہ ہے۔",
+                "اگر نقد اور ادھار کی قیمت الگ ہو تو مجلس ختم ہونے سے پہلے ایک طے کرنا لازمی ہے۔",
+                "ابوداؤد کی روایت کے مطابق کم قیمت نہ لینا سود کی طرف لے جاتا ہے۔"
+              ],
+              "english": [
+                "Increasing the price for credit while keeping it vague resembles Riba.",
+                "If cash and credit prices differ, one must be finalized before ending the session.",
+                "According to Abu Dawud, not taking the lower price may lead to interest."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیعِ عینہ کی ممانعت",
+              "english": "Prohibition of Bay' al-'Inah"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث کا ایک اشارہ بیع عینہ کی طرف بھی ہے جو کہ سود کا حیلہ ہے۔",
+                "ایک ہی چیز کو ادھار بیچ کر پھر کم قیمت پر نقد واپس خریدنا منع ہے۔",
+                "اسلام ظاہری سودوں کے ذریعے سود خوری کے تمام راستے بند کرتا ہے۔"
+              ],
+              "english": [
+                "This Hadith also hints at Bay' al-'Inah, a legal trick for interest.",
+                "Selling an item on credit and buying it back for less in cash is forbidden.",
+                "Islam closes all paths to usury even through seemingly valid trades."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی شفافیت اور عدل",
+        "english": "Economic Transparency and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "واضح شرائط کی اہمیت",
+              "english": "Importance of Clear Terms"
+    },
+            "content": {
+              "urdu": [
+                "تجارت میں قیمت اور وقت کا واضح ہونا برکت کا باعث ہے۔",
+                "ابہام والے سودے ہمیشہ معاشی عدم استحکام اور جھگڑے پیدا کرتے ہیں۔",
+                "مسلمان تاجر کو چاہیے کہ وہ اپنے گاہک کے ساتھ صاف ستھرا معاملہ کرے۔"
+              ],
+              "english": [
+                "Clarity in price and time brings blessings to a business.",
+                "Ambiguous deals always cause economic instability and conflicts.",
+                "A Muslim trader must engage in transparent dealings with customers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بیعِ تقسیط (اقساط پر بیع)",
+              "english": "Installment Sales (Bay' al-Taqsit)"
+            },
+            "content": {
+              "urdu": [
+                "اقساط پر بیع جائز ہے اگر کل قیمت اور وقت پہلے سے طے ہو۔",
+                "اگر مجلس میں دو قیمتوں میں سے ایک کا انتخاب ہو جائے تو یہ ممنوع نہیں۔",
+                "ممانعت تب ہے جب سودا ختم ہو اور خریدار کو معلوم نہ ہو کہ اسے کیا دینا ہے۔"
+              ],
+              "english": [
+                "Installment sales are allowed if total price and duration are fixed.",
+                "It is not forbidden if one price is chosen during the meeting.",
+                "The prohibition applies when the deal ends with the price still undecided."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کاروباری اخلاقیات",
+              "english": "Business Ethics"
+            },
+            "content": {
+              "urdu": [
+                "تاجر کو چاہیے کہ وہ گاہک کو الجھانے کے بجائے واضح آپشنز دے۔",
+                "سود کے شبہ والی ہر قسم کی بیع سے بچنا تقویٰ کا تقاضا ہے۔",
+                "دیانتدار تاجر کا مقام آخرت میں بہت بلند بیان کیا گیا ہے۔"
+              ],
+              "english": [
+                "Traders should provide clear options rather than confusing the customer.",
+                "Avoiding any sale with a suspicion of Riba is a requirement of piety.",
+                "The status of an honest trader is described as very high in the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جدید مالیاتی معاہدے",
+              "english": "Modern Financial Contracts"
+            },
+            "content": {
+              "urdu": [
+                "بینکنگ اور لیزنگ کے معاہدوں میں اس حدیث کے اصولوں کو نافذ کرنا چاہیے۔",
+                "ہر وہ پیچیدہ معاہدہ جو ربا کا ذریعہ بنے، اس سے دوری لازم ہے۔",
+                "مسلمانوں کو اپنے مالی معاملات میں علمائے کرام سے رہنمائی لینی چاہیے۔"
+              ],
+              "english": [
+                "The principles of this Hadith should be applied in banking and leasing.",
+                "Distance is mandatory from complex contracts that facilitate usury.",
+                "Muslims should seek guidance from scholars regarding their financial affairs."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

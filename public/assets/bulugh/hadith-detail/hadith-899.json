@@ -1,0 +1,254 @@
+{
+  "hadithId": 899,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/98"],
+    "kitabId": 8,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب النكاح",
+    "babId": 68
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف . رواه أبو داود (3756). وفي سنده أبو خالد الدالاني، وهو صدوق يخطئ كثيراً وكان يدلس، والحديث له شواهد تقوي معناه في الجملة عند البخاري في الأدب المفرد.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے ابوداؤد (3756) نے روایت کیا ہے۔ اس کی سند میں ابو خالد الدالانی ہیں جو کثیر الخطا اور مدلس ہیں، تاہم اس کا مفہوم دیگر صحیح روایات (مثلاً الادب المفرد) سے ثابت ہے۔",
+    "english": "Weak. Reported by Abu Dawud (3756). Its chain includes Abu Khalid ad-Dalani, who is described as truthful but makes many mistakes and practiced Tadlis. However, its general meaning is supported by other narrations in al-Adab al-Mufrad."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِجْتَمَعَ",
+      "english": "Combined / Met",
+      "urdu": "جمع ہو گئے"
+    },
+    {
+      "arabic": "دَاعِيَانِ",
+      "english": "Two inviters",
+      "urdu": "دو بلانے والے"
+    },
+    {
+      "arabic": "أَقْرَبَهُمَا",
+      "english": "Closer of them",
+      "urdu": "ان دونوں میں قریب ترین"
+    },
+    {
+      "arabic": "سَبَقَ",
+      "english": "Preceded / Surpassed",
+      "urdu": "پہل کی"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر ایک ہی وقت میں دو دعوتیں آ جائیں تو سب سے پہلے دعوت دینے والے کو، یا پھر قریبی پڑوسی کو ترجیح دینی چاہیے تاکہ سماجی حقوق کی درست ادائیگی ہو سکے۔",
+    "english": "If two invitations occur simultaneously, priority should be given to the one who invited first, or to the closer neighbor, to ensure the proper fulfillment of social rights."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (3756)",
+      "english": "Sunan Abi Dawud (3756)"
+    },
+    {
+      "arabic": "الأدب المفرد للبخاري (107)",
+      "english": "Al-Adab Al-Mufrad (107)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "رجل من الصحابة",
+        "english": "A man from the Companions"
+      },
+      "slug": "man-from-companions"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R3L0f6LpB3M",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعوت میں ترجیح کے اصول",
+        "english": "Principles of Priority in Invitations"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "پہل کرنے والے کا حق",
+              "english": "Right of the One Who Precedes"
+            },
+            "content": {
+              "urdu": [
+                "اگر دو افراد دعوت دیں اور ایک پہلے بلا چکا ہو، تو اس کی دعوت قبول کرنا اخلاقی اور شرعی حق بن جاتا ہے۔",
+                "پہل کرنے والے کو ترجیح دینا عدل کا تقاضا ہے تاکہ اس کی دلجوئی ہو سکے۔",
+                "دوسرے داعی سے معذرت کر لینا کوئی عیب نہیں بلکہ سچائی اور صلح رحمی کا حصہ ہے۔"
+              ],
+              "english": [
+                "If two people invite and one precedes the other, accepting the first invitation becomes a moral and legal right.",
+                "Prioritizing the first inviter is a requirement of justice to avoid hurting their feelings.",
+                "Apologizing to the second inviter is not a flaw but an act of truthfulness and maintaining ties."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قریبی پڑوسی کی اہمیت",
+              "english": "Importance of the Near Neighbor"
+            },
+            "content": {
+              "urdu": [
+                "اگر دونوں دعوتیں ایک ہی وقت میں ملیں، تو قریبی پڑوسی کا حق سب سے زیادہ ہے۔",
+                "اسلام میں پڑوسی کے حقوق کو اتنی اہمیت دی گئی ہے کہ اسے وراثت کے قریب سمجھا گیا۔",
+                "قریب رہنے والا دکھ سکھ کا پہلا ساتھی ہوتا ہے، اس لیے اسے دور والے پر فوقیت دی جاتی ہے۔"
+              ],
+              "english": [
+                "If both invitations arrive at once, the closest neighbor has the greatest right.",
+                "In Islam, neighborly rights are so emphasized that they were almost linked to inheritance.",
+                "A close neighbor is the first companion in joy and sorrow, thus prioritized over those farther away."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی حکمت اور نظم و ضبط",
+        "english": "Social Wisdom and Discipline"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تنازعات کا خاتمہ",
+              "english": "Elimination of Conflicts"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول معاشرے میں پیدا ہونے والی بدمزگی اور حسد کو روکنے کے لیے وضع کیے گئے ہیں۔",
+                "جب لوگوں کو معلوم ہوگا کہ ترجیح کا معیار کیا ہے، تو وہ برا نہیں مانیں گے۔",
+                "اسلام زندگی کے ہر چھوٹے بڑے معاملے میں ایک واضح نظام (System) فراہم کرتا ہے۔"
+              ],
+              "english": [
+                "These principles are established to prevent social friction and jealousy.",
+                "When people know the criteria for priority, they are less likely to take offense.",
+                "Islam provides a clear system for every matter of life, whether large or small."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حسنِ اخلاق اور معذرت",
+              "english": "Good Character and Apology"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کی دعوت قبول نہ کی جا سکے، تو اسے خوبصورت انداز میں معذرت کرنی چاہیے۔",
+                "دینِ اسلام ہمیں دوسروں کے جذبات کا احترام کرنا سکھاتا ہے۔",
+                "کسی کی دل شکنی سے بچنا نفلی عبادات سے بھی بہتر ثابت ہو سکتا ہے۔"
+              ],
+              "english": [
+                "If an invitation cannot be accepted, an apology should be made in a beautiful manner.",
+                "Islam teaches us to respect the feelings and emotions of others.",
+                "Avoiding hurting someone's feelings can be better than voluntary acts of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی پہلو اور وسعت",
+        "english": "Juristic Aspects and Breadth"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کی کمزوری کے باوجود اہمیت",
+              "english": "Significance Despite Weakness"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ سند ضعیف ہے، مگر اس کا مفہوم اسلامی معاشرت کے مجموعی مزاج کے عین مطابق ہے۔",
+                "فقہاء نے ان اصولوں کو مستحسن قرار دیا ہے تاکہ سماجی ڈھانچہ مضبوط رہے۔",
+                "مساوات اور عدل کے اصول ہر جگہ لاگو ہوتے ہیں۔"
+              ],
+              "english": [
+                "Although the chain is weak, the meaning aligns perfectly with the overall spirit of Islamic social life.",
+                "Jurists consider these principles commendable for maintaining a strong social fabric.",
+                "The principles of equality and justice are universally applicable."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قریبی رشتہ دار کی صورت",
+              "english": "Case of Close Relatives"
+            },
+            "content": {
+              "urdu": [
+                "بعض علماء کے نزدیک اگر ایک داعی پڑوسی ہو اور دوسرا رشتہ دار، تو صلہ رحمی کی بنا پر رشتہ دار کو فوقیت دی جا سکتی ہے۔",
+                "تقویٰ اور علم والے کی دعوت کو بھی ترجیح دی جا سکتی ہے تاکہ اس کی صحبت سے فائدہ ہو۔",
+                "مقصد ہمیشہ خیر اور برکت کا حصول ہونا چاہیے۔"
+              ],
+              "english": [
+                "Some scholars believe if one inviter is a neighbor and the other a relative, the relative takes priority due to kinship ties.",
+                "Invitations from the pious or scholars may also be prioritized to benefit from their company.",
+                "The goal should always be the attainment of goodness and blessing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا اسلوبِ تربیت",
+              "english": "Prophetic Style of Training"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے صحابہ کو روزمرہ کے چھوٹے مسائل کے حل کے لیے بھی اصول سکھائے۔",
+                "ایک کامیاب مومن وہی ہے جو معاشرتی آداب میں بھی نمونہ ہو۔",
+                "سنت پر عمل کرنے سے نجی زندگی میں بھی برکت اور سکون آتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught the Companions principles even for small daily issues.",
+                "A successful believer is one who serves as a role model in social etiquette.",
+                "Following the Sunnah brings blessings and peace even in one's private life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی پابندی",
+              "english": "Punctuality and Time"
+            },
+            "content": {
+              "urdu": [
+                "پہلے دعوت دینے والے کا حق تسلیم کرنا وقت کی اہمیت کو اجاگر کرتا ہے۔",
+                "ہمیں اپنے معاملات میں دیانتدار اور شفاف ہونا چاہیے۔",
+                "اسلام ایک منظم اور مہذب زندگی گزارنے کا مکمل ضابطہ ہے۔"
+              ],
+              "english": [
+                "Recognizing the right of the first inviter highlights the importance of time management.",
+                "We must be honest and transparent in our dealings.",
+                "Islam is a complete code for living an organized and civilized life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

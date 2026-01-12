@@ -1,0 +1,264 @@
+{
+  "hadithId": 412,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh:412"],
+    "kitabId": 2,
+    "inKitabBab": 16,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 26
+  },
+
+  "takhreej": {
+    "arabic": "ضعيف جداً. أخرجه أبو عوانة بسند واهٍ، وقال الحافظ ابن حجر في التلخيص: فيه ألفاظ غريبة كثيرة وأخرجه بسند واهٍ.",
+    "urdu": "یہ روایت سنداً بہت زیادہ ضعیف ہے۔ اسے امام ابوعوانہ نے روایت کیا ہے مگر اس کی سند میں انقطاع اور کمزوری ہے۔ حافظ ابن حجر نے تلخیص الحبیر میں اسے 'واہ' (انتہائی کمزور) قرار دیا ہے۔",
+    "english": "Extremely Weak. Reported by Abu 'Awanah with a very weak chain. Al-Hafiz Ibn Hajar mentioned in 'Al-Talkhis' that it contains many rare words and its chain is fragile."
+  },
+  "importantWords": [
+    {
+      "arabic": "جَلِّلْنَا",
+      "english": "Cover us",
+      "urdu": "ہمیں ڈھانپ لے"
+    },
+    {
+      "arabic": "سَحَابًا",
+      "english": "Clouds",
+      "urdu": "بادل"
+    },
+    {
+      "arabic": "كَثِيفًا",
+      "english": "Thick / Dense",
+      "urdu": "گہرا / گاڑھا"
+    },
+    {
+      "arabic": "قَصِيفًا",
+      "english": "Thunderous",
+      "urdu": "کڑکنے والا"
+    },
+    {
+      "arabic": "ضَحُوكًا",
+      "english": "With lightning",
+      "urdu": "بجلی والا / چمکنے والا"
+    },
+    {
+      "arabic": "رَذَاذًا",
+      "english": "Drizzle / Fine rain",
+      "urdu": "ہلکی پھوار / بوندیں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں بارش کی طلب کے لیے ایک جامع دعا منقول ہے جس میں بادلوں کی مختلف اقسام اور بارانِ رحمت کی تکرار کے ساتھ اللہ سے التجا کی گئی ہے۔",
+    "english": "This Hadith records a comprehensive supplication for rain, invoking Allah by His majestic names to send various types of beneficial rain clouds."
+  },
+  "references": [
+    {
+      "arabic": "مسند أبي عوانة",
+      "english": "Musnad Abu 'Awanah"
+    },
+    {
+      "arabic": "التلخيص الحبير (2/99)",
+      "english": "Al-Talkhis al-Habir (2/99)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "سعد بن أبي وقاص",
+        "english": "Sa'd bin Abi Waqqas"
+      },
+      "slug": "sad-bin-abi-waqqas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R6w2v2eE6rM",
+  "grade": {
+    "arabic": "ضعيف جداً",
+    "english": "Very Weak (Da'if Jiddan)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "دعا کے الفاظ کی فصاحت",
+        "english": "Eloquence of the Supplication"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جامع الفاظ کا انتخاب",
+              "english": "Choice of Comprehensive Words"
+            },
+            "content": {
+              "urdu": [
+                "اس دعا میں بادلوں اور بارش کی مختلف کیفیات کا ذکر کیا گیا ہے۔",
+                "نبی ﷺ اللہ تعالیٰ سے ایسی بارش مانگتے جو زمین کو سیراب کر دے۔",
+                "یہ الفاظ اللہ کی قدرت اور اس کی تخلیق کی گہرائی کو ظاہر کرتے ہیں۔"
+              ],
+              "english": [
+                "This prayer mentions various states of clouds and types of rainfall.",
+                "The Prophet (PBUH) asked for rain that would thoroughly saturate the earth.",
+                "These words reflect the power of Allah and the depth of His creation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی صفات سے توسل",
+              "english": "Seeking Means through Allah's Attributes"
+            },
+            "content": {
+              "urdu": [
+                "دعا کا اختتام 'یا ذا الجلال والاکرام' پر ہوتا ہے جو عظیم نام ہے۔",
+                "اللہ کی بڑائی بیان کرنا دعا کی قبولیت کے لیے اہم ادب ہے۔",
+                "عاجزی کے ساتھ اللہ کو پکارنا ہی بندگی کی اصل روح ہے۔"
+              ],
+              "english": [
+                "The prayer ends with 'O Owner of Majesty', which is a great name.",
+                "Exalting Allah's greatness is an essential etiquette for the acceptance of dua.",
+                "Calling upon Allah with humility is the true essence of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علمی و فنی جائزہ",
+        "english": "Scientific and Technical Review"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سند کی حیثیت",
+              "english": "Status of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک اس مخصوص دعا کی سند میں شدید ضعف پایا جاتا ہے۔",
+                "محمد بن اسحاق اور دیگر راویوں کی وجہ سے روایت 'واہ' کہلاتی ہے۔",
+                "ضعیف روایات کو فضائلِ اعمال یا دعاؤں میں احتیاط کے ساتھ دیکھا جاتا ہے۔"
+              ],
+              "english": [
+                "According to scholars, the chain of this specific prayer has severe weakness.",
+                "Due to certain narrators, the narration is classified as 'fragile' (Wah).",
+                "Weak narrations are viewed with caution even in the context of virtues or prayers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غریب الفاظ کی تحقیق",
+              "english": "Research on Rare Words"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'دلوق' اور 'قطقط' جیسے غیر معروف الفاظ استعمال ہوئے ہیں۔",
+                "یہ الفاظ بارش کی شدت اور بوندوں کے تسلسل کو بیان کرتے ہیں۔",
+                "قدیم عربی لغت میں ان الفاظ کے گہرے معانی موجود ہیں۔"
+              ],
+              "english": [
+                "Rare words like 'Daluq' and 'Qitqit' are used in this Hadith.",
+                "These words describe the intensity of rain and the sequence of drops.",
+                "Deep meanings for these terms exist within ancient Arabic lexicons."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استسقاء کے آداب",
+        "english": "Etiquettes of Istisqa"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بارانِ رحمت کی طلب",
+              "english": "Seeking Rain of Mercy"
+            },
+            "content": {
+              "urdu": [
+                "استسقاء کا مقصد صرف پانی نہیں بلکہ اللہ کی خوشنودی حاصل کرنا ہے۔",
+                "ایسی بارش مانگنی چاہیے جو نفع بخش ہو اور نقصان دہ نہ ہو۔",
+                "بادلوں کا کڑکنا اور چمکنا اللہ کی ہیبت اور قدرت کی نشانی ہے۔"
+              ],
+              "english": [
+                "The goal of Istisqa is not just water but gaining the pleasure of Allah.",
+                "One should pray for rain that is beneficial and not destructive.",
+                "The thundering and lightning of clouds are signs of Allah's awe and power."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی استغفار",
+              "english": "Collective Repentance"
+            },
+            "content": {
+              "urdu": [
+                "قحط سالی اکثر انسانوں کے اپنے گناہوں کا نتیجہ ہوتی ہے۔",
+                "دعا سے پہلے توبہ کرنا سنتِ انبیاء کا حصہ رہا ہے۔",
+                "اللہ تعالیٰ توبہ کرنے والوں پر اپنی رحمت کے دروازے کھول دیتا ہے۔"
+              ],
+              "english": [
+                "Drought is often a result of the sins committed by humans themselves.",
+                "Repentance before supplication has been a practice of the Prophets.",
+                "Allah the Almighty opens the doors of His mercy for those who repent."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کا سبق",
+        "english": "Lessons for Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعا میں اصرار",
+              "english": "Persistence in Supplication"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کی دعائیں ہمیں اللہ سے مانگنے کا سلیقہ سکھاتی ہیں۔",
+                "اپنی ضرورت کو تفصیل سے اللہ کے سامنے پیش کرنا عاجزی ہے۔",
+                "اللہ سے بار بار مانگنا بندگی کا بہترین اظہار ہے۔"
+              ],
+              "english": [
+                "The Prophet's (PBUH) prayers teach us the correct manner of asking Allah.",
+                "Presenting one's needs in detail before Allah is a form of humility.",
+                "Repeatedly asking from Allah is the best expression of servitude."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صبر اور امید",
+              "english": "Patience and Hope"
+            },
+            "content": {
+              "urdu": [
+                "مشکل حالات میں مایوس ہونے کے بجائے دعا کا سہارا لیں۔",
+                "اللہ تعالیٰ ہر تنگی کے بعد آسانی پیدا کرنے والا ہے۔",
+                "ایمان کا تقاضا ہے کہ ہر نعمت کو اللہ ہی کی طرف سے سمجھا جائے۔"
+              ],
+              "english": [
+                "Instead of despairing in difficult times, take refuge in supplication.",
+                "Allah the Almighty is the One Who brings ease after every hardship.",
+                "Faith requires that every blessing be seen as coming from Allah alone."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

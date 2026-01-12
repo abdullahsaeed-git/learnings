@@ -1,0 +1,261 @@
+{
+  "hadithId": 703,
+  "hadithNo": 9,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:1591a"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1591). وأخرجه أبو داود (3351) والترمذي (1243) والنسائي (7/278).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (1591) نے اسے اپنی صحیح میں روایت کیا ہے۔ یہ بیعِ صرف کے پیچیدہ مسائل کے حل کے لیے ایک بنیادی نص ہے۔",
+    "english": "Sahih. Reported by Muslim (1591), Abu Dawud (3351), At-Tirmidhi (1243), and An-Nasa'i (7/278)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قِلَادَةً",
+      "english": "Necklace",
+      "urdu": "ہار"
+    },
+    {
+      "arabic": "دِينَاراً",
+      "english": "Dinar (Gold Coin)",
+      "urdu": "دینار (سونے کا سکہ)"
+    },
+    {
+      "arabic": "خَرَزٌ",
+      "english": "Gems / Beads",
+      "urdu": "موتی / نگینے / منکے"
+    },
+    {
+      "arabic": "فَفَصَلْتُهَا",
+      "english": "I separated them",
+      "urdu": "پس میں نے انہیں الگ کیا"
+    },
+    {
+      "arabic": "تُفْصَلَ",
+      "english": "Be separated",
+      "urdu": "الگ الگ کیا جائے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں یہ سکھایا گیا ہے کہ جب کسی چیز میں سونا اور دیگر اشیاء ملی ہوں، تو اسے سونے (کرنسی) کے بدلے فروخت کرنے سے پہلے الگ کرنا ضروری ہے تاکہ ربا (سود) کا شبہ ختم ہو سکے۔",
+    "english": "This Hadith teaches that when an item consists of gold mixed with other materials, it cannot be sold for gold currency until separated, to ensure there is no element of Riba (interest)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1591)",
+      "english": "Sahih Muslim (1591)"
+    },
+    {
+      "arabic": "سنن النسائي (4562)",
+      "english": "Sunan an-Nasa'i (4562)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "فضالة بن عبيد",
+        "english": "Fadalah bin 'Ubaid"
+      },
+      "slug": "fadalah-bin-ubaid"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0O5vXJ4Xm4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ربا الفضل سے بچاؤ کا طریقہ",
+        "english": "Method to Avoid Riba al-Fadl"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وزن کی برابری اور یقین",
+              "english": "Certainty and Equality of Weight"
+            },
+            "content": {
+              "urdu": [
+                "جب سونے کا تبادلہ سونے (دینار) سے ہو تو دونوں جانب وزن کا برابر ہونا فرض ہے۔",
+                "اگر ہار میں نگینے جڑے ہوں تو سونے کا حقیقی وزن معلوم کرنا ناممکن ہوتا ہے۔",
+                "نبی ﷺ نے 'فصل' (علیحدگی) کا حکم دیا تاکہ مقدار میں کمی بیشی کا شک ختم ہو جائے۔"
+              ],
+              "english": [
+                "When gold is exchanged for gold (Dinars), the weights on both sides must be equal.",
+                "If gems are attached to the necklace, the actual weight of the gold cannot be accurately determined.",
+                "The Prophet (PBUH) ordered separation to eliminate any doubt regarding quantitative excess."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شبہِ ربا کی ممانعت",
+              "english": "Prohibition of Suspicion of Riba"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں صرف سود ہی نہیں بلکہ سود کے ہر راستے اور شبہ کو بھی بند کیا گیا ہے۔",
+                "اندازے سے کیا گیا سودا جس میں ربا کا امکان ہو، باطل قرار پاتا ہے۔",
+                "مسلمان کو اپنی تجارت میں سو فیصد شفافیت برقرار رکھنی چاہیے۔"
+              ],
+              "english": [
+                "Sharia forbids not only usury itself but also every path leading to or resembling it.",
+                "Any transaction based on estimation that could involve Riba is considered void.",
+                "A Muslim must maintain 100% transparency in their commercial dealings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام اور باریکیاں",
+        "english": "Juristic Rulings and Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جنس بدلنے کی صورت",
+              "english": "Exchanging for a Different Genus"
+            },
+            "content": {
+              "urdu": [
+                "اگر سونے کا وہ ہار چاندی (درہم) کے بدلے خریدا جاتا تو اسے الگ کرنا ضروری نہ تھا۔",
+                "مختلف اجناس کے تبادلے میں وزن کی برابری شرط نہیں ہے، اس لیے وہاں اندازہ چل سکتا ہے۔",
+                "ممانعت تب ہے جب ہار کا سونا اور قیمت کی کرنسی دونوں ایک ہی دھات سے ہوں۔"
+              ],
+              "english": [
+                "If the gold necklace were bought with silver (Dirhams), separation would not be required.",
+                "Equality in weight is not mandatory when exchanging different types of items.",
+                "The prohibition specifically applies when both the item and the price consist of the same metal."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امام شافعی اور جمہور کا موقف",
+              "english": "Position of Shafi'i and the Majority"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء کے نزدیک ایسی چیز کا بیع ناجائز ہے جس میں سود والا مال دوسری چیز سے ملا ہو۔",
+                "اسے 'مد عجوہ' کا مسئلہ بھی کہا جاتا ہے، جس میں ایک ہی جنس اور مختلف جنس کا ملاپ ہو۔",
+                "سلامتی اسی میں ہے کہ سودے کے وقت ہر چیز کی مقدار بالکل واضح ہو۔"
+              ],
+              "english": [
+                "Most jurists invalidate the sale of an item where ribawi material is mixed with non-ribawi material.",
+                "This is known as the 'Mud 'Ajwa' issue in Fiqh, involving the mixture of same and different genera.",
+                "Safety lies in ensuring the quantity of every component is perfectly clear at the time of sale."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تجارتی دیانت اور صحابہ",
+        "english": "Integrity in Trade and the Companions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تقویٰ کا معیار",
+              "english": "Standard of Piety"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا فضالہ نے جب دیکھا کہ سونا زیادہ نکلا تو وہ خاموش نہیں رہے بلکہ فوراً نبی ﷺ سے رجوع کیا۔",
+                "صحابہ کرام نفع سے زیادہ اس بات کی فکر کرتے تھے کہ ان کا لقمہ حلال ہو۔",
+                "یہ واقعہ رہتی دنیا تک کے تاجروں کے لیے دیانت داری کا ایک عظیم نمونہ ہے۔"
+              ],
+              "english": [
+                "Fadalah did not stay silent when he realized the gold was in excess; he consulted the Prophet (PBUH).",
+                "The Companions cared more about the lawfulness of their income than the size of their profit.",
+                "This incident serves as a grand model of integrity for merchants until the end of time."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تعلیم و تربیت",
+              "english": "Education and Training"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے موقع پر ہی غلط فہمی دور کر کے ایک مستقل قاعدہ بیان فرما دیا۔",
+                "معاشی قوانین کی تعلیم معاشرے کو فریب اور استحصال سے بچاتی ہے۔",
+                "مسلم معاشرے میں تجارت کو بھی عبادت کے اصولوں پر پرکھنا چاہیے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) corrected the misunderstanding on the spot and established a permanent rule.",
+                "Teaching economic laws protects society from fraud and exploitation.",
+                "In a Muslim society, trade must be evaluated based on the principles of worship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید دور میں اطلاق",
+        "english": "Modern Day Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زیورات کی خرید و فروخت",
+              "english": "Trading Jewelry"
+            },
+            "content": {
+              "urdu": [
+                "جیولرز کو چاہیے کہ جڑے ہوئے پتھروں کا وزن الگ کر کے صرف سونے کی قیمت لیں۔",
+                "اگر پرانا سونا دے کر نیا لینا ہو تو وزن برابر رکھیں اور مزدوری نقد میں طے کریں۔",
+                "ڈیجیٹل گولڈ یا مکسڈ انویسٹمنٹ میں بھی شرعی حدود کا خیال رکھنا لازمی ہے۔"
+              ],
+              "english": [
+                "Jewelers should subtract the weight of stones and charge only for the net gold weight.",
+                "In exchanges of old gold for new, keep weights equal and settle labor charges in cash.",
+                "Sharia limits must be respected even in digital gold or mixed investment portfolios."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خلاصہ کلام",
+              "english": "Conclusion"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معیشت عدل اور شفافیت کا نام ہے، جہاں اندھیرے میں سودا کرنے کی گنجائش نہیں۔",
+                "تھوڑی سی محنت (الگ الگ کرنا) بڑے گناہ (سود) سے بچا سکتی ہے۔",
+                "رزق کی برکت سچائی اور شرعی ضوابط کی پیروی میں ہی پوشیدہ ہے۔"
+              ],
+              "english": [
+                "Islamic economics is defined by justice and clarity; there is no room for ambiguous deals.",
+                "A little effort (separating items) can save one from a major sin (usury).",
+                "The blessing in sustenance is hidden in truth and following Sharia regulations."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

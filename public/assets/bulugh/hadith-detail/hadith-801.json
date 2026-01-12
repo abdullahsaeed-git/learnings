@@ -1,0 +1,259 @@
+{
+  "hadithId": 801,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-7/801"],
+    "kitabId": 7,
+    "inKitabBab": 19,
+    "arabicBook": "بلوغ المرام",
+    "babId": 60
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم في صحيحه (1725)، كتاب اللقطة.",
+    "urdu": "یہ حدیث صحیح ہے، اسے امام مسلم نے اپنی صحیح (1725) میں کتاب اللقطہ کے تحت روایت کیا ہے۔",
+    "english": "Sahih. Recorded by Muslim in his Sahih (1725), in the Book of Lost Property (Al-Luqatah)."
+  },
+  "importantWords": [
+    {
+      "arabic": "آوَى",
+      "english": "Sheltered / Kept",
+      "urdu": "پناہ دی / رکھا"
+    },
+    {
+      "arabic": "ضَالَّةً",
+      "english": "Lost animal / thing",
+      "urdu": "گمشدہ جانور یا چیز"
+    },
+    {
+      "arabic": "ضَالٌّ",
+      "english": "Astray / Deviated",
+      "urdu": "گمراہ / گناہ گار"
+    },
+    {
+      "arabic": "يُعَرِّفْهَا",
+      "english": "Announce it",
+      "urdu": "اس کا اعلان کرے"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Narrated it",
+      "urdu": "اسے روایت کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث واضح کرتی ہے کہ گمشدہ چیز پانے والے پر لازم ہے کہ وہ اس کا اعلان کرے، ورنہ وہ گناہ کا مرتکب ٹھہرے گا۔",
+    "english": "This Hadith clarifies that anyone who finds lost property must announce it publicly; otherwise, they are considered to be acting wrongly."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (1725)",
+      "english": "Sahih Muslim (1725)"
+    },
+    {
+      "arabic": "بلوغ المرام (801)",
+      "english": "Bulugh al-Maram (801)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "زيد بن خالد الجهني",
+        "english": "Zaid bin Khalid Al-Juhani"
+      },
+      "slug": "zaid-bin-khalid-al-juhani"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-E_D2B3-M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "گمشدہ چیز پانے کی ذمہ داری",
+        "english": "Responsibility of Finding Lost Items"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اعلان کی اہمیت",
+              "english": "Importance of Announcement"
+            },
+            "content": {
+              "urdu": [
+                "گمشدہ چیز پانے والے پر شرعی طور پر لازم ہے کہ وہ اس کی تشہیر کرے۔",
+                "اعلان نہ کرنا خیانت کے زمرے میں آتا ہے جو کہ گناہ ہے۔",
+                "اسلامی معاشرے میں امانت داری کو فروغ دینا اس حکم کا اصل مقصد ہے۔"
+              ],
+              "english": [
+                "It is legally obligatory for the finder to announce the lost item publicly.",
+                "Failing to announce it is considered a form of breach of trust or sin.",
+                "The core purpose is to promote honesty and trust within the Islamic society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گمراہی کا مفہوم",
+              "english": "Meaning of Being 'Astray'"
+            },
+            "content": {
+              "urdu": [
+                "یہاں گمراہی سے مراد حق سے ہٹ جانا اور گناہ کا راستہ اختیار کرنا ہے۔",
+                "جب تک انسان اعلان نہیں کرتا، وہ غاصب (ناجائز قابض) کہلاتا ہے۔",
+                "یہ الفاظ اس عمل کی سنگینی اور ممانعت کو ظاہر کرنے کے لیے استعمال ہوئے ہیں۔"
+              ],
+              "english": [
+                "The term 'astray' here means deviating from the truth and committing a sin.",
+                "As long as the finder hides it, they are considered an illegal possessor.",
+                "This strong language is used to highlight the severity of withholding lost property."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لقطہ (گمشدہ چیز) کے قوانین",
+              "english": "Laws of Al-Luqatah (Lost Property)"
+            },
+            "content": {
+              "urdu": [
+                "قیمتی اشیاء کا اعلان ایک سال تک کرنا ضروری ہوتا ہے۔",
+                "معمولی چیزوں کے لیے اعلان کی مدت حالات کے مطابق کم ہو سکتی ہے۔",
+                "اگر مالک نہ ملے تو اسے صدقہ کیا جا سکتا ہے یا ضرورت مند استعمال کر سکتا ہے۔"
+              ],
+              "english": [
+                "Valuable items generally require a public announcement for one full year.",
+                "For minor items, the duration of the announcement may be shorter based on custom.",
+                "If the owner is not found, it can be given in charity or used by the needy."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کی اہمیت",
+              "english": "Importance of Intent"
+            },
+            "content": {
+              "urdu": [
+                "اگر نیت جانور کو ضائع ہونے سے بچانا ہو تو یہ مستحسن عمل ہے۔",
+                "لیکن اگر نیت اسے ہڑپ کرنا ہو تو یہ حرام قرار پائے گا۔",
+                "شریعت نے ہر قدم پر دیانت داری اور نیک نیتی کا تقاضا کیا ہے۔"
+              ],
+              "english": [
+                "If the intent is to save the animal from perish, it is a commendable act.",
+                "However, if the intent is to misappropriate it, then it is strictly forbidden.",
+                "Shariah requires integrity and good intention at every step of the process."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دوسروں کے مال کا احترام",
+              "english": "Respect for Others' Property"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کسی دوسرے کے مال کو ناحق کھانے کی سخت ممانعت کرتا ہے۔",
+                "گمشدہ جانور کو پناہ دے کر چھپانا اخلاقی گراوٹ کی علامت ہے۔",
+                "یہ حکم مسلمانوں کو دوسروں کے دکھ درد میں شریک ہونے کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "Islam strictly forbids consuming another person's property unjustly.",
+                "Concealing a lost animal after sheltering it is a sign of moral decline.",
+                "This ruling encourages Muslims to be empathetic toward the losses of others."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی امن و سکون",
+              "english": "Social Peace and Harmony"
+            },
+            "content": {
+              "urdu": [
+                "امانتوں کی واپسی سے معاشرے میں باہمی اعتماد پیدا ہوتا ہے۔",
+                "چوری اور ناجائز قبضے کے رجحانات کا خاتمہ ہوتا ہے۔",
+                "لوگوں کے دلوں میں ایک دوسرے کے لیے ہمدردی پیدا ہوتی ہے۔"
+              ],
+              "english": [
+                "Returning trusts builds mutual confidence and trust within the community.",
+                "It helps in curbing the tendencies of theft and illegal possession.",
+                "It fosters a sense of compassion and care among the people."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Application in Practical Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جدید دور میں اعلان کے طریقے",
+              "english": "Modern Methods of Announcement"
+            },
+            "content": {
+              "urdu": [
+                "آج کے دور میں سوشل میڈیا اور اشتہارات کو اعلان کے لیے استعمال کرنا چاہیے۔",
+                "تھانے یا متعلقہ اداروں میں اطلاع دینا بھی شرعی اعلان کا حصہ ہے۔",
+                "مقصد یہ ہے کہ خبر اصل مالک تک پہنچنے کے زیادہ سے زیادہ امکانات ہوں۔"
+              ],
+              "english": [
+                "In the modern era, social media and advertisements should be used for announcements.",
+                "Reporting to the police or relevant authorities counts as a valid announcement.",
+                "The goal is to maximize the chances of the news reaching the original owner."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچوں کی تربیت",
+              "english": "Training of Children"
+            },
+            "content": {
+              "urdu": [
+                "بچوں کو بچپن سے ہی گری پڑی چیزوں کے شرعی احکام سکھانے چاہئیں۔",
+                "انہیں امانت داری اور سچائی کی عملی مشق کروانی چاہیے۔",
+                "اس سے وہ مستقبل میں ایک ذمہ دار اور دیانت دار شہری بن سکیں گے۔"
+              ],
+              "english": [
+                "Children should be taught the Shariah rulings on found items from a young age.",
+                "They should be given practical exercises in honesty and truthfulness.",
+                "This will help them become responsible and trustworthy citizens in the future."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 945,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1086"],
+    "kitabId": 8,
+    "inKitabBab": 12,
+    "arabicBook": "كتاب العدة",
+    "babId": 75
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (5320) ، ومسلم (1485) ، من حديث أم سلمة ومن حديث سبيعة نفسها. وهو حجة في أن عدة الحامل تنتهي بوضع الحمل سواء كانت للوفاة أو الطلاق.",
+    "urdu": "صحیح۔ اسے بخاری (5320) اور مسلم (1485) نے روایت کیا ہے۔ یہ حدیث اس بات کی دلیل ہے کہ حاملہ عورت کی عدت وضع حمل (بچے کی پیدائش) ہے، خواہ اس کے شوہر کی وفات ہوئی ہو یا طلاق ملی ہو۔",
+    "english": "Sahih. Reported by Al-Bukhari (5320) and Muslim (1485). This Hadith serves as primary evidence that the Iddah (waiting period) for a pregnant woman ends upon childbirth, regardless of whether she was widowed or divorced."
+  },
+  "importantWords": [
+    {
+      "arabic": "نُفِسَتْ",
+      "english": "Gave birth / Postpartum",
+      "urdu": "بچہ جنا"
+    },
+    {
+      "arabic": "بَعْدَ وَفَاةِ",
+      "english": "After the death",
+      "urdu": "وفات کے بعد"
+    },
+    {
+      "arabic": "فَاسْتَأْذَنَتْهُ",
+      "english": "She sought permission",
+      "urdu": "اس نے اجازت طلب کی"
+    },
+    {
+      "arabic": "تَنْكِحَ",
+      "english": "To marry",
+      "urdu": "نکاح کرے"
+    },
+    {
+      "arabic": "وَضَعَتْ",
+      "english": "She delivered (the baby)",
+      "urdu": "اس نے بچہ جنا"
+    }
+  ],
+  "summary": {
+    "urdu": "حاملہ بیوہ کی عدت وضع حمل (بچے کی پیدائش) ہے؛ جیسے ہی بچہ پیدا ہو جائے اس کی عدت ختم ہو جاتی ہے اور وہ دوسرا نکاح کر سکتی ہے، خواہ شوہر کی وفات کو چند ہی دن ہوئے ہوں۔",
+    "english": "The waiting period (Iddah) for a pregnant widow ends immediately upon childbirth. Once she delivers the baby, she is free to remarry, even if only a few days have passed since her husband's death."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5320)",
+      "english": "Sahih al-Bukhari (5320)"
+    },
+    {
+      "arabic": "صحيح مسلم (1485)",
+      "english": "Sahih Muslim (1485)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "المسور بن مخرمة",
+        "english": "Al-Miswar bin Makhramah"
+      },
+      "slug": "al-miswar-bin-makhramah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kq6fR_wz4",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حاملہ کی عدت کا حکم",
+        "english": "Ruling on Iddah for Pregnant Women"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وضع حمل ہی عدت کی انتہا ہے",
+              "english": "Childbirth as the End of Iddah"
+            },
+            "content": {
+              "urdu": [
+                "قرآن مجید کے مطابق حاملہ عورتوں کی عدت وضع حمل (بچے کی پیدائش) تک ہے۔",
+                "یہ حکم عام ہے، چاہے عورت کو طلاق ہوئی ہو یا اس کا شوہر فوت ہو گیا ہو۔",
+                "جیسے ہی بچہ پیدا ہو جائے، عورت شرعی طور پر اپنی عدت سے نکل جاتی ہے۔"
+              ],
+              "english": [
+                "According to the Quran, the waiting period for pregnant women is until they deliver.",
+                "This ruling is general, applying to both divorced women and widows.",
+                "As soon as the child is born, the woman legally completes her Iddah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "چار ماہ دس دن کی استثنیٰ",
+              "english": "Exception to the 4-Month 10-Day Rule"
+            },
+            "content": {
+              "urdu": [
+                "عام بیوہ کی عدت چار ماہ دس دن ہے، لیکن حاملہ کے لیے یہ اصول مختلف ہے۔",
+                "اگر بیوہ حاملہ ہے، تو وضع حمل ہوتے ہی اس کی عدت ختم ہو جائے گی، خواہ ایک دن ہی ہوا ہو۔",
+                "یہ مسئلہ صحابہ کرام کے درمیان زیر بحث رہا اور نبی ﷺ نے اس کی صراحت فرمائی۔"
+              ],
+              "english": [
+                "The general Iddah for a widow is 4 months and 10 days, but for pregnant women, it differs.",
+                "If a widow is pregnant, her Iddah ends at childbirth, even if it happens the very next day.",
+                "This matter was discussed among the Companions, and the Prophet (ﷺ) clarified it."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور قانونی حکمت",
+        "english": "Juristic and Legal Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برأت رحم کی تصدیق",
+              "english": "Confirmation of Empty Womb"
+            },
+            "content": {
+              "urdu": [
+                "عدت کا ایک بڑا مقصد یہ معلوم کرنا ہے کہ عورت کے رحم میں بچہ ہے یا نہیں۔",
+                "وضع حمل سے یہ بات یقینی طور پر واضح ہو جاتی ہے کہ رحم سابقہ شوہر سے خالی ہو چکا ہے۔",
+                "جب نسب کا ابہام ختم ہو جائے تو عدت کو مزید لمبا کرنا عورت پر بوجھ بن جاتا ہے۔"
+              ],
+              "english": [
+                "A major purpose of Iddah is to determine if the woman is carrying a child.",
+                "Childbirth provides certainty that the womb is clear regarding the previous husband.",
+                "Once the ambiguity of lineage is removed, prolonging the Iddah becomes a burden on the woman."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عورت کے لیے آسانی",
+              "english": "Ease for the Woman"
+            },
+            "content": {
+              "urdu": [
+                "اسلام نے بیوہ کے لیے عدت کو بوجھ بننے سے بچانے کے لیے وضع حمل کی شرط رکھی۔",
+                "بچے کی پیدائش کے بعد وہ اپنی سماجی اور معاشی کفالت کے لیے دوسرا نکاح کر سکتی ہے۔",
+                "یہ قانون اللہ کی طرف سے عورت کے حقوق کے تحفظ اور آسانی کی علامت ہے۔"
+              ],
+              "english": [
+                "Islam set childbirth as the condition to prevent the Iddah from becoming a hardship for widows.",
+                "After giving birth, she can remarry to ensure her social and financial support.",
+                "This law is a sign of Allah's protection of women's rights and His facilitation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نبوی رہنمائی اور اس کا اثر",
+        "english": "Prophetic Guidance and its Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت سے ابہام کا خاتمہ",
+              "english": "Eliminating Ambiguity Through Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے سبیعہ اسلمیہ کو نکاح کی اجازت دے کر ایک اہم شرعی قاعدہ طے کیا۔",
+                "صحابہ کرام میں سے بعض کا خیال تھا کہ اسے 'طویل ترین مدت' (اقصی الاجلین) کا انتظار کرنا چاہیے۔",
+                "آپ ﷺ کے فیصلے نے ثابت کیا کہ قرآن کی سورہ طلاق کی آیت، سورہ بقرہ کی عمومی آیت پر مقدم ہے۔"
+              ],
+              "english": [
+                "By permitting Subai'ah to marry, the Prophet (ﷺ) established an important Shariah rule.",
+                "Some Companions thought she should wait for the longer of the two prescribed periods.",
+                "His decision proved that the specific verse in Surah At-Talaq overrides the general one in Surah Al-Baqarah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فتویٰ اور تحقیق کا طریقہ",
+              "english": "Method of Fatwa and Inquiry"
+            },
+             "content": {
+              "urdu": [
+                "سبیعہ اسلمیہ نے خود نبی ﷺ سے جا کر سوال کیا، جو دین سیکھنے کا صحیح طریقہ ہے۔",
+                "مشکوک بات پر عمل کرنے کے بجائے مستند علم کی طرف رجوع کرنا چاہیے جیسا کہ انہوں نے کیا۔",
+                "امام زہری کی رائے بھی یہی ہے کہ عورت نفاس کے دوران نکاح کر سکتی ہے مگر قربت نہیں۔"
+              ],
+              "english": [
+                "Subai'ah personally questioned the Prophet (ﷺ), which is the correct way to learn religion.",
+                "Instead of acting on doubts, one should refer to authentic knowledge as she did.",
+                "Imam Az-Zuhri's view is that she can marry during postpartum bleeding but no intimacy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور نصیحت",
+        "english": "Practical Lessons and Advice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی علم کی ضرورت",
+              "english": "Need for Shariah Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "اکثر لوگ عدت کے مسائل سے ناواقف ہوتے ہیں اور بیوہ پر غیر ضروری پابندیاں لگاتے ہیں۔",
+                "اسلامی معاشرے میں بیوہ کے حقوق اور اس کی عدت کے درست علم کو عام کرنا چاہیے۔",
+                "علم کی کمی کی وجہ سے حلال کو حرام اور حرام کو حلال سمجھنا ایک بڑا فتنہ ہے۔"
+              ],
+              "english": [
+                "Many people are unaware of Iddah rulings and impose unnecessary restrictions on widows.",
+                "Correct knowledge regarding a widow's rights and Iddah should be spread in society.",
+                "Viewing the lawful as forbidden due to lack of knowledge is a great trial (Fitnah)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رواداری اور انسانی فطرت",
+              "english": "Tolerance and Human Nature"
+            },
+            "content": {
+              "urdu": [
+                "اسلام انسانی ضروریات اور بدلتے ہوئے حالات کا مکمل ادراک رکھنے والا دین ہے۔",
+                "عدت کا مقصد سزا دینا نہیں بلکہ سماجی اور حیاتیاتی ضرورتوں کو پورا کرنا ہے۔",
+                "ہمیں دین کے معاملے میں سختی کے بجائے وہی طریقہ اپنانا چاہیے جو نبی ﷺ نے بتایا۔"
+              ],
+              "english": [
+                "Islam is a religion that fully acknowledges human needs and changing circumstances.",
+                "The purpose of Iddah is not punishment but fulfilling social and biological needs.",
+                "In religious matters, we should adopt the Prophetic ease rather than personal harshness."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

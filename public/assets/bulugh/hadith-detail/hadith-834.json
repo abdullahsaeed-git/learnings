@@ -1,0 +1,259 @@
+{
+  "hadithId": 834,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/11"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+ 
+  "takhreej": {
+    "arabic": "حسن . رواه أحمد (4 /5 ) ، والحاكم (2/183) ، وابن حبان (4066) ، والبيهقي (7/288) ، وصححه الحاكم ووافقه الذهبي.",
+    "urdu": "یہ حدیث حسن درجے کی ہے۔ اسے امام احمد، حاکم اور ابن حبان نے روایت کیا ہے۔ امام حاکم اور ذہبی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Hasan. Reported by Ahmad (4/5), Al-Hakim (2/183), Ibn Hibban (4066), and Al-Bayhaqi (7/288). Al-Hakim and Adh-Dhahabi graded it Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَعْلِنُوا",
+      "english": "Publicize / Announce",
+      "urdu": "اعلان کرو / ظاہر کرو"
+    },
+    {
+      "arabic": "النِّكاحَ",
+      "english": "The Marriage",
+      "urdu": "نکاح"
+    },
+    {
+      "arabic": "أَبِيهِ",
+      "english": "His father",
+      "urdu": "ان کے والد"
+    },
+    {
+      "arabic": "رَوَاهُ",
+      "english": "Narrated it",
+      "urdu": "اسے روایت کیا"
+    },
+    {
+      "arabic": "صَحَّحَهُ",
+      "english": "Authenticated it",
+      "urdu": "اسے صحیح قرار دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ نے نکاح کو خفیہ رکھنے کے بجائے اس کی تشہیر اور اعلان کا حکم دیا ہے تاکہ معاشرے میں حلال اور حرام (زنا) کے درمیان فرق واضح ہو سکے۔",
+    "english": "The Prophet (ﷺ) commanded that marriage should be publicized rather than kept secret to distinguish between lawful union and illicit relationships."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد، رقم الحديث ١٦١٣٠",
+      "english": "Musnad Ahmad, Hadith No. 16130"
+    },
+    {
+      "arabic": "المستدرك للحاكم، رقم الحديث ٢٧٤٨",
+      "english": "Al-Mustadrak Al-Hakim, Hadith No. 2748"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن الزبير",
+        "english": "Abdullah bin az-Zubair"
+      },
+      "slug": "abdullah-bin-az-zubair"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0hX0eYvD31c",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نکاح کی تشہیر کی اہمیت",
+        "english": "Importance of Proclaiming Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حلال اور حرام میں فرق",
+              "english": "Difference Between Halal and Haram"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کا اعلان کرنے سے معاشرے میں حلال تعلق اور زنا کے درمیان تمیز پیدا ہوتی ہے۔",
+                "خفیہ نکاح معاشرے میں شکوک و شبہات اور تہمت کا باعث بن سکتا ہے۔",
+                "اعلانِ نکاح عفت و عصمت کی حفاظت اور گواہی کے قیام کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Publicizing marriage distinguishes between a lawful union and adultery in society.",
+                "A secret marriage can lead to suspicions, doubts, and false accusations within the community.",
+                "Proclaiming the marriage protects chastity and establishes necessary public testimony."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعلان کے طریقے",
+              "english": "Methods of Announcement"
+            },
+            "content": {
+              "urdu": [
+                "اعلانِ نکاح کے لیے کم از کم دو گواہوں کی موجودگی اور قریبی رشتہ داروں کو اطلاع دینا ضروری ہے۔",
+                "ولیمہ کی دعوت بھی نکاح کی تشہیر کا ایک بہترین اور مسنون طریقہ ہے۔",
+                "خوشی کے اظہار کے لیے شرعی حدود میں رہتے ہوئے دف بجانے کی بھی اجازت دی گئی ہے۔"
+              ],
+              "english": [
+                "Publicizing requires at least two witnesses and informing close relatives about the union.",
+                "Hosting a Walima feast is an excellent and Sunnah-prescribed way to announce a marriage.",
+                "Playing the 'Duff' within Sharia limits is permitted to express joy and spread the word."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خفیہ نکاح کے نقصانات",
+        "english": "Drawbacks of Secret Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تہمت اور بدنامی کا خطرہ",
+              "english": "Risk of Slander and Defamation"
+            },
+            "content": {
+              "urdu": [
+                "اگر نکاح خفیہ رکھا جائے تو میاں بیوی کو ساتھ دیکھ کر لوگ بدگمانی کا شکار ہو سکتے ہیں۔",
+                "نبی ﷺ نے ہمیں ایسی جگہوں اور کاموں سے بچنے کا حکم دیا ہے جو تہمت کا سبب بنیں۔",
+                "اعلانِ نکاح فریقین کی عزت اور وقار کو معاشرے میں محفوظ بناتا ہے۔"
+              ],
+              "english": [
+                "If marriage is kept secret, people may harbor ill thoughts upon seeing the couple together.",
+                "The Prophet (ﷺ) taught us to avoid situations that might lead to public slander.",
+                "Announcing the marriage secures the honor and dignity of both parties in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانونی اور وراثتی مسائل",
+              "english": "Legal and Inheritance Issues"
+            },
+            "content": {
+              "urdu": [
+                "خفیہ نکاح کی صورت میں اولاد کے نسب اور حقوق کے ثبوت میں دشواری پیش آ سکتی ہے۔",
+                "موت کی صورت میں وراثت کی تقسیم میں پیچیدگیاں اور جھگڑے پیدا ہوتے ہیں۔",
+                "اعلانِ نکاح ازدواجی حقوق کے قانونی تحفظ کی پہلی سیڑھی ہے۔"
+              ],
+              "english": [
+                "Secret marriages cause difficulties in proving lineage and the rights of children.",
+                "In the event of death, complications and disputes arise regarding the division of inheritance.",
+                "Publicizing the marriage is the first step toward the legal protection of marital rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی فوائد",
+        "english": "Societal Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خوشی میں شرکت",
+              "english": "Sharing the Joy"
+            },
+            "content": {
+              "urdu": [
+                "اعلانِ نکاح کے ذریعے دوست احباب اور رشتہ داروں کو خوشی میں شریک ہونے کا موقع ملتا ہے۔",
+                "اس سے مسلمانوں کے درمیان باہمی محبت، بھائی چارہ اور تعاون بڑھتا ہے۔",
+                "مبارکباد اور دعاؤں کے ذریعے نئے جوڑے کی زندگی میں برکت آتی ہے۔"
+              ],
+              "english": [
+                "Announcing the marriage allows friends and relatives to participate in the joy.",
+                "This fosters mutual love, brotherhood, and cooperation among the Muslim community.",
+                "Congratulations and prayers from the community bring blessings to the new couple's life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فتنے کا سدِ باب",
+              "english": "Prevention of Fitnah"
+            },
+            "content": {
+              "urdu": [
+                "اعلانِ نکاح دیگر امیدواروں کو رشتہ بھیجنے سے روک دیتا ہے جس سے تضاد ختم ہوتا ہے۔",
+                "معاشرے میں یہ واضح ہو جاتا ہے کہ فلاں مرد اور عورت اب ایک دوسرے کے لیے حلال ہیں۔",
+                "یہ حکم معاشرتی نظم و ضبط اور اخلاقی پاکیزگی برقرار رکھنے میں مددگار ہے۔"
+              ],
+              "english": [
+                "Announcing the marriage stops other suitors from proposing, thus eliminating conflict.",
+                "It becomes clear to society that the man and woman are now lawful for each other.",
+                "This command helps maintain social discipline and moral purity within the community."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اعتدال اور سادگی",
+        "english": "Moderation and Simplicity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فضول خرچی سے گریز",
+              "english": "Avoiding Extravagance"
+            },
+            "content": {
+              "urdu": [
+                "اعلانِ نکاح کا مطلب ہرگز یہ نہیں کہ اس پر بے جا اسراف اور نمود و نمائش کی جائے۔",
+                "سادہ اعلان اور مسنون ولیمہ ہی برکت کا باعث بنتے ہیں۔",
+                "اسلامی تعلیمات میں سادگی کو ہر معاملے میں پسند کیا گیا ہے۔"
+              ],
+              "english": [
+                "Publicizing the marriage does not mean engaging in wasteful spending or showing off.",
+                "A simple announcement and a Sunnah Walima are the true sources of Barakah.",
+                "Islamic teachings prefer simplicity and moderation in all aspects of life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کی اصلاح",
+              "english": "Correction of Intentions"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کا اعلان اللہ کی رضا اور سنت کی پیروی کی نیت سے ہونا چاہیے۔",
+                "لوگوں کو دکھانے کے بجائے شرعی ضرورت کو پورا کرنا مقصود ہونا چاہیے۔",
+                "خلوصِ نیت ہی کسی بھی عمل کی قبولیت اور برکت کی بنیاد ہے۔"
+              ],
+              "english": [
+                "The announcement should be made with the intention of pleasing Allah and following the Sunnah.",
+                "The goal should be fulfilling a Sharia requirement rather than seeking public admiration.",
+                "Sincerity of intention is the foundation for the acceptance and blessing of any deed."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

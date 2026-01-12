@@ -1,0 +1,259 @@
+{
+  "hadithId": 974,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/974"],
+    "kitabId": 8,
+    "inKitabBab": 13,
+    "arabicBook": "بلوغ المرام",
+    "babId": 76
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف.‏ رواه أبو داود في المراسيل (207) والحاكم في المستدرك (7/403) وفي سنده مجهول فضلا عن كونه مرسلا.‏",
+    "urdu": "یہ روایت ضعیف ہے۔ امام ابوداؤد نے اسے 'المراسیل' (207) میں روایت کیا ہے۔ اس کی سند مرسل ہونے کے ساتھ ساتھ اس میں ایک راوی مجہول بھی ہے۔",
+    "english": "Da'if (Weak). Reported by Abu Dawud in Al-Marasil (207) and Al-Hakim in Al-Mustadrak. The chain is Mursal and contains an unknown narrator."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "تُسْتَرْضَعَ",
+      "english": "Be suckled / Engaged to suckle",
+      "urdu": "دودھ پلوانا"
+    },
+    {
+      "arabic": "اَلْحَمْقَى",
+      "english": "The foolish / Mentally deficient",
+      "urdu": "احمق / کم عقل"
+    },
+    {
+      "arabic": "مُرْسَلٌ",
+      "english": "Mursal (Disconnected chain)",
+      "urdu": "مرسل (سند میں انقطاع)"
+    },
+    {
+      "arabic": "صُحْبَةٌ",
+      "english": "Companionship",
+      "urdu": "صحابی ہونا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس روایت میں احمق عورتوں سے دودھ پلوانے کی ممانعت بیان کی گئی ہے، تاکہ بچے کی تربیت اور عادات پر منفی اثر نہ پڑے۔",
+    "english": "This narration mentions a prohibition against hiring foolish women as wet-nurses to protect the child's development and character."
+  },
+  "references": [
+    {
+      "arabic": "أخرجه أبو داود في المراسيل (207)",
+      "english": "Reported by Abu Dawud in Al-Marasil (207)"
+    },
+    {
+      "arabic": "سنن الكبرى للبيهقي (15682)",
+      "english": "Sunan al-Kubra by al-Bayhaqi (15682)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "زياد السهمي",
+        "english": "Ziyad as-Sahmi"
+      },
+      "slug": "ziyad-as-sahmi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYJjYy_P_8c",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی تشریح اور مفہوم",
+        "english": "Explanation and Meaning"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رضاعت کے اثرات",
+              "english": "Effects of Breastfeeding"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی تعلیمات کے مطابق دودھ پینے سے بچے میں مرضعہ کے اوصاف منتقل ہوتے ہیں۔",
+                "احمق عورت کا دودھ بچے کی ذہنی نشوونما پر اثر انداز ہو سکتا ہے۔",
+                "اسی لیے فقہاء نے نیک اور عقل مند عورت کا انتخاب بہتر قرار دیا ہے۔"
+              ],
+              "english": [
+                "Islamic teachings suggest that a wet-nurse's traits can influence the child.",
+                "A foolish woman's milk might affect the child's mental and behavioral growth.",
+                "Jurists recommend choosing a pious and intelligent woman for breastfeeding."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تربیت کی اہمیت",
+              "english": "Importance of Upbringing"
+            },
+            "content": {
+              "urdu": [
+                "بچے کی ابتدائی پرورش اس کی شخصیت کی بنیاد بنتی ہے۔",
+                "دودھ پلانے والی عورت کا اثر صرف جسمانی نہیں بلکہ اخلاقی بھی ہوتا ہے۔",
+                "یہ ممانعت دراصل نسلوں کی حفاظت اور بہتر تربیت کی ایک کڑی ہے۔"
+              ],
+              "english": [
+                "Early nursing forms the foundation of a child's character and personality.",
+                "The influence of the wet-nurse is moral and psychological, not just physical.",
+                "This prohibition aims to safeguard future generations and ensure better upbringing."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "استنادی حیثیت اور فقہی حکم",
+        "english": "Authenticity and Juristic Ruling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کا ضعف",
+              "english": "Weakness of the Hadith"
+            },
+            "content": {
+              "urdu": [
+                "یہ روایت مرسل ہے کیونکہ زیاد السہمی صحابی نہیں بلکہ تابعی ہیں۔",
+                "محدثین کے نزدیک مرسل روایت استدلال میں ضعیف سمجھی جاتی ہے۔",
+                "سند میں مجہول راوی کی موجودگی اس کے ضعف کو مزید بڑھاتی ہے۔"
+              ],
+              "english": [
+                "This narration is Mursal because Ziyad as-Sahmi was a Tabi'i, not a Sahabi.",
+                "Mursal narrations are generally considered weak (Da'if) for legal proof.",
+                "The presence of an unknown narrator in the chain further weakens the report."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی نقطہ نظر",
+              "english": "Juristic Perspective"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ حدیث ضعیف ہے، مگر فقہاء اس کے مفہوم کو پسندیدہ قرار دیتے ہیں۔",
+                "عقل مند عورت کا انتخاب ایک احتیاطی تدبیر کے طور پر مانا جاتا ہے۔",
+                "اسے حرام نہیں بلکہ کراہت یا مشورے کے طور پر لیا جاتا ہے۔"
+              ],
+              "english": [
+                "Even though the Hadith is weak, jurists appreciate its underlying meaning.",
+                "Selecting an intelligent wet-nurse is seen as a prudent precautionary measure.",
+                "It is generally treated as a matter of recommendation or dislike rather than haram."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "والدین کی ذمہ داری",
+        "english": "Responsibility of Parents"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بچے کے حقوق",
+              "english": "Rights of the Child"
+        },
+            "content": {
+              "urdu": [
+                "بچے کا حق ہے کہ اسے بہترین غذا اور تربیت فراہم کی جائے۔",
+                "والدین کو دودھ پلانے والی کے انتخاب میں لاپرواہی نہیں کرنی چاہیے۔",
+                "اچھی مرضعہ کا انتخاب بچے کے روشن مستقبل کی ضمانت ہے۔"
+              ],
+              "english": [
+                "A child has the right to receive the best nutrition and upbringing.",
+                "Parents should not be negligent when choosing a wet-nurse or caregiver.",
+                "Choosing a good wet-nurse ensures a healthy and bright future for the child."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی اثرات",
+              "english": "Social Impact"
+            },
+            "content": {
+              "urdu": [
+                "افراد کی انفرادی اصلاح سے ہی معاشرہ بہتر بنتا ہے۔",
+                "بچپن کے اثرات انسان کے سماجی رویوں پر اثر ڈالتے ہیں۔",
+                "اسلام ہر اس ذریعے کو روکتا ہے جو انسانی عقل میں نقص کا سبب بنے۔"
+              ],
+              "english": [
+                "Society improves only through the individual rectification of its members.",
+                "Childhood influences significantly shape a person's social behavior.",
+                "Islam blocks every path that might lead to deficiency in human intellect."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اسباق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احتیاط اور پرہیز",
+              "english": "Caution and Avoidance"
+            },
+            "content": {
+              "urdu": [
+                "مشکوک یا نقصان دہ ذرائع سے اجتناب کرنا عقل مندی ہے۔",
+                "بچوں کے معاملے میں ہر قسم کے طبی اور اخلاقی خطرات سے بچنا چاہیے۔",
+                "یہ روایت ہمیں ماحول کے اثرات سے باخبر رہنے کا درس دیتی ہے۔"
+              ],
+              "english": [
+                "It is wise to avoid suspicious or potentially harmful sources.",
+                "Every medical and moral risk regarding children should be avoided.",
+                "This narration teaches us to be aware of environmental influences."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "صحیح علم کی تلاش",
+              "english": "Seeking Correct Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "ضعیف احادیث کے مفاہیم کو بھی حکمت کے طور پر دیکھنا چاہیے۔",
+                "دین کے ہر حکم کے پیچھے انسانی فلاح و بہبود چھپی ہوتی ہے۔",
+                "علماء سے احادیث کی صحت اور ان کے اطلاق کے بارے میں پوچھنا ضروری ہے۔"
+              ],
+              "english": [
+                "Meanings of weak Hadiths can still be viewed as points of wisdom.",
+                "Human welfare is hidden behind every command of the religion.",
+                "It is essential to consult scholars regarding the health and application of Hadith."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

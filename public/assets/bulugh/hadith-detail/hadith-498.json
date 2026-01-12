@@ -1,0 +1,239 @@
+{
+  "hadithId": 498,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/abudawud:1603",
+      "https://sunnah.com/tirmidhi:644"
+    ],
+    "kitabId": 4,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الزكاة",
+    "babId": 29
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف. رواه أبو داود (1603)، والترمذي (644)، والنسائي (2481)، وابن ماجه (1819). قال الحافظ: وفيه انقطاع، لأن ابن جريج لم يسمع من عطاء، وعطاء لم يسمع من عتاب بن أسيد. لكن المعنى تدعمه أدلة أخرى صحيحة.",
+    "urdu": "یہ روایت ضعیف ہے۔ اسے ابوداؤد، ترمذی، نسائی اور ابن ماجہ نے روایت کیا ہے۔ حافظ ابن حجر کے مطابق اس کی سند میں انقطاع ہے کیونکہ راویوں کے درمیان ملاقات ثابت نہیں۔ تاہم، انگور پر عشر اور اس کے تخمینے کا اصل حکم دیگر دلائل سے تقویت پاتا ہے۔",
+    "english": "Weak. Reported by Abu Dawud (1603), at-Tirmidhi (644), an-Nasa'i (2481), and Ibn Majah (1819). Al-Hafiz Ibn Hajar mentioned that it has a gap (Inqita') in its chain. However, the legal concept of estimating grapes is supported by other general evidences."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُخْرَصَ",
+      "english": "To be estimated",
+      "urdu": "تخمینہ / اندازہ لگایا جائے"
+    },
+    {
+      "arabic": "اَلْعِنَبُ",
+      "english": "Grapes",
+      "urdu": "انگور"
+    },
+    {
+      "arabic": "اَلنَّخْلُ",
+      "english": "Date palms / Dates",
+      "urdu": "کھجور / کھجور کے درخت"
+    },
+    {
+      "arabic": "زَبِيبًا",
+      "english": "Raisins",
+      "urdu": "کشمش / منقیٰ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں انگور کی زکوٰۃ (عشر) کا طریقہ بتایا گیا ہے کہ درخت پر لگے انگوروں کا اندازہ لگا کر ان کی زکوٰۃ خشک ہونے کے بعد کشمش کی صورت میں لی جائے گی۔",
+    "english": "This Hadith explains the method of Zakat for grapes: evaluating the yield while still on the vines and collecting the due Zakat in the form of raisins after they have dried."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (1603)",
+      "english": "Sunan Abu Dawud (1603)"
+    },
+    {
+      "arabic": "سنن الترمذي (644)",
+      "english": "Sunan at-Tirmidhi (644)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عتاب بن أسيد",
+        "english": "Attab bin Usaid"
+      },
+      "slug": "attab-bin-usaid"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_rOun7K5bY",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "انگور اور کھجور کا تقابل",
+        "english": "Comparison of Grapes and Dates"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تخمینے کا طریقہ (خرص)",
+              "english": "The Method of Estimation (Khars)"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح کھجوروں کے پکنے سے پہلے ماہرین ان کی خشک مقدار کا اندازہ لگاتے ہیں، انگور میں بھی یہی طریقہ اپنایا جائے گا۔",
+                "خرص کا فائدہ یہ ہے کہ کسان کو معلوم ہو جاتا ہے کہ اسے کتنا حصہ غریبوں کو دینا ہے اور وہ باقی فصل آزادی سے استعمال کر سکتا ہے۔",
+                "یہ طریقہ زراعت کے معاملے میں اسلامی ریاست کی سہولت کاری کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Just as experts estimate the dried quantity of dates before harvest, the same is done for grapes.",
+                "Estimation allows the farmer to know the due portion for the poor, enabling free use of the rest of the crop.",
+                "This method demonstrates the facilitative role of the Islamic state in agriculture."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پھلوں کی زکوٰۃ کی ادائیگی",
+              "english": "Payment of Zakat on Fruits"
+            },
+            "content": {
+              "urdu": [
+                "انگور کی زکوٰۃ تازہ انگور کے بجائے کشمش کی صورت میں لی جاتی ہے کیونکہ کشمش ذخیرہ کی جا سکتی ہے۔",
+                "عشر (دسواں حصہ) یا نصف عشر (بیسواں حصہ) کا حساب خشک وزن پر ہوتا ہے۔",
+                "یہ اس اصول پر مبنی ہے کہ زکوٰۃ اس شے سے دی جائے جو مستحقین کے لیے زیادہ دیرپا اور نفع بخش ہو۔"
+              ],
+              "english": [
+                "Zakat on grapes is collected as raisins rather than fresh fruit, as raisins are storable.",
+                "The calculation of Ushr or half-Ushr is based on the final dried weight.",
+                "This aligns with the principle that Zakat should be paid in a form that is most beneficial and lasting for the needy."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام اور ائمہ کی آراء",
+        "english": "Juristic Rulings and Scholar Views"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تخمینے کا جواز",
+              "english": "Permissibility of Estimation"
+            },
+            "content": {
+              "urdu": [
+                "جمہور ائمہ (مالک، شافعی، احمد) کے نزدیک انگور اور کھجور میں تخمینہ لگانا سنت ہے۔",
+                "امام ابوحنیفہ کے نزدیک تخمینے میں غلطی کا احتمال ہوتا ہے، اس لیے وزن کرنا ضروری ہے، مگر ضرورت کے وقت گنجائش دیتے ہیں۔",
+                "جدید دور میں سائنسی طریقوں سے فصل کا اندازہ لگانا 'خرص' کے مساوی سمجھا جا سکتا ہے۔"
+              ],
+              "english": [
+                "The majority of Imams (Malik, Shafi'i, Ahmad) consider estimating grapes and dates as Sunnah.",
+                "Imam Abu Hanifa prefers precise weighing due to the margin of error in estimation, but allows it when necessary.",
+                "In modern times, scientific crop yield forecasting can be viewed as an equivalent to 'Khars'."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سند میں انقطاع کا اثر",
+              "english": "Impact of the Gap in the Chain"
+            },
+            "content": {
+              "urdu": [
+                "حافظ ابن حجر نے واضح کیا کہ اس حدیث کی سند میں راویوں کا درمیانی واسطہ غائب ہے۔",
+                "علمِ حدیث میں منقطع روایت کمزور مانی جاتی ہے، البتہ دیگر صحیح روایات اس کے مفہوم کی تائید کرتی ہیں۔",
+                "عملِ صحابہ اور تعاملِ امت سے بھی انگور پر زکوٰۃ کا وجوب ثابت ہے۔"
+              ],
+              "english": [
+                "Al-Hafiz Ibn Hajar clarified that an intermediate link is missing in this Hadith's chain.",
+                "While a broken chain (Munqati') is technically weak, other authentic reports validate its meaning.",
+                "The practice of the Companions and the consensus of the Ummah confirm Zakat on grapes."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی حکمت اور عدل",
+        "english": "Economic Wisdom and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غریبوں کی غذائی ضرورت",
+              "english": "Food Security for the Poor"
+            },
+            "content": {
+              "urdu": [
+                "کشمش اور کھجور جیسی خشک اشیاء غریبوں کے لیے سال بھر کا راشن بنتی ہیں۔",
+                "تازہ پھل جلدی خراب ہو جاتے ہیں، اس لیے شریعت نے خشک حالت میں وصولی کا حکم دیا۔",
+                "یہ نظام معاشرے کے کمزور طبقے کی غذائی حفاظت (Food Security) کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "Dried items like raisins and dates serve as long-term provisions for the poor.",
+                "Fresh fruits perish quickly; thus, Shariah mandates collection in their dried, storable state.",
+                "This system ensures food security for the vulnerable segments of society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیانت اور امانت",
+              "english": "Honesty and Trust"
+            },
+            "content": {
+              "urdu": [
+                "تخمینہ لگانے والے (خارص) کو نہایت دیانتدار اور ماہر ہونا چاہیے۔",
+                "کسان کو چاہیے کہ وہ اپنی فصل کے بارے میں صحیح معلومات فراہم کرے۔",
+                "اللہ کے حق (زکوٰۃ) کی ادائیگی میں نیت کا صاف ہونا بنیادی شرط ہے۔"
+              ],
+              "english": [
+                "The estimator (Kharis) must be extremely honest and skilled in his field.",
+                "The farmer must provide accurate information regarding his produce.",
+                "Sincerity of intention is a prerequisite for fulfilling Allah's right (Zakat)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی اہمیت",
+              "english": "Importance of Discipline"
+            },
+            "content": {
+              "urdu": [
+                "زکوٰۃ کی وصولی کے لیے سرکاری طور پر ماہرین مقرر کرنا سنتِ نبوی ہے۔",
+                "ایک منظم نظام ہی حقوق کی منصفانہ تقسیم کو یقینی بنا سکتا ہے۔",
+                "دین کے احکامات صرف عبادات نہیں بلکہ ایک مکمل سماجی و معاشی نظام ہیں۔"
+              ],
+              "english": [
+                "Appointing official experts for Zakat collection is a Prophetic Sunnah.",
+                "An organized system is essential for the fair distribution of rights.",
+                "Religious commands are not just rituals but constitute a complete socio-economic system."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

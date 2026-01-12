@@ -1,0 +1,259 @@
+{
+  "hadithId": 421,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-421"],
+    "kitabId": 2,
+    "inKitabBab": 17,
+    "arabicBook": "بلوغ المرام",
+    "babId": 27
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح بشواهده.‏ رواه البيهقي (3/271)‏، وله شواهد من حديث عبد الله بن عمرو عند الترمذي (2819) وأحمد (2/181)، ومن حديث مالك بن نضلة عند أبي داود (4063).",
+    "urdu": "یہ حدیث اپنے شواہد کی بنا پر صحیح ہے۔ اسے بیہقی نے روایت کیا ہے، اور اس کے شواہد ترمذی میں عبداللہ بن عمرو اور ابوداؤد میں مالک بن نضلہ کی روایات سے ملتے ہیں۔",
+    "english": "Sahih due to its supporting evidences. Reported by al-Baihaqi (3/271). Supporting narrations are found in At-Tirmidhi (2819) from Abdullah bin 'Amr and Abu Dawud (4063) from Malik bin Nadlah."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُحِبُّ",
+      "english": "Loves",
+      "urdu": "پسند کرتا ہے / محبت کرتا ہے"
+    },
+    {
+      "arabic": "أَنْعَمَ",
+      "english": "Bestowed favor",
+      "urdu": "انعام فرمایا / نعمت دی"
+    },
+    {
+      "arabic": "أَثَرَ",
+      "english": "Effect / Trace",
+      "urdu": "اثر / نشان"
+    },
+    {
+      "arabic": "نِعْمَتِهِ",
+      "english": "His favor / Blessing",
+      "urdu": "اس کی نعمت"
+    },
+    {
+      "arabic": "عَبْدٍ",
+      "english": "Slave / Servant",
+      "urdu": "بندہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اللہ تعالیٰ چاہتا ہے کہ جس بندے کو اس نے مال و دولت یا دیگر نعمتیں دی ہیں، وہ ان کا اظہار اپنے لباس اور زندگی سے کرے تاکہ اللہ کا شکر ادا ہو۔",
+    "english": "Allah loves for His servant to manifest the blessings given to him through his appearance and lifestyle as a form of gratitude."
+  },
+  "references": [
+    {
+      "arabic": "السنن الكبرى للبيهقي (3/271)",
+      "english": "Al-Sunan al-Kubra by al-Baihaqi (3/271)"
+    },
+    {
+      "arabic": "سنن الترمذي (2819)",
+      "english": "Sunan At-Tirmidhi (2819)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمران بن حصين",
+        "english": "Imran bin Husain"
+      },
+      "slug": "imran-bin-husain"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=Allah+loves+to+see+the+effect+of+His+blessing+urdu",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih lighairihi (Authentic through supports)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نعمت کا اظہار اور شکر",
+        "english": "Manifesting Blessings and Gratitude"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عملی شکر گزاری",
+              "english": "Practical Gratitude"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی دی ہوئی نعمتوں کو چھپانے کے بجائے ان کا جائز استعمال کرنا شکر ہے۔",
+                "اچھا لباس پہننا اور پاکیزہ زندگی گزارنا اللہ کو پسند ہے۔",
+                "یہ عمل دوسروں کو بھی اللہ کی رحمتوں کی طرف راغب کرتا ہے۔"
+              ],
+              "english": [
+                "Using Allah's blessings appropriately instead of hiding them is a form of thanks.",
+                "Wearing good clothes and living a clean life is pleasing to Allah.",
+                "This practice encourages others to recognize and seek Allah's mercies."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحدیثِ نعمت",
+              "english": "Proclaiming Favors"
+            },
+            "content": {
+              "urdu": [
+                "قرآن میں حکم ہے کہ اپنے رب کی نعمتوں کا تذکرہ کرو۔",
+                "اظہارِ نعمت سے مراد تکبر نہیں بلکہ اللہ کا احسان ماننا ہے۔",
+                "بندہ جب خوش حال دکھتا ہے تو وہ رب کی ربوبیت کا اشتہار بنتا ہے۔"
+              ],
+              "english": [
+                "The Quran commands us to speak of the favors of our Lord.",
+                "Manifesting blessings means acknowledging Allah's favor, not showing pride.",
+                "When a servant looks prosperous, he becomes an advertisement of God's Lordship."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقیری اور زہد کی حقیقت",
+        "english": "Reality of Poverty and Asceticism"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نمائشی فقیری کی ممانعت",
+              "english": "Prohibition of Feigned Poverty"
+            },
+            "content": {
+              "urdu": [
+                "مالدار ہونے کے باوجود پھٹے پرانے کپڑے پہننا زہد نہیں ہے۔",
+                "ایسا طرزِ عمل اللہ کی دی ہوئی نعمت کی ناشکری کے زمرے میں آتا ہے۔",
+                "نبی ﷺ نے صحابہ کو مالداری کے باوجود میلے کچیلے رہنے سے ٹوکا ہے۔"
+              ],
+              "english": [
+                "Wearing tattered clothes despite being wealthy is not true asceticism.",
+                "Such behavior falls under the category of ingratitude for Allah's favors.",
+                "The Prophet (ﷺ) rebuked companions for looking disheveled despite their wealth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زہدِ حقیقی کا مفہوم",
+              "english": "The Concept of True Asceticism"
+            },
+            "content": {
+              "urdu": [
+                "زہد کا مطلب دل کو دنیا کی محبت سے خالی رکھنا ہے، نہ کہ ہاتھ خالی کرنا۔",
+                "حلال مال کا ہونا اور اسے نیکی میں خرچ کرنا باعثِ اجر ہے۔",
+                "نعمت کا اثر نظر آنے سے بندے کی معاشرتی عزت و وقار قائم رہتا ہے۔"
+              ],
+              "english": [
+                "Asceticism means keeping the heart free from worldly love, not empty hands.",
+                "Possessing lawful wealth and spending it in goodness is rewarding.",
+                "Showing the effect of blessings maintains a servant's social dignity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تکبر اور اظہارِ نعمت میں فرق",
+        "english": "Difference Between Pride and Manifestation"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نیت کی اہمیت",
+              "english": "Importance of Intention"
+            },
+            "content": {
+              "urdu": [
+                "اگر نیت دوسروں کو حقیر دکھانا ہو تو یہ تکبر اور حرام ہے۔",
+                "اگر نیت اللہ کی نعمت کا اعتراف ہو تو یہ عین عبادت ہے۔",
+                "خوبصورتی اور پاکیزگی اللہ کو پسند ہے کیونکہ وہ خود جمیل ہے۔"
+              ],
+              "english": [
+                "If the intention is to look down on others, it is pride and forbidden.",
+                "If the intention is to acknowledge Allah's favor, it is pure worship.",
+                "Beauty and purity are loved by Allah because He is Beautiful Himself."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال کا راستہ",
+              "english": "The Path of Moderation"
+            },
+            "content": {
+              "urdu": [
+                "اسراف اور فضول خرچی سے بچتے ہوئے نعمت کا اظہار ضروری ہے۔",
+                "اپنی حیثیت کے مطابق لباس اور خوراک اختیار کرنا سنت ہے۔",
+                "نعمت کا اثر صرف لباس تک محدود نہیں بلکہ صدقہ و خیرات میں بھی ہے۔"
+              ],
+              "english": [
+                "Manifesting blessings is necessary while avoiding waste and extravagance.",
+                "Adopting clothing and food according to one's status is a Sunnah.",
+                "The effect of blessing is not just in attire but also in charity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اللہ کی رضا کی فکر",
+              "english": "Seeking Allah's Pleasure"
+            },
+            "content": {
+              "urdu": [
+                "بندے کا ہر عمل اس سوچ کے ساتھ ہونا چاہیے کہ اللہ کو کیا پسند ہے۔",
+                "اللہ کی محبت پانے کے لیے اس کے احکامات کی پیروی لازمی ہے۔",
+                "نعمتوں کا صحیح استعمال بندے کو رب کے قریب کر دیتا ہے۔"
+              ],
+              "english": [
+                "Every action of a servant should involve thinking about what Allah loves.",
+                "To gain Allah's love, following His commands is mandatory.",
+                "Correct use of blessings brings the servant closer to the Lord."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مثبت شخصیت کی تعمیر",
+              "english": "Building a Positive Personality"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ایک باشعور اور پروقار شخصیت کی تعمیر کرنا چاہتا ہے۔",
+                "خوش حال اور صاف ستھرا مسلمان اسلام کا بہتر نمائندہ بنتا ہے۔",
+                "یہ حدیث ہمیں احساسِ محرومی کے بجائے احساسِ نعمت سکھاتی ہے۔"
+              ],
+              "english": [
+                "Islam aims to build a conscious and dignified personality.",
+                "A prosperous and clean Muslim is a better representative of Islam.",
+                "This Hadith teaches us a sense of abundance rather than deprivation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

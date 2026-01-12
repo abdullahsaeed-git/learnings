@@ -1,0 +1,259 @@
+{
+  "hadithId": 1219,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bukhari:6770"],
+    "kitabId": 14,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الفرائض",
+    "babId": 99
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (6770) ومسلم (1459).",
+    "urdu": "یہ حدیث صحیح ہے اور متفق علیہ ہے، اسے امام بخاری اور امام مسلم دونوں نے اپنی صحیحین میں روایت کیا ہے۔",
+    "english": "Sahih. Muttafaqun 'Alayh (Agreed upon). Reported by Al-Bukhari (6770) and Muslim (1459)."
+  },
+  "importantWords": [
+    {
+      "arabic": "مَسْرُورًا",
+      "english": "Happy/Joyful",
+      "urdu": "خوش و خرم"
+    },
+    {
+      "arabic": "تَبْرُقُ",
+      "english": "Shining/Glowing",
+      "urdu": "چمک رہی تھی"
+    },
+    {
+      "arabic": "أَسَارِيرُ",
+      "english": "Facial features",
+      "urdu": "چہرے کی لکیریں"
+    },
+    {
+      "arabic": "أَقْدَامٌ",
+      "english": "Feet",
+      "urdu": "پاؤں"
+    },
+    {
+      "arabic": "آنِفًا",
+      "english": "Recently/Just now",
+      "urdu": "ابھی ابھی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں نسب کے اثبات کے لیے ماہرینِ قیافہ (ماہرینِ آثار) کی گواہی اور رائے کے معتبر ہونے کا ثبوت ملتا ہے، جس پر رسول اللہ ﷺ نے خوشی کا اظہار فرمایا۔",
+    "english": "This Hadith validates the use of physiognomy (expertise in tracking lineage through physical traits) as a supplementary proof in establishing biological relationships."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (6770)",
+      "english": "Reported by Al-Bukhari (6770)"
+    },
+    {
+      "arabic": "رواه مسلم (1459)",
+      "english": "Reported by Muslim (1459)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح متفق عليه",
+    "english": "Sahih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نسب کا اثبات اور قیافہ شناسی",
+        "english": "Establishing Lineage and Physiognomy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قیافہ کی شرعی حیثیت",
+              "english": "Legal Status of Physiognomy"
+            },
+            "content": {
+              "urdu": [
+                "قیافہ شناسی انسانی اعضاء کی مشابہت سے نسب کا پتہ لگانے کا فن ہے۔",
+                "نبی ﷺ کی خوشی اس بات کی دلیل ہے کہ یہ فن شرعاً معتبر ہے۔",
+                "جہاں کوئی واضح ثبوت نہ ہو، وہاں ماہرین کی ایسی رائے لی جا سکتی ہے۔"
+              ],
+              "english": [
+                "Physiognomy is the skill of determining lineage through physical resemblance.",
+                "The Prophet's (ﷺ) joy indicates that this skill is legally recognized in Sharia.",
+                "Expert opinions can be sought when no other clear evidence is available."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "زید اور اسامہ رضی اللہ عنہما کا قصہ",
+              "english": "The Story of Zaid and Usama (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا زید سفید فام تھے جبکہ ان کے بیٹے اسامہ سیاہ فام تھے۔",
+                "منافقین اس فرق کی وجہ سے ان کے نسب پر طعنہ زنی کرتے تھے۔",
+                "مجزز مدلجی کی گواہی نے ان اعتراضات کو علمی طور پر ختم کر دیا۔"
+              ],
+              "english": [
+                "Zaid (RA) was fair-skinned while his son Usama (RA) was dark-skinned.",
+                "Hypocrites used this difference to cast doubts on their relationship.",
+                "The testimony of Mujazziz al-Mudliji effectively silenced those objections."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رسول اللہ ﷺ کی خوشی اور عدل",
+        "english": "Prophetic Joy and Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حق کے اظہار پر خوشی",
+              "english": "Joy at the Manifestation of Truth"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ حق بات کے واضح ہونے پر بے حد خوش ہوا کرتے تھے۔",
+                "آپ ﷺ کا چہرہ چمکنا اس سچائی کی تصدیق کی علامت تھا۔",
+                "یہ اس بات کی دلیل ہے کہ سچائی کا ظہور مومن کے لیے باعثِ مسرت ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) felt immense joy when the truth became evident.",
+                "His glowing face was a sign of confirming this biological truth.",
+                "This shows that the emergence of truth is a source of happiness for believers."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طعنہ زنی کا خاتمہ",
+              "english": "Ending Slander and Ridicule"
+            },
+            "content": {
+              "urdu": [
+                "اسلام کسی کی عزت اور نسب پر کیچڑ اچھالنے کی اجازت نہیں دیتا۔",
+                "یہ حدیث ثابت کرتی ہے کہ بے بنیاد اعتراضات کا جواب دلیل سے دینا چاہیے۔",
+                "نبی ﷺ نے اپنے صحابہ کی عزت کے دفاع پر اطمینان کا اظہار فرمایا۔"
+              ],
+              "english": [
+                "Islam does not permit slandering one's honor or lineage.",
+                "This Hadith proves that baseless accusations should be answered with evidence.",
+                "The Prophet (ﷺ) expressed satisfaction in defending his companions' honor."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید سائنس اور اسلامی اصول",
+        "english": "Modern Science and Islamic Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ڈی این اے اور قیافہ",
+              "english": "DNA and Physiognomy"
+            },
+            "content": {
+              "urdu": [
+                "جدید دور میں ڈی این اے ٹیسٹ قیافہ کی ہی ایک ترقی یافتہ شکل ہے۔",
+                "فقہاء کے مطابق نسب کے تنازعات میں سائنسی ذرائع استعمال کیے جا سکتے ہیں۔",
+                "یہ حدیث سائنسی اور تجرباتی علوم کی شرعی اہمیت کو اجاگر کرتی ہے۔"
+              ],
+              "english": [
+                "In the modern era, DNA testing is an advanced form of physiognomy.",
+                "Jurists allow the use of scientific methods in paternity disputes.",
+                "This Hadith highlights the Sharia significance of empirical sciences."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گواہ کی مہارت",
+              "english": "Expertise of the Witness"
+            },
+            "content": {
+              "urdu": [
+                "عدالتی معاملات میں متعلقہ فن کے ماہر کی رائے اہمیت رکھتی ہے۔",
+                "مجزز مدلجی اپنی اس مہارت میں عربوں میں مشہور تھے۔",
+                "ماہر کی گواہی پیچیدہ مقدمات میں فیصلہ کن ثابت ہو سکتی ہے۔"
+              ],
+              "english": [
+                "The opinion of an expert in a relevant field carries weight in court.",
+                "Mujazziz al-Mudliji was renowned among Arabs for this specific skill.",
+                "Expert testimony can be decisive in resolving complex legal cases."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و سماجی اسباق",
+        "english": "Ethical and Social Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رنگ و نسل سے بالاتر انصاف",
+              "english": "Justice Beyond Race and Color"
+            },
+            "content": {
+              "urdu": [
+                "رنگ کا فرق نسب کی نفی کے لیے کافی نہیں ہے۔",
+                "اسلام نے ظاہری شکل و صورت کے بجائے حقیقت کو فوقیت دی ہے۔",
+                "تعصب کی بنیاد پر کسی کے خاندان پر شک کرنا شیطانی صفت ہے۔"
+              ],
+              "english": [
+                "Difference in skin color is not enough to deny biological lineage.",
+                "Islam prioritizes reality over outward physical appearances.",
+                "Doubting a family based on prejudice is a satanic characteristic."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوشخبری سنانا",
+              "english": "Sharing Good News"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے حضرت عائشہ کو یہ بات خوشی بانٹنے کے لیے بتائی۔",
+                "گھر والوں کے ساتھ خوشی کی خبریں شیئر کرنا سنتِ نبوی ہے۔",
+                "باہمی تعلقات میں ایسی خوشگوار باتیں محبت کو بڑھاتی ہیں۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) told Aisha (RA) this to share his happiness.",
+                "Sharing joyful news with family members is a Prophetic Sunnah.",
+                "Sharing such pleasantries in mutual relations strengthens love."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "hadithId": 852,
+  "hadithNo": 29,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/8/29"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه أحمد (1/448)، والنسائي (6/149)، والترمذي (1120) وقال: حسن صحيح. وحديث علي رواه أبو داود (2076)، والترمذي (1119)، وابن ماجه (1935).",
+    "urdu": "یہ حدیث صحیح ہے۔ ابن مسعود رضی اللہ عنہ کی روایت کو امام احمد، نسائی اور ترمذی نے روایت کیا اور اسے صحیح قرار دیا ہے۔ سیدنا علی رضی اللہ عنہ والی روایت بھی صحیح ہے اور سنن اربعہ (بجز نسائی) میں مروی ہے۔",
+    "english": "Sahih. Reported by Ahmad (1/448), An-Nasa'i (6/149), and At-Tirmidhi (1120) who graded it Hasan Sahih. The version from Ali (RA) is in Abu Dawud (2076) and Ibn Majah (1935)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَعَنَ",
+      "english": "Cursed",
+      "urdu": "لعنت فرمائی"
+    },
+    {
+      "arabic": "اَلْمُحَلِّلَ",
+      "english": "The one who makes lawful",
+      "urdu": "حلالہ کرنے والا"
+    },
+    {
+      "arabic": "اَلْمُحَلَّلَ لَهُ",
+      "english": "The one for whom it is made lawful",
+      "urdu": "جس کے لیے حلالہ کیا جائے"
+    },
+    {
+      "arabic": "اَلْبَابِ",
+      "english": "The Chapter / Subject",
+      "urdu": "باب / موضوع"
+    },
+    {
+      "arabic": "أَخْرَجَهُ",
+      "english": "Reported it / Extracted it",
+      "urdu": "اسے روایت کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ نے حلالہ کرنے والے اور کروانے والے دونوں پر لعنت فرمائی ہے، کیونکہ یہ اللہ کی مقرر کردہ حدود کا مذاق اڑانے کے مترادف ہے۔",
+    "english": "The Prophet (ﷺ) cursed both the man who performs Halala and the one for whom it is performed, as it is a mockery of Allah's laws."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي، كتاب النكاح، رقم الحديث ١١٢٠",
+      "english": "Jami` at-Tirmidhi, Book of Marriage, Hadith No. 1120"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب النكاح، رقم الحديث ٢٠٧٦",
+      "english": "Sunan Abi Dawud, Book of Marriage, Hadith No. 2076"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن مسعود",
+        "english": "Abdullah ibn Mas'ud"
+      },
+      "slug": "abdullah-ibn-masud"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali ibn Abi Talib"
+      },
+      "slug": "ali-ibn-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Qf8vB7s4M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حلالہ کی شرعی حیثیت",
+        "english": "The Legal Status of Halala"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حلالہ کی تعریف اور ممانعت",
+              "english": "Definition and Prohibition of Halala"
+            },
+            "content": {
+              "urdu": [
+                "حلالہ اس نکاح کو کہتے ہیں جو صرف اس نیت سے کیا جائے کہ عورت پہلے شوہر کے لیے حلال ہو جائے۔",
+                "اسلام میں نکاح کا مقصد دائمی رفاقت ہے، نہ کہ کسی قانونی رکاوٹ کو دور کرنے کا عارضی ذریعہ۔",
+                "ایسا نکاح جو پہلے سے طے شدہ شرط پر ہو کہ بعد میں طلاق دے دی جائے گی، باطل ہے۔"
+              ],
+              "english": [
+                "Halala refers to a marriage intended solely to make a woman lawful for her previous husband.",
+                "In Islam, marriage is for lifelong companionship, not a tool to bypass legal restrictions.",
+                "A marriage contracted with a pre-planned condition of divorce is invalid and void."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لعنت کا مستحق عمل",
+              "english": "An Act Deserving of Curse"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے اس عمل میں ملوث دونوں مردوں پر اللہ کی لعنت فرمائی ہے۔",
+                "لعنت اس بات کی دلیل ہے کہ یہ عمل گناہِ کبیرہ اور اللہ کی ناراضگی کا سبب ہے۔",
+                "یہ عمل دین کے احکامات کے ساتھ دھوکہ دہی اور مذاق کے زمرے میں آتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) invoked Allah's curse on both men involved in this practice.",
+                "A curse indicates that this act is a major sin and leads to the displeasure of Allah.",
+                "This practice is considered a form of deception and mockery of religious rulings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی حکمت اور معاشرتی اثرات",
+        "english": "Juristic Wisdom and Social Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نکاح کا تقدس",
+              "english": "The Sanctity of Marriage"
+            },
+            "content": {
+              "urdu": [
+                "نکاح ایک مقدس میثاق ہے جسے اپنی خواہشات کے لیے استعمال کرنا اخلاقی پستی ہے۔",
+                "حلالہ کے ذریعے عورت کے وقار کو مجروح کیا جاتا ہے اور اسے ایک شے سمجھا جاتا ہے۔",
+                "اسلام خاندانی نظام کی بنیاد سچائی اور مخلصانہ جذبات پر رکھنے کا حکم دیتا ہے۔"
+              ],
+              "english": [
+                "Marriage is a sacred covenant that should not be manipulated for selfish desires.",
+                "Halala degrades the dignity of women, treating them as mere objects for legal fixes.",
+                "Islam commands building the family system on truth and sincere emotions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طلاقِ ثلاثہ کی حساسیت",
+              "english": "Sensitivity of Triple Divorce"
+            },
+            "content": {
+              "urdu": [
+                "تین طلاقوں کے بعد علیحدگی کا قانون اس لیے ہے کہ مرد طلاق دینے میں جلد بازی نہ کرے۔",
+                "حلالہ اس قرآنی حکمت کو ختم کرنے کی ایک ناپاک کوشش ہے تاکہ گناہ کا راستہ کھل سکے۔",
+                "مومن کو چاہیے کہ وہ طلاق کے معاملے میں اللہ سے ڈرے اور جلد بازی سے کام نہ لے۔"
+              ],
+              "english": [
+                "The rule of separation after three divorces prevents men from acting impulsively.",
+                "Halala is an unholy attempt to bypass Quranic wisdom and facilitate sinful paths.",
+                "A believer must fear Allah regarding divorce and avoid acting in haste."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مستعار سانڈ (اَلْعَارِيَّة اَلْمُسْتَعَار)",
+        "english": "The Borrowed Bull Analogy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی سخت تنبیہ",
+              "english": "The Prophet's (ﷺ) Stern Warning"
+            },
+            "content": {
+              "urdu": [
+                "ایک اور حدیث میں آپ ﷺ نے حلالہ کرنے والے کو 'مستعار سانڈ' سے تشبیہ دی ہے۔",
+                "یہ تشبیہ اس عمل کی غلاظت اور بے غیرتی کو ظاہر کرنے کے لیے استعمال کی گئی۔",
+                "ایک غیرت مند مسلمان کبھی بھی ایسے گھناؤنے فعل کا حصہ نہیں بن سکتا۔"
+              ],
+              "english": [
+                "In another Hadith, the Prophet (ﷺ) likened the one performing Halala to a 'borrowed bull'.",
+                "This analogy was used to illustrate the filth and lack of honor in such an act.",
+                "An honorable Muslim can never participate in such a loathsome and shameful deed."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نیت کی اہمیت",
+              "english": "The Importance of Intention"
+            },
+            "content": {
+              "urdu": [
+                "اگر نکاح حلالہ کی نیت سے نہ ہو بلکہ اتفاقاً طلاق ہو جائے، تو وہ حلالہ نہیں ہے۔",
+                "اعمال کا دارومدار نیتوں پر ہے، اور اللہ دلوں کے بھیدوں سے خوب واقف ہے۔",
+                "مصنوعی طریقے سے رشتہ بحال کرنا اللہ کے غضب کو دعوت دینا ہے۔"
+              ],
+              "english": [
+                "If marriage is not intended for Halala but divorce happens naturally, it is not forbidden.",
+                "Actions are judged by intentions, and Allah is well aware of the secrets of the hearts.",
+                "Restoring a relationship through artificial means invites the wrath of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی اصلاح اور پیغام",
+        "english": "Practical Reform and Message"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی برائیوں کا خاتمہ",
+              "english": "Eradicating Social Evils"
+            },
+            "content": {
+              "urdu": [
+                "علماء اور مصلحین کی ذمہ داری ہے کہ وہ عوام کو اس قبیح فعل کی حقیقت بتائیں۔",
+                "جہالت کی وجہ سے لوگ حلالہ کو ایک مذہبی حل سمجھتے ہیں جو کہ سراسر غلط ہے۔",
+                "صحیح اسلامی تعلیمات کی ترویج ہی ایسی رسومات کے خاتمے کا واحد حل ہے۔"
+              ],
+              "english": [
+                "Scholars and reformers must educate the public about the reality of this evil act.",
+                "Due to ignorance, people often view Halala as a religious solution, which is false.",
+                "Promoting authentic Islamic teachings is the only way to end such rituals."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توبہ اور رجوع الی اللہ",
+              "english": "Repentance and Returning to Allah"
+            },
+            "content": {
+              "urdu": [
+                "گناہ ہو جانے کی صورت میں حیلہ سازی کے بجائے سچی توبہ کرنی چاہیے۔",
+                "اللہ کی حدود کو توڑنے کے بعد غلط راستے ڈھونڈنا ایمان کے منافی ہے۔",
+                "مومن وہی ہے جو اللہ کے احکامات کے سامنے سرِ تسلیم خم کر دے۔"
+              ],
+              "english": [
+                "In case of a sin, one should offer sincere repentance instead of seeking loopholes.",
+                "Seeking wrong paths after breaking Allah's limits is contrary to true faith.",
+                "A true believer is one who submits completely to the commands of Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

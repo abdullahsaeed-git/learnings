@@ -1,0 +1,259 @@
+{
+  "hadithId": 387,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-387"],
+    "kitabId": 2,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 24
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (953)، وأحمد (12104) بلفظ 'ويأكلهن وترا'، ولفظ 'أفرادا' أخرجه أحمد وصححه الألباني في المشكاة.",
+    "urdu": "یہ حدیث صحیح ہے۔ امام بخاری نے (953) میں 'وتراً' کے لفظ سے روایت کیا ہے۔ 'افراداً' (طاق عدد) کا لفظ مسند احمد کی روایت میں ہے جسے علامہ البانی نے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (953). The wording regarding odd numbers is found in Bukhari as 'Witra', and the version 'Afradan' (one by one/odd) is in Musnad Ahmad, graded Sahih by Al-Albani."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا يَغْدُو",
+      "english": "Never went out early",
+      "urdu": "نہیں نکلتے تھے (صبح سویرے)"
+    },
+    {
+      "arabic": "تَمَرَاتٍ",
+      "english": "Dates",
+      "urdu": "کھجوریں"
+    },
+    {
+      "arabic": "أَفْرَادًا",
+      "english": "Odd numbers / One by one",
+      "urdu": "طاق عدد / تنہا تنہا"
+    },
+    {
+      "arabic": "يَوْمَ اَلْفِطْرِ",
+      "english": "Day of Eid-ul-Fitr",
+      "urdu": "عید الفطر کا دن"
+    },
+    {
+      "arabic": "مُعَلَّقَةٍ",
+      "english": "Mu'allaq (Suspended narration)",
+      "urdu": "معلق روایت"
+    }
+  ],
+  "summary": {
+    "urdu": "عید الفطر کی نماز کے لیے جانے سے پہلے طاق عدد میں کھجوریں کھانا سنتِ نبوی ﷺ ہے۔",
+    "english": "Eating dates in an odd number before heading to the Eid-ul-Fitr prayer is a confirmed Sunnah of the Prophet (ﷺ)."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (953)",
+      "english": "Sahih al-Bukhari (953)"
+    },
+    {
+      "arabic": "مسند أحمد (12104)",
+      "english": "Musnad Ahmad (12104)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/results?search_query=sunnah+of+eid+ul+fitr+eating+dates+urdu",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "سنتِ افطار اور عید",
+        "english": "The Sunnah of Breaking Fast on Eid"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز سے قبل کھانا",
+              "english": "Eating Before Prayer"
+            },
+            "content": {
+              "urdu": [
+                "عید الفطر کے دن نماز سے پہلے کچھ کھانا سنت ہے۔",
+                "یہ اس بات کا عملی اظہار ہے کہ رمضان کے روزے ختم ہو چکے ہیں۔",
+                "اللہ کی دی ہوئی رخصت اور مہمانی کو فوری قبول کرنا مستحب ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to eat something before the Eid-ul-Fitr prayer.",
+                "This acts as a practical declaration that the Ramadan fasts have ended.",
+                "Immediately accepting Allah's invitation to eat is highly recommended."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طاق عدد کی حکمت",
+              "english": "Wisdom of Odd Numbers"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ 'وتر' (طاق) ہے اور طاق عدد کو پسند فرماتا ہے۔",
+                "نبی ﷺ کا کھجوریں طاق عدد (1، 3، 5) میں کھانا بندگی کا اظہار ہے۔",
+                "یہ عمل سنت کی پیروی میں برکت اور ثواب کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "Allah is Witr (One/Odd) and loves odd numbers.",
+                "The Prophet (ﷺ) eating dates in odd numbers (1, 3, 5) reflects devotion.",
+                "Following this specific Sunnah brings blessings and spiritual reward."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عیدین کے درمیان فرق",
+        "english": "Difference Between the Two Eids"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عید الفطر بمقابلہ عید الاضحی",
+              "english": "Eid-ul-Fitr vs Eid-ul-Adha"
+            },
+            "content": {
+              "urdu": [
+                "عید الفطر میں نماز سے پہلے کھانا سنت ہے تاکہ روزے کا اختتام واضح ہو۔",
+                "عید الاضحی میں مستحب ہے کہ کچھ نہ کھایا جائے یہاں تک کہ قربانی کا گوشت ملے۔",
+                "یہ دونوں طریقے رسول اللہ ﷺ کے عمل سے ثابت ہیں۔"
+              ],
+              "english": [
+                "In Eid-ul-Fitr, eating before prayer is Sunnah to clarify the end of fasting.",
+                "In Eid-ul-Adha, it is preferred not to eat until one eats from the sacrifice.",
+                "Both practices are firmly established through the Prophet's (ﷺ) actions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "کھجور کا انتخاب",
+              "english": "Choosing Dates"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے کھجوروں کا انتخاب کیا کیونکہ یہ ایک بابرکت غذا ہے۔",
+                "اگر کھجور میسر نہ ہو تو کسی بھی میٹھی چیز سے ابتدا کی جا سکتی ہے۔",
+                "اصل مقصد سنت کی نیت سے روزے کی بندش کو ختم کرنا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) chose dates because they are a blessed food.",
+                "If dates are unavailable, any sweet item can be used to start the day.",
+                "The primary goal is to signify the end of fasting with the intent of Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اطاعت اور محبتِ رسول ﷺ",
+        "english": "Obedience and Love for the Messenger (ﷺ)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "چھوٹی سنتوں کی اہمیت",
+              "english": "Importance of Minor Sunnahs"
+            },
+            "content": {
+              "urdu": [
+                "بظاہر چھوٹی نظر آنے والی سنتیں بھی اجر و ثواب میں بہت بڑی ہیں۔",
+                "صحابہ کرام ان باریک تفصیلات کو بھی پوری توجہ سے نقل کرتے تھے۔",
+                "نبی ﷺ کے ہر عمل میں کوئی نہ کوئی روحانی یا طبی حکمت پوشیدہ ہے۔"
+              ],
+              "english": [
+                "Seemingly minor Sunnahs carry immense weight in spiritual rewards.",
+                "The Companions recorded these fine details with extreme precision.",
+                "Every action of the Prophet (ﷺ) contains spiritual or medical wisdom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خوشی کا شرعی طریقہ",
+              "english": "Legal Way of Celebration"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں خوشی منانا بھی ایک باقاعدہ عبادت اور ضابطے کے تحت ہے۔",
+                "عید کا دن اللہ کا شکر ادا کرنے اور سنتوں کو زندہ کرنے کا دن ہے۔",
+                "کھانے پینے کے آداب میں بھی رسول اللہ ﷺ کی اتباع کرنی چاہیے۔"
+              ],
+              "english": [
+                "In Islam, celebrating joy is also a regulated form of worship.",
+                "Eid is a day for thanking Allah and reviving the Prophetic traditions.",
+                "One should follow the Messenger (ﷺ) even in the etiquettes of eating."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی اور تربیتی فوائد",
+        "english": "Medical and Educational Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فوری توانائی کا حصول",
+              "english": "Obtaining Immediate Energy"
+            },
+            "content": {
+              "urdu": [
+                "رمضان کے بعد معدے کو دوبارہ متحرک کرنے کے لیے کھجور بہترین غذا ہے۔",
+                "اس سے جسم کو فوری گلوکوز ملتا ہے جو نماز کے لیے توانائی فراہم کرتا ہے۔",
+                "یہ سنت نظامِ ہاضمہ کو ترتیب دینے میں مددگار ثابت ہوتی ہے۔"
+              ],
+              "english": [
+                "Dates are the best food to reactivate the stomach after Ramadan.",
+                "They provide immediate glucose, giving energy for the Eid prayer.",
+                "This Sunnah helps in regulating the digestive system effectively."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی تربیت",
+              "english": "Training in Discipline"
+            },
+            "content": {
+              "urdu": [
+                "طاق عدد کا خیال رکھنا ذہن کو اللہ کی وحدانیت کی طرف متوجہ کرتا ہے۔",
+                "مسلمان کو اپنی روزمرہ عادات میں بھی ہوشیار اور باشعور ہونا چاہیے۔",
+                "یہ حدیث ہمیں سنت کے مطابق زندگی گزارنے کا سلیقہ سکھاتی ہے۔"
+              ],
+              "english": [
+                "Observing odd numbers directs the mind toward the Oneness of Allah.",
+                "A Muslim should be mindful and conscious even in daily habits.",
+                "This Hadith teaches us how to live life in accordance with the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

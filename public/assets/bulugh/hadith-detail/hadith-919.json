@@ -1,0 +1,259 @@
+{
+  "hadithId": 919,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1055"],
+    "kitabId": 8,
+    "inKitabBab": 8,
+    "arabicBook": "كتاب الطلاق",
+    "babId": 71
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف . رواه أبو داود (2196) بسند ضعيف. ورواه أحمد (1/265) وفي سنده محمد بن إسحاق، وهو مدلس وقد عنعن. والرواية الأخرى عند أبي داود (2206) في سندها مجاهيل، والراجح أن ركانة طلقها واحدة لا ثلاثاً.",
+    "urdu": "یہ روایات سندی لحاظ سے مضطرب اور ضعیف ہیں۔ ابوداؤد (2196) اور احمد (1/265) کی سند میں ابن اسحاق ہے جو مدلس ہے۔ ابوداؤد کی دوسری روایت (2206) میں بھی مجہول راوی ہیں۔ محققین کے نزدیک صحیح بات یہ ہے کہ رکانہ نے ایک ہی طلاق دی تھی، تین کا ذکر سنداً ثابت نہیں۔",
+    "english": "Weak (Da'if). Reported by Abu Dawud (2196) and Ahmad (1/265). The chain includes Muhammad bin Ishaq, who is a Mudallis and used 'An'anah. The other version in Abu Dawud (2206) contains unknown narrators. Critics state the correct version is that Rukanah gave one divorce, not three."
+  },
+  "importantWords": [
+    {
+      "arabic": "رَاجِعْهَا",
+      "english": "Take her back / Revoke",
+      "urdu": "اس سے رجوع کرو"
+    },
+    {
+      "arabic": "مَجْلِسٍ وَاحِدٍ",
+      "english": "Single sitting",
+      "urdu": "ایک ہی مجلس"
+    },
+    {
+      "arabic": "فَحَزِنَ",
+      "english": "He felt sad",
+      "urdu": "وہ غمزدہ ہوا"
+    },
+    {
+      "arabic": "اَلْبَتَّةَ",
+      "english": "Irrevocably / Severely",
+      "urdu": "قطعی طور پر / بالکل"
+    },
+    {
+      "arabic": "أَرَدْتُ",
+      "english": "I intended",
+      "urdu": "میں نے ارادہ کیا / نیت کی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ایک مجلس کی تین طلاقوں کے مسئلے پر بحث ہے، جس سے بعض فقہاء یہ استدلال کرتے ہیں کہ ایسی صورت میں وہ ایک ہی طلاق شمار ہوگی بشرطیکہ نیت ایک ہی ہو۔",
+    "english": "This Hadith discusses triple divorce in one sitting, with some jurists using it as evidence that such a pronouncement counts as only one divorce if the intention was not multiple."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2196)",
+      "english": "Sunan Abu Dawud (2196)"
+    },
+    {
+      "arabic": "مسند أحمد (1/265)",
+      "english": "Musnad Ahmad (1/265)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9Kq6fR_wz4",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak (Da'if)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "طلاق میں نیت کا اثر",
+        "english": "Impact of Intention in Divorce"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لفظ 'البتہ' کی وضاحت",
+              "english": "Explanation of 'Al-Battah'"
+            },
+            "content": {
+              "urdu": [
+                "عربوں میں 'البتہ' کا لفظ طلاق کے لیے استعمال ہوتا تھا جس سے کبھی ایک اور کبھی تین مراد ہوتی تھیں۔",
+                "نبی ﷺ نے رکانہ رضی اللہ عنہ سے قسم لی کہ کیا ان کی نیت صرف ایک ہی طلاق کی تھی؟",
+                "اس سے ثابت ہوا کہ مبہم الفاظ میں نیت کا اعتبار کیا جائے گا تاکہ رشتہ بچ سکے۔"
+              ],
+              "english": [
+                "The term 'Al-Battah' was used by Arabs for divorce, sometimes meaning one and sometimes three.",
+                "The Prophet (ﷺ) asked Rukanah (RA) to swear if his intention was only for one divorce.",
+                "This proves that in ambiguous terms, intention is decisive to potentially save the marriage."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایک مجلس کی تین طلاقیں",
+              "english": "Triple Divorce in One Sitting"
+            },
+            "content": {
+              "urdu": [
+                "مسند احمد کی روایت کے مطابق ایک مجلس کی تین طلاقیں ایک ہی شمار کی گئی تھیں۔",
+                "اگرچہ اس روایت کی سند پر کلام ہے، لیکن ابن عباس رضی اللہ عنہما کا فتویٰ اسی پر تھا۔",
+                "یہ موقف اہل حدیث اور بعض دیگر محققین کے نزدیک راجح ہے تاکہ خاندان اجڑنے سے بچیں۔"
+              ],
+              "english": [
+                "According to Ahmad's narration, triple divorce in one sitting was counted as one.",
+                "Although the chain is criticized, the fatwa of Ibn 'Abbas (RA) often aligned with this view.",
+                "This position is preferred by Ahl-e-Hadith and some researchers to prevent family ruin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف کی نوعیت",
+        "english": "Nature of Juristic Difference"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمہور کا موقف",
+              "english": "The Majority View"
+            },
+            "content": {
+              "urdu": [
+                "چاروں ائمہ کے نزدیک اگر کوئی صریح لفظوں میں تین طلاق دے تو تین ہی واقع ہوں گی۔",
+                "وہ رکانہ والی حدیث کو مبہم الفاظ (البتہ) پر محمول کرتے ہیں نہ کہ صریح تین پر۔",
+                "ان کے نزدیک اکٹھی تین طلاقیں دینا گناہ ہے مگر وہ شرعی طور پر نافذ ہو جاتی ہیں۔"
+              ],
+              "english": [
+                "According to the four Imams, if one clearly pronounces three divorces, they take full effect.",
+                "They interpret Rukanah's Hadith as applying to ambiguous words (Al-Battah) rather than explicit 'three'.",
+                "They hold that giving triple divorce at once is sinful but legally binding."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سہولت اور اصلاح",
+              "english": "Ease and Reform"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قانون میں میاں بیوی کے درمیان صلح کی گنجائش کو ترجیح دی گئی ہے۔",
+                "اختلافِ رائے کی صورت میں وہ راستہ اختیار کرنا بہتر ہے جو قرآن کی روح کے مطابق ہو۔",
+                "طلاق کے مسائل میں کسی مستند مفتی یا عالم سے رجوع کرنا ضروری ہے تاکہ شرعی حکم واضح ہو۔"
+              ],
+              "english": [
+                "Islamic law prioritizes the possibility of reconciliation between husband and wife.",
+                "In case of disagreement, it is better to follow the path aligned with the spirit of the Quran.",
+                "It is essential to consult an authentic Mufti or scholar for clarity on divorce rulings."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روایت کی علمی تحقیق",
+        "english": "Scholarly Research of the Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ابن اسحاق پر کلام",
+              "english": "Critique on Ibn Ishaq"
+            },
+            "content": {
+              "urdu": [
+                "محمد بن اسحاق سیرت کے امام ہیں مگر احکام کی احادیث میں ان پر جرح کی گئی ہے۔",
+                "اس روایت میں ان کا 'عنعنہ' (سماع کی صراحت نہ کرنا) اسے ضعیف بنا دیتا ہے۔",
+                "محدثین کے نزدیک ضعیف روایات سے قطعی احکام ثابت کرنا مشکل ہوتا ہے۔"
+              ],
+              "english": [
+                "Muhammad bin Ishaq is a leader in Seerah but is criticized in Hadiths of legal rulings.",
+                "In this narration, his 'An'anah' (not specifying direct hearing) makes it weak.",
+                "According to Hadith scholars, deriving definitive rulings from weak narrations is difficult."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اضطرابِ حدیث",
+              "english": "Inconsistency in Narration"
+            },
+            "content": {
+              "urdu": [
+                "اس واقعے کی مختلف روایات میں الفاظ کا شدید اختلاف ہے جسے اضطراب کہا جاتا ہے۔",
+                "کبھی 'البتہ' کا ذکر ہے تو کبھی 'ثلاثا' (تین) کا، جو حکم کو متاثر کرتا ہے۔",
+                "ایسی صورت میں محدثین ان الفاظ کو ترجیح دیتے ہیں جو ثقہ راویوں سے ثابت ہوں۔"
+              ],
+              "english": [
+                "There is significant inconsistency (Idtirab) in the wording of the various reports of this event.",
+                "Some mention 'Al-Battah' while others mention 'Three', affecting the ruling.",
+                "In such cases, scholars prefer wording established by the most reliable narrators."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غصے پر قابو",
+              "english": "Controlling Anger"
+            },
+            "content": {
+              "urdu": [
+                "اکثر طلاقیں شدید غصے کی حالت میں دی جاتی ہیں جس پر بعد میں پچھتاوا ہوتا ہے۔",
+                "رکانہ رضی اللہ عنہ کا غمزدہ ہونا ظاہر کرتا ہے کہ جلد بازی ہمیشہ دکھ کا باعث بنتی ہے۔",
+                "مرد کو چاہیے کہ وہ اپنی زبان اور جذبات پر قابو رکھے تاکہ گھر آباد رہے۔"
+              ],
+              "english": [
+                "Most divorces are issued in extreme anger, leading to later regret.",
+                "Rukanah's (RA) sadness shows that haste always leads to sorrow.",
+                "A man must control his tongue and emotions to keep the home intact."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کی قسم کی اہمیت",
+              "english": "Importance of Oaths to Allah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے رکانہ سے اللہ کی قسم لی تاکہ ان کی سچائی کی تصدیق ہو سکے۔",
+                "مومن کے لیے اللہ کی قسم کھانا ایک نہایت سنجیدہ معاملہ ہے جس میں جھوٹ کی گنجائش نہیں۔",
+                "عدالتی اور قانونی معاملات میں حلف کی بڑی اہمیت ہے تاکہ حق واضح ہو سکے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) took an oath from Rukanah by Allah to verify his truthfulness.",
+                "Swearing by Allah is a grave matter for a believer, with no room for lies.",
+                "Oaths hold great weight in judicial and legal matters to clarify the truth."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

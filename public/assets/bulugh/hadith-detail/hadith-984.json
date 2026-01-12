@@ -1,0 +1,277 @@
+{
+  "hadithId": 984,
+  "hadithNo": 10,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/984"],
+    "kitabId": 8,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 77
+  },
+  
+  "takhreej": {
+    "arabic": "رواه الشافعي (2 /65/ رقم 213)‏، والبيهقي (7 /469) بإسناد حسن من طريق نافع عن ابن عمر عن عمر رضي الله عنه.",
+    "urdu": "اسے امام شافعی نے (213) اور بیہقی نے (7/469) روایت کیا ہے۔ اس کی سند حسن ہے، جو کہ نافع عن ابن عمر عن عمر کے واسطے سے مروی ہے۔",
+    "english": "Narrated by Ash-Shafi'i (213) and Al-Bayhaqi (7/469). It has a Hasan (good) chain of narrators through Nafi from Ibn Umar from Umar (RA)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أُمَرَاءِ",
+      "english": "Commanders / Leaders",
+      "urdu": "امراء / سربراہان"
+    },
+    {
+      "arabic": "اَلْأَجْنَادِ",
+      "english": "Armies / Troops",
+      "urdu": "لشکر / فوجیں"
+    },
+    {
+      "arabic": "غَابُوا",
+      "english": "They were absent",
+      "urdu": "وہ غائب ہوئے"
+    },
+    {
+      "arabic": "يُنْفِقُوا",
+      "english": "They spend / Maintain",
+      "urdu": "وہ خرچ کریں (نفقہ دیں)"
+    },
+    {
+      "arabic": "يُطَلِّقُوا",
+      "english": "They divorce",
+      "urdu": "وہ طلاق دے دیں"
+    },
+    {
+      "arabic": "بَعَثُوا",
+      "english": "They send",
+      "urdu": "وہ بھیجیں"
+    },
+    {
+      "arabic": "حَبَسُوا",
+      "english": "They detained / Kept",
+      "urdu": "انہوں نے روکے رکھا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ اثر ثابت کرتا ہے کہ شوہر پر بیوی کا نفقہ (خرچہ) واجب ہے، چاہے وہ جہاد یا کسی بھی ضرورت کی بنا پر غائب ہو، ورنہ اسے طلاق کا حکم دیا جائے گا۔",
+    "english": "This report establishes that a husband must provide maintenance for his wife even if he is away, otherwise he is compelled to either provide for her or divorce her."
+  },
+  "references": [
+    {
+      "arabic": "مسند الشافعي (1/282)",
+      "english": "Musnad Ash-Shafi'i (1/282)"
+    },
+    {
+      "arabic": "السنن الكبرى للبيهقي (15607)",
+      "english": "Al-Sunan al-Kubra by Al-Bayhaqi (15607)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin Al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah bin Umar"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYJv5_qKsqw",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نفقہ کی فرضیت",
+        "english": "Obligation of Maintenance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیوی کا مالی حق",
+              "english": "Wife's Financial Right"
+            },
+            "content": {
+              "urdu": [
+                "شوہر پر بیوی کا کھانا، پینا اور رہائش فراہم کرنا شرعاً فرض ہے۔",
+                "دوری یا مسافرت کی صورت میں بھی یہ حق ساقط نہیں ہوتا۔",
+                "حاکمِ وقت شوہر کو نفقہ ادا کرنے پر مجبور کرنے کا اختیار رکھتا ہے۔"
+              ],
+              "english": [
+                "Providing food, drink, and shelter for the wife is a Shar'i obligation on the husband.",
+                "This right is not waived even during distance or travel.",
+                "The ruler has the authority to compel the husband to pay maintenance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طلاق یا نفقہ کا انتخاب",
+              "english": "Choice Between Maintenance or Divorce"
+            },
+            "content": {
+              "urdu": [
+                "اگر شوہر خرچہ دینے سے قاصر یا انکاری ہو تو اسے طلاق دینے کا حکم دیا جائے گا۔",
+                "بیوی کو بغیر نفقہ اور بغیر شوہر کے لٹکا کر رکھنا ظلم ہے۔",
+                "اسلامی قانون عورت کے حقوق کے تحفظ کو یقینی بناتا ہے۔"
+              ],
+              "english": [
+                "If a husband is unable or unwilling to pay, he is ordered to divorce her.",
+                "Keeping a wife suspended without maintenance or presence is an injustice.",
+                "Islamic law ensures the protection of women's marital rights."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "گزرے ہوئے وقت کا نفقہ",
+        "english": "Past Maintenance Arrears"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سابقہ واجبات کی ادائیگی",
+              "english": "Payment of Past Dues"
+            },
+            "content": {
+              "urdu": [
+                "طلاق کی صورت میں بھی پچھلے دور کا نفقہ ادا کرنا ضروری ہے۔",
+                "جتنا عرصہ بیوی انتظار میں رہی، وہ خرچہ شوہر کے ذمے قرض ہے۔",
+                "حقوق العباد کی ادائیگی میں کوتاہی آخرت میں پکڑ کا باعث ہے۔"
+              ],
+              "english": [
+                "Even in case of divorce, maintenance for the past period must be paid.",
+                "The period the wife spent waiting is a debt upon the husband.",
+                "Negligence in fulfilling the rights of others leads to accountability."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سیدنا عمر کی انتظامی حکمت",
+              "english": "Umar's Administrative Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر رضی اللہ عنہ نے فوجی جوانوں کے گھریلو مسائل پر نظر رکھی۔",
+                "ریاست کی ذمہ داری ہے کہ وہ غائب شوہروں کی بیویوں کے حقوق کا خیال رکھے۔",
+                "فوجی ڈیوٹی گھریلو فرائض سے مکمل چھٹکارے کا نام نہیں ہے۔"
+              ],
+              "english": [
+                "Umar (RA) monitored the domestic issues of soldiers on duty.",
+                "The state is responsible for overseeing the rights of wives of absent husbands.",
+                "Military duty does not mean total exemption from domestic duties."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عورت کے حقوق کا تحفظ",
+        "english": "Protection of Women's Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نقصان سے بچاؤ",
+              "english": "Prevention of Harm"
+            },
+            "content": {
+              "urdu": [
+                "عورت کو معلق (لٹکا ہوا) چھوڑنا قرآن کی رو سے ممنوع ہے۔",
+                "اس اثر سے ثابت ہوتا ہے کہ عورت کی معاشی کفالت اولین ترجیح ہے۔",
+                "عدم ادائیگی کی صورت میں قاضی نکاح فسخ کرنے کا حق رکھتا ہے۔"
+              ],
+              "english": [
+                "Leaving a woman 'suspended' is prohibited according to the Quran.",
+                "This report proves that a woman's economic support is a top priority.",
+                "The judge has the right to annul the marriage if maintenance is not paid."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلامی معاشرت کا حسن",
+              "english": "Beauty of Islamic Social Law"
+            },
+            "content": {
+              "urdu": [
+                "اسلام ہر رشتے میں توازن اور انصاف کا علمبردار ہے۔",
+                "بیوی کے اخراجات اٹھانا شوہر کی مردانگی اور قوامیت کا تقاضا ہے۔",
+                "خلفائے راشدین نے ان اصولوں کو سختی سے نافذ کیا۔"
+              ],
+              "english": [
+                "Islam advocates for balance and justice in every relationship.",
+                "Bearing the wife's expenses is a requirement of a husband's leadership.",
+                "The Rightly Guided Caliphs strictly enforced these principles."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی و تعلیمی اسباق",
+        "english": "Juristic and Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ریاست کی ذمہ داری",
+              "english": "Responsibility of the State"
+            },
+            "content": {
+              "urdu": [
+                "حکومت کو عوام کے سماجی اور نجی معاملات کی اصلاح کرنی چاہیے۔",
+                "خط و کتابت کے ذریعے عدل و انصاف کی فراہمی ممکن بنانی چاہیے۔",
+                "مظلوم فریق کی دادرسی کرنا حاکم کا فرضِ منصبی ہے۔"
+              ],
+              "english": [
+                "The government should reform the social and private affairs of the public.",
+                "Justice should be facilitated through administrative directives.",
+                "Redressing the grievances of the oppressed is the ruler's duty."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاملات کی صفائی",
+              "english": "Clarity in Dealings"
+            },
+            "content": {
+              "urdu": [
+                "نکاح کو ختم کرنا بے سہارا چھوڑنے سے بہتر قرار دیا گیا۔",
+                "مالی ذمہ داریوں سے فرار اختیار کرنا شرعی جرم ہے۔",
+                "مسلمان کو اپنی ہر ذمہ داری کا احساس ہونا چاہیے۔"
+              ],
+              "english": [
+                "Ending a marriage was deemed better than leaving a wife helpless.",
+                "Evading financial responsibilities is a Shariah violation.",
+                "A Muslim must be conscious of all his responsibilities."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

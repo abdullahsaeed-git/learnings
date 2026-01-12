@@ -1,0 +1,263 @@
+{
+  "hadithId": 528,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/528"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (2334)، والترمذي (686)، والنسائي (2188)، وابن ماجه (1645)، وأحمد (4/319). وصححه ابن خزيمة وابن حبان.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد، ترمذی، نسائی اور ابن ماجہ نے روایت کیا ہے۔ امام ترمذی نے اسے 'حسن صحیح' کہا ہے اور ابن خزیمہ و ابن حبان نے اس کی تصحیح کی ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2334), At-Tirmidhi (686), An-Nasa'i (2188), and Ibn Majah (1645). Graded Sahih by Ibn Khuzaymah and Ibn Hibban."
+  },
+  "importantWords": [
+    {
+      "arabic": "يُشَكُّ",
+      "english": "Doubtful",
+      "urdu": "شک کیا جائے"
+    },
+    {
+      "arabic": "عَصَى",
+      "english": "Disobeyed",
+      "urdu": "نافرمانی کی"
+    },
+    {
+      "arabic": "أَبَا اَلْقَاسِمِ",
+      "english": "Abul-Qasim (Prophet's Kunya)",
+      "urdu": "ابوالقاسم (نبی ﷺ کی کنیت)"
+    },
+    {
+      "arabic": "صَامَ",
+      "english": "Fasted",
+      "urdu": "روزہ رکھا"
+    },
+    {
+      "arabic": "الْيَوْمَ",
+      "english": "The day",
+      "urdu": "دن"
+    }
+  ],
+  "summary": {
+    "urdu": "شعبان کی تیس تاریخ کو جب مطلع ابر آلود ہو اور چاند نظر نہ آئے، تو محض رمضان کے گمان میں روزہ رکھنا منع ہے کیونکہ یہ سنت کی خلاف ورزی ہے۔",
+    "english": "Fasting on the 30th of Sha'ban when the moon is not sighted is prohibited as it constitutes disobedience to the Prophet's (ﷺ) established guidance."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (تعليقاً)",
+      "english": "Sahih al-Bukhari (Mu'allaq)"
+    },
+    {
+      "arabic": "سنن الترمذي (686)",
+      "english": "Sunan At-Tirmidhi (686)"
+    },
+    {
+      "arabic": "سنن النسائي (2188)",
+      "english": "Sunan An-Nasa'i (2188)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمار بن ياسر",
+        "english": "Ammar bin Yasir"
+      },
+      "slug": "ammar-bin-yasir"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0kI47xXyU-8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "یوم الشک کی تعریف",
+        "english": "Definition of the Day of Doubt"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مشکوک دن کی حقیقت",
+              "english": "The Reality of the Doubtful Day"
+            },
+            "content": {
+              "urdu": [
+                "یوم الشک شعبان کی 30 ویں تاریخ ہے جب بادلوں کی وجہ سے چاند نظر نہ آئے۔",
+                "اس دن لوگ شک میں ہوتے ہیں کہ یہ شعبان کا آخری دن ہے یا رمضان کا پہلا۔",
+                "اسلام نے اس شک کو ختم کرنے کے لیے واضح اصول مقرر فرمائے ہیں۔"
+              ],
+              "english": [
+                "The Day of Doubt is the 30th of Sha'ban when the moon is obscured by clouds.",
+                "On this day, people are uncertain if it is the end of Sha'ban or the start of Ramadan.",
+                "Islam established clear principles to eliminate this confusion for the community."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کے مطابق طریقہ",
+              "english": "The Method According to Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "اگر چاند نظر نہ آئے تو حکم ہے کہ شعبان کے 30 دن پورے کیے جائیں۔",
+                "محض احتیاط کے نام پر اس دن روزہ رکھنا سنت کی مخالفت شمار ہوتا ہے۔",
+                "نبی ﷺ نے ہمیں یقینی بنیادوں پر عبادت کا آغاز کرنے کی تعلیم دی ہے۔"
+              ],
+              "english": [
+                "If the moon is not sighted, the order is to complete 30 days of Sha'ban.",
+                "Fasting on this day in the name of 'precaution' is considered against the Sunnah.",
+                "The Prophet (ﷺ) taught us to begin acts of worship based on certainty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نافرمانی کی سنگینی",
+        "english": "Gravity of Disobedience"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رسول ﷺ کے حکم کی اہمیت",
+              "english": "Importance of the Prophet's Order"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمارؓ کا 'نافرمانی' کا لفظ استعمال کرنا اس فعل کی حرمت ظاہر کرتا ہے۔",
+                "عبادت میں اپنی طرف سے زیادتی یا تبدیلی کرنا گناہ اور گمراہی ہے۔",
+                "دین میں وہی عمل مقبول ہے جو رسول اللہ ﷺ کے طریقے کے مطابق ہو۔"
+              ],
+              "english": [
+                "Sayyiduna Ammar's (RA) use of the word 'disobeyed' shows the prohibition of this act.",
+                "Adding to or changing acts of worship by oneself is a sin and misguidance.",
+                "Only those deeds are accepted in religion that align with the Prophet's (ﷺ) way."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تکلف اور غلو سے ممانعت",
+              "english": "Prohibition of Affectation and Excess"
+            },
+            "content": {
+              "urdu": [
+                "شریعت نے دین کو آسان بنایا ہے اور اس میں تکلف سے منع کیا ہے۔",
+                "بغیر رویت کے روزہ رکھنا ایک قسم کا غلو ہے جو سابقہ امتوں میں تھا۔",
+                "مسلمان کو چاہیے کہ وہ حدودِ شرعیہ کے اندر رہ کر اللہ کی بندگی کرے۔"
+              ],
+              "english": [
+                "Shariah has made religion easy and has forbidden unnecessary affectation.",
+                "Fasting without sighting the moon is a form of excess found in previous nations.",
+                "A Muslim should worship Allah while remaining within the prescribed legal boundaries."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام اور استثناء",
+        "english": "Juristic Rulings and Exceptions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جائز روزے کی صورت",
+              "english": "Permissible Cases of Fasting"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی کا مستقل معمول (پیر یا جمعرات) اس دن آ جائے تو وہ رکھ سکتا ہے۔",
+                "ممانعت صرف اس روزے کی ہے جو خاص رمضان کے ارادے سے رکھا جائے۔",
+                "قضا روزے کی ادائیگی بھی اس دن کرنا بعض حالات میں جائز ہو سکتی ہے۔"
+              ],
+              "english": [
+                "If a person's habitual fast (like Monday or Thursday) falls on this day, they may fast.",
+                "The prohibition is specifically for fasting intended to 'start' Ramadan early.",
+                "Observing a makeup (Qada) fast on this day can be permissible in certain conditions."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رویتِ ہلال کا اصول",
+              "english": "Principle of Moon Sighting"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی مہینوں کا دارومدار چاند دیکھنے یا ایام پورے کرنے پر ہے۔",
+                "اگر مطلع صاف نہ ہو تو گنتی پوری کرنا ہی واحد شرعی راستہ ہے۔",
+                "یہ اصول معاشرے میں نظم و ضبط اور یکسانیت پیدا کرنے کے لیے ہے۔"
+              ],
+              "english": [
+                "Islamic months depend on moon sighting or completing the count of days.",
+                "If the horizon is not clear, completing the count is the only legal path.",
+                "This principle is designed to create discipline and uniformity in the community."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اتباعِ سنت میں برکت",
+              "english": "Blessings in Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "سنت پر عمل کرنا چاہے وہ بظاہر کم ہی کیوں نہ ہو، اپنی مرضی سے زیادہ سے بہتر ہے۔",
+                "دین میں عقل کے بجائے وحی اور رسول ﷺ کے فیصلے کو ترجیح دیں۔",
+                "نافرمانی سے بچنا ہی مومن کی اصل کامیابی اور نجات کا راستہ ہے۔"
+              ],
+              "english": [
+                "Following Sunnah, even if seemingly less, is better than doing more by personal choice.",
+                "Prioritize revelation and the Prophet's decisions over personal logic in religion.",
+                "Avoiding disobedience is the true path to success and salvation for a believer."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی اتحاد",
+              "english": "Social Unity"
+            },
+            "content": {
+              "urdu": [
+                "مشکوک دن میں روزہ نہ رکھنا پوری امت کو ایک ہی دن رمضان پر جمع کرتا ہے۔",
+                "انفرادی فیصلوں کے بجائے اجتماعی اور شرعی فیصلوں کی پابندی کرنی چاہیے۔",
+                "یہ طرزِ عمل مسلمانوں کے درمیان انتشار اور تفرقہ بازی کو ختم کرتا ہے۔"
+              ],
+              "english": [
+                "Not fasting on the Day of Doubt unites the Ummah to start Ramadan on the same day.",
+                "One should adhere to collective and Shariah decisions rather than individual ones.",
+                "This conduct eliminates discord and sectarian division among Muslims."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

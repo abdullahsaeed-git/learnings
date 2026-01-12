@@ -1,0 +1,281 @@
+{
+  "hadithId": 1160,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/37"],
+    "kitabId": 12,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الأضحية",
+    "babId": 94
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (5565)، ومسلم (1966). وحديث عائشة رواه مسلم (1967).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام بخاری (5565) اور امام مسلم (1966) نے روایت کیا ہے۔ سیدہ عائشہ کی روایت بھی مسلم (1967) میں موجود ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (5565) and Muslim (1966). The narration of Aisha (RA) is also in Sahih Muslim (1967)."
+  },
+  "importantWords": [
+    {
+      "arabic": "كَبْشَيْنِ",
+      "english": "Two rams",
+      "urdu": "دو مینڈھے"
+    },
+    {
+      "arabic": "أَمْلَحَيْنِ",
+      "english": "Black and white",
+      "urdu": "چتکبرے / سفید و سیاہ"
+    },
+    {
+      "arabic": "أَقْرَنَيْنِ",
+      "english": "Horned",
+      "urdu": "سینگوں والے"
+    },
+    {
+      "arabic": "سَمِينَيْنِ",
+      "english": "Fat / Healthy",
+      "urdu": "موٹے تازے"
+    },
+    {
+      "arabic": "ثَمِينَيْنِ",
+      "english": "Expensive / Valuable",
+      "urdu": "قیمتی"
+    },
+    {
+      "arabic": "اِشْحَذِي",
+      "english": "Sharpen",
+      "urdu": "تیز کرو"
+    },
+    {
+      "arabic": "اَلْمُدْيَةَ",
+      "english": "The knife",
+      "urdu": "چھری"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ عمدہ، سینگوں والے اور موٹے تازے مینڈھے خود اپنے ہاتھ سے ذبح کر کے اپنی اور پوری امت کی طرف سے قربانی دیتے تھے۔",
+    "english": "The Prophet (ﷺ) personally sacrificed high-quality, horned, and healthy rams on behalf of himself, his family, and his entire Ummah."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (5565)",
+      "english": "Sahih al-Bukhari (5565)"
+    },
+    {
+      "arabic": "صحيح مسلم (1966)",
+      "english": "Sahih Muslim (1966)"
+    },
+    {
+      "arabic": "صحيح مسلم (1967)",
+      "english": "Sahih Muslim (1967)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك",
+        "english": "Anas bin Malik"
+      },
+      "slug": "anas-bin-malik"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aisha bint Abi Bakr"
+      },
+      "slug": "aisha-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R2rXGvR_2E8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قربانی کے جانور کا انتخاب",
+        "english": "Selection of the Sacrifice Animal"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بہترین اوصاف",
+              "english": "Best Attributes"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ قربانی کے لیے خوبصورت اور سینگوں والے مینڈھوں کا انتخاب فرماتے تھے۔",
+                "جانور کا موٹا تازہ (سمین) اور قیمتی (ثمین) ہونا قربانی کی عظمت کی دلیل ہے۔",
+                "اللہ کی راہ میں بہترین مال پیش کرنا تقویٰ کی علامت ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) chose beautiful and horned rams for the sacrifice.",
+                "The animal being healthy (fat) and valuable signifies the greatness of the ritual.",
+                "Offering the best of one's wealth in Allah's path is a sign of piety."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جانور کی ظاہری علامات",
+              "english": "Physical Appearance"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں سیاہ پاؤں اور آنکھوں والے مینڈھے کا ذکر حسنِ انتخاب ہے۔",
+                "چتکبرا (سیاہ و سفید) ہونا قربانی کے جانور کی خوبصورتی کو ظاہر کرتا ہے۔",
+                "یہ تفصیلات قربانی کے عمل میں کمال اور احسان کو ظاہر کرتی ہیں۔"
+              ],
+              "english": [
+                "The mention of black legs and eyes represents a selection of high aesthetic.",
+                "The black and white coloring highlights the beauty of the sacrificial animal.",
+                "These details demonstrate the perfection and excellence in the act of sacrifice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ذبح کے مسنون طریقے",
+        "english": "Sunnah Methods of Slaughtering"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آلے کی تیاری",
+              "english": "Preparation of the Tool"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے سیدہ عائشہ کو چھری تیز کرنے کا حکم دے کر رحم سکھایا۔",
+                "تیز آلہ جانور کی تکلیف کو کم کرتا ہے جو کہ شرعی تقاضا ہے۔",
+                "ذبح سے پہلے تمام ضروری تیاری مکمل کر لینا سنتِ نبوی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught mercy by ordering the knife to be sharpened.",
+                "A sharp tool reduces the animal's pain, which is a legal requirement.",
+                "Completing all necessary preparations before slaughtering is a Prophetic Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ذبح کرنے کا انداز",
+              "english": "Style of Slaughter"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ جانور کو بائیں پہلو پر لٹا کر اپنا پاؤں اس کے شانے پر رکھتے تھے۔",
+                "اپنے ہاتھ سے ذبح کرنا افضل اور سنتِ مؤکدہ ہے۔",
+                "ذبح کے وقت تسمیہ (بسم اللہ) اور تکبیر (اللہ اکبر) کہنا واجب ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) would lay the animal on its left side and place his foot on its neck.",
+                "Slaughtering with one's own hand is preferable and an emphasized Sunnah.",
+                "Saying Tasmiah (Bismillah) and Takbir (Allahu Akbar) during slaughter is mandatory."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قبولیت کی دعا اور نیت",
+        "english": "Supplication and Intention"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعا کے الفاظ",
+              "english": "Words of Supplication"
+            },
+            "content": {
+              "urdu": [
+                "قربانی کے وقت 'اللہم تقبل' کہہ کر اللہ سے قبولیت کی التجا کرنا مسنون ہے۔",
+                "اپنی اور اپنے اہل خانہ کی طرف سے قربانی کی نیت کرنا ثابت ہے۔",
+                "دعا میں اخلاص ہی قربانی کی اصل روح اور جان ہے۔"
+              ],
+              "english": [
+                "It is Sunnah to implore Allah for acceptance by saying 'Allahumma Taqabbal'.",
+                "Intending the sacrifice for oneself and one's family is established practice.",
+                "Sincerity in supplication is the true spirit and soul of the sacrifice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امت کے لیے ایثار",
+              "english": "Sacrifice for the Ummah"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اپنی قربانی میں پوری امت کے غریبوں کو شامل فرمایا۔",
+                "یہ آپ ﷺ کی اپنی امت کے لیے عظیم شفقت اور ایثار کی دلیل ہے۔",
+                "اس سے ثابت ہوتا ہے کہ ایک قربانی پورے گھرانے کی طرف سے کافی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) included the poor of his Ummah in his sacrifice.",
+                "This is proof of his great compassion and selflessness for his followers.",
+                "It establishes that one sacrifice is sufficient for an entire household."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قربانی کا پیغام",
+        "english": "The Message of Sacrifice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تقویٰ کا حصول",
+              "english": "Attaining Piety"
+            },
+            "content": {
+              "urdu": [
+                "قربانی کا مقصد گوشت کھانا نہیں بلکہ اللہ کا خوف اور تقویٰ ہے۔",
+                "اللہ کو جانوروں کا خون نہیں بلکہ بندے کی نیت پہنچتی ہے۔",
+                "یہ عمل حضرت ابراہیم علیہ السلام کی عظیم قربانی کی یاد تازہ کرتا ہے۔"
+              ],
+              "english": [
+                "The goal of sacrifice is not eating meat but the fear of Allah and piety.",
+                "Allah does not receive the blood of animals but the intention of the servant.",
+                "This act revives the memory of Prophet Ibrahim's (AS) great sacrifice."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جذبہِ اطاعت",
+              "english": "Spirit of Obedience"
+            },
+            "content": {
+              "urdu": [
+                "قربانی بندے کی اللہ کے لیے مکمل سپردگی کا ایک والہانہ اظہار ہے۔",
+                "اس سے انسان میں اللہ کے احکام پر جان مال قربان کرنے کا جذبہ پیدا ہوتا ہے۔",
+                "قربانی کا گوشت بانٹنا معاشرتی ہمدردی اور بھائی چارے کو فروغ دیتا ہے۔"
+              ],
+              "english": [
+                "Sacrifice is a passionate expression of a servant's total submission to Allah.",
+                "It fosters the spirit of sacrificing wealth and life for Allah's commands.",
+                "Distributing the sacrificial meat promotes social empathy and brotherhood."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

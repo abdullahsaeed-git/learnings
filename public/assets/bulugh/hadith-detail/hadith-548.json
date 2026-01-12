@@ -1,0 +1,264 @@
+{
+  "hadithId": 548,
+  "hadithNo": 22,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/5/42"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصيام",
+    "babId": 33
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه الدارقطني (2/205) والحاكم (1/440). قال الدارقطني: إسناده صحيح، وقال الحاكم: على شرط البخاري. وله شواهد في البخاري تعليقاً.",
+    "urdu": "صحیح۔ اسے دارقطنی (2/205) اور حاکم (1/440) نے روایت کیا ہے۔ دارقطنی نے اسے صحیح اور حاکم نے بخاری کی شرط پر صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ad-Daraqutni (2/205) and Al-Hakim (1/440). Ad-Daraqutni graded the chain as Sahih, and Al-Hakim stated it meets the criteria of Imam Al-Bukhari."
+  },
+  "importantWords": [
+    {
+      "arabic": "رُخِّصَ",
+      "english": "Granted a concession",
+      "urdu": "رخصت دی گئی"
+    },
+    {
+      "arabic": "اَلشَّيْخِ اَلْكَبِيرِ",
+      "english": "The aged/elderly man",
+      "urdu": "بوڑھا آدمی"
+    },
+    {
+      "arabic": "يُفْطِرَ",
+      "english": "To break the fast",
+      "urdu": "افطار کرے / روزہ نہ رکھے"
+    },
+    {
+      "arabic": "يُطْعِمَ",
+      "english": "To feed",
+      "urdu": "کھانا کھلائے"
+    },
+    {
+      "arabic": "مِسْكِينًا",
+      "english": "A needy person",
+      "urdu": "مسکین"
+    },
+    {
+      "arabic": "قَضَاءَ",
+      "english": "Making up the fast",
+      "urdu": "قضا"
+    }
+  ],
+  "summary": {
+    "urdu": "ایسے بزرگ افراد جو بڑھاپے کی وجہ سے روزہ رکھنے کی طاقت نہیں رکھتے، وہ روزہ چھوڑ سکتے ہیں اور ہر روزے کے بدلے فدیہ (مسکین کو کھانا) دیں گے۔",
+    "english": "Elderly people who are unable to fast due to old age are permitted to skip fasting and instead give Fidyah by feeding a needy person for each day."
+  },
+  "references": [
+    {
+      "arabic": "رواه الدارقطني (2377)",
+      "english": "Reported by Ad-Daraqutni (2377)"
+    },
+    {
+      "arabic": "رواه الحاكم (1598)",
+      "english": "Reported by Al-Hakim (1598)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah ibn Abbas"
+      },
+      "slug": "abdullah-ibn-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=0hY53_wN73U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بڑھاپے میں روزے کی رخصت",
+        "english": "Exemption of Fasting in Old Age"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کمزوری اور شرعی رعایت",
+              "english": "Weakness and Sharia Concession"
+            },
+            "content": {
+              "urdu": [
+                "بڑھاپے میں جب جسم روزہ برداشت نہ کر سکے تو شریعت اسے معاف کرتی ہے۔",
+                "اللہ تعالیٰ کسی جان پر اس کی طاقت سے زیادہ بوجھ نہیں ڈالتا۔",
+                "یہ حکم ان بزرگوں کے لیے ہے جن کی صحت واپسی کی امید نہ ہو۔"
+              ],
+              "english": [
+                "When the body can no longer endure fasting in old age, Sharia grants an exemption.",
+                "Allah does not burden a soul beyond its capacity.",
+                "This ruling applies to the elderly whose health is not expected to return."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فدیہ کی ادائیگی",
+              "english": "Payment of Fidyah"
+            },
+            "content": {
+              "urdu": [
+                "روزہ نہ رکھنے کے بدلے ایک مسکین کو کھانا کھلانا ضروری ہے۔",
+                "کھانے کی مقدار ایک مد (تقریباً 600 گرام) غلہ یا پیٹ بھر کر کھانا ہے۔",
+                "یہ فدیہ روزے کا متبادل قرار دیا گیا ہے۔"
+              ],
+              "english": [
+                "It is necessary to feed a needy person in exchange for the missed fast.",
+                "The amount is one Mudd (approx. 600g) of grain or a full meal.",
+                "This Fidyah is established as the substitute for the fast."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قضا اور متبادل کے احکامات",
+        "english": "Rulings on Qada and Substitutes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قضا کیوں لازم نہیں؟",
+              "english": "Why Qada is Not Required"
+            },
+            "content": {
+              "urdu": [
+                "بزرگ افراد سے قضا اس لیے ساقط ہے کیونکہ وہ دوبارہ طاقت حاصل نہیں کر پائیں گے۔",
+                "مریض کے برعکس، بڑھاپا ایک دائمی حالت ہے۔",
+                "اس لیے ان کے لیے صرف فدیہ ہی کافی سمجھا گیا ہے۔"
+              ],
+              "english": [
+                "Qada is waived for the elderly because they will not regain the strength to fast later.",
+                "Unlike a temporary illness, old age is a permanent condition.",
+                "Therefore, Fidyah is considered sufficient for them."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لا علاج مریض کا حکم",
+              "english": "Ruling for Incurably Ill"
+            },
+            "content": {
+              "urdu": [
+                "وہ مریض جس کی بیماری ختم ہونے کی امید نہ ہو، وہ بھی اسی حکم میں ہے۔",
+                "ایسا شخص بھی روزے کے بجائے فدیہ ادا کرے گا۔",
+                "اسلامی فقہ میں یہ ایک مستقل اور مستند قاعدہ ہے۔"
+              ],
+              "english": [
+                "Patients with incurable illnesses fall under the same ruling.",
+                "Such individuals must also pay Fidyah instead of fasting.",
+                "This is a permanent and authentic principle in Islamic jurisprudence."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی مسائل اور اطلاق",
+        "english": "Practical Issues and Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فدیہ دینے کا طریقہ",
+              "english": "Method of Giving Fidyah"
+            },
+            "content": {
+              "urdu": [
+                "فدیہ روزانہ بھی دیا جا سکتا ہے اور مہینے کے آخر میں اکٹھا بھی۔",
+                "گھر میں مسکینوں کو بلا کر کھانا کھلانا بھی جائز ہے۔",
+                "سیدنا انس رضی اللہ عنہ بڑھاپے میں تیس مسکینوں کو اکٹھا کھانا کھلا دیا کرتے تھے۔"
+              ],
+              "english": [
+                "Fidyah can be given daily or collectively at the end of the month.",
+                "It is permissible to invite needy people home and feed them.",
+                "Anas (RA) used to feed thirty needy people at once in his old age."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "طاقت نہ ہونے کی صورت",
+              "english": "In Case of Absolute Inability"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی اتنا غریب ہو کہ فدیہ بھی نہ دے سکے تو اس پر کچھ لازم نہیں۔",
+                "اللہ تعالیٰ نیتوں کو جاننے والا اور معاف فرمانے والا ہے۔",
+                "دین میں کسی قسم کی تنگی نہیں رکھی گئی۔"
+              ],
+              "english": [
+                "If someone is too poor to even pay Fidyah, nothing is required of them.",
+                "Allah knows the intentions and is the Most Forgiving.",
+                "There is no undue hardship placed in the religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قرآنی بنیاد اور حکمت",
+        "english": "Quranic Basis and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سورہ بقرہ کی روشنی میں",
+              "english": "In Light of Surah Al-Baqarah"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث قرآن کی آیت 'وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ' کی تفسیر ہے۔",
+                "صحابہ نے اس سے مراد وہ لوگ لیے جو مشقت سے روزہ رکھ پاتے تھے۔",
+                "بڑھاپے میں رخصت دینا اسلام کی انسانیت پروری کی دلیل ہے۔"
+              ],
+              "english": [
+                "This Hadith interprets the Quranic verse: 'And upon those who are able [to fast only with hardship] - a ransom [as substitute]'.",
+                "Companions understood this to mean those who fast with extreme difficulty.",
+                "Granting concessions in old age is proof of Islam's humanitarian nature."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اسلام کا توازن",
+              "english": "The Balance of Islam"
+            },
+            "content": {
+              "urdu": [
+                "اسلام عبادت اور انسانی سہولت کے درمیان توازن قائم رکھتا ہے۔",
+                "جہاں روزہ فرض ہے، وہیں مجبوری میں راستہ بھی فراہم کیا گیا ہے۔",
+                "یہ رخصت مومن کے لیے اللہ کی طرف سے صدقہ ہے۔"
+              ],
+              "english": [
+                "Islam maintains a balance between worship and human convenience.",
+                "While fasting is obligatory, a path is provided in case of necessity.",
+                "This concession is a charity from Allah to the believer."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

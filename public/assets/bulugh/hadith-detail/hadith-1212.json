@@ -1,0 +1,260 @@
+{
+  "hadithId": 1212,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/14/24"],
+    "kitabId": 14,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب القضاء",
+    "babId": 99
+  },
+ 
+  "takhreej": {
+    "arabic": " صحيح. رواه مسلم (137)، والنسائي (5419)، وابن ماجه (2324)، وأحمد (22315).",
+    "urdu": "صحیح۔ اسے مسلم (137)، نسائی (5419) اور احمد (22315) نے روایت کیا ہے۔ یہ حدیث حقوق العباد کی اہمیت پر واضح دلیل ہے۔",
+    "english": "Sahih. Reported by Muslim (137), An-Nasa'i (5419), and Ahmad (22315). It serves as a stern warning regarding the rights of others."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِقْتَطَعَ",
+      "english": "Deprived / Seized",
+      "urdu": "چھین لیا / کاٹ لیا"
+    },
+    {
+      "arabic": "أَوْجَبَ",
+      "english": "Made compulsory",
+      "urdu": "واجب کر دیا"
+    },
+    {
+      "arabic": "حَرَّمَ",
+      "english": "Forbidden",
+      "urdu": "حرام کر دیا"
+    },
+    {
+      "arabic": "يَسِيرًا",
+      "english": "Minor / Trivial",
+      "urdu": "معمولی / تھوڑا"
+    },
+    {
+      "arabic": "قَضِيبٌ",
+      "english": "Twig / Branch",
+      "urdu": "شاخ / ٹہنی"
+    },
+    {
+      "arabic": "أَرَاكٍ",
+      "english": "Arak tree (Miswak tree)",
+      "urdu": "پیلو کا درخت"
+    }
+  ],
+  "summary": {
+    "urdu": "جھوٹی قسم کھا کر کسی کا حق مارنا جہنم کو واجب کرنے والا گناہ ہے، چاہے وہ حق ایک مسواک جتنا معمولی ہی کیوں نہ ہو۔",
+    "english": "Taking a false oath to usurp someone's right makes Hellfire mandatory, even if the stolen object is as insignificant as a Miswak twig."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب الإيمان، باب وعيد من اقتطع حق مسلم بيمين فاجرة بالنار، رقم 137",
+      "english": "Sahih Muslim, Book of Faith, Chapter: Severe threat for one who seizes a Muslim's right via a false oath, No. 137"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو أمامة إياس بن ثعلبة الحارثي",
+        "english": "Abu Umama Iyas bin Tha'labah al-Harithi"
+      },
+      "slug": "abu-umama-al-harithi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حقوق العباد کی سنگینی",
+        "english": "The Gravity of Human Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معمولی حق کی اہمیت",
+              "english": "Importance of Minor Rights"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں دوسروں کا مال ہڑپ کرنا چاہے وہ کتنا ہی کم کیوں نہ ہو، حرام ہے۔",
+                "مسواک کی ٹہنی کی مثال دے کر واضح کیا گیا کہ حق حق ہوتا ہے، چھوٹا یا بڑا نہیں۔",
+                "معمولی چیزوں میں خیانت ہی انسان کو بڑے گناہوں کی طرف لے جاتی ہے۔"
+              ],
+              "english": [
+                "In Islam, usurping others' property is haram, no matter how small the amount.",
+                "The Miswak twig example clarifies that a right is a right, regardless of its size.",
+                "Dishonesty in trivial matters often leads a person toward major sins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جہنم کی وعید",
+              "english": "Threat of Hellfire"
+            },
+            "content": {
+              "urdu": [
+                "جھوٹی قسم کے ذریعے حق مارنا انسان کے لیے جہنم کو واجب کر دیتا ہے۔",
+                "اللہ تعالی ایسے شخص سے سخت ناراض ہوتا ہے جو اس کے نام کو دھوکے کے لیے استعمال کرے۔",
+                "یہ وعید اس شخص کے لیے ہے جو توبہ اور حق کی واپسی کے بغیر مر جائے۔"
+              ],
+              "english": [
+                "Seizing rights through false oaths makes Hellfire a mandatory consequence.",
+                "Allah is severely displeased with those who use His Name for deception.",
+                "This warning applies to those who die without repenting and returning the stolen right."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جھوٹی قسم (یمینِ فاجرہ)",
+        "english": "The False Oath (Yameen al-Fajirah)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نامِ الہی کی بے حرمتی",
+              "english": "Desecration of the Divine Name"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی قسم کھانا ایک عظیم ذمہ داری ہے جسے جھوٹ کے لیے استعمال کرنا گناہِ کبیرہ ہے۔",
+                "جھوٹی قسم کھا کر مال لینا درحقیقت اللہ کے وقار کی توہین کرنا ہے۔",
+                "ایسا شخص دنیاوی فائدہ تو پا سکتا ہے مگر اپنی آخرت مکمل برباد کر دیتا ہے۔"
+              ],
+              "english": [
+                "Taking an oath by Allah is a great responsibility; using it for lies is a major sin.",
+                "Taking property via a false oath is actually an insult to the dignity of Allah.",
+                "Such a person may gain worldly benefit but completely destroys their Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "توبہ کی شرط",
+              "english": "Condition for Repentance"
+            },
+            "content": {
+              "urdu": [
+                "حقوق العباد کے گناہ صرف استغفار سے معاف نہیں ہوتے جب تک حق واپس نہ کیا جائے۔",
+                "اگر صاحبِ حق معاف کر دے یا اسے اس کا حق مل جائے تو توبہ قبول ہو سکتی ہے۔",
+                "یہ حدیث مسلمانوں کو ہر قسم کی مالی بددیانتی سے ڈراتی ہے۔"
+              ],
+              "english": [
+                "Sins involving human rights are not forgiven by seeking pardon alone; the right must be restored.",
+                "Repentance is only accepted if the victim forgives or receives their rightful due.",
+                "This Hadith warns Muslims against every form of financial dishonesty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدالتی فیصلے اور حقیقت",
+        "english": "Judicial Decisions vs Reality"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ظاہری فیصلہ بمقابلہ باطنی حقیقت",
+              "english": "Apparent Verdict vs Internal Reality"
+            },
+            "content": {
+              "urdu": [
+                "عدالت تو قسم کی بنیاد پر فیصلہ دے دیتی ہے مگر حقیقت اللہ سے چھپی نہیں رہتی۔",
+                "جھوٹی قسم کے ذریعے جیتا ہوا مقدمہ مال کو حلال نہیں کر دیتا۔",
+                "انسان کو قاضی کے فیصلے سے زیادہ اللہ کی پکڑ سے ڈرنا چاہیے۔"
+              ],
+              "english": [
+                "The court may rule based on an oath, but reality remains known to Allah.",
+                "Winning a case through a false oath does not make the acquired wealth lawful.",
+                "One should fear Allah's seizure more than the judge's verdict."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ایمانی غیرت کا تقاضا",
+              "english": "Requirement of Faith and Honor"
+            },
+            "content": {
+              "urdu": [
+                "مومن وہی ہے جو دوسروں کے مال کو اپنی جان کی طرح محترم سمجھے۔",
+                "ایک مسواک کے لیے اپنی آخرت داؤ پر لگانا نادانی کی انتہا ہے۔",
+                "یہ حدیث معاشرے میں امانت اور دیانت کے فروغ کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "A true believer respects others' property as they respect their own life.",
+                "Risking the Hereafter for something as small as a Miswak is the peak of ignorance.",
+                "This Hadith serves as a means to promote trust and integrity in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اصلاح",
+        "english": "Social Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرص اور طمع کا علاج",
+              "english": "Cure for Greed and Avarice"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث انسان کے اندر سے دوسروں کا مال چھیننے کی حرص کو ختم کرتی ہے۔",
+                "جب بندہ جہنم کی ہولناکی کو یاد رکھتا ہے تو وہ کسی کی کوڑی بھی نہیں دباتا۔",
+                "قناعت اور حلال رزق پر اکتفا کرنا ہی کامیابی کی ضمانت ہے۔"
+              ],
+              "english": [
+                "This Hadith eliminates the greed to seize others' property from within a person.",
+                "When a servant remembers the horrors of Hell, they won't suppress even a penny of another.",
+                "Contentment and sufficing with Halal sustenance are guarantees of success."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امن و سلامتی کا قیام",
+              "english": "Establishing Peace and Security"
+            },
+            "content": {
+              "urdu": [
+                "حقوق کی ادائیگی سے ہی معاشرہ پرامن اور مستحکم بنتا ہے۔",
+                "جہاں لوگوں کے حقوق محفوظ ہوں، وہاں نفرتیں اور جھگڑے ختم ہو جاتے ہیں۔",
+                "یہ نبوی تعلیمات ایک مثالی فلاحی ریاست کی بنیاد فراہم کرتی ہیں۔"
+              ],
+              "english": [
+                "Society becomes peaceful and stable only through the fulfillment of rights.",
+                "Where people's rights are secure, hatred and disputes naturally vanish.",
+                "These Prophetic teachings provide the foundation for an ideal welfare state."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 415,
+  "hadithNo": 1,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/book-2/hadith-415"],
+    "kitabId": 2,
+    "inKitabBab": 17,
+    "arabicBook": "بلوغ المرام",
+    "babId": 27
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أبو داود (4039)‏، وهو عند البخاري تعليقاً مجزوماً به (5590)‏ بلفظ: «يستحلون الحر والحرير والخمر والمعازف». والمراد بالحر هنا: الفرج، أي الزنا.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد (4039) نے روایت کیا اور اس کی اصل صحیح بخاری (5590) میں 'معلق' موجود ہے جس میں زنا، ریشم، شراب اور موسیقی کے آلات کو حلال کرنے کا تذکرہ ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (4039). Its origin is in Sahih al-Bukhari (5590) in a 'Mu'allaq' (suspended) but decisive form, mentioning the legalization of zina, silk, wine, and musical instruments."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَسْتَحِلُّونَ",
+      "english": "They will make lawful",
+      "urdu": "وہ حلال ٹھہرائیں گے"
+    },
+    {
+      "arabic": "اَلْحِرَ",
+      "english": "Adultery / Zina",
+      "urdu": "زنا / شرمگاہ"
+    },
+    {
+      "arabic": "اَلْحَرِيرَ",
+      "english": "Silk",
+      "urdu": "ریشم"
+    },
+    {
+      "arabic": "أَقْوَامٌ",
+      "english": "Groups of people",
+      "urdu": "کئی قومیں / گروہ"
+    },
+    {
+      "arabic": "أُمَّتِي",
+      "english": "My Ummah",
+      "urdu": "میری امت"
+    }
+  ],
+  "summary": {
+    "urdu": "نبی کریم ﷺ نے پیشگوئی فرمائی کہ امت کے کچھ لوگ حرام کاموں جیسے زنا اور مردوں کے لیے ریشم کو حلال سمجھ کر اختیار کر لیں گے۔",
+    "english": "The Prophet (ﷺ) prophesied that certain groups in his Ummah would attempt to justify and practice forbidden acts like adultery and wearing silk."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (4039)",
+      "english": "Sunan Abu Dawud (4039)"
+    },
+    {
+      "arabic": "صحيح البخاري (5590)",
+      "english": "Sahih al-Bukhari (5590)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو عامر الأشعري",
+        "english": "Abu 'Amir al-Ash'ari"
+      },
+      "slug": "abu-amir-al-ashari"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=kYI6Y_6_6uQ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "پیشگوئی اور فتنے",
+        "english": "Prophecy and Trials"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حرام کو حلال کرنا",
+              "english": "Making Forbidden Lawful"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے غیب کی خبر دی کہ امت میں بگاڑ پیدا ہوگا۔",
+                "لوگ تاویلات کے ذریعے واضح حرام کاموں کو حلال قرار دیں گے۔",
+                "یہ فتنہ عقیدے کی کمزوری اور نفسانی خواہشات کی پیروی کا نتیجہ ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) foretold a period of corruption within the Ummah.",
+                "People will use false interpretations to justify clearly forbidden acts.",
+                "This trial stems from weak faith and following carnal desires."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاقی زوال",
+              "english": "Moral Decline"
+            },
+            "content": {
+              "urdu": [
+                "زنا کو حلال سمجھنا معاشرے میں بے حیائی کی انتہا کو ظاہر کرتا ہے۔",
+                "جب معاشرہ اخلاقی طور پر گرتا ہے تو حدود اللہ کو پامال کیا جاتا ہے۔",
+                "ایسی قومیں اللہ کے عذاب اور مسخ ہونے کے خطرے میں ہوتی ہیں۔"
+              ],
+              "english": [
+                "Considering zina lawful indicates the peak of immodesty in society.",
+                "When a society declines morally, Allah's limits are violated.",
+                "Such groups face the risk of divine punishment and transformation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "ریشم کا شرعی حکم",
+        "english": "Ruling on Silk"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردوں کے لیے ممانعت",
+              "english": "Prohibition for Men"
+            },
+            "content": {
+              "urdu": [
+                "خالص ریشم پہننا امت کے مردوں کے لیے قطعی طور پر حرام ہے۔",
+                "یہ تکبر اور عیش و عشرت کی علامت ہے جو سادگی کے خلاف ہے۔",
+                "خواتین کے لیے ریشم پہننا جائز قرار دیا گیا ہے لیکن مردوں پر پابندی ہے۔"
+              ],
+              "english": [
+                "Wearing pure silk is strictly forbidden for the men of this Ummah.",
+                "It symbolizes arrogance and luxury, contradicting Islamic simplicity.",
+                "While women are permitted to wear silk, it remains prohibited for men."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استحلال کی سنگینی",
+              "english": "Severity of Legalizing the Forbidden"
+            },
+            "content": {
+              "urdu": [
+                "کسی حرام چیز کو حلال سمجھنا کفر کے درجے تک پہنچا سکتا ہے۔",
+                "گناہ کرنا ایک الگ معاملہ ہے لیکن اسے جائز قرار دینا بہت خطرناک ہے۔",
+                "شریعت کے احکامات کو بدلنے کی کوشش کرنے والے سخت وعید کے مستحق ہیں۔"
+              ],
+              "english": [
+                "Believing a forbidden thing to be lawful can lead to disbelief.",
+                "Committing a sin is one thing, but justifying it as permissible is dangerous.",
+                "Those who attempt to alter Sharia rulings deserve severe warning."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اثرات",
+        "english": "Social Impact"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی نظام کی تباہی",
+              "english": "Destruction of Family System"
+            },
+            "content": {
+              "urdu": [
+                "زنا کی ترویج سے خاندانی ڈھانچہ اور نسب کی حفاظت ختم ہو جاتی ہے۔",
+                "معاشرے میں بے راہ روی بڑھتی ہے اور امن و سکون غارت ہوتا ہے۔",
+                "حرام کاموں کی کثرت سے اللہ کی برکتیں اٹھا لی جاتی ہیں۔"
+              ],
+              "english": [
+                "Promoting adultery destroys the family structure and lineage protection.",
+                "Societal unrest increases and peace and tranquility are lost.",
+                "Abundance of forbidden acts causes Allah's blessings to be withdrawn."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مغربی تہذیب کی مشابہت",
+              "english": "Imitation of Other Civilizations"
+            },
+            "content": {
+              "urdu": [
+                "موجودہ دور میں بہت سے لوگ غیروں کی نقالی میں ان گناہوں کو اپناتے ہیں۔",
+                "فیشن اور جدیدیت کے نام پر ریشم اور موسیقی کو عام کیا جا رہا ہے۔",
+                "مسلمانوں کو اپنی اسلامی شناخت اور حدود کی حفاظت کرنی چاہیے۔"
+              ],
+              "english": [
+                "Nowadays, many adopt these sins in imitation of foreign cultures.",
+                "Silk and music are being normalized in the name of fashion/modernity.",
+                "Muslims must safeguard their Islamic identity and boundaries."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "توبہ اور اصلاح",
+        "english": "Repentance and Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "انفرادی ذمہ داری",
+              "english": "Individual Responsibility"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو چاہیے کہ وہ ان فتنوں سے خود کو اور اپنے گھر والوں کو بچائے۔",
+                "حلال اور حرام کی تمیز سیکھنا ہر بالغ مسلمان پر فرض ہے۔",
+                "خواہشات کے بجائے قرآن و سنت کے احکامات کو مقدم رکھنا چاہیے۔"
+              ],
+              "english": [
+                "Every Muslim should protect themselves and their family from these trials.",
+                "Distinguishing between Halal and Haram is a duty for every adult Muslim.",
+                "Divine commands must be prioritized over personal desires."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجتماعی اصلاح",
+              "english": "Collective Reform"
+            },
+            "content": {
+              "urdu": [
+                "علماء اور والدین کو معاشرے میں اخلاقی اقدار کے فروغ کے لیے کام کرنا چاہیے۔",
+                "نیکی کا حکم دینا اور برائی سے روکنا فتنوں کا واحد حل ہے۔",
+                "اللہ کی طرف رجوع اور توبہ ہی برے انجام سے بچا سکتی ہے۔"
+              ],
+              "english": [
+                "Scholars and parents must work to promote moral values in society.",
+                "Enjoining good and forbidding evil is the only solution to trials.",
+                "Turning to Allah and repentance can save one from a bad end."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

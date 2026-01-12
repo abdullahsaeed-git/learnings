@@ -1,0 +1,174 @@
+{
+  "hadithId": 343,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh:414"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 11,
+    "arabicBook": "تقصير الصلاة",
+    "babId": 21
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه أحمد (2/108)‏، وابن خزيمة (950)‏، وابن حبان (2742). والرواية الثانية رواها ابن حبان (354) من حديث ابن عباس رضي الله عنهما، وهي صحيحة أيضاً.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام احمد، ابن خزیمہ اور ابن حبان نے روایت کیا ہے۔ دوسری روایت ابن عباس رضی اللہ عنہما سے مروی ہے جسے ابن حبان نے روایت کیا ہے اور وہ بھی صحیح ہے۔",
+    "english": "Sahih (Authentic). Reported by Ahmad (2/108), Ibn Khuzaimah (950), and Ibn Hibban (2742). The second narration is reported by Ibn Hibban (354) from Ibn Abbas (RAA) and is also authentic."
+  },
+  "importantWords": [
+    {
+      "arabic": "رُخَصُهُ",
+      "english": "Concessions / Permissions",
+      "urdu": "سہولتیں / رخصتیں"
+    },
+    {
+      "arabic": "يَكْرَهُ",
+      "english": "Dislikes / Hates",
+      "urdu": "ناپسند کرتا ہے"
+    },
+    {
+      "arabic": "عَزَائِمُهُ",
+      "english": "Obligatory commands / Determination",
+      "urdu": "تاکیدی احکام / فرائض"
+    },
+    {
+      "arabic": "مَعْصِيَتُهُ",
+      "english": "Disobedience",
+      "urdu": "نافرمانی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث کا نچوڑ یہ ہے کہ دینِ اسلام میں جہاں فرائض پر عمل کرنا ضروری ہے، وہاں اللہ کی طرف سے دی گئی جائز سہولتوں (جیسے سفر میں نماز قصر کرنا) کو اپنانا بھی اللہ کی خوشنودی کا باعث ہے، کیونکہ سہولت کو رد کرنا اللہ کے فضل کو رد کرنے کے برابر ہے۔",
+    "english": "The essence of this Hadith is that in Islam, while it is essential to perform obligations, it is also pleasing to Allah when people take advantage of the legal concessions He provides (like shortening prayer during travel). Rejecting these concessions can be seen as rejecting His grace."
+  },
+  "references": [
+    {
+      "arabic": "مسند أحمد (5866)",
+      "english": "Musnad Ahmad (5866)"
+    },
+    {
+      "arabic": "صحيح ابن حبان (2742)",
+      "english": "Sahih Ibn Hibban (2742)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    }
+  ],
+  "ytLink": "",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رخصت اور عزیمت کا مفہوم",
+        "english": "The Concept of Rukhsah and Azimah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رخصت کی اہمیت",
+              "english": "The Importance of Concessions"
+            },
+            "content": {
+              "urdu": [
+                "رخصت سے مراد وہ سہولت ہے جو اللہ نے کسی شرعی عذر (مثلاً سفر، بیماری) کی وجہ سے بندوں کو دی ہے۔",
+                "سفر میں چار رکعت والی نماز کو دو پڑھنا (قصر)، بیماری میں بیٹھ کر نماز پڑھنا یا رمضان میں مسافر کا روزہ چھوڑ دینا رخصت کی مثالیں ہیں۔",
+                "ان سہولتوں پر عمل کرنا اللہ کی نعمت کی قدر دانی ہے، اس لیے اللہ اسے پسند فرماتا ہے۔"
+              ],
+              "english": [
+                "Rukhsah refers to the concessions and ease Allah provides due to specific excuses (e.g., travel, illness).",
+                "Examples include shortening four-unit prayers to two (Qasr) during travel, praying while sitting if sick, or a traveler skipping Ramaḍān fasts.",
+                "Utilizing these concessions is a form of gratitude for Allah's blessings, which is why He loves it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عزیمت کا مقام",
+              "english": "The Status of Azimah"
+            },
+            "content": {
+              "urdu": [
+                "عزیمت سے مراد وہ اصل احکام ہیں جو عام حالات میں سب پر فرض ہیں۔",
+                "اللہ کو اپنے تاکیدی احکام پر عمل اتنا ہی پسند ہے جتنا سہولت پر عمل کرنا۔",
+                "یہ توازن ظاہر کرتا ہے کہ دین میں نہ تو سختی ہے اور نہ ہی احکام سے حد سے زیادہ فرار۔"
+              ],
+              "english": [
+                "Azimah refers to the original, obligatory rulings applicable under normal circumstances.",
+                "Allah loves the fulfillment of His strict obligations just as much as He loves the use of His concessions.",
+                "This balance shows that religion is neither unnecessarily rigid nor a means to evade responsibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی ناپسندیدگی کا معیار",
+        "english": "The Standard of Allah's Displeasure"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نافرمانی سے نفرت",
+              "english": "Hatred of Disobedience"
+            },
+            "content": {
+              "urdu": [
+                "جس طرح اللہ کو نافرمانی اور گناہ ناپسند ہے، اسی طرح اسے یہ بھی پسند نہیں کہ بندہ اس کی دی ہوئی سہولت کو تقویٰ کے نام پر رد کر دے۔",
+                "بلاوجہ سختی اختیار کرنا اور اللہ کی دی ہوئی آسانیوں سے منہ موڑنا سنت کے خلاف ہے۔",
+                "نبی کریم ﷺ کو جب دو کاموں کے درمیان انتخاب کا موقع ملتا تو آپ ہمیشہ آسان کام کو منتخب فرماتے تھے بشرطیکہ وہ گناہ نہ ہو۔"
+              ],
+              "english": [
+                "Just as Allah hates sin and disobedience, He dislikes it when a servant rejects His provided ease in the name of false piety.",
+                "Adopting unnecessary hardship and turning away from Allah's concessions is contrary to the Sunnah.",
+                "Whenever the Prophet (ﷺ) had a choice between two matters, he always chose the easier one, provided it was not a sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں اعتدال",
+              "english": "Moderation in Religion"
+            },
+            "content": {
+              "urdu": [
+                "سفر کے دوران نماز قصر کرنا 'افضل' ہے، کیونکہ یہ اللہ کی طرف سے ایک صدقہ ہے جسے قبول کرنا چاہیے۔",
+                "تقویٰ کا مطلب خود کو ہلاکت میں ڈالنا نہیں، بلکہ اللہ کے بتائے ہوئے حدود میں رہ کر بندگی کرنا ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ دین کو بوجھ نہ بنائیں بلکہ اسے اللہ کا فضل سمجھ کر خوشی سے اپنائیں۔"
+              ],
+              "english": [
+                "Shortening the prayer (Qasr) during travel is 'superior' because it is a charity from Allah that should be accepted.",
+                "Piety does not mean putting oneself in danger; it means worshipping within the boundaries set by Allah.",
+                "Muslims should not view religion as a burden but embrace it joyfully as Allah's grace."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

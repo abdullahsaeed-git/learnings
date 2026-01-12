@@ -1,0 +1,266 @@
+{
+  "hadithId": 294,
+  "hadithNo": 15,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/nasai:1676",
+      "https://sunnah.com/tirmidhi:453"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 9,
+    "arabicBook": "سنن النسائي / جامع الترمذي",
+    "babId": 19
+  },
+  "name": {
+    "arabic": "وَعَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ ‏- رضى الله عنه ‏- قَالَ : { لَيْسَ اَلْوِتْرُ بِحَتْمٍ كَهَيْئَةِ اَلْمَكْتُوبَةِ , وَلَكِنْ سُنَّةٌ سَنَّهَا رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-} رَوَاهُ النَّسَائِيُّ وَاَلتِّرْمِذِيُّ وَحَسَّنَهُ وَالْحَاكِمُ وَصَحَّحَهُ .",
+    "urdu": "سیدنا علی بن ابی طالب رضی اللہ عنہ روایت کرتے ہیں کہ وتر فرض نمازوں کی طرح حتمی (فرض) نہیں ہے، بلکہ یہ ایک سنت ہے جسے رسول اللہ صلی اللہ علیہ وسلم نے جاری فرمایا ہے۔ (اسے نسائی اور ترمذی نے بیان کیا ہے، ترمذی نے اسے حسن اور حاکم نے صحیح قرار دیا ہے)",
+    "english": "Narrated Ali bin Abi Talib (RA): \"The Witr is not a determined obligation like the prescribed (obligatory) prayers, but it is a Sunnah that the Messenger of Allah (ﷺ) established.\""
+  },
+  "takhreej": {
+    "arabic": "حسن .‏ رواه النسائي ( 1676 )‏ ، والترمذي ( 453 )‏ ، والحاكم ( 1 / 300 )‏ .‏ وقال الترمذي : حديث حسن .‏",
+    "urdu": "حسن۔ اسے نسائی (1676)، ترمذی (453) اور حاکم (1 / 300) نے روایت کیا ہے۔ امام ترمذی نے اسے حسن کہا ہے۔",
+    "english": "Hasan (Good). Reported by An-Nasa'i (1676), At-Tirmidhi (453), and Al-Hakim (1/300). At-Tirmidhi said: 'This is a Hasan Hadith'."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَيْسَ بِحَتْمٍ",
+      "english": "Not a determined obligation",
+      "urdu": "حتمی (فرض) نہیں"
+    },
+    {
+      "arabic": "كَهَيْئَةِ",
+      "english": "Like the form/status of",
+      "urdu": "کی طرح / کی حیثیت"
+    },
+    {
+      "arabic": "اَلْمَكْتُوبَةِ",
+      "english": "Prescribed (Obligatory) Prayers",
+      "urdu": "فرض نمازیں (مکتوبہ)"
+    },
+    {
+      "arabic": "سُنَّةٌ",
+      "english": "Sunnah",
+      "urdu": "سنت"
+    },
+    {
+      "arabic": "سَنَّهَا",
+      "english": "He established/instituted it",
+      "urdu": "انہوں نے اسے جاری کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث وتر کی شرعی حیثیت واضح کرتی ہے کہ یہ پانچ فرض نمازوں کے برابر نہیں ہے بلکہ یہ سنت مؤکدہ ہے، جس کا درجہ نفل سے بلند مگر فرض سے کم ہے۔",
+    "english": "This Hadith clarifies the legal status of Witr, stating it is not equal to the five obligatory prayers but is an emphasized Sunnah, ranking higher than voluntary prayers but lower than Fard."
+  },
+  "references": [
+    {
+      "arabic": "رواه النسائي (1676)",
+      "english": "Reported by An-Nasa'i (1676)"
+    },
+    {
+      "arabic": "رواه الترمذي (453)",
+      "english": "Reported by At-Tirmidhi (453)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "حسن",
+    "english": "Hasan (Good)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وتر فرض نہیں",
+              "english": "Witr is not Fard"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی رضی اللہ عنہ نے واضح کیا کہ وتر پنج وقتہ نمازوں کی طرح فرض نہیں ہے۔",
+                "لفظ 'حتم' سے مراد وہ قطعی فرضیت ہے جس کا انکار کفر ہو۔",
+                "یہ وضاحت لوگوں کے غلو یا غلط فہمی کو دور کرنے کے لیے تھی۔"
+              ],
+              "english": [
+                "Ali (RA) clarified that Witr is not Fard like the five daily prayers.",
+                "The word 'Hatim' implies absolute obligation, denial of which is Kufr.",
+                "This clarification was to remove exaggeration or misunderstanding."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کا مقام",
+              "english": "Status of Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "وتر ایک ایسی سنت ہے جسے نبی ﷺ نے جاری فرمایا۔",
+                "یہ کوئی معمولی نفل نہیں، بلکہ نبی ﷺ کا مستقل معمول تھا۔",
+                "اسے 'سنت مؤکدہ' کہا جاتا ہے جو واجب کے قریب ہے۔"
+              ],
+              "english": [
+                "Witr is a Sunnah established by the Prophet (ﷺ).",
+                "It is not an ordinary voluntary act, but a consistent practice of the Prophet.",
+                "It is called 'Sunnah Muakkadah', which is close to Wajib."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اختلاف",
+        "english": "Juristic Disagreement"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمہور کا موقف",
+              "english": "Majority View"
+            },
+            "content": {
+              "urdu": [
+                "مالکی، شافعی اور حنبلی مسلک میں وتر 'سنت مؤکدہ' ہے۔",
+                "وہ اس حدیث کو دلیل بناتے ہیں کہ یہ 'مکتوبہ' (فرض) کی طرح نہیں ہے۔",
+                "اسے چھوڑنے والا گنہگار نہیں ہوتا لیکن ملامت کا مستحق ہے۔"
+              ],
+              "english": [
+                "In Maliki, Shafi'i, and Hanbali schools, Witr is 'Sunnah Muakkadah'.",
+                "They use this Hadith as proof that it is not like the 'Maktubah' (Fard).",
+                "One who omits it is not sinful but deserves blame."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احناف کا موقف",
+              "english": "Hanafi View"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ کے نزدیک وتر 'واجب' ہے۔",
+                "وہ فرماتے ہیں کہ حدیث میں 'فرض' کی نفی ہے، 'واجب' کی نہیں۔",
+                "واجب فرض سے نچلا درجہ ہے لیکن سنت سے اوپر ہے، اس لیے اسے چھوڑنا گناہ ہے۔"
+              ],
+              "english": [
+                "According to Imam Abu Hanifa, Witr is 'Wajib' (Necessary).",
+                "He argues that the Hadith negates 'Fard', not 'Wajib'.",
+                "Wajib is lower than Fard but higher than Sunnah, so omitting it is a sin."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اہتمام کرنا",
+              "english": "Paying Attention"
+            },
+            "content": {
+              "urdu": [
+                "خواہ سنت ہو یا واجب، وتر کا اہتمام ضروری ہے۔",
+                "نبی ﷺ نے سفر میں بھی اسے نہیں چھوڑا۔",
+                "سیدنا علی کا مقصد درجہ بتانا تھا، عمل سے روکنا نہیں۔"
+              ],
+              "english": [
+                "Whether Sunnah or Wajib, observing Witr is essential.",
+                "The Prophet (ﷺ) did not omit it even during travel.",
+                "Ali's (RA) purpose was to define rank, not to discourage action."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین کا فہم",
+              "english": "Understanding Religion"
+            },
+            "content": {
+              "urdu": [
+                "دین میں ہر چیز کا ایک مقام (Status) ہے۔",
+                "فرض کو فرض اور سنت کو سنت سمجھنا علم ہے۔",
+                "اس تفریق سے دین میں توازن پیدا ہوتا ہے۔"
+              ],
+              "english": [
+                "Everything in religion has a status.",
+                "Understanding Fard as Fard and Sunnah as Sunnah is knowledge.",
+                "This distinction creates balance in religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اصطلاحات کا علم",
+              "english": "Knowledge of Terminology"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'حتم' اور 'مکتوبہ' کے الفاظ فرض کے لیے استعمال ہوئے ہیں۔",
+                "طالب علم کو احادیث کی اصطلاحات کا علم ہونا چاہیے۔",
+                "اس سے فقہی استنباط میں مدد ملتی ہے۔"
+              ],
+              "english": [
+                "The words 'Hatim' and 'Maktubah' are used for Fard in the Hadith.",
+                "A student should know the terminologies of Hadith.",
+                "This helps in juristic deduction."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خلفاء راشدین کا علم",
+              "english": "Knowledge of Caliphs"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی کا یہ فرمان امت کے لیے مشعل راہ ہے۔",
+                "خلفاء راشدین دین کی باریکیوں کو سب سے بہتر سمجھتے تھے۔",
+                "ان کے اقوال سنت کی تشریح کا درجہ رکھتے ہیں۔"
+              ],
+              "english": [
+                "This statement of Ali (RA) is a guiding light for the Ummah.",
+                "The Rightly Guided Caliphs understood the nuances of religion best.",
+                "Their statements serve as an explanation of the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

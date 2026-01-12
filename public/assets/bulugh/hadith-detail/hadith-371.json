@@ -1,0 +1,280 @@
+{
+  "hadithId": 371,
+  "hadithNo": 18,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:853",
+      "https://sunnah.com/abudawud:1048",
+      "https://sunnah.com/nasai:1389"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 12,
+    "arabicBook": "بلوغ المرام - كتاب الصلاة",
+    "babId": 22
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (853) من حديث أبي موسى، وهو أصح ما ورد في وقتها مع حديث جابر عند أبي داود (1048) والنسائي (1389) وصححه الألباني.",
+    "urdu": "یہ روایات صحیح ہیں۔ مسلم (853) میں ابوموسیٰ اشعری سے اور ابوداؤد (1048) و نسائی (1389) میں جابر بن عبداللہ سے مروی ہیں۔ علامہ البانی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Muslim (853) from Abu Musa, and by Abu Dawud (1048) and an-Nasa'i (1389) from Jabir. Al-Albani graded it Sahih."
+  },
+  "importantWords": [
+    {
+      "arabic": "ساعة",
+      "english": "Hour / Moment",
+      "urdu": "گھڑی / وقت"
+    },
+    {
+      "arabic": "يَجْلِسَ",
+      "english": "Sits down",
+      "urdu": "بیٹھتا ہے"
+    },
+    {
+      "arabic": "تُقْضَى",
+      "english": "Finished",
+      "urdu": "مکمل ہو جائے"
+    },
+    {
+      "arabic": "عصر",
+      "english": "Asr Prayer",
+      "urdu": "عصر کی نماز"
+    },
+    {
+      "arabic": "غروب",
+      "english": "Sunset",
+      "urdu": "غروب آفتاب"
+    },
+    {
+      "arabic": "التمسوها",
+      "english": "Seek it",
+      "urdu": "تلاش کرو"
+    }
+  ],
+  "summary": {
+    "urdu": "جمعہ کے دن ایک ایسی گھڑی آتی ہے جس میں دعا رد نہیں ہوتی۔ اس کے دو اہم ترین اوقات خطبہ و نماز کے دوران اور عصر کے بعد ہیں۔",
+    "english": "On Friday, there is a special hour when supplications are accepted. The two strongest views are during the sermon/prayer and after Asr until sunset."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم (853)",
+      "english": "Sahih Muslim (853)"
+    },
+    {
+      "arabic": "سنن أبي داود (1048)",
+      "english": "Sunan Abi Dawud (1048)"
+    },
+    {
+      "arabic": "سنن النسائي (1389)",
+      "english": "Sunan an-Nasa'i (1389)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو موسى الأشعري",
+        "english": "Abu Musa al-Ash'ari"
+      },
+      "slug": "abu-musa-al-ashari"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=FOfR8P2lT88",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قبولیت کی گھڑی کا مفہوم",
+        "english": "Understanding the Hour of Acceptance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مبارک وقت کی فضیلت",
+              "english": "Virtue of the Blessed Moment"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالیٰ نے جمعہ کے دن ایک مختصر وقت دعا کے لیے مخصوص فرمایا ہے۔",
+                "اس گھڑی میں مانگی جانے والی ہر جائز دعا ان شاء اللہ قبول ہوتی ہے۔",
+                "اسے چھپانے کی حکمت یہ ہے کہ بندہ پورا دن ذکر و دعا میں گزارے۔"
+              ],
+              "english": [
+                "Allah has designated a brief moment on Friday specifically for supplications.",
+                "Every lawful prayer made during this specific hour is accepted, Insha'Allah.",
+                "The wisdom in hiding it is to keep the servant engaged in worship all day."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعا کی شرائط",
+              "english": "Conditions for Supplication"
+            },
+            "content": {
+              "urdu": [
+                "دعا کرنے والا باوضو اور اللہ کی طرف مکمل متوجہ ہونا چاہیے۔",
+                "اس وقت کو پانے کے لیے نماز کے انتظار کی حالت میں ہونا افضل ہے۔",
+                "خالص نیت اور خشوع و خضوع قبولیت کے امکانات کو بڑھا دیتے ہیں۔"
+              ],
+              "english": [
+                "The supplicant should be in a state of wudu and fully focused on Allah.",
+                "It is best to be in a state of waiting for prayer to catch this moment.",
+                "Sincere intention and humility significantly increase the chances of acceptance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اوقات کے متعلق مختلف اقوال",
+        "english": "Different Views on the Timing"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دورانِ خطبہ اور نماز",
+              "english": "During Sermon and Prayer"
+            },
+            "content": {
+              "urdu": [
+                "ایک قول کے مطابق یہ وقت امام کے منبر پر بیٹھنے سے نماز کے خاتمے تک ہے۔",
+                "اس وقت فرشتے خطبہ سننے کے لیے حاضر ہوتے ہیں اور فضیلت عام ہوتی ہے۔",
+                "یہ وقت اجتماعی دعا اور گناہوں کی معافی کے لیے انتہائی موزوں ہے۔"
+              ],
+              "english": [
+                "One view states the time is from the Imam's sitting until the prayer ends.",
+                "Angels are present to listen to the sermon, and blessings are widespread then.",
+                "This period is highly suitable for collective prayers and seeking forgiveness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عصر کے بعد کا وقت",
+              "english": "The Period After 'Asr"
+            },
+            "content": {
+              "urdu": [
+                "دوسرا قوی قول یہ ہے کہ یہ گھڑی عصر کے بعد غروبِ آفتاب تک ہے۔",
+                "اکثر علماء اور سلف صالحین اسی وقت کو سب سے زیادہ راجح قرار دیتے ہیں۔",
+                "دن کا آخری وقت ہونے کی وجہ سے اس کی اپنی ایک خاص روحانی اہمیت ہے۔"
+              ],
+              "english": [
+                "Another strong view is that this hour is after 'Asr until sunset.",
+                "Most scholars and righteous predecessors consider this the most likely view.",
+                "Being the final part of the day, it holds a unique spiritual significance."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "علمی و فقہی تطبیق",
+        "english": "Scholarly and Juristic Harmony"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اقوال میں تضاد نہیں",
+              "english": "No Contradiction in Views"
+            },
+            "content": {
+              "urdu": [
+                "مختلف احادیث میں وقت کا فرق دراصل اوقات کی وسعت کو ظاہر کرتا ہے۔",
+                "یہ گھڑی لیلۃ القدر کی طرح سال کے مختلف جمعوں میں منتقل ہو سکتی ہے۔",
+                "احتیاط اسی میں ہے کہ دونوں اوقات میں دعا کا خاص اہتمام کیا جائے۔"
+              ],
+              "english": [
+                "Differences in narrations reflect the broadness of these blessed timings.",
+                "This hour, like Laylat al-Qadr, may shift between different Fridays.",
+                "Precaution lies in making special efforts to supplicate during both times."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علماء کی آراء",
+              "english": "Opinions of Scholars"
+            },
+            "content": {
+              "urdu": [
+                "حافظ ابن حجر نے اپنی کتاب فتح الباری میں چالیس سے زائد اقوال نقل کیے ہیں۔",
+                "ان تمام اقوال کا مقصد اس مبارک گھڑی کی تلاش اور فکر پیدا کرنا ہے۔",
+                "علمی ابہام بندے کو اللہ سے تعلق مضبوط کرنے پر ابھارتا ہے۔"
+              ],
+              "english": [
+                "Hafiz Ibn Hajar cited over forty opinions in his book Fath al-Bari.",
+                "The aim of all these views is to encourage seeking this blessed hour.",
+                "Academic ambiguity encourages the servant to strengthen their bond with Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Life Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تلاش کا جذبہ",
+              "english": "The Spirit of Seeking"
+            },
+            "content": {
+              "urdu": [
+                "ہر جمعہ کو عصر کے بعد آخری لمحات میں تسبیح اور دعا میں گزاریں۔",
+                "خطبہ کے دوران دل ہی دل میں اللہ سے اپنے مسائل کی دعا مانگیں۔",
+                "اس گھڑی کی برکت سے انسانی زندگی کے بڑے مسائل حل ہو سکتے ہیں۔"
+              ],
+              "english": [
+                "Spend the final moments after 'Asr every Friday in Dhikr and prayer.",
+                "Supplicate silently in the heart for your needs during the sermon.",
+                "Major life problems can be resolved through the blessings of this hour."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "گھر والوں کی تربیت",
+              "english": "Training the Family"
+            },
+            "content": {
+              "urdu": [
+                "اپنے گھر والوں اور بچوں کو جمعہ کے ان اوقات کی اہمیت بتائیں۔",
+                "انہیں اجتماعی طور پر دعا مانگنے کی عادت ڈالیں تاکہ خیر و برکت آئے۔",
+                "یہ سنت زندہ کرنے سے معاشرے میں روحانیت اور سکون پیدا ہوتا ہے۔"
+              ],
+              "english": [
+                "Inform your family and children about the value of these Friday timings.",
+                "Develop a habit of collective prayer to bring goodness and blessings.",
+                "Reviving this Sunnah creates spirituality and peace within the society."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

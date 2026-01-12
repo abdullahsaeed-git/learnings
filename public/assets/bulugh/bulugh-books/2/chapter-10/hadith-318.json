@@ -1,0 +1,201 @@
+{
+  "hadithId": 318,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/ibnmajah:793",
+      "https://sunnah.com/abudawud:551"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 10,
+    "arabicBook": "سنن ابن ماجه / سنن أبي داود",
+    "babId": 20
+  },
+  "name": {
+    "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا, عَنْ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-قَالَ: { مَنْ سَمِعَ اَلنِّدَاءَ فَلَمْ يَأْتِ فَلَا صَلَاةَ لَهُ إِلَّا مِنْ عُذْرٍ } رَوَاهُ اِبْنُ مَاجَهْ, وَاَلدَّارَقُطْنِيُّ, وَابْنُ حِبَّانَ, وَالْحَاكِمُ, وَإِسْنَادُهُ عَلَى شَرْطِ مُسْلِمٍ, لَكِنْ رَجَّحَ بَعْضُهُمْ وَقْفَه ُ",
+    "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا: ”جو شخص اذان سنے اور پھر (جماعت میں) نہ آئے، تو اس کی کوئی نماز نہیں سوائے اس کے کہ کوئی (شرعی) عذر ہو۔“ (اسے ابن ماجہ، دارقطنی، ابن حبان اور حاکم نے روایت کیا ہے۔ اس کی سند مسلم کی شرط پر ہے، لیکن بعض محدثین نے اس کے موقوف [صحابی کا قول] ہونے کو ترجیح دی ہے)",
+    "english": "Narrated Ibn Abbas (RA): The Prophet (ﷺ) said: \"Whoever hears the call (Adhan) and does not come to it (the mosque), then there is no prayer for him unless he has an excuse.\" (Reported by Ibn Majah, Ad-Daraqutni, Ibn Hibban, and Al-Hakim. Its chain meets the conditions of Muslim, but some scholars preferred classifying it as Mawquf)."
+  },
+  "takhreej": {
+    "arabic": "صحيح مرفوعا.‏ رواه ابن ماجه (793)‏، والدارقطني (1/420)‏، وابن حبان (2064)‏، والحاكم (1/245)‏.‏ ورجح وقفه النسائي وغيره، لكن صححه مرفوعاً جماعة من الأئمة.",
+    "urdu": "مرفوعاً صحیح ہے۔ اسے ابن ماجہ (793)، دارقطنی (1/420)، ابن حبان (2064) اور حاکم (1/245) نے روایت کیا ہے۔ نسائی وغیرہ نے اس کے موقوف ہونے کو ترجیح دی ہے، لیکن ائمہ کی ایک جماعت نے اسے مرفوعاً صحیح قرار دیا ہے۔",
+    "english": "Sahih as Marfu' (traceable to the Prophet). Reported by Ibn Majah (793), Ad-Daraqutni (1/420), Ibn Hibban (2064), and Al-Hakim (1/245). An-Nasa'i and others preferred it as Mawquf, but a group of scholars authenticated it as Marfu'."
+  },
+  "importantWords": [
+    {
+      "arabic": "سَمِعَ اَلنِّدَاءَ",
+      "english": "Heard the Call (Adhan)",
+      "urdu": "اذان سنی"
+    },
+    {
+      "arabic": "فَلَمْ يَأْتِ",
+      "english": "And did not come",
+      "urdu": "اور وہ نہیں آیا"
+    },
+    {
+      "arabic": "فَلَا صَلَاةَ لَهُ",
+      "english": "There is no prayer for him",
+      "urdu": "اس کی کوئی نماز نہیں"
+    },
+    {
+      "arabic": "إِلَّا مِنْ عُذْرٍ",
+      "english": "Except for an excuse",
+      "urdu": "سوائے عذر کے"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بلا عذر جماعت چھوڑنے پر سخت وعید سناتی ہے کہ ایسے شخص کی نماز کامل نہیں ہوتی۔ عذر سے مراد خوف یا بیماری وغیرہ ہے۔",
+    "english": "This Hadith issues a stern warning against missing congregational prayer without a valid excuse, stating that such a person's prayer is not perfect/accepted. Valid excuses include fear or illness."
+  },
+  "references": [
+    {
+      "arabic": "رواه ابن ماجه (793)",
+      "english": "Reported by Ibn Majah (793)"
+    },
+    {
+      "arabic": "رواه الدارقطني (1/420)",
+      "english": "Reported by Ad-Daraqutni (1/420)"
+    },
+    {
+      "arabic": "رواه الحاكم (1/245)",
+      "english": "Reported by Al-Hakim (1/245)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد اللہ بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://youtu.be/83wSXe5O2MA?si=9w2zD4lqP7Sgq_X8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا مفہوم",
+        "english": "Meaning of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فلا صلاۃ لہ کا مطلب",
+              "english": "Meaning of 'No Prayer for him'"
+            },
+            "content": {
+              "urdu": [
+                "اس کے دو معانی ہو سکتے ہیں: 1. اس کی نماز سرے سے قبول نہیں ہوتی (ظاہریوں کا قول)۔",
+                "2. اس کی نماز کامل نہیں ہوتی، یعنی وہ ثوابِ کامل سے محروم رہتا ہے (جمہور کا قول)۔",
+                "جمہور کی دلیل وہ حدیث ہے جس میں اکیلے کی نماز کو 27 درجہ کم فضیلت والا کہا گیا ہے، باطل نہیں۔"
+              ],
+              "english": [
+                "This has two interpretations: 1. His prayer is invalid (View of Zahiris).",
+                "2. His prayer is imperfect, meaning he loses the complete reward (View of Majority).",
+                "The majority's proof is the Hadith stating individual prayer is valid but 27 degrees less in virtue."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عذر کی وضاحت",
+              "english": "Clarification of Excuse"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ نے ابن عباس سے پوچھا کہ عذر کیا ہے؟ فرمایا: خوف یا بیماری۔",
+                "خوف میں دشمن کا ڈر، جان یا مال کے ضائع ہونے کا ڈر شامل ہے۔",
+                "بیماری اتنی ہو کہ چل کر آنے میں مشقت ہو۔ شدید بارش اور سردی بھی عذر ہے۔"
+              ],
+              "english": [
+                "Companions asked Ibn Abbas regarding the excuse. He said: 'Fear or illness'.",
+                "Fear includes fear of an enemy or loss of life/property.",
+                "Illness means difficulty in walking to the mosque. Heavy rain and extreme cold are also excuses."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی بحث",
+        "english": "Juristic Discussion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وجوبِ جماعت",
+              "english": "Obligation of Jama'ah"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث بھی جماعت کے واجب ہونے پر دلالت کرتی ہے۔",
+                "اگر جماعت سنت ہوتی تو 'نماز نہیں ہوتی' جیسے سخت الفاظ استعمال نہ ہوتے۔",
+                "ابن عباس رضی اللہ عنہما فرماتے تھے: جو اذان سن کر نہ آئے اس نے اللہ اور اس کے رسول کی نافرمانی کی۔"
+              ],
+              "english": [
+                "This Hadith also indicates the obligation (Wujub) of Jama'ah.",
+                "If it were merely Sunnah, harsh words like 'no prayer for him' wouldn't be used.",
+                "Ibn Abbas (RA) used to say: Whoever does not come after hearing Adhan has disobeyed Allah and His Messenger."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موقوف یا مرفوع",
+              "english": "Mawquf or Marfu"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ بعض نے اسے ابن عباس کا قول (موقوف) کہا ہے، لیکن ایسا حکم رائے سے نہیں دیا جا سکتا۔",
+                "اس لیے یہ 'حکماً مرفوع' ہے (یعنی درحقیقت نبی ﷺ ہی کا فرمان ہے)۔",
+                "حاکم اور ذہبی وغیرہ نے اسے مرفوعاً صحیح کہا ہے۔"
+              ],
+              "english": [
+                "Although some called it Ibn Abbas's statement (Mawquf), such a ruling cannot be based on opinion.",
+                "Thus, it is 'Hukman Marfu' (effectively the Prophet's statement).",
+                "Al-Hakim, Dhahabi, and others authenticated it as Marfu'."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اذان کا احترام",
+              "english": "Respect for Adhan"
+            },
+            "content": {
+              "urdu": [
+                "اذان محض اطلاع نہیں، بلکہ اللہ کی طرف سے بلاوا ہے۔",
+                "اس بلاوے کو سن کر ان سُنا کرنا ایمان کی کمزوری ہے۔",
+                "گھر یا دکان میں نماز پڑھ لینے کی عادت ترک کرنی چاہیے۔"
+              ],
+              "english": [
+                "Adhan is not just information, but a summons from Allah.",
+                "Ignoring this summons is a sign of weak faith.",
+                "The habit of praying at home or shop should be abandoned."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

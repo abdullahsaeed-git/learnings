@@ -1,0 +1,268 @@
+{
+  "hadithId": 264,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["urn:1255"],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "Bulugh al-Maram",
+    "babId": 18
+  },
+  
+  "takhreej": {
+    "arabic": "شاذ .‏ رواه أبو داود ( 1039 )‏ ، والترمذي ( 395 )‏ ، والحاكم ( 1 / 323 )‏ وقال الترمذي : ' حسن غريب صحيح ' .‏ قلت : الإسناد صحيح ، إلا أن قوله : ' ثم تشهد' شاذ تفرد به أشعت بن عبد الملك الحمراني ، فلم يذكرها غيره ، ولذلك ردها غير واحد من أهل العلم .‏ فقال الحافظ في ' الفتح ' ( 3 / 99 )‏ : ' زيادة أشعت شاذة ' .‏",
+    "urdu": "شاذ (غیر محفوظ)۔ اسے ابو داؤد (1039)، ترمذی (395) اور حاکم (1/323) نے روایت کیا ہے۔ ترمذی نے کہا: 'حسن غریب صحیح'۔ میں کہتا ہوں: اسناد صحیح ہے، سوائے اس کے کہ الفاظ 'پھر تشہد پڑھا' شاذ ہیں، جس میں اشعث بن عبدالملک الحمرانی منفرد ہیں، اور دوسروں نے اس کا ذکر نہیں کیا، اسی لیے اہل علم کی ایک جماعت نے اسے رد کیا ہے۔ حافظ نے فتح الباری میں فرمایا: 'اشعث کی زیادتی شاذ ہے'۔",
+    "english": "Shadh (Irregular). Reported by Abu Dawud (1039), At-Tirmidhi (395), and Al-Hakim (1/323). At-Tirmidhi said: 'Hasan Gharib Sahih'. I say: The chain is authentic, except that the phrase 'then he recited Tashahhud' is Shadh (irregular), reported uniquely by Ash'ath bin 'Abdul-Malik Al-Humrani, and others did not mention it. Therefore, many scholars rejected it. Al-Hafiz said in Al-Fath (3/99): 'The addition by Ash'ath is Shadh (irregular).'"
+  },
+  "importantWords": [
+    {
+      "arabic": "سهى",
+      "english": "Forgot/Overlooked",
+      "urdu": "بھول گیا"
+    },
+    {
+      "arabic": "سجد",
+      "english": "Prostrated",
+      "urdu": "سجدہ کیا"
+    },
+    {
+      "arabic": "تشهد",
+      "english": "Recited Tashahhud",
+      "urdu": "تشہد پڑھا"
+    },
+    {
+      "arabic": "سلم",
+      "english": "Said Taslim",
+      "urdu": "سلام پھیرا"
+    },
+    {
+      "arabic": "زيادة",
+      "english": "Addition (in text)",
+      "urdu": "اضافہ"
+    },
+    {
+      "arabic": "شاذ",
+      "english": "Irregular/Odd",
+      "urdu": "شاذ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث بیان کرتی ہے کہ نبی کریم ﷺ نے سہو (بھول) کی وجہ سے دو سجدے کیے، پھر تشہد پڑھا اور سلام پھیرا۔ تشہد پڑھنے والا حصہ محدثین کے نزدیک شاذ ہے۔",
+    "english": "This Hadith states that the Prophet (ﷺ) performed two prostrations due to forgetfulness, then recited Tashahhud, and then said Taslim. The part about reciting Tashahhud is considered Shadh (irregular) by scholars."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (1039)",
+      "english": "Reported by Abu Dawud (1039)"
+    },
+    {
+      "arabic": "رواه الترمذي (395)",
+      "english": "Reported by At-Tirmidhi (395)"
+    },
+    {
+      "arabic": "رواه الحاكم (1 / 323)",
+      "english": "Reported by Al-Hakim (1/323)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمران بن حصين",
+        "english": "Imran bin Husain"
+      },
+      "slug": "imran-bin-husain"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=iGuNCEI70DA",
+  "grade": {
+    "arabic": "إسناده صحيح ولكن المتن شاذ",
+    "english": "Sahih Chain but Shadh Text"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا پس منظر",
+        "english": "Background of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "واقعہِ سہو",
+              "english": "Incident of forgetfulness"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کو نماز میں بھول واقع ہوئی۔",
+                "اس بھول کی تلافی کے لیے آپ ﷺ نے دو سجدے کیے۔",
+                "یہ حدیث سجدہ سہو کے بعد تشہد اور سلام کا ذکر کرتی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) experienced forgetfulness during prayer.",
+                "To compensate for this, he performed two prostrations.",
+                "This Hadith mentions reciting Tashahhud and Taslim after the prostrations."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تشہد کا اختلاف",
+              "english": "Dispute over Tashahhud"
+            },
+            "content": {
+              "urdu": [
+                "اس روایت میں سجدہ سہو کے بعد تشہد کا ذکر ہے۔",
+                "دیگر مستند روایات میں سجدہ سہو کے بعد تشہد کا ذکر نہیں ہے۔",
+                "اکثر محدثین نے اس 'تشہد' والے اضافے کو غلطی (شاذ) قرار دیا ہے۔"
+              ],
+              "english": [
+                "This narration mentions Tashahhud after Sujud as-Sahw.",
+                "Other authentic narrations do not mention Tashahhud after Sujud as-Sahw.",
+                "Most scholars consider this addition of 'Tashahhud' to be an error (Shadh)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی بحث",
+        "english": "Juristic Discussion"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمہور کا موقف",
+              "english": "View of the Majority"
+            },
+            "content": {
+              "urdu": [
+                "اکثر فقہاء کے نزدیک سجدہ سہو کے بعد دوبارہ تشہد نہیں پڑھا جاتا۔",
+                "وہ اس حدیث کے الفاظ 'پھر تشہد پڑھا' کو راوی کی غلطی مانتے ہیں۔",
+                "صحیح احادیث کے مطابق سجدہ سہو کے بعد صرف سلام پھیرا جاتا ہے۔"
+              ],
+              "english": [
+                "According to the majority of jurists, Tashahhud is not repeated after Sujud as-Sahw.",
+                "They consider the phrase 'then he recited Tashahhud' as a narrator's mistake.",
+                "According to authentic Hadiths, only Taslim is performed after Sujud as-Sahw."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احناف اور دیگر کا موقف",
+              "english": "View of Hanafis and others"
+            },
+            "content": {
+              "urdu": [
+                "بعض علماء جیسے امام ابو حنیفہؒ اس حدیث کو دلیل بناتے ہیں۔",
+                "ان کے نزدیک سجدہ سہو کے بعد تشہد پڑھنا واجب ہے۔",
+                "وہ اس روایت کو شاذ نہیں بلکہ ایک مستقل حکم مانتے ہیں۔"
+              ],
+              "english": [
+                "Some scholars like Imam Abu Hanifa (RA) use this Hadith as evidence.",
+                "According to them, reciting Tashahhud after Sujud as-Sahw is mandatory.",
+                "They consider this narration a valid independent ruling, not Shadh."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اصول حدیث",
+        "english": "Principles of Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شاذ روایت کی تعریف",
+              "english": "Definition of Shadh Narration"
+            },
+            "content": {
+              "urdu": [
+                "جب کوئی ثقہ راوی کسی ایسی چیز کا اضافہ کرے جو دوسروں کے خلاف ہو تو وہ شاذ ہے۔",
+                "یہاں اشعث بن عبدالملک نے 'تشہد' کا اضافہ کیا جو دوسروں نے نہیں کیا۔",
+                "اس لیے محدثین نے اس حصے کو قبول کرنے میں احتیاط برتی ہے۔"
+              ],
+              "english": [
+                "When a reliable narrator adds something that contradicts others, it is Shadh.",
+                "Here, Ash'ath bin 'Abdul-Malik added 'Tashahhud' which others did not.",
+                "Therefore, scholars have exercised caution in accepting this part."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحقیق کی اہمیت",
+              "english": "Importance of Research"
+            },
+            "content": {
+              "urdu": [
+                "دین میں تحقیق اور اسناد کی جانچ پڑتال ضروری ہے۔",
+                "ہر حدیث جو بظاہر صحیح لگے، ضروری نہیں کہ اس کا ہر لفظ محفوظ ہو۔",
+                "علماء کی خدمات کی وجہ سے ہمیں صحیح اور ضعیف کا فرق معلوم ہوتا ہے۔"
+              ],
+              "english": [
+                "Research and verification of chains are essential in religion.",
+                "Not every Hadith that appears Sahih necessarily has every word preserved correctly.",
+                "Due to the scholars' efforts, we know the difference between authentic and weak."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کی حفاظت",
+              "english": "Preservation of Prayer"
+            },
+            "content": {
+              "urdu": [
+                "اگر نماز میں بھول ہو جائے تو سجدہ سہو سے تلافی کریں۔",
+                "اگر آپ ایسے امام کے پیچھے ہیں جو تشہد پڑھتا ہے، تو اس کی پیروی کریں۔",
+                "اختلافی مسائل میں سختی کرنے کی بجائے دلائل کو سمجھیں۔"
+              ],
+              "english": [
+                "If forgetfulness occurs in prayer, compensate with Sujud as-Sahw.",
+                "If you are behind an Imam who recites Tashahhud, follow him.",
+                "Understand the evidences instead of being harsh in disputed matters."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباع سنت",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کے طریقے کو سیکھنا اور اس پر عمل کرنا لازم ہے۔",
+                "سجدہ سہو اللہ کی طرف سے بندوں پر رحمت اور آسانی ہے۔",
+                "یہ اس بات کا ثبوت ہے کہ دین اسلام انسانی فطرت کے مطابق ہے۔"
+              ],
+              "english": [
+                "It is obligatory to learn and follow the way of the Prophet (ﷺ).",
+                "Sujud as-Sahw is a mercy and ease from Allah for His servants.",
+                "This proves that Islam is in accordance with human nature."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

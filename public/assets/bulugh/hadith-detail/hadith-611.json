@@ -1,0 +1,259 @@
+{
+  "hadithId": 611,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/611"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1553)، ومسلم (1259). ولفظ مسلم صريح في المداومة على هذا الفعل.",
+    "urdu": "صحیح۔ اسے امام بخاری (1553) اور امام مسلم (1259) نے روایت کیا ہے۔ ذی طویٰ مکہ کے قریب ایک کنویں کا نام ہے جسے اب بئرِ زاہر کہا جاتا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1553) and Muslim (1259). Dhu Tuwa is a well-known place near the entrance of Makkah, currently known as Bir al-Zahir."
+  },
+  "importantWords": [
+    {
+      "arabic": "بَاتَ",
+      "english": "Spent the night",
+      "urdu": "رات گزاری / شب بسر کی"
+    },
+    {
+      "arabic": "ذِي طُوًى",
+      "english": "Dhu Tuwa (Place name)",
+      "urdu": "ذی طویٰ (ایک مقام کا نام)"
+    },
+    {
+      "arabic": "يُصْبِحَ",
+      "english": "Until morning",
+      "urdu": "صبح ہو جائے"
+    },
+    {
+      "arabic": "يَغْتَسِلَ",
+      "english": "Takes a bath",
+      "urdu": "غسل کرے"
+    },
+    {
+      "arabic": "يَقْدُمُ",
+      "english": "Arrives / Comes",
+      "urdu": "آتا ہے / داخل ہوتا ہے"
+    }
+  ],
+  "summary": {
+    "urdu": "مکہ مکرمہ میں داخل ہونے سے پہلے ذی طویٰ میں رات گزارنا اور غسل کر کے ترو تازہ ہو کر بیت اللہ کی حاضری دینا سنتِ نبوی اور شعارِ صحابہ ہے۔",
+    "english": "Spending the night at Dhu Tuwa and taking a bath before entering Makkah for Hajj or Umrah is a Prophetic Sunnah and a practice of the Companions."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1553)",
+      "english": "Reported by Al-Bukhari (1553)"
+    },
+    {
+      "arabic": "رواه مسلم (1259)",
+      "english": "Reported by Muslim (1259)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر بن الخطاب",
+        "english": "Abdullah bin Umar bin al-Khattab"
+      },
+      "slug": "abdullah-bin-umar"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مکہ میں داخلے کے آداب",
+        "english": "Etiquettes of Entering Makkah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذی طویٰ میں قیام کی حکمت",
+              "english": "Wisdom of Staying at Dhu Tuwa"
+            },
+            "content": {
+              "urdu": [
+                "ذی طویٰ مکہ کا ایک نواحی علاقہ ہے جہاں نبی ﷺ نے حجۃ الوداع کے موقع پر پڑاؤ ڈالا تھا۔",
+                "رات وہاں قیام کرنے کا مقصد آرام کرنا تھا تاکہ صبح ترو تازہ ہو کر طواف اور دیگر مناسک ادا کیے جا سکیں۔",
+                "یہ عمل اللہ کے گھر کی تعظیم کا حصہ ہے کہ بندہ تھکاوٹ اور پراگندگی کے بجائے نشاط کے ساتھ حاضر ہو۔"
+              ],
+              "english": [
+                "Dhu Tuwa is a suburban area of Makkah where the Prophet (ﷺ) camped during the Farewell Hajj.",
+                "The purpose of staying overnight was to rest so that Tawaf and other rituals could be performed with energy in the morning.",
+                "This practice reflects respect for Allah's House, appearing refreshed rather than exhausted and disheveled."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غسل کا استحباب",
+              "english": "Recommendation of Ghusl"
+            },
+            "content": {
+              "urdu": [
+                "مکہ میں داخلے سے پہلے غسل کرنا مستحب ہے، یہ صفائی اور ستھرائی کا بہترین اظہار ہے۔",
+                "نبی ﷺ نے اس غسل کے ذریعے امت کو سکھایا کہ مقدس مقامات پر حاضری کے لیے ظاہری نظافت بھی ضروری ہے۔",
+                "سیدنا ابن عمر سنتوں کی پیروی میں اتنے سخت تھے کہ وہ سفر کی ہر چھوٹی تفصیل کو نبوی طریقے کے مطابق کرنے کی کوشش کرتے تھے۔"
+              ],
+              "english": [
+                "Taking a bath before entering Makkah is recommended (mustahabb) as a sign of cleanliness and purity.",
+                "Through this Ghusl, the Prophet (ﷺ) taught the Ummah that outward hygiene is vital when visiting sacred sites.",
+                "Ibn 'Umar (RA) was so dedicated to the Sunnah that he imitated even the minor travel details of the Prophet (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیدنا ابن عمر کا اتباعِ سنت",
+        "english": "Ibn 'Umar's Adherence to Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محبتِ رسول ﷺ کا اثر",
+              "english": "The Effect of Prophetic Love"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کرام کے نزدیک سنت صرف احکام تک محدود نہیں تھی بلکہ وہ نبی ﷺ کی ہر ادا کے گرویدہ تھے۔",
+                "ابن عمر کا ذی طویٰ میں رکنا ان کی کمالِ اتباع اور گہری روحانی وابستگی کی علامت ہے۔",
+                "وہ چاہتے تھے کہ ان کا ہر قدم وہیں پڑے جہاں نبی ﷺ کے مبارک قدم پڑے تھے۔"
+              ],
+              "english": [
+                "For the Sahaba, Sunnah was not limited to legal rulings; they adored every habit of the Prophet (ﷺ).",
+                "Ibn 'Umar's stay at Dhu Tuwa symbolizes his absolute adherence and deep spiritual connection.",
+                "He desired for his footsteps to land exactly where the Prophet's (ﷺ) blessed footsteps had once been."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظافت اور عبادت کا توازن",
+              "english": "Balance Between Hygiene and Worship"
+            },
+            "content": {
+              "urdu": [
+                "اسلام میں عبادت اور صفائی لازم و ملزوم ہیں (النظافة من الايمان)۔",
+                "طوافِ بیت اللہ ایک عظیم نماز کی طرح ہے جس کے لیے باوضو اور پاک صاف ہونا ضروری ہے۔",
+                "سفر کی گرد و غبار جھاڑ کر اللہ کے دربار میں حاضر ہونا بندگی کا حسن ہے۔"
+              ],
+              "english": [
+                "Worship and cleanliness are inseparable in Islam (Cleanliness is part of faith).",
+                "Tawaf around the Ka'bah is like a great prayer, requiring one to be in a state of purity.",
+                "Washing away the dust of travel before entering Allah's presence is the beauty of servitude."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور انتظامی پہلو",
+        "english": "Juristic and Administrative Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جدید دور اور یہ سنت",
+              "english": "Modern Era and this Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "آج کل کے تیز رفتار سفر میں ذی طویٰ میں رکنا شاید ہر ایک کے لیے ممکن نہ ہو۔",
+                "تاہم، مکہ میں داخلے سے پہلے اپنے ہوٹل یا قیام گاہ پر غسل کرنا اس سنت کی روح پر عمل کرنا ہے۔",
+                "اصل مقصود یہ ہے کہ انسان بیت اللہ میں داخل ہوتے وقت چاق و چوبند اور صاف ستھرا ہو۔"
+              ],
+              "english": [
+                "In modern high-speed travel, staying specifically at Dhu Tuwa might not be feasible for everyone.",
+                "However, taking a bath at one's hotel or lodging before entering Makkah captures the spirit of this Sunnah.",
+                "The core objective is to be alert and clean when first entering the sanctuary of Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نمازِ فجر کا اہتمام",
+              "english": "Observing Fajr Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ذی طویٰ میں صبح کی نماز ادا فرمائی اور پھر مکہ میں داخل ہوئے۔",
+                "اس سے معلوم ہوا کہ سفر کی وجہ سے فرائض میں سستی نہیں کرنی چاہیے۔",
+                "نمازِ فجر کی ادائیگی کے بعد کا وقت برکت کا وقت ہے جس میں بیت اللہ کی پہلی زیارت بہترین عمل ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) performed Fajr prayer at Dhu Tuwa before entering Makkah.",
+                "This indicates that travel should not lead to negligence regarding obligatory prayers.",
+                "The time after Fajr is blessed, and making the first visit to the Ka'bah then is an excellent deed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تیاری کی اہمیت",
+              "english": "Importance of Preparation"
+            },
+            "content": {
+              "urdu": [
+                "کسی بھی بڑے کام (جیسے حج) سے پہلے جسمانی اور ذہنی تیاری کامیابی کے لیے ضروری ہے۔",
+                "جلد بازی میں عبادات کرنے سے ان کی روح اور خشوع متاثر ہوتا ہے۔",
+                "سنتِ نبوی ہمیں صبر اور وقار کے ساتھ زندگی گزارنے کا سلیقہ سکھاتی ہے۔"
+              ],
+              "english": [
+                "Physical and mental preparation before any major task (like Hajj) is essential for success.",
+                "Performing acts of worship in a hurry can affect their essence and focus (Khushu).",
+                "The Prophetic Sunnah teaches us how to live life with patience and dignity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بڑوں کی روایات کا احترام",
+              "english": "Respecting Traditions of the Elders"
+            },
+            "content": {
+              "urdu": [
+                "ابن عمر کا اپنے عمل کو نبی ﷺ سے جوڑنا علم کی سند اور صداقت کی بنیاد ہے۔",
+                "ہمیں بھی اپنی نیکیوں میں سلف صالحین کے طریقوں کو مشعلِ راہ بنانا چاہیے۔",
+                "محبت اور اطاعت کا یہ سنگم ہی دین کو نسل در نسل منتقل کرنے کا ذریعہ ہے۔"
+              ],
+              "english": [
+                "Ibn 'Umar linking his action to the Prophet (ﷺ) is the basis of authenticity and truth in knowledge.",
+                "We should also make the ways of the righteous predecessors a guiding light for our deeds.",
+                "This intersection of love and obedience is the means of transmitting religion across generations."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

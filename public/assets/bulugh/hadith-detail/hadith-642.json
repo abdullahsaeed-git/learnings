@@ -1,0 +1,156 @@
+{
+  "hadithId": 642,
+  "hadithNo": 36,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh-al-maram/6/62"
+    ],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (1765)، ومسلم (1311).‏ والأبطح هو المسيل الواسع الذي فيه الحصباء، ويسمى المحصب.",
+    "urdu": "صحیح۔ اسے امام بخاری (1765) اور امام مسلم (1311) نے روایت کیا ہے۔ ابطح اس کشادہ ندی کو کہتے ہیں جہاں باریک کنکریاں ہوتی ہیں، اسے محصب بھی کہا جاتا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1765) and Muslim (1311). Al-Abtah refers to a wide stream bed containing small pebbles, also known as Al-Muhassab."
+  },
+  "importantWords": [
+    {
+      "arabic": "اَلْأَبْطَحِ",
+      "english": "Al-Abtah (Location)",
+      "urdu": "ابطح (مقام کا نام)"
+    },
+    {
+      "arabic": "مَنْزِلاً",
+      "english": "Place of stay / Lodging",
+      "urdu": "ٹھہرنے کی جگہ"
+    },
+    {
+      "arabic": "أَسْمَحَ",
+      "english": "Easier / More convenient",
+      "urdu": "زیادہ آسان / سہل"
+    },
+    {
+      "arabic": "لِخُرُوجِهِ",
+      "english": "For his departure",
+      "urdu": "ان کے نکلنے کے لیے"
+    }
+  ],
+  "summary": {
+    "urdu": "مناسکِ حج سے فراغت کے بعد 'مقامِ ابطح' پر قیام کرنا ایک انتظامی سہولت تھی، یہ حج کا باقاعدہ مسنون رکن نہیں ہے، اسی لیے سیدہ عائشہ رضی اللہ عنہا وہاں نہیں ٹھہرتی تھیں۔",
+    "english": "Staying at Al-Abtah after completing Hajj rituals was an administrative convenience for departure, not a formal religious rite of Hajj; hence, 'Aishah (RA) did not practice it."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1765)",
+      "english": "Sahih al-Bukhari (1765)"
+    },
+    {
+      "arabic": "صحيح مسلم (1311)",
+      "english": "Sahih Muslim (1311)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مقامِ ابطح (محصب) میں قیام کا حکم",
+        "english": "Ruling on Staying at Al-Abtah (Al-Muhassab)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "شرعی حیثیت: عبادت یا عادت؟",
+              "english": "Legal Status: Worship or Habit?"
+            },
+            "content": {
+              "urdu": [
+                "ابطح مکہ اور منیٰ کے درمیان ایک مقام ہے۔ نبی ﷺ نے حجۃ الوداع میں منیٰ سے واپسی پر یہاں کچھ دیر قیام فرمایا تھا۔",
+                "سیدہ عائشہ اور ابن عباس رضی اللہ عنہم کا موقف تھا کہ یہ قیام حج کی عبادت کا حصہ نہیں بلکہ محض سفر کی سہولت کے لیے تھا۔",
+                "دوسری طرف سیدنا ابن عمر رضی اللہ عنہما اسے سنتِ عبادت سمجھتے تھے اور وہاں قیام کا اہتمام فرماتے تھے۔"
+              ],
+              "english": [
+                "Al-Abtah is a location between Makkah and Mina. The Prophet (ﷺ) stayed there briefly after returning from Mina during his Farewell Hajj.",
+                "'Aishah and Ibn Abbas (RA) held the view that this stay was not a ritual of Hajj but purely for logistical convenience.",
+                "Conversely, Ibn 'Umar (RA) considered it a religious Sunnah and would make a point of staying there."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "صحابہ کرام کے فہم کا اختلاف",
+        "english": "Differences in the Understanding of the Companions"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اجتہاد اور فہمِ حدیث",
+              "english": "Ijtihad and Understanding of Hadith"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث صحابہ کرام کے درمیان 'افعالِ نبوی' کی تشریح میں اختلافِ رائے کی ایک بہترین مثال ہے۔",
+                "سیدہ عائشہ رضی اللہ عنہا کی گہری نظر اس بات پر تھی کہ آپ ﷺ نے یہ کام کسی خاص ضرورت (واپسی کے راستے کی آسانی) کے تحت کیا۔",
+                "جمہور علماء کے نزدیک یہاں قیام کرنا سنتِ مستحبہ ہے، لیکن اگر کوئی نہ رکے تو اس پر کوئی گناہ یا دم واجب نہیں ہوتا۔"
+              ],
+              "english": [
+                "This Hadith is an excellent example of the differing opinions among the Companions regarding the interpretation of the Prophet's (ﷺ) actions.",
+                "'Aishah (RA) had a deep insight that the Prophet (ﷺ) did this due to a specific need (easier route for return).",
+                "According to the majority of scholars, staying here is a recommended Sunnah, but if someone skips it, there is no sin or penalty (Dam)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انتظامی سہولت اور مسافر کے لیے آسانی",
+        "english": "Administrative Convenience and Ease for Travelers"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سفر کی منصوبہ بندی",
+              "english": "Travel Planning"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا ابطح میں رکنا اس لیے تھا تاکہ قافلہ اکٹھا ہو جائے اور مکہ سے روانگی میں آسانی رہے۔",
+                "یہ اسوہ ہمیں سکھاتا ہے کہ سفر کے دوران ایسے مقامات کا انتخاب کرنا چاہیے جہاں سے نکلنا اور دیگر ساتھیوں کا انتظام کرنا آسان ہو۔",
+                "دینِ اسلام میں نظم و ضبط اور عملی سہولتوں کا ہمیشہ لحاظ رکھا گیا ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) stop at Al-Abtah was to allow the caravan to regroup and ensure an easy departure from Makkah.",
+                "This example teaches us to choose travel stops that facilitate departure and coordination with fellow travelers.",
+                "Islam consistently considers discipline and practical conveniences."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

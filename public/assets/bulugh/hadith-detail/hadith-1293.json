@@ -1,0 +1,259 @@
+{
+  "hadithId": 1293,
+  "hadithNo": 17,
+  "hadithReferences": {
+    "sunnah.com": ["tirmidhi:3591"],
+    "kitabId": 16,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الدعوات",
+    "babId": 105
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه الترمذي (3591)، والحاكم (1/532). صححه الحاكم ووافقه الذهبي، وأخرجه أيضاً ابن حبان (960) والطبراني في الكبير (19/19).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام ترمذی (3591) اور امام حاکم (1/532) نے روایت کیا ہے۔ امام حاکم اور امام ذہبی نے اسے صحیح قرار دیا ہے، جبکہ ابن حبان نے بھی اپنی صحیح میں اسے جگہ دی ہے۔",
+    "english": "Sahih (Authentic). Reported by At-Tirmidhi (3591) and Al-Hakim (1/532). Al-Hakim and Adh-Dhahabi graded it Sahih. It is also found in Sahih Ibn Hibban (960)."
+  },
+  "importantWords": [
+    {
+      "arabic": "جَنِّبْنِي",
+      "english": "Keep me away / Avoid for me",
+      "urdu": "مجھے بچا / دور رکھ"
+    },
+    {
+      "arabic": "مُنْكَرَاتِ",
+      "english": "Evil / Objectionable things",
+      "urdu": "بری چیزیں / ناپسندیدہ"
+    },
+    {
+      "arabic": "الْأَخْلَاقِ",
+      "english": "Character / Manners",
+      "urdu": "اخلاق"
+    },
+    {
+      "arabic": "الْأَهْوَاءِ",
+      "english": "Desires / Whims",
+      "urdu": "خواہشات"
+    },
+    {
+      "arabic": "الْأَدْوَاءِ",
+      "english": "Diseases / Illnesses",
+      "urdu": "بیماریاں"
+    }
+  ],
+  "summary": {
+    "urdu": "اس جامع دعا میں رسول اللہ ﷺ نے چار خطرناک چیزوں (بد اخلاقی، بد اعمالی، نفسانی خواہشات اور مہلک بیماریوں) سے اللہ کی پناہ مانگی ہے۔",
+    "english": "In this comprehensive supplication, the Messenger of Allah (ﷺ) sought refuge from four destructive things: bad character, evil deeds, base desires, and harmful diseases."
+  },
+  "references": [
+    {
+      "arabic": "سنن الترمذي (3591)",
+      "english": "Sunan at-Tirmidhi (3591)"
+    },
+    {
+      "arabic": "مستدرك الحاكم (1/532)",
+      "english": "Mustadrak al-Hakim (1/532)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "قطبة بن مالك الثعلبي",
+        "english": "Qutbah bin Malik al-Tha'labi"
+      },
+      "slug": "qutbah-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_0e_U4v9s8",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "بد اخلاقی اور برے اعمال سے پناہ",
+        "english": "Protection from Bad Character and Deeds"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "منکراتِ اخلاق کی سنگینی",
+              "english": "Severity of Bad Character"
+            },
+            "content": {
+              "urdu": [
+                "بد اخلاقی میں حسد، تکبر، کینہ اور جھوٹ جیسی بیماریاں شامل ہیں۔",
+                "یہ چیزیں انسان کے ایمان اور سماجی مقام کو تباہ کر دیتی ہیں۔",
+                "رسول اللہ ﷺ نے اعلیٰ اخلاق کی تکمیل کے لیے بہترین دعا سکھائی۔"
+              ],
+              "english": [
+                "Bad character includes diseases like envy, pride, malice, and lying.",
+                "These traits destroy a person's faith and social standing.",
+                "The Prophet (ﷺ) taught the best prayer to achieve perfect character."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "برے اعمال کا اثر",
+              "english": "Impact of Evil Actions"
+            },
+            "content": {
+              "urdu": [
+                "منکراتِ اعمال سے مراد وہ کام ہیں جو شریعت میں گناہ قرار دیے گئے ہیں۔",
+                "برے اعمال انسان کو اللہ کی رحمت سے دور اور عذاب کے قریب کرتے ہیں۔",
+                "اعمال کی اصلاح ہی آخرت میں کامیابی کی ضمانت فراہم کرتی ہے۔"
+              ],
+              "english": [
+                "Evil actions refer to those deeds classified as sins in Sharia.",
+                "Bad deeds distance a person from Allah's mercy and bring them closer to punishment.",
+                "Reforming one's actions is the only guarantee for success in the Hereafter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خواہشاتِ نفس اور باطنی اصلاح",
+        "english": "Desires and Internal Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نفسانی خواہشات کا فتنہ",
+              "english": "Fitnah of Vain Desires"
+            },
+            "content": {
+              "urdu": [
+                "گمراہ کن خواہشات انسان کو حق کے راستے سے بھٹکا دیتی ہیں۔",
+                "بدعت اور فرقہ واریت اکثر نفسانی خواہشات کی پیروی کا نتیجہ ہوتی ہیں۔",
+                "خواہشِ نفس پر قابو پانا ہی اصل جہاد اور روحانیت کی بنیاد ہے۔"
+              ],
+              "english": [
+                "Misleading desires deviate a person from the path of truth.",
+                "Innovation and sectarianism are often results of following whims.",
+                "Controlling one's desires is the true Jihad and the basis of spirituality."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "باطنی پاکیزگی کی ضرورت",
+              "english": "Need for Internal Purity"
+            },
+            "content": {
+              "urdu": [
+                "انسان کا ظاہر اس کے باطن کا آئینہ دار ہوتا ہے۔",
+                "اگر نیت اور خواہشات پاک ہوں گی تو عمل خود بخود درست ہو جائے گا۔",
+                "یہ دعا دل کی صفائی اور خیالات کی پاکیزگی کے لیے بہترین ہے۔"
+              ],
+              "english": [
+                "A person's exterior reflects their internal state.",
+                "If intentions and desires are pure, actions will automatically become correct.",
+                "This prayer is excellent for heart purification and mental sanctity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جسمانی صحت اور بیماریوں سے پناہ",
+        "english": "Physical Health and Protection from Diseases"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مہلک بیماریوں سے بچاؤ",
+              "english": "Avoidance of Fatal Illnesses"
+            },
+            "content": {
+              "urdu": [
+                "بری بیماریوں سے مراد وہ امراض ہیں جو انسان کو لاچار کر دیتے ہیں۔",
+                "صحت اللہ کی بہت بڑی نعمت ہے جس کی قدر کرنی چاہیے۔",
+                "بیماریوں سے پناہ مانگنا عافیت کی زندگی گزارنے کا نبوی طریقہ ہے۔"
+              ],
+              "english": [
+                "Evil diseases refer to ailments that leave a person helpless.",
+                "Health is a major blessing from Allah that must be valued.",
+                "Seeking refuge from illness is the Prophetic way to live in well-being."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "روحانی اور جسمانی توازن",
+              "english": "Spiritual and Physical Balance"
+            },
+            "content": {
+              "urdu": [
+                "اسلام روح کے ساتھ ساتھ جسم کی تندرستی پر بھی زور دیتا ہے۔",
+                "بیماری کی صورت میں انسان عبادات کو صحیح طرح ادا نہیں کر پاتا۔",
+                "یہ دعا جامع عافیت کے حصول کے لیے اکسیر کی حیثیت رکھتی ہے۔"
+              ],
+              "english": [
+                "Islam emphasizes physical health alongside spiritual well-being.",
+                "In case of illness, a person cannot perform worship properly.",
+                "This prayer acts as an elixir for attaining comprehensive well-being."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں دعا کا اطلاق",
+        "english": "Application of the Prayer in Daily Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دعا اور کوشش کا ملاپ",
+              "english": "Combining Prayer and Effort"
+            },
+            "content": {
+              "urdu": [
+                "صرف دعا کافی نہیں بلکہ برے اخلاق سے بچنے کی کوشش بھی ضروری ہے۔",
+                "انسان کو اپنے اعمال کا مسلسل محاسبہ کرتے رہنا چاہیے۔",
+                "اچھی صحبت اختیار کرنا برائیوں سے بچنے کا بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "Prayer alone isn't enough; effort to avoid bad character is also necessary.",
+                "A person should constantly hold themselves accountable for their deeds.",
+                "Keeping good company is the best means to avoid evils."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مستقل مزاجی",
+              "english": "Consistency in Invocation"
+            },
+            "content": {
+              "urdu": [
+                "اس دعا کو روزمرہ کے معمولات کا حصہ بنانا چاہیے۔",
+                "ہر نماز کے بعد عافیت اور ہدایت کی دعا مانگنی چاہیے۔",
+                "اللہ کی پناہ حاصل ہو جائے تو دنیا و آخرت کی کامیابی یقینی ہے۔"
+              ],
+              "english": [
+                "This supplication should be made a part of daily routines.",
+                "One should pray for well-being and guidance after every prayer.",
+                "Success in both worlds is certain once Allah's protection is secured."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

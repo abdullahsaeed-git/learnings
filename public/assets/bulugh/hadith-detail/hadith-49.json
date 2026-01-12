@@ -1,0 +1,264 @@
+{
+  "hadithId": 49,
+  "hadithNo": 21,
+  "hadithReferences": {
+    "sunnah.com": ["Book 1, Hadith 21 (Chapter 4)"],
+    "kitabId": 1,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب الجمع بين المضمضة والاستنشاق",
+    "babId": 4
+  },
+
+  "takhreej": {
+    "arabic": " صحيح.  وهو جزء من الحديث المتقدم برقم (35) . ",
+    "urdu": "صحیح (درجہ)۔ اور یہ حدیث، حدیث نمبر (35) کا حصہ ہے۔",
+    "english": "Sahih (Authentic). This is a part of the previously mentioned Hadith number (35)."
+  },
+  "importantWords": [
+    {
+      "arabic": "فَمَضْمَضَ",
+      "english": "Then rinsed his mouth",
+      "urdu": "پھر کلی کی"
+    },
+    {
+      "arabic": "وَاسْتَنْشَقَ",
+      "english": "And drew water into his nose",
+      "urdu": "ناک میں پانی چڑھایا"
+    },
+    {
+      "arabic": "مِنْ كَفٍّ وَاحِدَةٍ",
+      "english": "From one single scoop",
+      "urdu": "ایک ہی چلو سے"
+    },
+    {
+      "arabic": "يَفْعَلُ ذَلِكَ",
+      "english": "He did that",
+      "urdu": "ایسا آپ نے کیا"
+    },
+    {
+      "arabic": "ثَلَاثًا",
+      "english": "Three times",
+      "urdu": "تین مرتبہ"
+    },
+    {
+      "arabic": "أَدْخَلَ",
+      "english": "He put in/inserted",
+      "urdu": "داخل کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث قوی ترین سند (بخاری و مسلم) کے ساتھ وضو کے عمل میں کلی اور ناک میں پانی ڈالنے کے لیے **ایک ہی چلو (scoop)** کے استعمال کو ثابت کرتی ہے، اور یہ عمل تین بار دہرایا جاتا ہے، جو سنتِ نبوی کا افضل طریقہ ہے۔",
+    "english": "This Hadith, with the most authentic chain (Bukhari and Muslim), confirms the Sunnah of combining rinsing the mouth and nose using **a single scoop of water**, repeating the combined action three times, establishing the optimal Prophetic method."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري، كتاب الوضوء، رقم 185",
+      "english": "Sahih Al-Bukhari, The Book of Ablution, Hadith 185"
+    },
+    {
+      "arabic": "صحيح مسلم، كتاب الطهارة، رقم 235",
+      "english": "Sahih Muslim, The Book of Purification, Hadith 235"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عَبْدُ اَللَّهِ بْنُ زَيْدٍ رَضِيَ اَللَّهُ عَنْهُ",
+        "english": "Abdullah bin Zaid (May Allah be pleased with him)"
+      },
+      "slug": "abdullah-bin-zaid"
+    }
+  ],
+  "ytLink": "https://youtu.be/example-hadith-27-one-scoop-mouth-nose",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Agreed Upon (by Bukhari and Muslim)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "کلی اور ناک میں پانی ڈالنے کا مستند طریقہ",
+        "english": "The Authentic Method for Rinsing Mouth and Nose"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ایک چلو کا استعمال سنت ہے",
+              "english": "Using a Single Scoop is Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث وضو کے عمل میں کلی (مضمضہ) اور ناک میں پانی چڑھانے (استنشاق) کا سب سے **صحیح اور مسنون** طریقہ بیان کرتی ہے، جو ایک ہی چلو سے دونوں عمل کو جمع کرنا ہے۔",
+                "نبی اکرم ﷺ کا ایک ہی چلو میں پانی لے کر اس میں سے کچھ حصہ منہ میں اور باقی ناک میں داخل کرنا، وضو میں اعتدال اور سادگی کو ظاہر کرتا ہے۔",
+                "اس طریقے پر عمل کرنا وضو میں نبی ﷺ کی کامل سنت کی پیروی ہے، جس پر فقہاء کی اکثریت متفق ہے۔"
+              ],
+              "english": [
+                "This Hadith describes the most **correct and Sunnah-based** method for rinsing the mouth (Maḍmaḍah) and drawing water into the nose (Istinshāq) in Wudu, which is by combining both actions with a single scoop.",
+                "The Prophet's (ﷺ) practice of taking water in one scoop and using part of it for his mouth and the rest for his nose demonstrates moderation and simplicity in Wudu.",
+                "Following this method is adherence to the Prophet's complete Sunnah in Wudu, a practice agreed upon by the majority of jurists."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "علیحدگی کی روایت پر ترجیح",
+              "english": "Preference Over Separate Scoops"
+            },
+            "content": {
+              "urdu": [
+                "چونکہ یہ روایت **متفق علیہ** ہے (بخاری اور مسلم دونوں میں موجود ہے)، لہٰذا اسے ان کمزور روایات (جیسا کہ حدیث نمبر 19) پر ترجیح حاصل ہے جن میں الگ الگ پانی لینے کا ذکر ہے۔",
+                "ایک ہی پانی کے ذریعے دونوں عمل کو انجام دینا ہی نبی ﷺ کا **اکثر اور افضل** طریقہ تھا، جو وضو میں وقت اور پانی کی بچت کرتا ہے۔",
+                "مسلمانوں کو چاہیے کہ وہ وضو میں ہر عمل کے لیے سب سے زیادہ مستند اور قوی دلائل پر مبنی سنت کو اپنائیں۔"
+              ],
+              "english": [
+                "Since this narration is **Agreed Upon (Muttafaqun 'Alayh)**, it is preferred over weaker narrations (like Hadith No. 19) that mention taking separate scoops of water.",
+                "Performing both actions with a single scoop was the Prophet's (ﷺ) **most frequent and preferred** method, saving both time and water during Wudu.",
+                "Muslims should adopt the Sunnah in Wudu that is based on the most authentic and strongest evidence for every action."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تثلیث اور صفائی کا معیار",
+        "english": "Repetition Thrice and Cleanliness Standard"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تین بار دہرانے کی حکمت",
+              "english": "Wisdom of Repeating Thrice"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ کا ان دونوں اعمال کو **تین بار** دہرانا اس بات کی دلیل ہے کہ طہارت میں تکرار (تثلیث) نہ صرف سنت ہے بلکہ مکمل صفائی کے لیے بھی ضروری ہے۔",
+                "یہ تثلیث منہ اور ناک کے اندرونی حصوں کی گہرائی تک پانی پہنچا کر ان کی آلودگیوں کو مکمل طور پر زائل کر دیتی ہے۔",
+                "جو شخص اس سنت کو اختیار کرتا ہے وہ نہ صرف روحانی اجر حاصل کرتا ہے بلکہ جسمانی صحت کے لحاظ سے بھی فائدہ اٹھاتا ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) repetition of both these actions **three times** indicates that repetition (Tathlīth) in purification is not only Sunnah but also essential for complete cleansing.",
+                "This repetition ensures water reaches deep into the inner parts of the mouth and nose, completely removing impurities and dirt.",
+                "A person who adopts this Sunnah not only gains spiritual reward but also benefits in terms of physical health and hygiene."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پانی کا صحیح استعمال",
+              "english": "Proper Use of Water"
+            },
+            "content": {
+              "urdu": [
+                "ایک ہی چلو کا استعمال اس بات کی عملی مثال ہے کہ وضو کے دوران پانی کا **بجا اور کم سے کم** استعمال کیا جائے (اسراف سے بچا جائے)، جو ایک اہم شرعی حکم ہے۔",
+                "اگر تین بار الگ الگ پانی لیا جائے تو اس میں پانی کے ضیاع کا خطرہ ہوتا ہے، جبکہ جمع کرنے میں اعتدال قائم رہتا ہے۔",
+                "یہ حکم مسلمانوں کو عبادات میں بھی میانہ روی اور دنیاوی وسائل کی قدر کرنے کی تعلیم دیتا ہے۔"
+              ],
+              "english": [
+                "Using a single scoop is a practical example of utilizing water **appropriately and minimally** during Wudu, avoiding extravagance (Isrāf), which is an important Islamic command.",
+                "Taking separate water three times increases the risk of water wastage, whereas combining the actions maintains moderation.",
+                "This ruling teaches Muslims moderation in worship and the importance of valuing worldly resources."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "وضو کا روحانی پہلو",
+        "english": "The Spiritual Aspect of Wudu"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنت سے گناہوں کی معافی",
+              "english": "Forgiveness of Sins through Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "دیگر احادیث سے ثابت ہے کہ وضو کے دوران پانی کے قطرے گرنے کے ساتھ ہی اعضاء سے سرزد ہونے والے گناہ بھی معاف ہو جاتے ہیں۔",
+                "کلی اور ناک میں پانی ڈالنا، جو عملِ وضو کا حصہ ہیں، اس روحانی طہارت میں اہم کردار ادا کرتے ہیں۔",
+                "اس سنت پر عمل کرنے سے یہ یقینی ہوتا ہے کہ منہ اور ناک، جو بولنے اور سانس لینے کے ذریعہ ہیں، پاکیزہ ہو جائیں اور گناہوں کی معافی حاصل ہو۔"
+              ],
+              "english": [
+                "It is established in other Ahadith that sins committed by the limbs are forgiven as drops of water fall during Wudu.",
+                "Rinsing the mouth and nose, which are parts of Wudu, play a vital role in achieving this spiritual purification.",
+                "Adhering to this Sunnah ensures that the mouth and nose, being the means of speech and breathing, are purified and attain forgiveness of sins."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کی تعلیمات کا مقصد",
+              "english": "The Goal of the Prophet's Teachings"
+            },
+            "content": {
+              "urdu": [
+                "نبی اکرم ﷺ نے وضو کے ہر چھوٹے سے چھوٹے عمل کی تعلیم دی تاکہ امت کے لیے یہ عبادت واضح، آسان اور اجر سے بھرپور ہو۔",
+                "حضرت عبداللہ بن زیدؓ کا یہ مشاہدہ اور روایت اس بات کی دلیل ہے کہ صحابہ کرام نے نبی ﷺ کے ہر عمل کو باریکی سے محفوظ کیا۔",
+                "یہ عمل مسلمانوں کو اپنی عبادت میں کامل پیروی کی ترغیب دیتا ہے تاکہ انہیں روزِ قیامت مکمل نور اور چمک حاصل ہو۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught every minor detail of Wudu so that this act of worship would be clear, easy, and full of reward for the Ummah.",
+                "The observation and narration by ʿAbdullāh bin Zayd (RA) is evidence that the Companions meticulously preserved every action of the Prophet (ﷺ).",
+                "This practice encourages Muslims toward perfect emulation in their worship to gain complete light and radiance on the Day of Resurrection."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "روایت اور حکم کی قوت",
+        "english": "The Strength of Narration and Ruling"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عبداللہ بن زیدؓ کی روایت",
+              "english": "The Narration of Abdullah bin Zaid (RA)"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عبداللہ بن زید رضی اللہ عنہ ان چند صحابہ میں سے ہیں جنہوں نے نبی ﷺ کے وضو کی کیفیت کو سب سے زیادہ تفصیل اور صحت سے بیان کیا۔",
+                "ان کی اس روایت کو بخاری اور مسلم دونوں کی تصدیق حاصل ہے، جو اسے تمام فقہی احکام کے لیے ایک بنیادی اور قابلِ اعتماد دلیل بناتی ہے۔",
+                "جو احادیث 'متفق علیہ' ہوتی ہیں، ان کے خلاف موجود کوئی بھی ضعیف یا کمزور روایت قابلِ استدلال نہیں ہوتی۔"
+              ],
+              "english": [
+                "Sayyiduna ʿAbdullāh bin Zayd (RA) is one of the few Companions who narrated the method of the Prophet’s Wudu with the greatest detail and authenticity.",
+                "This narration is authenticated by both Al-Bukhari and Muslim, making it a fundamental and reliable proof for all jurisprudential rulings.",
+                "Ahadith that are 'Agreed Upon' (Muttafaqun 'Alayh) cannot be contradicted or overridden by any weak or unsupported narration."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عملی سنت کی پیروی",
+              "english": "Adherence to Practical Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "وضو کے عمل کو سنت کے مطابق ادا کرنا ہر مسلمان کی ذمہ داری ہے، کیونکہ اسی سے نماز اور دیگر عبادات قبول ہوتی ہیں۔",
+                "ایک ہی چلو سے کلی اور استنشاق کرنا نہ صرف سنت ہے بلکہ نبی ﷺ کے عملی طریقے کا بہترین نمونہ بھی ہے۔",
+                "مسلمان کو چاہیے کہ وہ اپنی عبادات میں اس سنت پر عمل کر کے نیکیوں میں اضافہ کرے۔"
+              ],
+              "english": [
+                "Performing Wudu according to the Sunnah is the responsibility of every Muslim, as this ensures the acceptance of Salah and other acts of worship.",
+                "Rinsing the mouth and nose from a single scoop is not only Sunnah but also the best example of the Prophet's practical method.",
+                "A Muslim should act upon this Sunnah in his acts of worship to increase his good deeds."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

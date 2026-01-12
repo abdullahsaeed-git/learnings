@@ -1,0 +1,206 @@
+{
+  "hadithId": 617,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/617"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "بلوغ المرام - كتاب الحج",
+    "babId": 40
+  },
+
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1275). والمِحْجَن: عصا مَعْقُوفَةُ الرأس.",
+    "urdu": "صحیح۔ اسے مسلم (1275) نے روایت کیا ہے۔ 'محجن' ایسی چھڑی کو کہتے ہیں جس کا سرا مڑا ہوا ہو جیسے ہاکی یا واکنگ اسٹک۔",
+    "english": "Sahih. Reported by Muslim (1275). A 'Mihjan' is a walking stick or staff with a curved or hooked head."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَطُوفُ",
+      "english": "Performing Tawaf",
+      "urdu": "طواف کر رہے تھے"
+    },
+    {
+      "arabic": "يَسْتَلِمُ",
+      "english": "Touching (Istilam)",
+      "urdu": "استلام کرنا / چھونا"
+    },
+    {
+      "arabic": "مِحْجَنٍ",
+      "english": "Hooked staff / Walking stick",
+      "urdu": "مڑی ہوئی چھڑی"
+    },
+    {
+      "arabic": "يُقْبِّلُ",
+      "english": "Kissing",
+      "urdu": "بوسہ لینا / چومنا"
+    }
+  ],
+  "summary": {
+    "urdu": "حجرِ اسود کا استلام براہِ راست ہاتھ سے بھی ہو سکتا ہے اور کسی چیز (جیسے چھڑی) کے ذریعے بھی، اور اس چیز کو چومنا سنت سے ثابت ہے۔",
+    "english": "Istilam of the Black Stone can be done directly by hand or through an intermediary object (like a staff), and kissing that object is a proven Sunnah."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1275)",
+      "english": "Reported by Muslim (1275)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عامر بن واثلة الكناني (أبو الطفيل)",
+        "english": "Amir bin Wathilah (Abu At-Tufail)"
+      },
+      "slug": "abu-at-tufail"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGj9kO4_Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حجرِ اسود کے استلام کے درجات",
+        "english": "Stages of Istilam of the Black Stone"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مختلف طریقے",
+              "english": "Different Methods"
+            },
+            "content": {
+              "urdu": [
+                "افضل یہ ہے کہ حجرِ اسود کو براہِ راست چوما جائے۔",
+                "اگر ہجوم کی وجہ سے ممکن نہ ہو تو ہاتھ سے چھو کر ہاتھ کو چوم لیا جائے۔",
+                "اگر یہ بھی ممکن نہ ہو تو کسی چھڑی یا چیز سے چھو کر اسے چومنا بھی سنت سے ثابت ہے۔",
+                "اور اگر چھونا بھی ناممکن ہو تو صرف ہاتھ سے اشارہ کرنا (تکبیر کے ساتھ) کافی ہے۔"
+              ],
+              "english": [
+                "Ideally, the Black Stone should be kissed directly.",
+                "If not possible due to crowds, touch it with the hand and kiss the hand.",
+                "Alternatively, touching it with a staff or object and then kissing that object is also Sunnah.",
+                "If even touching is impossible, merely pointing with the hand (while saying Takbir) is sufficient."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سواری پر طواف",
+              "english": "Tawaf on a Mount"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے ہجوم یا کمزوری کے عذر کی بنا پر اونٹنی پر سوار ہو کر طواف فرمایا۔",
+                "سواری کی حالت میں آپ ﷺ نے چھڑی (محجن) کا استعمال کیا تاکہ حجرِ اسود تک رسائی ہو سکے۔",
+                "اس سے ثابت ہوتا ہے کہ دین میں ضرورت کے وقت سہولیات اور وسائل کا استعمال جائز ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) performed Tawaf while riding a camel due to the crowd or as a concession.",
+                "While riding, he used a staff (Mihjan) to reach and touch the Black Stone.",
+                "This proves that using available tools and aids during worship is permissible when needed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور تربیتی فوائد",
+        "english": "Juristic and Educational Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "اذیت سے بچنا",
+              "english": "Avoiding Causing Harm"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے چھڑی کا استعمال اس لیے بھی کیا تاکہ لوگوں کے درمیان سے گزرتے ہوئے انہیں دھکا نہ لگے۔",
+                "براہِ راست بوسہ لینے کے لیے دوسروں کو تکلیف پہنچانا گناہ ہے، جبکہ اشارہ یا چھڑی سے چھونا سنت ہے۔",
+                "عبادت میں دوسروں کی راحت کا خیال رکھنا کمالِ ایمان ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) used the staff partly to avoid pushing through and causing distress to the crowd.",
+                "Causing harm to others for a direct kiss is sinful, whereas pointing or using a staff is a rewarded Sunnah.",
+                "Considering the comfort of others during worship is a sign of perfected faith."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اشیاء سے تبرک کا مفہوم",
+              "english": "Concept of Blessing through Objects"
+            },
+            "content": {
+              "urdu": [
+                "چھڑی کو چومنا اس لیے تھا کیونکہ اس نے اس پتھر کو چھوا تھا جسے چومنے کا حکم ہے۔",
+                "یہ 'تبرک' کی ایک صورت ہے جو شریعت کے مقرر کردہ حدود میں جائز ہے۔",
+                "مومن کا دل شعائرِ اللہ کی تعظیم سے لبریز ہونا چاہیے، چاہے وہ علامتی ہی کیوں نہ ہو۔"
+              ],
+              "english": [
+                "Kissing the staff was because it had touched the Stone which is designated to be kissed.",
+                "This is a form of 'Tabarruk' (seeking blessing) within the limits defined by Shariah.",
+                "A believer's heart should be filled with veneration for the Symbols of Allah, even symbolically."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "سیدنا ابوطفیل کا مشاہدہ",
+        "english": "Observation of Abu At-Tufail"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آخری صحابی کی گواہی",
+              "english": "Testimony of the Last Companion"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا ابوطفیل عامر بن واثلہ وہ صحابی ہیں جن کا انتقال سب سے آخر میں (110ھ) ہوا۔",
+                "ان کی روایات حجۃ الوداع کے مناظر کو بہت واضح انداز میں پیش کرتی ہیں۔",
+                "انہوں نے نبی ﷺ کے طواف کے ایک ایک منظر کو اپنی آنکھوں سے دیکھا اور محفوظ کیا۔"
+              ],
+              "english": [
+                "Abu At-Tufail was the last Companion to pass away (approx. 110 AH).",
+                "His narrations provide vivid imagery of the Farewell Hajj scenes.",
+                "He observed and preserved every detail of the Prophet's (ﷺ) Tawaf with precision."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "چھڑی سے استلام کا عمل ظاہر کرتا ہے کہ اسلام میں ہر حال کے لیے متبادل موجود ہے۔",
+                "اگر انسان کسی فضیلت والے کام کو اصل طریقے سے نہ کر سکے، تو اسے ہمت نہیں ہارنی چاہیے۔",
+                "شریعت نے معذوروں، بیماروں اور بوڑھوں کے لیے عبادات کے راستے آسان رکھے ہیں۔"
+              ],
+              "english": [
+                "Touching with a staff shows that Islam provides alternatives for every situation.",
+                "If one cannot perform a virtuous act in its primary way, one should look for the permissible alternative.",
+                "Shariah has kept the paths of worship easy for the disabled, sick, and elderly."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

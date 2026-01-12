@@ -1,0 +1,259 @@
+{
+  "hadithId": 1223,
+  "hadithNo": 4,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:1510"],
+    "kitabId": 15,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب العتق",
+    "babId": 100
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم ( 1510 )‏، وأبو داود (5137)، والترمذي (1906)، وابن ماجه (3659).",
+    "urdu": "یہ حدیث صحیح ہے اور امام مسلم (1510) نے اسے روایت کیا ہے۔ اسی مفہوم کی روایات سنن ابوداؤد اور ترمذی میں بھی موجود ہیں۔",
+    "english": "Sahih. Reported by Muslim (1510), Abu Dawud (5137), At-Tirmidhi (1906), and Ibn Majah (3659)."
+  },
+  "importantWords": [
+    {
+      "arabic": "يَجْزِي",
+      "english": "Repay/Compensate",
+      "urdu": "بدلہ چکانا"
+    },
+    {
+      "arabic": "وَلَدٌ",
+      "english": "Son/Child",
+      "urdu": "بیٹا"
+    },
+    {
+      "arabic": "مَمْلُوكًا",
+      "english": "Slave/Owned",
+      "urdu": "غلام"
+    },
+    {
+      "arabic": "يُعْتِقَهُ",
+      "english": "Emancipate him",
+      "urdu": "اسے آزاد کر دے"
+    },
+    {
+      "arabic": "يَجِدَهُ",
+      "english": "Finds him",
+      "urdu": "اسے پائے"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں والد کے احسانات کی عظمت بیان کی گئی ہے کہ اولاد ان کا حق کبھی ادا نہیں کر سکتی، سوائے اس صورت کے کہ وہ انہیں غلامی سے نجات دلا دے۔",
+    "english": "This Hadith emphasizes the greatness of a father's rights, stating that a child can never fully repay them except by freeing them from slavery."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1510)",
+      "english": "Reported by Muslim (1510)"
+    },
+    {
+      "arabic": "رواه أبو داود (5137)",
+      "english": "Reported by Abu Dawud (5137)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj7v68sXyV0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "والد کے حقوق کی عظمت",
+        "english": "Greatness of Father's Rights"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "احسانات کا بدلہ",
+              "english": "Repaying Kindnesses"
+            },
+            "content": {
+              "urdu": [
+                "والدین کے احسانات اتنے زیادہ ہیں کہ اولاد ان کا شکریہ ادا نہیں کر سکتی۔",
+                "والد کی پرورش اور تربیت کا حق کسی مادی خدمت سے ادا نہیں ہوتا۔",
+                "یہ حدیث اولاد کو عاجزی اور خدمت گزاری کا درس دیتی ہے۔"
+              ],
+              "english": [
+                "The favors of parents are so vast that children can never repay them.",
+                "The right of a father's upbringing cannot be settled by material service.",
+                "This Hadith teaches children humility and dedicated service to parents."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "غلامی سے آزادی کی مثال",
+              "english": "Example of Freeing from Slavery"
+            },
+            "content": {
+              "urdu": [
+                "غلامی سے آزادی دینا ایک انسان کو نئی زندگی دینے کے مترادف ہے۔",
+                "والد کو ملکیت سے نکال کر آزاد کرنا سب سے بڑی خدمت قرار دی گئی۔",
+                "یہ استعارہ والد کے مرتبے کی بلندی کو واضح کرنے کے لیے استعمال ہوا ہے۔"
+              ],
+              "english": [
+                "Freeing someone from slavery is equivalent to giving them a new life.",
+                "Freeing a father from ownership is declared the greatest possible service.",
+                "This metaphor is used to clarify the supreme status of a father."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام اور باریکیاں",
+        "english": "Juristic Rulings and Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خریدتے ہی آزادی",
+              "english": "Emancipation Upon Purchase"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی فقہ کے مطابق اگر بیٹا باپ کو خرید لے تو وہ خود بخود آزاد ہو جاتا ہے۔",
+                "محرم رشتہ داروں کی ملکیت اسلام میں جائز نہیں رکھی گئی۔",
+                "بیٹے کا مال درحقیقت باپ کا ہی مال تصور کیا جاتا ہے۔"
+              ],
+              "english": [
+                "In Islamic law, if a son buys his father, the father is automatically freed.",
+                "Ownership of close (Mahram) relatives is not permitted in Islam.",
+                "A son's property is essentially considered the property of his father."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "والدہ کا مرتبہ",
+              "english": "Status of the Mother"
+            },
+            "content": {
+              "urdu": [
+                "علماء کے مطابق یہی حکم والدہ کے لیے بھی بدرجہ اولیٰ لاگو ہوتا ہے۔",
+                "والدہ کا حق والد سے بھی تین گنا زیادہ بیان کیا گیا ہے۔",
+                "والدین میں سے کسی کا بھی حق پوری طرح ادا کرنا ناممکن ہے۔"
+              ],
+              "english": [
+                "Scholars state this rule applies to the mother even more significantly.",
+                "The mother's right is described as being three times greater than the father's.",
+                "It is impossible to fully repay the rights of either parent."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی اسباق",
+        "english": "Ethical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خدمت میں کوتاہی سے بچنا",
+              "english": "Avoiding Negligence in Service"
+            },
+            "content": {
+              "urdu": [
+                "اولاد کو کبھی یہ گمان نہیں کرنا چاہیے کہ اس نے حق ادا کر دیا۔",
+                "والدین کی خدمت کو بوجھ کے بجائے سعادت سمجھنا چاہیے۔",
+                "بڑھاپے میں ان کا سہارا بننا جنت کے دروازوں میں سے ایک ہے۔"
+              ],
+              "english": [
+                "Children should never presume they have fulfilled their parents' rights.",
+                "Serving parents should be viewed as a privilege, not a burden.",
+                "Being their support in old age is one of the gates to Paradise."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شکر گزاری کا جذبہ",
+              "english": "Spirit of Gratitude"
+            },
+            "content": {
+              "urdu": [
+                "اللہ کی بندگی کے بعد والدین کا شکر ادا کرنا فرض ہے۔",
+                "والدین کی ناراضگی اللہ کی ناراضگی کا سبب بنتی ہے۔",
+                "ان کے لیے دعا کرنا بھی ان کے احسانات کا ایک چھوٹا سا بدلہ ہے۔"
+              ],
+              "english": [
+                "After worshiping Allah, being grateful to parents is a mandate.",
+                "Displeasing parents leads to the displeasure of Allah.",
+                "Praying for them is a small way to acknowledge their favors."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی میں اطلاق",
+        "english": "Practical Application"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "والدین کے ساتھ حسنِ سلوک",
+              "english": "Excellence in Conduct"
+            },
+            "content": {
+              "urdu": [
+                "ان کی ضرورتوں کو اپنی خواہشات پر مقدم رکھیں۔",
+                "بات کرتے وقت نرمی اور عاجزی کا مظاہرہ کریں۔",
+                "ان کے دوستوں اور رشتہ داروں کا بھی احترام کریں۔"
+              ],
+              "english": [
+                "Prioritize their needs over your own personal desires.",
+                "Demonstrate softness and humility when speaking to them.",
+                "Respect their friends and relatives as an extension of their honor."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مالی تعاون",
+              "english": "Financial Support"
+            },
+            "content": {
+              "urdu": [
+                "والدین کی مالی ضروریات پوری کرنا اولاد پر واجب ہے۔",
+                "اپنے مال میں ان کا حصہ خوش دلی سے نکالیں۔",
+                "ان کے سکون کے لیے بہترین وسائل فراہم کرنے کی کوشش کریں۔"
+              ],
+              "english": [
+                "Fulfilling the financial needs of parents is obligatory for children.",
+                "Willfully and happily allocate a portion of your wealth for them.",
+                "Strive to provide the best resources for their comfort and peace."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

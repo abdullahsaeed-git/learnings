@@ -1,0 +1,259 @@
+{
+  "hadithId": 839,
+  "hadithNo": 16,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/16"],
+    "kitabId": 8,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب النكاح",
+    "babId": 64
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح . رواه ابن ماجه (1882) ، والدارقطني (3/227) ، والبيهقي (7/110). وصححه الألباني في إرواء الغليل (1841).",
+    "urdu": "صحیح۔ اسے ابن ماجہ (1882) اور دارقطنی نے روایت کیا ہے۔ اس کے راوی ثقہ ہیں اور علامہ البانی نے ارواء الغلیل میں اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Ibn Majah (1882) and Ad-Daraqutni. Its narrators are trustworthy, and Al-Albani authenticated it in Irwa al-Ghalil."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَا تُزَوِّجُ",
+      "english": "Shall not give in marriage",
+      "urdu": "نکاح نہ کرے"
+    },
+    {
+      "arabic": "الْمَرْأَةُ",
+      "english": "The woman",
+      "urdu": "عورت"
+    },
+    {
+      "arabic": "نَفْسَهَا",
+      "english": "Herself",
+      "urdu": "خود اپنے آپ کا"
+    },
+    {
+      "arabic": "ثِقَاتٌ",
+      "english": "Trustworthy / Reliable",
+      "urdu": "قابلِ اعتماد / ثقہ"
+    },
+    {
+      "arabic": "رِجَالُهُ",
+      "english": "Its narrators",
+      "urdu": "اس کے راوی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں واضح کیا گیا ہے کہ عورت نہ تو کسی دوسری عورت کی ولی بن سکتی ہے اور نہ ہی ولی کی موجودگی کے بغیر خود اپنا نکاح کر سکتی ہے۔",
+    "english": "This Hadith clarifies that a woman cannot act as a guardian (Wali) for another woman, nor can she conduct her own marriage ceremony independently."
+  },
+  "references": [
+    {
+      "arabic": "سنن ابن ماجه (1882)",
+      "english": "Sunan Ibn Majah (1882)"
+    },
+    {
+      "arabic": "سنن الدارقطني (3/227)",
+      "english": "Sunan al-Daraqutni (3/227)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R3L0f6LpB3M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ولایت میں صنفی ترتیب",
+        "english": "Gender Order in Guardianship"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عورت کا ولی نہ بننا",
+              "english": "A Woman Cannot be a Wali"
+            },
+            "content": {
+              "urdu": [
+                "شریعت میں نکاح کی سرپرستی (ولایت) صرف مردوں کے لیے مخصوص کی گئی ہے۔",
+                "عورت کسی دوسری عورت کا نکاح نہیں پڑھا سکتی اور نہ ہی ولی بن سکتی ہے۔",
+                "یہ حکم خاندانی نظم و ضبط اور شرعی حدود کی حفاظت کے لیے دیا گیا ہے۔"
+              ],
+              "english": [
+                "In Sharia, the authority of guardianship (Wilayah) for marriage is reserved for men.",
+                "A woman cannot conduct the marriage of another woman nor act as her legal guardian.",
+                "This ruling is established to maintain family discipline and protect Sharia boundaries."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سرپرستی کی حکمت",
+              "english": "Wisdom Behind Guardianship"
+            },
+            "content": {
+              "urdu": [
+                "مردوں کو ولی بنانے میں حکمت یہ ہے کہ وہ معاشرتی معاملات کو بہتر سمجھتے ہیں۔",
+                "یہ اقدام عورت کو کسی بھی قسم کے دھوکے یا غلط انتخاب سے بچانے کے لیے ہے۔",
+                "نکاح محض دو افراد کا نہیں بلکہ دو خاندانوں کا سماجی اور شرعی ملاپ ہے۔"
+              ],
+              "english": [
+                "The wisdom in appointing men as guardians is their broader understanding of social affairs.",
+                "This measure is intended to protect women from deception or poor choices in partners.",
+                "Marriage is not just between two individuals but a social and legal union of two families."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خود مختار نکاح کی ممانعت",
+        "english": "Prohibition of Independent Marriage"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ولی کے بغیر نکاح کی نفی",
+              "english": "Negation of Marriage without Wali"
+            },
+            "content": {
+              "urdu": [
+                "حدیث کے مطابق عورت کا ولی کی اجازت کے بغیر خود اپنا نکاح کرنا جائز نہیں۔",
+                "ایسا نکاح جمہور فقہاء کے نزدیک شرعی طور پر باطل یا فاسد تصور کیا جاتا ہے۔",
+                "اسلام نے نکاح کو ایک اعلانیہ اور معزز طریقہ کار کے طور پر متعارف کرایا ہے۔"
+              ],
+              "english": [
+                "According to the Hadith, a woman is not permitted to conduct her own marriage without a Wali.",
+                "Such a marriage is considered legally void or invalid by the majority of Islamic jurists.",
+                "Islam has introduced marriage as a public and honorable legal procedure."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حیا اور وقار کا تحفظ",
+              "english": "Preserving Modesty and Dignity"
+            },
+            "content": {
+              "urdu": [
+                "عورت کا تنہا نکاح کے معاملات طے کرنا اس کی حیا اور خاندانی وقار کے خلاف ہے۔",
+                "ولی کی موجودگی عورت کو ایک مضبوط اخلاقی اور قانونی سہارا فراہم کرتی ہے۔",
+                "یہ حکم معاشرے میں خفیہ نکاح اور بدکاری کے راستوں کو بند کرنے کے لیے ہے۔"
+              ],
+              "english": [
+                "A woman settling marriage affairs alone is contrary to her modesty and family dignity.",
+                "The presence of a Wali provides a woman with strong moral and legal support.",
+                "This ruling is meant to block the paths to secret marriages and immorality in society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی مذاہب کی آراء",
+        "english": "Opinions of Juristic Schools"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جمہور کا موقف",
+              "english": "Majority Position"
+            },
+            "content": {
+              "urdu": [
+                "امام مالک، شافعی اور احمد بن حنبل کے نزدیک ولی نکاح کا ایک لازمی رکن ہے۔",
+                "اس حدیث سے استدلال کرتے ہوئے وہ ولی کے بغیر نکاح کو تسلیم نہیں کرتے۔",
+                "وہ اسے نکاح کی صحت کے لیے ایک بنیادی اور ناگزیر شرط قرار دیتے ہیں۔"
+              ],
+              "english": [
+                "Imams Malik, Shafi'i, and Ahmad consider the Wali an essential pillar of marriage.",
+                "Based on this Hadith, they do not recognize any marriage conducted without a guardian.",
+                "They deem it a fundamental and indispensable condition for the validity of the contract."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہ حنفی کی وضاحت",
+              "english": "Clarification in Hanafi Jurisprudence"
+            },
+            "content": {
+              "urdu": [
+                "امام ابوحنیفہ کے نزدیک عاقلہ بالغہ عورت اپنا نکاح کر سکتی ہے مگر اسے پسند نہیں کیا گیا۔",
+                "تاہم، اگر کفو (برابری) کا خیال نہ رکھا جائے تو ولی کو اعتراض کا حق حاصل ہوتا ہے۔",
+                "احتیاط اسی میں ہے کہ تمام مکاتبِ فکر کے نزدیک مسنون طریقہ (ولی کی موجودگی) اپنایا جائے۔"
+              ],
+              "english": [
+                "Imam Abu Hanifa allows a sane adult woman to conduct her marriage, though it is disliked.",
+                "However, if compatibility (Kufu) is ignored, the guardian retains the right to object.",
+                "Caution lies in adopting the Sunnah method (presence of Wali) accepted by all schools."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اصلاح",
+        "english": "Social Reform"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خاندانی ڈھانچے کی مضبوطی",
+              "english": "Strengthening the Family Structure"
+            },
+            "content": {
+              "urdu": [
+                "ولی کے ذریعے نکاح ہونے سے خاندان کے بزرگوں کی دعا اور تائید شامل ہوتی ہے۔",
+                "یہ روایت نئی نسل کو اپنے بڑوں کے تجربات سے فائدہ اٹھانے کا موقع دیتی ہے۔",
+                "خاندانی نظام کی مضبوطی ہی ایک صحت مند معاشرے کی ضامن ہے۔"
+              ],
+              "english": [
+                "Marriage through a Wali ensures the prayers and support of the family elders.",
+                "This tradition allows the new generation to benefit from the experience of their elders.",
+                "The strength of the family system is the guarantor of a healthy society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پاسداری",
+              "english": "Upholding the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کے فرامین پر عمل کرنے میں ہی دونوں جہانوں کی بھلائی ہے۔",
+                "ہمیں جدیدیت کے نام پر شرعی احکامات میں تبدیلی سے گریز کرنا چاہیے۔",
+                "نکاح جیسے مقدس بندھن کو مسنون طریقے پر انجام دینا ہی برکت کا باعث ہے۔"
+              ],
+              "english": [
+                "Acting upon the commands of the Prophet (ﷺ) contains goodness for both worlds.",
+                "We must avoid altering Sharia rulings in the name of modernity.",
+                "Conducting the sacred bond of marriage in the Sunnah way is the source of blessing."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "hadithId": 938,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh/8/938",
+      "muslim/1496"
+    ],
+    "kitabId": 8,
+    "inKitabBab": 11,
+    "arabicBook": "كتاب اللعان",
+    "babId": 74
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (1496) من حديث أنس بن مالك في قصة هلال بن أمية. وإنما ذكره المصنف كمتفق عليه لوجود أصله في البخاري من حديث ابن عباس (4747).",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام مسلم (1496) نے سیدنا انس سے روایت کیا ہے۔ اگرچہ حافظ ابن حجر نے اسے متفق علیہ کہا ہے، مگر ان الفاظ کے ساتھ یہ مسلم میں ہے، جبکہ اس کی اصل (قصہ ہلال بن امیہ) بخاری میں ابن عباس سے مروی ہے۔",
+    "english": "Sahih. Reported by Muslim (1496) from Anas bin Malik. While the author marked it as 'Agreed Upon', these specific words are in Muslim, while the core incident is found in Al-Bukhari from Ibn Abbas (4747)."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَبْصِرُوهَا",
+      "english": "Observe her / Watch her",
+      "urdu": "اسے دیکھو / نظر رکھو"
+    },
+    {
+      "arabic": "سَبِطًا",
+      "english": "Straight hair",
+      "urdu": "سیدھے بال"
+    },
+    {
+      "arabic": "أَكْحَلَ",
+      "english": "Black-eyed / Smeared with kohl",
+      "urdu": "سرمگیں آنکھیں"
+    },
+    {
+      "arabic": "جَعْدًا",
+      "english": "Curly hair",
+      "urdu": "گھونگھریالے بال"
+    },
+    {
+      "arabic": "رَمَاهَا",
+      "english": "Accused her / Cast at her",
+      "urdu": "تہمت لگائی / الزام دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں لعان کے بعد پیدا ہونے والے بچے کی جسمانی مشابہت کے ذریعے سچائی کی پہچان کا ذکر ہے، اگرچہ شرعی فیصلہ قسموں پر ہی مبنی ہوتا ہے۔",
+    "english": "This Hadith mentions using physical resemblance of the child after Li'an to recognize the truth, although the legal ruling remains based on the oaths taken."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1496)",
+      "english": "Reported by Muslim (1496)"
+    },
+    {
+      "arabic": "رواه البخاري (4747)",
+      "english": "Reported by Al-Bukhari (4747)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أنس بن مالك الأنصاري",
+        "english": "Anas bin Malik Al-Ansari"
+      },
+      "slug": "anas-bin-malik"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0K07_z0U",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مشابہت اور حقیقتِ حال",
+        "english": "Resemblance and the Reality of the Case"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جسمانی علامات سے استدلال",
+              "english": "Inference from Physical Signs"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے بچے کی جسمانی ساخت کو سچ اور جھوٹ کی علامت قرار دیا۔",
+                "رنگ اور بالوں کی مشابہت اکثر والدین کے نسب کی عکاسی کرتی ہے۔",
+                "یہ طریقہ کار اس وقت محض حقیقت واضح کرنے کے لیے اپنایا گیا تھا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) used the child's physical structure as a sign of truth or falsehood.",
+                "Resemblance in color and hair often reflects the parents' lineage.",
+                "This method was adopted at that time merely to clarify the reality of the situation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "بچے کا انجام",
+              "english": "The Child's Outcome"
+            },
+            "content": {
+              "urdu": [
+                "واقعہ کے مطابق بچہ اسی شخص کے مشابہ پیدا ہوا جس پر الزام تھا۔",
+                "اس مشابہت نے شوہر کی سچائی کی ایک خاموش گواہی فراہم کر دی تھی۔",
+                "تاہم آپ ﷺ نے قانونی طور پر عورت کو سزا نہیں دی کیونکہ لعان ہو چکا تھا۔"
+              ],
+              "english": [
+                "As the incident unfolded, the child was born resembling the accused man.",
+                "This resemblance provided a silent testimony to the husband's truthfulness.",
+                "However, he (ﷺ) did not legally punish the woman because Li'an had been completed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "لعان کا قانونی اثر",
+        "english": "Legal Effect of Li'an"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قسموں کی بالادستی",
+              "english": "Supremacy of the Oaths"
+            },
+            "content": {
+              "urdu": [
+                "شرعی فیصلہ ہمیشہ مشابہت کے بجائے گواہیوں اور قسموں پر ہوتا ہے۔",
+                "اگرچہ بچہ مشابہ تھا، مگر لعان کی وجہ سے حد ساقط ہو چکی تھی۔",
+                "اسلامی قانون میں ظاہری قرائن پر شرعی شہادتوں کو ترجیح دی جاتی ہے۔"
+              ],
+              "english": [
+                "The Shariah ruling is always based on testimonies and oaths rather than resemblance.",
+                "Even though the child resembled the accused, the penalty was waived due to Li'an.",
+                "In Islamic law, legal testimonies are prioritized over circumstantial evidence."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نسب کی نفی",
+              "english": "Negation of Lineage"
+            },
+            "content": {
+              "urdu": [
+                "لعان کے بعد بچہ شوہر کی طرف منسوب نہیں کیا جا سکتا۔",
+                "بچے کا نسب صرف اس کی ماں کے ساتھ جوڑ دیا جاتا ہے۔",
+                "مشابہت کے باوجود قانوناً وہ بچہ اسی کا رہا جس نے لعان کیا تھا۔"
+              ],
+              "english": [
+                "After Li'an, the child cannot be attributed to the husband legally.",
+                "The child's lineage is linked solely to the mother in such cases.",
+                "Despite the resemblance, legally the child remained with the one who performed Li'an (the mother)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خوفِ خدا اور آخرت",
+        "english": "Fear of Allah and the Hereafter"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جھوٹی قسم کی سنگینی",
+              "english": "Gravity of False Oaths"
+            },
+            "content": {
+              "urdu": [
+                "بچے کی مشابہت نے ثابت کیا کہ جھوٹی قسم کتنا بڑا گناہ ہے۔",
+                "انسان دنیاوی سزا سے بچ سکتا ہے مگر اللہ سے کچھ نہیں چھپتا۔",
+                "یہ واقعہ قیامت تک کے لیے جھوٹی قسم کھانے والوں کے لیے نشانِ عبرت ہے۔"
+              ],
+              "english": [
+                "The child's resemblance proved the magnitude of taking a false oath.",
+                "A person may escape worldly punishment, but nothing is hidden from Allah.",
+                "This incident remains a warning for those who take false oaths until Judgment Day."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نبی ﷺ کا طرزِ عمل",
+              "english": "Prophetic Conduct"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ نے مشابہت دیکھ کر بھی قانون کی خلاف ورزی نہیں فرمائی۔",
+                "آپ ﷺ نے ثابت کیا کہ جج صرف دستیاب شرعی دلائل پر فیصلہ کرتا ہے۔",
+                "یہ عدل و انصاف کا اعلیٰ ترین معیار ہے جو آپ ﷺ نے قائم کیا۔"
+              ],
+              "english": [
+                "He (ﷺ) did not violate the legal procedure even after seeing the resemblance.",
+                "He proved that a judge rules only on available Shariah-compliant evidence.",
+                "This represents the highest standard of justice established by the Prophet (ﷺ)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جدید سائنس اور اسلامی قانون",
+        "english": "Modern Science and Islamic Law"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "وراثت اور قرائن",
+              "english": "Heredity and Circumstances"
+            },
+            "content": {
+              "urdu": [
+                "جدید جینیات (Genetics) بھی مشابہت اور نسب کے گہرے تعلق کو مانتی ہے۔",
+                "بچے کی خصلتیں والدین کے ڈی این اے کی عکاسی کرتی ہیں۔",
+                "اسلامی قانون ان قرائن کو اہمیت دیتا ہے مگر فیصلہ ثبوتوں پر کرتا ہے۔"
+              ],
+              "english": [
+                "Modern genetics also recognizes the deep link between resemblance and lineage.",
+                "A child's traits reflect the DNA inherited from the parents.",
+                "Islamic law values these signs but bases the final ruling on formal proof."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدالتی بصیرت",
+              "english": "Judicial Insight"
+            },
+            "content": {
+              "urdu": [
+                "قاضی کو چاہیے کہ وہ فیصلے کے وقت تمام قرائن پر نظر رکھے۔",
+                "مشابہت سے حقیقت سمجھنے میں مدد مل سکتی ہے اگرچہ وہ واحد دلیل نہ ہو۔",
+                "نبی ﷺ کی یہ ہدایت عدالتی بصیرت حاصل کرنے کا بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "A judge should observe all circumstantial evidence during a trial.",
+                "Resemblance can help in understanding the truth, even if it is not the sole proof.",
+                "This guidance from the Prophet (ﷺ) is a prime source for judicial insight."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 979,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/1139"],
+    "kitabId": 8,
+    "inKitabBab": 14,
+    "arabicBook": "بلوغ المرام",
+    "babId": 77
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (1218)‏، وهو جزء من حديث جابر الطويل في صفة حجة النبي صلى الله عليه وسلم.‏",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے امام مسلم (1218) نے روایت کیا ہے۔ یہ سیدنا جابر کی اس طویل روایت کا حصہ ہے جس میں حجۃ الوداع کی تفصیلات مذکور ہیں۔",
+    "english": "Sahih (Authentic). Reported by Muslim (1218). This is a part of the long Hadith of Jabir describing the Prophet's (ﷺ) Farewell Pilgrimage."
+  },
+  "importantWords": [
+    {
+      "arabic": "رِزْقُهُنَّ",
+      "english": "Their provision / food",
+      "urdu": "ان کا رزق / کھانا پینا"
+    },
+    {
+      "arabic": "كِسْوَتُهُنَّ",
+      "english": "Their clothing",
+      "urdu": "ان کا لباس"
+    },
+    {
+      "arabic": "بِالْمَعْرُوفِ",
+      "english": "In a reasonable manner",
+      "urdu": "بھلے طریقے سے / رواج کے مطابق"
+    },
+    {
+      "arabic": "عَلَيْكُمْ",
+      "english": "Upon you (Obligatory)",
+      "urdu": "تم پر (واجب)"
+    },
+    {
+      "arabic": "ذِكْرِ اَلنِّسَاءِ",
+      "english": "Mentioning of women",
+      "urdu": "عورتوں کا ذکر"
+    }
+  ],
+  "summary": {
+    "urdu": "حجۃ الوداع کے موقع پر نبی ﷺ نے بیویوں کے معاشی حقوق پر زور دیا کہ شوہر پر ان کا نان و نفقہ معروف طریقے سے واجب ہے۔",
+    "english": "During the Farewell Pilgrimage, the Prophet (ﷺ) emphasized the financial rights of wives, stating that food and clothing are obligatory upon the husband according to custom."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1218)",
+      "english": "Reported by Muslim (1218)"
+    },
+    {
+      "arabic": "رواه أبو داود (1905)",
+      "english": "Reported by Abu Dawud (1905)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله الأنصاري",
+        "english": "Jabir bin Abdullah al-Ansari"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=XhYlVv_0Q_w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "خطبہ حجۃ الوداع کی اہمیت",
+        "english": "Significance of the Farewell Sermon"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خواتین کے حقوق کا اعلان",
+              "english": "Declaration of Women's Rights"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اپنی زندگی کے آخری بڑے اجتماع میں عورتوں کے حقوق کی وصیت فرمائی۔",
+                "یہ اس بات کی دلیل ہے کہ اسلام میں خاندانی نظام اور خواتین کا تحفظ انتہائی اہم ہے۔",
+                "زمانہ جاہلیت میں عورتوں کو ان کے بنیادی حقوق سے محروم رکھا جاتا تھا، اسلام نے انہیں بحال کیا۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) advised regarding the rights of women during his final major assembly.",
+                "This proves that the family system and protection of women are paramount in Islam.",
+                "In the pre-Islamic era, women were deprived of rights; Islam restored them fully."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اللہ کے نام پر عہد",
+              "english": "Covenant in the Name of Allah"
+            },
+            "content": {
+              "urdu": [
+                "اسی روایت کے دیگر الفاظ میں ہے کہ تم نے انہیں اللہ کی امان پر حاصل کیا ہے۔",
+                "بیوی شوہر کے پاس اللہ کی امانت ہے جس کے حقوق کی ادائیگی لازم ہے۔",
+                "شوہر کو اپنی حاکمیت کا ناجائز فائدہ نہیں اٹھانا چاہیے بلکہ ذمہ داری کا مظاہرہ کرنا چاہیے۔"
+              ],
+              "english": [
+                "Other wordings of this report state that you have taken them as a trust from Allah.",
+                "A wife is a trust from Allah with the husband, and fulfilling her rights is mandatory.",
+                "The husband should not abuse his authority but instead demonstrate responsibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "نفقہ کا شرعی معیار",
+        "english": "Sharia Standard for Maintenance"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معروف طریقے کی وضاحت",
+              "english": "Meaning of 'Al-Ma'ruf'"
+            },
+            "content": {
+              "urdu": [
+                "نفقہ کی مقدار کا تعین معاشرے کے رواج اور شوہر کی استطاعت کے مطابق ہوگا۔",
+                "معروف کا مطلب ہے وہ طریقہ جو عقل اور شریعت میں پسندیدہ اور عام ہو۔",
+                "اس میں نہ تو حد سے زیادہ تنگی ہونی چاہیے اور نہ ہی فضول خرچی کا بوجھ۔"
+              ],
+              "english": [
+                "The amount of maintenance is determined by societal custom and the husband's capacity.",
+                "Al-Ma'ruf refers to a manner that is acceptable to both reason and Sharia.",
+                "It should neither be extremely stingy nor a burden of unnecessary extravagance."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "لازمی ضروریات: رزق اور لباس",
+              "english": "Essential Needs: Food and Clothing"
+            },
+            "content": {
+              "urdu": [
+                "رزق سے مراد روزمرہ کی خوراک اور لباس سے مراد موسمی اور سماجی ضروریات کے کپڑے ہیں۔",
+                "یہ حقوق نکاح کے معاہدے کے بدلے شوہر پر قانونی طور پر واجب ہو جاتے ہیں۔",
+                "اگر شوہر امیر ہے تو نفقہ کا معیار اسی مناسبت سے بہتر ہونا چاہیے۔"
+              ],
+              "english": [
+                "Provision refers to daily food, while clothing includes seasonal and social requirements.",
+                "These rights become legally binding on the husband as part of the marriage contract.",
+                "If the husband is wealthy, the standard of maintenance should be improved accordingly."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی اور عائلی نظم",
+        "english": "Social and Familial Order"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محبت اور ہمدردی کی بنیاد",
+              "english": "Basis of Love and Compassion"
+            },
+            "content": {
+              "urdu": [
+                "نفقہ کی ادائیگی صرف ایک بوجھ نہیں بلکہ باہمی محبت بڑھانے کا ذریعہ ہے۔",
+                "جب بیوی کی ضروریات پوری ہوتی ہیں تو وہ گھر کو سکون کا گہوارہ بناتی ہے۔",
+                "اسلامی تعلیمات کا مقصد گھر کے اندر ایک مضبوط معاشی تحفظ فراہم کرنا ہے۔"
+              ],
+              "english": [
+                "Providing maintenance is not just a burden but a means to increase mutual love.",
+                "When a wife's needs are met, she transforms the home into a sanctuary of peace.",
+                "Islamic teachings aim to provide strong economic security within the household."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شوہر کی معاشی قوامیت",
+              "english": "Husband's Economic Leadership"
+            },
+            "content": {
+              "urdu": [
+                "شوہر کو 'قوام' (نگران) بنانے کی بڑی وجہ نفقہ کی ذمہ داری اٹھانا ہے۔",
+                "عورت کو معاشی تگ و دو سے آزاد کر کے اسے تربیتِ اولاد پر مرکوز رکھا گیا ہے۔",
+                "شوہر کی کمائی میں بیوی کا حصہ اس کے وقار کی ضمانت ہے۔"
+              ],
+              "english": [
+                "The primary reason for making the husband 'Qawwam' (maintainer) is his financial duty.",
+                "By freeing the woman from financial struggle, she can focus on child-rearing.",
+                "The wife's share in the husband's earnings is a guarantee of her dignity."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خلاصہ اور عملی سبق",
+        "english": "Summary and Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سنتِ نبوی پر عمل",
+              "english": "Following the Prophetic Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "اہل و عیال پر خرچ کرنا نفل عبادت اور صدقہ سے افضل قرار دیا گیا ہے۔",
+                "بہترین شوہر وہ ہے جو اپنے گھر والوں کے لیے بہترین خرچ کرنے والا ہو۔",
+                "اس حدیث پر عمل کرنے سے گھریلو تنازعات میں نمایاں کمی آتی ہے۔"
+              ],
+              "english": [
+                "Spending on family is considered superior to voluntary worship or charity.",
+                "The best husband is the one who provides best for his family members.",
+                "Acting upon this Hadith significantly reduces domestic conflicts and disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق کی پاسداری",
+              "english": "Observance of Rights"
+            },
+            "content": {
+              "urdu": [
+                "ہر مرد کو چاہیے کہ وہ اپنی بیوی کے حقوق کو اللہ کا حکم سمجھ کر ادا کرے۔",
+                "نیت اگر اللہ کی رضا ہو تو گھر کا راشن لانا بھی اجر و ثواب کا کام ہے۔",
+                "معاشرے کی بنیاد گھر پر ہے اور گھر کی بنیاد انصاف پر مبنی نفقہ پر ہے۔"
+              ],
+              "english": [
+                "Every man should fulfill his wife's rights as a command from Allah.",
+                "If the intention is to please Allah, buying household groceries is also rewarded.",
+                "The foundation of society is the home, and the home is built on just maintenance."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

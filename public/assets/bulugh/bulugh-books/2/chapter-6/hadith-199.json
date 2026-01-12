@@ -1,0 +1,264 @@
+{
+  "hadithId": 199,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["2", "6"],
+    "kitabId": 2,
+    "inKitabBab": 6,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 16
+  },
+  "name": {
+    "arabic": "وَعَنْهُ قَالَ : قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏- { مَنْ سَمِعَ رَجُلاً يَنْشُدُ ضَالَّةً فِي اَلْمَسْجِدِ فَلْيَقُلْ : لَا رَدَّهَا اَللَّهُ عَلَيْكَ , فَإِنَّ اَلْمَسَاجِدَ لَمْ تُبْنَ لِهَذَا } رَوَاهُ مُسْلِم ٌ",
+    "urdu": " سیدنا ابوہریرہ رضی اللہ عنہ ہی سے یہ حدیث بھی مروی ہے کہ جو کوئی یہ سنے کہ کوئی آدمی مسجد میں اپنی گمشدہ چیز تلاش کر رہا ہے تو سننے والا اسے یہ کہے کہ اللہ کرے وہ چیز تمہیں واپس نہ ملے۔ مسجدیں اس مقصد کے لئے تو نہیں بنائی گئی ہیں۔ (مسلم)",
+    "english": "Narrated from Abu Hurayrah (may Allah be pleased with him): The Messenger of Allah (peace and blessings be upon him) said: \"Whoever hears a man calling out about a lost object in the Mosque, let him say: 'May Allah not restore it to you, for the mosques were not built for this (purpose).\" Reported by Muslim."
+  },
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم في كتاب المساجد ومواضع الصلاة، باب النهي عن نشد الضالة في المسجد وما يقال لمن نشدها (568).",
+    "urdu": "صحیح ہے۔ اسے مسلم نے کتاب المساجد ومواضع الصلاة، باب النهی عن نشد الضالة فی المسجد وما یقال لمن نشدھا (568) میں روایت کیا ہے۔",
+    "english": "Authentic (Sahih). Reported by Muslim in the Book of Mosques and Places of Prayer, Chapter: Prohibition of announcing a lost item in the mosque and what should be said to the one who does so (568)."
+  },
+  "importantWords": [
+    {
+      "arabic": "من سمع",
+      "english": "Whoever hears",
+      "urdu": "جو کوئی سنے"
+    },
+    {
+      "arabic": "ينشد ضالة",
+      "english": "Calling out for a lost object",
+      "urdu": "گمشدہ چیز تلاش کر رہا ہو"
+    },
+    {
+      "arabic": "فليقل",
+      "english": "Let him say",
+      "urdu": "تو اسے کہنا چاہیے"
+    },
+    {
+      "arabic": "لا ردها الله عليك",
+      "english": "May Allah not restore it to you",
+      "urdu": "اللہ تمہیں واپس نہ دے"
+    },
+    {
+      "arabic": "لم تُبنَ لهذا",
+      "english": "Were not built for this",
+      "urdu": "اس مقصد کے لیے نہیں بنائی گئیں"
+    },
+    {
+      "arabic": "المساجد",
+      "english": "The Mosques",
+      "urdu": "مسجدیں"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث مسجد کے تقدس اور اس کے بنیادی مقصد (اللہ کی عبادت اور ذکر) کو بیان کرتی ہے۔ مسجد میں گمشدہ چیز کا اعلان کرنا یا دنیاوی معاملات کی پکار لگانا منع ہے، کیونکہ اس سے عبادت میں خلل آتا ہے۔ جو شخص ایسا کرے اسے تنبیہاً بد دعا دینی چاہیے تاکہ لوگ مساجد کے آداب کو پہچانیں۔",
+    "english": "This Hadith emphasizes the sanctity of the mosque and its primary purpose (the worship and remembrance of Allah). It prohibits announcing lost items or shouting about worldly affairs inside the mosque, as this disrupts worship. The listener is instructed to respond with a form of verbal admonishment (a mild curse) so that people recognize and adhere to the proper etiquette of the mosque."
+  },
+  "references": [
+    {
+      "arabic": "صحيح مسلم، كتاب المساجد ومواضع الصلاة، باب النهي عن نشد الضالة في المسجد (568)",
+      "english": "Sahih Muslim, Book of Mosques and Places of Prayer, Chapter: Prohibition of announcing a lost item in the mosque (568)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F_fGvQk0X9o",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مسجد کا بنیادی مقصد",
+        "english": "The Primary Purpose of the Mosque"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گمشدہ چیز کا اعلان ممنوع",
+              "english": "Prohibition of Announcing Lost Items"
+            },
+            "content": {
+              "urdu": [
+                "نبی صلی اللہ علیہ وسلم نے مسجد میں بلند آواز سے گمشدہ چیز کا اعلان کرنے سے سختی سے منع فرمایا۔",
+                "مسجدیں اللہ کی عبادت، ذکر، اور علم کے حصول کے لیے بنائی گئی ہیں نہ کہ دنیاوی پکاروں کے لیے۔",
+                "اس طرح کے اعلان سے نمازیوں اور ذاکرین کے خشوع میں خلل پیدا ہوتا ہے اور مسجد کا ادب متاثر ہوتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (PBUH) strictly prohibited loudly announcing a lost item inside the mosque.",
+                "Mosques were built for the worship of Allah, remembrance, and the acquisition of knowledge, not for worldly announcements.",
+                "Such announcements disrupt the concentration of worshippers and those engaged in Dhikr, violating the mosque's etiquette."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تنبیہی بد دعا کا حکم",
+              "english": "Command for Admonishing Supplication"
+            },
+            "content": {
+              "urdu": [
+                "جو شخص یہ خلافِ ادب عمل کرے، اسے 'لا ردھا اللہ علیک' کہنا ایک تنبیہی حکم ہے۔",
+                "یہ بد دعا اس شخص کے لیے سزا نہیں بلکہ دوسروں کو مسجد کے تقدس کی تعلیم دینا ہے۔",
+                "اس حکم کا مقصد مسجد کے ماحول کو شور و غل اور دنیاوی باتوں سے پاک رکھنا ہے۔"
+              ],
+              "english": [
+                "The command to say 'May Allah not restore it to you' to the person acting contrary to etiquette is an admonitory instruction.",
+                "This curse is not a punishment for the person but a means of teaching others the sanctity of the mosque.",
+                "The objective of this ruling is to keep the mosque environment free from clamor and worldly chatter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور اخلاقی اصول",
+        "english": "Juristic and Ethical Principles"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مسجد کے مکروہات",
+              "english": "Disliked Acts (Makruhat) in the Mosque"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے گمشدہ چیز کا اعلان، خرید و فروخت، اور شور مچانا مسجد کے مکروہات میں شمار کیا ہے۔",
+                "ان کاموں میں مشغول ہونا، اگرچہ حرام نہیں، لیکن مسجد کے اصل مقصد اور روحانیت کو نقصان پہنچاتا ہے۔",
+                "مسجد میں صرف وہ نفع بخش دنیاوی بات چیت جائز ہے جو بلا ضرورت بلند آواز سے نہ کی جائے۔"
+              ],
+              "english": [
+                "Jurists count announcing lost items, buying/selling, and making noise among the disliked acts (Makruhat) in the mosque.",
+                "Engaging in these acts, though not strictly forbidden, harms the primary purpose and spirituality of the mosque.",
+                "Only beneficial worldly conversation that is not conducted loudly and without necessity is permissible in the mosque."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سخت کلامی کا جواز",
+              "english": "Permissibility of Harsh Speech"
+            },
+            "content": {
+              "urdu": [
+                "عام طور پر کسی مسلمان کے خلاف بد دعا دینا منع ہے، مگر یہاں تنبیہاً اس کی اجازت دی گئی ہے۔",
+                "یہ اس بات کی دلیل ہے کہ مسجد کے آداب کی خلاف ورزی ایک سنگین معاملہ ہے۔",
+                "اس سے معلوم ہوتا ہے کہ 'امر بالمعروف' (اچھی باتوں کا حکم دینا) کے لیے تھوڑی سختی جائز ہے۔"
+              ],
+              "english": [
+                "Generally, cursing a Muslim is prohibited, but here it is allowed for the purpose of admonishment.",
+                "This indicates that violating the etiquette of the mosque is a serious matter.",
+                "It teaches that a slight harshness is permissible for the purpose of 'Amr Bil-Ma'ruf' (enjoining good)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مسجد میں اعلان کی صورتیں",
+        "english": "Forms of Announcement in the Mosque"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "گمشدہ چیز کا اعلان",
+              "english": "Announcing a Lost Item"
+            },
+            "content": {
+              "urdu": [
+                "گمشدہ چیز کا اعلان مسجد کے اندر نہیں بلکہ مسجد کے دروازے یا باہر کیا جانا چاہیے۔",
+                "مسجد میں صرف وہی اعلان جائز ہے جو اجتماعی دینی ضرورت (مثلًا نماز کے وقت کا اعلان) سے متعلق ہو۔",
+                "چیز مل جانے کی خوشخبری دینا یا ملنے والے کو تلاش کرنا بھی اسی حکم کے تحت آتا ہے۔"
+              ],
+              "english": [
+                "The announcement of a lost item should be made outside the mosque or at its door, not inside.",
+                "Only announcements related to collective religious necessity (e.g., prayer times) are permissible in the mosque.",
+                "Announcing good news about finding an item or looking for the finder also falls under this ruling."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دنیاوی معاملات سے اجتناب",
+              "english": "Avoidance of Worldly Matters"
+            },
+            "content": {
+              "urdu": [
+                "یہ اصول مسجد کے اندر دنیاوی معاملات (قرض کی ادائیگی کا مطالبہ، جائیداد کے فیصلے) سے پرہیز کا درس ہے۔",
+                "مسجد روحانیت، یکسوئی اور باطنی سکون کا مرکز ہے، اس لیے اسے دنیا کی ہماہمی سے دور رکھنا چاہیے۔",
+                "مسجد کی ہر حرکت اور ہر بات خالص دینی مقصد کے تحت ہونی چاہیے۔"
+              ],
+              "english": [
+                "This principle teaches avoidance of worldly matters (demanding debt payment, property disputes) inside the mosque.",
+                "The mosque is a center for spirituality, concentration, and inner peace, so it should be kept away from the bustle of the world.",
+                "Every movement and speech in the mosque should be solely for a religious purpose."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور پیغام",
+        "english": "Practical Lesson and Message"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مساجد کا احترام",
+              "english": "Respect for Mosques"
+            },
+            "content": {
+              "urdu": [
+                "ہمیں چاہیے کہ مسجد کے داخل ہونے کے ساتھ ہی اپنے دل اور زبان کو دنیاوی باتوں سے روک لیں۔",
+                "مسجد میں ادب، خاموشی اور صرف ذکر و عبادت کا ماحول قائم رکھنا ہم سب کی ذمہ داری ہے۔",
+                "یہی احترام ہمیں نبی صلی اللہ علیہ وسلم کے فرمان پر عمل کرنے کی ترغیب دیتا ہے۔"
+              ],
+              "english": [
+                "We must restrain our hearts and tongues from worldly talk immediately upon entering the mosque.",
+                "It is the responsibility of all of us to maintain an atmosphere of respect, silence, and only remembrance/worship in the mosque.",
+                "This reverence encourages us to act upon the command of the Prophet (PBUH)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "شرعی علم کا نفاذ",
+              "english": "Implementation of Shari'ah Knowledge"
+            },
+            "content": {
+              "urdu": [
+                "اس حدیث پر عمل درآمد کے لیے مسجد کے منتظمین کو واضح اعلانات کرنے چاہئیں۔",
+                "جہالت کی وجہ سے غلطی کرنے والوں کو نرمی سے سنت کی تعلیم دینی چاہیے۔",
+                "یہ حکم ہمیں سکھاتا ہے کہ شریعت کے احکامات میں سستی نہیں ہونی چاہیے۔"
+              ],
+              "english": [
+                "To implement this Hadith, mosque administrators should make clear announcements.",
+                "Those who err out of ignorance should be gently educated about the Sunnah.",
+                "This ruling teaches us that there should be no negligence in upholding the injunctions of the Shari'ah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

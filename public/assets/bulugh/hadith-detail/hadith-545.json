@@ -1,0 +1,259 @@
+{
+  "hadithId": 545,
+  "hadithNo": 19,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/545"],
+    "kitabId": 5,
+    "inKitabBab": 1,
+    "arabicBook": "بلوغ المرام - كتاب الصيام",
+    "babId": 33
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (2380)، والترمذي (720)، وابن ماجه (1676)، وأحمد (2/498)، وصححه الحاكم والدارقطني والألباني.",
+    "urdu": "صحیح۔ اسے ابوداؤد (2380)، ترمذی (720)، ابن ماجہ (1676) اور احمد نے روایت کیا ہے۔ اگرچہ امام احمد نے اس پر کلام کیا ہے، لیکن دیگر محدثین جیسے حاکم، دارقطنی اور البانی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih (Authentic). Reported by Abu Dawud (2380), At-Tirmidhi (720), Ibn Majah (1676), and Ahmad (2/498). Although Imam Ahmad noted a defect, it was authenticated by Al-Hakim, Ad-Daraqutni, and Al-Albani."
+  },
+  "importantWords": [
+    {
+      "arabic": "ذَرَعَهُ",
+      "english": "Overcome / Spontaneous",
+      "urdu": "غالب آ جانا / خود بخود"
+    },
+    {
+      "arabic": "الْقَيْءُ",
+      "english": "Vomiting",
+      "urdu": "قے / الٹی"
+    },
+    {
+      "arabic": "اسْتَقَاءَ",
+      "english": "Vomited intentionally",
+      "urdu": "جان بوجھ کر قے کی"
+    },
+    {
+      "arabic": "قَضَاءَ",
+      "english": "Making up the fast",
+      "urdu": "قضا کرنا"
+    },
+    {
+      "arabic": "أَعَلَّهُ",
+      "english": "Found a defect in it",
+      "urdu": "اسے معلول قرار دیا"
+    }
+  ],
+  "summary": {
+    "urdu": "روزے کے دوران اگر قے خود بخود آ جائے تو روزہ نہیں ٹوٹتا، لیکن اگر جان بوجھ کر قے کی جائے تو روزہ ٹوٹ جاتا ہے اور اس کی قضا لازم ہوتی ہے۔",
+    "english": "Involuntary vomiting does not break the fast, but inducing vomit intentionally invalidates the fast and requires a make-up (Qada)."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2380)",
+      "english": "Reported by Abu Dawud (2380)"
+    },
+    {
+      "arabic": "رواه الترمذي (720)",
+      "english": "Reported by At-Tirmidhi (720)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dusi"
+      },
+      "slug": "abu-hurairah-al-dusi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9_mK02-v6w",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قے اور روزے کے احکام",
+        "english": "Rulings on Vomiting and Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غیر ارادی قے کا حکم",
+              "english": "Involuntary Vomiting"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی شخص کو طبیعت کی خرابی کی وجہ سے خود بخود قے آ جائے تو اس کا روزہ نہیں ٹوٹتا۔",
+                "ایسی صورت میں اسے روزہ مکمل کرنا چاہیے اور اس پر کوئی قضا لازم نہیں ہے۔",
+                "یہ اللہ کی طرف سے ایک معذوری ہے جس میں بندے کا اپنا اختیار شامل نہیں ہوتا۔"
+              ],
+              "english": [
+                "If someone vomits involuntarily due to illness or nausea, the fast remains valid.",
+                "In such a case, the person should continue their fast, and no Qada is required.",
+                "This is considered an excuse beyond human control, which Islam accommodates."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جان بوجھ کر قے کرنا",
+              "english": "Intentional Vomiting"
+            },
+            "content": {
+              "urdu": [
+                "اگر کوئی شخص انگلی ڈال کر یا کسی اور طریقے سے جان بوجھ کر قے کرے گا تو روزہ ٹوٹ جائے گا۔",
+                "اس صورت میں اس پر اس روزے کی قضا (بعد میں ایک روزہ رکھنا) لازم ہے۔",
+                "قصداً قے کرنا روزے کی حالت میں بدن سے ایسی چیز نکالنا ہے جو قوت کو ختم کرتی ہے۔"
+              ],
+              "english": [
+                "Inducing vomit intentionally by any means invalidates the fast.",
+                "The person must make up for that specific day (Qada) after Ramadan.",
+                "Deliberate vomiting is seen as an act that removes strength from the body during the fast."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں اور محدثین کا کلام",
+        "english": "Juristic Nuances and Scholarly Critique"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حدیث کی اسنادی بحث",
+              "english": "Scholarly Discussion on the Chain"
+            },
+            "content": {
+              "urdu": [
+                "امام احمد نے اس روایت کو معلول کہا ہے کیونکہ ان کے نزدیک اس کی سند میں اضطراب ہے۔",
+                "تاہم، امام دارقطنی اور حاکم نے اس کے راویوں کو ثقہ قرار دے کر اسے قوی مانا ہے۔",
+                "اکثر اہل علم کا عمل اسی حدیث کے مفہوم پر ہے کہ قصداً قے سے روزہ ٹوٹ جاتا ہے۔"
+              ],
+              "english": [
+                "Imam Ahmad noted a defect because he perceived inconsistency in the chain.",
+                "However, Ad-Daraqutni and Al-Hakim graded it strong because the narrators are reliable.",
+                "The majority of scholars act upon this Hadith regarding intentional vomiting."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قے کے بعد نگلنا",
+              "english": "Swallowing After Vomit"
+            },
+            "content": {
+              "urdu": [
+                "اگر قے منہ تک آ کر خود بخود واپس چلی جائے تو روزہ نہیں ٹوٹتا۔",
+                "لیکن اگر قے منہ میں آ گئی اور اسے قدرت کے باوجود جان بوجھ کر نگل لیا تو روزہ ٹوٹ جائے گا۔",
+                "روزہ دار کو چاہیے کہ قے آنے کی صورت میں منہ کو اچھی طرح صاف کر لے۔"
+              ],
+              "english": [
+                "If vomit reaches the mouth and goes back down involuntarily, the fast is not broken.",
+                "However, if one intentionally swallows the vomit after it reached the mouth, the fast is void.",
+                "A fasting person should rinse their mouth well after vomiting to ensure cleanliness."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طبی ضرورت اور روزہ",
+        "english": "Medical Necessity and Fasting"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زہر یا تکلیف کی صورت",
+              "english": "Poisoning or Extreme Pain"
+            },
+            "content": {
+              "urdu": [
+                "اگر کسی نے غلطی سے کوئی زہریلی چیز کھا لی اور اسے نکالنے کے لیے قے ضروری ہو تو وہ قے کر سکتا ہے۔",
+                "ایسی صورت میں روزہ ٹوٹ جائے گا لیکن جان بچانا فرض ہے۔",
+                "اس شخص کو بعد میں صرف اس روزے کی قضا کرنی ہوگی۔"
+              ],
+              "english": [
+                "If someone accidentally consumes poison and inducing vomit is medically necessary, they may do so.",
+                "The fast will be broken, but saving a life is a religious obligation.",
+                "The individual only needs to perform Qada for that day later on."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "متلی اور روزے کی کیفیت",
+              "english": "Nausea and the State of Fasting"
+            },
+            "content": {
+              "urdu": [
+                "صرف متلی (Nausea) محسوس ہونے سے روزہ نہیں ٹوٹتا۔",
+                "جب تک مادہ پیٹ سے باہر خارج نہ ہو جائے، روزہ درست رہتا ہے۔",
+                "روزہ دار کو چاہیے کہ متلی کی صورت میں آرام کرے تاکہ قے کی نوبت نہ آئے۔"
+              ],
+              "english": [
+                "Merely feeling nauseous does not invalidate the fast.",
+                "As long as no matter is expelled from the stomach, the fast remains valid.",
+                "A fasting person should rest if they feel nauseous to prevent the need to vomit."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دین میں آسانی",
+              "english": "Ease in Religion"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث واضح کرتی ہے کہ اسلام میں مجبوری اور غیر ارادی افعال پر پکڑ نہیں ہے۔",
+                "اللہ تعالیٰ بندوں سے ان کی وسعت سے زیادہ مطالبہ نہیں کرتا۔",
+                "غیر ارادی قے پر قضا نہ ہونا اللہ کی طرف سے ایک بڑی سہولت ہے۔"
+              ],
+              "english": [
+                "This Hadith highlights that Islam does not penalize involuntary or forced actions.",
+                "Allah does not burden a soul beyond its capacity.",
+                "The lack of Qada for involuntary vomiting is a significant concession from Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عبادت میں سچائی",
+              "english": "Sincerity in Worship"
+            },
+            "content": {
+              "urdu": [
+                "جان بوجھ کر قے کرنا روزے کی روح کے خلاف ہے اگر اس کی شرعی ضرورت نہ ہو۔",
+                "ایک مسلمان کو اپنی عبادت کے تحفظ کے لیے احتیاطی تدابیر اختیار کرنی چاہئیں۔",
+                "احکام کی پیروی کرنا ہی بندگی کا اصل جوہر ہے۔"
+              ],
+              "english": [
+                "Inducing vomit without a legal necessity contradicts the spirit of fasting.",
+                "A Muslim should take precautionary measures to protect their worship.",
+                "Following the established rulings is the true essence of servitude to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

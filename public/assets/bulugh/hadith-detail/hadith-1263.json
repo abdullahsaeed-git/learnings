@@ -1,0 +1,183 @@
+{
+  "hadithId": 1263,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/muslim:2699"],
+    "kitabId": 16,
+    "inKitabBab": 2,
+    "arabicBook": "كتاب الجامع",
+    "babId": 103
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه مسلم (2699).",
+    "urdu": "یہ حدیث صحیح ہے اور اسے امام مسلم نے اپنی صحیح (2699) میں روایت کیا ہے۔",
+    "english": "Sahih. Reported by Muslim (2699)."
+  },
+  "importantWords": [
+    {
+      "arabic": "نَفَّسَ",
+      "english": "Removed / Relieved",
+      "urdu": "دور کی / راحت پہنچائی"
+    },
+    {
+      "arabic": "كُرْبَةً",
+      "english": "Grief / Distress",
+      "urdu": "مصیبت / سختی"
+    },
+    {
+      "arabic": "مُعْسِرٍ",
+      "english": "Needy / Debtor",
+      "urdu": "تنگ دست / مقروض"
+    },
+    {
+      "arabic": "سَتَرَ",
+      "english": "Concealed / Shielded",
+      "urdu": "پردہ پوشی کی"
+    },
+    {
+      "arabic": "عَوْنِ",
+      "english": "Aid / Help",
+      "urdu": "مدد / تعاون"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث باہمی ہمدردی، سماجی تعاون اور دوسروں کے عیب چھپانے کی عظیم فضیلت بیان کرتی ہے کہ جزا عمل ہی کی جنس سے ملتی ہے۔",
+    "english": "This Hadith emphasizes mutual compassion, helping those in debt, and concealing the faults of others, illustrating that Allah's reward corresponds to the nature of one's actions."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (2699)",
+      "english": "Reported by Muslim (2699)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9K8Z2o3T4Y",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مصیبت زدہ کی داد رسی",
+        "english": "Relieving the Distressed"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دنیاوی پریشانی اور اخروی بدلہ",
+              "english": "Worldly Distress and Hereafter's Reward"
+            },
+            "content": {
+              "urdu": [
+                "کسی کی مالی، جسمانی یا ذہنی پریشانی دور کرنا صدقہ ہے۔",
+                "قیامت کی سختیاں دنیا کی تکلیفوں سے کہیں زیادہ ہولناک ہوں گی۔",
+                "اللہ کا وعدہ ہے کہ دوسروں کو سکھ دینے والے کو قیامت میں سکون ملے گا۔"
+              ],
+              "english": [
+                "Relieving someone's financial, physical, or mental distress is a form of charity.",
+                "The hardships of Judgment Day will be far more terrifying than worldly ones.",
+                "Allah promises peace on that Day to those who brought ease to others in this life."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تنگ دست کے ساتھ رعایت",
+        "english": "Alleviating the Needy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قرض اور معاشی آسانی",
+              "english": "Debt and Economic Ease"
+            },
+            "content": {
+              "urdu": [
+                "تنگ دست مقروض کو مہلت دینا یا قرض معاف کرنا اس حدیث کا بنیادی پہلو ہے۔",
+                "آسانی پیدا کرنے سے مراد معاملات میں نرمی اور شفقت برتنا ہے۔",
+                "اللہ ایسے شخص کے لیے دونوں جہانوں کے بند دروازے کھول دیتا ہے۔"
+              ],
+              "english": [
+                "Giving more time to a debtor or forgiving a debt is a core aspect of this Hadith.",
+                "'Creating ease' refers to being gentle and compassionate in dealings.",
+                "Allah opens the doors of both worlds for such a person."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "پردہ پوشی کی اہمیت",
+        "english": "The Importance of Concealing Faults"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عیوب پر پردہ ڈالنا",
+              "english": "Concealing Defects"
+            },
+            "content": {
+              "urdu": [
+                "کسی کی لغزش یا گناہ کا چرچا کرنے کے بجائے اسے تنہائی میں سمجھانا بہتر ہے۔",
+                "دوسروں کی عزت اچھالنے والا خود ذلیل ہوتا ہے۔",
+                "پردہ پوشی سے معاشرے میں حیا اور باہمی اعتماد قائم رہتا ہے۔"
+              ],
+              "english": [
+                "It is better to advise someone privately than to publicize their mistakes or sins.",
+                "One who disgraces others will eventually face humiliation themselves.",
+                "Concealing faults maintains modesty and mutual trust within society."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اللہ کی مدد کا راز",
+        "english": "The Secret to Allah's Aid"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی تعاون کا فلسفہ",
+              "english": "The Philosophy of Mutual Aid"
+            },
+            "content": {
+              "urdu": [
+                "اگر آپ چاہتے ہیں کہ اللہ آپ کی مدد کرے، تو آپ مخلوقِ خدا کی مدد کریں۔",
+                "انسانیت کی خدمت اللہ کے قرب کا سب سے مؤثر ذریعہ ہے۔",
+                "ایک دوسرے کا بازو بننا اسلامی معاشرت کی روح ہے۔"
+              ],
+              "english": [
+                "If you want Allah's help, then help His creation.",
+                "Serving humanity is the most effective way to attain closeness to Allah.",
+                "Supporting one another is the soul of Islamic social life."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

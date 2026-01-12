@@ -1,0 +1,264 @@
+{
+  "hadithId": 1166,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["/bulugh/12/44"],
+    "kitabId": 12,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب الأضحية",
+    "babId": 94
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه البخاري (1707)، ومسلم (1317). وهذا لفظ مسلم.",
+    "urdu": "یہ حدیث صحیح ہے اور بخاری (1707) و مسلم (1317) میں مروی ہے۔ یہ لفظ صحیح مسلم کے ہیں۔",
+    "english": "Sahih. Reported by Al-Bukhari (1707) and Muslim (1317). This wording is from Sahih Muslim."
+  },
+  "importantWords": [
+    {
+      "arabic": "بُدْنِهِ",
+      "english": "Sacrificial Camels",
+      "urdu": "قربانی کے اونٹ"
+    },
+    {
+      "arabic": "أُقَسِّمَ",
+      "english": "Distribute",
+      "urdu": "تقسیم کروں"
+    },
+    {
+      "arabic": "جُلُودَهَا",
+      "english": "Their Skins",
+      "urdu": "ان کی کھالیں"
+    },
+    {
+      "arabic": "جِلَالَهَا",
+      "english": "Coverings",
+      "urdu": "جھول / کپڑے"
+    },
+    {
+      "arabic": "جِزَارَتِهَا",
+      "english": "Butchery / Wages",
+      "urdu": "قصاب کی مزدوری"
+    },
+    {
+      "arabic": "اَلْمَسَاكِينِ",
+      "english": "The Needy",
+      "urdu": "غریب و مساکین"
+    }
+  ],
+  "summary": {
+    "urdu": "قربانی کے جانور کا گوشت، کھال اور دیگر اشیاء صدقہ کرنی چاہئیں اور قصاب کی مزدوری الگ سے دی جائے، قربانی کے گوشت یا کھال سے نہیں کی جا سکتی۔",
+    "english": "The meat, skin, and coverings of sacrificial animals must be given to the needy; the butcher's fee must be paid separately and not from the animal itself."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1707)",
+      "english": "Sahih al-Bukhari (1707)"
+    },
+    {
+      "arabic": "صحيح مسلم (1317)",
+      "english": "Sahih Muslim (1317)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "علي بن أبي طالب",
+        "english": "Ali bin Abi Talib"
+      },
+      "slug": "ali-bin-abi-talib"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_Q-vF1o7fI",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "قربانی کے اجزاء کی تقسیم",
+        "english": "Distribution of Sacrificial Parts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کھال اور گوشت کا صدقہ",
+              "english": "Charity of Meat and Skin"
+            },
+            "content": {
+              "urdu": [
+                "قربانی کا سارا نفع غریبوں اور مساکین کے لیے وقف ہونا چاہیے۔",
+                "صرف گوشت ہی نہیں بلکہ کھال اور جھول بھی صدقہ کرنا سنت ہے۔",
+                "اس سے معاشرے کے پسماندہ طبقات کی مالی مدد اور خوشی مقصود ہے۔"
+              ],
+              "english": [
+                "All benefits of the sacrifice should be dedicated to the poor and needy.",
+                "It is Sunnah to give away the meat, the skin, and even the coverings.",
+                "This aims to provide financial aid and joy to the marginalized classes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جھول (جلال) کی تقسیم",
+              "english": "Distribution of Animal Coverings"
+            },
+            "content": {
+              "urdu": [
+                "جانور پر ڈالے گئے کپڑے بھی قربانی کے متعلقہ سامان میں شامل ہیں۔",
+                "انہیں فروخت کرنے کے بجائے ضرورت مندوں میں بانٹنا افضل عمل ہے۔",
+                "یہ دین میں سخاوت اور مکمل ایثار کی ایک اعلیٰ ترین مثال ہے۔"
+              ],
+              "english": [
+                "The cloths placed over the animal are also part of the sacrificial assets.",
+                "Distributing them to the needy is better than selling them for profit.",
+                "This is a supreme example of generosity and total sacrifice in religion."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قصاب کی اجرت کا مسئلہ",
+        "english": "The Issue of Butcher's Wages"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مزدوری میں گوشت دینا",
+              "english": "Giving Meat as Wages"
+            },
+            "content": {
+              "urdu": [
+                "قصاب کی مزدوری کے عوض قربانی کا گوشت یا کھال دینا جائز نہیں۔",
+                "یہ عمل درحقیقت قربانی کے ایک حصے کو فروخت کرنے کے مترادف ہے۔",
+                "مزدوری ایک علیحدہ معاہدہ ہے جسے اپنے ذاتی مال سے ادا کرنا چاہیے۔"
+              ],
+              "english": [
+                "It is not permissible to give sacrificial meat or skin as wages.",
+                "This act is effectively equivalent to selling a portion of the sacrifice.",
+                "Wages are a separate contract that must be paid from personal funds."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجرت کے علاوہ ہدیہ",
+              "english": "Gift in Addition to Wages"
+            },
+            "content": {
+              "urdu": [
+                "اگر قصاب کو پوری اجرت دے دی جائے تو اسے ہدیہ دیا جا سکتا ہے۔",
+                "بطور مسکین یا دوست قصاب گوشت حاصل کرنے کا حقدار ہو سکتا ہے۔",
+                "شرط یہ ہے کہ یہ گوشت اس کی طے شدہ مزدوری کا بدل نہ ہو۔"
+              ],
+              "english": [
+                "If the full wage is paid, the butcher can be given meat as a gift.",
+                "The butcher may receive meat in the capacity of a friend or a needy person.",
+                "The condition is that this meat must not be a substitute for his fee."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "قربانی کی روح اور تقویٰ",
+        "english": "Spirit of Sacrifice and Piety"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "خالص اللہ کے لیے",
+              "english": "Purely for Allah"
+            },
+            "content": {
+              "urdu": [
+                "قربانی کا مقصد اللہ کی رضا ہے نہ کہ دنیاوی فائدہ حاصل کرنا۔",
+                "جانور کے کسی بھی حصے سے مالی بچت کرنا نیت کے خلاف ہے۔",
+                "پورا جانور اور اس کا سامان اللہ کے نام پر قربان ہونا چاہیے۔"
+              ],
+              "english": [
+                "The goal of sacrifice is Allah's pleasure, not gaining worldly benefit.",
+                "Attempting to save money from any part of the animal contradicts the intent.",
+                "The entire animal and its gear should be sacrificed in Allah's name."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "امانتداری کی اہمیت",
+              "english": "Importance of Trustworthiness"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا علی کو نگران مقرر کرنا امانت کی حفاظت کی دلیل ہے۔",
+                "قربانی کے گوشت کی صحیح تقسیم ایک بڑی مذہبی ذمہ داری ہے۔",
+                "نگران کو چاہیے کہ وہ مستحقین تک ان کا حق پوری دیانتداری سے پہنچائے۔"
+              ],
+              "english": [
+                "Appointing Ali as a supervisor proves the importance of safeguarding trusts.",
+                "The correct distribution of sacrificial meat is a major religious duty.",
+                "The supervisor must deliver the rights of the needy with total honesty."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی فوائد",
+        "english": "Social Benefits"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غربت کا خاتمہ",
+              "english": "Alleviating Poverty"
+            },
+            "content": {
+              "urdu": [
+                "قربانی کے ذریعے سال میں ایک بار غریبوں کو بہترین خوراک ملتی ہے۔",
+                "کھالوں کی تقسیم سے فلاحی اداروں کو بڑی مالی امداد حاصل ہوتی ہے۔",
+                "یہ عمل معاشرے میں معاشی توازن پیدا کرنے کا ایک بہترین ذریعہ ہے۔"
+              ],
+              "english": [
+                "Through sacrifice, the poor receive high-quality food once a year.",
+                "Distributing skins provides significant financial support to welfare institutes.",
+                "This act is an excellent way to create economic balance in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "محبت اور بھائی چارہ",
+              "english": "Love and Brotherhood"
+            },
+            "content": {
+              "urdu": [
+                "گوشت کی تقسیم سے مسلمانوں کے درمیان باہمی محبت بڑھتی ہے۔",
+                "یہ سنت ہمیں ایثار اور دوسروں کے لیے جینے کا سبق دیتی ہے۔",
+                "امیر اور غریب کا ایک ہی دسترخوان پر ہونا اسلامی مساوات ہے۔"
+              ],
+              "english": [
+                "The distribution of meat increases mutual love among Muslims.",
+                "This Sunnah teaches us selflessness and living for the sake of others.",
+                "The rich and poor sharing the same table reflects Islamic equality."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

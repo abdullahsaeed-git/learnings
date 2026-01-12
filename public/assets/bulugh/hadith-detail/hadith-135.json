@@ -1,0 +1,281 @@
+{
+  "hadithId": 135,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": ["1:2:7"],
+    "kitabId": 2,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب الصلاة",
+    "babId": 11
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (579)‏، ومسلم (608)‏.‏ ورواه مسلم (609) عن عائشة ولفظه: \"من أدرك من العصر سجدة قبل أن تغرب الشمس، أو من الصبح قبل أن تطلع فقد أدركها\" والسجدة إنما هي الركعة.‏ ",
+    "urdu": "صحیح۔ اسے بخاری (579) اور مسلم (608) نے روایت کیا ہے۔ اور مسلم نے عائشہ رضی اللہ عنہا سے (609) پر بھی روایت کیا، جس کے الفاظ ہیں: ”جس نے سورج غروب ہونے سے پہلے عصر کی ایک سجدہ (رکعت) پا لیا، یا سورج طلوع ہونے سے پہلے صبح کا ایک سجدہ (رکعت) پا لیا، تو اس نے اس نماز کو پا لیا۔“ اور سجدہ سے مراد صرف رکعت ہی ہے۔",
+    "english": "Authentic (Sahih). Reported by Al-Bukhari (579) and Muslim (608). It was also reported by Muslim (609) from 'Aishah with the wording: 'Whoever catches one prostration (sajdah) of 'Asr before the sun sets, or one prostration of Fajr before the sun rises, he has caught it.' And the prostration here means the rak'ah."
+  },
+  "importantWords": [
+    {
+      "arabic": "أَدْرَكَ",
+      "english": "Catches/reaches",
+      "urdu": "پا لیا / حاصل کیا"
+    },
+    {
+      "arabic": "رَكْعَةً",
+      "english": "One unit (Rak'ah)",
+      "urdu": "ایک رکعت"
+    },
+    {
+      "arabic": "اَلصُّبْحِ",
+      "english": "Fajr (Dawn Prayer)",
+      "urdu": "فجر کی نماز"
+    },
+    {
+      "arabic": "اَلْعَصْرِ",
+      "english": "Asr (Afternoon Prayer)",
+      "urdu": "عصر کی نماز"
+    },
+    {
+      "arabic": "تَطْلُعَ اَلشَّمْسُ",
+      "english": "The sun rises",
+      "urdu": "سورج طلوع ہو"
+    },
+    {
+      "arabic": "تَغْرُبَ اَلشَّمْسُ",
+      "english": "The sun sets",
+      "urdu": "سورج غروب ہو"
+    },
+    {
+      "arabic": "سَجْدَةً",
+      "english": "A prostration",
+      "urdu": "ایک سجدہ"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث نماز فجر اور نماز عصر کے آخری وقت کی حد بندی بیان کرتی ہے، اور یہ اصول سکھاتی ہے کہ اگر نماز کا وقت ختم ہونے (طلوع یا غروب آفتاب) سے پہلے کم از کم ایک رکعت بھی ادا کر لی جائے تو پوری نماز وقت کے اندر شمار ہوگی اور وہ ادا ہو جائے گی۔",
+    "english": "This Hadith defines the deadline for Fajr and 'Asr prayers, establishing the legal principle that if at least one unit (rak'ah) of the prayer is performed before the time officially ends (sunrise or sunset), the entire prayer is considered to have been performed on time."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (579)",
+      "english": "Reported by Al-Bukhari (579)"
+    },
+    {
+      "arabic": "رواه مسلم (608)",
+      "english": "Reported by Muslim (608)"
+    },
+    {
+      "arabic": "رواه مسلم (609) عن عائشة",
+      "english": "Reported by Muslim (609) from 'Aishah"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة",
+        "english": "Abu Hurayrah"
+      },
+      "slug": "abu-hurayrah"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=D-h0g8Z7a9c",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Authentic (Sahih)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "نماز کے وقت کی حد بندی",
+        "english": "Defining the Prayer Time Boundary"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آخری وقت کا ادراک",
+              "english": "Catching the Final Time"
+            },
+            "content": {
+              "urdu": [
+                "حدیث یہ فقہی اصول واضح کرتی ہے کہ نماز کا وقت اس وقت تک باقی رہتا ہے جب تک نماز کی ایک رکعت بھی ادا کی جا سکے۔",
+                "فجر کا وقت طلوع آفتاب سے پہلے اور عصر کا وقت غروب آفتاب سے پہلے ختم ہوتا ہے۔",
+                "اگر ایک رکعت وقت کے اندر ادا ہو گئی تو باقی نماز قضا نہیں، بلکہ ادا ہی شمار ہو گی۔"
+              ],
+              "english": [
+                "The Hadith clarifies the jurisprudential rule that the prayer time remains until one rak'ah of the prayer can be performed.",
+                "Fajr time ends before sunrise, and 'Asr time ends before sunset.",
+                "If one rak'ah is performed within the time, the rest of the prayer is considered 'adā' (performed on time), not 'qaḍā' (missed)."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فقہی دلیل",
+              "english": "Jurisprudential Evidence"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء نے اس حدیث سے یہ اصول اخذ کیا ہے کہ نماز کا ادراک کم از کم ایک رکعت سے ہوتا ہے۔",
+                "یہ اصول ان لوگوں کے لیے آسانی پیدا کرتا ہے جو آخری وقت میں جاگتے یا مصروف ہوتے ہیں۔",
+                "اگر وقت ختم ہونے کے بعد پہلی رکعت شروع کی جائے تو وہ نماز قضا شمار ہوگی۔"
+              ],
+              "english": [
+                "Jurists have derived the principle from this Hadith that the prayer is considered caught by performing at least one rak'ah.",
+                "This rule provides ease for those who wake up late or are occupied near the deadline.",
+                "If the first rak'ah is started after the time has expired, the prayer is considered qaḍā (missed)."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "رکعت بمقابلہ سجدہ",
+        "english": "Rak'ah Versus Sajdah (Prostration)"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "الفاظ کی وضاحت",
+              "english": "Clarification of Terms"
+            },
+            "content": {
+              "urdu": [
+                "حدیث عائشہؓ میں 'سجدہ' کا لفظ استعمال ہوا، جس کی وضاحت خود نبی ﷺ نے 'رکعت' سے فرمائی۔",
+                "'سجدہ' کا اطلاق بعض اوقات پوری رکعت پر ہوتا ہے کیونکہ یہ نماز کا سب سے اہم رکن ہے۔",
+                "اس وضاحت سے دونوں روایات میں ہم آہنگی پیدا ہوتی ہے اور معنی واضح ہوتا ہے۔"
+              ],
+              "english": [
+                "The word 'Sajdah' (prostration) was used in 'Aishah's narration, which the Prophet (ﷺ) himself clarified to mean 'Rak'ah'.",
+                "'Sajdah' is sometimes applied to the entire rak'ah because it is the most crucial pillar of the prayer.",
+                "This clarification harmonizes both narrations and makes the meaning clear."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "رکعت کا معیار",
+              "english": "The Standard for a Rak'ah"
+            },
+            "content": {
+              "urdu": [
+                "نماز کا وقت پانے کے لیے ضروری ہے کہ رکوع اور سجدے کے ساتھ مکمل ایک رکعت ادا ہو جائے۔",
+                "اگر کوئی شخص آخری لمحے میں صرف تکبیر تحریمہ کہہ لے اور وقت ختم ہو جائے تو نماز نہیں ہوگی۔",
+                "ایک رکعت کی ادائیگی نماز کے وقت کو یقینی بنانے کی کم از کم حد ہے۔"
+              ],
+              "english": [
+                "To catch the prayer time, it is essential that one full rak'ah, including bowing (Rukū') and prostration (Sujūd), is performed.",
+                "If a person merely pronounces the opening takbīr at the last moment and the time expires, the prayer is not valid.",
+                "Performing one rak'ah is the minimum threshold for confirming the prayer time."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق اور تنبیہ",
+        "english": "Practical Lesson and Admonition"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز کی حفاظت",
+              "english": "Guarding the Prayer"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث اس بات کی تنبیہ کرتی ہے کہ نماز کو آخری وقت میں تاخیر سے پڑھنا خطرناک ہے۔",
+                "مومن کو چاہیے کہ وہ نماز کو اس کے فضیلت والے وقت میں ادا کرے نہ کہ آخری لمحات میں۔",
+                "آخری وقت میں نماز پڑھنا صرف شدید مجبوری کی حالت میں ہی روا ہے۔"
+              ],
+              "english": [
+                "This Hadith warns against the dangerous practice of delaying the prayer until the last moment.",
+                "A believer should perform the prayer during its preferred time, not the final moments.",
+                "Praying at the last minute is only permissible in cases of extreme necessity or compulsion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اجر و عذاب",
+              "english": "Reward and Punishment"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ ایک رکعت سے نماز ادا ہو جاتی ہے، لیکن بغیر عذر کے تاخیر کرنا گناہ کا باعث ہے۔",
+                "جو شخص اس وقت میں نماز ادا کرتا ہے اسے تاخیر کا گناہ ملے گا، مگر نماز ادا شمار ہوگی۔",
+                "اس حکم کا مقصد وقت فوت ہونے کے بعد نماز کے وجوب کی وضاحت کرنا ہے۔"
+              ],
+              "english": [
+                "Although the prayer is considered performed with one rak'ah, delaying it without an excuse is sinful.",
+                "The person who prays at this time will incur the sin of delay, yet the prayer itself is considered valid.",
+                "The purpose of this ruling is to clarify the obligation of the prayer near the time's expiration."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عمومی فقہی اصول",
+        "english": "General Juristic Principle"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دیگر نمازوں پر اطلاق",
+              "english": "Application to Other Prayers"
+            },
+            "content": {
+              "urdu": [
+                "جمہور فقہاء نے اس اصول کو تمام نمازوں (ظہر، مغرب، عشاء) پر بھی لاگو کیا ہے جن کا وقت محدود ہوتا ہے۔",
+                "جس نماز کے وقت کے اندر کم از کم ایک مکمل رکعت ادا کر لی جائے، وہ نماز وقتی ادا مانی جائے گی۔",
+                "یہ اصول اسلام میں آسانی اور امت پر رحمت کا مظہر ہے۔"
+              ],
+              "english": [
+                "The majority of jurists have applied this principle to all other mandatory prayers (Zuhr, Maghrib, 'Isha) whose times are delimited.",
+                "Any prayer where at least one complete rak'ah is performed within its time is considered to have been performed on time ('adā').",
+                "This principle reflects the ease in Islam and mercy upon the Ummah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "وقت کی حرمت",
+              "english": "Sanctity of the Time"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث نماز کے وقت کے احترام اور اس کی حرمت کو واضح کرتی ہے۔",
+                "طلوع اور غروب کا وقت ممنوعہ اوقات ہیں جن میں نفلی نماز مکروہ ہے۔",
+                "فرض نماز کا وقت اگرچہ اس ممنوع وقت کو چھو لے تب بھی اس کی ادائیگی ضروری ہے۔"
+              ],
+              "english": [
+                "This Hadith clarifies the respect and sanctity of the prayer time.",
+                "The times of sunrise and sunset are prohibited times when voluntary prayer is disliked (Makrūh).",
+                "If the time for an obligatory prayer touches this prohibited period, its performance is still necessary."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

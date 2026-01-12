@@ -1,0 +1,266 @@
+{
+  "hadithId": 701,
+  "hadithNo": 7,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/muslim:1530"
+    ],
+    "kitabId": 7,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب البيوع",
+    "babId": 44
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه مسلم (1530)، والصبرة هي الكومة المجتمعة من الطعام المجهولة القدر. والحديث يدل على تحريم بيع الربوي بمثله جزافاً.",
+    "urdu": "صحیح۔ اسے امام مسلم نے اپنی صحیح (1530) میں روایت کیا ہے۔ 'صبرہ' سے مراد غلے یا کھجور کا وہ ڈھیر ہے جس کی مقدار معلوم نہ ہو۔ یہ ربا الفضل سے بچنے کی ایک بنیادی دلیل ہے۔",
+    "english": "Sahih. Reported by Muslim (1530). 'Al-Subrah' refers to a heap of foodstuff of unknown quantity. The Hadith prohibits selling ribawi items (like dates) for their own kind without exact equality."
+  },
+  "importantWords": [
+    {
+      "arabic": "الصُّبْرَةِ",
+      "english": "Heap / Pile",
+      "urdu": "ڈھیر"
+    },
+    {
+      "arabic": "التَّمْرِ",
+      "english": "Dates",
+      "urdu": "کھجور"
+    },
+    {
+      "arabic": "مَكِيلُهَا",
+      "english": "Its measurement",
+      "urdu": "اس کی مقدار / ناپ"
+    },
+    {
+      "arabic": "الْمُسَمَّى",
+      "english": "Specified / Named",
+      "urdu": "متعین / معلوم"
+    },
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    },
+    {
+      "arabic": "الْكَيْلِ",
+      "english": "Measuring / Volume",
+      "urdu": "ناپنا / پیمانہ"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں ربا (سود) سے بچنے کا اصول بیان کیا گیا ہے کہ ایک ہی جنس کی چیزوں کا تبادلہ کرتے وقت دونوں طرف کی مقدار کا برابر اور معلوم ہونا ضروری ہے، محض اندازہ کافی نہیں۔",
+    "english": "This Hadith establishes a rule to avoid Riba: when exchanging items of the same genus, both quantities must be known and equal; estimation is not sufficient."
+  },
+  "references": [
+    {
+      "arabic": "رواه مسلم (1530)",
+      "english": "Reported by Muslim (1530)"
+    },
+    {
+      "arabic": "كتاب البيوع - باب تحريم بيع الصبرة من التمر",
+      "english": "Book of Transactions - Chapter: Prohibition of selling a heap of dates"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R_iUuN3Pz_M",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ربا الفضل سے بچاؤ",
+        "english": "Prevention of Riba al-Fadl"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برابری کی شرط",
+              "english": "Condition of Equality"
+    },
+            "content": {
+              "urdu": [
+                "جب ایک ہی جنس کی اشیاء (جیسے کھجور) کا تبادلہ ہو تو برابری لازمی ہے۔",
+                "اگر ایک طرف ڈھیر ہو اور دوسری طرف ناپی ہوئی مقدار، تو برابری مشکوک ہو جاتی ہے۔",
+                "اسلامی قانون میں شک کی بنیاد پر ہونے والی زیادتی کو بھی سود قرار دیا گیا ہے۔"
+              ],
+              "english": [
+                "Equality is mandatory when exchanging items of the same genus, such as dates.",
+                "If one side is a heap and the other is a measured amount, equality is uncertain.",
+                "In Islamic law, any potential excess based on uncertainty is classified as Riba."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جہالت اور غرر کی ممانعت",
+              "english": "Prohibition of Ignorance and Gharar"
+            },
+            "content": {
+              "urdu": [
+                "سودے کے وقت مبیع (چیز) کی مقدار کا علم نہ ہونا 'جہالت' کہلاتا ہے۔",
+                "اندازے سے کیا گیا سودا 'بیعِ جزاف' ہے جو ربا کے معاملات میں ممنوع ہے۔",
+                "شریعت ہر ایسے معاملے کو روکتی ہے جس میں کسی ایک فریق کے دھوکہ کھانے کا خدشہ ہو۔"
+              ],
+              "english": [
+                "Not knowing the exact quantity of goods at the time of sale is termed 'Jahalah'.",
+                "Transactions based on estimation are forbidden in the context of Ribawi items.",
+                "Sharia prevents any dealing where there is a risk of one party being deceived."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تجارتی شفافیت",
+        "english": "Commercial Transparency"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ناپ تول کی اہمیت",
+              "english": "Importance of Measurement"
+            },
+            "content": {
+              "urdu": [
+                "قرآن و سنت نے ناپ تول میں انصاف کرنے پر بہت زور دیا ہے۔",
+                "ڈھیر کو معین مقدار کے بدلے بیچنا ناپ تول کے اصولوں کی خلاف ورزی ہے۔",
+                "شفافیت سے ہی معاشرے میں معاشی استحکام اور باہمی اعتماد پیدا ہوتا ہے۔"
+              ],
+              "english": [
+                "The Quran and Sunnah emphasize establishing justice in weights and measures.",
+                "Selling a heap for a specified amount violates the principles of precise measurement.",
+                "Transparency is essential for building economic stability and mutual trust in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جھگڑے کا سدِ باب",
+              "english": "Eliminating Potential Disputes"
+            },
+            "content": {
+              "urdu": [
+                "مبہم سودے بعد میں فریقین کے درمیان لڑائی اور دشمنی کا باعث بنتے ہیں۔",
+                "اگر ڈھیر کم نکل آئے تو خریدار اور زیادہ نکل آئے تو بیچنے والا پچھتاتا ہے۔",
+                "اسلام چاہتا ہے کہ سودا ہونے کے بعد دونوں فریق مکمل طور پر مطمئن ہوں۔"
+              ],
+              "english": [
+                "Ambiguous deals lead to conflicts and animosity between trading parties later on.",
+                "If the heap turns out to be less, the buyer regrets; if more, the seller regrets.",
+                "Islam aims for both parties to be completely satisfied after the transaction."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں",
+        "english": "Juristic Nuances"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بیعِ عرايا کا استثناء",
+              "english": "Exception of Bay' al-Araya"
+            },
+            "content": {
+              "urdu": [
+                "ضرورت کی بنیاد پر 'عرايا' (درخت پر لگی کھجور کا تبادلہ) میں مخصوص رعایت دی گئی ہے۔",
+                "عام تجارتی حالات میں اس حدیث کا حکم حتمی اور واجب العمل ہے۔",
+                "فقہاء کے نزدیک ربا کے معاملے میں اندازہ بھی حقیقت میں کمی بیشی کے برابر ہے۔"
+              ],
+              "english": [
+                "A specific concession exists for 'Araya' (exchanging dates on trees) based on need.",
+                "In general commercial conditions, the ruling of this Hadith is final and binding.",
+                "Jurists hold that estimation in Riba-prone items is equivalent to actual inequality."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مختلف اجناس کا حکم",
+              "english": "Ruling on Different Genus"
+            },
+            "content": {
+              "urdu": [
+                "اگر کھجور کو گندم کے بدلے بیچا جائے تو ڈھیر کی صورت میں بیع جائز ہو سکتی ہے۔",
+                "ممانعت تب ہے جب دونوں طرف ایک ہی جنس کی چیز موجود ہو۔",
+                "جنس بدل جانے سے برابری کی شرط ختم ہو جاتی ہے مگر نقد ہونا ضروری رہتا ہے۔"
+              ],
+              "english": [
+                "If dates are sold for wheat, selling by the heap may be permissible.",
+                "The prohibition specifically applies when both items are of the same kind.",
+                "Changing the genus removes the equality rule, though spot delivery remains required."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اخلاقی و تربیتی سبق",
+        "english": "Ethical and Moral Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی فکر",
+              "english": "Concern for Halal Provision"
+            },
+            "content": {
+              "urdu": [
+                "ایک مسلمان کو اپنے مال میں تھوڑی سی مشتبہ چیز بھی شامل نہیں کرنی چاہیے۔",
+                "سود کے شبہ سے بچنا تقویٰ کی اعلیٰ ترین مثال ہے۔",
+                "دیانتدارانہ تجارت اللہ کے ہاں بہت بڑے اجر کا باعث ہے۔"
+              ],
+              "english": [
+                "A Muslim should not allow even a slight doubtful element into their wealth.",
+                "Avoiding the suspicion of usury is a prime example of true God-consciousness.",
+                "Honest trading leads to immense rewards and blessings from Allah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اتباعِ سنت میں برکت",
+              "english": "Blessing in Following Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ کے بتائے ہوئے معاشی اصولوں میں ہی انسانیت کی فلاح ہے۔",
+                "ان احکامات پر عمل کرنے سے بازار میں عدل و انصاف قائم ہوتا ہے۔",
+                "سنت کی پیروی انسان کو معاشی تنگی اور پریشانیوں سے بچاتی ہے۔"
+              ],
+              "english": [
+                "Humanity's success lies in the economic principles taught by the Prophet (PBUH).",
+                "Acting on these instructions establishes fairness and justice in the marketplace.",
+                "Following the Sunnah protects a person from economic distress and anxieties."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

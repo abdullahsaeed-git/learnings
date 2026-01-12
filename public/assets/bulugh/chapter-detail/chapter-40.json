@@ -1,0 +1,358 @@
+{
+  "chapId": 40,
+  "bookId": 6,
+  "summary": {
+    "urdu": [""],
+    "english": [""]
+  },
+  "description": {
+    "urdu": " ",
+    "english": " "
+  },
+  "hadithRange": {
+    "from": 607,
+    "to": 644
+  },
+  "hadiths": [
+    {
+      "id": 607,
+      "name": {
+        "arabic": "وَعَنْ جَابِرِ بْنِ عَبْدِ اَللَّهِ رَضِيَ اَللَّهُ عَنْهُمَا: { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-حَجَّ, فَخَرَجْنَا مَعَهُ, حَتَّى أَتَيْنَا ذَا الْحُلَيْفَةِ, فَوَلَدَتْ أَسْمَاءُ بِنْتُ عُمَيْسٍ, فَقَالَ: \" اِغْتَسِلِي وَاسْتَثْفِرِي بِثَوْبٍ, وَأَحْرِمِي \" ... } رَوَاهُ مُسْلِمٌ مُطَوَّلاً ",
+        "urdu": "سیدنا جابر بن عبداللہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے (حجۃ الوداع کا) حج کیا تو ہم آپ کے ساتھ نکلے۔ ذوالحلیفہ پہنچے تو اسماء بنت عمیس رضی اللہ عنہا کے ہاں بچہ پیدا ہوا۔ آپ صلی اللہ علیہ وسلم نے فرمایا: ”غسل کر لو اور کپڑے کا لنگوٹ باندھ کر احرام باندھ لو۔“ پھر آپ صلی اللہ علیہ وسلم نے مسجد میں نماز پڑھی اور اپنی اونٹنی قصواء پر سوار ہوئے... (اور مکمل حج کے مناسک ادا فرمائے)۔ (مسلم)",
+        "english": "Narrated Jabir bin 'Abdullah (RA): The Messenger of Allah (ﷺ) performed Hajj and we went out with him. When we reached Dhul-Hulaifah, Asma' bint 'Umais (RA) gave birth. He (ﷺ) said: \"Take a bath, use a cloth as a pad (to prevent bleeding), and enter the state of Ihram.\" The Prophet (ﷺ) then prayed in the mosque, mounted al-Qaswa (his she-camel)... (and the Hadith continues to describe the entire Hajj rituals)."
+      }
+    },
+
+    {
+      "id": 608,
+      "name": {
+        "arabic": "وَعَنْ خُزَيْمَةَ بْنِ ثَابِتٍ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-كَانَ إِذَا فَرَغَ مِنْ تَلْبِيَتِهِ فِي حَجٍّ أَوْ عُمْرَةٍ سأَلَ اَللَّهَ رِضْوَانَهُ وَالْجَنَّةَ وَاسْتَعَاذَ بِرَحْمَتِهِ مِنَ اَلنَّارِ } رَوَاهُ اَلشَّافِعِيُّ بِإِسْنَادٍ ضَعِيفٍ",
+        "urdu": "سیدنا خزیمہ بن ثابت رضی اللہ عنہ سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم جب حج یا عمرہ میں تلبیہ (یعنی لبیک) کہنے سے فارغ ہوتے تو اللہ تعالیٰ سے اس کی رضامندی اور جنت طلب کرتے اور اس کی رحمت کے ساتھ آگ سے پناہ مانگتے۔ اسے امام شافعی رحمہ اللہ نے ضعیف سند سے روایت کیا ہے۔",
+        "english": "Narrated Khuzaymah bin Thabit (RA): When the Prophet (ﷺ) finished his Talbiyah (during Hajj or 'Umrah), he would ask Allah for His Pleasure and Paradise, and seek refuge in His Mercy from the Hellfire. [Reported by ash-Shafi'i with a weak chain]."
+      }
+    },
+
+    {
+      "id": 609,
+      "name": {
+        "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ نَحَرْتُ هَاهُنَا, وَمِنًى كُلُّهَا مَنْحَرٌ, فَانْحَرُوا فِي رِحَالِكُمْ, وَوَقَفْتُ هَاهُنَا وَعَرَفَةُ كُلُّهَا مَوْقِفٌ, وَوَقَفْتُ هَاهُنَا وَجَمْعٌ كُلُّهَا مَوْقِفٌ } رَوَاهُ مُسْلِمٌ",
+        "urdu": "سیدنا جابر بن عبداللہ رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”میں نے (بڑے شیطان کے قریب) اس جگہ قربانی کی ہے، مگر منی سارے کا سارا قربان گاہ ہے۔ لہذا تم اپنے اپنے ٹھہرنے کے مقامات پر قربانی کر لو، اور میں نے اس جگہ (صخرات کے پاس) قیام کیا ہے مگر عرفات کا سارا میدان جائے قیام ہے، اور میں نے یہاں (مشعر حرام کے پاس) قیام کیا مگر جمع (مزدلفہ) سارا جائے قیام ہے۔“ (مسلم)",
+        "english": "Narrated Jabir (RA): Allah's Messenger (ﷺ) said: \"I have sacrificed (the animals) here, but the whole of Mina is a place of sacrifice; so sacrifice in your camps. And I stood here (at Arafat), but the whole of Arafat is a place of standing. And I stood here (at Muzdalifah), but the whole of Jam' (Muzdalifah) is a place of standing.\""
+      }
+    },
+
+    {
+      "id": 610,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا: { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-لَمَّا جَاءَ إِلَى مَكَّةَ دَخَلَهَا مِنْ أَعْلَاهَا, وَخَرَجَ مِنْ أَسْفَلِهَا } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم جب (حجۃ الوداع کے موقع پر) مکہ میں داخل ہوئے تو مکہ کی بالائی جانب سے داخل ہوئے اور جب (واپس جانے کے لیے) مکہ سے نکلے تو زیریں حصے سے نکلے۔ (بخاری و مسلم)",
+        "english": "Narrated 'Aishah (RA): When the Prophet (ﷺ) came to Makkah, he entered it from its upper side and left it from its lower side. [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 611,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا: { أَنَّهُ كَانَ لَا يَقْدُمُ مَكَّةَ إِلَّا بَاتَ بِذِي طُوَى حَتَّى يُصْبِحَ وَيَغْتَسِلَ, وَيَذْكُرُ ذَلِكَ عِنْدَ اَلنَّبِيِّ ‏- صلى الله عليه وسلم ‏-} مُتَّفَقٌ عَلَيْهِ ",
+        "urdu": "سیدنا عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ وہ جب بھی مکہ میں (حج یا عمرہ کے لیے) تشریف لاتے تو (مکہ کے قریب) ”ذی طویٰ“ کے مقام پر رات گزارتے یہاں تک کہ صبح ہو جاتی، پھر غسل فرماتے اور وہ ذکر کرتے تھے کہ نبی کریم صلی اللہ علیہ وسلم بھی اسی طرح کیا کرتے تھے۔ (بخاری و مسلم)",
+        "english": "Narrated Ibn 'Umar (RA): Whenever he came to Makkah, he used to spend the night at Dhu Tuwa until morning and then take a bath. He mentioned that the Prophet (ﷺ) used to do the same. [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 612,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا: { أَنَّهُ كَانَ يُقَبِّلُ اَلْحَجَرَ اَلْأَسْوَدَ وَيَسْجُدُ عَلَيْهِ } رَوَاهُ اَلْحَاكِمُ مَرْفُوعًا, وَالْبَيْهَقِيُّ مَوْقُوفًا",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ آپ حجر اسود کو بوسہ دیتے اور اس کے اوپر سجدہ کرتے (اپنی پیشانی رکھتے)۔ اسے حاکم نے مرفوع اور بیہقی نے موقوف روایت کیا ہے۔",
+        "english": "Narrated Ibn 'Abbas (RA): He used to kiss the Black Stone and prostrate (place his forehead) upon it. [Reported by Al-Hakim as Marfu' (reaching the Prophet) and by Al-Baihaqi as Mauquf (the action of the companion)]."
+      }
+    },
+
+    {
+      "id": 613,
+      "name": {
+        "arabic": "وَعَنْهُ قَالَ: أَمَرَهُمْ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-{ أَنْ يَرْمُلُوا ثَلَاثَةَ أَشْوَاطٍ وَيَمْشُوا أَرْبَعًا, مَا بَيْنَ اَلرُّكْنَيْنِ } مُتَّفَقٌ عَلَيْهِ ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے ہی روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے صحابہ کرام کو حکم دیا کہ وہ (عمرہ کے طواف کے) پہلے تین چکروں میں رمل کریں (تیز قدم چلیں) اور باقی چار چکروں میں (معمول کے مطابق) چلیں، اور دونوں رکنوں (رکن یمانی اور حجر اسود) کے درمیان بھی معمول کے مطابق چلیں۔ (بخاری و مسلم)",
+        "english": "Narrated Ibn 'Abbas (RA): The Prophet (ﷺ) commanded them (the Companions) to trot (Ramal) in the first three circuits and walk in the remaining four, and to walk normally between the two corners (Ar-Rukn al-Yamani and Al-Hajar al-Aswad). [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 614,
+      "name": {
+        "arabic": "وَعَنْ عُمَرَ ‏- رضى الله عنه ‏- { أَنَّهُ قَبَّلَ اَلْحَجَرَ [ اَلْأَسْوَدَ ] فَقَالَ: إِنِّي أَعْلَمُ أَنَّكَ حَجَرٌ لَا تَضُرُّ وَلَا تَنْفَعُ, وَلَوْلَا أَنِّي رَأَيْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يُقَبِّلُكَ مَا قَبَّلْتُكَ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا عمر رضی اللہ عنہ سے مروی ہے کہ انہوں نے حجرِ اسود کو بوسہ دیا اور فرمایا: ”بیشک میں جانتا ہوں کہ تو محض ایک پتھر ہے، نہ تو کوئی نقصان پہنچا سکتا ہے اور نہ ہی کوئی نفع، اور اگر میں نے اللہ کے رسول اللہ صلی اللہ علیہ وسلم کو تجھے بوسہ دیتے ہوئے نہ دیکھا ہوتا تو میں کبھی تجھے بوسہ نہ دیتا۔“ (بخاری و مسلم)",
+        "english": "Narrated Umar (RA): He kissed the Black Stone and said: 'I know that you are only a stone which can neither do any harm nor good; and had I not seen Allah's Messenger (ﷺ) kissing you, I would not have kissed you.' [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 615,
+      "name": {
+        "arabic": " وَعَنْهُ قَالَ: { لَمْ أَرَ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَسْتَلِمُ مِنْ اَلْبَيْتِ غَيْرَ اَلرُّكْنَيْنِ اَلْيَمَانِيَيْنِ } رَوَاهُ مُسْلِمٌ ",
+        "urdu": "سیدنا عبداللہ بن عمر رضی اللہ عنہما ہی سے روایت ہے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو بیت اللہ کے (چاروں کونوں میں سے) سوائے دونوں یمانی رکنوں کے کسی اور حصے کو چھوتے ہوئے نہیں دیکھا۔ (مسلم) ",
+        "english": "Narrated Ibn 'Umar (RA): I never saw the Messenger of Allah (ﷺ) touching any part of the House (Ka'bah) except the two Yemeni corners (the Yemeni Corner and the Black Stone). [Reported by Muslim]."
+      }
+    },
+
+    {
+      "id": 616,
+      "name": {
+        "arabic": "وَعَنْ عُمَرَ ‏- رضى الله عنه ‏- { أَنَّهُ قَبَّلَ اَلْحَجَرَ [ اَلْأَسْوَدَ ] فَقَالَ: إِنِّي أَعْلَمُ أَنَّكَ حَجَرٌ لَا تَضُرُّ وَلَا تَنْفَعُ, وَلَوْلَا أَنِّي رَأَيْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يُقَبِّلُكَ مَا قَبَّلْتُكَ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا عمر رضی اللہ عنہ سے مروی ہے کہ انہوں نے حجرِ اسود کو بوسہ دیا اور فرمایا: ”بیشک میں جانتا ہوں کہ تو محض ایک پتھر ہے، نہ تو کوئی نقصان پہنچا سکتا ہے اور نہ ہی کوئی نفع، اور اگر میں نے اللہ کے رسول اللہ صلی اللہ علیہ وسلم کو تجھے بوسہ دیتے ہوئے نہ دیکھا ہوتا تو میں کبھی تجھے بوسہ نہ دیتا۔“ (بخاری و مسلم)",
+        "english": "Narrated 'Umar (RA): He kissed the Black Stone and said: 'I know for sure that you are only a stone which can neither do any harm nor good; and had I not seen Allah's Messenger (ﷺ) kissing you, I would not have kissed you.' [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 617,
+      "name": {
+        "arabic": "وَعَنْ أَبِي اَلطُّفَيْلِ ‏- رضى الله عنه ‏- قَالَ: { رأَيْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَطُوفُ بِالْبَيْتِ وَيَسْتَلِمُ اَلرُّكْنَ بِمِحْجَنٍ مَعَهُ, وَيُقْبِّلُ اَلْمِحْجَنَ } رَوَاهُ مُسْلِمٌ ",
+        "urdu": "سیدنا ابوطفیل رضی اللہ عنہ سے روایت ہے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو بیت اللہ کا طواف کرتے دیکھا، آپ صلی اللہ علیہ وسلم کے پاس ایک مڑی ہوئی چھڑی (محجن) تھی جس سے آپ رکن (حجر اسود) کا استلام کرتے (اسے چھوتے) تھے اور پھر اس چھڑی کو چوم لیتے تھے۔ (مسلم)",
+        "english": "Narrated Abu At-Tufail (RA): I saw the Messenger of Allah (ﷺ) performing Tawaf around the House (Ka'bah), touching the Corner (the Black Stone) with a hooked staff (Mihjan) that he had with him, and then kissing the staff. [Reported by Muslim]."
+      }
+    },
+
+    {
+      "id": 618,
+      "name": {
+        "arabic": "وَعَنْ يَعْلَى بْنِ أُمَيَّةَ ‏- رضى الله عنه ‏- قَالَ: { طَافَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-مُضْطَبِعًا بِبُرْدٍ أَخْضَرَ } رَوَاهُ اَلْخَمْسَةُ إِلَّا النَّسَائِيَّ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ",
+        "urdu": "سیدنا یعلیٰ بن امیہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے (طوافِ قدوم کے دوران) ایک سبز چادر میں ’اضطباع‘ کیا (یعنی چادر کو دائیں بغل کے نیچے سے نکال کر بائیں کندھے پر ڈالا ہوا تھا)۔ اسے نسائی کے سوا پانچوں نے روایت کیا ہے اور ترمذی نے اسے صحیح قرار دیا ہے۔",
+        "english": "Narrated Ya'la bin Umayyah (RA): The Prophet (ﷺ) performed Tawaf (al-Qudum) while wearing a green cloak in the fashion of Idtiba' (underneath his right armpit and over his left shoulder)."
+      }
+    },
+
+    {
+      "id": 619,
+      "name": {
+        "arabic": " وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- قَالَ: { كَانَ يُهِلُّ مِنَّا اَلْمُهِلُّ فَلَا يُنْكِرُ عَلَيْهِ, وَيُكَبِّرُ اَلْمُكَبِّرُ فَلَا يُنْكِرُ عَلَيْهِ } مُتَّفَقٌ عَلَيْهِ ",
+        "urdu": "سیدنا انس بن مالک رضی اللہ عنہ سے روایت ہے کہ (حج کے سفر میں) ہم میں سے کوئی تلبیہ (لبیک) پکارتا تو اس پر کوئی اعتراض نہ کیا جاتا اور ہم میں سے کوئی تکبیر (اللہ اکبر) کہتا تو اس پر بھی کوئی اعتراض نہ کیا جاتا۔ (بخاری و مسلم)",
+        "english": "Narrated Anas (RA): Some of us used to recite the Talbiyah (Labbayk) and no one objected to that, and others used to recite the Takbir (Allahu Akbar) and no one objected to that either. [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 620,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { بَعَثَنِي رَسُولُ اَللَّهِ صلى الله عليه وسلم فِي اَلثَّقَلِ, أَوْ قَالَ فِي اَلضَّعَفَةِ مِنْ جَمْعٍ بِلَيْلٍ }",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ مجھے رسول اللہ صلی اللہ علیہ وسلم نے (حجۃ الوداع کے موقع پر) سامان کے ساتھ، یا آپ نے فرمایا کہ کمزور لوگوں کے ساتھ رات ہی کو مزدلفہ سے (منیٰ کی جانب) روانہ کر دیا تھا۔ (بخاری و مسلم) یہ الفاظ مسلم کے ہیں۔",
+        "english": "Narrated Ibn 'Abbas (RA): Allah's Messenger (ﷺ) sent me ahead with the luggage (or he said with the weak ones) from Muzdalifah (to Mina) during the night. [Agreed upon; the wording is Muslim's]."
+      }
+    },
+
+    {
+      "id": 621,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { اِسْتَأْذَنَتْ سَوْدَةُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-لَيْلَةَ اَلْمُزْدَلِفَةِ: أَنْ تَدْفَعَ قَبْلَهُ, وَكَانَتْ ثَبِطَةً ‏-تَعْنِي: ثَقِيلَةً‏- فَأَذِنَ لَهَا } مُتَّفَقٌ عَلَيْهِمَا",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے روایت ہے کہ (حجۃ الوداع کے موقع پر) سیدہ سودہ رضی اللہ عنہا نے مزدلفہ کی رات رسول اللہ صلی اللہ علیہ وسلم سے اجازت مانگی کہ وہ آپ ﷺ سے پہلے (منیٰ کے لیے) روانہ ہو جائیں، کیونکہ وہ بھاری جسم والی تھیں (اور سست رفتار تھیں)۔ چنانچہ آپ ﷺ نے انہیں اجازت دے دی۔ (بخاری و مسلم)",
+        "english": "Narrated 'Aisha (RA): Sauda (RA) asked the permission of the Messenger of Allah (ﷺ) on the night of al-Muzdalifah to leave (for Mina) before him, as she was a slow (heavy) woman; and he gave her permission. [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 622,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: قَالَ لَنَا رَسُولُ اَللَّهِ صلى الله عليه وسلم { لَا تَرْمُوا اَلْجَمْرَةَ حَتَّى تَطْلُعَ اَلشَّمْسُ } رَوَاهُ اَلْخَمْسَةُ إِلَّا النَّسَائِيَّ, وَفِيهِ اِنْقِطَاعٌ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں (جو کہ خاندان کے بچے اور کمزور تھے) حکم دیا کہ ”طلوع آفتاب سے پہلے کنکریاں نہ مارو۔“ اسے نسائی کے علاوہ پانچوں نے روایت کیا ہے اس کی سند میں انقطاع ہے۔",
+        "english": "Narrated Ibn 'Abbas (RA): Allah's Messenger (ﷺ) said to us (the younger and weaker members of his family): 'Do not throw pebbles at the Jamrah until the sun rises.' [Reported by the five except an-Nasa'i; and it has an interruption (inqita') in its chain]."
+      }
+    },
+
+    {
+      "id": 623,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { أَرْسَلَ اَلنَّبِيُّ ‏- صلى الله عليه وسلم ‏-بِأُمِّ سَلَمَةَ لَيْلَةَ اَلنَّحْرِ, فَرَمَتِ اَلْجَمْرَةَ قَبْلَ اَلْفَجْرِ, ثُمَّ مَضَتْ فَأَفَاضَتْ } رَوَاهُ أَبُو دَاوُدَ, وَإِسْنَادُهُ عَلَى شَرْطِ مُسْلِمٍ ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے (حجۃ الوداع کے موقع پر) سیدہ ام سلمہ رضی اللہ عنہا کو 10 ذوالحجہ کی رات (مزدلفہ سے منیٰ کی طرف) پہلے ہی بھیج دیا تھا۔ انہوں نے فجر طلوع ہونے سے پہلے ہی جمرہ (عقبہ) کو کنکریاں ماریں اور پھر وہاں سے (مکہ) جا کر طوافِ افاضہ کر لیا۔ (ابوداؤد، اس کی سند مسلم کی شرط پر ہے)۔",
+        "english": "Narrated 'Aisha (RA): The Prophet (ﷺ) sent Umm Salamah (RA) to Mina on the night of the Sacrifice (10th Dhul-Hijjah). She stoned the Jamrah before dawn and then went on to perform the Tawaf al-Ifadah. [Reported by Abu Dawud; its chain is according to the criteria of Muslim]."
+      }
+    },
+
+    {
+      "id": 624,
+      "name": {
+        "arabic": "وَعَنْ عُرْوَةَ بْنِ مُضَرِّسٍ ‏- رضى الله عنه ‏- قَالَ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ مَنْ شَهِدَ صَلَاتَنَا هَذِهِ ‏-يَعْنِي: بِالْمُزْدَلِفَةِ‏- فَوَقَفَ مَعَنَا حَتَّى نَدْفَعَ, وَقَدْ وَقَفَ بِعَرَفَةَ قَبْلَ ذَلِكَ لَيْلاً أَوْ نَهَارًا, فَقَدْ تَمَّ حَجُّهُ وَقَضَى تَفَثَهُ } رَوَاهُ اَلْخَمْسَةُ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ, وَابْنُ خُزَيْمَةَ",
+        "urdu": "سیدنا عروہ بن مضرس رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جو کوئی مزدلفہ میں ہماری اس نماز (فجر) میں شامل ہوا اور ہمارے ساتھ وقوف کیا یہاں تک کہ ہم نے کوچ کیا، اور اس سے قبل وہ عرفات میں رات یا دن کے کسی بھی حصہ میں قیام کر چکا ہو، تو اس کا حج مکمل ہو گیا اور اس نے اپنی میل کچیل اتار لی (یعنی احرام کی پابندیوں سے نکلنے کا وقت آگیا)۔“",
+        "english": "Narrated 'Urwah bin Mudarris (RA): Allah's Messenger (ﷺ) said: 'Whoever attends this prayer of ours (at al-Muzdalifah) and stays with us until we leave, and has stayed at 'Arafat before that by night or day, his Hajj is complete and he has concluded his rites (of Ihram).'"
+      }
+    },
+
+    {
+      "id": 625,
+      "name": {
+        "arabic": " وَعَنْ عُمَرَ ‏- رضى الله عنه ‏- قَالَ: { إِنَّ اَلْمُشْرِكِينَ كَانُوا لَا يُفِيضُونَ حَتَّى تَطْلُعَ اَلشَّمْسُ، وَيَقُولُونَ: أَشْرِقْ ثَبِيرُ وَأَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-خَالَفَهُمْ, ثُمَّ أَفَاضَ قَبْلَ أَنْ تَطْلُعَ اَلشَّمْسُ } رَوَاهُ اَلْبُخَارِيُّ ",
+        "urdu": "سیدنا عمر رضی اللہ عنہ کا بیان ہے کہ (زمانہ جاہلیت میں) مشرکین طلوعِ آفتاب سے پہلے (مزدلفہ سے منیٰ کی طرف) واپس نہیں لوٹتے تھے اور کہتے تھے: ”اے ثبیر (پہاڑ)! روشن ہو جا (تاکہ ہم روانہ ہوں)“، اور بیشک نبی کریم صلی اللہ علیہ وسلم نے ان کی مخالفت کی اور سورج نکلنے سے پہلے ہی (مزدلفہ سے) کوچ فرما گئے۔ (بخاری)",
+        "english": "Narrated 'Umar (RA): The polytheists did not used to leave (Muzdalifah) until the sun had risen, and they used to say: \"Let the sun shine on (Mount) Thabir.\" But the Prophet (ﷺ) acted differently from them and left before the sun rose. [Reported by Al-Bukhari]."
+      }
+    },
+
+    {
+      "id": 626,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ وَأُسَامَةَ بْنِ زَيْدٍ رَضِيَ اَللَّهُ عَنْهُمْ قَالَا: { لَمْ يَزَلِ اَلنَّبِيُّ صلى الله عليه وسلم يُلَبِّي حَتَّى رَمَى جَمْرَةَ اَلْعَقَبَةِ } رَوَاهُ اَلْبُخَارِيُّ",
+        "urdu": "سیدنا ابن عباس اور اسامہ بن زید رضی اللہ عنہما دونوں سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم (حجۃ الوداع کے موقع پر) مسلسل تلبیہ (لبیک) پکارتے رہے یہاں تک کہ آپ نے جمرہ عقبہ (بڑے شیطان) کو کنکریاں ماریں۔ (بخاری)",
+        "english": "Narrated Ibn 'Abbas and Usama bin Zaid (RA): The Prophet (ﷺ) kept on reciting the Talbiyah until he reached the Jamrat-ul-'Aqabah (where he threw the pebbles). [Reported by al-Bukhari]."
+      }
+    },
+
+    {
+      "id": 627,
+      "name": {
+        "arabic": " وَعَنْ عَبْدِ اَللَّهِ بْنِ مَسْعُودٍ ‏- رضى الله عنه ‏- { أَنَّهُ جَعَلَ اَلْبَيْتَ عَنْ يَسَارِهِ, وَمِنًى عَنْ يَمِينِهِ, وَرَمَى اَلْجَمْرَةَ بِسَبْعِ حَصَيَاتٍ وَقَالَ: هَذَا مَقَامُ اَلَّذِي أُنْزِلَتْ عَلَيْهِ سُورَةُ اَلْبَقَرَةِ } مُتَّفَقٌ عَلَيْهِ.‏ ",
+        "urdu": "سیدنا عبداللہ بن مسعود رضی اللہ عنہما سے مروی ہے کہ (جب وہ جمرہ عقبہ کے پاس پہنچے تو) انہوں نے بیت اللہ کو اپنی بائیں جانب اور منٰی کو اپنی دائیں جانب رکھا اور جمرہ کو سات کنکریاں ماریں اور فرمایا: ”یہ اس ہستی (محمد ﷺ) کے کھڑے ہونے کی جگہ ہے جس پر سورۃ البقرہ نازل ہوئی تھی۔“ (بخاری و مسلم)",
+        "english": "Narrated 'Abdullah bin Mas'ud (RA): He stood so that the House (Ka'bah) was on his left and Mina was on his right, and threw seven pebbles at the Jamrah (al-Aqaba), and then said: \"This was the place where the one to whom Surah al-Baqarah was revealed (ﷺ) stood.\" [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 628,
+      "name": {
+        "arabic": "وَعَنْ جَابِرٍ ‏- رضى الله عنه ‏- قَالَ: { رَمَى رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-اَلْجَمْرَةَ يَوْمَ اَلنَّحْرِ ضُحًى, وَأَمَّا بَعْدَ ذَلِكَ فَإِذَا زَالَتْ اَلشَّمْسُ } رَوَاهُ مُسْلِمٌ",
+        "urdu": "سیدنا جابر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے قربانی کے دن (10 ذوالحجہ کو) جمرہ (عقبہ) کو چاشت کے وقت کنکریاں ماریں، اور اس کے بعد کے دنوں میں (ایامِ تشریق 11، 12، 13 ذوالحجہ کو) سورج ڈھلنے (زوال) کے بعد کنکریاں ماریں۔ (مسلم)",
+        "english": "Narrated Jabir (RA): Allah's Messenger (ﷺ) threw pebbles at the Jamrah (al-Aqabah) on the Day of Sacrifice (10th Dhul-Hijjah) in the forenoon (Duha); but on the following days (11th, 12th and 13th), he threw them after the sun had passed its meridian (Zawal). [Reported by Muslim]."
+      }
+    },
+
+    {
+      "id": 629,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا { أَنَّهُ كَانَ يَرْمِي اَلْجَمْرَةَ اَلدُّنْيَا, بِسَبْعِ حَصَيَاتٍ, يُكَبِّرُ عَلَى أَثَرِ كُلِّ حَصَاةٍ, ثُمَّ يَتَقَدَّمُ, ثُمَّ يُسْهِلُ, فَيَقُومُ فَيَسْتَقْبِلُ اَلْقِبْلَةَ, فَيَقُومُ طَوِيلاً, وَيَدْعُو وَيَرْفَعُ يَدَيْهِ, ثُمَّ يَرْمِي اَلْوُسْطَى, ثُمَّ يَأْخُذُ ذَاتَ اَلشِّمَالِ فَيُسْهِلُ, وَيَقُومُ مُسْتَقْبِلَ اَلْقِبْلَةِ, ثُمَّ يَدْعُو فَيَرْفَعُ يَدَيْهِ وَيَقُومُ طَوِيلاً, ثُمَّ يَرْمِي جَمْرَةَ ذَاتِ اَلْعَقَبَةِ مِنْ بَطْنِ اَلْوَادِي وَلَا يَقِفُ عِنْدَهَا, ثُمَّ يَنْصَرِفُ, فَيَقُومُ: هَكَذَا رَأَيْتُ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَفْعَلُهُ } رَوَاهُ اَلْبُخَارِيُّ",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے روایت ہے کہ وہ سب سے قریبی جمرہ (جمرہ اولیٰ) کو سات کنکریاں مارتے اور ہر کنکری پر تکبیر کہتے۔ پھر آگے بڑھ کر ہموار میدان میں آ جاتے اور قبلہ رخ ہو کر طویل قیام کرتے اور ہاتھ اٹھا کر دعا مانگتے۔ پھر جمرہ وسطیٰ کو کنکریاں مارتے، پھر بائیں جانب ہو کر ہموار جگہ پر قبلہ رخ کھڑے ہوتے اور ہاتھ اٹھا کر طویل دعا مانگتے۔ اس کے بعد جمرہ عقبہ کو وادی کے نشیب سے کنکریاں مارتے مگر وہاں قیام نہ کرتے بلکہ واپس لوٹ آتے، اور فرماتے کہ میں نے رسول اللہ ﷺ کو اسی طرح کرتے دیکھا ہے۔ (بخاری)",
+        "english": "Narrated Ibn 'Umar (RA): He used to stone al-Jamrah ad-Dunya (the first pillar) with seven pebbles, reciting Takbir after each pebble. He would then move forward to a flat place, stand facing the Qiblah for a long time, and supplicate while raising his hands. Then he would stone the middle pillar (al-Wusta), then move to the left to a flat place, stand facing the Qiblah, and supplicate while raising his hands for a long time. Finally, he would stone Jamrat al-Aqaba from the middle of the valley, but would not stand there. He would then depart and say: \"This is how I saw Allah's Messenger (ﷺ) doing it.\" [Reported by Al-Bukhari]."
+      }
+    },
+
+    {
+      "name": {
+        "arabic": "وَعَنْـهُ أَنَّ رَسُولَ اَللَّهِ صلى الله عليه وسلم قَالَ: \" اَللَّهُمَّ ارْحَمِ اَلْمُحَلِّقِينَ \" قَالُوا: وَالْمُقَصِّرِينَ يَا رَسُولَ اَللَّهِ. قَالَ فِي اَلثَّالِثَةِ: \" وَالْمُقَصِّرِينَ \" مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا ابن عمر رضی اللہ عنہما سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے (حجۃ الوداع کے موقع پر) دعا فرمائی: ”اے اللہ! سر منڈانے والوں پر رحم فرما۔“ صحابہ نے عرض کیا: اے اللہ کے رسول! اور بال کتروانے والوں (کے لیے بھی دعا فرمائیے)۔ آپ ﷺ نے (دوبارہ) وہی فرمایا، یہاں تک کہ تیسری یا چوتھی مرتبہ آپ ﷺ نے فرمایا: ”اور بال کتروانے والوں پر بھی (رحمت ہو)۔“ (بخاری و مسلم)",
+        "english": "Narrated Ibn 'Umar (RA): Allah's Messenger (ﷺ) said, 'O Allah! Have mercy on those who have their heads shaved.' They (the Companions) said, 'And those who have their hair cut short, O Messenger of Allah?' He (ﷺ) said (the third time), 'And those who have their hair cut short.' [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 631,
+      "name": {
+        "arabic": "وَعَنْ عَبْدِ اَللَّهِ بْنِ عَمْرِوِ بْنِ اَلْعَاصِ رَضِيَ اَللَّهُ عَنْهُمَا { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-وَقَفَ فِي حَجَّةِ اَلْوَدَاعِ, فَجَعَلُوا يَسْأَلُونَهُ, فَقَالَ رَجُلٌ: لَمْ أَشْعُرْ, فَحَلَقْتُ قَبْلَ أَنْ أَذْبَحَ.‏ قَالَ: \" اِذْبَحْ وَلَا حَرَجَ \" فَجَاءَ آخَرُ, فَقَالَ: لَمْ أَشْعُرْ, فَنَحَرْتُ قَبْلَ أَنْ أَرْمِيَ, قَالَ: \" اِرْمِ وَلَا حَرَجَ \" فَمَا سُئِلَ يَوْمَئِذٍ عَنْ شَيْءٍ قُدِّمَ وَلَا أُخِّرَ إِلَّا قَالَ: \" اِفْعَلْ وَلَا حَرَجَ \" } مُتَّفَقٌ عَلَيْهِ. ",
+        "urdu": "سیدنا عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے روایت ہے کہ رسول اللہ ﷺ حجۃ الوداع میں (منیٰ میں) ایک جگہ کھڑے ہو گئے، لوگ آپ ﷺ سے سوال کرنے لگے۔ ایک آدمی نے کہا: مجھے شعور نہیں رہا اور میں نے ذبح کرنے سے پہلے سر منڈوا لیا؟ آپ ﷺ نے فرمایا: ”اب ذبح کر لو اور کوئی حرج نہیں۔“ پھر ایک اور آدمی آیا اور کہا: مجھے پتہ نہیں چلا اور میں نے رمی کرنے سے پہلے قربانی کر لی؟ آپ ﷺ نے فرمایا: ”اب رمی کر لو اور کوئی حرج نہیں۔“ اس دن آپ ﷺ سے جس کسی عمل کے بارے میں پوچھا گیا جسے مقدم یا مؤخر کر دیا گیا ہو، آپ ﷺ نے یہی فرمایا: ”اب کر لو اور کوئی حرج نہیں۔“ (بخاری و مسلم)",
+        "english": "Narrated 'Abdullah bin 'Amr bin al-'As (RA): During the Farewell Hajj, Allah's Messenger (ﷺ) stood (at Mina) while the people asked him questions. A man said, \"I did not realize (the order) and I shaved before sacrificing.\" He (ﷺ) said, \"Sacrifice now, and there is no harm.\" Another man came and said, \"I did not realize and I sacrificed before stoning.\" He (ﷺ) said, \"Stone now, and there is no harm.\" That day, the Prophet (ﷺ) was not asked about anything being done before or after its proper order except that he replied, \"Do it (now), and there is no harm.\" [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 632,
+      "name": {
+        "arabic": "وَعَنْ اَلْمِسْوَرِ بْنِ مَخْرَمَةَ رَضِيَ اَللَّهُ عَنْهُمَا { أَنَّ رَسُولَ اَللَّهِ صلى الله عليه وسلم نَحَرَ قَبْلَ أَنْ يَحْلِقَ, وَأَمَرَ أَصْحَابَهُ بِذَلِكَ } رَوَاهُ اَلْبُخَارِيُّ",
+        "urdu": "سیدنا مسور بن مخرمہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے (صلح حدیبیہ کے موقع پر) سر منڈانے سے پہلے قربانی کی اور اپنے صحابہ رضی اللہ عنہم کو بھی اسی کا حکم دیا۔ (بخاری)",
+        "english": "Narrated Al-Miswar bin Makhrama (RA): Allah's Messenger (ﷺ) sacrificed (his Had-y) before he had his head shaved, and he commanded his Companions to do the same. [Reported by Al-Bukhari]."
+      }
+    },
+
+    {
+      "id": 633,
+      "name": {
+        "arabic": " وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: قَالَ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-{ إِذَا رَمَيْتُمْ وَحَلَقْتُمْ فَقَدَ حَلَّ لَكُمْ اَلطِّيبُ وَكُلُّ شَيْءٍ إِلَّا اَلنِّسَاءَ } رَوَاهُ أَحْمَدُ, وَأَبُو دَاوُدَ, وَفِي إِسْنَادِهِ ضَعْفٌ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب تم (جمرہ عقبہ کی) رمی کر لو اور سر کے بال منڈوا لو، تو تمہارے لیے خوشبو اور (احرام کی وجہ سے ممنوع) ہر چیز حلال ہو گئی سوائے بیویوں کے (یعنی ازدواجی تعلقات کے)۔“ اسے احمد اور ابوداؤد نے روایت کیا ہے اور اس کی سند میں ضعف ہے۔",
+        "english": "Narrated 'Aisha (RA): Allah's Messenger (ﷺ) said: \"When you have thrown the pebbles (at the Jamrah) and have shaved your heads, you are permitted to use perfume and everything becomes permissible for you except (intercourse with) women.\" [Reported by Ahmad and Abu Dawud; its chain contains weakness]."
+      }
+    },
+
+    {
+      "id": 634,
+      "name": {
+        "arabic": "وَعَنِ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا, عَنِ اَلنَّبِيِّ صلى الله عليه وسلم قَالَ: { لَيْسَ عَلَى اَلنِّسَاءِ حَلْقٌ, وَإِنَّمَا يُقَصِّرْنَ } رَوَاهُ أَبُو دَاوُدَ بِإِسْنَادٍ حَسَنٍ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا: ”عورتوں کے لیے (سر) منڈوانا نہیں ہے بلکہ ان کے لیے صرف بال کتروانا (ہی مسنون) ہے۔“ اسے ابوداؤد نے حسن سند سے روایت کیا ہے۔",
+        "english": "Narrated Ibn 'Abbas (RA): The Prophet (ﷺ) said: 'Shaving the head is not incumbent on women; they are only required to cut their hair short.' [Reported by Abu Dawud with a Hasan chain]."
+      }
+    },
+
+    {
+      "id": 635,
+      "name": {
+        "arabic": "وَعَنِ اِبْنِ عُمَرَ رَضِيَ اَللَّهُ عَنْهُمَا: { أَنَّ اَلْعَبَّاسَ بْنَ عَبْدِ اَلْمُطَّلِبِ ‏- رضى الله عنه ‏- اِسْتَأْذَنَ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏- أَنْ يَبِيتَ بِمَكَّةَ لَيَالِيَ مِنًى, مِنْ أَجْلِ سِقَايَتِهِ, فَأَذِنَ لَهُ } مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ (سیدنا) عباس بن عبدالمطلب رضی اللہ عنہ نے رسول اللہ ﷺ سے اجازت مانگی کہ وہ ایامِ منیٰ کی راتیں (منیٰ کے بجائے) مکہ میں گزاریں تاکہ وہ (حجاج کو) پانی پلانے کی خدمت (سقایت) سر انجام دے سکیں۔ چنانچہ آپ ﷺ نے انہیں اجازت دے دی۔ (بخاری و مسلم)",
+        "english": "Narrated Ibn 'Umar (RA): Al-'Abbas bin 'Abdul-Muttalib (RA) asked permission of the Messenger of Allah (ﷺ) to spend the nights of Mina in Makkah for the purpose of providing water (to the pilgrims), and he (ﷺ) gave him permission. [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 636,
+      "name": {
+        "arabic": "وَعَنْ عَاصِمِ بْنِ عَدِيٍّ ‏- رضى الله عنه ‏- { أَنَّ رَسُولَ اَللَّهِ ‏- صلى الله عليه وسلم ‏-أَرْخَصَ لِرُعَاة اَلْإِبِلِ فِي اَلْبَيْتُوتَةِ عَنْ مِنًى, يَرْمُونَ يَوْمَ اَلنَّحْرِ, ثُمَّ يَرْمُونَ اَلْغَدِ لِيَوْمَيْنِ, ثُمَّ يَرْمُونَ يَوْمَ اَلنَّفْرِ } رَوَاهُ اَلْخَمْسَةُ, وَصَحَّحَهُ اَلتِّرْمِذِيُّ, وَابْنُ حِبَّانَ",
+        "urdu": "سیدنا عاصم بن عدی رضی اللہ عنہ سے مروی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے اونٹوں کے چرواہوں کو منیٰ سے باہر رات گزارنے کی رخصت (اجازت) عطا فرمائی، کہ وہ قربانی کے دن کنکریاں ماریں، پھر اگلے دن (بارہ تاریخ کو) دو دنوں کی کنکریاں ایک ساتھ ماریں، پھر کوچ کے دن (تیرہ تاریخ کو) کنکریاں ماریں۔ اسے پانچوں نے روایت کیا ہے، ترمذی اور ابن حبان نے اسے صحیح قرار دیا ہے۔",
+        "english": "Narrated 'Asim bin 'Adi (RA): Allah's Messenger (ﷺ) granted a concession to the camel shepherds to stay overnight outside Mina. They were to throw pebbles on the Day of Sacrifice (10th Dhul-Hijjah), then combine the throwing for two days on the next day (12th Dhul-Hijjah), and then throw on the day of departure (13th Dhul-Hijjah). [Reported by the five; At-Tirmidhi and Ibn Hibban graded it Sahih]."
+      }
+    },
+
+    {
+      "id": 637,
+      "name": {
+        "arabic": "وَعَنْ أَبِي بَكْرَةَ ‏- رضى الله عنه ‏- قَالَ: { خَطَبَنَا رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-يَوْمَ اَلنَّحْرِ.‏.‏.‏ } اَلْحَدِيثَ.‏ مُتَّفَقٌ عَلَيْهِ",
+        "urdu": "سیدنا ابوبکرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے قربانی کے دن (10 ذوالحجہ کو منیٰ میں) ہمیں خطبہ دیا (اور اس میں انسانی جان و مال کی حرمت بیان فرمائی)۔ (بخاری و مسلم)",
+        "english": "Narrated Abu Bakra (RA): Allah's Messenger (ﷺ) delivered a sermon to us on the Day of Sacrifice (10th of Dhul-Hijjah)... [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 638,
+      "name": {
+        "arabic": "وَعَنْ سَرَّاءَ بِنْتِ نَبْهَانَ رَضِيَ اَللَّهُ عَنْهَا قَالَتْ: { خَطَبَنَا رَسُولُ اَللَّهِ صلى الله عليه وسلم يَوْمَ اَلرُّءُوسِ فَقَالَ: \" أَلَيْسَ هَذَا أَوْسَطَ أَيَّامِ اَلتَّشْرِيقِ ؟ \" } اَلْحَدِيثَ رَوَاهُ أَبُو دَاوُدَ بِإِسْنَادٍ حَسَنٍ",
+        "urdu": "سیدہ سراء بنت نبھان رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں 'یوم الرؤوس' (سروں والے دن) خطاب فرمایا اور پوچھا: ”کیا یہ ایامِ تشریق کا درمیانہ دن نہیں ہے؟“ (اور پھر مکمل حدیث ذکر کی)۔ اسے ابوداؤد نے حسن سند کے ساتھ روایت کیا ہے۔",
+        "english": "Narrated Sarra' bint Nabhan (RA): Allah's Messenger (ﷺ) addressed us on the 'Day of the Heads' (Yawm al-Ru'us) and said, 'Is this not the middle of the days of Tashriq?' [Reported by Abu Dawud with a Hasan chain]."
+      }
+    },
+
+    {
+      "id": 639,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-قَالَ لَهَا: { طَوَافُكِ بِالْبَيْتِ وَبَيْنَ اَلصَّفَا وَاَلْمَرْوَةِ يَكْفِيكَ لِحَجِّكِ وَعُمْرَتِكِ } رَوَاهُ مُسْلِمٌ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے مروی ہے کہ نبی کریم صلی اللہ علیہ وسلم نے ان سے فرمایا: ”تمہارا بیت اللہ کا طواف کر لینا اور صفا و مروہ کے درمیان سعی کر لینا تمہارے حج اور عمرہ (دونوں) کے لیے کافی ہے۔“",
+        "english": "Narrated 'Aishah (R.A): The Prophet (peace be upon him) said to her: \"Your circumambulation (Tawaf) of the House and your going between as-Safa and al-Marwa is sufficient for both your Hajj and your 'Umrah.\""
+      }
+    },
+
+    {
+      "id": 640,
+      "name": {
+        "arabic": "وَعَنِ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا; أَنَّ اَلنَّبِيَّ صلى الله عليه وسلم { لَم يَرْمُلْ فِي اَلسَّبْعِ اَلَّذِي أَفَاضَ فِيهِ } رَوَاهُ اَلْخَمْسَةُ إِلَّا اَلتِّرْمِذِيَّ, وَصَحَّحَهُ اَلْحَاكِمُ.",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے روایت ہے کہ نبی کریم صلی اللہ علیہ وسلم نے طوافِ افاضہ (وہ طواف جو 10 ذوالحجہ کو قربانی کے بعد کیا جاتا ہے) کے سات چکروں میں سے کسی چکر میں بھی رمل (تیز چال) نہیں فرمایا۔ اسے ترمذی کے علاوہ پانچوں نے روایت کیا ہے اور حاکم نے اسے صحیح قرار دیا ہے۔",
+        "english": "Narrated Ibn 'Abbas (RA): The Prophet (ﷺ) did not perform Ramal (brisk walking) during the seven circuits of Tawaf al-Ifadah. [Reported by the five except at-Tirmidhi; Al-Hakim graded it Sahih]."
+      }
+    },
+
+    {
+      "id": 641,
+      "name": {
+        "arabic": " وَعَنْ أَنَسٍ ‏- رضى الله عنه ‏- { أَنَّ اَلنَّبِيَّ ‏- صلى الله عليه وسلم ‏-صَلَّى اَلظُّهْرَ وَالْعَصْرَ وَالْمَغْرِبَ وَالْعِشَاءَ, ثُمَّ رَقَدَ رَقْدَةً بِالْمُحَصَّبِ, ثُمَّ رَكِبَ إِلَى اَلْبَيْتِ فَطَافَ بِهِ } رَوَاهُ اَلْبُخَارِيُّ.‏",
+        "urdu": "سیدنا انس رضی اللہ عنہ سے مروی ہے کہ نبی کریم ﷺ نے (13 ذوالحجہ کو منیٰ سے واپسی پر) مقامِ محصب میں ظہر، عصر، مغرب اور عشاء کی نمازیں پڑھیں، پھر وہاں تھوڑی دیر آرام فرمایا (سوئے)، اس کے بعد سوار ہو کر بیت اللہ تشریف لائے اور طواف (وداع) کیا۔ (بخاری)",
+        "english": "Narrated Anas (RA): The Prophet (ﷺ) offered the Dhuhr, Asr, Maghrib, and Isha prayers (at al-Muhassab), then slept for a while there, and then rode to the House (Ka'bah) and performed Tawaf around it. [Reported by Al-Bukhari]."
+      }
+    },
+
+    {
+      "id": 642,
+      "name": {
+        "arabic": "وَعَنْ عَائِشَةَ رَضِيَ اَللَّهُ عَنْهَا: { أَنَّهَا لَمْ تَكُنْ تَفْعَلُ ذَلِكَ ‏-أَيْ: اَلنَّزُولَ بِالْأَبْطَحِ‏- وَتَقُولُ : إِنَّمَا نَزَلَهُ رَسُولُ اَللَّهِ ‏- صلى الله عليه وسلم ‏-لِأَنَّهُ كَانَ مَنْزِلاً أَسْمَحَ لِخُرُوجِهِ } رَوَاهُ اَلْبُخَارِيُّ وَمُسْلِمٌ",
+        "urdu": "سیدہ عائشہ رضی اللہ عنہا سے مروی ہے کہ وہ ابطح (محصب) میں قیام نہیں کرتی تھیں اور فرماتی تھیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اس مقام پر اس لیے قیام فرمایا تھا کہ وہاں سے (مدینہ واپسی کے لیے) نکلنا زیادہ آسان اور سہل تھا۔ (بخاری و مسلم)",
+        "english": "Narrated 'Aishah (RA): She did not use to do that—i.e., stop at al-Abtah—and she used to say, 'Allah's Messenger (ﷺ) only stopped there because it was an easier place for his departure (to Madinah).' [Reported by al-Bukhari and Muslim]."
+      }
+    },
+
+    {
+      "id": 643,
+      "name": {
+        "arabic": "وَعَنْ اِبْنِ عَبَّاسٍ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: { أُمِرَ اَلنَّاسُ أَنْ يَكُونَ آخِرَ عَهْدِهِمْ بِالْبَيْتِ, إِلَّا أَنَّهُ خَفَّفَ عَنِ الْحَائِضِ } مُتَّفَقٌ عَلَيْهِ ",
+        "urdu": "سیدنا ابن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ ﷺ نے لوگوں کو حکم دیا کہ مکہ سے روانگی کے وقت ان کا آخری کام بیت اللہ کا طواف (طوافِ وداع) ہو، البتہ حیض والی عورتوں کو اس سے رخصت (تخفیف) دے دی گئی ہے۔ (بخاری و مسلم)",
+        "english": "Narrated Ibn 'Abbas (RA): The people were commanded that their last act (before leaving Makkah) should be the Tawaf of the House (Ka'bah), but a concession was made for menstruating women. [Agreed upon]."
+      }
+    },
+
+    {
+      "id": 644,
+      "name": {
+        "arabic": "وَعَنِ اِبْنِ اَلزُّبَيْرِ رَضِيَ اَللَّهُ عَنْهُمَا قَالَ: قَالَ رَسُولُ اَللَّهِ صلى الله عليه وسلم: { صَلَاةٌ فِي مَسْجِدِي هَذَا أَفْضَلُ مِنْ أَلْفِ صَلَاةٍ فِيمَا سِوَاهُ إِلَّا اَلْمَسْجِدَ اَلْحَرَامَ , وَصَلَاةٌ فِي اَلْمَسْجِدِ اَلْحَرَامِ أَفْضَلُ مِنْ صَلَاةٍ فِي مَسْجِدِي بِمِائَةِ صَلَاةٍ } رَوَاهُ أَحْمَدُ, وَصَحَّحَهُ اِبْنُ حِبَّانَ",
+        "urdu": "سیدنا ابن زبیر رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ ”میری اس مسجد (مسجد نبوی) میں ایک نماز ادا کرنے کا ثواب دوسری مساجد میں نماز ادا کرنے کے مقابلہ میں ہزار گنا زیادہ ہے۔ بجز مسجد الحرام کے، اور مسجد الحرام میں ایک نماز کی ادائیگی میری اس مسجد میں سو نماز پڑھنے سے افضل ہے۔“ اسے احمد نے روایت کیا ہے اور ابن حبان نے صحیح قرار دیا ہے۔",
+        "english": "Narrated Ibn az-Zubair (RA): Allah's Messenger (ﷺ) said: 'A prayer in this mosque of mine (the Prophet's Mosque) is better than a thousand prayers in any other mosque, except for al-Masjid al-Haram (in Makkah). And a prayer in al-Masjid al-Haram is a hundred times better than a prayer in this mosque of mine.'"
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "hadithId": 956,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": [
+      "bulugh/8/956"
+    ],
+    "kitabId": 8,
+    "inKitabBab": 12,
+    "arabicBook": "كتاب العدة",
+    "babId": 75
+  },
+  
+  "takhreej": {
+    "arabic": "ضعيف مرفوعاً وصحيح موقوفاً.‏ أخرجه أبو داود (2189)، والترمذي (1182)، وابن ماجه (2080). قال الترمذي: 'حديث غريب لا نعرفه مرفوعاً إلا من حديث مظاهر بن أسلم وهو ضعيف'. وصححه الدارقطني موقوفاً على ابن عمر.",
+    "urdu": "یہ روایت مرفوعاً (نبی ﷺ کے قول کے طور پر) ضعیف ہے، البتہ موقوفاً (صحابہ کے قول کے طور پر) صحیح ہے۔ اسے ابوداؤد (2189)، ترمذی (1182) اور ابن ماجہ (2080) نے روایت کیا ہے۔ امام ترمذی نے اس کے راوی مظاہر بن اسلم کو ضعیف قرار دیا ہے۔",
+    "english": "Weak as a Marfu' report but authentic as a Mauquf (statement of a Companion). Reported by Abu Dawud (2189), At-Tirmidhi (1182), and Ibn Majah (2080). At-Tirmidhi noted the narrator Muzahir bin Aslam is weak. Ad-Daraqutni authenticated it as a statement of Ibn Umar."
+  },
+  "importantWords": [
+    {
+      "arabic": "طَلَاقُ",
+      "english": "Divorce",
+      "urdu": "طلاق"
+    },
+    {
+      "arabic": "الأَمَةِ",
+      "english": "Slave-woman",
+      "urdu": "لونڈی"
+    },
+    {
+      "arabic": "تَطْلِيقَتَانِ",
+      "english": "Two pronouncements",
+      "urdu": "دو طلاقیں"
+    },
+    {
+      "arabic": "عِدَّتُهَا",
+      "english": "Her waiting period",
+      "urdu": "اس کی عدت"
+    },
+    {
+      "arabic": "حَيْضَتَانِ",
+      "english": "Two menses",
+      "urdu": "دو حیض"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں لونڈی کے لیے طلاق کی تعداد اور عدت کی مدت کا بیان ہے، جو کہ آزاد عورت کے مقابلے میں کم رکھی گئی ہے۔",
+    "english": "This Hadith explains the number of divorce pronouncements and the Iddah period for a slave-woman, which are reduced compared to a free woman."
+  },
+  "references": [
+    {
+      "arabic": "رواه أبو داود (2189)",
+      "english": "Reported by Abu Dawud (2189)"
+    },
+    {
+      "arabic": "رواه الترمذي (1182)",
+      "english": "Reported by At-Tirmidhi (1182)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عمر",
+        "english": "Abdullah ibn Umar"
+      },
+      "slug": "abdullah-ibn-umar"
+    },
+    {
+      "id": 2,
+      "name": {
+        "arabic": "عائشة بنت أبي بكر",
+        "english": "Aishah bint Abi Bakr"
+      },
+      "slug": "aishah-bint-abi-bakr"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9U0K07_z0U",
+  "grade": {
+    "arabic": "ضعيف مرفوعاً",
+    "english": "Weak as Marfu'"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "لونڈی کی طلاق اور عدت کا قانون",
+        "english": "Law of Divorce and Iddah for Slaves"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "طلاق کی تعداد",
+              "english": "Number of Divorces"
+            },
+            "content": {
+              "urdu": [
+                "آزاد عورت کے لیے طلاق کی انتہائی حد تین رکھی گئی ہے۔",
+                "لونڈی کے معاملے میں یہ حد کم کر کے دو کر دی گئی ہے۔",
+                "یہ کمی لونڈی کی سماجی حیثیت اور اس کے بوجھ کو ہلکا کرنے کے لیے ہے۔"
+              ],
+              "english": [
+                "The maximum limit of divorce for a free woman is three pronouncements.",
+                "For a slave-woman, this limit is reduced to only two pronouncements.",
+                "This reduction reflects her social status and lightens her legal burdens."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "عدت کی مدت",
+              "english": "Waiting Period (Iddah)"
+            },
+            "content": {
+              "urdu": [
+                "آزاد عورت کی طلاق کی عدت تین حیض یا تین طہر ہوتی ہے۔",
+                "اس روایت کے مطابق لونڈی کی عدت صرف دو حیض مقرر کی گئی ہے۔",
+                "عدت میں یہ تخفیف بھی غلامی کی حالت کے پیشِ نظر رکھی گئی ہے۔"
+              ],
+              "english": [
+                "The Iddah for a free woman is three menstrual or purity cycles.",
+                "According to this report, the Iddah for a slave-woman is two cycles.",
+                "This reduction in Iddah is based on the specific condition of slavery."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی اور علمی تجزیہ",
+        "english": "Juristic and Scholarly Analysis"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "روایت کی اسنادی حیثیت",
+              "english": "Status of the Chain"
+            },
+            "content": {
+              "urdu": [
+                "محدثین کے نزدیک یہ بات نبی ﷺ سے براہِ راست ثابت نہیں ہے۔",
+                "اسے سیدنا ابن عمر اور سیدہ عائشہ کا اپنا فتویٰ مانا جاتا ہے۔",
+                "مرفوع اور موقوف روایات میں فرق کرنا علمی دیانت کا تقاضا ہے۔"
+              ],
+              "english": [
+                "Scholars of Hadith believe this isn't directly proven from the Prophet (ﷺ).",
+                "It is considered the personal legal verdict of Ibn Umar and Aishah.",
+                "Distinguishing between Marfu and Mauquf is a requirement of scholarly integrity."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "آثارِ صحابہ کی اہمیت",
+              "english": "Weight of Companions' Statements"
+            },
+            "content": {
+              "urdu": [
+                "اگرچہ یہ حدیث ضعیف ہے، مگر اکثر صحابہ کا عمل اسی پر تھا۔",
+                "جمہور فقہاء نے لونڈی کی طلاق اور عدت میں اسی اصول کو اپنایا ہے۔",
+                "صحابہ کے متفقہ فیصلے شرعی احکام کے فہم میں کلیدی حیثیت رکھتے ہیں۔"
+              ],
+              "english": [
+                "Although the Hadith is weak, most Companions acted upon this principle.",
+                "Majority of jurists adopted this rule for a slave-woman's divorce.",
+                "Unanimous decisions of the Companions are vital in understanding Shariah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "موازنہ اور حکمت",
+        "english": "Comparison and Wisdom"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "آزاد اور غلام کا فرق",
+              "english": "Slave vs Free Distinction"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی قوانین میں حقوق و فرائض میں درجوں کا لحاظ رکھا گیا ہے۔",
+                "غلامی کی حالت میں سزاؤں اور عدت میں تخفیف کی گئی ہے۔",
+                "یہ توازن عدلِ الہی اور سماجی ڈھانچے کی پائیداری کو ظاہر کرتا ہے۔"
+              ],
+              "english": [
+                "Islamic laws maintain a distinction in rights and duties across statuses.",
+                "In slavery, penalties and waiting periods are significantly lightened.",
+                "This balance reflects Divine Justice and the sustainability of social structures."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نسب کی حفاظت",
+              "english": "Protection of Lineage"
+            },
+            "content": {
+              "urdu": [
+                "عدت کا اصل مقصد رحم کی صفائی اور نسب کا تحفظ کرنا ہے۔",
+                "دو حیض کی مدت اس مقصد کے حصول کے لیے کافی سمجھی گئی ہے۔",
+                "شریعت نے ہر حال میں انسانی نسل کے اختلاط کو روکنے کی کوشش کی ہے۔"
+              ],
+              "english": [
+                "The primary goal of Iddah is to ensure the womb is clear and lineage protected.",
+                "A period of two menses was deemed sufficient for this specific purpose.",
+                "Shariah strives to prevent the mixing of lineages in every situation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی اسباق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تحقیق کی اہمیت",
+              "english": "Importance of Research"
+            },
+            "content": {
+              "urdu": [
+                "دین کے معاملے میں صحیح اور ضعیف میں فرق کرنا نہایت ضروری ہے۔",
+                "صرف حاکم کی تصحیح پر تکیہ کرنے کے بجائے جمہور کی رائے دیکھنی چاہیے۔",
+                "علمی دیانت ہمیں اندھی تقلید سے بچا کر حق کی طرف لے جاتی ہے۔"
+              ],
+              "english": [
+                "Distinguishing between authentic and weak reports is crucial in religion.",
+                "One should look at the majority view rather than relying solely on Al-Hakim.",
+                "Intellectual honesty leads us toward truth rather than blind following."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نظم و ضبط کی پابندی",
+              "english": "Adherence to Discipline"
+            },
+            "content": {
+              "urdu": [
+                "ازدواجی معاملات میں حدود اللہ کی پابندی سکون کا باعث ہے۔",
+                "ہر طبقے کے لیے واضح قوانین معاشرے میں ابہام کو ختم کرتے ہیں۔",
+                "دین پر صحیح فہم کے ساتھ عمل کرنا ہی فلاح کا واحد راستہ ہے۔"
+              ],
+              "english": [
+                "Adhering to Allah's limits in marital affairs brings peace of mind.",
+                "Clear laws for every social class eliminate ambiguity in society.",
+                "Acting on religion with proper understanding is the only path to success."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

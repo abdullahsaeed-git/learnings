@@ -1,0 +1,259 @@
+{
+  "hadithId": 883,
+  "hadithNo": 3,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/8/82"],
+    "kitabId": 8,
+    "inKitabBab": 4,
+    "arabicBook": "كتاب النكاح",
+    "babId": 67
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح . رواه أبو داود (2125)، والنسائي (3375)، والحاكم (2/177)، وأحمد (1/244). وصححه الحاكم ووافقه الذهبي.",
+    "urdu": "صحیح۔ اسے ابوداؤد (2125)، نسائی (3375) اور حاکم (177/2) نے روایت کیا ہے۔ امام حاکم نے اسے صحیح قرار دیا اور علامہ ذہبی نے ان کی موافقت کی ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2125), An-Nasa'i (3375), and Al-Hakim (2/177). Authenticated by Al-Hakim and agreed upon by Adh-Dhahabi."
+  },
+  "importantWords": [
+    {
+      "arabic": "تَزَوَّجَ",
+      "english": "Married",
+      "urdu": "نکاح کیا"
+    },
+    {
+      "arabic": "أَعْطِهَا",
+      "english": "Give her",
+      "urdu": "اسے دو"
+    },
+    {
+      "arabic": "دِرْعُكَ",
+      "english": "Your armor",
+      "urdu": "تمہاری زرہ"
+    },
+    {
+      "arabic": "الحُطَمِيَّةُ",
+      "english": "Hutamiyyah (Type of armor)",
+      "urdu": "حطمی (مضبوط زرہ)"
+    },
+    {
+      "arabic": "شَيْئًا",
+      "english": "Something",
+      "urdu": "کچھ چیز"
+    }
+  ],
+  "summary": {
+    "urdu": "نکاح کے لیے مہر کی ادائیگی سنت ہے؛ اگر نقد رقم نہ ہو تو کوئی مادی چیز (جیسے زرہ) بھی مہر کے طور پر دی جا سکتی ہے۔",
+    "english": "Paying Mahr is a Sunnah of marriage; if cash is unavailable, material possessions like armor can serve as a valid dower."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود (2125)",
+      "english": "Sunan Abi Dawud (2125)"
+    },
+    {
+      "arabic": "سنن النسائي (3375)",
+      "english": "Sunan an-Nasa'i (3375)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عبد الله بن عباس",
+        "english": "Abdullah bin Abbas"
+      },
+      "slug": "abdullah-bin-abbas"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=Fj-yI7lT3w0",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مہر کی شرعی اہمیت",
+        "english": "Legal Significance of Mahr"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مہر کی ادائیگی کا حکم",
+              "english": "Command to Pay Mahr"
+            },
+            "content": {
+              "urdu": [
+                "رسول اللہ ﷺ نے سیدنا علی کو تاکید فرمائی کہ نکاح کے وقت مہر کے طور پر کچھ نہ کچھ ضرور دیں۔",
+                "مہر عورت کا شرعی حق ہے جو نکاح کے بندھن کی مضبوطی اور شوہر کی طرف سے قدردانی کی علامت ہے۔",
+                "بغیر مہر کے نکاح کرنا سنت کے خلاف ہے، خواہ وہ معمولی چیز ہی کیوں نہ ہو۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) emphasized to Ali (RA) to give something as Mahr at the time of marriage.",
+                "Mahr is a legal right of the woman, symbolizing the strength of the bond and the husband's appreciation.",
+                "Contracting marriage without any Mahr is contrary to the Sunnah, even if it is a small item."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مہر میں وسعت",
+              "english": "Flexibility in Mahr"
+            },
+            "content": {
+              "urdu": [
+                "اگر نقدی موجود نہ ہو تو گھر کا سامان یا جنگی آلات بھی مہر میں دیے جا سکتے ہیں۔",
+                "اسلام نے مہر کی کوئی بھاری مقدار مقرر نہیں کی تاکہ نکاح میں آسانی پیدا ہو۔",
+                "نبی کریم ﷺ نے خود حطمی زرہ کی نشاندہی کر کے اس معاملے میں راہنمائی فرمائی۔"
+              ],
+              "english": [
+                "If cash is unavailable, household items or military equipment can be given as Mahr.",
+                "Islam has not fixed a burdensome amount for Mahr to ensure ease in performing marriage.",
+                "The Prophet (ﷺ) himself pointed out the armor to guide Ali (RA) in this matter."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حطمی زرہ کی حقیقت",
+        "english": "Nature of the Hutamiyyah Armor"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "زرہ کی خصوصیت",
+              "english": "Characteristics of the Armor"
+            },
+            "content": {
+              "urdu": [
+                "حطمی زرہ اس مضبوط زرہ کو کہتے ہیں جو تلواروں کے وار کو روک لے اور انہیں توڑ دے۔",
+                "اس دور میں ایک مجاہد کے لیے زرہ اس کا سب سے قیمتی اثاثہ ہوتی تھی۔",
+                "سیدنا علی نے اپنی سب سے ضروری اور قیمتی چیز مہر میں پیش کر کے ایثار کی مثال قائم کی۔"
+              ],
+              "english": [
+                "Hutamiyyah refers to a strong armor that shatters swords upon impact and protects the wearer.",
+                "During that era, a warrior's armor was often his most valuable and essential asset.",
+                "Ali (RA) set an example of sacrifice by offering his most vital possession as Mahr."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سادگی کا نمونہ",
+              "english": "Model of Simplicity"
+            },
+            "content": {
+              "urdu": [
+                "سیدہ فاطمہ رضی اللہ عنہا کا نکاح تاریخِ اسلام کا سادہ ترین اور بابرکت ترین نکاح تھا۔",
+                "ایک زرہ مہر میں دے کر امت کو یہ پیغام دیا گیا کہ اصل چیز تقویٰ ہے، مال نہیں۔",
+                "آج کے دور میں نمود و نمائش کے بجائے اس سادگی کو اپنانے کی ضرورت ہے۔"
+              ],
+              "english": [
+                "The marriage of Fatimah (RA) was one of the simplest and most blessed in Islamic history.",
+                "Giving armor as Mahr conveyed that piety, not wealth, is the true essence of marriage.",
+                "In the modern era, there is a dire need to adopt this simplicity instead of ostentation."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "خاندانی زندگی کے اسباق",
+        "english": "Lessons for Family Life"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "باہمی تعاون",
+              "english": "Mutual Cooperation"
+            },
+            "content": {
+              "urdu": [
+                "نبی کریم ﷺ نے بطور سسر اور مربی سیدنا علی کی مالی حالت کا خیال رکھتے ہوئے راہنمائی کی۔",
+                "گھریلو زندگی کی شروعات میں والدین کو چاہیے کہ وہ بچوں کے لیے سہولت پیدا کریں۔",
+                "مہر کا مقصد بوجھ بننا نہیں بلکہ ایک خوشگوار آغاز فراہم کرنا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ), as a father-in-law and mentor, guided Ali (RA) while considering his financial state.",
+                "Parents should facilitate ease for their children at the beginning of their domestic lives.",
+                "The purpose of Mahr is not to become a burden but to provide a pleasant start."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق کی پہچان",
+              "english": "Recognition of Rights"
+            },
+            "content": {
+              "urdu": [
+                "شوہر کو چاہیے کہ وہ اپنی استطاعت کے مطابق بیوی کا حق ادا کرے۔",
+                "سیدنا علی نے 'کچھ نہیں' کہا تو آپ ﷺ نے انہیں یاد دلایا کہ ان کے پاس زرہ موجود ہے۔",
+                "یہ اس بات کی دلیل ہے کہ انسان کو اپنے پاس موجود وسائل کو بروئے کار لانا چاہیے۔"
+              ],
+              "english": [
+                "A husband should fulfill the wife's rights according to his financial capacity.",
+                "When Ali (RA) said he had nothing, the Prophet (ﷺ) reminded him of the resources he did have.",
+                "This proves that an individual should utilize the means available to them to fulfill obligations."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تربیتی پہلو",
+        "english": "Educational Aspects"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استطاعت اور عدل",
+              "english": "Capability and Justice"
+            },
+            "content": {
+              "urdu": [
+                "مہر کے معاملے میں مرد کی مالی حالت کو مدنظر رکھنا عدل کا تقاضا ہے۔",
+                "نبی کریم ﷺ نے کبھی بھی صحابہ پر ان کی ہمت سے زیادہ بوجھ نہیں ڈالا۔",
+                "دین میں ہر جگہ میانہ روی اور آسانی کو ترجیح دی گئی ہے۔"
+              ],
+              "english": [
+                "It is a requirement of justice to consider a man's financial status regarding Mahr.",
+                "The Prophet (ﷺ) never imposed a burden on the Companions beyond their capability.",
+                "Moderation and ease are prioritized throughout the teachings of the religion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "اہلِ بیت کی زندگی ہمارے لیے ہر معاملے میں روشن مینار ہے۔",
+                "اگر ہم ان کے بتائے ہوئے طریقے پر نکاح کریں تو معاشرتی مسائل حل ہو سکتے ہیں۔",
+                "برکت مال کی کثرت میں نہیں بلکہ اللہ کی اطاعت میں ہے۔"
+              ],
+              "english": [
+                "The lives of the Ahl al-Bayt are beacons of light for us in every matter.",
+                "Social issues can be resolved if we conduct marriages according to their prescribed method.",
+                "Blessing lies not in the abundance of wealth but in the obedience to Allah."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 1198,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/14/11"],
+    "kitabId": 14,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب القضاء",
+    "babId": 97
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (2948)، والترمذي (1332)، وأحمد (15551)، والحاكم (4/93) وصححه ووافقه الذهبي.",
+    "urdu": "صحیح۔ اسے ابو داؤد (2948) اور ترمذی (1332) نے روایت کیا ہے۔ امام حاکم اور علامہ ذہبی نے اسے صحیح قرار دیا ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (2948), At-Tirmidhi (1332), Ahmad (15551), and Al-Hakim (4/93) who graded it authentic."
+  },
+  "importantWords": [
+    {
+      "arabic": "وَلَّاهُ",
+      "english": "Appointed him / Entrusted him",
+      "urdu": "اسے حاکم بنایا / ولی بنایا"
+    },
+    {
+      "arabic": "أَمْرِ اَلْمُسْلِمِينَ",
+      "english": "Affairs of the Muslims",
+      "urdu": "مسلمانوں کے معاملات"
+    },
+    {
+      "arabic": "فَاحْتَجَبَ",
+      "english": "He secluded himself / Hid",
+      "urdu": "وہ پردہ نشین ہوا / چھپ گیا"
+    },
+    {
+      "arabic": "حَاجَتِهِمْ",
+      "english": "Their needs",
+      "urdu": "ان کی ضرورت"
+    },
+    {
+      "arabic": "فَقِيرِهِم",
+      "english": "Their poor / poverty",
+      "urdu": "ان کے فقراء / غربت"
+    }
+  ],
+  "summary": {
+    "urdu": "یہ حدیث حکمرانوں اور ذمہ دار افراد کو عوام کے لیے دستیاب رہنے کی تاکید کرتی ہے؛ جو حاکم غریبوں کے لیے اپنے دروازے بند کرتا ہے، اللہ اس کی دعاؤں اور حاجتوں کے سامنے رکاوٹ ڈال دیتا ہے۔",
+    "english": "This Hadith warns leaders and officials against being inaccessible to the public. Those who ignore the needs of the poor while in power will find Allah ignoring their own needs."
+  },
+  "references": [
+    {
+      "arabic": "سنن أبي داود، كتاب الخراج والإمارة والفيء، رقم 2948",
+      "english": "Sunan Abi Dawud, Book of Tribute, Rulership, No. 2948"
+    },
+    {
+      "arabic": "سنن الترمذي، كتاب الأحكام، رقم 1332",
+      "english": "Sunan at-Tirmidhi, Book of Judgments, No. 1332"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو مريم الأزدي",
+        "english": "Abu Maryam al-Azdi"
+      },
+      "slug": "abu-maryam-al-azdi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حکمران کی عوامی دستیابی",
+        "english": "Accessibility of the Ruler"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رعایا کے حقوق کی ادائیگی",
+              "english": "Fulfilling the Rights of Subjects"
+            },
+            "content": {
+              "urdu": [
+                "حاکم کا منصب عیاشی کے لیے نہیں بلکہ عوام کی خدمت اور ان کے مسائل حل کرنے کے لیے ہوتا ہے۔",
+                "اگر حاکم اپنے آپ کو کمروں میں بند کر لے تو مظلوم اپنا مقدمہ کہاں لے کر جائے گا؟",
+                "اسلامی ریاست میں حاکم اور عوام کے درمیان کوئی دیوار یا رکاوٹ نہیں ہونی چاہیے۔"
+              ],
+              "english": [
+                "The position of a ruler is not for luxury but for serving the people and solving their issues.",
+                "If a leader secludes himself in private rooms, where will the oppressed take their grievances?",
+                "In an Islamic state, there should be no wall or barrier between the ruler and the public."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "پردہ نشینی کی ممانعت",
+              "english": "Prohibition of Seclusion"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں 'احتجب' سے مراد لوگوں سے کٹ کر رہنا اور ان کی فریاد نہ سننا ہے۔",
+                "ایسا حکمران جو صرف خواص سے ملے اور عوام کو دھتکار دے، وہ منصب کی خیانت کرتا ہے۔",
+                "دروازے پر پہرے بٹھا کر حاجت مندوں کو روکنا غضبِ الہی کو دعوت دینا ہے۔"
+              ],
+              "english": [
+                "The word 'Ihtajaba' in the Hadith refers to cutting oneself off from people and ignoring their pleas.",
+                "A leader who only meets the elites and rejects the masses betrays his official duty.",
+                "Placing guards at the door to block the needy is a direct invitation to Divine wrath."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "مکافاتِ عمل کا اصول",
+        "english": "The Principle of Retribution"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "جیسی کرنی ویسی بھرنی",
+              "english": "As You Sow, So Shall You Reap"
+            },
+            "content": {
+              "urdu": [
+                "اللہ تعالی کا قانون ہے کہ جو بندوں پر رحم نہیں کرتا، اس پر بھی رحم نہیں کیا جاتا۔",
+                "جب ایک طاقتور انسان کمزور کی ضرورت سے منہ موڑتا ہے تو اللہ اس سے منہ موڑ لیتا ہے۔",
+                "دنیا میں لوگوں کو نظر انداز کرنے والا آخرت میں خود کو تنہا اور بے یار و مددگار پائے گا۔"
+              ],
+              "english": [
+                "It is Allah's law that he who does not show mercy to others will not receive mercy himself.",
+                "When a powerful human turns away from a weak person's need, Allah turns away from him.",
+                "One who ignores people in this world will find himself alone and helpless in the Hereafter."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دعاؤں کی قبولیت میں رکاوٹ",
+              "english": "Obstacle in Acceptance of Prayers"
+            },
+            "content": {
+              "urdu": [
+                "حاکم کی اپنی زندگی میں بھی مشکلات آتی ہیں جن کے لیے وہ اللہ کا محتاج ہوتا ہے۔",
+                "اگر وہ دوسروں کی پکار نہیں سنتا تو اللہ اس کی پکار اور حاجت پر 'حجاب' ڈال دیتا ہے۔",
+                "یہ سزا اس بات کی علامت ہے کہ اقتدار اللہ کی دی ہوئی ایک امانت ہے۔"
+              ],
+              "english": [
+                "A ruler also faces difficulties in his personal life for which he is dependent on Allah.",
+                "If he does not listen to others' cries, Allah places a 'veil' over his own cries and needs.",
+                "This punishment signifies that authority is a trust bestowed by Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "غریبوں اور مسکینوں کی اہمیت",
+        "english": "Importance of the Poor and Needy"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "فقراء کی فریاد رسی",
+              "english": "Redressing the Poor's Grievances"
+            },
+            "content": {
+              "urdu": [
+                "حدیث میں خاص طور پر 'فقیر' کا ذکر کیا گیا ہے کیونکہ وہ سب سے زیادہ نظر انداز کیے جاتے ہیں۔",
+                "امراء تو اپنی بات پہنچا دیتے ہیں، لیکن غریب کی رسائی حاکم تک مشکل بنا دی جاتی ہے۔",
+                "ایمان کا تقاضا ہے کہ کمزور طبقے کو ترجیح دی جائے اور ان کے مسائل پہلے سنے جائیں۔"
+              ],
+              "english": [
+                "The Hadith specifically mentions the 'poor' because they are the ones most often ignored.",
+                "The wealthy can get their word across, but access for the poor is often made difficult.",
+                "Faith requires that the weaker sections be prioritized and their issues heard first."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "معاشرتی عدل و انصاف",
+              "english": "Social Justice and Equity"
+            },
+            "content": {
+              "urdu": [
+                "ایک عادل معاشرے میں ہر شہری کو اپنے سربراہ تک رسائی کا برابر حق ہوتا ہے۔",
+                "حاکم وقت کو چاہیے کہ وہ باقاعدہ ایسے اوقات مقرر کرے جہاں وہ عوام سے براہ راست ملے۔",
+                "اس سے نہ صرف مسائل حل ہوتے ہیں بلکہ حکمران اور عوام میں اعتماد بھی پیدا ہوتا ہے۔"
+              ],
+              "english": [
+                "In a just society, every citizen has an equal right to access their leader.",
+                "The ruler must set specific times to meet directly with the general public.",
+                "This not only resolves issues but also builds trust between the ruler and the people."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "انتظامی عہدیداروں کے لیے نصیحت",
+        "english": "Advice for Administrative Officials"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "عہدہ ایک آزمائش ہے",
+              "english": "Office is a Trial"
+            },
+            "content": {
+              "urdu": [
+                "صرف بادشاہ ہی نہیں بلکہ ہر چھوٹا بڑا افسر اس حدیث کے دائرہ کار میں آتا ہے۔",
+                "دفاتر میں بیٹھ کر سائلین کو تنگ کرنا یا ان سے چھپنا اسی وعید کے زمرے میں ہے۔",
+                "جسے بھی اللہ نے کسی کے کام کا اختیار دیا، وہ اس کے لیے جوابدہ ہے۔"
+              ],
+              "english": [
+                "Not just kings, but every minor or major official falls under the scope of this Hadith.",
+                "Harassing applicants in offices or hiding from them falls under this warning.",
+                "Whoever Allah has given authority over another's work is accountable for it."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خدمتِ خلق کا جذبہ",
+              "english": "Spirit of Serving Humanity"
+            },
+            "content": {
+              "urdu": [
+                "بہترین حکمران وہ ہے جو عوام کے لیے بوجھ بننے کی بجائے ان کا سہارا بنے۔",
+                "سرکاری ملازمین کو چاہیے کہ وہ عوام کو اپنا مالک سمجھ کر ان کی خدمت کریں۔",
+                "اللہ کی خوشنودی بندوں کی حاجت روائی میں پوشیدہ ہے۔"
+              ],
+              "english": [
+                "The best leader is one who becomes a support for the people rather than a burden.",
+                "Public servants should serve the people by considering them their masters.",
+                "The pleasure of Allah is hidden in fulfilling the needs of His servants."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

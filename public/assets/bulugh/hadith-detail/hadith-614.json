@@ -1,0 +1,162 @@
+{
+  "hadithId": 614,
+  "hadithNo": 8,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh-al-maram/6/34"],
+    "kitabId": 6,
+    "inKitabBab": 5,
+    "arabicBook": "كتاب الحج",
+    "babId": 40
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح.‏ رواه البخاري (1597)، ومسلم (1270).",
+    "urdu": "صحیح۔ اسے امام بخاری (1597) اور امام مسلم (1270) نے روایت کیا ہے۔",
+    "english": "Sahih. Reported by Al-Bukhari (1597) and Muslim (1270)."
+  },
+  "importantWords": [
+    {
+      "arabic": "قَبَّلَ",
+      "english": "Kissed",
+      "urdu": "بوسہ دیا"
+    },
+    {
+      "arabic": "حَجَرٌ",
+      "english": "Stone",
+      "urdu": "پتھر"
+    },
+    {
+      "arabic": "تَضُرُّ",
+      "english": "Harm",
+      "urdu": "نقصان پہنچائے"
+    },
+    {
+      "arabic": "تَنْفَعُ",
+      "english": "Benefit",
+      "urdu": "نفع پہنچائے"
+    }
+  ],
+  "summary": {
+    "urdu": "سیدنا عمر رضی اللہ عنہ کا یہ عمل ہمیں خالص توحید اور کامل اتباعِ رسول ﷺ کا سبق دیتا ہے کہ حجرِ اسود کا بوسہ لینا محض سنت کی پیروی ہے، نہ کہ پتھر کی عبادت۔",
+    "english": "Umar's (RA) action teaches pure Monotheism and absolute adherence to the Sunnah; kissing the Black Stone is an act of following the Prophet (ﷺ), not stone worship."
+  },
+  "references": [
+    {
+      "arabic": "صحيح البخاري (1597)",
+      "english": "Sahih al-Bukhari (1597)"
+    },
+    {
+      "arabic": "صحيح مسلم (1270)",
+      "english": "Sahih Muslim (1270)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "عمر بن الخطاب",
+        "english": "Umar bin Al-Khattab"
+      },
+      "slug": "umar-bin-al-khattab"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "توحید اور اتباعِ سنت",
+        "english": "Tawhid and Following the Sunnah"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "سیدنا عمر کا مقصد",
+              "english": "Purpose of Umar's Statement"
+            },
+            "content": {
+              "urdu": [
+                "سیدنا عمر رضی اللہ عنہ کا یہ قول نو مسلموں کی عقیدہ سازی کے لیے تھا تاکہ وہ یہ نہ سمجھیں کہ اسلام میں بھی بت پرستی کی گنجائش ہے۔",
+                "انہوں نے واضح کیا کہ نفع اور نقصان صرف اللہ کے ہاتھ میں ہے، کسی مادی شے میں نہیں۔",
+                "عبادت کی جان اتباعِ رسول ﷺ ہے، چاہے اس کی حکمت ہمیں سمجھ آئے یا نہ آئے۔"
+              ],
+              "english": [
+                "Umar (RA) said this to safeguard the creed of new Muslims, ensuring they didn't confuse the act with idol worship.",
+                "He clarified that benefit and harm are solely in Allah's hands, not in physical objects.",
+                "The essence of worship is following the Prophet (ﷺ), regardless of whether we grasp the underlying wisdom."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حجرِ اسود کی حیثیت",
+              "english": "Status of the Black Stone"
+            },
+            "content": {
+              "urdu": [
+                "حجرِ اسود جنت سے لایا گیا پتھر ہے، مگر اس کی تعظیم صرف شریعت کے حکم کے تابع ہے۔",
+                "طواف کے دوران اسے چومنا یا اشارہ کرنا شعائر اللہ کی تعظیم کا حصہ ہے۔",
+                "یہ اللہ کے ساتھ اس عہد کی تجدید ہے جس پر بندہ قائم ہے۔"
+              ],
+              "english": [
+                "The Black Stone originated from Paradise, yet its honor is subordinate to Sharia commands.",
+                "Kissing or gesturing toward it during Tawaf is part of venerating Allah's symbols.",
+                "It serves as a physical point to renew the covenant with Allah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "طواف کے آداب اور طریقے",
+        "english": "Etiquettes and Methods of Tawaf"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رمل کی سنت",
+              "english": "The Sunnah of Ramal"
+            },
+            "content": {
+              "urdu": [
+                "طوافِ قدوم کے پہلے تین چکروں میں 'رمل' (پہلوانوں کی طرح تیزی سے چلنا) مسنون ہے۔",
+                "یہ سنت فتحِ مکہ سے پہلے مسلمانوں کی طاقت کے اظہار کے لیے شروع ہوئی تھی جو آج بھی جاری ہے۔",
+                "باقی چار چکروں میں اپنی عام رفتار سے چلنا سنت ہے۔"
+              ],
+              "english": [
+                "Ramal (walking briskly with shrugging shoulders) is Sunnah in the first three circuits of the first Tawaf.",
+                "This practice began as a display of strength to the pagans and remains part of the ritual.",
+                "Walking at a normal pace for the remaining four circuits is the established Sunnah."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استلام اور بوسہ",
+              "english": "Istilam and Kissing"
+            },
+            "content": {
+              "urdu": [
+                "اگر ہجوم کی وجہ سے بوسہ لینا ممکن نہ ہو تو ہاتھ سے چھونا یا دور سے اشارہ کرنا کافی ہے۔",
+                "سنت کے حصول کے لیے دوسروں کو تکلیف دینا یا دھکے دینا شرعاً ناپسندیدہ ہے۔",
+                "دین میں سہولت اور اللہ کی رضا مقدم ہونی چاہیے۔"
+              ],
+              "english": [
+                "If kissing is impossible due to crowds, touching with the hand or gesturing from afar is sufficient.",
+                "Causing distress or pushing others in pursuit of a Sunnah is legally discouraged.",
+                "Ease in religion and seeking Allah's pleasure take precedence."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

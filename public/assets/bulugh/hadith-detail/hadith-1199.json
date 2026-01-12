@@ -1,0 +1,259 @@
+{
+  "hadithId": 1199,
+  "hadithNo": 12,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/14/12"],
+    "kitabId": 14,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب القضاء",
+    "babId": 97
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح لغيره. رواه الترمذي (1336)، وأحمد (2/387)، وابن حبان (1196). وله شاهد من حديث عبد الله بن عمرو عند أبي داود (3580) والترمذي (1337).",
+    "urdu": "یہ حدیث اپنے شواہد کے ساتھ صحیح ہے۔ اسے ترمذی (1336)، احمد (2/387) اور ابن حبان (1196) نے روایت کیا ہے۔ عبداللہ بن عمرو رضی اللہ عنہ کی روایت بھی اس کی تائید کرتی ہے۔",
+    "english": "Sahih due to supporting evidences. Reported by At-Tirmidhi (1336), Ahmad (2/387), and Ibn Hibban (1196). A corroborating narration is found via Abdullah bin 'Amr in Abu Dawud (3580)."
+  },
+  "importantWords": [
+    {
+      "arabic": "لَعَنَ",
+      "english": "Cursed",
+      "urdu": "لعنت فرمائی"
+    },
+    {
+      "arabic": "الرَّاشِيَ",
+      "english": "The Briber",
+      "urdu": "رشوت دینے والا"
+    },
+    {
+      "arabic": "الْمُرْتَشِيَ",
+      "english": "The Bribed",
+      "urdu": "رشوت لینے والا"
+    },
+    {
+      "arabic": "الْحُكْمِ",
+      "english": "Judicial decision",
+      "urdu": "فیصلہ / حکمرانی"
+    },
+    {
+      "arabic": "الْخَمْسَةُ",
+      "english": "The Five (Compilers)",
+      "urdu": "پانچ محدثین"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں عدالتی فیصلوں اور حکومتی امور میں رشوت کے لین دین کی سخت مذمت کی گئی ہے اور اسے اللہ کی رحمت سے دوری کا سبب قرار دیا گیا ہے۔",
+    "english": "This Hadith strictly condemns bribery in legal and administrative matters, stating that both the giver and the receiver are deprived of Allah's mercy."
+  },
+  "references": [
+    {
+      "arabic": "رواه الترمذي (1336)",
+      "english": "Reported by At-Tirmidhi (1336)"
+    },
+    {
+      "arabic": "رواه أبو داود (3580)",
+      "english": "Reported by Abu Dawud (3580)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو هريرة الدوسي",
+        "english": "Abu Hurairah Al-Dawsi"
+      },
+      "slug": "abu-hurairah-al-dawsi"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=A8vNisF6mks",
+  "grade": {
+    "arabic": "صحيح لغيره",
+    "english": "Sahih Lighairihi (Authentic due to others)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "رشوت کی شرعی حیثیت",
+        "english": "Sharia Status of Bribery"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "لعنت کا مفہوم",
+              "english": "Meaning of the Curse"
+            },
+            "content": {
+              "urdu": [
+                "لعنت کا مطلب اللہ کی رحمت اور بھلائی سے دوری ہے۔",
+                "نبی ﷺ کا لعنت کرنا اس گناہ کے کبیرہ ہونے کی دلیل ہے۔",
+                "یہ عمل دین اور دنیا دونوں میں بربادی کا باعث بنتا ہے۔"
+              ],
+              "english": [
+                "L'anah (curse) signifies being distanced from Allah's mercy and goodness.",
+                "The Prophet's (ﷺ) curse indicates that bribery is a major sin (Kabirah).",
+                "This act leads to destruction in both religious and worldly affairs."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "فریقین کی برابری",
+              "english": "Equality of Both Parties in Sin"
+            },
+            "content": {
+              "urdu": [
+                "گناہ میں رشوت دینے والا اور لینے والا دونوں برابر کے شریک ہیں۔",
+                "حرام مال کے ذریعے حق کو باطل کرنا سنگین جرم ہے۔",
+                "معاشرے میں بگاڑ کی اصل جڑ یہی باہمی تعاونِ گناہ ہے۔"
+              ],
+              "english": [
+                "Both the giver and the receiver of a bribe share equal guilt in sin.",
+                "Using illicit money to invalidate a right is a serious crime.",
+                "This mutual cooperation in sin is the root of social corruption."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عدل و انصاف پر اثرات",
+        "english": "Impacts on Justice"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حق تلفی اور ظلم",
+              "english": "Violation of Rights and Oppression"
+            },
+            "content": {
+              "urdu": [
+                "رشوت کے ذریعے نااہل کو نوازنا اور حق دار کو محروم کرنا ظلم ہے۔",
+                "یہ عمل عدالتی نظام کے وقار اور شفافیت کو ختم کر دیتا ہے۔",
+                "جب انصاف بکنے لگے تو معاشرے میں انارکی پھیل جاتی ہے۔"
+              ],
+              "english": [
+                "Favoring the incompetent through bribes while depriving the rightful is oppression.",
+                "This practice destroys the dignity and transparency of the judicial system.",
+                "When justice becomes a commodity, anarchy spreads within society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قاضی کی ذمہ داری",
+              "english": "Responsibility of the Judge"
+            },
+            "content": {
+              "urdu": [
+                "قاضی یا جج اللہ کے ہاں اپنے ہر فیصلے کا جوابدہ ہے۔",
+                "مال کی لالچ میں حق کا سودا کرنا بدترین خیانت ہے۔",
+                "منصف کو چاہیے کہ وہ ہر قسم کے لالچ سے خود کو پاک رکھے۔"
+              ],
+              "english": [
+                "A Qadi or judge is accountable to Allah for every single decision.",
+                "Trading truth for the greed of wealth is the worst form of betrayal.",
+                "A judge must keep themselves purified from all types of greed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشرتی تباہی",
+        "english": "Social Destruction"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشی عدم استحکام",
+              "english": "Economic Instability"
+            },
+            "content": {
+              "urdu": [
+                "رشوت سے میرٹ کا قتل ہوتا ہے جو معیشت کو تباہ کرتا ہے۔",
+                "یہ دولت کے غلط رخ پر بہاؤ کا سبب بنتی ہے۔",
+                "حرام مال کی کثرت سے معاشرے میں بے برکتی پیدا ہوتی ہے۔"
+              ],
+              "english": [
+                "Bribery kills meritocracy, which in turn destroys the economy.",
+                "It causes wealth to flow in the wrong and unethical directions.",
+                "An abundance of illicit wealth creates a lack of blessing in society."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اخلاقی زوال",
+              "english": "Moral Decay"
+            },
+            "content": {
+              "urdu": [
+                "رشوت خور معاشرے میں امانت اور دیانت کا تصور ختم ہو جاتا ہے۔",
+                "لوگ محنت کے بجائے شارٹ کٹ اور حرام کو ترجیح دیتے ہیں۔",
+                "یہ عمل انسانیت کے اعلیٰ اخلاق کو مٹا کر لالچ پیدا کرتا ہے۔"
+              ],
+              "english": [
+                "The concepts of trust and integrity vanish in a bribe-taking society.",
+                "People prioritize shortcuts and haram over hard work and effort.",
+                "This practice erases high human morals and instills pure greed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حفاظتی تدابیر",
+        "english": "Preventative Measures"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "رزقِ حلال کی اہمیت",
+              "english": "Importance of Halal Provision"
+            },
+            "content": {
+              "urdu": [
+                "ہر مسلمان کو رزقِ حلال کمانے کی فکر کرنی چاہیے۔",
+                "حرام مال سے پلنے والا گوشت جہنم کا زیادہ حق دار ہے۔",
+                "تھوڑا حلال مال زیادہ حرام مال سے کہیں بہتر اور بابرکت ہے۔"
+              ],
+              "english": [
+                "Every Muslim must be concerned about earning halal provisions.",
+                "Flesh nourished by haram wealth is more deserving of the Fire.",
+                "A small amount of halal is far better than abundant haram wealth."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قانونی اور سماجی بائیکاٹ",
+              "english": "Legal and Social Boycott"
+            },
+            "content": {
+              "urdu": [
+                "معاشرے کو مل کر رشوت خوروں کا محاسبہ کرنا چاہیے۔",
+                "نوجوان نسل کو اس گناہ کی سنگینی سے آگاہ کرنا ضروری ہے۔",
+                "ایمانداری کو بطورِ نمونہ پیش کرنا ہی اصلاح کا راستہ ہے۔"
+              ],
+              "english": [
+                "Society must collectively hold bribe-takers accountable.",
+                "It is essential to educate the youth about the severity of this sin.",
+                "Presenting honesty as a role model is the path to reformation."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "hadithId": 1214,
+  "hadithNo": 5,
+  "hadithReferences": {
+    "sunnah.com": ["bulugh/14/26"],
+    "kitabId": 14,
+    "inKitabBab": 3,
+    "arabicBook": "كتاب القضاء",
+    "babId": 99
+  },
+ 
+  "takhreej": {
+    "arabic": "ضعيف. رواه أحمد (4/402)، وأبو داود (3613)، والنسائي في الكبرى (3/487). وفي إسناده انقطاع وضعف، وقد بين الحافظ ابن حجر علله في التلخيص الحبير.",
+    "urdu": "ضعیف۔ اسے احمد (4/402)، ابوداؤد (3613) اور نسائی نے روایت کیا ہے۔ اس کی سند میں انقطاع ہے، اور حافظ ابن حجر نے 'التلخیص' میں اس کی علتیں بیان کی ہیں۔",
+    "english": "Da'if (Weak). Reported by Ahmad (4/402), Abu Dawud (3613), and An-Nasa'i. The chain of narration has interruptions and weaknesses as noted by Al-Hafiz Ibn Hajar in Al-Talkhis."
+  },
+  "importantWords": [
+    {
+      "arabic": "اِخْتَصَمَا",
+      "english": "Disputed / Litigated",
+      "urdu": "جھگڑا کیا"
+    },
+    {
+      "arabic": "دَابَّةٍ",
+      "english": "Beast / Animal",
+      "urdu": "جانور / سواری"
+    },
+    {
+      "arabic": "بَيِّنَةٌ",
+      "english": "Proof / Evidence",
+      "urdu": "دلیل / ثبوت"
+    },
+    {
+      "arabic": "نِصْفَيْنِ",
+      "english": "Two halves",
+      "urdu": "دو آدھے حصے"
+    },
+    {
+      "arabic": "قَضَى",
+      "english": "Decreed / Judged",
+      "urdu": "فیصلہ کیا"
+    }
+  ],
+  "summary": {
+    "urdu": "اگر کسی جائیداد یا مال پر دو فریق دعویٰ کریں اور کسی کے پاس دلیل نہ ہو، تو قاضی انصاف کی خاطر اسے برابر تقسیم کر سکتا ہے۔",
+    "english": "If two parties claim ownership of a property and neither provides evidence, the judge may divide it equally between them to ensure fairness."
+  },
+  "references": [
+    {
+      "arabic": "سنن النسائي الكبرى، كتاب الأقضية، رقم 5980",
+      "english": "Sunan an-Nasa'i al-Kubra, Book of Judicial Decisions, No. 5980"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب الأقضية، رقم 3613",
+      "english": "Sunan Abi Dawud, Book of Judicial Decisions, No. 3613"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أبو موسى الأشعري",
+        "english": "Abu Musa al-Ash'ari"
+      },
+      "slug": "abu-musa-al-ashari"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=R9YgD9jP_wM",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Da'if (Weak)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "عدمِ ثبوت کی صورت میں فیصلہ",
+        "english": "Decision in Case of Lack of Evidence"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "برابر تقسیم کا اصول",
+              "english": "Principle of Equal Division"
+            },
+            "content": {
+              "urdu": [
+                "جب کسی مال پر دونوں کا قبضہ ہو اور ثبوت کسی کے پاس نہ ہو، تو اسے برابر بانٹ دیا جاتا ہے۔",
+                "یہ فیصلہ فریقین کے درمیان صلح اور نزاع کے خاتمے کے لیے بہترین حل ہے۔",
+                "اسلامی قانون میں جہاں حق واضح نہ ہو، وہاں برابری کو ترجیح دی جاتی ہے۔"
+              ],
+              "english": [
+                "When property is held by both and neither has proof, it is divided equally.",
+                "This decision is the best solution for reconciliation and ending the conflict.",
+                "In Islamic law, where the truth is not clear, equality is given preference."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "دلیل کی غیر موجودگی",
+              "english": "Absence of Clear Evidence"
+            },
+            "content": {
+              "urdu": [
+                "اگر ایک کے پاس دلیل ہوتی تو فیصلہ اس کے حق میں کر دیا جاتا۔",
+                "دلیل نہ ہونے کی صورت میں دونوں کے دعوؤں کو مساوی وزن دیا گیا ہے۔",
+                "یہ اس بات کی دلیل ہے کہ اسلام میں کسی کا حق ضائع نہیں کیا جاتا۔"
+              ],
+              "english": [
+                "If one had evidence, the decision would have been made in their favor.",
+                "In the absence of proof, both claims are given equal weight.",
+                "This serves as evidence that in Islam, no one's potential right is wasted."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی باریکیاں اور قواعد",
+        "english": "Juristic Nuances and Rules"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "قبضہ اور دعویٰ",
+              "english": "Possession and Claim"
+            },
+            "content": {
+              "urdu": [
+                "فقہاء کے نزدیک اس صورت میں جانور دونوں کے مشترکہ قبضے میں ہونا چاہیے۔",
+                "اگر جانور کسی ایک کے قبضے میں ہو تو اس کی قسم معتبر مانی جاتی ہے۔",
+                "یہ حدیث مشترکہ قبضے والے مال میں تقسیم کے ضابطے کو بیان کرتی ہے۔"
+              ],
+              "english": [
+                "According to jurists, the animal must be in the joint possession of both in this case.",
+                "If the animal is in the possession of only one, his oath is considered valid.",
+                "This Hadith explains the rule of division for property in joint possession."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "قاضی کی بصیرت",
+              "english": "The Insight of the Judge"
+            },
+            "content": {
+              "urdu": [
+                "قاضی کو اختیار ہے کہ وہ حالات کے مطابق صلح کا راستہ نکالے۔",
+                "برابر تقسیم کا مقصد یہ ہے کہ کسی ایک کو مکمل نقصان سے بچایا جا سکے۔",
+                "یہ عمل عدالتی بصیرت اور انصاف کے قیام کی ایک اعلیٰ مثال ہے۔"
+              ],
+              "english": [
+                "The judge has the authority to find a path for reconciliation based on circumstances.",
+                "The goal of equal division is to save either party from complete loss.",
+                "This act is a prime example of judicial insight and the establishment of justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "جھگڑوں کا خاتمہ",
+        "english": "Ending Disputes"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاشرتی امن",
+              "english": "Social Peace"
+            },
+            "content": {
+              "urdu": [
+                "طویل مقدمہ بازی معاشرے میں دشمنی اور نفرت پیدا کرتی ہے۔",
+                "فوری اور منصفانہ تقسیم سے دلوں کے کینے ختم ہو جاتے ہیں۔",
+                "اسلامی ریاست کا مقصد جھگڑوں کو کم سے کم کرنا اور صلح کروانا ہے۔"
+              ],
+              "english": [
+                "Long-standing litigation creates enmity and hatred within society.",
+                "Immediate and fair division helps eliminate grudges from hearts.",
+                "The goal of the Islamic state is to minimize disputes and facilitate reconciliation."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "اعتدال کی راہ",
+              "english": "Path of Moderation"
+            },
+            "content": {
+              "urdu": [
+                "یہ حدیث انتہا پسندی کے بجائے اعتدال اور توازن کی تعلیم دیتی ہے۔",
+                "اگر جانور کسی کو نہ دیا جاتا تو وہ ضائع ہونے کا خدشہ تھا۔",
+                "تقسیم کے ذریعے دونوں کو فائدہ پہنچا دیا گیا اور نقصان کو بانٹ لیا گیا۔"
+              ],
+              "english": [
+                "This Hadith teaches moderation and balance instead of extremism.",
+                "If the animal was given to no one, there was a risk of it being wasted.",
+                "Through division, both were benefited and the potential loss was shared."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی و عملی اسباق",
+        "english": "Educational and Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "دستاویزی ثبوت کی اہمیت",
+              "english": "Importance of Documentary Evidence"
+            },
+            "content": {
+              "urdu": [
+                "اس پریشانی سے بچنے کا بہترین طریقہ مال کے ثبوت اور تحریر کو پاس رکھنا ہے۔",
+                "اگر ان کے پاس 'بینہ' (ثبوت) ہوتا تو حقدار کو اپنا مکمل حق مل جاتا۔",
+                "مسلمانوں کو اپنے لین دین میں شفافیت اور تحریر کا اہتمام کرنا چاہیے۔"
+              ],
+              "english": [
+                "The best way to avoid such trouble is to keep proof and written records of assets.",
+                "If they had 'Bayyinah' (proof), the rightful owner would have received their full right.",
+                "Muslims should ensure transparency and documentation in their dealings."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حکمتِ نبوی کا عملی پہلو",
+              "english": "Practical Aspect of Prophetic Wisdom"
+            },
+            "content": {
+              "urdu": [
+                "آپ ﷺ کا فیصلہ محض ایک فیصلہ نہیں بلکہ قیامت تک کے لیے ایک قانونی اصول ہے۔",
+                "یہ طریقہ کار پیچیدہ مقدمات کو حل کرنے میں جدید عدلیہ کے لیے بھی مشعلِ راہ ہے۔",
+                "اسلام ہر دور کے مسائل کا حل فراہم کرنے کی مکمل صلاحیت رکھتا ہے۔"
+              ],
+              "english": [
+                "The Prophet's (ﷺ) decision is not just a verdict but a legal principle for all time.",
+                "This procedure is a guiding light even for modern judiciaries in resolving complex cases.",
+                "Islam has the full capacity to provide solutions for issues of every era."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "hadithId": 263,
+  "hadithNo": 2,
+  "hadithReferences": {
+    "sunnah.com": [
+      "https://sunnah.com/bukhari:1229",
+      "https://sunnah.com/muslim:573"
+    ],
+    "kitabId": 2,
+    "inKitabBab": 8,
+    "arabicBook": "صحیح البخاری / صحیح مسلم",
+    "babId": 18
+  },
+  
+  "takhreej": {
+    "arabic": "صحيح متفق عليه .‏ رواه البخاري ( 1229 )‏ ، ومسلم ( 573 )‏ .‏ ورواه أبو داود ( 1008 )‏ .‏ وأما رواية أبو داود (1012)‏ فمنكرة لأن في سندها محمد بن كثير بن أبي عطاء يروي مناكير .‏",
+    "urdu": "صحیح، متفق علیہ۔ اسے بخاری (1229) اور مسلم (573) نے روایت کیا ہے۔ ابوداؤد (1008) میں بھی صحیح روایت ہے۔ البتہ ابوداؤد (1012) کی روایت منکر ہے کیونکہ اس کی سند میں محمد بن کثیر ضعیف راوی ہے۔",
+    "english": "Sahih (Agreed Upon). Reported by Al-Bukhari (1229) and Muslim (573). Also reported by Abu Dawud (1008). However, the narration in Abu Dawud (1012) is Munkar (rejected) due to weakness in its chain."
+  },
+  "importantWords": [
+    {
+      "arabic": "صَلَاتِي اَلْعَشِيّ",
+      "english": "Afternoon prayers",
+      "urdu": "بعد از دوپہر کی نمازیں"
+    },
+    {
+      "arabic": "نَسِيتَ",
+      "english": "You forgot",
+      "urdu": "آپ بھول گئے"
+    },
+    {
+      "arabic": "قُصِرَتْ",
+      "english": "Shortened",
+      "urdu": "کم کر دی گئی"
+    },
+    {
+      "arabic": "ذَا اَلْيَدَيْنِ",
+      "english": "Dhul-Yadayn (Owner of hands)",
+      "urdu": "لمبے ہاتھوں والا (ذوالیدین)"
+    },
+    {
+      "arabic": "سَجَدَ",
+      "english": "Prostrated",
+      "urdu": "سجدہ کیا"
+    },
+    {
+      "arabic": "أَتَمَّ",
+      "english": "Completed",
+      "urdu": "مکمل کی"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں سجدہ سہو کا بیان ہے کہ اگر امام بھول کر نماز کم پڑھ لے اور اسے یاد دلایا جائے تو وہ باقی نماز پوری کرے اور آخر میں دو سجدے سہو کے کرے۔",
+    "english": "This Hadith explains Sujud as-Sahw (Prostration of Forgetfulness). If an Imam forgets and shortens the prayer, he should complete the remaining part upon checking and then perform two prostrations."
+  },
+  "references": [
+    {
+      "arabic": "رواه البخاري (1229)",
+      "english": "Reported by Al-Bukhari (1229)"
+    },
+    {
+      "arabic": "رواه مسلم (573)",
+      "english": "Reported by Muslim (573)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "أَبِي هُرَيْرَةَ",
+        "english": "Abu Hurairah"
+      },
+      "slug": "abu-hurairah"
+    }
+  ],
+  "ytLink": "https://youtu.be/k2Mxo0Nlo9A?si=l4nQ8vJ4X5bF8Gg_",
+  "grade": {
+    "arabic": "متفق عليه",
+    "english": "Muttafaq Alaih (Agreed Upon)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کا پس منظر",
+        "english": "Background of the Hadith"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ذوالیدین کا واقعہ",
+              "english": "Incident of Dhul-Yadayn"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے چار رکعت والی نماز دو رکعت پڑھ کر سلام پھیر دیا۔",
+                "صحابہ کرام احترام کی وجہ سے خاموش رہے مگر ذوالیدین نے سوال کیا۔",
+                "یہ واقعہ بشری تقاضوں اور بھول چوک کی مثال ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) prayed two Rak'ahs instead of four and finished.",
+                "The Companions remained silent out of respect, but Dhul-Yadayn asked.",
+                "This event illustrates human nature and forgetfulness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "تحقیق اور یقین",
+              "english": "Verification and Certainty"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے صرف ایک شخص کی بات پر فیصلہ نہیں کیا۔",
+                "آپ ﷺ نے دیگر صحابہ سے تصدیق کی کہ کیا ذوالیدین سچ کہہ رہے ہیں۔",
+                "اجتماعی معاملات میں تحقیق کرنا سنت نبوی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not decide based on one person's word.",
+                "He verified with other Companions if Dhul-Yadayn was speaking the truth.",
+                "It is a Sunnah to verify facts in collective matters."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "فقہی احکام",
+        "english": "Juristic Rulings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "نماز میں بھولنا",
+              "english": "Forgetting in Prayer"
+            },
+            "content": {
+              "urdu": [
+                "اگر نماز میں رکعتیں کم ہو جائیں تو نئے سرے سے پڑھنے کی ضرورت نہیں۔",
+                "بچی ہوئی رکعتیں ادا کریں اور آخر میں سجدہ سہو کریں۔",
+                "یہ دین میں آسانی اور رحمت کا مظہر ہے۔"
+              ],
+              "english": [
+                "If Rak'ahs are missed, there is no need to restart the prayer.",
+                "Perform the remaining Rak'ahs and do Sujud as-Sahw at the end.",
+                "This demonstrates ease and mercy in the religion."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "نماز میں گفتگو",
+              "english": "Speaking in Prayer"
+            },
+            "content": {
+              "urdu": [
+                "نماز کی اصلاح کے لیے ضرورت کے تحت مختصر بات کرنا جائز ہے۔",
+                "اگر بھولے سے بات کی جائے تو نماز نہیں ٹوٹتی۔",
+                "نبی ﷺ نے ذوالیدین سے جواب طلب کیا، جس سے یہ جواز ملتا ہے۔"
+              ],
+              "english": [
+                "Brief speech for correcting prayer is permissible if necessary.",
+                "If one speaks out of forgetfulness, the prayer is not invalidated.",
+                "The Prophet (ﷺ) asked Dhul-Yadayn, which proves this permissibility."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "غلطی تسلیم کرنا",
+              "english": "Admitting Mistake"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے اپنی بھول کو چھپایا نہیں بلکہ تسلیم کیا۔",
+                "لیڈر یا امام کو اپنی غلطی ماننے میں عار محسوس نہیں کرنی چاہیے۔",
+                "حق بات قبول کرنا عظمت کی نشانی ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) did not hide his mistake but admitted it.",
+                "A leader or Imam should not feel ashamed to admit an error.",
+                "Accepting the truth is a sign of greatness."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "ادب اور احترام",
+              "english": "Etiquette and Respect"
+            },
+            "content": {
+              "urdu": [
+                "ابوبکر اور عمر رضی اللہ عنہم کا خاموش رہنا ادب کی انتہا تھی۔",
+                "بڑوں کے سامنے بولنے میں احتیاط کرنی چاہیے۔",
+                "لیکن جب شرعی مسئلہ ہو تو ادب کے دائرے میں سوال کرنا ضروری ہے۔"
+              ],
+              "english": [
+                "The silence of Abu Bakr and Umar (RA) was the height of respect.",
+                "One should be cautious when speaking before elders.",
+                "However, in religious matters, asking respectfully is necessary."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lesson"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "بشری تقاضے",
+              "english": "Human Nature"
+            },
+            "content": {
+              "urdu": [
+                "انبیاء بھی انسان ہوتے ہیں اور بھول سکتے ہیں۔",
+                "نبی ﷺ کا بھولنا امت کے لیے ایک رحمت اور تعلیم بنا۔",
+                "اگر آپ ﷺ نہ بھولتے تو ہمیں سجدہ سہو کا طریقہ کیسے معلوم ہوتا؟"
+              ],
+              "english": [
+                "Prophets are also human and can forget.",
+                "The Prophet's forgetfulness became a mercy and lesson for the Ummah.",
+                "If he had not forgotten, how would we know the method of Sujud as-Sahw?"
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مشاورت کی اہمیت",
+              "english": "Importance of Consultation"
+            },
+            "content": {
+              "urdu": [
+                "نبی ﷺ نے صحابہ سے تصدیق کر کے مشاورت کا درس دیا۔",
+                "فیصلہ کرنے سے پہلے حقائق کی جانچ پڑتال کریں۔",
+                "جماعت کا فیصلہ فرد واحد کے گمان سے بہتر ہوتا ہے۔"
+              ],
+              "english": [
+                "The Prophet (ﷺ) taught consultation by verifying with Companions.",
+                "Verify facts before making a decision.",
+                "The collective decision is better than an individual's assumption."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

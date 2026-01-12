@@ -1,0 +1,310 @@
+{
+  "hadithId": 11,
+  "hadithNo": 11,
+  "hadithReferences": {
+    "sunnah.com": [""],
+    "inKitab": 1,
+    "inKitabBab": 1,
+    "arabicBook": "",
+    "chapterId": 1
+  },
+
+  "takhreej": {
+    "arabic": "رواه أحمد (2/97)، وابن ماجه (3314)، وسنده ضعيف كما أشار إلى ذلك الحافظ. ولكنه يصح عن ابن عمر موقوفا، والموقوف له حكم الرفع كما قاله البيهقي رحمه الله.",
+    "urdu": "احمد (2/97) اور ابن ماجہ (3314) میں روایت ہوئی ہے، اور سند ضعيف ہے لیکن ابن عمر سے موقوف روایت صحیح ہے۔",
+    "english": "Narrated by Ahmad (2/97) and Ibn Majah (3314). The chain is weak, but the statement is acceptable as a Mauquf narration from Ibn Umar, which is treated as authoritative."
+  },
+  "importantWords": [
+    {
+      "arabic": "ميتتان",
+      "english": "Two dead animals",
+      "urdu": "دو مردہ جانور"
+    },
+    {
+      "arabic": "دمان",
+      "english": "Two blood parts",
+      "urdu": "دو خون کے اعضا"
+    },
+    {
+      "arabic": "جراد",
+      "english": "Locust",
+      "urdu": "ٹڈیاں"
+    },
+    {
+      "arabic": "حوت",
+      "english": "Fish",
+      "urdu": "وہیل"
+    },
+    {
+      "arabic": "طحال",
+      "english": "Spleen",
+      "urdu": "تلی"
+    },
+    {
+      "arabic": "كبد",
+      "english": "Liver",
+      "urdu": "جگر"
+    }
+  ],
+  "summary": {
+    "urdu": "حدیث میں بیان ہے کہ کچھ مردہ جانور اور خون کے خاص اعضا مسلمانوں کے لیے حلال ہیں۔ یہ ہمیں اسلامی احکام کے بارے میں رہنمائی دیتا ہے۔",
+    "english": "The Hadith explains that certain dead animals and specific blood parts are lawful for Muslims. It provides guidance regarding dietary rulings in Islam."
+  },
+  "references": [
+    {
+      "arabic": "رواه أحمد (2/97)",
+      "english": "Narrated by Ahmad (2/97)"
+    },
+    {
+      "arabic": "رواه ابن ماجه (3314)",
+      "english": "Narrated by Ibn Majah (3314)"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "ابن عمر رضی الله عنهما",
+        "english": "Ibn Umar (may Allah be pleased with him)"
+      },
+      "slug": "ibn-umar"
+    }
+  ],
+  "ytLink": " ",
+  "grade": {
+    "arabic": "ضعيف",
+    "english": "Weak"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "مردہ جانوروں اور خون کے اعضا",
+        "english": "Dead Animals and Blood Parts"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "مردہ جانور",
+              "english": "Dead animals"
+            },
+            "content": {
+              "urdu": [
+                "ٹڈیاں اور وہیل ہمارے لیے حلال ہیں۔",
+                "حدیث ہمیں بتاتی ہے کہ بعض مردہ جانور کھانے کے لیے جائز ہیں۔",
+                "یہ استثناء اسلامی قانون میں خاص اہمیت رکھتا ہے۔"
+              ],
+              "english": [
+                "Locusts and fish are lawful for us.",
+                "The Hadith informs that some dead animals are permissible.",
+                "This exception holds special significance in Islamic law."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "خون کے اعضا",
+              "english": "Blood parts"
+            },
+            "content": {
+              "urdu": [
+                "تلی اور جگر حلال ہیں۔",
+                "یہ مخصوص اعضا حلال خون میں شامل ہیں۔",
+                "حدیث ہمیں کھانے کی حدود کے بارے میں تعلیم دیتی ہے۔"
+              ],
+              "english": [
+                "The spleen and liver are lawful.",
+                "These specific parts are permissible.",
+                "The Hadith teaches about dietary limits."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "حدیث کی سند",
+        "english": "Chain of Narration"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "ضعيف سند",
+              "english": "Weak chain"
+            },
+            "content": {
+              "urdu": [
+                "احمد اور ابن ماجہ سے روایت ہوئی۔",
+                "سند ضعيف ہے لیکن قابل قبول موقوف روایت ہے۔",
+                "بیہقی کے مطابق یہ موقوف حدیث رفع کے برابر ہے۔"
+              ],
+              "english": [
+                "Narrated by Ahmad and Ibn Majah.",
+                "The chain is weak but acceptable as a Mauquf narration.",
+                "According to Al-Bayhaqi, Mauquf is treated like Marfu in ruling."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "موقوف روایت کی اہمیت",
+              "english": "Importance of Mauquf narration"
+            },
+            "content": {
+              "urdu": [
+                "ابن عمر سے روایت کی گئی ہے۔",
+                "موقوف روایت بھی عملی حکم کے لیے معتبر ہے۔",
+                "یہ ہمیں صحابہ کی اقوال سے رہنمائی دیتی ہے۔"
+              ],
+              "english": [
+                "Narrated from Ibn Umar.",
+                "Mauquf narration is valid for practical rulings.",
+                "It guides us from the sayings of the companions."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "اسلامی تعلیمات",
+        "english": "Islamic Teachings"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "حلال اور حرام",
+              "english": "Lawful and prohibited"
+            },
+            "content": {
+              "urdu": [
+                "حدیث ہمیں حلال اور حرام کی حدود سکھاتی ہے۔",
+                "کچھ خاص مردہ جانور اور اعضا کھانے کے لیے جائز ہیں۔",
+                "اسلامی غذائی قوانین میں رہنمائی ملتی ہے۔"
+              ],
+              "english": [
+                "The Hadith teaches limits of halal and haram.",
+                "Some specific dead animals and parts are lawful.",
+                "Provides guidance on Islamic dietary laws."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "استثناء کا سبق",
+              "english": "Lesson of exceptions"
+            },
+            "content": {
+              "urdu": [
+                "یہ استثناء اسلامی قانون کی خوبی ہے۔",
+                "ہمیں ہر چیز کو عام اصول سے نہیں دیکھنا چاہیے۔",
+                "استثناءات کو سمجھنا ضروری ہے۔"
+              ],
+              "english": [
+                "This exception highlights Islamic law's wisdom.",
+                "We should not see everything by general rules.",
+                "Understanding exceptions is important."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی سبق",
+        "english": "Practical Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "کھانے کی اجازت",
+              "english": "Permission to eat"
+            },
+            "content": {
+              "urdu": [
+                "ٹڈیاں اور وہیل کھانے کے لیے حلال ہیں۔",
+                "تلی اور جگر خون میں حلال ہیں۔",
+                "یہ عمل روزمرہ زندگی میں استعمال ہو سکتا ہے۔"
+              ],
+              "english": [
+                "Locusts and fish are lawful to eat.",
+                "The spleen and liver are lawful parts.",
+                "This can be applied practically in daily life."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "سنت کی پیروی",
+              "english": "Following the Sunnah"
+            },
+            "content": {
+              "urdu": [
+                "صحابہ کی اقوال پر عمل کریں۔",
+                "موقوف حدیث کے مطابق زندگی گزاریں۔",
+                "حدیث ہمیں سنت کی پیروی سکھاتی ہے۔"
+              ],
+              "english": [
+                "Follow the sayings of the companions.",
+                "Live according to Mauquf narrations.",
+                "The Hadith teaches following the Sunnah."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "تعلیمی سبق",
+        "english": "Educational Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "علم اور فہم",
+              "english": "Knowledge and Understanding"
+            },
+            "content": {
+              "urdu": [
+                "حدیث ہمیں حلال اور حرام کی تعلیم دیتی ہے۔",
+                "استثناءات کو سمجھنا ضروری ہے۔",
+                "علماء سے رہنمائی حاصل کریں۔"
+              ],
+              "english": [
+                "The Hadith teaches halal and haram.",
+                "Understanding exceptions is necessary.",
+                "Seek guidance from scholars."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "احکام کی وضاحت",
+              "english": "Clarification of rulings"
+            },
+            "content": {
+              "urdu": [
+                "حدیث ہمیں کھانے کے احکام سمجھاتی ہے۔",
+                "کچھ اعضا اور جانور حلال ہیں۔",
+                "یہ اسلامی احکام کی وضاحت کرتی ہے۔"
+              ],
+              "english": [
+                "The Hadith clarifies rulings regarding food.",
+                "Some parts and animals are lawful.",
+                "It explains Islamic dietary rulings."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

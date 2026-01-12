@@ -1,0 +1,264 @@
+{
+  "hadithId": 672,
+  "hadithNo": 25,
+  "hadithReferences": {
+    "sunnah.com": ["https://sunnah.com/bulugh/7/25"],
+    "kitabId": 7,
+    "inKitabBab": 1,
+    "arabicBook": "كتاب البيوع",
+    "babId": 42
+  },
+ 
+  "takhreej": {
+    "arabic": "صحيح. رواه أبو داود (3405)، والنسائي (4637)، والترمذي (1290) وقال: حسن صحيح. والمحاقلة هي بيع الطعام في سنبله بالبر، والمزابنة بيع الثمر على رؤوس النخل بالتمر، والمخابرة هي المزارعة على جزء مما يخرج من الأرض.",
+    "urdu": "یہ حدیث صحیح ہے۔ اسے ابوداؤد، نسائی اور ترمذی نے روایت کیا ہے۔ محاقلہ سے مراد کھیت میں کھڑی فصل کو کٹے ہوئے غلے کے عوض بیچنا ہے، مزابنہ درخت پر لگی کھجور کو خشک کھجور کے عوض بیچنا، اور مخابرہ زمین کو پیداوار کے ایک حصے پر بٹائی پر دینا ہے۔",
+    "english": "Sahih. Reported by Abu Dawud (3405), an-Nasa'i (4637), and at-Tirmidhi (1290) who graded it Hasan Sahih. It details the prohibition of certain speculative agricultural transactions."
+  },
+  "importantWords": [
+    {
+      "arabic": "الْمُحَاقَلَةِ",
+      "english": "Crop exchange (Speculative)",
+      "urdu": "محاقلہ (کھڑی فصل کا تبادلہ)"
+    },
+    {
+      "arabic": "الْمُزَابَنَةِ",
+      "english": "Fruit exchange (Speculative)",
+      "urdu": "مزابنہ (پھل کا تبادلہ)"
+    },
+    {
+      "arabic": "الْمُخَابَرَةِ",
+      "english": "Sharecropping (Specific spot)",
+      "urdu": "مخابرہ (زمینی بٹائی)"
+    },
+    {
+      "arabic": "الثُّنْيَا",
+      "english": "Exception in a sale",
+      "urdu": "استثنا (کچھ حصہ الگ رکھنا)"
+    },
+    {
+      "arabic": "تُعْلَمَ",
+      "english": "To be known",
+      "urdu": "معلوم کر لیا جائے"
+    },
+    {
+      "arabic": "نَهَى",
+      "english": "Forbade",
+      "urdu": "منع فرمایا"
+    }
+  ],
+  "summary": {
+    "urdu": "اس حدیث میں زراعت اور باغات سے متعلق ان سودوں سے منع کیا گیا ہے جن میں دھوکہ یا سود (ربا) کا پہلو ہو، اور واضح کیا گیا کہ سودے میں کوئی بھی استثنا صرف تب جائز ہے جب وہ معلوم ہو۔",
+    "english": "This Hadith prohibits speculative agricultural sales involving uncertainty or potential usury, while clarifying that exceptions in sales are only valid if clearly defined."
+  },
+  "references": [
+    {
+      "arabic": "جامع الترمذي، كتاب البيوع",
+      "english": "Jami' at-Tirmidhi, Book of Sales"
+    },
+    {
+      "arabic": "سنن أبي داود، كتاب البيوع",
+      "english": "Sunan Abi Dawud, Book of Sales"
+    }
+  ],
+  "narrators": [
+    {
+      "id": 1,
+      "name": {
+        "arabic": "جابر بن عبد الله",
+        "english": "Jabir bin Abdullah"
+      },
+      "slug": "jabir-bin-abdullah"
+    }
+  ],
+  "ytLink": "https://www.youtube.com/watch?v=F0p7U_pG_2Q",
+  "grade": {
+    "arabic": "صحيح",
+    "english": "Sahih (Authentic)"
+  },
+  "explanation": [
+    {
+      "sectionTitle": {
+        "urdu": "ممنوعہ زرعی سودوں کی وضاحت",
+        "english": "Explanation of Forbidden Sales"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "محاقلہ اور مزابنہ کی حرمت",
+              "english": "Prohibition of Muhaqalah and Muzabanah"
+            },
+            "content": {
+              "urdu": [
+                "محاقلہ سے مراد کھڑی فصل کو کٹے ہوئے غلے کے بدلے اندازے سے بیچنا ہے۔",
+                "مزابنہ درخت پر موجود پھل کو اتارے ہوئے خشک پھل کے بدلے بیچنا ہے۔",
+                "ان میں مقدار برابر نہ ہونے کی صورت میں سود (ربا الفضل) کا قوی امکان ہے۔"
+              ],
+              "english": [
+                "Muhaqalah involves selling unharvested grain in exchange for harvested grain.",
+                "Muzabanah is selling fresh fruit on trees for dried fruit by estimation.",
+                "These are forbidden because inequality in amounts leads to Riba al-Fadl."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "مخابرہ اور زمینی بٹائی",
+              "english": "Mukhabarah and Sharecropping"
+            },
+            "content": {
+              "urdu": [
+                "مخابرہ سے مراد زمین کے کسی خاص حصے کی پیداوار پر معاہدہ کرنا ہے۔",
+                "اگر صرف اس خاص حصے میں پیداوار نہ ہو تو ایک فریق کا نقصان یقینی ہے۔",
+                "اسلام ہر اس معاملے سے روکتا ہے جس میں ایک کا نفع اور دوسرے کا نقصان ہو۔"
+              ],
+              "english": [
+                "Mukhabarah refers to sharecropping based on the yield of a specific plot.",
+                "If only that specific plot fails to produce, one party suffers a total loss.",
+                "Islam prohibits any contract where one party's gain is built on another's loss."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "بیع استثنا کے احکام",
+        "english": "Rulings on Exceptions in Sales"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "استثنا کا شرعی مفہوم",
+              "english": "Sharia Meaning of Thunya"
+            },
+            "content": {
+              "urdu": [
+                "استثنا کا مطلب ہے ڈھیر میں سے کچھ حصہ اپنے لیے رکھ کر باقی بیچنا۔",
+                "اگر یہ حصہ نامعلوم ہو (جیسے 'کچھ پھل') تو سودا باطل اور ناجائز ہے۔",
+                "جہالت اور ابہام کی وجہ سے فریقین کے درمیان جھگڑا پیدا ہو سکتا ہے۔"
+              ],
+              "english": [
+                "Thunya means exempting a part of the goods for oneself during a sale.",
+                "If the exempted part is unknown (e.g., 'some fruit'), the sale is void.",
+                "Ambiguity and ignorance regarding quantity often lead to disputes."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "جواز کی شرط",
+              "english": "Condition for Permissibility"
+            },
+            "content": {
+              "urdu": [
+                "اگر استثنا کی مقدار معلوم ہو (مثلاً 'دس کلو') تو سودا جائز ہے۔",
+                "شفافیت ہی اسلامی تجارت کی بنیادی روح اور تقاضا ہے۔",
+                "جب مقدار واضح ہو جائے تو 'غرر' (دھوکہ) کا پہلو ختم ہو جاتا ہے۔"
+              ],
+              "english": [
+                "If the exempted amount is known (e.g., '10 kg'), the sale is valid.",
+                "Transparency is the fundamental spirit and requirement of Islamic trade.",
+                "Once the quantity is clear, the element of 'Gharar' (deception) is removed."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "معاشی عدل و انصاف",
+        "english": "Economic Justice and Equity"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "تخمینے اور اندازے سے بچاؤ",
+              "english": "Avoiding Guesswork"
+            },
+            "content": {
+              "urdu": [
+                "اسلامی معیشت اندازوں کے بجائے یقینی پیمائش (ناپ تول) پر قائم ہے۔",
+                "پیمائش میں کمی بیشی یا ابہام معاشرتی بگاڑ کا سبب بنتا ہے۔",
+                "اللہ تعالیٰ نے خرید و فروخت میں ناپ تول کو پورا کرنے کا حکم دیا ہے۔"
+              ],
+              "english": [
+                "The Islamic economy is built on exact measurements rather than guesswork.",
+                "Imbalance or ambiguity in measurements leads to social corruption.",
+                "Allah has commanded the completion of weights and measures in trade."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حقوق کا تحفظ",
+              "english": "Protection of Rights"
+            },
+            "content": {
+              "urdu": [
+                "ان احکامات کا مقصد کسان اور تاجر دونوں کے حقوق کا تحفظ ہے۔",
+                "تاجر کو دھوکے سے اور کسان کو استحصال سے بچانا مقصودِ شریعت ہے۔",
+                "اسلامی قانونِ تجارت عدل و احسان کی بہترین مثال پیش کرتا ہے۔"
+              ],
+              "english": [
+                "These rulings aim to protect the rights of both farmers and traders.",
+                "Sharia intends to save traders from fraud and farmers from exploitation.",
+                "The Islamic law of commerce provides a perfect example of justice."
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "sectionTitle": {
+        "urdu": "عملی زندگی کے اسباق",
+        "english": "Practical Life Lessons"
+      },
+      "sectionData": {
+        "points": [
+          {
+            "title": {
+              "urdu": "معاہدوں میں وضاحت",
+              "english": "Clarity in Contracts"
+            },
+            "content": {
+              "urdu": [
+                "ہمیشہ اپنے کاروباری معاہدوں کو تحریری اور واضح شکل میں طے کریں۔",
+                "کسی بھی قسم کے مبہم جملوں سے بچیں جو مستقبل میں تنازع بن سکیں۔",
+                "سچائی اور وضاحت کاروبار میں اللہ کی طرف سے برکت لاتی ہے۔"
+              ],
+              "english": [
+                "Always finalize your business contracts in written and clear formats.",
+                "Avoid any ambiguous phrases that might cause future conflicts.",
+                "Truthfulness and clarity bring divine blessings into one's business."
+              ]
+            }
+          },
+          {
+            "title": {
+              "urdu": "حلال رزق کی فکر",
+              "english": "Concern for Halal Provision"
+            },
+            "content": {
+              "urdu": [
+                "رزقِ حلال کے حصول کے لیے تجارت کے شرعی اصولوں کا علم حاصل کریں۔",
+                "سود کے شبہ والی ہر قسم کی بیع سے خود کو پاک رکھیں۔",
+                "ایک سچا مسلمان کبھی بھی دوسرے کے نقصان پر اپنا نفع نہیں چاہتا۔"
+              ],
+              "english": [
+                "Seek knowledge of Sharia principles to ensure your income remains Halal.",
+                "Purify your dealings from any transaction carrying a suspicion of Riba.",
+                "A true Muslim never seeks personal profit through the loss of another."
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
