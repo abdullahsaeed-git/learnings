@@ -4,6 +4,12 @@ A React-based web app for reading and studying Islamic content, currently center
 
 > Note: `package.json` name is `deen-learnings` — this repo is a work-in-progress learning/portfolio project.
 
+## About
+
+EasyDeen is being built to make classical Islamic texts easier to access and read online, starting with **Bulugh al-Maram** and a companion reference for the **Sahaba**. The goal is a clean, distraction-free reading experience with bilingual (Arabic/Urdu) support, structured navigation (Book → Chapter → Hadith), and room to grow into a broader Islamic learning platform over time.
+
+**Live site:** [EasyDeen.netlify.app](https://easydeen.netlify.app)
+
 ## Features
 
 - **Bulugh al-Maram reader**
