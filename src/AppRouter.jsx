@@ -11,6 +11,9 @@ import BMSingleHadith from './pages/BMSingleHadith';
 import Sahaba from './pages/Sahaba';
 import SingleSahabi from './pages/SingleSahabi';
 import BMEditHadith from './pages/BMEditHadith';
+import Quran from './pages/Quran';
+import QuranUrdu from './pages/QuranUrdu';
+import QuranList from './pages/QuranList';
 
 
 function AppRouter() {
@@ -51,6 +54,10 @@ function AppRouter() {
               <BMEditHadith urduText={urduText} setUrduText={setUrduText} />
             }
           />
+        </Route>
+        <Route element = {<Quran/>}>
+        <Route path='/quran' element = {<QuranList/>}/>
+        <Route path='/quran/translation/:languageSlug' element = {<QuranUrdu/>}/>
         </Route>
         <Route element={<App />}></Route>
       </Routes>
